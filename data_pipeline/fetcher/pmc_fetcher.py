@@ -26,7 +26,7 @@ from config import (
     METADATA_DIR, FULLTEXT_DIR,
     REQUEST_INTERVAL,
 )
-from data_pipeline.storage.progress import ProgressTracker
+from data_pipeline.storage.raw.progress import ProgressTracker
 
 logger = logging.getLogger(__name__)
 

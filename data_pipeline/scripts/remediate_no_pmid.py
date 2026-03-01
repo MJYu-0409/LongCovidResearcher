@@ -1,4 +1,5 @@
 """
+初始化临时执行文件
 补救脚本：找出无 PMID 的 metadata，从 fetched 中移除并删除文件，便于重新拉取。
 运行前请备份 progress.json 和 metadata 目录。
 """

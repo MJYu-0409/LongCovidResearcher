@@ -50,3 +50,9 @@ REQUEST_INTERVAL = 0.15   # seconds between requests
 # 测试模式：True 时只拉取前 N 篇，验证完毕后改为 False 跑全量
 TEST_MODE = False
 TEST_LIMIT = 10
+
+# 数据库配置
+DATABASE_URL: str = os.getenv("DATABASE_URL", "")
+
+# 排除的论文类型(可扩充)
+EXCLUDED_ARTICLE_TYPES = {"Erratum", "Published Erratum", "Retraction of Publication"}
