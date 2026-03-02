@@ -56,3 +56,8 @@ DATABASE_URL: str = os.getenv("DATABASE_URL", "")
 
 # 排除的论文类型(可扩充)
 EXCLUDED_ARTICLE_TYPES = {"Erratum", "Published Erratum", "Retraction of Publication"}
+
+OPENAI_API_KEY: str = os.getenv("OPENAI_API_KEY", "")
+QDRANT_URL: str = os.getenv("QDRANT_URL", "http://localhost:6333")
+QDRANT_API_KEY: str = os.getenv("QDRANT_API_KEY", "")
+QDRANT_COLLECTION: str = "longcovid_papers"
