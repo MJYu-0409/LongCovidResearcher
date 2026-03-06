@@ -15,6 +15,8 @@ data_pipeline/processor/xml_parser.py
   - 跳过 <ref-list>（参考文献，噪音）
   - 表格只保留 caption，图片只保留 caption
   - 过滤空文本和过短文本（< 20 字符）
+  - <list> 节点（bullet/ordered）每条 list-item 独立提取，支持嵌套多级列表
+  - <p> 内嵌 <list> 时，分离前导文本与列表项，避免 itertext() 拼接乱码
 """
 
 from __future__ import annotations
@@ -44,21 +46,80 @@ def _clean_text(node) -> str:
     return " ".join("".join(node.itertext()).split()).strip()
 
 
-def _get_title(sec_node) -> str:
-    """提取 <sec> 的直接子 <title> 文本，找不到返回空字符串。"""
-    # 兼容带命名空间和不带命名空间的格式
-    for tag in ("title", f"{{{_NS}}}title"):
-        title_el = sec_node.find(tag)
-        if title_el is not None:
-            return _clean_text(title_el)
-    # 通用查找
-    title_el = sec_node.find("title")
-    return _clean_text(title_el) if title_el is not None else ""
-
-
 def _should_skip_section(title: str) -> bool:
     """判断该 section 是否应该跳过。"""
     return title.lower().strip() in _SKIP_SECTIONS
+
+
+def _extract_list(list_node, section_title: str) -> list[dict]:
+    """
+    递归提取 <list> 节点下所有 <list-item> 的文本。
+    支持嵌套多级列表（list-item 内还有 list）。
+    每个 list-item 的所有 <p> 合并为一条 paragraph 记录。
+    """
+    results = []
+    for item in list_node:
+        item_tag = item.tag.split("}")[-1] if "}" in item.tag else item.tag
+        if item_tag != "list-item":
+            continue
+
+        texts = []
+        sub_results = []
+        for child in item:
+            child_tag = child.tag.split("}")[-1] if "}" in child.tag else child.tag
+            if child_tag == "p":
+                extracted = _extract_paragraph(child, section_title)
+                for e in extracted:
+                    if e["type"] == "paragraph":
+                        texts.append(e["text"])
+                    else:
+                        sub_results.append(e)
+            elif child_tag == "list":
+                sub_results.extend(_extract_list(child, section_title))
+
+        combined = " ".join(texts)
+        if len(combined) >= _MIN_TEXT_LEN:
+            results.append({
+                "section": section_title,
+                "text":    combined,
+                "type":    "paragraph",
+            })
+        results.extend(sub_results)
+
+    return results
+
+
+def _extract_paragraph(p_node, section_title: str) -> list[dict]:
+    """
+    处理单个 <p> 节点，兼容两种情况：
+      1. 普通 <p>：直接提取全部文本。
+      2. <p> 内嵌套 <list>（Cochrane 等文献常见）：
+         前导文本单独保留，内嵌 <list> 交给 _extract_list 处理。
+    避免 itertext() 把 list-item 文本无分隔地拼成乱码。
+    """
+    has_inner_list = any(
+        (c.tag.split("}")[-1] if "}" in c.tag else c.tag) == "list"
+        for c in p_node
+    )
+
+    if not has_inner_list:
+        text = _clean_text(p_node)
+        if len(text) >= _MIN_TEXT_LEN:
+            return [{"section": section_title, "text": text, "type": "paragraph"}]
+        return []
+
+    # <p> 内嵌 <list>：先取前导文字，再递归处理 list
+    results = []
+    leading = (p_node.text or "").strip()
+    if len(leading) >= _MIN_TEXT_LEN:
+        results.append({"section": section_title, "text": leading, "type": "paragraph"})
+
+    for child in p_node:
+        child_tag = child.tag.split("}")[-1] if "}" in child.tag else child.tag
+        if child_tag == "list":
+            results.extend(_extract_list(child, section_title))
+
+    return results
 
 
 def _extract_section(sec_node, parent_title: str = "") -> list[dict]:
@@ -77,46 +138,41 @@ def _extract_section(sec_node, parent_title: str = "") -> list[dict]:
         return []
 
     for child in sec_node:
-        tag = child.tag.split("}")[-1] if "}" in child.tag else child.tag  # 去掉命名空间
+        tag = child.tag.split("}")[-1] if "}" in child.tag else child.tag
 
         if tag == "title":
             continue  # 已处理
 
         elif tag == "p":
-            text = _clean_text(child)
-            if len(text) >= _MIN_TEXT_LEN:
-                results.append({
-                    "section": section_title,
-                    "text": text,
-                    "type": "paragraph",
-                })
+            results.extend(_extract_paragraph(child, section_title))
 
         elif tag == "sec":
-            # 递归处理子 section
             results.extend(_extract_section(child, parent_title=section_title))
 
+        elif tag == "list":
+            # <sec> 下直接挂的 <list>（bullet/ordered list 作为正文结构）
+            results.extend(_extract_list(child, section_title))
+
         elif tag == "table-wrap":
-            # 只保留表格 caption
             caption_el = child.find("caption")
             if caption_el is not None:
                 text = _clean_text(caption_el)
                 if len(text) >= _MIN_TEXT_LEN:
                     results.append({
                         "section": section_title,
-                        "text": text,
-                        "type": "table_caption",
+                        "text":    text,
+                        "type":    "table_caption",
                     })
 
         elif tag == "fig":
-            # 只保留图片 caption
             caption_el = child.find("caption")
             if caption_el is not None:
                 text = _clean_text(caption_el)
                 if len(text) >= _MIN_TEXT_LEN:
                     results.append({
                         "section": section_title,
-                        "text": text,
-                        "type": "figure_caption",
+                        "text":    text,
+                        "type":    "figure_caption",
                     })
 
     return results
@@ -143,15 +199,12 @@ def parse_fulltext_xml(xml_path: Path) -> list[dict]:
         logger.warning("文件读取失败 %s: %s", xml_path.name, e)
         return []
 
-    results = []
-
-    # 找到 <body>，遍历其下所有顶级 <sec>
-    # 兼容 <article><body> 和 <pmc-articleset><article><body> 两种结构
     body = root.find(".//body")
     if body is None:
         logger.debug("未找到 <body> 节点: %s", xml_path.name)
         return []
 
+    results = []
     for sec in body:
         tag = sec.tag.split("}")[-1] if "}" in sec.tag else sec.tag
         if tag == "sec":

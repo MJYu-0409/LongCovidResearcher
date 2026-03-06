@@ -31,7 +31,7 @@ from config import PROGRESS_FILE, FULLTEXT_DIR, TEST_MODE, TEST_LIMIT
 from data_pipeline.fetcher.pmc_search import search_pmcids
 from data_pipeline.fetcher.pmc_fetcher import fetch_all
 from data_pipeline.storage.raw.progress import ProgressTracker
-from data_pipeline.storage.postgres.db import create_tables, insert_papers
+from data_pipeline.storage.postgres.db import create_tables, insert_papers, fetch_meta_by_pmcids
 from data_pipeline.processor.metadata_parser import parse_metadata
 from data_pipeline.processor.xml_parser import parse_fulltext_xml
 from data_pipeline.processor.chunker import chunk_fulltext
@@ -103,7 +103,7 @@ def run_process_meta():
         embed_chunks(result.abstract_chunks)
         upsert_chunks(result.abstract_chunks)
         # 记录摘要向量化失败的 PMCID，便于只重试这批
-        failed_abstract = list({c["pmcid"] for c in result.abstract_chunks if c.get("embedding") is None})
+        failed_abstract = list({c["pmcid"] for c in result.abstract_chunks if c.get("dense_embedding") is None or c.get("sparse_embedding") is None})
         if failed_abstract:
             tracker = ProgressTracker(PROGRESS_FILE)
             tracker.mark_abstract_embed_failed(failed_abstract)
@@ -119,14 +119,13 @@ def run_process_meta():
 # Stage 3
 # ══════════════════════════════════════════════════════════════
 
-def run_process_fulltext():
+def _process_fulltext_files(xml_files: list, meta_map: dict[str, dict], label: str):
     """
-    遍历 raw/fulltext XML，解析 → 切分 → 批量向量化 → 写入 Qdrant。
-    每篇独立处理，失败不影响其他篇。
+    内部辅助：遍历 xml_files，解析 → 切分 → 补 metadata → 向量化 → 写入 Qdrant。
+    meta_map: {pmcid: {"pub_year": ..., "journal": ...}}
+    label:    日志前缀，区分首次运行和重建
     """
-    xml_files = sorted(FULLTEXT_DIR.glob("*.xml"))
     total = len(xml_files)
-    logger.info("Stage 3 开始：共 %d 篇全文", total)
     tracker = ProgressTracker(PROGRESS_FILE)
 
     for i, xml_path in enumerate(xml_files, 1):
@@ -142,18 +141,40 @@ def run_process_fulltext():
             logger.debug("[%d/%d] %s chunk 为空，跳过", i, total, pmcid)
             continue
 
+        # 补入 pub_year / journal（从 Postgres 预取）
+        paper_meta = meta_map.get(pmcid, {"pub_year": "", "journal": ""})
+        for chunk in chunks:
+            chunk["pub_year"] = paper_meta["pub_year"]
+            chunk["journal"]  = paper_meta["journal"]
+
         embed_chunks(chunks)
         upsert_chunks(chunks)
-        # 记录全文向量化失败的 PMCID（该篇下任一 chunk 失败即记录）
-        failed_chunks = [c for c in chunks if c.get("embedding") is None]
-        if failed_chunks:
+
+        failed = [c for c in chunks if c.get("dense_embedding") is None
+                                    or c.get("sparse_embedding") is None]
+        if failed:
             tracker.mark_fulltext_embed_failed([pmcid])
-            logger.warning("%s 全文向量化失败 %d 个 chunk，已写入 progress.fulltext_embed_failed_pmcids", pmcid, len(failed_chunks))
+            logger.warning("%s 向量化失败 %d 个 chunk", pmcid, len(failed))
 
         if i % 50 == 0:
-            logger.info("Stage 3 进度：%d / %d", i, total)
+            logger.info("%s 进度：%d / %d", label, i, total)
 
-    logger.info("Stage 3 完成")
+    logger.info("%s 完成，共处理 %d 篇", label, total)
+
+
+def run_process_fulltext():
+    """
+    Stage 3：遍历 raw/fulltext XML，解析 → 切分 → 向量化 → 写入 Qdrant。
+    每篇独立处理，失败不影响其他篇。fulltext chunk 同时携带 pub_year / journal。
+    """
+    xml_files = sorted(FULLTEXT_DIR.glob("*.xml"))
+    logger.info("Stage 3 开始：共 %d 篇全文", len(xml_files))
+
+    pmcids = [f.stem for f in xml_files]
+    meta_map = fetch_meta_by_pmcids(pmcids)
+    logger.info("已从 PostgreSQL 预取 %d 篇 metadata", len(meta_map))
+
+    _process_fulltext_files(xml_files, meta_map, label="Stage 3")
 
 
 # ══════════════════════════════════════════════════════════════

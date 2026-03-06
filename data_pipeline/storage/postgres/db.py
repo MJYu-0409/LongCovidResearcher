@@ -7,7 +7,7 @@ from __future__ import annotations
 
 import logging
 
-from sqlalchemy import MetaData, Table, Column, String, Text, Date, create_engine
+from sqlalchemy import MetaData, Table, Column, String, Text, Date, create_engine, select
 from sqlalchemy.dialects.postgresql import ARRAY, insert
 
 from config import DATABASE_URL
@@ -22,7 +22,6 @@ papers = Table(
     Column("pmid", String(20)),
     Column("doi", Text()),
     Column("title", Text(), nullable=False),
-    # Column("abstract", Text()),
     Column("authors", ARRAY(Text())),
     Column("journal", Text()),
     Column("pub_year", String(4)),
@@ -45,7 +44,7 @@ def create_tables(engine=None):
 
 def insert_papers(records: list[dict]) -> int:
     """
-    将 records（来自 metadata_parser.parse_metadata_records_for_db）写入表 papers。
+    将 records（来自 metadata_parser.parse_metadata()的db_records）写入表 papers。
     ON CONFLICT (pmcid) DO UPDATE，重复运行幂等。返回写入/更新的行数。
     """
     if not DATABASE_URL:
@@ -64,7 +63,6 @@ def insert_papers(records: list[dict]) -> int:
                     "pmid": row["pmid"],
                     "doi": row["doi"],
                     "title": row["title"],
-                    # "abstract": row["abstract"],
                     "authors": row["authors"],
                     "journal": row["journal"],
                     "pub_year": row["pub_year"],
@@ -79,6 +77,34 @@ def insert_papers(records: list[dict]) -> int:
             count += 1
         conn.commit()
     return count
+
+
+def fetch_meta_by_pmcids(pmcids: list[str]) -> dict[str, dict]:
+    """
+    从 papers 表批量读取 pub_year / journal。
+    返回 {pmcid: {"pub_year": str, "journal": str}}。
+    找不到的 pmcid 以空字符串占位，保证调用方无需判断 key 是否存在。
+    """
+    if not DATABASE_URL:
+        raise ValueError("config.DATABASE_URL 未配置")
+    if not pmcids:
+        return {}
+
+    engine = create_engine(DATABASE_URL)
+    with engine.connect() as conn:
+        rows = conn.execute(
+            select(papers.c.pmcid, papers.c.pub_year, papers.c.journal)
+            .where(papers.c.pmcid.in_(pmcids))
+        ).fetchall()
+
+    result = {row.pmcid: {"pub_year": row.pub_year or "", "journal": row.journal or ""}
+              for row in rows}
+
+    # 找不到的 pmcid 补空占位
+    for pmcid in pmcids:
+        result.setdefault(pmcid, {"pub_year": "", "journal": ""})
+
+    return result
 
 
 if __name__ == "__main__":
