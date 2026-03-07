@@ -18,27 +18,19 @@ from typing import Optional
 from qdrant_client import QdrantClient
 from qdrant_client.models import (
     Distance,
-    FieldCondition,
-    Filter,
-    MatchValue,
     PointStruct,
     SparseVector,
     SparseVectorParams,
     VectorParams,
 )
 
-from config import QDRANT_URL, QDRANT_API_KEY, QDRANT_COLLECTION
+from config import QDRANT_COLLECTION
+from infra.clients import get_qdrant_client
 
 logger = logging.getLogger(__name__)
 
 DENSE_DIM  = 1536
 BATCH_SIZE = 100
-
-
-def _get_client() -> QdrantClient:
-    if not QDRANT_URL:
-        raise ValueError("QDRANT_URL 未配置")
-    return QdrantClient(url=QDRANT_URL, api_key=QDRANT_API_KEY or None)
 
 
 def _make_point_id(pmcid: str, source_type: str, section: str, chunk_index: int) -> str:
@@ -53,7 +45,7 @@ def ensure_collection(client: Optional[QdrantClient] = None):
     确保集合存在，不存在则创建（同时配置稠密+稀疏向量）。
     已存在时不做任何修改，幂等。
     """
-    c = client or _get_client()
+    c = client or get_qdrant_client()
     existing = [col.name for col in c.get_collections().collections]
     if QDRANT_COLLECTION in existing:
         logger.info("集合 %s 已存在，跳过创建", QDRANT_COLLECTION)
@@ -77,7 +69,7 @@ def upsert_chunks(chunks: list[dict], client: Optional[QdrantClient] = None):
     dense_embedding 或 sparse_embedding 为 None 的条目自动跳过。
     upsert 语义：有则更新，无则插入，重复运行幂等。
     """
-    c = client or _get_client()
+    c = client or get_qdrant_client()
     ensure_collection(c)
 
     valid = [

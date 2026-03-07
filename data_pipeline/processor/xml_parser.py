@@ -205,10 +205,44 @@ def parse_fulltext_xml(xml_path: Path) -> list[dict]:
         return []
 
     results = []
-    for sec in body:
-        tag = sec.tag.split("}")[-1] if "}" in sec.tag else sec.tag
+    for child in body:
+        tag = child.tag.split("}")[-1] if "}" in child.tag else child.tag
+
         if tag == "sec":
-            results.extend(_extract_section(sec))
+            # 标准结构：body → sec → p
+            results.extend(_extract_section(child))
+
+        elif tag == "p":
+            # 无 sec 结构（编辑信、评论等短篇）：body 直接挂 p
+            results.extend(_extract_paragraph(child, "body"))
+
+        elif tag == "list":
+            # 无 sec 结构：body 直接挂 list
+            results.extend(_extract_list(child, "body"))
+
+        elif tag == "fig":
+            # 无 sec 结构：body 直接挂 fig
+            caption_el = child.find("caption")
+            if caption_el is not None:
+                text = _clean_text(caption_el)
+                if len(text) >= _MIN_TEXT_LEN:
+                    results.append({
+                        "section": "body",
+                        "text":    text,
+                        "type":    "figure_caption",
+                    })
+
+        elif tag == "table-wrap":
+            # 无 sec 结构：body 直接挂 table-wrap
+            caption_el = child.find("caption")
+            if caption_el is not None:
+                text = _clean_text(caption_el)
+                if len(text) >= _MIN_TEXT_LEN:
+                    results.append({
+                        "section": "body",
+                        "text":    text,
+                        "type":    "table_caption",
+                    })
 
     if not results:
         logger.debug("未提取到任何段落: %s", xml_path.name)

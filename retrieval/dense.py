@@ -9,28 +9,17 @@ from __future__ import annotations
 import logging
 from typing import Optional
 
-from openai import OpenAI
-from qdrant_client import QdrantClient
-from qdrant_client.models import Filter, SearchRequest
+from qdrant_client.models import Filter, FieldCondition, MatchValue
 
-from config import OPENAI_API_KEY, QDRANT_URL, QDRANT_API_KEY, QDRANT_COLLECTION
+from config import QDRANT_COLLECTION, DENSE_MODEL
+from infra.clients import get_openai_client, get_qdrant_client
 
 logger = logging.getLogger(__name__)
-
-DENSE_MODEL = "text-embedding-3-small"
-
-
-def _get_openai_client() -> OpenAI:
-    return OpenAI(api_key=OPENAI_API_KEY)
-
-
-def _get_qdrant_client() -> QdrantClient:
-    return QdrantClient(url=QDRANT_URL, api_key=QDRANT_API_KEY or None)
 
 
 def embed_query(query: str) -> list[float]:
     """将 Query 文本向量化，返回稠密向量。"""
-    client = _get_openai_client()
+    client = get_openai_client()
     response = client.embeddings.create(model=DENSE_MODEL, input=[query])
     return response.data[0].embedding
 
@@ -52,14 +41,20 @@ def dense_search(
     Returns:
         list[dict]，每条包含 score / payload（pmcid/text/section 等）
     """
-    qdrant = _get_qdrant_client()
+    qdrant = get_qdrant_client()
     query_vector = embed_query(query)
 
-    qdrant_filter = _build_filter(filters) if filters else None
+    qdrant_filter = None
+    if filters:
+        qdrant_filter = Filter(must=[
+            FieldCondition(key=k, match=MatchValue(value=v))
+            for k, v in filters.items()
+        ])
 
-    results = qdrant.search(
+    response = qdrant.query_points(
         collection_name=QDRANT_COLLECTION,
-        query_vector=("dense", query_vector),
+        query=query_vector,
+        using="dense",
         query_filter=qdrant_filter,
         limit=top_k,
         with_payload=True,
@@ -69,17 +64,7 @@ def dense_search(
         {
             "id":      str(hit.id),
             "score":   hit.score,
-            "payload": hit.payload,
+            "payload": hit.payload or {},
         }
-        for hit in results
+        for hit in response.points
     ]
-
-
-def _build_filter(filters: dict) -> Filter:
-    """把简单 key-value dict 转成 Qdrant Filter 对象。"""
-    from qdrant_client.models import FieldCondition, MatchValue, Filter as QFilter
-    conditions = [
-        FieldCondition(key=k, match=MatchValue(value=v))
-        for k, v in filters.items()
-    ]
-    return QFilter(must=conditions)

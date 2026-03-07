@@ -38,11 +38,6 @@ from data_pipeline.processor.chunker import chunk_fulltext
 from data_pipeline.processor.embedder import embed_chunks
 from data_pipeline.storage.qdrant.db import upsert_chunks
 
-logging.basicConfig(
-    level=logging.INFO,
-    format="%(asctime)s [%(levelname)s] %(name)s: %(message)s",
-    datefmt="%H:%M:%S",
-)
 logger = logging.getLogger(__name__)
 
 PMCID_CACHE_FILE = PROGRESS_FILE.parent / "pmcid_list.json"
@@ -166,9 +161,12 @@ def run_process_fulltext():
     """
     Stage 3：遍历 raw/fulltext XML，解析 → 切分 → 向量化 → 写入 Qdrant。
     每篇独立处理，失败不影响其他篇。fulltext chunk 同时携带 pub_year / journal。
+
+    依赖：必须先执行 run_process_meta()，确保 papers 表存在且有数据；
+    否则 fetch_meta_by_pmcids 会报错（表不存在）或返回空元数据（表为空）。
     """
     xml_files = sorted(FULLTEXT_DIR.glob("*.xml"))
-    logger.info("Stage 3 开始：共 %d 篇全文", len(xml_files))
+    logger.info("Stage 3 开始：共 %d 篇全文（依赖 Stage 2 已执行，papers 表需存在）", len(xml_files))
 
     pmcids = [f.stem for f in xml_files]
     meta_map = fetch_meta_by_pmcids(pmcids)
@@ -189,4 +187,6 @@ def run():
 
 
 if __name__ == "__main__":
+    from infra import configure_logging
+    configure_logging()
     run()

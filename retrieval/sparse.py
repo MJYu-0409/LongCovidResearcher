@@ -11,14 +11,13 @@ import logging
 from typing import Optional
 
 from fastembed import SparseTextEmbedding
-from qdrant_client import QdrantClient
-from qdrant_client.models import SparseVector, NamedSparseVector
+from qdrant_client.models import SparseVector
+from qdrant_client.models import Filter, FieldCondition, MatchValue
 
-from config import QDRANT_URL, QDRANT_API_KEY, QDRANT_COLLECTION
+from config import QDRANT_COLLECTION, SPARSE_MODEL
+from infra.clients import get_qdrant_client
 
 logger = logging.getLogger(__name__)
-
-SPARSE_MODEL = "prithivida/Splade_PP_en_v1"
 
 _sparse_model: Optional[SparseTextEmbedding] = None
 
@@ -28,10 +27,6 @@ def _get_sparse_model() -> SparseTextEmbedding:
     if _sparse_model is None:
         _sparse_model = SparseTextEmbedding(model_name=SPARSE_MODEL)
     return _sparse_model
-
-
-def _get_qdrant_client() -> QdrantClient:
-    return QdrantClient(url=QDRANT_URL, api_key=QDRANT_API_KEY or None)
 
 
 def embed_query_sparse(query: str) -> SparseVector:
@@ -60,10 +55,9 @@ def sparse_search(
     Returns:
         list[dict]，每条包含 score / payload
     """
-    qdrant = _get_qdrant_client()
+    qdrant = get_qdrant_client()
     query_vector = embed_query_sparse(query)
 
-    from qdrant_client.models import Filter, FieldCondition, MatchValue
     qdrant_filter = None
     if filters:
         qdrant_filter = Filter(must=[
@@ -71,9 +65,10 @@ def sparse_search(
             for k, v in filters.items()
         ])
 
-    results = qdrant.search(
+    response = qdrant.query_points(
         collection_name=QDRANT_COLLECTION,
-        query_vector=NamedSparseVector(name="sparse", vector=query_vector),
+        query=query_vector,
+        using="sparse",
         query_filter=qdrant_filter,
         limit=top_k,
         with_payload=True,
@@ -83,7 +78,7 @@ def sparse_search(
         {
             "id":      str(hit.id),
             "score":   hit.score,
-            "payload": hit.payload,
+            "payload": hit.payload or {},
         }
-        for hit in results
+        for hit in response.points
     ]

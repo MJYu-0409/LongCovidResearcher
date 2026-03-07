@@ -17,10 +17,9 @@ from typing import Optional
 
 from sentence_transformers import CrossEncoder
 
-logger = logging.getLogger(__name__)
+from config import RERANK_MODEL
 
-# ms-marco 是专门为段落相关性排序训练的模型，适合 RAG 场景
-RERANK_MODEL = "cross-encoder/ms-marco-MiniLM-L-6-v2"
+logger = logging.getLogger(__name__)
 
 _rerank_model: Optional[CrossEncoder] = None
 
@@ -59,9 +58,17 @@ def rerank(
     pairs = [(query, hit["payload"].get("text", "")) for hit in hits]
     scores = model.predict(pairs)
 
-    # 把分数写回 hit，排序后取 Top-N
-    for hit, score in zip(hits, scores):
-        hit["rerank_score"] = float(score)
+    # # 把分数写回 hit，排序后取 Top-N
+    # for hit, score in zip(hits, scores):
+    #     hit["rerank_score"] = float(score)
 
-    ranked = sorted(hits, key=lambda x: x["rerank_score"], reverse=True)
+    # ranked = sorted(hits, key=lambda x: x["rerank_score"], reverse=True)
+    # return ranked[:top_n]
+
+    # 为每条 hit 建浅拷贝并写入 rerank_score，不修改传入的 hits
+    ranked = [
+        {**hit, "rerank_score": float(score)}
+        for hit, score in zip(hits, scores)
+    ]
+    ranked.sort(key=lambda x: x["rerank_score"], reverse=True)
     return ranked[:top_n]

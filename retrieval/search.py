@@ -41,11 +41,13 @@ def search(
           - payload.journal
           - rerank_score
     """
+    if not (query or "").strip():
+        return []
     candidates = hybrid_search(query, top_k=top_k, filters=filters)
     results    = rerank(query, candidates, top_n=top_n)
 
     logger.info(
         "检索完成：query='%s'，召回 %d 条，Reranking 后 %d 条",
-        query[:50], len(candidates), len(results),
+        (query or "")[:50], len(candidates), len(results),
     )
     return results

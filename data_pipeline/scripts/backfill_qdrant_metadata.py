@@ -1,29 +1,28 @@
 """
 补救 Qdrant：把 abstract 点的 pub_year、journal 填到同 pmcid 的 fulltext 点里。
-在项目根目录执行：python scripts/backfill_qdrant_metadata.py
+在项目根目录执行：python data_pipeline/scripts/backfill_qdrant_metadata.py
 """
+from __future__ import annotations
+
+import sys
 from collections import defaultdict
+from pathlib import Path
 
-from qdrant_client import QdrantClient
 from qdrant_client.models import Filter, FieldCondition, MatchValue
-import sys
-from pathlib import Path
-
-import sys
-from pathlib import Path
 
 # 把项目根目录加入 path，便于从任意位置运行脚本
 _root = Path(__file__).resolve().parent.parent.parent
 sys.path.insert(0, str(_root))
 
-from config import QDRANT_URL, QDRANT_API_KEY, QDRANT_COLLECTION
+from config import QDRANT_COLLECTION
+from infra.clients import get_qdrant_client
 
 COLLECTION = QDRANT_COLLECTION
 BATCH = 500
 
 
 def main():
-    client = QdrantClient(url=QDRANT_URL, api_key=QDRANT_API_KEY or None)
+    client = get_qdrant_client()
 
     # 1) 扫 abstract，建 pmcid -> (pub_year, journal)
     meta_by_pmcid = {}

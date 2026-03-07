@@ -61,3 +61,9 @@ OPENAI_API_KEY: str = os.getenv("OPENAI_API_KEY", "")
 QDRANT_URL: str = os.getenv("QDRANT_URL", "http://localhost:6333")
 QDRANT_API_KEY: str = os.getenv("QDRANT_API_KEY", "")
 QDRANT_COLLECTION: str = "longcovid_papers"
+
+# 向量模型（写入 pipeline 与检索 retrieval 共用，必须一致）
+DENSE_MODEL: str = "text-embedding-3-small"
+SPARSE_MODEL: str = "prithivida/Splade_PP_en_v1"
+# Rerank 模型（Cross-Encoder，用于检索结果精排）
+RERANK_MODEL: str = "cross-encoder/ms-marco-MiniLM-L-6-v2"

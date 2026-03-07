@@ -1,17 +1,15 @@
 """
-初始化临时执行文件
-补救脚本：找出无 PMID 的 metadata，从 fetched 中移除并删除文件，便于重新拉取。
+补救脚本：找出无 PMID 的 metadata，从 fetched 中移除并加入 no_pmid，便于重新拉取。
 运行前请备份 progress.json 和 metadata 目录。
+在项目根目录执行：python -m data_pipeline.scripts.remediate_no_pmid
 """
-from pathlib import Path
+from __future__ import annotations
+
 import json
+
+from config import METADATA_DIR, PROGRESS_FILE
 from data_pipeline.fetcher.pmc_fetcher import fulltext_exists, metadata_exists
 
-
-RAW_DIR = Path(__file__).parent.parent / "storage" / "raw"
-METADATA_DIR = RAW_DIR / "metadata"
-FULLTEXT_DIR = RAW_DIR / "fulltext"
-PROGRESS_FILE = RAW_DIR / "progress.json"
 
 def main():
     # 1. 扫描 metadata，找出无 PMID 的

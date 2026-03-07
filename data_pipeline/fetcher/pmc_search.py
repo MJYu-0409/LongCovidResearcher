@@ -54,6 +54,10 @@ def search_pmcids() -> list[str]:
     data = resp.json()["esearchresult"]
 
     total_count = int(data["count"])
+    if total_count == 0:
+        logger.info("未找到符合条件的文章")
+        return []
+
     web_env = data["webenv"]
     query_key = data["querykey"]
 

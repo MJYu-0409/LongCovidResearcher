@@ -15,23 +15,16 @@ from typing import Optional
 from openai import OpenAI
 from fastembed import SparseTextEmbedding
 
-from config import OPENAI_API_KEY
+from config import DENSE_MODEL, SPARSE_MODEL
+from infra.clients import get_openai_client
 
 logger = logging.getLogger(__name__)
 
-DENSE_MODEL  = "text-embedding-3-small"
-SPARSE_MODEL = "prithivida/Splade_PP_en_v1"
 BATCH_SIZE   = 200
 MAX_RETRIES  = 3
 BACKOFF_BASE = 2.0
 
 _sparse_model: Optional[SparseTextEmbedding] = None
-
-
-def _get_openai_client() -> OpenAI:
-    if not OPENAI_API_KEY:
-        raise ValueError("OPENAI_API_KEY 未配置")
-    return OpenAI(api_key=OPENAI_API_KEY)
 
 
 def _get_sparse_model() -> SparseTextEmbedding:
@@ -85,7 +78,7 @@ def embed_chunks(chunks: list[dict]) -> list[dict]:
     if not chunks:
         return chunks
 
-    client = _get_openai_client()
+    client = get_openai_client()
     texts  = [c["text"] for c in chunks]
     total  = len(texts)
     logger.info("开始向量化，共 %d 条", total)
