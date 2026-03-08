@@ -57,7 +57,14 @@ DATABASE_URL: str = os.getenv("DATABASE_URL", "")
 # 排除的论文类型(可扩充)
 EXCLUDED_ARTICLE_TYPES = {"Erratum", "Published Erratum", "Retraction of Publication"}
 
+# OpenAI
 OPENAI_API_KEY: str = os.getenv("OPENAI_API_KEY", "")
+# Qwen
+QWEN_API_KEY: str = os.getenv("QWEN_API_KEY", "")
+QWEN_API_BASE: str = "https://dashscope.aliyuncs.com/compatible-mode/v1"
+QWEN_MODEL: str = "qwen-plus"   # 或 qwen-max
+
+# Qdrant（向量化写入与检索共用，必须一致）
 QDRANT_URL: str = os.getenv("QDRANT_URL", "http://localhost:6333")
 QDRANT_API_KEY: str = os.getenv("QDRANT_API_KEY", "")
 QDRANT_COLLECTION: str = "longcovid_papers"
@@ -65,5 +72,6 @@ QDRANT_COLLECTION: str = "longcovid_papers"
 # 向量模型（写入 pipeline 与检索 retrieval 共用，必须一致）
 DENSE_MODEL: str = "text-embedding-3-small"
 SPARSE_MODEL: str = "prithivida/Splade_PP_en_v1"
+
 # Rerank 模型（Cross-Encoder，用于检索结果精排）
 RERANK_MODEL: str = "cross-encoder/ms-marco-MiniLM-L-6-v2"
