@@ -47,49 +47,59 @@ User Query
 ## Project Structure
 
 ```
-├── config.py                     # API keys, paths, constants
-├── main.py                       # Entry point
+├── config.py                     # 配置集中管理（环境变量 / .env）
+├── main.py                       # 入口：configure_logging + pipeline.run()
+├── .env.example                  # 环境变量示例（复制为 .env 后填写）
+│
+├── infra/
+│   ├── clients.py               # get_openai_client, get_qdrant_client, get_pg_engine
+│   └── logging_config.py         # configure_logging（入口处调用）
 │
 ├── data_pipeline/
 │   ├── processor/
-│   │   ├── xml_parser.py         # PMC JATS XML → structured paragraphs
-│   │   ├── chunker.py            # Paragraphs → token-bounded chunks
-│   │   ├── embedder.py           # Dense + sparse embedding
-│   │   └── metadata_parser.py   # Extract paper metadata
+│   │   ├── xml_parser.py         # PMC JATS XML → 结构化段落
+│   │   ├── chunker.py            # 段落 → 按 section 的 token 边界 chunk
+│   │   ├── embedder.py           # Dense + sparse 向量化
+│   │   └── metadata_parser.py   # 元数据解析
 │   ├── storage/
-│   │   ├── qdrant/db.py          # Qdrant upsert / collection management
-│   │   ├── postgres/db.py        # PostgreSQL read/write
-│   │   └── raw/progress.py       # Pipeline progress tracking
-│   └── pipeline.py               # Orchestrates all pipeline stages
+│   │   ├── qdrant/db.py          # Qdrant upsert / 集合管理
+│   │   ├── postgres/db.py        # PostgreSQL papers 表读写
+│   │   └── raw/                  # progress.json, metadata/, fulltext/
+│   │       └── progress.py       # 断点续跑进度
+│   ├── pipeline.py               # 三阶段：fetch_raw → process_meta → process_fulltext
+│   └── scripts/
+│       ├── reprocess_failed_fulltext.py  # 对 scan 报告 FAIL 的全文重新向量化
+│       ├── remediate_no_pmid.py          # 补救缺失 PMID
+│       └── backfill_qdrant_metadata.py   # 回填 Qdrant payload 元数据
 │
 ├── retrieval/
-│   ├── search.py                 # Public API: hybrid_search → rerank
-│   ├── hybrid.py                 # RRF fusion of dense + sparse
-│   ├── dense.py                  # Semantic search (OpenAI embeddings)
-│   ├── sparse.py                 # BM25 keyword search
-│   └── reranker.py               # Cross-encoder reranking
+│   ├── search.py                 # 对外入口：hybrid_search → rerank
+│   ├── hybrid.py                 # RRF 融合 dense + sparse
+│   ├── dense.py                  # 语义检索（OpenAI embedding + Qdrant query_points）
+│   ├── sparse.py                 # 稀疏检索（fastembed + Qdrant query_points）
+│   └── reranker.py               # Cross-encoder 精排（config: RERANK_MODEL）
 │
 ├── agent/
 │   ├── __init__.py               # from agent import run
 │   ├── state.py                  # AgentState (messages, retrieved_chunks, iteration_count)
-│   ├── graph.py                  # Build and compile LangGraph StateGraph
-│   ├── nodes.py                  # orchestrator_node, tools_node, should_continue
-│   ├── runner.py                 # Public API: run(user_input, history, retrieved_chunks)
+│   ├── graph.py                  # LangGraph StateGraph 构建与编译
+│   ├── nodes.py                  # orchestrator_node, tools_node_with_state_update, should_continue
+│   ├── runner.py                 # 对外 API: run(user_input, history, retrieved_chunks)
 │   └── tools/
-│       ├── __init__.py           # ALL_TOOLS list
-│       ├── search.py             # search_literature — wraps retrieval/search.py
-│       ├── paper.py              # get_paper_detail — PostgreSQL metadata lookup
-│       ├── sentiment.py          # analyze_sentiment — on-demand sentiment API call
-│       ├── synthesis.py          # synthesize_review — GPT-4o literature review
-│       └── qa.py                 # answer_question — Qwen factual Q&A
+│       ├── __init__.py           # ALL_TOOLS
+│       ├── search.py             # search_literature — 封装 retrieval.search，chunks 写 State
+│       ├── paper.py               # get_paper_detail — PostgreSQL 按 pmcid 查元数据
+│       ├── sentiment.py          # analyze_sentiment — 外部情感分析 API（需配置 URL）
+│       ├── qa.py                 # answer_question — Qwen 基于检索片段作答
+│       └── synthesis.py          # synthesize_review — GPT-4o 文献综述
 │
 └── eval/
-    ├── scan_parser_quality.py    # Batch XML parse quality audit
-    ├── step1_health_check.py     # Retrieval system sanity check
-    ├── step2_ablation.py         # Dense vs sparse vs hybrid vs rerank
-    ├── step3a_generate_queries.py # LLM-generated eval query set
-    ├── step3b_evaluate.py        # NDCG@5 / Recall@5 / MRR via ranx
-    └── output/                   # Eval results (gitignored)
+    ├── scan_parser_quality.py    # 批量 XML 解析质量扫描 → scan_report.json
+    ├── step1_health_check.py     # 检索健康检查（source/year 分布、空结果）
+    ├── step2_ablation.py        # 消融：dense / sparse / hybrid / hybrid+rerank
+    ├── step3a_generate_queries.py # 生成评测 query 集（需 GPT-4o）
+    ├── step3b_evaluate.py       # NDCG@5 / Recall@5 / MRR（ranx，需 pip install ranx）
+    └── output/                   # 评测输出（gitignored）
 ```
 
 ## Setup
@@ -100,34 +110,38 @@ User Query
 pip install -r requirements.txt
 ```
 
-Configure `config.py` (or environment variables):
+**可选依赖（按需安装）：**  
+- 检索 / Pipeline：`openai`, `qdrant-client`, `fastembed`, `sentence-transformers`  
+- Agent：`langgraph`, `langchain`, `langchain-openai`  
+- 评测 step3b：`ranx`
 
-```python
-OPENAI_API_KEY    = "..."
-QDRANT_URL        = "http://localhost:6333"
-QDRANT_API_KEY    = ""          # leave empty if local
-QDRANT_COLLECTION = "longcovid"
-POSTGRES_DSN      = "postgresql://user:pass@localhost/longcovid"
-FULLTEXT_DIR      = Path("data/raw/fulltext")
-```
+配置通过环境变量或 `.env`（项目根下复制 `.env.example` 为 `.env` 后填写）。与 `config.py` 对应关系：
+
+| 用途 | 变量名 | 说明 |
+|------|--------|------|
+| OpenAI（embedding / orchestrator / synthesis） | `OPENAI_API_KEY` | 必填 |
+| 千问（answer_question） | `QWEN_API_KEY` | Agent 用 Qwen 时必填 |
+| Qdrant | `QDRANT_URL`, `QDRANT_API_KEY` | 默认 `http://localhost:6333`，本地可空 |
+| 向量集合名 | — | `config.py` 内 `QDRANT_COLLECTION = "longcovid_papers"` |
+| PostgreSQL | `DATABASE_URL` | 连接串，如 `postgresql://user:pass@host/dbname` |
+| 数据路径 | — | `config.py` 内 `METADATA_DIR`, `FULLTEXT_DIR`, `PROGRESS_FILE` |
 
 ## Data Pipeline
 
-Run the three stages in order:
+三阶段需按顺序执行。`main.py` 仅调用 `pipeline.run()`；当前 `pipeline.run()` 默认只执行 Stage 3，如需跑全流程或单阶段，可在 `pipeline.run()` 中取消注释相应阶段，或直接：
 
 ```bash
-# Stage 1: Parse and store paper metadata
+# Stage 1：拉取 PMCID 列表并 EFetch 摘要与全文到 raw/
+python -c "from data_pipeline.pipeline import run_fetch_raw; run_fetch_raw()"
+
+# Stage 2：解析 metadata，写入 PostgreSQL，摘要向量化写入 Qdrant
 python -c "from data_pipeline.pipeline import run_process_meta; run_process_meta()"
 
-# Stage 2: Process and embed abstracts
-python -c "from data_pipeline.pipeline import run_process_abstracts; run_process_abstracts()"
-
-# Stage 3: Process and embed full-text XMLs
+# Stage 3：全文解析 → chunk → 向量化写入 Qdrant（依赖 Stage 2）
 python -c "from data_pipeline.pipeline import run_process_fulltext; run_process_fulltext()"
 ```
 
-Stage 3 depends on Stage 2 (PostgreSQL `papers` table must exist first).  
-Each stage is resumable — progress is tracked in a local file and failed papers are skipped without affecting others.
+Stage 3 依赖 Stage 2（PostgreSQL `papers` 表需已存在）。各阶段支持断点续跑，进度在 `config.PROGRESS_FILE`。
 
 ## Retrieval
 
@@ -196,17 +210,9 @@ r2 = run(
 | `answer_question` | Qwen | Factual Q&A grounded in retrieved chunks |
 | `synthesize_review` | GPT-4o | Structured literature review from accumulated chunks |
 
-**Additional config required in `config.py`:**
-
-```python
-# Qwen (used by answer_question)
-QWEN_API_KEY  = "..."
-QWEN_API_BASE = "https://dashscope.aliyuncs.com/compatible-mode/v1"
-QWEN_MODEL    = "qwen-plus"
-
-# Sentiment API (used by analyze_sentiment — replace with your endpoint)
-# Edit SENTIMENT_API_URL in agent/tools/sentiment.py
-```
+**Additional config:**  
+- Qwen：在 `.env` 或环境中设置 `QWEN_API_KEY`；`QWEN_API_BASE`、`QWEN_MODEL` 在 `config.py` 中已写。  
+- 情感分析：在 `agent/tools/sentiment.py` 中修改 `SENTIMENT_API_URL` 为实际接口地址。
 
 **Install agent dependencies:**
 
@@ -216,23 +222,25 @@ pip install langgraph langchain langchain-openai
 
 ## Evaluation
 
+建议在**项目根目录**下执行：
+
 ```bash
-# 1. Audit XML parse quality across all papers (~10 min, free)
+# 1. XML 解析质量扫描
 python eval/scan_parser_quality.py
 
-# 2. Sanity check: source type distribution, year distribution, diversity
+# 2. 检索健康检查
 python eval/step1_health_check.py
 
-# 3. Ablation: dense vs sparse vs hybrid vs hybrid+rerank
+# 3. 消融实验
 python eval/step2_ablation.py
 
-# 4. Generate LLM eval query set (~$5 GPT-4o, run once)
+# 4. 生成评测 query 集（需 GPT-4o）
 python eval/step3a_generate_queries.py --sample 50
 
-# 5. Quantitative evaluation with ranx (NDCG@5, Recall@5, MRR)
+# 5. 定量评测（需先安装 ranx）
 pip install ranx
-python eval/step3b_evaluate.py --fast   # dry run with known labels only
-python eval/step3b_evaluate.py          # full eval (~$2-3 GPT-4o-mini)
+python eval/step3b_evaluate.py --fast   # 小规模
+python eval/step3b_evaluate.py          # 完整评测
 ```
 
 Metrics computed by [ranx](https://github.com/AmenRa/ranx): NDCG@5, Recall@5, Precision@5, MRR.  
@@ -256,6 +264,8 @@ Relevance labels (0/1/2) are generated by GPT-4o-mini per (query, chunk) pair.
 
 ## Notes
 
-- `eval/output/` is gitignored — regenerate locally by running the eval scripts
-- Fulltext chunks include `pub_year` and `journal` metadata injected at pipeline time from PostgreSQL
-- The XML parser handles both standard JATS (`body → sec → p`) and unsectioned articles (`body → p` directly), which covers short-form papers like editorials and correspondence
+- `eval/output/` 为 gitignored，需本地运行评测脚本生成
+- 连接与日志：统一使用 `infra/clients.py`（OpenAI、Qdrant、PostgreSQL）、`infra/logging_config.py` 的 `configure_logging()` 在入口调用
+- 全文 chunk 在 pipeline 阶段从 PostgreSQL 注入 `pub_year`、`journal`
+- XML 解析支持标准 JATS（`body → sec → p`）与无 section 短文（`body → p` 直接），覆盖社论、通讯等
+- 评测与部分脚本需在**项目根目录**下运行，以保证 `eval/output`、`config` 等路径正确
