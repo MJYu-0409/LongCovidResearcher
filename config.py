@@ -75,3 +75,10 @@ SPARSE_MODEL: str = "prithivida/Splade_PP_en_v1"
 
 # Rerank 模型（Cross-Encoder，用于检索结果精排）
 RERANK_MODEL: str = "cross-encoder/ms-marco-MiniLM-L-6-v2"
+
+# 情感分析 API（摘要情绪分析，Agent 工具 analyze_sentiment 使用）
+# 单条：POST SENTIMENT_API_SINGLE  body: {"pmcid": str, "text": str}
+# 批量：POST SENTIMENT_API_BATCH   body: [{"pmcid": str, "text": str}, ...]
+SENTIMENT_API_SINGLE: str = os.getenv("SENTIMENT_API_SINGLE", "http://localhost:8000/predict")
+SENTIMENT_API_BATCH: str = os.getenv("SENTIMENT_API_BATCH", "http://localhost:8000/predict/batch")
+SENTIMENT_API_TIMEOUT: int = int(os.getenv("SENTIMENT_API_TIMEOUT", "30"))
