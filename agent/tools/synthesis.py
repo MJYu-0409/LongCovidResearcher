@@ -2,7 +2,7 @@
 agent/tools/synthesis.py
 
 工具五：synthesize_review
-调用 GPT-4o，将多篇文献综合生成结构化文献综述。
+使用 Qwen 将多篇文献综合生成结构化文献综述。
 只在 Orchestrator 判断信息收集充分时才触发，避免频繁调用。
 """
 
@@ -13,18 +13,13 @@ import logging
 from typing import Optional
 
 from langchain_core.tools import tool
-from langchain_openai import ChatOpenAI
 
-from config import OPENAI_API_KEY
+from infra.clients import get_qwen_chat_model
 
 logger = logging.getLogger(__name__)
 
-_gpt4o = ChatOpenAI(
-    model="gpt-4o",
-    api_key=OPENAI_API_KEY,
-    temperature=0.2,
-    max_tokens=3000,
-)
+# Qwen 单例（从 infra 统一入口获取）
+_synthesis_llm = get_qwen_chat_model(temperature=0.2, max_tokens=3000)
 
 _SYNTHESIS_SYSTEM = """你是 Long COVID 领域的资深综述专家。
 根据提供的文献片段，生成一篇结构清晰的学术综述。
@@ -96,7 +91,7 @@ def synthesize_review(
     ]
 
     try:
-        response = _gpt4o.invoke(messages)
+        response = _synthesis_llm.invoke(messages)
         review   = response.content
         logger.info("synthesize_review: topic='%s' → %d 字，使用 %d 个 chunk",
                     topic[:40], len(review), len(chunks))

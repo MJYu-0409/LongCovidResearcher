@@ -2,7 +2,7 @@
 agent/nodes.py
 
 LangGraph 节点定义：
-  - orchestrator_node：GPT-4o 决策，选择工具或结束
+  - orchestrator_node：Qwen 决策，选择工具或结束
   - tools_node：执行工具调用，并把检索结果写入 State
 """
 
@@ -13,24 +13,18 @@ import logging
 from typing import Literal
 
 from langchain_core.messages import AIMessage, ToolMessage
-from langchain_openai import ChatOpenAI
 from langgraph.prebuilt import ToolNode
 
 from agent.state import AgentState
 from agent.tools import ALL_TOOLS
-from config import OPENAI_API_KEY
+from infra.clients import get_qwen_chat_model
 
 logger = logging.getLogger(__name__)
 
 MAX_ITERATIONS = 5
 
-# GPT-4o Orchestrator，绑定所有工具
-_orchestrator_llm = ChatOpenAI(
-    model="gpt-4o",
-    api_key=OPENAI_API_KEY,
-    temperature=0,
-    max_tokens=1000,
-).bind_tools(ALL_TOOLS)
+# Orchestrator：Qwen 单例（从 infra 统一入口获取）
+_orchestrator_llm = get_qwen_chat_model(temperature=0, max_tokens=1000).bind_tools(ALL_TOOLS)
 
 _SYSTEM_PROMPT = """你是 Long COVID 学术研究助手，帮助研究人员、政策制定者和学生分析学术文献。
 

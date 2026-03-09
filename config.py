@@ -57,12 +57,12 @@ DATABASE_URL: str = os.getenv("DATABASE_URL", "")
 # 排除的论文类型(可扩充)
 EXCLUDED_ARTICLE_TYPES = {"Erratum", "Published Erratum", "Retraction of Publication"}
 
-# OpenAI
+# OpenAI：仅用于向量化（pipeline / retrieval 的 DENSE_MODEL），Agent 不用
 OPENAI_API_KEY: str = os.getenv("OPENAI_API_KEY", "")
-# Qwen
+# Qwen：Agent 全部使用（编排 + 问答 + 综述），模型 qwen3.5-plus
 QWEN_API_KEY: str = os.getenv("QWEN_API_KEY", "")
 QWEN_API_BASE: str = "https://dashscope.aliyuncs.com/compatible-mode/v1"
-QWEN_MODEL: str = "qwen-plus"   # 或 qwen-max
+QWEN_MODEL: str = os.getenv("QWEN_MODEL", "qwen3.5-plus")
 
 # Qdrant（向量化写入与检索共用，必须一致）
 QDRANT_URL: str = os.getenv("QDRANT_URL", "http://localhost:6333")

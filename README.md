@@ -1,194 +1,210 @@
 # Long COVID Researcher
 
-A RAG + Agent system for academic literature analysis on Long COVID, built on ~4,900 PMC open-access papers (2020–2026).
+> 基于 RAG + Agent 的 Long COVID 学术文献智能分析系统
 
-## Overview
+---
 
-**Target users:** Researchers, policymakers, graduate students
+## 项目背景
 
-**Core capabilities:**
-- Hybrid semantic + keyword retrieval across full-text and abstracts
-- Multi-strategy reranking for precision
-- Agent-driven literature synthesis and Q&A
-- On-demand sentiment analysis via external API
+新冠后遗症（Long COVID / PASC）是一个持续影响全球数百万患者的公共卫生问题。自 2020 年以来，相关学术论文呈爆发式增长，研究议题横跨免疫机制、神经系统损伤、心血管影响、康复治疗等多个方向。面对如此体量的文献，研究人员往往难以在有限时间内系统掌握领域进展。
 
-## Architecture
+本项目基于约 4,900 篇 PMC 开放获取论文（2020–2026），构建了一套面向研究者的智能文献分析系统。用户可以用自然语言提问，系统会自动检索最相关的文献片段，并由 AI 给出有据可查、注明来源的回答。
+
+---
+
+## 能做什么
+
+**面向研究人员：**
+- 快速了解某一议题（如自主神经功能障碍、肠道菌群失调）的研究现状
+- 跨文献综合分析，自动生成结构化文献综述
+- 追问具体论文的研究方法、结论和数据
+
+**面向政策制定者：**
+- 了解不同治疗方案的循证支持力度
+- 掌握流行病学数据的最新进展（如 Omicron 变体后的患病率变化）
+- 查询学界对特定议题的整体态度与趋势
+
+**面向学生和科研入门者：**
+- 以问答形式快速了解领域基础概念
+- 获取关键文献推荐，省去文献综述的初步筛选工作
+
+**示例问题：**
+```
+long covid 的自主神经功能障碍有哪些治疗方案？
+2022 年后 Omicron 变体的 long covid 患病率有何变化？
+学界对 Paxlovid 治疗 long covid 的评价如何？
+肠道菌群在 long covid 发病中扮演什么角色？
+```
+
+---
+
+## 系统架构
 
 ```
-User Query
+用户提问
     │
     ▼
-┌─────────────┐
-│    Agent    │  GPT-4o orchestrator (ReAct, max 5 iterations)
-│  (LangGraph)│  Qwen for QA · GPT-4o for synthesis
-└──────┬──────┘
-       │ tools
-       ▼
-┌─────────────────────────────────────────────┐
-│              Retrieval Layer                │
-│  dense_search  ──┐                          │
-│                  ├── RRF hybrid ── rerank   │
-│  sparse_search ──┘                          │
-└──────────────────────────────────────────────┘
-       │
-       ▼
-┌──────────────┐    ┌──────────────┐
-│    Qdrant    │    │  PostgreSQL  │
-│ dense+sparse │    │  metadata    │
-│   vectors    │    │              │
-└──────────────┘    └──────────────┘
+┌─────────────────────────┐
+│   Agent（LangGraph）     │  Qwen 编排 · 问答 · 综述（最多 5 轮工具调用）
+└────────────┬────────────┘
+             │ 5 个工具
+             ▼
+┌────────────────────────────────────────────┐
+│                  检索层                     │
+│  语义检索（dense）──┐                       │
+│                     ├── RRF 融合 ── rerank  │
+│  关键词检索（sparse）──┘                    │
+└────────────────────────────────────────────┘
+             │
+    ┌────────┴────────┐
+    ▼                 ▼
+┌─────────┐     ┌──────────┐
+│ Qdrant  │     │PostgreSQL│
+│ 向量索引 │     │ 论文元数据 │
+└─────────┘     └──────────┘
 ```
 
-**Embedding:** `text-embedding-3-small` (OpenAI)  
-**Reranker:** `cross-encoder/ms-marco-MiniLM-L-6-v2`  
-**Vector DB:** Qdrant (dense + sparse vectors per chunk)  
-**Metadata DB:** PostgreSQL
+| 组件 | 技术选型 |
+|------|---------|
+| Embedding | `text-embedding-3-small`（OpenAI） |
+| 向量数据库 | Qdrant（dense + sparse 双向量） |
+| 重排模型 | `cross-encoder/ms-marco-MiniLM-L-6-v2` |
+| 元数据库 | PostgreSQL |
+| Agent 框架 | LangGraph |
+| Agent LLM | Qwen（编排 + 问答 + 综述统一） |
 
-## Project Structure
+---
+
+## 项目结构
 
 ```
-├── config.py                     # 配置集中管理（环境变量 / .env）
-├── main.py                       # 入口：configure_logging + pipeline.run()
-├── .env.example                  # 环境变量示例（复制为 .env 后填写）
+├── config.py                        # 配置集中管理（从环境变量 / .env 读取）
+├── .env.example                     # 环境变量示例（复制为 .env 后填写）
+├── main.py                          # 入口：默认 Agent 交互；--pipeline 跑数据流水线
 │
-├── infra/
-│   ├── clients.py               # get_openai_client, get_qdrant_client, get_pg_engine
-│   └── logging_config.py         # configure_logging（入口处调用）
+├── infra/                           # 连接与模型单例统一入口
+│   ├── clients.py                   # get_openai_client / get_qdrant_client / get_pg_engine /
+│   │                                 # get_sparse_embedding_model / get_rerank_model / get_qwen_chat_model
+│   └── logging_config.py            # configure_logging（入口处调用一次）
 │
-├── data_pipeline/
+├── data_pipeline/                   # 数据处理流水线
 │   ├── processor/
-│   │   ├── xml_parser.py         # PMC JATS XML → 结构化段落
-│   │   ├── chunker.py            # 段落 → 按 section 的 token 边界 chunk
-│   │   ├── embedder.py           # Dense + sparse 向量化
-│   │   └── metadata_parser.py   # 元数据解析
+│   │   ├── xml_parser.py            # PMC JATS XML → 结构化段落
+│   │   ├── chunker.py               # 段落 → token 限制的 chunk
+│   │   ├── embedder.py              # 生成 dense + sparse 向量
+│   │   └── metadata_parser.py       # 提取论文元数据
 │   ├── storage/
-│   │   ├── qdrant/db.py          # Qdrant upsert / 集合管理
-│   │   ├── postgres/db.py        # PostgreSQL papers 表读写
-│   │   └── raw/                  # progress.json, metadata/, fulltext/
-│   │       └── progress.py       # 断点续跑进度
-│   ├── pipeline.py               # 三阶段：fetch_raw → process_meta → process_fulltext
-│   └── scripts/
-│       ├── reprocess_failed_fulltext.py  # 对 scan 报告 FAIL 的全文重新向量化
-│       ├── remediate_no_pmid.py          # 补救缺失 PMID
-│       └── backfill_qdrant_metadata.py   # 回填 Qdrant payload 元数据
+│   │   ├── qdrant/db.py             # Qdrant 写入 / 集合管理
+│   │   ├── postgres/db.py           # PostgreSQL 读写
+│   │   └── raw/progress.py          # 流水线断点续跑
+│   ├── pipeline.py                  # 三阶段流水线编排
+│   └── scripts/                     # 常用维护脚本（不详细列出）
 │
-├── retrieval/
-│   ├── search.py                 # 对外入口：hybrid_search → rerank
-│   ├── hybrid.py                 # RRF 融合 dense + sparse
-│   ├── dense.py                  # 语义检索（OpenAI embedding + Qdrant query_points）
-│   ├── sparse.py                 # 稀疏检索（fastembed + Qdrant query_points）
-│   └── reranker.py               # Cross-encoder 精排（config: RERANK_MODEL）
+├── retrieval/                       # 检索模块
+│   ├── search.py                    # 对外统一接口：hybrid → rerank
+│   ├── hybrid.py                    # RRF 融合算法
+│   ├── dense.py                     # 语义检索
+│   ├── sparse.py                    # BM25 关键词检索
+│   └── reranker.py                  # Cross-encoder 重排
 │
-├── agent/
-│   ├── __init__.py               # from agent import run
-│   ├── state.py                  # AgentState (messages, retrieved_chunks, iteration_count)
-│   ├── graph.py                  # LangGraph StateGraph 构建与编译
-│   ├── nodes.py                  # orchestrator_node, tools_node_with_state_update, should_continue
-│   ├── runner.py                 # 对外 API: run(user_input, history, retrieved_chunks)
+├── agent/                           # Agent 模块
+│   ├── __init__.py                  # from agent import run
+│   ├── state.py                     # AgentState 定义
+│   ├── graph.py                     # LangGraph 图构建与编译
+│   ├── nodes.py                     # orchestrator / tools / 路由节点
+│   ├── runner.py                    # 对外接口：单轮 & 多轮对话
 │   └── tools/
-│       ├── __init__.py           # ALL_TOOLS
-│       ├── search.py             # search_literature — 封装 retrieval.search，chunks 写 State
-│       ├── paper.py               # get_paper_detail — PostgreSQL 按 pmcid 查元数据
-│       ├── sentiment.py          # analyze_sentiment — 外部情感分析 API（需配置 URL）
-│       ├── qa.py                 # answer_question — Qwen 基于检索片段作答
-│       └── synthesis.py          # synthesize_review — GPT-4o 文献综述
+│       ├── __init__.py              # ALL_TOOLS 汇总
+│       ├── search.py                # search_literature：文献检索
+│       ├── paper.py                 # get_paper_detail：论文元数据查询
+│       ├── sentiment.py             # analyze_sentiment：按需情感分析
+│       ├── synthesis.py             # synthesize_review：Qwen 文献综述
+│       └── qa.py                    # answer_question：Qwen 事实问答
 │
-└── eval/
-    ├── scan_parser_quality.py    # 批量 XML 解析质量扫描 → scan_report.json
-    ├── step1_health_check.py     # 检索健康检查（source/year 分布、空结果）
-    ├── step2_ablation.py        # 消融：dense / sparse / hybrid / hybrid+rerank
-    ├── step3a_generate_queries.py # 生成评测 query 集（需 GPT-4o）
-    ├── step3b_evaluate.py       # NDCG@5 / Recall@5 / MRR（ranx，需 pip install ranx）
-    └── output/                   # 评测输出（gitignored）
+└── eval/                            # 评估模块
+    ├── scan_parser_quality.py       # XML 解析质量批量扫描
+    ├── step1_health_check.py        # 检索系统健康检查
+    ├── step2_ablation.py            # 四路策略消融实验
+    ├── step3a_generate_queries.py   # GPT-4o 生成评估 query 集
+    ├── step3b_evaluate.py           # NDCG@5 / Recall@5 / MRR 量化评估
+    └── output/                      # 评估结果输出（已加入 .gitignore）
 ```
 
-## Setup
+---
 
-**Requirements:** Python 3.10+, Qdrant, PostgreSQL
+## 环境要求
+
+- Python 3.10+
+- Qdrant（本地或云端）
+- PostgreSQL
 
 ```bash
 pip install -r requirements.txt
+pip install langgraph langchain langchain-openai  # Agent 依赖
 ```
 
-**可选依赖（按需安装）：**  
-- 检索 / Pipeline：`openai`, `qdrant-client`, `fastembed`, `sentence-transformers`  
-- Agent：`langgraph`, `langchain`, `langchain-openai`  
-- 评测 step3b：`ranx`
+---
 
-配置通过环境变量或 `.env`（项目根下复制 `.env.example` 为 `.env` 后填写）。与 `config.py` 对应关系：
+## 配置
 
-| 用途 | 变量名 | 说明 |
-|------|--------|------|
-| OpenAI（embedding / orchestrator / synthesis） | `OPENAI_API_KEY` | 必填 |
-| 千问（answer_question） | `QWEN_API_KEY` | Agent 用 Qwen 时必填 |
-| Qdrant | `QDRANT_URL`, `QDRANT_API_KEY` | 默认 `http://localhost:6333`，本地可空 |
-| 向量集合名 | — | `config.py` 内 `QDRANT_COLLECTION = "longcovid_papers"` |
-| PostgreSQL | `DATABASE_URL` | 连接串，如 `postgresql://user:pass@host/dbname` |
-| 数据路径 | — | `config.py` 内 `METADATA_DIR`, `FULLTEXT_DIR`, `PROGRESS_FILE` |
+推荐使用 `.env` / 环境变量配置（`config.py` 会通过 `os.getenv(...)` 读取），避免把 key 写进代码。
 
-## Data Pipeline
+```python
+# OpenAI
+OPENAI_API_KEY    = "..."
 
-三阶段需按顺序执行。`main.py` 仅调用 `pipeline.run()`；当前 `pipeline.run()` 默认只执行 Stage 3，如需跑全流程或单阶段，可在 `pipeline.run()` 中取消注释相应阶段，或直接：
+# Qdrant
+QDRANT_URL        = "http://localhost:6333"
+QDRANT_API_KEY    = ""                    # 本地部署留空
+QDRANT_COLLECTION = "longcovid_papers"
+
+# PostgreSQL
+DATABASE_URL      = "postgresql://user:pass@localhost/longcovid"
+
+# Qwen（Agent 编排 + 问答 + 综述统一使用，默认 qwen3.5-plus）
+QWEN_API_KEY      = "..."
+QWEN_API_BASE     = "https://dashscope.aliyuncs.com/compatible-mode/v1"
+QWEN_MODEL        = "qwen3.5-plus"
+```
+
+情感分析 API 地址在 `agent/tools/sentiment.py` 顶部的 `SENTIMENT_API_URL` 变量中替换。
+
+---
+
+## 数据流水线
+
+按顺序执行三个阶段：
 
 ```bash
-# Stage 1：拉取 PMCID 列表并 EFetch 摘要与全文到 raw/
+# 阶段一：ESearch 获取 PMCID 列表 + EFetch 拉取摘要/全文落盘到 raw/
 python -c "from data_pipeline.pipeline import run_fetch_raw; run_fetch_raw()"
 
-# Stage 2：解析 metadata，写入 PostgreSQL，摘要向量化写入 Qdrant
+# 阶段二：解析 metadata → 写入 PostgreSQL + 摘要向量化写入 Qdrant
 python -c "from data_pipeline.pipeline import run_process_meta; run_process_meta()"
 
-# Stage 3：全文解析 → chunk → 向量化写入 Qdrant（依赖 Stage 2）
+# 阶段三：处理全文 XML → chunk → 向量化写入 Qdrant（依赖阶段二已建好 papers 表）
 python -c "from data_pipeline.pipeline import run_process_fulltext; run_process_fulltext()"
 ```
 
-Stage 3 依赖 Stage 2（PostgreSQL `papers` 表需已存在）。各阶段支持断点续跑，进度在 `config.PROGRESS_FILE`。
+每个阶段均支持断点续跑，失败的单篇论文会被跳过，不影响其他论文的处理。
 
-## Retrieval
+**入口说明**：`python main.py` 默认启动 **Agent 交互**（问答）；跑数据流水线请用 `python main.py --pipeline`（内部调用 `pipeline.run()`，当前默认只执行 Stage 3，需全流程请在 `data_pipeline/pipeline.py` 的 `run()` 中取消注释 Stage 1/2）。
 
-```python
-from retrieval.search import search
+---
 
-results = search(
-    query="autonomic dysfunction mechanism in long covid",
-    top_k=20,   # hybrid retrieval pool size
-    top_n=5,    # final results after reranking
-    filters={"pub_year": "2024"},  # optional
-)
+## 使用方式
 
-# Each result:
-# {
-#   "payload": {
-#     "pmcid": "PMC...",
-#     "text": "...",
-#     "section": "Introduction",
-#     "source_type": "fulltext",
-#     "pub_year": "2024",
-#     "journal": "..."
-#   },
-#   "rrf_score": 0.031,
-#   "rerank_score": 8.24
-# }
-```
-
-Retrieval performance (ablation, 8 queries):
-- Dense / Sparse average Jaccard overlap: **0.08** — two paths are highly complementary
-- Reranker changes top-1 result in **62%** of queries — reranking is substantive
-
-## Agent
-
-The Agent is built on LangGraph with a ReAct loop (max 5 iterations). GPT-4o acts as the orchestrator; Qwen handles factual Q&A and GPT-4o handles synthesis.
-
-**Single-turn:**
+**单轮问答：**
 
 ```python
 from agent import run
 
 result = run("long covid 的自主神经功能障碍有哪些治疗方案？")
 print(result["answer"])
-print(f"迭代 {result['iterations']} 次，检索 {len(result['retrieved_chunks'])} 个 chunk")
+print(f"迭代 {result['iterations']} 次，检索 {len(result['retrieved_chunks'])} 个片段")
 ```
 
-**Multi-turn (pass history to maintain context):**
+**多轮对话（传入历史保持上下文）：**
 
 ```python
 r1 = run("long covid 的发病机制是什么？")
@@ -200,72 +216,67 @@ r2 = run(
 )
 ```
 
-**Five tools available to the orchestrator:**
+**直接调用检索层：**
 
-| Tool | Model | Purpose |
-|------|-------|---------|
-| `search_literature` | — | Hybrid retrieval, returns summary view to orchestrator; full chunks stored in State |
-| `get_paper_detail` | — | PostgreSQL lookup by pmcid |
-| `analyze_sentiment` | External API | On-demand sentiment analysis for retrieved papers |
-| `answer_question` | Qwen | Factual Q&A grounded in retrieved chunks |
-| `synthesize_review` | GPT-4o | Structured literature review from accumulated chunks |
+```python
+from retrieval.search import search
 
-**Additional config:**  
-- Qwen：在 `.env` 或环境中设置 `QWEN_API_KEY`；`QWEN_API_BASE`、`QWEN_MODEL` 在 `config.py` 中已写。  
-- 情感分析：在 `agent/tools/sentiment.py` 中修改 `SENTIMENT_API_URL` 为实际接口地址。
-
-**Install agent dependencies:**
-
-```bash
-pip install langgraph langchain langchain-openai
+results = search(
+    query="autonomic dysfunction mechanism in long covid",
+    top_k=20,   # 混合检索候选池大小
+    top_n=5,    # rerank 后保留数量
+    filters={"pub_year": "2024"},  # 可选过滤
+)
+# 每条结果包含 payload.pmcid / text / section / source_type / pub_year / journal
+# 以及 rrf_score 和 rerank_score
 ```
 
-## Evaluation
+---
 
-建议在**项目根目录**下执行：
+## Agent 工具说明
 
-```bash
-# 1. XML 解析质量扫描
-python eval/scan_parser_quality.py
+| 工具 | 调用模型 | 用途 |
+|------|---------|------|
+| `search_literature` | — | 混合检索，向 Orchestrator 返回摘要视图，完整 chunk 存入 State |
+| `get_paper_detail` | — | 根据 pmcid 查询 PostgreSQL 获取论文完整元数据 |
+| `analyze_sentiment` | 外部 API | 对检索到的论文按需进行情感分析 |
+| `answer_question` | Qwen | 基于已检索片段进行事实性问答 |
+| `synthesize_review` | Qwen | 综合多篇文献生成结构化文献综述 |
 
-# 2. 检索健康检查
-python eval/step1_health_check.py
+---
 
-# 3. 消融实验
-python eval/step2_ablation.py
+## 检索系统评估结果
 
-# 4. 生成评测 query 集（需 GPT-4o）
-python eval/step3a_generate_queries.py --sample 50
+评估数据集：150 个 GPT-4o 生成的 query，相关性标签由 GPT-4o-mini 打分（0/1/2），指标计算使用 [ranx](https://github.com/AmenRa/ranx)。
 
-# 5. 定量评测（需先安装 ranx）
-pip install ranx
-python eval/step3b_evaluate.py --fast   # 小规模
-python eval/step3b_evaluate.py          # 完整评测
-```
+| 策略 | NDCG@5 | Recall@5 | Precision@5 | MRR |
+|------|--------|----------|-------------|-----|
+| A — 仅语义检索 | 0.736 | 0.471 | 0.723 | 0.983 |
+| B — 仅关键词检索 | 0.773 | 0.534 | 0.805 | 0.985 |
+| C — Hybrid（RRF 融合） | 0.769 | 0.492 | 0.753 | 0.983 |
+| **D — Hybrid + Rerank** | **0.782** | **0.522** | **0.799** | 0.980 |
 
-Metrics computed by [ranx](https://github.com/AmenRa/ranx): NDCG@5, Recall@5, Precision@5, MRR.  
-Relevance labels (0/1/2) are generated by GPT-4o-mini per (query, chunk) pair.
+**关键发现：**
+- Dense / Sparse 平均 Jaccard 重叠率仅 **0.08**，两路检索高度互补，hybrid 融合有实质价值
+- Reranker 在 **62%** 的 query 中改变了第一名结果，重排效果真实有效
+- 在学术医学文献场景下，关键词检索（B）表现略优于纯语义检索（A），原因是专业术语高度精确
 
-**Results (150 queries, LLM-scored):**
+---
 
-| Strategy | NDCG@5 | Recall@5 | Precision@5 | MRR |
-|----------|--------|----------|-------------|-----|
-| A — Dense only | 0.736 | 0.471 | 0.723 | 0.983 |
-| B — Sparse only | 0.773 | 0.534 | 0.805 | 0.985 |
-| C — Hybrid (RRF) | 0.769 | 0.492 | 0.753 | 0.983 |
-| D — Hybrid + Rerank | **0.782** | **0.522** | **0.799** | 0.980 |
+## 语料库说明
 
-## Corpus
+| 项目 | 内容 |
+|------|------|
+| 来源 | PMC Open Access |
+| 规模 | ~4,900 篇，2020–2026 年 |
+| 覆盖主题 | 发病机制、症状、治疗、流行病学、免疫、神经、心血管等 |
+| 解析质量 | 91% 正常解析，4.7% 无可提取全文（仅摘要或更正通知） |
 
-- **Source:** PMC Open Access
-- **Size:** ~4,900 papers, 2020–2026
-- **Coverage:** Long COVID / PASC — mechanisms, symptoms, treatment, epidemiology
-- **Parse quality:** 91% OK, 4.7% no extractable full-text (abstract-only or correction notices)
+---
 
-## Notes
+## 工程说明
 
-- `eval/output/` 为 gitignored，需本地运行评测脚本生成
-- 连接与日志：统一使用 `infra/clients.py`（OpenAI、Qdrant、PostgreSQL）、`infra/logging_config.py` 的 `configure_logging()` 在入口调用
-- 全文 chunk 在 pipeline 阶段从 PostgreSQL 注入 `pub_year`、`journal`
-- XML 解析支持标准 JATS（`body → sec → p`）与无 section 短文（`body → p` 直接），覆盖社论、通讯等
-- 评测与部分脚本需在**项目根目录**下运行，以保证 `eval/output`、`config` 等路径正确
+- `eval/output/` 已加入 `.gitignore`，本地运行评估脚本重新生成
+- XML 解析器同时支持标准 JATS 结构（`body → sec → p`）和无分节结构（`body → p`），后者覆盖编辑、通讯、病例报告等短文体裁
+- Fulltext chunk 的 `pub_year` 和 `journal` 字段在流水线阶段从 PostgreSQL 注入，不依赖 XML 元数据
+- Orchestrator 只接收检索结果的摘要视图（text 截断至 150 字符），完整 chunk 仅在 `answer_question` 和 `synthesize_review` 中消费，控制 token 成本

@@ -13,27 +13,15 @@ import time
 from typing import Optional
 
 from openai import OpenAI
-from fastembed import SparseTextEmbedding
 
-from config import DENSE_MODEL, SPARSE_MODEL
-from infra.clients import get_openai_client
+from config import DENSE_MODEL
+from infra.clients import get_openai_client, get_sparse_embedding_model
 
 logger = logging.getLogger(__name__)
 
 BATCH_SIZE   = 200
 MAX_RETRIES  = 3
 BACKOFF_BASE = 2.0
-
-_sparse_model: Optional[SparseTextEmbedding] = None
-
-
-def _get_sparse_model() -> SparseTextEmbedding:
-    """懒加载 SPLADE 模型，首次运行自动下载（约50MB），之后复用。"""
-    global _sparse_model
-    if _sparse_model is None:
-        logger.info("加载稀疏向量模型（首次运行会下载模型文件）")
-        _sparse_model = SparseTextEmbedding(model_name=SPARSE_MODEL)
-    return _sparse_model
 
 
 def _embed_dense_batch(client: OpenAI, texts: list[str]) -> list[Optional[list[float]]]:
@@ -58,7 +46,7 @@ def _embed_sparse_batch(texts: list[str]) -> list[Optional[dict]]:
     返回 {"indices": [...], "values": [...]} 与 Qdrant SparseVector 对应。
     """
     try:
-        model = _get_sparse_model()
+        model = get_sparse_embedding_model()
         embeddings = list(model.embed(texts))
         return [
             {"indices": emb.indices.tolist(), "values": emb.values.tolist()}

@@ -116,6 +116,45 @@ def fetch_meta_by_pmcids(pmcids: list[str]) -> dict[str, dict]:
     return result
 
 
+def fetch_paper_by_pmcid(pmcid: str) -> dict | None:
+    """
+    按 pmcid 查询单篇论文的完整元数据（供应用层如 Agent 调用）。
+
+    Returns:
+        包含 pmcid, title, authors, journal, pub_year, doi, abstract 的 dict；
+        找不到或表不存在时返回 None。
+    """
+    engine = get_pg_engine()
+    if not _papers_table_exists(engine):
+        return None
+    with engine.connect() as conn:
+        row = conn.execute(
+            select(
+                papers.c.pmcid,
+                papers.c.title,
+                papers.c.authors,
+                papers.c.journal,
+                papers.c.pub_year,
+                papers.c.doi,
+                papers.c.abstract,
+            ).where(papers.c.pmcid == pmcid).limit(1)
+        ).fetchone()
+    if row is None:
+        return None
+    authors = row.authors
+    if authors is None:
+        authors = []
+    return {
+        "pmcid": row.pmcid or "",
+        "title": row.title or "",
+        "authors": authors,
+        "journal": row.journal or "",
+        "pub_year": row.pub_year or "",
+        "doi": row.doi or "",
+        "abstract": row.abstract or "",
+    }
+
+
 if __name__ == "__main__":
     from infra import configure_logging
     configure_logging()

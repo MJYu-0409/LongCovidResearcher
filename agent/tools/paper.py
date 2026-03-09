@@ -2,7 +2,7 @@
 agent/tools/paper.py
 
 工具二：get_paper_detail
-查询 PostgreSQL，返回论文完整元数据。
+应用层：调用数据层按 pmcid 查论文，整合为 Agent 所需的 JSON 返回。
 """
 
 from __future__ import annotations
@@ -11,39 +11,10 @@ import json
 import logging
 
 from langchain_core.tools import tool
-from sqlalchemy import select, text
 
-from infra.clients import get_pg_engine
+from data_pipeline.storage.postgres.db import fetch_paper_by_pmcid
 
 logger = logging.getLogger(__name__)
-
-
-def _fetch_paper(pmcid: str) -> dict | None:
-    engine = get_pg_engine()
-    with engine.connect() as conn:
-        row = conn.execute(
-            text("""
-                SELECT pmcid, title, authors, journal, pub_year,
-                       doi, abstract
-                FROM papers
-                WHERE pmcid = :pmcid
-                LIMIT 1
-            """),
-            {"pmcid": pmcid},
-        ).fetchone()
-
-    if row is None:
-        return None
-
-    return {
-        "pmcid":    row.pmcid,
-        "title":    row.title    or "",
-        "authors":  row.authors  or "",
-        "journal":  row.journal  or "",
-        "pub_year": row.pub_year or "",
-        "doi":      row.doi      or "",
-        "abstract": row.abstract or "",
-    }
 
 
 @tool
@@ -58,7 +29,7 @@ def get_paper_detail(pmcid: str) -> str:
     Returns:
         论文元数据（JSON字符串），找不到时返回错误提示
     """
-    paper = _fetch_paper(pmcid)
+    paper = fetch_paper_by_pmcid(pmcid)
     if paper is None:
         return json.dumps({"error": f"未找到 {pmcid}，请确认 pmcid 格式正确"})
 

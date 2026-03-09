@@ -13,24 +13,10 @@ Cross-Encoder 工作原理：
 from __future__ import annotations
 
 import logging
-from typing import Optional
 
-from sentence_transformers import CrossEncoder
-
-from config import RERANK_MODEL
+from infra.clients import get_rerank_model
 
 logger = logging.getLogger(__name__)
-
-_rerank_model: Optional[CrossEncoder] = None
-
-
-def _get_rerank_model() -> CrossEncoder:
-    """懒加载 Cross-Encoder 模型，首次调用时下载（约90MB），之后复用。"""
-    global _rerank_model
-    if _rerank_model is None:
-        logger.info("加载 Reranking 模型（首次运行会下载模型文件）")
-        _rerank_model = CrossEncoder(RERANK_MODEL)
-    return _rerank_model
 
 
 def rerank(
@@ -52,7 +38,7 @@ def rerank(
     if not hits:
         return []
 
-    model = _get_rerank_model()
+    model = get_rerank_model()
 
     # Cross-Encoder 输入格式：[query, document_text] 对
     pairs = [(query, hit["payload"].get("text", "")) for hit in hits]

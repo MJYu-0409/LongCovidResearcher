@@ -10,28 +10,18 @@ from __future__ import annotations
 import logging
 from typing import Optional
 
-from fastembed import SparseTextEmbedding
 from qdrant_client.models import SparseVector
 from qdrant_client.models import Filter, FieldCondition, MatchValue
 
-from config import QDRANT_COLLECTION, SPARSE_MODEL
-from infra.clients import get_qdrant_client
+from config import QDRANT_COLLECTION
+from infra.clients import get_qdrant_client, get_sparse_embedding_model
 
 logger = logging.getLogger(__name__)
-
-_sparse_model: Optional[SparseTextEmbedding] = None
-
-
-def _get_sparse_model() -> SparseTextEmbedding:
-    global _sparse_model
-    if _sparse_model is None:
-        _sparse_model = SparseTextEmbedding(model_name=SPARSE_MODEL)
-    return _sparse_model
 
 
 def embed_query_sparse(query: str) -> SparseVector:
     """将 Query 转为稀疏向量。"""
-    model = _get_sparse_model()
+    model = get_sparse_embedding_model()
     result = list(model.embed([query]))[0]
     return SparseVector(
         indices=result.indices.tolist(),

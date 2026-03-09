@@ -13,20 +13,13 @@ import logging
 from typing import Optional
 
 from langchain_core.tools import tool
-from langchain_openai import ChatOpenAI
 
-from config import QWEN_API_KEY, QWEN_API_BASE, QWEN_MODEL
+from infra.clients import get_qwen_chat_model
 
 logger = logging.getLogger(__name__)
 
-# Qwen 通过 OpenAI 兼容接口调用
-_qwen = ChatOpenAI(
-    model=QWEN_MODEL,
-    api_key=QWEN_API_KEY,
-    base_url=QWEN_API_BASE,
-    temperature=0.1,
-    max_tokens=1500,
-)
+# Qwen 单例（从 infra 统一入口获取）
+_qwen = get_qwen_chat_model(temperature=0.1, max_tokens=1500)
 
 _QA_SYSTEM = """你是 Long COVID 领域的专业研究助手。
 根据提供的文献片段，准确回答用户问题。
