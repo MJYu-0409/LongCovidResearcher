@@ -80,7 +80,11 @@ long covid 的自主神经功能障碍有哪些治疗方案？
 ```
 ├── config.py                        # 配置集中管理（从环境变量 / .env 读取）
 ├── .env.example                     # 环境变量示例（复制为 .env 后填写）
-├── main.py                          # 入口：默认 Agent 交互；--pipeline 跑数据流水线
+├── main.py                          # 入口：默认 Agent 交互；--pipeline 流水线；--api 启动 FastAPI
+│
+├── api/                             # FastAPI 服务（Agent 对话、检索、健康检查）
+│   ├── app.py                       # /chat、/search、/health 路由
+│   └── __init__.py
 │
 ├── infra/                           # 连接与模型单例统一入口
 │   ├── clients.py                   # get_openai_client / get_qdrant_client / get_pg_engine /
@@ -109,10 +113,12 @@ long covid 的自主神经功能障碍有哪些治疗方案？
 │
 ├── agent/                           # Agent 模块
 │   ├── __init__.py                  # from agent import run
-│   ├── state.py                     # AgentState 定义
+│   ├── state.py                     # AgentState（含可选 summary 字段）
 │   ├── graph.py                     # LangGraph 图构建与编译
 │   ├── nodes.py                     # orchestrator / tools / 路由节点
 │   ├── runner.py                    # 对外接口：单轮 & 多轮对话
+│   ├── summarizer.py                # 会话内摘要（每轮压摘要 + 保留最近 N 条）
+│   ├── session_store.py             # 跨会话记忆：PostgreSQL 持久化（每轮写库）
 │   └── tools/
 │       ├── __init__.py              # ALL_TOOLS 汇总
 │       ├── search.py                # search_literature：文献检索
@@ -140,7 +146,7 @@ long covid 的自主神经功能障碍有哪些治疗方案？
 
 ```bash
 pip install -r requirements.txt
-pip install langgraph langchain langchain-openai  # Agent 依赖
+# requirements.txt 已含 fastapi、uvicorn；Agent 需额外：langgraph、langchain、langchain-openai 等（见项目依赖）
 ```
 
 ---
@@ -165,9 +171,16 @@ DATABASE_URL      = "postgresql://user:pass@localhost/longcovid"
 QWEN_API_KEY      = "..."
 QWEN_API_BASE     = "https://dashscope.aliyuncs.com/compatible-mode/v1"
 QWEN_MODEL        = "qwen3.5-plus"
-```
 
-情感分析 API 地址在 `agent/tools/sentiment.py` 顶部的 `SENTIMENT_API_URL` 变量中替换。
+# 情感分析 API（Agent 工具 analyze_sentiment，在 config 中统一配置）
+# SENTIMENT_API_SINGLE = "http://localhost:8000/predict"
+# SENTIMENT_API_BATCH  = "http://localhost:8000/predict/batch"
+# SENTIMENT_API_TIMEOUT = 30
+
+# 可选：跨会话记忆 session_id、FastAPI 端口
+# AGENT_SESSION_ID = "default"
+# API_PORT = 8001
+```
 
 ---
 
@@ -188,7 +201,13 @@ python -c "from data_pipeline.pipeline import run_process_fulltext; run_process_
 
 每个阶段均支持断点续跑，失败的单篇论文会被跳过，不影响其他论文的处理。
 
-**入口说明**：`python main.py` 默认启动 **Agent 交互**（问答）；跑数据流水线请用 `python main.py --pipeline`（内部调用 `pipeline.run()`，当前默认只执行 Stage 3，需全流程请在 `data_pipeline/pipeline.py` 的 `run()` 中取消注释 Stage 1/2）。
+**入口说明**：
+
+| 命令 | 说明 |
+|------|------|
+| `python main.py` | 默认 **Agent 交互**（CLI），支持会话内摘要 + 跨会话持久化（每轮写 PostgreSQL） |
+| `python main.py --pipeline` | 跑数据流水线（当前默认只执行 Stage 3，全流程需在 `pipeline.run()` 中取消注释 Stage 1/2） |
+| `python main.py --api [--port 8001]` | 启动 **FastAPI 服务**（Agent 对话、检索、健康检查），默认端口 8001 |
 
 ---
 
@@ -230,6 +249,33 @@ results = search(
 # 每条结果包含 payload.pmcid / text / section / source_type / pub_year / journal
 # 以及 rrf_score 和 rerank_score
 ```
+
+**通过 FastAPI 调用（适合前端 / 其他服务）：**
+
+```bash
+# 启动服务（默认 http://0.0.0.0:8001）
+python main.py --api
+
+# Agent 对话（支持 session_id 多轮记忆）
+curl -X POST http://localhost:8001/chat -H "Content-Type: application/json" \
+  -d '{"user_input": "long covid 自主神经功能障碍有哪些治疗？", "session_id": "user1"}'
+
+# 文献检索
+curl -X POST http://localhost:8001/search -H "Content-Type: application/json" \
+  -d '{"query": "microclots long covid", "top_n": 5}'
+
+# 运维健康检查（PostgreSQL、Qdrant）
+curl http://localhost:8001/health
+```
+
+交互式 API 文档：`http://localhost:8001/docs`（Swagger）、`http://localhost:8001/redoc`（ReDoc）。
+
+---
+
+## 记忆与持久化
+
+- **会话内**：每轮对话结束后用 LLM 将较早消息压成摘要，只保留最近 3 条完整消息，避免上下文过长顶破 token 上限。
+- **跨会话**：每轮结束后将当前摘要 + 最近 3 条 + `retrieved_chunks` 写入 PostgreSQL 表 `agent_sessions`（按 `session_id` 覆盖）；下次启动或同一 `session_id` 请求时自动加载，实现断线可恢复、多端共享同一会话。
 
 ---
 
@@ -280,3 +326,4 @@ results = search(
 - XML 解析器同时支持标准 JATS 结构（`body → sec → p`）和无分节结构（`body → p`），后者覆盖编辑、通讯、病例报告等短文体裁
 - Fulltext chunk 的 `pub_year` 和 `journal` 字段在流水线阶段从 PostgreSQL 注入，不依赖 XML 元数据
 - Orchestrator 只接收检索结果的摘要视图（text 截断至 150 字符），完整 chunk 仅在 `answer_question` 和 `synthesize_review` 中消费，控制 token 成本
+- 情感分析 API 地址在 `config.py` 中通过 `SENTIMENT_API_SINGLE`、`SENTIMENT_API_BATCH` 配置（单条/批量摘要情绪分析）

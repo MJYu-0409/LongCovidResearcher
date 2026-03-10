@@ -46,14 +46,18 @@ _SYSTEM_PROMPT = """你是 Long COVID 学术研究助手，帮助研究人员、
 
 def orchestrator_node(state: AgentState) -> dict:
     """
-    Orchestrator 节点：调用 GPT-4o 决定下一步行动（调用工具或给出最终答案）。
+    Orchestrator 节点：调用 Qwen 决定下一步行动（调用工具或给出最终答案）。
     """
+    from langchain_core.messages import SystemMessage
+
     messages = state["messages"]
 
-    # 第一条消息注入系统提示
+    # 注入系统提示；若有此前对话摘要则一并注入，供模型利用
     if not any(m.type == "system" for m in messages):
-        from langchain_core.messages import SystemMessage
-        messages = [SystemMessage(content=_SYSTEM_PROMPT)] + list(messages)
+        system_parts = [SystemMessage(content=_SYSTEM_PROMPT)]
+        if state.get("summary"):
+            system_parts.append(SystemMessage(content="【此前对话摘要】\n" + state["summary"]))
+        messages = system_parts + list(messages)
 
     response = _orchestrator_llm.invoke(messages)
     logger.info("orchestrator: iteration=%d, tool_calls=%d",
