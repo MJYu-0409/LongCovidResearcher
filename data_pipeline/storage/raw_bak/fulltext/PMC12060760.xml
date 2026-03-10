@@ -1,0 +1,834 @@
+<?xml version="1.0"  ?><!DOCTYPE pmc-articleset PUBLIC "-//NLM//DTD ARTICLE SET 2.0//EN" "https://dtd.nlm.nih.gov/ncbi/pmc/articleset/nlm-articleset-2.0.dtd"><pmc-articleset><article id="puh2152" xml:lang="en" article-type="research-article" dtd-version="1.4"><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">Public Health Chall</journal-id><journal-id journal-id-type="iso-abbrev">Public Health Chall</journal-id><journal-id journal-id-type="pmc-domain-id">4740</journal-id><journal-id journal-id-type="pmc-domain">phchall</journal-id><journal-id journal-id-type="publisher-id">PUH2</journal-id><journal-title-group><journal-title>Public Health Challenges</journal-title></journal-title-group><issn pub-type="epub">2769-2450</issn><publisher><publisher-name>Wiley</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC12060760</article-id><article-id pub-id-type="pmcid-ver">PMC12060760.1</article-id><article-id pub-id-type="pmcaid">12060760</article-id><article-id pub-id-type="pmcaiid">12060760</article-id><article-id pub-id-type="pmid">40497072</article-id><article-id pub-id-type="doi">10.1002/puh2.152</article-id><article-id pub-id-type="publisher-id">PUH2152</article-id><article-version article-version-type="pmc-version">1</article-version><article-categories><subj-group subj-group-type="overline"><subject>Research Article</subject></subj-group><subj-group subj-group-type="heading"><subject>Research Article</subject></subj-group></article-categories><title-group><article-title>Long covid and mental and physical health: A cross‐sectional study of adults in California</article-title><alt-title alt-title-type="left-running-head">MASON <sc>et al</sc>.</alt-title><alt-title alt-title-type="right-running-head">ASSOCIATIONS OF LONG COVID AND HEALTH</alt-title></title-group><contrib-group><contrib id="puh2152-cr-0001" contrib-type="author" corresp="yes"><name name-style="western"><surname>Mason</surname><given-names initials="TB">Tyler B.</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0001-7284-7890</contrib-id><xref rid="puh2152-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><address><email>tylermas@usc.edu</email></address></contrib><contrib id="puh2152-cr-0002" contrib-type="author"><name name-style="western"><surname>Knight</surname><given-names initials="TK">Tara K.</given-names></name><xref rid="puh2152-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib id="puh2152-cr-0003" contrib-type="author"><name name-style="western"><surname>Lee</surname><given-names initials="R">Ryan</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-6982-5807</contrib-id><xref rid="puh2152-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="puh2152-cr-0004" contrib-type="author"><name name-style="western"><surname>Herzig</surname><given-names initials="SE">Shirin E.</given-names></name><xref rid="puh2152-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="puh2152-cr-0005" contrib-type="author"><name name-style="western"><surname>Meeker</surname><given-names initials="D">Daniella</given-names></name><xref rid="puh2152-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref></contrib><contrib id="puh2152-cr-0006" contrib-type="author"><name name-style="western"><surname>Doctor</surname><given-names initials="JN">Jason N.</given-names></name><xref rid="puh2152-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref></contrib></contrib-group><aff id="puh2152-aff-0001">
+<label>
+<sup>1</sup>
+</label>
+<named-content content-type="organisation-division">Department of Population and Public Health Sciences</named-content>
+<institution>University of Southern California Keck School of Medicine</institution>
+<city>Los Angeles</city>
+<named-content content-type="country-part">California</named-content>
+<country country="US">USA</country>
+</aff><aff id="puh2152-aff-0002">
+<label>
+<sup>2</sup>
+</label>
+<named-content content-type="organisation-division">Sol Price School of Public Policy</named-content>
+<institution>University of Southern California</institution>
+<city>Los Angeles</city>
+<named-content content-type="country-part">California</named-content>
+<country country="US">USA</country>
+</aff><aff id="puh2152-aff-0003">
+<label>
+<sup>3</sup>
+</label>
+<named-content content-type="organisation-division">Yale School of Medicine</named-content>
+<institution>Yale University</institution>
+<city>New Haven</city>
+<named-content content-type="country-part">Connecticut</named-content>
+<country country="US">USA</country>
+</aff><author-notes><corresp id="correspondenceTo">
+<label>*</label>
+<bold>Correspondence</bold>
+<break/>Tyler B. Mason, University of Southern California Keck School of Medicine, 2001 N Soto Street, Los Angeles, CA 90032, USA.<break/> Email: <email>tylermas@usc.edu</email>
+<break/>
+</corresp></author-notes><pub-date pub-type="epub"><day>15</day><month>1</month><year>2024</year></pub-date><pub-date pub-type="collection"><month>3</month><year>2024</year></pub-date><volume>3</volume><issue seq="40">1</issue><issue-id pub-id-type="pmc-issue-id">487580</issue-id><issue-id pub-id-type="doi">10.1002/puh2.v3.1</issue-id><elocation-id>e152</elocation-id><history><date date-type="received"><day>23</day><month>8</month><year>2023</year></date><date date-type="accepted"><day>27</day><month>12</month><year>2023</year></date></history><pub-history><event event-type="pmc-release"><date><day>15</day><month>01</month><year>2024</year></date></event><event event-type="pmc-live"><date><day>10</day><month>06</month><year>2025</year></date></event><event event-type="pmc-last-change"><date iso-8601-date="2025-06-11 20:25:16.437"><day>11</day><month>06</month><year>2025</year></date></event></pub-history><permissions><copyright-statement content-type="article-copyright">© 2024 The Authors. <italic toggle="yes">Public Health Challenges</italic> published by John Wiley &amp; Sons Ltd.</copyright-statement><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>This is an open access article under the terms of the <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pmc-pdf" xlink:href="PUH2-3-e152.pdf"/><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pdf" xlink:href="file:PUH2-3-e152.pdf"/><abstract><title>Abstract</title><sec id="puh2152-sec-0010"><title>Introduction</title><p>Most people recover from COVID‐19 infection over a short period of time, but a minority of individuals experience symptoms over a longer duration (≥28 days), termed “long covid.” The purpose of the current study was to examine differences between individuals with a long covid diagnosis (i.e., diagnosed long covid), who believe they do or might have long covid (i.e., self‐reported long covid), and people without long covid.</p></sec><sec id="puh2152-sec-0020"><title>Methods</title><p>Adults who had been diagnosed with COVID‐19 completed survey questions about COVID‐19 history, long covid, and mental and physical health. Analysis of covariance models showed an effect of long covid group (i.e., diagnosed, self‐reported, and no long covid) with anxiety, depression, physical function, fatigue, social roles/activity limitations, and pain interference.</p></sec><sec id="puh2152-sec-0030"><title>Results</title><p>Analyses demonstrated that the self‐reported long covid group had significantly greater anxiety and depression than the no long covid group. The diagnosed long covid group had significantly greater physical function problems than the no long covid group. Both diagnosed and self‐reported long covid groups had significantly greater fatigue, social roles/activity limitations, and pain interference as compared to the no long covid group.</p></sec><sec id="puh2152-sec-0040"><title>Conclusion</title><p>Overall, physical health challenges were reported by individuals with long covid, with fatigue being the most significant symptom. In addition, negative mental health was only experienced by individuals with self‐reported long covid, suggesting the importance of long covid diagnosis and treatment.</p></sec></abstract><abstract id="puh2152-abs-0001" abstract-type="graphical"><p>Physical health challenges were reported by individuals with long covid, yet negative mental health was only experienced by individuals with self‐reported long covid. Findings suggest the need for more research on long covid course and interventions. 
+<boxed-text position="anchor" content-type="graphic" orientation="portrait"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-1" orientation="portrait" xlink:href="PUH2-3-e152-g001.jpg"/></boxed-text>
+</p></abstract><kwd-group kwd-group-type="author-generated"><kwd id="puh2152-kwd-0001">COVID‐19</kwd><kwd id="puh2152-kwd-0002">fatigue</kwd><kwd id="puh2152-kwd-0003">long covid</kwd><kwd id="puh2152-kwd-0004">mental health</kwd><kwd id="puh2152-kwd-0005">physical health</kwd></kwd-group><counts><fig-count count="1"/><table-count count="3"/><page-count count="8"/><word-count count="4872"/></counts><custom-meta-group><custom-meta><meta-name>pmc-status-qastatus</meta-name><meta-value>0</meta-value></custom-meta><custom-meta><meta-name>pmc-status-live</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-status-embargo</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-status-released</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-access</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-legally-suppressed</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-pdf</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-supplement</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-pdf-only</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-suppress-copyright</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-real-version</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-scanned-article</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-in-epmc</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-license-ref</meta-name><meta-value>CC BY</meta-value></custom-meta><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>March 2024</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:6.5.5 mode:remove_FC converted:17.04.2025</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="puh2152-cit-0043">
+<string-name name-style="western">
+<surname>Mason</surname>
+<given-names>TB</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Knight</surname>
+<given-names>TK</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lee</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Herzig</surname>
+<given-names>SE</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Meeker</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Doctor</surname>
+<given-names>JN</given-names>
+</string-name>. <article-title>Long covid and mental and physical health: A cross‐sectional study of adults in California</article-title>. <source>Public Health Chall</source>. <year>2024</year>;<volume>3</volume>:<elocation-id>e152</elocation-id>. <pub-id pub-id-type="doi">10.1002/puh2.152</pub-id>
+</mixed-citation>
+</p></notes></front><body><sec id="puh2152-sec-0050"><title>BACKGROUND</title><p>The 2019 coronavirus (COVID‐19) pandemic resulted from the spread of severe acute respiratory syndrome coronavirus 2 (SARS‐CoV‐2) infection, which is an intense, acute illness that primarily affects the immune and respiratory systems of the body [<xref rid="puh2152-bib-0001" ref-type="bibr">1</xref>]. Although many individuals who contract COVID‐19 recover over a short period of time, a minority of individuals experience persistence of symptoms over a longer duration (≥28 days), termed “long covid” [<xref rid="puh2152-bib-0002" ref-type="bibr">2</xref>]. Evidence suggests that long covid is experienced by 5%–85% of individuals diagnosed with COVID‐19 and has a negative impact on quality of life and recovery [<xref rid="puh2152-bib-0003" ref-type="bibr">3</xref>, <xref rid="puh2152-bib-0004" ref-type="bibr">4</xref>]. Long covid can include a range of symptoms, such as fatigue, muscle pain, weakness, mild fever, cough, breathlessness, chest pain, headaches, cognitive difficulties, tingling sensations, and skin rashes [<xref rid="puh2152-bib-0005" ref-type="bibr">5</xref>]. Individuals infected with SARS‐CoV‐2 who report five or more of these symptoms are more likely to develop long covid than those with fewer symptoms [<xref rid="puh2152-bib-0005" ref-type="bibr">5</xref>].</p><p>Women are more likely to develop long covid than men [<xref rid="puh2152-bib-0006" ref-type="bibr">6</xref>]. Moreover, those with long covid have been recorded to have a slower recovery from certain symptoms, including breathlessness and fatigue [<xref rid="puh2152-bib-0007" ref-type="bibr">7</xref>]. The most common symptoms that are early signs of long covid include fatigue, shortness of breath, hoarse voice, myalgia, and migraines [<xref rid="puh2152-bib-0005" ref-type="bibr">5</xref>]. Moreover, fatigue is the most common long covid symptom and typically lasts beyond the initial infection, especially for those hospitalized [<xref rid="puh2152-bib-0007" ref-type="bibr">7</xref>]. Long covid has been shown to also have significant impacts on mental health, with some positing that poor mental health is a symptom of long covid [<xref rid="puh2152-bib-0008" ref-type="bibr">8</xref>]. Some of the common mental health issues that COVID‐19 survivors have reported include post‐traumatic stress disorder, depression, and anxiety disorders [<xref rid="puh2152-bib-0001" ref-type="bibr">1</xref>, <xref rid="puh2152-bib-0009" ref-type="bibr">9</xref>]. Overall, reviews have shown that long covid affects a variety of symptoms, including mental health, gastrointestinal, cardiopulmonary, and neurological, without a clear etiological explanation [<xref rid="puh2152-bib-0010" ref-type="bibr">10</xref>, <xref rid="puh2152-bib-0011" ref-type="bibr">11</xref>]. However, with SARS‐CoV‐2 being a novel virus, the long‐term effects of COVID‐19 on survivors are still being uncovered [<xref rid="puh2152-bib-0001" ref-type="bibr">1</xref>].</p><p>Although there has been a great deal of research on the COVID‐19 pandemic and mental and physical health, less is known about the mental and physical health correlates associated with long covid, and it has been particularly difficult to characterize long covid due to the subjective nature of symptoms. The purpose of the current study was to examine differences between individuals with a long covid diagnosis (i.e., diagnosed long covid), who believe they do or might have long covid (i.e., self‐reported long covid), and people without long covid. Some research has proposed that long covid may be due to subjective, biopsychosocial factors related to the COVID‐19 pandemic and infection rather than the virus itself, such as distress about the COVID‐19 pandemic [<xref rid="puh2152-bib-0012" ref-type="bibr">12</xref>]. As such, COVID‐19 distress was included as a covariate in analyses. In addition, the COVID‐19 pandemic and long covid affected many demographic groups differently [<xref rid="puh2152-bib-0006" ref-type="bibr">6</xref>, <xref rid="puh2152-bib-0013" ref-type="bibr">13</xref>, <xref rid="puh2152-bib-0014" ref-type="bibr">14</xref>]; thus, sex, age, race/ethnicity, and body mass index (BMI) were controlled for in analyses. Disordered eating was included as a mental health outcome. To our knowledge, the association between long covid and disordered eating has not been tested. Yet, it was important to include disordered eating given that the COVID‐19 pandemic had a negative effect on eating disorders [<xref rid="puh2152-bib-0015" ref-type="bibr">15</xref>, <xref rid="puh2152-bib-0016" ref-type="bibr">16</xref>]; previous studies have shown associations between disordered eating and physical symptoms and chronic illnesses [<xref rid="puh2152-bib-0017" ref-type="bibr">17</xref>, <xref rid="puh2152-bib-0018" ref-type="bibr">18</xref>, <xref rid="puh2152-bib-0019" ref-type="bibr">19</xref>]; and disordered eating is often omitted from studies on mental health [<xref rid="puh2152-bib-0020" ref-type="bibr">20</xref>]. It was hypothesized that long covid diagnosis and self‐reported long covid would be associated with poorer mental and physical health compared to no long covid.</p></sec><sec id="puh2152-sec-0060"><title>METHODS</title><sec id="puh2152-sec-0070"><title>Participants and procedures</title><p>Adults who had been previously infected with SARS‐CoV‐2 were invited to participate in an online survey‐based study. Participants were recruited online through the University of Southern California (USC) COVID‐19 Biospecimen Repository (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://sc-ctsi.org/about/covid-19-biorepository" ext-link-type="uri">https://sc‐ctsi.org/about/covid‐19‐biorepository</ext-link>) and the USC Clinical Data Warehouse. All participants visited a USC healthcare center in Los Angeles County in the United States within the past 3 years. Emails were obtained from medical records, and invitations were sent to patients who met study eligibility criteria. Data collection took place from March 2023 to June 2023. Individuals with records of a COVID‐19 infection were contacted, and past COVID‐19 infection was confirmed with a COVID‐19 history questionnaire. Potential participants received an invitation and custom REDCap link to enroll in the study. Informed consent was obtained through e‐consent in REDCap. Participants then completed an online survey, including questionnaires on demographics, COVID‐19 symptoms and psychosocial impact, mental health, and quality of life. All study procedures were reviewed and approved by the USC Institutional Review Board (HS‐20‐00793).</p></sec><sec id="puh2152-sec-0080"><title>Measures</title><sec id="puh2152-sec-0090"><title>Long covid</title><p>Participants were asked if they have been diagnosed with “long covid.” They were provided a definition of long covid as “continuing to have signs and symptoms four weeks after the diagnosis of SARS‐Cov‐2 infection that are not explainable by other causes.” If they answered “no,” participants were asked if they believe they have long covid with options “yes,” “no,” and “maybe.” Long covid was trichotomized as “yes, diagnosed,” “yes/maybe self‐reported,” and “no.”</p></sec><sec id="puh2152-sec-0100"><title>Physical and mental health</title><p>The Patient‐Reported Outcomes Measurement Information System (PROMIS) 29 Profile v2.0 [<xref rid="puh2152-bib-0021" ref-type="bibr">21</xref>] includes 29 items assessing various aspects of physical and mental health. The subscales include physical function (e.g., “Are you able to do chores such as vacuuming or yard work?”), anxiety (e.g., “My worries overwhelmed me”), depression (e.g., “I felt worthless”), fatigue (e.g., “I feel fatigued”), sleep disturbance (e.g., “I had a problem with my sleep”), ability to participate in social roles and activities (e.g., “I have trouble doing all of my regular leisure activities with others”), and pain interference (e.g., “How much did pain interfere with your day‐to‐day activities?”) in the past 7 days. Each subscale includes four items; one item measuring pain intensity was not used. Items are rated on a 5‐point scale. Cronbach's alpha for the seven PROMIS subscales ranged from 0.84 to 0.97.</p></sec><sec id="puh2152-sec-0110"><title>Eating disorder symptoms</title><p>The Eating Disorder Examination Questionnare‐12 was used to assess eating disorder symptoms in the past week and has been validated in previous research [<xref rid="puh2152-bib-0022" ref-type="bibr">22</xref>]. The scale includes 12 items that ask about eating disorder behaviors (e.g., binge eating and compensatory behaviors) and cognitions (e.g., weight and shape concerns). Ten items were rated with a scale from 1 (<italic toggle="yes">0 days</italic>) to 4 (<italic toggle="yes">6–7 days</italic>), and two items were rated with a scale from 1 (<italic toggle="yes">not at all</italic>) to 4 (<italic toggle="yes">markedly</italic>). The Cronbach alpha was 0.87.</p></sec><sec id="puh2152-sec-0120"><title>COVID‐19 distress</title><p>The Pandemic‐Related Traumatic Stress Scale assessed distress stemming from the COVID‐19 pandemic [<xref rid="puh2152-bib-0023" ref-type="bibr">23</xref>]. The scale includes nine items based on Diagnostic Statistical Manual 5 criteria for acute stress disorder (e.g., “Since becoming aware of the COVID‐19 outbreak, how often have you felt in a daze?”). Items were rated on a scale from 1 (<italic toggle="yes">not at all</italic>) to 5 (<italic toggle="yes">very often</italic>). Cronbach's alpha was 0.89.</p></sec><sec id="puh2152-sec-0130"><title>Demographics</title><p>Participants self‐reported their sex, age, race, ethnicity, height, and weight. BMI was calculated with self‐reported height and weight.</p></sec></sec><sec id="puh2152-sec-0140"><title>Statistical analyses</title><p>Data analyses were conducted in SPSS v 28.0 (IBM). The expectation–maximization algorithm [<xref rid="puh2152-bib-0024" ref-type="bibr">24</xref>] was used to impute missing data for covariates; participants missing long covid and all outcome data were removed from analyses. Analysis of variance and multinomial logistic regressions were used to examine differences between long covid group (i.e., diagnosed, self‐reported, and no) on demographic variables and COVID‐19 distress. Bivariate correlations were also run among continuous variables. Analysis‐of‐covariance (ANCOVA) models were calculated to examine the effect of long covid group in relation to mental and physical health. Covariates were sex, age, race, ethnicity, BMI, and COVID‐19 distress. Significant main effects for long covid groups were followed up with post hoc comparison tests.</p></sec></sec><sec id="puh2152-sec-0150"><title>RESULTS</title><p>Assuming <italic toggle="yes">α</italic> = 0.05, <italic toggle="yes">β</italic> = 0.20, a medium effect size (<italic toggle="yes">f</italic> = 0.25), and three covariates, power analysis showed that <italic toggle="yes">N</italic> = 64 per group (individuals with vs. without long covid) would be needed to obtain sufficient power to examine group differences in physical and mental health. However, because we did not know how many people would exhibit long covid, we collected data from a much larger group of patients. A total of 298 adults began the survey. There were 30 participants who did not provide data on long covid or any dependent variables, leaving a sample size of 268 for analyses. Most participants had complete data for all covariates (73%), with 94% of covariate values complete for the dataset. Sex at birth was 71% female and 29% male. The sample was primarily heterosexual (88%) and 12% non‐heterosexual. Regarding ethnicity, the sample was 38% Hispanic and 62% non‐Hispanic. Regarding race, the sample was 77% White, 5% Native American, Hawaiian, or Pacific Islander, 8% Asian, 6% Black or African‐American, and 4% Multiracial. The mean age was 49.48 (<italic toggle="yes">SD</italic> = 12.58), and the mean BMI was 28.63 (<italic toggle="yes">SD</italic> = 6.21).</p><p>There were 146 participants with no long covid (54.5%), 58 who reported being diagnosed with long covid (21.6%), and 64 who self‐reported that they have or might have long covid (23.9%). The three groups did not differ on sex, race, BMI, or age (<italic toggle="yes">p</italic> &gt; 0.05), but they did differ on ethnicity (<italic toggle="yes">p</italic> = 0.01) and COVID‐19 distress (<italic toggle="yes">p</italic> &lt; 0.001). Hispanic adults had higher rates of self‐reported long covid compared to non‐Hispanic adults (<italic toggle="yes">OR</italic> = 2.46, <italic toggle="yes">p</italic> = 0.01); there were no differences in diagnosed long covid. Diagnosed long covid (<italic toggle="yes">M</italic> = 2.88, <italic toggle="yes">SE</italic> = 0.10) and self‐reported long covid (<italic toggle="yes">M</italic> = 2.79, <italic toggle="yes">SE</italic> = 0.10) had significantly greater COVID‐19 distress than the no long covid group (<italic toggle="yes">M</italic> = 2.22, <italic toggle="yes">SE</italic> = 0.07); there were no differences between diagnosed and self‐reported long covid groups. Table <xref rid="puh2152-tbl-0001" ref-type="table">1</xref> shows descriptive statistics and bivariate correlations of study variables.</p><table-wrap position="float" id="puh2152-tbl-0001" content-type="TABLE" orientation="portrait"><label>TABLE 1</label><caption><p>Descriptive statistics and bivariate correlations among study variables among University of Southern California Patients in Los Angeles, CA, 2023.</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="char" char="." span="1"/><col align="char" char="." span="1"/><col align="char" char="." span="1"/><col align="char" char="." span="1"/><col align="char" char="." span="1"/><col align="char" char="." span="1"/><col align="char" char="." span="1"/><col align="char" char="." span="1"/><col align="char" char="." span="1"/><col align="char" char="." span="1"/><col align="char" char="." span="1"/><col align="char" char="." span="1"/><thead><tr style="border-bottom:solid 1px #000000"><th align="left" rowspan="1" colspan="1"/><th align="left" rowspan="1" colspan="1">
+<italic toggle="yes">M</italic>
+</th><th align="left" rowspan="1" colspan="1">
+<italic toggle="yes">SD</italic>
+</th><th align="left" rowspan="1" colspan="1">2</th><th align="left" rowspan="1" colspan="1">3</th><th align="left" rowspan="1" colspan="1">4</th><th align="left" rowspan="1" colspan="1">5</th><th align="left" rowspan="1" colspan="1">6</th><th align="left" rowspan="1" colspan="1">7</th><th align="left" rowspan="1" colspan="1">8</th><th align="left" rowspan="1" colspan="1">9</th><th align="left" rowspan="1" colspan="1">10</th><th align="left" rowspan="1" colspan="1">11</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">1. Age</td><td align="char" rowspan="1" colspan="1">49.48</td><td align="char" rowspan="1" colspan="1">12.58</td><td align="char" rowspan="1" colspan="1">−0.003</td><td align="char" rowspan="1" colspan="1">−0.18</td><td align="char" rowspan="1" colspan="1">−0.14<xref rid="puh2152-tbl1-note-0002" ref-type="table-fn">
+<sup>*</sup>
+</xref>
+</td><td align="char" rowspan="1" colspan="1">−0.09</td><td align="char" rowspan="1" colspan="1">0.23<xref rid="puh2152-tbl1-note-0001" ref-type="table-fn">
+<sup>**</sup>
+</xref>
+</td><td align="char" rowspan="1" colspan="1">−0.11</td><td align="char" rowspan="1" colspan="1">0.06</td><td align="char" rowspan="1" colspan="1">0.16<xref rid="puh2152-tbl1-note-0002" ref-type="table-fn">
+<sup>*</sup>
+</xref>
+</td><td align="char" rowspan="1" colspan="1">−0.10</td><td align="char" rowspan="1" colspan="1">−0.15<xref rid="puh2152-tbl1-note-0002" ref-type="table-fn">
+<sup>*</sup>
+</xref>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">2. Body mass index</td><td align="char" rowspan="1" colspan="1">28.63</td><td align="char" rowspan="1" colspan="1">6.21</td><td align="char" rowspan="1" colspan="1">–</td><td align="char" rowspan="1" colspan="1">0.10</td><td align="char" rowspan="1" colspan="1">0.08</td><td align="char" rowspan="1" colspan="1">0.07</td><td align="char" rowspan="1" colspan="1">0.12</td><td align="char" rowspan="1" colspan="1">0.13<xref rid="puh2152-tbl1-note-0002" ref-type="table-fn">
+<sup>*</sup>
+</xref>
+</td><td align="char" rowspan="1" colspan="1">0.15<xref rid="puh2152-tbl1-note-0002" ref-type="table-fn">
+<sup>*</sup>
+</xref>
+</td><td align="char" rowspan="1" colspan="1">0.18<xref rid="puh2152-tbl1-note-0001" ref-type="table-fn">
+<sup>**</sup>
+</xref>
+</td><td align="char" rowspan="1" colspan="1">0.12</td><td align="char" rowspan="1" colspan="1">0.32<xref rid="puh2152-tbl1-note-0001" ref-type="table-fn">
+<sup>**</sup>
+</xref>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">3. COVID‐19 distress</td><td align="char" rowspan="1" colspan="1">2.51</td><td align="char" rowspan="1" colspan="1">0.88</td><td align="char" rowspan="1" colspan="1"/><td align="char" rowspan="1" colspan="1">–</td><td align="char" rowspan="1" colspan="1">0.55<xref rid="puh2152-tbl1-note-0001" ref-type="table-fn">
+<sup>**</sup>
+</xref>
+</td><td align="char" rowspan="1" colspan="1">0.46<xref rid="puh2152-tbl1-note-0001" ref-type="table-fn">
+<sup>**</sup>
+</xref>
+</td><td align="char" rowspan="1" colspan="1">0.15*</td><td align="char" rowspan="1" colspan="1">0.38<xref rid="puh2152-tbl1-note-0001" ref-type="table-fn">
+<sup>**</sup>
+</xref>
+</td><td align="char" rowspan="1" colspan="1">0.39<xref rid="puh2152-tbl1-note-0001" ref-type="table-fn">
+<sup>**</sup>
+</xref>
+</td><td align="char" rowspan="1" colspan="1">0.27<xref rid="puh2152-tbl1-note-0001" ref-type="table-fn">
+<sup>**</sup>
+</xref>
+</td><td align="char" rowspan="1" colspan="1">0.37<xref rid="puh2152-tbl1-note-0001" ref-type="table-fn">
+<sup>**</sup>
+</xref>
+</td><td align="char" rowspan="1" colspan="1">0.22<xref rid="puh2152-tbl1-note-0001" ref-type="table-fn">
+<sup>**</sup>
+</xref>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">4. Anxiety</td><td align="char" rowspan="1" colspan="1">2.03</td><td align="char" rowspan="1" colspan="1">0.98</td><td align="char" rowspan="1" colspan="1"/><td align="char" rowspan="1" colspan="1"/><td align="char" rowspan="1" colspan="1">–</td><td align="char" rowspan="1" colspan="1">0.79<xref rid="puh2152-tbl1-note-0001" ref-type="table-fn">
+<sup>**</sup>
+</xref>
+</td><td align="char" rowspan="1" colspan="1">0.24<xref rid="puh2152-tbl1-note-0001" ref-type="table-fn">
+<sup>**</sup>
+</xref>
+</td><td align="char" rowspan="1" colspan="1">0.53<xref rid="puh2152-tbl1-note-0001" ref-type="table-fn">
+<sup>**</sup>
+</xref>
+</td><td align="char" rowspan="1" colspan="1">0.47<xref rid="puh2152-tbl1-note-0001" ref-type="table-fn">
+<sup>**</sup>
+</xref>
+</td><td align="char" rowspan="1" colspan="1">0.36<xref rid="puh2152-tbl1-note-0001" ref-type="table-fn">
+<sup>**</sup>
+</xref>
+</td><td align="char" rowspan="1" colspan="1">0.46<xref rid="puh2152-tbl1-note-0001" ref-type="table-fn">
+<sup>**</sup>
+</xref>
+</td><td align="char" rowspan="1" colspan="1">0.39<xref rid="puh2152-tbl1-note-0001" ref-type="table-fn">
+<sup>**</sup>
+</xref>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">5. Depression</td><td align="char" rowspan="1" colspan="1">1.87</td><td align="char" rowspan="1" colspan="1">1.00</td><td align="char" rowspan="1" colspan="1"/><td align="char" rowspan="1" colspan="1"/><td align="char" rowspan="1" colspan="1"/><td align="char" rowspan="1" colspan="1">–</td><td align="char" rowspan="1" colspan="1">0.24<xref rid="puh2152-tbl1-note-0001" ref-type="table-fn">
+<sup>**</sup>
+</xref>
+</td><td align="char" rowspan="1" colspan="1">0.48<xref rid="puh2152-tbl1-note-0001" ref-type="table-fn">
+<sup>**</sup>
+</xref>
+</td><td align="char" rowspan="1" colspan="1">0.44<xref rid="puh2152-tbl1-note-0001" ref-type="table-fn">
+<sup>**</sup>
+</xref>
+</td><td align="char" rowspan="1" colspan="1">0.35<xref rid="puh2152-tbl1-note-0001" ref-type="table-fn">
+<sup>**</sup>
+</xref>
+</td><td align="char" rowspan="1" colspan="1">0.36<xref rid="puh2152-tbl1-note-0001" ref-type="table-fn">
+<sup>**</sup>
+</xref>
+</td><td align="char" rowspan="1" colspan="1">0.39<xref rid="puh2152-tbl1-note-0001" ref-type="table-fn">
+<sup>**</sup>
+</xref>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">6. Physical function</td><td align="char" rowspan="1" colspan="1">1.83</td><td align="char" rowspan="1" colspan="1">1.13</td><td align="char" rowspan="1" colspan="1"/><td align="char" rowspan="1" colspan="1"/><td align="char" rowspan="1" colspan="1"/><td align="char" rowspan="1" colspan="1"/><td align="char" rowspan="1" colspan="1">–</td><td align="char" rowspan="1" colspan="1">0.51<xref rid="puh2152-tbl1-note-0001" ref-type="table-fn">
+<sup>**</sup>
+</xref>
+</td><td align="char" rowspan="1" colspan="1">0.68<xref rid="puh2152-tbl1-note-0001" ref-type="table-fn">
+<sup>**</sup>
+</xref>
+</td><td align="char" rowspan="1" colspan="1">0.68<xref rid="puh2152-tbl1-note-0001" ref-type="table-fn">
+<sup>**</sup>
+</xref>
+</td><td align="char" rowspan="1" colspan="1">0.34<xref rid="puh2152-tbl1-note-0001" ref-type="table-fn">
+<sup>**</sup>
+</xref>
+</td><td align="char" rowspan="1" colspan="1">0.03</td></tr><tr><td align="left" rowspan="1" colspan="1">7. Fatigue</td><td align="char" rowspan="1" colspan="1">2.84</td><td align="char" rowspan="1" colspan="1">1.25</td><td align="char" rowspan="1" colspan="1"/><td align="char" rowspan="1" colspan="1"/><td align="char" rowspan="1" colspan="1"/><td align="char" rowspan="1" colspan="1"/><td align="char" rowspan="1" colspan="1"/><td align="char" rowspan="1" colspan="1">–</td><td align="char" rowspan="1" colspan="1">0.71<xref rid="puh2152-tbl1-note-0001" ref-type="table-fn">
+<sup>**</sup>
+</xref>
+</td><td align="char" rowspan="1" colspan="1">0.60<xref rid="puh2152-tbl1-note-0001" ref-type="table-fn">
+<sup>**</sup>
+</xref>
+</td><td align="char" rowspan="1" colspan="1">0.60<xref rid="puh2152-tbl1-note-0001" ref-type="table-fn">
+<sup>**</sup>
+</xref>
+</td><td align="char" rowspan="1" colspan="1">0.26<xref rid="puh2152-tbl1-note-0001" ref-type="table-fn">
+<sup>**</sup>
+</xref>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">8. Social roles/Activity limitations</td><td align="char" rowspan="1" colspan="1">2.39</td><td align="char" rowspan="1" colspan="1">1.19</td><td align="char" rowspan="1" colspan="1"/><td align="char" rowspan="1" colspan="1"/><td align="char" rowspan="1" colspan="1"/><td align="char" rowspan="1" colspan="1"/><td align="char" rowspan="1" colspan="1"/><td align="char" rowspan="1" colspan="1"/><td align="char" rowspan="1" colspan="1">–</td><td align="char" rowspan="1" colspan="1">0.71<xref rid="puh2152-tbl1-note-0001" ref-type="table-fn">
+<sup>**</sup>
+</xref>
+</td><td align="char" rowspan="1" colspan="1">0.49<xref rid="puh2152-tbl1-note-0001" ref-type="table-fn">
+<sup>**</sup>
+</xref>
+</td><td align="char" rowspan="1" colspan="1">0.14*</td></tr><tr><td align="left" rowspan="1" colspan="1">9. Pain interference</td><td align="char" rowspan="1" colspan="1">2.27</td><td align="char" rowspan="1" colspan="1">1.23</td><td align="char" rowspan="1" colspan="1"/><td align="char" rowspan="1" colspan="1"/><td align="char" rowspan="1" colspan="1"/><td align="char" rowspan="1" colspan="1"/><td align="char" rowspan="1" colspan="1"/><td align="char" rowspan="1" colspan="1"/><td align="char" rowspan="1" colspan="1"/><td align="char" rowspan="1" colspan="1">–</td><td align="char" rowspan="1" colspan="1">0.47<xref rid="puh2152-tbl1-note-0001" ref-type="table-fn">
+<sup>**</sup>
+</xref>
+</td><td align="char" rowspan="1" colspan="1">0.17<xref rid="puh2152-tbl1-note-0001" ref-type="table-fn">
+<sup>**</sup>
+</xref>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">10. Sleep</td><td align="char" rowspan="1" colspan="1">2.92</td><td align="char" rowspan="1" colspan="1">0.95</td><td align="char" rowspan="1" colspan="1"/><td align="char" rowspan="1" colspan="1"/><td align="char" rowspan="1" colspan="1"/><td align="char" rowspan="1" colspan="1"/><td align="char" rowspan="1" colspan="1"/><td align="char" rowspan="1" colspan="1"/><td align="char" rowspan="1" colspan="1"/><td align="char" rowspan="1" colspan="1"/><td align="char" rowspan="1" colspan="1">–</td><td align="char" rowspan="1" colspan="1">0.27<xref rid="puh2152-tbl1-note-0001" ref-type="table-fn">
+<sup>**</sup>
+</xref>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">11. Eating disorder symptoms</td><td align="char" rowspan="1" colspan="1">1.86</td><td align="char" rowspan="1" colspan="1">0.62</td><td align="char" rowspan="1" colspan="1"/><td align="char" rowspan="1" colspan="1"/><td align="char" rowspan="1" colspan="1"/><td align="char" rowspan="1" colspan="1"/><td align="char" rowspan="1" colspan="1"/><td align="char" rowspan="1" colspan="1"/><td align="char" rowspan="1" colspan="1"/><td align="char" rowspan="1" colspan="1"/><td align="char" rowspan="1" colspan="1"/><td align="char" rowspan="1" colspan="1">–</td></tr></tbody></table><table-wrap-foot><fn id="puh2152-tbl1-note-0001"><label>**</label><p>
+<italic toggle="yes">p</italic> &lt; 0.01.</p></fn><fn id="puh2152-tbl1-note-0002"><label>*</label><p>
+<italic toggle="yes">p</italic> &lt; 0.05.</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &amp; Sons, Ltd.</copyright-holder></permissions></table-wrap><p>Table <xref rid="puh2152-tbl-0002" ref-type="table">2</xref> shows results of the ANCOVAs. Sex was related to fatigue and pain interference with women reporting greater levels than men. Race and ethnicity were not associated with any mental or physical health variables. BMI was positively associated with greater pain interference and eating disorder symptoms. Greater COVID‐19 distress was associated with greater anxiety, depression, fatigue, social roles/activity limitations, pain interference, poor sleep, and eating disorder symptoms. Long covid group was associated with anxiety, depression, physical function, fatigue, social roles/activity limitations, and pain interference. There were no differences between the groups in sleep or eating disorder symptoms.</p><table-wrap position="float" id="puh2152-tbl-0002" content-type="TABLE" orientation="portrait"><label>TABLE 2</label><caption><p>Summary of models of associations of long covid with mental and physical health among University of Southern California Patients in Los Angeles, CA, 2023.</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="char" char="." span="1"/><col align="char" char="." span="1"/><col align="char" char="." span="1"/><col align="char" char="." span="1"/><col align="char" char="." span="1"/><col align="char" char="." span="1"/><col align="char" char="." span="1"/><col align="char" char="." span="1"/><col align="char" char="." span="1"/><col align="char" char="." span="1"/><col align="char" char="." span="1"/><col align="char" char="." span="1"/><thead><tr><th align="left" rowspan="1" colspan="1"/><th colspan="3" style="border-bottom:solid 1px #000000" align="left" rowspan="1">Anxiety</th><th colspan="3" style="border-bottom:solid 1px #000000" align="left" rowspan="1">Depression</th><th colspan="3" style="border-bottom:solid 1px #000000" align="left" rowspan="1">Physical function</th><th colspan="3" style="border-bottom:solid 1px #000000" align="left" rowspan="1">Fatigue</th></tr><tr style="border-bottom:solid 1px #000000"><th align="left" rowspan="1" colspan="1"/><th align="left" rowspan="1" colspan="1">
+<italic toggle="yes">F</italic>
+</th><th align="left" rowspan="1" colspan="1">
+<italic toggle="yes">p</italic>
+</th><th align="left" rowspan="1" colspan="1">
+<italic toggle="yes">η</italic>
+<sup>2</sup>
+</th><th align="left" rowspan="1" colspan="1">
+<italic toggle="yes">F</italic>
+</th><th align="left" rowspan="1" colspan="1">
+<italic toggle="yes">p</italic>
+</th><th align="left" rowspan="1" colspan="1">
+<italic toggle="yes">η</italic>
+<sup>2</sup>
+</th><th align="left" rowspan="1" colspan="1">
+<italic toggle="yes">F</italic>
+</th><th align="left" rowspan="1" colspan="1">
+<italic toggle="yes">p</italic>
+</th><th align="left" rowspan="1" colspan="1">
+<italic toggle="yes">η</italic>
+<sup>2</sup>
+</th><th align="left" rowspan="1" colspan="1">
+<italic toggle="yes">F</italic>
+</th><th align="left" rowspan="1" colspan="1">
+<italic toggle="yes">p</italic>
+</th><th align="left" rowspan="1" colspan="1">
+<italic toggle="yes">η</italic>
+<sup>2</sup>
+</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">Sex</td><td align="char" rowspan="1" colspan="1">0.17</td><td align="char" rowspan="1" colspan="1">0.69</td><td align="char" rowspan="1" colspan="1">0.001</td><td align="char" rowspan="1" colspan="1">0.92</td><td align="char" rowspan="1" colspan="1">0.34</td><td align="char" rowspan="1" colspan="1">0.004</td><td align="char" rowspan="1" colspan="1">2.59</td><td align="char" rowspan="1" colspan="1">0.11</td><td align="char" rowspan="1" colspan="1">0.01</td><td align="char" rowspan="1" colspan="1">6.23</td><td align="char" rowspan="1" colspan="1">0.01</td><td align="char" rowspan="1" colspan="1">0.02</td></tr><tr><td align="left" rowspan="1" colspan="1">Hispanicity</td><td align="char" rowspan="1" colspan="1">0.84</td><td align="char" rowspan="1" colspan="1">0.36</td><td align="char" rowspan="1" colspan="1">0.003</td><td align="char" rowspan="1" colspan="1">0.44</td><td align="char" rowspan="1" colspan="1">0.51</td><td align="char" rowspan="1" colspan="1">0.002</td><td align="char" rowspan="1" colspan="1">0.04</td><td align="char" rowspan="1" colspan="1">0.85</td><td align="char" rowspan="1" colspan="1">0.000</td><td align="char" rowspan="1" colspan="1">2.13</td><td align="char" rowspan="1" colspan="1">0.15</td><td align="char" rowspan="1" colspan="1">0.01</td></tr><tr><td align="left" rowspan="1" colspan="1">Race</td><td align="char" rowspan="1" colspan="1">0.85</td><td align="char" rowspan="1" colspan="1">0.53</td><td align="char" rowspan="1" colspan="1">0.02</td><td align="char" rowspan="1" colspan="1">0.67</td><td align="char" rowspan="1" colspan="1">0.67</td><td align="char" rowspan="1" colspan="1">0.02</td><td align="char" rowspan="1" colspan="1">0.76</td><td align="char" rowspan="1" colspan="1">0.60</td><td align="char" rowspan="1" colspan="1">0.02</td><td align="char" rowspan="1" colspan="1">0.72</td><td align="char" rowspan="1" colspan="1">0.63</td><td align="char" rowspan="1" colspan="1">0.02</td></tr><tr><td align="left" rowspan="1" colspan="1">Age</td><td align="char" rowspan="1" colspan="1">0.54</td><td align="char" rowspan="1" colspan="1">0.46</td><td align="char" rowspan="1" colspan="1">0.002</td><td align="char" rowspan="1" colspan="1">0.01</td><td align="char" rowspan="1" colspan="1">0.91</td><td align="char" rowspan="1" colspan="1">0.000</td><td align="char" rowspan="1" colspan="1">16.31</td><td align="char" rowspan="1" colspan="1">&lt;0.001</td><td align="char" rowspan="1" colspan="1">0.06</td><td align="char" rowspan="1" colspan="1">1.14</td><td align="char" rowspan="1" colspan="1">0.33</td><td align="char" rowspan="1" colspan="1">0.004</td></tr><tr><td align="left" rowspan="1" colspan="1">Body mass index</td><td align="char" rowspan="1" colspan="1">0.004</td><td align="char" rowspan="1" colspan="1">0.95</td><td align="char" rowspan="1" colspan="1">0.000</td><td align="char" rowspan="1" colspan="1">0.02</td><td align="char" rowspan="1" colspan="1">0.88</td><td align="char" rowspan="1" colspan="1">0.000</td><td align="char" rowspan="1" colspan="1">2.50</td><td align="char" rowspan="1" colspan="1">0.12</td><td align="char" rowspan="1" colspan="1">0.01</td><td align="char" rowspan="1" colspan="1">4.21</td><td align="char" rowspan="1" colspan="1">0.06</td><td align="char" rowspan="1" colspan="1">0.01</td></tr><tr><td align="left" rowspan="1" colspan="1">COVID‐19 distress</td><td align="char" rowspan="1" colspan="1">69.78</td><td align="char" rowspan="1" colspan="1">&lt;0.001</td><td align="char" rowspan="1" colspan="1">0.22</td><td align="char" rowspan="1" colspan="1">46.29</td><td align="char" rowspan="1" colspan="1">&lt;0.001</td><td align="char" rowspan="1" colspan="1">0.16</td><td align="char" rowspan="1" colspan="1">3.21</td><td align="char" rowspan="1" colspan="1">0.07</td><td align="char" rowspan="1" colspan="1">0.03</td><td align="char" rowspan="1" colspan="1">14.24</td><td align="char" rowspan="1" colspan="1">&lt;0.001</td><td align="char" rowspan="1" colspan="1">0.05</td></tr><tr><td align="left" rowspan="1" colspan="1">Long Covid</td><td align="char" rowspan="1" colspan="1">6.48</td><td align="char" rowspan="1" colspan="1">0.002</td><td align="char" rowspan="1" colspan="1">0.05</td><td align="char" rowspan="1" colspan="1">6.36</td><td align="char" rowspan="1" colspan="1">0.002</td><td align="char" rowspan="1" colspan="1">0.05</td><td align="char" rowspan="1" colspan="1">4.30</td><td align="char" rowspan="1" colspan="1">0.02</td><td align="char" rowspan="1" colspan="1">0.01</td><td align="char" rowspan="1" colspan="1">36.12</td><td align="char" rowspan="1" colspan="1">&lt;0.001</td><td align="char" rowspan="1" colspan="1">0.11</td></tr><tr><td align="left" rowspan="1" colspan="1">Model <italic toggle="yes">R<sup>2</sup>
+</italic>
+</td><td align="char" rowspan="1" colspan="1">0.36</td><td align="char" rowspan="1" colspan="1"/><td align="char" rowspan="1" colspan="1"/><td align="char" rowspan="1" colspan="1">0.27</td><td align="char" rowspan="1" colspan="1"/><td align="char" rowspan="1" colspan="1"/><td align="char" rowspan="1" colspan="1">0.02</td><td align="char" rowspan="1" colspan="1"/><td align="char" rowspan="1" colspan="1"/><td align="char" rowspan="1" colspan="1">0.28</td><td align="char" rowspan="1" colspan="1"/><td align="char" rowspan="1" colspan="1"/></tr></tbody></table><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="char" char="." span="1"/><col align="char" char="." span="1"/><col align="char" char="." span="1"/><col align="char" char="." span="1"/><col align="char" char="." span="1"/><col align="char" char="." span="1"/><col align="char" char="." span="1"/><col align="char" char="." span="1"/><col align="char" char="." span="1"/><col align="char" char="." span="1"/><col align="char" char="." span="1"/><col align="char" char="." span="1"/><thead><tr><th align="left" rowspan="1" colspan="1"/><th align="left" colspan="3" style="border-bottom:solid 1px #000000" rowspan="1">Social roles/Activity limitation</th><th align="left" colspan="3" style="border-bottom:solid 1px #000000" rowspan="1">Pain interference</th><th align="left" colspan="3" style="border-bottom:solid 1px #000000" rowspan="1">Poor sleep</th><th align="left" colspan="3" style="border-bottom:solid 1px #000000" rowspan="1">Eating disorder symptoms</th></tr><tr style="border-bottom:solid 1px #000000"><th align="left" rowspan="1" colspan="1"/><th align="left" rowspan="1" colspan="1">
+<italic toggle="yes">F</italic>
+</th><th align="left" rowspan="1" colspan="1">
+<italic toggle="yes">p</italic>
+</th><th align="left" rowspan="1" colspan="1">
+<italic toggle="yes">η</italic>
+<sup>2</sup>
+</th><th align="left" rowspan="1" colspan="1">
+<italic toggle="yes">F</italic>
+</th><th align="left" rowspan="1" colspan="1">
+<italic toggle="yes">p</italic>
+</th><th align="left" rowspan="1" colspan="1">
+<italic toggle="yes">η</italic>
+<sup>2</sup>
+</th><th align="left" rowspan="1" colspan="1">
+<italic toggle="yes">F</italic>
+</th><th align="left" rowspan="1" colspan="1">
+<italic toggle="yes">p</italic>
+</th><th align="left" rowspan="1" colspan="1">
+<italic toggle="yes">η</italic>
+<sup>2</sup>
+</th><th align="left" rowspan="1" colspan="1">
+<italic toggle="yes">F</italic>
+</th><th align="left" rowspan="1" colspan="1">
+<italic toggle="yes">p</italic>
+</th><th align="left" rowspan="1" colspan="1">
+<italic toggle="yes">η</italic>
+<sup>2</sup>
+</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">Sex</td><td align="char" rowspan="1" colspan="1">1.42</td><td align="char" rowspan="1" colspan="1">0.23</td><td align="char" rowspan="1" colspan="1">0.01</td><td align="char" rowspan="1" colspan="1">7.81</td><td align="char" rowspan="1" colspan="1">0.006</td><td align="char" rowspan="1" colspan="1">0.03</td><td align="char" rowspan="1" colspan="1">0.51</td><td align="char" rowspan="1" colspan="1">0.48</td><td align="char" rowspan="1" colspan="1">0.002</td><td align="char" rowspan="1" colspan="1">0.22</td><td align="char" rowspan="1" colspan="1">0.64</td><td align="char" rowspan="1" colspan="1">0.001</td></tr><tr><td align="left" rowspan="1" colspan="1">Hispanicity</td><td align="char" rowspan="1" colspan="1">0.97</td><td align="char" rowspan="1" colspan="1">0.33</td><td align="char" rowspan="1" colspan="1">0.004</td><td align="char" rowspan="1" colspan="1">0.06</td><td align="char" rowspan="1" colspan="1">0.81</td><td align="char" rowspan="1" colspan="1">0.000</td><td align="char" rowspan="1" colspan="1">0.71</td><td align="char" rowspan="1" colspan="1">0.40</td><td align="char" rowspan="1" colspan="1">0.003</td><td align="char" rowspan="1" colspan="1">1.38</td><td align="char" rowspan="1" colspan="1">0.24</td><td align="char" rowspan="1" colspan="1">0.01</td></tr><tr><td align="left" rowspan="1" colspan="1">Race</td><td align="char" rowspan="1" colspan="1">1.04</td><td align="char" rowspan="1" colspan="1">0.40</td><td align="char" rowspan="1" colspan="1">0.02</td><td align="char" rowspan="1" colspan="1">0.40</td><td align="char" rowspan="1" colspan="1">0.88</td><td align="char" rowspan="1" colspan="1">0.01</td><td align="char" rowspan="1" colspan="1">1.35</td><td align="char" rowspan="1" colspan="1">0.24</td><td align="char" rowspan="1" colspan="1">0.03</td><td align="char" rowspan="1" colspan="1">0.57</td><td align="char" rowspan="1" colspan="1">0.76</td><td align="char" rowspan="1" colspan="1">0.01</td></tr><tr><td align="left" rowspan="1" colspan="1">Age</td><td align="char" rowspan="1" colspan="1">3.24</td><td align="char" rowspan="1" colspan="1">0.07</td><td align="char" rowspan="1" colspan="1">0.01</td><td align="char" rowspan="1" colspan="1">12.78</td><td align="char" rowspan="1" colspan="1">&lt;0.001</td><td align="char" rowspan="1" colspan="1">0.05</td><td align="char" rowspan="1" colspan="1">0.00</td><td align="char" rowspan="1" colspan="1">0.99</td><td align="char" rowspan="1" colspan="1">0.06</td><td align="char" rowspan="1" colspan="1">2.21</td><td align="char" rowspan="1" colspan="1">0.14</td><td align="char" rowspan="1" colspan="1">0.01</td></tr><tr><td align="left" rowspan="1" colspan="1">Body mass index</td><td align="char" rowspan="1" colspan="1">3.75</td><td align="char" rowspan="1" colspan="1">0.05</td><td align="char" rowspan="1" colspan="1">0.02</td><td align="char" rowspan="1" colspan="1">7.14</td><td align="char" rowspan="1" colspan="1">0.008</td><td align="char" rowspan="1" colspan="1">0.03</td><td align="char" rowspan="1" colspan="1">1.75</td><td align="char" rowspan="1" colspan="1">0.19</td><td align="char" rowspan="1" colspan="1">0.007</td><td align="char" rowspan="1" colspan="1">24.14</td><td align="char" rowspan="1" colspan="1">&lt;0.001</td><td align="char" rowspan="1" colspan="1">0.09</td></tr><tr><td align="left" rowspan="1" colspan="1">COVID‐19 distress</td><td align="char" rowspan="1" colspan="1">24.48</td><td align="char" rowspan="1" colspan="1">&lt;0.001</td><td align="char" rowspan="1" colspan="1">0.09</td><td align="char" rowspan="1" colspan="1">6.19</td><td align="char" rowspan="1" colspan="1">0.01</td><td align="char" rowspan="1" colspan="1">0.02</td><td align="char" rowspan="1" colspan="1">17.62</td><td align="char" rowspan="1" colspan="1">&lt;0.001</td><td align="char" rowspan="1" colspan="1">0.07</td><td align="char" rowspan="1" colspan="1">6.22</td><td align="char" rowspan="1" colspan="1">0.01</td><td align="char" rowspan="1" colspan="1">0.02</td></tr><tr><td align="left" rowspan="1" colspan="1">Long Covid</td><td align="char" rowspan="1" colspan="1">8.08</td><td align="char" rowspan="1" colspan="1">&lt;0.001</td><td align="char" rowspan="1" colspan="1">0.06</td><td align="char" rowspan="1" colspan="1">7.22</td><td align="char" rowspan="1" colspan="1">&lt;0.001</td><td align="char" rowspan="1" colspan="1">0.06</td><td align="char" rowspan="1" colspan="1">3.06</td><td align="char" rowspan="1" colspan="1">0.05</td><td align="char" rowspan="1" colspan="1">0.02</td><td align="char" rowspan="1" colspan="1">0.57</td><td align="char" rowspan="1" colspan="1">0.57</td><td align="char" rowspan="1" colspan="1">0.004</td></tr><tr><td align="left" rowspan="1" colspan="1">Model <italic toggle="yes">R<sup>2</sup>
+</italic>
+</td><td align="char" rowspan="1" colspan="1">0.26</td><td align="char" rowspan="1" colspan="1"/><td align="char" rowspan="1" colspan="1"/><td align="char" rowspan="1" colspan="1">0.22</td><td align="char" rowspan="1" colspan="1"/><td align="char" rowspan="1" colspan="1"/><td align="char" rowspan="1" colspan="1">0.20</td><td align="char" rowspan="1" colspan="1"/><td align="char" rowspan="1" colspan="1"/><td align="char" rowspan="1" colspan="1">0.18</td><td align="char" rowspan="1" colspan="1"/><td align="char" rowspan="1" colspan="1"/></tr></tbody></table><permissions><copyright-holder>John Wiley &amp; Sons, Ltd.</copyright-holder></permissions></table-wrap><p>Table <xref rid="puh2152-tbl-0003" ref-type="table">3</xref> shows results of the post hoc tests examining differences between long covid groups on mental and physical health. The self‐reported long covid group had significantly greater anxiety and depression than the no long covid group. The diagnosed long covid group had significantly greater physical function problems than the no long covid group. Both long covid groups had significantly greater fatigue, social roles/activity limitations, and pain interference than the no long covid group.</p><table-wrap position="float" id="puh2152-tbl-0003" content-type="TABLE" orientation="portrait"><label>TABLE 3</label><caption><p>Post hoc follow‐up comparisons of long covid group on mental and physical health among University of Southern California Patients in Los Angeles, CA, 2023.</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="char" char="." span="1"/><col align="char" char="." span="1"/><col align="char" char="." span="1"/><thead><tr style="border-bottom:solid 1px #000000"><th align="left" rowspan="1" colspan="1"/><th align="left" rowspan="1" colspan="1">Diagnosed long covid</th><th align="left" rowspan="1" colspan="1">Self‐reported long covid</th><th align="left" rowspan="1" colspan="1">No long covid</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">Anxiety</td><td align="char" rowspan="1" colspan="1">1.89<sup>ab</sup>
+</td><td align="char" rowspan="1" colspan="1">2.16<sup>a</sup>
+</td><td align="char" rowspan="1" colspan="1">1.69<sup>b</sup>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">Depression</td><td align="char" rowspan="1" colspan="1">1.70<sup>ab</sup>
+</td><td align="char" rowspan="1" colspan="1">2.06<sup>a</sup>
+</td><td align="char" rowspan="1" colspan="1">1.56<sup>b</sup>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">Physical function</td><td align="char" rowspan="1" colspan="1">2.15<sup>a</sup>
+</td><td align="char" rowspan="1" colspan="1">1.92<sup>ab</sup>
+</td><td align="char" rowspan="1" colspan="1">1.64<sup>b</sup>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">Fatigue</td><td align="char" rowspan="1" colspan="1">3.11<sup>a</sup>
+</td><td align="char" rowspan="1" colspan="1">3.13<sup>a</sup>
+</td><td align="char" rowspan="1" colspan="1">2.31<sup>b</sup>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">Social roles/Activity limitations</td><td align="char" rowspan="1" colspan="1">2.60<sup>a</sup>
+</td><td align="char" rowspan="1" colspan="1">2.40<sup>a</sup>
+</td><td align="char" rowspan="1" colspan="1">1.94<sup>b</sup>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">Pain interference</td><td align="char" rowspan="1" colspan="1">2.59<sup>a</sup>
+</td><td align="char" rowspan="1" colspan="1">2.36<sup>a</sup>
+</td><td align="char" rowspan="1" colspan="1">1.92<sup>b</sup>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">Poor sleep</td><td align="char" rowspan="1" colspan="1">2.86<sup>a</sup>
+</td><td align="char" rowspan="1" colspan="1">2.96<sup>a</sup>
+</td><td align="char" rowspan="1" colspan="1">2.63<sup>a</sup>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">Eating disorder symptoms</td><td align="char" rowspan="1" colspan="1">1.68<sup>a</sup>
+</td><td align="char" rowspan="1" colspan="1">1.78<sup>a</sup>
+</td><td align="char" rowspan="1" colspan="1">1.70<sup>a</sup>
+</td></tr></tbody></table><table-wrap-foot><fn id="puh2152-tbl3-note-0001"><p>
+<italic toggle="yes">Note</italic>. Means with different superscripts are significantly different (<italic toggle="yes">p</italic> &lt; 0.05).</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &amp; Sons, Ltd.</copyright-holder></permissions></table-wrap></sec><sec id="puh2152-sec-0160"><title>DISCUSSION</title><p>The COVID‐19 pandemic had a widespread effect on global physical and mental health [<xref rid="puh2152-bib-0025" ref-type="bibr">25</xref>, <xref rid="puh2152-bib-0026" ref-type="bibr">26</xref>], and long covid represents a long‐term challenge that emerged from the virus. The present study aimed to investigate associations of long covid (diagnosed and self‐reported) with mental and physical health, controlling for key covariates. Findings showed important differences between long covid groups on mental and physical health.</p><p>Consistent with a recent meta‐analysis [<xref rid="puh2152-bib-0010" ref-type="bibr">10</xref>], participants with diagnosed or self‐reported long covid had elevated fatigue compared to those without long covid, showing a medium‐to‐large effect size. In addition, both long covid groups had significantly greater social roles/activity limitations and pain interference than the no long covid group, which aligns with other research on pain and activity limitations in long covid [<xref rid="puh2152-bib-0027" ref-type="bibr">27</xref>, <xref rid="puh2152-bib-0028" ref-type="bibr">28</xref>]. The diagnosed long covid group also had significantly greater physical function problems than the no long covid group, but the self‐reported long covid group did not differ from the other groups. It is possible that elevated physical function problems (e.g., not being able to do daily activities) may contribute to a higher likelihood of receiving a long covid diagnosis.</p><p>Participants with self‐reported long covid had significantly greater anxiety and depression than the no long covid group; however, there were no other group differences. Studies have shown that long covid is associated with anxiety, depression, and stress [<xref rid="puh2152-bib-0029" ref-type="bibr">29</xref>], potentially due to the uncertainty surrounding the condition and symptoms. Given that those diagnosed with long covid did not show elevated anxiety and depression, it is possible that receiving a diagnosis helps alleviate the mental health burden of long covid, including reducing intolerance of uncertainty [<xref rid="puh2152-bib-0008" ref-type="bibr">8</xref>]. Receiving a diagnosis and understanding the underlying cause of their physical symptoms may help patients stop the cycle by which the unknown nature of their physical symptoms leads to anxiety [<xref rid="puh2152-bib-0030" ref-type="bibr">30</xref>]. Moreover, receiving a diagnosis may lead to the start of treatment and the potential alleviation of symptoms [<xref rid="puh2152-bib-0031" ref-type="bibr">31</xref>]. However, it is possible that the presence of anxiety and depressive symptoms is associated with less likelihood of a formal diagnosis of long covid being given. Importantly, Hispanic participants had elevated rates of having self‐reported long covid, which may be due to several factors such as reduced healthcare coverage or structural racism in healthcare often experienced by minorities [<xref rid="puh2152-bib-0032" ref-type="bibr">32</xref>, <xref rid="puh2152-bib-0033" ref-type="bibr">33</xref>]. Inequities have been discussed and are still emerging in addressing long covid among people of color [<xref rid="puh2152-bib-0034" ref-type="bibr">34</xref>]. Failure to address long covid symptoms in Hispanic individuals could lead to increased mental healthcare burden for Hispanics over time.</p><p>Alternatively, there is also evidence of bidirectional associations between mental health and long covid symptoms, with depression and anxiety being risk factors for long covid and long covid leading to poor mental health [<xref rid="puh2152-bib-0035" ref-type="bibr">35</xref>]. Given elevated mental health problems only among the self‐report long covid group and not the diagnosed group, it is possible those with prior mental health challenges are more aware of their body/health as it relates to chronic conditions. Therefore, if they have lasting symptoms, they might be more likely to report having long covid even though they might not be diagnosed with long covid.</p><p>COVID‐19 distress was associated with poor outcomes, with higher effect sizes for mental health outcomes. Individuals with long covid reported more COVID‐19 distress, and thus, there could be synergistic effects of these factors in predicting mental and physical health outcomes. However, models showed that COVID‐19 distress had an independent effect on outcomes controlling for long covid, especially with regard to mental health outcomes; this underscores the importance of assessing and treating COVID‐19 distress in addition to long covid.</p><p>Although research is still emerging, there are several biologic and psychosocial interventions that have been proposed for treating long covid [<xref rid="puh2152-bib-0036" ref-type="bibr">36</xref>, <xref rid="puh2152-bib-0037" ref-type="bibr">37</xref>]. However, individuals with long covid symptoms have reported having low access to services and treatments, and this lack of access has led to stress and anxiety [<xref rid="puh2152-bib-0038" ref-type="bibr">38</xref>]. In addition, when accessing treatment services, many individuals with long covid symptoms report experiencing discrimination and stigma from healthcare professionals, including not believing symptoms [<xref rid="puh2152-bib-0039" ref-type="bibr">39</xref>]. Although long covid is complex and can manifest in many different ways, it is critical to provide evidence‐based approaches to the assessment and treatment of long covid [<xref rid="puh2152-bib-0040" ref-type="bibr">40</xref>]. In addition, a trauma‐informed approach has been recommended given the traumatic nature of a life‐altering chronic condition [<xref rid="puh2152-bib-0040" ref-type="bibr">40</xref>].</p><p>Although this study adds to our knowledge of long covid and mental and physical health, there are several limitations that must be noted. All data were self‐reported by participants, which is subject to recall biases. The study recruited adults from a clinical database in Southern California, which may not be representative or generalizable to other people in the United States or globally. Preexisting history of psychiatric disorders prior to COVID‐19 infection may be an important factor in understanding the effect of long covid on mental and physical health [<xref rid="puh2152-bib-0041" ref-type="bibr">41</xref>], but prior psychiatric history was not collected. Further, post‐traumatic stress disorder symptoms have been associated with long covid but were not measured in the current study [<xref rid="puh2152-bib-0042" ref-type="bibr">42</xref>]. Moreover, the measure of COVID‐19 distress was validated among data collected from adults in 2020–2021 [<xref rid="puh2152-bib-0023" ref-type="bibr">23</xref>], and it is unclear if there are differences in acute versus chronic pandemic‐related distress that are not captured by this measure. Finally, this study was cross‐sectional, and thus, causal interpretations cannot be elucidated from this data.</p></sec><sec id="puh2152-sec-0170"><title>CONCLUSION</title><p>In summary, this study provides insights into the association of long covid with aspects of mental and physical health. Findings highlighted fatigue as the most significant symptom associated with long covid, with other physical health challenges reported as well. In addition, negative mental health was only experienced by individuals with self‐reported long covid, suggesting the importance of long covid diagnosis and treatment. Addressing mental and physical health symptoms associated with long covid is critical to reducing the long‐term health burden of this condition. Research will be needed to determine interventions that improve physical and mental health outcomes, especially symptoms of fatigue.</p></sec><sec id="puh2152-sec-0180"><title>AUTHOR CONTRIBUTIONS</title><p>
+<italic toggle="yes">Conceptualization; data curation; formal analysis; funding acquisition; investigation; methodology; writing—original draft</italic>: Tyler B. Mason. <italic toggle="yes">Data curation; methodology; writing—reviewing and editing</italic>: Tara K Knight. <italic toggle="yes">Data curation; methodology; software; writing—reviewing and editing</italic>: Ryan Lee and Shirin E. Herzig. <italic toggle="yes">Conceptualization; funding acquisition; investigation; methodology; writing—reviewing and editing</italic>: Daniella Meeker and Jason N. Doctor.</p></sec><sec sec-type="COI-statement" id="puh2152-sec-0190"><title>CONFLICT OF INTEREST STATEMENT</title><p>The authors have no conflicts of interest.</p></sec><sec id="puh2152-sec-0200"><title>FUNDING INFORMATION</title><p>This project was supported by a grant from the USC Institute for Health Promotion &amp; Disease Prevention Research (IPR).</p></sec><sec id="puh2152-sec-0230"><title>ETHICS STATEMENT</title><p>All study procedures were reviewed and approved by the USC Institutional Review Board (HS‐20‐00793).</p></sec><sec id="puh2152-sec-0240"><title>PATIENT CONSENT</title><p>Informed consent was obtained through e‐consent in REDCap.</p></sec></body><back><sec sec-type="data-availability" id="puh2152-sec-0220"><title>DATA AVAILABILITY STATEMENT</title><p>Data is available through contacting the corresponding author.</p></sec><ref-list id="puh2152-bibl-0001"><title>REFERENCES</title><ref id="puh2152-bib-0001"><label>1</label><mixed-citation publication-type="journal" id="puh2152-cit-0001">
+<string-name name-style="western">
+<surname>Leung</surname>
+<given-names>TY</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chan</surname>
+<given-names>AY</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chan</surname>
+<given-names>EW</given-names>
+</string-name>, et al. <article-title>Short‐and potential long‐term adverse health outcomes of COVID‐19: a rapid review</article-title>. <source>Emerg Microbes Infect</source>. <year>2020</year>;<volume>9</volume>(<issue>1</issue>):<fpage>2190</fpage>‐<lpage>2199</lpage>. doi:<pub-id pub-id-type="doi">10.1186/s13027-021-00401-3</pub-id>
+<pub-id pub-id-type="pmid">32940572</pub-id>
+<pub-id pub-id-type="pmcid">PMC7586446</pub-id></mixed-citation></ref><ref id="puh2152-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="puh2152-cit-0002">
+<string-name name-style="western">
+<surname>Sudre</surname>
+<given-names>CH</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Murray</surname>
+<given-names>B</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Varsavsky</surname>
+<given-names>T</given-names>
+</string-name>, et al. <article-title>Attributes and predictors of long COVID</article-title>. <source>Nat Med</source>. <year>2021</year>;<volume>27</volume>:<fpage>626</fpage>‐<lpage>631</lpage>.<pub-id pub-id-type="pmid">33692530</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41591-021-01292-y</pub-id><pub-id pub-id-type="pmcid">PMC7611399</pub-id></mixed-citation></ref><ref id="puh2152-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="puh2152-cit-0003">
+<string-name name-style="western">
+<surname>Cabrera Martimbianco</surname>
+<given-names>AL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Pacheco</surname>
+<given-names>RL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bagattini</surname>
+<given-names>ÂM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Riera</surname>
+<given-names>R</given-names>
+</string-name>. <article-title>Frequency, signs and symptoms, and criteria adopted for long COVID‐19: a systematic review</article-title>. <source>Int J Clin Pract</source>. <year>2021</year>;<volume>75</volume>(<issue>10</issue>):<elocation-id>e14357</elocation-id>. doi:<pub-id pub-id-type="doi">10.1111/ijcp.14357</pub-id>
+<pub-id pub-id-type="pmid">33977626</pub-id>
+<pub-id pub-id-type="pmcid">PMC8236920</pub-id></mixed-citation></ref><ref id="puh2152-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="puh2152-cit-0004">
+<string-name name-style="western">
+<surname>van Kessel</surname>
+<given-names>SA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Olde Hartman</surname>
+<given-names>TC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lucassen</surname>
+<given-names>PL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>van Jaarsveld</surname>
+<given-names>CH</given-names>
+</string-name>. <article-title>Post‐acute and long‐COVID‐19 symptoms in patients with mild diseases: a systematic review</article-title>. <source>Fam Pract</source>. <year>2022</year>;<volume>39</volume>(<issue>1</issue>):<fpage>159</fpage>‐<lpage>167</lpage>. doi:<pub-id pub-id-type="doi">10.1093/fampra/cmab076</pub-id>
+<pub-id pub-id-type="pmid">34268556</pub-id>
+<pub-id pub-id-type="pmcid">PMC8414057</pub-id></mixed-citation></ref><ref id="puh2152-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="puh2152-cit-0005">
+<string-name name-style="western">
+<surname>Mendelson</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Nel</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Blumberg</surname>
+<given-names>L</given-names>
+</string-name>, et al. <article-title>Long‐COVID: an evolving problem with an extensive impact</article-title>. <source>S Afr Med J</source>. <year>2021</year>;<volume>111</volume>(<issue>1</issue>):<fpage>10</fpage>‐<lpage>12</lpage>. doi:<pub-id pub-id-type="doi">10.7196/SAMJ.2021.v111i1.15433</pub-id>
+<pub-id pub-id-type="pmid">33403997</pub-id></mixed-citation></ref><ref id="puh2152-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="puh2152-cit-0006">
+<string-name name-style="western">
+<surname>Bucciarelli</surname>
+<given-names>V</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Nasi</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bianco</surname>
+<given-names>F</given-names>
+</string-name>, et al. <article-title>Depression pandemic and cardiovascular risk in the COVID‐19 era and long COVID syndrome: gender makes a difference</article-title>. <source>Trends Cardiovasc Med</source>. <year>2022</year>;<volume>32</volume>(<issue>1</issue>):<fpage>12</fpage>‐<lpage>17</lpage>. doi:<pub-id pub-id-type="doi">10.1016/j.tcm.2021.09.009</pub-id>
+<pub-id pub-id-type="pmid">34619336</pub-id>
+<pub-id pub-id-type="pmcid">PMC8490128</pub-id></mixed-citation></ref><ref id="puh2152-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="puh2152-cit-0007">
+<string-name name-style="western">
+<surname>Righi</surname>
+<given-names>E</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mirandola</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mazzaferri</surname>
+<given-names>F</given-names>
+</string-name>, et al. <article-title>Determinants of persistence of symptoms and impact on physical and mental wellbeing in long COVID: a prospective cohort study</article-title>. <source>J Infect</source>. <year>2022</year>;<volume>84</volume>(<issue>4</issue>):<fpage>566</fpage>‐<lpage>572</lpage>. doi:<pub-id pub-id-type="doi">10.1016/j.jinf.2022.02.003</pub-id>
+<pub-id pub-id-type="pmid">35150765</pub-id>
+<pub-id pub-id-type="pmcid">PMC8828388</pub-id></mixed-citation></ref><ref id="puh2152-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="puh2152-cit-0008">
+<string-name name-style="western">
+<surname>Lemogne</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gouraud</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Pitron</surname>
+<given-names>V</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ranque</surname>
+<given-names>B</given-names>
+</string-name>. <article-title>Why the hypothesis of psychological mechanisms in long COVID is worth considering</article-title>. <source>J Psychosom Res</source>. <year>2023</year>;<volume>165</volume>:<elocation-id>111135</elocation-id>. doi:<pub-id pub-id-type="doi">10.1016/j.jpsychores.2022.111135</pub-id>
+<pub-id pub-id-type="pmid">36623391</pub-id>
+<pub-id pub-id-type="pmcid">PMC9825049</pub-id></mixed-citation></ref><ref id="puh2152-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="puh2152-cit-0009">
+<string-name name-style="western">
+<surname>Ettman</surname>
+<given-names>CK</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Abdalla</surname>
+<given-names>SM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cohen</surname>
+<given-names>GH</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sampson</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Vivier</surname>
+<given-names>PM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Galea</surname>
+<given-names>S</given-names>
+</string-name>. <article-title>Prevalence of depression symptoms in US adults before and during the COVID‐19 pandemic</article-title>. <source>JAMA Netw Open</source>. <year>2020</year>;<volume>3</volume>(<issue>9</issue>):<fpage>e2019686</fpage>‐<lpage>e2019686</lpage>. doi:<pub-id pub-id-type="doi">10.1001/jamanetworkopen.2020.19686</pub-id>
+<pub-id pub-id-type="pmid">32876685</pub-id>
+<pub-id pub-id-type="pmcid">PMC7489837</pub-id></mixed-citation></ref><ref id="puh2152-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="puh2152-cit-0010">
+<string-name name-style="western">
+<surname>Natarajan</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Shetty</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Delanerolle</surname>
+<given-names>G</given-names>
+</string-name>, et al. <article-title>A systematic review and meta‐analysis of long COVID symptoms</article-title>. <source>Syst Rev</source>. <year>2023</year>;<volume>12</volume>(<issue>1</issue>):<fpage>1</fpage>‐<lpage>9</lpage>. doi:<pub-id pub-id-type="doi">10.1186/s13643-023-02250-0</pub-id>
+<pub-id pub-id-type="pmid">37245047</pub-id>
+<pub-id pub-id-type="pmcid">PMC10220332</pub-id></mixed-citation></ref><ref id="puh2152-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="puh2152-cit-0011">
+<string-name name-style="western">
+<surname>Seo</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Le</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Georgoudiou</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Austin</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jantraporn</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Monsen</surname>
+<given-names>KA</given-names>
+</string-name>. <article-title>Synthesis of long COVID symptoms: an evidence‐based standardized mapping study with the Omaha system</article-title>. <source>Res Theory Nurs Pract</source>. <year>2023</year>. doi:<pub-id pub-id-type="doi">10.1891/RTNP-2022-0146</pub-id>
+<pub-id pub-id-type="pmid">37380223</pub-id></mixed-citation></ref><ref id="puh2152-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="puh2152-cit-0012">
+<string-name name-style="western">
+<surname>Sykes</surname>
+<given-names>DL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Holdsworth</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jawad</surname>
+<given-names>N</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gunasekera</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Morice</surname>
+<given-names>AH</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Crooks</surname>
+<given-names>MG</given-names>
+</string-name>. <article-title>Post‐COVID‐19 symptom burden: what is long‐COVID and how should we manage it?</article-title>
+<source>Lung</source>. <year>2021</year>;<volume>199</volume>:<fpage>113</fpage>‐<lpage>119</lpage>.<pub-id pub-id-type="pmid">33569660</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s00408-021-00423-z</pub-id><pub-id pub-id-type="pmcid">PMC7875681</pub-id></mixed-citation></ref><ref id="puh2152-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="puh2152-cit-0013">
+<string-name name-style="western">
+<surname>Alcendor</surname>
+<given-names>DJ</given-names>
+</string-name>. <article-title>Racial disparities‐associated COVID‐19 mortality among minority populations in the US</article-title>. <source>J Clin Med</source>. <year>2020</year>;<volume>9</volume>:<fpage>2442</fpage>.<pub-id pub-id-type="pmid">32751633</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3390/jcm9082442</pub-id><pub-id pub-id-type="pmcid">PMC7466083</pub-id></mixed-citation></ref><ref id="puh2152-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="puh2152-cit-0014">
+<string-name name-style="western">
+<surname>Vimercati</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>De Maria</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Quarato</surname>
+<given-names>M</given-names>
+</string-name>, et al. <article-title>Association between long COVID and overweight/obesity</article-title>. <source>J Clin Med</source>. <year>2021</year>;<volume>10</volume>(<issue>18</issue>):<fpage>4143</fpage>. doi:<pub-id pub-id-type="doi">10.3390/jcm10184143</pub-id>
+<pub-id pub-id-type="pmid">34575251</pub-id>
+<pub-id pub-id-type="pmcid">PMC8469321</pub-id></mixed-citation></ref><ref id="puh2152-bib-0015"><label>15</label><mixed-citation publication-type="journal" id="puh2152-cit-0015">
+<string-name name-style="western">
+<surname>Devoe</surname>
+<given-names>DJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Han</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Anderson</surname>
+<given-names>A</given-names>
+</string-name>, et al. <article-title>The impact of the COVID‐19 pandemic on eating disorders: a systematic review</article-title>. <source>Int J Eat Disord</source>. <year>2023</year>;<volume>56</volume>(<issue>1</issue>):<fpage>5</fpage>‐<lpage>25</lpage>. doi:<pub-id pub-id-type="doi">10.1002/eat.23704</pub-id>
+<pub-id pub-id-type="pmid">35384016</pub-id>
+<pub-id pub-id-type="pmcid">PMC9087369</pub-id></mixed-citation></ref><ref id="puh2152-bib-0016"><label>16</label><mixed-citation publication-type="journal" id="puh2152-cit-0016">
+<string-name name-style="western">
+<surname>Kim</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wang</surname>
+<given-names>WL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mason</surname>
+<given-names>T</given-names>
+</string-name>. <article-title>Eating disorders and trajectory of mental health across the COVID‐19 pandemic: results from the understanding America study</article-title>. <source>J Affect Disord Rep</source>. <year>2021</year>;<volume>5</volume>:<elocation-id>100187</elocation-id>. doi:<pub-id pub-id-type="doi">10.1016/j.jadr.2021.100187</pub-id>
+<pub-id pub-id-type="pmid">34642684</pub-id>
+<pub-id pub-id-type="pmcid">PMC8497175</pub-id></mixed-citation></ref><ref id="puh2152-bib-0017"><label>17</label><mixed-citation publication-type="journal" id="puh2152-cit-0017">
+<string-name name-style="western">
+<surname>Quick</surname>
+<given-names>VM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Byrd‐Bredbenner</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Neumark‐Sztainer</surname>
+<given-names>D</given-names>
+</string-name>. <article-title>Chronic illness and disordered eating: a discussion of the literature</article-title>. <source>Adv Nutr</source>. <year>2013</year>;<volume>4</volume>(<issue>3</issue>):<fpage>277</fpage>‐<lpage>286</lpage>. doi:<pub-id pub-id-type="doi">10.3945/an.112.003608</pub-id>
+<pub-id pub-id-type="pmid">23674793</pub-id>
+<pub-id pub-id-type="pmcid">PMC3650496</pub-id></mixed-citation></ref><ref id="puh2152-bib-0018"><label>18</label><mixed-citation publication-type="journal" id="puh2152-cit-0018">
+<string-name name-style="western">
+<surname>Romano</surname>
+<given-names>KA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Heron</surname>
+<given-names>KE</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Smith</surname>
+<given-names>KE</given-names>
+</string-name>, et al. <article-title>Somatic symptoms and binge eating in women's daily lives</article-title>. <source>J Psychosom Res</source>. <year>2020</year>;<volume>135</volume>:<elocation-id>110161</elocation-id>. doi:<pub-id pub-id-type="doi">10.1016/j.jpsychores.2020.110161</pub-id>
+<pub-id pub-id-type="pmid">32504896</pub-id>
+<pub-id pub-id-type="pmcid">PMC7365755</pub-id></mixed-citation></ref><ref id="puh2152-bib-0019"><label>19</label><mixed-citation publication-type="journal" id="puh2152-cit-0019">
+<string-name name-style="western">
+<surname>Zerwas</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Larsen</surname>
+<given-names>JT</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Petersen</surname>
+<given-names>L</given-names>
+</string-name>, et al. <article-title>Eating disorders, autoimmune, and autoinflammatory disease</article-title>. <source>Pediatrics</source>. <year>2017</year>;<volume>140</volume>(<issue>6</issue>):<elocation-id>e20162089</elocation-id>.<pub-id pub-id-type="pmid">29122972</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1542/peds.2016-2089</pub-id><pub-id pub-id-type="pmcid">PMC5703777</pub-id></mixed-citation></ref><ref id="puh2152-bib-0020"><label>20</label><mixed-citation publication-type="journal" id="puh2152-cit-0020">
+<string-name name-style="western">
+<surname>Solmi</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bould</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lloyd</surname>
+<given-names>EC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lewis</surname>
+<given-names>G</given-names>
+</string-name>. <article-title>The shrouded visibility of eating disorders research</article-title>. <source>Lancet Psychiatry</source>. <year>2022</year>;<volume>8</volume>(<issue>2</issue>):<fpage>91</fpage>‐<lpage>92</lpage>. doi:<pub-id pub-id-type="doi">10.1016/S2215-0366(20)30423-5</pub-id>
+<pub-id pub-id-type="pmcid">PMC7613242</pub-id><pub-id pub-id-type="pmid">33227239</pub-id></mixed-citation></ref><ref id="puh2152-bib-0021"><label>21</label><mixed-citation publication-type="journal" id="puh2152-cit-0021">
+<string-name name-style="western">
+<surname>Cella</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Riley</surname>
+<given-names>W</given-names>
+</string-name>, <collab collab-type="authors">PROMIS Cooperative Group</collab>
+, et al. <article-title>The Patient‐Reported Outcomes Measurement Information System (PROMIS) developed and tested its first wave of adult self‐reported health outcome item banks: 2005–2008</article-title>. <source>J Clin Epidemiol</source>. <year>2010</year>;<volume>63</volume>(<issue>11</issue>):<fpage>1179</fpage>‐<lpage>1194</lpage>. doi:<pub-id pub-id-type="doi">10.1016/j.jclinepi.2010.04.011</pub-id>
+<pub-id pub-id-type="pmid">20685078</pub-id>
+<pub-id pub-id-type="pmcid">PMC2965562</pub-id></mixed-citation></ref><ref id="puh2152-bib-0022"><label>22</label><mixed-citation publication-type="journal" id="puh2152-cit-0022">
+<string-name name-style="western">
+<surname>Gideon</surname>
+<given-names>N</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hawkes</surname>
+<given-names>N</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mond</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Saunders</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tchanturia</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Serpell</surname>
+<given-names>L</given-names>
+</string-name>. <article-title>Development and psychometric validation of the EDE‐QS, a 12 item short form of the Eating Disorder Examination Questionnaire (EDE‐Q)</article-title>. <source>PLoS ONE</source>. <year>2016</year>;<volume>11</volume>(<issue>5</issue>):<elocation-id>e0152744</elocation-id>. doi:<pub-id pub-id-type="doi">10.1371/journal.pone.0152744</pub-id>
+<pub-id pub-id-type="pmid">27138364</pub-id>
+<pub-id pub-id-type="pmcid">PMC4854480</pub-id></mixed-citation></ref><ref id="puh2152-bib-0023"><label>23</label><mixed-citation publication-type="journal" id="puh2152-cit-0023">
+<string-name name-style="western">
+<surname>Blackwell</surname>
+<given-names>CK</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sherlock</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jackson</surname>
+<given-names>KL</given-names>
+</string-name>, et al. <article-title>Development and psychometric validation of the Pandemic‐Related Traumatic Stress Scale for children and adults</article-title>. <source>Psychol Assess</source>. <year>2023</year>;<volume>35</volume>(<issue>11</issue>):<fpage>1054</fpage>‐<lpage>1067</lpage>. doi:<pub-id pub-id-type="doi">10.1037/pas0001211</pub-id>
+<pub-id pub-id-type="pmid">37902671</pub-id>
+<pub-id pub-id-type="pmcid">PMC10773574</pub-id></mixed-citation></ref><ref id="puh2152-bib-0024"><label>24</label><mixed-citation publication-type="journal" id="puh2152-cit-0024">
+<string-name name-style="western">
+<surname>Gold</surname>
+<given-names>MS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bentler</surname>
+<given-names>PM</given-names>
+</string-name>. <article-title>Treatments of missing data: a Monte Carlo comparison of RBHDI, iterative stochastic regression imputation, and expectation‐maximization</article-title>. <source>Structural Equation Modeling</source>. <year>2000</year>;<volume>7</volume>(<issue>3</issue>):<fpage>319</fpage>‐<lpage>355</lpage>. doi:<pub-id pub-id-type="doi">10.1207/S15328007SEM0703_1</pub-id>
+</mixed-citation></ref><ref id="puh2152-bib-0025"><label>25</label><mixed-citation publication-type="journal" id="puh2152-cit-0025">
+<string-name name-style="western">
+<surname>Sanchez‐Ramirez</surname>
+<given-names>DC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Normand</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhaoyun</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Torres‐Castro</surname>
+<given-names>R</given-names>
+</string-name>. <article-title>Long‐term impact of COVID‐19: a systematic review of the literature and meta‐analysis</article-title>. <source>Biomedicines</source>. <year>2021</year>;<volume>9</volume>(<issue>8</issue>):<fpage>900</fpage>. doi:<pub-id pub-id-type="doi">10.3390/biomedicines9080900</pub-id>
+<pub-id pub-id-type="pmid">34440104</pub-id>
+<pub-id pub-id-type="pmcid">PMC8389585</pub-id></mixed-citation></ref><ref id="puh2152-bib-0026"><label>26</label><mixed-citation publication-type="journal" id="puh2152-cit-0026">
+<string-name name-style="western">
+<surname>Xiong</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lipsitz</surname>
+<given-names>O</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Nasri</surname>
+<given-names>F</given-names>
+</string-name>, et al. <article-title>Impact of COVID‐19 pandemic on mental health in the general population: a systematic review</article-title>. <source>J Affect Disord</source>. <year>2020</year>;<volume>277</volume>:<fpage>55</fpage>‐<lpage>64</lpage>. doi:<pub-id pub-id-type="doi">10.1016/j.jad.2020.08.001</pub-id>
+<pub-id pub-id-type="pmid">32799105</pub-id>
+<pub-id pub-id-type="pmcid">PMC7413844</pub-id></mixed-citation></ref><ref id="puh2152-bib-0027"><label>27</label><mixed-citation publication-type="journal" id="puh2152-cit-0027">
+<string-name name-style="western">
+<surname>Ford</surname>
+<given-names>ND</given-names>
+</string-name>. <article-title>Long COVID and significant activity limitation among adults, by age—United States, June 1–13, 2022, to June 7–19, 2023</article-title>. <source>MMWR Morb Mortal Wkly Rep</source>. <year>2023</year>;<volume>72</volume>:<fpage>866</fpage>‐<lpage>870</lpage>. <pub-id pub-id-type="doi">10.15585/mmwr.mm7232a3</pub-id>
+<pub-id pub-id-type="pmid">37561665</pub-id>
+<pub-id pub-id-type="pmcid">PMC10415000</pub-id></mixed-citation></ref><ref id="puh2152-bib-0028"><label>28</label><mixed-citation publication-type="journal" id="puh2152-cit-0028">
+<string-name name-style="western">
+<surname>Khoja</surname>
+<given-names>O</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Silva Passadouro</surname>
+<given-names>B</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mulvey</surname>
+<given-names>M</given-names>
+</string-name>, et al. <article-title>Clinical characteristics and mechanisms of musculoskeletal pain in long COVID</article-title>. <source>J Pain Res</source>. <year>2022</year>:<fpage>1729</fpage>‐<lpage>1748</lpage>. doi:<pub-id pub-id-type="doi">10.2147/JPR.S365026</pub-id>
+<pub-id pub-id-type="pmid">35747600</pub-id>
+<pub-id pub-id-type="pmcid">PMC9212788</pub-id></mixed-citation></ref><ref id="puh2152-bib-0029"><label>29</label><mixed-citation publication-type="journal" id="puh2152-cit-0029">
+<string-name name-style="western">
+<surname>Rudenstine</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Schulder</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bhatt</surname>
+<given-names>KJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>McNeal</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ettman</surname>
+<given-names>CK</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Galea</surname>
+<given-names>S</given-names>
+</string-name>. <article-title>Long‐COVID and comorbid depression and anxiety two years into the COVID‐19 pandemic</article-title>. <source>Psychiatry Res</source>. <year>2022</year>;<volume>317</volume>:<elocation-id>114924</elocation-id>. doi:<pub-id pub-id-type="doi">10.1016/j.psychres.2022.114924</pub-id>
+<pub-id pub-id-type="pmid">37732865</pub-id>
+<pub-id pub-id-type="pmcid">PMC9597528</pub-id></mixed-citation></ref><ref id="puh2152-bib-0030"><label>30</label><mixed-citation publication-type="book" id="puh2152-cit-0030">
+<string-name name-style="western">
+<surname>Burton</surname>
+<given-names>C</given-names>
+</string-name>. <source>ABC of Medically Unexplained Symptoms</source>. <publisher-name>John Wiley &amp; Sons</publisher-name>; <year>2012</year>.</mixed-citation></ref><ref id="puh2152-bib-0031"><label>31</label><mixed-citation publication-type="journal" id="puh2152-cit-0031">
+<string-name name-style="western">
+<surname>Yang</surname>
+<given-names>Z</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhao</surname>
+<given-names>X</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhu</surname>
+<given-names>Z</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Fu</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hu</surname>
+<given-names>Y</given-names>
+</string-name>. <article-title>How patients with an uncertain diagnosis experience intolerance of uncertainty: a grounded theory study</article-title>. <source>Psychol Res Behav Manage</source>. <year>2021</year>;<volume>14</volume>:<fpage>1269</fpage>‐<lpage>1279</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.2147/PRBM.S318263</pub-id><pub-id pub-id-type="pmcid">PMC8367199</pub-id><pub-id pub-id-type="pmid">34408511</pub-id></mixed-citation></ref><ref id="puh2152-bib-0032"><label>32</label><mixed-citation publication-type="journal" id="puh2152-cit-0032">
+<string-name name-style="western">
+<surname>Velasco‐Mondragon</surname>
+<given-names>E</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jimenez</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Palladino‐Davis</surname>
+<given-names>AG</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Davis</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Escamilla‐Cejudo</surname>
+<given-names>JA</given-names>
+</string-name>. <article-title>Hispanic health in the USA: a scoping review of the literature</article-title>. <source>Public Health Rev</source>. <year>2016</year>;<volume>37</volume>:<fpage>1</fpage>‐<lpage>27</lpage>. doi:<pub-id pub-id-type="doi">10.1186/s40985-016-0043-2</pub-id>
+<pub-id pub-id-type="pmid">29450072</pub-id>
+<pub-id pub-id-type="pmcid">PMC5809877</pub-id></mixed-citation></ref><ref id="puh2152-bib-0033"><label>33</label><mixed-citation publication-type="journal" id="puh2152-cit-0033">
+<string-name name-style="western">
+<surname>Yearby</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Clark</surname>
+<given-names>B</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Figueroa</surname>
+<given-names>JF</given-names>
+</string-name>. <article-title>Structural racism in historical and modern US health care policy: study examines structural racism in historical and modern US health care policy</article-title>. <source>Health Aff</source>. <year>2022</year>;<volume>41</volume>(<issue>2</issue>):<fpage>187</fpage>‐<lpage>194</lpage>. doi:<pub-id pub-id-type="doi">10.1377/hlthaff.2021.01466</pub-id>
+<pub-id pub-id-type="pmid">35130059</pub-id></mixed-citation></ref><ref id="puh2152-bib-0034"><label>34</label><mixed-citation publication-type="miscellaneous" id="puh2152-cit-0034">
+<string-name name-style="western">
+<surname>Farrah</surname>
+<given-names>T</given-names>
+</string-name>. <article-title>People of color with long COVID face uphill battle to be heard</article-title>. <italic toggle="yes">Scientific American</italic>; September 22, 2022. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.scientificamerican.com/article/people-of-color-with-long-covid-face-uphill-battle-to-be-heard/" ext-link-type="uri">https://www.scientificamerican.com/article/people‐of‐color‐with‐long‐covid‐face‐uphill‐battle‐to‐be‐heard/</ext-link>
+</mixed-citation></ref><ref id="puh2152-bib-0035"><label>35</label><mixed-citation publication-type="journal" id="puh2152-cit-0035">
+<string-name name-style="western">
+<surname>Tsampasian</surname>
+<given-names>V</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Elghazaly</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chattopadhyay</surname>
+<given-names>R</given-names>
+</string-name>, et al. <article-title>Risk factors associated with post–COVID‐19 condition: a systematic review and meta‐analysis</article-title>. <source>JAMA Intern. Med</source>. <year>2023</year>;<volume>183</volume>(<issue>6</issue>):<fpage>566</fpage>‐<lpage>580</lpage>. doi:<pub-id pub-id-type="doi">10.1001/jamainternmed.2023.0750</pub-id>
+<pub-id pub-id-type="pmid">36951832</pub-id>
+<pub-id pub-id-type="pmcid">PMC10037203</pub-id></mixed-citation></ref><ref id="puh2152-bib-0036"><label>36</label><mixed-citation publication-type="journal" id="puh2152-cit-0036">
+<string-name name-style="western">
+<surname>Hawke</surname>
+<given-names>LD</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Nguyen</surname>
+<given-names>AT</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ski</surname>
+<given-names>CF</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Thompson</surname>
+<given-names>DR</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ma</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Castle</surname>
+<given-names>D</given-names>
+</string-name>. <article-title>Interventions for mental health, cognition, and psychological wellbeing in long COVID: a systematic review of registered trials</article-title>. <source>Psychol Med</source>. <year>2022</year>;<volume>52</volume>(<issue>13</issue>):<fpage>2426</fpage>‐<lpage>2440</lpage>. doi:<pub-id pub-id-type="doi">10.1017/S0033291722002203</pub-id>
+<pub-id pub-id-type="pmid">35768406</pub-id>
+<pub-id pub-id-type="pmcid">PMC9300978</pub-id></mixed-citation></ref><ref id="puh2152-bib-0037"><label>37</label><mixed-citation publication-type="journal" id="puh2152-cit-0037">
+<string-name name-style="western">
+<surname>Ceban</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Leber</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jawad</surname>
+<given-names>MY</given-names>
+</string-name>, et al. <article-title>Registered clinical trials investigating treatment of long COVID: a scoping review and recommendations for research</article-title>. <source>Infect Dis</source>. <year>2022</year>;<volume>54</volume>(<issue>7</issue>):<fpage>467</fpage>‐<lpage>477</lpage>. doi:<pub-id pub-id-type="doi">10.1080/23744235.2022.2043560</pub-id>
+<pub-id pub-id-type="pmcid">PMC8935463</pub-id><pub-id pub-id-type="pmid">35282780</pub-id></mixed-citation></ref><ref id="puh2152-bib-0038"><label>38</label><mixed-citation publication-type="journal" id="puh2152-cit-0038">
+<string-name name-style="western">
+<surname>Burton</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Aughterson</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Fancourt</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Philip</surname>
+<given-names>KEJ</given-names>
+</string-name>. <article-title>Factors shaping the mental health and well‐being of people experiencing persistent COVID‐19 symptoms or ‘long COVID’: qualitative study</article-title>. <source>BJPsych Open</source>. <year>2022</year>;<volume>8</volume>(<issue>2</issue>):<elocation-id>e72</elocation-id>. doi:<pub-id pub-id-type="doi">10.1192/bjo.2022.38</pub-id>
+<pub-id pub-id-type="pmid">35307048</pub-id>
+<pub-id pub-id-type="pmcid">PMC8987646</pub-id></mixed-citation></ref><ref id="puh2152-bib-0039"><label>39</label><mixed-citation publication-type="journal" id="puh2152-cit-0039">
+<string-name name-style="western">
+<surname>Samper‐Pardo</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Oliván‐Blázquez</surname>
+<given-names>B</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Magallón‐Botaya</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Méndez‐López</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bartolomé‐Moreno</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>León‐Herrera</surname>
+<given-names>S</given-names>
+</string-name>. <article-title>The emotional well‐being of long COVID patients in relation to their symptoms, social support and stigmatization in social and health services: a qualitative study</article-title>. <source>BMC Psychiatry</source>. <year>2023</year>;<volume>23</volume>(<issue>1</issue>):<fpage>1</fpage>‐<lpage>3</lpage>.<pub-id pub-id-type="pmid">36698111</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1186/s12888-022-04497-8</pub-id><pub-id pub-id-type="pmcid">PMC9875186</pub-id></mixed-citation></ref><ref id="puh2152-bib-0040"><label>40</label><mixed-citation publication-type="book" id="puh2152-cit-0040">
+<collab collab-type="authors">Substance Abuse and Mental Health Services Administration (SAMSHA)</collab>
+. <article-title>
+Identification and Management of Mental Health Symptoms and Conditions Associated with Long COVID
+</article-title>. [Publication No. PEP23‐06‐05‐007]. <publisher-name>National Mental Health and Substance Use Policy Laboratory, Substance Abuse and Mental Health Services Administration</publisher-name>; <year>2023</year>.</mixed-citation></ref><ref id="puh2152-bib-0041"><label>41</label><mixed-citation publication-type="journal" id="puh2152-cit-0041">
+<string-name name-style="western">
+<surname>Kataoka</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hazumi</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Usuda</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Okazaki</surname>
+<given-names>E</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Nishi</surname>
+<given-names>D</given-names>
+</string-name>. <article-title>Association of preexisting psychiatric disorders with post‐COVID‐19 prevalence: a cross‐sectional study</article-title>. <source>Sci Rep</source>. <year>2023</year>;<volume>13</volume>(<issue>1</issue>):<fpage>346</fpage>. doi:<pub-id pub-id-type="doi">10.1038/s41598-023-27405-w</pub-id>
+<pub-id pub-id-type="pmid">36611076</pub-id>
+<pub-id pub-id-type="pmcid">PMC9823253</pub-id></mixed-citation></ref><ref id="puh2152-bib-0042"><label>42</label><mixed-citation publication-type="journal" id="puh2152-cit-0042">
+<string-name name-style="western">
+<surname>Houben‐Wilke</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Goërtz</surname>
+<given-names>YM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Delbressine</surname>
+<given-names>JM</given-names>
+</string-name>, et al. <article-title>The impact of long COVID‐19 on mental health: observational 6‐month follow‐up study</article-title>. <source>JMIR Mental Health</source>. <year>2022</year>;<volume>9</volume>(<issue>2</issue>):<elocation-id>e33704</elocation-id>.<pub-id pub-id-type="pmid">35200155</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.2196/33704</pub-id><pub-id pub-id-type="pmcid">PMC8914795</pub-id></mixed-citation></ref></ref-list></back></article></pmc-articleset>

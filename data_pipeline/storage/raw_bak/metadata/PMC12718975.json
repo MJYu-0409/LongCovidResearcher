@@ -1,0 +1,33 @@
+{
+  "pmcid": "PMC12718975",
+  "pmid": "39730204",
+  "doi": "10.1097/JCMA.0000000000001203",
+  "title": "Predictive biosignatures for hospitalization in patients with virologically confirmed COVID-19.",
+  "abstract": "BACKGROUND: Coronavirus disease 2019 (COVID-19), caused by the severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) virus, presents with varying severity among individuals. Both viral and host factors can influence the severity of acute and chronic COVID-19, with chronic COVID-19 commonly referred to as long COVID. SARS-CoV-2 infection can be properly diagnosed by performing real-time reverse transcription polymerase chain reaction analysis of nasal swab samples. Pulse oximetry, chest X-ray, and complete blood count (CBC) analysis can be used to assess the condition of the patient to ensure that the appropriate medical care is delivered. This study aimed to develop biosignatures that can be used to distinguish between patients who are likely to develop severe disease and require hospitalization from patients who can be safely monitored in less intensive settings.\nMETHODS: A retrospective investigation was conducted on 7897 adult patients with virologically confirmed SARS-CoV-2 infection between January 26, 2020, and November 30, 2023; all patients underwent comprehensive CBC testing at Taipei Veterans General Hospital. Among them, 1867 patients were independently recruited for a population study involving genome-wide genotyping of approximately 424 000 genomic variants. Therefore, the participants were divided into two patient cohorts, one with genomic data (n = 1867) and one without (n = 6030) for model validation and training, respectively.\nRESULTS: We constructed and validated a biosignature model by using a combination of CBC measurements to predict subsequent hospitalization events (hazard ratio = 3.38, 95% confidence interval: 3.07-3.73 for the training cohort and 3.03 [2.46-3.73] for the validation cohort; both p < 10 -8 ). The obtained scores were used to identify the top quartile of patients, who formed the \"very high risk\" group with a significantly higher cumulative incidence of hospitalization (log-rank p < 10 -8 in both the training and validation cohorts). The \"very high risk\" group exhibited a cumulative hospitalization rate of >60%, whereas the rate for the other patients was approximately 30% over a 1.5-year period, providing a binary classification of patients with distinct hospitalization risks. To investigate the genetic factors mediating this risk, we conducted a genome-wide association study. Specific regions in chromosomes 7 and 10 and the mitochondrial chromosome (M), harboring IKAROS family zinc finger 1 ( IKZF1 ), actin binding LIM protein 1 ( ABLIM1 ), and mitochondrially encoded NADH:ubiquinone oxidoreductase core subunit 3 ( MT-ND3 ), exhibited prominent associations with binary risk classification. The identified exonic variants of IKZF1 are linked to several autoimmune diseases. Notably, people with different genotypes of the leading variants (rs4132601, rs141492519, and Affx-120744614) exhibited varying cumulative hospitalization rates after infection.\nCONCLUSION: We successfully developed and validated a biosignature model of COVID-19 severe disease in virologically confirmed patients. The identified genomic variants provide new insights for infectious disease research and medical care.",
+  "authors": [
+    "Kung-Hao Liang",
+    "Yu-Chun Chen",
+    "Chun-Yi Hsu",
+    "Zih-Kai Kao",
+    "Ping-Hsing Tsai",
+    "Hsin-Yi Huang",
+    "Yuan-Chia Chu",
+    "Hsiang-Ling Ho",
+    "Yi-Chu Liao",
+    "Yi-Chung Lee",
+    "Chi-Cheng Huang",
+    "Tzu-Chun Wei",
+    "Yi-Jia Liao",
+    "Yung-Hsiu Lu",
+    "Chen-Tsung Kuo",
+    "Shih-Hwa Chiou"
+  ],
+  "journal": "Journal of the Chinese Medical Association : JCMA",
+  "pub_year": "2025",
+  "pub_month": "Mar",
+  "pub_day": "01",
+  "keywords": [],
+  "article_types": [
+    "Journal Article"
+  ]
+}

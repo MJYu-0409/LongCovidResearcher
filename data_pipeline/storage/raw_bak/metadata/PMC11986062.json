@@ -1,0 +1,30 @@
+{
+  "pmcid": "PMC11986062",
+  "pmid": "40210986",
+  "doi": "10.1038/s43856-025-00827-5",
+  "title": "Identifying commonalities and differences between EHR representations of PASC and ME/CFS in the RECOVER EHR cohort.",
+  "abstract": "BACKGROUND: Shared symptoms and biological abnormalities between post-acute sequelae of SARS-CoV-2 infection (PASC) and myalgic encephalomyelitis/chronic fatigue syndrome (ME/CFS) could suggest common pathophysiological bases and would support coordinated treatment efforts. Empirical studies comparing these syndromes are needed to better understand their commonalities and differences.\nMETHODS: We analyzed electronic health record data from 6.5 million adult patients from the National COVID Cohort Collaborative. PASC and ME/CFS diagnostic groups were defined based on recorded diagnoses, and other recorded conditions within the two groups were used to train separate machine learning-driven computable phenotypes (CPs). The most predictive conditions for each CP were examined and compared, and the overlap of patients labeled by each CP was examined. Condition records from the diagnostic groups were also used to statistically derive condition clusters. Rates of subphenotypes based on these clusters were compared between PASC and ME/CFS groups.\nRESULTS: Approximately half of patients labeled by one CP are also labeled by the other. Dyspnea, fatigue, and cognitive impairment are the most-predictive conditions shared by both CPs, whereas other most-predictive conditions are specific to one CP. Recorded conditions separate into cardiopulmonary, neurological, and comorbidity clusters, with the cardiopulmonary cluster showing partial specificity for the PASC groups.\nCONCLUSIONS: Data-driven approaches indicate substantial overlap in the condition records associated with PASC and ME/CFS diagnoses. Nevertheless, cardiopulmonary conditions are somewhat more commonly associated with PASC diagnosis, whereas other conditions, such as pain and sleep disturbances, are more associated with ME/CFS diagnosis. These findings suggest that symptom management approaches to these illnesses could overlap.\nPost-acute sequelae of SARS-CoV-2 infection (PASC; also known as Long COVID) and myalgic encephalomyelitis/chronic fatigue syndrome (ME/CFS) appear to share much in common. Understanding their similarities and differences could help to guide treatment for these complex illnesses. We analyzed data from 6.5 million adult patients from the National COVID Cohort Collaborative to evaluate patterns in their health records. We find several conditions associated with both PASC and ME/CFS diagnoses, such as difficulty breathing, fatigue, and concentration difficulties. We also find some differences. Cardiac and respiratory conditions are more typical with PASC diagnoses. Records of pain, sleep disturbances, and neuropsychiatric conditions more commonly accompany ME/CFS diagnoses. Overall, the similarities we see could support overlapping symptom management approaches across these illnesses.",
+  "authors": [
+    "John P Powers",
+    "Tomas J McIntee",
+    "Abhishek Bhatia",
+    "Charisse R Madlock-Brown",
+    "Jaime Seltzer",
+    "Anisha Sekar",
+    "Nita Jain",
+    "Mady Hornig",
+    "Elle Seibert",
+    "Peter J Leese",
+    "Melissa Haendel",
+    "Richard Moffitt",
+    "Emily R Pfaff"
+  ],
+  "journal": "Communications medicine",
+  "pub_year": "2025",
+  "pub_month": "Apr",
+  "pub_day": "11",
+  "keywords": [],
+  "article_types": [
+    "Journal Article"
+  ]
+}

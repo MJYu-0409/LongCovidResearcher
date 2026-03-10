@@ -1,0 +1,44 @@
+{
+  "pmcid": "PMC12146308",
+  "pmid": "40491436",
+  "doi": "10.3389/fcimb.2025.1565887",
+  "title": "Long-term alterations in gut microbiota following mild COVID-19 recovery: bacterial and fungal community shifts.",
+  "abstract": "OBJECTIVE: COVID-19 has had a profound impact on public health globally. However, most studies have focused on patients with long COVID or those in the acute phase of infection, with limited research on the health of individuals who have recovered from mild COVID-19. This study investigates the long-term changes in bacterial and fungal communities in individuals recovering from mild COVID-19 and their clinical relevance.\nMETHODS: Healthy individuals from Hainan Province were enrolled before the COVID-19 outbreak, along with individuals recovering from COVID-19 at 3 months and 6 months post-recovery. Stool, blood samples, and metadata were collected. Metagenomic sequencing and Internal Transcribed Spacer (ITS) analysis characterized bacterial and fungal communities, while bacterial-fungal co-occurrence networks were constructed. A random forest model evaluated the predictive capacity of key taxa.\nRESULTS: The gut microbiota of COVID-19 recoverees differed significantly from that of healthy individuals. At 3 months post-recovery, probiotics (e.g., Blautia massiliensis and Kluyveromyces spp.) were enriched, linked to improved metabolism, while at 6 months, partial recovery of probiotics (e.g., Acidaminococcus massiliensis and Asterotremella spp.) was observed alongside persistent pathogens (e.g., Streptococcus equinus and Gibberella spp.). Dynamic changes were observed, with Acidaminococcus massiliensis enriched at both baseline and 6 months but absent at 3 months. Co-occurrence network analysis revealed synergies between bacterial (Rothia spp.) and fungal (Coprinopsis spp.) taxa, suggesting their potential roles in gut restoration. The bacterial random forest model (10 taxa) outperformed the fungal model (8 taxa) in predicting recovery status (AUC = 0.99 vs. 0.80).\nCONCLUSION: These findings highlight the significant long-term impacts of mild COVID-19 recovery on gut microbiota, with key taxa influencing metabolism and immune regulation, supporting microbiome-based strategies for recovery management.",
+  "authors": [
+    "Da Li",
+    "Da-Ya Zhang",
+    "Shi-Ju Chen",
+    "Yan-Ting Lv",
+    "Shi-Mei Huang",
+    "Chen Chen",
+    "Fan Zeng",
+    "Run-Xiang Chen",
+    "Xiao-Dong Zhang",
+    "Jian-Xin Xiong",
+    "Fa-Di Chen",
+    "Yue-Hong Jiang",
+    "Zhai Chen",
+    "Cui-Yi Mo",
+    "Jia-Jia Chen",
+    "Xu-Li Zhu",
+    "Li-Jun Zhang",
+    "Fei-Hu Bai"
+  ],
+  "journal": "Frontiers in cellular and infection microbiology",
+  "pub_year": "2025",
+  "pub_month": "05",
+  "pub_day": "26",
+  "keywords": [
+    "ROC curve analysis",
+    "bacterial-fungal co-occurrence network",
+    "fungal microbiota",
+    "gut microbiome",
+    "metagenomic sequencing",
+    "mild COVID-19",
+    "probiotics",
+    "random forest model"
+  ],
+  "article_types": [
+    "Journal Article"
+  ]
+}

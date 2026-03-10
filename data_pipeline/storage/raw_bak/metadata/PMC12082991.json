@@ -1,0 +1,34 @@
+{
+  "pmcid": "PMC12082991",
+  "pmid": "40375188",
+  "doi": "10.1186/s12888-025-06886-1",
+  "title": "Development and internal validation of a depressive symptoms prediction model among the patients with cardiovascular disease who have recovered from SARS-CoV-2 infection in Wuhan, China: a cross-sectional study.",
+  "abstract": "BACKGROUND: Middle-aged  and elderly patients with cardiovascular disease (CVD) who have recovered from SARS-CoV-2 infection may experience depressive symptoms due to the physical and psychological impact of the pandemic.\nOBJECTIVE: To investigate the prevalence and predictors of depressive symptoms among the middle-aged and elderly with CVD who have recovered from SARS-CoV-2 infection in Wuhan, China, and to develop a prediction model for depressive symptoms.\nMETHODS: A cross-sectional study was conducted among 462 former SARS-CoV-2 middle-aged and elderly patients with CVD in Jianghan District, Wuhan, China from June 10 to July 25, 2021. Depressive symptoms were assessed by the Patient Health Questionnaire-9 (PHQ-9). Potential predictors of depressive symptoms were selected by the least absolute shrinkage and selection operator (LASSO) regression. A prediction model was developed by random forest (RF) and logistic regression models and compared by the area under the receiver operating characteristic curve (AUROC). The discrimination, calibration, and practical utility of the prediction model were evaluated by the receiver operating characteristic (ROC) curve, calibration curve, and decision curve analysis (DCA). Bootstrap sampling was used for internal validation.\nRESULTS: The prevalence of depressive symptoms among the participants was 35.93%. The prediction model included age, stethalgia after recovery, insomnia after recovery, post-traumatic stress disorder (PTSD), anxiety, fatigue, and perceived social support as predictors. The AUROC of the logistic regression model was 0.909 (95%CI: 0.879 ~ 0.939), indicating good discrimination. The calibration curve showed good calibration. The DCA showed that the prediction model had a net benefit for a wide range of risk thresholds. The internal validation confirmed the stability of the prediction model.\nCONCLUSION: Depressive symptoms are common among middle-aged and elderly CVD patients who have recovered from SARS-CoV-2 infection in Wuhan, China. A prediction model with satisfactory performance was developed to estimate the risk of depressive symptoms among this population. Interventions targeting long COVID symptoms and social support should be considered to prevent depressive symptoms in CVD patients.",
+  "authors": [
+    "Zhenwei Dai",
+    "Xin Liu",
+    "Shu Jing",
+    "Hao Wang",
+    "Yiman Huang",
+    "Jiaqi Fu",
+    "Yijin Wu",
+    "Ling Zhang",
+    "Bicheng Han",
+    "Xiaoyou Su"
+  ],
+  "journal": "BMC psychiatry",
+  "pub_year": "2025",
+  "pub_month": "May",
+  "pub_day": "15",
+  "keywords": [
+    "Cardiovascular disease",
+    "Depressive symptoms",
+    "Prediction model",
+    "SARS-CoV-2",
+    "The middle-aged and elderly"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Validation Study"
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "pmcid": "PMC12819676",
+  "pmid": "41573552",
+  "doi": "10.3389/fimmu.2025.1706997",
+  "title": "Acetylsalicylic acid disrupts SARS-CoV-2 spike protein glycosylation and selectively impairs binding to ACE2.",
+  "abstract": "Preclinical and clinical evidence suggested the potential benefits of treatment with acetylsalicylic acid (ASA) in mitigating COVID-19 severity. While available studies largely focused on the intracellular pathways through which ASA impairs viral replication or dampens host immunoresponse stimulated by SARS-CoV-2, whether ASA directly affects the interaction between the viral spike protein and its cellular receptor angiotensin converting enzyme 2 (ACE2) remains unexplored. This question is clinically relevant, as circulating spike S1 has been shown to persist in patients with acute and long COVID-19, where its interaction with the broadly expressed ACE2 drives systemic manifestations and tissue damage. Here, we demonstrate that pre-incubation of the SARS-CoV-2 spike subunit 1 (S1) with ASA dose-dependently impaired ACE2 binding on Vero cells. The functional relevance of this finding was confirmed in transgenic mice with human ACE2, in which intratracheal administration of ASA-treated S1 markedly reduced lung injury, fibrosis, and inflammation compared to untreated S1. Glycoproteomic profiling revealed that ASA altered the glycosylation landscape of S1, particularly N-glycosylation at N61 and O-glycosylation at S325. Site-directed mutagenesis of these two residues confirmed the critical role of their glycosylation in S1-ACE2 binding in vitro. Consistently, the glycosylation-insensitive S1 had limited effect in inducing lung injury, fibrosis, and inflammation in transgenic mice compared to WT S1, phenocopying the protective effects of ASA. These findings unveil a previously unrecognized antiviral activity of ASA, providing a molecular rationale for its repurposing as a low-cost, readily available intervention to prevent the progression from mild to severe COVID-19.",
+  "authors": [
+    "Luca Perico",
+    "Alessandra Bovio",
+    "Susanna Tomasoni",
+    "Piera Trionfini",
+    "Domenico Cerullo",
+    "Daniela Corna",
+    "Anna Pezzotta",
+    "Monica Locatelli",
+    "Marta Alberti",
+    "Ariela Benigni",
+    "Giuseppe Remuzzi"
+  ],
+  "journal": "Frontiers in immunology",
+  "pub_year": "2025",
+  "pub_month": "01",
+  "pub_day": "07",
+  "keywords": [
+    "ACE2 binding",
+    "COVID-19",
+    "SARS-CoV-2 spike protein",
+    "acetylsalicylic acid",
+    "glycosylation"
+  ],
+  "article_types": [
+    "Journal Article"
+  ]
+}

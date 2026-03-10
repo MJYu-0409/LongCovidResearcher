@@ -1,0 +1,27 @@
+{
+  "pmcid": "PMC12802229",
+  "pmid": "41361800",
+  "doi": "10.1186/s12874-025-02737-5",
+  "title": "Penalized regression with negative-unlabeled data: an approach to developing a Long COVID research index.",
+  "abstract": "BACKGROUND: Moderate to severe Long COVID is estimated to impact as many as 10% of SARS-CoV-2 infected individuals, representing a chronic condition with a substantial public health burden. An expansive literature has identified over 200 persistent symptoms associated with a history of SARS-CoV-2 infection; yet, there remains to be a clear consensus on a syndrome definition. Long COVID thus represents a \"negative-unlabeled\" outcome where those without prior infection must be Long COVID \"negative\" but those with prior infection have unknown or \"unlabeled\" Long COVID status. Despite this lack of a gold standard definition or biomarker, developing and evaluating an approach to characterizing Long COVID is a critical first step in future studies of risk and resiliency factors, mechanisms of disease, and interventions for both treatment and prevention.\nMETHODS: We recently applied a strategy for defining a numeric Long COVID research index (LCRI) using Lasso-penalized logistic regression, leveraging information on history of SARS-CoV-2 infection as a pseudo-label. In the current manuscript we formalize and evaluate this approach in a simulation framework for the occurrence of infection, Long COVID onset, and symptomatology. We evaluate its performance selecting symptoms associated with Long COVID and distinguishing individuals with Long COVID, in the presence of symptom correlations and demographic confounders. We compare the LCRI method to a simpler index defined by counting Long COVID symptoms, and assess these methods in a reanalysis of data on participants enrolled in the Adult Cohort of the Researching COVID to Enhance Recovery (RECOVER) study.\nRESULTS: Simulation results demonstrate that the Lasso-penalized LCRI methodology appropriately selects symptoms associated with Long COVID, and that the LCRI has high discriminatory power to distinguish Long COVID, outperforming symptom count. This performance was robust to correlation between symptoms, and weighting methods are shown to successfully address potential confounding by demographic characteristics. Analysis of RECOVER data showed the LCRI outperforming symptom count by misclassifying fewer uninfected individuals as having Long COVID.\nCONCLUSIONS: As the LCRI is increasingly used to characterize LC in research settings, this paper represents an important step in understanding its operating characteristics and developing general methodology for settings with negative-unlabeled data.",
+  "authors": [
+    "Harrison T Reeder",
+    "Tanayott Thaweethai",
+    "Andrea S Foulkes"
+  ],
+  "journal": "BMC medical research methodology",
+  "pub_year": "2025",
+  "pub_month": "Dec",
+  "pub_day": "09",
+  "keywords": [
+    "COVID-19",
+    "Feature selection",
+    "Long COVID",
+    "Negative-unlabeled data",
+    "Penalized regression",
+    "SARS-CoV-2"
+  ],
+  "article_types": [
+    "Journal Article"
+  ]
+}

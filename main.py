@@ -14,7 +14,7 @@ configure_logging()
 import os
 
 from agent import run as run_agent
-from agent.session_store import load as load_session, save as save_session
+from storage.postgres.session_store import load as load_session, save as save_session
 from agent.summarizer import run_summarizer
 from data_pipeline.pipeline import run as run_pipeline
 

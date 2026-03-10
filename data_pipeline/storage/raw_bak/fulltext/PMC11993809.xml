@@ -1,0 +1,755 @@
+<?xml version="1.0"  ?><!DOCTYPE pmc-articleset PUBLIC "-//NLM//DTD ARTICLE SET 2.0//EN" "https://dtd.nlm.nih.gov/ncbi/pmc/articleset/nlm-articleset-2.0.dtd"><pmc-articleset><article id="hex70266" xml:lang="en" article-type="research-article" dtd-version="1.4"><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">Health Expect</journal-id><journal-id journal-id-type="iso-abbrev">Health Expect</journal-id><journal-id journal-id-type="pmc-domain-id">2997</journal-id><journal-id journal-id-type="pmc-domain">hex</journal-id><journal-id journal-id-type="publisher-id">HEX</journal-id><journal-title-group><journal-title>Health Expectations : An International Journal of Public Participation in Health Care and Health Policy</journal-title></journal-title-group><issn pub-type="ppub">1369-6513</issn><issn pub-type="epub">1369-7625</issn><publisher><publisher-name>Wiley</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC11993809</article-id><article-id pub-id-type="pmcid-ver">PMC11993809.1</article-id><article-id pub-id-type="pmcaid">11993809</article-id><article-id pub-id-type="pmcaiid">11993809</article-id><article-id pub-id-type="pmid">40221847</article-id><article-id pub-id-type="doi">10.1111/hex.70266</article-id><article-id pub-id-type="publisher-id">HEX70266</article-id><article-version article-version-type="pmc-version">1</article-version><article-categories><subj-group subj-group-type="overline"><subject>Original Article</subject></subj-group><subj-group subj-group-type="heading"><subject>Original Article</subject></subj-group></article-categories><title-group><article-title>‘We Don't Have to Prove to People How We're Feeling’: Understanding the Role of Peer Support Groups in Countering Epistemic Injustices in Long COVID at a US Centre</article-title></title-group><contrib-group><contrib id="hex70266-cr-0001" contrib-type="author" corresp="yes"><name name-style="western"><surname>Sarma</surname><given-names initials="N">Nandini</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">http://orcid.org/0009-0004-3421-8814</contrib-id><xref rid="hex70266-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><address><email>nsarma@ucdavis.edu</email></address></contrib><contrib id="hex70266-cr-0002" contrib-type="author"><name name-style="western"><surname>Gage</surname><given-names initials="S">Sam</given-names></name><xref rid="hex70266-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib id="hex70266-cr-0003" contrib-type="author"><name name-style="western"><surname>Hough</surname><given-names initials="CL">Catherine L.</given-names></name><xref rid="hex70266-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib id="hex70266-cr-0004" contrib-type="author"><name name-style="western"><surname>Hope</surname><given-names initials="AA">Aluko A.</given-names></name><xref rid="hex70266-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref></contrib></contrib-group><aff id="hex70266-aff-0001">
+<label>
+<sup>1</sup>
+</label>
+<named-content content-type="organisation-division">Department of Medicine</named-content>
+<institution>University of California Davis School of Medicine, Division of Pulmonary, Critical Care, and Sleep Medicine</institution>
+<city>Sacramento</city>
+<named-content content-type="country-part">California</named-content>
+<country country="US">USA</country>
+</aff><aff id="hex70266-aff-0002">
+<label>
+<sup>2</sup>
+</label>
+<named-content content-type="organisation-division">Department of Medicine</named-content>
+<institution>Division of Pulmonary, Allergy and Critical Care Medicine</institution>
+<institution>Oregon Health &amp; Science University</institution>
+<city>Portland</city>
+<named-content content-type="country-part">Oregon</named-content>
+<country country="US">USA</country>
+</aff><author-notes><corresp id="correspondenceTo">
+<label>*</label>
+<bold>Correspondence:</bold> Nandini Sarma (<email>nsarma@ucdavis.edu</email>)<break/>
+</corresp></author-notes><pub-date pub-type="epub"><day>12</day><month>4</month><year>2025</year></pub-date><pub-date pub-type="collection"><month>4</month><year>2025</year></pub-date><volume>28</volume><issue seq="97">2</issue><issue-id pub-id-type="pmc-issue-id">483160</issue-id><issue-id pub-id-type="doi">10.1111/hex.v28.2</issue-id><elocation-id>e70266</elocation-id><history><date date-type="rev-recd"><day>19</day><month>3</month><year>2025</year></date><date date-type="received"><day>08</day><month>11</month><year>2024</year></date><date date-type="accepted"><day>02</day><month>4</month><year>2025</year></date></history><pub-history><event event-type="pmc-release"><date><day>12</day><month>04</month><year>2025</year></date></event><event event-type="pmc-live"><date><day>13</day><month>04</month><year>2025</year></date></event><event event-type="pmc-last-change"><date iso-8601-date="2025-04-14 16:25:25.190"><day>14</day><month>04</month><year>2025</year></date></event></pub-history><permissions><copyright-statement content-type="article-copyright">© 2025 The Author(s). <italic toggle="yes">Health Expectations</italic> published by John Wiley &amp; Sons Ltd.</copyright-statement><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>This is an open access article under the terms of the <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pmc-pdf" xlink:href="HEX-28-e70266.pdf"/><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pdf" xlink:href="file:HEX-28-e70266.pdf"/><abstract><title>ABSTRACT</title><sec id="hex70266-sec-0010"><title>Background</title><p>Long COVID, an infection‐associated chronic condition characterised by new or worsening signs or symptoms for more than 3 months after a SARS‐CoV‐2 infection, is a chronic debilitating illness which remains poorly understood. Epistemic injustice in healthcare describes the unique harms or wrongs done to a person in their capacity to share and acquire knowledge about their illness. Although the concept of epistemic injustice has been described in other chronic conditions, few studies have explored these concepts in Long COVID.</p></sec><sec id="hex70266-sec-0020"><title>Objectives</title><p>(1) To understand the lived experience of epistemic injustice in adults with Long COVID who were participating in a peer support group intervention and (2) to describe the potential impact of the support group on these experiences in participants.</p></sec><sec id="hex70266-sec-0030"><title>Methods</title><p>Qualitative analysis utilising inductive analysis of semi‐structured individual interviews of patients with Long COVID who participated in a peer support group intervention at an academic medical centre in Oregon, USA.</p></sec><sec id="hex70266-sec-0040"><title>Results</title><p>We identified three themes that captured the lived experiences of epistemic injustice in Long COVID support group participants: (1) dismissal and disregard; (2) episodic and unpredictable symptoms and impairment, and (3) knowledge and interpretation practices. We also found that the peer support potentially impacted these experiences of epistemic injustice through (1) recognition and validation; (2) solidarity and community, and (3) information exchange and expectation setting.</p></sec><sec id="hex70266-sec-0050"><title>Conclusions</title><p>Long COVID patients are at risk of experiencing epistemic injustice in seeking healthcare for this complex condition. Peer support programmes may be one approach to help counter these experiences and should be further studied as a complex intervention for improving patient‐centred care in Long COVID.</p></sec></abstract><kwd-group><kwd id="hex70266-kwd-0001">epistemic injustice</kwd><kwd id="hex70266-kwd-0002">Long COVID</kwd><kwd id="hex70266-kwd-0003">peer support</kwd><kwd id="hex70266-kwd-0004">qualitative study</kwd></kwd-group><funding-group><award-group id="funding-0001"><funding-source>Dr. Hope is supported by grants from the NIH/NHLBI (K01 HL140279).</funding-source></award-group></funding-group><counts><fig-count count="1"/><table-count count="3"/><page-count count="13"/><word-count count="9137"/></counts><custom-meta-group><custom-meta><meta-name>pmc-status-qastatus</meta-name><meta-value>0</meta-value></custom-meta><custom-meta><meta-name>pmc-status-live</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-status-embargo</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-status-released</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-access</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-legally-suppressed</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-pdf</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-supplement</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-pdf-only</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-suppress-copyright</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-real-version</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-scanned-article</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-in-epmc</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-license-ref</meta-name><meta-value>CC BY</meta-value></custom-meta><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>April 2025</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:6.5.4 mode:remove_FC converted:13.04.2025</meta-value></custom-meta></custom-meta-group></article-meta></front><body><sec id="hex70266-sec-0060"><label>1</label><title>Introduction</title><p>Since the early use of the term by patients to capture their lingering symptoms after acute COVID‐19, Long COVID has become the most widely used term to capture the chronic conditions that can occur after SARS‐CoV‐2 infection [<xref rid="hex70266-bib-0001" ref-type="bibr">1</xref>]. Although no universally accepted definition exists, the scientific community increasingly recognises Long COVID as one of several infection‐associated chronic conditions, characterised by persistent symptoms affecting one or more organ systems [<xref rid="hex70266-bib-0002" ref-type="bibr">2</xref>, <xref rid="hex70266-bib-0003" ref-type="bibr">3</xref>, <xref rid="hex70266-bib-0004" ref-type="bibr">4</xref>]. Most recent estimates from the CDC suggest that around 6.9% of US adults may have had Long COVID and that approximately 14 million adults may have been impacted by this condition [<xref rid="hex70266-bib-0005" ref-type="bibr">5</xref>]. Long COVID has a long‐term impact on patients' health and function and has been described as a ‘mass disabling event’ for the 21st century [<xref rid="hex70266-bib-0006" ref-type="bibr">6</xref>, <xref rid="hex70266-bib-0007" ref-type="bibr">7</xref>, <xref rid="hex70266-bib-0008" ref-type="bibr">8</xref>, <xref rid="hex70266-bib-0009" ref-type="bibr">9</xref>, <xref rid="hex70266-bib-0010" ref-type="bibr">10</xref>, <xref rid="hex70266-bib-0011" ref-type="bibr">11</xref>].</p><p>Although the medical and scientific understanding of Long COVID has significantly advanced since the pandemic began, challenges remain. The absence of a specific objective biomarker, the complex interplay of biopsychosocial factors affecting patients' health and well‐being and the lack of evidence‐based pharmacologic treatments continue to create substantial hurdles [<xref rid="hex70266-bib-0012" ref-type="bibr">12</xref>, <xref rid="hex70266-bib-0013" ref-type="bibr">13</xref>, <xref rid="hex70266-bib-0014" ref-type="bibr">14</xref>].</p><p>Epistemic injustice, initially described by the philosopher Mirander Fricker, is a form of injustice to a person in their capacity as a knower, interpreter or provider of information and knowledge [<xref rid="hex70266-bib-0015" ref-type="bibr">15</xref>, <xref rid="hex70266-bib-0016" ref-type="bibr">16</xref>]. There is a growing body of theoretical research on how epistemic injustice may be relevant to the quality of healthcare that patients are able to receive for certain chronic conditions [<xref rid="hex70266-bib-0017" ref-type="bibr">17</xref>, <xref rid="hex70266-bib-0018" ref-type="bibr">18</xref>, <xref rid="hex70266-bib-0019" ref-type="bibr">19</xref>]. At the individual level, epistemic injustice may include such things as patients being ignored, dismissed or silenced or might also include clinicians' negative prejudices about certain categories of patients [<xref rid="hex70266-bib-0018" ref-type="bibr">18</xref>, <xref rid="hex70266-bib-0019" ref-type="bibr">19</xref>, <xref rid="hex70266-bib-0020" ref-type="bibr">20</xref>]. At the level of the health system, epistemic injustice may intersect with other axes of oppression, including gaps in the scientific understanding of the condition or limitations in the biomedical model that complicate patients' ability to be diagnosed and treated [<xref rid="hex70266-bib-0015" ref-type="bibr">15</xref>, <xref rid="hex70266-bib-0016" ref-type="bibr">16</xref>, <xref rid="hex70266-bib-0018" ref-type="bibr">18</xref>, <xref rid="hex70266-bib-0019" ref-type="bibr">19</xref>, <xref rid="hex70266-bib-0021" ref-type="bibr">21</xref>, <xref rid="hex70266-bib-0022" ref-type="bibr">22</xref>, <xref rid="hex70266-bib-0023" ref-type="bibr">23</xref>, <xref rid="hex70266-bib-0024" ref-type="bibr">24</xref>, <xref rid="hex70266-bib-0025" ref-type="bibr">25</xref>].</p><p>Although there have been several recent empirical studies that have captured examples of epistemic injustice in Long COVID care such as stigma, mistrust and invisibility, and the experiences of patients during the prolonged ‘diagnostic odysseys’ of Long COVID diagnosis, this area of inquiry is still largely underexplored [<xref rid="hex70266-bib-0026" ref-type="bibr">26</xref>, <xref rid="hex70266-bib-0027" ref-type="bibr">27</xref>, <xref rid="hex70266-bib-0028" ref-type="bibr">28</xref>]. Management guidelines for Long COVID recommend that patients receive advice and information on self‐management, including through support groups and other forms of psychosocial support [<xref rid="hex70266-bib-0029" ref-type="bibr">29</xref>]. Peer support groups have been previously studied in other chronic conditions as an intervention that can leverage the strengths and experiential knowledge from a group of patients to improve their well‐being [<xref rid="hex70266-bib-0030" ref-type="bibr">30</xref>, <xref rid="hex70266-bib-0031" ref-type="bibr">31</xref>, <xref rid="hex70266-bib-0032" ref-type="bibr">32</xref>, <xref rid="hex70266-bib-0033" ref-type="bibr">33</xref>]. Various types of support groups have been studied in Long COVID as a result of these management guidelines [<xref rid="hex70266-bib-0034" ref-type="bibr">34</xref>, <xref rid="hex70266-bib-0035" ref-type="bibr">35</xref>]. The stigma surrounding Long COVID and the reliance on mental health practitioners to facilitate peer support groups highlight a critical need to understand how support groups can potentially counteract epistemic injustices in Long COVID care [<xref rid="hex70266-bib-0036" ref-type="bibr">36</xref>, <xref rid="hex70266-bib-0037" ref-type="bibr">37</xref>]. Therefore, we sought to understand the lived experiences of epistemic injustice in support group participants and the potential impact of the peer support intervention on these injustices.</p></sec><sec sec-type="methods" id="hex70266-sec-0070"><label>2</label><title>Methods</title><sec id="hex70266-sec-0080"><label>2.1</label><title>Study Design and Setting</title><p>Healthy Outcomes for Long COVID through Peer Support (HELP) was an 8‐week facilitated pilot support group intervention designed for adult patients being treated for Long COVID at a tertiary care centre in Portland, Oregon, USA. The support groups were designed based on an outpatient model of peer support in which the role of the clinicians is to help create a safe space for patients to take and give support to each other with mutual respect [<xref rid="hex70266-bib-0032" ref-type="bibr">32</xref>, <xref rid="hex70266-bib-0038" ref-type="bibr">38</xref>]. This is an analysis of qualitative data from individual semi‐structured interviews that was aimed at understanding the safety, effectiveness and implementation barriers of the peer support intervention within a tertiary care Long COVID programme.</p><p>Long COVID patients could be invited into the programme if they were (1) able to participate in an intake conversation with the support group staff and expressed understanding of the ground rules and expectations of the programme; (2) were deemed safe for participation by the multidisciplinary Long COVID clinical team managing the patient based on their level of symptoms and the stage of their recovery, and (3) were comfortable conversing in English. The first support group occurred from October through December 2021 and was facilitated by a staff social worker; the second support group occurred from October through November 2022 and was facilitated by psychiatry postgraduate trainees with supervision from an experienced social worker with experience leading cancer support groups. This study is reported using the Consolidated Criteria for Reporting Qualitative Data (COREQ) checklist and was approved by the university's Institutional Review Board (#00023311).</p></sec><sec id="hex70266-sec-0090"><label>2.2</label><title>Participant Selection</title><p>Upon completion of the HELP programme, all support group participants were invited via phone to participate in a qualitative evaluation. All participants who consented were interviewed. There were no additional exclusion criteria. Each participant was reimbursed $10 for completion of the interview in recognition of the effort and time utilised while having a chronic and disabling condition. Participants were fully informed about the study's purpose and how their data would be used and stored. Verbal consent was obtained before the interview, as the study was deemed to pose minimal risk, with no more discomfort than routine activities. The date and time of consent were documented instead of a signature. At the start of each recording, participants confirmed their name, agreement to participate and the current date.</p></sec><sec id="hex70266-sec-0100"><label>2.3</label><title>Data Collection</title><p>Three of the investigators (A.A.H., S.G. and C.L.H.) were involved in drafting the interview guide, which focused on categories such as motivations for participation, impact on recovery, benefits, challenges and potential harms of participation, lifestyle changes and overall experiences (Appendix A). These categories were selected by the investigators a priori based on current literature regarding peer support in critical and acute illness recovery [<xref rid="hex70266-bib-0034" ref-type="bibr">34</xref>, <xref rid="hex70266-bib-0039" ref-type="bibr">39</xref>, <xref rid="hex70266-bib-0040" ref-type="bibr">40</xref>, <xref rid="hex70266-bib-0041" ref-type="bibr">41</xref>]. One investigator (S.G.) led the training of the research staff who conducted the semi‐structured interviews in English via phone or secure video conferencing platform. The interviews occurred between 10 December 2021 and 30 June 2022. Interview recordings were de‐identified and anonymised via assignment of a unique study ID by the interviewer. Interviews were recorded and transcribed verbatim by trained staff and reviewed for transcription accuracy and consistency by a second interviewer.</p></sec><sec id="hex70266-sec-0110"><label>2.4</label><title>Data Analysis</title><p>During the primary analysis of the qualitative data which focused on understanding the potential effectiveness of the pilot support group intervention, A.A.H. and S.G. had familiarised themselves with the data, created transcript summaries iteratively and developed a codebook by thematic identification and categorisations based on the domains of the interview guide and a conceptual framework of peer support [<xref rid="hex70266-bib-0032" ref-type="bibr">32</xref>]. For this analysis, we used an inductive thematic analytic approach since this allowed for the greatest flexibility and because there was no previously validated framework for epistemic injustice in healthcare [<xref rid="hex70266-bib-0042" ref-type="bibr">42</xref>, <xref rid="hex70266-bib-0043" ref-type="bibr">43</xref>]. A.A.H. and N.S. reviewed the interview transcripts to familiarise themselves and build consensus on ways in which participants described their lived experiences of epistemic injustice in the transcripts. A.A.H. and N.S. created a preliminary codebook and then sequentially coded three interview transcripts at a time. After each sequence, the codebook was revised for consensus. We used ATLAS.ti (version 22) to organise data, code transcripts and track decisions related to analyses. Data saturation was determined when no new codes or themes were observed across the interviews. The analytic team (A.A.H., S.G. and N.S.) shared key bibliographic references, code reports and summaries to ensure ongoing agreement on the findings. Preliminary codes were merged into themes, and the names of themes were revised iteratively, including again during the reporting and writing phase of the project. Importantly, in finalising the names of themes capturing the impact of the support group on epistemic injustice, we aimed to have the names encompass both the potential for epistemic harm and benefit. Key quotes were extracted for reporting by A.A.H. and S.G.</p></sec><sec id="hex70266-sec-0120"><label>2.5</label><title>Reflexivity and Positionality of the Research Team</title><p>The group of investigators for these analyses included a long COVID survivor that was treated at the Long COVID programme but did not participate in the support group (S.G.), a medical director of the Long COVID clinical programme (A.A.H.) and two investigators not directly involved in the Long COVID programme (N.S. and C.L.H.). The interdisciplinary nature of this group of investigators likely contributed to the validity of the analysis through triangulation. Three coders (S.G., A.A.H. and N.S.) provided a level of intersubjectivity, rigour and scrutiny to the coding process.</p></sec></sec><sec sec-type="results" id="hex70266-sec-0130"><label>3</label><title>Results</title><p>Of the 22 participants in the peer support programme, 16 consented to participate in our qualitative assessment. In total, fourteen participants identified as female, two identified as Hispanic and fifteen identified as White (Table <xref rid="hex70266-tbl-0001" ref-type="table">1</xref>). The median number of sessions attended was 6 for Group 1 and 5.5 for Group 2. In qualitative analyses, we found that three themes captured the lived experiences of epistemic injustice that were described by participants. We also found that three themes captured the potential impact of the peer support intervention on these epistemic challenges. Extended quotes exemplifying each theme are presented in Tables <xref rid="hex70266-tbl-0002" ref-type="table">2</xref> and <xref rid="hex70266-tbl-0003" ref-type="table">3</xref>.</p><table-wrap position="float" id="hex70266-tbl-0001" content-type="Table" orientation="portrait"><label>Table 1</label><caption><p>Participant characteristics.</p></caption><table frame="hsides" rules="groups"><col align="left" style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" span="1"/><col align="center" style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" span="1"/><tbody valign="top"><tr><td align="left" valign="top" rowspan="1" colspan="1">Patient 3</td><td align="center" valign="top" rowspan="1" colspan="1">44‐Year‐old White female whose first SARS‐CoV‐2 infection occurred in August 2020</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Patient 5</td><td align="center" valign="top" rowspan="1" colspan="1">76‐Year‐old White and American Indian/Alaska Native female whose first SARS‐CoV‐2 infection occurred in March 2020</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Patient 6</td><td align="center" valign="top" rowspan="1" colspan="1">74‐Year‐old White female whose first SARS‐CoV‐2 infection occurred in March 2020</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Patient 7</td><td align="center" valign="top" rowspan="1" colspan="1">51‐Year‐old White female whose first SARS‐CoV‐2 infection occurred in April 2020</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Patient 8</td><td align="center" valign="top" rowspan="1" colspan="1">59‐Year‐old White female whose first SARS‐CoV‐2 infection occurred in March 2020</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Patient 9</td><td align="center" valign="top" rowspan="1" colspan="1">55‐Year‐old White female whose first SARS‐CoV‐2 infection occurred in May 2020</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Patient 10</td><td align="center" valign="top" rowspan="1" colspan="1">54‐Year‐old White female whose first SARS‐CoV‐2 infection occurred in March 2020</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Patient 11</td><td align="center" valign="top" rowspan="1" colspan="1">35‐Year‐old White female whose first SARS‐CoV‐2 infection occurred in August 2020</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Patient 12</td><td align="center" valign="top" rowspan="1" colspan="1">65‐Year‐old White female whose first SARS‐CoV‐2 infection occurred in March 2020</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Patient 13</td><td align="center" valign="top" rowspan="1" colspan="1">44‐Year‐old White and Hispanic female whose first SARS‐CoV‐2 infection occurred in April 2020</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Patient 14</td><td align="center" valign="top" rowspan="1" colspan="1">55‐Year‐old White female whose first SARS‐CoV‐2 infection occurred in December 2020</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Patient 15</td><td align="center" valign="top" rowspan="1" colspan="1">67‐Year‐old White female whose first SARS‐CoV‐2 infection occurred in March 2020</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Patient 16</td><td align="center" valign="top" rowspan="1" colspan="1">34‐Year‐old White and Hispanic female whose first SARS‐CoV‐2 infection occurred in March 2020</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Patient 17</td><td align="center" valign="top" rowspan="1" colspan="1">26‐Year‐old White individual whose first SARS‐CoV‐2 infection occurred in December 2020</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Patient 18</td><td align="center" valign="top" rowspan="1" colspan="1">44‐Year‐old female whose first SARS‐CoV‐2 infection occurred in March 2020</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Patient 20</td><td align="center" valign="top" rowspan="1" colspan="1">52‐Year‐old White male whose first SARS‐CoV‐2 infection occurred in April 2020</td></tr></tbody></table><permissions><copyright-holder>John Wiley &amp; Sons, Ltd.</copyright-holder></permissions></table-wrap><table-wrap position="float" id="hex70266-tbl-0002" content-type="Table" orientation="portrait"><label>Table 2</label><caption><p>Themes of epistemic injustice in lived experiences of patients with Long COVID.</p></caption><table frame="hsides" rules="groups"><col align="left" style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" span="1"/><col align="center" style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" span="1"/><col align="center" style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" span="1"/><col align="center" style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" span="1"/><thead valign="bottom"><tr style="border-bottom:solid 1px #000000" valign="bottom"><th align="left" valign="bottom" rowspan="1" colspan="1"/><th align="center" valign="bottom" rowspan="1" colspan="1">Dismissal and disregard</th><th align="center" valign="bottom" rowspan="1" colspan="1">Episodic symptoms and impairment</th><th align="center" valign="bottom" rowspan="1" colspan="1">Knowledge practices and interpretation</th></tr></thead><tbody valign="top"><tr><td align="left" valign="top" rowspan="1" colspan="1">Individual</td><td align="center" valign="top" rowspan="1" colspan="1">‘I feel bad whining…when there's so many others that have died or…have been impacted more severely. I didn't want to take services or time away from those that are in the ICU or bad shape in the hospital’ (P14)</td><td align="center" valign="top" rowspan="1" colspan="1">
+<p>‘I'm having such a hard time even showing up for me…that is the hard part, is …potential over‐exhaustion’ (P8)</p>
+<p>‘I have noticed, and I don't know if there's a place for this with your questions today, but I feel like it's important to note. Something very weird has been happening where literally about every two months I am sure I have COVID again, and I have symptoms, I have mild fever, I have chills, I ache all over, I have a headache, I have a little bit of a dry cough, and I'm sure I have COVID. I test negative on a rapid test, I test negative on a PCR.’ (P15)</p>
+<p>‘Exercise and activity have been difficult because of the post‐exertional fatigue, but also the untreated chronic and acute pain I've been in. I feel like I'm [age] years old in an 85‐year‐old body.’ (P14)</p>
+</td><td align="center" valign="top" rowspan="1" colspan="1">
+<p>‘It seems like every new symptom is new to me, and its new to the doctor and its like youre lost…nobody can help you. And you don't know whats going on with you. And when your doctor doesn't know what's going on with you, then what do you do?’ (P18)</p>
+<p>‘I was looking for patterns—does this flare‐up happen after I do too much? Is it related to food? Am I getting re‐infected? I started keeping a log of everything because no one had answers for me.’ (P15)</p>
+<p>‘Some of the symptoms are so similar to fibromyalgia symptoms that I don't know if they went away, or if they just sort of blended into what was already there.’ (P5)</p>
+</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Interpersonal</td><td align="center" valign="top" rowspan="1" colspan="1">‘People all the time, they look at me like, “oh, you look great” and I'm like, it doesn't mean that I feel great’ (P13)</td><td align="center" valign="top" rowspan="1" colspan="1">‘One day I can walk and talk and the next day I can't and I can't get out of bed and they don't understand that. And I don't fully understand that’ (P16)</td><td align="center" valign="top" rowspan="1" colspan="1">‘My family has really struggled to understand what I'm going through … we really need a family education component right away.’ (P16)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Health system</td><td align="center" valign="top" rowspan="1" colspan="1">
+<p>‘So many, almost all of us, at one point or another, have had the door shut in or face, or told, you know, no, that's not what it is and we just have to go home and suffer more’ (P18)</p>
+<p>‘I have never been so gaslight in my entire life consistently day in and day out…“I fought hard because the [specialist name] didn't believe that COVID was a real thing, and so I had to fight multiple appeals to get to see a [specialist name] that did.”’ (P8)</p>
+<p>‘Yeah, this [Long COVID program access] is part of my frustration‐ is that I only had one appointment, and I basically have tried to get into more and I've been told I can't or its not possible’ (P7)</p>
+</td><td align="center" valign="top" rowspan="1" colspan="1">
+<p>‘My energy levels and my fatigue and brain fog tend to be worse, so there were times where I would have liked to participate more but felt like I was just too fatigued to be able to say a whole lot’ (P10)</p>
+<p>‘The first year of my illness, I couldn't even look at my email. So… with the support group, one big thing for me is, it [the invitation] wasn't showing up in my MyChart. … they were doing everything via personal email, but … I couldn't start using email until really a couple of months ago.’ (P16)</p>
+</td><td align="center" valign="top" rowspan="1" colspan="1">
+<p>‘We, at this point, know more than they do, because we live with this every day and as you can tell, I…barely have enough energy to comment a little on it, so…I think the more that they learn the more they will help others…. And I know this will change. It was scary for several of us that were talking together to see how little is known by the specialists’ (P3)</p>
+<p>‘It was interesting to me that so many people had the same experience with doctors that I had been having because nobody knew what was going on. And a year and a half into the COVID pandemic, they still didn't know, and I don't get that. It seems to me, like, if you're a doctor and you're treating people who are saying that they've got these symptoms ever since they had COVID, that you would start reading up on Long COVID’ (P5)</p>
+</td></tr></tbody></table><permissions><copyright-holder>John Wiley &amp; Sons, Ltd.</copyright-holder></permissions></table-wrap><table-wrap position="float" id="hex70266-tbl-0003" content-type="Table" orientation="portrait"><label>Table 3</label><caption><p>Themes encompassing the impact of the support group intervention.</p></caption><table frame="hsides" rules="groups"><col align="left" style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" span="1"/><col align="center" style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" span="1"/><col align="center" style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" span="1"/><col align="center" style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" span="1"/><thead valign="bottom"><tr style="border-bottom:solid 1px #000000" valign="bottom"><th align="left" valign="bottom" rowspan="1" colspan="1"/><th align="center" valign="bottom" rowspan="1" colspan="1">Recognition and validation</th><th align="center" valign="bottom" rowspan="1" colspan="1">Solidarity and community</th><th align="center" valign="bottom" rowspan="1" colspan="1">Information exchange and expectation setting</th></tr></thead><tbody valign="top"><tr><td align="left" valign="top" rowspan="1" colspan="1">Positive experiences</td><td align="center" valign="top" rowspan="1" colspan="1">‘We were heard. We …supported each other and we felt validated because we were heard…. Like its been just so hard on top of being sick, that just to have a nice place with people that understand that you just slept, like 20 out of 24 hours and you haven't combed your hair in 2 days…like it just validates you that…this is normal for where I'm at in this illness.’ (P18)</td><td align="center" valign="top" rowspan="1" colspan="1">
+<p>‘Just being able to reach out after the meetings…its so nice…you don't feel like you're the Lone Ranger.’ (P12)</p>
+<p>‘I think the most number one most effective aspect is just being in the community and knowing that you're not alone.’ (P10)</p>
+</td><td align="center" valign="top" rowspan="1" colspan="1">
+<p>‘Gathering information and being given …new information about where to seek help at, and additional resources for recovery and support too, has been really good.’ (P12)</p>
+<p>‘It gives me basic place of understanding and advocacy for me to take forward to my doctor, to my friends to help understand and into my greater community.’ (P8)</p>
+<p>‘The biggest thing for me was knowing that people are investigating [Long COVID] in the first place.’ (P17)</p>
+</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Potential negative experiences</td><td align="center" valign="top" rowspan="1" colspan="1">
+<p>‘I have a pretty strong “pick yourself up by your bootstraps” kind of attitude that works for me …I think when I listened to other people talking about all of the things that are bothering them, instead of making me feel stronger or supporting them, it just debilitates me.’ (P15)</p>
+<p>‘Ours is a very different experience from the people who were totally healthy and then just got brought down by COVID and they're now living our lives basically for the first time, and they are devastated. And they're like, but I still have hope, and were 20 years in going, good luck with that.’ (P03)</p>
+</td><td align="center" valign="top" rowspan="1" colspan="1">
+<p>‘We had different backgrounds, of course and different stressors that were going on and different symptoms.’ (P20)</p>
+<p>‘I wasn't comfortable sharing a lot with the group through the zoom type format…the group was so large that we really didn't get a chance to interact so that we could get comfortable with each other.’ (P5)</p>
+</td><td align="center" valign="top" rowspan="1" colspan="1">‘He [facilitator] made some suggestion when someone was talking about their symptoms…that it would be helpful for people to meet with their Long COVID provider pretty regularly…and I thought, oh, I got one appointment. And so from that, I reached out to the Long COVID clinic and the provider …but I was told that she wasn't going to be seeing people in person until the new year.’ (P07)</td></tr></tbody></table><permissions><copyright-holder>John Wiley &amp; Sons, Ltd.</copyright-holder></permissions></table-wrap><sec id="hex70266-sec-0140"><label>3.1</label><title>Lived Experiences of Epistemic Injustice</title><sec id="hex70266-sec-0150"><label>3.1.1</label><title>Dismissal and Disregard</title><p>This theme encompassed experiences of invalidation, neglect and being disbelieved at multiple levels: intra‐personally, as patients grappled with self‐doubt; interpersonally, as they faced a lack of recognition or validation from family and friends, and within the healthcare system, where they encountered scepticism, misdiagnosis and medical dismissal from professionals. One participant described the multiple levels of dismissal and disregard in this way:<disp-quote content-type="quotation"><p>I look just fine, you know, people all the time, they look at me like, ‘oh, you look great’ and I'm like, it doesn't mean that I feel great…. We had a talk [in the support group] about‐ we don't have to prove to people how you're feeling, and this is real, right‐ this is really happening? Because people question, you know, people see you looking just fine. This makes you question your sanity, like am I really going through this? Why am I really this tired? Right? Like, am I really not being able to read right now? You just question yourself.</p><attrib>(P13)</attrib></disp-quote>
+</p><p>The dismissal and disregard often increased the effort required to navigate the healthcare system as reflected in these comments:<disp-quote content-type="quotation"><p>So many, almost all of us, at one point or another, have been‐ had the door shut in our face or told, you know, no, that's not what it is, and we just go home and suffer some more…. all the literature that I found, I found on my own. And I've educated…my doctors…[it's] unbelievable that I'm educating my doctor.</p><attrib>(P18).</attrib></disp-quote>
+<disp-quote content-type="quotation"><p>I fought hard because the [specialist name] didn't believe that COVID was a real thing, and so I had to fight multiple appeals to get to see a [specialist name] that did.</p><attrib>(P8)</attrib></disp-quote>
+</p></sec><sec id="hex70266-sec-0160"><label>3.1.2</label><title>Episodic and Unpredictable Symptoms and Impairment</title><p>The nature of the symptoms and impairments that patients experience, particularly their episodic and unpredictable nature, contributed to feelings of frustration and social isolation. The fluctuating nature of the symptoms often created a discordance between participants' desire to engage in the support group and their capacity to do so. One participant described the interpersonal impact of the fluctuating impairment this way:<disp-quote content-type="quotation"><p>My family still doesn't understand it because one day I can walk and talk, and the next day I can't, and I can't get out of bed, and they don't understand that. And I don't fully understand that.</p><attrib>(P16)</attrib></disp-quote>
+</p><p>Another participant described how the fluctuating symptoms impacted their capacity to engage in the support group intervention this way:<disp-quote content-type="quotation"><p>At [the time of day of the group] my energy levels and my fatigue and brain fog tend to be worse, so there were times where I would have liked to participate more but felt like I was just too fatigued to be able to say a whole lot.</p><attrib>(P10)</attrib></disp-quote>
+</p></sec><sec id="hex70266-sec-0170"><label>3.1.3</label><title>Knowledge and Interpretation Practices</title><p>Participants frequently talked about how the lack of scientific knowledge about the illness shaped their experiences with Long COVID. This theme encompassed the active processes by which individuals sought to understand their condition, including asking questions, conducting personal research, analysing and interpreting symptoms, evaluating medical evidence and engaging in discussions about different perspectives on the illness. Given the evolving and uncertain nature of Long COVID, participants often found themselves in a continuous cycle of information‐seeking, whether through medical consultations, peer discussions or independent investigation. One participant described the intra‐personal effect this way:<disp-quote content-type="quotation"><p>It seems like every new symptom is new to me, and it's new to the doctor and…it's like you're lost…nobody can help you. And you don't know what's going on with you. And when your doctor doesn't know what's going on with you, then what do you do?</p><attrib>(P18)</attrib></disp-quote>
+</p><p>For many, the lack of clear medical consensus led to critical thinking and self‐advocacy, as they had to navigate conflicting advice, question the credibility of information sources and make informed decisions about their care. Some participants expressed frustration with the medical system's knowledge gaps, whereas others described debating competing interpretations of symptoms—both within themselves and with healthcare providers. For example, one participant described the challenges in differentiating between pre‐existing medical conditions and Long COVID symptoms this way:<disp-quote content-type="quotation"><p>My question is, you know, look at these anxiety symptoms and look at these dysautonomia symptoms. There's all this crossover. How do you know anyway?</p><attrib>(P9)</attrib></disp-quote>
+</p><p>This theme encompassed how participants understood their own illness and how medical professionals communicated about their level of knowledge or uncertainty regarding their condition. One participant shared appreciation for honesty from medical providers in this way:<disp-quote content-type="quotation"><p>When I have providers who say to me, ‘I don't know if you'll ever get better,’ you know, in some ways I feel like, at least they're being real with me in telling me that they don't know. It's the doctors that don't know and don't have an answer and then do this gaslighting situation or avoidance that causes much more harm.</p><attrib>(P7)</attrib></disp-quote>
+</p><p>Another participant reflected on the importance of humility among the healthcare providers they encountered in the following:<disp-quote content-type="quotation"><p>It was really important and nice that…[the practitioner] expressed so humbly that…all answers are okay, that, you know, we don't have answers.</p><attrib>(P8)</attrib></disp-quote>
+</p></sec></sec><sec id="hex70266-sec-0180"><label>3.2</label><title>The Impact of Peer Support on Epistemic Injustices</title><sec id="hex70266-sec-0190"><label>3.2.1</label><title>Recognition and Validation</title><p>Participation in the peer support group offered participants a space in which their illness and struggles were acknowledged, understood and validated. Recognition was described in multiple ways—from hearing others describe nearly identical struggles, to receiving emotional support from peers, to recognising systemic failures in healthcare. The act of being believed and understood helped combat the isolation many had felt when their symptoms were questioned or minimised. As one participant described:<disp-quote content-type="quotation"><p>…just to have a nice place with people that understand that you just slept, like, 20 out of 24 hours and you haven't combed your hair in 2 days. Maybe 4 days instead of 2… Like, it just validates you that…this is normal for where I'm at in this illness.</p><attrib>(P18)</attrib></disp-quote>
+</p><p>Another participant emphasised:<disp-quote content-type="quotation"><p>Getting to hear from other people that are living your same experience when your doctors are telling you it doesn't exist is definitely important.</p><attrib>(P3)</attrib></disp-quote>
+</p><p>Beyond personal recognition, participation in the support group also illuminated structural injustices, as participants realised their struggles were not just personal failings or bad luck but part of a broader pattern of systemic neglect:<disp-quote content-type="quotation"><p>It was also helpful for me to realize I'm not the only one who is having a horrific experience at [hospital name]…hearing and seeing it in the faces of other people and their own personal struggles with [hospital name], it's like oh, it's just the frickin' system. They don't really care about anybody.</p><attrib>(P8)</attrib></disp-quote>
+</p><p>Not all participants described feeling validated by the support group. For some, the act of witnessing others' struggles was potentially emotionally overwhelming or even counterproductive. One participant said:<disp-quote content-type="quotation"><p>I have a pretty strong ‘pick yourself up by your bootstraps’ kind of attitude that works for me …I think when I listened to other people talking about all of the things that are bothering them, instead of making me feel stronger or supporting them, it just debilitates me.</p><attrib>(P15)</attrib></disp-quote>
+</p></sec><sec id="hex70266-sec-0200"><label>3.2.2</label><title>Solidarity and Community</title><p>Most participants emphasised that the peer support group fostered a sense of belonging and community, offering a crucial counterbalance to the isolation and lack of understanding many had faced from medical providers and loved ones. Beyond offering community, the group became a foundation for both personal and collective empowerment, with participants finding meaning in ongoing friendships, structured peer interaction and even collaborative advocacy efforts. One participant reflected on the profound impact of simply being in a shared space with other patients:<disp-quote content-type="quotation"><p>I think the most, the number one most effective [aspect] is just being in the community and knowing that you're not alone in what you're feeling or doing…. It was fairly profound…</p><attrib>(P10)</attrib></disp-quote>
+</p><p>For others, the consistency of the group provided stability, reinforcing a sense of connection over time:<disp-quote content-type="quotation"><p>There's power in seeing, just simply seeing the same faces each week… ‘oh, you are a community of people who I'm traveling with, I'm not alone.’</p><attrib>(P8)</attrib></disp-quote>
+</p><p>However, participants also recognised the delicate balance of engagement, acknowledging that chronic illness often made it difficult to sustain additional relationships. Some appreciated the structured nature of the group, which allowed for meaningful interaction without becoming overwhelming:<disp-quote content-type="quotation"><p>I'm not in the space to, like, bring more people in, necessarily, because I can't take care of myself …I want to be more connected with more people, but… I don't want it to drain you…And so I think that's what's nice about a peer group is because it's like a very specific kind of interaction.</p><attrib>(P11)</attrib></disp-quote>
+</p><p>Although many found comfort in the group setting, a few participants struggled to feel fully integrated due to the format and group size. Some found the virtual environment limiting, making it harder to build trust and engage meaningfully:<disp-quote content-type="quotation"><p>I wasn't comfortable sharing a lot with the group through the zoom type format…the group was so large that we really didn't get a chance to interact so that we could get comfortable with each other.</p><attrib>(P5)</attrib></disp-quote>
+</p></sec><sec id="hex70266-sec-0210"><label>3.2.3</label><title>Information Exchange and Expectation Setting</title><p>Participants described the peer support group as a critical space for information exchange, where they gained valuable resources, provided materials and discussed symptom management, healthcare navigation and self‐advocacy. Hearing the experiences of others provided guidance on where to seek help and what resources were available:<disp-quote content-type="quotation"><p>Hearing similar stories, gathering information, and being given information too, new information about where to seek help at, and additional resources for recovery and support too, has been really good.</p><attrib>(P12)</attrib></disp-quote>
+</p><p>Although medical and symptom‐specific guidance—such as recommendations on antihistamines, sleep aids and lifestyle modifications—was useful, participants emphasised that learning how to interact with and advocate for themselves within the healthcare system was particularly impactful. The group helped them understand their rights as patients and empowered them to push for better care in medical and community settings:<disp-quote content-type="quotation"><p>It gives me a basic place of understanding and advocacy for me to take forward to my doctor, to my friends to help understand and into my greater community.</p><attrib>(P8)</attrib></disp-quote>
+</p><p>Participants described how the knowledge gained in sessions helped them feel more confident in challenging dismissive medical responses and taking proactive steps in their care:<disp-quote content-type="quotation"><p>I think in everybody else's recovery, that's what they're coming to—the conclusion is to advocate for yourself, you know, and I kinda think that the group gives that strength to know that…. The information given out at the meetings and stuff is very beneficial to…know where at least to a) to begin or b) to follow up with.</p><attrib>(P12)</attrib></disp-quote>
+</p><p>A key area of learning was energy management, which many participants connected to changes in the way they related to their fatigue and their overall approach to their condition. The group provided strategies for pacing and boundary‐setting, helping individuals develop a more sustainable mindset around activity and rest:<disp-quote content-type="quotation"><p>I think we talked a lot about energy and conserving energy and understanding more of that. So it made me more mindful of that.</p><attrib>(P13)</attrib></disp-quote>
+</p><p>For some, learning about the energy cycle helped them reframe their experiences and set healthier boundaries, which improved both their personal and professional lives:<disp-quote content-type="quotation"><p>I know that they did a really great little kind of explanation of energy… and how we, if we feel good, we're going to overdo it. And then we get in that cycle of…really burnt out to, like, having a little bit of energy and trying to use it. And so… that's one of the things that I would say I made a lifestyle choice on—just like, being more consistent with giving myself the time to rest… So, once I have ways to define the things I'm experiencing, which—the group did help me define the things I was experiencing—I now can set boundaries… and it also helps with my, like, my professional life.</p><attrib>(P17)</attrib></disp-quote>
+</p><p>At times, however, the support group also revealed gaps in the healthcare system that participants were unaware of, leading to frustration. In one instance, a participant assumed they would receive more follow‐up care based on group discussions, only to realise that their expectations were misaligned with actual medical practices:<disp-quote content-type="quotation"><p>He [the facilitator] made some suggestion when someone was talking about their symptoms… that it would be helpful for people to meet with their Long COVID provider pretty regularly… and I thought, oh, I got one appointment. And so from that, I reached out to the Long COVID clinic and the provider …but I was told that she wasn't going to be seeing people in person until the new year.</p><attrib>(P7)</attrib></disp-quote>
+</p></sec></sec></sec><sec sec-type="discussion" id="hex70266-sec-0220"><label>4</label><title>Discussion</title><p>In our qualitative study of Long COVID patients who participated in a pilot peer support intervention embedded within a US‐based tertiary care Long COVID programme, we found that all participants described ways in which their ability to fully understand their condition or contribute to the health system's understanding of their illness was hindered. Specifically, we identified three broad themes of epistemic injustice in their lived experiences: dismissal and disregard; episodic and unpredictable symptoms and impairments, and knowledge and interpretation practices. These experiences were not confined to individual interactions but spanned multiple levels, including the intra‐personal, interpersonal and health system levels, suggesting that epistemic injustice operates within a broader socioecological framework. Additionally, we identified three themes representing potential mechanisms through which our peer support intervention may have influenced participants' experiences of these injustices. We think these results have implications for how peer support interventions can be leveraged to improve health outcomes in Long COVID and other poorly understood medical conditions. We propose a tentative conceptual model for the role of support groups in addressing the lived experiences of epistemic injustices in Long COVID represented in Figure <xref rid="hex70266-fig-0001" ref-type="fig">1</xref>.</p><fig position="float" fig-type="Figure" id="hex70266-fig-0001" orientation="portrait"><label>Figure 1</label><caption><p>Conceptual model of the role of support groups in countering epistemic injustice experienced by patients with Long COVID.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-1" orientation="portrait" xlink:href="HEX-28-e70266-g001.jpg"/></fig><p>The theme of ‘disregard and dismissal’ echoes themes of epistemic injustice that have been described in other chronic conditions including HIV, mental health disorders and chronic fatigue [<xref rid="hex70266-bib-0023" ref-type="bibr">23</xref>, <xref rid="hex70266-bib-0037" ref-type="bibr">37</xref>, <xref rid="hex70266-bib-0044" ref-type="bibr">44</xref>, <xref rid="hex70266-bib-0045" ref-type="bibr">45</xref>]. Our findings show how these experiences undermine patients' recovery by eroding self‐efficacy, increasing emotional distress and weakening the therapeutic alliance between patients and providers. This theme of dismissal and disregard has been previously described in Long COVID patients in both qualitative and quantitative studies [<xref rid="hex70266-bib-0026" ref-type="bibr">26</xref>, <xref rid="hex70266-bib-0028" ref-type="bibr">28</xref>, <xref rid="hex70266-bib-0046" ref-type="bibr">46</xref>]. For example, Ireson et al. conducted a qualitative analysis of patient stories from an online COVID‐19 community early in the COVID‐19 pandemic and found that patients reported feeling like their symptoms were not believed by the medical establishment which often led them to seek alternative approaches to managing their illness including through online support groups [<xref rid="hex70266-bib-0026" ref-type="bibr">26</xref>].</p><p>The theme that we called ‘knowledge and interpretation practices’ reflects the ways in which our participants became aware that their chronic condition was not well understood by the medical and scientific establishment. Sociologists have previously characterised certain conditions—such as fibromyalgia, endometriosis, chronic pain and chronic fatigue syndrome—as ‘low prestige’ illnesses, similar to Long COVID in that they lack objective diagnostic tests and disease‐modifying treatments [<xref rid="hex70266-bib-0047" ref-type="bibr">47</xref>]. Our findings support the central need for epistemic humility and solidarity in the patient‐centred care revolution [<xref rid="hex70266-bib-0024" ref-type="bibr">24</xref>, <xref rid="hex70266-bib-0048" ref-type="bibr">48</xref>, <xref rid="hex70266-bib-0049" ref-type="bibr">49</xref>]. Participants expressed a deep desire for their involvement in the support group to contribute to the broader production of knowledge about Long COVID—making their suffering more visible through a process of co‐production akin to how the term ‘Long COVID’ itself emerged [<xref rid="hex70266-bib-0001" ref-type="bibr">1</xref>].</p><p>Our findings regarding the impact of the peer support intervention, specifically regarding themes of validation, community and information exchange, reflect other literature on the role of peer support in improving participant well‐being [<xref rid="hex70266-bib-0030" ref-type="bibr">30</xref>, <xref rid="hex70266-bib-0031" ref-type="bibr">31</xref>, <xref rid="hex70266-bib-0032" ref-type="bibr">32</xref>, <xref rid="hex70266-bib-0033" ref-type="bibr">33</xref>]. We found few evidence that patients in our study were poised for true epistemic resistance, or explicit actions to ‘change oppressive normative structures’, by leveraging their collective lived experience to change or undermine these epistemic structures within healthcare [<xref rid="hex70266-bib-0036" ref-type="bibr">36</xref>]. Rather, our results would suggest that support groups may potentially counter these epistemic injustices by allowing: recognition and validation; solidarity and community; information exchange and expectation setting. These findings are consistent with a relationship‐based approach to care, which has been described in narrative medicine and may allow patients to find meaning in the face of medical uncertainty [<xref rid="hex70266-bib-0050" ref-type="bibr">50</xref>, <xref rid="hex70266-bib-0051" ref-type="bibr">51</xref>].</p><p>We found that the episodic and unpredictable symptoms and impairments that patients experienced as part of having Long COVID contributed to epistemic injustice not only because it impacted how they were able to monitor their illness and how they were perceived by their loved ones or their clinicians but also because they were often less able to accrue the benefit of the support intervention. These results are consistent with the literature on episodic disability, which has previously been characterised in patients with HIV/AIDS where both extrinsic and intrinsic contextual factors impacted participant care experiences [<xref rid="hex70266-bib-0052" ref-type="bibr">52</xref>, <xref rid="hex70266-bib-0053" ref-type="bibr">53</xref>, <xref rid="hex70266-bib-0054" ref-type="bibr">54</xref>, <xref rid="hex70266-bib-0055" ref-type="bibr">55</xref>]. The episodic nature of the symptoms and impairments in Long COVID also has important implications for how complex psychosocial interventions may need to be designed and implemented to be most effective. Across multiple studies, post‐exertional malaise is a symptom that has been well described in Long COVID patients whereby patients' symptoms get worse after physical, cognitive, emotional exertion [<xref rid="hex70266-bib-0056" ref-type="bibr">56</xref>]. Since patients may struggle to access care due to the episodic nature of these symptoms, more research on how to improve health systems to address post‐exertional malaise is needed. Our participants also point to potential strategies that may be useful for tailoring peer support interventions to better acknowledge Long COVID symptoms. These strategies include providing information in multiple formats that can be accessed at any time, being flexible in terms of nature and type of attendance to accommodate for symptoms, focusing on local health systems and the need for trauma‐informed approaches.</p><p>The strengths of our study include the sampling of participants from two cycles of our support group intervention and the incorporation of individuals with Long COVID in the development of this study. The weaknesses of our study include single‐centre design, which may limit further exploration into the impact and prevalence of epistemic injustice, the inclusion of only English‐speaking participants and the fact that it was conducted within a large tertiary‐care academic medical centre, which may have influenced participant recruitment and experiences. Lastly, our study participants were predominantly White, middle‐aged to older women, reflecting the demographic of patients treated for Long COVID at our quaternary care clinic during this period. This aligns with broader findings that women are at higher risk of developing Long COVID than men [<xref rid="hex70266-bib-0057" ref-type="bibr">57</xref>, <xref rid="hex70266-bib-0058" ref-type="bibr">58</xref>]. Although our sampling process did not intentionally exclude men, it remains plausible that the experiences of epistemic injustice observed in our study are shaped in part by gender bias and may not be fully generalisable to male Long COVID patients. Notably, women are more likely to seek medical care for persistent, multisystem conditions such as autoimmune diseases, chronic fatigue syndrome, fibromyalgia and multiple chemical sensitivities—conditions that, like Long COVID, remain poorly understood within a biomedical framework that privileges organ‐specific pathology [<xref rid="hex70266-bib-0059" ref-type="bibr">59</xref>]. Feminist philosophers of science have long critiqued the biomedical field's strong positivist orientation, arguing that it often marginalises the relevance of patients' lived experiences and social contexts in the production of medical knowledge [<xref rid="hex70266-bib-0060" ref-type="bibr">60</xref>]. Given these dynamics, epistemic injustice may be particularly salient for women with Long COVID. Future studies should seek to include a diverse sample across gender and other demographic variables to better understand how epistemic injustice manifests in different populations.</p></sec><sec sec-type="conclusions" id="hex70266-sec-0230"><label>5</label><title>Conclusion</title><p>In this qualitative study of Long COVID patients who participated in a support group intervention, we described the lived experience of epistemic injustices across themes of dismissal and disregard, episodic symptoms and impairment, and knowledge and interpretation practices, that are present at the intra‐personal, interpersonal and health system levels. We also identified potential mechanisms through which support groups can counter these experiences through recognition and validation, solidarity and community, and information exchange and expectation setting. Patient's lived experiences of epistemic injustice support the importance of a relationship‐based approach to medicine and the importance of epistemic humility in patient‐centred care. Our findings highlight participant‐identified structures for how support interventions may be implemented, including flexibility in format, focus on local resources and multiple modes of information sharing. However, how psychosocial support interventions can be better structured to counter epistemic injustice for Long COVID and other chronic illnesses should be the source of further innovation and research.</p></sec><sec id="hex70266-sec-0240"><title>Author Contributions</title><p>
+<bold>Nandini Sarma:</bold> writing – original draft, methodology, validation, visualization, writing – review and editing, formal analysis, data curation, resources, conceptualization. <bold>Sam Gage:</bold> conceptualization, investigation, writing – original draft, writing – review and editing, data curation, resources, project administration, software. <bold>Catherine L. Hough:</bold> investigation, supervision, conceptualization, visualization. <bold>Aluko A. Hope:</bold> conceptualization, investigation, funding acquisition, writing – original draft, writing – review and editing, methodology, validation, formal analysis, supervision.</p></sec><sec id="hex70266-sec-0260"><title>Disclosure</title><p>A preliminary version of this work was presented at the American Thoracic Society International Conference on May 22, 2023, in Washington, DC.</p></sec><sec id="hex70266-sec-0270"><title>Ethics Statement</title><p>This study was approved under Institutional Review Board # 00023311.</p></sec><sec id="hex70266-sec-0280"><title>Consent</title><p>Patients with Long COVID who had participated in a pilot peer support intervention were interviewed to better understand the potential effectiveness of the programme and to provide recommendations on how to improve the programme. One investigator (S.G.) also identified as a patient with Long COVID, and another investigator (A.A.H.) was the medical director of the Long COVID Programme at which the pilot peer support intervention was conducted.</p></sec><sec sec-type="COI-statement" id="hex70266-sec-0290"><title>Conflicts of Interest</title><p>The authors declare no conflicts of interest.</p></sec></body><back><ack id="hex70266-sec-0250"><title>Acknowledgements</title><p>N.S. is the guarantor of the content of this manuscript, including data and analysis. N.S., S.G., C.L.H. and A.A.H. contributed substantially to the study design, data analysis and interpretation and the writing of the manuscript. This study is reported using the Consolidated Criteria for Reporting Qualitative Data (COREQ) checklist.</p></ack><sec sec-type="data-availability" id="hex70266-sec-0310"><title>Data Availability Statement</title><p>The data that support the findings of this study are available on request from the corresponding author. The data are not publicly available due to privacy or ethical restrictions.</p></sec><ref-list content-type="cited-references" id="hex70266-bibl-0001"><title>References</title><ref id="hex70266-bib-0001"><label>1</label><mixed-citation publication-type="journal" id="hex70266-cit-0001">
+<string-name name-style="western">
+<given-names>F.</given-names>
+<surname>Callard</surname>
+</string-name> and <string-name name-style="western">
+<given-names>E.</given-names>
+<surname>Perego</surname>
+</string-name>, “<article-title>How and Why Patients Made Long Covid</article-title>,” <source>Social Science &amp; Medicine</source>
+<volume>268</volume> (<year>2021</year>): <elocation-id>113426</elocation-id>, <pub-id pub-id-type="doi">10.1016/j.socscimed.2020.113426</pub-id>.<pub-id pub-id-type="pmid">33199035</pub-id>
+<pub-id pub-id-type="pmcid">PMC7539940</pub-id></mixed-citation></ref><ref id="hex70266-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="hex70266-cit-0002">
+<string-name name-style="western">
+<given-names>H. E.</given-names>
+<surname>Davis</surname>
+</string-name>, <string-name name-style="western">
+<given-names>G. S.</given-names>
+<surname>Assaf</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L.</given-names>
+<surname>McCorkell</surname>
+</string-name>, et al., “<article-title>Characterizing Long COVID in an International Cohort: 7 Months of Symptoms and Their Impact</article-title>,” <source>eClinicalMedicine</source>
+<volume>38</volume> (<year>2021</year>): <elocation-id>101019</elocation-id>, <pub-id pub-id-type="doi">10.1016/j.eclinm.2021.101019</pub-id>.<pub-id pub-id-type="pmid">34308300</pub-id>
+<pub-id pub-id-type="pmcid">PMC8280690</pub-id></mixed-citation></ref><ref id="hex70266-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="hex70266-cit-0003">
+<string-name name-style="western">
+<given-names>R. R.</given-names>
+<surname>Deer</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M. A.</given-names>
+<surname>Rock</surname>
+</string-name>, <string-name name-style="western">
+<given-names>N.</given-names>
+<surname>Vasilevsky</surname>
+</string-name>, et al., “<article-title>Characterizing Long COVID: Deep Phenotype of a Complex Condition</article-title>,” <source>EBioMedicine</source>
+<volume>74</volume> (<year>2021</year>): <elocation-id>103722</elocation-id>, <pub-id pub-id-type="doi">10.1016/j.ebiom.2021.103722</pub-id>.<pub-id pub-id-type="pmid">34839263</pub-id>
+<pub-id pub-id-type="pmcid">PMC8613500</pub-id></mixed-citation></ref><ref id="hex70266-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="hex70266-cit-0004">
+<string-name name-style="western">
+<given-names>E. W.</given-names>
+<surname>Ely</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L. M.</given-names>
+<surname>Brown</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>H. V.</given-names>
+<surname>Fineberg</surname>
+</string-name>, “<article-title>Long Covid Defined</article-title>,” <source>New England Journal of Medicine</source>
+<volume>391</volume>, no. <issue>0</issue> (<year>2024</year>): <fpage>1746</fpage>–<lpage>1753</lpage>, <pub-id pub-id-type="doi">10.1056/NEJMsb2408466</pub-id>.<pub-id pub-id-type="pmid">39083764</pub-id>
+<pub-id pub-id-type="pmcid">PMC11687645</pub-id></mixed-citation></ref><ref id="hex70266-bib-0005"><label>5</label><mixed-citation publication-type="miscellaneous" id="hex70266-cit-0005">CDC, “Long COVID Basics,” COVID‐19, accessed October 14, 2024, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.cdc.gov/covid/long-term-effects/index.html" ext-link-type="uri">https://www.cdc.gov/covid/long-term-effects/index.html</ext-link>.</mixed-citation></ref><ref id="hex70266-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="hex70266-cit-0006">
+<string-name name-style="western">
+<given-names>M. W.</given-names>
+<surname>Tenforde</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S. S.</given-names>
+<surname>Kim</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C. J.</given-names>
+<surname>Lindsell</surname>
+</string-name>, et al., “<article-title>Symptom Duration and Risk Factors for Delayed Return to Usual Health Among Outpatients With COVID‐19 in a Multistate Health Care Systems Network—United States, March–June 2020</article-title>,” <source>MMWR. Morbidity and Mortality Weekly Report</source>
+<volume>69</volume> (<year>2020</year>): <fpage>993</fpage>–<lpage>998</lpage>, <pub-id pub-id-type="doi">10.15585/mmwr.mm6930e1</pub-id>.<pub-id pub-id-type="pmid">32730238</pub-id>
+<pub-id pub-id-type="pmcid">PMC7392393</pub-id></mixed-citation></ref><ref id="hex70266-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="hex70266-cit-0007">
+<string-name name-style="western">
+<given-names>T. J.</given-names>
+<surname>Iwashyna</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L. A.</given-names>
+<surname>Kamphuis</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S. J.</given-names>
+<surname>Gundel</surname>
+</string-name>, et al., “<article-title>Continuing Cardiopulmonary Symptoms, Disability, and Financial Toxicity 1 Month After Hospitalization for Third‐Wave COVID‐19: Early Results From a US Nationwide Cohort</article-title>,” <source>Journal of Hospital Medicine</source>
+<volume>16</volume> (<year>2021</year>): <fpage>531</fpage>–<lpage>537</lpage>, <pub-id pub-id-type="doi">10.12788/jhm.3660</pub-id>.<pub-id pub-id-type="pmid">34424190</pub-id></mixed-citation></ref><ref id="hex70266-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="hex70266-cit-0008">
+<string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Fumagalli</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Zocchi</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Tassetti</surname>
+</string-name>, et al., “<article-title>Factors Associated With Persistence of Symptoms 1 Year After COVID‐19: A Longitudinal, Prospective Phone‐Based Interview Follow‐Up Cohort Study</article-title>,” <source>European Journal of Internal Medicine</source>
+<volume>97</volume> (<year>2022</year>): <fpage>36</fpage>–<lpage>41</lpage>, <pub-id pub-id-type="doi">10.1016/j.ejim.2021.11.018</pub-id>.<pub-id pub-id-type="pmid">34903448</pub-id>
+<pub-id pub-id-type="pmcid">PMC8648678</pub-id></mixed-citation></ref><ref id="hex70266-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="hex70266-cit-0009">
+<string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Twomey</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>DeMars</surname>
+</string-name>, <string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Franklin</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S. N.</given-names>
+<surname>Culos‐Reed</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Weatherald</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>J. G.</given-names>
+<surname>Wrightson</surname>
+</string-name>, “<article-title>Chronic Fatigue and Postexertional Malaise in People Living With Long COVID: An Observational Study</article-title>,” <source>Physical Therapy</source>
+<volume>102</volume> (<year>2022</year>): <elocation-id>pzac005</elocation-id>, <pub-id pub-id-type="doi">10.1093/ptj/pzac005</pub-id>.<pub-id pub-id-type="pmid">35079817</pub-id>
+<pub-id pub-id-type="pmcid">PMC9383197</pub-id></mixed-citation></ref><ref id="hex70266-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="hex70266-cit-0010">
+<string-name name-style="western">
+<given-names>D. S.</given-names>
+<surname>Goldstein</surname>
+</string-name>, “<article-title>Post‐COVID Dysautonomias: What We Know and (Mainly) What We Don't Know</article-title>,” <source>Nature Reviews Neurology</source>
+<volume>20</volume> (<year>2024</year>): <fpage>99</fpage>–<lpage>113</lpage>, <pub-id pub-id-type="doi">10.1038/s41582-023-00917-9</pub-id>.<pub-id pub-id-type="pmid">38212633</pub-id>
+</mixed-citation></ref><ref id="hex70266-bib-0011"><label>11</label><mixed-citation publication-type="book" id="hex70266-cit-0011">
+<person-group person-group-type="editor">
+<string-name name-style="western">
+<given-names>P. A.</given-names>
+<surname>Volberding</surname>
+</string-name>
+</person-group>, <person-group person-group-type="editor">
+<string-name name-style="western">
+<given-names>B. X.</given-names>
+<surname>Chu</surname>
+</string-name>
+</person-group> and <person-group person-group-type="editor">
+<string-name name-style="western">
+<given-names>C. M.</given-names>
+<surname>Spicer</surname>
+</string-name>
+</person-group>, eds., <source>Long‐Term Health Effects of COVID‐19: Disability and Function Following SARS‐CoV‐2 Infection</source> (<publisher-name>National Academies Press</publisher-name>, <year>2024</year>), <pub-id pub-id-type="doi">10.17226/27756</pub-id>.</mixed-citation></ref><ref id="hex70266-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="hex70266-cit-0012">
+<string-name name-style="western">
+<given-names>N. A.</given-names>
+<surname>Alwan</surname>
+</string-name>, “<article-title>The Teachings of Long Covid</article-title>,” <source>Communications Medicine</source>
+<volume>1</volume>, no. <issue>1</issue> (<year>2021</year>): <fpage>15</fpage>, <pub-id pub-id-type="doi">10.1038/s43856-021-00016-0</pub-id>.<pub-id pub-id-type="pmid">35602198</pub-id>
+<pub-id pub-id-type="pmcid">PMC9053272</pub-id></mixed-citation></ref><ref id="hex70266-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="hex70266-cit-0013">
+<string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Bayliss</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Goodall</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Chisholm</surname>
+</string-name>, et al., “<article-title>Overcoming the Barriers to the Diagnosis and Management of Chronic Fatigue Syndrome/ME in Primary Care: A Meta Synthesis of Qualitative Studies</article-title>,” <source>BMC Family Practice</source>
+<volume>15</volume> (<year>2014</year>): <elocation-id>44</elocation-id>, <pub-id pub-id-type="doi">10.1186/1471-2296-15-44</pub-id>.<pub-id pub-id-type="pmid">24606913</pub-id>
+<pub-id pub-id-type="pmcid">PMC3973969</pub-id></mixed-citation></ref><ref id="hex70266-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="hex70266-cit-0014">
+<string-name name-style="western">
+<given-names>D. Z.</given-names>
+<surname>Buchman</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Ho</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>D. S.</given-names>
+<surname>Goldberg</surname>
+</string-name>, “<article-title>Investigating Trust, Expertise, and Epistemic Injustice in Chronic Pain</article-title>,” <source>Journal of Bioethical Inquiry</source>
+<volume>14</volume>, no. <issue>1</issue> (<year>2017</year>): <fpage>31</fpage>–<lpage>42</lpage>, <pub-id pub-id-type="doi">10.1007/s11673-016-9761-x</pub-id>.<pub-id pub-id-type="pmid">28005251</pub-id>
+</mixed-citation></ref><ref id="hex70266-bib-0015"><label>15</label><mixed-citation publication-type="book" id="hex70266-cit-0015">
+<string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Fricker</surname>
+</string-name>, <source>Epistemic Injustice: Power and the Ethics of Knowing</source> (<publisher-name>Oxford Academic</publisher-name>, <year>2007</year>), <pub-id pub-id-type="doi">10.1093/acprof:oso/9780198237907.001.0001</pub-id>.</mixed-citation></ref><ref id="hex70266-bib-0016"><label>16</label><mixed-citation publication-type="journal" id="hex70266-cit-0016">
+<string-name name-style="western">
+<given-names>K. M.</given-names>
+<surname>Heggen</surname>
+</string-name> and <string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Berg</surname>
+</string-name>, “<article-title>Epistemic Injustice in the Age of Evidence‐Based Practice: The Case of Fibromyalgia</article-title>,” <source>Humanities and Social Sciences Communications</source>
+<volume>8</volume>, no. <issue>1</issue> (<year>2021</year>): <fpage>235</fpage>, <pub-id pub-id-type="doi">10.1057/s41599-021-00918-3</pub-id>.</mixed-citation></ref><ref id="hex70266-bib-0017"><label>17</label><mixed-citation publication-type="book" id="hex70266-cit-0017">
+<string-name name-style="western">
+<given-names>I. J.</given-names>
+<surname>Kidd</surname>
+</string-name> and <string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Carel</surname>
+</string-name>, “<part-title>Healthcare Practice, Epistemic Injustice, and Naturalism</part-title>,” in <source>Harms and Wrongs in Epistemic Practice</source>. <series>Wellcome Trust–Funded Monographs and Book Chapters</series>, eds. <person-group person-group-type="editor">
+<string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Barker</surname>
+</string-name>
+</person-group>, <person-group person-group-type="editor">
+<string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Crerar</surname>
+</string-name>
+</person-group>, and <person-group person-group-type="editor">
+<string-name name-style="western">
+<given-names>T. S.</given-names>
+<surname>Goetze</surname>
+</string-name>
+</person-group> (<publisher-name>Cambridge University Press</publisher-name>, <year>2018</year>), <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://www.ncbi.nlm.nih.gov/books/NBK562587/" ext-link-type="uri">http://www.ncbi.nlm.nih.gov/books/NBK562587/</ext-link>.</mixed-citation></ref><ref id="hex70266-bib-0018"><label>18</label><mixed-citation publication-type="journal" id="hex70266-cit-0018">
+<string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Carel</surname>
+</string-name> and <string-name name-style="western">
+<given-names>I. J.</given-names>
+<surname>Kidd</surname>
+</string-name>, “<article-title>Epistemic Injustice in Healthcare: A Philosophial Analysis</article-title>,” <source>Medicine, Health Care, and Philosophy</source>
+<volume>17</volume>, no. <issue>4</issue> (<year>2014</year>): <fpage>529</fpage>–<lpage>540</lpage>, <pub-id pub-id-type="doi">10.1007/s11019-014-9560-2</pub-id>.<pub-id pub-id-type="pmid">24740808</pub-id>
+</mixed-citation></ref><ref id="hex70266-bib-0019"><label>19</label><mixed-citation publication-type="journal" id="hex70266-cit-0019">
+<string-name name-style="western">
+<given-names>I. J.</given-names>
+<surname>Kidd</surname>
+</string-name> and <string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Carel</surname>
+</string-name>, “<article-title>Epistemic Injustice and Illness</article-title>,” <source>Journal of Applied Philosophy</source>
+<volume>34</volume>, no. <issue>2</issue> (<year>2017</year>): <fpage>172</fpage>–<lpage>190</lpage>, <pub-id pub-id-type="doi">10.1111/japp.12172</pub-id>.<pub-id pub-id-type="pmid">28303075</pub-id>
+<pub-id pub-id-type="pmcid">PMC5324700</pub-id></mixed-citation></ref><ref id="hex70266-bib-0020"><label>20</label><mixed-citation publication-type="journal" id="hex70266-cit-0020">
+<string-name name-style="western">
+<given-names>M. C.</given-names>
+<surname>Beach</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Saha</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Park</surname>
+</string-name>, et al., “<article-title>Testimonial Injustice: Linguistic Bias in the Medical Records of Black Patients and Women</article-title>,” <source>Journal of General Internal Medicine</source>
+<volume>36</volume>, no. <issue>6</issue> (<year>2021</year>): <fpage>1708</fpage>–<lpage>1714</lpage>, <pub-id pub-id-type="doi">10.1007/s11606-021-06682-z</pub-id>.<pub-id pub-id-type="pmid">33754318</pub-id>
+<pub-id pub-id-type="pmcid">PMC8175470</pub-id></mixed-citation></ref><ref id="hex70266-bib-0021"><label>21</label><mixed-citation publication-type="journal" id="hex70266-cit-0021">
+<string-name name-style="western">
+<given-names>R. P.</given-names>
+<surname>Hamilton</surname>
+</string-name>, “<article-title>The Concept of Health: Beyond Normativism and Naturalism</article-title>,” <source>Journal of Evaluation in Clinical Practice</source>
+<volume>16</volume>, no. <issue>2</issue> (<year>2010</year>): <fpage>323</fpage>–<lpage>329</lpage>, <pub-id pub-id-type="doi">10.1111/j.1365-2753.2010.01393.x</pub-id>.<pub-id pub-id-type="pmid">20367857</pub-id>
+</mixed-citation></ref><ref id="hex70266-bib-0022"><label>22</label><mixed-citation publication-type="journal" id="hex70266-cit-0022">
+<string-name name-style="western">
+<given-names>J. T. F.</given-names>
+<surname>Roberts</surname>
+</string-name>, “<article-title>Taking Embodiment Seriously in Public Policy and Practice: Adopting a Procedural Approach to Health and Welfare</article-title>,” <source>Monash Bioethics Review</source>
+<volume>41</volume>, no. <issue>suppl. 1</issue> (<year>2023</year>): <fpage>20</fpage>–<lpage>48</lpage>, <pub-id pub-id-type="doi">10.1007/s40592-023-00183-x</pub-id>.<pub-id pub-id-type="pmid">37925386</pub-id>
+<pub-id pub-id-type="pmcid">PMC10754762</pub-id></mixed-citation></ref><ref id="hex70266-bib-0023"><label>23</label><mixed-citation publication-type="journal" id="hex70266-cit-0023">
+<string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Blease</surname>
+</string-name>, <string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Carel</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Geraghty</surname>
+</string-name>, “<article-title>Epistemic Injustice in Healthcare Encounters: Evidence From Chronic Fatigue Syndrome</article-title>,” <source>Journal of Medical Ethics</source>
+<volume>43</volume> (<year>2017</year>): <fpage>549</fpage>–<lpage>557</lpage>, <pub-id pub-id-type="doi">10.1136/medethics-2016-103691</pub-id>.<pub-id pub-id-type="pmid">27920164</pub-id>
+</mixed-citation></ref><ref id="hex70266-bib-0024"><label>24</label><mixed-citation publication-type="journal" id="hex70266-cit-0024">
+<string-name name-style="western">
+<given-names>D. Z.</given-names>
+<surname>Buchman</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Ho</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>D. S.</given-names>
+<surname>Goldberg</surname>
+</string-name>, “<article-title>Investigating Trust, Expertise, and Epistemic Injustice in Chronic Pain</article-title>,” <source>Journal of Bioethical Inquiry</source>
+<volume>14</volume> (<year>2017</year>): <fpage>31</fpage>–<lpage>42</lpage>, <pub-id pub-id-type="doi">10.1007/s11673-016-9761-x</pub-id>.<pub-id pub-id-type="pmid">28005251</pub-id>
+</mixed-citation></ref><ref id="hex70266-bib-0025"><label>25</label><mixed-citation publication-type="journal" id="hex70266-cit-0025">
+<string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Hunt</surname>
+</string-name> and <string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Blease</surname>
+</string-name>, “<article-title>Epistemic Injustice, Healthcare Disparities and the Missing Pipeline: Reflections on the Exclusion of Disabled Scholars From Health Research</article-title>,” <source>Journal of Medical Ethics</source>, ahead of print, May 23, <year>2024</year>, <pub-id pub-id-type="doi">10.1136/jme-2023-109837</pub-id>.<pub-id pub-id-type="pmid">38782548</pub-id></mixed-citation></ref><ref id="hex70266-bib-0026"><label>26</label><mixed-citation publication-type="journal" id="hex70266-cit-0026">
+<string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Ireson</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Taylor</surname>
+</string-name>, <string-name name-style="western">
+<given-names>E.</given-names>
+<surname>Richardson</surname>
+</string-name>, <string-name name-style="western">
+<given-names>B.</given-names>
+<surname>Greenfield</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>G.</given-names>
+<surname>Jones</surname>
+</string-name>, “<article-title>Exploring Invisibility and Epistemic Injustice in Long Covid—A Citizen Science Qualitative Analysis of Patient Stories From an Online Covid Community</article-title>,” <source>Health Expectations</source>
+<volume>25</volume> (<year>2022</year>): <fpage>1753</fpage>–<lpage>1765</lpage>, <pub-id pub-id-type="doi">10.1111/hex.13518</pub-id>.<pub-id pub-id-type="pmid">35557480</pub-id>
+<pub-id pub-id-type="pmcid">PMC9327841</pub-id></mixed-citation></ref><ref id="hex70266-bib-0027"><label>27</label><mixed-citation publication-type="journal" id="hex70266-cit-0027">
+<string-name name-style="western">
+<given-names>S. A.</given-names>
+<surname>Baz</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Woodrow</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Clutterbuck</surname>
+</string-name>, et al., “<article-title>Long COVID and Health Inequalities: What's Next for Research and Policy Advocacy?</article-title>,” <source>Health Expectations</source>
+<volume>27</volume>, no. <issue>5</issue> (<year>2024</year>): <elocation-id>e70047</elocation-id>, <pub-id pub-id-type="doi">10.1111/hex.70047</pub-id>.<pub-id pub-id-type="pmid">39358980</pub-id>
+<pub-id pub-id-type="pmcid">PMC11447195</pub-id></mixed-citation></ref><ref id="hex70266-bib-0028"><label>28</label><mixed-citation publication-type="journal" id="hex70266-cit-0028">
+<string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Au</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Capotescu</surname>
+</string-name>, <string-name name-style="western">
+<given-names>G.</given-names>
+<surname>Eyal</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>G.</given-names>
+<surname>Finestone</surname>
+</string-name>, “<article-title>Long Covid and Medical Gaslighting: Dismissal, Delayed Diagnosis, and Deferred Treatment</article-title>,” <source>SSM – Qualitative Research in Health</source>
+<volume>2</volume> (<year>2022</year>): <elocation-id>100167</elocation-id>, <pub-id pub-id-type="doi">10.1016/j.ssmqr.2022.100167</pub-id>.<pub-id pub-id-type="pmid">36092770</pub-id>
+<pub-id pub-id-type="pmcid">PMC9448633</pub-id></mixed-citation></ref><ref id="hex70266-bib-0029"><label>29</label><mixed-citation publication-type="miscellaneous" id="hex70266-cit-0029">“COVID‐19 Rapid Guideline: Managing the Long‐Term Effects of COVID‐19,” Guidance, NICE, accessed October 14, 2024, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.nice.org.uk/guidance/ng188" ext-link-type="uri">https://www.nice.org.uk/guidance/ng188</ext-link>.</mixed-citation></ref><ref id="hex70266-bib-0030"><label>30</label><mixed-citation publication-type="journal" id="hex70266-cit-0030">
+<string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Sallinen</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M. L.</given-names>
+<surname>Kukkurainen</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Peltokallio</surname>
+</string-name>, “<article-title>Finally Heard, Believed and Accepted—Peer Support in the Narratives of Women With Fibromyalgia</article-title>,” <source>Patient Education and Counseling</source>
+<volume>85</volume>, no. <issue>2</issue> (<year>2011</year>): <fpage>e126</fpage>–<lpage>e130</lpage>, <pub-id pub-id-type="doi">10.1016/j.pec.2011.02.011</pub-id>.<pub-id pub-id-type="pmid">21419588</pub-id>
+</mixed-citation></ref><ref id="hex70266-bib-0031"><label>31</label><mixed-citation publication-type="journal" id="hex70266-cit-0031">
+<string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Lin</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Saper</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>S. J.</given-names>
+<surname>Patil</surname>
+</string-name>, “<article-title>Long COVID Shared Medical Appointments: Lifestyle and Mind‐Body Medicine With Peer Support</article-title>,” <source>Annals of Family Medicine</source>
+<volume>20</volume>, no. <issue>4</issue> (<year>2022</year>): <fpage>383</fpage>, <pub-id pub-id-type="doi">10.1370/afm.2817</pub-id>.<pub-id pub-id-type="pmid">35443975</pub-id>
+<pub-id pub-id-type="pmcid">PMC9328700</pub-id></mixed-citation></ref><ref id="hex70266-bib-0032"><label>32</label><mixed-citation publication-type="journal" id="hex70266-cit-0032">
+<string-name name-style="western">
+<given-names>C. L.</given-names>
+<surname>Dennis</surname>
+</string-name>, “<article-title>Peer Support Within a Health Care Context: A Concept Analysis</article-title>,” <source>International Journal of Nursing Studies</source>
+<volume>40</volume>, no. <issue>3</issue> (<year>2003</year>): <fpage>321</fpage>–<lpage>332</lpage>, <pub-id pub-id-type="doi">10.1016/S0020-7489(02)00092-5</pub-id>.<pub-id pub-id-type="pmid">12605954</pub-id>
+</mixed-citation></ref><ref id="hex70266-bib-0033"><label>33</label><mixed-citation publication-type="journal" id="hex70266-cit-0033">
+<string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Magasi</surname>
+</string-name> and <string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Papadimitriou</surname>
+</string-name>, “<article-title>Peer Support Interventions in Physical Medicine and Rehabilitation: A Framework to Advance the Field</article-title>,” <source>Archives of Physical Medicine and Rehabilitation</source>
+<volume>103</volume>, no. <issue>7 suppl.</issue> (<year>2022</year>): <fpage>S222</fpage>–<lpage>S229</lpage>, <pub-id pub-id-type="doi">10.1016/j.apmr.2020.09.400</pub-id>.<pub-id pub-id-type="pmid">33440133</pub-id>
+</mixed-citation></ref><ref id="hex70266-bib-0034"><label>34</label><mixed-citation publication-type="journal" id="hex70266-cit-0034">
+<string-name name-style="western">
+<given-names>A. A.</given-names>
+<surname>Hope</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Johnson</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>McPeake</surname>
+</string-name>, et al., “<article-title>Establishing a Peer Support Program for Survivors of COVID‐19: A Report From the Critical and Acute Illness Recovery Organization</article-title>,” <source>American Journal of Critical Care</source>
+<volume>30</volume>, no. <issue>2</issue> (<year>2021</year>): <fpage>150</fpage>–<lpage>154</lpage>, <pub-id pub-id-type="doi">10.4037/ajcc2021675</pub-id>.<pub-id pub-id-type="pmcid">PMC8364567</pub-id><pub-id pub-id-type="pmid">33566061</pub-id></mixed-citation></ref><ref id="hex70266-bib-0035"><label>35</label><mixed-citation publication-type="journal" id="hex70266-cit-0035">
+<string-name name-style="western">
+<given-names>J. C. R.</given-names>
+<surname>Mullard</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Kawalek</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Parkin</surname>
+</string-name>, et al., “<article-title>Towards Evidence‐Based and Inclusive Models of Peer Support for Long Covid: A Hermeneutic Systematic Review</article-title>,” <source>Social Science &amp; Medicine</source>
+<volume>320</volume> (<year>2023</year>): <elocation-id>115669</elocation-id>, <pub-id pub-id-type="doi">10.1016/j.socscimed.2023.115669</pub-id>.<pub-id pub-id-type="pmid">36708608</pub-id>
+<pub-id pub-id-type="pmcid">PMC9840228</pub-id></mixed-citation></ref><ref id="hex70266-bib-0036"><label>36</label><mixed-citation publication-type="book" id="hex70266-cit-0036">
+<string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Medina</surname>
+</string-name>, <source>The Epistemology of Resistance: Gender and Racial Oppression, Epistemic Injustice, and Resistant Imaginations</source> (<publisher-name>Oxford University Press</publisher-name>, <year>2012</year>).</mixed-citation></ref><ref id="hex70266-bib-0037"><label>37</label><mixed-citation publication-type="journal" id="hex70266-cit-0037">
+<string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Sharpe</surname>
+</string-name> and <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Greco</surname>
+</string-name>, “<article-title>Chronic Fatigue Syndrome and an Illness‐Focused Approach to Care: Controversy, Morality and Paradox</article-title>,” <source>Medical Humanities</source>
+<volume>45</volume> (<year>2019</year>): <fpage>183</fpage>–<lpage>187</lpage>, <pub-id pub-id-type="doi">10.1136/medhum-2018-011598</pub-id>.<pub-id pub-id-type="pmid">31213482</pub-id>
+<pub-id pub-id-type="pmcid">PMC6699605</pub-id></mixed-citation></ref><ref id="hex70266-bib-0038"><label>38</label><mixed-citation publication-type="journal" id="hex70266-cit-0038">
+<string-name name-style="western">
+<given-names>J.</given-names>
+<surname>McPeake</surname>
+</string-name>, <string-name name-style="western">
+<given-names>E. L.</given-names>
+<surname>Hirshberg</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L. M.</given-names>
+<surname>Christie</surname>
+</string-name>, et al., “<article-title>Models of Peer Support to Remediate Post‐Intensive Care Syndrome: A Report Developed by the Society of Critical Care Medicine Thrive International Peer Support Collaborative</article-title>,” <source>Critical Care Medicine</source>
+<volume>47</volume>, no. <issue>1</issue> (<year>2019</year>): <fpage>e21</fpage>–<lpage>e27</lpage>, <pub-id pub-id-type="doi">10.1097/CCM.0000000000003497</pub-id>.<pub-id pub-id-type="pmid">30422863</pub-id>
+<pub-id pub-id-type="pmcid">PMC6719778</pub-id></mixed-citation></ref><ref id="hex70266-bib-0039"><label>39</label><mixed-citation publication-type="journal" id="hex70266-cit-0039">
+<string-name name-style="western">
+<given-names>K. J.</given-names>
+<surname>Haines</surname>
+</string-name>, <string-name name-style="western">
+<given-names>E.</given-names>
+<surname>Hibbert</surname>
+</string-name>, <string-name name-style="western">
+<given-names>N.</given-names>
+<surname>Leggett</surname>
+</string-name>, et al., “<article-title>Transitions of Care After Critical Illness—Challenges to Recovery and Adaptive Problem Solving</article-title>,” <source>Critical Care Medicine</source>
+<volume>49</volume>, no. <issue>11</issue> (<year>2021</year>): <fpage>1923</fpage>–<lpage>1931</lpage>, <pub-id pub-id-type="doi">10.1097/CCM.0000000000005095</pub-id>.<pub-id pub-id-type="pmid">34091486</pub-id>
+<pub-id pub-id-type="pmcid">PMC8516700</pub-id></mixed-citation></ref><ref id="hex70266-bib-0040"><label>40</label><mixed-citation publication-type="journal" id="hex70266-cit-0040">
+<string-name name-style="western">
+<given-names>K. J.</given-names>
+<surname>Haines</surname>
+</string-name>, <string-name name-style="western">
+<given-names>N.</given-names>
+<surname>Leggett</surname>
+</string-name>, <string-name name-style="western">
+<given-names>E.</given-names>
+<surname>Hibbert</surname>
+</string-name>, et al., “<article-title>Patient and Caregiver‐Derived Health Service Improvements for Better Critical Care Recovery</article-title>,” <source>Critical Care Medicine</source>
+<volume>50</volume>, no. <issue>12</issue> (<year>2022</year>): <fpage>1778</fpage>–<lpage>1787</lpage>, <pub-id pub-id-type="doi">10.1097/CCM.0000000000005681</pub-id>.<pub-id pub-id-type="pmid">36205494</pub-id>
+<pub-id pub-id-type="pmcid">PMC9671858</pub-id></mixed-citation></ref><ref id="hex70266-bib-0041"><label>41</label><mixed-citation publication-type="journal" id="hex70266-cit-0041">
+<string-name name-style="western">
+<given-names>J.</given-names>
+<surname>McPeake</surname>
+</string-name>, <string-name name-style="western">
+<given-names>T. J.</given-names>
+<surname>Iwashyna</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L. M.</given-names>
+<surname>Boehm</surname>
+</string-name>, et al., “<article-title>Benefits of Peer Support for Intensive Care Unit Survivors: Sharing Experiences, Care Debriefing, and Altruism</article-title>,” <source>American Journal of Critical Care</source>
+<volume>30</volume>, no. <issue>2</issue> (<year>2021</year>): <fpage>145</fpage>–<lpage>149</lpage>, <pub-id pub-id-type="doi">10.4037/ajcc2021702</pub-id>.<pub-id pub-id-type="pmid">33566086</pub-id>
+<pub-id pub-id-type="pmcid">PMC8182973</pub-id></mixed-citation></ref><ref id="hex70266-bib-0042"><label>42</label><mixed-citation publication-type="journal" id="hex70266-cit-0042">
+<string-name name-style="western">
+<given-names>N. K.</given-names>
+<surname>Gale</surname>
+</string-name>, <string-name name-style="western">
+<given-names>G.</given-names>
+<surname>Heath</surname>
+</string-name>, <string-name name-style="western">
+<given-names>E.</given-names>
+<surname>Cameron</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Rashid</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Redwood</surname>
+</string-name>, “<article-title>Using the Framework Method for the Analysis of Qualitative Data in Multi‐Disciplinary Health Research</article-title>,” <source>BMC Medical Research Methodology</source>
+<volume>13</volume>, no. <issue>1</issue> (<year>2013</year>): <elocation-id>117</elocation-id>, <pub-id pub-id-type="doi">10.1186/1471-2288-13-117</pub-id>.<pub-id pub-id-type="pmid">24047204</pub-id>
+<pub-id pub-id-type="pmcid">PMC3848812</pub-id></mixed-citation></ref><ref id="hex70266-bib-0043"><label>43</label><mixed-citation publication-type="journal" id="hex70266-cit-0043">
+<string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Pope</surname>
+</string-name>, “<article-title>Qualitative Research in Health Care: Analysing Qualitative Data</article-title>,” <source>BMJ</source>
+<volume>320</volume>, no. <issue>7227</issue> (<year>2000</year>): <fpage>114</fpage>–<lpage>116</lpage>.<pub-id pub-id-type="pmid">10625273</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1136/bmj.320.7227.114</pub-id><pub-id pub-id-type="pmcid">PMC1117368</pub-id></mixed-citation></ref><ref id="hex70266-bib-0044"><label>44</label><mixed-citation publication-type="journal" id="hex70266-cit-0044">
+<string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Pantelic</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Sprague</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>A. L.</given-names>
+<surname>Stangl</surname>
+</string-name>, “<article-title>It's Not ‘All in Your Head’: Critical Knowledge Gaps on Internalized HIV Stigma and a Call for Integrating Social and Structural Conceptualizations</article-title>,” <source>BMC Infectious Diseases</source>
+<volume>19</volume>, no. <issue>1</issue> (<year>2019</year>): <fpage>210</fpage>, <pub-id pub-id-type="doi">10.1186/s12879-019-3704-1</pub-id>.<pub-id pub-id-type="pmid">30832613</pub-id>
+<pub-id pub-id-type="pmcid">PMC6399894</pub-id></mixed-citation></ref><ref id="hex70266-bib-0045"><label>45</label><mixed-citation publication-type="journal" id="hex70266-cit-0045">
+<string-name name-style="western">
+<given-names>I. P.</given-names>
+<surname>Groenevelt</surname>
+</string-name> and <string-name name-style="western">
+<given-names>M. L.</given-names>
+<surname>de Boer</surname>
+</string-name>, “<article-title>Contesting Misrecognition Online: Experiences of Epistemic in/Justice by Vloggers With Contested Illnesses</article-title>,” <source>Social Science &amp; Medicine</source>
+<volume>327</volume> (<year>2023</year>): <elocation-id>115951</elocation-id>, <pub-id pub-id-type="doi">10.1016/j.socscimed.2023.115951</pub-id>.<pub-id pub-id-type="pmid">37182295</pub-id>
+</mixed-citation></ref><ref id="hex70266-bib-0046"><label>46</label><mixed-citation publication-type="journal" id="hex70266-cit-0046">
+<string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Russell</surname>
+</string-name>, <string-name name-style="western">
+<given-names>N. J.</given-names>
+<surname>Spence</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J. A. D.</given-names>
+<surname>Chase</surname>
+</string-name>, <string-name name-style="western">
+<given-names>T.</given-names>
+<surname>Schwartz</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C. M.</given-names>
+<surname>Tumminello</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>E.</given-names>
+<surname>Bouldin</surname>
+</string-name>, “<article-title>Support Amid Uncertainty: Long COVID Illness Experiences and the Role of Online Communities</article-title>,” <source>SSM – Qualitative Research in Health</source>
+<volume>2</volume> (<year>2022</year>): <elocation-id>100177</elocation-id>, <pub-id pub-id-type="doi">10.1016/j.ssmqr.2022.100177</pub-id>.<pub-id pub-id-type="pmid">36212783</pub-id>
+<pub-id pub-id-type="pmcid">PMC9531408</pub-id></mixed-citation></ref><ref id="hex70266-bib-0047"><label>47</label><mixed-citation publication-type="journal" id="hex70266-cit-0047">
+<string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Album</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L. E. F.</given-names>
+<surname>Johannessen</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>E. B.</given-names>
+<surname>Rasmussen</surname>
+</string-name>, “<article-title>Stability and Change in Disease Prestige: A Comparative Analysis of Three Surveys Spanning a Quarter of a Century</article-title>,” <source>Social Science &amp; Medicine</source>
+<volume>180</volume> (<year>2017</year>): <fpage>45</fpage>–<lpage>51</lpage>, <pub-id pub-id-type="doi">10.1016/j.socscimed.2017.03.020</pub-id>.<pub-id pub-id-type="pmid">28319909</pub-id>
+</mixed-citation></ref><ref id="hex70266-bib-0048"><label>48</label><mixed-citation publication-type="journal" id="hex70266-cit-0048">
+<string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Pot</surname>
+</string-name>, “<article-title>Epistemic Solidarity in Medicine and Healthcare</article-title>,” <source>Medicine, Health Care and Philosophy</source>
+<volume>25</volume> (<year>2022</year>): <fpage>681</fpage>–<lpage>692</lpage>, <pub-id pub-id-type="doi">10.1007/s11019-022-10112-0</pub-id>.<pub-id pub-id-type="pmid">36045178</pub-id>
+<pub-id pub-id-type="pmcid">PMC9430002</pub-id></mixed-citation></ref><ref id="hex70266-bib-0049"><label>49</label><mixed-citation publication-type="journal" id="hex70266-cit-0049">
+<string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Dell'Olio</surname>
+</string-name>, <string-name name-style="western">
+<given-names>P.</given-names>
+<surname>Whybrow</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Reeve</surname>
+</string-name>, “<article-title>Examining the Knowledge Work of Person‐Centred Care: Towards Epistemic Reciprocity</article-title>,” <source>Patient Education and Counseling</source>
+<volume>107</volume> (<year>2023</year>): <elocation-id>107575</elocation-id>, <pub-id pub-id-type="doi">10.1016/j.pec.2022.107575</pub-id>.<pub-id pub-id-type="pmid">36442434</pub-id>
+</mixed-citation></ref><ref id="hex70266-bib-0050"><label>50</label><mixed-citation publication-type="journal" id="hex70266-cit-0050">
+<string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Shah</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Clarke</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Ahluwalia</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Launer</surname>
+</string-name>, “<article-title>Finding Meaning in the Consultation: Introducing the Hermeneutic Window</article-title>,” <source>British Journal of General Practice</source>
+<volume>70</volume>, no. <issue>699</issue> (<year>2020</year>): <fpage>502</fpage>–<lpage>503</lpage>, <pub-id pub-id-type="doi">10.3399/bjgp20X712865</pub-id>.<pub-id pub-id-type="pmcid">PMC7518895</pub-id><pub-id pub-id-type="pmid">33004369</pub-id></mixed-citation></ref><ref id="hex70266-bib-0051"><label>51</label><mixed-citation publication-type="journal" id="hex70266-cit-0051">
+<string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Shah</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Ahluwalia</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Spicer</surname>
+</string-name>, “<article-title>Relational Care and Epistemic Injustice</article-title>,” <source>Primary Health Care Research &amp; Development</source>
+<volume>24</volume> (<year>2023</year>): <elocation-id>e62</elocation-id>, <pub-id pub-id-type="doi">10.1017/S1463423623000555</pub-id>.<pub-id pub-id-type="pmid">37870126</pub-id>
+<pub-id pub-id-type="pmcid">PMC10594641</pub-id></mixed-citation></ref><ref id="hex70266-bib-0052"><label>52</label><mixed-citation publication-type="journal" id="hex70266-cit-0052">
+<string-name name-style="western">
+<given-names>K. K.</given-names>
+<surname>O'Brien</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A. M.</given-names>
+<surname>Davis</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Strike</surname>
+</string-name>, <string-name name-style="western">
+<given-names>N. L.</given-names>
+<surname>Young</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>A. M.</given-names>
+<surname>Bayoumi</surname>
+</string-name>, “<article-title>Putting Episodic Disability Into Context: A Qualitative Study Exploring Factors That Influence Disability Experienced by Adults Living With HIV/AIDS</article-title>,” <source>Journal of the International AIDS Society</source>
+<volume>2</volume> (<year>2009</year>): <elocation-id>5</elocation-id>, <pub-id pub-id-type="doi">10.1186/1758-2652-2-5</pub-id>.<pub-id pub-id-type="pmcid">PMC2788343</pub-id><pub-id pub-id-type="pmid">19900284</pub-id></mixed-citation></ref><ref id="hex70266-bib-0053"><label>53</label><mixed-citation publication-type="journal" id="hex70266-cit-0053">
+<string-name name-style="western">
+<given-names>K. K.</given-names>
+<surname>O'Brien</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Hanna</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Gardner</surname>
+</string-name>, et al., “<article-title>Validation of the Episodic Disability Framework With Adults Living With HIV</article-title>,” <source>Disability and Rehabilitation</source>
+<volume>36</volume>, no. <issue>4</issue> (<year>2014</year>): <fpage>319</fpage>–<lpage>329</lpage>, <pub-id pub-id-type="doi">10.3109/09638288.2013.793408</pub-id>.<pub-id pub-id-type="pmid">23688295</pub-id>
+</mixed-citation></ref><ref id="hex70266-bib-0054"><label>54</label><mixed-citation publication-type="journal" id="hex70266-cit-0054">
+<string-name name-style="western">
+<given-names>K. K.</given-names>
+<surname>O'Brien</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D. A.</given-names>
+<surname>Brown</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Bergin</surname>
+</string-name>, et al., “<article-title>Long COVID and Episodic Disability: Advancing the Conceptualisation, Measurement and Knowledge of Episodic Disability Among People Living With Long COVID—Protocol for a Mixed‐Methods Study</article-title>,” <source>BMJ Open</source>
+<volume>12</volume> (<year>2022</year>): <elocation-id>e060826</elocation-id>, <pub-id pub-id-type="doi">10.1136/bmjopen-2022-060826</pub-id>.<pub-id pub-id-type="pmcid">PMC8905414</pub-id><pub-id pub-id-type="pmid">35256450</pub-id></mixed-citation></ref><ref id="hex70266-bib-0055"><label>55</label><mixed-citation publication-type="journal" id="hex70266-cit-0055">
+<string-name name-style="western">
+<given-names>K. K.</given-names>
+<surname>O'Brien</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D. A.</given-names>
+<surname>Brown</surname>
+</string-name>, <string-name name-style="western">
+<given-names>K.</given-names>
+<surname>McDuff</surname>
+</string-name>, et al., “<article-title>Conceptualising the Episodic Nature of Disability Among Adults Living With Long COVID: A Qualitative Study</article-title>,” <source>BMJ Global Health</source>
+<volume>8</volume> (<year>2023</year>): <elocation-id>e011276</elocation-id>, <pub-id pub-id-type="doi">10.1136/bmjgh-2022-011276</pub-id>.<pub-id pub-id-type="pmcid">PMC9979585</pub-id><pub-id pub-id-type="pmid">36863719</pub-id></mixed-citation></ref><ref id="hex70266-bib-0056"><label>56</label><mixed-citation publication-type="journal" id="hex70266-cit-0056">
+<string-name name-style="western">
+<given-names>T.</given-names>
+<surname>Thaweethai</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S. E.</given-names>
+<surname>Jolley</surname>
+</string-name>, <string-name name-style="western">
+<given-names>E. W.</given-names>
+<surname>Karlson</surname>
+</string-name>, et al., “<article-title>Development of a Definition of Postacute Sequelae of SARS‐CoV‐2 Infection</article-title>,” <source>JAMA</source>
+<volume>329</volume> (<year>2023</year>): <fpage>1934</fpage>–<lpage>1946</lpage>, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://doi/org/10.1001/jama.2023.8823" ext-link-type="uri">https://doi/org/10.1001/jama.2023.8823</ext-link>.<pub-id pub-id-type="pmid">37278994</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1001/jama.2023.8823</pub-id><pub-id pub-id-type="pmcid">PMC10214179</pub-id></mixed-citation></ref><ref id="hex70266-bib-0057"><label>57</label><mixed-citation publication-type="journal" id="hex70266-cit-0057">
+<string-name name-style="western">
+<given-names>R. H.</given-names>
+<surname>Perlis</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Santillana</surname>
+</string-name>, <string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Ognyanova</surname>
+</string-name>, et al., “<article-title>Prevalence and Correlates of Long COVID Symptoms Among US Adults</article-title>,” <source>JAMA Network Open</source>
+<volume>5</volume>, no. <issue>10</issue> (<year>2022</year>): <elocation-id>e2238804</elocation-id>, <pub-id pub-id-type="doi">10.1001/jamanetworkopen.2022.38804</pub-id>.<pub-id pub-id-type="pmid">36301542</pub-id>
+<pub-id pub-id-type="pmcid">PMC9614581</pub-id></mixed-citation></ref><ref id="hex70266-bib-0058"><label>58</label><mixed-citation publication-type="journal" id="hex70266-cit-0058">
+<string-name name-style="western">
+<given-names>D. P.</given-names>
+<surname>Shah</surname>
+</string-name>, <string-name name-style="western">
+<given-names>T.</given-names>
+<surname>Thaweethai</surname>
+</string-name>, <string-name name-style="western">
+<given-names>E. W.</given-names>
+<surname>Karlson</surname>
+</string-name>, et al., “<article-title>Sex Differences in Long COVID</article-title>,” <source>JAMA Network Open</source>
+<volume>8</volume>, no. <issue>1</issue> (<year>2025</year>): <elocation-id>e2455430</elocation-id>, <pub-id pub-id-type="doi">10.1001/jamanetworkopen.2024.55430</pub-id>.<pub-id pub-id-type="pmid">39841477</pub-id>
+<pub-id pub-id-type="pmcid">PMC11755195</pub-id></mixed-citation></ref><ref id="hex70266-bib-0059"><label>59</label><mixed-citation publication-type="journal" id="hex70266-cit-0059">
+<string-name name-style="western">
+<given-names>J. C. H.</given-names>
+<surname>Sebring</surname>
+</string-name>, “<article-title>Towards a Sociological Understanding of Medical Gaslighting in Western Health Care</article-title>,” <source>Sociology of Health &amp; Illness</source>
+<volume>43</volume>, no. <issue>9</issue> (<year>2021</year>): <fpage>1951</fpage>–<lpage>1964</lpage>, <pub-id pub-id-type="doi">10.1111/1467-9566.13367</pub-id>.<pub-id pub-id-type="pmid">34432297</pub-id>
+</mixed-citation></ref><ref id="hex70266-bib-0060"><label>60</label><mixed-citation publication-type="journal" id="hex70266-cit-0060">
+<string-name name-style="western">
+<given-names>M. J.</given-names>
+<surname>Goldenberg</surname>
+</string-name>, “<article-title>On Evidence and Evidence‐Based Medicine: Lessons From the Philosophy of Science</article-title>,” <source>Social Science &amp; Medicine</source>
+<volume>62</volume>, no. <issue>11</issue> (<year>2006</year>): <fpage>2621</fpage>–<lpage>2632</lpage>, <pub-id pub-id-type="doi">10.1016/j.socscimed.2005.11.031</pub-id>.<pub-id pub-id-type="pmid">16384628</pub-id>
+</mixed-citation></ref></ref-list><app-group><app id="hex70266-app-0001" content-type="Appendix"><label>Appendix A</label><title>Participant Interview Guide</title><p>Thank you for agreeing to participate. We are trying to understand your opinions of and experiences with the peer support programme at OHSU. Because of your experience with the programme, we are hopeful that you can help us understand what aspects of the programme could work for future long COVID patients. There are no right answers. The interview will be recorded but is confidential and the transcript will not have any identifiable information about you. Do you have any questions before we get started?</p><p>
+<bold>
+<underline underline-style="single">Pre‐Interview Demographics:</underline>
+</bold>
+</p><p>[]How many sessions of the peer support groups were you able to attend?</p><p>[]Level of education</p><p>[]Level of interaction with the OHSU programme</p><p>[] Age, Gender</p><p>Questions
+<list list-type="simple"><list-item><label>1.</label><p>Can you share with us your motivations for participating in the peer support programme?</p></list-item><list-item><label>2.</label><p>How comfortable were you sharing or engaging during the group sessions?
+<list list-type="simple"><list-item><label>a.</label><p>Probe: Did that experience change over time?</p></list-item></list>
+</p></list-item></list>
+<list list-type="simple"><list-item><label>3.</label><p>Can you share a story from your experience in the group that really stands out for you?</p></list-item></list>
+<list list-type="simple"><list-item><label>4.</label><p>
+<italic toggle="yes">[The peer support group was on a virtual platform for 90 min with invited guests and opportunities to share your story</italic>.<italic toggle="yes">]</italic> What specific aspects about the structure and process of the group did you find helpful? What would you change?
+<list list-type="simple"><list-item><label>b.</label><p>
+<italic toggle="yes">Probe</italic>:</p></list-item></list>
+</p></list-item></list>
+<list list-type="simple"><list-item><label>5.</label><p>How has your involvement in the peer support groups impacted your recovery process?</p></list-item></list>
+</p><p>Probe: Did you receive useful information?</p><p>Probe: Did you feel emotionally supported by the other participants or facilitators?</p><p>Probe: Did you feel that the group provided concrete strategies to help deal with challenges in your recovery?</p><p>Probe: Did your participation make you feel more connected to the OHSU programme broadly?
+<list list-type="simple"><list-item><label>6.</label><p>Have you made any lifestyle changes (<italic toggle="yes">e.g., nutrition, stress management, sleep, weight control and physical activity</italic>) because of your participation in the groups?</p></list-item><list-item><label>7.</label><p>What do you think are the benefits of participating in a peer support group? What do you think are the potential harms of participating?</p></list-item><list-item><label>8.</label><p>What was the important factor that allowed you to feel comfortable participating in this group?</p></list-item><list-item><label>9.</label><p>What were some of the challenges of participating in this group? (e.g., inconvenient time and not enough support).</p></list-item></list>
+</p><p>Reframe: What should we do differently in future offerings of this peer support group?</p><p>Reframe: Are there resources or things for us to consider that would have helped you participate more effectively in this peer support group?
+<list list-type="simple"><list-item><label>10.</label><p>Can you provide us any insights into which aspects of the group were most effective for people recovering from COVID‐19? Which aspects were least effective?</p></list-item></list>
+<list list-type="simple"><list-item><label>11.</label><p>How do you plan to sustain the social or professional relationships that have formed from this group?</p></list-item><list-item><label>12.</label><p>Do you have any other positive or negative experiences or suggestions that you would like to share?</p></list-item></list>
+</p></app></app-group></back></article></pmc-articleset>

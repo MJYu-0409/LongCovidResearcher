@@ -1,0 +1,809 @@
+<?xml version="1.0"  ?><!DOCTYPE pmc-articleset PUBLIC "-//NLM//DTD ARTICLE SET 2.0//EN" "https://dtd.nlm.nih.gov/ncbi/pmc/articleset/nlm-articleset-2.0.dtd"><pmc-articleset><article article-type="research-article" xml:lang="en" dtd-version="1.4"><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">BMC Med Res Methodol</journal-id><journal-id journal-id-type="iso-abbrev">BMC Med Res Methodol</journal-id><journal-id journal-id-type="pmc-domain-id">43</journal-id><journal-id journal-id-type="pmc-domain">bmcmrm</journal-id><journal-title-group><journal-title>BMC Medical Research Methodology</journal-title></journal-title-group><issn pub-type="epub">1471-2288</issn><publisher><publisher-name>BMC</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC12802229</article-id><article-id pub-id-type="pmcid-ver">PMC12802229.1</article-id><article-id pub-id-type="pmcaid">12802229</article-id><article-id pub-id-type="pmcaiid">12802229</article-id><article-id pub-id-type="pmid">41361800</article-id><article-id pub-id-type="doi">10.1186/s12874-025-02737-5</article-id><article-id pub-id-type="publisher-id">2737</article-id><article-version article-version-type="pmc-version">1</article-version><article-categories><subj-group subj-group-type="heading"><subject>Research</subject></subj-group></article-categories><title-group><article-title>Penalized regression with negative-unlabeled data: an approach to developing a Long COVID research index</article-title></title-group><contrib-group><contrib contrib-type="author" corresp="yes"><contrib-id contrib-id-type="orcid" authenticated="false">http://orcid.org/0000-0001-8813-9127</contrib-id><name name-style="western"><surname>Reeder</surname><given-names initials="HT">Harrison T.</given-names></name><address><email>hreeder@mgh.harvard.edu</email></address><xref ref-type="aff" rid="Aff1">1</xref><xref ref-type="aff" rid="Aff2">2</xref></contrib><contrib contrib-type="author"><name name-style="western"><surname>Thaweethai</surname><given-names initials="T">Tanayott</given-names></name><xref ref-type="aff" rid="Aff1">1</xref><xref ref-type="aff" rid="Aff2">2</xref></contrib><contrib contrib-type="author"><name name-style="western"><surname>Foulkes</surname><given-names initials="AS">Andrea S.</given-names></name><xref ref-type="aff" rid="Aff1">1</xref><xref ref-type="aff" rid="Aff2">2</xref><xref ref-type="aff" rid="Aff3">3</xref></contrib><aff id="Aff1"><label>1</label><institution-wrap><institution-id institution-id-type="ROR">https://ror.org/002pd6e78</institution-id><institution-id institution-id-type="GRID">grid.32224.35</institution-id><institution-id institution-id-type="ISNI">0000 0004 0386 9924</institution-id><institution>Biostatistics, </institution><institution>Massachusetts General Hospital, </institution></institution-wrap>Boston, MA USA </aff><aff id="Aff2"><label>2</label><institution-wrap><institution-id institution-id-type="ROR">https://ror.org/03vek6s52</institution-id><institution-id institution-id-type="GRID">grid.38142.3c</institution-id><institution-id institution-id-type="ISNI">000000041936754X</institution-id><institution>Department of Medicine, </institution><institution>Harvard Medical School, </institution></institution-wrap>Boston, MA, USA </aff><aff id="Aff3"><label>3</label><institution-wrap><institution-id institution-id-type="ROR">https://ror.org/05n894m26</institution-id><institution>Department of Biostatistics, </institution><institution>Harvard TH Chan School of Public Health, </institution></institution-wrap>Boston, MA USA </aff></contrib-group><pub-date pub-type="epub"><day>9</day><month>12</month><year>2025</year></pub-date><pub-date pub-type="collection"><year>2026</year></pub-date><volume>26</volume><issue-id pub-id-type="pmc-issue-id">504236</issue-id><elocation-id>5</elocation-id><history><date date-type="received"><day>29</day><month>7</month><year>2025</year></date><date date-type="accepted"><day>26</day><month>11</month><year>2025</year></date></history><pub-history><event event-type="pmc-release"><date><day>09</day><month>12</month><year>2025</year></date></event><event event-type="pmc-live"><date><day>15</day><month>01</month><year>2026</year></date></event><event event-type="pmc-last-change"><date iso-8601-date="2026-01-15 10:25:13.373"><day>15</day><month>01</month><year>2026</year></date></event></pub-history><permissions><copyright-statement>© The Author(s) 2025</copyright-statement><copyright-year>2025</copyright-year><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbyncndlicense">https://creativecommons.org/licenses/by-nc-nd/4.0/</ali:license_ref><license-p><bold>Open Access</bold> This article is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License, which permits any non-commercial use, sharing, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if you modified the licensed material. You do not have permission under this licence to share adapted material derived from this article or parts of it. The images or other third party material in this article are included in the article’s Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article’s Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/">http://creativecommons.org/licenses/by-nc-nd/4.0/</ext-link>.</license-p></license></permissions><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pmc-pdf" xlink:href="12874_2025_Article_2737.pdf"/><abstract id="Abs1"><sec><title>Background</title><p id="Par1">Moderate to severe Long COVID is estimated to impact as many as 10% of SARS-CoV-2 infected individuals, representing a chronic condition with a substantial public health burden. An expansive literature has identified over 200 persistent symptoms associated with a history of SARS-CoV-2 infection; yet, there remains to be a clear consensus on a syndrome definition. Long COVID thus represents a “negative-unlabeled” outcome where those without prior infection must be Long COVID “negative” but those with prior infection have unknown or “unlabeled” Long COVID status. Despite this lack of a gold standard definition or biomarker, developing and evaluating an approach to characterizing Long COVID is a critical first step in future studies of risk and resiliency factors, mechanisms of disease, and interventions for both treatment and prevention.</p></sec><sec><title>Methods</title><p id="Par2">We recently applied a strategy for defining a numeric Long COVID research index (LCRI) using Lasso-penalized logistic regression, leveraging information on history of SARS-CoV-2 infection as a pseudo-label. In the current manuscript we formalize and evaluate this approach in a simulation framework for the occurrence of infection, Long COVID onset, and symptomatology. We evaluate its performance selecting symptoms associated with Long COVID and distinguishing individuals with Long COVID, in the presence of symptom correlations and demographic confounders. We compare the LCRI method to a simpler index defined by counting Long COVID symptoms, and assess these methods in a reanalysis of data on participants enrolled in the Adult Cohort of the Researching COVID to Enhance Recovery (RECOVER) study.</p></sec><sec><title>Results</title><p id="Par3">Simulation results demonstrate that the Lasso-penalized LCRI methodology appropriately selects symptoms associated with Long COVID, and that the LCRI has high discriminatory power to distinguish Long COVID, outperforming symptom count. This performance was robust to correlation between symptoms, and weighting methods are shown to successfully address potential confounding by demographic characteristics. Analysis of RECOVER data showed the LCRI outperforming symptom count by misclassifying fewer uninfected individuals as having Long COVID.</p></sec><sec><title>Conclusions</title><p id="Par4">As the LCRI is increasingly used to characterize LC in research settings, this paper represents an important step in understanding its operating characteristics and developing general methodology for settings with negative-unlabeled data.</p></sec><sec><title>Supplementary Information</title><p>The online version contains supplementary material available at 10.1186/s12874-025-02737-5.</p></sec></abstract><kwd-group xml:lang="en"><title>Keywords</title><kwd>COVID-19</kwd><kwd>SARS-CoV-2</kwd><kwd>Long COVID</kwd><kwd>Penalized regression</kwd><kwd>Feature selection</kwd><kwd>Negative-unlabeled data</kwd></kwd-group><funding-group><award-group><funding-source><institution-wrap><institution-id institution-id-type="FundRef">https://doi.org/10.13039/100000050</institution-id><institution>National Heart, Lung, and Blood Institute</institution></institution-wrap></funding-source><award-id>R01HL162373</award-id><award-id>R01HL162373</award-id><award-id>R01HL162373</award-id></award-group></funding-group><custom-meta-group><custom-meta><meta-name>pmc-status-qastatus</meta-name><meta-value>0</meta-value></custom-meta><custom-meta><meta-name>pmc-status-live</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-status-embargo</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-status-released</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-access</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-legally-suppressed</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-pdf</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-supplement</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-pdf-only</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-suppress-copyright</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-real-version</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-scanned-article</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-in-epmc</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-license-ref</meta-name><meta-value>CC BY-NC-ND</meta-value></custom-meta><custom-meta><meta-name>issue-copyright-statement</meta-name><meta-value>© BioMed Central Ltd., part of Springer Nature 2026</meta-value></custom-meta></custom-meta-group></article-meta></front><body><sec id="Sec1"><title>Background</title><p id="Par5">Globally, over 778 million cases of COVID-19 have been reported as of October 1, 2025, resulting in over 7 million deaths [<xref ref-type="bibr" rid="CR1">1</xref>]. Among those who survive the acute phase of SARS-CoV-2 infection, many continue to experience long-term and often debilitating symptoms for months or even years, which collectively are known as Long COVID (LC) and sometimes referred to as post-acute sequelae of SARS-CoV-2 (PASC). Estimates of LC incidence vary widely across studies, ranging from 5 to 25% [<xref ref-type="bibr" rid="CR2">2</xref>], due to differences in study design as well as inconsistent LC classifiers [<xref ref-type="bibr" rid="CR3">3</xref>].</p><p id="Par6">In the absence of a gold-standard definition, we recently developed methodology to define a symptom-based LC research index (LCRI) with versions for adults, and children ages 0–5, 6–11, and 12–17, based on an informative subset of features [<xref ref-type="bibr" rid="CR4">4</xref>–<xref ref-type="bibr" rid="CR7">7</xref>]. This approach uses a Lasso-penalized logistic regression model, with history of SARS-CoV-2 infection as the outcome to serve as a partial label for LC status, and presence of long-term symptoms as features [<xref ref-type="bibr" rid="CR8">8</xref>]. The fitted model is expected to identify symptoms associated with LC, and uses the estimated coefficients of those symptoms to define a quantitative index correlating with the likelihood of having LC. The LCRI for adults has been used in numerous studies of LC, including to evaluate LC in pregnant individuals [<xref ref-type="bibr" rid="CR9">9</xref>], clinical laboratory abnormalities [<xref ref-type="bibr" rid="CR10">10</xref>], and sex differences [<xref ref-type="bibr" rid="CR11">11</xref>].</p><p id="Par7">Using infection as a pseudo-label for LC reflects the fact that individuals with a history of SARS-CoV-2 infection may or may not have LC, while individuals without a history of SARS-CoV-2 infection cannot have LC. As a result, infection history and LC status form a partially-observed outcome referred to as “negative-unlabeled” data: those without history of infection are necessarily LC “negative”, while those with history of infection are “unlabeled” [<xref ref-type="bibr" rid="CR12">12</xref>]. This is a variant of the more common “positive-unlabeled” data sometimes arising from electronic health records, in which some health characteristics are documented (“positive”) but lack of documentation does not mean the characteristic is absent (“unlabeled”) [<xref ref-type="bibr" rid="CR13">13</xref>]. Existing ‘semi-supervised’ methods for partially-labeled data commonly leverage subsets of individuals with definitive positive and negative documentation [<xref ref-type="bibr" rid="CR14">14</xref>], however in the absence of a gold-standard definition no individuals have a “positive” observed LC status. Other techniques include two-step algorithms in which labels are inferred for a ‘reliable’ subset of the unlabeled group, and then combined with the labeled data to develop a classifier [<xref ref-type="bibr" rid="CR15">15</xref>]. Instead, the use of infection status as a pseudo-label leverages the fact that the population of infected individuals is a mixture of those with and without LC, and therefore symptoms associated with LC will also be more common among infected individuals, while symptoms not associated with LC are expected to be indistinguishable between infected and uninfected individuals [<xref ref-type="bibr" rid="CR16">16</xref>].</p><p id="Par8">Nevertheless, it remains unclear whether an analysis strategy based on infection status as a pseudo-label can appropriately capture information about latent Long COVID status. Moreover, LC symptoms exhibit correlation which may affect the selection performance of Lasso-penalized logistic regression, and therefore the resulting LCRI. Additionally, in practice LC studies enroll infected and uninfected populations that may differ with respect to baseline covariates that are potentially associated with the presence of long-term symptoms—the resulting potential for confounding, and impact of techniques to mitigate confounding, remains unclear.</p><p id="Par9">To address these gaps, we investigate operating characteristics of the LCRI methodology using a rigorous conceptual framework for LC onset and symptoms. We evaluate whether this approach correctly identifies a subset of symptoms that associate with LC, and whether the LCRI has high discriminatory power for detecting LC. We further explore balancing weights as a method for handling differential sampling by baseline demographics. Finally, we evaluate the relative performance of this approach compared to a simpler scoring framework defined by counting prevalent long-term symptoms. Evaluation of symptom count as an alternative to the LCRI reflects existing efforts to define LC as inclusive of broad symptomatology after SARS-CoV-2 infection, such as recent emphasis by the National Academy of Sciences, Engineering, and Medicine that LC can manifest as any of hundreds of symptoms affecting every organ of the body [<xref ref-type="bibr" rid="CR17">17</xref>].</p><p id="Par10">There remains a pressing need for a standardized research definition that rigorously identifies patients with LC while maintaining a high degree of specificity [<xref ref-type="bibr" rid="CR18">18</xref>]. As such, arriving at a data-driven and discriminatory research index is a significant first step to further research into the risk and resiliency factors as well as the biological mechanisms of LC onset and recovery.</p></sec><sec id="Sec2"><title>Methods</title><sec id="Sec3"><title>Conceptual framing and data generating mechanism</title><p id="Par11">LC can be seen as a latent condition emerging after infection that in turn affects the onset or persistence of long-term symptoms. In this context, let <italic toggle="yes">Y</italic> be a binary indicator for the presence of LC and <italic toggle="yes">A</italic> be a binary indicator for history of infection. We know that individuals without a history of infection cannot have LC. We formalize this with the condition as <inline-formula id="IEq1"><tex-math id="d33e292">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\Pr (Y=1 \mid A=0) = 0$$\end{document}</tex-math></inline-formula>.</p><p id="Par12">Among those with SARS-CoV-2 infection, the probability of developing LC is denoted <inline-formula id="IEq2"><tex-math id="d33e298">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\Pr (Y=1\mid A=1)=\pi$$\end{document}</tex-math></inline-formula>, <inline-formula id="IEq3"><tex-math id="d33e302">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$0&lt; \pi &lt; 1$$\end{document}</tex-math></inline-formula>. The overall population probability of infection is denoted <inline-formula id="IEq4"><tex-math id="d33e306">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$Pr(A=1) = \alpha$$\end{document}</tex-math></inline-formula>, <inline-formula id="IEq5"><tex-math id="d33e310">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$0&lt; \alpha &lt; 1$$\end{document}</tex-math></inline-formula>. Let <inline-formula id="IEq6"><tex-math id="d33e314">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${\textbf{X}} = (X_1, \ldots , X_K)$$\end{document}</tex-math></inline-formula> denote a vector of indicators for the presence of each of <italic toggle="yes">K</italic> features (e.g., symptoms) that may depend on LC status. Further suppose a data generating model with a multiplicative effect of LC status on symptom prevalence,<disp-formula id="Equ1"><label>1</label><tex-math id="d33e322">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\begin{aligned} p_{k,y} = \Pr (X_{k}=1 \mid Y=y) = \beta _{0k} \left( \beta _{1k}\right) ^{y}, \end{aligned}$$\end{document}</tex-math></disp-formula>for <inline-formula id="IEq7"><tex-math id="d33e327">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$k=1,\dots , K$$\end{document}</tex-math></inline-formula> and <inline-formula id="IEq8"><tex-math id="d33e331">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$y=0,1$$\end{document}</tex-math></inline-formula>. For the <italic toggle="yes">k</italic>th feature, <inline-formula id="IEq9"><tex-math id="d33e338">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\beta _{0k}$$\end{document}</tex-math></inline-formula> corresponds to the prevalence among those without LC, and <inline-formula id="IEq10"><tex-math id="d33e343">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\beta _{1k}$$\end{document}</tex-math></inline-formula> is the risk ratio for having the feature between those with and without LC. By definition <inline-formula id="IEq11"><tex-math id="d33e347">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$0&lt; \beta _{0k} &lt; 1$$\end{document}</tex-math></inline-formula>, and therefore to ensure <inline-formula id="IEq12"><tex-math id="d33e351">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$p_{k,y} \in (0,1)$$\end{document}</tex-math></inline-formula>, this implies that <inline-formula id="IEq13"><tex-math id="d33e355">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$0&lt; \beta _{1k} &lt; 1/\beta _{0k}$$\end{document}</tex-math></inline-formula>.</p><p id="Par13">LC symptoms also may not be independent from one another, but exhibit correlation based on common etiology, function, or otherwise. To acknowledge this formally, we consider a partition of the features into <italic toggle="yes">L</italic> groups, such that features in the same group may be dependent while features in different groups are independent. Let <inline-formula id="IEq14"><tex-math id="d33e364">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\mathcal {C}_l$$\end{document}</tex-math></inline-formula> denote the set of indices of features in group <italic toggle="yes">l</italic>, for <inline-formula id="IEq15"><tex-math id="d33e371">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$l=1,\ldots ,L$$\end{document}</tex-math></inline-formula>. While in principle any technique to represent correlation between random variables may be considered, in our simulation studies we specify Clayton copulas with common dependence parameter <inline-formula id="IEq16"><tex-math id="d33e375">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\rho&gt;0$$\end{document}</tex-math></inline-formula> to admit positive dependence within each group. For a group of size <italic toggle="yes">d</italic> define the Clayton copula function <inline-formula id="IEq17"><tex-math id="d33e383">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$C(u_1,\dots ,u_{d} \mid \rho ) = (u_1^{-\rho } + \dots + u_{d}^{-\rho } - d + 1)^{-1/\rho }$$\end{document}</tex-math></inline-formula>. Notating the marginal distribution function for feature <italic toggle="yes">k</italic> as <inline-formula id="IEq18"><tex-math id="d33e390">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$F_k(x) = \Pr (X_{k} \le x)$$\end{document}</tex-math></inline-formula>, the joint distribution of <inline-formula id="IEq19"><tex-math id="d33e394">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$X_{1},\dots ,X_{d}$$\end{document}</tex-math></inline-formula> is defined by <inline-formula id="IEq20"><tex-math id="d33e398">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$F(x_{1},\dots ,x_{d}) = C(F_{1}(x_{1}), \dots , F_{d}(x_{d})).$$\end{document}</tex-math></inline-formula> This retains the marginal distributions of each feature and their associations with LC status, while inducing increasing dependence between features within a group as <inline-formula id="IEq21"><tex-math id="d33e403">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\rho$$\end{document}</tex-math></inline-formula> increases.</p></sec><sec id="Sec4"><title>LCRI methodology</title><p id="Par14">In general, interest lies in the <inline-formula id="IEq22"><tex-math id="d33e411">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\beta _{1k}$$\end{document}</tex-math></inline-formula>’s of Eq. (<xref rid="Equ1" ref-type="disp-formula">1</xref>), as they capture information on the relationship between LC status and the probability of having each specific feature. However, as <italic toggle="yes">Y</italic> is unobservable, we are unable to estimate <inline-formula id="IEq23"><tex-math id="d33e421">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\beta _{1k}$$\end{document}</tex-math></inline-formula> directly. Therefore, the LCRI methodology we propose begins by fitting a logistic regression model of the form,<disp-formula id="Equ2"><label>2</label><tex-math id="d33e425">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\begin{aligned} \textrm{logit} [\Pr (A=1\mid \mathbf{X})] = \gamma _0 + \gamma _1 X_1 + \ldots + \gamma _K X_K, \end{aligned}$$\end{document}</tex-math></disp-formula>which yields a log-odds ratio <inline-formula id="IEq24"><tex-math id="d33e431">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\gamma _k$$\end{document}</tex-math></inline-formula> for each feature reflecting its association with infection status as a pseudo-label of LC status.</p><p id="Par15">To induce sparsity in the selected features, we fit this model using a Lasso penalty with regularization parameter <inline-formula id="IEq25"><tex-math id="d33e437">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\lambda$$\end{document}</tex-math></inline-formula>. In the simulations and data application presented below, this penalized model is fit via the glmnet package in R, using 10-fold cross-validated misclassification error to select <inline-formula id="IEq26"><tex-math id="d33e444">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\lambda$$\end{document}</tex-math></inline-formula> from a grid of values using the “one-standard error rule” implemented in the package [<xref ref-type="bibr" rid="CR19">19</xref>], i.e., the largest value of <inline-formula id="IEq27"><tex-math id="d33e451">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\lambda$$\end{document}</tex-math></inline-formula> that yields a cross-validated misclassification error within one standard error of the minimum.</p><p id="Par16">Based on this fitted model, we define the LCRI for individual <inline-formula id="IEq28"><tex-math id="d33e457">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$i=1,\ldots , N$$\end{document}</tex-math></inline-formula> with observed features <inline-formula id="IEq29"><tex-math id="d33e461">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\textbf{x}_i = (x_{i1},\dots , x_{iK})^{\intercal }$$\end{document}</tex-math></inline-formula>, according to the formula<disp-formula id="Equ3"><label>3</label><tex-math id="d33e465">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\begin{aligned} \mathcal {S}_i = \sum \limits _{k=1}^K \widehat{\gamma }_k x_{ik}. \end{aligned}$$\end{document}</tex-math></disp-formula></p><p id="Par17">In practice, each <inline-formula id="IEq30"><tex-math id="d33e471">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\widehat{\gamma }_k$$\end{document}</tex-math></inline-formula> is first rounded to the nearest tenth and then multiplied by 10, yielding an LCRI that takes on integer values with a minimum of 0.</p><p id="Par18">This methodology reflects the hypotheses that the features selected in fitting the model of Eq. (<xref rid="Equ2" ref-type="disp-formula">2</xref>) will be associated with LC, and that the resulting LCRI of Eq. (<xref rid="Equ3" ref-type="disp-formula">3</xref>) will have strong discriminatory power for differentiating individuals with and without LC, as higher LCRI values will be correlated with higher likelihood of having LC.</p></sec><sec id="Sec5"><title>Balancing weights to address potential confounding</title><p id="Par19">We also consider the potential for confounding of the relationship between infection and features, in which one or more additional factors, denoted <inline-formula id="IEq31"><tex-math id="d33e487">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\textbf{Z}$$\end{document}</tex-math></inline-formula>, is associated with both the sampling of individuals by infection status <italic toggle="yes">A</italic> and the presence of features <inline-formula id="IEq32"><tex-math id="d33e494">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\textbf{X}$$\end{document}</tex-math></inline-formula>.</p><p id="Par20">Because variables in <inline-formula id="IEq33"><tex-math id="d33e500">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\textbf{Z}$$\end{document}</tex-math></inline-formula> are conceptualized as confounders but not as factors to be used in defining the research index, we instead propose to account for the presence of one or more confounding variables <inline-formula id="IEq34"><tex-math id="d33e504">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\textbf{Z}$$\end{document}</tex-math></inline-formula> in the corresponding LCRI model via a weighting approach that eliminates differential infection rates within strata of <inline-formula id="IEq35"><tex-math id="d33e508">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\textbf{Z}$$\end{document}</tex-math></inline-formula>. For each individual with infection status <inline-formula id="IEq36"><tex-math id="d33e512">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$a=0,1$$\end{document}</tex-math></inline-formula>, the weight is defined as<disp-formula id="Equ4"><label>4</label><tex-math id="d33e516">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\begin{aligned} w(a,\textbf{z}) = {\Pr (A=1\mid \textbf{Z}=\textbf{z})}/{\Pr (A=a\mid \textbf{Z}=\textbf{z})}. \end{aligned}$$\end{document}</tex-math></disp-formula></p><p id="Par21">These weights are defined such that in the resulting pseudopopulation, within every covariate stratum <inline-formula id="IEq37"><tex-math id="d33e522">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\textbf{z}$$\end{document}</tex-math></inline-formula> there is an equal proportion with and without infection. Note that by construction, these weights are equal to 1 among the infected, and thus only the uninfected group is re-weighted. These weights have a connection to propensity score weighting, where weights are defined based on the inverse probability of receiving the assigned treatment conditional on covariates. In particular, by including in the numerator the probability of being infected these weights are analogous to propensity score weighting towards an Average Treatment Effect on the Treated [<xref ref-type="bibr" rid="CR20">20</xref>]. However, there is a conceptual difference in that infection status is modeled as the outcome in Eq. (<xref rid="Equ2" ref-type="disp-formula">2</xref>) rather than the exposure. In this way the weights also resemble ‘class weights’ for classification of imbalanced binary data, which inversely weight the members of the smaller outcome group by their proportion to the larger outcome group, such that in the weighted pseudopopulation there are equal proportions of each outcome.</p><p id="Par22">When <inline-formula id="IEq38"><tex-math id="d33e534">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\textbf{Z}$$\end{document}</tex-math></inline-formula> has a discrete number of distinct covariate patterns, as in the below data example and supplementary simulations, each <inline-formula id="IEq39"><tex-math id="d33e538">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\Pr (A=1\mid \textbf{Z}=\textbf{z})$$\end{document}</tex-math></inline-formula> can be estimated nonparametrically by the stratum-specific sample proportion of infection. Otherwise, the covariate-specific probability of infection could estimated using, say, logistic regression of <italic toggle="yes">A</italic> on <inline-formula id="IEq40"><tex-math id="d33e545">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\textbf{Z}$$\end{document}</tex-math></inline-formula>. The weights may then be used when fitting the model in Eq. (<xref rid="Equ2" ref-type="disp-formula">2</xref>) via standard methods, i.e., optimizing a weighted likelihood applying each individual’s weight to their likelihood contribution [<xref ref-type="bibr" rid="CR21">21</xref>].</p></sec><sec id="Sec6"><title>Simulation studies</title><p id="Par23">Through simulation studies developed to align with the data application, we show the performance of the Lasso-penalized model to select relevant features from <inline-formula id="IEq41"><tex-math id="d33e560">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\textbf{X}$$\end{document}</tex-math></inline-formula>, and of the LCRI to discriminate true LC status. Additional simulation studies examining the presence of confounding and impact of weighted regression models on feature selection and LCRI discrimination are presented in Appendix A of the supplementary materials, so for the primary simulations confounding variables <inline-formula id="IEq42"><tex-math id="d33e564">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\textbf{Z}$$\end{document}</tex-math></inline-formula> are not included.</p><p id="Par24">For each simulated dataset, infection status is generated with <inline-formula id="IEq43"><tex-math id="d33e570">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\alpha =0.7$$\end{document}</tex-math></inline-formula>, followed by LC status among the infected with <inline-formula id="IEq44"><tex-math id="d33e574">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\pi =0.2$$\end{document}</tex-math></inline-formula>, and then <inline-formula id="IEq45"><tex-math id="d33e578">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$K=40$$\end{document}</tex-math></inline-formula> symptoms are generated depending on LC status, with <inline-formula id="IEq46"><tex-math id="d33e582">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\beta _{0k}= 0.2$$\end{document}</tex-math></inline-formula> for <inline-formula id="IEq47"><tex-math id="d33e586">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$k=1,\dots ,K$$\end{document}</tex-math></inline-formula>. A total of 12 symptoms were set to have true LC associations: a ‘Low Signal’ setting having risk ratios of <inline-formula id="IEq48"><tex-math id="d33e591">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\beta _{1k} = 1.3$$\end{document}</tex-math></inline-formula> for <inline-formula id="IEq49"><tex-math id="d33e595">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$k = 1,\dots ,4$$\end{document}</tex-math></inline-formula>, <inline-formula id="IEq50"><tex-math id="d33e599">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\beta _{1k} = 1.5$$\end{document}</tex-math></inline-formula> for <inline-formula id="IEq51"><tex-math id="d33e603">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$k=5,\dots ,8$$\end{document}</tex-math></inline-formula>, and <inline-formula id="IEq52"><tex-math id="d33e607">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\beta _{1k}= 1.7$$\end{document}</tex-math></inline-formula> for <inline-formula id="IEq53"><tex-math id="d33e611">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$k=9, \dots , 12$$\end{document}</tex-math></inline-formula>, and ‘Medium Signal’ and ‘High Signal’ settings exponentiating all <inline-formula id="IEq54"><tex-math id="d33e616">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\beta _{1k}$$\end{document}</tex-math></inline-formula>’s by 1.2 and 1.4 respectively. We set <inline-formula id="IEq55"><tex-math id="d33e620">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\beta _{1k} = 1$$\end{document}</tex-math></inline-formula> for <inline-formula id="IEq56"><tex-math id="d33e624">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$k=13,\dots ,40$$\end{document}</tex-math></inline-formula> representing features unrelated to LC.</p><p id="Par25">We also varied the correlation of symptoms, with an uncorrelated symptom setting (<inline-formula id="IEq57"><tex-math id="d33e630">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\rho =0$$\end{document}</tex-math></inline-formula>), and then two settings with <inline-formula id="IEq58"><tex-math id="d33e634">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\rho =5$$\end{document}</tex-math></inline-formula> and symptoms in <inline-formula id="IEq59"><tex-math id="d33e638">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$L=9$$\end{document}</tex-math></inline-formula> groups of varying sizes: <inline-formula id="IEq60"><tex-math id="d33e642">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$|\mathcal {C}_1|= 1$$\end{document}</tex-math></inline-formula>, <inline-formula id="IEq61"><tex-math id="d33e646">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$|\mathcal {C}_2| = 2$$\end{document}</tex-math></inline-formula>, <inline-formula id="IEq62"><tex-math id="d33e651">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$|\mathcal {C}_3| = |\mathcal {C}_4| = |\mathcal {C}_5| = 3$$\end{document}</tex-math></inline-formula>, <inline-formula id="IEq63"><tex-math id="d33e655">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$|\mathcal {C}_6| = 5$$\end{document}</tex-math></inline-formula>, <inline-formula id="IEq64"><tex-math id="d33e659">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$|\mathcal {C}_7| = 6$$\end{document}</tex-math></inline-formula>, <inline-formula id="IEq65"><tex-math id="d33e663">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$|\mathcal {C}_8| = 7$$\end{document}</tex-math></inline-formula>, and <inline-formula id="IEq66"><tex-math id="d33e667">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$|\mathcal {C}_9|= 10$$\end{document}</tex-math></inline-formula>. One correlated symptom setting was ‘group sparse’, meaning that for each symptom group <italic toggle="yes">l</italic>, either <inline-formula id="IEq67"><tex-math id="d33e675">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\beta _{1k} = 1$$\end{document}</tex-math></inline-formula> for all <inline-formula id="IEq68"><tex-math id="d33e679">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$k \in \mathcal {C}_l$$\end{document}</tex-math></inline-formula>, or <inline-formula id="IEq69"><tex-math id="d33e683">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\beta _{1k} \ne 1$$\end{document}</tex-math></inline-formula> for all <inline-formula id="IEq70"><tex-math id="d33e687">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$k \in \mathcal {C}_l$$\end{document}</tex-math></inline-formula>. The other correlated symptom setting was non group sparse, with groups having a combination of symptoms with zero and non-zero effects. The choice of <inline-formula id="IEq71"><tex-math id="d33e691">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\rho =5$$\end{document}</tex-math></inline-formula> leads to empirical within-group symptom correlation of about 0.5. 500 simulations were performed in each setting, with each dataset having size <inline-formula id="IEq72"><tex-math id="d33e695">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$n=10000$$\end{document}</tex-math></inline-formula>.</p><p id="Par26">For each simulation we fit the Lasso-penalized model of Eq. (<xref rid="Equ2" ref-type="disp-formula">2</xref>) as described above. We report the selection performance of the Lasso-penalized model in identifying symptoms with a true LC association, using the ‘true positive/negative rate’ indicating the proportion of coefficient estimates that were correctly estimated as null/non-null. Higher values indicate improved selection. We also considered the Kendall’s <inline-formula id="IEq73"><tex-math id="d33e704">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\tau$$\end{document}</tex-math></inline-formula> rank-correlation coefficient between the estimated coefficients <inline-formula id="IEq74"><tex-math id="d33e708">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\widehat{\gamma }_k$$\end{document}</tex-math></inline-formula> and the true values of <inline-formula id="IEq75"><tex-math id="d33e712">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\beta _{1k}$$\end{document}</tex-math></inline-formula>, characterizing how closely the rank-order of coefficient estimates reflects to the true rank order of LC association magnitudes.</p><p id="Par27">Then, in an independent dataset from the same data generating mechanism, we computed the numeric LCRI in Eq. (<xref rid="Equ3" ref-type="disp-formula">3</xref>), and evaluated two metrics characterizing its ability to discriminate individuals truly with and without LC: 1) the area under the receiver operating characteristic curve and 2) the area under the precision-recall curve. In both cases, higher values indicate better discrimination. For comparison to the LCRI, we considered an ad hoc score defined as the total number of symptoms an individual has. This comparator conceptually corresponds to approaches such as Fineberg et al. [<xref ref-type="bibr" rid="CR17">17</xref>] that include the presence of any symptoms when defining LC. It mathematically corresponds to the computation in Eq. (<xref rid="Equ3" ref-type="disp-formula">3</xref>) fixing <inline-formula id="IEq76"><tex-math id="d33e727">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\widehat{\gamma }_k=1$$\end{document}</tex-math></inline-formula> for all <italic toggle="yes">k</italic>.</p><p id="Par28">In addition to these primary simulations, we also performed additional simulations assessing three phenomena: 1) the impact of balancing weighting on performance under potential confounding; 2) specification of the elastic net penalty as an alternative to the Lasso [<xref ref-type="bibr" rid="CR19">19</xref>], which is known to be more likely to select groups of correlated covariates, whereas the Lasso tends to select one covariate from amongst a set of correlated covariates [<xref ref-type="bibr" rid="CR22">22</xref>]; and 3) the presence of infection misclassification in which individuals who truly have a history of infection may be ‘observed’ to have no history of infection (e.g., people who had an asymptomatic infection that went undetected), or that individuals who truly do not have a history of infection may be ‘observed’ to have history of infection (e.g., individuals who did not actually have a SARS-CoV-2 infection, but believed they did due to another illness with similar acute symptoms as COVID-19). These simulations are detailed in Appendix A of the supplementary materials, with results summarized below.</p></sec><sec id="Sec7"><title>Data Application to RECOVER-Adult</title><p id="Par29">The NIH-sponsored Researching COVID to Enhance Recovery (RECOVER) Adult Cohort (RECOVER-Adult) is an ongoing observational cohort study of adults age 18 and older, with and without a history of SARS-CoV-2 [<xref ref-type="bibr" rid="CR23">23</xref>]. Participants complete surveys recording the presence of symptoms at enrollment and at three-month follow-up intervals. Study time is relative to a time origin defined as the date of an individual’s first SARS-CoV-2 infection, or date of a negative test result for uninfected participants. Participants enrolled at any time within 3 years of this date, and for the purpose of this example we considered presence of symptoms at the first study visit at least 6 months after infection/negative test for each participant. Recruitment began on December 1, 2021, with <inline-formula id="IEq77"><tex-math id="d33e749">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$n=9764$$\end{document}</tex-math></inline-formula> contributing an eligible study visit at the time of data lock on April 10, 2023. This dataset was previously analyzed in the first manuscript defining the original LCRI [<xref ref-type="bibr" rid="CR4">4</xref>], and in this reanalysis we evaluate alternative strategies to handle confounding, and compare the LCRI with symptom count.</p><p id="Par30">A total of 37 candidate symptoms from 12 clinically-defined categories were considered in the cross-sectional analysis, including cardiac, gastrointestinal, neurologic, musculoskeletal, and others. The full symptom list, with symptom rates by infection status, is available in Appendix B of the supplementary materials.</p><p id="Par31">First, we applied the Lasso-penalized LCRI methodology with balancing weights defined as in Eq. (<xref rid="Equ4" ref-type="disp-formula">4</xref>) using 30 strata defined by age (18–45, 46–65, &gt;65), sex (male, female), and race (non-Hispanic Asian, non-Hispanic Black, non-Hispanic White, Hispanic, Mixed race/other/missing). This represents a core set of adjustment variables, though unmeasured confounding may still be present. In the original LCRI manuscript these variables were also included as possible model covariates, but were not selected by the Lasso penalization, and differences in model coefficients were negligible, so we presently consider these covariates via balancing weighting only, i.e., <inline-formula id="IEq78"><tex-math id="d33e763">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\textbf{Z}$$\end{document}</tex-math></inline-formula> is not included in <inline-formula id="IEq79"><tex-math id="d33e767">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\textbf{X}$$\end{document}</tex-math></inline-formula> [<xref ref-type="bibr" rid="CR4">4</xref>]. We compare the resulting symptom selection and coefficient estimates to a model fit without weights.</p><p id="Par32">Using the balancing-weighted results we compute an LCRI value for every individual, and graphically compare the distribution to the distribution of symptom counts in this cohort. To compare the performance of the LCRI and symptom count to distinguish individuals with and without LC, we consider their discriminative value if a score threshold were used to classify LC status. Because the true LC status of each individual in the dataset is unavailable, we consider the proportion of infected and uninfected individuals who would be classified as having LC under varying thresholds. These results are presented using a cross-validated receiver operator characteristic (ROC) curve, in which we fit the Lasso-penalized logistic regression model in each possible subset of 90% of the data and estimate the index and resulting curve in the remaining 10%, and average across the results. Improved discriminative performance corresponds to reducing the proportion of uninfected classified as having LC for a given proportion of infected classified as having LC.</p></sec></sec><sec id="Sec8"><title>Results</title><sec id="Sec9"><title>Simulation results</title><p id="Par33">Table <xref rid="Tab1" ref-type="table">1</xref> reports the selection performance of the LCRI across simulation settings. Across low, medium, and high signal settings, the greatest number of symptoms were selected under the non-group sparse correlation setting, followed by the uncorrelated and then group sparse settings. This reflects that under non-group sparsity, symptoms with no true effect are highly correlated with symptoms that do have a true effect and therefore are more likely to be selected; this is evidenced by a decreased true negative rate.<table-wrap id="Tab1" position="float" orientation="portrait"><label>Table 1</label><caption><p>Simulation results for Lasso feature selection performance</p></caption><table frame="hsides" rules="groups"><thead><tr><th align="left" colspan="1" rowspan="1"/><th align="left" colspan="1" rowspan="1"/><th align="left" colspan="1" rowspan="1"/><th align="left" colspan="1" rowspan="1"/><th align="left" colspan="1" rowspan="1">Est. vs. True Coef.</th></tr><tr><th align="left" colspan="1" rowspan="1"/><th align="left" colspan="1" rowspan="1"># Features Selected</th><th align="left" colspan="1" rowspan="1">TPR</th><th align="left" colspan="1" rowspan="1">TNR</th><th align="left" colspan="1" rowspan="1">Rank-Correlation</th></tr><tr><th align="left" colspan="1" rowspan="1">Setting</th><th align="left" colspan="1" rowspan="1">Median (IQR)</th><th align="left" colspan="1" rowspan="1">Mean (SD)</th><th align="left" colspan="1" rowspan="1">Mean (SD)</th><th align="left" colspan="1" rowspan="1">Mean (SD)</th></tr></thead><tbody><tr><td align="left" colspan="5" rowspan="1">Low Signal</td></tr><tr><td align="left" colspan="1" rowspan="1"> Uncorrelated</td><td align="left" colspan="1" rowspan="1">7 (3–14)</td><td align="left" colspan="1" rowspan="1">0.466 (0.263)</td><td align="left" colspan="1" rowspan="1">0.868 (0.182)</td><td align="left" colspan="1" rowspan="1">0.493 (0.126)</td></tr><tr><td align="left" colspan="1" rowspan="1"> Non-Group Sparse</td><td align="left" colspan="1" rowspan="1">12 (6–20)</td><td align="left" colspan="1" rowspan="1">0.442 (0.230)</td><td align="left" colspan="1" rowspan="1">0.708 (0.226)</td><td align="left" colspan="1" rowspan="1">0.141 (0.123)</td></tr><tr><td align="left" colspan="1" rowspan="1"> Group Sparse</td><td align="left" colspan="1" rowspan="1">4 (2–9)</td><td align="left" colspan="1" rowspan="1">0.332 (0.204)</td><td align="left" colspan="1" rowspan="1">0.888 (0.186)</td><td align="left" colspan="1" rowspan="1">0.38 (0.122)</td></tr><tr><td align="left" colspan="5" rowspan="1">Medium Signal</td></tr><tr><td align="left" colspan="1" rowspan="1"> Uncorrelated</td><td align="left" colspan="1" rowspan="1">8 (3–13)</td><td align="left" colspan="1" rowspan="1">0.523 (0.264)</td><td align="left" colspan="1" rowspan="1">0.887 (0.179)</td><td align="left" colspan="1" rowspan="1">0.568 (0.122)</td></tr><tr><td align="left" colspan="1" rowspan="1"> Non-Group Sparse</td><td align="left" colspan="1" rowspan="1">13 (7–20)</td><td align="left" colspan="1" rowspan="1">0.482 (0.222)</td><td align="left" colspan="1" rowspan="1">0.698 (0.226)</td><td align="left" colspan="1" rowspan="1">0.142 (0.124)</td></tr><tr><td align="left" colspan="1" rowspan="1"> Group Sparse</td><td align="left" colspan="1" rowspan="1">4 (2–8)</td><td align="left" colspan="1" rowspan="1">0.339 (0.202)</td><td align="left" colspan="1" rowspan="1">0.922 (0.154)</td><td align="left" colspan="1" rowspan="1">0.426 (0.12)</td></tr><tr><td align="left" colspan="5" rowspan="1">High Signal</td></tr><tr><td align="left" colspan="1" rowspan="1"> Uncorrelated</td><td align="left" colspan="1" rowspan="1">8 (4–12)</td><td align="left" colspan="1" rowspan="1">0.562 (0.251)</td><td align="left" colspan="1" rowspan="1">0.920 (0.146)</td><td align="left" colspan="1" rowspan="1">0.630 (0.124)</td></tr><tr><td align="left" colspan="1" rowspan="1"> Non-Group Sparse</td><td align="left" colspan="1" rowspan="1">14 (8–21)</td><td align="left" colspan="1" rowspan="1">0.517 (0.212)</td><td align="left" colspan="1" rowspan="1">0.692 (0.221)</td><td align="left" colspan="1" rowspan="1">0.14 (0.126)</td></tr><tr><td align="left" colspan="1" rowspan="1"> Group Sparse</td><td align="left" colspan="1" rowspan="1">4 (2–7)</td><td align="left" colspan="1" rowspan="1">0.346 (0.194)</td><td align="left" colspan="1" rowspan="1">0.936 (0.145)</td><td align="left" colspan="1" rowspan="1">0.455 (0.114)</td></tr></tbody></table><table-wrap-foot><p>Notes: Rank-correlation defined as Kendall’s <inline-formula id="IEq80"><tex-math id="d33e938">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\tau$$\end{document}</tex-math></inline-formula> between estimated regression coefficients and true risk ratios of Long COVID vs each symptom. Notably, the comparator method of symptom count is defined as a sum of all present symptoms (i.e., every feature has a coefficient of 1), and therefore always has TPR and TNR of 1. Abbreviations: <italic toggle="yes">TPR</italic> True Positive Rate, <italic toggle="yes">TNR</italic> True Negative Rate</p></table-wrap-foot></table-wrap></p><p id="Par34">Importantly, the Lasso-penalized model tended to be conservative in variable selection, with generally high true negative rates in the uncorrelated and group sparse settings, but modest true positive rates that also varied depending on symptom correlation. We also observed that the estimated coefficients were relatively highly rank-correlated with the true LC associations. However, under non-group sparse correlated symptoms the rank-correlation between estimated and true associations weakened, as symptoms with no true effect were more likely to have a nonzero coefficient estimate.</p><p id="Par35">As signal strength increases, both TPR and TNR tended to increase, even as the model size stays relatively consistent. This seems to reflect that while the same number of covariates are being selected on average, as signal strength increases more of the selected covariates are correct. This is also reflected by improvements in the rank correlation between the estimated and true coefficients with increasing signal strength.<fig id="Fig1" position="float" orientation="portrait"><label>Fig. 1</label><caption><p>Simulation results for discriminative performance of LCRI versus symptom count. Boxplot whiskers extend to the furthest value within 1.5 * the interquartile range from the upper and lower quartiles. The null value of the area under the ROC curve is 0.5, and for the area under the precision-recall curve is the proportion of individuals truly with LC, which varies slightly across datasets but is expected as <inline-formula id="IEq81"><tex-math id="d33e958">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\pi =0.2$$\end{document}</tex-math></inline-formula></p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="MO1" position="float" orientation="portrait" xlink:href="12874_2025_2737_Fig1_HTML.jpg"/></fig></p><p id="Par36">As shown in Fig. <xref rid="Fig1" ref-type="fig">1</xref>, the LCRI derived from Lasso-penalized logistic regression on infection status showed reasonable capacity to discriminate between those with and without LC across all settings, with improved performance as signal strength increases.</p><p id="Par37">The impact of symptom correlation on LCRI discrimination was modest for the regression-based LCRI, with slightly better performance in settings under which larger models tended to be selected (i.e., non-group sparsity), and slightly worse performance when smaller models tended to be selected (i.e., group sparsity). This seems to indicate that LCRI performance does not substantially degrade even when only some true non-zero symptoms are selected into the index, particularly under group sparsity in which LC associated symptoms have strong correlation.</p><p id="Par38">Across all settings, the symptom count consistently underperformed relative to the regression-based LCRI. In particular, the symptom count notably degraded in performance in the presence of correlation between symptoms.</p><p id="Par39">Finally, we summarize the results of additional simulation studies presented in Appendix A of the supplementary materials, to address a range of additional considerations. In simulations evaluating the discriminative performance of the LCRI in the presence of a confounding covariate positively associated both with the probability of infection and the probability of having symptoms, using balancing weights as described in the “<xref rid="Sec5" ref-type="sec">Balancing weights to address potential confounding</xref>” section yielded improved performance in settings where confounding may otherwise obscure the true associations, relative to an unweighted analysis. In simulations comparing the LCRI methodology using the Lasso penalty to use of the elastic net penalty, there was almost no difference between Lasso penalization and elastic net penalization, perhaps due to the large sample size relative to covariate dimension. However, differences may be more pronounced in other settings, and could be examined in future research. A final simulation study evaluated scenarios with increasing rates of infection misclassification under the medium signal strength, and found that both selection performance and LCRI discriminative performance showed only minor degradation. In the most extreme setting of high misclassification and no symptom correlation, LCRI discriminative performance approached that of the symptom count, but continued to perform better in general.</p></sec><sec id="Sec10"><title>Application to RECOVER-Adult</title><p id="Par40">A subset of <inline-formula id="IEq82"><tex-math id="d33e981">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$n=9702$$\end{document}</tex-math></inline-formula> RECOVER-Adult participants had complete data on sex assigned at birth, age, and race/ethnicity and were used in the analysis. Demographics are summarized by infection status in Appendix B of the supplementary materials.</p><p id="Par41">From the 37 candidate symptoms shown in Appendix B, Table B.2 with frequencies by infection status, Fig. <xref rid="Fig2" ref-type="fig">2</xref> shows the symptoms selected using the Lasso-penalized logistic regression, with and without balancing weights. In the weighted model a total of 13 symptoms were selected, and the symptoms with the largest coefficients—and therefore largest contributions to the index—were loss or change of smell/taste, post-exertional malaise (PEM), chronic cough, and brain fog (Fig. <xref rid="Fig2" ref-type="fig">2</xref>). The set of symptoms selected with and without balancing weights was the same except for shortness of breath (selected by the unadjusted model only) and abnormal movements (selected by the balancing-weighted model only). The differences in coefficients were generally small, with the largest absolute difference for brain fog (balancing weighted: 0.330 vs unadjusted: 0.497). While both models selected the same top 4 symptoms the next largest coefficients in the unadjusted model were heart palpitations and dizziness, compared to thirst and chest pain in the balancing weighted model.<fig id="Fig2" position="float" orientation="portrait"><label>Fig. 2</label><caption><p>Lasso-penalized logistic regression coefficient estimates using RECOVER-Adult data</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="MO2" position="float" orientation="portrait" xlink:href="12874_2025_2737_Fig2_HTML.jpg"/></fig></p><p id="Par42">Using the coefficients estimated under the balancing weighted analysis, we calculated an LCRI for each individual as in Eq. (<xref rid="Equ3" ref-type="disp-formula">3</xref>), resulting in an index ranging from 0–37 (Appendix B, Fig. B.1). Among those with history of infection, 2933 (34.1%) had an index of 0, compared to 711 (64.1%) among those without history of infection. The median and interquartile range (IQR) LCRI were 2 (0–11) and 1 (0–1), respectively.</p><p id="Par43">We calculated the count of symptoms using the same set of 37 symptoms, and the correspondence between the LCRI and symptom count is illustrated in Appendix B, Fig. B.2. Among those with history of infection, 2173 (25.3%) had a count of 0 symptoms, compared to 521 (47.0%) among those without history of infection. The median (IQR) symptom counts were 3 (0–8) and 1 (0–3), respectively.</p><p id="Par44">Figure <xref rid="Fig3" ref-type="fig">3</xref> presents an ROC curve across all possible score thresholds, with the curve at each point on the x-axis representing the rate of LC among the uninfected for fixed rates within infected participants. Separate curves are reported for each cross-validation fold, as well as for the average over the cross-validated curves. For comparison, a curve is also reported fitting the LCRI model and estimating LC rates in the same full dataset. At any fixed rate of LC classification among the infected, the corresponding cross-validated rate of LC classification in the uninfected were lower using the LCRI than using symptom count. For example, for classification of LC among the infected at a fixed rate of 23% as reported in Thaweethai et al. [<xref ref-type="bibr" rid="CR4">4</xref>], the estimated rate of LC classification of uninfected individuals in an independent sample is 3.8% (95% CI: 2.9–4.8.9.8%), compared to 6.4% (95% CI: 4.6–8.2.6.2%) using symptom count.<fig id="Fig3" position="float" orientation="portrait"><label>Fig. 3</label><caption><p>Receiver operator characteristic curves illustrating LC rates by infection status using LCRI and symptom count classification rules. Results shown for LC rates estimated within the same full data sample used for model fitting (dashed), and in held-out data via 10-fold cross-validation, averaging the folds (solid) and for each individual fold (light)</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="MO3" position="float" orientation="portrait" xlink:href="12874_2025_2737_Fig3_HTML.jpg"/></fig></p></sec></sec><sec id="Sec11"><title>Discussion</title><p id="Par45">This manuscript provides strong evidence in support of using Lasso-penalized logistic regression, with history of infection as a pseudo-label, to identify LC-associated features and define an associated research index. In the context of ‘negative-unlabeled’ outcome data where LC status lacks a gold standard definition, rigorous simulation studies are an important tool for understanding the characteristics of the LCRI methodology. These simulations indicated that performance of the regression-based Long COVID research index is robust to complex correlation structures between symptoms, and that balancing weights could effectively mitigate the impact of confounding bias on LCRI performance. Interestingly, the findings also showed that both a large imbalance in the stratifying variables by infection status, and a strong association between the stratifying variables and symptoms, were necessary to observe differences between weighted and unweighted analyses. Future work could also help explore other factors that may affect performance, such as sample size and dimensionality, or temporal changes in infection rate <inline-formula id="IEq83"><tex-math id="d33e1026">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\alpha$$\end{document}</tex-math></inline-formula> and LC prevalence <inline-formula id="IEq84"><tex-math id="d33e1030">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\pi$$\end{document}</tex-math></inline-formula>. Alternative conditions might also reveal further detail on the effects of weighting on estimation precision, or the effects of misclassification.</p><p id="Par46">In the data application, the top symptoms selected by the methodology (e.g., loss of smell/taste, PEM, brain fog, cough) coincide with those identified in descriptive reports of LC, supporting the face validity of these results [<xref ref-type="bibr" rid="CR17">17</xref>]. At the same time, an important marker of discriminative performance for LC indices is the ability to identify LC among infected participants, with minimal misclassification of uninfected participants as having LC. While acknowledging that in the data application we can only use comparative classification behavior relative to infection history as a proxy for discriminative performance, we demonstrate that the index based on Lasso-penalized logistic regression, compared to a count of symptoms, leads to fewer misclassifications of uninfected participants as having LC while capturing the same proportion of LC cases among infected participants. Further work is needed to examine principled strategies to classify LC status based on the LCRI, based on specificity or other benchmarks [<xref ref-type="bibr" rid="CR4">4</xref>].</p><p id="Par47">Several alternative but related strategies to the one described herein are viable. For example, in the example provided, model features were defined as the presence of symptoms, while more generally, these features could capture information on incident symptoms, worsening of symptoms, or other health-related characteristics. A machine learning type approach, such as random forests [<xref ref-type="bibr" rid="CR24">24</xref>] or support vector machines [<xref ref-type="bibr" rid="CR25">25</xref>], could also be used in place of Lasso-penalized regression, offering the additional advantage of allowing for complex interactions and conditional associations. However, using one of these alternative supervised learning strategies does not inherently address the core challenge posed by the ‘negative-unlabeled’ data inherent in studying LC absent a gold-standard definition. Further extensions might also consider differential rates of LC by levels of a confounding variable, as well as interactions between symptoms and demographic characteristics on rates of LC.</p><p id="Par48">In addition, this approach may be used to develop research indices in other settings with ‘negative-unlabeled’ data for which status is negative in one subpopulation but may be unknown in another. This may arise in other chronic sequelae of viral infection, or chronic conditions induced by exposure to stimulus, such as Lyme’s disease following tick bite.</p></sec><sec id="Sec12"><title>Conclusion</title><p id="Par49">As the LCRI is increasingly used to characterize LC in research settings [<xref ref-type="bibr" rid="CR9">9</xref>–<xref ref-type="bibr" rid="CR11">11</xref>], this paper represents an important step in understanding its operating characteristics, and developing general methodology for settings with negative-unlabeled data.</p></sec><sec id="Sec13" sec-type="supplementary-material"><title>Supplementary Information</title><p>
+<supplementary-material content-type="local-data" id="MOESM1" position="float" orientation="portrait"><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="12874_2025_2737_MOESM1_ESM.pdf" position="float" orientation="portrait"><caption><p>Supplementary Material 1.</p></caption></media></supplementary-material>
+</p></sec></body><back><fn-group><fn><p><bold>Publisher's Note</bold></p><p>Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.</p></fn></fn-group><ack><title>Acknowledgements</title><p>We thank the national community engagement group, caregivers, community representatives, and the participants enrolled in the RECOVER Initiative.</p></ack><notes notes-type="author-contribution"><title>Authors' contributions</title><p>HR conceived the idea of the study. All authors designed the study. All authors participated in the development of the methods. HR performed the data analysis, interpreted the findings and drafted the manuscript. All authors revised and approved the final manuscript.</p></notes><notes notes-type="funding-information"><title>Funding</title><p>Support for this project was provided by NIH/NHLBI R01HL162373.</p></notes><notes notes-type="data-availability"><title>Data availability</title><p>Data are publicly available at <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://biodatacatalyst.nhlbi.nih.gov/recover">https://biodatacatalyst.nhlbi.nih.gov/recover</ext-link>.</p></notes><notes><title>Declarations</title><notes id="FPar1"><title>Ethics approval and consent to participate</title><p id="Par50">Institutional review boards at NYU Grossman School of Medicine, serving as a single institutional review board, and other participating institutions reviewed and approved the RECOVER study protocol. All participants provided written informed consent to participate in research.</p></notes><notes id="FPar2"><title>Consent for publication</title><p id="Par51">Not applicable.</p></notes><notes id="FPar3" notes-type="COI-statement"><title>Competing interests</title><p id="Par52">The authors declare no competing interests.</p></notes></notes><ref-list id="Bib1"><title>References</title><ref id="CR1"><label>1.</label><mixed-citation publication-type="other">Allan M, Lièvre M, Laurenson-Schafer H, de Barros S, Jinnai Y, Andrews S, Stricker T. The World Health Organization COVID-19 surveillance database. Int J Equity Health. 2022;21(Suppl 3):167. 10.1186/s12939-023-01870-1.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1186/s12939-022-01767-5</pub-id><pub-id pub-id-type="pmcid">PMC9685131</pub-id><pub-id pub-id-type="pmid">36419127</pub-id></mixed-citation></ref><ref id="CR2"><label>2.</label><citation-alternatives><element-citation id="ec-CR2" publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Nittas</surname><given-names>V</given-names></name><name name-style="western"><surname>Gao</surname><given-names>M</given-names></name><name name-style="western"><surname>West</surname><given-names>EA</given-names></name><name name-style="western"><surname>Ballouz</surname><given-names>T</given-names></name><name name-style="western"><surname>Menges</surname><given-names>D</given-names></name><name name-style="western"><surname>Wulf Hanson</surname><given-names>S</given-names></name><etal/></person-group><article-title>Long COVID through a public health lens: an umbrella review</article-title><source>Public Health Rev</source><year>2022</year><pub-id pub-id-type="doi">10.3389/phrs.2022.1604501</pub-id><pub-id pub-id-type="pmid">35359614</pub-id><pub-id pub-id-type="pmcid">PMC8963488</pub-id></element-citation><mixed-citation id="mc-CR2" publication-type="journal">Nittas V, Gao M, West EA, Ballouz T, Menges D, Wulf Hanson S, et al. Long COVID through a public health lens: an umbrella review. Public Health Rev. 2022. 10.3389/phrs.2022.1604501.<pub-id pub-id-type="pmid">35359614</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3389/phrs.2022.1604501</pub-id><pub-id pub-id-type="pmcid">PMC8963488</pub-id></mixed-citation></citation-alternatives></ref><ref id="CR3"><label>3.</label><citation-alternatives><element-citation id="ec-CR3" publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Chou</surname><given-names>R</given-names></name><name name-style="western"><surname>Herman</surname><given-names>E</given-names></name><name name-style="western"><surname>Ahmed</surname><given-names>A</given-names></name><name name-style="western"><surname>Anderson</surname><given-names>J</given-names></name><name name-style="western"><surname>Selph</surname><given-names>S</given-names></name><name name-style="western"><surname>Dana</surname><given-names>T</given-names></name><etal/></person-group><article-title>Long COVID definitions and models of care : a scoping review</article-title><source>Ann Intern Med</source><year>2024</year><pub-id pub-id-type="doi">10.7326/M24-0677</pub-id><pub-id pub-id-type="pmid">38768458</pub-id></element-citation><mixed-citation id="mc-CR3" publication-type="journal">Chou R, Herman E, Ahmed A, Anderson J, Selph S, Dana T, et al. Long COVID definitions and models of care : a scoping review. Ann Intern Med. 2024. 10.7326/M24-0677.<pub-id pub-id-type="pmid">38768458</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.7326/M24-0677</pub-id></mixed-citation></citation-alternatives></ref><ref id="CR4"><label>4.</label><citation-alternatives><element-citation id="ec-CR4" publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Thaweethai</surname><given-names>T</given-names></name><name name-style="western"><surname>Jolley</surname><given-names>SE</given-names></name><name name-style="western"><surname>Karlson</surname><given-names>EW</given-names></name><name name-style="western"><surname>Levitan</surname><given-names>EB</given-names></name><name name-style="western"><surname>Levy</surname><given-names>B</given-names></name><etal/></person-group><article-title>Development of a definition of postacute sequelae of SARS-CoV-2 infection</article-title><source>JAMA</source><year>2023</year><volume>329</volume><issue>22</issue><fpage>1934</fpage><lpage>1946</lpage><pub-id pub-id-type="doi">10.1001/jama.2023.8823</pub-id><pub-id pub-id-type="pmid">37278994</pub-id><pub-id pub-id-type="pmcid">PMC10214179</pub-id></element-citation><mixed-citation id="mc-CR4" publication-type="journal">Thaweethai T, Jolley SE, Karlson EW, Levitan EB, Levy B, et al. Development of a definition of postacute sequelae of SARS-CoV-2 infection. JAMA. 2023;329(22):1934–46.<pub-id pub-id-type="pmid">37278994</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1001/jama.2023.8823</pub-id><pub-id pub-id-type="pmcid">PMC10214179</pub-id></mixed-citation></citation-alternatives></ref><ref id="CR5"><label>5.</label><citation-alternatives><element-citation id="ec-CR5" publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Geng</surname><given-names>LN</given-names></name><name name-style="western"><surname>Erlandson</surname><given-names>KM</given-names></name><name name-style="western"><surname>Hornig</surname><given-names>M</given-names></name><name name-style="western"><surname>Letts</surname><given-names>R</given-names></name><name name-style="western"><surname>Selvaggi</surname><given-names>C</given-names></name><name name-style="western"><surname>Ashktorab</surname><given-names>H</given-names></name><etal/></person-group><article-title>2024 update of the RECOVER-adult long COVID research index</article-title><source>JAMA</source><year>2025</year><volume>333</volume><issue>8</issue><fpage>694</fpage><lpage>700</lpage><pub-id pub-id-type="doi">10.1001/jama.2024.24184</pub-id><pub-id pub-id-type="pmid">39693079</pub-id><pub-id pub-id-type="pmcid">PMC11862971</pub-id></element-citation><mixed-citation id="mc-CR5" publication-type="journal">Geng LN, Erlandson KM, Hornig M, Letts R, Selvaggi C, Ashktorab H, et al. 2024 update of the RECOVER-adult long COVID research index. JAMA. 2025;333(8):694–700.<pub-id pub-id-type="pmid">39693079</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1001/jama.2024.24184</pub-id><pub-id pub-id-type="pmcid">PMC11862971</pub-id></mixed-citation></citation-alternatives></ref><ref id="CR6"><label>6.</label><citation-alternatives><element-citation id="ec-CR6" publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Gross</surname><given-names>RS</given-names></name><name name-style="western"><surname>Thaweethai</surname><given-names>T</given-names></name><name name-style="western"><surname>Kleinman</surname><given-names>LC</given-names></name><name name-style="western"><surname>Snowden</surname><given-names>JN</given-names></name><name name-style="western"><surname>Rosenzweig</surname><given-names>EB</given-names></name><name name-style="western"><surname>Milner</surname><given-names>JD</given-names></name><etal/></person-group><article-title>Characterizing long COVID in children and adolescents</article-title><source>JAMA</source><year>2024</year><pub-id pub-id-type="doi">10.1001/jama.2024.12747</pub-id><pub-id pub-id-type="pmid">39196964</pub-id><pub-id pub-id-type="pmcid">PMC11339705</pub-id></element-citation><mixed-citation id="mc-CR6" publication-type="journal">Gross RS, Thaweethai T, Kleinman LC, Snowden JN, Rosenzweig EB, Milner JD, et al. Characterizing long COVID in children and adolescents. JAMA. 2024. 10.1001/jama.2024.12747.<pub-id pub-id-type="pmid">39196964</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1001/jama.2024.12747</pub-id><pub-id pub-id-type="pmcid">PMC11339705</pub-id></mixed-citation></citation-alternatives></ref><ref id="CR7"><label>7.</label><citation-alternatives><element-citation id="ec-CR7" publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Gross</surname><given-names>RS</given-names></name><name name-style="western"><surname>Thaweethai</surname><given-names>T</given-names></name><name name-style="western"><surname>Salisbury</surname><given-names>AL</given-names></name><name name-style="western"><surname>Kleinman</surname><given-names>LC</given-names></name><name name-style="western"><surname>Mohandas</surname><given-names>S</given-names></name><name name-style="western"><surname>Rhee</surname><given-names>KE</given-names></name><etal/></person-group><article-title>Characterizing long COVID symptoms during early childhood</article-title><source>JAMA Pediatr</source><year>2025</year><volume>179</volume><issue>7</issue><fpage>781</fpage><lpage>792</lpage><pub-id pub-id-type="doi">10.1001/jamapediatrics.2025.1066</pub-id><pub-id pub-id-type="pmid">40554463</pub-id><pub-id pub-id-type="pmcid">PMC12117493</pub-id></element-citation><mixed-citation id="mc-CR7" publication-type="journal">Gross RS, Thaweethai T, Salisbury AL, Kleinman LC, Mohandas S, Rhee KE, et al. Characterizing long COVID symptoms during early childhood. JAMA Pediatr. 2025;179(7):781–92. 10.1001/jamapediatrics.2025.1066.<pub-id pub-id-type="pmid">40554463</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1001/jamapediatrics.2025.1066</pub-id><pub-id pub-id-type="pmcid">PMC12117493</pub-id></mixed-citation></citation-alternatives></ref><ref id="CR8"><label>8.</label><citation-alternatives><element-citation id="ec-CR8" publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Tibshirani</surname><given-names>R</given-names></name></person-group><article-title>Regression shrinkage and selection via the lasso</article-title><source>J R Stat Soc Series B Stat Methodol</source><year>1996</year><volume>58</volume><issue>1</issue><fpage>267</fpage><lpage>88</lpage><pub-id pub-id-type="doi">10.1111/j.2517-6161.1996.tb02080.x</pub-id></element-citation><mixed-citation id="mc-CR8" publication-type="journal">Tibshirani R. Regression shrinkage and selection via the lasso. J R Stat Soc Series B Stat Methodol. 1996;58(1):267–88.</mixed-citation></citation-alternatives></ref><ref id="CR9"><label>9.</label><citation-alternatives><element-citation id="ec-CR9" publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Metz</surname><given-names>TD</given-names></name><name name-style="western"><surname>Reeder</surname><given-names>HT</given-names></name><name name-style="western"><surname>Clifton</surname><given-names>RG</given-names></name><name name-style="western"><surname>Flaherman</surname><given-names>V</given-names></name><name name-style="western"><surname>Aragon</surname><given-names>LV</given-names></name><name name-style="western"><surname>Baucom</surname><given-names>LC</given-names></name><etal/></person-group><article-title>Post-acute sequelae of severe acute respiratory syndrome Coronavirus 2 (SARS-CoV-2) after infection during pregnancy</article-title><source>Obstet Gynecol</source><year>2024</year><volume>144</volume><issue>3</issue><fpage>411</fpage><lpage>20</lpage><pub-id pub-id-type="doi">10.1097/AOG.0000000000005670</pub-id><pub-id pub-id-type="pmid">38991216</pub-id><pub-id pub-id-type="pmcid">PMC11326967</pub-id></element-citation><mixed-citation id="mc-CR9" publication-type="journal">Metz TD, Reeder HT, Clifton RG, Flaherman V, Aragon LV, Baucom LC, et al. Post-acute sequelae of severe acute respiratory syndrome Coronavirus 2 (SARS-CoV-2) after infection during pregnancy. Obstet Gynecol. 2024;144(3):411–20.<pub-id pub-id-type="pmid">38991216</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1097/AOG.0000000000005670</pub-id><pub-id pub-id-type="pmcid">PMC11326967</pub-id></mixed-citation></citation-alternatives></ref><ref id="CR10"><label>10.</label><citation-alternatives><element-citation id="ec-CR10" publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Erlandson</surname><given-names>KM</given-names></name><name name-style="western"><surname>Geng</surname><given-names>LN</given-names></name><name name-style="western"><surname>Selvaggi</surname><given-names>CA</given-names></name><name name-style="western"><surname>Thaweethai</surname><given-names>T</given-names></name><name name-style="western"><surname>Chen</surname><given-names>P</given-names></name><name name-style="western"><surname>Erdmann</surname><given-names>NB</given-names></name><etal/></person-group><article-title>Differentiation of prior SARS-CoV-2 infection and postacute sequelae by standard clinical laboratory measurements in the RECOVER cohort</article-title><source>Ann Intern Med</source><year>2024</year><pub-id pub-id-type="doi">10.7326/M24-0737</pub-id><pub-id pub-id-type="pmid">39133923</pub-id><pub-id pub-id-type="pmcid">PMC11408082</pub-id></element-citation><mixed-citation id="mc-CR10" publication-type="journal">Erlandson KM, Geng LN, Selvaggi CA, Thaweethai T, Chen P, Erdmann NB, et al. Differentiation of prior SARS-CoV-2 infection and postacute sequelae by standard clinical laboratory measurements in the RECOVER cohort. Ann Intern Med. 2024. 10.7326/M24-0737.<pub-id pub-id-type="pmid">39133923</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.7326/M24-0737</pub-id><pub-id pub-id-type="pmcid">PMC11408082</pub-id></mixed-citation></citation-alternatives></ref><ref id="CR11"><label>11.</label><citation-alternatives><element-citation id="ec-CR11" publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Shah</surname><given-names>DP</given-names></name><name name-style="western"><surname>Thaweethai</surname><given-names>T</given-names></name><name name-style="western"><surname>Karlson</surname><given-names>EW</given-names></name><name name-style="western"><surname>Bonilla</surname><given-names>H</given-names></name><name name-style="western"><surname>Horne</surname><given-names>BD</given-names></name><name name-style="western"><surname>Mullington</surname><given-names>JM</given-names></name><etal/></person-group><article-title>Sex differences in long COVID</article-title><source>JAMA Netw Open</source><year>2025</year><volume>8</volume><issue>1</issue><fpage>e2455430</fpage><lpage>e2455430</lpage><pub-id pub-id-type="doi">10.1001/jamanetworkopen.2024.55430</pub-id><pub-id pub-id-type="pmid">39841477</pub-id><pub-id pub-id-type="pmcid">PMC11755195</pub-id></element-citation><mixed-citation id="mc-CR11" publication-type="journal">Shah DP, Thaweethai T, Karlson EW, Bonilla H, Horne BD, Mullington JM, et al. Sex differences in long COVID. JAMA Netw Open. 2025;8(1):e2455430–e2455430.<pub-id pub-id-type="pmid">39841477</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1001/jamanetworkopen.2024.55430</pub-id><pub-id pub-id-type="pmcid">PMC11755195</pub-id></mixed-citation></citation-alternatives></ref><ref id="CR12"><label>12.</label><citation-alternatives><element-citation id="ec-CR12" publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Cao</surname><given-names>T</given-names></name><name name-style="western"><surname>Reeder</surname><given-names>HT</given-names></name><name name-style="western"><surname>Foulkes</surname><given-names>AS</given-names></name></person-group><article-title>Sparse Bernoulli mixture modeling with negative-unlabeled data: an approach to identify and characterize long COVID</article-title><source>Biometrics</source><year>2025</year><volume>81</volume><issue>1</issue><fpage>ujaf021</fpage><pub-id pub-id-type="doi">10.1093/biomtc/ujaf021</pub-id><pub-id pub-id-type="pmid">40072491</pub-id><pub-id pub-id-type="pmcid">PMC11899553</pub-id></element-citation><mixed-citation id="mc-CR12" publication-type="journal">Cao T, Reeder HT, Foulkes AS. Sparse Bernoulli mixture modeling with negative-unlabeled data: an approach to identify and characterize long COVID. Biometrics. 2025;81(1):ujaf021. 10.1093/biomtc/ujaf021.<pub-id pub-id-type="pmid">40072491</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/biomtc/ujaf021</pub-id><pub-id pub-id-type="pmcid">PMC11899553</pub-id></mixed-citation></citation-alternatives></ref><ref id="CR13"><label>13.</label><citation-alternatives><element-citation id="ec-CR13" publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Bekker</surname><given-names>J</given-names></name><name name-style="western"><surname>Davis</surname><given-names>J</given-names></name></person-group><article-title>Learning from positive and unlabeled data: a survey</article-title><source>Mach Learn</source><year>2020</year><volume>109</volume><issue>4</issue><fpage>719</fpage><lpage>760</lpage><pub-id pub-id-type="doi">10.1007/s10994-020-05877-5</pub-id></element-citation><mixed-citation id="mc-CR13" publication-type="journal">Bekker J, Davis J. Learning from positive and unlabeled data: a survey. Mach Learn. 2020;109(4):719–60.</mixed-citation></citation-alternatives></ref><ref id="CR14"><label>14.</label><citation-alternatives><element-citation id="ec-CR14" publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Van Engelen</surname><given-names>JE</given-names></name><name name-style="western"><surname>Hoos</surname><given-names>HH</given-names></name></person-group><article-title>A survey on semi-supervised learning</article-title><source>Mach Learn</source><year>2020</year><volume>109</volume><issue>2</issue><fpage>373</fpage><lpage>440</lpage><pub-id pub-id-type="doi">10.1007/s10994-019-05855-6</pub-id></element-citation><mixed-citation id="mc-CR14" publication-type="journal">Van Engelen JE, Hoos HH. A survey on semi-supervised learning. Mach Learn. 2020;109(2):373–440.</mixed-citation></citation-alternatives></ref><ref id="CR15"><label>15.</label><mixed-citation publication-type="other">Liu B, Dai Y, Li X, Lee WS, Yu PS. Building text classifiers using positive and unlabeled examples. In: Third IEEE international conference on data mining. IEEE; 2003. pp. 179–186.</mixed-citation></ref><ref id="CR16"><label>16.</label><mixed-citation publication-type="other">Jaskie K, Spanias A. Positive unlabeled learning. Morgan &amp; Claypool Publishers; 2022.</mixed-citation></ref><ref id="CR17"><label>17.</label><mixed-citation publication-type="other">Fineberg HV, Brown L, Worku T, Goldowitz I, editors. A Long COVID Definition: A Chronic, Systemic Disease State with Profound Consequences. Washington: The National Academies Press; 2024. 10.17226/27768.<pub-id pub-id-type="pmid">39110819</pub-id></mixed-citation></ref><ref id="CR18"><label>18.</label><citation-alternatives><element-citation id="ec-CR18" publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Brode</surname><given-names>WM</given-names></name></person-group><article-title>Long COVID: the enduring pandemic</article-title><source>Ann Intern Med</source><year>2024</year><pub-id pub-id-type="doi">10.7326/M24-0879</pub-id><pub-id pub-id-type="pmid">38768449</pub-id></element-citation><mixed-citation id="mc-CR18" publication-type="journal">Brode WM. Long COVID: the enduring pandemic. Ann Intern Med. 2024. 10.7326/M24-0879.<pub-id pub-id-type="pmid">38768449</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.7326/M24-0879</pub-id></mixed-citation></citation-alternatives></ref><ref id="CR19"><label>19.</label><citation-alternatives><element-citation id="ec-CR19" publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Friedman</surname><given-names>JH</given-names></name><name name-style="western"><surname>Hastie</surname><given-names>T</given-names></name><name name-style="western"><surname>Tibshirani</surname><given-names>R</given-names></name></person-group><article-title>Regularization paths for generalized linear models via coordinate descent</article-title><source>J Stat Softw</source><year>2010</year><volume>33</volume><issue>1</issue><fpage>1</fpage><lpage>22</lpage><pub-id pub-id-type="doi">10.18637/jss.v033.i01</pub-id><pub-id pub-id-type="pmid">20808728</pub-id><pub-id pub-id-type="pmcid">PMC2929880</pub-id></element-citation><mixed-citation id="mc-CR19" publication-type="journal">Friedman JH, Hastie T, Tibshirani R. Regularization paths for generalized linear models via coordinate descent. J Stat Softw. 2010;33(1):1–22. 10.18637/jss.v033.i01.<pub-id pub-id-type="pmid">20808728</pub-id>
+<pub-id pub-id-type="pmcid">PMC2929880</pub-id></mixed-citation></citation-alternatives></ref><ref id="CR20"><label>20.</label><citation-alternatives><element-citation id="ec-CR20" publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Austin</surname><given-names>PC</given-names></name></person-group><article-title>Differences in target estimands between different propensity score-based weights</article-title><source>Pharmacoepidemiol Drug Saf</source><year>2023</year><volume>32</volume><issue>10</issue><fpage>1103</fpage><lpage>1112</lpage><pub-id pub-id-type="doi">10.1002/pds.5639</pub-id><pub-id pub-id-type="pmid">37208837</pub-id></element-citation><mixed-citation id="mc-CR20" publication-type="journal">Austin PC. Differences in target estimands between different propensity score-based weights. Pharmacoepidemiol Drug Saf. 2023;32(10):1103–12.<pub-id pub-id-type="pmid">37208837</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/pds.5639</pub-id></mixed-citation></citation-alternatives></ref><ref id="CR21"><label>21.</label><mixed-citation publication-type="other">Lumley T. Complex surveys: a guide to analysis using R. John Wiley &amp; Sons; 2011.</mixed-citation></ref><ref id="CR22"><label>22.</label><citation-alternatives><element-citation id="ec-CR22" publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Zou</surname><given-names>H</given-names></name><name name-style="western"><surname>Hastie</surname><given-names>T</given-names></name></person-group><article-title>Regularization and variable selection via the elastic net</article-title><source>J R Stat Soc Series B Stat Methodol</source><year>2005</year><volume>67</volume><issue>2</issue><fpage>301</fpage><lpage>20</lpage><pub-id pub-id-type="doi">10.1111/j.1467-9868.2005.00503.x</pub-id></element-citation><mixed-citation id="mc-CR22" publication-type="journal">Zou H, Hastie T. Regularization and variable selection via the elastic net. J R Stat Soc Series B Stat Methodol. 2005;67(2):301–20.</mixed-citation></citation-alternatives></ref><ref id="CR23"><label>23.</label><citation-alternatives><element-citation id="ec-CR23" publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Horwitz</surname><given-names>LI</given-names></name><name name-style="western"><surname>Thaweethai</surname><given-names>T</given-names></name><name name-style="western"><surname>Brosnahan</surname><given-names>SB</given-names></name><name name-style="western"><surname>Cicek</surname><given-names>MS</given-names></name><name name-style="western"><surname>Fitzgerald</surname><given-names>ML</given-names></name><etal/></person-group><article-title>Researching COVID to enhance recovery (RECOVER) adult study protocol: rationale, objectives, and design</article-title><source>PLoS One</source><year>2023</year><volume>18</volume><issue>6</issue><fpage>e0286297</fpage><pub-id pub-id-type="doi">10.1371/journal.pone.0286297</pub-id><pub-id pub-id-type="pmid">37352211</pub-id><pub-id pub-id-type="pmcid">PMC10289397</pub-id></element-citation><mixed-citation id="mc-CR23" publication-type="journal">Horwitz LI, Thaweethai T, Brosnahan SB, Cicek MS, Fitzgerald ML, et al. Researching COVID to enhance recovery (RECOVER) adult study protocol: rationale, objectives, and design. PLoS One. 2023;18(6):e0286297.<pub-id pub-id-type="pmid">37352211</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1371/journal.pone.0286297</pub-id><pub-id pub-id-type="pmcid">PMC10289397</pub-id></mixed-citation></citation-alternatives></ref><ref id="CR24"><label>24.</label><citation-alternatives><element-citation id="ec-CR24" publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Breiman</surname><given-names>L</given-names></name></person-group><article-title>Random Forests</article-title><source>Mach Learn</source><year>2001</year><volume>45</volume><issue>1</issue><fpage>5</fpage><lpage>32</lpage><pub-id pub-id-type="doi">10.1023/A:1010933404324</pub-id></element-citation><mixed-citation id="mc-CR24" publication-type="journal">Breiman L. Random Forests. Mach Learn. 2001;45(1):5–32. 10.1023/A:1010933404324.</mixed-citation></citation-alternatives></ref><ref id="CR25"><label>25.</label><mixed-citation publication-type="other">Boser BE, Guyon IM, Vapnik VN. A Training Algorithm for Optimal Margin Classifiers. In: Haussler D, editor. Proceedings of the 5th Annual Workshop on Computational Learning Theory (COLT’92). Pittsburgh: ACM Press; 1992. pp. 144–152. 10.1145/130385.130401.</mixed-citation></ref></ref-list></back></article></pmc-articleset>

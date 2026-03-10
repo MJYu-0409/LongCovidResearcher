@@ -1,0 +1,36 @@
+{
+  "pmcid": "PMC12805324",
+  "pmid": "41474983",
+  "doi": "10.2196/77644",
+  "title": "Characterization of Post-Viral Infection Behaviors Among Patients With Long COVID: Prospective, Observational, Longitudinal Cohort Analyses of Fitbit Data and Patient-Reported Outcomes.",
+  "abstract": "BACKGROUND: Long COVID encompasses a range of health problems that can be highly debilitating. While some research has relied on self-reported measures of symptoms and functioning, few studies have characterized symptoms in relation to behaviors and physiology measured objectively through wearable devices.\nOBJECTIVE: The primary aim of this study was to identify longitudinal patterns in physical activity, physiology, and patient-reported outcomes (PROs) among patients with long COVID at a Federally Qualified Health Center in the United States. The secondary aim was to identify meaningful subgroups or phenotypes within this cohort and examine how PROs and symptoms overlay with physical activity characteristics.\nMETHODS: This was a prospective, observational, longitudinal cohort study recruiting a subset of low-income patients enrolled in the Long COVID and Fatiguing Illness Recovery Program. From March 2022 to May 2023, a total of 172 patients with long COVID or myalgic encephalomyelitis/chronic fatigue syndrome were given Fitbit Charge 5 (Fitbit Inc) devices and instructed to wear them continuously for up to a year. Patients completed PRO questionnaires (PROMIS-29 [Patient-Reported Outcomes Measurement Information System-29] and symptom questionnaires, etc) at baseline, 3, and 6 months. Inclusion in longitudinal analysis required at least 20 hours of valid wear data per day for a minimum of 7 days. The World Health Organization guideline on moderate to vigorous physical activity (MVPA) was used to differentiate MPVA-active and MVPA-inactive patients. Linear mixed effects regression was performed to assess longitudinal associations between physical activity levels and PROs.\nRESULTS: Among 172 patients, 80.2% (n=138) were female, 75.6% (n=130) were White, 45.3% (n=78) were unemployed, and 94.8% (n=163) had estimated annual income below US $50,000. Of these patients, 82 (47.7%) met valid wear criteria, providing 50.5 days of Fitbit data on average. At baseline, MVPA-inactive patients (n=41) reported statistically more severe problems regarding physical function, fatigue, and dyspnea than MVPA-active patients (n=41) on both continuous and categorical scales, with P<.05 from both Student t tests (2-tailed) and chi-squared tests. Longitudinal analysis found that MVPA-inactive patients showed a decreased ability to participate in social roles (estimated group difference=-4.21 T-score points over 3 months, 95% CI -6.64 to -1.78, P<.001) and a higher intensity of sleep symptoms (estimated group difference=2.06 severity score points over 3 months, 95% CI 0.40 to 3.71, P=.02) over time.\nCONCLUSIONS: This study showed that patients with long COVID could remain MVPA-active despite experiencing symptoms. These findings provide insights into the relationship between PROs, physical activity, and long COVID, which suggests the importance of considering individual activity profiles when tailoring treatment plans, especially in a low-income population. The findings of this study should be interpreted as hypothesis-generating, considering its exploratory nature and limitations, including high attrition rates and missing data.",
+  "authors": [
+    "Tianmai M Zhang",
+    "Sydney P Sharp",
+    "John D Scott",
+    "Douglas Taren",
+    "Jane C Samaniego",
+    "Elizabeth R Unger",
+    "Jeanne Bertolli",
+    "Jin-Mann S Lin",
+    "Christian B Ramers",
+    "Job G Godino"
+  ],
+  "journal": "JMIR formative research",
+  "pub_year": "2025",
+  "pub_month": "Dec",
+  "pub_day": "31",
+  "keywords": [
+    "Fitbit",
+    "long COVID",
+    "mobile phone",
+    "objective physical activity",
+    "phenotype",
+    "post-viral infection behaviors",
+    "wearable device"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Observational Study"
+  ]
+}

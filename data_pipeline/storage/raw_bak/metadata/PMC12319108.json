@@ -1,0 +1,48 @@
+{
+  "pmcid": "PMC12319108",
+  "pmid": "40754541",
+  "doi": "10.1038/s41598-025-10120-z",
+  "title": "A multinational cross-sectional study on the prevalence and predictors of long COVID across 33 countries.",
+  "abstract": "The symptoms of long COVID (LC) can be debilitating and may be associated with anxiety, social stigma, and quality of life deterioration. Identifying patients at risk of LC is important to offer follow-up care and plan population-level public health measures. The current multinational study aimed to assess the prevalence and predictors of LC in the general population. We conducted an online, multinational, cross-sectional survey between April 2022 and January 2023, targeting participants 18 years and older with a previously confirmed COVID-19 infection. We used convenience sampling to recruit participants through an online Google form. We collected demographic data, past medical history, infection details, post-COVID-19 symptoms, and quality of life. Responses were then translated into English. LC was defined as per the World Health Organization. A single-variable analysis was conducted to identify factors significantly associated with LC development. Following the removal of multicollinear variables, a generalized linear model was established to estimate the contribution of different predictors to LC occurrence. A total of 11,801 respondents from 33 countries were included in the analysis. The mean age for participants was 32.7 ± 12.8 years, with 61% being females. BMI averaged 25.2 ± 4.8 across participants, and 14.8% of them were smokers. Seventy-eight percent of participants reported receiving the COVID-19 vaccine. Respondents with PCR-confirmed COVID-19 were then categorized into those with LC (N = 2335, 19.8%) and without LC (N = 9466 individuals, 80.2%). Our model identified 25 significant predictors. The predictors of higher LC risk included ICU admission (OR 2.08; 95% CI 1.36, 3.18; P = 0.001), female sex (OR 1.8; 95% CI 1.61, 2.02; P < 0.001), fatigue during the infection (OR 1.6; 95% CI 1.43, 1.78; P < 0.001), identifying as Hispanic (OR 1.53; 95% CI 1.26, 1.85; P < 0.001), and pre-existing gastrointestinal disease (OR 1.48; 95% CI 1.22, 1.8; P < 0.001). In conclusion, we identified key LC predictors, including ICU admission, female sex, and acute fatigue as primary risk factors, while African American and Asian ethnicities and receiving even one dose of vaccination demonstrated protective effects.",
+  "authors": [
+    "Mohamed Sayed Zaazouee",
+    "Eman Ayman Nada",
+    "Mohammed Al-Kafarna",
+    "Ahmed Shaheen",
+    "Shivabalan Kathavarayan Ramu",
+    "Abdelrahman H Hafez",
+    "Sajeda Ghassan Matar",
+    "Ahmed Assar",
+    "Mohamed Elshennawy",
+    "Hazem Abu El-Enien",
+    "Hala Jamal Redwan",
+    "Sarah Makram Elsayed",
+    "Maha Jabir Omran",
+    "Omar Hammam Salloum",
+    "Hossam Almadhoon",
+    "Mohamed Mamdouh",
+    "Engy A Wahsh",
+    "Anas Zakarya Nourelden",
+    "Alaa Ahmed Elshanbary",
+    "Walid Abdel-Aziz",
+    "Hivan Haji Rashid",
+    "Iman Basheti",
+    "Khaled Mohamed Ragab",
+    "Ahmed Taher Masoud",
+    "Abdelrahman I Abushouk"
+  ],
+  "journal": "Scientific reports",
+  "pub_year": "2025",
+  "pub_month": "Aug",
+  "pub_day": "03",
+  "keywords": [
+    "Covid-19",
+    "Long Covid",
+    "Multi-national",
+    "Re-infection",
+    "Vaccination"
+  ],
+  "article_types": [
+    "Journal Article"
+  ]
+}

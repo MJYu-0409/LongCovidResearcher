@@ -1,0 +1,4605 @@
+<?xml version="1.0"  ?><!DOCTYPE pmc-articleset PUBLIC "-//NLM//DTD ARTICLE SET 2.0//EN" "https://dtd.nlm.nih.gov/ncbi/pmc/articleset/nlm-articleset-2.0.dtd"><pmc-articleset><article xml:lang="en" article-type="research-article" dtd-version="1.4"><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">Imaging Neurosci (Camb)</journal-id><journal-id journal-id-type="iso-abbrev">Imaging Neurosci (Camb)</journal-id><journal-id journal-id-type="pmc-domain-id">4722</journal-id><journal-id journal-id-type="pmc-domain">imagneuro</journal-id><journal-id journal-id-type="publisher-id">imag</journal-id><journal-title-group><journal-title>Imaging Neuroscience</journal-title></journal-title-group><issn pub-type="epub">2837-6056</issn><publisher><publisher-name>MIT Press</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC12319845</article-id><article-id pub-id-type="pmcid-ver">PMC12319845.1</article-id><article-id pub-id-type="pmcaid">12319845</article-id><article-id pub-id-type="pmcaiid">12319845</article-id><article-id pub-id-type="pmid">40800841</article-id><article-id pub-id-type="doi">10.1162/IMAG.a.23</article-id><article-id pub-id-type="publisher-id">IMAG.a.23</article-id><article-version article-version-type="pmc-version">1</article-version><article-categories><subj-group subj-group-type="heading"><subject>Research Article</subject></subj-group></article-categories><title-group><article-title>Long COVID-related blood-brain barrier breakdown and microstructure in older adults are modified by sex and Alzheimer’s disease genetic risk</article-title></title-group><contrib-group><contrib contrib-type="author" corresp="yes"><contrib-id contrib-id-type="orcid" specific-use="authenticated" authenticated="false">https://orcid.org/0000-0002-4110-5154</contrib-id><name name-style="western"><surname>Reas</surname><given-names initials="ET">Emilie T.</given-names></name><role vocab="CRedit" vocab-identifier="http://dictionary.casrai.org/Contributor_Roles" vocab-term="Conceptualization" vocab-term-identifier="https://credit.niso.org/contributor-roles/conceptualization"/><role vocab="CRedit" vocab-identifier="http://dictionary.casrai.org/Contributor_Roles" vocab-term="Formal Analysis" vocab-term-identifier="https://credit.niso.org/contributor-roles/formal-analysis"/><role vocab="CRedit" vocab-identifier="http://dictionary.casrai.org/Contributor_Roles" vocab-term="Funding Acquisition" vocab-term-identifier="https://credit.niso.org/contributor-roles/funding-acquisition"/><role vocab="CRedit" vocab-identifier="http://dictionary.casrai.org/Contributor_Roles" vocab-term="Writing – Original Draft" vocab-term-identifier="https://credit.niso.org/contributor-roles/writing-original-draft"/><xref rid="IMAG.a.23-aff1" ref-type="aff"/><xref rid="IMAG.a.23-cor1" ref-type="corresp"/></contrib><contrib contrib-type="author"><name name-style="western"><surname>Alderson-Myers</surname><given-names initials="A">Austin</given-names></name><role vocab="CRedit" vocab-identifier="http://dictionary.casrai.org/Contributor_Roles" vocab-term="Data Curation" vocab-term-identifier="https://credit.niso.org/contributor-roles/data-curation"/><role vocab="CRedit" vocab-identifier="http://dictionary.casrai.org/Contributor_Roles" vocab-term="Writing – Review &amp; Editing" vocab-term-identifier="https://credit.niso.org/contributor-roles/writing-review-editing"/><xref rid="IMAG.a.23-aff1" ref-type="aff"/></contrib><contrib contrib-type="author"><name name-style="western"><surname>Solders</surname><given-names initials="SK">Seraphina K.</given-names></name><role vocab="CRedit" vocab-identifier="http://dictionary.casrai.org/Contributor_Roles" vocab-term="Methodology" vocab-term-identifier="https://credit.niso.org/contributor-roles/methodology"/><role vocab="CRedit" vocab-identifier="http://dictionary.casrai.org/Contributor_Roles" vocab-term="Writing – Review &amp; Editing" vocab-term-identifier="https://credit.niso.org/contributor-roles/writing-review-editing"/><xref rid="IMAG.a.23-aff1" ref-type="aff"/></contrib><contrib contrib-type="author"><name name-style="western"><surname>Shen</surname><given-names initials="Q">Qian</given-names></name><role vocab="CRedit" vocab-identifier="http://dictionary.casrai.org/Contributor_Roles" vocab-term="Methodology" vocab-term-identifier="https://credit.niso.org/contributor-roles/methodology"/><role vocab="CRedit" vocab-identifier="http://dictionary.casrai.org/Contributor_Roles" vocab-term="Writing – Review &amp; Editing" vocab-term-identifier="https://credit.niso.org/contributor-roles/writing-review-editing"/><xref rid="IMAG.a.23-aff1" ref-type="aff"/></contrib><contrib contrib-type="author"><name name-style="western"><surname>Rivera</surname><given-names initials="CS">Charlotte S.</given-names></name><role vocab="CRedit" vocab-identifier="http://dictionary.casrai.org/Contributor_Roles" vocab-term="Data Curation" vocab-term-identifier="https://credit.niso.org/contributor-roles/data-curation"/><role vocab="CRedit" vocab-identifier="http://dictionary.casrai.org/Contributor_Roles" vocab-term="Project Administration" vocab-term-identifier="https://credit.niso.org/contributor-roles/project-administration"/><role vocab="CRedit" vocab-identifier="http://dictionary.casrai.org/Contributor_Roles" vocab-term="Writing – Review &amp; Editing" vocab-term-identifier="https://credit.niso.org/contributor-roles/writing-review-editing"/><xref rid="IMAG.a.23-aff1" ref-type="aff"/></contrib><contrib contrib-type="author"><name name-style="western"><surname>Wang</surname><given-names initials="X">Xin</given-names></name><role vocab="CRedit" vocab-identifier="http://dictionary.casrai.org/Contributor_Roles" vocab-term="Methodology" vocab-term-identifier="https://credit.niso.org/contributor-roles/methodology"/><role vocab="CRedit" vocab-identifier="http://dictionary.casrai.org/Contributor_Roles" vocab-term="Writing – Review &amp; Editing" vocab-term-identifier="https://credit.niso.org/contributor-roles/writing-review-editing"/><xref rid="IMAG.a.23-aff1" ref-type="aff"/></contrib><contrib contrib-type="author"><name name-style="western"><surname>Stiver</surname><given-names initials="J">Jordan</given-names></name><role vocab="CRedit" vocab-identifier="http://dictionary.casrai.org/Contributor_Roles" vocab-term="Formal Analysis" vocab-term-identifier="https://credit.niso.org/contributor-roles/formal-analysis"/><role vocab="CRedit" vocab-identifier="http://dictionary.casrai.org/Contributor_Roles" vocab-term="Writing – Review &amp; Editing" vocab-term-identifier="https://credit.niso.org/contributor-roles/writing-review-editing"/><xref rid="IMAG.a.23-aff1" ref-type="aff"/></contrib><contrib contrib-type="author"><name name-style="western"><surname>Banks</surname><given-names initials="SJ">Sarah J.</given-names></name><role vocab="CRedit" vocab-identifier="http://dictionary.casrai.org/Contributor_Roles" vocab-term="Conceptualization" vocab-term-identifier="https://credit.niso.org/contributor-roles/conceptualization"/><role vocab="CRedit" vocab-identifier="http://dictionary.casrai.org/Contributor_Roles" vocab-term="Writing – Review &amp; Editing" vocab-term-identifier="https://credit.niso.org/contributor-roles/writing-review-editing"/><xref rid="IMAG.a.23-aff1" ref-type="aff"/></contrib><contrib contrib-type="author"><name name-style="western"><surname>Graves</surname><given-names initials="JS">Jennifer S.</given-names></name><role vocab="CRedit" vocab-identifier="http://dictionary.casrai.org/Contributor_Roles" vocab-term="Conceptualization" vocab-term-identifier="https://credit.niso.org/contributor-roles/conceptualization"/><role vocab="CRedit" vocab-identifier="http://dictionary.casrai.org/Contributor_Roles" vocab-term="Writing – Review &amp; Editing" vocab-term-identifier="https://credit.niso.org/contributor-roles/writing-review-editing"/><xref rid="IMAG.a.23-aff1" ref-type="aff"/></contrib></contrib-group><aff id="IMAG.a.23-aff1">Department of Neurosciences, University of California, San Diego, La Jolla, CA, United States</aff><author-notes><corresp id="IMAG.a.23-cor1">
+*Corresponding Author: Emilie T. Reas (
+<email>ereas@health.ucsd.edu</email>
+)
+</corresp></author-notes><pub-date pub-type="collection"><year>2025</year></pub-date><pub-date pub-type="epub" iso-8601-date="2025-05-28"><day>28</day><month>5</month><year>2025</year></pub-date><volume>3</volume><issue-id pub-id-type="pmc-issue-id">493907</issue-id><elocation-id seq="a23">IMAG.a.23</elocation-id><history><date date-type="received"><day>24</day><month>1</month><year>2025</year></date><date date-type="rev-recd"><day>26</day><month>3</month><year>2025</year></date><date date-type="accepted"><day>5</day><month>5</month><year>2025</year></date><date date-type="online"><day>14</day><month>5</month><year>2025</year></date></history><pub-history><event event-type="pmc-release"><date><day>28</day><month>05</month><year>2025</year></date></event><event event-type="pmc-live"><date><day>12</day><month>08</month><year>2025</year></date></event><event event-type="pmc-last-change"><date iso-8601-date="2025-08-13 21:25:43.223"><day>13</day><month>08</month><year>2025</year></date></event></pub-history><permissions><copyright-statement>© 2025 The Authors. Published under a Creative Commons Attribution 4.0 International (CC BY 4.0) license.</copyright-statement><copyright-year>2025</copyright-year><copyright-holder>The Authors.</copyright-holder><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>
+This is an open-access article distributed under the terms of the Creative Commons Attribution 4.0 International (CC BY 4.0) license, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited. For a full description of the license, please visit
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">https://creativecommons.org/licenses/by/4.0/</ext-link>
+.
+</license-p></license></permissions><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pmc-pdf" xlink:href="imag-3-23.pdf"/><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="imag-3-23.pdf"/><abstract><title>Abstract</title><p>Long COVID is characterized by lingering symptoms following SARS-CoV-2 infection, which may include neurological and cognitive complaints. Hypothesized mechanisms, including blood-brain barrier (BBB) dysfunction and neuroinflammation, are shared with Alzheimer’s disease (AD) and related dementias. To address concern that long COVID may accelerate cognitive decline and neurodegeneration, this study examined neuroimaging-based markers of BBB breakdown and brain microstructure among older adults with long COVID, and modification by AD risk factors. Individuals with persistent cognitive complaints following SARS-CoV-2 infection (neurological long COVID, NLCV) and cognitively normal controls (50–90 years, 61% women) underwent neuropsychological evaluation, genotyping, dynamic contrast-enhanced MRI to measure BBB permeability, and multi-compartment diffusion MRI to measure brain microstructure. Cognitive and brain measures were compared between NLCV and controls using analysis of covariance, and associations among measures were assessed using linear regression. Interaction models probed modification by sex and AD genetic risk, quantified with a polygenic hazard score. Compared to controls, NLCV exhibited cognitive impairment, BBB breakdown, and subcortical microstructural abnormalities. NLCV-related BBB leakage was widespread across the brain and more pronounced among men, whereas white matter and subcortical microstructural differences were stronger among women. AD polygenic hazard score modified associations of BBB permeability with memory and microstructure, such that higher caudate BBB permeability correlated with worse immediate recall, and higher white matter permeability correlated with higher free water only for those with elevated genetic risk. BBB dysfunction and microstructural compromise may contribute to cognitive symptoms of long COVID in older adults. Sex-specific patterns, and more deleterious associations between brain and memory abnormalities among individuals with elevated AD genetic risk, highlight the need for precision medicine diagnostic and therapeutic approaches for long COVID.</p></abstract><kwd-group><kwd>Alzheimer’s disease</kwd><kwd>COVID-19</kwd><kwd>sex differences</kwd><kwd>blood-brain barrier</kwd><kwd>diffusion MRI</kwd></kwd-group><funding-group specific-use="FundRef"><award-group id="ID0EI1AG14940"><funding-source>
+<institution-wrap><institution>National Institute on Aging</institution><institution-id institution-id-type="DOI">http://dx.doi.org/10.13039/100000049</institution-id></institution-wrap>
+</funding-source><award-id>R01 AG062483; K99/R00 AG057797</award-id></award-group><award-group id="ID0EUEBG14942"><funding-source>
+<institution-wrap><institution>American Federation for Aging Research</institution><institution-id institution-id-type="DOI">http://dx.doi.org/10.13039/100000965</institution-id></institution-wrap>
+</funding-source><award-id>Innovator Award in Cognitive Aging and Memory Loss</award-id></award-group><award-group id="ID0E1JBG14943"><funding-source>
+<institution-wrap><institution>Warren Alpert</institution><institution-id institution-id-type="DOI">http://dx.doi.org/10.13039/100002558</institution-id></institution-wrap>
+</funding-source><award-id>Distinguished Scholars award</award-id></award-group><award-group id="ID0EAPBG14944"><funding-source>
+<institution-wrap><institution>National Institute on Aging Alzheimer’s Disease Research Center research education program fellowship</institution><institution-id institution-id-type="DOI">http://dx.doi.org/10.13039/100000049</institution-id></institution-wrap>
+</funding-source><award-id>P30 AG062429</award-id></award-group></funding-group><counts><page-count count="14"/></counts><custom-meta-group><custom-meta><meta-name>pmc-status-qastatus</meta-name><meta-value>0</meta-value></custom-meta><custom-meta><meta-name>pmc-status-live</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-status-embargo</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-status-released</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-access</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-legally-suppressed</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-pdf</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-supplement</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-pdf-only</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-suppress-copyright</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-real-version</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-scanned-article</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-in-epmc</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-license-ref</meta-name><meta-value>CC BY</meta-value></custom-meta></custom-meta-group></article-meta></front><body><sec sec-type="sec1" id="IMAG.a.23-S1"><label>1</label><title>Introduction</title><p>COVID-19 has had a profound public health impact, with an estimated 6.9% of Americans experiencing long COVID, characterized by emergent health complications that persist over a prolonged post-infection period (<xref rid="IMAG.a.23-b13" ref-type="bibr">Fang et al., 2024</xref>;<xref rid="IMAG.a.23-b37" ref-type="bibr">Munblit et al., 2022</xref>). Among its heterogeneous manifestations, neurological symptoms present in approximately one third of COVID-19 survivors during the year following infection (<xref rid="IMAG.a.23-b18" ref-type="bibr">Giussani et al., 2024</xref>). Long COVID is most prevalent in midlife (<xref rid="IMAG.a.23-b13" ref-type="bibr">Fang et al., 2024</xref>), a critical period during which modifiable factors may shape cognitive aging trajectories (<xref rid="IMAG.a.23-b58" ref-type="bibr">Whitmer et al., 2005</xref>). The potential for post-COVID brain dysfunction to intersect with age-related neuropathology to accelerate cognitive decline, demands urgent investigation to clarify the underpinnings of long COVID-related neurophysiological changes in our aging population.</p><p>SARS-CoV-2 may dysregulate brain function via various mechanisms, including direct neuroinvasion and infection, microvascular injury, ischemia, or aberrant immune and neuroinflammatory response (<xref rid="IMAG.a.23-b39" ref-type="bibr">Pandharipande et al., 2023</xref>). Postmortem viral RNA persistence (<xref rid="IMAG.a.23-b52" ref-type="bibr">Stein et al., 2022</xref>), and<italic toggle="yes">in vitro</italic>evidence for SARS-CoV-2 replication and translocation across brain capillary endothelial-like cells (<xref rid="IMAG.a.23-b31" ref-type="bibr">Krasemann et al., 2022</xref>) support the neuroinvasion hypothesis. However, other studies of COVID-19 patients observed leakage of blood-derived proteins into brain tissue in the absence of viral RNA (<xref rid="IMAG.a.23-b49" ref-type="bibr">Song et al., 2023</xref>), and elevated cerebrospinal fluid (CSF)/plasma albumin with no detectable CSF SARS-CoV-2 RNA (<xref rid="IMAG.a.23-b4" ref-type="bibr">Bellon et al., 2020</xref>), pointing to indirect mechanisms involving blood-brain barrier (BBB) disruption. Despite postmortem evidence for cerebral microvascular and endothelial cell damage (<xref rid="IMAG.a.23-b34" ref-type="bibr">Lee et al., 2021</xref>;<xref rid="IMAG.a.23-b48" ref-type="bibr">Sashindranath &amp; Nandurkar, 2021</xref>),<italic toggle="yes">in vivo</italic>human studies linking BBB damage to persistent neurological symptoms of COVID-19 remain limited. Elevated plasma matrix metalloproteinase 9, which can disrupt BBB function, has been observed in patients with severe acute COVID-19 (<xref rid="IMAG.a.23-b7" ref-type="bibr">Bonetto et al., 2022</xref>). One small study applying dynamic contrast-enhanced (DCE) MRI, which permits topographical measurement of BBB permeability, identified BBB leakage and cortical atrophy in 11 women with long-COVID-related brain fog (<xref rid="IMAG.a.23-b23" ref-type="bibr">Greene et al., 2024</xref>).</p><p>BBB dysfunction may also promote Alzheimer’s disease (AD) (<xref rid="IMAG.a.23-b1" ref-type="bibr">Andjelkovic et al., 2023</xref>), with potential mechanisms including impaired perivascular clearance of amyloid-β and tau (<xref rid="IMAG.a.23-b26" ref-type="bibr">Harrison et al., 2020</xref>), dysregulated cerebral blood flow or neurovascular coupling, or promoting a neuroinflammatory environment. Several overlapping pathophysiological changes have been observed following SARS-CoV-2 infection (<xref rid="IMAG.a.23-b41" ref-type="bibr">Pszczołowska et al., 2024</xref>), including tau hyperphosphorylation, elevated CSF amyloid-β pathology, and white matter microglial reactivity that elicits neuroinflammation (<xref rid="IMAG.a.23-b14" ref-type="bibr">Fernández-Castañeda et al., 2022</xref>;<xref rid="IMAG.a.23-b44" ref-type="bibr">Reiken et al., 2022</xref>;<xref rid="IMAG.a.23-b60" ref-type="bibr">Ziff et al., 2022</xref>). Further supporting synergy between COVID-19 and AD-related pathophysiology, epidemiological studies have reported increased risk of AD and other cognitive disorders 1 year following COVID-19 (<xref rid="IMAG.a.23-b59" ref-type="bibr">Xu et al., 2022</xref>).</p><p>Limited evidence suggests that AD risk factors such as sex or genetics modify COVID-19 outcomes. Both AD and long-COVID are more prevalent among women (<xref rid="IMAG.a.23-b13" ref-type="bibr">Fang et al., 2024</xref>;<xref rid="IMAG.a.23-b15" ref-type="bibr">Ferretti et al., 2018</xref>;<xref rid="IMAG.a.23-b53" ref-type="bibr">Sylvester et al., 2022</xref>), whereas men experience more severe acute COVID-19 and higher mortality (<xref rid="IMAG.a.23-b20" ref-type="bibr">Gomez et al., 2021</xref>).<italic toggle="yes">APOE4</italic>, the strongest genetic risk factor for sporadic AD, is associated with BBB breakdown (<xref rid="IMAG.a.23-b36" ref-type="bibr">Montagne et al., 2020</xref>) as well as COVID-19 severity and mortality (<xref rid="IMAG.a.23-b32" ref-type="bibr">Kuo et al., 2020</xref>;<xref rid="IMAG.a.23-b45" ref-type="bibr">Safdari Lord et al., 2022</xref>). However, polygenic variants beyond<italic toggle="yes">APOE4</italic>confer AD risk, highlighted by the improved prediction of AD pathology and clinical outcomes by polygenic risk estimates such as the AD polygenic hazard score (PHS) (<xref rid="IMAG.a.23-b42" ref-type="bibr">Reas et al., 2023</xref>;<xref rid="IMAG.a.23-b54" ref-type="bibr">Tan et al., 2018</xref>). Evaluating long COVID outcomes relative to sex and AD polygenic profiles may optimize risk assessment approaches for neurological sequelae of COVID-19.</p><p>Structural MRI studies of COVID-19 survivors have identified brain atrophy in AD-vulnerable regions (<xref rid="IMAG.a.23-b11" ref-type="bibr">Douaud et al., 2022</xref>), that correlates with CSF markers of BBB disruption (<xref rid="IMAG.a.23-b47" ref-type="bibr">Sanabria-Diaz et al., 2022</xref>). Diffusion MRI studies have reported markers of white matter damage in individuals with persistent COVID-19-related symptoms that are associated with cognitive deficits (<xref rid="IMAG.a.23-b5" ref-type="bibr">Bispo et al., 2022</xref>;<xref rid="IMAG.a.23-b6" ref-type="bibr">Boito et al., 2023</xref>;<xref rid="IMAG.a.23-b9" ref-type="bibr">Caroli et al., 2023</xref>;<xref rid="IMAG.a.23-b40" ref-type="bibr">Paolini et al., 2023</xref>), although conflicting findings have been reported (<xref rid="IMAG.a.23-b35" ref-type="bibr">Lu et al., 2020</xref>). Multi-compartment diffusion MRI models, such as restriction spectrum imaging (RSI), which dissociates diffusion rate and orientation characteristic of distinct cellular properties (<xref rid="IMAG.a.23-b57" ref-type="bibr">White et al., 2013</xref>), may help to identify more nuanced cytoarchitectural abnormalities and resolve prior inconclusive findings.</p><p>Thus, more rigorous evaluation of candidate neurobiological pathways by which long COVID precipitates cognitive decline, including BBB dysfunction and subtle microstructural brain abnormalities, will be pivotal for identifying therapeutic targets to restore brain function among those most vulnerable to cognitive impairment. This study applied DCE MRI and RSI to evaluate BBB breakdown and brain microstructure in older adults with persistent COVID-19-related cognitive dysfunction, henceforth referred to as neurological long-COVID (NLCV). To interrogate interactions with AD risk, we also assessed modifying effects of sex and the AD PHS, on NLCV-related BBB permeability and brain microstructure.</p></sec><sec sec-type="sec1" id="IMAG.a.23-S2"><label>2</label><title>Methods</title><sec sec-type="sec2" id="IMAG.a.23-S3"><label>2.1</label><title>Participants</title><p>Participants were recruited from the broader San Diego community (<italic toggle="yes">N</italic>= 35) and the UC San Diego Shiley-Marcos Alzheimer’s Disease Research Center (ADRC;<italic toggle="yes">N</italic>= 44). Participants were considered to have NLCV if 1) they met criteria for long COVID, defined by the World Health Organization as the continuation or development of new symptoms for at least 3 months following a SARS-CoV-2 infection (<xref rid="IMAG.a.23-b50" ref-type="bibr">Soriano et al., 2022</xref>), 2) symptoms included persistent cognitive or other neurological complaints (The Lancet, 2021), and 3) they reported no history of pre-existing cognitive impairment. Cognitively normal (CN) participants from the ADRC were diagnosed by two senior neurologists and a neuropsychologist, according to ADRC protocol following clinical, neurological, and neuropsychological evaluation (<xref rid="IMAG.a.23-b17" ref-type="bibr">Galasko et al., 1994</xref>). Community participants completed neuropsychological evaluation and were considered CN if they reported no subjective cognitive complaints and demonstrated no objective impairment on the mini-mental state exam (MMSE) (community CN MMSE scores were ≥29). Exclusion criteria included cognitive impairment unrelated to COVID-19, history of stroke, other neurological disease, substance use disorder, MRI safety contraindication, kidney disease, glomerular filtration rate &lt;60 mL/min/1.73 m<sup>3</sup>, or allergy to gadolinium-based contrast agents. One CN and two NLCV participants were excluded from analysis for a prior concussion, an abnormal MRI finding, and a technical issue during MRI acquisition (<xref rid="IMAG.a.23-supp1" ref-type="supplementary-material">Supplementary Fig. 1</xref>). The final sample included 49 CN (51% women; age: mean ± SD 75.1 ± 7.6, range 51–90 years) and 27 NLCV (78% women; age: 61.6 ± 9.6, 50–81 years) participants.</p></sec><sec sec-type="sec2" id="IMAG.a.23-S4"><label>2.2</label><title>Standard protocol approvals and participant consents</title><p>Study procedures were approved by the University of California, San Diego Human Research Protections Program Board, and participants provided informed written consent prior to participation.</p></sec><sec sec-type="sec2" id="IMAG.a.23-S5"><label>2.3</label><title>COVID-19 history</title><p>A standardized questionnaire assessed history of SARS-CoV-2 infection, vaccination, and post-viral symptoms, including date of SARS-CoV-2 infection, and for multiple infections, the infection date after which post-viral symptoms began. Duration of post-viral condition was computed as time between infection and MRI. Hospitalization for COVID-19 was reported (no/yes) and acute COVID-19 severity was rated on a 0–3 scale (0 = asymptomatic, 1 = mild, 2 = moderate, 3 = severe). For analysis, participants were categorized as mild/moderate versus severe (no participants reported asymptomatic infections). To evaluate post-viral symptoms, participants rated the severity of change since COVID-19 illness in 23 symptoms (0 = none to 10 = severe).</p></sec><sec sec-type="sec2" id="IMAG.a.23-S6"><label>2.4</label><title>Cognitive assessment</title><p>A comprehensive neuropsychological test battery (<xref rid="IMAG.a.23-b46" ref-type="bibr">Salmon &amp; Butters, 1992</xref>) was administered by a trained examiner in a quiet room. Specific neuropsychological variables of interest included the MMSE, a cognitive screening tool that tests global cognition. The Trail-Making Test, Part B measures time to complete a letter-number sequencing task and assesses processing speed and executive function. Animal naming evaluates semantic verbal fluency, and requires participants to name as many unique animals as possible within 1 min. The California Verbal Learning Test–Second Edition (CVLT-II) evaluates verbal recall from a list of categorized words; this study analyzed measures of learning (trials 1-5 correct) as well as immediate and delayed free recall. Participants were classified as cognitively unimpaired or having mild cognitive impairment (MCI) based on the Jak/Bondi actuarial neuropsychological criteria (<xref rid="IMAG.a.23-b28" ref-type="bibr">Jak et al., 2009</xref>). MCI classification was omitted for one NLCV because the Trails B was not administered, due to pandemic testing limitations.</p></sec><sec sec-type="sec2" id="IMAG.a.23-S7"><label>2.5</label><title>AD PHS computation</title><p>For community participants, genetic sequencing was conducted on saliva samples by Diagnomics, Inc. using the Illumina V2.2 array. For ADRC participants, genetic data were provided by the National Alzheimer’s Coordinating Center (NACC). The AD PHS was developed to estimate polygenic risk for AD and is associated with age of AD onset (<xref rid="IMAG.a.23-b10" ref-type="bibr">Desikan et al., 2017</xref>). AD PHS computation was performed by Diagnomics, Inc by combining 198,424 single nucleotide polymorphisms with two<italic toggle="yes">APOE</italic>variants (<italic toggle="yes">ε2/ε4</italic>). Participants were classified as having a high or low PHS if their score was above (positive) or below (negative) the population 50<sup>th</sup>percentile, respectively.</p></sec><sec sec-type="sec2" id="IMAG.a.23-S8"><label>2.6</label><title>Imaging data acquisition</title><p>Imaging data were acquired on two 3.0 Tesla Discovery 750 scanners (GE Healthcare, Milwaukee, WI, USA) at the University of California, San Diego Center for Translational Imaging and Precision Medicine. Following a three-plane localizer, a sagittal 3D fast spoiled gradient echo (FSPGR) T<sub>1</sub>-weighted structural scan optimized for maximum tissue contrast (TR = 6.7 ms, inversion time = 450 ms, flip angle = 8°, FOV = 240 × 240 mm, matrix = 256 × 256, slice thickness = 1.2 mm, resampled to 1 mm<sup>3</sup>resolution), and an axial 2D single-shot pulsed-field gradient spin-echo echo-planar diffusion-weighted sequence (45 gradient directions, b-values = 0, 500, 1500, 4000 s/mm<sup>2</sup>, one b = 0 volume and 15 gradient directions for each non-zero b-value; TR = 8 s, FOV = 240 × 240 mm, matrix = 96 × 96, slice thickness = 2.5 mm, resampled to a 2 mm<sup>3</sup>resolution) were acquired. For BBB permeability measurement, four FSPGR sequences (20 s each) with flip angles of 2, 5, 10, 15 (all other parameters equal to the subsequent DCE FSPGR) were conducted for T<sub>1</sub>-mapping, followed by an axial DCE FSPGR sequence (flip angle = 30°, FOV = 256 × 256 mm, matrix = 256 × 256, slice thickness = 5 mm, slices = 28). Due to software upgrades, DCE image volumes ranged from 53–58, TR ranged from 7.7–8.2 ms, and temporal resolution ranged from 18.3–20.3 s. After a 3-min baseline, Gadavist (gadobutrol; 0.1 mL/kg) was injected at a flow rate of 2 mL/s, followed by a 20 mL saline flush.</p></sec><sec sec-type="sec2" id="IMAG.a.23-S9"><label>2.7</label><title>Data processing</title><p>After visual inspection of raw and processed MR images, data were processed using the Multi-Modal Processing Stream (<xref rid="IMAG.a.23-b25" ref-type="bibr">Hagler Jr et al., 2019</xref>), an automated image processing pipeline that integrates FreeSurfer and FMRIB Software Library (FSL) with in-house software. Cortical gray matter, white matter, and CSF boundaries were reconstructed from T<sub>1</sub>-weighted images using FreeSurfer (version 6.0), and subcortical regions were automatically segmented according to a subcortical atlas (<xref rid="IMAG.a.23-b16" ref-type="bibr">Fischl et al., 2002</xref>). Cortical editing to remove non-brain voxels or add white matter control points was conducted as necessary. Diffusion MRI data underwent eddy current correction, correction for head motion with rigid-body registration, and correction for B<sub>0</sub>field inhomogeneity spatial and intensity distortions, as previously detailed (<xref rid="IMAG.a.23-b25" ref-type="bibr">Hagler Jr et al., 2019</xref>). The b = 0 images were registered to T<sub>1</sub>images using mutual information, and diffusion images were aligned with a fixed rotation and translation relative to the T<sub>1</sub>image. White matter tracts were labeled using AtlasTrack, a fiber atlas based on prior probability and orientation information (<xref rid="IMAG.a.23-b24" ref-type="bibr">Hagler et al., 2009</xref>), and voxels containing primarily gray matter or CSF were excluded from white matter (<xref rid="IMAG.a.23-b16" ref-type="bibr">Fischl et al., 2002</xref>). DCE FSPGR images were registered to T<sub>1</sub>images using mutual information coregistration in SPM12 (<uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://fil.ion.ucl.ac.uk/spm/">http://fil.ion.ucl.ac.uk/spm/</uri>).</p></sec><sec sec-type="sec2" id="IMAG.a.23-S10"><label>2.8</label><title>Computation of imaging metrics</title><p>K<sub>trans</sub>, the transfer coefficient reflecting neurovascular permeability, was computed from DCE MRI images in ROCKETSHIP (<xref rid="IMAG.a.23-b2" ref-type="bibr">Barnes et al., 2015</xref>) using the Patlak model, which is optimal for conditions of low-permeability (<xref rid="IMAG.a.23-b27" ref-type="bibr">Heye et al., 2016</xref>). Hematocrit levels were measured from blood samples collected within 6 weeks before MRI. A vascular input function was derived from the superior sagittal sinus, recommended to reduce partial volume effects and inflow artifacts (<xref rid="IMAG.a.23-b12" ref-type="bibr">Ewing et al., 2003</xref>), using the 3D Fill tool in MRIcron (<uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.nitrc.org/projects/mricron">https://www.nitrc.org/projects/mricron</uri>). Using the participant-specific volume with peak vessel signal intensity, the origin was set in the vessel center along the posterior parietal midline, the radius was set to 50 mm, and other settings were adjusted to ensure vessel coverage while avoiding pixels at the edge. To exclude physiologically implausible values, K<sub>trans</sub>was thresholded using a minimum value of 10<sup>-7</sup>.</p><p>Diffusion data were fit with the RSI model (<xref rid="IMAG.a.23-b25" ref-type="bibr">Hagler Jr et al., 2019</xref>;<xref rid="IMAG.a.23-b57" ref-type="bibr">White et al., 2013</xref>). RSI applies linear estimation allowing combinations of restricted, hindered, and free water diffusion, with separate fiber orientation density (FOD) functions (4<sup>th</sup>order spherical harmonic), permitting multiple volume fractions and diffusion orientations within a single voxel. Each measure was normalized by computing the Euclidean norm of the corresponding model coefficients divided by the norm of all coefficients. Computed RSI metrics included: restricted isotropic diffusion, the fraction of intracellular diffusion present in cell bodies; neurite density, anisotropic restricted diffusion consistent with neurites; hindered diffusion, non-restricted isotropic diffusion that is hindered by cellular barriers and is consistent with diffusion within large cell bodies or the extracellular space; and free water, a measure of CSF. Restricted isotropic and hindered diffusion were computed from the 0<sup>th</sup>order spherical harmonic coefficients of the restricted and hindered fractions, respectively; neurite density was derived from the 2<sup>nd</sup>and 4<sup>th</sup>order spherical harmonic coefficients of the restricted fraction. Due to an MRI scanner software upgrade that affected the diffusion MRI sequence, RSI metrics were adjusted for scanner software version by computing the regression residual.</p><p>For<italic toggle="yes">a priori</italic>analyses, imaging metrics were computed across global gray and white matter, and within six subcortical regions (hippocampus, thalamus, caudate, putamen, amygdala, nucleus accumbens). Measures within regions of interest were averaged between hemispheres, and global metrics were computed as the mean signal across the FreeSurfer-derived cortical gray matter mask and AtlasTrack-derived fiber tracts, respectively. For post-hoc regional analysis of white matter, measures were computed within 15 fiber tracts.</p></sec><sec sec-type="sec2" id="IMAG.a.23-S11"><label>2.9</label><title>Statistical analysis</title><p>Analyses were conducted in SPSS version 29.0 (IBM Corp, Armonk, NY, USA), FreeSurfer (version 6.0), and FSL (version 5.0.2.2). Significance was set to<italic toggle="yes">p</italic>&lt; 0.05. Analyses of subcortical regions used a Bonferroni-corrected threshold of<italic toggle="yes">p</italic>&lt; 0.008 to account for multiple comparisons. For any significant effects across global white matter, post-hoc analyses of individual white matter tracts were conducted using an adjusted threshold of<italic toggle="yes">p</italic>&lt; 0.003 to account for comparison across multiple tracts. Significance for interaction models was set at an unadjusted threshold of<italic toggle="yes">p</italic>&lt; 0.05. Voxel-wise analyses were corrected using the family-wise error method.</p><p>Differences in participant characteristics between NLCV and CN, or according to COVID-19 severity, were examined using two-tailed independent-samples<italic toggle="yes">t</italic>-tests for continuous variables or chi-squared tests for categorical variables. Differences in cognitive function between NLCV and CN were tested using analysis of covariance (ANCOVA), adjusted for age, sex, and education. To examine group differences in BBB permeability or brain microstructure, ANCOVA were conducted with K<sub>trans</sub>or RSI metric as the dependent variable and covariates of age and sex. Differences in cognitive function, BBB permeability, and microstructure were compared between NLCV with mild to moderate and severe COVID-19. To evaluate effect modification of NLCV-related cognitive impairment, BBB breakdown, or microstructural abnormalities by sex or PHS, ANCOVAs were repeated, as described above, with a term for the multiplicative interaction between group and sex or PHS. Significant interactions were followed by sex- or PHS-stratified analyses.</p><p>To evaluate whether NLCV-related cognitive function was associated with BBB permeability or microstructure, linear regressions were conducted with cognitive test score as the outcome, K<sub>trans</sub>or RSI metric as the regressor, a term for the interaction between group and imaging metric (mean centered), and covariates of age, sex, and years of education. Significant interactions were followed by regressions stratified by group. Regressions were similarly conducted among NLCV to assess interactions with sex or PHS, followed by sex- or PHS-stratified models.</p><p>To assess associations between BBB breakdown and proximal microstructure, linear regressions were performed with K<sub>trans</sub>as the regressor, RSI metrics as the outcome, and covariates of age and sex. Regressions were conducted, as described above, with interactions between K<sub>trans</sub>and group, or within NLCV with interactions between K<sub>trans</sub>and sex or PHS.</p><p>For post-hoc whole-brain voxel-wise analysis of group differences, a study-specific anatomical template was created using Advanced Normalization Tools (ANTs;<uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://stnava.github.io/ANTs/">http://stnava.github.io/ANTs/</uri>) to maximize the accuracy of registration to a common space. An initial template registered representative anatomical scans from five CN to MNI152 1 mm space using a linear registration with 12 degrees of freedom (FSL’s FLIRT) (<xref rid="IMAG.a.23-b29" ref-type="bibr">Jenkinson &amp; Smith, 2001</xref>), then averaged to create a mean anatomical image used as the initial template in ANTs multivariate template construction, derived from fifty-two anatomical scans (from a representative sample of older adults across the cognitive continuum). All anatomical scans were registered to the group template, and this registration was applied to K<sub>trans</sub>or RSI maps. Voxel-wise analyses of K<sub>trans</sub>or RSI maps were performed using randomize in FSL with 5000 permutations and the threshold-free cluster enhancement (TFCE) test statistic.</p></sec></sec><sec sec-type="sec1" id="IMAG.a.23-S12"><label>3</label><title>Results</title><sec sec-type="sec2" id="IMAG.a.23-S13"><label>3.1</label><title>Participant characteristics</title><p>Participant characteristics are shown in<xref rid="IMAG.a.23-tb1" ref-type="table">Table 1</xref>. NLCV were younger and had a greater proportion of women and Hispanic or non-White participants (<italic toggle="yes">p</italic>&lt; 0.05) than CN. Education level and the proportion of high-PHS individuals did not differ between groups (<italic toggle="yes">p</italic>&gt; 0.40).</p><table-wrap position="float" id="IMAG.a.23-tb1" orientation="portrait"><label>Table 1.</label><caption><p>Participant characteristics (mean ± SD<sup>a</sup>or<italic toggle="yes">N</italic>(%)) for neurological long COVID (NLCV) and cognitively normal (CN) participants.</p></caption><table frame="hsides" rules="groups"><colgroup span="1"><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/></colgroup><thead><tr><th align="left" rowspan="1" colspan="1"/><th align="center" rowspan="1" colspan="1">
+<italic toggle="yes">N</italic>
+</th><th align="center" rowspan="1" colspan="1">
+CN
+<italic toggle="yes">N</italic>
+= 49
+</th><th align="center" rowspan="1" colspan="1">
+NLCV
+<italic toggle="yes"> N</italic>
+= 27
+</th><th align="center" rowspan="1" colspan="1">Group difference</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">Age (years) [range]</td><td align="left" rowspan="1" colspan="1">76</td><td align="center" rowspan="1" colspan="1">75.1 ± 7.6 [51-90]</td><td align="center" rowspan="1" colspan="1">61.6 ± 9.6 [50-81]</td><td align="center" rowspan="1" colspan="1">
+<italic toggle="yes">
+<bold>t</bold>
+</italic>
+<bold>(74) = 6.78,</bold>
+<italic toggle="yes">
+<bold>p</bold>
+</italic>
+<bold>&lt;</bold>
+<bold>0.001</bold>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">Sex (women)</td><td align="left" rowspan="1" colspan="1">76</td><td align="center" rowspan="1" colspan="1">
+<italic toggle="yes">N</italic>
+= 25 (51%)
+</td><td align="center" rowspan="1" colspan="1">
+<italic toggle="yes">N</italic>
+= 21 (78%)
+</td><td align="center" rowspan="1" colspan="1">
+<italic toggle="yes">
+<bold>x</bold>
+</italic>
+<bold>
+<sup>2</sup>
+(1) = 5.22,
+</bold>
+<italic toggle="yes">
+<bold>p</bold>
+</italic>
+<bold>=</bold>
+<bold>0.02</bold>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">Education (years)</td><td align="left" rowspan="1" colspan="1">76</td><td align="center" rowspan="1" colspan="1">16.9 ± 2.1</td><td align="center" rowspan="1" colspan="1">16.4 ± 2.0</td><td align="center" rowspan="1" colspan="1">
+<italic toggle="yes">t</italic>
+(74) = 0.73,
+<italic toggle="yes">p</italic>
+= 0.44
+</td></tr><tr><td align="left" rowspan="1" colspan="1">Non-Hispanic White</td><td align="left" rowspan="1" colspan="1">76</td><td align="center" rowspan="1" colspan="1">
+<italic toggle="yes">N</italic>
+= 47 (96%)
+</td><td align="center" rowspan="1" colspan="1">
+<italic toggle="yes">N</italic>
+= 20 (74%)
+</td><td align="center" rowspan="1" colspan="1">
+<italic toggle="yes">
+<bold>x</bold>
+</italic>
+<bold>
+<sup>2</sup>
+(1) = 7.96,
+</bold>
+<italic toggle="yes">
+<bold>p</bold>
+</italic>
+<bold>=</bold>
+<bold>0.005</bold>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">
+High PHS (&gt;50
+<sup>th</sup>
+percentile)
+</td><td align="left" rowspan="1" colspan="1">51</td><td align="center" rowspan="1" colspan="1">
+<italic toggle="yes">N</italic>
+= 14 (52%)
+</td><td align="center" rowspan="1" colspan="1">
+<italic toggle="yes">N</italic>
+= 10 (42%)
+</td><td align="center" rowspan="1" colspan="1">
+<italic toggle="yes">x</italic>
+<sup>2</sup>
+(1) = 0.53,
+<italic toggle="yes">p</italic>
+= 0.47
+</td></tr><tr><td align="left" rowspan="1" colspan="1">Time between MRI and cognitive testing (months)</td><td align="left" rowspan="1" colspan="1">76</td><td align="center" rowspan="1" colspan="1">0.4 ± 7.2</td><td align="center" rowspan="1" colspan="1">0.4 ± 0.6</td><td align="center" rowspan="1" colspan="1">
+<italic toggle="yes">t</italic>
+(74) = 0.02,
+<italic toggle="yes">p</italic>
+= 0.99
+</td></tr><tr><td align="left" rowspan="1" colspan="1">MMSE</td><td align="left" rowspan="1" colspan="1">76</td><td align="center" rowspan="1" colspan="1">29.1 ± 1.2</td><td align="center" rowspan="1" colspan="1">28.4 ± 1.8</td><td align="center" rowspan="1" colspan="1">
+<italic toggle="yes">F</italic>
+(1,71) = 2.51,
+<italic toggle="yes">p</italic>
+= 0.12
+</td></tr><tr><td align="left" rowspan="1" colspan="1">Trails B</td><td align="left" rowspan="1" colspan="1">75</td><td align="center" rowspan="1" colspan="1">76.7 ± 31.4</td><td align="center" rowspan="1" colspan="1">91.4 ± 33.3</td><td align="center" rowspan="1" colspan="1">
+<italic toggle="yes">F</italic>
+(1,70) = 2.48,
+<italic toggle="yes">p</italic>
+= 0.12
+</td></tr><tr><td align="left" rowspan="1" colspan="1">Semantic fluency</td><td align="left" rowspan="1" colspan="1">76</td><td align="center" rowspan="1" colspan="1">23.1 ± 4.6</td><td align="center" rowspan="1" colspan="1">19.0 ± 5.9</td><td align="center" rowspan="1" colspan="1">
+<italic toggle="yes">
+<bold>F</bold>
+</italic>
+<bold>(1,71) = 7.03,</bold>
+<italic toggle="yes">
+<bold>p</bold>
+</italic>
+<bold>=</bold>
+<bold>0.01</bold>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">CVLT-II learning</td><td align="left" rowspan="1" colspan="1">76</td><td align="center" rowspan="1" colspan="1">49.1 ± 11.3</td><td align="center" rowspan="1" colspan="1">41.5 ± 11.8</td><td align="center" rowspan="1" colspan="1">
+<italic toggle="yes">
+<bold>F</bold>
+</italic>
+<bold>(1,71) = 5.05,</bold>
+<italic toggle="yes">
+<bold>p</bold>
+</italic>
+<bold>=</bold>
+<bold>0.03</bold>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">CVLT-II immediate recall</td><td align="left" rowspan="1" colspan="1">76</td><td align="center" rowspan="1" colspan="1">10.9 ± 3.7</td><td align="center" rowspan="1" colspan="1">8.5 ± 3.3</td><td align="center" rowspan="1" colspan="1">
+<italic toggle="yes">
+<bold>F</bold>
+</italic>
+<bold>(1,71) = 5.25,</bold>
+<italic toggle="yes">
+<bold>p</bold>
+</italic>
+<bold>=</bold>
+<bold>0.02</bold>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">CVLT-II delayed recall</td><td align="left" rowspan="1" colspan="1">76</td><td align="center" rowspan="1" colspan="1">11.3 ± 3.8</td><td align="center" rowspan="1" colspan="1">
+8
+<italic toggle="yes">.9</italic>
+± 3.8
+</td><td align="center" rowspan="1" colspan="1">
+<italic toggle="yes">
+<bold>F</bold>
+</italic>
+<bold>(1,71) = 5.18,</bold>
+<italic toggle="yes">
+<bold>p</bold>
+</italic>
+<bold>=</bold>
+<bold>0.03</bold>
+</td></tr></tbody></table><table-wrap-foot><fn id="IMAG.a.23-tf1"><p>MMSE, mini-mental state exam; CVLT-II, California verbal learning test – second edition. Cognitive test scores are adjusted for age, sex, and education. Bold indicates significant (<italic toggle="yes">p</italic>&lt; 0.05).</p></fn></table-wrap-foot></table-wrap><p>Among NLCV, mean interval between SARS-CoV-2 infection and MRI was 1.74 ± 1.07 (range 0.32–4.15) years. Four, 9, and 14 participants reported mild, moderate, and severe acute COVID-19 illnesses, respectively, and three were hospitalized for acute infections. Illness severity was unrelated to age, sex, education, or PHS. Loss of smell and taste were reported in 59% and 67% of NLCV, respectively, with 26% persistence beyond 3 months. Among NLCV for whom COVID-19 vaccination history was available (<italic toggle="yes">N</italic>= 25), 56% were not vaccinated at symptom onset. Frequently reported post-viral symptoms are presented in<xref rid="IMAG.a.23-supp1" ref-type="supplementary-material">Supplementary Figure 2</xref>, with the most prevalent including memory difficulties (93%) and trouble concentrating (89%).</p></sec><sec sec-type="sec2" id="IMAG.a.23-S14"><label>3.2</label><title>NLCV demonstrate cognitive dysfunction</title><p>A higher proportion of NLCV (39%) met criteria for MCI than CN (16%) (<italic toggle="yes">x</italic><sup>2</sup>(1) = 4.56,<italic toggle="yes">p</italic>= 0.03). NLCV did not differ from CN in global cognition or executive function, but performed worse on semantic fluency, as well as verbal learning, immediate recall, and delayed recall (<italic toggle="yes">p</italic>&lt; 0.05, adjusted for age, sex, and education;<xref rid="IMAG.a.23-tb1" ref-type="table">Table 1</xref>,<xref rid="IMAG.a.23-f1" ref-type="fig">Fig. 1</xref>). Compared to those with mild to moderate illness, NLCV with severe COVID-19 performed worse on semantic fluency (<italic toggle="yes">F</italic>(1,22) = 4.74,<italic toggle="yes">p</italic>= 0.04) and verbal immediate recall (<italic toggle="yes">F</italic>(1,22) = 4.69,<italic toggle="yes">p</italic>= 0.04). Longer time since infection correlated with worse executive function (<italic toggle="yes">r</italic>= 0.43,<italic toggle="yes">p</italic>= 0.04).</p><fig position="float" id="IMAG.a.23-f1" orientation="portrait"><label>Fig. 1.</label><caption><p>Differences in cognitive function between cognitively normal and neurological long Covid. Cognitive test scores are shown for cognitively normal (CN) and neurological long COVID (NLCV). The y-axis for Trails B is inverted, such that higher values represent shorter time to completion. Values represent residuals, adjusted for age, sex, and education.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="imag.a.23_fig1.jpg"/></fig><p>Although the small sample of NLCV men limited power to examine sex interactions, exploratory analyses revealed a pattern whereby women (<italic toggle="yes">p</italic>&lt; 0.05), but not men (<italic toggle="yes">p</italic>&gt; 0.36), with NLCV performed worse than CN on semantic fluency, learning, and memory (<xref rid="IMAG.a.23-supp1" ref-type="supplementary-material">Supplementary Table 1</xref>). PHS did not modify differences in cognitive function between CN and NLCV.</p></sec><sec sec-type="sec2" id="IMAG.a.23-S15"><label>3.3</label><title>BBB breakdown and abnormal brain microstructure among NLCV</title><p>K<sub>trans</sub>was higher for NLCV than CN across gray (<italic toggle="yes">F</italic>(1,72) = 8.53,<italic toggle="yes">p</italic>= 0.005) and white (<italic toggle="yes">F</italic>(1,72) = 10.80,<italic toggle="yes">p</italic>= 0.002) matter, and in the nucleus accumbens (<italic toggle="yes">F</italic>(1,72) = 10.22,<italic toggle="yes">p</italic>= 0.002), (adjusted for age and sex;<xref rid="IMAG.a.23-f2" ref-type="fig">Fig. 2A</xref>). Voxel-wise analyses confirmed widespread increases in K<sub>trans</sub>, with most pronounced effects in the bilateral frontal and parietal lobes (<xref rid="IMAG.a.23-f2" ref-type="fig">Fig. 2B</xref>), and tract-specific analysis revealed the strongest differences in frontal association and commissural fibers (<xref rid="IMAG.a.23-supp1" ref-type="supplementary-material">Supplementary Table 2</xref>). Sex interacted with group for K<sub>trans</sub>in gray matter, white matter, thalamus, putamen, and hippocampus, reflecting higher K<sub>trans</sub>for NLCV than CN among men only (<xref rid="IMAG.a.23-f2" ref-type="fig">Fig. 2C</xref>). Sex-stratified whole-brain analyses identified a more widespread but similar topographic distribution of the NLCV-related increase in K<sub>trans</sub>among men as for the full sample (<xref rid="IMAG.a.23-f2" ref-type="fig">Fig. 2D</xref>).</p><fig position="float" id="IMAG.a.23-f2" orientation="portrait"><label>Fig. 2.</label><caption><p>Differences in blood-brain barrier permeability between cognitively normal and neurological long Covid. K<sub>trans</sub>for cognitively normal (CN) and neurological long COVID (NLCV) (adjusted for age and sex) are shown for regions demonstrating significant differences (A). Voxel-wise differences in K<sub>trans</sub>between CN and NLCV for all participants are shown in (B). K<sub>trans</sub>values demonstrating significant sex by group interactions (adjusted for age) are shown in (C), and voxel-wise differences between CN and NLCV for men are shown in (D). Values in A and C represent residuals, adjusted for respective covariates. Voxel-wise maps (B, D) are family-wise error corrected.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="imag.a.23_fig2.jpg"/></fig><p>Amygdala neurite density was lower in NLCV compared to CN (adjusted for age and sex;<italic toggle="yes">F</italic>(1,72) = 12.00,<italic toggle="yes">p</italic>&lt; 0.001;<xref rid="IMAG.a.23-f3" ref-type="fig">Fig. 3A</xref>). Sex-modified NLCV-related differences in white matter free water and caudate hindered diffusion, driven by higher free water and lower hindered diffusion among NLCV women only (<xref rid="IMAG.a.23-f3" ref-type="fig">Fig. 3B</xref>). Sex-stratified voxel-wise analyses revealed increased free water among women NLCV, particularly among frontal white matter (<xref rid="IMAG.a.23-f3" ref-type="fig">Fig. 3C</xref>), and tract-specific analyses demonstrated the strongest differences in frontal projection and association fibers (<xref rid="IMAG.a.23-supp1" ref-type="supplementary-material">Supplementary Table 3</xref>).</p><fig position="float" id="IMAG.a.23-f3" orientation="portrait"><label>Fig. 3.</label><caption><p>Differences in brain microstructure between cognitively normal and neurological long Covid. RSI metrics demonstrating significant differences between cognitively normal (CN) and neurological long COVID (NLCV) (adjusted for age, sex, and software) are shown in (A). RSI metrics demonstrating significant sex by group interactions (adjusted for age and software) are shown in (B). Voxel-wise differences in free water (adjusted for age and software, family-wise error corrected) between CN and NLCV are shown for women in (C). Values in A and B represent residuals, adjusted for respective covariates.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="imag.a.23_fig3.jpg"/></fig><p>Although all analyses adjusted for age and sex, to further assess whether group differences in these factors influenced findings, sensitivity analyses were conducted using a subset of 27 CN who were more closely matched to NLCV on age (70.1 ± 5.8 years; range 51–76) and sex (56% women). Group differences were not altered, such that significantly higher gray matter, white matter, and nucleus accumbens K<sub>trans</sub>, and lower amygdala neurite density, for NLCV than CN persisted (all<italic toggle="yes">p</italic>&lt; 0.01;<xref rid="IMAG.a.23-supp1" ref-type="supplementary-material">Supplementary Table 4</xref>).</p><p>Neither K<sub>trans</sub>nor microstructure differed by COVID-19 severity. PHS did not modify differences in K<sub>trans</sub>or microstructure between NLCV and CN.</p></sec><sec sec-type="sec2" id="IMAG.a.23-S16"><label>3.4</label><title>Associations of cognitive function with brain microstructure and BBB permeability</title><p>For both CN and NLCV, higher gray matter free water was associated with worse semantic fluency (CN<italic toggle="yes">ß</italic>= -0.37,<italic toggle="yes">p</italic>= 0.03; NLCV<italic toggle="yes">ß</italic>= -0.66,<italic toggle="yes">p</italic>= 0.02) and higher hippocampal free water was associated with worse verbal immediate (CN<italic toggle="yes">ß</italic>= -0.42,<italic toggle="yes">p</italic>= 0.007; NLCV<italic toggle="yes">ß</italic>= -1.11,<italic toggle="yes">p</italic>&lt; 0.001) and delayed (CN<italic toggle="yes">ß</italic>= -0.46,<italic toggle="yes">p</italic>= 0.003; NLCV<italic toggle="yes">ß</italic>= -0.90,<italic toggle="yes">p</italic>= 0.002) recall (<xref rid="IMAG.a.23-supp1" ref-type="supplementary-material">Supplementary Table 5</xref>). There was a trend for an interaction between group and hippocampal free water for verbal learning, and a significant interaction between group and microstructure for executive function. These effects were driven by stronger correlations between higher free water and worse learning for NLCV, and of lower gray matter restricted isotropic diffusion and higher white matter hindered diffusion with worse executive function for CN. Associations between K<sub>trans</sub>and cognitive function did not differ between CN and NLCV.</p><p>Sex did not significantly modify associations of brain microstructure or K<sub>trans</sub>with any cognitive measure. However, there was a trend for an interaction between sex and hippocampal free water on verbal immediate recall, reflecting stronger associations between higher free water and worse recall for women (<xref rid="IMAG.a.23-supp1" ref-type="supplementary-material">Supplementary Table 6</xref>).</p><p>There was a significant interaction between PHS and caudate K<sub>trans</sub>for verbal immediate recall (<italic toggle="yes">ß</italic>= -0.50,<italic toggle="yes">p</italic>= 0.03), such that correlations were present only for high-PHS NLCV (<italic toggle="yes">ß</italic>= -1.01,<italic toggle="yes">p</italic>= 0.001;<xref rid="IMAG.a.23-supp1" ref-type="supplementary-material">Supplementary Table 7</xref>;<xref rid="IMAG.a.23-f4" ref-type="fig">Fig. 4A</xref>). PHS did not modify associations between microstructure and cognition (<xref rid="IMAG.a.23-supp1" ref-type="supplementary-material">Supplementary Table 7</xref>).</p><fig position="float" id="IMAG.a.23-f4" orientation="portrait"><label>Fig. 4.</label><caption><p>Differences in associations of K<sub>trans</sub>with memory and microstructure by Alzheimer’s disease polygenic hazard score. Among neurological long COVID (NLCV) participants, Alzheimer’s disease polygenic hazard score (PHS) modified associations between caudate K<sub>trans</sub>and immediate recall (A, adjusted for age, sex, and education), and between white matter K<sub>trans</sub>and free water (B, adjusted for age, sex, and scanner software), with correlations present only for NLCV with high PHS. Values represent residuals, adjusted for respective covariates.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="imag.a.23_fig4.jpg"/></fig></sec><sec sec-type="sec2" id="IMAG.a.23-S17"><label>3.5</label><title>Associations between BBB permeability and brain microstructure</title><p>BBB permeability did not correlate with brain microstructure across all NLCV participants. There was a significant interaction between PHS and white matter K<sub>trans</sub>on white matter free water (<italic toggle="yes">ß</italic>= 0.45,<italic toggle="yes">p</italic>= 0.01), reflecting a correlation between higher K<sub>trans</sub>and higher free water among high-PHS only (<italic toggle="yes">ß</italic>= 0.91,<italic toggle="yes">p</italic>= 0.01;<xref rid="IMAG.a.23-f4" ref-type="fig">Fig. 4B</xref>). Sex did not modify associations between K<sub>trans</sub>and any RSI measure.</p></sec></sec><sec sec-type="sec1" id="IMAG.a.23-S18"><label>4</label><title>Discussion</title><p>In this study interrogating cerebrovascular and cytoarchitectural abnormalities in older adults with persistent cognitive complaints following SARS-CoV-2 infection, NLCV presented with objective cognitive impairment, BBB breakdown, and microstructural abnormalities, compared to controls. Men and women exhibited distinct NLCV-related BBB and microstructural differences, and NLCV at elevated genetic risk for AD demonstrated associations of BBB leakage with memory impairment and microstructural injury.</p><p>Among individuals with NLCV, BBB permeability was broadly elevated across the cortical gray matter and white matter. This<italic toggle="yes">in vivo</italic>neuroimaging finding supports mounting evidence from biofluid and post-mortem studies implicating BBB dysfunction in the neurological sequelae of COVID-19 (<xref rid="IMAG.a.23-b4" ref-type="bibr">Bellon et al., 2020</xref>;<xref rid="IMAG.a.23-b7" ref-type="bibr">Bonetto et al., 2022</xref>;<xref rid="IMAG.a.23-b49" ref-type="bibr">Song et al., 2023</xref>). The endothelial cell expression of angiotensin-converting enzyme 2, which is the target receptor of SARS-CoV-2 and involved in cardiometabolic conditions including hypertension and diabetes (<xref rid="IMAG.a.23-b3" ref-type="bibr">Batiha et al., 2021</xref>), may partially explain this observed vulnerability of the cerebrovasculature to COVID-19. A central role of vascular dysfunction in COVID-19 pathophysiology is further supported by the susceptibility of individuals with pre-existing vascular disorders to more adverse disease outcomes, and increased incidence of post-infection cerebrovascular complications (<xref rid="IMAG.a.23-b48" ref-type="bibr">Sashindranath &amp; Nandurkar, 2021</xref>). Our results extend preliminary findings from another DCE MRI investigation reporting frontal-temporal BBB breakdown in a small sample of women with long COVID-related brain fog (<xref rid="IMAG.a.23-b23" ref-type="bibr">Greene et al., 2024</xref>) to suggest that BBB disruption in NLCV may be a more widespread, whole-brain phenomenon. Although BBB leakage was diffuse, frontal cortex and association fibers were relatively more affected. Differences in study findings may be attributable to our larger sample powered to detect more subtle leakage, our inclusion of men, or the older age of our participants. Indeed, despite our predominantly female NLCV group, exploratory analyses revealed a sex difference whereby BBB breakdown in NLCV was more pronounced among men. Although we (<xref rid="IMAG.a.23-b43" ref-type="bibr">Reas et al., 2024</xref>) and others have not reported reliable associations between K<sub>trans</sub>and age among older adults (<xref rid="IMAG.a.23-b23" ref-type="bibr">Greene et al., 2024</xref>;<xref rid="IMAG.a.23-b38" ref-type="bibr">Nation et al., 2019</xref>), the possibility that age magnifies effects of long COVID on neurovascular damage warrants investigation.</p><p>Across all participants, NLCV presented with reduced neurite density in the amygdala. However, more severe microstructural injury was observed among NLCV women, who exhibited a reduced fraction of hindered diffusion in the caudate and elevated white matter free water. Increased white matter free water was widespread, but more prominent in frontal association and projection fibers, paralleling the frontal distribution of BBB breakdown in men. White matter is particularly vulnerable to small vessel disease and ischemia (<xref rid="IMAG.a.23-b56" ref-type="bibr">Wardlaw et al., 2015</xref>), which are associated with neuroinflammation, cellular barrier degeneration due to axon or myelin damage, and altered fluid dynamics, properties that would be captured by the increased free water observed here. Further research will be important to assess potential vascular or neuroinflammatory origins of COVID-19-related white matter injury. Frontal white matter, amygdala, and caudate microstructural damage, which may support executive, attention, emotional salience, and memory networks (<xref rid="IMAG.a.23-b22" ref-type="bibr">Grahn et al., 2008</xref>;<xref rid="IMAG.a.23-b33" ref-type="bibr">LeDoux, 2007</xref>), may, in part, account for the multi-domain cognitive deficits observed in NLCV. Notably, other studies of COVID-19 patients with neurological or persistent symptoms have also reported widespread (<xref rid="IMAG.a.23-b5" ref-type="bibr">Bispo et al., 2022</xref>;<xref rid="IMAG.a.23-b6" ref-type="bibr">Boito et al., 2023</xref>;<xref rid="IMAG.a.23-b9" ref-type="bibr">Caroli et al., 2023</xref>) or frontally localized (<xref rid="IMAG.a.23-b8" ref-type="bibr">Campabadal et al., 2023</xref>) white matter compromise as well as volume loss in regions encompassing the frontal cortex, caudate, and amygdala (<xref rid="IMAG.a.23-b47" ref-type="bibr">Sanabria-Diaz et al., 2022</xref>).</p><p>These sex differences in patterns of BBB leakage and microstructural damage implicate sex-specific neurological mechanisms of NLCV. It is well appreciated that the manifestations and physiological perturbations from COVID-19 are multifaceted and uniquely individual, with mounting evidence for viral persistence, vascular damage, inflammation, and immune dysregulation, among the variable pathways by which SARS-CoV-2 may disrupt brain health (<xref rid="IMAG.a.23-b39" ref-type="bibr">Pandharipande et al., 2023</xref>). Sex differences in vascular risk factors, immune signaling, or hormonal factors, may predispose men and women to distinct complications of COVID-19. For instance, compared to premenopausal women, men are at higher risk for cardiovascular disease and demonstrate differences in endothelial function (<xref rid="IMAG.a.23-b51" ref-type="bibr">Stanhewicz et al., 2018</xref>), which may contribute to increased cumulative vascular risk exposure that lowers the threshold for COVID-related cerebrovascular damage. In contrast, the greater propensity for autoimmune or inflammatory conditions among women (<xref rid="IMAG.a.23-b30" ref-type="bibr">Klein &amp; Flanagan, 2016</xref>) may predispose them to neuroinflammation and immune dysregulation with long COVID.</p><p>Brain microstructure correlated with cognitive function, with a pattern of stronger associations among CN for executive function and among NLCV for memory. NLCV-specific correlations were particularly pronounced for free water in the hippocampus, which is critical for the formation of episodic memories and a target of AD-related neurodegeneration (<xref rid="IMAG.a.23-b21" ref-type="bibr">Gosche et al., 2002</xref>) that contributes to the characteristic amnestic deficits that manifest early in typical AD. Our findings point to distinct microstructural fingerprints of cognitive dysfunction associated with aging and long COVID, specifically implicating cytoarchitectural hippocampal vulnerability to long COVID that may account for corresponding memory decline. Further research is warranted to assess the long-term implications of this observation, including whether hippocampal compromise from NLCV may hasten neurodegenerative changes in AD or related disorders.</p><p>Within NLCV, only those individuals at heightened genetic risk for AD exhibited associations between caudate BBB breakdown and impaired immediate recall, and between white matter BBB leakage and higher free water. The caudate is structurally and functionally connected with the prefrontal cortex, subserving goal-directed behavior (<xref rid="IMAG.a.23-b22" ref-type="bibr">Grahn et al., 2008</xref>), such that neurovascular dysfunction in the caudate may disrupt circuitry crucial for the attentional and executive demands of memory recall. A link between white matter BBB leakage and free water specific for high-PHS NLCV points to AD-dependent mechanisms by which neurovascular dysfunction may promote white matter damage. Our findings raise the disconcerting possibility that BBB damage associated with long COVID is particularly deleterious for individuals with genetic predisposition to AD, potentially contributing to memory decline and widespread white matter injury. Synergy between the pathophysiology of AD and long COVID is supported by evidence for shared genetic vulnerability to COVID-19 and AD, as well as common mechanistic pathways including microglia-mediated neuroinflammation, tau hyperphosphorylation, and amyloid-β accumulation (<xref rid="IMAG.a.23-b19" ref-type="bibr">Golzari-Sorkheh et al., 2023</xref>), underscoring the need for further research into the effects of long COVID on the precipitation of AD and related dementias.</p><p>Strengths of this study include the application of advanced MRI approaches to quantify neurovascular permeability and brain microstructure, a focus on older adults, and examination of dementia risk factors to probe synergy between long COVID and AD pathophysiology, all of which have been minimally examined in the context of long COVID. Although participants were well-characterized in terms of illness severity, hospitalization, vaccination, and post-acute symptoms, this study was not designed to assess subgroup differences. Considering the diversity of long COVID symptom presentation and corresponding variability in underlying mechanisms, larger studies powered to probe differences by NLCV subtype are needed to guide precision-medicine therapeutic strategies. Our NLCV sample was disproportionately female, which is representative of the population and consistent with the established female disadvantage for long COVID (<xref rid="IMAG.a.23-b13" ref-type="bibr">Fang et al., 2024</xref>), yet limited power to interrogate sex differences; thus, the sex differences reported here should be considered hypothesis-generating and validated in larger samples. Although CN and NLCV differed in age and sex, results were unchanged in sensitivity analyses using a subset of more closely matched CN participants, suggesting that these group differences did not materially affect our results. While our findings implicate an adverse modifying effect of AD genetic risk on NLCV-related brain outcomes, longitudinal investigations incorporating AD biomarkers will be important to establish the long-term effects of COVID-19 on AD pathogenesis among high-risk populations.</p><p>In summary, we report BBB breakdown and microstructural brain abnormalities among older adults with persistent cognitive complaints subsequent to SARS-CoV-2 infection. Sex-specific patterns highlight the heterogeneity of mechanisms underlying neurological long COVID and underscore the need for precision-medicine diagnostic and treatment approaches. Magnified associations of BBB leakage with worse cognitive and microstructural outcomes among NLCV with high AD genetic risk bolsters concern for a “perfect storm” of synergistic long COVID and AD pathophysiology, warranting urgent investigation into the long-term impact of COVID-19 on the pathogenesis of AD and related dementias.</p></sec><sec sec-type="supplementary-material"><title>Supplementary Material</title><supplementary-material id="IMAG.a.23-supp1" position="float" content-type="local-data" orientation="portrait"><label>Supplementary Material</label><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="imag.a.23_supp.pdf" position="float" orientation="portrait"/></supplementary-material></sec></body><back><sec sec-type="data-availability" id="IMAG.a.23-S19"><title>Data and Code Availability</title><p>Data that support the findings of this study are available within this article and its<xref rid="IMAG.a.23-supp1" ref-type="supplementary-material">Supplementary material</xref>. Raw data supporting the findings of this study and code used for analysis are available from the corresponding author upon reasonable request.</p></sec><sec sec-type="sec1" id="IMAG.a.23-S20"><title>Author Contributions</title><p>E.T.R., S.J.B., and J.S.G. designed the study. E.T.R. drafted the manuscript. E.T.R., S.K.S., and J.S. conducted statistical analyses. A.A.M. and C.S.R. performed data collection. S.K.S., Q.S., and X.W. conducted data processing. All authors edited the manuscript.</p></sec><sec sec-type="sec1" id="IMAG.a.23-S21"><title>Funding</title><p>This work was supported by the National Institute on Aging (R01 AG062483; K99/R00 AG057797), an American Federation for Aging Research/McKnight Brain Research Foundation Innovator Award in Cognitive Aging and Memory Loss, a Warren Alpert Distinguished Scholars award, and a National Institute on Aging Alzheimer’s Disease Research Center research education program fellowship (under P30 AG062429).</p></sec><sec sec-type="COI-statement" id="IMAG.a.23-S22"><title>Declaration of Competing Interest</title><p>The authors report no competing interests.</p></sec><sec sec-type="sec1" id="IMAG.a.23-S23"><title>Supplementary Materials</title><p>Supplementary material for this article is available with the online version here:<uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://doi.org/10.1162/IMAG.a.23">https://doi.org/10.1162/IMAG.a.23</uri>.</p></sec><ref-list><title>References</title><ref id="IMAG.a.23-b1"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Andjelkovic</surname>
+,
+<given-names>A. V.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Situ</surname>
+,
+<given-names>M.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Citalan-Madrid</surname>
+,
+<given-names>A. F.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Stamatovic</surname>
+,
+<given-names>S. M.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Xiang</surname>
+,
+<given-names>J.</given-names>
+</string-name>
+, &amp;
+<string-name name-style="western">
+<surname>Keep</surname>
+,
+<given-names>R. F.</given-names>
+</string-name>
+</person-group>
+(
+<year>2023</year>
+).
+<article-title>Blood-brain barrier dysfunction in normal aging and neurodegeneration: Mechanisms, impact, and treatments</article-title>
+.
+<source>Stroke</source>
+,
+<volume>54</volume>
+(
+<issue>3</issue>
+),
+<fpage>661</fpage>
+–
+<lpage>672</lpage>
+.
+<pub-id pub-id-type="doi">10.1161/STROKEAHA.122.040578</pub-id>
+<pub-id pub-id-type="pmid">36848419</pub-id>
+<pub-id pub-id-type="pmcid">PMC9993074</pub-id></mixed-citation></ref><ref id="IMAG.a.23-b2"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Barnes</surname>
+,
+<given-names>S. R.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Ng</surname>
+,
+<given-names>T. S.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Santa-Maria</surname>
+,
+<given-names>N.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Montagne</surname>
+,
+<given-names>A.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Zlokovic</surname>
+,
+<given-names>B. V.</given-names>
+</string-name>
+, &amp;
+<string-name name-style="western">
+<surname>Jacobs</surname>
+,
+<given-names>R. E.</given-names>
+</string-name>
+</person-group>
+(
+<year>2015</year>
+).
+<article-title>ROCKETSHIP: A flexible and modular software tool for the planning, processing and analysis of dynamic MRI studies</article-title>
+.
+<source>BMC Medical Imaging</source>
+,
+<volume>15</volume>
+,
+<fpage>19</fpage>
+.
+<pub-id pub-id-type="doi">10.1186/s12880-015-0062-3</pub-id>
+<pub-id pub-id-type="pmid">26076957</pub-id>
+<pub-id pub-id-type="pmcid">PMC4466867</pub-id></mixed-citation></ref><ref id="IMAG.a.23-b3"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Batiha</surname>
+,
+<given-names>G. E.-S.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Gari</surname>
+,
+<given-names>A.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Elshony</surname>
+,
+<given-names>N.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Shaheen</surname>
+,
+<given-names>H. M.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Abubakar</surname>
+,
+<given-names>M. B.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Adeyemi</surname>
+,
+<given-names>S. B.</given-names>
+</string-name>
+, &amp;
+<string-name name-style="western">
+<surname>Al-kuraishy</surname>
+,
+<given-names>H. M.</given-names>
+</string-name>
+</person-group>
+(
+<year>2021</year>
+).
+<article-title>Hypertension and its management in COVID-19 patients: The assorted view</article-title>
+.
+<source>International Journal of Cardiology Cardiovascular Risk and Prevention</source>
+,
+<volume>11</volume>
+,
+<fpage>200121</fpage>
+.
+<pub-id pub-id-type="doi">10.1016/j.ijcrp.2021.200121</pub-id>
+<pub-id pub-id-type="pmid">34806090</pub-id>
+<pub-id pub-id-type="pmcid">PMC8590508</pub-id></mixed-citation></ref><ref id="IMAG.a.23-b4"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Bellon</surname>
+,
+<given-names>M.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Schweblin</surname>
+,
+<given-names>C.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Lambeng</surname>
+,
+<given-names>N.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Cherpillod</surname>
+,
+<given-names>P.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Vazquez</surname>
+,
+<given-names>J.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Lalive</surname>
+,
+<given-names>P. H.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Schibler</surname>
+,
+<given-names>M.</given-names>
+</string-name>
+, &amp;
+<string-name name-style="western">
+<surname>Deffert</surname>
+,
+<given-names>C.</given-names>
+</string-name>
+</person-group>
+(
+<year>2020</year>
+).
+<article-title>Cerebrospinal fluid features in severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) reverse transcription polymerase chain reaction (RT-PCR) positive patients</article-title>
+.
+<source>Clinical Infectious Diseases</source>
+,
+<volume>73</volume>
+(
+<issue>9</issue>
+),
+<fpage>e3102</fpage>
+–
+<lpage>e3105</lpage>
+.
+<pub-id pub-id-type="doi">10.1093/cid/ciaa1165</pub-id>
+<pub-id pub-id-type="pmcid">PMC7454353</pub-id><pub-id pub-id-type="pmid">32770235</pub-id></mixed-citation></ref><ref id="IMAG.a.23-b5"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Bispo</surname>
+,
+<given-names>D. D. d. C.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Brandão</surname>
+,
+<given-names>P. R. d. P.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Pereira</surname>
+,
+<given-names>D. A.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Maluf</surname>
+,
+<given-names>F. B.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Dias</surname>
+,
+<given-names>B. A.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Paranhos</surname>
+,
+<given-names>H. R.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>von Glehn</surname>
+,
+<given-names>F.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>de Oliveira</surname>
+,
+<given-names>A. C. P.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Regattieri</surname>
+,
+<given-names>N. A. T.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Silva</surname>
+,
+<given-names>L. S.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Yasuda</surname>
+,
+<given-names>C. L.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Soares</surname>
+,
+<given-names>A. A. d. S. M.</given-names>
+</string-name>
+, &amp;
+<string-name name-style="western">
+<surname>Descoteaux</surname>
+,
+<given-names>M.</given-names>
+</string-name>
+</person-group>
+(
+<year>2022</year>
+).
+<article-title>Brain microstructural changes and fatigue after COVID-19</article-title>
+.
+<source>Frontiers in Neurology</source>
+,
+<volume>13</volume>
+,
+<fpage>1029302</fpage>
+.
+<pub-id pub-id-type="doi">10.3389/fneur.2022.1029302</pub-id>
+<pub-id pub-id-type="pmid">36438956</pub-id>
+<pub-id pub-id-type="pmcid">PMC9685991</pub-id></mixed-citation></ref><ref id="IMAG.a.23-b6"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Boito</surname>
+,
+<given-names>D.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Eklund</surname>
+,
+<given-names>A.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Tisell</surname>
+,
+<given-names>A.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Levi</surname>
+,
+<given-names>R.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Özarslan</surname>
+,
+<given-names>E.</given-names>
+</string-name>
+, &amp;
+<string-name name-style="western">
+<surname>Blystad</surname>
+,
+<given-names>I.</given-names>
+</string-name>
+</person-group>
+(
+<year>2023</year>
+).
+<article-title>MRI with generalized diffusion encoding reveals damaged white matter in patients previously hospitalized for COVID-19 and with persisting symptoms at follow-up</article-title>
+.
+<source>Brain Communications</source>
+,
+<volume>5</volume>
+(
+<issue>6</issue>
+),
+<fpage>fcad284</fpage>
+.
+<pub-id pub-id-type="doi">10.1093/braincomms/fcad284</pub-id>
+<pub-id pub-id-type="pmid">37953843</pub-id>
+<pub-id pub-id-type="pmcid">PMC10638510</pub-id></mixed-citation></ref><ref id="IMAG.a.23-b7"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Bonetto</surname>
+,
+<given-names>V.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Pasetto</surname>
+,
+<given-names>L.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Lisi</surname>
+,
+<given-names>I.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Carbonara</surname>
+,
+<given-names>M.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Zangari</surname>
+,
+<given-names>R.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Ferrari</surname>
+,
+<given-names>E.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Punzi</surname>
+,
+<given-names>V.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Luotti</surname>
+,
+<given-names>S.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Bottino</surname>
+,
+<given-names>N.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Biagianti</surname>
+,
+<given-names>B.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Moglia</surname>
+,
+<given-names>C.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Fuda</surname>
+,
+<given-names>G.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Gualtierotti</surname>
+,
+<given-names>R.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Blasi</surname>
+,
+<given-names>F.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Canetta</surname>
+,
+<given-names>C.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Montano</surname>
+,
+<given-names>N.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Tettamanti</surname>
+,
+<given-names>M.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Camera</surname>
+,
+<given-names>G.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Grimoldi</surname>
+,
+<given-names>M.</given-names>
+</string-name>
+, …
+<string-name name-style="western">
+<surname>Zanier</surname>
+,
+<given-names>E. R.</given-names>
+</string-name>
+</person-group>
+(
+<year>2022</year>
+).
+<article-title>Markers of blood-brain barrier disruption increase early and persistently in COVID-19 patients with neurological manifestations</article-title>
+.
+<source>Frontiers in Immunology</source>
+,
+<volume>13</volume>
+,
+<fpage>1070379</fpage>
+.
+<pub-id pub-id-type="doi">10.3389/fimmu.2022.1070379</pub-id>
+<pub-id pub-id-type="pmid">36591311</pub-id>
+<pub-id pub-id-type="pmcid">PMC9798841</pub-id></mixed-citation></ref><ref id="IMAG.a.23-b8"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Campabadal</surname>
+,
+<given-names>A.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Oltra</surname>
+,
+<given-names>J.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Junqué</surname>
+,
+<given-names>C.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Guillen</surname>
+,
+<given-names>N.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Botí</surname>
+,
+<given-names>M. Á.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Sala-Llonch</surname>
+,
+<given-names>R.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Monté-Rubio</surname>
+,
+<given-names>G. C.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Lledó</surname>
+,
+<given-names>G.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Bargalló</surname>
+,
+<given-names>N.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Rami</surname>
+,
+<given-names>L.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Sánchez-Valle</surname>
+,
+<given-names>R.</given-names>
+</string-name>
+, &amp;
+<string-name name-style="western">
+<surname>Segura</surname>
+,
+<given-names>B.</given-names>
+</string-name>
+</person-group>
+(
+<year>2023</year>
+).
+<article-title>Structural brain changes in post-acute COVID-19 patients with persistent olfactory dysfunction</article-title>
+.
+<source>Annals of Clinical and Translational Neurology</source>
+,
+<volume>10</volume>
+(
+<issue>2</issue>
+),
+<fpage>195</fpage>
+–
+<lpage>203</lpage>
+.
+<pub-id pub-id-type="doi">10.1002/acn3.51710</pub-id>
+<pub-id pub-id-type="pmid">36525472</pub-id>
+<pub-id pub-id-type="pmcid">PMC9878006</pub-id></mixed-citation></ref><ref id="IMAG.a.23-b9"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Caroli</surname>
+,
+<given-names>A.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Capelli</surname>
+,
+<given-names>S.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Napolitano</surname>
+,
+<given-names>A.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Cabrini</surname>
+,
+<given-names>G.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Arrigoni</surname>
+,
+<given-names>A.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Pezzetti</surname>
+,
+<given-names>G.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Previtali</surname>
+,
+<given-names>M.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Longhi</surname>
+,
+<given-names>L. G.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Zangari</surname>
+,
+<given-names>R.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Lorini</surname>
+,
+<given-names>F. L.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Sessa</surname>
+,
+<given-names>M.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Remuzzi</surname>
+,
+<given-names>A.</given-names>
+</string-name>
+, &amp;
+<string-name name-style="western">
+<surname>Gerevini</surname>
+,
+<given-names>S.</given-names>
+</string-name>
+</person-group>
+(
+<year>2023</year>
+).
+<article-title>Brain diffusion alterations in patients with COVID-19 pathology and neurological manifestations</article-title>
+.
+<source>NeuroImage: Clinical</source>
+,
+<volume>37</volume>
+,
+<fpage>103338</fpage>
+.
+<pub-id pub-id-type="doi">10.1016/j.nicl.2023.103338</pub-id>
+<pub-id pub-id-type="pmid">36731251</pub-id>
+<pub-id pub-id-type="pmcid">PMC9883079</pub-id></mixed-citation></ref><ref id="IMAG.a.23-b10"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Desikan</surname>
+,
+<given-names>R. S.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Fan</surname>
+,
+<given-names>C. C.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Wang</surname>
+,
+<given-names>Y.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Schork</surname>
+,
+<given-names>A. J.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Cabral</surname>
+,
+<given-names>H. J.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Cupples</surname>
+,
+<given-names>L. A.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Thompson</surname>
+,
+<given-names>W. K.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Besser</surname>
+,
+<given-names>L.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Kukull</surname>
+,
+<given-names>W. A.</given-names>
+</string-name>
+, &amp;
+<string-name name-style="western">
+<surname>Holland</surname>
+,
+<given-names>D.</given-names>
+</string-name>
+</person-group>
+(
+<year>2017</year>
+).
+<article-title>Genetic assessment of age-associated Alzheimer disease risk: Development and validation of a polygenic hazard score</article-title>
+.
+<source>PLoS Medicine</source>
+,
+<volume>14</volume>
+(
+<issue>3</issue>
+),
+<fpage>e1002258</fpage>
+.
+<pub-id pub-id-type="doi">10.1371/journal.pmed.1002289</pub-id>
+<pub-id pub-id-type="pmid">28323831</pub-id>
+<pub-id pub-id-type="pmcid">PMC5360219</pub-id></mixed-citation></ref><ref id="IMAG.a.23-b11"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Douaud</surname>
+,
+<given-names>G.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Lee</surname>
+,
+<given-names>S.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Alfaro-Almagro</surname>
+,
+<given-names>F.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Arthofer</surname>
+,
+<given-names>C.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Wang</surname>
+,
+<given-names>C.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>McCarthy</surname>
+,
+<given-names>P.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Lange</surname>
+,
+<given-names>F.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Andersson</surname>
+,
+<given-names>J. L. R.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Griffanti</surname>
+,
+<given-names>L.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Duff</surname>
+,
+<given-names>E.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Jbabdi</surname>
+,
+<given-names>S.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Taschler</surname>
+,
+<given-names>B.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Keating</surname>
+,
+<given-names>P.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Winkler</surname>
+,
+<given-names>A. M.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Collins</surname>
+,
+<given-names>R.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Matthews</surname>
+,
+<given-names>P. M.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Allen</surname>
+,
+<given-names>N.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Miller</surname>
+,
+<given-names>K. L.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Nichols</surname>
+,
+<given-names>T. E.</given-names>
+</string-name>
+, &amp;
+<string-name name-style="western">
+<surname>Smith</surname>
+,
+<given-names>S. M.</given-names>
+</string-name>
+</person-group>
+(
+<year>2022</year>
+).
+<article-title>SARS-CoV-2 is associated with changes in brain structure in UK Biobank</article-title>
+.
+<source>Nature</source>
+,
+<volume>604</volume>
+(
+<issue>7907</issue>
+),
+<fpage>697</fpage>
+–
+<lpage>707</lpage>
+.
+<pub-id pub-id-type="doi">10.1038/s41586-022-04569-5</pub-id>
+<pub-id pub-id-type="pmid">35255491</pub-id>
+<pub-id pub-id-type="pmcid">PMC9046077</pub-id></mixed-citation></ref><ref id="IMAG.a.23-b12"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Ewing</surname>
+,
+<given-names>J. R.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Knight</surname>
+,
+<given-names>R. A.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Nagaraja</surname>
+,
+<given-names>T. N.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Yee</surname>
+,
+<given-names>J. S.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Nagesh</surname>
+,
+<given-names>V.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Whitton</surname>
+,
+<given-names>P. A.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Li</surname>
+,
+<given-names>L.</given-names>
+</string-name>
+, &amp;
+<string-name name-style="western">
+<surname>Fenstermacher</surname>
+,
+<given-names>J. D.</given-names>
+</string-name>
+</person-group>
+(
+<year>2003</year>
+).
+<article-title>Patlak plots of Gd-DTPA MRI data yield blood–brain transfer constants concordant with those of 14C-sucrose in areas of blood–brain opening</article-title>
+.
+<source>Magnetic Resonance in Medicine</source>
+,
+<volume>50</volume>
+(
+<issue>2</issue>
+),
+<fpage>283</fpage>
+–
+<lpage>292</lpage>
+.
+<pub-id pub-id-type="doi">10.1002/mrm.10524</pub-id>
+<pub-id pub-id-type="pmid">12876704</pub-id>
+</mixed-citation></ref><ref id="IMAG.a.23-b13"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Fang</surname>
+,
+<given-names>Z.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Ahrnsbrak</surname>
+,
+<given-names>R.</given-names>
+</string-name>
+, &amp;
+<string-name name-style="western">
+<surname>Rekito</surname>
+,
+<given-names>A.</given-names>
+</string-name>
+</person-group>
+(
+<year>2024</year>
+).
+<article-title>Evidence mounts that about 7% of US adults have had long COVID</article-title>
+.
+<source>JAMA</source>
+,
+<volume>332</volume>
+(
+<issue>1</issue>
+),
+<fpage>5</fpage>
+–
+<lpage>6</lpage>
+.
+<pub-id pub-id-type="doi">10.1001/jama.2024.11370</pub-id>
+<pub-id pub-id-type="pmid">38848092</pub-id>
+</mixed-citation></ref><ref id="IMAG.a.23-b14"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Fernández-Castañeda</surname>
+,
+<given-names>A.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Lu</surname>
+,
+<given-names>P.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Geraghty</surname>
+,
+<given-names>A. C.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Song</surname>
+,
+<given-names>E.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Lee</surname>
+,
+<given-names>M.-H.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Wood</surname>
+,
+<given-names>J.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>O’Dea</surname>
+,
+<given-names>M. R.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Dutton</surname>
+,
+<given-names>S.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Shamardani</surname>
+,
+<given-names>K.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Nwangwu</surname>
+,
+<given-names>K.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Mancusi</surname>
+,
+<given-names>R.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Yalçın</surname>
+,
+<given-names>B.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Taylor</surname>
+,
+<given-names>K. R.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Acosta-Alvarez</surname>
+,
+<given-names>L.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Malacon</surname>
+,
+<given-names>K.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Keough</surname>
+,
+<given-names>M. B.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Ni</surname>
+,
+<given-names>L.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Woo</surname>
+,
+<given-names>P. J.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Contreras-Esquivel</surname>
+,
+<given-names>D.</given-names>
+</string-name>
+, …
+<string-name name-style="western">
+<surname>Monje</surname>
+,
+<given-names>M.</given-names>
+</string-name>
+</person-group>
+(
+<year>2022</year>
+).
+<article-title>Mild respiratory COVID can cause multi-lineage neural cell and myelin dysregulation</article-title>
+.
+<source>Cell</source>
+,
+<volume>185</volume>
+(
+<issue>14</issue>
+),
+<fpage>2452.e16</fpage>
+–
+<lpage>2468.e16</lpage>
+.
+<pub-id pub-id-type="doi">10.1016/j.cell.2022.06.008</pub-id>
+<pub-id pub-id-type="pmid">35768006</pub-id>
+<pub-id pub-id-type="pmcid">PMC9189143</pub-id></mixed-citation></ref><ref id="IMAG.a.23-b15"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Ferretti</surname>
+,
+<given-names>M. T.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Iulita</surname>
+,
+<given-names>M. F.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Cavedo</surname>
+,
+<given-names>E.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Chiesa</surname>
+,
+<given-names>P. A.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Schumacher Dimech</surname>
+,
+<given-names>A.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Santuccione Chadha</surname>
+,
+<given-names>A.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Baracchi</surname>
+,
+<given-names>F.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Girouard</surname>
+,
+<given-names>H.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Misoch</surname>
+,
+<given-names>S.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Giacobini</surname>
+,
+<given-names>E.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Depypere</surname>
+,
+<given-names>H.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Hampel</surname>
+,
+<given-names>H.</given-names>
+</string-name>
+</person-group>
+,
+<collab>Women’s Brain, P., &amp; the Alzheimer Precision Medicine Initiative</collab>
+. (
+<year>2018</year>
+).
+<article-title>Sex differences in Alzheimer disease—The gateway to precision medicine</article-title>
+.
+<source>Nature Reviews Neurology</source>
+,
+<volume>14</volume>
+(
+<issue>8</issue>
+),
+<fpage>457</fpage>
+–
+<lpage>469</lpage>
+.
+<pub-id pub-id-type="doi">10.1038/s41582-018-0032-9</pub-id>
+<pub-id pub-id-type="pmid">29985474</pub-id>
+</mixed-citation></ref><ref id="IMAG.a.23-b16"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Fischl</surname>
+,
+<given-names>B.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Salat</surname>
+,
+<given-names>D. H.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Busa</surname>
+,
+<given-names>E.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Albert</surname>
+,
+<given-names>M.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Dieterich</surname>
+,
+<given-names>M.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Haselgrove</surname>
+,
+<given-names>C.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>van der Kouwe</surname>
+,
+<given-names>A.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Killiany</surname>
+,
+<given-names>R.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Kennedy</surname>
+,
+<given-names>D.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Klaveness</surname>
+,
+<given-names>S.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Montillo</surname>
+,
+<given-names>A.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Makris</surname>
+,
+<given-names>N.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Rosen</surname>
+,
+<given-names>B.</given-names>
+</string-name>
+, &amp;
+<string-name name-style="western">
+<surname>Dale</surname>
+,
+<given-names>A. M.</given-names>
+</string-name>
+</person-group>
+(
+<year>2002</year>
+).
+<article-title>Whole brain segmentation: Automated labeling of neuroanatomical structures in the human brain</article-title>
+.
+<source>Neuron</source>
+,
+<volume>33</volume>
+(
+<issue>3</issue>
+),
+<fpage>341</fpage>
+–
+<lpage>355</lpage>
+.
+<pub-id pub-id-type="doi">10.1016/s0896-6273(02)00569-x</pub-id>
+<pub-id pub-id-type="pmid">11832223</pub-id>
+</mixed-citation></ref><ref id="IMAG.a.23-b17"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Galasko</surname>
+,
+<given-names>D.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Hansen</surname>
+,
+<given-names>L. A.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Katzman</surname>
+,
+<given-names>R.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Wiederholt</surname>
+,
+<given-names>W.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Masliah</surname>
+,
+<given-names>E.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Terry</surname>
+,
+<given-names>R.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Hill</surname>
+,
+<given-names>L. R.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Lessin</surname>
+,
+<given-names>P.</given-names>
+</string-name>
+, &amp;
+<string-name name-style="western">
+<surname>Thal</surname>
+,
+<given-names>L. J.</given-names>
+</string-name>
+</person-group>
+(
+<year>1994</year>
+).
+<article-title>Clinical-neuropathological correlations in Alzheimer’s disease and related dementias</article-title>
+.
+<source>Archives of Neurology</source>
+,
+<volume>51</volume>
+(
+<issue>9</issue>
+),
+<fpage>888</fpage>
+–
+<lpage>895</lpage>
+.
+<pub-id pub-id-type="doi">10.1001/archneur.1994.00540210060013</pub-id>
+<pub-id pub-id-type="pmid">8080388</pub-id>
+</mixed-citation></ref><ref id="IMAG.a.23-b18"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Giussani</surname>
+,
+<given-names>G.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Westenberg</surname>
+,
+<given-names>E.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Garcia-Azorin</surname>
+,
+<given-names>D.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Bianchi</surname>
+,
+<given-names>E.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Yusof Khan</surname>
+,
+<given-names>A. H. K.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Allegri</surname>
+,
+<given-names>R. F.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Atalar</surname>
+,
+<given-names>A. Ç.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Baykan</surname>
+,
+<given-names>B.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Crivelli</surname>
+,
+<given-names>L.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Fornari</surname>
+,
+<given-names>A.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Frontera</surname>
+,
+<given-names>J. A.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Guekht</surname>
+,
+<given-names>A.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Helbok</surname>
+,
+<given-names>R.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Hoo</surname>
+,
+<given-names>F. K.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Kivipelto</surname>
+,
+<given-names>M.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Leonardi</surname>
+,
+<given-names>M.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Lopez Rocha</surname>
+,
+<given-names>A. S.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Mangialasche</surname>
+,
+<given-names>F.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Marcassoli</surname>
+,
+<given-names>A.</given-names>
+</string-name>
+</person-group>
+, …
+<collab>Global COVID-19 Neuro Research Coalition</collab>
+. (
+<year>2024</year>
+).
+<article-title>Prevalence and trajectories of post-COVID-19 neurological manifestations: A systematic review and meta-analysis</article-title>
+.
+<source>Neuroepidemiology</source>
+,
+<volume>58</volume>
+(
+<issue>2</issue>
+),
+<fpage>120</fpage>
+–
+<lpage>133</lpage>
+.
+<pub-id pub-id-type="doi">10.1159/000536352</pub-id>
+<pub-id pub-id-type="pmid">38272015</pub-id>
+</mixed-citation></ref><ref id="IMAG.a.23-b19"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Golzari-Sorkheh</surname>
+,
+<given-names>M.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Weaver</surname>
+,
+<given-names>D. F.</given-names>
+</string-name>
+, &amp;
+<string-name name-style="western">
+<surname>Reed</surname>
+,
+<given-names>M. A.</given-names>
+</string-name>
+</person-group>
+(
+<year>2023</year>
+).
+<article-title>COVID-19 as a risk factor for Alzheimer’s disease</article-title>
+.
+<source>Journal of Alzheimer’s Disease</source>
+,
+<volume>91</volume>
+,
+<fpage>1</fpage>
+–
+<lpage>23</lpage>
+.
+<pub-id pub-id-type="doi">10.3233/JAD-220800</pub-id>
+<pub-id pub-id-type="pmid">36314211</pub-id></mixed-citation></ref><ref id="IMAG.a.23-b20"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Gomez</surname>
+,
+<given-names>J. M. D.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Du-Fay-de-Lavallaz</surname>
+,
+<given-names>J. M.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Fugar</surname>
+,
+<given-names>S.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Sarau</surname>
+,
+<given-names>A.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Simmons</surname>
+,
+<given-names>J. A.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Clark</surname>
+,
+<given-names>B.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Sanghani</surname>
+,
+<given-names>R. M.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Aggarwal</surname>
+,
+<given-names>N. T.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Williams</surname>
+,
+<given-names>K. A.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Doukky</surname>
+,
+<given-names>R.</given-names>
+</string-name>
+, &amp;
+<string-name name-style="western">
+<surname>Volgman</surname>
+,
+<given-names>A. S.</given-names>
+</string-name>
+</person-group>
+(
+<year>2021</year>
+).
+<article-title>Sex differences in COVID-19 hospitalization and mortality</article-title>
+.
+<source>Journal of Women’s Health</source>
+,
+<volume>30</volume>
+(
+<issue>5</issue>
+),
+<fpage>646</fpage>
+–
+<lpage>653</lpage>
+.
+<pub-id pub-id-type="doi">10.1089/jwh.2020.8948</pub-id>
+<pub-id pub-id-type="pmid">33826864</pub-id></mixed-citation></ref><ref id="IMAG.a.23-b21"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Gosche</surname>
+,
+<given-names>K. M.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Mortimer</surname>
+,
+<given-names>J. A.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Smith</surname>
+,
+<given-names>C. D.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Markesbery</surname>
+,
+<given-names>W. R.</given-names>
+</string-name>
+, &amp;
+<string-name name-style="western">
+<surname>Snowdon</surname>
+,
+<given-names>D. A.</given-names>
+</string-name>
+</person-group>
+(
+<year>2002</year>
+).
+<article-title>Hippocampal volume as an index of Alzheimer neuropathology</article-title>
+.
+<source>Neurology</source>
+,
+<volume>58</volume>
+(
+<issue>10</issue>
+),
+<fpage>1476</fpage>
+–
+<lpage>1482</lpage>
+.
+<pub-id pub-id-type="doi">10.1212/WNL.58.10.1476</pub-id>
+<pub-id pub-id-type="pmid">12034782</pub-id>
+</mixed-citation></ref><ref id="IMAG.a.23-b22"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Grahn</surname>
+,
+<given-names>J. A.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Parkinson</surname>
+,
+<given-names>J. A.</given-names>
+</string-name>
+, &amp;
+<string-name name-style="western">
+<surname>Owen</surname>
+,
+<given-names>A. M.</given-names>
+</string-name>
+</person-group>
+(
+<year>2008</year>
+).
+<article-title>The cognitive functions of the caudate nucleus</article-title>
+.
+<source>Progress in Neurobiology</source>
+,
+<volume>86</volume>
+(
+<issue>3</issue>
+),
+<fpage>141</fpage>
+–
+<lpage>155</lpage>
+.
+<pub-id pub-id-type="doi">10.1016/j.pneurobio.2008.09.004</pub-id>
+<pub-id pub-id-type="pmid">18824075</pub-id>
+</mixed-citation></ref><ref id="IMAG.a.23-b23"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Greene</surname>
+,
+<given-names>C.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Connolly</surname>
+,
+<given-names>R.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Brennan</surname>
+,
+<given-names>D.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Laffan</surname>
+,
+<given-names>A.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>O’Keeffe</surname>
+,
+<given-names>E.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Zaporojan</surname>
+,
+<given-names>L.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>O’Callaghan</surname>
+,
+<given-names>J.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Thomson</surname>
+,
+<given-names>B.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Connolly</surname>
+,
+<given-names>E.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Argue</surname>
+,
+<given-names>R.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Meaney</surname>
+,
+<given-names>J. F. M.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Martin-Loeches</surname>
+,
+<given-names>I.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Long</surname>
+,
+<given-names>A.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Cheallaigh</surname>
+,
+<given-names>C. N.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Conlon</surname>
+,
+<given-names>N.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Doherty</surname>
+,
+<given-names>C. P.</given-names>
+</string-name>
+, &amp;
+<string-name name-style="western">
+<surname>Campbell</surname>
+,
+<given-names>M.</given-names>
+</string-name>
+</person-group>
+(
+<year>2024</year>
+).
+<article-title>Blood–brain barrier disruption and sustained systemic inflammation in individuals with long COVID-associated cognitive impairment</article-title>
+.
+<source>Nature Neuroscience</source>
+,
+<volume>27</volume>
+(
+<issue>3</issue>
+),
+<fpage>421</fpage>
+–
+<lpage>432</lpage>
+.
+<pub-id pub-id-type="doi">10.1038/s41593-024-01576-9</pub-id>
+<pub-id pub-id-type="pmid">38388736</pub-id>
+<pub-id pub-id-type="pmcid">PMC10917679</pub-id></mixed-citation></ref><ref id="IMAG.a.23-b24"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Hagler</surname>
+,
+<given-names>D. J.</given-names>
+,
+<suffix>Jr.</suffix>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Ahmadi</surname>
+,
+<given-names>M. E.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Kuperman</surname>
+,
+<given-names>J.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Holland</surname>
+,
+<given-names>D.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>McDonald</surname>
+,
+<given-names>C. R.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Halgren</surname>
+,
+<given-names>E.</given-names>
+</string-name>
+, &amp;
+<string-name name-style="western">
+<surname>Dale</surname>
+,
+<given-names>A. M.</given-names>
+</string-name>
+</person-group>
+(
+<year>2009</year>
+).
+<article-title>Automated white-matter tractography using a probabilistic diffusion tensor atlas: Application to temporal lobe epilepsy</article-title>
+.
+<source>Human Brain Mapping</source>
+,
+<volume>30</volume>
+(
+<issue>5</issue>
+),
+<fpage>1535</fpage>
+–
+<lpage>1547</lpage>
+.
+<pub-id pub-id-type="doi">10.1002/hbm.20619</pub-id>
+<pub-id pub-id-type="pmid">18671230</pub-id>
+<pub-id pub-id-type="pmcid">PMC2754725</pub-id></mixed-citation></ref><ref id="IMAG.a.23-b25"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Hagler</surname>
+,
+<given-names>D. J.</given-names>
+,
+<suffix>Jr.</suffix>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Hatton</surname>
+,
+<given-names>S.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Cornejo</surname>
+,
+<given-names>M. D.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Makowski</surname>
+,
+<given-names>C.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Fair</surname>
+,
+<given-names>D. A.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Dick</surname>
+,
+<given-names>A. S.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Sutherland</surname>
+,
+<given-names>M. T.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Casey</surname>
+,
+<given-names>B.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Barch</surname>
+,
+<given-names>D. M.</given-names>
+</string-name>
+, &amp;
+<string-name name-style="western">
+<surname>Harms</surname>
+,
+<given-names>M. P.</given-names>
+</string-name>
+</person-group>
+(
+<year>2019</year>
+).
+<article-title>Image processing and analysis methods for the Adolescent Brain Cognitive Development Study</article-title>
+.
+<source>NeuroImage</source>
+,
+<volume>202</volume>
+,
+<fpage>116091</fpage>
+.
+<pub-id pub-id-type="doi">10.1016/j.dcn.2018.03.001</pub-id>
+<pub-id pub-id-type="pmid">31415884</pub-id>
+<pub-id pub-id-type="pmcid">PMC6981278</pub-id></mixed-citation></ref><ref id="IMAG.a.23-b26"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Harrison</surname>
+,
+<given-names>I. F.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Ismail</surname>
+,
+<given-names>O.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Machhada</surname>
+,
+<given-names>A.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Colgan</surname>
+,
+<given-names>N.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Ohene</surname>
+,
+<given-names>Y.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Nahavandi</surname>
+,
+<given-names>P.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Ahmed</surname>
+,
+<given-names>Z.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Fisher</surname>
+,
+<given-names>A.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Meftah</surname>
+,
+<given-names>S.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Murray</surname>
+,
+<given-names>T. K.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Ottersen</surname>
+,
+<given-names>O. P.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Nagelhus</surname>
+,
+<given-names>E. A.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>O’Neill</surname>
+,
+<given-names>M. J.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Wells</surname>
+,
+<given-names>J. A.</given-names>
+</string-name>
+, &amp;
+<string-name name-style="western">
+<surname>Lythgoe</surname>
+,
+<given-names>M. F.</given-names>
+</string-name>
+</person-group>
+(
+<year>2020</year>
+).
+<article-title>Impaired glymphatic function and clearance of tau in an Alzheimer’s disease model</article-title>
+.
+<source>Brain</source>
+,
+<volume>143</volume>
+(
+<issue>8</issue>
+),
+<fpage>2576</fpage>
+–
+<lpage>2593</lpage>
+.
+<pub-id pub-id-type="doi">10.1093/brain/awaa179</pub-id>
+<pub-id pub-id-type="pmid">32705145</pub-id>
+<pub-id pub-id-type="pmcid">PMC7447521</pub-id></mixed-citation></ref><ref id="IMAG.a.23-b27"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Heye</surname>
+,
+<given-names>A. K.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Thrippleton</surname>
+,
+<given-names>M. J.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Armitage</surname>
+,
+<given-names>P. A.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Valdés Hernández</surname>
+,
+<given-names>M. d. C.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Makin</surname>
+,
+<given-names>S. D.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Glatz</surname>
+,
+<given-names>A.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Sakka</surname>
+,
+<given-names>E.</given-names>
+</string-name>
+, &amp;
+<string-name name-style="western">
+<surname>Wardlaw</surname>
+,
+<given-names>J. M.</given-names>
+</string-name>
+</person-group>
+(
+<year>2016</year>
+).
+<article-title>Tracer kinetic modelling for DCE-MRI quantification of subtle blood–brain barrier permeability</article-title>
+.
+<source>NeuroImage</source>
+,
+<volume>125</volume>
+,
+<fpage>446</fpage>
+–
+<lpage>455</lpage>
+.
+<pub-id pub-id-type="doi">10.1016/j.neuroimage.2015.10.018</pub-id>
+<pub-id pub-id-type="pmid">26477653</pub-id>
+<pub-id pub-id-type="pmcid">PMC4692516</pub-id></mixed-citation></ref><ref id="IMAG.a.23-b28"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Jak</surname>
+,
+<given-names>A. J.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Bondi</surname>
+,
+<given-names>M. W.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Delano-Wood</surname>
+,
+<given-names>L.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Wierenga</surname>
+,
+<given-names>C.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Corey-Bloom</surname>
+,
+<given-names>J.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Salmon</surname>
+,
+<given-names>D. P.</given-names>
+</string-name>
+, &amp;
+<string-name name-style="western">
+<surname>Delis</surname>
+,
+<given-names>D. C.</given-names>
+</string-name>
+</person-group>
+(
+<year>2009</year>
+).
+<article-title>Quantification of five neuropsychological approaches to defining mild cognitive impairment</article-title>
+.
+<source>The American Journal of Geriatric Psychiatry</source>
+,
+<volume>17</volume>
+(
+<issue>5</issue>
+),
+<fpage>368</fpage>
+–
+<lpage>375</lpage>
+.
+<pub-id pub-id-type="doi">10.1097/JGP.0b013e31819431d5</pub-id>
+<pub-id pub-id-type="pmid">19390294</pub-id>
+<pub-id pub-id-type="pmcid">PMC2743175</pub-id></mixed-citation></ref><ref id="IMAG.a.23-b29"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Jenkinson</surname>
+,
+<given-names>M.</given-names>
+</string-name>
+, &amp;
+<string-name name-style="western">
+<surname>Smith</surname>
+,
+<given-names>S.</given-names>
+</string-name>
+</person-group>
+(
+<year>2001</year>
+).
+<article-title>A global optimisation method for robust affine registration of brain images</article-title>
+.
+<source>Medical Image Analysis</source>
+,
+<volume>5</volume>
+(
+<issue>2</issue>
+),
+<fpage>143</fpage>
+–
+<lpage>156</lpage>
+.
+<pub-id pub-id-type="doi">10.1016/S1361-8415(01)00036-6</pub-id>
+<pub-id pub-id-type="pmid">11516708</pub-id>
+</mixed-citation></ref><ref id="IMAG.a.23-b30"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Klein</surname>
+,
+<given-names>S. L.</given-names>
+</string-name>
+, &amp;
+<string-name name-style="western">
+<surname>Flanagan</surname>
+,
+<given-names>K. L.</given-names>
+</string-name>
+</person-group>
+(
+<year>2016</year>
+).
+<article-title>Sex differences in immune responses</article-title>
+.
+<source>Nature Reviews Immunology</source>
+,
+<volume>16</volume>
+(
+<issue>10</issue>
+),
+<fpage>626</fpage>
+–
+<lpage>638</lpage>
+.
+<pub-id pub-id-type="doi">10.1038/nri.2016.90</pub-id>
+<pub-id pub-id-type="pmid">27546235</pub-id></mixed-citation></ref><ref id="IMAG.a.23-b31"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Krasemann</surname>
+,
+<given-names>S.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Haferkamp</surname>
+,
+<given-names>U.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Pfefferle</surname>
+,
+<given-names>S.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Woo</surname>
+,
+<given-names>M. S.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Heinrich</surname>
+,
+<given-names>F.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Schweizer</surname>
+,
+<given-names>M.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Appelt-Menzel</surname>
+,
+<given-names>A.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Cubukova</surname>
+,
+<given-names>A.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Barenberg</surname>
+,
+<given-names>J.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Leu</surname>
+,
+<given-names>J.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Hartmann</surname>
+,
+<given-names>K.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Thies</surname>
+,
+<given-names>E.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Littau</surname>
+,
+<given-names>J. L.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Sepulveda-Falla</surname>
+,
+<given-names>D.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Zhang</surname>
+,
+<given-names>L.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Ton</surname>
+,
+<given-names>K.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Liang</surname>
+,
+<given-names>Y.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Matschke</surname>
+,
+<given-names>J.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Ricklefs</surname>
+,
+<given-names>F.</given-names>
+</string-name>
+, …
+<string-name name-style="western">
+<surname>Pless</surname>
+,
+<given-names>O.</given-names>
+</string-name>
+</person-group>
+(
+<year>2022</year>
+).
+<article-title>The blood-brain barrier is dysregulated in COVID-19 and serves as a CNS entry route for SARS-CoV-2</article-title>
+.
+<source>Stem Cell Reports</source>
+,
+<volume>17</volume>
+(
+<issue>2</issue>
+),
+<fpage>307</fpage>
+–
+<lpage>320</lpage>
+.
+<pub-id pub-id-type="doi">10.1016/j.stemcr.2021.12.011</pub-id>
+<pub-id pub-id-type="pmid">35063125</pub-id>
+<pub-id pub-id-type="pmcid">PMC8772030</pub-id></mixed-citation></ref><ref id="IMAG.a.23-b32"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Kuo</surname>
+,
+<given-names>C. L.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Pilling</surname>
+,
+<given-names>L. C.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Atkins</surname>
+,
+<given-names>J. L.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Masoli</surname>
+,
+<given-names>J. A. H.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Delgado</surname>
+,
+<given-names>J.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Kuchel</surname>
+,
+<given-names>G. A.</given-names>
+</string-name>
+, &amp;
+<string-name name-style="western">
+<surname>Melzer</surname>
+,
+<given-names>D.</given-names>
+</string-name>
+</person-group>
+(
+<year>2020</year>
+).
+<article-title>APOE e4 genotype predicts severe COVID-19 in the UK Biobank Community Cohort</article-title>
+.
+<source>The Journals of Gerontology: Series A</source>
+,
+<volume>75</volume>
+(
+<issue>11</issue>
+),
+<fpage>2231</fpage>
+–
+<lpage>2232</lpage>
+.
+<pub-id pub-id-type="doi">10.1093/gerona/glaa131</pub-id>
+<pub-id pub-id-type="pmcid">PMC7314139</pub-id><pub-id pub-id-type="pmid">32451547</pub-id></mixed-citation></ref><ref id="IMAG.a.23-b33"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>LeDoux</surname>
+,
+<given-names>J.</given-names>
+</string-name>
+</person-group>
+(
+<year>2007</year>
+).
+<article-title>The amygdala</article-title>
+.
+<source>Current Biology</source>
+,
+<volume>17</volume>
+(
+<issue>20</issue>
+),
+<fpage>R868</fpage>
+–
+<lpage>R874</lpage>
+.
+<pub-id pub-id-type="doi">10.1016/j.cub.2007.08.005</pub-id>
+<pub-id pub-id-type="pmid">17956742</pub-id>
+</mixed-citation></ref><ref id="IMAG.a.23-b34"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Lee</surname>
+,
+<given-names>M.-H.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Perl</surname>
+,
+<given-names>D. P.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Nair</surname>
+,
+<given-names>G.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Li</surname>
+,
+<given-names>W.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Maric</surname>
+,
+<given-names>D.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Murray</surname>
+,
+<given-names>H.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Dodd</surname>
+,
+<given-names>S. J.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Koretsky</surname>
+,
+<given-names>A. P.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Watts</surname>
+,
+<given-names>J. A.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Cheung</surname>
+,
+<given-names>V.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Masliah</surname>
+,
+<given-names>E.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Horkayne-Szakaly</surname>
+,
+<given-names>I.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Jones</surname>
+,
+<given-names>R.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Stram</surname>
+,
+<given-names>M. N.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Moncur</surname>
+,
+<given-names>J.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Hefti</surname>
+,
+<given-names>M.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Folkerth</surname>
+,
+<given-names>R. D.</given-names>
+</string-name>
+, &amp;
+<string-name name-style="western">
+<surname>Nath</surname>
+,
+<given-names>A.</given-names>
+</string-name>
+</person-group>
+(
+<year>2021</year>
+).
+<article-title>Microvascular injury in the brains of patients with COVID-19</article-title>
+.
+<source>New England Journal of Medicine</source>
+,
+<volume>384</volume>
+(
+<issue>5</issue>
+),
+<fpage>481</fpage>
+–
+<lpage>483</lpage>
+.
+<pub-id pub-id-type="doi">10.1056/NEJMc2033369</pub-id>
+<pub-id pub-id-type="pmid">33378608</pub-id>
+<pub-id pub-id-type="pmcid">PMC7787217</pub-id></mixed-citation></ref><ref id="IMAG.a.23-b35"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Lu</surname>
+,
+<given-names>Y.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Li</surname>
+,
+<given-names>X.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Geng</surname>
+,
+<given-names>D.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Mei</surname>
+,
+<given-names>N.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Wu</surname>
+,
+<given-names>P.-Y.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Huang</surname>
+,
+<given-names>C.-C.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Jia</surname>
+,
+<given-names>T.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Zhao</surname>
+,
+<given-names>Y.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Wang</surname>
+,
+<given-names>D.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Xiao</surname>
+,
+<given-names>A.</given-names>
+</string-name>
+, &amp;
+<string-name name-style="western">
+<surname>Yin</surname>
+,
+<given-names>B.</given-names>
+</string-name>
+</person-group>
+(
+<year>2020</year>
+).
+<article-title>Cerebral micro-structural changes in COVID-19 patients—An MRI-based 3-month follow-up study</article-title>
+.
+<source>EClinicalMedicine</source>
+,
+<volume>25</volume>
+,
+<fpage>100484</fpage>
+.
+<pub-id pub-id-type="doi">10.1016/j.eclinm.2020.100484</pub-id>
+<pub-id pub-id-type="pmid">32838240</pub-id>
+<pub-id pub-id-type="pmcid">PMC7396952</pub-id></mixed-citation></ref><ref id="IMAG.a.23-b36"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Montagne</surname>
+,
+<given-names>A.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Nation</surname>
+,
+<given-names>D. A.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Sagare</surname>
+,
+<given-names>A. P.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Barisano</surname>
+,
+<given-names>G.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Sweeney</surname>
+,
+<given-names>M. D.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Chakhoyan</surname>
+,
+<given-names>A.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Pachicano</surname>
+,
+<given-names>M.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Joe</surname>
+,
+<given-names>E.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Nelson</surname>
+,
+<given-names>A. R.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>D’Orazio</surname>
+,
+<given-names>L. M.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Buennagel</surname>
+,
+<given-names>D. P.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Harrington</surname>
+,
+<given-names>M. G.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Benzinger</surname>
+,
+<given-names>T. L. S.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Fagan</surname>
+,
+<given-names>A. M.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Ringman</surname>
+,
+<given-names>J. M.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Schneider</surname>
+,
+<given-names>L. S.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Morris</surname>
+,
+<given-names>J. C.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Reiman</surname>
+,
+<given-names>E. M.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Caselli</surname>
+,
+<given-names>R. J.</given-names>
+</string-name>
+, …
+<string-name name-style="western">
+<surname>Zlokovic</surname>
+,
+<given-names>B. V.</given-names>
+</string-name>
+</person-group>
+(
+<year>2020</year>
+).
+<article-title>APOE4 leads to blood-brain barrier dysfunction predicting cognitive decline</article-title>
+.
+<source>Nature</source>
+,
+<volume>581</volume>
+(
+<issue>7806</issue>
+),
+<fpage>71</fpage>
+–
+<lpage>76</lpage>
+.
+<pub-id pub-id-type="doi">10.1038/s41586-020-2247-3</pub-id>
+<pub-id pub-id-type="pmid">32376954</pub-id>
+<pub-id pub-id-type="pmcid">PMC7250000</pub-id></mixed-citation></ref><ref id="IMAG.a.23-b37"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Munblit</surname>
+,
+<given-names>D.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>O’Hara</surname>
+,
+<given-names>M. E.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Akrami</surname>
+,
+<given-names>A.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Perego</surname>
+,
+<given-names>E.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Olliaro</surname>
+,
+<given-names>P.</given-names>
+</string-name>
+, &amp;
+<string-name name-style="western">
+<surname>Needham</surname>
+,
+<given-names>D. M.</given-names>
+</string-name>
+</person-group>
+(
+<year>2022</year>
+).
+<article-title>Long COVID: Aiming for a consensus</article-title>
+.
+<source>The Lancet Respiratory Medicine</source>
+,
+<volume>10</volume>
+(
+<issue>7</issue>
+),
+<fpage>632</fpage>
+–
+<lpage>634</lpage>
+.
+<pub-id pub-id-type="doi">10.1016/S2213-2600(22)00135-7</pub-id>
+<pub-id pub-id-type="pmid">35525253</pub-id>
+<pub-id pub-id-type="pmcid">PMC9067938</pub-id></mixed-citation></ref><ref id="IMAG.a.23-b38"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Nation</surname>
+,
+<given-names>D. A.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Sweeney</surname>
+,
+<given-names>M. D.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Montagne</surname>
+,
+<given-names>A.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Sagare</surname>
+,
+<given-names>A. P.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>D’Orazio</surname>
+,
+<given-names>L. M.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Pachicano</surname>
+,
+<given-names>M.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Sepehrband</surname>
+,
+<given-names>F.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Nelson</surname>
+,
+<given-names>A. R.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Buennagel</surname>
+,
+<given-names>D. P.</given-names>
+</string-name>
+, &amp;
+<string-name name-style="western">
+<surname>Harrington</surname>
+,
+<given-names>M. G.</given-names>
+</string-name>
+</person-group>
+(
+<year>2019</year>
+).
+<article-title>Blood–brain barrier breakdown is an early biomarker of human cognitive dysfunction</article-title>
+.
+<source>Nature Medicine</source>
+,
+<volume>25</volume>
+(
+<issue>2</issue>
+),
+<fpage>270</fpage>
+–
+<lpage>276</lpage>
+.
+<pub-id pub-id-type="doi">10.1038/s41591-018-0297-y</pub-id>
+<pub-id pub-id-type="pmcid">PMC6367058</pub-id><pub-id pub-id-type="pmid">30643288</pub-id></mixed-citation></ref><ref id="IMAG.a.23-b39"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Pandharipande</surname>
+,
+<given-names>P.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Williams Roberson</surname>
+,
+<given-names>S.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Harrison</surname>
+,
+<given-names>F. E.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Wilson</surname>
+,
+<given-names>J. E.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Bastarache</surname>
+,
+<given-names>J. A.</given-names>
+</string-name>
+, &amp;
+<string-name name-style="western">
+<surname>Ely</surname>
+,
+<given-names>E. W.</given-names>
+</string-name>
+</person-group>
+(
+<year>2023</year>
+).
+<article-title>Mitigating neurological, cognitive, and psychiatric sequelae of COVID-19-related critical illness</article-title>
+.
+<source>The Lancet Respiratory Medicine</source>
+,
+<volume>11</volume>
+(
+<issue>8</issue>
+),
+<fpage>726</fpage>
+–
+<lpage>738</lpage>
+.
+<pub-id pub-id-type="doi">10.1016/S2213-2600(23)00238-2</pub-id>
+<pub-id pub-id-type="pmid">37475124</pub-id>
+<pub-id pub-id-type="pmcid">PMC10706757</pub-id></mixed-citation></ref><ref id="IMAG.a.23-b40"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Paolini</surname>
+,
+<given-names>M.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Palladini</surname>
+,
+<given-names>M.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Mazza</surname>
+,
+<given-names>M. G.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Colombo</surname>
+,
+<given-names>F.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Vai</surname>
+,
+<given-names>B.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Rovere-Querini</surname>
+,
+<given-names>P.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Falini</surname>
+,
+<given-names>A.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Poletti</surname>
+,
+<given-names>S.</given-names>
+</string-name>
+, &amp;
+<string-name name-style="western">
+<surname>Benedetti</surname>
+,
+<given-names>F.</given-names>
+</string-name>
+</person-group>
+(
+<year>2023</year>
+).
+<article-title>Brain correlates of subjective cognitive complaints in COVID-19 survivors: A multimodal magnetic resonance imaging study</article-title>
+.
+<source>European Neuropsychopharmacology</source>
+,
+<volume>68</volume>
+,
+<fpage>1</fpage>
+–
+<lpage>10</lpage>
+.
+<pub-id pub-id-type="doi">10.1016/j.euroneuro.2022.12.002</pub-id>
+<pub-id pub-id-type="pmid">36640728</pub-id>
+<pub-id pub-id-type="pmcid">PMC9742225</pub-id></mixed-citation></ref><ref id="IMAG.a.23-b41"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Pszczołowska</surname>
+,
+<given-names>M.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Walczak</surname>
+,
+<given-names>K.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Misków</surname>
+,
+<given-names>W.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Antosz</surname>
+,
+<given-names>K.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Batko</surname>
+,
+<given-names>J.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Karska</surname>
+,
+<given-names>J.</given-names>
+</string-name>
+, &amp;
+<string-name name-style="western">
+<surname>Leszek</surname>
+,
+<given-names>J.</given-names>
+</string-name>
+</person-group>
+(
+<year>2024</year>
+).
+<article-title>Molecular cross-talk between long COVID-19 and Alzheimer’s disease</article-title>
+.
+<source>Geroscience</source>
+,
+<volume>46</volume>
+(
+<issue>3</issue>
+),
+<fpage>2885</fpage>
+–
+<lpage>2899</lpage>
+.
+<pub-id pub-id-type="doi">10.1007/s11357-024-01096-1</pub-id>
+<pub-id pub-id-type="pmid">38393535</pub-id>
+<pub-id pub-id-type="pmcid">PMC11009207</pub-id></mixed-citation></ref><ref id="IMAG.a.23-b42"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Reas</surname>
+,
+<given-names>E. T.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Shadrin</surname>
+,
+<given-names>A.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Frei</surname>
+,
+<given-names>O.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Motazedi</surname>
+,
+<given-names>E.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>McEvoy</surname>
+,
+<given-names>L.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Bahrami</surname>
+,
+<given-names>S.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>van der Meer</surname>
+,
+<given-names>D.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Makowski</surname>
+,
+<given-names>C.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Loughnan</surname>
+,
+<given-names>R.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Wang</surname>
+,
+<given-names>X.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Broce</surname>
+,
+<given-names>I.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Banks</surname>
+,
+<given-names>S. J.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Fominykh</surname>
+,
+<given-names>V.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Cheng</surname>
+,
+<given-names>W.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Holland</surname>
+,
+<given-names>D.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Smeland</surname>
+,
+<given-names>O. B.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Seibert</surname>
+,
+<given-names>T.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Selbæk</surname>
+,
+<given-names>G.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Brewer</surname>
+,
+<given-names>J. B.</given-names>
+</string-name>
+</person-group>
+, …
+<collab>Alzheimer’s Disease Neuroimaging Initiative</collab>
+. (
+<year>2023</year>
+).
+<article-title>Improved multimodal prediction of progression from MCI to Alzheimer’s disease combining genetics with quantitative brain MRI and cognitive measures</article-title>
+.
+<source>Alzheimer’s &amp; Dementia</source>
+,
+<volume>19</volume>
+(
+<issue>11</issue>
+),
+<fpage>5151</fpage>
+–
+<lpage>5158</lpage>
+.
+<pub-id pub-id-type="doi">10.1002/alz.13112</pub-id>
+<pub-id pub-id-type="pmcid">PMC10620101</pub-id><pub-id pub-id-type="pmid">37132098</pub-id></mixed-citation></ref><ref id="IMAG.a.23-b43"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Reas</surname>
+,
+<given-names>E. T.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Solders</surname>
+,
+<given-names>S. K.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Tsiknia</surname>
+,
+<given-names>A.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Triebswetter</surname>
+,
+<given-names>C.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Shen</surname>
+,
+<given-names>Q.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Rivera</surname>
+,
+<given-names>C. S.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Andrews</surname>
+,
+<given-names>M. J.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Alderson-Myers</surname>
+,
+<given-names>A.</given-names>
+</string-name>
+, &amp;
+<string-name name-style="western">
+<surname>Brewer</surname>
+,
+<given-names>J. B.</given-names>
+</string-name>
+</person-group>
+(
+<year>2024</year>
+).
+<article-title>APOE ε4-related blood‚Äìbrain barrier breakdown is associated with microstructural abnormalities</article-title>
+.
+<source>Alzheimer’s &amp; Dementia</source>
+,
+<volume>20</volume>
+(
+<issue>12</issue>
+),
+<fpage>8615</fpage>
+–
+<lpage>8624</lpage>
+.
+<pub-id pub-id-type="doi">10.1002/alz.14302</pub-id>
+<pub-id pub-id-type="pmcid">PMC11667544</pub-id><pub-id pub-id-type="pmid">39411970</pub-id></mixed-citation></ref><ref id="IMAG.a.23-b44"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Reiken</surname>
+,
+<given-names>S.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Sittenfeld</surname>
+,
+<given-names>L.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Dridi</surname>
+,
+<given-names>H.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Liu</surname>
+,
+<given-names>Y.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Liu</surname>
+,
+<given-names>X.</given-names>
+</string-name>
+, &amp;
+<string-name name-style="western">
+<surname>Marks</surname>
+,
+<given-names>A. R.</given-names>
+</string-name>
+</person-group>
+(
+<year>2022</year>
+).
+<article-title>Alzheimer’s-like signaling in brains of COVID-19 patients</article-title>
+.
+<source>Alzheimer’s &amp; Dementia</source>
+,
+<volume>18</volume>
+(
+<issue>5</issue>
+),
+<fpage>955</fpage>
+–
+<lpage>965</lpage>
+.
+<pub-id pub-id-type="doi">10.1002/alz.12558</pub-id>
+<pub-id pub-id-type="pmcid">PMC9011576</pub-id><pub-id pub-id-type="pmid">35112786</pub-id></mixed-citation></ref><ref id="IMAG.a.23-b45"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Safdari Lord</surname>
+,
+<given-names>J.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Soltani Rezaiezadeh</surname>
+,
+<given-names>J.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Yekaninejad</surname>
+,
+<given-names>M. S.</given-names>
+</string-name>
+, &amp;
+<string-name name-style="western">
+<surname>Izadi</surname>
+,
+<given-names>P.</given-names>
+</string-name>
+</person-group>
+(
+<year>2022</year>
+).
+<article-title>The association of APOE genotype with COVID-19 disease severity</article-title>
+.
+<source>Scientific Reports</source>
+,
+<volume>12</volume>
+(
+<issue>1</issue>
+),
+<fpage>13483</fpage>
+.
+<pub-id pub-id-type="doi">10.1038/s41598-022-17262-4</pub-id>
+<pub-id pub-id-type="pmid">35931737</pub-id>
+<pub-id pub-id-type="pmcid">PMC9356041</pub-id></mixed-citation></ref><ref id="IMAG.a.23-b46"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Salmon</surname>
+,
+<given-names>D.</given-names>
+</string-name>
+, &amp;
+<string-name name-style="western">
+<surname>Butters</surname>
+,
+<given-names>N.</given-names>
+</string-name>
+</person-group>
+(
+<year>1992</year>
+).
+<article-title>Neuropsychological assessment of dementia in the elderly</article-title>
+.
+<source>Principles of Geriatric Neurology. Philadelphia: FA Davis</source>
+,
+<volume>144</volume>
+,
+<fpage>63</fpage>
+.
+<pub-id pub-id-type="doi">10.1037/10157-003</pub-id>
+</mixed-citation></ref><ref id="IMAG.a.23-b47"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Sanabria-Diaz</surname>
+,
+<given-names>G.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Etter</surname>
+,
+<given-names>M. M.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Melie-Garcia</surname>
+,
+<given-names>L.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Lieb</surname>
+,
+<given-names>J. M.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Psychogios</surname>
+,
+<given-names>M.-N.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Hutter</surname>
+,
+<given-names>G.</given-names>
+</string-name>
+, &amp;
+<string-name name-style="western">
+<surname>Granziera</surname>
+,
+<given-names>C.</given-names>
+</string-name>
+</person-group>
+(
+<year>2022</year>
+).
+<article-title>Brain cortical alterations in COVID-19 patients with neurological symptoms</article-title>
+.
+<source>Frontiers in Neuroscience</source>
+,
+<volume>16</volume>
+,
+<fpage>992165</fpage>
+.
+<pub-id pub-id-type="doi">10.3389/fnins.2022.992165</pub-id>
+<pub-id pub-id-type="pmid">36340780</pub-id>
+<pub-id pub-id-type="pmcid">PMC9630324</pub-id></mixed-citation></ref><ref id="IMAG.a.23-b48"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Sashindranath</surname>
+,
+<given-names>M.</given-names>
+</string-name>
+, &amp;
+<string-name name-style="western">
+<surname>Nandurkar</surname>
+,
+<given-names>H. H.</given-names>
+</string-name>
+</person-group>
+(
+<year>2021</year>
+).
+<article-title>Endothelial dysfunction in the brain</article-title>
+.
+<source>Stroke</source>
+,
+<volume>52</volume>
+(
+<issue>5</issue>
+),
+<fpage>1895</fpage>
+–
+<lpage>1904</lpage>
+.
+<pub-id pub-id-type="doi">10.1161/STROKEAHA.120.032711</pub-id>
+<pub-id pub-id-type="pmid">33794655</pub-id>
+<pub-id pub-id-type="pmcid">PMC8078121</pub-id></mixed-citation></ref><ref id="IMAG.a.23-b49"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Song</surname>
+,
+<given-names>H.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Tomasevich</surname>
+,
+<given-names>A.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Acheampong</surname>
+,
+<given-names>K. K.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Schaff</surname>
+,
+<given-names>D. L.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Shaffer</surname>
+,
+<given-names>S. M.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Dolle</surname>
+,
+<given-names>J.-P.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Johnson</surname>
+,
+<given-names>V. E.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Mikytuck</surname>
+,
+<given-names>B.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Lee</surname>
+,
+<given-names>E. B.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Nolan</surname>
+,
+<given-names>A.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Keene</surname>
+,
+<given-names>C. D.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Weiss</surname>
+,
+<given-names>S. R.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Stewart</surname>
+,
+<given-names>W.</given-names>
+</string-name>
+, &amp;
+<string-name name-style="western">
+<surname>Smith</surname>
+,
+<given-names>D. H.</given-names>
+</string-name>
+</person-group>
+(
+<year>2023</year>
+).
+<article-title>Detection of blood–brain barrier disruption in brains of patients with COVID-19, but no evidence of brain penetration by SARS-CoV-2</article-title>
+.
+<source>Acta Neuropathologica</source>
+,
+<volume>146</volume>
+(
+<issue>5</issue>
+),
+<fpage>771</fpage>
+–
+<lpage>775</lpage>
+.
+<pub-id pub-id-type="doi">10.1007/s00401-023-02624-7</pub-id>
+<pub-id pub-id-type="pmid">37624381</pub-id>
+<pub-id pub-id-type="pmcid">PMC10592095</pub-id></mixed-citation></ref><ref id="IMAG.a.23-b50"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Soriano</surname>
+,
+<given-names>J. B.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Murthy</surname>
+,
+<given-names>S.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Marshall</surname>
+,
+<given-names>J. C.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Relan</surname>
+,
+<given-names>P.</given-names>
+</string-name>
+, &amp;
+<string-name name-style="western">
+<surname>Diaz</surname>
+,
+<given-names>J. V.</given-names>
+</string-name>
+</person-group>
+(
+<year>2022</year>
+).
+<article-title>A clinical case definition of post-COVID-19 condition by a Delphi consensus</article-title>
+.
+<source>The Lancet Infectious Diseases</source>
+,
+<volume>22</volume>
+(
+<issue>4</issue>
+),
+<fpage>e102</fpage>
+–
+<lpage>e107</lpage>
+.
+<pub-id pub-id-type="doi">10.1016/S1473-3099(21)00703-9</pub-id>
+<pub-id pub-id-type="pmid">34951953</pub-id>
+<pub-id pub-id-type="pmcid">PMC8691845</pub-id></mixed-citation></ref><ref id="IMAG.a.23-b51"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Stanhewicz</surname>
+,
+<given-names>A. E.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Wenner</surname>
+,
+<given-names>M. M.</given-names>
+</string-name>
+, &amp;
+<string-name name-style="western">
+<surname>Stachenfeld</surname>
+,
+<given-names>N. S.</given-names>
+</string-name>
+</person-group>
+(
+<year>2018</year>
+).
+<article-title>Sex differences in endothelial function important to vascular health and overall cardiovascular disease risk across the lifespan</article-title>
+.
+<source>American Journal of Physiology-Heart and Circulatory Physiology</source>
+,
+<volume>315</volume>
+(
+<issue>6</issue>
+),
+<fpage>H1569</fpage>
+–
+<lpage>H1588</lpage>
+.
+<pub-id pub-id-type="doi">10.1152/ajpheart.00396.2018</pub-id>
+<pub-id pub-id-type="pmid">30216121</pub-id>
+<pub-id pub-id-type="pmcid">PMC6734083</pub-id></mixed-citation></ref><ref id="IMAG.a.23-b52"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Stein</surname>
+,
+<given-names>S. R.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Ramelli</surname>
+,
+<given-names>S. C.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Grazioli</surname>
+,
+<given-names>A.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Chung</surname>
+,
+<given-names>J.-Y.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Singh</surname>
+,
+<given-names>M.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Yinda</surname>
+,
+<given-names>C. K.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Winkler</surname>
+,
+<given-names>C. W.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Sun</surname>
+,
+<given-names>J.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Dickey</surname>
+,
+<given-names>J. M.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Ylaya</surname>
+,
+<given-names>K.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Ko</surname>
+,
+<given-names>S. H.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Platt</surname>
+,
+<given-names>A. P.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Burbelo</surname>
+,
+<given-names>P. D.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Quezado</surname>
+,
+<given-names>M.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Pittaluga</surname>
+,
+<given-names>S.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Purcell</surname>
+,
+<given-names>M.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Munster</surname>
+,
+<given-names>V. J.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Belinky</surname>
+,
+<given-names>F.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Ramos-Benitez</surname>
+,
+<given-names>M. J.</given-names>
+</string-name>
+</person-group>
+, …
+<collab>NIH COVID-19 Autopsy Consortium</collab>
+. (
+<year>2022</year>
+).
+<article-title>SARS-CoV-2 infection and persistence in the human body and brain at autopsy</article-title>
+.
+<source>Nature</source>
+,
+<volume>612</volume>
+(
+<issue>7941</issue>
+),
+<fpage>758</fpage>
+–
+<lpage>763</lpage>
+.
+<pub-id pub-id-type="doi">10.1038/s41586-022-05542-y</pub-id>
+<pub-id pub-id-type="pmid">36517603</pub-id>
+<pub-id pub-id-type="pmcid">PMC9749650</pub-id></mixed-citation></ref><ref id="IMAG.a.23-b53"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Sylvester</surname>
+,
+<given-names>S. V.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Rusu</surname>
+,
+<given-names>R.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Chan</surname>
+,
+<given-names>B.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Bellows</surname>
+,
+<given-names>M.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>O’Keefe</surname>
+,
+<given-names>C.</given-names>
+</string-name>
+, &amp;
+<string-name name-style="western">
+<surname>Nicholson</surname>
+,
+<given-names>S.</given-names>
+</string-name>
+</person-group>
+(
+<year>2022</year>
+).
+<article-title>Sex differences in sequelae from COVID-19 infection and in long COVID syndrome: A review</article-title>
+.
+<source>Current Medical Research and Opinion</source>
+,
+<volume>38</volume>
+(
+<issue>8</issue>
+),
+<fpage>1391</fpage>
+–
+<lpage>1399</lpage>
+.
+<pub-id pub-id-type="doi">10.1080/03007995.2022.2081454</pub-id>
+<pub-id pub-id-type="pmid">35726132</pub-id>
+</mixed-citation></ref><ref id="IMAG.a.23-b54"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Tan</surname>
+,
+<given-names>C. H.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Fan</surname>
+,
+<given-names>C. C.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Mormino</surname>
+,
+<given-names>E. C.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Sugrue</surname>
+,
+<given-names>L. P.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Broce</surname>
+,
+<given-names>I. J.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Hess</surname>
+,
+<given-names>C. P.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Dillon</surname>
+,
+<given-names>W. P.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Bonham</surname>
+,
+<given-names>L. W.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Yokoyama</surname>
+,
+<given-names>J. S.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Karch</surname>
+,
+<given-names>C. M.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Brewer</surname>
+,
+<given-names>J. B.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Rabinovici</surname>
+,
+<given-names>G. D.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Miller</surname>
+,
+<given-names>B. L.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Schellenberg</surname>
+,
+<given-names>G. D.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Kauppi</surname>
+,
+<given-names>K.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Feldman</surname>
+,
+<given-names>H. A.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Holland</surname>
+,
+<given-names>D.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>McEvoy</surname>
+,
+<given-names>L. K.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Hyman</surname>
+,
+<given-names>B. T.</given-names>
+</string-name>
+</person-group>
+, …
+<collab>Alzheimer’s Disease Neuroimaging, I</collab>
+. (
+<year>2018</year>
+).
+<article-title>Polygenic hazard score: An enrichment marker for Alzheimer’s associated amyloid and tau deposition</article-title>
+.
+<source>Acta Neuropathologica</source>
+,
+<volume>135</volume>
+(
+<issue>1</issue>
+),
+<fpage>85</fpage>
+–
+<lpage>93</lpage>
+.
+<pub-id pub-id-type="doi">10.1007/s00401-017-1789-4</pub-id>
+<pub-id pub-id-type="pmid">29177679</pub-id>
+<pub-id pub-id-type="pmcid">PMC5758038</pub-id></mixed-citation></ref><ref id="IMAG.a.23-b55"><mixed-citation publication-type="journal">
+<collab>The Lancet Neurology</collab>
+. (
+<year>2021</year>
+).
+<article-title>Long COVID: Understanding the neurological effects</article-title>
+.
+<source>The Lancet Neurology</source>
+,
+<volume>20</volume>
+(
+<issue>4</issue>
+),
+<fpage>247</fpage>
+.
+<pub-id pub-id-type="doi">10.1016/S1474-4422(21)00059-4</pub-id>
+<pub-id pub-id-type="pmid">33743226</pub-id>
+<pub-id pub-id-type="pmcid">PMC7969137</pub-id></mixed-citation></ref><ref id="IMAG.a.23-b56"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Wardlaw</surname>
+,
+<given-names>J. M.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Valdés Hernández</surname>
+,
+<given-names>M. C.</given-names>
+</string-name>
+, &amp;
+<string-name name-style="western">
+<surname>Muñoz‐Maniega</surname>
+,
+<given-names>S.</given-names>
+</string-name>
+</person-group>
+(
+<year>2015</year>
+).
+<article-title>What are White Matter Hyperintensities Made of?</article-title>
+<source>Journal of the American Heart Association</source>
+,
+<volume>4</volume>
+(
+<issue>6</issue>
+),
+<fpage>e001140</fpage>
+.
+<pub-id pub-id-type="doi">10.1161/JAHA.114.001140</pub-id>
+<pub-id pub-id-type="pmid">26104658</pub-id>
+<pub-id pub-id-type="pmcid">PMC4599520</pub-id></mixed-citation></ref><ref id="IMAG.a.23-b57"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>White</surname>
+,
+<given-names>N. S.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Leergaard</surname>
+,
+<given-names>T. B.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>D’Arceuil</surname>
+,
+<given-names>H.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Bjaalie</surname>
+,
+<given-names>J. G.</given-names>
+</string-name>
+, &amp;
+<string-name name-style="western">
+<surname>Dale</surname>
+,
+<given-names>A. M.</given-names>
+</string-name>
+</person-group>
+(
+<year>2013</year>
+).
+<article-title>Probing tissue microstructure with restriction spectrum imaging: Histological and theoretical validation</article-title>
+.
+<source>Human Brain Mapping</source>
+,
+<volume>34</volume>
+(
+<issue>2</issue>
+),
+<fpage>327</fpage>
+–
+<lpage>346</lpage>
+.
+<pub-id pub-id-type="doi">10.1002/hbm.21454</pub-id>
+<pub-id pub-id-type="pmid">23169482</pub-id>
+<pub-id pub-id-type="pmcid">PMC3538903</pub-id></mixed-citation></ref><ref id="IMAG.a.23-b58"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Whitmer</surname>
+,
+<given-names>R. A.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Sidney</surname>
+,
+<given-names>S.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Selby</surname>
+,
+<given-names>J.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Johnston</surname>
+,
+<given-names>S. C.</given-names>
+</string-name>
+, &amp;
+<string-name name-style="western">
+<surname>Yaffe</surname>
+,
+<given-names>K.</given-names>
+</string-name>
+</person-group>
+(
+<year>2005</year>
+).
+<article-title>Midlife cardiovascular risk factors and risk of dementia in late life</article-title>
+.
+<source>Neurology</source>
+,
+<volume>64</volume>
+(
+<issue>2</issue>
+),
+<fpage>277</fpage>
+–
+<lpage>281</lpage>
+.
+<uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://doi/org/10.1212/01.WNL.0000149519.47454.F2">https://doi/org/10.1212/01.WNL.0000149519.47454.F2</uri>
+<pub-id pub-id-type="pmid">15668425</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1212/01.WNL.0000149519.47454.F2</pub-id></mixed-citation></ref><ref id="IMAG.a.23-b59"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Xu</surname>
+,
+<given-names>E.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Xie</surname>
+,
+<given-names>Y.</given-names>
+</string-name>
+, &amp;
+<string-name name-style="western">
+<surname>Al-Aly</surname>
+,
+<given-names>Z.</given-names>
+</string-name>
+</person-group>
+(
+<year>2022</year>
+).
+<article-title>Long-term neurologic outcomes of COVID-19</article-title>
+.
+<source>Nature Medicine</source>
+,
+<volume>28</volume>
+(
+<issue>11</issue>
+),
+<fpage>2406</fpage>
+–
+<lpage>2415</lpage>
+.
+<pub-id pub-id-type="doi">10.1038/s41591-022-02001-z</pub-id>
+<pub-id pub-id-type="pmcid">PMC9671811</pub-id><pub-id pub-id-type="pmid">36138154</pub-id></mixed-citation></ref><ref id="IMAG.a.23-b60"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Ziff</surname>
+,
+<given-names>O. J.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Ashton</surname>
+,
+<given-names>N. J.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Mehta</surname>
+,
+<given-names>P. R.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Brown</surname>
+,
+<given-names>R.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Athauda</surname>
+,
+<given-names>D.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Heaney</surname>
+,
+<given-names>J.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Heslegrave</surname>
+,
+<given-names>A. J.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Benedet</surname>
+,
+<given-names>A. L.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Blennow</surname>
+,
+<given-names>K.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Checkley</surname>
+,
+<given-names>A. M.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Houlihan</surname>
+,
+<given-names>C. F.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Gauthier</surname>
+,
+<given-names>S.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Rosa-Neto</surname>
+,
+<given-names>P.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Fox</surname>
+,
+<given-names>N. C.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Schott</surname>
+,
+<given-names>J. M.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Zetterberg</surname>
+,
+<given-names>H.</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Benjamin</surname>
+,
+<given-names>L. A.</given-names>
+</string-name>
+, &amp;
+<string-name name-style="western">
+<surname>Paterson</surname>
+,
+<given-names>R. W.</given-names>
+</string-name>
+</person-group>
+(
+<year>2022</year>
+).
+<article-title>Amyloid processing in COVID-19-associated neurological syndromes</article-title>
+.
+<source>Journal of Neurochemistry</source>
+,
+<volume>161</volume>
+(
+<issue>2</issue>
+),
+<fpage>146</fpage>
+–
+<lpage>157</lpage>
+.
+<pub-id pub-id-type="doi">10.1111/jnc.15585</pub-id>
+<pub-id pub-id-type="pmid">35137414</pub-id>
+<pub-id pub-id-type="pmcid">PMC9115071</pub-id></mixed-citation></ref></ref-list></back></article></pmc-articleset>

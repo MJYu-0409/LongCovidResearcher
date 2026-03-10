@@ -1,0 +1,36 @@
+{
+  "pmcid": "PMC12111130",
+  "pmid": "40429707",
+  "doi": "10.3390/ijms26104562",
+  "title": "Persistent Monocytic Bioenergetic Impairment and Mitochondrial DNA Damage in PASC Patients with Cardiovascular Complications.",
+  "abstract": "Cardiovascular complications are a hallmark of Post-Acute Sequelae of Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2) infection (PASC), yet the mechanisms driving persistent cardiac dysfunction remain poorly understood. Emerging evidence implicates mitochondrial dysfunction in immune cells as a key contributor. This study investigated whether CD14++ monocytes from long COVID patients exhibit bioenergetic impairment, mitochondrial DNA (mtDNA) damage, and defective oxidative stress adaptation, which may underlie cardiovascular symptoms in PASC. CD14++ monocytes were isolated from 14 long COVID patients with cardiovascular symptoms (e.g., dyspnea, angina) and 10 age-matched controls with similar cardiovascular risk profiles. Mitochondrial function was assessed using a Seahorse Agilent Analyzer under basal conditions and after oxidative stress induction with buthionine sulfoximine (BSO). Mitochondrial membrane potential was measured via Tetramethylrhodamine Ethyl Ester (TMRE) assay, mtDNA integrity via qPCR, and reactive oxygen species (ROS) dynamics via Fluorescence-Activated Cell Sorting (FACS). Parallel experiments exposed healthy monocytes to SARS-CoV-2 spike protein to evaluate direct viral effects. CD14++ monocytes from long COVID patients with cardiovascular symptoms (n = 14) exhibited profound mitochondrial dysfunction compared to age-matched controls (n = 10). Under oxidative stress induced by buthionine sulfoximine (BSO), long COVID monocytes failed to upregulate basal respiration (9.5 vs. 30.4 pmol/min in controls, p = 0.0043), showed a 65% reduction in maximal respiration (p = 0.4035, ns) and demonstrated a 70% loss of spare respiratory capacity (p = 0.4143, ns) with significantly impaired adaptation to BSO challenge (long COVID + BSO: 9.9 vs. control + BSO: 54 pmol/min, p = 0.0091). Proton leak, a protective mechanism against ROS overproduction, was blunted in long COVID monocytes (3-fold vs. 13-fold elevation in controls, p = 0.0294). Paradoxically, long COVID monocytes showed reduced ROS accumulation after BSO treatment (6% decrease vs. 1.2-fold increase in controls, p = 0.0015) and elevated mitochondrial membrane potential (157 vs. 113.7 TMRE fluorescence, p = 0.0179), which remained stable under oxidative stress. mtDNA analysis revealed severe depletion (80% reduction, p < 0.001) and region-specific damage, with 75% and 70% reductions in amplification efficiency for regions C and D (p < 0.05), respectively. In contrast, exposure of healthy monocytes to SARS-CoV-2 spike protein did not recapitulate these defects, with preserved basal respiration, ATP production, and spare respiratory capacity, though coupling efficiency under oxidative stress was reduced (p < 0.05). These findings suggest that mitochondrial dysfunction in long COVID syndrome arises from maladaptive host responses rather than direct viral toxicity, characterized by bioenergetic failure, impaired stress adaptation, and mitochondrial genomic instability. This study identifies persistent mitochondrial dysfunction in long COVID monocytes as a critical driver of cardiovascular complications in PASC. Key defects-bioenergetic failure, impaired stress adaptation and mtDNA damage-correlate with clinical symptoms like heart failure and exercise intolerance. The stable elevation of mitochondrial membrane potential and resistance to ROS induction suggest maladaptive remodeling of mitochondrial physiology. These findings position mitochondrial resilience as a therapeutic target, with potential strategies including antioxidants, mtDNA repair agents or metabolic modulators. The dissociation between spike protein exposure and mitochondrial dysfunction highlights the need to explore host-directed mechanisms in PASC pathophysiology. This work advances our understanding of long COVID cardiovascular sequelae and provides a foundation for biomarker development and targeted interventions to mitigate long-term morbidity.",
+  "authors": [
+    "Dilvin Semo",
+    "Zornitsa Shomanova",
+    "Jürgen Sindermann",
+    "Michael Mohr",
+    "Georg Evers",
+    "Lukas J Motloch",
+    "Holger Reinecke",
+    "Rinesh Godfrey",
+    "Rudin Pistulli"
+  ],
+  "journal": "International journal of molecular sciences",
+  "pub_year": "2025",
+  "pub_month": "May",
+  "pub_day": "09",
+  "keywords": [
+    "CD14++ monocytes",
+    "bioenergetic profile",
+    "heart failure",
+    "long COVID syndrome",
+    "monocytic mitochondrial dysfunction",
+    "mtDNA damage",
+    "oxidative stress adaptation",
+    "reactive oxygen species (ROS)",
+    "seahorse analysis"
+  ],
+  "article_types": [
+    "Journal Article"
+  ]
+}

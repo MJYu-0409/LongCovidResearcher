@@ -1,0 +1,33 @@
+{
+  "pmcid": "PMC12340005",
+  "pmid": "40790065",
+  "doi": "10.1038/s41598-025-15208-0",
+  "title": "Automatic detection of persistent physiological changes after COVID infection via wearable devices with potential for long COVID management.",
+  "abstract": "Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) infection can lead to post-acute sequelae of SARS-CoV-2 infection (PASC), or Long COVID, a chronic multisystemic condition with diverse symptoms and no objective diagnostic test. In this retrospective study, we developed a data-driven method to objectively detect persistent physiological changes using wearable device data in a large cohort of over 12,000 US military personnel. We analyzed physiological data from 663 symptomatic COVID-19 positive cases and 2,513 asymptomatic COVID-19 negative controls. Our method identified persistent physiological changes in 9.4% of COVID-19 positive individuals, most commonly manifesting as elevated nightly heart rate and reductions in some heart rate variability metrics. Our findings demonstrate that wearable technology can be used to objectively detect chronic physiological changes beyond the acute phase of COVID-19 illness. Although our method requires further clinical validation, it could potentially provide objective metrics to help standardize Long COVID diagnosis criteria.",
+  "authors": [
+    "Soheil Borhani",
+    "Ikaro Silva",
+    "Robert J Damiano",
+    "Ting Feng",
+    "Chunxue Wang",
+    "Luoluo Liu",
+    "Emmanuele Salvati",
+    "Sara Mariani",
+    "Bryan Conroy"
+  ],
+  "journal": "Scientific reports",
+  "pub_year": "2025",
+  "pub_month": "Aug",
+  "pub_day": "11",
+  "keywords": [
+    "COVID-19 infection",
+    "Chronic COVID-19 management",
+    "Long COVID",
+    "Physiological biomarkers",
+    "Post-Acute sequelae of SARS-CoV-2",
+    "Wearable devices"
+  ],
+  "article_types": [
+    "Journal Article"
+  ]
+}

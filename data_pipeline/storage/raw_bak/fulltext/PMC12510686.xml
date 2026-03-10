@@ -1,0 +1,799 @@
+<?xml version="1.0"  ?><!DOCTYPE pmc-articleset PUBLIC "-//NLM//DTD ARTICLE SET 2.0//EN" "https://dtd.nlm.nih.gov/ncbi/pmc/articleset/nlm-articleset-2.0.dtd"><pmc-articleset><article xml:lang="en" article-type="research-article" dtd-version="1.4"><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">J Food Drug Anal</journal-id><journal-id journal-id-type="iso-abbrev">J Food Drug Anal</journal-id><journal-id journal-id-type="pmc-domain-id">4225</journal-id><journal-id journal-id-type="pmc-domain">jfda</journal-id><journal-title-group><journal-title>Journal of Food and Drug Analysis</journal-title></journal-title-group><issn pub-type="ppub">1021-9498</issn><issn pub-type="epub">2224-6614</issn><publisher><publisher-name>Food and Drug Administration, Taiwan</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC12510686</article-id><article-id pub-id-type="pmcid-ver">PMC12510686.1</article-id><article-id pub-id-type="pmcaid">12510686</article-id><article-id pub-id-type="pmcaiid">12510686</article-id><article-id pub-id-type="pmid">41066748</article-id><article-id pub-id-type="doi">10.38212/2224-6614.3558</article-id><article-id pub-id-type="publisher-id">jfda-33-03-326</article-id><article-version article-version-type="pmc-version">1</article-version><article-categories><subj-group subj-group-type="heading"><subject>Original Article</subject></subj-group></article-categories><title-group><article-title>The economic burden of COVID-19 in a region with stringent response measures: A case study of Taiwan</article-title></title-group><contrib-group><contrib contrib-type="author"><name name-style="western"><surname>Tan</surname><given-names initials="ECH">Elise Chia-Hui</given-names></name><role content-type="https://credit.niso.org/contributor-roles/writing-review-editing/">Writing – review &amp; editing</role><role content-type="https://credit.niso.org/contributor-roles/writing-original-draft/">Writing – original draft</role><role content-type="https://credit.niso.org/contributor-roles/visualization/">Visualization</role><role content-type="https://credit.niso.org/contributor-roles/methodology/">Methodology</role><role content-type="https://credit.niso.org/contributor-roles/project-administration/">Project administration</role><role content-type="https://credit.niso.org/contributor-roles/formal-analysis/">Formal analysis</role><role content-type="https://credit.niso.org/contributor-roles/data-curation/">Data curation</role><role content-type="https://credit.niso.org/contributor-roles/conceptualization/">Conceptualization</role><xref rid="af1-jfda-33-03-326" ref-type="aff">a</xref></contrib><contrib contrib-type="author" corresp="yes"><name name-style="western"><surname>Hsiao</surname><given-names initials="FY">Fei-Yuan</given-names></name><role content-type="https://credit.niso.org/contributor-roles/writing-review-editing/">Writing – review &amp; editing</role><role content-type="https://credit.niso.org/contributor-roles/writing-original-draft/">Writing – original draft</role><role content-type="https://credit.niso.org/contributor-roles/visualization/">Visualization</role><role content-type="https://credit.niso.org/contributor-roles/project-administration/">Project administration</role><role content-type="https://credit.niso.org/contributor-roles/formal-analysis/">Formal analysis</role><role content-type="https://credit.niso.org/contributor-roles/data-curation/">Data curation</role><role content-type="https://credit.niso.org/contributor-roles/conceptualization/">Conceptualization</role><xref rid="af2-jfda-33-03-326" ref-type="aff">b</xref><xref rid="af3-jfda-33-03-326" ref-type="aff">c</xref><xref rid="af4-jfda-33-03-326" ref-type="aff">d</xref><xref rid="c2-jfda-33-03-326" ref-type="corresp">**</xref></contrib><contrib contrib-type="author" corresp="yes"><name name-style="western"><surname>Yang</surname><given-names initials="MC">Ming-Chin</given-names></name><role content-type="https://credit.niso.org/contributor-roles/writing-review-editing/">Writing – review &amp; editing</role><role content-type="https://credit.niso.org/contributor-roles/writing-original-draft/">Writing – original draft</role><role content-type="https://credit.niso.org/contributor-roles/project-administration/">Project administration</role><role content-type="https://credit.niso.org/contributor-roles/conceptualization/">Conceptualization</role><xref rid="af5-jfda-33-03-326" ref-type="aff">e</xref><xref rid="c1-jfda-33-03-326" ref-type="corresp">*</xref></contrib></contrib-group><aff id="af1-jfda-33-03-326">
+<label>a</label>Department of Health Service Administration, College of Public Health, China Medical University, Taichung, 
+<country>Taiwan</country></aff><aff id="af2-jfda-33-03-326">
+<label>b</label>Graduate Institute of Clinical Pharmacy, College of Medicine, National Taiwan University, Taipei, 
+<country>Taiwan</country></aff><aff id="af3-jfda-33-03-326">
+<label>c</label>School of Pharmacy, College of Medicine, National Taiwan University, Taipei, 
+<country>Taiwan</country></aff><aff id="af4-jfda-33-03-326">
+<label>d</label>Department of Pharmacy, National Taiwan University Hospital, Taipei, 
+<country>Taiwan</country></aff><aff id="af5-jfda-33-03-326">
+<label>e</label>Institute of Health Policy and Management, College of Public Health, National Taiwan University, Taipei, 
+<country>Taiwan</country></aff><author-notes><corresp id="c1-jfda-33-03-326">
+<label>*</label>Corresponding author at: Institute of Health Policy and Management, College of Public Health, National Taiwan University, No.17, Xuzhou Rd., Taipei, 100025, Taiwan.</corresp><corresp id="c2-jfda-33-03-326">
+<label>**</label>Corresponding author at: Graduate Institute of Clinical Pharmacy, College of Medicine, National Taiwan University. No.33, Linsen S. Rd., Taipei, 100025, Taiwan. E-mail addresses: <email>fyshsiao@ntu.edu.tw</email> (F.-Y. Hsiao), <email>mcyang637@ntu.edu.tw</email> (M.-C. Yang).</corresp></author-notes><pub-date publication-format="electronic" date-type="collection"><year>2025</year></pub-date><pub-date publication-format="electronic" date-type="pub"><day>18</day><month>9</month><year>2025</year></pub-date><volume>33</volume><issue>3</issue><issue-id pub-id-type="pmc-issue-id">498650</issue-id><fpage>326</fpage><lpage>338</lpage><history><date date-type="received"><day>12</day><month>2</month><year>2025</year></date><date date-type="accepted"><day>21</day><month>7</month><year>2025</year></date></history><pub-history><event event-type="pmc-release"><date><day>18</day><month>09</month><year>2025</year></date></event><event event-type="pmc-live"><date><day>10</day><month>10</month><year>2025</year></date></event><event event-type="pmc-last-change"><date iso-8601-date="2025-10-10 16:25:27.200"><day>10</day><month>10</month><year>2025</year></date></event></pub-history><permissions><copyright-statement>© 2025 Taiwan Food and Drug Administration</copyright-statement><copyright-year>2025</copyright-year><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbyncndlicense">https://creativecommons.org/licenses/by-nc-nd/4.0/</ali:license_ref><license-p>This is an open access article under the CC-BY-NC-ND license (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/" ext-link-type="uri">http://creativecommons.org/licenses/by-nc-nd/4.0/</ext-link>).</license-p></license></permissions><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pmc-pdf" xlink:href="jfda-33-03-326.pdf"/><abstract><p>The COVID-19 pandemic has imposed a significant economic burden globally, particularly in regions with stringent response measures. This study aims to assess the economic impact of COVID-19 in Taiwan, focusing on both direct and indirect costs. A cost-of-illness analysis was conducted, utilizing data from the Taiwan Centers for Disease Control (CDC), national databases, epidemiological studies, and economic surveys. The analysis included both direct costs (e.g., hospital admissions, outpatient care) and indirect costs (e.g., productivity losses due to long COVID, absenteeism, caregiving duties). The study encompassed Taiwan’s population of 23.2 million, with particular attention to age-specific impacts on economic outcomes. The total economic burden of COVID-19 in Taiwan was estimated at USD 4431 million. Direct costs accounted for 24.40% (USD 1081 million), while indirect costs constituted 75.60% (USD 3350 million). The working age population bore the majority of this burden, with 88.68% (USD 3090 million) of total costs attributed to this group. Long COVID significantly contributed to the economic impact, causing a 35% reduction in productivity. Sensitivity analysis revealed that the frequency of outpatient visits among working age and elderly cohorts was a critical factor influencing overall costs. The study underscores the substantial economic burden of stringent COVID-19 policies in Taiwan, highlighting that indirect costs were nearly three times higher than direct costs. The findings emphasize the need for resilient healthcare systems and support for affected workers, particularly in regions with similar response strategies. The methodological approach offers insights that could be applied to other regions facing similar challenges.</p></abstract><kwd-group><kwd>COVID-19</kwd><kwd>Cost of illness</kwd><kwd>Economic burden</kwd><kwd>Public health policy</kwd><kwd>Taiwan</kwd></kwd-group><funding-group><award-group><funding-source>Merck Sharp &amp; Dohme LLC, a subsidiary of Merck &amp; Co., Inc., 126 E Lincoln Ave, Rahway, NJ 07065, USA</funding-source></award-group><funding-statement>This work was supported by Merck Sharp &amp; Dohme LLC, a subsidiary of Merck &amp; Co., Inc., 126 E Lincoln Ave, Rahway, NJ 07065, USA. The funder had no role in the design and conduct of the study; collection, management, analysis, and interpretation of the data; preparation, review, or approval of the manuscript; and decision to submit the manuscript for publication</funding-statement></funding-group><custom-meta-group><custom-meta><meta-name>pmc-status-qastatus</meta-name><meta-value>0</meta-value></custom-meta><custom-meta><meta-name>pmc-status-live</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-status-embargo</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-status-released</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-access</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-legally-suppressed</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-pdf</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-supplement</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-pdf-only</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-suppress-copyright</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-real-version</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-scanned-article</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-in-epmc</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-license-ref</meta-name><meta-value>CC BY-NC-ND</meta-value></custom-meta></custom-meta-group></article-meta></front><body><sec sec-type="intro"><title>1. Introduction</title><p>COVID-19, caused by SARS-CoV-2, has led to significant health and economic disruptions globally [<xref rid="b1-jfda-33-03-326" ref-type="bibr">1</xref>–<xref rid="b3-jfda-33-03-326" ref-type="bibr">3</xref>]. It spreads primarily through respiratory droplets and can also be transmitted through surface contact [<xref rid="b4-jfda-33-03-326" ref-type="bibr">4</xref>]. Symptoms range from mild to severe, including fever, cough, shortness of breath, fatigue, body aches, and loss of taste or smell [<xref rid="b5-jfda-33-03-326" ref-type="bibr">5</xref>–<xref rid="b8-jfda-33-03-326" ref-type="bibr">8</xref>]. The disease typically incubates for about 5 days [<xref rid="b9-jfda-33-03-326" ref-type="bibr">9</xref>] with severe cases affecting older adults and those with underlying health conditions [<xref rid="b10-jfda-33-03-326" ref-type="bibr">10</xref>], with rapid progression potentially leading to acute respiratory distress syndrome (ARDS) or organ failure [<xref rid="b11-jfda-33-03-326" ref-type="bibr">11</xref>].</p><p>In 2022, global COVID-19 cases exceeded 445 million, with over 1.2 million deaths reported [<xref rid="b12-jfda-33-03-326" ref-type="bibr">12</xref>,<xref rid="b13-jfda-33-03-326" ref-type="bibr">13</xref>]. Taiwan contributed over 8.8 million cases and 14,000 fatalities [<xref rid="b14-jfda-33-03-326" ref-type="bibr">14</xref>], while Southeast Asia and Africa struggled with variants amid limited hygiene and vaccination [<xref rid="b15-jfda-33-03-326" ref-type="bibr">15</xref>,<xref rid="b16-jfda-33-03-326" ref-type="bibr">16</xref>]. The pandemic caused a significant economic impact, amounting to approximately 14% of the global GDP from 2019. Europe and the USA bore substantial costs, with the Eurozone’s GDP hit by 16% and the USA facing $13 trillion in economic losses within the first 20 weeks, nearly 90% of its annual GDP [<xref rid="b17-jfda-33-03-326" ref-type="bibr">17</xref>,<xref rid="b18-jfda-33-03-326" ref-type="bibr">18</xref>]. Direct costs per patient varied around USD 20,352 in the US, USD 4775 in Asia, and USD 5202 in Europe [<xref rid="b19-jfda-33-03-326" ref-type="bibr">19</xref>,<xref rid="b20-jfda-33-03-326" ref-type="bibr">20</xref>]. The global economic impact of COVID-19 has led to significant productivity and income losses, with Europe experiencing USD 1.15 billion lost in paid work and a total impact of USD 3.11 billion, mainly affecting males [<xref rid="b21-jfda-33-03-326" ref-type="bibr">21</xref>]. The United States has seen over 30 million adults apply for unemployment benefits, akin to the Great Depression Worldwide [<xref rid="b22-jfda-33-03-326" ref-type="bibr">22</xref>], the pandemic has caused substantial productivity losses due to sick leave, hospitalizations, and deaths, affecting all sectors [<xref rid="b19-jfda-33-03-326" ref-type="bibr">19</xref>,<xref rid="b21-jfda-33-03-326" ref-type="bibr">21</xref>]. Taiwan has also witnessed reduced economic activity across industries, reflecting the pandemic’s widespread effect [<xref rid="b23-jfda-33-03-326" ref-type="bibr">23</xref>,<xref rid="b24-jfda-33-03-326" ref-type="bibr">24</xref>].</p><p>Governments globally adopted various strategies against COVID-19, including quarantine, isolation, travel restrictions, and lockdowns [<xref rid="b25-jfda-33-03-326" ref-type="bibr">25</xref>]. Taiwan’s COVID-19 response strategy differed from Western countries, emphasizing early and stringent border controls, extensive testing, efficient contact tracing, transparent communication, and technology-enabled virus tracking [<xref rid="b26-jfda-33-03-326" ref-type="bibr">26</xref>,<xref rid="b27-jfda-33-03-326" ref-type="bibr">27</xref>]. Therefore, affirming and understanding Taiwan’s experience is crucial, as it holds significant value for international readers who are navigating similar challenges.</p><p>Among the complex health outcomes that have emerged from the pandemic, long COVID, which refers to COVID-related symptoms that persist for at least 12 weeks after acute SARS-CoV-2 infection according to WHO and US CDC criteria [<xref rid="b28-jfda-33-03-326" ref-type="bibr">28</xref>,<xref rid="b29-jfda-33-03-326" ref-type="bibr">29</xref>], represents a particularly challenging aspect of post-acute SARS-CoV-2 sequelae. Existing literatures have suggested that approximately 45% of COVID-19 survivors experiencing persistent symptoms such as fatigue, brain fog, and other debilitating manifestations that impact daily functioning [<xref rid="b30-jfda-33-03-326" ref-type="bibr">30</xref>]. Brain fog, characterized by cognitive disturbances and a prominent symptom of long COVID [<xref rid="b31-jfda-33-03-326" ref-type="bibr">31</xref>], is especially concerning for its impacts on work and social interactions. Along with other long COVID manifestations, including inflammatory biomarkers [<xref rid="b32-jfda-33-03-326" ref-type="bibr">32</xref>], neurological complications, and cardiopulmonary issues, these symptoms form a complex clinical picture affecting quality of life and productivity [<xref rid="b33-jfda-33-03-326" ref-type="bibr">33</xref>,<xref rid="b34-jfda-33-03-326" ref-type="bibr">34</xref>]. On the other hand, the persistent emergence of new COVID-19 variants, such as XBB and JN.1, serves as a stark reminder that the virus continues to pose a significant health threat, underscoring the importance of addressing the enduring effects of long COVID [<xref rid="b6-jfda-33-03-326" ref-type="bibr">6</xref>,<xref rid="b35-jfda-33-03-326" ref-type="bibr">35</xref>].</p><p>To address the current burden of COVID-19’s economic impact in regions implementing stringent response measures, this study aims to provide a comprehensive assessment of Taiwan’s economic burden of COVID-19. By quantifying both direct healthcare costs and indirect productivity losses—including those associated with long COVID and other post-acute sequelae—this research fills a critical gap in understanding the full economic toll of COVID-19 within rigorous containment policy frameworks. The analysis offers actionable insights for nations considering similar stringent public health approaches and their associated economic trade-offs.</p></sec><sec sec-type="methods"><title>2. Methods</title><sec><title>2.1. Model structure and assumptions</title><p>This study adopts the methodology and assumptions from the white paper “A Neglected Burden: The Ongoing Economic Costs of COVID-19” for estimating direct and indirect economic impacts [<xref rid="b36-jfda-33-03-326" ref-type="bibr">36</xref>]. The economic impact model for COVID-19 includes direct healthcare costs and indirect productivity losses. Direct costs cover inpatient and outpatient care, including hospital admissions, ICU care, consultations, medications, and emergency visits. Indirect costs are analyzed across age groups: pediatric (0–18 years), working age (19–64 years), and elderly (65 years and above). Indirect costs for the working age group include sick leave, reduced work capacity from symptoms, and economic consequences of mortality. For the elderly, indirect costs include necessary care, childcare responsibilities if caregivers are incapacitated, and productivity losses.</p></sec><sec><title>2.2. Data source</title><p>Data inputs were primarily drawn from the Taiwan Centers for Disease Control (Taiwan CDC) [<xref rid="b37-jfda-33-03-326" ref-type="bibr">37</xref>], the National Health Insurance Administration [<xref rid="b38-jfda-33-03-326" ref-type="bibr">38</xref>], the Ministry of the Interior [<xref rid="b39-jfda-33-03-326" ref-type="bibr">39</xref>], and the Directorate-General of Budget, Accounting, and Statistics (DGBAS) [<xref rid="b40-jfda-33-03-326" ref-type="bibr">40</xref>]. Additional data were obtained from official press releases, government websites, and online platforms. For international comparison and long COVID assumptions, we incorporated data from the U.S. CDC [<xref rid="b29-jfda-33-03-326" ref-type="bibr">29</xref>], the World Health Organization [<xref rid="b28-jfda-33-03-326" ref-type="bibr">28</xref>], and selected peer-reviewed literature retrieved from PubMed.</p><p>Non-peer-reviewed sources, such as government press releases and online announcements, were used to supplement parameter estimation and are cited in the footnotes of <xref rid="t1-jfda-33-03-326" ref-type="table">Tables 1</xref> and <xref rid="t2-jfda-33-03-326" ref-type="table">2</xref> for clarity and transparency. These were utilized only when higher-quality or published data were unavailable, and their influence on final estimates was further evaluated through sensitivity analyses. Key sources cited in the main text include official Taiwanese government repositories and international agencies; remaining supplemental references appear within table footnotes.</p></sec><sec><title>2.3. Parameters used in the model</title><p>The study’s economic impact model for COVID-19 in Taiwan incorporates epidemiologic parameters (infections, mortality, healthcare use, long COVID rates in 2022, sourced from Taiwan CDC and other studies, detailed in <xref rid="t1-jfda-33-03-326" ref-type="table">Table 1</xref>) and cost factors (hospitalization, outpatient and emergency visit expenses, medication costs, quarantine days, sick leave days, work-from-home productivity, average daily earnings detailed in <xref rid="t2-jfda-33-03-326" ref-type="table">Table 2</xref>).</p><p><xref rid="t1-jfda-33-03-326" ref-type="table">Table 1</xref> summarizes epidemiological parameters from Taiwan CDC, reporting 8,817,192 COVID-19 cases in 2022. Infection proportions were 20.67% (pediatric), 67.77% (working age), and 11.56% (elderly), with case fatality rates of 0.002%, 0.038%, and 1.200%, respectively. Hospitalization was less than 1% (0.49%), and emergency visits occurred in 11.76% of cases. Approximately 3.97% of acute COVID patients received antivirals. Long COVID, defined as COVID-related symptoms that persist for at least 12 weeks after acute SARS-CoV-2 infection [<xref rid="b33-jfda-33-03-326" ref-type="bibr">33</xref>,<xref rid="b34-jfda-33-03-326" ref-type="bibr">34</xref>], and age-specific infection rates were sourced from US CDC and other studies.</p><p><xref rid="t2-jfda-33-03-326" ref-type="table">Table 2</xref> depicts the comprehensive cost parameters, productivity loss assumptions, and healthcare utilization metrics employed in the economic modeling framework. Direct costs included ward bed charges of $440.04 USD per day with an average 14-day hospitalization, outpatient visit costs of $44.95 USD for acute COVID-19 and $93.82 USD for long COVID, emergency department visits at $158.69 USD, and anti-COVID medication regimens at $727.80 USD. Indirect cost parameters encompassed quarantine duration (5 days), sick leave periods varying by age group (3.47 days for working-age adults), average daily earnings ($49.68 USD general population, $61.75 USD healthcare workers), work-from-home capacity (17.5% of population), and productivity loss assumptions. The model incorporated caregiving responsibilities for infected children and elderly, with productivity losses ranging from 25% for mild cases to 100% for severe cases. Long COVID-specific parameters included 75.8% of patients remaining well enough to work with 35% productivity loss, and symptom duration of 90 days for working-age adults and 14.6 days for pediatric and elderly populations.</p></sec><sec><title>2.4. Analysis</title><p>All cost parameters, including hospitalization rates, consultation fees, medication costs, and productivity loss assumptions, are detailed in <xref rid="t2-jfda-33-03-326" ref-type="table">Table 2</xref>. The study performed cost of illness analyses, with direct costs from inpatient settings calculated based on costs per hospital/ICU admission and the number of admissions derived from the hospitalization rate. For outpatient settings, costs of consultation and medication were separately calculated for acute and long COVID cases. Costs for acute COVID included parameters such as the number of reported cases, costs per primary care visit, and per emergency visit. The proportion of prescribed medication for acute COVID and the proportion of emergency visits per acute infection were used for the calculation of medication and consultation costs, respectively. Costs for long COVID were determined based on the estimated number of cases, assumed clinic visits during long COVID, and costs per visit covering both consultations and medications.</p><p>Indirect costs in the working age cohort were categorized into several aspects: (1) isolation due to acute COVID (inability to work), calculated using the number of infections, quarantine days, and average daily earnings; (2) working with symptoms of acute COVID, calculated based on days lost per infection, the percentage of productivity loss, and average daily earnings; (3) long COVID infection, calculated using the number of long COVID infections, duration of symptoms, and average daily earnings; and (4) premature death before the mandatory retirement age. In the model, premature death was defined as death occurring before the statutory retirement age of 65 years. Based on our data, the average age of death from COVID-19 in the working-age population (19–64 years) was 54.8 years. The economic loss from premature death was calculated by multiplying the number of lost working days until retirement (65–54.8 years × 365 days) by the average daily earnings ($49.68 USD).</p><p>For the pediatric cohort, costs were incurred by working age adults caring for children with acute or long COVID, calculated based on the average duration of acute and/or long COVID, the loss of productivity per day due to caring for children, the severity of symptoms, the number of infections, and average daily earnings. The calculations and assumptions for indirect costs in the elderly cohort were similar to those in the pediatric cohort. The same assumptions, parameters, and calculations used for the working age cohort were applied to elderly individuals still in the workforce. Additionally, costs for caring for children by working age adults were calculated if elderly caretakers were infected by acute or long COVID, based on the days needed for childcare, the productivity loss per day due to caring for children, the estimated number of infections in elderly caretakers, and average daily earnings.</p><p>One-way sensitivity analyses were conducted to assess the influential impact of parameters on economic cost estimations, using ranges of values defined based on standard deviation, inter-quartile range, or assumed intervals (<xref rid="t1-jfda-33-03-326" ref-type="table">Tables 1</xref> and <xref rid="t2-jfda-33-03-326" ref-type="table">2</xref>). Additionally, scenario analyses were also performed to account for variations in data sources or assumptions for key parameters. As shown in <xref rid="s2-jfda-33-03-326" ref-type="supplementary-material">Supplementary Table S2</xref> (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://doi.org/10.38212/2224-6614.3558" ext-link-type="uri">https://doi.org/10.38212/2224-6614.3558</ext-link>), these scenario analyses included modifications to infection definitions (e.g., including imported cases), healthcare utilization patterns (e.g., doubling outpatient visits per infection), long COVID duration and age-specific infection rates, ward bed costs, daily earnings, and productivity loss assumptions. The impact of each scenario on total economic burden was quantified by comparing modified estimates with the base-case model results.</p><p>All costs in this analysis were calculated using 2022 as the base year. Costs were initially computed in New Taiwan Dollars (NTD) and subsequently converted to US dollars (USD) using the average 2022 exchange rate of 29.813 NTD per USD.</p></sec></sec><sec sec-type="results"><title>3. Results</title><sec><title>3.1. Overview of economic burden of COVID-19 in Taiwan</title><p>The study estimates the economic impact of COVID-19 in Taiwan for 2022 at USD 4431 million. Direct costs, covering testing and treatment, represent 24.40% (USD 1081 million), while indirect costs, mainly productivity losses, make up 75.60% (USD 3350 million) of the total burden. These findings, illustrated in <xref rid="f1-jfda-33-03-326" ref-type="fig">Fig. 1</xref>, highlight the significant indirect economic burden and inform policy and recovery strategies.</p><p>The cost estimations were based on epidemiological and economic parameters detailed in the Methods section (<xref rid="t1-jfda-33-03-326" ref-type="table">Tables 1</xref> and <xref rid="t2-jfda-33-03-326" ref-type="table">2</xref>), which include infection distributions, case fatality rates, hospitalization rates, and unit costs associated with healthcare use and productivity loss. These parameter values served as the foundation for calculating direct and indirect costs by age group and clinical condition (acute and long COVID).</p><p>To provide a comprehensive overview of cost allocation, <xref rid="t3-jfda-33-03-326" ref-type="table">Table 3</xref> presents a detailed breakdown of direct and indirect costs segmented by age group (pediatric, working-age, elderly) and clinical phase (acute and long COVID). This breakdown highlights the differing healthcare and productivity burdens across populations.</p></sec><sec><title>3.2. Direct cost born by the health system</title><p>Direct costs were split into outpatient and inpatient services. Outpatient costs covered medical consultations and medications for acute and long-term COVID-19, totaling USD 811.6 million for acute and USD 3.6 million for long COVID-19. Inpatient services included hospital stays, ICU use, and emergency visits, totaling USD 266.2 million.</p></sec><sec><title>3.3. Indirect cost born by economic productivity losses</title><p>Indirect costs of COVID-19 were highest in the working age group, totaling USD 2740 million or 81.77% of the total burden. Within this group, costs for acute COVID, long COVID, and deaths were USD 1485.6 million, USD 857.8 million, and USD 396.1 million, respectively. Acute COVID costs were significantly higher than long COVID costs in the pediatric (USD 356.7 million vs. USD 29.7 million) and elder (USD 150.4 million vs. USD 20.6 million) cohorts. <xref rid="f2-jfda-33-03-326" ref-type="fig">Fig. 2B</xref> shows the economic burden variations among age groups.</p></sec><sec><title>3.4. Economic burden of COVID-19 by age groups</title><p>The economic impact of COVID-19 varied significantly by age group. Indirect costs accounted for 88.68% of the working age cohort’s total burden, totaling USD 3090 million. In the pediatric cohort, indirect costs were 61.52%, amounting to USD 386 million. The elderly cohort had a higher proportion of direct costs, USD 490 million, or 68.60% of its total costs (<xref rid="f2-jfda-33-03-326" ref-type="fig">Fig. 2C</xref>). Long COVID costs were estimated at USD 1183 million, with direct and indirect costs at 0.30% and 99.70%, respectively (data not shown here).</p></sec><sec><title>3.5. Sensitivity and scenario analysis</title><p><xref rid="f3-jfda-33-03-326" ref-type="fig">Fig. 3</xref> presents a significant one-way sensitivity analysis, highlighting the top 10 parameters impacting the total economic cost of COVID-19. The number of average outpatient visits in the working age and elderly cohorts emerged as the most significant parameter, affecting the total cost by ±11.88%. This was followed by the average age at death due to COVID-19 in the working age cohort, showing a ±5.05% change, and the incidence of long COVID, accounting for a ±3.80% change. <xref rid="s1-jfda-33-03-326" ref-type="supplementary-material">Supplementary Table S1</xref> (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://doi.org/10.38212/2224-6614.3558" ext-link-type="uri">https://doi.org/10.38212/2224-6614.3558</ext-link>) details these effects on total, direct, and indirect costs.</p><p>Scenario analyses in <xref rid="s2-jfda-33-03-326" ref-type="supplementary-material">Supplementary Table S2</xref> (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://doi.org/10.38212/2224-6614.3558" ext-link-type="uri">https://doi.org/10.38212/2224-6614.3558</ext-link>) show significant variations in key parameters impacting the total economic cost of COVID-19. For instance, substituting average salary per day for earnings per day leads to a 22.64% increase in total costs to USD 5435 million. Conversely, adjusting the hospitalization cost per day results in a 10.77% decrease in total costs. Using the WHO’s long COVID definition reduces costs by 6.78%. Other parameter modifications have minor effects on the pandemic’s overall economic impact.</p></sec></sec><sec sec-type="discussion"><title>4. Discussion</title><p>The study highlighted COVID-19’s economic impact in Taiwan, emphasizing significant indirect costs exceeding direct costs (75.60% vs. 24.40%). Working age adults bore 88.68% (USD 3090 million) of the total burden, indicating the disproportionate effect. Direct costs to the health system were substantial, with acute COVID-19 costs at USD 811.6 million and long COVID-19 at USD 3.6 million in outpatient services alone. Long COVID, affecting 45% of survivors, leads to over 35% productivity loss, highlighting its economic toll. Frequency of outpatient visits is a key cost factor. Tailored policies are needed for workforce productivity, healthcare resilience, and supporting vulnerable populations.</p><p>We observed that direct costs, including outpatient and inpatient services, constitute a substantial financial strain on the healthcare system. This strain results from high demand for hospitalizations, emergency services, and outpatient care, requiring extensive resources like specialized care, equipment, medications, and healthcare professionals. Hospitalizations are the primary expense, elevating overall medical expenditures, in line with existing literature on elevated costs and healthcare resource demands due to COVID-19 [<xref rid="b41-jfda-33-03-326" ref-type="bibr">41</xref>–<xref rid="b43-jfda-33-03-326" ref-type="bibr">43</xref>]. Together, these results and the corroborating literature highlight the critical economic burden of COVID-19’s direct healthcare costs, emphasizing the need for effective cost-management strategies within healthcare systems grappling with the pandemic.</p><p>Our study not only quantifies the direct costs of COVID-19 in Taiwan but also highlights that indirect costs surpass these direct costs by more than three times, illustrating the vast economic ramifications beyond immediate healthcare expenses. Factors such as absenteeism, reduced productivity from remote work, and caregiving duties have a profound economic impact, significantly contributing to the global GDP’s burden. This critical view on indirect costs finds support in the literature, emphasizing these aspects as key to grasping the pandemic’s overall economic footprint [<xref rid="b44-jfda-33-03-326" ref-type="bibr">44</xref>,<xref rid="b45-jfda-33-03-326" ref-type="bibr">45</xref>]. Furthermore, the quantification of these indirect effects amplifies the economic loss and underscores our findings on the paramount importance of indirect costs in understanding COVID-19’s comprehensive economic impact [<xref rid="b46-jfda-33-03-326" ref-type="bibr">46</xref>]. With a population of around 24 million, Taiwan has effectively managed the COVID-19 pandemic. This achievement is largely due to the government’s strategic implementation of a strict blend of case-based interventions like testing, contact tracing, and quarantine, along with population-based practices, including widespread physical distancing and the mandatory use of face masks. The rigorous enforcement of these policies, though crucial for public health, has likely led to increased indirect costs associated with their implementation.</p><p>Compared to neighboring and Western countries with varying pandemic strategies, Taiwan’s total annual economic burden in 2022 was estimated at USD 4.431 billion (approximately 0.9% of GDP). This is in contrast to higher estimates from countries like Australia (USD 17.0 billion, 1.0% of GDP), South Korea (USD 27.5 billion, 1.6% of GDP), Hong Kong (USD 5.3 billion, 1.4% of GDP), and Singapore (USD 2.6 billion, 0.6% of GDP) [<xref rid="b47-jfda-33-03-326" ref-type="bibr">47</xref>]. While these figures differ due to population size, healthcare structures, and policy implementation, they emphasize that even with stringent containment strategies, such as Taiwan’s, the economic toll—particularly from indirect costs—remains substantial. This cross-country comparison highlights the global challenge in balancing health protection with economic sustainability.</p><p>In addition to the tangible direct and indirect costs associated with the COVID-19 pandemic, the Taiwanese government has invested considerable effort into maintaining strict and effective policies [<xref rid="b48-jfda-33-03-326" ref-type="bibr">48</xref>,<xref rid="b49-jfda-33-03-326" ref-type="bibr">49</xref>]. These rigorous measures not only aimed at immediate containment but also addressed long-term impacts. Our study underscores the significant long-term economic burden of long COVID on productivity and healthcare utilization, highlighting the substantial challenges these indirect costs pose to economic stability. This aligns with findings from the Brookings Institution, which noted significant workforce reductions in the U.S., and a Harvard Kennedy School study by David Cutler that estimated high economic costs associated with long COVID [<xref rid="b18-jfda-33-03-326" ref-type="bibr">18</xref>,<xref rid="b50-jfda-33-03-326" ref-type="bibr">50</xref>]. Additional research supports these findings, revealing that nearly half of long COVID sufferers experience symptoms that hinder their return to work, with over 30% unable to resume employment even 15 months post-infection [<xref rid="b51-jfda-33-03-326" ref-type="bibr">51</xref>]. Those who returned to work took over eight months, incurring a total of USD 4847.25 in indirect costs per person in one year [<xref rid="b52-jfda-33-03-326" ref-type="bibr">52</xref>]. Collectively, these studies affirm our findings that long COVID has precipitated a 35% reduction in productivity and a marked increase in healthcare expenses.</p><p>Methodologically, this study stands out for its detailed analysis of indirect costs categorized by different age groups—children, working age adults, and the elderly, allowing for tailored policies to address the diverse economic impacts on these segments [<xref rid="b19-jfda-33-03-326" ref-type="bibr">19</xref>]. The majority of studies primarily focus on generalized experiences and clinical manifestations of living with long COVID, along with its overall economic burden [<xref rid="b53-jfda-33-03-326" ref-type="bibr">53</xref>,<xref rid="b54-jfda-33-03-326" ref-type="bibr">54</xref>]. Additionally, the findings provide insights applicable beyond Taiwan, offering a transferable model for international application. This enables other countries to estimate their COVID-19 impact using similar parameters and develop tailored policy-making strategies based on this framework.</p><sec><title>4.1. Limitations</title><p>This study faces several limitations that warrant consideration. Firstly, comparing cost-of-illness studies across different countries is challenging due to variations in healthcare systems and policy enforcement, which can significantly influence the study’s outcomes and limit its external validity. Additionally, while the reliance on publicly available data introduces a potential for bias, we have endeavored to minimize discrepancies by validating data against WHO international statistics and employing cross-checks where possible. Furthermore, for some parameters, such as days lost due to illness or emergency department costs, precise estimates are lacking. We have relied on existing literature and conducted sensitivity analyses to gauge the impact of these variations, leading us to believe that the influence of these limitations on our findings is minimal. The economic burden imposed by long-COVID is substantial, highlighting the urgent need for dedicated investment in future research. It is imperative to develop and implement strategies that can mitigate the impact of long-COVID.</p></sec></sec><sec sec-type="conclusions"><title>5. Conclusion</title><p>In conclusion, this study assesses the economic burden of COVID-19 under Taiwan’s stringent pandemic policies, revealing a total cost of USD 4431 million in 2022. Indirect costs accounted for 75.60% of this burden, with the working age group bearing the most substantial financial strain. The challenges of long-COVID further compounded these costs, underscoring the necessity for policies specifically tailored to mitigate its impacts.</p><p>Additionally, the methodological approach of this study offers valuable insights that could be applied globally. However, if other regions were to adopt similarly strict strategies as Taiwan’s, they might also face high indirect costs.</p></sec><sec sec-type="supplementary-material"><title>Supplementary Information</title><supplementary-material id="s1-jfda-33-03-326" position="float" content-type="local-data" orientation="portrait"><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="jfda-33-03-326-s001.pdf" id="d67e503" position="anchor" orientation="portrait"/></supplementary-material><supplementary-material id="s2-jfda-33-03-326" position="float" content-type="local-data" orientation="portrait"><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="jfda-33-03-326-s002.pdf" id="d67e505" position="anchor" orientation="portrait"/></supplementary-material></sec></body><back><fn-group><fn id="fn1-jfda-33-03-326"><p><bold>Key message:</bold> This study reveals Taiwan’s substantial economic burden from COVID-19, with indirect costs, driven by long COVID and productivity losses, significantly outweighing direct medical expenses.</p></fn><fn id="fn2-jfda-33-03-326"><p><bold>Data statement:</bold> The datasets produced and/or examined in this study can be obtained from the corresponding author upon a reasonable request.</p></fn><fn id="fn3-jfda-33-03-326" fn-type="COI-statement"><p><bold>Conflicts of interest:</bold> The authors declare that they have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper.</p></fn><fn id="fn4-jfda-33-03-326"><p><bold>Author contributions:</bold> Conceptualization: Tan EC, Hsiao FY, and Yang MC. Data curation: Tan EC, Hsiao FY. Formal analysis: Tan EC, Hsiao FY Funding acquisition: None. Methodology: Tan EC. Project administration: Tan EC, Hsiao FY, and Yang MC. Visualization: Tan EC, Hsiao FY Writing–original draft: Tan EC, Hsiao FY, and Yang MC. Writing–review &amp; editing: Tan EC, Hsiao FY, and Yang MC</p></fn><fn id="fn5-jfda-33-03-326"><p><bold>Funding:</bold> This work was supported by Merck Sharp &amp; Dohme LLC, a subsidiary of Merck &amp; Co., Inc., 126 E Lincoln Ave, Rahway, NJ 07065, USA. The funder had no role in the design and conduct of the study; collection, management, analysis, and interpretation of the data; preparation, review, or approval of the manuscript; and decision to submit the manuscript for publication.</p></fn></fn-group><ref-list><title>References</title><ref id="b1-jfda-33-03-326"><label>1</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Cascella</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Rajnik</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Aleem</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Dulebohn</surname><given-names>SC</given-names></name>
+<name name-style="western"><surname>Di Napoli</surname><given-names>R</given-names></name>
+</person-group>
+<article-title>Features, evaluation, and treatment of coronavirus (COVID-19)</article-title>
+<source>Statpearls [internet]</source>
+<year>2022</year>
+<pub-id pub-id-type="pmid">32150360</pub-id></mixed-citation></ref><ref id="b2-jfda-33-03-326"><label>2</label><mixed-citation publication-type="book">
+<collab>World Health Organization</collab>
+<source>COVID-19 epidemiological update — 19 January 2024</source>
+<publisher-name>World Health Organization</publisher-name>
+<year>2024</year>
+<comment>Available at: <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.who.int/publications/m/item/covid-19-epidemiological-update-19-january-2024" ext-link-type="uri">https://www.who.int/publications/m/item/covid-19-epidemiological-update—19-january-2024</ext-link></comment>
+<date-in-citation>Accessed 30 January 2024</date-in-citation>
+<year>2024</year>
+</mixed-citation></ref><ref id="b3-jfda-33-03-326"><label>3</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Meo</surname><given-names>SA</given-names></name>
+<name name-style="western"><surname>Bukhari</surname><given-names>IA</given-names></name>
+<name name-style="western"><surname>Akram</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Meo</surname><given-names>AS</given-names></name>
+<name name-style="western"><surname>Klonoff</surname><given-names>DC</given-names></name>
+</person-group>
+<article-title>COVID-19 vaccines: comparison of biological, pharmacological characteristics and adverse effects of Pfizer/BioNTech and Moderna Vaccines</article-title>
+<source>Eur Rev Med Pharmacol Sci</source>
+<year>2021</year>
+<volume>25</volume>
+<fpage>1663</fpage>
+<lpage>9</lpage>
+<pub-id pub-id-type="pmid">33629336</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.26355/eurrev_202102_24877</pub-id></mixed-citation></ref><ref id="b4-jfda-33-03-326"><label>4</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Harrison</surname><given-names>AG</given-names></name>
+<name name-style="western"><surname>Lin</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Wang</surname><given-names>P</given-names></name>
+</person-group>
+<article-title>Mechanisms of SARS-CoV-2 transmission and pathogenesis</article-title>
+<source>Trends Immunol</source>
+<year>2020</year>
+<volume>41</volume>
+<fpage>1100</fpage>
+<lpage>15</lpage>
+<pub-id pub-id-type="pmid">33132005</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.it.2020.10.004</pub-id><pub-id pub-id-type="pmcid">PMC7556779</pub-id></mixed-citation></ref><ref id="b5-jfda-33-03-326"><label>5</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Baj</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Karakula-Juchnowicz</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Teresinski</surname><given-names>G</given-names></name>
+<name name-style="western"><surname>Buszewicz</surname><given-names>G</given-names></name>
+<name name-style="western"><surname>Ciesielka</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Sitarz</surname><given-names>R</given-names></name>
+<etal/>
+</person-group>
+<article-title>COVID-19: specific and non-specific clinical manifestations and symptoms: the current state of knowledge</article-title>
+<source>J Clin Med</source>
+<year>2020</year>
+<volume>9</volume>
+<fpage>1753</fpage>
+<pub-id pub-id-type="pmid">32516940</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3390/jcm9061753</pub-id><pub-id pub-id-type="pmcid">PMC7356953</pub-id></mixed-citation></ref><ref id="b6-jfda-33-03-326"><label>6</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Sharma</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Ahmad Farouk</surname><given-names>I</given-names></name>
+<name name-style="western"><surname>Lal</surname><given-names>SK</given-names></name>
+</person-group>
+<article-title>COVID-19: a review on the novel coronavirus disease evolution, transmission, detection, control and prevention</article-title>
+<source>Viruses</source>
+<year>2021</year>
+<volume>13</volume>
+<fpage>202</fpage>
+<pub-id pub-id-type="pmid">33572857</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3390/v13020202</pub-id><pub-id pub-id-type="pmcid">PMC7911532</pub-id></mixed-citation></ref><ref id="b7-jfda-33-03-326"><label>7</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>da Rosa Mesquita</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Francelino Silva</surname><given-names>LC</given-names><suffix>Junior</suffix></name>
+<name name-style="western"><surname>Santos Santana</surname><given-names>FM</given-names></name>
+<name name-style="western"><surname>Farias de Oliveira</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Campos Alcântara</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Monteiro Arnozo</surname><given-names>G</given-names></name>
+<etal/>
+</person-group>
+<article-title>Clinical manifestations of COVID-19 in the general population: systematic review</article-title>
+<source>Wien Klin Wochenschr</source>
+<year>2021</year>
+<volume>133</volume>
+<fpage>377</fpage>
+<lpage>82</lpage>
+<pub-id pub-id-type="pmid">33242148</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s00508-020-01760-4</pub-id><pub-id pub-id-type="pmcid">PMC7689634</pub-id></mixed-citation></ref><ref id="b8-jfda-33-03-326"><label>8</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Grant</surname><given-names>MC</given-names></name>
+<name name-style="western"><surname>Geoghegan</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Arbyn</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Mohammed</surname><given-names>Z</given-names></name>
+<name name-style="western"><surname>McGuinness</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Clarke</surname><given-names>EL</given-names></name>
+<etal/>
+</person-group>
+<article-title>The prevalence of symptoms in 24,410 adults infected by the novel coronavirus (SARS-CoV-2; COVID-19): a systematic review and meta-analysis of 148 studies from 9 countries</article-title>
+<source>PLoS One</source>
+<year>2020</year>
+<volume>15</volume>
+<fpage>e0234765</fpage>
+<pub-id pub-id-type="pmid">32574165</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1371/journal.pone.0234765</pub-id><pub-id pub-id-type="pmcid">PMC7310678</pub-id></mixed-citation></ref><ref id="b9-jfda-33-03-326"><label>9</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Richards</surname><given-names>F</given-names></name>
+<name name-style="western"><surname>Kodjamanova</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Chen</surname><given-names>X</given-names></name>
+<name name-style="western"><surname>Li</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Atanasov</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Bennetts</surname><given-names>L</given-names></name>
+<etal/>
+</person-group>
+<article-title>Economic burden of COVID-19: a systematic review</article-title>
+<source>Clin Outcomes Res</source>
+<year>2022</year>
+<fpage>293</fpage>
+<lpage>307</lpage>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.2147/CEOR.S338225</pub-id><pub-id pub-id-type="pmcid">PMC9060810</pub-id><pub-id pub-id-type="pmid">35509962</pub-id></mixed-citation></ref><ref id="b10-jfda-33-03-326"><label>10</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Singhal</surname><given-names>T</given-names></name>
+</person-group>
+<article-title>A review of coronavirus disease-2019 (COVID-19)</article-title>
+<source>Indian J Pediatr</source>
+<year>2020</year>
+<volume>87</volume>
+<fpage>281</fpage>
+<lpage>6</lpage>
+<pub-id pub-id-type="pmid">32166607</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s12098-020-03263-6</pub-id><pub-id pub-id-type="pmcid">PMC7090728</pub-id></mixed-citation></ref><ref id="b11-jfda-33-03-326"><label>11</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Empson</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Rogers</surname><given-names>AJ</given-names></name>
+<name name-style="western"><surname>Wilson</surname><given-names>JG</given-names></name>
+</person-group>
+<article-title>COVID-19 acute respiratory distress syndrome: one pathogen, multiple phenotypes</article-title>
+<source>Crit Care Clin</source>
+<year>2022</year>
+<volume>38</volume>
+<fpage>505</fpage>
+<lpage>19</lpage>
+<pub-id pub-id-type="pmid">35667740</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.ccc.2022.02.001</pub-id><pub-id pub-id-type="pmcid">PMC9671407</pub-id></mixed-citation></ref><ref id="b12-jfda-33-03-326"><label>12</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Adiamah</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Skorepa</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Weimann</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Lobo</surname><given-names>DN</given-names></name>
+</person-group>
+<article-title>The impact of preoperative immune modulating nutrition on outcomes in patients undergoing surgery for gastrointestinal cancer: a systematic review and meta-analysis</article-title>
+<source>LWW;</source>
+<year>2019</year>
+<fpage>247</fpage>
+<lpage>56</lpage>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1097/SLA.0000000000003256</pub-id><pub-id pub-id-type="pmid">30817349</pub-id></mixed-citation></ref><ref id="b13-jfda-33-03-326"><label>13</label><mixed-citation publication-type="webpage">
+<collab>Statista</collab>
+<source>Number of cumulative cases of coronavirus (COVID-19) worldwide from January 22, 2020 to June 13, 2023 by day</source>
+<comment>Available at: <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.statista.com/statistics/1103040/cumulative-coronavirus-covid19-cases-number-worldwide-by-day/" ext-link-type="uri">https://www.statista.com/statistics/1103040/cumulative-coronavirus-covid19-cases-number-worldwide-by-day/</ext-link></comment>
+<date-in-citation>[Accessed 26 May 2025].</date-in-citation>
+</mixed-citation></ref><ref id="b14-jfda-33-03-326"><label>14</label><mixed-citation publication-type="webpage">
+<collab>Taiwan Centers for Disease Control</collab>
+<source>Disease surveillance express: week 52</source>
+<month>December</month>
+<day>24–30</day>
+<year>2023</year>
+<comment>Available at: <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.cdc.gov.tw/En/File/Get/PtpJL3LO-TOgJ0dtSFpGmQ" ext-link-type="uri">https://www.cdc.gov.tw/En/File/Get/PtpJL3LO-TOgJ0dtSFpGmQ</ext-link></comment>
+<date-in-citation>[Accessed 26 May 2025].</date-in-citation>
+</mixed-citation></ref><ref id="b15-jfda-33-03-326"><label>15</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Zhao</surname><given-names>Y</given-names></name>
+<name name-style="western"><surname>Huang</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Zhang</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Chen</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Gao</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Jiao</surname><given-names>H</given-names></name>
+</person-group>
+<article-title>The global transmission of new coronavirus variants</article-title>
+<source>Environ Res</source>
+<year>2022</year>
+<volume>206</volume>
+<fpage>112240</fpage>
+<pub-id pub-id-type="pmid">34688639</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.envres.2021.112240</pub-id><pub-id pub-id-type="pmcid">PMC8530777</pub-id></mixed-citation></ref><ref id="b16-jfda-33-03-326"><label>16</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Chu</surname><given-names>DT</given-names></name>
+<name name-style="western"><surname>Vu Ngoc</surname><given-names>SM</given-names></name>
+<name name-style="western"><surname>Vu Thi</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Nguyen Thi</surname><given-names>YV</given-names></name>
+<name name-style="western"><surname>Ho</surname><given-names>TT</given-names></name>
+<name name-style="western"><surname>Hoang</surname><given-names>VT</given-names></name>
+<etal/>
+</person-group>
+<article-title>COVID-19 in Southeast Asia: current status and perspectives</article-title>
+<source>Bioengineered</source>
+<year>2022</year>
+<volume>13</volume>
+<fpage>3797</fpage>
+<lpage>809</lpage>
+<pub-id pub-id-type="pmid">35081861</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1080/21655979.2022.2031417</pub-id><pub-id pub-id-type="pmcid">PMC8974206</pub-id></mixed-citation></ref><ref id="b17-jfda-33-03-326"><label>17</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>González López-Valcárcel</surname><given-names>B</given-names></name>
+<name name-style="western"><surname>Vallejo-Torres</surname><given-names>L</given-names></name>
+</person-group>
+<article-title>The costs of COVID-19 and the cost-effectiveness of testing</article-title>
+<source>Applied Economic Analysis</source>
+<year>2021</year>
+<volume>29</volume>
+<fpage>77</fpage>
+<lpage>89</lpage>
+</mixed-citation></ref><ref id="b18-jfda-33-03-326"><label>18</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Cutler</surname><given-names>DM</given-names></name>
+</person-group>
+<article-title>The costs of long COVID</article-title>
+<source>JAMA Health Forum</source>
+<year>2022</year>
+<volume>3</volume>
+<fpage>e221809</fpage>
+<pub-id pub-id-type="pmid">36219031</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1001/jamahealthforum.2022.1809</pub-id></mixed-citation></ref><ref id="b19-jfda-33-03-326"><label>19</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Blazquez-Fernandez</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Lanza-Leon</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Sanchez-Ruiz</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Cantarero-Prieto</surname><given-names>D</given-names></name>
+</person-group>
+<article-title>Economic costs related to coronavirus disease 2019 pandemic: a systematic literature review</article-title>
+<source>Sci Prog</source>
+<year>2023</year>
+<volume>106</volume>
+<fpage>368504231201548</fpage>
+<pub-id pub-id-type="pmid">37876179</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1177/00368504231201548</pub-id><pub-id pub-id-type="pmcid">PMC10601401</pub-id></mixed-citation></ref><ref id="b20-jfda-33-03-326"><label>20</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Dobson</surname><given-names>AP</given-names></name>
+<name name-style="western"><surname>Pimm</surname><given-names>SL</given-names></name>
+<name name-style="western"><surname>Hannah</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Kaufman</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Ahumada</surname><given-names>JA</given-names></name>
+<name name-style="western"><surname>Ando</surname><given-names>AW</given-names></name>
+<etal/>
+</person-group>
+<article-title>Ecology and economics for pandemic prevention</article-title>
+<source>Science</source>
+<year>2020</year>
+<volume>369</volume>
+<fpage>379</fpage>
+<lpage>81</lpage>
+<pub-id pub-id-type="pmid">32703868</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1126/science.abc3189</pub-id></mixed-citation></ref><ref id="b21-jfda-33-03-326"><label>21</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Hanly</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Ahern</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Sharp</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Ursul</surname><given-names>D</given-names></name>
+<name name-style="western"><surname>Loughnane</surname><given-names>G</given-names></name>
+</person-group>
+<article-title>The cost of lost productivity due to premature mortality associated with COVID-19: a Pan-European study</article-title>
+<source>Eur J Health Econ</source>
+<year>2022</year>
+<volume>23</volume>
+<fpage>249</fpage>
+<lpage>59</lpage>
+<pub-id pub-id-type="pmid">34417904</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s10198-021-01351-8</pub-id><pub-id pub-id-type="pmcid">PMC8379564</pub-id></mixed-citation></ref><ref id="b22-jfda-33-03-326"><label>22</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Crayne</surname><given-names>MP</given-names></name>
+</person-group>
+<article-title>The traumatic impact of job loss and job search in the aftermath of COVID-19</article-title>
+<source>Psychol Trauma</source>
+<year>2020</year>
+<volume>12</volume>
+<fpage>S180</fpage>
+<lpage>2</lpage>
+<pub-id pub-id-type="pmid">32478539</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1037/tra0000852</pub-id></mixed-citation></ref><ref id="b23-jfda-33-03-326"><label>23</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Yang</surname><given-names>FA</given-names></name>
+<name name-style="western"><surname>Chang</surname><given-names>HH</given-names></name>
+<name name-style="western"><surname>Wang</surname><given-names>JH</given-names></name>
+</person-group>
+<article-title>The economic impact of the COVID-19 pandemic on the Taiwanese food industry: empirical evidence using business transaction data</article-title>
+<source>J Agric Econ</source>
+<year>2022</year>
+<volume>73</volume>
+<fpage>376</fpage>
+<lpage>95</lpage>
+</mixed-citation></ref><ref id="b24-jfda-33-03-326"><label>24</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Chan</surname><given-names>C-T</given-names></name>
+<name name-style="western"><surname>Chen</surname><given-names>H-W</given-names></name>
+</person-group>
+<article-title>Impact of COVID-19 on the tourism industry in Taiwan</article-title>
+<source>Sustainability</source>
+<year>2022</year>
+<volume>14</volume>
+<fpage>4864</fpage>
+</mixed-citation></ref><ref id="b25-jfda-33-03-326"><label>25</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Girum</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Lentiro</surname><given-names>K</given-names></name>
+<name name-style="western"><surname>Geremew</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Migora</surname><given-names>B</given-names></name>
+<name name-style="western"><surname>Shewamare</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Shimbre</surname><given-names>MS</given-names></name>
+</person-group>
+<article-title>Optimal strategies for COVID-19 prevention from global evidence achieved through social distancing, stay at home, travel restriction and lockdown: a systematic review</article-title>
+<source>Arch Public Health</source>
+<year>2021</year>
+<volume>79</volume>
+<fpage>150</fpage>
+<pub-id pub-id-type="pmid">34419145</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1186/s13690-021-00663-8</pub-id><pub-id pub-id-type="pmcid">PMC8380106</pub-id></mixed-citation></ref><ref id="b26-jfda-33-03-326"><label>26</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Lai</surname><given-names>CC</given-names></name>
+<name name-style="western"><surname>Hsu</surname><given-names>WY</given-names></name>
+<name name-style="western"><surname>Ko</surname><given-names>WC</given-names></name>
+<name name-style="western"><surname>Lee</surname><given-names>PI</given-names></name>
+<name name-style="western"><surname>Hsueh</surname><given-names>PR</given-names></name>
+</person-group>
+<article-title>How Taiwan has responded to COVID-19 and how COVID-19 has affected Taiwan, 2020-2022</article-title>
+<source>J Microbiol Immunol Infect</source>
+<year>2023</year>
+<volume>56</volume>
+<fpage>78</fpage>
+<lpage>85</lpage>
+<pub-id pub-id-type="doi">10.1016/j.jmii.2022.09.001</pub-id>
+<pub-id pub-id-type="pmcid">PMC10079311</pub-id><pub-id pub-id-type="pmid">37061349</pub-id></mixed-citation></ref><ref id="b27-jfda-33-03-326"><label>27</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Lee</surname><given-names>H-F</given-names></name>
+<name name-style="western"><surname>Chin</surname><given-names>J</given-names></name>
+</person-group>
+<article-title>Taiwan launches new pandemic response strategy</article-title>
+<source>Taipei Times</source>
+<year>2022</year>
+<month>April</month>
+<day>8</day>
+<fpage>2022</fpage>
+</mixed-citation></ref><ref id="b28-jfda-33-03-326"><label>28</label><mixed-citation publication-type="book">
+<collab>World Health Organization</collab>
+<source>Post COVID-19 condition</source>
+<publisher-name>WHO Regional Office for Europe</publisher-name>
+<year>2023</year>
+<comment>Available at: <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.who.int/europe/news-room/fact-sheets/item/post-covid-19-condition" ext-link-type="uri">https://www.who.int/europe/news-room/fact-sheets/item/post-covid-19-condition</ext-link></comment>
+<date-in-citation>[Accessed 26 May 2025].</date-in-citation>
+</mixed-citation></ref><ref id="b29-jfda-33-03-326"><label>29</label><mixed-citation publication-type="book">
+<collab>Centers for Disease Control and Prevention</collab>
+<source>Long COVID or post-COVID conditions</source>
+<publisher-name>U.S. Department of Health &amp; Human Services</publisher-name>
+<year>2024</year>
+<comment>Available at: <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.cdc.gov/covid/long-term-effects/index.html" ext-link-type="uri">https://www.cdc.gov/covid/long-term-effects/index.html</ext-link></comment>
+<date-in-citation>[Accessed 26 May 2025].</date-in-citation>
+</mixed-citation></ref><ref id="b30-jfda-33-03-326"><label>30</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>O’Mahoney</surname><given-names>LL</given-names></name>
+<name name-style="western"><surname>Routen</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Gillies</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Ekezie</surname><given-names>W</given-names></name>
+<name name-style="western"><surname>Welford</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Zhang</surname><given-names>A</given-names></name>
+<etal/>
+</person-group>
+<article-title>The prevalence and long-term health effects of Long Covid among hospitalised and non-hospitalised populations: a systematic review and meta-analysis</article-title>
+<source>eClinicalMedicine</source>
+<year>2023</year>
+<volume>55</volume>
+<fpage>101762</fpage>
+<pub-id pub-id-type="pmid">36474804</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.eclinm.2022.101762</pub-id><pub-id pub-id-type="pmcid">PMC9714474</pub-id></mixed-citation></ref><ref id="b31-jfda-33-03-326"><label>31</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Asadi-Pooya</surname><given-names>AA</given-names></name>
+<name name-style="western"><surname>Akbari</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Emami</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Lotfi</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Rostamihosseinkhani</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Nemati</surname><given-names>H</given-names></name>
+<etal/>
+</person-group>
+<article-title>Long COVID syndrome-associated brain fog</article-title>
+<source>J Med Virol</source>
+<year>2022</year>
+<volume>94</volume>
+<fpage>979</fpage>
+<lpage>84</lpage>
+<pub-id pub-id-type="pmid">34672377</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/jmv.27404</pub-id><pub-id pub-id-type="pmcid">PMC8662118</pub-id></mixed-citation></ref><ref id="b32-jfda-33-03-326"><label>32</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Lai</surname><given-names>Y-J</given-names></name>
+<name name-style="western"><surname>Liu</surname><given-names>S-H</given-names></name>
+<name name-style="western"><surname>Manachevakul</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Lee</surname><given-names>T-A</given-names></name>
+<name name-style="western"><surname>Kuo</surname><given-names>C-T</given-names></name>
+<name name-style="western"><surname>Bello</surname><given-names>D</given-names></name>
+</person-group>
+<article-title>Biomarkers in long COVID-19: a systematic review</article-title>
+<source>Front Med</source>
+<year>2023</year>
+<volume>10</volume>
+<fpage>1085988</fpage>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3389/fmed.2023.1085988</pub-id><pub-id pub-id-type="pmcid">PMC9895110</pub-id><pub-id pub-id-type="pmid">36744129</pub-id></mixed-citation></ref><ref id="b33-jfda-33-03-326"><label>33</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Subramanian</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Nirantharakumar</surname><given-names>K</given-names></name>
+<name name-style="western"><surname>Hughes</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Myles</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Williams</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Gokhale</surname><given-names>KM</given-names></name>
+<etal/>
+</person-group>
+<article-title>Symptoms and risk factors for long COVID in non-hospitalized adults</article-title>
+<source>Nat Med</source>
+<year>2022</year>
+<volume>28</volume>
+<fpage>1706</fpage>
+<lpage>14</lpage>
+<pub-id pub-id-type="pmid">35879616</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41591-022-01909-w</pub-id><pub-id pub-id-type="pmcid">PMC9388369</pub-id></mixed-citation></ref><ref id="b34-jfda-33-03-326"><label>34</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Huang</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Li</surname><given-names>X</given-names></name>
+<name name-style="western"><surname>Gu</surname><given-names>X</given-names></name>
+<name name-style="western"><surname>Zhang</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Ren</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Guo</surname><given-names>L</given-names></name>
+<etal/>
+</person-group>
+<article-title>Health outcomes in people 2 years after surviving hospitalisation with COVID-19: a longitudinal cohort study</article-title>
+<source>Lancet Respir Med</source>
+<year>2022</year>
+<volume>10</volume>
+<fpage>863</fpage>
+<lpage>76</lpage>
+<pub-id pub-id-type="pmid">35568052</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/S2213-2600(22)00126-6</pub-id><pub-id pub-id-type="pmcid">PMC9094732</pub-id></mixed-citation></ref><ref id="b35-jfda-33-03-326"><label>35</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Yang</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Yu</surname><given-names>Y</given-names></name>
+<name name-style="western"><surname>Xu</surname><given-names>Y</given-names></name>
+<name name-style="western"><surname>Jian</surname><given-names>F</given-names></name>
+<name name-style="western"><surname>Song</surname><given-names>W</given-names></name>
+<name name-style="western"><surname>Yisimayi</surname><given-names>A</given-names></name>
+<etal/>
+</person-group>
+<article-title>Fast evolution of SARS-CoV-2 BA.2.86 to JN.1 under heavy immune pressure</article-title>
+<source>Lancet Infect Dis</source>
+<year>2024</year>
+<volume>24</volume>
+<fpage>e70</fpage>
+<lpage>2</lpage>
+<pub-id pub-id-type="pmid">38109919</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/S1473-3099(23)00744-2</pub-id></mixed-citation></ref><ref id="b36-jfda-33-03-326"><label>36</label><mixed-citation publication-type="webpage">
+<collab>Merck &amp; Co I, Rahway, NJ, USA</collab>
+<source>A neglected burden: the ongoing economic costs of COVID-19 in Taiwan</source>
+<comment>Available at: <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.covid19economicimpact.com/wp-content/uploads/sites/305/2023/11/Whitepaper-TW_A-Neglected-Burden-The-Ongoing-Economic-Costs-of-Covid-19-in-Taiwan_MSD.pdf" ext-link-type="uri">https://www.covid19economicimpact.com/wp-content/uploads/sites/305/2023/11/Whitepaper-TW_A-Neglected-Burden-The-Ongoing-Economic-Costs-of-Covid-19-in-Taiwan_MSD.pdf</ext-link></comment>
+<date-in-citation>[Accessed 26 May 2025].</date-in-citation>
+</mixed-citation></ref><ref id="b37-jfda-33-03-326"><label>37</label><mixed-citation publication-type="webpage">
+<collab>Taiwan Centers for Disease Control</collab>
+<article-title>COVID-19 Updates</article-title>
+<source>Taiwan CDC (or Ministry of Health and Welfare)</source>
+<comment>Available at: <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.cdc.gov.tw/En" ext-link-type="uri">https://www.cdc.gov.tw/En</ext-link></comment>
+<date-in-citation>Accessed May 22, 2025</date-in-citation>
+</mixed-citation></ref><ref id="b38-jfda-33-03-326"><label>38</label><mixed-citation publication-type="book">
+<collab>National Health Insurance Administration</collab>
+<source>Statistics and Publications</source>
+<publisher-name>NHIA</publisher-name>
+<comment>Available at: <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.nhi.gov.tw/en/mp-2.html" ext-link-type="uri">https://www.nhi.gov.tw/en/mp-2.html</ext-link></comment>
+<date-in-citation>Accessed May 22, 2025</date-in-citation>
+</mixed-citation></ref><ref id="b39-jfda-33-03-326"><label>39</label><mixed-citation publication-type="book">
+<collab>Interior Mot</collab>
+<source>Demographic Data</source>
+<publisher-name>MOI</publisher-name>
+<comment>Available at: <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.moi.gov.tw/" ext-link-type="uri">https://www.moi.gov.tw/</ext-link></comment>
+<date-in-citation>Accessed May 22, 2025</date-in-citation>
+</mixed-citation></ref><ref id="b40-jfda-33-03-326"><label>40</label><mixed-citation publication-type="book">
+<collab>Directorate-General of Budget Accounting Statistics Executive Yuan ROC</collab>
+<source>Statistical Database</source>
+<publisher-name>DGBAS</publisher-name>
+<comment>Available at: <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.dgbas.gov.tw/" ext-link-type="uri">https://www.dgbas.gov.tw/</ext-link></comment>
+<date-in-citation>Accessed May 22, 2025</date-in-citation>
+</mixed-citation></ref><ref id="b41-jfda-33-03-326"><label>41</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Di Fusco</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Shea</surname><given-names>KM</given-names></name>
+<name name-style="western"><surname>Lin</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Nguyen</surname><given-names>JL</given-names></name>
+<name name-style="western"><surname>Angulo</surname><given-names>FJ</given-names></name>
+<name name-style="western"><surname>Benigno</surname><given-names>M</given-names></name>
+<etal/>
+</person-group>
+<article-title>Health outcomes and economic burden of hospitalized COVID-19 patients in the United States</article-title>
+<source>J Med Econ</source>
+<year>2021</year>
+<volume>24</volume>
+<fpage>308</fpage>
+<lpage>17</lpage>
+<pub-id pub-id-type="pmid">33555956</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1080/13696998.2021.1886109</pub-id></mixed-citation></ref><ref id="b42-jfda-33-03-326"><label>42</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Bartsch</surname><given-names>SM</given-names></name>
+<name name-style="western"><surname>Ferguson</surname><given-names>MC</given-names></name>
+<name name-style="western"><surname>McKinnell</surname><given-names>JA</given-names></name>
+<name name-style="western"><surname>O’Shea</surname><given-names>KJ</given-names></name>
+<name name-style="western"><surname>Wedlock</surname><given-names>PT</given-names></name>
+<name name-style="western"><surname>Siegmund</surname><given-names>SS</given-names></name>
+<etal/>
+</person-group>
+<article-title>The potential health care costs and resource use associated with COVID-19 in the United States</article-title>
+<source>Health Aff (Millwood)</source>
+<year>2020</year>
+<volume>39</volume>
+<fpage>927</fpage>
+<lpage>35</lpage>
+<pub-id pub-id-type="pmid">32324428</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1377/hlthaff.2020.00426</pub-id><pub-id pub-id-type="pmcid">PMC11027994</pub-id></mixed-citation></ref><ref id="b43-jfda-33-03-326"><label>43</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Miethke-Morais</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Cassenote</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Piva</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Tokunaga</surname><given-names>E</given-names></name>
+<name name-style="western"><surname>Cobello</surname><given-names>V</given-names></name>
+<name name-style="western"><surname>Rodrigues Goncalves</surname><given-names>FA</given-names></name>
+<etal/>
+</person-group>
+<article-title>COVID-19-related hospital cost-outcome analysis: the impact of clinical and demographic factors</article-title>
+<source>Braz J Infect Dis</source>
+<year>2021</year>
+<volume>25</volume>
+<fpage>101609</fpage>
+<pub-id pub-id-type="pmid">34454894</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.bjid.2021.101609</pub-id><pub-id pub-id-type="pmcid">PMC8373618</pub-id></mixed-citation></ref><ref id="b44-jfda-33-03-326"><label>44</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Faramarzi</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Norouzi</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Dehdarirad</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Aghlmand</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Yusefzadeh</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Javan-Noughabi</surname><given-names>J</given-names></name>
+</person-group>
+<article-title>The global economic burden of COVID-19 disease: a comprehensive systematic review and meta-analysis</article-title>
+<source>Syst Rev</source>
+<year>2024</year>
+<volume>13</volume>
+<fpage>68</fpage>
+<pub-id pub-id-type="pmid">38365735</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1186/s13643-024-02476-6</pub-id><pub-id pub-id-type="pmcid">PMC10870589</pub-id></mixed-citation></ref><ref id="b45-jfda-33-03-326"><label>45</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Nakhaei</surname><given-names>K</given-names></name>
+<name name-style="western"><surname>Jalilian</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Arab-Zozani</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Heydari</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Torkzadeh</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Taji</surname><given-names>M</given-names></name>
+</person-group>
+<article-title>Direct and indirect cost of COVID-19 patients in Iran</article-title>
+<source>Health Policy Technol</source>
+<year>2021</year>
+<volume>10</volume>
+<fpage>100572</fpage>
+<pub-id pub-id-type="pmid">34777988</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.hlpt.2021.100572</pub-id><pub-id pub-id-type="pmcid">PMC8574083</pub-id></mixed-citation></ref><ref id="b46-jfda-33-03-326"><label>46</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Rajabi</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Rezaee</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Omranikhoo</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Khosravi</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Keshmiri</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Ghaedi</surname><given-names>H</given-names></name>
+<etal/>
+</person-group>
+<article-title>Cost of illness of COVID-19 and its consequences on health and economic system</article-title>
+<source>Inquiry</source>
+<year>2022</year>
+<volume>59</volume>
+<fpage>469580221144398</fpage>
+<pub-id pub-id-type="pmid">36572983</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1177/00469580221144398</pub-id><pub-id pub-id-type="pmcid">PMC9805926</pub-id></mixed-citation></ref><ref id="b47-jfda-33-03-326"><label>47</label><mixed-citation publication-type="webpage">
+<collab>Merck &amp; Co I, Rahway, NJ, USA</collab>
+<source>A neglected burden: the ongoing economic costs of COVID-19 in Asia-Pacific</source>
+<comment>Available at: <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.covid19economicimpact.com/wp-content/uploads/sites/305/2023/12/MSD_Regional-Whitepaper-2023.pdf" ext-link-type="uri">https://www.covid19economicimpact.com/wp-content/uploads/sites/305/2023/12/MSD_Regional-Whitepaper-2023.pdf</ext-link></comment>
+<date-in-citation>[Accessed 26 May 2025].</date-in-citation>
+</mixed-citation></ref><ref id="b48-jfda-33-03-326"><label>48</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Wang</surname><given-names>CJ</given-names></name>
+<name name-style="western"><surname>Ng</surname><given-names>CY</given-names></name>
+<name name-style="western"><surname>Brook</surname><given-names>RH</given-names></name>
+</person-group>
+<article-title>Response to COVID-19 in Taiwan: big data analytics, new technology, and proactive testing</article-title>
+<source>JAMA</source>
+<year>2020</year>
+<volume>323</volume>
+<fpage>1341</fpage>
+<lpage>2</lpage>
+<pub-id pub-id-type="pmid">32125371</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1001/jama.2020.3151</pub-id></mixed-citation></ref><ref id="b49-jfda-33-03-326"><label>49</label><mixed-citation publication-type="webpage">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Lee</surname><given-names>PC</given-names></name>
+<name name-style="western"><surname>Chen</surname><given-names>SC</given-names></name>
+<name name-style="western"><surname>Chiu</surname><given-names>TY</given-names></name>
+<name name-style="western"><surname>Chen</surname><given-names>CM</given-names></name>
+<name name-style="western"><surname>Chi</surname><given-names>C</given-names></name>
+</person-group>
+<article-title>What we can learn from Taiwan’s response to the covid-19 epidemic</article-title>
+<source>BMJ Opinion</source>
+<year>2020</year>
+<comment>Available at: <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://blogs.bmj.com/bmj/2020/07/21/what-we-can-learn-from-taiwans-response-to-the-covid-19-epidemic/" ext-link-type="uri">https://blogs.bmj.com/bmj/2020/07/21/what-we-can-learn-from-taiwans-response-to-the-covid-19-epidemic/</ext-link></comment>
+<date-in-citation>[Accessed 26 May 2025].</date-in-citation>
+</mixed-citation></ref><ref id="b50-jfda-33-03-326"><label>50</label><mixed-citation publication-type="book">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Bach</surname><given-names>K</given-names></name>
+</person-group>
+<source>New data shows long Covid is keeping as many as 4million people out of work</source>
+<publisher-name>BROOKINGS</publisher-name>
+<month>August</month>
+<day>24</day>
+<year>2022</year>
+<comment>Available at: <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.brookings.edu/articles/new-data-shows-long-covid-is-keeping-as-many-as-4-million-people-out-of-work/" ext-link-type="uri">https://www.brookings.edu/articles/new-data-shows-long-covid-is-keeping-as-many-as-4-million-people-out-of-work/</ext-link></comment>
+</mixed-citation></ref><ref id="b51-jfda-33-03-326"><label>51</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Ida</surname><given-names>FS</given-names></name>
+<name name-style="western"><surname>Ferreira</surname><given-names>HP</given-names></name>
+<name name-style="western"><surname>Vasconcelos</surname><given-names>AKM</given-names></name>
+<name name-style="western"><surname>Furtado</surname><given-names>IAB</given-names></name>
+<name name-style="western"><surname>Fontenele</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Pereira</surname><given-names>AC</given-names></name>
+</person-group>
+<article-title>Post-COVID-19 syndrome: persistent symptoms, functional impact, quality of life, return to work, and indirect costs - a prospective case study 12 months after COVID-19 infection</article-title>
+<source>Cad Saude Publica</source>
+<year>2024</year>
+<volume>40</volume>
+<fpage>e00022623</fpage>
+<pub-id pub-id-type="pmid">38381867</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1590/0102-311XEN026623</pub-id><pub-id pub-id-type="pmcid">PMC10877695</pub-id></mixed-citation></ref><ref id="b52-jfda-33-03-326"><label>52</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Halpin</surname><given-names>SJ</given-names></name>
+<name name-style="western"><surname>McIvor</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Whyatt</surname><given-names>G</given-names></name>
+<name name-style="western"><surname>Adams</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Harvey</surname><given-names>O</given-names></name>
+<name name-style="western"><surname>McLean</surname><given-names>L</given-names></name>
+<etal/>
+</person-group>
+<article-title>Postdischarge symptoms and rehabilitation needs in survivors of COVID-19 infection: a cross-sectional evaluation</article-title>
+<source>J Med Virol</source>
+<year>2021</year>
+<volume>93</volume>
+<fpage>1013</fpage>
+<lpage>22</lpage>
+<pub-id pub-id-type="pmid">32729939</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/jmv.26368</pub-id></mixed-citation></ref><ref id="b53-jfda-33-03-326"><label>53</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Macpherson</surname><given-names>K</given-names></name>
+<name name-style="western"><surname>Cooper</surname><given-names>K</given-names></name>
+<name name-style="western"><surname>Harbour</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Mahal</surname><given-names>D</given-names></name>
+<name name-style="western"><surname>Miller</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Nairn</surname><given-names>M</given-names></name>
+</person-group>
+<article-title>Experiences of living with long COVID and of accessing healthcare services: a qualitative systematic review</article-title>
+<source>BMJ Open</source>
+<year>2022</year>
+<volume>12</volume>
+<fpage>e050979</fpage>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1136/bmjopen-2021-050979</pub-id><pub-id pub-id-type="pmcid">PMC8753091</pub-id><pub-id pub-id-type="pmid">35017239</pub-id></mixed-citation></ref><ref id="b54-jfda-33-03-326"><label>54</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Sweis</surname><given-names>JJG</given-names></name>
+<name name-style="western"><surname>Alnaimat</surname><given-names>F</given-names></name>
+<name name-style="western"><surname>Esparza</surname><given-names>V</given-names></name>
+<name name-style="western"><surname>Prasad</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Azam</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Modi</surname><given-names>Z</given-names></name>
+<etal/>
+</person-group>
+<article-title>From acute infection to prolonged health consequences: understanding health disparities and economic implications in long COVID worldwide</article-title>
+<source>Int J Environ Res PublHealth</source>
+<year>2024</year>
+<volume>21</volume>
+<fpage>325</fpage>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3390/ijerph21030325</pub-id><pub-id pub-id-type="pmcid">PMC10970637</pub-id><pub-id pub-id-type="pmid">38541324</pub-id></mixed-citation></ref></ref-list></back><floats-group><fig position="float" id="f1-jfda-33-03-326" orientation="portrait"><label>Fig. 1</label><caption><p>Comprehensive Analysis: Direct and Indirect Costs of COVID-19 in Taiwan. The economic burden of COVID-19 in Taiwan includes both direct costs (such as healthcare expenditures for testing, treatment, and hospitalization) and indirect costs (account for productive loss and long-COVID). Total cost was estimated at $4,431,686,236 US dollars (USD).</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="jfda-33-03-326f1.jpg"/></fig><fig position="float" id="f2-jfda-33-03-326" orientation="portrait"><label>Fig. 2</label><caption><p>Economic Burden Breakdown: COVID-19 Costs Analysis in Taiwan. The economic burden of COVID-19 in Taiwan, focusing on (A) Outpatient and inpatient costs of acute COVID and long COVID. (B) Economic impact of COVID-19 by age groups. (C) Direct and indirect costs of COVID-19 across age groups.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="jfda-33-03-326f2.jpg"/></fig><fig position="float" id="f3-jfda-33-03-326" orientation="portrait"><label>Fig. 3</label><caption><p>Tornado Diagram: Top Ten Parameters Influencing Cost Estimates of COVID-19 Impact in Taiwan. The tornado diagram displays the top ten parameters that have the greatest impact on cost estimates related to COVID-19 in Taiwan.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="jfda-33-03-326f3.jpg"/></fig><table-wrap position="float" id="t1-jfda-33-03-326" orientation="portrait"><label>Table 1</label><caption><p>Parameters of epidemiologic characteristics used in the model.</p></caption><table frame="hsides" rules="groups"><thead><tr><th valign="top" align="left" rowspan="1" colspan="1">Parameters</th><th valign="top" align="left" rowspan="1" colspan="1">Value</th><th valign="top" align="left" rowspan="1" colspan="1">Lower</th><th valign="top" align="left" rowspan="1" colspan="1">Upper</th><th valign="top" align="left" rowspan="1" colspan="1">Sources</th></tr></thead><tbody><tr><td colspan="5" valign="top" align="left" rowspan="1">
+<bold>Population and infections</bold>
+</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">  Total population in Taiwan</td><td valign="top" align="left" rowspan="1" colspan="1">23,264,640</td><td valign="top" align="left" rowspan="1" colspan="1">–</td><td valign="top" align="left" rowspan="1" colspan="1">–</td><td valign="top" align="left" rowspan="1" colspan="1">
+<xref rid="tfn1-jfda-33-03-326" ref-type="table-fn">a</xref>
+</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">  Total COVID-19 infections</td><td valign="top" align="left" rowspan="1" colspan="1">19,809,716</td><td valign="top" align="left" rowspan="1" colspan="1">18,809,716</td><td valign="top" align="left" rowspan="1" colspan="1">20,809,716</td><td valign="top" align="left" rowspan="1" colspan="1">
+<xref rid="tfn2-jfda-33-03-326" ref-type="table-fn">b</xref>
+</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">  Total reported infections</td><td valign="top" align="left" rowspan="1" colspan="1">8,817,192</td><td valign="top" align="left" rowspan="1" colspan="1">–</td><td valign="top" align="left" rowspan="1" colspan="1">8,855,669</td><td valign="top" align="left" rowspan="1" colspan="1">
+<xref rid="tfn3-jfda-33-03-326" ref-type="table-fn">c</xref>
+</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1"> Proportion of infections with acute COVID</td><td valign="top" align="left" rowspan="1" colspan="1">100.00%</td><td valign="top" align="left" rowspan="1" colspan="1">–</td><td valign="top" align="left" rowspan="1" colspan="1">–</td><td valign="top" align="left" rowspan="1" colspan="1">Assumed</td></tr><tr><td colspan="5" valign="top" align="left" rowspan="1"> <bold>Proportion of infections by age group</bold></td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">  Pediatric (0–18 y)</td><td valign="top" align="left" rowspan="1" colspan="1">20.67%</td><td valign="top" align="left" rowspan="1" colspan="1">17.67%</td><td valign="top" align="left" rowspan="1" colspan="1">23.67%</td><td valign="top" align="left" rowspan="1" colspan="1">
+<xref rid="tfn4-jfda-33-03-326" ref-type="table-fn">d</xref>
+</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">  Working age (19–64 y)</td><td valign="top" align="left" rowspan="1" colspan="1">67.77%</td><td valign="top" align="left" rowspan="1" colspan="1">64.77%</td><td valign="top" align="left" rowspan="1" colspan="1">70.77%</td><td valign="top" align="left" rowspan="1" colspan="1"/></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">  Elderly (65+ y)</td><td valign="top" align="left" rowspan="1" colspan="1">11.56%</td><td valign="top" align="left" rowspan="1" colspan="1">8.56%</td><td valign="top" align="left" rowspan="1" colspan="1">14.56%</td><td valign="top" align="left" rowspan="1" colspan="1"/></tr><tr><td colspan="5" valign="top" align="left" rowspan="1"> <bold>Proportion of infections that are symptomatic</bold></td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">  Pediatric (0–18 y)</td><td valign="top" align="left" rowspan="1" colspan="1">64.00%</td><td valign="top" align="left" rowspan="1" colspan="1">59%</td><td valign="top" align="left" rowspan="1" colspan="1">69%</td><td valign="top" align="left" rowspan="1" colspan="1">
+<xref rid="tfn5-jfda-33-03-326" ref-type="table-fn">e</xref>
+</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">  Working age (19–64 y)</td><td valign="top" align="left" rowspan="1" colspan="1">75.00%</td><td valign="top" align="left" rowspan="1" colspan="1">70.00%</td><td valign="top" align="left" rowspan="1" colspan="1">80.00%</td><td valign="top" align="left" rowspan="1" colspan="1">
+<xref rid="tfn6-jfda-33-03-326" ref-type="table-fn">f</xref>
+</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">  Elderly (65+ y)</td><td valign="top" align="left" rowspan="1" colspan="1">100.00%</td><td valign="top" align="left" rowspan="1" colspan="1">–</td><td valign="top" align="left" rowspan="1" colspan="1">–</td><td valign="top" align="left" rowspan="1" colspan="1">Assumed</td></tr><tr><td colspan="5" valign="top" align="left" rowspan="1">
+<bold>Mortality due to COVID-19</bold>
+</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1"> Case fatality rate by age group</td><td valign="top" align="left" rowspan="1" colspan="1">0.16%</td><td valign="top" align="left" rowspan="1" colspan="1">–</td><td valign="top" align="left" rowspan="1" colspan="1">–</td><td valign="top" align="left" rowspan="1" colspan="1">
+<xref rid="tfn7-jfda-33-03-326" ref-type="table-fn">g</xref>
+</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">  Pediatric (0–18 y)</td><td valign="top" align="left" rowspan="1" colspan="1">0.00%</td><td valign="top" align="left" rowspan="1" colspan="1">–</td><td valign="top" align="left" rowspan="1" colspan="1">–</td><td valign="top" align="left" rowspan="1" colspan="1">
+<xref rid="tfn4-jfda-33-03-326" ref-type="table-fn">d</xref>
+</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">  Working age (19–64 y)</td><td valign="top" align="left" rowspan="1" colspan="1">0.04%</td><td valign="top" align="left" rowspan="1" colspan="1">–</td><td valign="top" align="left" rowspan="1" colspan="1">–</td><td valign="top" align="left" rowspan="1" colspan="1"/></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">  Elderly (65+ y)</td><td valign="top" align="left" rowspan="1" colspan="1">1.20%</td><td valign="top" align="left" rowspan="1" colspan="1">–</td><td valign="top" align="left" rowspan="1" colspan="1">–</td><td valign="top" align="left" rowspan="1" colspan="1"/></tr><tr><td colspan="5" valign="top" align="left" rowspan="1"> <bold>Proportion of mortality by age group</bold></td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">  Pediatric (0–18 y)</td><td valign="top" align="left" rowspan="1" colspan="1">0.31%</td><td valign="top" align="left" rowspan="1" colspan="1">–</td><td valign="top" align="left" rowspan="1" colspan="1">–</td><td valign="top" align="left" rowspan="1" colspan="1">
+<xref rid="tfn4-jfda-33-03-326" ref-type="table-fn">d</xref>
+</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">  Working age (19–64 y)</td><td valign="top" align="left" rowspan="1" colspan="1">15.50%</td><td valign="top" align="left" rowspan="1" colspan="1">12.50%</td><td valign="top" align="left" rowspan="1" colspan="1">18.50%</td><td valign="top" align="left" rowspan="1" colspan="1"/></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">  Elderly (65+ y)</td><td valign="top" align="left" rowspan="1" colspan="1">84.18%</td><td valign="top" align="left" rowspan="1" colspan="1">79.18%</td><td valign="top" align="left" rowspan="1" colspan="1">89.18%</td><td valign="top" align="left" rowspan="1" colspan="1"/></tr><tr><td colspan="5" valign="top" align="left" rowspan="1">
+<bold>Healthcare utilization due to COVID-19</bold>
+</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1"> Hospitalization rate</td><td valign="top" align="left" rowspan="1" colspan="1">0.49%</td><td valign="top" align="left" rowspan="1" colspan="1">0.39%</td><td valign="top" align="left" rowspan="1" colspan="1">0.59%</td><td valign="top" align="left" rowspan="1" colspan="1">
+<xref rid="tfn7-jfda-33-03-326" ref-type="table-fn">g</xref>
+</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1"> Proportion of moderate to severe symptoms due to acute COVID in pediatric cohort</td><td valign="top" align="left" rowspan="1" colspan="1">0%</td><td valign="top" align="left" rowspan="1" colspan="1">–</td><td valign="top" align="left" rowspan="1" colspan="1">–</td><td valign="top" align="left" rowspan="1" colspan="1"/></tr><tr><td valign="top" align="left" rowspan="1" colspan="1"> Proportion of emergency visits per infection</td><td valign="top" align="left" rowspan="1" colspan="1">11.76%</td><td valign="top" align="left" rowspan="1" colspan="1">8.76%</td><td valign="top" align="left" rowspan="1" colspan="1">14.76%</td><td valign="top" align="left" rowspan="1" colspan="1">
+<xref rid="tfn8-jfda-33-03-326" ref-type="table-fn">h</xref>
+</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1"> Number of outpatient visits per acute COVID infection</td><td valign="top" align="left" rowspan="1" colspan="1">1</td><td valign="top" align="left" rowspan="1" colspan="1">–</td><td valign="top" align="left" rowspan="1" colspan="1">2</td><td valign="top" align="left" rowspan="1" colspan="1">Assumed</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1"> Proportion of acute COVID antivirals</td><td valign="top" align="left" rowspan="1" colspan="1">3.97%</td><td valign="top" align="left" rowspan="1" colspan="1">2.97%</td><td valign="top" align="left" rowspan="1" colspan="1">4.97%</td><td valign="top" align="left" rowspan="1" colspan="1">
+<xref rid="tfn9-jfda-33-03-326" ref-type="table-fn">i</xref>
+</td></tr><tr><td colspan="5" valign="top" align="left" rowspan="1">
+<bold>Long-COVID related parameters</bold>
+</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1"> Incidence of long-COVID</td><td valign="top" align="left" rowspan="1" colspan="1">5.10%</td><td valign="top" align="left" rowspan="1" colspan="1">4.10%</td><td valign="top" align="left" rowspan="1" colspan="1">6.10%</td><td valign="top" align="left" rowspan="1" colspan="1">
+<xref rid="tfn10-jfda-33-03-326" ref-type="table-fn">j</xref>
+</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1"> Number of reported long-COVID cases</td><td valign="top" align="left" rowspan="1" colspan="1">12,633</td><td valign="top" align="left" rowspan="1" colspan="1">11,370</td><td valign="top" align="left" rowspan="1" colspan="1">13,896</td><td valign="top" align="left" rowspan="1" colspan="1">
+<xref rid="tfn11-jfda-33-03-326" ref-type="table-fn">k</xref>
+</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1"> Average outpatient visits during long-COVID</td><td valign="top" align="left" rowspan="1" colspan="1">3</td><td valign="top" align="left" rowspan="1" colspan="1">1</td><td valign="top" align="left" rowspan="1" colspan="1">6</td><td valign="top" align="left" rowspan="1" colspan="1">
+<xref rid="tfn12-jfda-33-03-326" ref-type="table-fn">l</xref>
+</td></tr><tr><td colspan="5" valign="top" align="left" rowspan="1"> <bold>Age-specific long-COVID infection rate</bold></td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">  Pediatric (0–18 y)</td><td valign="top" align="left" rowspan="1" colspan="1">4.00%</td><td valign="top" align="left" rowspan="1" colspan="1">–</td><td valign="top" align="left" rowspan="1" colspan="1">–</td><td valign="top" align="left" rowspan="1" colspan="1">
+<xref rid="tfn13-jfda-33-03-326" ref-type="table-fn">m</xref>
+</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">  Working age (19–64 y)</td><td valign="top" align="left" rowspan="1" colspan="1">5.10%</td><td valign="top" align="left" rowspan="1" colspan="1">–</td><td valign="top" align="left" rowspan="1" colspan="1">–</td><td valign="top" align="left" rowspan="1" colspan="1">
+<xref rid="tfn14-jfda-33-03-326" ref-type="table-fn">n</xref>
+</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">  Elderly (65+ y)</td><td valign="top" align="left" rowspan="1" colspan="1">3.20%</td><td valign="top" align="left" rowspan="1" colspan="1">2.20%</td><td valign="top" align="left" rowspan="1" colspan="1">4.20%</td><td valign="top" align="left" rowspan="1" colspan="1">
+<xref rid="tfn14-jfda-33-03-326" ref-type="table-fn">n</xref>
+</td></tr></tbody></table><table-wrap-foot><fn id="tfn1-jfda-33-03-326"><label>a</label><p>Department of Statistics, Ministry of the Interior. Number of villages, neighborhoods, households and resident population. Available at: <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://nstatdb.dgbas.gov.tw/dgbasall/webMain.aspx?sys=210&amp;funid=A130201010" ext-link-type="uri">https://nstatdb.dgbas.gov.tw/dgbasall/webMain.aspx?sys=210&amp;funid=A130201010</ext-link>.</p></fn><fn id="tfn2-jfda-33-03-326"><label>b</label><p>THE INSTITUTE FOR HEALTH METRICS AND EVALUATION. COVID-19 Projections. (2022, December 16). Accessed 25 March, 2024. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://COVID19.healthdata.org/taiwan-(province-of-china)?view=infections-testing&amp;tab=trend&amp;test=positive_tests" ext-link-type="uri">https://COVID19.healthdata.org/taiwan-(province-of-china)?view=infections-testing&amp;tab=trend&amp;test=positive_tests</ext-link>.</p></fn><fn id="tfn3-jfda-33-03-326"><label>c</label><p>Taiwan Centers for Disease Control. Epidemic Surveillance Bulletin (Week 52, 2022). Accessed March 25, 2024. Available at: <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.cdc.gov.tw/File/Get/0c9auo6_7AsxNPu74pKmFA" ext-link-type="uri">https://www.cdc.gov.tw/File/Get/0c9auo6_7AsxNPu74pKmFA</ext-link>.</p></fn><fn id="tfn4-jfda-33-03-326"><label>d</label><p>COVID-19 Global Epidemic Map. National COVID-19 Age Group Confirmed Cases Report (Statistics based on case judgment day]. (September 7, 2023). Accessed March 25, 2024. Available at: <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://COVID-19.nchc.org.tw/2023_city_confirmed.php" ext-link-type="uri">https://COVID-19.nchc.org.tw/2023_city_confirmed.php</ext-link>.</p></fn><fn id="tfn5-jfda-33-03-326"><label>e</label><p>Say D, Crawford N, McNab S, Wurzel D, Steer A, Tosif S. Post-acute COVID-19 outcomes in children with mild and asymptomatic disease. <italic toggle="yes">Lancet Child Adolesc Health</italic>. 2021;5:e22-e23.</p></fn><fn id="tfn6-jfda-33-03-326"><label>f</label><p>Alene M, Yismaw L, Assemie MA, et al. Magnitude of asymptomatic COVID-19 cases throughout the course of infection: A systematic review and meta-analysis. <italic toggle="yes">PLoS One</italic>. 2021;16:e0249090.</p></fn><fn id="tfn7-jfda-33-03-326"><label>g</label><p>Central Epidemic Command Center. Statistical Data. Accessed March 25, 2024. Available at: <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://healthmedia.com.tw/main_detail.php?id=56725" ext-link-type="uri">https://healthmedia.com.tw/main_detail.php?id=56725</ext-link>.</p></fn><fn id="tfn8-jfda-33-03-326"><label>h</label><p>Ministry of Health and Welfare Statistics Department. Annual Report on National Health Insurance Medical Statistics, 2021. (December 12, 2022). Accessed March 25, 2024. Available at: <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://dep.mohw.gov.tw/dos/lp-5103-113.html" ext-link-type="uri">https://dep.mohw.gov.tw/dos/lp-5103-113.html</ext-link>.</p></fn><fn id="tfn9-jfda-33-03-326"><label>i</label><p>Radio Taiwan International. Use rate of antiviral drugs for confirmed cases higher than in the US and Japan, Chen Shi-Zhong: Stockpile sufficient for 6.85 million people. (May 29, 2022). Accessed March 25, 2024. Available at: <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.rti.org.tw/news/view/id/2134271" ext-link-type="uri">https://www.rti.org.tw/news/view/id/2134271</ext-link>.</p></fn><fn id="tfn10-jfda-33-03-326"><label>j</label><p>Ford ND, Slaughter D, Edwards D. Centers for Disease Control and Drug Prevention. Morbidity and Mortality Weekly Report (MMWR). <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.cdc.gov/mmwr/volumes/72/wr/mm7232a3.html" ext-link-type="uri">https://www.cdc.gov/mmwr/volumes/72/wr/mm7232a3.html</ext-link>.</p></fn><fn id="tfn11-jfda-33-03-326"><label>k</label><p>National Health Insurance Administration, Ministry of Health and Welfare. National Health Insurance Administration Launches Comprehensive Integrated Medical Care for COVID-19 Recoverees, Ensuring One-stop Medical Services. Accessed Jun 11, 2024. Available at: <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.nhi.gov.tw/ch/cp-3448-59155-3255-1.html" ext-link-type="uri">https://www.nhi.gov.tw/ch/cp-3448-59155-3255-1.html</ext-link>.</p></fn><fn id="tfn12-jfda-33-03-326"><label>l</label><p>National Health Insurance Administration, Ministry of Health and Welfare. National Health Insurance Administration’s Integrated Medical Plan for COVID-19 Recoverees. Accessed Jun 11, 2024. Available at: <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.nhi.gov.tw/Content_List.aspx?n=88AE6A786480BF00&amp;topn=787128DAD5F71B1A" ext-link-type="uri">https://www.nhi.gov.tw/Content_List.aspx?n=88AE6A786480BF00&amp;topn=787128DAD5F71B1A</ext-link>.</p></fn><fn id="tfn13-jfda-33-03-326"><label>m</label><p>Radtke T, Ulyte A, Puhan MA, Kriemler S. Long-term Symptoms After SARS-CoV-2 Infection in Children and Adolescents. <italic toggle="yes">JAMA</italic>. 2021;326:869–71.</p></fn><fn id="tfn14-jfda-33-03-326"><label>n</label><p>Adjaye-Gbewonyo D, Vahratian A, Perrine CG, Bertolli J. Long COVID in Adults: United States, 2022. NCHS Data Brief. Sep 2023;1–8.</p></fn></table-wrap-foot></table-wrap><table-wrap position="float" id="t2-jfda-33-03-326" orientation="portrait"><label>Table 2</label><caption><p>Parameters for costs, productivity loss, and medical utilization in the model.</p></caption><table frame="hsides" rules="groups"><thead><tr><th valign="top" align="left" rowspan="1" colspan="1">Parameters</th><th valign="top" align="left" rowspan="1" colspan="1">Value</th><th valign="top" align="left" rowspan="1" colspan="1">Lower</th><th valign="top" align="left" rowspan="1" colspan="1">Upper</th><th valign="top" align="left" rowspan="1" colspan="1">Sources</th></tr></thead><tbody><tr><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>Direct cost</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1"/><td valign="top" align="left" rowspan="1" colspan="1"/><td valign="top" align="left" rowspan="1" colspan="1"/><td valign="top" align="left" rowspan="1" colspan="1"/></tr><tr><td valign="top" align="left" rowspan="1" colspan="1"> Ward bed cost per day (USD)</td><td valign="top" align="left" rowspan="1" colspan="1">$440.04</td><td valign="top" align="left" rowspan="1" colspan="1">$148.02</td><td valign="top" align="left" rowspan="1" colspan="1">–</td><td valign="top" align="left" rowspan="1" colspan="1">
+<xref rid="tfn15-jfda-33-03-326" ref-type="table-fn">o</xref>
+</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1"> Average days of hospitalization</td><td valign="top" align="left" rowspan="1" colspan="1">14</td><td valign="top" align="left" rowspan="1" colspan="1">–</td><td valign="top" align="left" rowspan="1" colspan="1">–</td><td valign="top" align="left" rowspan="1" colspan="1"/></tr><tr><td valign="top" align="left" rowspan="1" colspan="1"> Cost per emergency visit (USD)</td><td valign="top" align="left" rowspan="1" colspan="1">$158.69</td><td valign="top" align="left" rowspan="1" colspan="1">$142.82</td><td valign="top" align="left" rowspan="1" colspan="1">$174.55</td><td valign="top" align="left" rowspan="1" colspan="1">
+<xref rid="tfn16-jfda-33-03-326" ref-type="table-fn">p</xref>
+</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1"> Cost per outpatient visit for acute COVID (USD)</td><td valign="top" align="left" rowspan="1" colspan="1">$44.95</td><td valign="top" align="left" rowspan="1" colspan="1">$40.45</td><td valign="top" align="left" rowspan="1" colspan="1">$49.44</td><td valign="top" align="left" rowspan="1" colspan="1"/></tr><tr><td valign="top" align="left" rowspan="1" colspan="1"> Cost per anti-COVID regimen (USD)</td><td valign="top" align="left" rowspan="1" colspan="1">$727.80</td><td valign="top" align="left" rowspan="1" colspan="1">–</td><td valign="top" align="left" rowspan="1" colspan="1">–</td><td valign="top" align="left" rowspan="1" colspan="1">
+<xref rid="tfn17-jfda-33-03-326" ref-type="table-fn">q</xref>
+</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1"> Cost per outpatient visit for long COVID (USD)</td><td valign="top" align="left" rowspan="1" colspan="1">$93.82</td><td valign="top" align="left" rowspan="1" colspan="1">–</td><td valign="top" align="left" rowspan="1" colspan="1">–</td><td valign="top" align="left" rowspan="1" colspan="1">
+<sup>m</sup>
+</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>Indirect cost</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1"/><td valign="top" align="left" rowspan="1" colspan="1"/><td valign="top" align="left" rowspan="1" colspan="1"/><td valign="top" align="left" rowspan="1" colspan="1"/></tr><tr><td valign="top" align="left" rowspan="1" colspan="1"> <bold>Acute COVID-related parameters</bold></td><td valign="top" align="left" rowspan="1" colspan="1"/><td valign="top" align="left" rowspan="1" colspan="1"/><td valign="top" align="left" rowspan="1" colspan="1"/><td valign="top" align="left" rowspan="1" colspan="1"/></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">  <bold>Average days of outpatient visits due to acute COVID</bold></td><td valign="top" align="left" rowspan="1" colspan="1"/><td valign="top" align="left" rowspan="1" colspan="1"/><td valign="top" align="left" rowspan="1" colspan="1"/><td valign="top" align="left" rowspan="1" colspan="1"/></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">   Pediatric (0–18 y)</td><td valign="top" align="left" rowspan="1" colspan="1">6</td><td valign="top" align="left" rowspan="1" colspan="1">3</td><td valign="top" align="left" rowspan="1" colspan="1">11</td><td valign="top" align="left" rowspan="1" colspan="1">
+<xref rid="tfn18-jfda-33-03-326" ref-type="table-fn">r</xref>
+</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">   Working age (19–64 y)</td><td valign="top" align="left" rowspan="1" colspan="1">9.82</td><td valign="top" align="left" rowspan="1" colspan="1">4.07</td><td valign="top" align="left" rowspan="1" colspan="1">15.57</td><td valign="top" align="left" rowspan="1" colspan="1">
+<xref rid="tfn19-jfda-33-03-326" ref-type="table-fn">s</xref>
+</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">   Elderly (65+ y)</td><td valign="top" align="left" rowspan="1" colspan="1">9.82</td><td valign="top" align="left" rowspan="1" colspan="1">4.07</td><td valign="top" align="left" rowspan="1" colspan="1">15.57</td><td valign="top" align="left" rowspan="1" colspan="1">
+<xref rid="tfn19-jfda-33-03-326" ref-type="table-fn">s</xref>
+</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">   Average quarantine days due to acute COVID</td><td valign="top" align="left" rowspan="1" colspan="1">5</td><td valign="top" align="left" rowspan="1" colspan="1">–</td><td valign="top" align="left" rowspan="1" colspan="1">–</td><td valign="top" align="left" rowspan="1" colspan="1">
+<xref rid="tfn20-jfda-33-03-326" ref-type="table-fn">t</xref>
+</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">   Average earnings per day (USD)</td><td valign="top" align="left" rowspan="1" colspan="1">$49.68</td><td valign="top" align="left" rowspan="1" colspan="1">–</td><td valign="top" align="left" rowspan="1" colspan="1">–</td><td valign="top" align="left" rowspan="1" colspan="1">
+<xref rid="tfn21-jfda-33-03-326" ref-type="table-fn">u</xref>
+</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">   Average earnings per day: healthcare workers (USD)</td><td valign="top" align="left" rowspan="1" colspan="1">$61.75</td><td valign="top" align="left" rowspan="1" colspan="1">–</td><td valign="top" align="left" rowspan="1" colspan="1">–</td><td valign="top" align="left" rowspan="1" colspan="1">
+<xref rid="tfn21-jfda-33-03-326" ref-type="table-fn">u</xref>
+</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">   Retirement age within working age cohort</td><td valign="top" align="left" rowspan="1" colspan="1">65</td><td valign="top" align="left" rowspan="1" colspan="1">–</td><td valign="top" align="left" rowspan="1" colspan="1">–</td><td valign="top" align="left" rowspan="1" colspan="1">
+<xref rid="tfn22-jfda-33-03-326" ref-type="table-fn">v</xref>
+</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">   Average age of death due to COVID-19 in working age cohort (19–64 y)</td><td valign="top" align="left" rowspan="1" colspan="1">54.80</td><td valign="top" align="left" rowspan="1" colspan="1">49.32</td><td valign="top" align="left" rowspan="1" colspan="1">60.28</td><td valign="top" align="left" rowspan="1" colspan="1">
+<sup>d</sup>
+</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">   Days of sick leave due to acute COVID in working age cohort (19–64 y)</td><td valign="top" align="left" rowspan="1" colspan="1">3.47</td><td valign="top" align="left" rowspan="1" colspan="1">3.12</td><td valign="top" align="left" rowspan="1" colspan="1">3.82</td><td valign="top" align="left" rowspan="1" colspan="1">
+<xref rid="tfn23-jfda-33-03-326" ref-type="table-fn">w</xref>
+</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">   Proportion of people who can work at home</td><td valign="top" align="left" rowspan="1" colspan="1">17.50%</td><td valign="top" align="left" rowspan="1" colspan="1">14.50%</td><td valign="top" align="left" rowspan="1" colspan="1">20.50%</td><td valign="top" align="left" rowspan="1" colspan="1">
+<xref rid="tfn24-jfda-33-03-326" ref-type="table-fn">x</xref>
+</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">  <bold>Productivity loss due to caring child with acute COVID</bold></td><td valign="top" align="left" rowspan="1" colspan="1"/><td valign="top" align="left" rowspan="1" colspan="1"/><td valign="top" align="left" rowspan="1" colspan="1"/><td valign="top" align="left" rowspan="1" colspan="1"/></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">   Child with no symptoms</td><td valign="top" align="left" rowspan="1" colspan="1">25%</td><td valign="top" align="left" rowspan="1" colspan="1">22%</td><td valign="top" align="left" rowspan="1" colspan="1">28%</td><td valign="top" align="left" rowspan="1" colspan="1">
+<xref rid="tfn25-jfda-33-03-326" ref-type="table-fn">y</xref>
+</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">   Child with mild symptoms</td><td valign="top" align="left" rowspan="1" colspan="1">50%</td><td valign="top" align="left" rowspan="1" colspan="1">–</td><td valign="top" align="left" rowspan="1" colspan="1">–</td><td valign="top" align="left" rowspan="1" colspan="1">Assumed</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">   Child with moderate to severe symptoms</td><td valign="top" align="left" rowspan="1" colspan="1">100%</td><td valign="top" align="left" rowspan="1" colspan="1">–</td><td valign="top" align="left" rowspan="1" colspan="1">–</td><td valign="top" align="left" rowspan="1" colspan="1">Assumed</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">  <bold>Proportion of days requiring care for acute COVID elderly</bold></td><td valign="top" align="left" rowspan="1" colspan="1">100%</td><td valign="top" align="left" rowspan="1" colspan="1">–</td><td valign="top" align="left" rowspan="1" colspan="1">–</td><td valign="top" align="left" rowspan="1" colspan="1">Assumed</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">   Proportion of elderly requiring care from non-health professional working age adult</td><td valign="top" align="left" rowspan="1" colspan="1">95.50%</td><td valign="top" align="left" rowspan="1" colspan="1">90.50%</td><td valign="top" align="left" rowspan="1" colspan="1">100%</td><td valign="top" align="left" rowspan="1" colspan="1">
+<sup>g</sup>
+</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">  <bold>Productivity loss of non-HCP working age adult due to caring elderly with acute COVID</bold></td><td valign="top" align="left" rowspan="1" colspan="1"/><td valign="top" align="left" rowspan="1" colspan="1"/><td valign="top" align="left" rowspan="1" colspan="1"/><td valign="top" align="left" rowspan="1" colspan="1"/></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">   Elderly with mild illness</td><td valign="top" align="left" rowspan="1" colspan="1">25%</td><td valign="top" align="left" rowspan="1" colspan="1">20%</td><td valign="top" align="left" rowspan="1" colspan="1">30%</td><td valign="top" align="left" rowspan="1" colspan="1">
+<xref rid="tfn25-jfda-33-03-326" ref-type="table-fn">y</xref>
+</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">   Elderly with moderate to severe illness</td><td valign="top" align="left" rowspan="1" colspan="1">100%</td><td valign="top" align="left" rowspan="1" colspan="1">–</td><td valign="top" align="left" rowspan="1" colspan="1">–</td><td valign="top" align="left" rowspan="1" colspan="1">Assumed</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">   Proportion of elderly providing childcare while parents worked or studied</td><td valign="top" align="left" rowspan="1" colspan="1">14.48%</td><td valign="top" align="left" rowspan="1" colspan="1">4.00%</td><td valign="top" align="left" rowspan="1" colspan="1">21.50%</td><td valign="top" align="left" rowspan="1" colspan="1">
+<xref rid="tfn26-jfda-33-03-326" ref-type="table-fn">z</xref>
+</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">   Days of childcare provided per week</td><td valign="top" align="left" rowspan="1" colspan="1">1</td><td valign="top" align="left" rowspan="1" colspan="1">0</td><td valign="top" align="left" rowspan="1" colspan="1">2</td><td valign="top" align="left" rowspan="1" colspan="1">
+<xref rid="tfn27-jfda-33-03-326" ref-type="table-fn">aa</xref>
+</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">  <bold>Long COVID-related parameters</bold></td><td valign="top" align="left" rowspan="1" colspan="1"/><td valign="top" align="left" rowspan="1" colspan="1"/><td valign="top" align="left" rowspan="1" colspan="1"/><td valign="top" align="left" rowspan="1" colspan="1"/></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">   Proportion of long-COVID well enough to work</td><td valign="top" align="left" rowspan="1" colspan="1">75.80%</td><td valign="top" align="left" rowspan="1" colspan="1">70.80%</td><td valign="top" align="left" rowspan="1" colspan="1">80.80%</td><td valign="top" align="left" rowspan="1" colspan="1">
+<xref rid="tfn28-jfda-33-03-326" ref-type="table-fn">ab</xref>
+</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">   Days of sick leave but well enough to work</td><td valign="top" align="left" rowspan="1" colspan="1">9</td><td valign="top" align="left" rowspan="1" colspan="1">8.1</td><td valign="top" align="left" rowspan="1" colspan="1">9.9</td><td valign="top" align="left" rowspan="1" colspan="1">
+<xref rid="tfn29-jfda-33-03-326" ref-type="table-fn">ac</xref>
+</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">   Productivity loss if working with long-COVID</td><td valign="top" align="left" rowspan="1" colspan="1">35.00%</td><td valign="top" align="left" rowspan="1" colspan="1">–</td><td valign="top" align="left" rowspan="1" colspan="1">–</td><td valign="top" align="left" rowspan="1" colspan="1">
+<xref rid="tfn29-jfda-33-03-326" ref-type="table-fn">ac</xref>
+</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">  <bold>Days of long-COVID by age group</bold></td><td valign="top" align="left" rowspan="1" colspan="1"/><td valign="top" align="left" rowspan="1" colspan="1"/><td valign="top" align="left" rowspan="1" colspan="1"/><td valign="top" align="left" rowspan="1" colspan="1"/></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">   Pediatric (0–18 y)</td><td valign="top" align="left" rowspan="1" colspan="1">14.6</td><td valign="top" align="left" rowspan="1" colspan="1">3.50</td><td valign="top" align="left" rowspan="1" colspan="1">25.5</td><td valign="top" align="left" rowspan="1" colspan="1">
+<sup>e</sup>
+</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">   Working age (19–64 y)</td><td valign="top" align="left" rowspan="1" colspan="1">90</td><td valign="top" align="left" rowspan="1" colspan="1">–</td><td valign="top" align="left" rowspan="1" colspan="1">–</td><td valign="top" align="left" rowspan="1" colspan="1">
+<xref rid="tfn30-jfda-33-03-326" ref-type="table-fn">ad</xref>
+</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">   Elderly (65+ y)</td><td valign="top" align="left" rowspan="1" colspan="1">14.6</td><td valign="top" align="left" rowspan="1" colspan="1">–</td><td valign="top" align="left" rowspan="1" colspan="1">–</td><td valign="top" align="left" rowspan="1" colspan="1">Assumed</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">   Proportion of days for child requiring care due to mild long-COVID</td><td valign="top" align="left" rowspan="1" colspan="1">61.64%</td><td valign="top" align="left" rowspan="1" colspan="1">–</td><td valign="top" align="left" rowspan="1" colspan="1">–</td><td valign="top" align="left" rowspan="1" colspan="1">Assumed</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">   Proportion of days for child requiring care due to moderate to severe long-COVID</td><td valign="top" align="left" rowspan="1" colspan="1">100.00%</td><td valign="top" align="left" rowspan="1" colspan="1">–</td><td valign="top" align="left" rowspan="1" colspan="1">–</td><td valign="top" align="left" rowspan="1" colspan="1">Assumed</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">   Proportion of days for elderly requiring care due to mild long-COVID</td><td valign="top" align="left" rowspan="1" colspan="1">61.64%</td><td valign="top" align="left" rowspan="1" colspan="1">–</td><td valign="top" align="left" rowspan="1" colspan="1">–</td><td valign="top" align="left" rowspan="1" colspan="1">Assumed</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">   Proportion of days for elderly requiring care due to long-COVID</td><td valign="top" align="left" rowspan="1" colspan="1">100.00%</td><td valign="top" align="left" rowspan="1" colspan="1">–</td><td valign="top" align="left" rowspan="1" colspan="1">–</td><td valign="top" align="left" rowspan="1" colspan="1">Assumed</td></tr></tbody></table><table-wrap-foot><fn id="tfn15-jfda-33-03-326"><label>o</label><p>Lee C, Liu D, Ho P, Hsu J, Wu W, Chueh Y. Disease Burden and Economic Impact of Infectious Diseases in Taiwan. Government Research Bulletin. Accessed 25 March, 2024. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.cdc.gov.tw/Bulletin/Detail/_llpYYM_tpZ8v14_2B5STQ?typeid=9" ext-link-type="uri">https://www.cdc.gov.tw/Bulletin/Detail/_llpYYM_tpZ8v14_2B5STQ?typeid=9</ext-link>.</p></fn><fn id="tfn16-jfda-33-03-326"><label>p</label><p>Department of Statistics, Ministry of Health and Welfare. Annual Report on National Health Insurance Medical Statistics, 2021. (December 12, 2022). Accessed March 25, 2024. Available at: <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://dep.mohw.gov.tw/dos/lp-5103-113.html" ext-link-type="uri">https://dep.mohw.gov.tw/dos/lp-5103-113.html</ext-link>.</p></fn><fn id="tfn17-jfda-33-03-326"><label>q</label><p>Taichung Veterans General Hospital. Procedure for Application of Self-Paid COVID-19 Antiviral Medications. (2023). Accessed March 25, 2024. Available at: <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.vghtc.gov.tw/UploadFiles/WebFiles/WebPagesFiles/Files/c8295233-84a2-4026-bf5a-7e030470e9db/1111229%E8%87%AA%E8%B2%BB%20COVID-19%20%E6%8A%97%E7%97%85%E6%AF%92%E8%97%A5%E7%89%A9%E7%94%B3%E8%AB%8B%E8%99%95%E7%90%86%E6%B5%81%E7%A8%8B.pdf" ext-link-type="uri">https://www.vghtc.gov.tw/UploadFiles/WebFiles/WebPagesFiles/Files/c8295233-84a2-4026-bf5a-7e030470e9db/1111229%E8%87%AA%E8%B2%BB%20COVID-19%20%E6%8A%97%E7%97%85%E6%AF%92%E8%97%A5%E7%89%A9%E7%94%B3%E8%AB%8B%E8%99%95%E7%90%86%E6%B5%81%E7%A8%8B.pdf</ext-link>.</p></fn><fn id="tfn18-jfda-33-03-326"><label>r</label><p>Molteni E, Sudre CH, Canas LS, et al. Illness duration and symptom profile in symptomatic UK school-aged children tested for SARS-CoV-2. <italic toggle="yes">Lancet Child Adolesc Health</italic>. 2021;5:708–718.</p></fn><fn id="tfn19-jfda-33-03-326"><label>s</label><p>Xia L, Chen J, Friedemann T, et al. The Course of Mild and Moderate COVID-19 Infections-The Unexpected Long-Lasting Challenge. <italic toggle="yes">Open Forum Infect Dis</italic>. 2020;7:ofaa286.</p></fn><fn id="tfn20-jfda-33-03-326"><label>T</label><p>Taiwan Centers for Disease Control. From November 14, adjustment of isolation/self-health management from 5+n days for non-severe COVID-19 confirmed cases under home care. (November 1, 2022). Accessed March 25, 2024. Available at: <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.cdc.gov.tw/Bulletin/Detail/_llpYYM_tpZ8v14_2B5STQ?typeid=9" ext-link-type="uri">https://www.cdc.gov.tw/Bulletin/Detail/_llpYYM_tpZ8v14_2B5STQ?typeid=9</ext-link>.</p></fn><fn id="tfn21-jfda-33-03-326"><label>u</label><p>(Taiwan). NSRoC. Monthly Regular Earnings of All Employees (Industry and Services). (2023, July). Accessed 25 March, 2024. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://eng.stat.gov.tw/Point.aspx?sid=t.4&amp;n=4203&amp;sms=11713" ext-link-type="uri">https://eng.stat.gov.tw/Point.aspx?sid=t.4&amp;n=4203&amp;sms=11713</ext-link>.</p></fn><fn id="tfn22-jfda-33-03-326"><label>v</label><p>Ministry of Labor Statistics Department. 2022 Survey of Labor Life and Employment Conditions Statistical Results. (December 31, 2022). Accessed March 25, 2024. Available at: <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.mol.gov.tw/1607/1632/1633/57422/" ext-link-type="uri">https://www.mol.gov.tw/1607/1632/1633/57422/</ext-link>.</p></fn><fn id="tfn23-jfda-33-03-326"><label>w</label><p>Elflein J. (2023, September 21). Number of sick days taken from work or school among adults U.S. 2023. Statista. Accessed 25 March, 2024. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.statista.com/forecasts/1260743/number-of-sick-days-taken-from-work-or-school-among-us-adults" ext-link-type="uri">https://www.statista.com/forecasts/1260743/number-of-sick-days-taken-from-work-or-school-among-us-adults</ext-link>.</p></fn><fn id="tfn24-jfda-33-03-326"><label>x</label><p>Directorate-General of Budget, Accounting and Statistics, ROC (Taiwan). 2022 Manpower Utilization Survey Report. Accessed March 25, 2024. Available at: Accessed 25 March, 2024. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.stat.gov.tw/News_Content.aspx?n=2798&amp;s=230414" ext-link-type="uri">https://www.stat.gov.tw/News_Content.aspx?n=2798&amp;s=230414</ext-link>.</p></fn><fn id="tfn25-jfda-33-03-326"><label>y</label><p>Baker J. (2021, October 13). The ‘Impossible’ Juggle: Parents Spent 14 Hours a Week on Home Learning. The Sydney Morning Herald. Accessed 25 March, 2024. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.smh.com.au/education/the-impossible-juggle-parents-spent-14-hours-a-week-on-home-learning-20211012-p58zdq.html" ext-link-type="uri">https://www.smh.com.au/education/the-impossible-juggle-parents-spent-14-hours-a-week-on-home-learning-20211012-p58zdq.html</ext-link>.</p></fn><fn id="tfn26-jfda-33-03-326"><label>z</label><p>Health Promotion Administration, Ministry of Health and Welfare. Annual Achievement Report. Accessed March 25, 2024. Available at: Accessed 25 March, 2024.<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.hpa.gov.tw/Pages/Detail.aspx?nodeid=242&amp;pid=1282" ext-link-type="uri">https://www.hpa.gov.tw/Pages/Detail.aspx?nodeid=242&amp;pid=1282</ext-link>.</p></fn><fn id="tfn27-jfda-33-03-326"><label>aa</label><p>Baxter J. (July 2022). Grandparents and child care. (Families in Australia Survey snapshot). Melbourne: Australian Institute of Family Studies. Accessed 25 March, 2024. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://aifs.gov.au/research/research-snapshots/grandparents-and-child-care" ext-link-type="uri">https://aifs.gov.au/research/research-snapshots/grandparents-and-child-care</ext-link>.</p></fn><fn id="tfn28-jfda-33-03-326"><label>ab</label><p>Health NIo. Patients diagnosed with post-COVID conditions: An analysis of private healthcare claims using the official ICD-10 diagnostic code - Digital Collections - National Library of Medicine. U.S. National Library of Medicine. Accessed 25 March, 2024. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://collections.nlm.nih.gov/catalog/nlm:nlmuid-9918504887106676-pdf" ext-link-type="uri">https://collections.nlm.nih.gov/catalog/nlm:nlmuid-9918504887106676-pdf</ext-link>.</p></fn><fn id="tfn29-jfda-33-03-326"><label>ac</label><p>35% indicates average productivity loss if working while symptomatic. Johnsen S, Sattler SM, Miskowiak KW, et al. Descriptive analysis of long COVID sequelae identified in a multidisciplinary clinic serving hospitalised and non-hospitalised patients. <italic toggle="yes">ERJ Open Res</italic>. 2021;7.</p></fn><fn id="tfn30-jfda-33-03-326"><label>ad</label><p>Health NMo. Long COVID. (2023, July). Accessed 25 March, 2024. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.smh.com.au/education/the-impossible-juggle-parents-spent-14-hours-a-week-on-home-learning-20211012-p58zdq.html" ext-link-type="uri">https://www.smh.com.au/education/the-impossible-juggle-parents-spent-14-hours-a-week-on-home-learning-20211012-p58zdq.html</ext-link>.</p></fn></table-wrap-foot></table-wrap><table-wrap position="float" id="t3-jfda-33-03-326" orientation="portrait"><label>Table 3</label><caption><p>Direct and indirect costs of COVID-19 economic impact, by categories.</p></caption><table frame="hsides" rules="groups"><thead><tr><th rowspan="3" valign="top" align="left" colspan="1"/><th rowspan="3" valign="top" align="left" colspan="1">Cost (USD)</th><th rowspan="3" valign="top" align="left" colspan="1">%</th><th colspan="3" valign="top" align="left" rowspan="1">Parameters used</th></tr><tr><th colspan="3" valign="top" align="left" rowspan="1">
+<hr/></th></tr><tr><th valign="top" align="left" rowspan="1" colspan="1">Number of patients</th><th valign="top" align="left" rowspan="1" colspan="1">Days</th><th valign="top" align="left" rowspan="1" colspan="1">Costs per day</th></tr></thead><tbody><tr><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>Total Cost</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">4,431,686,236</td><td valign="top" align="left" rowspan="1" colspan="1">100.00%</td><td valign="top" align="left" rowspan="1" colspan="1"/><td valign="top" align="left" rowspan="1" colspan="1"/><td valign="top" align="left" rowspan="1" colspan="1"/></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>Direct Cost</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">1,081,335,264</td><td valign="top" align="left" rowspan="1" colspan="1">24.40%<xref rid="tfn31-jfda-33-03-326" ref-type="table-fn">a</xref></td><td valign="top" align="left" rowspan="1" colspan="1"/><td valign="top" align="left" rowspan="1" colspan="1"/><td valign="top" align="left" rowspan="1" colspan="1"/></tr><tr><td valign="top" align="left" rowspan="1" colspan="1"> Outpatient</td><td valign="top" align="left" rowspan="1" colspan="1">815,171,171</td><td valign="top" align="left" rowspan="1" colspan="1">100.00%</td><td valign="top" align="left" rowspan="1" colspan="1"/><td valign="top" align="left" rowspan="1" colspan="1"/><td valign="top" align="left" rowspan="1" colspan="1"/></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">  Acute COVID</td><td valign="top" align="left" rowspan="1" colspan="1">811,615,558</td><td valign="top" align="left" rowspan="1" colspan="1">99.56%</td><td valign="top" align="left" rowspan="1" colspan="1">Total reported infections<break/>Hospitalization rate<break/>Proportion of emergency visits per infection<break/>Proportion of acute<break/>COVID prescribed medication</td><td valign="top" align="left" rowspan="1" colspan="1"/><td valign="top" align="left" rowspan="1" colspan="1">Cost per emergency visit<break/>Cost per outpatient visit for acute COVID<break/>Cost per anti-COVID regimen</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">  Long COVID</td><td valign="top" align="left" rowspan="1" colspan="1">3,555,613</td><td valign="top" align="left" rowspan="1" colspan="1">0.44%</td><td valign="top" align="left" rowspan="1" colspan="1">Number of reported long-COVID cases<break/>Average outpatient visits during long-COVID</td><td valign="top" align="left" rowspan="1" colspan="1"/><td valign="top" align="left" rowspan="1" colspan="1">Cost per outpatient visit for long COVID</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1"> Inpatient</td><td valign="top" align="left" rowspan="1" colspan="1">266,164,093</td><td valign="top" align="left" rowspan="1" colspan="1">100.00%</td><td valign="top" align="left" rowspan="1" colspan="1">Total reported infections<break/>Hospitalization rate</td><td valign="top" align="left" rowspan="1" colspan="1">Average days of hospitalization</td><td valign="top" align="left" rowspan="1" colspan="1">Ward bed cost per day</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>Indirect Cost</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">3,350,350,973</td><td valign="top" align="left" rowspan="1" colspan="1">75.60%<xref rid="tfn31-jfda-33-03-326" ref-type="table-fn">a</xref></td><td valign="top" align="left" rowspan="1" colspan="1"/><td valign="top" align="left" rowspan="1" colspan="1"/><td valign="top" align="left" rowspan="1" colspan="1"/></tr><tr><td valign="top" align="left" rowspan="1" colspan="1"> <bold>Pediatric Cohort</bold></td><td valign="top" align="left" rowspan="1" colspan="1">386,434,533</td><td valign="top" align="left" rowspan="1" colspan="1">100.00%</td><td valign="top" align="left" rowspan="1" colspan="1"/><td valign="top" align="left" rowspan="1" colspan="1"/><td valign="top" align="left" rowspan="1" colspan="1"/></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">  Acute COVID</td><td valign="top" align="left" rowspan="1" colspan="1">356,691,902</td><td valign="top" align="left" rowspan="1" colspan="1">92.30%</td><td valign="top" align="left" rowspan="1" colspan="1">Total reported infections<break/>Proportion of infections by age group</td><td valign="top" align="left" rowspan="1" colspan="1">Average days of outpatient visits due to acute COVID<break/>Average quarantine days due to acute COVID<break/>Productivity loss due to caring child with acute COVID</td><td valign="top" align="left" rowspan="1" colspan="1">Average earnings per day</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">  Long COVID</td><td valign="top" align="left" rowspan="1" colspan="1">29,742,630</td><td valign="top" align="left" rowspan="1" colspan="1">7.70%</td><td valign="top" align="left" rowspan="1" colspan="1">Total reported infections<break/>Age-specific long-COVID infection rate</td><td valign="top" align="left" rowspan="1" colspan="1">Days of long-COVID by age group</td><td valign="top" align="left" rowspan="1" colspan="1">Average earnings per day</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">  Deaths</td><td valign="top" align="left" rowspan="1" colspan="1">0</td><td valign="top" align="left" rowspan="1" colspan="1">0.00%</td><td valign="top" align="left" rowspan="1" colspan="1"/><td valign="top" align="left" rowspan="1" colspan="1"/><td valign="top" align="left" rowspan="1" colspan="1"/></tr><tr><td valign="top" align="left" rowspan="1" colspan="1"> <bold>Working age Cohort</bold></td><td valign="top" align="left" rowspan="1" colspan="1">2,739,555,946</td><td valign="top" align="left" rowspan="1" colspan="1">100.00%</td><td valign="top" align="left" rowspan="1" colspan="1"/><td valign="top" align="left" rowspan="1" colspan="1"/><td valign="top" align="left" rowspan="1" colspan="1"/></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">  Acute COVID</td><td valign="top" align="left" rowspan="1" colspan="1">1,485,638,412</td><td valign="top" align="left" rowspan="1" colspan="1">54.23%</td><td valign="top" align="left" rowspan="1" colspan="1">Total reported infections<break/>Proportion of infections by age group<break/>Proportion of people who can work at home</td><td valign="top" align="left" rowspan="1" colspan="1">Average days of outpatient visits due to acute COVID<break/>Average quarantine days due to acute COVID<break/>Days of sick leave due to acute COVID in working age cohort<break/>Productivity loss if working with COVID</td><td valign="top" align="left" rowspan="1" colspan="1">Average earnings per day</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">  Long COVID</td><td valign="top" align="left" rowspan="1" colspan="1">857,790,077</td><td valign="top" align="left" rowspan="1" colspan="1">31.31%</td><td valign="top" align="left" rowspan="1" colspan="1">Total reported infections<break/>Age-specific long-COVID infection rate</td><td valign="top" align="left" rowspan="1" colspan="1">Days of long-COVID by age group<break/>Proportion of long-COVID well enough to work<break/>Days of sick leave but well enough to work</td><td valign="top" align="left" rowspan="1" colspan="1"/></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">  Deaths</td><td valign="top" align="left" rowspan="1" colspan="1">396,127,457</td><td valign="top" align="left" rowspan="1" colspan="1">14.46%</td><td valign="top" align="left" rowspan="1" colspan="1">Total number of deaths due to COVID-19<break/>Proportion of mortality by age group</td><td valign="top" align="left" rowspan="1" colspan="1">Retirement age within working age cohort<break/>Average age of death due to COVID-19 in working age cohort</td><td valign="top" align="left" rowspan="1" colspan="1"/></tr><tr><td valign="top" align="left" rowspan="1" colspan="1"> <bold>Elder Cohort</bold></td><td valign="top" align="left" rowspan="1" colspan="1">224,360,494</td><td valign="top" align="left" rowspan="1" colspan="1">100.00%</td><td valign="top" align="left" rowspan="1" colspan="1"/><td valign="top" align="left" rowspan="1" colspan="1"/><td valign="top" align="left" rowspan="1" colspan="1"/></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">  Acute COVID</td><td valign="top" align="left" rowspan="1" colspan="1">150,439,904</td><td valign="top" align="left" rowspan="1" colspan="1">67.05%</td><td valign="top" align="left" rowspan="1" colspan="1">Total reported infections<break/>Proportion of infections by age group</td><td valign="top" align="left" rowspan="1" colspan="1">Average days of outpatient visits due to acute COVID<break/>Average quarantine days due to acute COVID<break/>Proportion of days requiring care for acute COVID elderly<break/>Productivity loss of non-HCP working age adult due to caring elderly with acute COVID<break/>Days of sick leave due to acute COVID in working age cohort<break/>Productivity loss if working with COVID</td><td valign="top" align="left" rowspan="1" colspan="1">Average earnings per day</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">  Long COVID</td><td valign="top" align="left" rowspan="1" colspan="1">20,614,673</td><td valign="top" align="left" rowspan="1" colspan="1">9.19%</td><td valign="top" align="left" rowspan="1" colspan="1">Total reported infections<break/>Age-specific long-COVID infection rate</td><td valign="top" align="left" rowspan="1" colspan="1">Days of long-COVID by age group</td><td valign="top" align="left" rowspan="1" colspan="1"/></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">  Deaths</td><td valign="top" align="left" rowspan="1" colspan="1">53,305,917</td><td valign="top" align="left" rowspan="1" colspan="1">23.76%</td><td valign="top" align="left" rowspan="1" colspan="1">Total number of deaths due to COVID-19<break/>Proportion of mortality by age group</td><td valign="top" align="left" rowspan="1" colspan="1">Average days lost</td><td valign="top" align="left" rowspan="1" colspan="1"/></tr></tbody></table><table-wrap-foot><fn id="tfn31-jfda-33-03-326"><label>a</label><p>Calculated by dividing direct/indirect costs by total cost (USD 4,431,686,236)</p></fn></table-wrap-foot></table-wrap></floats-group></article></pmc-articleset>

@@ -1,0 +1,31 @@
+{
+  "pmcid": "PMC12164371",
+  "pmid": "40520224",
+  "doi": "10.3389/fepid.2025.1597799",
+  "title": "Estimating long COVID-19 prevalence across definitions and forms of sample selection.",
+  "abstract": "INTRODUCTION: Long COVID (LC) is a multisystem condition with prolonged symptoms persisting beyond acute SARS-CoV-2 infection. However, prevalence estimates vary widely due to differences in case definitions and sampling methodologies. This study aims to determine the prevalence of LC across different definitions and correct for selection bias using advanced statistical modeling.\nMETHODS: We conducted a retrospective, observational study at Luigi Sacco Hospital (Milan, Italy), analyzing 3,344 COVID-19 patients from two pandemic waves (2020-2021). Participants included 1,537 outpatients from the ARCOVID clinic and 1,807 hospitalized patients. LC was defined based on WHO and NICE criteria, as well as two alternative definitions: symptoms persisting at 3 and 6 months post-infection. We used a bivariate censored Probit model to account for selection bias and estimate adjusted LC prevalence.\nRESULTS: LC prevalence varied across definitions: 67.4% (WHO), 76.3% (NICE), 80.2% (3 months), and 79.6% (6 months). Adjusted prevalence estimates remained consistent across definitions. The most common symptoms were fatigue (58.6%), dyspnea (41.1%), and joint/muscle pain (39.2%). Risk factors included female sex (OR 2.165-2.379), metabolic disease (OR 1.587-1.629), and older age (40-50 years, OR 1.847). Protective factors included antiplatelets (OR 0.640-0.689), statins (OR 0.616), and hypoglycemics (OR 0.593-0.706). Vaccination, hydroxychloroquine, and antibiotics were associated with an increased risk of LC. Selection bias significantly influenced prevalence estimates, underscoring the need for robust statistical adjustments.\nDISCUSSION: Our findings highlight the high prevalence of LC, particularly among specific subgroups, with strong selection effects influencing outpatient participation. Differences in prevalence estimates emphasize the impact of case definitions and study designs on LC research. The identification of risk and protective factors supports targeted interventions and patient management strategies.\nCONCLUSION: This study provides one of the most comprehensive analyses of LC prevalence while accounting for selection bias. Our findings call for standardized LC definitions, improved epidemiological methodologies, and targeted prevention strategies. Future research should explore prospective cohorts to refine LC prevalence estimates and investigate long-term health outcomes.",
+  "authors": [
+    "Pietro Giorgio Lovaglio",
+    "Fabio Borgonovo",
+    "Alessandro Manzo Margiotta",
+    "Mohamed Mowafy",
+    "Marta Colaneri",
+    "Alessandra Bandera",
+    "Andrea Gori",
+    "Amedeo Ferdinando Capetti"
+  ],
+  "journal": "Frontiers in epidemiology",
+  "pub_year": "2025",
+  "pub_month": "05",
+  "pub_day": "30",
+  "keywords": [
+    "clinical research",
+    "incidence",
+    "long COVID",
+    "risk factors",
+    "selection bias"
+  ],
+  "article_types": [
+    "Journal Article"
+  ]
+}

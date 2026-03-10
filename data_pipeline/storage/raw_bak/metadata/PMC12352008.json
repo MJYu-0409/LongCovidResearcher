@@ -1,0 +1,30 @@
+{
+  "pmcid": "PMC12352008",
+  "pmid": "40804645",
+  "doi": "10.1186/s40246-025-00810-0",
+  "title": "MicroRNAs in long COVID: roles, diagnostic biomarker potential and detection.",
+  "abstract": "Long COVID or Post-Acute Sequelae of SARS-CoV-2 Infection (PASC), marked by persistent symptoms lasting weeks to months after acute SARS-CoV-2 infection, affects multiple organ systems including the respiratory, cardiovascular, neurological, gastrointestinal, and renal systems. These prolonged effects stem from chronic inflammation, immune dysregulation, and direct viral injury. MicroRNAs (miRNAs)-small non-coding RNAs involved in gene regulation-play a pivotal role in this process by modulating immune responses, inflammation, and cellular stress. Altered miRNA expression patterns during and after infection contribute to the pathogenesis of Long COVID. While conventional miRNA detection techniques have been valuable, they face limitations in sensitivity, throughput, and detecting RNA modifications. This review highlights Oxford Nanopore Sequencing (ONS) as a promising alternative, offering real-time, long-read, amplification-free RNA sequencing that preserves native modifications. ONS enables direct sequencing of full-length miRNAs and their precursors, providing novel insights into miRNA processing and regulatory roles. Despite current challenges with short-read accuracy, ongoing technical advances are improving ONS performance. Its integration in miRNA profiling holds significant potential for uncovering novel regulatory interactions and advancing clinical biomarker discovery in Long COVID and other conditions.",
+  "authors": [
+    "Naomi-Eunicia Paval",
+    "Olga Adriana Căliman-Sturdza",
+    "Andrei Lobiuc",
+    "Mihai Dimian",
+    "Ioan-Ovidiu Sirbu",
+    "Mihai Covasa"
+  ],
+  "journal": "Human genomics",
+  "pub_year": "2025",
+  "pub_month": "Aug",
+  "pub_day": "13",
+  "keywords": [
+    "Biomarker discovery",
+    "Immune dysregulation",
+    "Inflammation",
+    "Nanopore sequencing",
+    "Noncoding RNA"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Review"
+  ]
+}

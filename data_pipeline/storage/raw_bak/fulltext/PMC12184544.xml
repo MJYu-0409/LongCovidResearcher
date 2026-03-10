@@ -1,0 +1,1134 @@
+<?xml version="1.0"  ?><!DOCTYPE pmc-articleset PUBLIC "-//NLM//DTD ARTICLE SET 2.0//EN" "https://dtd.nlm.nih.gov/ncbi/pmc/articleset/nlm-articleset-2.0.dtd"><pmc-articleset><article id="jah310936" xml:lang="en" article-type="research-article" dtd-version="1.4"><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">J Am Heart Assoc</journal-id><journal-id journal-id-type="iso-abbrev">J Am Heart Assoc</journal-id><journal-id journal-id-type="pmc-domain-id">1888</journal-id><journal-id journal-id-type="pmc-domain">jaha</journal-id><journal-id journal-id-type="publisher-id">JAH3</journal-id><journal-title-group><journal-title>Journal of the American Heart Association: Cardiovascular and Cerebrovascular Disease</journal-title></journal-title-group><issn pub-type="epub">2047-9980</issn><publisher><publisher-name>Wiley</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC12184544</article-id><article-id pub-id-type="pmcid-ver">PMC12184544.1</article-id><article-id pub-id-type="pmcaid">12184544</article-id><article-id pub-id-type="pmcaiid">12184544</article-id><article-id pub-id-type="pmid">40357672</article-id><article-id pub-id-type="doi">10.1161/JAHA.124.040629</article-id><article-id pub-id-type="publisher-id">JAH310936</article-id><article-id pub-id-type="other">JAHA/2024/040629-T</article-id><article-version article-version-type="pmc-version">1</article-version><article-categories><subj-group subj-group-type="overline"><subject>Original Research</subject></subj-group><subj-group subj-group-type="heading"><subject>Original Research</subject><subj-group subj-group-type="heading"><subject>Preventive Cardiology</subject></subj-group></subj-group></article-categories><title-group><article-title>Association of Pre‐<styled-content style="fixed-case" toggle="no">COVID</styled-content> Fitness With Post‐<styled-content style="fixed-case" toggle="no">COVID</styled-content> Fitness and Long <styled-content style="fixed-case" toggle="no">COVID</styled-content> in the Cooper Center Longitudinal Cohort Study</article-title><alt-title alt-title-type="right-running-head">Cardiorespiratory Fitness Before and After <styled-content style="fixed-case" toggle="no">COVID</styled-content>
+</alt-title><alt-title alt-title-type="left-running-head">Durstenfeld et al</alt-title></title-group><contrib-group><contrib id="jah310936-cr-0001" contrib-type="author" corresp="yes"><name name-style="western"><surname>Durstenfeld</surname><given-names initials="MS">Matthew S.</given-names></name><degrees>MD, MAS</degrees><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-7612-3352</contrib-id><xref rid="jah310936-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><address><email>matthew.durstenfeld@ucsf.edu</email></address></contrib><contrib id="jah310936-cr-0002" contrib-type="author"><name name-style="western"><surname>Leonard</surname><given-names initials="D">David</given-names></name><degrees>PhD</degrees><xref rid="jah310936-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib id="jah310936-cr-0003" contrib-type="author"><name name-style="western"><surname>Pettee Gabriel</surname><given-names initials="K">Kelley</given-names></name><degrees>MS, PhD</degrees><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0003-4986-7927</contrib-id><xref rid="jah310936-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref></contrib><contrib id="jah310936-cr-0004" contrib-type="author"><name name-style="western"><surname>Barlow</surname><given-names initials="CE">Carolyn E.</given-names></name><degrees>PhD</degrees><xref rid="jah310936-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib id="jah310936-cr-0005" contrib-type="author"><name name-style="western"><surname>Shuval</surname><given-names initials="K">Kerem</given-names></name><degrees>PhD</degrees><xref rid="jah310936-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib id="jah310936-cr-0006" contrib-type="author"><name name-style="western"><surname>Priest</surname><given-names initials="R">Ryan</given-names></name><degrees>BS</degrees><xref rid="jah310936-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib id="jah310936-cr-0007" contrib-type="author"><name name-style="western"><surname>Pavlovic</surname><given-names initials="A">Andjelka</given-names></name><degrees>PhD</degrees><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-4400-5466</contrib-id><xref rid="jah310936-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib id="jah310936-cr-0008" contrib-type="author"><name name-style="western"><surname>Radford</surname><given-names initials="NB">Nina B.</given-names></name><degrees>MD</degrees><xref rid="jah310936-aff-0004" ref-type="aff">
+<sup>4</sup>
+</xref></contrib><contrib id="jah310936-cr-0009" contrib-type="author"><name name-style="western"><surname>Berry</surname><given-names initials="JD">Jarett D.</given-names></name><degrees>MD</degrees><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-5004-8155</contrib-id><xref rid="jah310936-aff-0005" ref-type="aff">
+<sup>5</sup>
+</xref></contrib><contrib id="jah310936-cr-0010" contrib-type="author"><name name-style="western"><surname>Peluso</surname><given-names initials="MJ">Michael J.</given-names></name><degrees>MD, MHS, DTM&amp;H</degrees><xref rid="jah310936-aff-0006" ref-type="aff">
+<sup>6</sup>
+</xref></contrib><contrib id="jah310936-cr-0011" contrib-type="author"><name name-style="western"><surname>DeFina</surname><given-names initials="LF">Laura F.</given-names></name><degrees>MD</degrees><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-5753-130X</contrib-id><xref rid="jah310936-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref></contrib></contrib-group><aff id="jah310936-aff-0001">
+<label>
+<sup>1</sup>
+</label>
+<named-content content-type="organisation-division">Division of Cardiology</named-content>
+<institution>Zuckerberg San Francisco General, University of California San Francisco</institution>
+<city>San Francisco</city>
+<named-content content-type="country-part">CA</named-content>
+<country country="US">USA</country>
+</aff><aff id="jah310936-aff-0002">
+<label>
+<sup>2</sup>
+</label>
+<institution>Kenneth H Cooper Institute at Texas Tech University Health Sciences Center</institution>
+<city>Dallas</city>
+<named-content content-type="country-part">TX</named-content>
+<country country="US">USA</country>
+</aff><aff id="jah310936-aff-0003">
+<label>
+<sup>3</sup>
+</label>
+<named-content content-type="organisation-division">Department of Epidemiology</named-content>
+<institution>University of Alabama at Birmingham</institution>
+<city>Birmingham</city>
+<named-content content-type="country-part">AL</named-content>
+<country country="US">USA</country>
+</aff><aff id="jah310936-aff-0004">
+<label>
+<sup>4</sup>
+</label>
+<institution>Cooper Clinic</institution>
+<city>Dallas</city>
+<named-content content-type="country-part">TX</named-content>
+<country country="US">USA</country>
+</aff><aff id="jah310936-aff-0005">
+<label>
+<sup>5</sup>
+</label>
+<named-content content-type="organisation-division">Department of Medicine</named-content>
+<institution>UT Tyler School of Medicine</institution>
+<city>Tyler</city>
+<named-content content-type="country-part">TX</named-content>
+<country country="US">USA</country>
+</aff><aff id="jah310936-aff-0006">
+<label>
+<sup>6</sup>
+</label>
+<named-content content-type="organisation-division">Division of HIV</named-content>
+<institution>Infectious Diseases and Global Medicine at Zuckerberg San Francisco General, University of California San Francisco</institution>
+<city>San Francisco</city>
+<named-content content-type="country-part">CA</named-content>
+<country country="US">USA</country>
+</aff><author-notes><corresp id="correspondenceTo">
+<label>*</label>
+Correspondence to: Matthew S. Durstenfeld, MD, MAS, Division of Cardiology, UCSF at Zuckerberg San Francisco General Hospital, 1001 Potrero Avenue, 5G8, San Francisco, CA 94110. Email: <email>matthew.durstenfeld@ucsf.edu</email>
+<break/>
+</corresp></author-notes><pub-date pub-type="epub"><day>13</day><month>5</month><year>2025</year></pub-date><pub-date pub-type="collection"><day>20</day><month>5</month><year>2025</year></pub-date><volume>14</volume><issue seq="420">10</issue><issue-id pub-id-type="pmc-issue-id">491239</issue-id><issue-id pub-id-type="doi">10.1002/jah3.v14.10</issue-id><elocation-id>e040629</elocation-id><history><date date-type="received"><day>23</day><month>1</month><year>2025</year></date><date date-type="accepted"><day>09</day><month>4</month><year>2025</year></date></history><pub-history><event event-type="pmc-release"><date><day>13</day><month>05</month><year>2025</year></date></event><event event-type="pmc-live"><date><day>24</day><month>06</month><year>2025</year></date></event><event event-type="pmc-last-change"><date iso-8601-date="2025-06-24 10:25:14.643"><day>24</day><month>06</month><year>2025</year></date></event></pub-history><permissions><copyright-statement content-type="article-copyright">© 2025 The Author(s). Published on behalf of the American Heart Association, Inc., by Wiley.</copyright-statement><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbyncndlicense">https://creativecommons.org/licenses/by-nc-nd/4.0/</ali:license_ref><license-p>This is an open access article under the terms of the <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/">http://creativecommons.org/licenses/by-nc-nd/4.0/</ext-link> License, which permits use and distribution in any medium, provided the original work is properly cited, the use is non‐commercial and no modifications or adaptations are made.</license-p></license></permissions><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pmc-pdf" xlink:href="JAH3-14-e040629.pdf"/><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pdf" xlink:href="file:JAH3-14-e040629.pdf"/><abstract><sec id="jah310936-sec-0001"><title>Background</title><p>Cross‐sectional studies suggesting that SARS‐CoV‐2 infection and long COVID are associated with reduced cardiorespiratory fitness (CRF) lack preinfection CRF measures. The objective of this study was to determine the association of SARS‐CoV‐2 infection and long COVID with change in CRF.</p></sec><sec id="jah310936-sec-0002"><title>Methods</title><p>Cooper Center Longitudinal Study is a cohort study based at the Cooper Clinic, a preventive medicine clinic in Dallas, Texas; we included adults ages 20 to 74 years old with CRF assessed at least twice between 2017 and 2023. COVID status was defined as “prepandemic” (2 CRF measures pre‐2020), “uninfected” (no self‐reported COVID), “recovered” (self‐reported COVID with symptoms ≤3 months), or “long COVID” (self‐reported COVID with symptoms &gt;3 months). CRF was estimated in metabolic equivalents via a maximal modified Balke treadmill protocol.</p></sec><sec id="jah310936-sec-0003"><title>Results</title><p>We included 4005 participants (mean age: 51.8 years, 26.8% women), of whom, 1666 (41.6%) reported COVID and 80 (4.8% of infected) reported long COVID along with 1826 uninfected and 513 pre‐pandemic controls. At baseline, those who later developed long COVID had lower CRF (10.0 metabolic equivalents, 11.1 recovered, 10.7 uninfected, 11.3 prepandemic; <italic toggle="no">P</italic>&lt;0.001). All groups exhibited minor decreases in CRF (~0.2 metabolic equivalents; <italic toggle="no">P</italic>&lt;0.001 for each). CRF decreased slightly more among the infected (−0.1 metabolic equivalents greater decrease [95% CI, −0.1 to 0.0]; <italic toggle="no">P</italic>=0.02) but not by long COVID status (<italic toggle="no">P</italic>=0.10).</p></sec><sec id="jah310936-sec-0004"><title>Conclusions</title><p>Pre‐COVID fitness, on average, is lower among people who developed long COVID. COVID does not greatly accelerate age‐related declines in CRF, even among some with long COVID, although few included participants had severely disabling long COVID. Future longitudinal research will clarify if differences in CRF by infection status emerge over longer follow‐up.</p></sec></abstract><kwd-group kwd-group-type="author-generated"><kwd id="jah310936-kwd-0001">cardiorespiratory fitness</kwd><kwd id="jah310936-kwd-0002">COVID‐19</kwd><kwd id="jah310936-kwd-0003">SARS‐CoV‐2</kwd></kwd-group><kwd-group kwd-group-type="subject-categories"><title>Subject Categories</title><kwd>Exercise</kwd></kwd-group><funding-group><award-group id="funding-0001"><funding-source><institution-wrap><institution>National Heart, Lung, and Blood Institute
+</institution><institution-id institution-id-type="doi">10.13039/100000002</institution-id></institution-wrap></funding-source><award-id>K12 HL143961</award-id><award-id>K23 HL172699</award-id></award-group></funding-group><counts><fig-count count="2"/><table-count count="3"/><page-count count="10"/><word-count count="6900"/></counts><custom-meta-group><custom-meta><meta-name>pmc-status-qastatus</meta-name><meta-value>0</meta-value></custom-meta><custom-meta><meta-name>pmc-status-live</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-status-embargo</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-status-released</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-access</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-legally-suppressed</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-pdf</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-supplement</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-pdf-only</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-suppress-copyright</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-real-version</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-scanned-article</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-in-epmc</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-license-ref</meta-name><meta-value>CC BY-NC-ND</meta-value></custom-meta><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>20 May 2025</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:6.5.7 mode:remove_FC converted:04.06.2025</meta-value></custom-meta></custom-meta-group></article-meta><notes><fn-group id="jah310936-ntgp-0001"><fn id="jah310936-note-0001"><p>This study was presented at the American Heart Association's EPI|Lifestyle meeting, March 18–21, 2024, in Chicago, IL.</p></fn><fn id="jah310936-note-0002"><p>This article was sent to Yen‐Hung Lin, MD, PhD, Associate Editor, for review by expert referees, editorial decision, and final disposition.</p></fn><fn id="jah310936-note-0003"><p>Supplemental Material is available at <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.ahajournals.org/doi/suppl/10.1161/JAHA.124.040629" ext-link-type="uri">https://www.ahajournals.org/doi/suppl/10.1161/JAHA.124.040629</ext-link>
+</p></fn><fn id="jah310936-note-0004"><p>For Sources of Funding and Disclosures, see page 9.</p></fn></fn-group></notes></front><body id="jah310936-body-0001"><def-list list-content="abbreviations" id="jah310936-dl-0001"><title>Nonstandard Abbreviations and Acronyms</title><def-item><term id="jah310936-li-0001">CCLS</term><def id="jah310936-li-0002"><p>Cooper Center Longitudinal Study</p></def></def-item><def-item><term id="jah310936-li-0003">CRF</term><def id="jah310936-li-0004"><p>cardiorespiratory fitness</p></def></def-item></def-list><p>
+<boxed-text position="anchor" content-type="box" id="jah310936-blkfxd-0001" orientation="portrait"><caption><title>Research Perspective</title></caption><sec id="jah310936-sec-0007"><title>What Is New?</title><p>
+<list list-type="bullet" id="jah310936-list-0001"><list-item id="jah310936-li-0005"><p>Reduced cardiorespiratory fitness may be a risk factor for development of long COVID.</p></list-item><list-item id="jah310936-li-0006"><p>On average, those with mild long COVID did not experience a greater decline in exercise capacity or physical activity compared with uninfected, recovered, or prepandemic controls.</p></list-item></list>
+</p></sec><sec id="jah310936-sec-0008"><title>What Question Should Be Addressed Next?</title><p>
+<list list-type="bullet" id="jah310936-list-0002"><list-item id="jah310936-li-0007"><p>What distinguishes those who experience a significant loss in cardiorespiratory fitness after COVID from those who do not, and can those factors inform strategies to prevent or treat long COVID?</p></list-item></list>
+</p></sec></boxed-text>
+</p><p>Cardiorespiratory fitness (CRF) is an important determinant of lifespan and healthspan.<xref rid="jah310936-bib-0001" ref-type="bibr">
+<sup>1</sup>
+</xref> Even a small change in CRF trajectory has meaningful public health implications.<xref rid="jah310936-bib-0002" ref-type="bibr">
+<sup>2</sup>
+</xref> Multiple studies have demonstrated cross‐sectional associations between COVID or COVID with persistent symptoms (long COVID) and reduced CRF.<xref rid="jah310936-bib-0003" ref-type="bibr">
+<sup>3</sup>
+</xref>, <xref rid="jah310936-bib-0004" ref-type="bibr">
+<sup>4</sup>
+</xref> A major limitation of the published literature is a lack of pre‐COVID assessments of CRF to assess whether COVID or subsequent long COVID are associated with different trajectories of CRF independent of pre‐COVID CRF. Most published studies examining post‐COVID CRF have been restricted to those with severe acute COVID requiring hospitalization or intensive care. Finally, the use of historical cohorts or population norms as control groups eliminates the ability to distinguish the impact of COVID on CRF from the impact of pandemic‐related changes in health behaviors on CRF. As a result, whether lower CRF at baseline is a risk factor for developing long COVID or whether long COVID causes a population‐level reduction in CRF remains uncertain, especially among those who experience mild acute COVID and those with milder, nondisabling long COVID.</p><p>Therefore, we studied trajectories of CRF before and after COVID and development of long COVID within the CCLS (Cooper Center Longitudinal Study), which includes individuals who receive preventive clinical care with routine assessment of CRF. We hypothesized that COVID would be associated with a greater reduction in CRF compared with uninfected individuals and that long COVID would be associated with a greater reduction in CRF in comparison to both uninfected and recovered participants.</p><sec sec-type="methods" id="jah310936-sec-0009"><title>METHODS</title><sec sec-type="data-availability" id="jah310936-sec-0010"><title>Data Availability</title><p>The CCLS's data are not publicly available. A scientific data request may be submitted to the Kenneth H. Cooper Institute's Scientific Review Board Committee for review. The committee meets regularly to assess the merits of all requests.</p></sec><sec id="jah310936-sec-0011"><title>Study Design, Setting, and Participants</title><p>The CCLS is an observational, prospective study initiated in 1970 to assess the relationship between cardiorespiratory fitness, preventive medicine, and long‐term health and wellness.<xref rid="jah310936-bib-0005" ref-type="bibr">
+<sup>5</sup>
+</xref> It includes patients seen at a private preventive medicine clinic, the Cooper Clinic, in Dallas, TX, who consent to participate in the cohort study. Adult cohort participants 20 to 75 years old were considered eligible for this analysis if they completed at least 2 clinic visits between January 2017 and June 2023 with CRF assessed including at least 1 pre‐COVID visit and 1 visit after the COVID questionnaire was available (January 2021). We excluded those with history of myocardial infarction, stroke, cancer, those with body mass index (BMI) &lt;18.5 kg/m<sup>2</sup>, and pregnant individuals. From among 7434 CCLS participants with at least 2 preventive visits with CRF assessments from 2017 to 2023, we included 4005 participants (Figure <xref rid="jah310936-fig-0001" ref-type="fig">1</xref>).</p><fig position="float" fig-type="Figure" id="jah310936-fig-0001" orientation="portrait"><label>Figure 1</label><caption><title>Participant inclusion diagram.</title><p>On the left we present a graphical representation of the group definitions. On the right we present a Consolidated Standards of Reporting Trials diagram. Among 7434 individuals, 4848 did not have any of our exclusion criteria, and a further 843 were excluded for missing covariates or &lt;2 included exams, resulting in a sample of 4005 individuals. Of these 1666 self‐reported COVID including 1586 who reported symptoms lasting &lt;3 months (“recovered”) and 80 who reported symptoms lasting greater than 3 months (“long COVID”). Of the 2339 who reported no history of COVID, 513 had 2 exercise tests completed from 2017 to 2019 and were considered as “prepandemic” and the remaining 1826 who completed their first follow‐up exam in 2020 or later were classified as “uninfected.” *456 who completed a clinic visit after January 2021 without completing a treadmill test were compared with those who did complete a treadmill test for a sensitivity analysis examining potential selection bias. MET indicates metabolic equivalent.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-1" orientation="portrait" xlink:href="JAH3-14-e040629-g002.jpg"/></fig></sec><sec id="jah310936-sec-0012"><title>Exposures</title><p>Questions related to COVID were added to the Cooper Clinic medical history questionnaire in January 2021 (Figure <xref rid="jah310936-supitem-0001" ref-type="supplementary-material">S1</xref>). The primary exposure of COVID‐19 was elucidated with yes/no, date of diagnosis, and duration of symptoms. The primary exposure was self‐reported COVID and survey‐derived presence of long COVID symptoms at the time of CRF assessment, which was determined from the entire sequence of study visits. Because there were no validated questionnaires to evaluate long COVID in 2020, survey questions were developed based literature published at the time of survey development in 2020<xref rid="jah310936-bib-0006" ref-type="bibr">
+<sup>6</sup>
+</xref> with input from clinicians. Participants were specifically asked if they experienced any of the following persistent symptoms: fatigue, brain fog, cough, shortness of breath, chest pain, and joint pain with duration of persistent symptoms grouped into 2 categories based on the consensus definition of long COVID<xref rid="jah310936-bib-0007" ref-type="bibr">
+<sup>7</sup>
+</xref>: ≤3 months and &gt;3 months. Among those who reported never having COVID during the study period, we used the first follow‐up exam in place of the first post‐COVID exam and classified them as “prepandemic” controls if their first follow‐up exam was between January 2017 and December 2019 and presumed uninfected contemporary controls (shortened to “uninfected” throughout the remainder of the article) if their first follow‐up exam occurred in 2020 or later. Questions assessing severity of acute disease included hospitalization, prescription, or intravenous medication for COVID and the occurrence of any serious acute complications of COVID (ventilator, blood clot in lungs, and blood clot in legs).</p></sec><sec id="jah310936-sec-0013"><title>Outcomes</title><p>Participants completed at least 2 exercise treadmill tests using the modified Balke protocol.<xref rid="jah310936-bib-0008" ref-type="bibr">
+<sup>8</sup>
+</xref>, <xref rid="jah310936-bib-0009" ref-type="bibr">
+<sup>9</sup>
+</xref> The primary outcome was CRF estimated as final workload in metabolic equivalents (METs; 1 MET=3.5 mL O<sub>2</sub> uptake/kg per min) from the final treadmill speed and grade, which is highly correlated with maximal oxygen uptake in both men (r=0.92)<xref rid="jah310936-bib-0010" ref-type="bibr">
+<sup>10</sup>
+</xref> and women (r=0.94).<xref rid="jah310936-bib-0011" ref-type="bibr">
+<sup>11</sup>
+</xref> The secondary outcome was treadmill exercise time. We also assessed maximal heart rate and heart rate recovery at 1 minute. CRF was further classified into 5 categories based on age and sex (lowest to highest fitness).<xref rid="jah310936-bib-0009" ref-type="bibr">
+<sup>9</sup>
+</xref>
+</p></sec><sec id="jah310936-sec-0014"><title>Other Variables</title><p>Potential confounders included age, sex, BMI, current smoking, and facemask use during the stress test; we adjusted for these in our primary models. Other variables recorded include self‐reported race or ethnicity and personal medical history including diabetes, hypertension, anxiety, depression, and physical activity. As previously described, leisure time physical activity was based on reported weekly type, frequency, and duration of activity over the past 3 months.<xref rid="jah310936-bib-0009" ref-type="bibr">
+<sup>9</sup>
+</xref>, <xref rid="jah310936-bib-0012" ref-type="bibr">
+<sup>12</sup>
+</xref> Frequency and duration were converted to minutes of activity per week, multiplied by an estimated MET value from the Compendium of Physical Activity values,<xref rid="jah310936-bib-0013" ref-type="bibr">
+<sup>13</sup>
+</xref> and summed across all activities to total physical activity in MET‐minutes per week (MET‐minutes/week).</p></sec><sec id="jah310936-sec-0015"><title>Statistical Analysis</title><p>Baseline characteristics were summarized by COVID status (prepandemic, uninfected, recovered, and long COVID) throughout the study period. We used likelihood ratio chi‐square statistics to test group differences in nominal variables and rank‐sum statistics to test group differences in ordinal and continuous variables. We used linear mixed effects regression models to estimate adjusted fitness differences between groups. A 4‐level COVID group factor (prepandemic, uninfected, recovered, long COVID), 2‐level (pre/post) time factor, and the group×time interaction were the primary fixed effects in these models. Random intercepts and slopes (over time) by participant were included to account for correlations of repeated fitness measurements and changes among repeated measurements. Fixed covariates included age, sex, current smoking, BMI, and use of a facemask during the treadmill test. We also fit the same models with a 2‐level group factor (uninfected/infected) and 3‐level factor (uninfected, recovered, long COVID). Similar models were fit (1) in the subgroup with complete and concurrent data on physical activity (with additional adjustment for physical activity), (2) after excluding participants who wore a facemask during their treadmill test (without adjustment for use of a facemask), and (3) after excluding current smokers (without adjustment for current smoking). All analyses were programmed in SAS/STAT, version 9.4 (SAS Institute, Inc., Cary, NC, USA).</p></sec><sec id="jah310936-sec-0016"><title>Study Approval and Reporting</title><p>Institutional review board approval was granted by the Cooper Institute. All participants provided signed informed consent. The study is reported in accordance with the Strengthening the Reporting of Observational Studies in Epidemiology guidelines.</p></sec><sec id="jah310936-sec-0017"><title>Role of the Funding Source</title><p>This research project did not have external funding—staff salaries for the research staff were paid by the Cooper Institute. External investigators including Dr Durstenfeld, Dr Pettee Gabriel, Dr Berry, and Dr Peluso are funded by the National Institutes of Health.</p></sec></sec><sec sec-type="results" id="jah310936-sec-0018"><title>RESULTS</title><p>The study population had a mean age of 52 years including 27% women (Table <xref rid="jah310936-tbl-0001" ref-type="table">1</xref>); 87% identified as White, 2% Black, and 6% Hispanic. A total of 1666 (41.6%) of the sample reported COVID; only 18 individuals (1.1%) were hospitalized, and none required mechanical ventilation. Most participants (3409; 85.1%) were unvaccinated at the time of their baseline exam, whereas most (2409; 65%) were vaccinated by the time of their first post‐COVID exam.</p><table-wrap position="float" id="jah310936-tbl-0001" content-type="Table" orientation="portrait"><label>Table 1</label><caption><p>Baseline Characteristics by Eventual COVID Status</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><thead><tr style="border-bottom:solid 1px #000000"><th align="left" rowspan="2" colspan="1">Pre‐COVID visit</th><th align="left" rowspan="1" colspan="1">All</th><th align="left" colspan="2" rowspan="1">No COVID</th><th align="left" colspan="2" rowspan="1">COVID</th><th align="left" rowspan="2" colspan="1">
+<italic toggle="yes">P</italic> value</th></tr><tr style="border-bottom:solid 1px #000000"><th align="left" rowspan="1" colspan="1">N=4005</th><th align="left" rowspan="1" colspan="1">Prepandemic N=513</th><th align="left" rowspan="1" colspan="1">Uninfected N=1826</th><th align="left" rowspan="1" colspan="1">Recovered N=1586</th><th align="left" rowspan="1" colspan="1">Long COVID N=80</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">Year of visit<xref rid="jah310936-note-0006" ref-type="table-fn">*</xref>
+</td><td align="left" rowspan="1" colspan="1">2019 (1.3)</td><td align="left" rowspan="1" colspan="1">2018 (0.5)</td><td align="left" rowspan="1" colspan="1">2019 (1.2)</td><td align="left" rowspan="1" colspan="1">2019 (1.3)</td><td align="left" rowspan="1" colspan="1">2019 (1.1)</td><td align="left" rowspan="1" colspan="1">&lt;0.001</td></tr><tr><td align="left" rowspan="1" colspan="1">Age<xref rid="jah310936-note-0006" ref-type="table-fn">*</xref>, y</td><td align="left" rowspan="1" colspan="1">51.8 (9.0)</td><td align="left" rowspan="1" colspan="1">53.0 (8.6)</td><td align="left" rowspan="1" colspan="1">51.9 (9.0)</td><td align="left" rowspan="1" colspan="1">51.5 (9.0)</td><td align="left" rowspan="1" colspan="1">49.9 (9.4)</td><td align="left" rowspan="1" colspan="1">0.004</td></tr><tr><td align="left" rowspan="1" colspan="1">Sex<xref rid="jah310936-note-0007" ref-type="table-fn">†</xref>, female</td><td align="left" rowspan="1" colspan="1">1075 (26.8)</td><td align="left" rowspan="1" colspan="1">121 (23.6)</td><td align="left" rowspan="1" colspan="1">531 (29.1)</td><td align="left" rowspan="1" colspan="1">393 (24.8)</td><td align="left" rowspan="1" colspan="1">30 (37.5)</td><td align="left" rowspan="1" colspan="1">0.002</td></tr><tr><td align="left" rowspan="1" colspan="1">Postmenopausal<xref rid="jah310936-note-0007" ref-type="table-fn">†</xref>
+</td><td align="left" rowspan="1" colspan="1">542 (50.4)</td><td align="left" rowspan="1" colspan="1">52 (43.0)</td><td align="left" rowspan="1" colspan="1">285 (53.7)</td><td align="left" rowspan="1" colspan="1">193 (49.1)</td><td align="left" rowspan="1" colspan="1">12 (40.0)</td><td align="left" rowspan="1" colspan="1">0.002</td></tr><tr><td align="left" rowspan="1" colspan="1">Race<xref rid="jah310936-note-0007" ref-type="table-fn">†</xref>
+<sup>,</sup>
+<xref rid="jah310936-note-0008" ref-type="table-fn">‡</xref>, White</td><td align="left" rowspan="1" colspan="1">3467 (86.6)</td><td align="left" rowspan="1" colspan="1">440 (85.8)</td><td align="left" rowspan="1" colspan="1">1552 (85.0)</td><td align="left" rowspan="1" colspan="1">1405 (88.6)</td><td align="left" rowspan="1" colspan="1">70 (87.5)</td><td align="left" rowspan="1" colspan="1">0.005</td></tr><tr><td align="left" rowspan="1" colspan="1">Current smoker<xref rid="jah310936-note-0007" ref-type="table-fn">†</xref>
+</td><td align="left" rowspan="1" colspan="1">261 (6.5)</td><td align="left" rowspan="1" colspan="1">43 (8.4)</td><td align="left" rowspan="1" colspan="1">121 (6.6)</td><td align="left" rowspan="1" colspan="1">93 (5.9)</td><td align="left" rowspan="1" colspan="1">4 (5.0)</td><td align="left" rowspan="1" colspan="1">0.240</td></tr><tr><td align="left" rowspan="1" colspan="1">Diabetes<xref rid="jah310936-note-0007" ref-type="table-fn">†</xref>
+<sup>,</sup>
+<xref rid="jah310936-note-0008" ref-type="table-fn">‡</xref>
+</td><td align="left" rowspan="1" colspan="1">63 (1.6)</td><td align="left" rowspan="1" colspan="1">5 (1.0)</td><td align="left" rowspan="1" colspan="1">30 (1.6)</td><td align="left" rowspan="1" colspan="1">25 (1.6)</td><td align="left" rowspan="1" colspan="1">3 (3.8)</td><td align="left" rowspan="1" colspan="1">0.366</td></tr><tr><td align="left" rowspan="1" colspan="1">Hypertension<xref rid="jah310936-note-0007" ref-type="table-fn">†</xref>
+<sup>,</sup>
+<xref rid="jah310936-note-0008" ref-type="table-fn">‡</xref>
+</td><td align="left" rowspan="1" colspan="1">842 (21.0)</td><td align="left" rowspan="1" colspan="1">111 (21.6)</td><td align="left" rowspan="1" colspan="1">368 (20.2)</td><td align="left" rowspan="1" colspan="1">335 (21.1)</td><td align="left" rowspan="1" colspan="1">28 (35.0)</td><td align="left" rowspan="1" colspan="1">0.029</td></tr><tr><td align="left" rowspan="1" colspan="1">Anxiety<xref rid="jah310936-note-0007" ref-type="table-fn">†</xref>
+<sup>,</sup>
+<xref rid="jah310936-note-0008" ref-type="table-fn">‡</xref>
+</td><td align="left" rowspan="1" colspan="1">494 (12.3)</td><td align="left" rowspan="1" colspan="1">67 (13.1)</td><td align="left" rowspan="1" colspan="1">213 (11.7)</td><td align="left" rowspan="1" colspan="1">199 (12.5)</td><td align="left" rowspan="1" colspan="1">15 (18.8)</td><td align="left" rowspan="1" colspan="1">0.291</td></tr><tr><td align="left" rowspan="1" colspan="1">Depression<xref rid="jah310936-note-0007" ref-type="table-fn">†</xref>
+<sup>,</sup>
+<xref rid="jah310936-note-0008" ref-type="table-fn">‡</xref>
+</td><td align="left" rowspan="1" colspan="1">323 (8.1)</td><td align="left" rowspan="1" colspan="1">27 (5.3)</td><td align="left" rowspan="1" colspan="1">153 (8.4)</td><td align="left" rowspan="1" colspan="1">135 (8.5)</td><td align="left" rowspan="1" colspan="1">8 (10.0)</td><td align="left" rowspan="1" colspan="1">0.064</td></tr><tr><td align="left" rowspan="1" colspan="1">Unexplained exertional dyspnea<xref rid="jah310936-note-0007" ref-type="table-fn">†</xref>
+<sup>,</sup>
+<xref rid="jah310936-note-0008" ref-type="table-fn">‡</xref>
+</td><td align="left" rowspan="1" colspan="1">118 (2.9)</td><td align="left" rowspan="1" colspan="1">17 (3.3)</td><td align="left" rowspan="1" colspan="1">55 (3.0)</td><td align="left" rowspan="1" colspan="1">43 (2.7)</td><td align="left" rowspan="1" colspan="1">3 (3.8)</td><td align="left" rowspan="1" colspan="1">0.861</td></tr><tr><td align="left" rowspan="1" colspan="1">Body mass index<xref rid="jah310936-note-0006" ref-type="table-fn">*</xref>, kg/m<sup>2</sup>
+</td><td align="left" rowspan="1" colspan="1">26.8 (4.1)</td><td align="left" rowspan="1" colspan="1">26.7 (3.8)</td><td align="left" rowspan="1" colspan="1">26.9 (4.2)</td><td align="left" rowspan="1" colspan="1">26.8 (4.1)</td><td align="left" rowspan="1" colspan="1">27.9 (4.5)</td><td align="left" rowspan="1" colspan="1">0.212</td></tr><tr><td align="left" rowspan="1" colspan="1">Glucose<xref rid="jah310936-note-0006" ref-type="table-fn">*</xref>, mg/dL</td><td align="left" rowspan="1" colspan="1">97.0 (12.9)</td><td align="left" rowspan="1" colspan="1">97.1 (11.5)</td><td align="left" rowspan="1" colspan="1">96.8 (13.4)</td><td align="left" rowspan="1" colspan="1">97.2 (12.8)</td><td align="left" rowspan="1" colspan="1">96.7 (12.1)</td><td align="left" rowspan="1" colspan="1">0.567</td></tr><tr><td align="left" rowspan="1" colspan="1">Total cholesterol<xref rid="jah310936-note-0006" ref-type="table-fn">*</xref>, mg/dL</td><td align="left" rowspan="1" colspan="1">192.0 (36.7)</td><td align="left" rowspan="1" colspan="1">188.1 (35.2)</td><td align="left" rowspan="1" colspan="1">193.4 (37.1)</td><td align="left" rowspan="1" colspan="1">191.7 (36.6)</td><td align="left" rowspan="1" colspan="1">192.4 (35.0)</td><td align="left" rowspan="1" colspan="1">0.042</td></tr><tr><td align="left" rowspan="1" colspan="1">Systolic blood pressure<xref rid="jah310936-note-0006" ref-type="table-fn">*</xref>, mm Hg</td><td align="left" rowspan="1" colspan="1">119.5 (12.4)</td><td align="left" rowspan="1" colspan="1">119.3 (12.0)</td><td align="left" rowspan="1" colspan="1">119.6 (12.3)</td><td align="left" rowspan="1" colspan="1">119.6 (12.6)</td><td align="left" rowspan="1" colspan="1">119.6 (12.7)</td><td align="left" rowspan="1" colspan="1">0.862</td></tr><tr><td align="left" rowspan="1" colspan="1">Physical activity volume, MET‐min/wk<xref rid="jah310936-note-0011" ref-type="table-fn">‡</xref>
+<sup>,</sup>
+<xref rid="jah310936-note-0112" ref-type="table-fn">δ</xref>
+</td><td align="left" rowspan="1" colspan="1">1170 (551 to 1988)</td><td align="left" rowspan="1" colspan="1">1080 (519 to 1898)</td><td align="left" rowspan="1" colspan="1">1169 (510 to 2033)</td><td align="left" rowspan="1" colspan="1">1200 (630 to 1964)</td><td align="left" rowspan="1" colspan="1">795 (128 to 1448)</td><td align="left" rowspan="1" colspan="1">0.009</td></tr><tr><td align="left" rowspan="1" colspan="1">Moderate+vigorous physical activity &gt;150 min/wk<xref rid="jah310936-note-0007" ref-type="table-fn">†</xref>
+<sup>,</sup>
+<xref rid="jah310936-note-0011" ref-type="table-fn">‡</xref>
+</td><td align="left" rowspan="1" colspan="1">2151 (53.7)</td><td align="left" rowspan="1" colspan="1">253 (49.3)</td><td align="left" rowspan="1" colspan="1">978 (53.6)</td><td align="left" rowspan="1" colspan="1">884 (55.7)</td><td align="left" rowspan="1" colspan="1">36 (45.0)</td><td align="left" rowspan="1" colspan="1">0.003</td></tr><tr><td align="left" rowspan="1" colspan="1">Cardiorespiratory fitness, METs<xref rid="jah310936-note-0006" ref-type="table-fn">*</xref>
+</td><td align="left" rowspan="1" colspan="1">10.9 (2.2)</td><td align="left" rowspan="1" colspan="1">11.3 (2.0)</td><td align="left" rowspan="1" colspan="1">10.7 (2.1)</td><td align="left" rowspan="1" colspan="1">11.1 (2.2)</td><td align="left" rowspan="1" colspan="1">10.0 (2.2)</td><td align="left" rowspan="1" colspan="1">&lt;0.001</td></tr><tr><td align="left" rowspan="1" colspan="1">Treadmill time, min<xref rid="jah310936-note-0006" ref-type="table-fn">*</xref>
+</td><td align="left" rowspan="1" colspan="1">16.6 (4.6)</td><td align="left" rowspan="1" colspan="1">17.3 (4.3)</td><td align="left" rowspan="1" colspan="1">16.1 (4.6)</td><td align="left" rowspan="1" colspan="1">17.0 (4.7)</td><td align="left" rowspan="1" colspan="1">14.6 (4.7)</td><td align="left" rowspan="1" colspan="1">&lt;0.001</td></tr><tr><td align="left" rowspan="1" colspan="1">Lowest fit (category 1)<xref rid="jah310936-note-0007" ref-type="table-fn">†</xref>
+</td><td align="left" rowspan="1" colspan="1">313 (7.8)</td><td align="left" rowspan="1" colspan="1">22 (4.3)</td><td align="left" rowspan="1" colspan="1">163 (8.9)</td><td align="left" rowspan="1" colspan="1">113 (7.1)</td><td align="left" rowspan="1" colspan="1">15 (18.8)</td><td align="left" rowspan="1" colspan="1">&lt;0.001</td></tr><tr><td align="left" rowspan="1" colspan="1">Maximum heart rate, bpm<xref rid="jah310936-note-0006" ref-type="table-fn">*</xref>
+<sup>,</sup>
+<xref rid="jah310936-note-0011" ref-type="table-fn">‡</xref>
+</td><td align="left" rowspan="1" colspan="1">171.9 (14.2)</td><td align="left" rowspan="1" colspan="1">172.7 (13.3)</td><td align="left" rowspan="1" colspan="1">171.4 (14.2)</td><td align="left" rowspan="1" colspan="1">172.2 (14.3)</td><td align="left" rowspan="1" colspan="1">173.3 (15.9)</td><td align="left" rowspan="1" colspan="1">0.069</td></tr><tr><td align="left" rowspan="1" colspan="1">Achieved 85% maximum predicted heart rate<xref rid="jah310936-note-0007" ref-type="table-fn">†</xref>
+</td><td align="left" rowspan="1" colspan="1">3961 (98.9)</td><td align="left" rowspan="1" colspan="1">511 (99.6)</td><td align="left" rowspan="1" colspan="1">1807 (99.0)</td><td align="left" rowspan="1" colspan="1">1564 (98.6)</td><td align="left" rowspan="1" colspan="1">79 (98.8)</td><td align="left" rowspan="1" colspan="1">0.272</td></tr><tr><td align="left" rowspan="1" colspan="1">Heart rate recovery at 1 min, bpm<xref rid="jah310936-note-0006" ref-type="table-fn">*</xref>
+<sup>,</sup>
+<xref rid="jah310936-note-0011" ref-type="table-fn">‡</xref>
+</td><td align="left" rowspan="1" colspan="1">24.3 (7.8)</td><td align="left" rowspan="1" colspan="1">24.9 (7.6)</td><td align="left" rowspan="1" colspan="1">24.2 (7.9)</td><td align="left" rowspan="1" colspan="1">24.3 (7.7)</td><td align="left" rowspan="1" colspan="1">23.1 (8.6)</td><td align="left" rowspan="1" colspan="1">0.050</td></tr></tbody></table><table-wrap-foot id="jah310936-ntgp-0002"><fn id="jah310936-note-0005"><p>MET indicates metabolic equivalent.</p></fn><fn id="jah310936-note-0006"><label>*</label><p>Mean±SD.</p></fn><fn id="jah310936-note-0007"><label>
+<sup>†</sup>
+</label><p>N (%).</p></fn><fn id="jah310936-note-0008"><label>
+<sup>‡</sup>
+</label><p>The numbers missing are: race/ethnicity 44, diabetes 120, hypertension 75, anxiety 76, depression 62, unexplained exertional dyspnea 81, physical activity volume 255, moderate+vigorous physical activity 255, maximum heart rate 1, heart rate recovery at 1 min 4).</p></fn><fn id="jah310936-note-0112"><label>
+<sup>δ</sup>
+</label><p>Median (interquartile range).</p></fn></table-wrap-foot></table-wrap><p>Among those with COVID, 1482 (89.0%) reported resolution of symptoms within 3 weeks, 104 (6.2%) reported symptoms lasting 3 weeks to 3 months, and 80 (4.8%) reported symptoms lasting &gt;3 months. Of those with persistent symptoms, common symptoms included fatigue (40%), brain fog (39%), shortness of breath (24%), cough (24%), joint pain (19%), and chest pain (10%). The median (interquartile range [IQR]) number of symptoms reported from this list was 1 (1–2).</p><sec id="jah310936-sec-0019"><title>Baseline Characteristics and Subsequent Long <styled-content style="fixed-case" toggle="no">COVID</styled-content>
+</title><p>At baseline, individuals who subsequently reported long COVID symptoms were more likely to be female (37.5% versus 24.8% recovered, 29.1% uninfected, and 23.6% prepandemic; <italic toggle="yes">P</italic>=0.002). At baseline, those who subsequently developed long COVID were less physically active, exercising a median 795 MET‐minutes/week (IQR, 128–1448), compared with a median 1200 among recovered (IQR, 630–1964), 1169 (IQR, 510–2032) among uninfected, and 1080 (IQR, 519–1898) among prepandemic participants (<italic toggle="yes">P</italic>=0.009). Hypertension was more common among people who developed long COVID (35% versus 21% in other groups, <italic toggle="yes">P</italic>=0.03), and the trend toward higher pre‐COVID BMI among those with long COVID was not statistically significant (Table <xref rid="jah310936-tbl-0001" ref-type="table">1</xref>; <italic toggle="yes">P</italic>=0.21). Few participants reported anxiety or depression at baseline with no statistically significant differences (<italic toggle="yes">P</italic>=0.29 and <italic toggle="yes">P</italic>=0.06, respectively).</p><p>At baseline, unadjusted mean CRF was 1 MET lower among those who went on to develop long COVID (10.0 METs [SD, 2.2]) compared with recovered participants (11.1 METs [SD, 2.2]), uninfected individuals (10.7 METs [SD, 2.1], and prepandemic individuals 11.3 METs [SD, 2.0]; <italic toggle="yes">P</italic>&lt;0.001). Results were similar stratified by sex (Figure <xref rid="jah310936-fig-0002" ref-type="fig">2</xref>) and with treadmill time (Table <xref rid="jah310936-tbl-0001" ref-type="table">1</xref>). Furthermore, at baseline, individuals who developed long COVID were more likely to be low fit for age and sex (18.8% long COVID, 7.1% recovered, 8.9% uninfected, and 4.3% prepandemic; <italic toggle="yes">P</italic>&lt;0.001).</p><fig position="float" fig-type="Figure" id="jah310936-fig-0002" orientation="portrait"><label>Figure 2</label><caption><title>Baseline and follow‐up cardiorespiratory fitness by COVID status stratified by sex.</title><p>Unadjusted mean cardiorespiratory fitness at baseline was lowest among participants who went on to develop long COVID. Cardiorespiratory fitness continued to be lower among people with long COVID. Mean changes in CRF in all groups are small (~0.2 METs). CRF indicates cardiorespiratory fitness; and MET, metabolic equivalent.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-3" orientation="portrait" xlink:href="JAH3-14-e040629-g001.jpg"/></fig></sec><sec id="jah310936-sec-0020"><title>
+<styled-content style="fixed-case" toggle="no">CRF</styled-content> and Self‐Reported Physical Activity at Follow‐Up (Post‐<styled-content style="fixed-case" toggle="no">COVID</styled-content>)</title><p>At the first post‐COVID visit (or first follow‐up visit for uninfected participants), CRF was approximately 1 MET lower among people with long COVID (9.8 METS [SD, 2.2] versus 10.8 [SD, 2.2] among recovered participants versus 10.5 [SD, 2.2] among uninfected participants versus 11.2 [SD, 2.0] among prepandemic participants; <italic toggle="yes">P</italic>&lt;0.001; Table <xref rid="jah310936-tbl-0002" ref-type="table">2</xref>). Results were similar using treadmill time. Analogous to preinfection trends, self‐reported physical activity was lower among those with long COVID at 880 MET‐minutes/week (IQR, 128–1800) compared with recovered participants (1223; IQR, 633–2144), uninfected participants (1245; IQR, 615–2189), and prepandemic participants (1164; IQR, 638–2002); the comparison among groups remained statistically significant (<italic toggle="yes">P</italic>=0.03).</p><table-wrap position="float" id="jah310936-tbl-0002" content-type="Table" orientation="portrait"><label>Table 2</label><caption><p>Participant Characteristics at Follow Up by COVID Status</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><thead><tr style="border-bottom:solid 1px #000000"><th align="left" rowspan="2" colspan="1">First post‐COVID visit</th><th align="left" rowspan="1" colspan="1">All</th><th align="left" colspan="2" rowspan="1">No COVID</th><th align="left" colspan="2" rowspan="1">COVID</th><th align="left" rowspan="2" colspan="1">
+<italic toggle="yes">P</italic> value</th></tr><tr style="border-bottom:solid 1px #000000"><th align="left" rowspan="1" colspan="1">No.=4005</th><th align="left" rowspan="1" colspan="1">Pre‐pandemic N=513</th><th align="left" rowspan="1" colspan="1">Uninfected N=1826</th><th align="left" rowspan="1" colspan="1">Recovered N=1586</th><th align="left" rowspan="1" colspan="1">Long COVID N=80</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">Year of visit<xref rid="jah310936-note-0009" ref-type="table-fn">*</xref>
+</td><td align="left" rowspan="1" colspan="1">2021 (1.3)</td><td align="left" rowspan="1" colspan="1">2019 (0.4)</td><td align="left" rowspan="1" colspan="1">2021 (0.9)</td><td align="left" rowspan="1" colspan="1">2022 (0.7)</td><td align="left" rowspan="1" colspan="1">2022 (0.7)</td><td align="left" rowspan="1" colspan="1">&lt;0.001</td></tr><tr><td align="left" rowspan="1" colspan="1">Age<xref rid="jah310936-note-0009" ref-type="table-fn">*</xref>, y</td><td align="left" rowspan="1" colspan="1">54.1 (9.1)</td><td align="left" rowspan="1" colspan="1">54.1 (8.6)</td><td align="left" rowspan="1" colspan="1">53.8 (9.1)</td><td align="left" rowspan="1" colspan="1">54.5 (9.2)</td><td align="left" rowspan="1" colspan="1">52.7 (9.4)</td><td align="left" rowspan="1" colspan="1">0.052</td></tr><tr><td align="left" rowspan="1" colspan="1">Sex<xref rid="jah310936-note-0010" ref-type="table-fn">†</xref>, female</td><td align="left" rowspan="1" colspan="1">1075 (26.8)</td><td align="left" rowspan="1" colspan="1">121 (23.6)</td><td align="left" rowspan="1" colspan="1">531 (29.1)</td><td align="left" rowspan="1" colspan="1">393 (24.8)</td><td align="left" rowspan="1" colspan="1">30 (37.5)</td><td align="left" rowspan="1" colspan="1">0.011</td></tr><tr><td align="left" rowspan="1" colspan="1">Race<xref rid="jah310936-note-0010" ref-type="table-fn">†</xref>
+<sup>,</sup>
+<xref rid="jah310936-note-0011" ref-type="table-fn">‡</xref>, White</td><td align="left" rowspan="1" colspan="1">3467 (86.6)</td><td align="left" rowspan="1" colspan="1">442 (86.2)</td><td align="left" rowspan="1" colspan="1">1550 (84.9)</td><td align="left" rowspan="1" colspan="1">1404 (88.5)</td><td align="left" rowspan="1" colspan="1">71 (88.8)</td><td align="left" rowspan="1" colspan="1">0.002</td></tr><tr><td align="left" rowspan="1" colspan="1">Postmenopausal<xref rid="jah310936-note-0010" ref-type="table-fn">†</xref>
+</td><td align="left" rowspan="1" colspan="1">711 (66.1)</td><td align="left" rowspan="1" colspan="1">75 (62.0)</td><td align="left" rowspan="1" colspan="1">354 (66.7)</td><td align="left" rowspan="1" colspan="1">266 (67.7)</td><td align="left" rowspan="1" colspan="1">16 (53.3)</td><td align="left" rowspan="1" colspan="1">0.391</td></tr><tr><td align="left" rowspan="1" colspan="1">Current smoker<xref rid="jah310936-note-0010" ref-type="table-fn">†</xref>
+</td><td align="left" rowspan="1" colspan="1">220 (5.5)</td><td align="left" rowspan="1" colspan="1">38 (7.4)</td><td align="left" rowspan="1" colspan="1">95 (5.2)</td><td align="left" rowspan="1" colspan="1">83 (5.2)</td><td align="left" rowspan="1" colspan="1">4 (5.0)</td><td align="left" rowspan="1" colspan="1">0.280</td></tr><tr><td align="left" rowspan="1" colspan="1">Diabetes<xref rid="jah310936-note-0010" ref-type="table-fn">†</xref>
+<sup>,</sup>
+<xref rid="jah310936-note-0011" ref-type="table-fn">‡</xref>
+</td><td align="left" rowspan="1" colspan="1">81 (2.0)</td><td align="left" rowspan="1" colspan="1">6 (1.2)</td><td align="left" rowspan="1" colspan="1">34 (1.9)</td><td align="left" rowspan="1" colspan="1">37 (2.3)</td><td align="left" rowspan="1" colspan="1">4 (5.0)</td><td align="left" rowspan="1" colspan="1">0.132</td></tr><tr><td align="left" rowspan="1" colspan="1">Hypertension<xref rid="jah310936-note-0010" ref-type="table-fn">†</xref>
+<sup>,</sup>
+<xref rid="jah310936-note-0011" ref-type="table-fn">‡</xref>
+</td><td align="left" rowspan="1" colspan="1">995 (24.8)</td><td align="left" rowspan="1" colspan="1">121 (23.6)</td><td align="left" rowspan="1" colspan="1">418 (22.9)</td><td align="left" rowspan="1" colspan="1">423 (26.7)</td><td align="left" rowspan="1" colspan="1">33 (41.3)</td><td align="left" rowspan="1" colspan="1">0.001</td></tr><tr><td align="left" rowspan="1" colspan="1">Anxiety<xref rid="jah310936-note-0010" ref-type="table-fn">†</xref>
+</td><td align="left" rowspan="1" colspan="1">335 (8.4)</td><td align="left" rowspan="1" colspan="1">41 (8.0)</td><td align="left" rowspan="1" colspan="1">153 (8.4)</td><td align="left" rowspan="1" colspan="1">126 (7.9)</td><td align="left" rowspan="1" colspan="1">15 (18.8)</td><td align="left" rowspan="1" colspan="1">0.024</td></tr><tr><td align="left" rowspan="1" colspan="1">Depression<xref rid="jah310936-note-0010" ref-type="table-fn">†</xref>
+</td><td align="left" rowspan="1" colspan="1">325 (8.1)</td><td align="left" rowspan="1" colspan="1">31 (6.0)</td><td align="left" rowspan="1" colspan="1">158 (8.7)</td><td align="left" rowspan="1" colspan="1">124 (7.8)</td><td align="left" rowspan="1" colspan="1">12 (15.0)</td><td align="left" rowspan="1" colspan="1">0.042</td></tr><tr><td align="left" rowspan="1" colspan="1">Unexplained exertional dyspnea<xref rid="jah310936-note-0010" ref-type="table-fn">†</xref>
+<sup>,</sup>
+<xref rid="jah310936-note-0011" ref-type="table-fn">‡</xref>
+</td><td align="left" rowspan="1" colspan="1">51 (1.3)</td><td align="left" rowspan="1" colspan="1">11 (2.1)</td><td align="left" rowspan="1" colspan="1">20 (1.1)</td><td align="left" rowspan="1" colspan="1">16 (1.0)</td><td align="left" rowspan="1" colspan="1">4 (5.0)</td><td align="left" rowspan="1" colspan="1">0.026</td></tr><tr><td align="left" rowspan="1" colspan="1">Body mass index<xref rid="jah310936-note-0009" ref-type="table-fn">*</xref>, kg/m<sup>2</sup>
+</td><td align="left" rowspan="1" colspan="1">26.8 (4.1)</td><td align="left" rowspan="1" colspan="1">26.6 (3.7)</td><td align="left" rowspan="1" colspan="1">26.8 (4.2)</td><td align="left" rowspan="1" colspan="1">26.9 (4.1)</td><td align="left" rowspan="1" colspan="1">28.0 (4.5)</td><td align="left" rowspan="1" colspan="1">0.110</td></tr><tr><td align="left" rowspan="1" colspan="1">Glucose<xref rid="jah310936-note-0009" ref-type="table-fn">*</xref>, mg/dL</td><td align="left" rowspan="1" colspan="1">97.7 (12.9)</td><td align="left" rowspan="1" colspan="1">97.2 (14.9)</td><td align="left" rowspan="1" colspan="1">97.5 (12.9)</td><td align="left" rowspan="1" colspan="1">97.9 (12.0)</td><td align="left" rowspan="1" colspan="1">98.4 (14.2)</td><td align="left" rowspan="1" colspan="1">0.265</td></tr><tr><td align="left" rowspan="1" colspan="1">Total cholesterol<xref rid="jah310936-note-0009" ref-type="table-fn">*</xref>, mg/dL</td><td align="left" rowspan="1" colspan="1">187.8 (37.0)</td><td align="left" rowspan="1" colspan="1">185.7 (34.1)</td><td align="left" rowspan="1" colspan="1">189.2 (38.0)</td><td align="left" rowspan="1" colspan="1">187.0 (36.9)</td><td align="left" rowspan="1" colspan="1">187.8 (36.0)</td><td align="left" rowspan="1" colspan="1">0.278</td></tr><tr><td align="left" rowspan="1" colspan="1">Systolic blood pressure<xref rid="jah310936-note-0009" ref-type="table-fn">*</xref>, mm Hg</td><td align="left" rowspan="1" colspan="1">119.7 (12.2)</td><td align="left" rowspan="1" colspan="1">119.5 (11.3)</td><td align="left" rowspan="1" colspan="1">119.4 (12.0)</td><td align="left" rowspan="1" colspan="1">120.3 (12.6)</td><td align="left" rowspan="1" colspan="1">118.5 (13.8)</td><td align="left" rowspan="1" colspan="1">0.177</td></tr><tr><td align="left" rowspan="1" colspan="1">Physical activity volume, MET‐min/w<xref rid="jah310936-note-0010" ref-type="table-fn">†</xref>
+<sup>,</sup>
+<xref rid="jah310936-note-0011" ref-type="table-fn">‡</xref>k<xref rid="jah310936-note-0012" ref-type="table-fn">δ</xref>
+</td><td align="left" rowspan="1" colspan="1">1215 (623 to 2151)</td><td align="left" rowspan="1" colspan="1">1164 (638 to 2003)</td><td align="left" rowspan="1" colspan="1">1245 (615 to 2189)</td><td align="left" rowspan="1" colspan="1">1223 (633 to 2144)</td><td align="left" rowspan="1" colspan="1">880 (127.51800)</td><td align="left" rowspan="1" colspan="1">0.033</td></tr><tr><td align="left" rowspan="1" colspan="1">Moderate+vigorous physical activity &gt;150, min/wk<xref rid="jah310936-note-0010" ref-type="table-fn">†</xref>
+</td><td align="left" rowspan="1" colspan="1">2427 (60.6)</td><td align="left" rowspan="1" colspan="1">290 (56.5)</td><td align="left" rowspan="1" colspan="1">1119 (61.3)</td><td align="left" rowspan="1" colspan="1">979 (61.7)</td><td align="left" rowspan="1" colspan="1">39 (48.8)</td><td align="left" rowspan="1" colspan="1">0.027</td></tr><tr><td align="left" colspan="7" rowspan="1">Characteristics of those with COVID</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">No.</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">…</td><td align="left" rowspan="1" colspan="1">…</td><td align="left" rowspan="1" colspan="1">1586 (39.6)</td><td align="left" rowspan="1" colspan="1">80 (2.0)</td><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Mo since COVID diagnosis<xref rid="jah310936-note-0012" ref-type="table-fn">δ</xref>
+</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">…</td><td align="left" rowspan="1" colspan="1">…</td><td align="left" rowspan="1" colspan="1">8.5 (4.7 to 13.9)</td><td align="left" rowspan="1" colspan="1">10.6 (7.8 to 18.8)</td><td align="left" rowspan="1" colspan="1">&lt;0.001</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Hospitalized with COVID<xref rid="jah310936-note-0010" ref-type="table-fn">†</xref>
+</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">…</td><td align="left" rowspan="1" colspan="1">…</td><td align="left" rowspan="1" colspan="1">14 (0.9)</td><td align="left" rowspan="1" colspan="1">3 (3.8)</td><td align="left" rowspan="1" colspan="1">0.011</td></tr><tr><td align="left" colspan="7" rowspan="1">Experienced serious COVID complications</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Mechanical ventilation<xref rid="jah310936-note-0010" ref-type="table-fn">†</xref>
+</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">…</td><td align="left" rowspan="1" colspan="1">…</td><td align="left" rowspan="1" colspan="1">0 (0)</td><td align="left" rowspan="1" colspan="1">0 (0)</td><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Deep venous thrombosis<xref rid="jah310936-note-0010" ref-type="table-fn">†</xref>
+</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">…</td><td align="left" rowspan="1" colspan="1">…</td><td align="left" rowspan="1" colspan="1">0 (0)</td><td align="left" rowspan="1" colspan="1">0 (0)</td><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Pulmonary embolism<xref rid="jah310936-note-0010" ref-type="table-fn">†</xref>
+</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">…</td><td align="left" rowspan="1" colspan="1">…</td><td align="left" rowspan="1" colspan="1">2 (0.1)</td><td align="left" rowspan="1" colspan="1">0 (0)</td><td align="left" rowspan="1" colspan="1">0.157</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Myocardial infarction<xref rid="jah310936-note-0010" ref-type="table-fn">†</xref>
+</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">…</td><td align="left" rowspan="1" colspan="1">…</td><td align="left" rowspan="1" colspan="1">1 (0.1)</td><td align="left" rowspan="1" colspan="1">0 (0)</td><td align="left" rowspan="1" colspan="1">0.396</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Stroke<xref rid="jah310936-note-0010" ref-type="table-fn">†</xref>
+</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">…</td><td align="left" rowspan="1" colspan="1">…</td><td align="left" rowspan="1" colspan="1">0 (0)</td><td align="left" rowspan="1" colspan="1">1 (1.3)</td><td align="left" rowspan="1" colspan="1">0.020</td></tr><tr><td align="left" colspan="7" rowspan="1">Experienced persistent symptoms since COVID</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Fatigue<xref rid="jah310936-note-0010" ref-type="table-fn">†</xref>
+</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">…</td><td align="left" rowspan="1" colspan="1">…</td><td align="left" rowspan="1" colspan="1">110 (6.9)</td><td align="left" rowspan="1" colspan="1">32 (40.0)</td><td align="left" rowspan="1" colspan="1">&lt;0.001</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Cough<xref rid="jah310936-note-0010" ref-type="table-fn">†</xref>
+</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">…</td><td align="left" rowspan="1" colspan="1">…</td><td align="left" rowspan="1" colspan="1">75 (4.7)</td><td align="left" rowspan="1" colspan="1">19 (23.8)</td><td align="left" rowspan="1" colspan="1">&lt;0.001</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Chest pain<xref rid="jah310936-note-0010" ref-type="table-fn">†</xref>
+</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">…</td><td align="left" rowspan="1" colspan="1">…</td><td align="left" rowspan="1" colspan="1">10 (0.6)</td><td align="left" rowspan="1" colspan="1">8 (10.0)</td><td align="left" rowspan="1" colspan="1">&lt;0.001</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Shortness of breath<xref rid="jah310936-note-0010" ref-type="table-fn">†</xref>
+</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">…</td><td align="left" rowspan="1" colspan="1">…</td><td align="left" rowspan="1" colspan="1">42 (2.6)</td><td align="left" rowspan="1" colspan="1">19 (23.8)</td><td align="left" rowspan="1" colspan="1">&lt;0.001</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Joint pain<xref rid="jah310936-note-0010" ref-type="table-fn">†</xref>
+</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">…</td><td align="left" rowspan="1" colspan="1">…</td><td align="left" rowspan="1" colspan="1">12 (0.8)</td><td align="left" rowspan="1" colspan="1">15 (18.8)</td><td align="left" rowspan="1" colspan="1">&lt;0.001</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Brain fog<xref rid="jah310936-note-0010" ref-type="table-fn">†</xref>
+</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">…</td><td align="left" rowspan="1" colspan="1">…</td><td align="left" rowspan="1" colspan="1">51 (3.2)</td><td align="left" rowspan="1" colspan="1">31 (38.8)</td><td align="left" rowspan="1" colspan="1">&lt;0.001</td></tr><tr><td align="left" colspan="7" rowspan="1">Cardiorespiratory fitness testing</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Cardiorespiratory fitness, METs<xref rid="jah310936-note-0009" ref-type="table-fn">*</xref>
+</td><td align="left" rowspan="1" colspan="1">10.7 (2.2)</td><td align="left" rowspan="1" colspan="1">11.2 (2.0)</td><td align="left" rowspan="1" colspan="1">10.5 (2.2)</td><td align="left" rowspan="1" colspan="1">10.8 (2.2)</td><td align="left" rowspan="1" colspan="1">9.8 (2.2)</td><td align="left" rowspan="1" colspan="1">&lt;0.001</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Treadmill time, min<xref rid="jah310936-note-0009" ref-type="table-fn">*</xref>
+</td><td align="left" rowspan="1" colspan="1">16.1 (4.7)</td><td align="left" rowspan="1" colspan="1">17.2 (4.2)</td><td align="left" rowspan="1" colspan="1">15.7 (4.7)</td><td align="left" rowspan="1" colspan="1">16.3 (4.7)</td><td align="left" rowspan="1" colspan="1">14.1 (4.6)</td><td align="left" rowspan="1" colspan="1">&lt;0.001</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Lowest fit (category 1)<xref rid="jah310936-note-0010" ref-type="table-fn">†</xref>
+</td><td align="left" rowspan="1" colspan="1">298 (7.4)</td><td align="left" rowspan="1" colspan="1">14 (2.7)</td><td align="left" rowspan="1" colspan="1">162 (8.9)</td><td align="left" rowspan="1" colspan="1">112 (7.1)</td><td align="left" rowspan="1" colspan="1">10 (12.5)</td><td align="left" rowspan="1" colspan="1">&lt;0.001</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Maximum heart rate, bpm<xref rid="jah310936-note-0009" ref-type="table-fn">*</xref>
+</td><td align="left" rowspan="1" colspan="1">170.1 (14.8)</td><td align="left" rowspan="1" colspan="1">172.0 (13.6)</td><td align="left" rowspan="1" colspan="1">169.5 (15.0)</td><td align="left" rowspan="1" colspan="1">170.1 (14.9)</td><td align="left" rowspan="1" colspan="1">171.4 (15.6)</td><td align="left" rowspan="1" colspan="1">0.330</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Achieved 85% maximum predicted heart rate<xref rid="jah310936-note-0010" ref-type="table-fn">†</xref>
+</td><td align="left" rowspan="1" colspan="1">3962 (98.9)</td><td align="left" rowspan="1" colspan="1">509 (99.2)</td><td align="left" rowspan="1" colspan="1">1807 (99.0)</td><td align="left" rowspan="1" colspan="1">1568 (98.9)</td><td align="left" rowspan="1" colspan="1">78 (97.5)</td><td align="left" rowspan="1" colspan="1">0.508</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Heart rate recovery at 1 min, bpm<xref rid="jah310936-note-0009" ref-type="table-fn">*</xref>
+</td><td align="left" rowspan="1" colspan="1">24.1 (7.6)</td><td align="left" rowspan="1" colspan="1">24.8 (7.7)</td><td align="left" rowspan="1" colspan="1">24.0 (7.3)</td><td align="left" rowspan="1" colspan="1">24.1 (7.9)</td><td align="left" rowspan="1" colspan="1">21.9 (7.3)</td><td align="left" rowspan="1" colspan="1">0.061</td></tr></tbody></table><table-wrap-foot id="jah310936-ntgp-0003"><fn id="jah310936-note-0009"><label>*</label><p>Mean±SD.</p></fn><fn id="jah310936-note-0010"><label>
+<sup>†</sup>
+</label><p>N (%).</p></fn><fn id="jah310936-note-0011"><label>
+<sup>‡</sup>
+</label><p>The numbers missing are: race 44, diabetes 31, hypertension 45, anxiety 69, depression 49, unexplained exertional dyspnea 10, race/ethnicity 44, physical activity volume 214, moderate+vigorous physical activity 214, heart rate recovery at 1 min 7).</p></fn><fn id="jah310936-note-0012"><label>
+<sup>δ</sup>
+</label><p>Median (interquartile range).</p></fn></table-wrap-foot></table-wrap></sec><sec id="jah310936-sec-0021"><title>Change in <styled-content style="fixed-case" toggle="no">CRF</styled-content>
+</title><p>The median time between CRF assessments was 1.5 years (IQR, 1.1–2.1), with medians of 1.3 for prepandemic, 1.6 for contemporary uninfected, 1.4 for recovered, and 1.5 for long COVID, respectively. For those with COVID, the time from COVID to first post‐COVID treadmill test was 8.6 months (IQR, 4.8–14.1). All 4 groups exhibited statistically significant but minor decreases in mean CRF (~0.2 METs; Figure <xref rid="jah310936-fig-0002" ref-type="fig">2</xref>). Adjusted for age, sex, BMI, smoking, and facemask use during the test, there was a greater decline in CRF among people with COVID versus without COVID (−0.07 METs greater decrease [95% CI, ‐0.13 to −0.01]; <italic toggle="yes">P</italic>=0.02; Table <xref rid="jah310936-supitem-0001" ref-type="supplementary-material">S1</xref>). In the 4‐group comparison (Table <xref rid="jah310936-tbl-0003" ref-type="table">3</xref>), the individual group differences of interest were long COVID compared with recovered: −0.01 METs (95% CI, −0.21 to 0.20; <italic toggle="yes">P</italic>=0.94), long COVID compared with uninfected: −0.09 METs (95% CI, −0.29 to 0.12; <italic toggle="yes">P</italic>=0.41), and long COVID compared with prepandemic: −0.04 (95% CI, −0.26 to 0.17; <italic toggle="yes">P</italic>=0.70). The group × time interaction was not statistically significant (<italic toggle="yes">P</italic>=0.10).</p><table-wrap position="float" id="jah310936-tbl-0003" content-type="Table" orientation="portrait"><label>Table 3</label><caption><p>Adjusted Cardiorespiratory Fitness Estimates Before and After COVID by COVID Groups<xref rid="jah310936-note-0014" ref-type="table-fn">*</xref>
+</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><thead><tr style="border-bottom:solid 1px #000000"><th align="left" rowspan="2" colspan="1"/><th align="left" colspan="4" rowspan="1">Prepandemic</th><th align="left" colspan="4" rowspan="1">Uninfected</th><th align="left" colspan="4" rowspan="1">Recovered</th><th align="left" colspan="4" rowspan="1">Long COVID</th></tr><tr style="border-bottom:solid 1px #000000"><th align="left" rowspan="1" colspan="1">Baseline</th><th align="left" rowspan="1" colspan="1">Follow‐up</th><th align="left" rowspan="1" colspan="1">Follow‐up—Baseline</th><th align="left" rowspan="1" colspan="1">
+<italic toggle="yes">P</italic> value</th><th align="left" rowspan="1" colspan="1">Base‐line</th><th align="left" rowspan="1" colspan="1">Follow‐up</th><th align="left" rowspan="1" colspan="1">Follow‐up—Baseline</th><th align="left" rowspan="1" colspan="1">
+<italic toggle="yes">P</italic> value</th><th align="left" rowspan="1" colspan="1">Base‐line</th><th align="left" rowspan="1" colspan="1">Follow‐up</th><th align="left" rowspan="1" colspan="1">Follow‐up—Baseline</th><th align="left" rowspan="1" colspan="1">
+<italic toggle="yes">P</italic> value</th><th align="left" rowspan="1" colspan="1">Base‐line</th><th align="left" rowspan="1" colspan="1">Follow‐up</th><th align="left" rowspan="1" colspan="1">Follow‐up—Baseline</th><th align="left" rowspan="1" colspan="1">
+<italic toggle="yes">P</italic> value</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">Metabolic equivalents estimate (95% CI)</td><td align="left" rowspan="1" colspan="1">11.0 (10.9, 11.2)</td><td align="left" rowspan="1" colspan="1">10.8 (10.7, 10.9)</td><td align="left" rowspan="1" colspan="1">−0.2 (−0.3, −0.2)</td><td align="left" rowspan="1" colspan="1">&lt;0.001</td><td align="left" rowspan="1" colspan="1">10.7 (10.6, 10.8)</td><td align="left" rowspan="1" colspan="1">10.5 (10.4, 10.6)</td><td align="left" rowspan="1" colspan="1">−0.2 (−0.2, −0.1)</td><td align="left" rowspan="1" colspan="1">&lt;0.001</td><td align="left" rowspan="1" colspan="1">10.9 (10.8, 11.0)</td><td align="left" rowspan="1" colspan="1">10.6 (10.5, 10.7)</td><td align="left" rowspan="1" colspan="1">−0.3 (−0.3, −0.2)</td><td align="left" rowspan="1" colspan="1">&lt;0.001</td><td align="left" rowspan="1" colspan="1">10.4 (10.0, 10.7)</td><td align="left" rowspan="1" colspan="1">10.1 (9.7, 10.5)</td><td align="left" rowspan="1" colspan="1">−0.3 (−0.5, −0.1)</td><td align="left" rowspan="1" colspan="1">0.010</td></tr><tr><td align="left" rowspan="1" colspan="1">Difference Compared with long COVID (95% CI)</td><td align="left" colspan="3" rowspan="1">−0.04 (−0.26 to 0.17)</td><td align="left" rowspan="1" colspan="1">0.70</td><td align="left" colspan="3" rowspan="1">−0.09 (−0.29 to 0.12)</td><td align="left" rowspan="1" colspan="1">0.41</td><td align="left" colspan="3" rowspan="1">−0.01 (−0.21 to 0.20)</td><td align="left" rowspan="1" colspan="1">0.94</td><td align="left" colspan="4" rowspan="1">
+<p>Reference</p>
+<p>Group×time interaction, <italic toggle="yes">P</italic>=0.10</p>
+</td></tr></tbody></table><table-wrap-foot id="jah310936-ntgp-0004"><fn id="jah310936-note-0013"><p>Prepandemic is defined as no self‐reported COVID and first follow‐up treadmill test completed before 2020. Uninfected is defined as no self‐reported COVID at any visit after the survey was available in January 2021 and follow up test after January 2020. Recovered is defined as self‐reported COVID with no persistent symptoms beyond 3 months. Long COVID is defined as self‐reported COVID with persistent symptoms greater than 3 months, consistent with the World Health Organization definition.</p></fn><fn id="jah310936-note-0014"><label>*</label><p>Adjusted for age, sex, current smoking, body mass index, and mask use during the exercise test.</p></fn></table-wrap-foot></table-wrap></sec><sec id="jah310936-sec-0022"><title>Sensitivity Analyses</title><p>We considered other factors that might affect our findings: (1) results were similar in a 3‐factor exposure combining all uninfected participants; (2) we adjusted for concurrently reported physical activity volume in the subgroup of 3757 participants with these data; (3) we refit the main model after excluding 509 treadmill tests during which the participant wore a facemask; (4) we refit the main model after excluding 268 current smokers; and (5) we excluded those whose only post‐COVID visit was within 3 months of COVID (n=137). In all these models, the results were consistent with our main findings: CRF decreased 0.1 to 0.3 METs, with nonsignificant differences between long COVID and the other groups.</p><p>We also considered the effect of selection bias from restricting our study sample to those with post‐COVID exercise tests. Adding back those excluded for not having a post‐COVID treadmill test (n=456) to the study sample, people who reported COVID were more likely to not have treadmill test data (14.0% long COVID; 12.1% recovered; 8.8% uninfected; <italic toggle="yes">P</italic>&lt;0.001), but there was not a significant difference between long COVID and recovered (<italic toggle="yes">P</italic>=0.59). Mean CRF at the pre‐COVID visit among those without repeat treadmill results were similar to those who participated in the treadmill test (8.9, 9.9, and 9.8 METs) as were median self‐reported physical activity (788, 1190, and 1040 MET‐minutes/week) among those with long COVID, recovered, and uninfected, respectively. Physical activity at the first post‐COVID visit among those without treadmill data did not show that individuals with reduced physical activity preferentially were not tested (1118, 1185, and 1043 MET‐minutes/week among long COVID, recovered, and uninfected, respectively; <italic toggle="yes">P</italic>=0.26).</p><p>Finally, we checked the validity of our classification of participants as having long COVID using the “Unexplained shortness of breath with physical activity” question that was included before and after the COVID questionnaire was added. Unexplained shortness of breath with physical activity was similar pre‐COVID (3.8% long COVID, 2.7% recovered, 3.0% uninfected, and 3.3% prepandemic; <italic toggle="yes">P</italic>=0.86), but at follow‐up was more prevalent among those with long COVID (5.0% versus 1.0% recovered, 1.1% uninfected, 2.1% prepandemic; <italic toggle="yes">P</italic>=0.026).</p></sec></sec><sec sec-type="discussion" id="jah310936-sec-0023"><title>DISCUSSION</title><p>Overall, we found that self‐reported COVID is associated with a small but statistically significantly greater decline in CRF compared with those without known COVID, including both contemporary (uninfected) and historical (prepandemic) comparators. We did not find evidence for a greater decline in average CRF among people with long COVID compared with recovered, uninfected, or prepandemic participants. In contrast, pre‐COVID baseline data suggest that lower measured CRF and lower levels of self‐reported physical activity before COVID may be associated with subsequent long COVID.</p><p>Our study is unique and benefits from (1) the inclusion of both before and after COVID clinical characteristics, physical activity, and fitness assessments; (2) generally healthy middle‐aged cohort who largely experienced mild COVID; and (3) contemporary and prepandemic uninfected participants. Most prior studies on CRF after COVID predominantly included individuals hospitalized with severe COVID,<xref rid="jah310936-bib-0003" ref-type="bibr">
+<sup>3</sup>
+</xref> where confounding from comorbidities and contributions from the post‐intensive care unit syndrome or posthospitalization deconditioning contribute to observed differences in CRF.<xref rid="jah310936-bib-0014" ref-type="bibr">
+<sup>14</sup>
+</xref> Observational cohort studies, especially those that recruit from long COVID clinics, may overestimate effects if those with severe long COVID preferentially participate. Finally, most published studies of post‐COVID CRF lack assessments of pre‐COVID CRF.<xref rid="jah310936-bib-0015" ref-type="bibr">
+<sup>15</sup>
+</xref>, <xref rid="jah310936-bib-0016" ref-type="bibr">
+<sup>16</sup>
+</xref> With those limitations, the existing literature mostly suggests CRF is lower among people with long COVID compared with people who have recovered when assessed cross‐sectionally.</p><p>Our study makes the novel finding that lower CRF post‐COVID is primarily attributable to lower pre‐COVID CRF in a middle‐aged, healthy population with mostly mild COVID. To our knowledge, only 4 published studies have pre‐COVID measurements of CRF and consisted of highly select populations. One study included 21 division‐1 soccer players but assessed them only 60 days after recovery,<xref rid="jah310936-bib-0017" ref-type="bibr">
+<sup>17</sup>
+</xref> and a second included 49 endurance athletes but excluded those with persistent symptoms<xref rid="jah310936-bib-0018" ref-type="bibr">
+<sup>18</sup>
+</xref>; both demonstrated small reductions in CRF. A study of 103 firefighters found a decrease of 0.7 METs at an average 110 days after mild to moderate COVID, but they estimated that CRF returned to normal around 300 days post infection.<xref rid="jah310936-bib-0019" ref-type="bibr">
+<sup>19</sup>
+</xref> Finally, a study of 127 health care workers found a decrease in CRF of ~1 MET among those with COVID‐19 about 1 year after illness versus ~0.2 METs among controls.<xref rid="jah310936-bib-0020" ref-type="bibr">
+<sup>20</sup>
+</xref> These studies were too small and homogeneous to identify that low pre‐COVID CRF may be a risk factor for long COVID.</p><p>Our findings also suggest that lower pre‐COVID fitness could be a risk factor for development of long COVID. This is consistent with several prior studies suggesting that higher levels of self‐reported physical activity may be associated with lower risk of severe COVID<xref rid="jah310936-bib-0021" ref-type="bibr">
+<sup>21</sup>
+</xref>, <xref rid="jah310936-bib-0022" ref-type="bibr">
+<sup>22</sup>
+</xref>, <xref rid="jah310936-bib-0023" ref-type="bibr">
+<sup>23</sup>
+</xref> and possibly long COVID.<xref rid="jah310936-bib-0024" ref-type="bibr">
+<sup>24</sup>
+</xref> This finding complements prior epidemiologic research that did not include functional assessments of pre‐COVID fitness.<xref rid="jah310936-bib-0025" ref-type="bibr">
+<sup>25</sup>
+</xref> In our study, the median amount of physical activity done pre‐COVID among those who developed long COVID is still well above recommended guidelines for physical activity. Therefore, our study also provides evidence that long COVID occurs among people who meet guidelines for regular physical activity, not only those who are sedentary.</p><p>Our results regarding lower physical activity among those with long COVID suggest that differences in physical activity post‐COVID reported in prior literature may be at least partially explained by lower physical activity pre‐COVID among those who developed long COVID. Other research has noted reductions in physical activity among people with long COVID, although these cross‐sectional surveys were conducted among people with long COVID.<xref rid="jah310936-bib-0026" ref-type="bibr">
+<sup>26</sup>
+</xref>, <xref rid="jah310936-bib-0027" ref-type="bibr">
+<sup>27</sup>
+</xref>, <xref rid="jah310936-bib-0028" ref-type="bibr">
+<sup>28</sup>
+</xref> One study with data collected before COVID found a small decrease in physical activity post‐COVID among those with long COVID.<xref rid="jah310936-bib-0029" ref-type="bibr">
+<sup>29</sup>
+</xref> Our study, which also included measures obtained before infection, contradicts these findings and suggests that average self‐reported physical activity after COVID is similar to pre‐COVID, even among those with long COVID included in our study.</p><p>Our findings suggest that severely debilitating long COVID is uncommon in the included study population with fewer among those with long COVID in the “lowest fit” category post‐COVID compared with pre‐COVID (13% post versus 19% pre). This may be partially from selection effects as the current study is restricted to individuals who chose to pursue preventive health care and exercise testing before and after COVID. Thus, our study may include few individuals who have experienced a profound decrease in functional status and CRF, especially those with debilitating long COVID, such as those whose symptoms overlap with myalgic encephalitis/chronic fatigue syndrome.<xref rid="jah310936-bib-0030" ref-type="bibr">
+<sup>30</sup>
+</xref>, <xref rid="jah310936-bib-0031" ref-type="bibr">
+<sup>31</sup>
+</xref> Furthermore, individuals diagnosed with this syndrome may achieve their predicted level of CRF on a single maximal exercise test.<xref rid="jah310936-bib-0032" ref-type="bibr">
+<sup>32</sup>
+</xref>, <xref rid="jah310936-bib-0033" ref-type="bibr">
+<sup>33</sup>
+</xref> Although those with postexertional malaise (not assessed in this study) may have normal CRF on a single test, they would be expected to have a reduction in physical activity. Contrary to these expectations, our results show that this cohort of healthy, middle‐aged participants maintained pre‐COVID levels of physical activity, even among those with long COVID.</p><sec id="jah310936-sec-0024"><title>Limitations</title><p>As an observational study conducted within a private clinic setting, there are several limitations. The first is selection bias related to requiring at least 2 treadmill tests, although pre‐COVID assessments and physical activity data suggest that our results were not likely to be strongly influenced by those who did not have follow‐up treadmill tests. Nonetheless, those with debilitating long COVID or who did not seek preventive care before COVID may also be excluded from our sample. The use of estimated workload, though highly correlated with measured peak oxygen consumption with a metabolic cart,<xref rid="jah310936-bib-0010" ref-type="bibr">
+<sup>10</sup>
+</xref>, <xref rid="jah310936-bib-0011" ref-type="bibr">
+<sup>11</sup>
+</xref> may introduce measurement error especially without contemporary calibration within the CCLS. We do not have precise dates available for vaccination, which were collected only with the year of vaccination; vaccination may be associated with lower risk and severity of long COVID.<xref rid="jah310936-bib-0034" ref-type="bibr">
+<sup>34</sup>
+</xref> The study population is primarily White with access to preventive care, thereby not representative of racial and ethnic minority populations, which have been disproportionately affected by COVID.<xref rid="jah310936-bib-0035" ref-type="bibr">
+<sup>35</sup>
+</xref> COVID status was ascertained by self‐report and therefore may be misclassified among those who had asymptomatic or minimally symptomatic infections who did not undergo testing. Long COVID status may be misclassified among those whose symptoms were not included in the questionnaire. Additionally, the Cooper questionnaire does not specifically have questions regarding postexertional malaise or the diagnostic criteria for myalgic encephalitis/chronic fatigue syndrome.</p></sec></sec><sec sec-type="conclusions" id="jah310936-sec-0025"><title>CONCLUSIONS</title><p>In this cohort of community‐dwelling, apparently healthy adults, self‐reported history of COVID (mostly mild not requiring hospitalization) was associated with a slightly greater decrease in CRF over time compared with no history of COVID. We did not find evidence for a significantly greater decrease in mean CRF among people with long COVID. Those who developed long COVID had lower pre‐COVID CRF. Our study suggests that most individuals with mild long COVID maintain similar levels of CRF and physical activity as their pre‐COVID baseline. Encouraging all individuals to engage in routine physical activity to achieve moderate to high fitness levels may help prevent long COVID. Future longitudinal research will clarify if differences in CRF by COVID status emerge over longer follow‐up.</p></sec><sec id="jah310936-sec-0027"><title>Sources of Funding</title><p>Dr Durstenfeld was funded by National Heart, Lung, and Blood Institute K12 HL143961 and is now funded by K23 HL172699. The contents are solely the responsibility of the authors and do not necessarily represent the official views of the National Institutes of Health.</p></sec><sec sec-type="COI-statement" id="jah310936-sec-0028"><title>Disclosures</title><p>Dr Durstenfeld has received consulting fees from Merck outside of the submitted work. Dr Berry has received consulting fees from Roche Diagnostics, Astra Zeneca, and the Cooper Institute unrelated to this study. Dr Peluso has served as a consultant for AstraZeneca and Gilead Sciences, outside the submitted work. The remaining authors have no disclosures to report.</p></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material id="jah310936-supitem-0001" position="float" content-type="local-data" orientation="portrait"><caption><p>Table S1</p><p>Figure S1</p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="JAH3-14-e040629-s001.pdf" position="float" orientation="portrait"/></supplementary-material></sec></body><back><ack id="jah310936-sec-0026"><title>Acknowledgments</title><p>We thank Dr Kenneth H. Cooper, MD, MPH, for establishing the Cooper Center Longitudinal Study, the Cooper Clinic physicians and staff for data collection, and the Cooper Institute for data maintenance. We are also grateful to the CCLS participants.</p></ack><ref-list content-type="cited-references" id="jah310936-bibl-0001"><title>References</title><ref id="jah310936-bib-0001"><label>1</label><mixed-citation publication-type="journal" id="jah310936-cit-0001">
+<string-name name-style="western">
+<surname>Laukkanen</surname>
+<given-names>JA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Isiozor</surname>
+<given-names>NM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kunutsor</surname>
+<given-names>SK</given-names>
+</string-name>. <article-title>Objectively assessed cardiorespiratory fitness and all‐cause mortality risk: an updated meta‐analysis of 37 cohort studies involving 2,258,029 participants</article-title>. <source>Mayo Clin Proc</source>. <year>2022</year>;<volume>97</volume>:<fpage>1054</fpage>–<lpage>1073</lpage>. doi: <pub-id pub-id-type="doi">10.1016/j.mayocp.2022.02.029</pub-id>
+<pub-id pub-id-type="pmid">35562197</pub-id>
+</mixed-citation></ref><ref id="jah310936-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="jah310936-cit-0002">
+<string-name name-style="western">
+<surname>Griffin</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ekblom‐Bak</surname>
+<given-names>E</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Arvidsson</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Paulsson</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Börjesson</surname>
+<given-names>M</given-names>
+</string-name>. <article-title>Maintaining or increasing cardiorespiratory fitness is associated with reduced hospital admission rate</article-title>. <source>Eur J Prev Cardiol</source>. <year>2023</year>;<volume>31</volume>:<fpage>436</fpage>–<lpage>444</lpage>. doi: <pub-id pub-id-type="doi">10.1093/eurjpc/zwad367</pub-id>
+<pub-id pub-id-type="pmid">38019572</pub-id></mixed-citation></ref><ref id="jah310936-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="jah310936-cit-0003">
+<string-name name-style="western">
+<surname>Durstenfeld</surname>
+<given-names>MS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sun</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tahir</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Peluso</surname>
+<given-names>MJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Deeks</surname>
+<given-names>SG</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Aras</surname>
+<given-names>MA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Grandis</surname>
+<given-names>DJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Long</surname>
+<given-names>CS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Beatty</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hsue</surname>
+<given-names>PY</given-names>
+</string-name>. <article-title>Use of cardiopulmonary exercise testing to evaluate Long COVID‐19 symptoms in adults: a systematic review and meta‐analysis</article-title>. <source>JAMA Netw Open</source>. <year>2022</year>;<volume>5</volume>:<elocation-id>e2236057</elocation-id>. doi: <pub-id pub-id-type="doi">10.1001/jamanetworkopen.2022.36057</pub-id>
+<pub-id pub-id-type="pmid">36223120</pub-id>
+<pub-id pub-id-type="pmcid">PMC9557896</pub-id></mixed-citation></ref><ref id="jah310936-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="jah310936-cit-0004">
+<string-name name-style="western">
+<surname>Chuatrakoon</surname>
+<given-names>B</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Konghakote</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sa‐Nguanmoo</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Nantakool</surname>
+<given-names>S</given-names>
+</string-name>. <article-title>Long‐term impact of SARS‐CoV‐2 infection on cardiorespiratory fitness: a meta‐analysis</article-title>. <source>Front Public Health</source>. <year>2023</year>;<volume>11</volume>:<elocation-id>1215486</elocation-id>. doi: <pub-id pub-id-type="doi">10.3389/fpubh.2023.1215486</pub-id>
+<pub-id pub-id-type="pmid">37920575</pub-id>
+<pub-id pub-id-type="pmcid">PMC10619755</pub-id></mixed-citation></ref><ref id="jah310936-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="jah310936-cit-0005">
+<string-name name-style="western">
+<surname>Shuval</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Finley</surname>
+<given-names>CE</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chartier</surname>
+<given-names>KG</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Balasubramanian</surname>
+<given-names>BA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gabriel</surname>
+<given-names>KP</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Barlow</surname>
+<given-names>CE</given-names>
+</string-name>. <article-title>Cardiorespiratory fitness, alcohol intake, and metabolic syndrome incidence in men</article-title>. <source>Med Sci Sports Exerc</source>. <year>2012</year>;<volume>44</volume>:<fpage>2125</fpage>–<lpage>2131</lpage>. doi: <pub-id pub-id-type="doi">10.1249/MSS.0b013e3182640c4e</pub-id>
+<pub-id pub-id-type="pmid">22874534</pub-id>
+<pub-id pub-id-type="pmcid">PMC3475754</pub-id></mixed-citation></ref><ref id="jah310936-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="jah310936-cit-0006">
+<string-name name-style="western">
+<surname>del Rio</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Collins</surname>
+<given-names>LF</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Malani</surname>
+<given-names>P</given-names>
+</string-name>. <article-title>Long‐term health consequences of COVID‐19</article-title>. <source>JAMA</source>. <year>2020</year>;<volume>324</volume>:<fpage>1723</fpage>–<lpage>1724</lpage>. doi: <pub-id pub-id-type="doi">10.1001/jama.2020.19719</pub-id>
+<pub-id pub-id-type="pmid">33031513</pub-id>
+<pub-id pub-id-type="pmcid">PMC8019677</pub-id></mixed-citation></ref><ref id="jah310936-bib-0007"><label>7</label><mixed-citation publication-type="book" id="jah310936-cit-0007">
+<string-name name-style="western">
+<surname>Soriano</surname>
+<given-names>JM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Diaz</surname>
+<given-names>JV</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Murthy</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Relan</surname>
+<given-names>P</given-names>
+</string-name>. <source>A Clinical Case Definition of Post COVID‐19 Condition by a Delphi Consensus</source>. <publisher-name>Organization WH</publisher-name>; <year>2021</year>. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://who/2019-nCoV/Post_COVID-19_condition/Clinical_case_definition/2021.1" ext-link-type="uri">WHO/2019‐nCoV/Post_COVID‐19_condition/Clinical_case_definition/2021.1</ext-link>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/S1473-3099(21)00703-9</pub-id><pub-id pub-id-type="pmcid">PMC8691845</pub-id><pub-id pub-id-type="pmid">34951953</pub-id></mixed-citation></ref><ref id="jah310936-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="jah310936-cit-0008">
+<string-name name-style="western">
+<surname>Balke</surname>
+<given-names>B</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ware</surname>
+<given-names>RW</given-names>
+</string-name>. <article-title>An experimental study of physical fitness of air force personnel</article-title>. <source>US Armed Forces Med J</source>. <year>1959</year>;<volume>10</volume>:<fpage>675</fpage>–<lpage>688</lpage>.<pub-id pub-id-type="pmid">13659732</pub-id></mixed-citation></ref><ref id="jah310936-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="jah310936-cit-0009">
+<string-name name-style="western">
+<surname>Willis</surname>
+<given-names>BL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Morrow</surname>
+<given-names>JR</given-names>
+<suffix>Jr</suffix>
+</string-name>, <string-name name-style="western">
+<surname>Jackson</surname>
+<given-names>AW</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Defina</surname>
+<given-names>LF</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cooper</surname>
+<given-names>KH</given-names>
+</string-name>. <article-title>Secular change in cardiorespiratory fitness of men: Cooper Center longitudinal study</article-title>. <source>Med Sci Sports Exerc</source>. <year>2011</year>;<volume>43</volume>:<fpage>2134</fpage>–<lpage>2139</lpage>. doi: <pub-id pub-id-type="doi">10.1249/MSS.0b013e31821c00a7</pub-id>
+<pub-id pub-id-type="pmid">21448076</pub-id>
+</mixed-citation></ref><ref id="jah310936-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="jah310936-cit-0010">
+<string-name name-style="western">
+<surname>Pollock</surname>
+<given-names>ML</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bohannon</surname>
+<given-names>RL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cooper</surname>
+<given-names>KH</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ayres</surname>
+<given-names>JJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ward</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>White</surname>
+<given-names>SR</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Linnerud</surname>
+<given-names>AC</given-names>
+</string-name>. <article-title>A comparative analysis of four protocols for maximal treadmill stress testing</article-title>. <source>Am Heart J</source>. <year>1976</year>;<volume>92</volume>:<fpage>39</fpage>–<lpage>46</lpage>. doi: <pub-id pub-id-type="doi">10.1016/s0002-8703(76)80401-2</pub-id>
+<pub-id pub-id-type="pmid">961576</pub-id>
+</mixed-citation></ref><ref id="jah310936-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="jah310936-cit-0011">
+<string-name name-style="western">
+<surname>Pollock</surname>
+<given-names>ML</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Foster</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Schmidt</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hellman</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Linnerud</surname>
+<given-names>AC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ward</surname>
+<given-names>A</given-names>
+</string-name>. <article-title>Comparative analysis of physiologic responses to three different maximal graded exercise test protocols in healthy women</article-title>. <source>Am Heart J</source>. <year>1982</year>;<volume>103</volume>:<fpage>363</fpage>–<lpage>373</lpage>. doi: <pub-id pub-id-type="doi">10.1016/0002-8703(82)90275-7</pub-id>
+<pub-id pub-id-type="pmid">7064770</pub-id>
+</mixed-citation></ref><ref id="jah310936-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="jah310936-cit-0012">
+<string-name name-style="western">
+<surname>DeFina</surname>
+<given-names>LF</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Radford</surname>
+<given-names>NB</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Barlow</surname>
+<given-names>CE</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Willis</surname>
+<given-names>BL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Leonard</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Haskell</surname>
+<given-names>WL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Farrell</surname>
+<given-names>SW</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Pavlovic</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Abel</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Berry</surname>
+<given-names>JD</given-names>
+</string-name>, et al. <article-title>Association of all‐cause and cardiovascular mortality with high levels of physical activity and concurrent coronary artery calcification</article-title>. <source>JAMA Cardiol</source>. <year>2019</year>;<volume>4</volume>:<fpage>174</fpage>–<lpage>181</lpage>. doi: <pub-id pub-id-type="doi">10.1001/jamacardio.2018.4628</pub-id>
+<pub-id pub-id-type="pmid">30698608</pub-id>
+<pub-id pub-id-type="pmcid">PMC6439619</pub-id></mixed-citation></ref><ref id="jah310936-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="jah310936-cit-0013">
+<string-name name-style="western">
+<surname>Ainsworth</surname>
+<given-names>BE</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Haskell</surname>
+<given-names>WL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Herrmann</surname>
+<given-names>SD</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Meckes</surname>
+<given-names>N</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bassett</surname>
+<given-names>DR</given-names>
+<suffix>Jr</suffix>
+</string-name>, <string-name name-style="western">
+<surname>Tudor‐Locke</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Greer</surname>
+<given-names>JL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Vezina</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Whitt‐Glover</surname>
+<given-names>MC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Leon</surname>
+<given-names>AS</given-names>
+</string-name>. <article-title>2011 compendium of physical activities: a second update of codes and MET values</article-title>. <source>Med Sci Sports Exerc</source>. <year>2011</year>;<volume>43</volume>:<fpage>1575</fpage>–<lpage>1581</lpage>. doi: <pub-id pub-id-type="doi">10.1249/MSS.0b013e31821ece12</pub-id>
+<pub-id pub-id-type="pmid">21681120</pub-id>
+</mixed-citation></ref><ref id="jah310936-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="jah310936-cit-0014">
+<string-name name-style="western">
+<surname>Kimmig</surname>
+<given-names>LM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rako</surname>
+<given-names>ZA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ziegler</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Richter</surname>
+<given-names>MJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>G</surname>
+<given-names>SA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Roller</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Grimminger</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Vadasz</surname>
+<given-names>I</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Seeger</surname>
+<given-names>W</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Herold</surname>
+<given-names>S</given-names>
+</string-name>, et al. <article-title>Long‐term comprehensive cardiopulmonary phenotyping of COVID‐19</article-title>. <source>Respir Res</source>. <year>2022</year>;<volume>23</volume>:<fpage>263</fpage>. doi: <pub-id pub-id-type="doi">10.1186/s12931-022-02173-9</pub-id>
+<pub-id pub-id-type="pmid">36131349</pub-id>
+<pub-id pub-id-type="pmcid">PMC9491263</pub-id></mixed-citation></ref><ref id="jah310936-bib-0015"><label>15</label><mixed-citation publication-type="journal" id="jah310936-cit-0015">
+<string-name name-style="western">
+<surname>Margalit</surname>
+<given-names>I</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Yelin</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sagi</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rahat</surname>
+<given-names>MM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sheena</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mizrahi</surname>
+<given-names>N</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gordin</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Agmon</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Epstein</surname>
+<given-names>NK</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Atamna</surname>
+<given-names>A</given-names>
+</string-name>, et al. <article-title>Risk factors and multidimensional assessment of long coronavirus disease fatigue: a nested case‐control study</article-title>. <source>Clin Infect Dis</source>. <year>2022</year>;<volume>75</volume>:<fpage>1688</fpage>–<lpage>1697</lpage>. doi: <pub-id pub-id-type="doi">10.1093/cid/ciac283</pub-id>
+<pub-id pub-id-type="pmid">35403679</pub-id>
+<pub-id pub-id-type="pmcid">PMC9383780</pub-id></mixed-citation></ref><ref id="jah310936-bib-0016"><label>16</label><mixed-citation publication-type="journal" id="jah310936-cit-0016">
+<string-name name-style="western">
+<surname>Durstenfeld</surname>
+<given-names>MS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Peluso</surname>
+<given-names>MJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kaveti</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hill</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Li</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sander</surname>
+<given-names>E</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Swaminathan</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Arechiga</surname>
+<given-names>VM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lu</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Goldberg</surname>
+<given-names>SA</given-names>
+</string-name>, et al. <article-title>Reduced exercise capacity, chronotropic incompetence, and early systemic inflammation in cardiopulmonary phenotype long coronavirus disease 2019</article-title>. <source>J Infect Dis</source>. <year>2023</year>;<volume>228</volume>:<fpage>542</fpage>–<lpage>554</lpage>. doi: <pub-id pub-id-type="doi">10.1093/infdis/jiad131</pub-id>
+<pub-id pub-id-type="pmid">37166076</pub-id>
+<pub-id pub-id-type="pmcid">PMC10686699</pub-id></mixed-citation></ref><ref id="jah310936-bib-0017"><label>17</label><mixed-citation publication-type="journal" id="jah310936-cit-0017">
+<string-name name-style="western">
+<surname>Parpa</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Michaelides</surname>
+<given-names>M</given-names>
+</string-name>. <article-title>Aerobic capacity of professional soccer players before and after COVID‐19 infection</article-title>. <source>Sci Rep</source>. <year>2022</year>;<volume>12</volume>:<fpage>11850</fpage>. doi: <pub-id pub-id-type="doi">10.1038/s41598-022-16031-7</pub-id>
+<pub-id pub-id-type="pmid">35831351</pub-id>
+<pub-id pub-id-type="pmcid">PMC9279307</pub-id></mixed-citation></ref><ref id="jah310936-bib-0018"><label>18</label><mixed-citation publication-type="journal" id="jah310936-cit-0018">
+<string-name name-style="western">
+<surname>Sliz</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wiecha</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ulaszewska</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gasior</surname>
+<given-names>JS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lewandowski</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kasiak</surname>
+<given-names>PS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mamcarz</surname>
+<given-names>A</given-names>
+</string-name>. <article-title>COVID‐19 and athletes: endurance sport and activity resilience study‐CAESAR study</article-title>. <source>Front Physiol</source>. <year>2022</year>;<volume>13</volume>:<elocation-id>1078763</elocation-id>. doi: <pub-id pub-id-type="doi">10.3389/fphys.2022.1078763</pub-id>
+<pub-id pub-id-type="pmid">36589442</pub-id>
+<pub-id pub-id-type="pmcid">PMC9800893</pub-id></mixed-citation></ref><ref id="jah310936-bib-0019"><label>19</label><mixed-citation publication-type="journal" id="jah310936-cit-0019">
+<string-name name-style="western">
+<surname>D'Isabel</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Berny</surname>
+<given-names>LM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Frost</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Thongphok</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jack</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chaudhry</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Arena</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Smith</surname>
+<given-names>DL</given-names>
+</string-name>. <article-title>The effect of mild to moderate COVID‐19 infection on the cardiorespiratory fitness of firefighters</article-title>. <source>Front Public Health</source>. <year>2023</year>;<volume>11</volume>:<elocation-id>1308605</elocation-id>. doi: <pub-id pub-id-type="doi">10.3389/fpubh.2023.1308605</pub-id>
+<pub-id pub-id-type="pmid">38106889</pub-id>
+<pub-id pub-id-type="pmcid">PMC10724018</pub-id></mixed-citation></ref><ref id="jah310936-bib-0020"><label>20</label><mixed-citation publication-type="journal" id="jah310936-cit-0020">
+<string-name name-style="western">
+<surname>Stepanek</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Nakladalova</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sovova</surname>
+<given-names>E</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Stepanek</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Borikova</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sovova</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Moravcova</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ozana</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jelinek</surname>
+<given-names>L</given-names>
+</string-name>. <article-title>COVID‐19 reduces cardiorespiratory fitness even months after a mild to moderate acute phase: a retrospective cohort study</article-title>. <source>Infect Dis (Lond)</source>. <year>2023</year>;<volume>55</volume>:<fpage>684</fpage>–<lpage>693</lpage>. doi: <pub-id pub-id-type="doi">10.1080/23744235.2023.2228408</pub-id>
+<pub-id pub-id-type="pmid">37395125</pub-id>
+</mixed-citation></ref><ref id="jah310936-bib-0021"><label>21</label><mixed-citation publication-type="journal" id="jah310936-cit-0021">
+<string-name name-style="western">
+<surname>Hamer</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kivimaki</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gale</surname>
+<given-names>CR</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Batty</surname>
+<given-names>GD</given-names>
+</string-name>. <article-title>Lifestyle risk factors, inflammatory mechanisms, and COVID‐19 hospitalization: a community‐based cohort study of 387,109 adults in UK</article-title>. <source>Brain Behav Immun</source>. <year>2020</year>;<volume>87</volume>:<fpage>184</fpage>–<lpage>187</lpage>. doi: <pub-id pub-id-type="doi">10.1016/j.bbi.2020.05.059</pub-id>
+<pub-id pub-id-type="pmid">32454138</pub-id>
+<pub-id pub-id-type="pmcid">PMC7245300</pub-id></mixed-citation></ref><ref id="jah310936-bib-0022"><label>22</label><mixed-citation publication-type="journal" id="jah310936-cit-0022">
+<string-name name-style="western">
+<surname>Ekblom‐Bak</surname>
+<given-names>E</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Vaisanen</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ekblom</surname>
+<given-names>B</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Blom</surname>
+<given-names>V</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kallings</surname>
+<given-names>LV</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hemmingsson</surname>
+<given-names>E</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Andersson</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wallin</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Salier Eriksson</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Holmlund</surname>
+<given-names>T</given-names>
+</string-name>, et al. <article-title>Cardiorespiratory fitness and lifestyle on severe COVID‐19 risk in 279,455 adults: a case control study</article-title>. <source>Int J Behav Nutr Phys Act</source>. <year>2021</year>;<volume>18</volume>:<fpage>135</fpage>. doi: <pub-id pub-id-type="doi">10.1186/s12966-021-01198-5</pub-id>
+<pub-id pub-id-type="pmid">34666788</pub-id>
+<pub-id pub-id-type="pmcid">PMC8524225</pub-id></mixed-citation></ref><ref id="jah310936-bib-0023"><label>23</label><mixed-citation publication-type="journal" id="jah310936-cit-0023">
+<string-name name-style="western">
+<surname>Af Geijerstam</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mehlig</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Borjesson</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Robertson</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Nyberg</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Adiels</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rosengren</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Aberg</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lissner</surname>
+<given-names>L</given-names>
+</string-name>. <article-title>Fitness, strength and severity of COVID‐19: a prospective register study of 1 559 187 Swedish conscripts</article-title>. <source>BMJ Open</source>. <year>2021</year>;<volume>11</volume>:<elocation-id>e051316</elocation-id>. doi: <pub-id pub-id-type="doi">10.1136/bmjopen-2021-051316</pub-id>
+<pub-id pub-id-type="pmcid">PMC8260308</pub-id><pub-id pub-id-type="pmid">34226237</pub-id></mixed-citation></ref><ref id="jah310936-bib-0024"><label>24</label><mixed-citation publication-type="journal" id="jah310936-cit-0024">
+<string-name name-style="western">
+<surname>Feter</surname>
+<given-names>N</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Caputo</surname>
+<given-names>EL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Delpino</surname>
+<given-names>FM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Leite</surname>
+<given-names>JS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>da Silva</surname>
+<given-names>LS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>de Almeida Paz</surname>
+<given-names>I</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Santos Rocha</surname>
+<given-names>JQ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Vieira</surname>
+<given-names>YP</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Schröeder</surname>
+<given-names>N</given-names>
+</string-name>, <string-name name-style="western">
+<surname>da Silva</surname>
+<given-names>CN</given-names>
+</string-name>, et al. <article-title>Physical activity and long COVID: findings from the prospective study about mental and physical health in adults cohort</article-title>. <source>Public Health</source>. <year>2023</year>;<volume>220</volume>:<fpage>148</fpage>–<lpage>154</lpage>. doi: <pub-id pub-id-type="doi">10.1016/j.puhe.2023.05.011</pub-id>
+<pub-id pub-id-type="pmid">37320945</pub-id>
+<pub-id pub-id-type="pmcid">PMC10263464</pub-id></mixed-citation></ref><ref id="jah310936-bib-0025"><label>25</label><mixed-citation publication-type="journal" id="jah310936-cit-0025">
+<string-name name-style="western">
+<surname>Oelsner</surname>
+<given-names>EC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sun</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Balte</surname>
+<given-names>PP</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Allen</surname>
+<given-names>NB</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Andrews</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Carson</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cole</surname>
+<given-names>SA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Coresh</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Couper</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cushman</surname>
+<given-names>M</given-names>
+</string-name>, et al. <article-title>Epidemiologic features of recovery from SARS‐CoV‐2 infection</article-title>. <source>JAMA Netw Open</source>. <year>2024</year>;<volume>7</volume>:<elocation-id>e2417440</elocation-id>. doi: <pub-id pub-id-type="doi">10.1001/jamanetworkopen.2024.17440</pub-id>
+<pub-id pub-id-type="pmid">38884994</pub-id>
+<pub-id pub-id-type="pmcid">PMC11184459</pub-id></mixed-citation></ref><ref id="jah310936-bib-0026"><label>26</label><mixed-citation publication-type="journal" id="jah310936-cit-0026">
+<string-name name-style="western">
+<surname>Delbressine</surname>
+<given-names>JM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Machado</surname>
+<given-names>FVC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Goertz</surname>
+<given-names>YMJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Van Herck</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Meys</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Houben‐Wilke</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Burtin</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Franssen</surname>
+<given-names>FME</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Spies</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Vijlbrief</surname>
+<given-names>H</given-names>
+</string-name>, et al. <article-title>The impact of Post‐COVID‐19 syndrome on self‐reported physical activity</article-title>. <source>Int J Environ Res Public Health</source>. <year>2021</year>;<volume>18</volume>:<fpage>6017</fpage>. doi: <pub-id pub-id-type="doi">10.3390/ijerph18116017</pub-id>
+<pub-id pub-id-type="pmid">34205086</pub-id>
+<pub-id pub-id-type="pmcid">PMC8199934</pub-id></mixed-citation></ref><ref id="jah310936-bib-0027"><label>27</label><mixed-citation publication-type="journal" id="jah310936-cit-0027">
+<string-name name-style="western">
+<surname>Wright</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Astill</surname>
+<given-names>SL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sivan</surname>
+<given-names>M</given-names>
+</string-name>. <article-title>The relationship between physical activity and Long COVID: a cross‐sectional study</article-title>. <source>Int J Environ Res Public Health</source>. <year>2022</year>;<volume>19</volume>:<elocation-id>5093</elocation-id>. doi: <pub-id pub-id-type="doi">10.3390/ijerph19095093</pub-id>
+<pub-id pub-id-type="pmid">35564488</pub-id>
+<pub-id pub-id-type="pmcid">PMC9105041</pub-id></mixed-citation></ref><ref id="jah310936-bib-0028"><label>28</label><mixed-citation publication-type="journal" id="jah310936-cit-0028">
+<string-name name-style="western">
+<surname>Galluzzo</surname>
+<given-names>V</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zazzara</surname>
+<given-names>MB</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ciciarello</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tosato</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Martone</surname>
+<given-names>AM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Pais</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Savera</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Calvani</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Picca</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Marzetti</surname>
+<given-names>E</given-names>
+</string-name>, et al. <article-title>Inadequate physical activity is associated with worse physical function in a sample of COVID‐19 survivors with post‐acute symptoms</article-title>. <source>J Clin Med</source>. <year>2023</year>;<volume>12</volume>:<elocation-id>2517</elocation-id>. doi: <pub-id pub-id-type="doi">10.3390/jcm12072517</pub-id>
+<pub-id pub-id-type="pmid">37048602</pub-id>
+<pub-id pub-id-type="pmcid">PMC10095156</pub-id></mixed-citation></ref><ref id="jah310936-bib-0029"><label>29</label><mixed-citation publication-type="journal" id="jah310936-cit-0029">
+<string-name name-style="western">
+<surname>Durstenfeld</surname>
+<given-names>MS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Peluso</surname>
+<given-names>MJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Peyser</surname>
+<given-names>ND</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lin</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Knight</surname>
+<given-names>SJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Djibo</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Khatib</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kitzman</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>O'Brien</surname>
+<given-names>E</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Williams</surname>
+<given-names>N</given-names>
+</string-name>, et al. <article-title>Factors associated with Long COVID symptoms in an online cohort study</article-title>. <source>Open Forum Infect Dis</source>. <year>2023</year>;<volume>10</volume>:<elocation-id>ofad047</elocation-id>. doi: <pub-id pub-id-type="doi">10.1093/ofid/ofad047</pub-id>
+<pub-id pub-id-type="pmid">36846611</pub-id>
+<pub-id pub-id-type="pmcid">PMC9945931</pub-id></mixed-citation></ref><ref id="jah310936-bib-0030"><label>30</label><mixed-citation publication-type="journal" id="jah310936-cit-0030">
+<string-name name-style="western">
+<surname>Davis</surname>
+<given-names>HE</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Assaf</surname>
+<given-names>GS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>McCorkell</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wei</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Low</surname>
+<given-names>RJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Re'em</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Redfield</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Austin</surname>
+<given-names>JP</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Akrami</surname>
+<given-names>A</given-names>
+</string-name>. <article-title>Characterizing long COVID in an international cohort: 7 months of symptoms and their impact</article-title>. <source>EClinicalMedicine</source>. <year>2021</year>;<volume>38</volume>:<elocation-id>101019</elocation-id>. doi: <pub-id pub-id-type="doi">10.1016/j.eclinm.2021.101019</pub-id>
+<pub-id pub-id-type="pmid">34308300</pub-id>
+<pub-id pub-id-type="pmcid">PMC8280690</pub-id></mixed-citation></ref><ref id="jah310936-bib-0031"><label>31</label><mixed-citation publication-type="journal" id="jah310936-cit-0031">
+<string-name name-style="western">
+<surname>Joseph</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Singh</surname>
+<given-names>I</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Oliveira</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Capone</surname>
+<given-names>CA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mullen</surname>
+<given-names>MP</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cook</surname>
+<given-names>DB</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Stovall</surname>
+<given-names>MC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Squires</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Madsen</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Waxman</surname>
+<given-names>AB</given-names>
+</string-name>, et al. <article-title>Exercise pathophysiology in myalgic encephalomyelitis/chronic fatigue syndrome and postacute sequelae of SARS‐CoV‐2: more in common than not?</article-title>
+<source>Chest</source>. <year>2023</year>;<volume>164</volume>:<fpage>717</fpage>–<lpage>726</lpage>. doi: <pub-id pub-id-type="doi">10.1016/j.chest.2023.03.049</pub-id>
+<pub-id pub-id-type="pmid">37054777</pub-id>
+<pub-id pub-id-type="pmcid">PMC10088277</pub-id></mixed-citation></ref><ref id="jah310936-bib-0032"><label>32</label><mixed-citation publication-type="journal" id="jah310936-cit-0032">
+<string-name name-style="western">
+<surname>Cook</surname>
+<given-names>DB</given-names>
+</string-name>, <string-name name-style="western">
+<surname>VanRiper</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Dougherty</surname>
+<given-names>RJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lindheimer</surname>
+<given-names>JB</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Falvo</surname>
+<given-names>MJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chen</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lin</surname>
+<given-names>JS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Unger</surname>
+<given-names>ER</given-names>
+</string-name>; <collab collab-type="authors">Group MS</collab>
+. <article-title>Cardiopulmonary, metabolic, and perceptual responses during exercise in myalgic encephalomyelitis/chronic fatigue syndrome (ME/CFS): a multi‐site clinical assessment of ME/CFS (MCAM) sub‐study</article-title>. <source>PLoS One</source>. <year>2022</year>;<volume>17</volume>:<elocation-id>e0265315</elocation-id>. doi: <pub-id pub-id-type="doi">10.1371/journal.pone.0265315</pub-id>
+<pub-id pub-id-type="pmid">35290404</pub-id>
+<pub-id pub-id-type="pmcid">PMC8923458</pub-id></mixed-citation></ref><ref id="jah310936-bib-0033"><label>33</label><mixed-citation publication-type="journal" id="jah310936-cit-0033">
+<string-name name-style="western">
+<surname>Stevens</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Snell</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Stevens</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Keller</surname>
+<given-names>B</given-names>
+</string-name>, <string-name name-style="western">
+<surname>VanNess</surname>
+<given-names>JM</given-names>
+</string-name>. <article-title>Cardiopulmonary exercise test methodology for assessing exertion intolerance in Myalgic encephalomyelitis/chronic fatigue syndrome</article-title>. <source>Front Pediatr</source>. <year>2018</year>;<volume>6</volume>:<elocation-id>242</elocation-id>. doi: <pub-id pub-id-type="doi">10.3389/fped.2018.00242</pub-id>
+<pub-id pub-id-type="pmid">30234078</pub-id>
+<pub-id pub-id-type="pmcid">PMC6131594</pub-id></mixed-citation></ref><ref id="jah310936-bib-0034"><label>34</label><mixed-citation publication-type="journal" id="jah310936-cit-0034">
+<string-name name-style="western">
+<surname>Maier</surname>
+<given-names>HE</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kowalski‐Dobson</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Eckard</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gherasim</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Manthei</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Meyers</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Davis</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bakker</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lindsey</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chu</surname>
+<given-names>Z</given-names>
+</string-name>, et al. <article-title>Reduction in Long COVID symptoms and symptom severity in vaccinated compared to unvaccinated adults</article-title>. <source>Open Forum Infect Dis</source>. <year>2024</year>;<volume>11</volume>:<elocation-id>ofae039</elocation-id>. doi: <pub-id pub-id-type="doi">10.1093/ofid/ofae039</pub-id>
+<pub-id pub-id-type="pmid">38328496</pub-id>
+<pub-id pub-id-type="pmcid">PMC10847810</pub-id></mixed-citation></ref><ref id="jah310936-bib-0035"><label>35</label><mixed-citation publication-type="journal" id="jah310936-cit-0035">
+<string-name name-style="western">
+<surname>Tai</surname>
+<given-names>DBG</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sia</surname>
+<given-names>IG</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Doubeni</surname>
+<given-names>CA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wieland</surname>
+<given-names>ML</given-names>
+</string-name>. <article-title>Disproportionate impact of COVID‐19 on racial and ethnic minority groups in the United States: a 2021 update</article-title>. <source>J Racial Ethn Health Disparities</source>. <year>2022</year>;<volume>9</volume>:<fpage>2334</fpage>–<lpage>2339</lpage>. doi: <pub-id pub-id-type="doi">10.1007/s40615-021-01170-w</pub-id>
+<pub-id pub-id-type="pmid">34647273</pub-id>
+<pub-id pub-id-type="pmcid">PMC8513546</pub-id></mixed-citation></ref></ref-list></back></article></pmc-articleset>

@@ -1,0 +1,50 @@
+{
+  "pmcid": "PMC12659154",
+  "pmid": "41299665",
+  "doi": "10.1186/s12964-025-02502-7",
+  "title": "Extracellular vesicles from long COVID patients promote RUNX2-mediated cellular stress via dysregulated miR-204 and p53 pathway activation.",
+  "abstract": "BACKGROUND: Subjects with Long COVID, also known as post-acute sequelae of SARS-CoV-2 infection (PASC), experience a wide range of symptoms, including fatigue and respiratory disturbances, affecting their quality of life. Despite the increasing prevalence of Long COVID, the underlying pathogenic mechanisms remain poorly understood. Extracellular vesicles (EVs) are known to be involved in various processes, such as tissue repair and the transmission of viral particles. However, the specific characteristics and functional roles of EVs derived- from patients with Long COVID (LC-EVs) are poorly characterized.\nMETHODS: To uncover systemic mechanisms underlying Long COVID, we performed a comprehensive characterization of patient-derived extracellular vesicles (EVs) via Nanoparticle Tracking analysis (NTA), Atomic Force Microscopy (AFM), Transmission Electron Microscope (TEM) and flow cytometry. These EVs were applied to lung cells, Mesenchymal Stem Cell (MSCs), Human Umbilical Vein Endothelial Cells (HUVECs) and Aortic Smooth Muscle Cells (ASMCs), revealing stress responses through SESN1, SESN2, and p53 activation. We further assessed mitochondrial respiration to evaluate metabolic dysfunction, and conducted targeted transfection experiments to dissect the molecular pathways involved, shedding light on EV-driven cellular reprogramming.\nRESULTS: Thus, we observed that Long COVID (LC) patients experienced breathlessness and leg discomfort during exertion. Our data highlighted that LC-EVs induce aberrant RUNX2 expression and activate the p53/p21 pathway in lung cells as well stress responses. Additionally, LC-EVs impair mitochondrial function and cellular adaptability under metabolic stress, reducing maximal respiration and ATP production at high cell densities. Protein interaction analysis showed RUNX2 involvement in key biological processes and post-transcriptional regulation by hsa-miR-204-5p was identified. Finally, LC-EVs also activated stress pathways and increased RUNX2, SESN, p53, and p21 levels in endothelial cells, aortic smooth muscle cells, and mesenchymal stem cells.\nCONCLUSIONS: In conclusions, these findings provide new insights into the role of extracellular vesicles in Long COVID, revealing their involvement in cellular stress and impaired mitochondrial function.",
+  "authors": [
+    "Luca Dalle Carbonare",
+    "Arianna Minoia",
+    "Sharazed Zouari",
+    "Michele Braggio",
+    "Mattia Cominacini",
+    "Salvatore Calogero Gaglio",
+    "Francesca Cristiana Piritore",
+    "Pamela Lorenzi",
+    "Mirko Meneghel",
+    "Kevin Dervishi",
+    "Andrea Corsi",
+    "Anna Pedrinolla",
+    "Gaia Giuriato",
+    "Alessandra Fiore",
+    "Adriana Celesia",
+    "Laura Guerricchio",
+    "Massimo Venturelli",
+    "Federico Schena",
+    "Massimo Donadelli",
+    "Monica Mottes",
+    "Maria Grazia Romanelli",
+    "Massimiliano Perduca",
+    "Daniele Guardavaccaro",
+    "Ernesto Crisafulli",
+    "Donato Zipeto",
+    "Lucio Barile",
+    "Maria Teresa Valenti"
+  ],
+  "journal": "Cell communication and signaling : CCS",
+  "pub_year": "2025",
+  "pub_month": "Nov",
+  "pub_day": "26",
+  "keywords": [
+    "Hsa-miR-204-5p",
+    "Long covid",
+    "Mesenchymal stem cells",
+    "RUNX2",
+    "SESN"
+  ],
+  "article_types": [
+    "Journal Article"
+  ]
+}

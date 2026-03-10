@@ -1,0 +1,745 @@
+<?xml version="1.0"  ?><!DOCTYPE pmc-articleset PUBLIC "-//NLM//DTD ARTICLE SET 2.0//EN" "https://dtd.nlm.nih.gov/ncbi/pmc/articleset/nlm-articleset-2.0.dtd"><pmc-articleset><article id="jmv70429" xml:lang="en" article-type="review-article" dtd-version="1.4"><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">J Med Virol</journal-id><journal-id journal-id-type="iso-abbrev">J Med Virol</journal-id><journal-id journal-id-type="pmc-domain-id">379</journal-id><journal-id journal-id-type="pmc-domain">blackwellopen</journal-id><journal-id journal-id-type="publisher-id">JMV</journal-id><journal-title-group><journal-title>Journal of Medical Virology</journal-title></journal-title-group><issn pub-type="ppub">0146-6615</issn><issn pub-type="epub">1096-9071</issn><custom-meta-group><custom-meta><meta-name>pmc-is-collection-domain</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-collection-title</meta-name><meta-value>Wiley Open Access Collection</meta-value></custom-meta></custom-meta-group></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC12143191</article-id><article-id pub-id-type="pmcid-ver">PMC12143191.1</article-id><article-id pub-id-type="pmcaid">12143191</article-id><article-id pub-id-type="pmcaiid">12143191</article-id><article-id pub-id-type="pmid">40476637</article-id><article-id pub-id-type="doi">10.1002/jmv.70429</article-id><article-id pub-id-type="publisher-id">JMV70429</article-id><article-version article-version-type="pmc-version">1</article-version><article-categories><subj-group subj-group-type="overline"><subject>Review</subject></subj-group><subj-group subj-group-type="heading"><subject>Review</subject></subj-group></article-categories><title-group><article-title>Long‐Term Sequelae of COVID‐19: A Systematic Review and Meta‐Analysis of Symptoms 3 Years Post‐SARS‐CoV‐2 Infection</article-title></title-group><contrib-group><contrib id="jmv70429-cr-0001" contrib-type="author" corresp="yes"><name name-style="western"><surname>Rahmati</surname><given-names initials="M">Masoud</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0003-4792-027X</contrib-id><xref rid="jmv70429-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="jmv70429-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref><xref rid="jmv70429-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref><xref rid="jmv70429-aff-0004" ref-type="aff">
+<sup>4</sup>
+</xref><address><email>masoud.rahmati@univ-amu.fr</email></address></contrib><contrib id="jmv70429-cr-0002" contrib-type="author" corresp="yes"><name name-style="western"><surname>Udeh</surname><given-names initials="R">Raphael</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-9476-6677</contrib-id><xref rid="jmv70429-aff-0005" ref-type="aff">
+<sup>5</sup>
+</xref><address><email>udehraphael@yahoo.com</email></address></contrib><contrib id="jmv70429-cr-0003" contrib-type="author"><name name-style="western"><surname>Kang</surname><given-names initials="J">Jiseung</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-3734-7572</contrib-id><xref rid="jmv70429-aff-0006" ref-type="aff">
+<sup>6</sup>
+</xref></contrib><contrib id="jmv70429-cr-0004" contrib-type="author"><name name-style="western"><surname>Dolja‐Gore</surname><given-names initials="X">Xenia</given-names></name><xref rid="jmv70429-aff-0007" ref-type="aff">
+<sup>7</sup>
+</xref><xref rid="jmv70429-aff-0008" ref-type="aff">
+<sup>8</sup>
+</xref></contrib><contrib id="jmv70429-cr-0005" contrib-type="author"><name name-style="western"><surname>McEvoy</surname><given-names initials="M">Mark</given-names></name><xref rid="jmv70429-aff-0007" ref-type="aff">
+<sup>7</sup>
+</xref><xref rid="jmv70429-aff-0008" ref-type="aff">
+<sup>8</sup>
+</xref><xref rid="jmv70429-aff-0009" ref-type="aff">
+<sup>9</sup>
+</xref></contrib><contrib id="jmv70429-cr-0006" contrib-type="author"><name name-style="western"><surname>Kazemi</surname><given-names initials="A">Abdolreza</given-names></name><xref rid="jmv70429-aff-0004" ref-type="aff">
+<sup>4</sup>
+</xref></contrib><contrib id="jmv70429-cr-0007" contrib-type="author"><name name-style="western"><surname>Soysal</surname><given-names initials="P">Pinar</given-names></name><xref rid="jmv70429-aff-0010" ref-type="aff">
+<sup>10</sup>
+</xref></contrib><contrib id="jmv70429-cr-0008" contrib-type="author"><name name-style="western"><surname>Smith</surname><given-names initials="L">Lee</given-names></name><xref rid="jmv70429-aff-0011" ref-type="aff">
+<sup>11</sup>
+</xref><xref rid="jmv70429-aff-0012" ref-type="aff">
+<sup>12</sup>
+</xref></contrib><contrib id="jmv70429-cr-0009" contrib-type="author"><name name-style="western"><surname>Kenna</surname><given-names initials="T">Tony</given-names></name><xref rid="jmv70429-aff-0013" ref-type="aff">
+<sup>13</sup>
+</xref></contrib><contrib id="jmv70429-cr-0010" contrib-type="author"><name name-style="western"><surname>Fond</surname><given-names initials="G">Guillaume</given-names></name><xref rid="jmv70429-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="jmv70429-aff-0004" ref-type="aff">
+<sup>4</sup>
+</xref></contrib><contrib id="jmv70429-cr-0011" contrib-type="author"><name name-style="western"><surname>Boussat</surname><given-names initials="B">Bastien</given-names></name><xref rid="jmv70429-aff-0014" ref-type="aff">
+<sup>14</sup>
+</xref></contrib><contrib id="jmv70429-cr-0012" contrib-type="author"><name name-style="western"><surname>Nguyen</surname><given-names initials="DC">Duy Cao</given-names></name><xref rid="jmv70429-aff-0015" ref-type="aff">
+<sup>15</sup>
+</xref></contrib><contrib id="jmv70429-cr-0013" contrib-type="author"><name name-style="western"><surname>Do</surname><given-names initials="H">Huyen</given-names></name><xref rid="jmv70429-aff-0016" ref-type="aff">
+<sup>16</sup>
+</xref><xref rid="jmv70429-aff-0017" ref-type="aff">
+<sup>17</sup>
+</xref></contrib><contrib id="jmv70429-cr-0014" contrib-type="author"><name name-style="western"><surname>Tran</surname><given-names initials="BX">Bach X.</given-names></name><xref rid="jmv70429-aff-0018" ref-type="aff">
+<sup>18</sup>
+</xref><xref rid="jmv70429-aff-0019" ref-type="aff">
+<sup>19</sup>
+</xref></contrib><contrib id="jmv70429-cr-0015" contrib-type="author"><name name-style="western"><surname>Veronese</surname><given-names initials="N">Nicola</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-9328-289X</contrib-id><xref rid="jmv70429-aff-0020" ref-type="aff">
+<sup>20</sup>
+</xref></contrib><contrib id="jmv70429-cr-0016" contrib-type="author" corresp="yes"><name name-style="western"><surname>Yon</surname><given-names initials="DK">Dong Keon</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0003-1628-9948</contrib-id><xref rid="jmv70429-aff-0021" ref-type="aff">
+<sup>21</sup>
+</xref><xref rid="jmv70429-aff-0022" ref-type="aff">
+<sup>22</sup>
+</xref><address><email>yonkkang@gmail.com</email></address></contrib><contrib id="jmv70429-cr-0017" contrib-type="author" corresp="yes"><name name-style="western"><surname>Boyer</surname><given-names initials="L">Laurent</given-names></name><xref rid="jmv70429-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="jmv70429-aff-0004" ref-type="aff">
+<sup>4</sup>
+</xref><address><email>laurent.boyer@ap-hm.fr</email></address></contrib></contrib-group><aff id="jmv70429-aff-0001">
+<label>
+<sup>1</sup>
+</label>
+<named-content content-type="organisation-division">CEReSS‐Health Service Research and Quality of Life Center</named-content>
+<institution>Assistance Publique‐Hopitaux de Marseille, Aix‐Marseille University</institution>
+<city>Marseille</city>
+<country country="FR">France</country>
+</aff><aff id="jmv70429-aff-0002">
+<label>
+<sup>2</sup>
+</label>
+<named-content content-type="organisation-division">Department of Physical Education and Sport Sciences, Faculty of Literature and Humanities</named-content>
+<institution>Vali‐E‐Asr University of Rafsanjan</institution>
+<city>Rafsanjan</city>
+<country country="IR">Iran</country>
+</aff><aff id="jmv70429-aff-0003">
+<label>
+<sup>3</sup>
+</label>
+<named-content content-type="organisation-division">Department of Physical Education and Sport Sciences, Faculty of Literature and Human Sciences</named-content>
+<institution>Lorestan University</institution>
+<city>Khoramabad</city>
+<country country="IR">Iran</country>
+</aff><aff id="jmv70429-aff-0004">
+<label>
+<sup>4</sup>
+</label>
+<institution>CRSMP, Center for Mental Health and Psychiatry Research – PACA</institution>
+<city>Marseille</city>
+<country country="FR">France</country>
+</aff><aff id="jmv70429-aff-0005">
+<label>
+<sup>5</sup>
+</label>
+<named-content content-type="organisation-division">School of Life Sciences, Faculty of Science</named-content>
+<institution>University of Technology Sydney</institution>
+<city>Ultimo</city>
+<named-content content-type="country-part">New South Wales</named-content>
+<country country="AU">Australia</country>
+</aff><aff id="jmv70429-aff-0006">
+<label>
+<sup>6</sup>
+</label>
+<named-content content-type="organisation-division">School of Health and Environmental Science</named-content>
+<institution>Korea University College of Health Science</institution>
+<city>Seoul</city>
+<country country="KR">South Korea</country>
+</aff><aff id="jmv70429-aff-0007">
+<label>
+<sup>7</sup>
+</label>
+<named-content content-type="organisation-division">School of Medicine and Public Health</named-content>
+<institution>University of Newcastle</institution>
+<city>NSW</city>
+<country country="AU">Australia</country>
+</aff><aff id="jmv70429-aff-0008">
+<label>
+<sup>8</sup>
+</label>
+<institution>Hunter Medical Research Institute</institution>
+<city>University of Newcastle</city>
+<named-content content-type="country-part">New South Wales</named-content>
+<country country="AU">Australia</country>
+</aff><aff id="jmv70429-aff-0009">
+<label>
+<sup>9</sup>
+</label>
+<named-content content-type="organisation-division">La Trobe Rural Health School, College of Science, Health and Engineering</named-content>
+<institution>La Trobe University</institution>
+<city>VIC</city>
+<country country="AU">Australia</country>
+</aff><aff id="jmv70429-aff-0010">
+<label>
+<sup>10</sup>
+</label>
+<named-content content-type="organisation-division">Department of Geriatric Medicine, Faculty of Medicine</named-content>
+<institution>Bezmialem Vakif University</institution>
+<city>Istanbul</city>
+<country country="TR">Turkey</country>
+</aff><aff id="jmv70429-aff-0011">
+<label>
+<sup>11</sup>
+</label>
+<named-content content-type="organisation-division">Centre for Health, Performance and Wellbeing</named-content>
+<institution>Anglia Ruskin University</institution>
+<city>Cambridge</city>
+<country country="GB">UK</country>
+</aff><aff id="jmv70429-aff-0012">
+<label>
+<sup>12</sup>
+</label>
+<named-content content-type="organisation-division">Department of Public Health, Faculty of Medicine</named-content>
+<institution>Biruni University</institution>
+<city>Istanbul</city>
+<country country="TR">Turkey</country>
+</aff><aff id="jmv70429-aff-0013">
+<label>
+<sup>13</sup>
+</label>
+<named-content content-type="organisation-division">Centre for Immunology &amp; Infection Control</named-content>
+<institution>Queensland University of Technology</institution>
+<city>Brisbane</city>
+<named-content content-type="country-part">Queensland</named-content>
+<country country="AU">Australia</country>
+</aff><aff id="jmv70429-aff-0014">
+<label>
+<sup>14</sup>
+</label>
+<named-content content-type="organisation-division">TIMC‐IMAG, UMR 5525 Joint Research Unit, Centre National de Recherche Scientifique, National Center for Scientific Research</named-content>
+<institution>Université Grenoble‐Alpes</institution>
+<city>Grenoble</city>
+<country country="FR">France</country>
+</aff><aff id="jmv70429-aff-0015">
+<label>
+<sup>15</sup>
+</label>
+<named-content content-type="organisation-division">Institute for Global Health Innovations</named-content>
+<institution>Duy Tan University</institution>
+<city>Da Nang</city>
+<country country="VN">Vietnam</country>
+</aff><aff id="jmv70429-aff-0016">
+<label>
+<sup>16</sup>
+</label>
+<named-content content-type="organisation-division">Research Institute for Advanced Nursing (RIAN)</named-content>
+<institution>Dong Nai Technology University</institution>
+<city>Bien Hoa</city>
+<country country="VN">Vietnam</country>
+</aff><aff id="jmv70429-aff-0017">
+<label>
+<sup>17</sup>
+</label>
+<named-content content-type="organisation-division">Department of Health Policy and Management, College of Health Science</named-content>
+<institution>Korea University</institution>
+<city>Seongbuk‐gu</city>
+<country country="KR">Korea</country>
+</aff><aff id="jmv70429-aff-0018">
+<label>
+<sup>18</sup>
+</label>
+<named-content content-type="organisation-division">Faculty of Public Health</named-content>
+<institution>VNU University of Medicine and Pharmacy, Vietnam National University</institution>
+<city>Hanoi</city>
+<country country="VN">Vietnam</country>
+</aff><aff id="jmv70429-aff-0019">
+<label>
+<sup>19</sup>
+</label>
+<named-content content-type="organisation-division">International Institute for Training and Research (INSTAR)</named-content>
+<institution>VNU University of Medicine and Pharmacy, Vietnam National University</institution>
+<city>Hanoi</city>
+<country country="VN">Vietnam</country>
+</aff><aff id="jmv70429-aff-0020">
+<label>
+<sup>20</sup>
+</label>
+<institution>Saint Camillus International University of Health Sciences</institution>
+<city>Rome</city>
+<country country="IT">Italy</country>
+</aff><aff id="jmv70429-aff-0021">
+<label>
+<sup>21</sup>
+</label>
+<named-content content-type="organisation-division">Center for Digital Health, Medical Science Research Institute, Kyung Hee University Medical Center</named-content>
+<institution>Kyung Hee University College of Medicine</institution>
+<city>Seoul</city>
+<country country="KR">Korea</country>
+</aff><aff id="jmv70429-aff-0022">
+<label>
+<sup>22</sup>
+</label>
+<named-content content-type="organisation-division">Department of Pediatrics</named-content>
+<institution>Kyung Hee University College of Medicine</institution>
+<city>Seoul</city>
+<country country="KR">Korea</country>
+</aff><author-notes><corresp id="correspondenceTo">
+<label>*</label>
+<bold>Correspondence:</bold> Masoud Rahmati (<email>masoud.rahmati@univ-amu.fr</email>)<break/>
+Raphael Udeh (<email>udehraphael@yahoo.com</email>)<break/>
+Dong Keon Yon (<email>yonkkang@gmail.com</email>)<break/>
+Laurent Boyer (<email>laurent.boyer@ap-hm.fr</email>)<break/>
+</corresp></author-notes><pub-date pub-type="epub"><day>06</day><month>6</month><year>2025</year></pub-date><pub-date pub-type="ppub"><month>6</month><year>2025</year></pub-date><volume>97</volume><issue seq="20">6</issue><issue-id pub-id-type="pmc-issue-id">490037</issue-id><issue-id pub-id-type="doi">10.1002/jmv.v97.6</issue-id><elocation-id>e70429</elocation-id><history><date date-type="rev-recd"><day>29</day><month>4</month><year>2025</year></date><date date-type="received"><day>07</day><month>2</month><year>2025</year></date><date date-type="accepted"><day>24</day><month>5</month><year>2025</year></date></history><pub-history><event event-type="pmc-release"><date><day>06</day><month>06</month><year>2025</year></date></event><event event-type="pmc-live"><date><day>07</day><month>06</month><year>2025</year></date></event><event event-type="pmc-last-change"><date iso-8601-date="2025-06-07 12:25:24.773"><day>07</day><month>06</month><year>2025</year></date></event></pub-history><permissions><copyright-statement content-type="article-copyright">© 2025 The Author(s). <italic toggle="yes">Journal of Medical Virology</italic> published by Wiley Periodicals LLC.</copyright-statement><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>This is an open access article under the terms of the <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pmc-pdf" xlink:href="JMV-97-e70429.pdf"/><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pdf" xlink:href="file:JMV-97-e70429.pdf"/><abstract><title>ABSTRACT</title><p>The symptoms of long COVID are well‐documented. However, the long‐term effects beyond 2 years remain poorly understood due to a lack of data. This systematic review and meta‐analysis examined the prevalence of persistent symptoms in COVID‐19 survivors 3 years following initial SARS‐CoV‐2 infection. PubMed, MEDLINE (Ovid), CENTRAL, Web of Science, Scopus, and Embase were searched from inception of the databases up to July 20, 2024, by two independent researchers for articles reporting on the prevalence of persistent symptoms 3 years' post‐infection of people who survived COVID‐19 infection. We employed a random‐effect model for the pooled analysis, and the meta‐analytical effect size was prevalence for the applicable end‐points, <italic toggle="yes">I</italic>
+<sup>2</sup> statistics, and quality assessment of included studies using the Newcastle‐Ottawa Scale. Eleven articles were included after the literature search yielded 223 potentially relevant articles. We found that among patients with long COVID, fatigue, sleep disturbances, and dyspnea were the most common symptoms. Pooled analysis showed that the proportion of individuals experiencing at least one persistent symptom 3 years post‐COVID‐19 is 20% (95% confidence interval [CI]: 8–43). The prevalence of persistent symptoms was dyspnea (12%; 95% CI: 10–15), fatigue (11%; 95% CI: 6–20), insomnia (11%; 95% CI: 2–37), loss of smell (7%; 95% CI: 5–8), loss of taste (7%; 95% CI: 3–16), and anxiety (6%; 95% CI: 1–32). Prevalence of other findings include impaired diffusion capacity (42%; 95% CI: 34–50) and impaired forced expiratory volume in 1 s (10%; 95% CI: 8–12). Our findings confirm the persistence of unresolved symptoms 3 years post‐COVID‐19 infection, with implications for future research, healthcare policy, and patient care.</p></abstract><kwd-group><kwd id="jmv70429-kwd-0001">COVID‐19</kwd><kwd id="jmv70429-kwd-0002">long COVID</kwd><kwd id="jmv70429-kwd-0003">meta‐analysis</kwd><kwd id="jmv70429-kwd-0004">SARS‐CoV‐2 infection</kwd></kwd-group><funding-group><award-group id="funding-0001"><funding-source>The authors received no specific funding for this work.</funding-source></award-group></funding-group><counts><fig-count count="4"/><table-count count="2"/><page-count count="14"/><word-count count="7991"/></counts><custom-meta-group><custom-meta><meta-name>pmc-status-qastatus</meta-name><meta-value>0</meta-value></custom-meta><custom-meta><meta-name>pmc-status-live</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-status-embargo</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-status-released</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-access</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-legally-suppressed</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-pdf</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-supplement</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-pdf-only</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-suppress-copyright</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-real-version</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-scanned-article</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-in-epmc</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-license-ref</meta-name><meta-value>CC BY</meta-value></custom-meta><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>June 2025</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:6.5.7 mode:remove_FC converted:06.06.2025</meta-value></custom-meta></custom-meta-group></article-meta><notes><fn-group><fn id="jmv70429-note-0001"><p>Masoud Rahmati and Raphael Udeh contributed equally to this study.</p></fn></fn-group></notes></front><body><def-list list-content="abbreviations"><title>Abbreviations</title><def-item><term>CI</term><def><p>confidence interval</p></def></def-item><def-item><term>COVID‐19</term><def><p>coronavirus disease 2019</p></def></def-item><def-item><term>ICU</term><def><p>intensive care unit</p></def></def-item><def-item><term>PRISMA</term><def><p>preferred reporting items for systematic review and meta‐analyses</p></def></def-item><def-item><term>RR</term><def><p>risk ratio</p></def></def-item><def-item><term>SARS‐CoV‐2</term><def><p>severe acute respiratory syndrome coronavirus 2</p></def></def-item></def-list><sec id="jmv70429-sec-0050"><label>1</label><title>Introduction</title><p>Severe acute respiratory syndrome coronavirus 2 (SARS‐CoV‐2) infection can lead to long‐lasting, persistent, and new symptoms occurring after the acute phase of coronavirus disease 2019 (COVID‐19), known as long COVID or post‐acute sequelae of COVID‐19 (PASC) [<xref rid="jmv70429-bib-0001" ref-type="bibr">1</xref>, <xref rid="jmv70429-bib-0002" ref-type="bibr">2</xref>, <xref rid="jmv70429-bib-0003" ref-type="bibr">3</xref>, <xref rid="jmv70429-bib-0004" ref-type="bibr">4</xref>, <xref rid="jmv70429-bib-0005" ref-type="bibr">5</xref>, <xref rid="jmv70429-bib-0006" ref-type="bibr">6</xref>, <xref rid="jmv70429-bib-0007" ref-type="bibr">7</xref>, <xref rid="jmv70429-bib-0008" ref-type="bibr">8</xref>, <xref rid="jmv70429-bib-0009" ref-type="bibr">9</xref>, <xref rid="jmv70429-bib-0010" ref-type="bibr">10</xref>, <xref rid="jmv70429-bib-0011" ref-type="bibr">11</xref>]. Similar long‐lasting health effects were also observed in the SARS epidemic in 2003 and at 1 year after hospital discharge, which 18% of patients had a significant reduction in distance walked in 6 min, 17% had not returned to work, and 33% reported a significant decrement in mental health [<xref rid="jmv70429-bib-0012" ref-type="bibr">12</xref>]. SARS infection in 2003 also resulted in persistent psychiatric morbidities and chronic fatigue among the survivors for up to 4 years of follow‐up [<xref rid="jmv70429-bib-0013" ref-type="bibr">13</xref>]. Even 15 years after SARS epidemic in 2003, 38% of infected patients still had reduced lung diffusion capacity [<xref rid="jmv70429-bib-0014" ref-type="bibr">14</xref>]. These reports indicate that long COVID from SARS‐CoV‐2 parallels the long‐term effects seen in the SARS epidemic in 2003, where survivors faced persistent physical and mental health issues for years.</p><p>Meta‐analysis studies of long‐term sequelae of COVID‐19 1‐ and 2‐year after SARS‐CoV‐2 infection described risk trajectories for neurological, physical, and psychological sequela and many other outcomes [<xref rid="jmv70429-bib-0015" ref-type="bibr">15</xref>, <xref rid="jmv70429-bib-0016" ref-type="bibr">16</xref>, <xref rid="jmv70429-bib-0017" ref-type="bibr">17</xref>]. There are some reports implicating that risks remain in the third year after infection and survivors with long COVID are at increased risk of varying adverse outcomes, such as diabetes, cardiovascular disease, neurological diseases, and kidney disease which might reduce individuals' quality of life and limit daily activity, and resulting in higher unemployment rates [<xref rid="jmv70429-bib-0001" ref-type="bibr">1</xref>, <xref rid="jmv70429-bib-0002" ref-type="bibr">2</xref>, <xref rid="jmv70429-bib-0003" ref-type="bibr">3</xref>, <xref rid="jmv70429-bib-0004" ref-type="bibr">4</xref>, <xref rid="jmv70429-bib-0005" ref-type="bibr">5</xref>, <xref rid="jmv70429-bib-0006" ref-type="bibr">6</xref>, <xref rid="jmv70429-bib-0007" ref-type="bibr">7</xref>, <xref rid="jmv70429-bib-0008" ref-type="bibr">8</xref>, <xref rid="jmv70429-bib-0009" ref-type="bibr">9</xref>, <xref rid="jmv70429-bib-0010" ref-type="bibr">10</xref>, <xref rid="jmv70429-bib-0011" ref-type="bibr">11</xref>]. It is not clear to what extent these symptom clusters persist beyond 3 years after infection. Importantly, there is no previous systematic review that described prolonged COVID‐19 symptoms beyond 3 years after SARS‐CoV‐2 infection. Owing to insufficient evidence, we provide a systematic evaluation and detail, which will estimate the pooled prevalence of Long COVID symptoms up to 3 years after SARS‐CoV‐2 infection and also identify the potential risk predictors of these persistent symptoms up to 3 years after infection. Addressing this knowledge gap will facilitate policy development and inform long‐term management strategies in the prevention and response to COVID‐19, and also will inform the care of people with this condition.</p></sec><sec sec-type="methods" id="jmv70429-sec-0060"><label>2</label><title>Methods</title><p>The present systematic review and meta‐analysis adhered to the methodological guidelines from the Cochrane Handbook for Systematic Reviews [<xref rid="jmv70429-bib-0018" ref-type="bibr">18</xref>] and followed the PRISMA (preferred reporting items for systematic review and meta‐analyses) statement 2020 in conducting and reporting the review (Supporting Information S1: Table <xref rid="jmv70429-suppl-0001" ref-type="supplementary-material">S1</xref>) [<xref rid="jmv70429-bib-0019" ref-type="bibr">19</xref>]. The systematic review was pre‐registered with the International Prospective Register of Systematic Reviews (PROSPERO; ref. no. CRD42024581975).</p><sec id="jmv70429-sec-0070"><label>2.1</label><title>Search Strategy</title><p>Two researchers (M.R. and R.U.) electronically searched six databases, including PubMed, MEDLINE (Ovid), CENTRAL, Web of Science, Scopus, and EMBASE from inception of the databases up to July 20, 2024. Any disagreements were resolved through discussion with a third reviewer (L.B.). Search terms were developed through a review of previous systematic reviews on long COVID and relevant literature. Two independent reviewers (M.R. and R.U.) refined the terms through iterative discussion, and a third researcher (L.B.) reviewed the final strategy to ensure clarity and comprehensiveness. The search strategy and terms are provided in Supporting Information S1: Table <xref rid="jmv70429-suppl-0001" ref-type="supplementary-material">S2</xref>. To find all eligible articles, we searched all reference lists of included studies related to the research question and no language restrictions for studies with English summary were applied in our systematic search.</p></sec><sec id="jmv70429-sec-0080"><label>2.2</label><title>Eligibility Criteria</title><p>The present systematic review and meta‐analysis followed the PICO criteria for inclusion of studies [<xref rid="jmv70429-bib-0020" ref-type="bibr">20</xref>]. PICOs: Participants included survivors of COVID‐19; Outcome included those studies reporting on prevalence of long COVID symptoms; Study period describes studies reporting prolonged symptoms present for at least 3 years after initial SARS‐CoV‐2 infection; Intervention and Comparison are not applicable in the present study. We included studies that explicitly reported outcomes at a 3‐year follow‐up after SARS‐CoV‐2 infection. In cases where studies reported multiple follow‐up periods (e.g., 1‐, 2‐, and 3‐year), only the data corresponding to the 3‐year time point were extracted and analyzed. Studies that did not clearly distinguish the outcomes assessed specifically at 3 years, or reported aggregated data across different time points, were excluded to maintain methodological consistency and ensure precision in the synthesis of long‐term outcomes. We also included prospective cohort and cross‐sectional studies. Moreover, we included studies that evaluated the prevalence of long‐term sequelae of COVID‐19 3 years after SARS‐CoV‐2 infection. Additionally, we did not apply any restrictions related to gender or geographical focus. Narrative literature reviews were excluded from the analysis as they do not present original primary data or employ systematic methodology required for meta‐analytic synthesis. However, the reference lists of relevant narrative reviews were screened to identify potentially eligible primary studies not retrieved in the initial search, thereby enhancing the comprehensiveness of the review process. The selection of the articles was independently performed by two reviewers (M.R. and R.U.) at title and abstract screening stage and full‐text report screening stage, and disagreements were resolved through discussion with a third reviewer (L.B.).</p></sec><sec id="jmv70429-sec-0090"><label>2.3</label><title>Data Extraction and Quality Assessment</title><p>We extracted data using Covidence systematic review software (version 2; Veritas Health Innovation, Melbourne, VIC, Australia) on a pre‐designed spreadsheet following Cochrane guidelines. The following data were extracted from the eligible studies: author and year, study design, country, sample size, age, sex, SARS‐CoV‐2 infection period, outcomes, vaccination history, and population characteristics. Outcomes included disability‐adjusted life years, neurologic, mental, fatigue, pulmonary, cardiovascular, musculoskeletal, kidney, gastrointestinal, and metabolic. The quality of included studies was assessed using the Newcastle–Ottawa Scale (NOS). The NOS scores were categorized as follows: scores of 0–3 were considered low quality, scores of 4–6 were considered moderate quality, and scores of 7–9 were considered high quality [<xref rid="jmv70429-bib-0021" ref-type="bibr">21</xref>]. Data extraction and quality assessment were independently performed by two reviewers (M.R. and D.K.Y.), and disagreements were resolved through discussion with a third reviewer (L.B.) [<xref rid="jmv70429-bib-0022" ref-type="bibr">22</xref>, <xref rid="jmv70429-bib-0023" ref-type="bibr">23</xref>, <xref rid="jmv70429-bib-0024" ref-type="bibr">24</xref>]. Although, had pre‐planned to use a third‐party resolution, no disagreements were present.</p></sec><sec id="jmv70429-sec-0100"><label>2.4</label><title>Statistical Analyses and Synthesis</title><p>Long COVID symptoms 3 years after SARS‐CoV‐2 infection were pooled and expressed as proportions with corresponding 95% confidence intervals (CI). A one‐stage random effects model was employed for the meta‐analysis, as it accounts for both within‐study and between‐study variability, providing more accurate and generalizable estimates of the overall effect. This model is particularly suitable when studies are expected to differ in terms of their designs, populations, and measures of outcome. The degree of between‐study heterogeneity that could not be ascribed to sampling error was explored using Cochran's <italic toggle="yes">Q</italic> statistics and I‐squared (<italic toggle="yes">I</italic>
+<sup>2</sup>; low: 0%–40%, moderate: 30%–60%, substantial: 50%–90%, and considerable: &gt; 90%) to estimate heterogeneity in all included studies. Moreover, to assess the robustness of summary estimates and to detect if any study accounted for a large proportion of heterogeneity, sensitivity analysis was performed by the leave‐one‐out method approach. Due to the requirement that Egger's test and Begg's test need at least 10 studies for reliable results, these tests were not performed in the present study, as the number of studies included in each analysis was fewer than 10. All meta‐analyses in the current study were conducted in R software using the “meta” package (version 4.2.2; R Foundation, Vienna, Austria) and a two‐sided <italic toggle="yes">p</italic> &lt; 0.05 was considered significant.</p></sec></sec><sec sec-type="results" id="jmv70429-sec-0110"><label>3</label><title>Result</title><sec id="jmv70429-sec-0120"><label>3.1</label><title>Study Identification and Characteristics</title><p>A total of 223 potentially relevant articles were identified in our literature search. After removing duplicates, 152 articles remained. After screening titles and abstracts, 131 research articles were excluded. From the remaining 21, an additional 10 articles were excluded (Supporting Information S1: Table <xref rid="jmv70429-suppl-0001" ref-type="supplementary-material">S3</xref>), resulting in 11 articles included in this systematic review [<xref rid="jmv70429-bib-0001" ref-type="bibr">1</xref>, <xref rid="jmv70429-bib-0002" ref-type="bibr">2</xref>, <xref rid="jmv70429-bib-0003" ref-type="bibr">3</xref>, <xref rid="jmv70429-bib-0004" ref-type="bibr">4</xref>, <xref rid="jmv70429-bib-0005" ref-type="bibr">5</xref>, <xref rid="jmv70429-bib-0006" ref-type="bibr">6</xref>, <xref rid="jmv70429-bib-0007" ref-type="bibr">7</xref>, <xref rid="jmv70429-bib-0008" ref-type="bibr">8</xref>, <xref rid="jmv70429-bib-0009" ref-type="bibr">9</xref>, <xref rid="jmv70429-bib-0010" ref-type="bibr">10</xref>, <xref rid="jmv70429-bib-0011" ref-type="bibr">11</xref>]. These studies were published between 2023 and 2024.</p><p>The included studies were conducted across six countries, including Bulgaria, China (<italic toggle="yes">n</italic> = 5, with four studies from Wuhan), Japan, Italy, Romania, and the United States (<italic toggle="yes">n</italic> = 2). All studies focused on hospitalized COVID‐19 patients from January to December 2020, except for one study that included patients from February 2020 to November 2021. In total, these studies reported data on 142 171 individuals (range 88–135 161) aged 36–86 years with long COVID. Among the 141 847 participants for whom sex or gender data were available, 123 675 (87%) were male and 18 172 (13%) were female. Most were cohort studies (9/11 [81.8%]), followed by cross‐sectional studies (2/11 [18.2%]). Included studies were of medium to high quality, with NOS scores of between 7 and 9 (Supporting Information S1: Table <xref rid="jmv70429-suppl-0001" ref-type="supplementary-material">S4</xref> and Supporting Information S1: Figure <xref rid="jmv70429-suppl-0001" ref-type="supplementary-material">S1</xref>).</p></sec><sec id="jmv70429-sec-0130"><label>3.2</label><title>Risk of Mortality and Disability‐Adjusted Life Years</title><p>Those with COVID‐19 who were not hospitalized and hospitalized during the acute phase of the disease were at an increased risk of death 3 years after SARS‐CoV2 infection (incidence rate ratio [IRR]: 1.01, 95% CI: 0.97–1.04; excess burden per 1000 persons: 0.22, 95% CI: −1.14 to 1.58; and IRR: 1.29, 95% CI: 1.19–1.40; excess burden per 1000 persons: 8.16, 95% CI: 4.37–11.96, respectively) [<xref rid="jmv70429-bib-0003" ref-type="bibr">3</xref>]. Among both nonhospitalized and hospitalized people with COVID‐19, long COVID contributed 9.6 (95% CI: 0.4–18.7) and 90.0 (55.2–124.8) disability‐adjusted life years (DALYs) per 1000 persons in the third year, respectively [<xref rid="jmv70429-bib-0003" ref-type="bibr">3</xref>]. Further, mortality rates were also higher in both people who had COVID‐19 with and without neurological signs post‐COVID‐19 hospitalization at 3 years (58/414 [14.01%] and 94/1196 [7.84%], respectively) [<xref rid="jmv70429-bib-0005" ref-type="bibr">5</xref>]. Overall, these findings highlight the lasting impact of COVID‐19 on mortality and disability up to 3 years after infection, particularly among individuals who required hospitalization and those who experienced neurological complications. The evidence underscores the need for ongoing monitoring, support, and targeted interventions for affected individuals, especially those with severe or complex post‐acute presentations.</p></sec><sec id="jmv70429-sec-0140"><label>3.3</label><title>Three‐Year Outcomes of Post‐Acute Sequelae of COVID‐19</title><p>Although a general reduction in long COVID symptoms among previously hospitalized patients was observed over time, a substantial burden of new or persistent symptoms remained at the 3‐year mark. We categorized these symptoms into eight major physiological clusters: neurologic, mental, pulmonary, cardiovascular, musculoskeletal, kidney, gastrointestinal, and metabolic (Supporting Information S1: Table <xref rid="jmv70429-suppl-0001" ref-type="supplementary-material">S5</xref>). Among these, the neurologic, pulmonary, and cardiovascular clusters were the most commonly affected. Notably, neurological symptoms such as memory problems, dizziness, and peripheral neuropathy were frequent, along with persistent fatigue, mental health issues including anxiety and depression, pulmonary impairments like dyspnea and reduced lung function, and cardiovascular complications including heart failure and arrhythmias [<xref rid="jmv70429-bib-0001" ref-type="bibr">1</xref>, <xref rid="jmv70429-bib-0002" ref-type="bibr">2</xref>, <xref rid="jmv70429-bib-0003" ref-type="bibr">3</xref>, <xref rid="jmv70429-bib-0004" ref-type="bibr">4</xref>, <xref rid="jmv70429-bib-0005" ref-type="bibr">5</xref>, <xref rid="jmv70429-bib-0006" ref-type="bibr">6</xref>, <xref rid="jmv70429-bib-0007" ref-type="bibr">7</xref>, <xref rid="jmv70429-bib-0008" ref-type="bibr">8</xref>, <xref rid="jmv70429-bib-0009" ref-type="bibr">9</xref>, <xref rid="jmv70429-bib-0010" ref-type="bibr">10</xref>, <xref rid="jmv70429-bib-0011" ref-type="bibr">11</xref>]. For a detailed list of all reported symptoms, please refer to Supporting Information S1: Table <xref rid="jmv70429-suppl-0001" ref-type="supplementary-material">S5</xref>.</p></sec><sec id="jmv70429-sec-0150"><label>3.4</label><title>Identified Risk Factors Associated With the Persistence of Post‐Acute Sequelae of COVID‐19</title><p>To help clinicians, public health policy makers, and researchers efficiently identify COVID‐19 survivors most at risk of long‐term sequelae 3 years after SARS‐CoV2 infection the present review identified the key risk factors in the literature for long COVID and these included older age (possibly due to immunosenescence and pre‐existing vulnerabilities) [<xref rid="jmv70429-bib-0005" ref-type="bibr">5</xref>, <xref rid="jmv70429-bib-0011" ref-type="bibr">11</xref>], higher COVID‐19 severity score at hospitalization (reflecting greater initial organ damage) [<xref rid="jmv70429-bib-0002" ref-type="bibr">2</xref>, <xref rid="jmv70429-bib-0003" ref-type="bibr">3</xref>, <xref rid="jmv70429-bib-0004" ref-type="bibr">4</xref>, <xref rid="jmv70429-bib-0005" ref-type="bibr">5</xref>, <xref rid="jmv70429-bib-0007" ref-type="bibr">7</xref>, <xref rid="jmv70429-bib-0009" ref-type="bibr">9</xref>, <xref rid="jmv70429-bib-0011" ref-type="bibr">11</xref>], female sex (potentially linked to sex‐based immunological differences) [<xref rid="jmv70429-bib-0007" ref-type="bibr">7</xref>, <xref rid="jmv70429-bib-0010" ref-type="bibr">10</xref>, <xref rid="jmv70429-bib-0011" ref-type="bibr">11</xref>], smoking [<xref rid="jmv70429-bib-0002" ref-type="bibr">2</xref>, <xref rid="jmv70429-bib-0011" ref-type="bibr">11</xref>], substance use [<xref rid="jmv70429-bib-0002" ref-type="bibr">2</xref>], allergy [<xref rid="jmv70429-bib-0009" ref-type="bibr">9</xref>], and having comorbidities (including congestive heart failure, chronic kidney disease, hypertension, and diabetes) [<xref rid="jmv70429-bib-0005" ref-type="bibr">5</xref>, <xref rid="jmv70429-bib-0006" ref-type="bibr">6</xref>, <xref rid="jmv70429-bib-0009" ref-type="bibr">9</xref>]. Further, consuming Renin–angiotensin–aldosterone blockers before and during the pandemic, had no discernible effect during the postinfection period on reported long COVID symptoms [<xref rid="jmv70429-bib-0006" ref-type="bibr">6</xref>] (Figure <xref rid="jmv70429-fig-0001" ref-type="fig">1</xref>).</p><fig position="float" fig-type="Figure" id="jmv70429-fig-0001" orientation="portrait"><label>Figure 1</label><caption><p>PRISMA flow diagram of study selection.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-1" orientation="portrait" xlink:href="JMV-97-e70429-g002.jpg"/></fig></sec><sec id="jmv70429-sec-0160"><label>3.5</label><title>Meta‐Analysis of Post‐Acute Sequelae of COVID‐19</title><p>The pooled prevalence of COVID‐19 survivors experiencing at least one unresolved symptom and at least one unresolved respiratory symptom 3‐years after SARS‐CoV‐2 infection, were 20% (95% CI: 8%–43%; <italic toggle="yes">Z</italic> = 2.22, <italic toggle="yes">p</italic> = 0.01; four studies [<xref rid="jmv70429-bib-0004" ref-type="bibr">4</xref>, <xref rid="jmv70429-bib-0010" ref-type="bibr">10</xref>, <xref rid="jmv70429-bib-0011" ref-type="bibr">11</xref>]) and 35% (95% CI: 18%–56%; <italic toggle="yes">Z</italic> = 2.59, <italic toggle="yes">p</italic> = 0.009; two studies [<xref rid="jmv70429-bib-0007" ref-type="bibr">7</xref>, <xref rid="jmv70429-bib-0009" ref-type="bibr">9</xref>]), respectively (Figure <xref rid="jmv70429-fig-0002" ref-type="fig">2</xref>).</p><fig position="float" fig-type="Figure" id="jmv70429-fig-0002" orientation="portrait"><label>Figure 2</label><caption><p>Forest plot of (a) at least one unresolved symptom and (b) at least one unresolved respiratory symptom 3 years after SARS‐CoV‐2 infection.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-3" orientation="portrait" xlink:href="JMV-97-e70429-g003.jpg"/></fig><p>The most frequent significant findings at 3‐years after SARS‐CoV‐2 infection were DLCO &lt; 80% of the predicted value (42%; 95% CI: 34%–50%; <italic toggle="yes">Z</italic> = 7.46, <italic toggle="yes">p</italic> = 0.0001; two studies [<xref rid="jmv70429-bib-0007" ref-type="bibr">7</xref>, <xref rid="jmv70429-bib-0009" ref-type="bibr">9</xref>]) and forced expiratory volume in 1 s (FEV1) &lt; 80% of the predicted value (10%; 95% CI: 8%–12%; <italic toggle="yes">Z</italic> = 8.85, <italic toggle="yes">p</italic> = 0.0001; two studies [<xref rid="jmv70429-bib-0007" ref-type="bibr">7</xref>, <xref rid="jmv70429-bib-0009" ref-type="bibr">9</xref>]). The most frequent significant symptoms at 3 years following SARS‐CoV‐2 were dyspnea (12%; 95% CI: 10%–15%; <italic toggle="yes">Z</italic> = 7, <italic toggle="yes">p</italic> = 0.0001; two studies [<xref rid="jmv70429-bib-0007" ref-type="bibr">7</xref>, <xref rid="jmv70429-bib-0009" ref-type="bibr">9</xref>]), fatigue (11%; 95% CI 6%–20%; <italic toggle="yes">Z</italic> = 3.23, <italic toggle="yes">p</italic> = 0.001; three studies [<xref rid="jmv70429-bib-0004" ref-type="bibr">4</xref>, <xref rid="jmv70429-bib-0010" ref-type="bibr">10</xref>, <xref rid="jmv70429-bib-0011" ref-type="bibr">11</xref>]), smell disorder (7%; 95% CI 5%–8%; <italic toggle="yes">Z</italic> = 3.42, <italic toggle="yes">p</italic> = 0.0006; two studies [<xref rid="jmv70429-bib-0001" ref-type="bibr">1</xref>, <xref rid="jmv70429-bib-0011" ref-type="bibr">11</xref>]), cough (6%; 95% CI: 2%–15%; <italic toggle="yes">Z</italic> = 2.35, <italic toggle="yes">p</italic> = 0.018; two studies [<xref rid="jmv70429-bib-0004" ref-type="bibr">4</xref>, <xref rid="jmv70429-bib-0007" ref-type="bibr">7</xref>, <xref rid="jmv70429-bib-0009" ref-type="bibr">9</xref>, <xref rid="jmv70429-bib-0011" ref-type="bibr">11</xref>]), and expectoration (4%; 95% CI: 1%–11%; <italic toggle="yes">Z</italic> = 2.19, <italic toggle="yes">p</italic> = 0.028; three studies [<xref rid="jmv70429-bib-0004" ref-type="bibr">4</xref>, <xref rid="jmv70429-bib-0007" ref-type="bibr">7</xref>, <xref rid="jmv70429-bib-0009" ref-type="bibr">9</xref>]). The prevalence of sleep difficulty (11%; 95% CI: 2%–37%; <italic toggle="yes">Z</italic> = 1.30, <italic toggle="yes">p</italic> = 0.1; two studies [<xref rid="jmv70429-bib-0010" ref-type="bibr">10</xref>, <xref rid="jmv70429-bib-0011" ref-type="bibr">11</xref>]), taste disorder (7%; 95% CI: 3%–16%; <italic toggle="yes">Z</italic> = 1.64, <italic toggle="yes">p</italic> = 0.1; two studies [<xref rid="jmv70429-bib-0001" ref-type="bibr">1</xref>, <xref rid="jmv70429-bib-0011" ref-type="bibr">11</xref>]), anxiety (6%; 95% CI: 1%–32%; <italic toggle="yes">Z</italic> = 1.14, <italic toggle="yes">p</italic> = 0.255; two studies [<xref rid="jmv70429-bib-0004" ref-type="bibr">4</xref>, <xref rid="jmv70429-bib-0011" ref-type="bibr">11</xref>]), and myalgia (4%; 95% CI: 2%–18%; <italic toggle="yes">Z</italic> = 1.89, <italic toggle="yes">p</italic> = 0.058; two studies [<xref rid="jmv70429-bib-0004" ref-type="bibr">4</xref>, <xref rid="jmv70429-bib-0011" ref-type="bibr">11</xref>]) were not significant (Figure <xref rid="jmv70429-fig-0003" ref-type="fig">3</xref>).</p><fig-group position="float" id="jmv70429-fig-0003" content-type="Figure" orientation="portrait"><label>Figure 3</label><caption><p>Forest plot of prevalence of various symptoms 3 years after SARS‐CoV‐2 infection.</p></caption><fig position="anchor" fig-type="Figure" id="d101e1309" orientation="portrait"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-5" orientation="portrait" xlink:href="JMV-97-e70429-g001.jpg"/></fig><fig position="anchor" fig-type="Figure" id="d101e1311" orientation="portrait"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-7" orientation="portrait" xlink:href="JMV-97-e70429-g004.jpg"/></fig></fig-group></sec></sec><sec sec-type="discussion" id="jmv70429-sec-0170"><label>4</label><title>Discussion</title><p>This study signifies the first systematic review and meta‐analysis focused on the post‐acute sequelae of COVID‐19 over a 3‐year period. Evidence from 11 distinct studies was synthesized to examine the mental, neurological, and physical symptoms experienced by survivors of COVID‐19. The key finding is that the pooled prevalence of survivors of COVID‐19 experiencing at least one unresolved symptom after 3 years of initial SARS‐CoV‐2 infection is 20%. The most prevalent unresolved symptoms 3 years after SARS‐CoV‐2 infection were dyspnea (12%), fatigue (11%), and insomnia (11%). Other symptoms include smell (7%) and taste (7%) disorders, anxiety (6%), cough (6%), expectoration (4%), and myalgia (4%). Notably, the most prevalent findings impaired diffusion capacity (42%) as well as impaired forced expiratory volume in 1 s (10%). This empirical evidence consists mostly of data on patients with long COVID who were hospitalized during the acute phase of the illness, which suggest caution in generalizing our findings for patients with long COVID who had mild symptoms during the initial infection.</p><p>This review found that dyspnea, fatigue, and sleep problems were the most prevalent post‐COVID symptoms 3‐years after infection with a prevalence range of 11%–12%. Dyspnea was the most frequent symptom. Though dyspnea showed a relatively slight increase from 10% (2‐year prevalence) to 12% (present study), its pulmonary assessment showed no significant difference with the 2‐year prevalence report on lung diffusion capacity and other lung function tests [<xref rid="jmv70429-bib-0017" ref-type="bibr">17</xref>]. Patients with long COVID in the Wuhan cohort that completed lung function test at 3 years following hospital discharge showed dysfunctional residual volume and forced expiratory volume, as well as impaired lung diffusion capacity [<xref rid="jmv70429-bib-0009" ref-type="bibr">9</xref>, <xref rid="jmv70429-bib-0011" ref-type="bibr">11</xref>]. Fatigue is the second most frequent symptom, and it shows a substantial reduction from the reported 2‐year follow‐up data of 27.4% (15) and 28% (21) to 11% in the present study. This agrees with Zhang et al., who also reported a significant reduction in fatigue prevalence [<xref rid="jmv70429-bib-0011" ref-type="bibr">11</xref>]. Possible explanations for that include some therapeutic measures that could have over time reduced fatigue or raised physical activity following termination of all restrictions post‐COVID‐19 or people have adapted better over time [<xref rid="jmv70429-bib-0002" ref-type="bibr">2</xref>]. Other problems reported at 3 years following hospital discharge from COVID‐19 include the following: cardiovascular (angina, bradycardia, and cardiac arrest, etc), musculoskeletal (myalgia, joint pain, and osteoarthritis), kidneys (acute kidney injury and kidney failure) as well as diabetes.</p><p>Han et al. had previously reported that the prevalence rate of most symptoms of PASC within the first year following initial infection to be substantial [<xref rid="jmv70429-bib-0025" ref-type="bibr">25</xref>]. Two years after initial infection, Rahmati and colleagues showed that 42% of survivors of COVID‐19 still experienced at least one unresolved symptom of PASC [<xref rid="jmv70429-bib-0015" ref-type="bibr">15</xref>]. Current evidence provides data that suggests the prevalence of long COVID symptomatology reduces over time with few exceptions. A well‐designed meta‐analysis which pooled data from 54 included studies across over 20 nations showed that fatigue, sleep difficulties, and dyspnea are the most frequent symptom cluster in the first 3 months following initial SARS‐CoV‐2 infection [<xref rid="jmv70429-bib-0026" ref-type="bibr">26</xref>].</p><p>This review reports that there's great improvement in the major neuropsychiatric symptoms of fatigue, sleep disorders, and anxiety 3 years post‐COVID‐19—following a consistent decline over time. However, a worsening trend was observed for the other neurological symptoms such as smell and taste loss. At 3 years, the pooled prevalence of sleep disorders, anxiety, smell and taste problems were 11%, 6%, 7%, and 7%, respectively; compared to their 2‐year pooled prevalence of 25%, 9%, 3.5%, and 4.5%, respectively [<xref rid="jmv70429-bib-0017" ref-type="bibr">17</xref>]. However, longer‐term follow‐up will certainly establish any definitive trend of symptom improvement. Other neuropsychiatric symptoms reported at 3 years include memory problems, Parkinson‐like disease, alcohol use disorder, peripheral neuropathy, and vision impairment [<xref rid="jmv70429-bib-0001" ref-type="bibr">1</xref>, <xref rid="jmv70429-bib-0003" ref-type="bibr">3</xref>, <xref rid="jmv70429-bib-0004" ref-type="bibr">4</xref>, <xref rid="jmv70429-bib-0011" ref-type="bibr">11</xref>]. However, a longer‐term study will be required to explore an association between cognitive dysfunction (often called brain fog) and neurodegenerative disorder following COVID‐19 [<xref rid="jmv70429-bib-0027" ref-type="bibr">27</xref>].</p><p>Similar coronavirus infections such as SARS and MERS have been known to cause long‐term chronic effects such as fatigue, sleep disorders, anxiety disorders, and lung damage. The longest documented longitudinal study post‐SARS infection is by Li and et al. [<xref rid="jmv70429-bib-0028" ref-type="bibr">28</xref>]. The study which followed up and characterized 14 healthcare workers (HCWs) for 18 years postdischarge from SARS infection reported fatigue as the most common symptomatic complaint, followed by dyspnea despite normal pulmonary and gas diffusion capacity in the face of persistent lung lesions up to 18 years, as well as fully recovered mental and emotional health [<xref rid="jmv70429-bib-0028" ref-type="bibr">28</xref>]. Li et al. further reported that when the 18‐year recovery was compared to their 12‐year recovery cohort, the later showed lower physical, social, and emotional functions which significantly improved at 18 years follow‐up, but was still worse than that of the control group [<xref rid="jmv70429-bib-0028" ref-type="bibr">28</xref>]. This is consistent with the Peking study, which followed up 71 HCWs for 15 years from Peking University People's Hospital that suffered nosocomial infection during the 2003 SARS outbreak showed that the proportion of patients with lung lesions on CT reduced significantly from 9.4% in 2003 to 3.2% in 2004 and remained stable 15 years later 4.64% [<xref rid="jmv70429-bib-0014" ref-type="bibr">14</xref>]. Another study which followed up 11 SARS survivors reported that 10 patients had fibrosis 7 years later compared to 11 patients who had it 6 months post‐discharge [<xref rid="jmv70429-bib-0029" ref-type="bibr">29</xref>]. These are in agreement with the work of Han et al., who reported that over 30% of its longitudinal cohort continued to have unresolved pulmonary lesions up to 3 years and they were associated with respiratory symptoms as well as impaired diffusion capacity [<xref rid="jmv70429-bib-0007" ref-type="bibr">7</xref>].</p><p>A recent meta‐analysis that reviewed 19 studies from 14 different nations regarding work ability and return‐to‐work by patients with long COVID found that unresolved symptoms have a substantial impact on their work‐related activities with 61% returning to work effectively after 3 months or more post‐COVID‐19 [<xref rid="jmv70429-bib-0030" ref-type="bibr">30</xref>]. They further reported that an ample proportion of these returnees still require some adjustments to their work duties or number of hours to assist with their unresolved disabilities [<xref rid="jmv70429-bib-0030" ref-type="bibr">30</xref>]. According to the US Centre for Disease Control (CDC), a national survey of noninstitutionalized United States adults taken between 2022 and 2023 to estimate long COVID prevalence revealed that 26% of patients with long COVID experienced significant limitation to their daily activity relative to the pre‐COVID period [<xref rid="jmv70429-bib-0031" ref-type="bibr">31</xref>]. We are unable to report on the pooled prevalence regarding return to work due to lack of adequate data. The need for researchers to report on the proportion of patients with long COVID who have been able to return to their original job 3 years later cannot be overemphasized. It's important to note that whereas we had two studies report on this parameter during the 2‐year review [<xref rid="jmv70429-bib-0017" ref-type="bibr">17</xref>], only one study reported it in the current review [<xref rid="jmv70429-bib-0011" ref-type="bibr">11</xref>]. Given that long COVID posse not just a risk of unresolved symptoms but for those with disabilities, living with long COVID can be an additional burden, thus this demands a more comprehensive care approach that addresses the consequential health inequities.</p><p>Significant limitation to functional and work capacity is best exemplified by the work of Eligulashvili and colleagues who revealed that half and one‐third of the neurological cohort and non‐neurological cohort, respectively, were discharged to both skilled nursing facilities and rehabilitation homes [<xref rid="jmv70429-bib-0005" ref-type="bibr">5</xref>]. Furthermore, the study which followed up 414 patients with SARS‐CoV‐2 infection and substantial neurological findings (e.g., acute stroke, new seizures) versus 1199 COVID‐19 positive patients without substantial neurological findings showed that the neurological cohort were at greater risk of life‐threatening worse longer term sequelae including higher mortality risk after discharge (from heart failure, infections, and ARDS), neurodegenerative diseases, higher readmission risk and higher age‐adjusted brain volume loss [<xref rid="jmv70429-bib-0005" ref-type="bibr">5</xref>]. Interestingly, this is strongly supported by the work of Ziyad Al‐Aly and his team which followed up 135 161 COVID‐19 survivors versus 5 206 835 controls from the United States Veterans affairs department to compare their risk of PASC and death [<xref rid="jmv70429-bib-0003" ref-type="bibr">3</xref>]. They found that the nonhospitalized patients had no increased risk of death after the first year and a lower risk of PASC up to the third year, while the hospitalized patients had both increased risk of death and significant PASC risk up to the third year post‐COVID‐19 [<xref rid="jmv70429-bib-0003" ref-type="bibr">3</xref>].</p><p>Recent studies have identified several mechanisms contributing to long COVID symptoms. One significant factor is the severity of the acute infection, with more severe cases linked to a higher risk of long‐term symptoms, suggesting greater organ damage and emphasizing the need for early clinical management, especially in high‐risk patients [<xref rid="jmv70429-bib-0032" ref-type="bibr">32</xref>, <xref rid="jmv70429-bib-0033" ref-type="bibr">33</xref>]. Another key factor is the generation of autoantibodies, which can trigger inflammation and tissue damage, explaining persistent symptoms such as fatigue, neurological dysfunction, and cardiovascular issues [<xref rid="jmv70429-bib-0034" ref-type="bibr">34</xref>]. Lastly, the persistence of SARS‐CoV‐2 RNA in tissues may lead to ongoing immune activation and inflammation, contributing to chronic symptoms [<xref rid="jmv70429-bib-0035" ref-type="bibr">35</xref>]. These mechanisms offer insights into long COVID's pathogenesis and potential treatment strategies, although further research is necessary to fully understand their interactions and long‐term effects.</p><p>Despite our extensive literature search that explored multiple databases, a key limitation of this review is the availability of data on persistent symptoms in hospitalized patients with little or no data regarding residual symptoms in patients with a mild course of COVID‐19. Our data pooling capacity in subgroup analysis was further limited by studies with a mixed cohort of hospitalized and mild cases, as well as little information regarding data about patients requiring ICU admission. Another limitation was the use of qualitative studies as we endeavored to provide a more comprehensive illumination into the experience of patients with long COVID 3 years after the initial SARS‐CoV‐2 infection. Also, the use of self‐reported questionnaires has the risk of introducing reporting bias.</p><p>The small number of studies in each analysis reduces statistical power and precision. Additionally, substantial heterogeneity in some comparisons weakens confidence in the generalizability of the results. This variability may be influenced by factors such as viral variants, population demographics, vaccination rates, treatment protocols, and reinfections, all of which could contribute to inconsistent findings. For symptoms such as insomnia and anxiety, the wide CIs and high heterogeneity suggest considerable variability between studies, and as a result, the pooled estimates should be interpreted with caution. Furthermore, the lack of individual‐level data on symptom co‐occurrence (e.g., dyspnea and fatigue) limits the ability to assess symptom overlap across cases, restricting our ability to explore symptom clustering and potential interaction effects. Another important limitation is the heterogeneity in the definition of control groups across the included studies. Some studies used healthy individuals with no prior SARS‐CoV‐2 infection as controls, while others included individuals who had recovered from acute COVID‐19 without developing long COVID symptoms. Due to the limited number of studies, subgroup analyses based on control group type could not be conducted. This heterogeneity may have influenced the pooled estimates and should be taken into consideration when interpreting the findings.</p><p>The included studies did not consistently report on SARS‐CoV‐2 variants, limiting our ability to assess the impact of variant differences on post‐COVID symptoms. Previous research suggests that different variants may affect clinical outcomes, highlighting the need for variant‐specific data in long‐term studies [<xref rid="jmv70429-bib-0036" ref-type="bibr">36</xref>]. Future research should investigate the role of variants, reinfections, and psychosocial factors in long COVID development and recovery, helping to identify predictors of symptom persistence and alleviating patients' concerns about the duration of their condition. Efforts should focus on mechanistic research for long COVID, biomarker discovery, and comparing long COVID to other chronic infection‐related conditions (e.g., SARS, influenza, MERS, and Ebola). Future research should also include diverse populations, such as those with mild acute cases or underlying conditions like diabetes. Additionally, investigating the long‐term trajectory of long COVID, particularly the association between cognitive issues (e.g., brain fog) and the risk of neurodegenerative disorders, is crucial. Despite a decline in long COVID prevalence, its impact on health‐related quality of life, functional capacity, and socioeconomic consequences, along with the strain on public health systems, remains significant. These findings emphasize the need for public health policies focusing on prevention, such as improving COVID vaccination effectiveness and promoting early antiviral use during the acute phase [<xref rid="jmv70429-bib-0024" ref-type="bibr">24</xref>, <xref rid="jmv70429-bib-0037" ref-type="bibr">37</xref>, <xref rid="jmv70429-bib-0038" ref-type="bibr">38</xref>]; and could potentially inform the formulation of disability policy, health care service needs and other rehabilitative services for patients with long COVID who have limited functional and work capacity.</p></sec><sec sec-type="conclusions" id="jmv70429-sec-0180"><label>5</label><title>Conclusion</title><p>The long‐term physical and neuropsychiatric consequences of long COVID persist as a significant clinical challenge for many survivors, even up to 3 years after initial infection. This study enhances our understanding of the natural trajectory of recovery and underscores the urgent need for comprehensive, sustained care strategies. Despite some improvement in symptoms, the management of long COVID remains hindered by several systemic issues: limited clinical guidance, insufficient diagnostic and treatment protocols, and fragmented care approaches. Additionally, delays in recognition and misattributions of symptoms to psychosomatic causes may compromise patient outcomes and trust. Addressing these challenges requires a multi‐faceted response. Healthcare professionals must be supported through ongoing specialized training and evidence‐based clinical guidelines informed by the latest research. Establishing multidisciplinary care teams and integrating long COVID management into routine healthcare pathways are essential steps toward improved care delivery. Moreover, public health campaigns are vital to raise awareness, reduce stigma, and foster informed patient engagement. By improving knowledge among the public and practitioners alike, we can build a more responsive and empathetic healthcare system. Ultimately, tackling long COVID must be recognized as a public health priority. Coordinated global action, informed by robust evidence and compassionate care, will be key to supporting the recovery and long‐term well‐being of those affected (Tables <xref rid="jmv70429-tbl-0001" ref-type="table">1</xref> and <xref rid="jmv70429-tbl-0002" ref-type="table">2</xref>).</p><table-wrap position="float" id="jmv70429-tbl-0001" content-type="Table" orientation="portrait"><label>Table 1</label><caption><p>General characteristics of included studies.</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" align="left" span="1"/><col style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" align="center" span="1"/><col style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" align="center" span="1"/><col style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" align="center" span="1"/><col style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" align="center" span="1"/><col style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" align="center" span="1"/><col style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" align="center" span="1"/><col style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" align="center" span="1"/><col style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" align="center" span="1"/><thead valign="bottom"><tr valign="bottom" style="border-bottom:solid 1px #000000"><th align="left" valign="bottom" rowspan="1" colspan="1">Study</th><th align="center" valign="bottom" rowspan="1" colspan="1">Design</th><th align="center" valign="bottom" rowspan="1" colspan="1">Country</th><th align="center" valign="bottom" rowspan="1" colspan="1">Number</th><th align="center" valign="bottom" rowspan="1" colspan="1">Mean age (SD)</th><th align="center" valign="bottom" rowspan="1" colspan="1">Female sex, <italic toggle="yes">n</italic> (%)</th><th align="center" valign="bottom" rowspan="1" colspan="1">SARS‐CoV‐2 infection period</th><th align="center" valign="bottom" rowspan="1" colspan="1">Outcome evaluation</th><th align="center" valign="bottom" rowspan="1" colspan="1">Study population characteristics</th></tr></thead><tbody valign="top"><tr><td align="left" valign="top" rowspan="1" colspan="1">Boscolo‐Rizzo et al. [<xref rid="jmv70429-bib-0001" ref-type="bibr">1</xref>]</td><td align="center" valign="top" rowspan="1" colspan="1">Cohort</td><td align="center" valign="top" rowspan="1" colspan="1">Italy</td><td align="center" valign="top" rowspan="1" colspan="1">88</td><td align="center" valign="top" rowspan="1" colspan="1">49 (10)</td><td align="center" valign="top" rowspan="1" colspan="1">51 (58)</td><td align="center" valign="top" rowspan="1" colspan="1">March and April, 2020</td><td align="center" valign="top" rowspan="1" colspan="1">Olfactory (Sniffin' Sticks test battery) and gustatory (Taste Strips test) function</td><td align="center" valign="top" rowspan="1" colspan="1">Mild patient who had symptoms of COVID‐19 without evidence of lower respiratory disease during clinical assessment or imaging and oxygen saturation of 94% or greater</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Bota et al. [<xref rid="jmv70429-bib-0002" ref-type="bibr">2</xref>]</td><td align="center" valign="top" rowspan="1" colspan="1">Cross‐sectional</td><td align="center" valign="top" rowspan="1" colspan="1">Romania</td><td align="center" valign="top" rowspan="1" colspan="1">324</td><td align="center" valign="top" rowspan="1" colspan="1">56 (8)</td><td align="center" valign="top" rowspan="1" colspan="1">NR</td><td align="center" valign="top" rowspan="1" colspan="1">2020</td><td align="center" valign="top" rowspan="1" colspan="1">Depression (PHQ‐9), anxiety (GAD‐7), and quality of life (SF‐36)</td><td align="center" valign="top" rowspan="1" colspan="1">Hospitalized patients with mild to moderate COVID‐19 who had surveyed 6 months after their hospitalization for SARS‐CoV‐2 infection</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Cai et al. [<xref rid="jmv70429-bib-0003" ref-type="bibr">3</xref>]</td><td align="center" valign="top" rowspan="1" colspan="1">Cohort</td><td align="center" valign="top" rowspan="1" colspan="1">USA</td><td align="center" valign="top" rowspan="1" colspan="1">135 161</td><td align="center" valign="top" rowspan="1" colspan="1">64 (17)</td><td align="center" valign="top" rowspan="1" colspan="1">14 987 (11)</td><td align="center" valign="top" rowspan="1" colspan="1">March and December, 2020</td><td align="center" valign="top" rowspan="1" colspan="1">80 individual outcomes based on ICD‐10 codes and well‐characterized sequelae of SARS‐CoV‐2 infection</td><td align="center" valign="top" rowspan="1" colspan="1">Patients with COVID‐19 who were alive at 30 days after the infection and divided by the care setting during the acute phase of infection into nonhospitalized and hospitalized (inpatient admission date within 7 days before or within 30 days after the positive test)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Dai et al. [<xref rid="jmv70429-bib-0004" ref-type="bibr">4</xref>]</td><td align="center" valign="top" rowspan="1" colspan="1">Cohort</td><td align="center" valign="top" rowspan="1" colspan="1">China</td><td align="center" valign="top" rowspan="1" colspan="1">1594</td><td align="center" valign="top" rowspan="1" colspan="1">58 (9)</td><td align="center" valign="top" rowspan="1" colspan="1">798 (50)</td><td align="center" valign="top" rowspan="1" colspan="1">February and April, 2020</td><td align="center" valign="top" rowspan="1" colspan="1">Prevalence of at least one PASC symptoms, symptom relief, and new‐onset symptom</td><td align="center" valign="top" rowspan="1" colspan="1">Patients with COVID‐19 who were discharged from Huoshenshan Hospital and Taikang Tongji Hospital in Wuhan, China</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Eligulashvili et al. [<xref rid="jmv70429-bib-0005" ref-type="bibr">5</xref>]</td><td align="center" valign="top" rowspan="1" colspan="1">Cohort</td><td align="center" valign="top" rowspan="1" colspan="1">USA</td><td align="center" valign="top" rowspan="1" colspan="1">1613</td><td align="center" valign="top" rowspan="1" colspan="1">70 (15)</td><td align="center" valign="top" rowspan="1" colspan="1">764 (47)</td><td align="center" valign="top" rowspan="1" colspan="1">March and April, 2020</td><td align="center" valign="top" rowspan="1" colspan="1">Mortality, stroke, heart attack, MACE, reinfection, and hospital readmission post‐discharge</td><td align="center" valign="top" rowspan="1" colspan="1">Hospitalized patients with COVID‐19 who experienced various neurological signs and symptoms that warranted neuroimaging during COVID‐19 hospitalization were compared with patients with COVID‐19 who did not have significant neurological issues during hospitalization</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Filev et al. [<xref rid="jmv70429-bib-0006" ref-type="bibr">6</xref>]</td><td align="center" valign="top" rowspan="1" colspan="1">Cohort</td><td align="center" valign="top" rowspan="1" colspan="1">Bulgaria</td><td align="center" valign="top" rowspan="1" colspan="1">120</td><td align="center" valign="top" rowspan="1" colspan="1">61 (15)</td><td align="center" valign="top" rowspan="1" colspan="1">60 (50)</td><td align="center" valign="top" rowspan="1" colspan="1">February and March, 2021</td><td align="center" valign="top" rowspan="1" colspan="1">Renal function</td><td align="center" valign="top" rowspan="1" colspan="1">Hospitalized patients with COVID‐19 and chronic kidney disease were compared with patients with COVID‐19 and without chronic kidney disease and also with healthy control group without history of SARS‐CoV2 infection</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Han et al. [<xref rid="jmv70429-bib-0007" ref-type="bibr">7</xref>]</td><td align="center" valign="top" rowspan="1" colspan="1">Cohort</td><td align="center" valign="top" rowspan="1" colspan="1">China</td><td align="center" valign="top" rowspan="1" colspan="1">781</td><td align="center" valign="top" rowspan="1" colspan="1">61 (8)</td><td align="center" valign="top" rowspan="1" colspan="1">310 (43)</td><td align="center" valign="top" rowspan="1" colspan="1">January and April, 2020</td><td align="center" valign="top" rowspan="1" colspan="1">Prevalence of at least one respiratory symptom, symptom persist, respiratory symptoms, and lung function</td><td align="center" valign="top" rowspan="1" colspan="1">Patients with COVID‐19 who were discharged from Jin Yin‐tan Hospital and Wuhan Union Hospital in Wuhan, China</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Morioka et al. [<xref rid="jmv70429-bib-0008" ref-type="bibr">8</xref>]</td><td align="center" valign="top" rowspan="1" colspan="1">Cross‐sectional</td><td align="center" valign="top" rowspan="1" colspan="1">Japan</td><td align="center" valign="top" rowspan="1" colspan="1">407</td><td align="center" valign="top" rowspan="1" colspan="1">48 (6)</td><td align="center" valign="top" rowspan="1" colspan="1">253 (58)</td><td align="center" valign="top" rowspan="1" colspan="1">February 2020 to November 2021</td><td align="center" valign="top" rowspan="1" colspan="1">Prevalence of at least one PASC symptoms</td><td align="center" valign="top" rowspan="1" colspan="1">Patients who had recovered from COVID‐19. 99% of included patient had mild to moderate COVID‐19 severity</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Wu et al. [<xref rid="jmv70429-bib-0009" ref-type="bibr">9</xref>]</td><td align="center" valign="top" rowspan="1" colspan="1">Cohort</td><td align="center" valign="top" rowspan="1" colspan="1">China</td><td align="center" valign="top" rowspan="1" colspan="1">111</td><td align="center" valign="top" rowspan="1" colspan="1">64 (5)</td><td align="center" valign="top" rowspan="1" colspan="1">42 (38)</td><td align="center" valign="top" rowspan="1" colspan="1">January and April, 2020</td><td align="center" valign="top" rowspan="1" colspan="1">Prevalence of at least one respiratory symptom, respiratory symptoms, and lung function</td><td align="center" valign="top" rowspan="1" colspan="1">Patients with diabetes and COVID‐19 who were discharged from two major tertiary hospitals (center 1 and center 2) in Wuhan, China</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Yang et al. [<xref rid="jmv70429-bib-0010" ref-type="bibr">10</xref>]</td><td align="center" valign="top" rowspan="1" colspan="1">Cohort</td><td align="center" valign="top" rowspan="1" colspan="1">China</td><td align="center" valign="top" rowspan="1" colspan="1">613</td><td align="center" valign="top" rowspan="1" colspan="1">62 (9)</td><td align="center" valign="top" rowspan="1" colspan="1">276 (45)</td><td align="center" valign="top" rowspan="1" colspan="1">January and May, 2020</td><td align="center" valign="top" rowspan="1" colspan="1">Prevalence of at least one PASC symptoms, symptom persist, respiratory symptoms, and lung function</td><td align="center" valign="top" rowspan="1" colspan="1">Patients with COVID‐19 who were discharged in accordance with the Chinese clinical guidelines for COVID‐19 pneumonia diagnosis and treatment</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Zhang et al. [<xref rid="jmv70429-bib-0011" ref-type="bibr">11</xref>]</td><td align="center" valign="top" rowspan="1" colspan="1">Cohort</td><td align="center" valign="top" rowspan="1" colspan="1">China</td><td align="center" valign="top" rowspan="1" colspan="1">1359</td><td align="center" valign="top" rowspan="1" colspan="1">57 (8)</td><td align="center" valign="top" rowspan="1" colspan="1">631 (46)</td><td align="center" valign="top" rowspan="1" colspan="1">January and May, 2020</td><td align="center" valign="top" rowspan="1" colspan="1">Prevalence of at least one PASC symptoms, 20 individual outcomes, Depression (PHQ‐9), anxiety (GAD‐7), quality of life (EQ‐5D‐5L), and posttraumatic stress disorder symptom (PCL‐C)</td><td align="center" valign="top" rowspan="1" colspan="1">Patients with COVID‐19 who were discharged from the Jin Yin‐tan hospital in Wuhan, China</td></tr></tbody></table><table-wrap-foot><fn id="jmv70429-tbl1-note-0001"><p>Abbreviations: GAD‐7, generalized anxiety disorder 7‐item scale; NR, not reported; PHQ‐9, patient health questionnaire‐9.</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &amp; Sons, Ltd.</copyright-holder></permissions></table-wrap><table-wrap position="float" id="jmv70429-tbl-0002" content-type="Table" orientation="portrait"><label>Table 2</label><caption><p>Clinical presentation, symptoms, and factors associated with long COVID.</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" align="left" span="1"/><col style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" align="center" span="1"/><col style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" align="center" span="1"/><col style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" align="center" span="1"/><thead valign="bottom"><tr valign="bottom" style="border-bottom:solid 1px #000000"><th align="left" valign="bottom" rowspan="1" colspan="1">Study</th><th align="center" valign="bottom" rowspan="1" colspan="1">Follow‐up, year</th><th align="center" valign="bottom" rowspan="1" colspan="1">Clinical presentation and symptoms, <italic toggle="yes">n</italic>/<italic toggle="yes">N</italic> (%)</th><th align="center" valign="bottom" rowspan="1" colspan="1">Factors associated with the persistence of PASC</th></tr></thead><tbody valign="top"><tr><td align="left" valign="top" rowspan="1" colspan="1">Boscolo‐Rizzo et al. [<xref rid="jmv70429-bib-0001" ref-type="bibr">1</xref>]</td><td align="center" valign="top" rowspan="1" colspan="1">
+<p>1 year,</p>
+<p>2 years,</p>
+<p>3 years</p>
+</td><td align="center" valign="top" rowspan="1" colspan="1">Neurologic: olfactory dysfunction (12/88 [13.6%]), Gustatory dysfunction (10/88 [11.4%])</td><td align="center" valign="top" rowspan="1" colspan="1">NR</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Bota et al. [<xref rid="jmv70429-bib-0002" ref-type="bibr">2</xref>]</td><td align="center" valign="top" rowspan="1" colspan="1">
+<p>1 year,</p>
+<p>2 years,</p>
+<p>3 years</p>
+</td><td align="center" valign="top" rowspan="1" colspan="1">Psychiatric: depression (NR), anxiety (NR), and quality of life (NR)</td><td align="center" valign="top" rowspan="1" colspan="1">Smoking, substance use, and severity of COVID‐19 at hospitalization, were associated with depression</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Cai et al. [<xref rid="jmv70429-bib-0003" ref-type="bibr">3</xref>]</td><td align="center" valign="top" rowspan="1" colspan="1">
+<p>1 year,</p>
+<p>2 years,</p>
+<p>3 years</p>
+</td><td align="center" valign="top" rowspan="1" colspan="1">Incidence rate ratio, number of sequelae and disability‐adjusted life years (DALYs) due to COVID‐19 in nonhospitalized and hospitalized patients with COVID‐19 in 3 years after SARS‐CoV‐2 infection were mentioned for different organs and symptoms including: cardiovascular, coagulation, fatigue, gastrointestinal, kidney, mental, metabolic, musculoskeletal, neurologic, and pulmonary</td><td align="center" valign="top" rowspan="1" colspan="1">Patients with COVID‐19 who were hospitalized during the acute phase of SARS‐CoV‐2 infection had significantly higher risk and burden of overall PASC and sequelae in every organ system</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Dai et al. [<xref rid="jmv70429-bib-0004" ref-type="bibr">4</xref>]</td><td align="center" valign="top" rowspan="1" colspan="1">
+<p>1 year,</p>
+<p>2 years,</p>
+<p>3 years</p>
+</td><td align="center" valign="top" rowspan="1" colspan="1">
+<p>11.4% (182/1594) proportions of participants had at least one symptom at 3 years after symptom onset or COVID‐19 diagnosis;</p>
+<p>Neurologic: fatigue (85/1594 [5.3%]) and myalgia (33/1594 [2.1%]);</p>
+<p>Respiratory: cough (24/1594 [1.5%]), shortness of breath (19/1594 [1.2%]), and expectoration (17/1594 [1.1%]);</p>
+<p>Cardiac: chest tightness (32/1594 [2%]);</p>
+<p>Psychiatric: anxiety (22/1594 [1.4%])</p>
+</td><td align="center" valign="top" rowspan="1" colspan="1">Multivariate logistic regression analysis showed that mechanical ventilation at hospitalization was associated with presence of at least one symptom. Univariable analysis showed that ICU admission at hospitalization was associated with higher risk of fatigue and symptom persistence.</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Eligulashvili et al. [<xref rid="jmv70429-bib-0005" ref-type="bibr">5</xref>]</td><td align="center" valign="top" rowspan="1" colspan="1">
+<p>1 year,</p>
+<p>2 years,</p>
+<p>3 years</p>
+</td><td align="center" valign="top" rowspan="1" colspan="1">
+<p>Patients with neurological signs: stroke (26/414 [6.28%]), major adverse cardiovascular events (85/414 [20.53%]), and mortality (58/414 [14.01%])</p>
+<p>Patients without neurological signs: stroke (28/1196 [2.34%]), major adverse cardiovascular events (198/1196 [16.51%]), and mortality (94/1196 [7.84%])</p>
+</td><td align="center" valign="top" rowspan="1" colspan="1">
+<p>Among both patients with and without neurological signs, non‐survivors were significantly older and had higher COVID‐19 severity score at hospitalization than survivors. In patients without neurological signs, non‐survivors had higher incidence of hypertension, diabetes, congestive heart failure, and chronic kidney disease compared to control survivors.</p>
+<p>Univariate logistic regression analysis showed that congestive heart failure, COVID‐19 severity score, and age were associated with mortality in patients with neurological signs.</p>
+</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Filev et al. [<xref rid="jmv70429-bib-0006" ref-type="bibr">6</xref>]</td><td align="center" valign="top" rowspan="1" colspan="1">3 year</td><td align="center" valign="top" rowspan="1" colspan="1">Creatinine and proteinuria or albumin/creatinine ratio significantly improved 3 years after the infection with patients without chronic kidney disease showing better recovery of renal function than those with any stage of chronic kidney disease before the COVID‐19 infection</td><td align="center" valign="top" rowspan="1" colspan="1">Logistic regression analysis showed that consuming Renin–angiotensin–aldosterone blockers before and during the pandemic, had no discernible effect during the postinfection period on reported PASC symptoms, including fatigue, cognitive dysfunction, chest pain, and sleep disturbances</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Han et al. [<xref rid="jmv70429-bib-0007" ref-type="bibr">7</xref>]</td><td align="center" valign="top" rowspan="1" colspan="1">
+<p>1 year,</p>
+<p>2 years,</p>
+<p>3 years</p>
+</td><td align="center" valign="top" rowspan="1" colspan="1">
+<p>23% (145/644) proportions of participants had at least one respiratory symptom at 3 years after symptom onset or COVID‐19 diagnosis;</p>
+<p>Respiratory: cough (84/728 [12%]), dyspnea (86/728 [12%]), expectoration (56/728 [7.7%])</p>
+<p>Pulmonary function: FEV1 &lt; 80% predicted (40/644 [6.2%]), DLCO &lt; 80% predicted (244/644 [38%])</p>
+</td><td align="center" valign="top" rowspan="1" colspan="1">Multivariate logistic regression analysis showed that higher COVID‐19 severity score at hospitalization and female gender were associated with higher risks of lung diffusion impairment</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Morioka et al. [<xref rid="jmv70429-bib-0008" ref-type="bibr">8</xref>]</td><td align="center" valign="top" rowspan="1" colspan="1">
+<p>1 year,</p>
+<p>2 years,</p>
+<p>3 years</p>
+</td><td align="center" valign="top" rowspan="1" colspan="1">5.7% (4/70) proportions of participants had at least one symptom at 3 years after symptom onset or COVID‐19 diagnosis</td><td align="center" valign="top" rowspan="1" colspan="1">NR</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Wu et al. [<xref rid="jmv70429-bib-0009" ref-type="bibr">9</xref>]</td><td align="center" valign="top" rowspan="1" colspan="1">
+<p>1 year,</p>
+<p>2 years,</p>
+<p>3 years</p>
+</td><td align="center" valign="top" rowspan="1" colspan="1">
+<p>50.5% (56/111) proportions of participants had at least one respiratory symptom at 3 years after symptom onset or COVID‐19 diagnosis;</p>
+<p>Respiratory: cough (19/111 [17.1%]), dyspnea (18/111 [16.2%]), expectoration (9/111 [8.1%])</p>
+<p>Pulmonary function: FEV1 &lt; 80% predicted (11/101 [10.9%]), DLCO &lt; 80% predicted (50/101 [49.5%])</p>
+</td><td align="center" valign="top" rowspan="1" colspan="1">Multivariate logistic regression analysis showed that higher COVID‐19 severity score at hospitalization and female gender were associated with higher risks of lung diffusion impairment</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Yang et al. [<xref rid="jmv70429-bib-0010" ref-type="bibr">10</xref>]</td><td align="center" valign="top" rowspan="1" colspan="1">
+<p>2 years,</p>
+<p>3 years</p>
+</td><td align="center" valign="top" rowspan="1" colspan="1">
+<p>29.7% (33/111) proportions of participants had at least one symptom at 3 years after symptom onset or COVID‐19 diagnosis;</p>
+<p>Neurologic: fatigue (85/613 [17%]);</p>
+<p>Respiratory: cough (24/613 [3.8%]), shortness of breath (19/613 [5.3%]);</p>
+<p>Psychiatric: difficulty sleeping (22/613 [9.8%]), joint pain (22/613 [6.9%])</p>
+</td><td align="center" valign="top" rowspan="1" colspan="1">Multivariate logistic regression analysis showed that diabetes, allergy, severe COVID‐19, and female gender were associated with impaired independent predictors of pulmonary diffusion dysfunction</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Zhang et al. [<xref rid="jmv70429-bib-0011" ref-type="bibr">11</xref>]</td><td align="center" valign="top" rowspan="1" colspan="1">
+<p>2 years,</p>
+<p>3 years</p>
+</td><td align="center" valign="top" rowspan="1" colspan="1">
+<p>54% (728/1358) proportions of participants had at least one symptom at 3 years after symptom onset or COVID‐19 diagnosis.</p>
+<p>Neurologic: fatigue (249/1358 [18%]), sleep difficulties (370/1358 [27%]), smell disorder (86/1358 [6%]), taste disorder (51/1358 [4%]), dizziness (77/1358 [6%]), myalgia (90/1358 [7%]), headache (61/1358 [4%]).</p>
+<p>Cardiac: palpitation (123/1358 [9%]).</p>
+<p>Psychiatric: depression (278/752 [37%]), anxiety (156/752 [21%]), pain or discomfort (393/752 [52%]), mobility problem (33/752 [4%]), usual activity problem (12/752 [2%]), and posttraumatic stress disorder symptom (120/16 [52%])</p>
+</td><td align="center" valign="top" rowspan="1" colspan="1">Multivariate logistic regression analysis showed that higher COVID‐19 severity score at hospitalization and older age were associated with dyspnea. Older age was associated with reduced daily activity. Female gender was associated with higher dyspnea and anxiety or depression symptoms and lower EQ‐VAS score. Regarding the vaccination status, administrating three or more doses of COVID‐19 vaccines was positively associated with EQ‐VAS score and negatively with reduced daily activity. Smoking was associated with depression and lower quality of life scores.</td></tr></tbody></table><table-wrap-foot><fn id="jmv70429-tbl2-note-0001"><p>Abbreviations: ADHD, attention‐deficit/hyperactivity disorder; BCVA, best‐corrected visual acuity; NR, not reported.</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &amp; Sons, Ltd.</copyright-holder></permissions></table-wrap></sec><sec id="jmv70429-sec-0190"><title>Author Contributions</title><p>
+<bold>Masoud Rahmati:</bold> literature search, study selection and data extraction, design, concept, wrote the initial draft, performed statistical analyses. <bold>Raphael Udeh:</bold> literature search, study selection and data extraction, design, concept, wrote the initial draft, performed statistical analyses. <bold>Jiseung Kang:</bold> literature search, study selection and data extraction. <bold>Xenia Dolja‐Gore:</bold> literature search, performed statistical analyses. <bold>Mark McEvoy:</bold> literature search, design, wrote the initial draft, performed statistical analyses. <bold>Abdolreza Kazemi:</bold> study selection and data extraction, wrote the initial draft. <bold>Pinar Soysal:</bold> study selection and data extraction. <bold>Lee Smith:</bold> wrote the initial draft. <bold>Guillaume Fond:</bold> design. <bold>Dong Keon Yon:</bold> literature search, design, wrote the initial draft, performed statistical analyses. <bold>Laurent Boyer:</bold> study selection and data extraction, design, wrote the initial draft. <bold>Masoud Rahmati, Raphael Udeh, Laurent Boyer</bold>, and <bold>Dong Keon Yon</bold> had full access to all data in this study and take responsibility for the integrity of the data and the accuracy of the data analysis. All authors: Critical revision of the manuscript for important intellectual content, reviewed and approved the final manuscript.</p></sec><sec sec-type="COI-statement" id="jmv70429-sec-0200"><title>Conflicts of Interest</title><p>The authors declare no conflicts of interest.</p></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material id="jmv70429-suppl-0001" position="float" content-type="local-data" orientation="portrait"><caption><p>Supplementary materials.</p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="JMV-97-e70429-s001.docx" position="float" orientation="portrait"/></supplementary-material></sec></body><back><sec sec-type="data-availability" id="jmv70429-sec-0220"><title>Data Availability Statement</title><p>The data that support the findings of this study are available from the corresponding author upon reasonable request. All data relevant to the study are included in the article or uploaded as supporting information. The data are available by accessing the published studies listed in Table <xref rid="jmv70429-tbl-0001" ref-type="table">1</xref>.</p></sec><ref-list content-type="cited-references" id="jmv70429-bibl-0001"><title>References</title><ref id="jmv70429-bib-0001"><label>1</label><mixed-citation publication-type="journal" id="jmv70429-cit-0001">
+<string-name name-style="western">
+<given-names>P.</given-names>
+<surname>Boscolo‐Rizzo</surname>
+</string-name>, <string-name name-style="western">
+<given-names>T.</given-names>
+<surname>Hummel</surname>
+</string-name>, <string-name name-style="western">
+<given-names>G.</given-names>
+<surname>Spinato</surname>
+</string-name>, et al., “<article-title>Olfactory and Gustatory Function 3 Years After Mild COVID‐19—A Cohort Psychophysical Study</article-title>,” <source>JAMA Otolaryngology‐Head &amp; Neck Surgery</source>
+<volume>150</volume>, no. <issue>1</issue> (<year>2024</year>): <fpage>79</fpage>–<lpage>81</lpage>, <pub-id pub-id-type="doi">10.1001/jamaoto.2023.3603</pub-id>.<pub-id pub-id-type="pmid">37943538</pub-id>
+<pub-id pub-id-type="pmcid">PMC10636652</pub-id></mixed-citation></ref><ref id="jmv70429-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="jmv70429-cit-0002">
+<string-name name-style="western">
+<given-names>A. V.</given-names>
+<surname>Bota</surname>
+</string-name>, <string-name name-style="western">
+<given-names>I.</given-names>
+<surname>Bogdan</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D. V.</given-names>
+<surname>Razvan</surname>
+</string-name>, et al., “<article-title>A Three‐Year Cross‐Sectional Analysis of Depression, Anxiety, and Quality of Life in Patients With Post‐COVID‐19 Syndrome</article-title>,” <source>International Journal of General Medicine</source>
+<volume>17</volume> (<year>2024</year>): <fpage>751</fpage>–<lpage>762</lpage>, <pub-id pub-id-type="doi">10.2147/IJGM.S453247</pub-id>.<pub-id pub-id-type="pmid">38476627</pub-id>
+<pub-id pub-id-type="pmcid">PMC10929241</pub-id></mixed-citation></ref><ref id="jmv70429-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="jmv70429-cit-0003">
+<string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Cai</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Xie</surname>
+</string-name>, <string-name name-style="western">
+<given-names>E. J.</given-names>
+<surname>Topol</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>Z.</given-names>
+<surname>Al‐Aly</surname>
+</string-name>, “<article-title>Three‐Year Outcomes of Post‐Acute Sequelae of COVID‐19</article-title>,” <source>Nature Medicine</source>
+<volume>30</volume>, no. <issue>6</issue> (<year>2024</year>): <fpage>1564</fpage>–<lpage>1573</lpage>, <pub-id pub-id-type="doi">10.1038/s41591-024-02987-8</pub-id>.<pub-id pub-id-type="pmcid">PMC11186764</pub-id><pub-id pub-id-type="pmid">38816608</pub-id></mixed-citation></ref><ref id="jmv70429-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="jmv70429-cit-0004">
+<string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Dai</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name name-style="western">
+<given-names>X. Y.</given-names>
+<surname>Yang</surname>
+</string-name>, et al., “<article-title>Health Outcomes of COVID‐19 Patients From Wuhan, China 3‐Year After Hospital Discharge: A Cohort Study</article-title>,” <source>BMJ Open</source>
+<volume>14</volume>, no. <issue>8</issue> (<year>2024</year>): <elocation-id>e084770</elocation-id>, <pub-id pub-id-type="doi">10.1136/bmjopen-2024-084770</pub-id>.<pub-id pub-id-type="pmcid">PMC11331845</pub-id><pub-id pub-id-type="pmid">39153784</pub-id></mixed-citation></ref><ref id="jmv70429-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="jmv70429-cit-0005">
+<string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Eligulashvili</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Gordon</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J. S.</given-names>
+<surname>Lee</surname>
+</string-name>, et al., “<article-title>Long‐Term Outcomes of Hospitalized Patients With SARS‐CoV‐2/COVID‐19 With and Without Neurological Involvement: 3‐Year Follow‐Up Assessment</article-title>,” <source>PLoS Medicine</source>
+<volume>21</volume>, no. <issue>4</issue> (<year>2024</year>): <elocation-id>e1004263</elocation-id>, <pub-id pub-id-type="doi">10.1371/journal.pmed.1004263</pub-id>.<pub-id pub-id-type="pmid">38573873</pub-id>
+<pub-id pub-id-type="pmcid">PMC10994395</pub-id></mixed-citation></ref><ref id="jmv70429-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="jmv70429-cit-0006">
+<string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Filev</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Lyubomirova</surname>
+</string-name>, <string-name name-style="western">
+<given-names>B.</given-names>
+<surname>Bogov</surname>
+</string-name>, et al., “<article-title>Post‐Acute Sequelae of SARS‐CoV‐2 Infection (PASC) for Patients‐3‐Year Follow‐Up of Patients With Chronic Kidney Disease</article-title>,” <source>Biomedicines</source>
+<volume>12</volume>, no. <issue>6</issue> (<year>2024</year>): <elocation-id>1259</elocation-id>, <pub-id pub-id-type="doi">10.3390/biomedicines12061259</pub-id>.<pub-id pub-id-type="pmid">38927466</pub-id>
+<pub-id pub-id-type="pmcid">PMC11201278</pub-id></mixed-citation></ref><ref id="jmv70429-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="jmv70429-cit-0007">
+<string-name name-style="western">
+<given-names>X.</given-names>
+<surname>Han</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Guo</surname>
+</string-name>, et al., “<article-title>Long‐Term Radiological and Pulmonary Function Abnormalities at 3 Years After COVID‐19 Hospitalisation: A Longitudinal Cohort Study</article-title>,” <source>European Respiratory Journal</source>
+<volume>64</volume>, no. <issue>1</issue> (<year>2024</year>): <elocation-id>2301612</elocation-id>, <pub-id pub-id-type="doi">10.1183/13993003.01612-2023</pub-id>.<pub-id pub-id-type="pmid">38387969</pub-id>
+<pub-id pub-id-type="pmcid">PMC11255387</pub-id></mixed-citation></ref><ref id="jmv70429-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="jmv70429-cit-0008">
+<string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Morioka</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Nikaido</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Tsuzuki</surname>
+</string-name>, et al., “<article-title>RETRACTED: Epidemiology of Post‐COVID Conditions Beyond 3 Years and Factors Associated With Their Persistence Longer Than 2 Years: A Cross‐Sectional Study</article-title>,” <source>Journal of Infection and Chemotherapy</source>
+<volume>30</volume>, no. <issue>8</issue> (<year>2024</year>): <fpage>734</fpage>–<lpage>740</lpage>, <pub-id pub-id-type="doi">10.1016/j.jiac.2024.02.009</pub-id>.<pub-id pub-id-type="pmid">38350510</pub-id>
+</mixed-citation></ref><ref id="jmv70429-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="jmv70429-cit-0009">
+<string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Wu</surname>
+</string-name>, <string-name name-style="western">
+<given-names>X.</given-names>
+<surname>Han</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Chen</surname>
+</string-name>, et al., “<article-title>Impact of Diabetes on Persistent Radiological Abnormalities and Pulmonary Diffusion Dysfunction in COVID‐19 Survivors: A 3‐Year Prospective Cohort Study</article-title>,” <source>Academic Radiology</source>
+<volume>32</volume>, no. <issue>1</issue> (<year>2025</year>): <fpage>471</fpage>–<lpage>481</lpage>, <pub-id pub-id-type="doi">10.1016/j.acra.2024.07.016</pub-id>.<pub-id pub-id-type="pmid">39069434</pub-id>
+</mixed-citation></ref><ref id="jmv70429-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="jmv70429-cit-0010">
+<string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Yang</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Guan</surname>
+</string-name>, <string-name name-style="western">
+<given-names>T.</given-names>
+<surname>Yang</surname>
+</string-name>, et al., “<article-title>Two‐ and 3‐Year Outcomes in Convalescent Individuals With COVID‐19: A Prospective Cohort Study</article-title>,” <source>Journal of Medical Virology</source>
+<volume>96</volume>, no. <issue>4</issue> (<year>2024</year>): <elocation-id>e29566</elocation-id>, <pub-id pub-id-type="doi">10.1002/jmv.29566</pub-id>.<pub-id pub-id-type="pmid">38572864</pub-id>
+</mixed-citation></ref><ref id="jmv70429-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="jmv70429-cit-0011">
+<string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Huang</surname>
+</string-name>, <string-name name-style="western">
+<given-names>X.</given-names>
+<surname>Gu</surname>
+</string-name>, et al., “<article-title>3‐Year Outcomes of Discharged Survivors of COVID‐19 Following the SARS‐CoV‐2 Omicron (B.1.1.529) Wave in 2022 in China: A Longitudinal Cohort Study</article-title>,” <source>Lancet Respiratory Medicine</source>
+<volume>12</volume>, no. <issue>1</issue> (<year>2024</year>): <fpage>55</fpage>–<lpage>66</lpage>, <pub-id pub-id-type="doi">10.1016/S2213-2600(23)00387-9</pub-id>.<pub-id pub-id-type="pmid">38000376</pub-id>
+</mixed-citation></ref><ref id="jmv70429-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="jmv70429-cit-0012">
+<string-name name-style="western">
+<given-names>C. M.</given-names>
+<surname>Tansey</surname>
+</string-name>, “<article-title>One‐Year Outcomes and Health Care Utilization in Survivors of Severe Acute Respiratory Syndrome</article-title>,” <source>Archives of Internal Medicine</source>
+<volume>167</volume>, no. <issue>12</issue> (<year>2007</year>): <fpage>1312</fpage>–<lpage>1320</lpage>, <pub-id pub-id-type="doi">10.1001/archinte.167.12.1312</pub-id>.<pub-id pub-id-type="pmid">17592106</pub-id>
+</mixed-citation></ref><ref id="jmv70429-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="jmv70429-cit-0013">
+<string-name name-style="western">
+<given-names>M. H. B.</given-names>
+<surname>Lam</surname>
+</string-name>, “<article-title>Mental Morbidities and Chronic Fatigue in Severe Acute Respiratory Syndrome Survivors: Long‐Term Follow‐Up</article-title>,” <source>Archives of Internal Medicine</source>
+<volume>169</volume>, no. <issue>22</issue> (<year>2009</year>): <fpage>2142</fpage>–<lpage>2147</lpage>, <pub-id pub-id-type="doi">10.1001/archinternmed.2009.384</pub-id>.<pub-id pub-id-type="pmid">20008700</pub-id>
+</mixed-citation></ref><ref id="jmv70429-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="jmv70429-cit-0014">
+<string-name name-style="western">
+<given-names>P.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Liu</surname>
+</string-name>, et al., “<article-title>Long‐Term Bone and Lung Consequences Associated With Hospital‐Acquired Severe Acute Respiratory Syndrome: A 15‐Year Follow‐Up From a Prospective Cohort Study</article-title>,” <source>Bone Research</source>
+<volume>8</volume> (<year>2020</year>): <fpage>8</fpage>, <pub-id pub-id-type="doi">10.1038/s41413-020-0084-5</pub-id>.<pub-id pub-id-type="pmid">32128276</pub-id>
+<pub-id pub-id-type="pmcid">PMC7018717</pub-id></mixed-citation></ref><ref id="jmv70429-bib-0015"><label>15</label><mixed-citation publication-type="journal" id="jmv70429-cit-0015">
+<string-name name-style="western">
+<given-names>F.</given-names>
+<surname>Di Gennaro</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Belati</surname>
+</string-name>, <string-name name-style="western">
+<given-names>O.</given-names>
+<surname>Tulone</surname>
+</string-name>, et al., “<article-title>Incidence of Long COVID‐19 in People With Previous SARS‐Cov2 Infection: A Systematic Review and Meta‐Analysis of 120,970 Patients</article-title>,” <source>Internal and Emergency Medicine</source>
+<volume>18</volume>, no. <issue>5</issue> (<year>2023</year>): <fpage>1573</fpage>–<lpage>1581</lpage>, <pub-id pub-id-type="doi">10.1007/s11739-022-03164-w</pub-id>.<pub-id pub-id-type="pmid">36449260</pub-id>
+<pub-id pub-id-type="pmcid">PMC9709360</pub-id></mixed-citation></ref><ref id="jmv70429-bib-0016"><label>16</label><mixed-citation publication-type="journal" id="jmv70429-cit-0016">
+<string-name name-style="western">
+<given-names>N.</given-names>
+<surname>Zeng</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Y. M.</given-names>
+<surname>Zhao</surname>
+</string-name>, <string-name name-style="western">
+<given-names>W.</given-names>
+<surname>Yan</surname>
+</string-name>, et al., “<article-title>A Systematic Review and Meta‐Analysis of Long Term Physical and Mental Sequelae of COVID‐19 Pandemic: Call for Research Priority and Action</article-title>,” <source>Molecular Psychiatry</source>
+<volume>28</volume>, no. <issue>1</issue> (<year>2023</year>): <fpage>423</fpage>–<lpage>433</lpage>, <pub-id pub-id-type="doi">10.1038/s41380-022-01614-7</pub-id>.<pub-id pub-id-type="pmid">35668159</pub-id>
+<pub-id pub-id-type="pmcid">PMC9168643</pub-id></mixed-citation></ref><ref id="jmv70429-bib-0017"><label>17</label><mixed-citation publication-type="journal" id="jmv70429-cit-0017">
+<string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Rahmati</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Udeh</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D. K.</given-names>
+<surname>Yon</surname>
+</string-name>, et al., “<article-title>A Systematic Review and Meta‐Analysis of Long‐Term Sequelae of COVID‐19 2‐Year After SARS‐CoV‐2 Infection: A Call to Action for Neurological, Physical, and Psychological Sciences</article-title>,” <source>Journal of Medical Virology</source>
+<volume>95</volume>, no. <issue>6</issue> (<year>2023</year>): <elocation-id>e28852</elocation-id>, <pub-id pub-id-type="doi">10.1002/jmv.28852</pub-id>.<pub-id pub-id-type="pmid">37288652</pub-id>
+</mixed-citation></ref><ref id="jmv70429-bib-0018"><label>18</label><mixed-citation publication-type="journal" id="jmv70429-cit-0018">
+<string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Tarsilla</surname>
+</string-name>, “<article-title>Cochrane Handbook for Systematic Reviews of Interventions</article-title>,” <source>Journal of MultiDisciplinary Evaluation</source>
+<volume>6</volume>, no. <issue>14</issue> (<year>2010</year>): <fpage>142</fpage>–<lpage>148</lpage>, <pub-id pub-id-type="doi">10.56645/jmde.v6i14.284</pub-id>.</mixed-citation></ref><ref id="jmv70429-bib-0019"><label>19</label><mixed-citation publication-type="journal" id="jmv70429-cit-0019">
+<string-name name-style="western">
+<given-names>S. W.</given-names>
+<surname>Lee</surname>
+</string-name> and <string-name name-style="western">
+<given-names>M. J.</given-names>
+<surname>Koo</surname>
+</string-name>, “<article-title>PRISMA 2020 Statement and Guidelines for Systematic Review and Meta‐Analysis Articles, and Their Underlying Mathematics: Life Cycle Committee Recommendations</article-title>,” <source>Life Cycle</source>
+<volume>2</volume> (<year>2022</year>): <elocation-id>e9</elocation-id>, <pub-id pub-id-type="doi">10.54724/lc.2022.e9</pub-id>.</mixed-citation></ref><ref id="jmv70429-bib-0020"><label>20</label><mixed-citation publication-type="journal" id="jmv70429-cit-0020">
+<string-name name-style="western">
+<given-names>M. B.</given-names>
+<surname>Eriksen</surname>
+</string-name> and <string-name name-style="western">
+<given-names>T. F.</given-names>
+<surname>Frandsen</surname>
+</string-name>, “<article-title>The Impact of Patient, Intervention, Comparison, Outcome (PICO) as a Search Strategy Tool on Literature Search Quality: A Systematic Review</article-title>,” <source>Journal of the Medical Library Association</source>
+<volume>106</volume>, no. <issue>4</issue> (<year>2018</year>): <fpage>420</fpage>–<lpage>431</lpage>, <pub-id pub-id-type="doi">10.5195/jmla.2018.345</pub-id>.<pub-id pub-id-type="pmid">30271283</pub-id>
+<pub-id pub-id-type="pmcid">PMC6148624</pub-id></mixed-citation></ref><ref id="jmv70429-bib-0021"><label>21</label><mixed-citation publication-type="journal" id="jmv70429-cit-0021">
+<string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Stang</surname>
+</string-name>, “<article-title>Critical Evaluation of the Newcastle‐Ottawa Scale for the Assessment of the Quality of Nonrandomized Studies in Meta‐Analyses</article-title>,” <source>European Journal of Epidemiology</source>
+<volume>25</volume>, no. <issue>9</issue> (<year>2010</year>): <fpage>603</fpage>–<lpage>605</lpage>, <pub-id pub-id-type="doi">10.1007/s10654-010-9491-z</pub-id>.<pub-id pub-id-type="pmid">20652370</pub-id>
+</mixed-citation></ref><ref id="jmv70429-bib-0022"><label>22</label><mixed-citation publication-type="journal" id="jmv70429-cit-0022">
+<string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Rahmati</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Koyanagi</surname>
+</string-name>, <string-name name-style="western">
+<given-names>E.</given-names>
+<surname>Banitalebi</surname>
+</string-name>, et al., “<article-title>The Effect of SARS‐CoV‐2 Infection on Cardiac Function in Post‐COVID‐19 Survivors: A Systematic Review and Meta‐Analysis</article-title>,” <source>Journal of Medical Virology</source>
+<volume>95</volume>, no. <issue>1</issue> (<year>2023</year>): <elocation-id>e28325</elocation-id>, <pub-id pub-id-type="doi">10.1002/jmv.28325</pub-id>.<pub-id pub-id-type="pmid">36401352</pub-id>
+</mixed-citation></ref><ref id="jmv70429-bib-0023"><label>23</label><mixed-citation publication-type="journal" id="jmv70429-cit-0023">
+<string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Rahmati</surname>
+</string-name>, <string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Lee</surname>
+</string-name>, <string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Lee</surname>
+</string-name>, et al., “<article-title>Associations Between Exercise Training, Physical Activity, Sedentary Behaviour and Mortality: An Umbrella Review of Meta‐Analyses</article-title>,” <source>Journal of Cachexia, Sarcopenia and Muscle</source>
+<volume>16</volume>, no. <issue>2</issue> (<year>2025</year>): <elocation-id>e13772</elocation-id>, <pub-id pub-id-type="doi">10.1002/jcsm.13772</pub-id>.<pub-id pub-id-type="pmid">40042073</pub-id>
+<pub-id pub-id-type="pmcid">PMC11880915</pub-id></mixed-citation></ref><ref id="jmv70429-bib-0024"><label>24</label><mixed-citation publication-type="journal" id="jmv70429-cit-0024">
+<string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Rahmati</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D. K.</given-names>
+<surname>Yon</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S. W.</given-names>
+<surname>Lee</surname>
+</string-name>, et al., “<article-title>New‐Onset Type 1 Diabetes in Children and Adolescents as Postacute Sequelae of SARS‐CoV‐2 Infection: A Systematic Review and Meta‐Analysis of Cohort Studies</article-title>,” <source>Journal of Medical Virology</source>
+<volume>95</volume>, no. <issue>6</issue> (<year>2023</year>): <elocation-id>e28833</elocation-id>, <pub-id pub-id-type="doi">10.1002/jmv.28833</pub-id>.<pub-id pub-id-type="pmid">37264687</pub-id>
+</mixed-citation></ref><ref id="jmv70429-bib-0025"><label>25</label><mixed-citation publication-type="journal" id="jmv70429-cit-0025">
+<string-name name-style="western">
+<given-names>Q.</given-names>
+<surname>Han</surname>
+</string-name>, <string-name name-style="western">
+<given-names>B.</given-names>
+<surname>Zheng</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Daines</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Sheikh</surname>
+</string-name>, “<article-title>Long‐Term Sequelae of COVID‐19: A Systematic Review and Meta‐Analysis of One‐Year Follow‐Up Studies on Post‐COVID Symptoms</article-title>,” <source>Pathogens</source>
+<volume>11</volume>, no. <issue>2</issue> (<year>2022</year>): <elocation-id>269</elocation-id>, <pub-id pub-id-type="doi">10.3390/pathogens11020269</pub-id>.<pub-id pub-id-type="pmid">35215212</pub-id>
+<pub-id pub-id-type="pmcid">PMC8875269</pub-id></mixed-citation></ref><ref id="jmv70429-bib-0026"><label>26</label><mixed-citation publication-type="journal" id="jmv70429-cit-0026">
+<string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Wulf Hanson</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Abbafati</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J. G.</given-names>
+<surname>Aerts</surname>
+</string-name>, et al., “<article-title>Estimated Global Proportions of Individuals With Persistent Fatigue, Cognitive, and Respiratory Symptom Clusters Following Symptomatic COVID‐19 in 2020 and 2021</article-title>,” <source>Journal of the American Medical Association</source>
+<volume>328</volume>, no. <issue>16</issue> (<year>2022</year>): <fpage>1604</fpage>–<lpage>1615</lpage>, <pub-id pub-id-type="doi">10.1001/jama.2022.18931</pub-id>.<pub-id pub-id-type="pmid">36215063</pub-id>
+<pub-id pub-id-type="pmcid">PMC9552043</pub-id></mixed-citation></ref><ref id="jmv70429-bib-0027"><label>27</label><mixed-citation publication-type="journal" id="jmv70429-cit-0027">
+<string-name name-style="western">
+<given-names>Z.</given-names>
+<surname>Al‐Aly</surname>
+</string-name>, <string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Davis</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L.</given-names>
+<surname>McCorkell</surname>
+</string-name>, et al., “<article-title>Long COVID Science, Research and Policy</article-title>,” <source>Nature Medicine</source>
+<volume>30</volume>, no. <issue>8</issue> (<year>2024</year>): <fpage>2148</fpage>–<lpage>2164</lpage>, <pub-id pub-id-type="doi">10.1038/s41591-024-03173-6</pub-id>.<pub-id pub-id-type="pmid">39122965</pub-id></mixed-citation></ref><ref id="jmv70429-bib-0028"><label>28</label><mixed-citation publication-type="journal" id="jmv70429-cit-0028">
+<string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Q.</given-names>
+<surname>Wu</surname>
+</string-name>, <string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Li</surname>
+</string-name>, et al., “<article-title>Multiomic Characterisation of the Long‐Term Sequelae of SARS Survivors: A Clinical Observational Study</article-title>,” <source>EClinicalMedicine</source>
+<volume>58</volume> (<year>2023</year>): <elocation-id>101884</elocation-id>, <pub-id pub-id-type="doi">10.1016/j.eclinm.2023.101884</pub-id>.<pub-id pub-id-type="pmid">36873427</pub-id>
+<pub-id pub-id-type="pmcid">PMC9969173</pub-id></mixed-citation></ref><ref id="jmv70429-bib-0029"><label>29</label><mixed-citation publication-type="journal" id="jmv70429-cit-0029">
+<string-name name-style="western">
+<given-names>X.</given-names>
+<surname>Wu</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Dong</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Ma</surname>
+</string-name>, “<article-title>Thin‐Section Computed Tomography Manifestations During Convalescence and Long‐Term Follow‐Up of Patients With Severe Acute Respiratory Syndrome (SARS)</article-title>,” <source>Medical Science Monitor</source>
+<volume>22</volume> (<year>2016</year>): <fpage>2793</fpage>–<lpage>2799</lpage>, <pub-id pub-id-type="doi">10.12659/msm.896985</pub-id>.<pub-id pub-id-type="pmid">27501327</pub-id>
+<pub-id pub-id-type="pmcid">PMC4982531</pub-id></mixed-citation></ref><ref id="jmv70429-bib-0030"><label>30</label><mixed-citation publication-type="journal" id="jmv70429-cit-0030">
+<string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Ottiger</surname>
+</string-name>, <string-name name-style="western">
+<given-names>I.</given-names>
+<surname>Poppele</surname>
+</string-name>, <string-name name-style="western">
+<given-names>N.</given-names>
+<surname>Sperling</surname>
+</string-name>, <string-name name-style="western">
+<given-names>T.</given-names>
+<surname>Schlesinger</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Müller</surname>
+</string-name>, “<article-title>Work Ability and Return‐to‐Work of Patients With Post‐COVID‐19: A Systematic Review and Meta‐Analysis</article-title>,” <source>BMC Public Health</source>
+<volume>24</volume>, no. <issue>1</issue> (<year>2024</year>): <fpage>1811</fpage>, <pub-id pub-id-type="doi">10.1186/s12889-024-19328-6</pub-id>.<pub-id pub-id-type="pmid">38973011</pub-id>
+<pub-id pub-id-type="pmcid">PMC11229229</pub-id></mixed-citation></ref><ref id="jmv70429-bib-0031"><label>31</label><mixed-citation publication-type="journal" id="jmv70429-cit-0031">
+<string-name name-style="western">
+<given-names>N. D.</given-names>
+<surname>Ford</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Slaughter</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Edwards</surname>
+</string-name>, et al., “<article-title>Long COVID and Significant Activity Limitation Among Adults, by Age ‐ United States, June 1‐13, 2022, to June 7‐19, 2023</article-title>,” <source>Morbidity and Mortality Weekly Report</source>
+<volume>72</volume>, no. <issue>32</issue> (<year>2023</year>): <fpage>866</fpage>–<lpage>870</lpage>, <pub-id pub-id-type="doi">10.15585/mmwr.mm7232a3</pub-id>.<pub-id pub-id-type="pmid">37561665</pub-id>
+<pub-id pub-id-type="pmcid">PMC10415000</pub-id></mixed-citation></ref><ref id="jmv70429-bib-0032"><label>32</label><mixed-citation publication-type="journal" id="jmv70429-cit-0032">
+<string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Fernández‐de‐Las‐Peñas</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Torres‐Macho</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J. A.</given-names>
+<surname>Catahay</surname>
+</string-name>, et al., “<article-title>Is Antiviral Treatment at the Acute Phase of COVID‐19 Effective for Decreasing the Risk of Long‐COVID? A Systematic Review</article-title>,” <source>Infection</source>
+<volume>52</volume>, no. <issue>1</issue> (<year>2024</year>): <fpage>43</fpage>–<lpage>58</lpage>, <pub-id pub-id-type="doi">10.1007/s15010-023-02154-0</pub-id>.<pub-id pub-id-type="pmid">38113020</pub-id>
+</mixed-citation></ref><ref id="jmv70429-bib-0033"><label>33</label><mixed-citation publication-type="journal" id="jmv70429-cit-0033">
+<string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Fernandez‐de‐Las‐Peñas</surname>
+</string-name>, <string-name name-style="western">
+<given-names>K. I.</given-names>
+<surname>Notarte</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Macasaet</surname>
+</string-name>, et al., “<article-title>Persistence of Post‐COVID Symptoms in the General Population Two Years After SARS‐CoV‐2 Infection: A Systematic Review and Meta‐Analysis</article-title>,” <source>Journal of Infection</source>
+<volume>88</volume>, no. <issue>2</issue> (<year>2024</year>): <fpage>77</fpage>–<lpage>88</lpage>, <pub-id pub-id-type="doi">10.1016/j.jinf.2023.12.004</pub-id>.<pub-id pub-id-type="pmid">38101521</pub-id>
+</mixed-citation></ref><ref id="jmv70429-bib-0034"><label>34</label><mixed-citation publication-type="journal" id="jmv70429-cit-0034">
+<string-name name-style="western">
+<given-names>K. I.</given-names>
+<surname>Notarte</surname>
+</string-name>, <string-name name-style="western">
+<given-names>T. H. D. C.</given-names>
+<surname>Carandang</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J. V.</given-names>
+<surname>Velasco</surname>
+</string-name>, et al., “<article-title>Autoantibodies in COVID‐19 Survivors With Post‐COVID Symptoms: A Systematic Review</article-title>,” <source>Frontiers in immunology</source>
+<volume>15</volume> (<year>2024</year>): <elocation-id>1428645</elocation-id>, <pub-id pub-id-type="doi">10.3389/fimmu.2024.1428645</pub-id>.<pub-id pub-id-type="pmid">39035011</pub-id>
+<pub-id pub-id-type="pmcid">PMC11257835</pub-id></mixed-citation></ref><ref id="jmv70429-bib-0035"><label>35</label><mixed-citation publication-type="journal" id="jmv70429-cit-0035">
+<string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Fernández‐de‐Las‐Peñas</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Torres‐Macho</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Macasaet</surname>
+</string-name>, et al., “<article-title>Presence of SARS‐CoV‐2 RNA in COVID‐19 Survivors With Post‐COVID Symptoms: A Systematic Review of the Literature</article-title>,” <source>Clinical Chemistry and Laboratory Medicine</source>
+<volume>62</volume>, no. <issue>6</issue> (<year>2024</year>): <fpage>1044</fpage>–<lpage>1052</lpage>, <pub-id pub-id-type="doi">10.1515/cclm-2024-0036</pub-id>.<pub-id pub-id-type="pmid">38366966</pub-id>
+</mixed-citation></ref><ref id="jmv70429-bib-0036"><label>36</label><mixed-citation publication-type="journal" id="jmv70429-cit-0036">
+<string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Fernández‐de‐Las‐Peñas</surname>
+</string-name>, <string-name name-style="western">
+<given-names>K. I.</given-names>
+<surname>Notarte</surname>
+</string-name>, <string-name name-style="western">
+<given-names>P. J.</given-names>
+<surname>Peligro</surname>
+</string-name>, et al., “<article-title>Long‐COVID Symptoms in Individuals Infected With Different SARS‐CoV‐2 Variants of Concern: A Systematic Review of the Literature</article-title>,” <source>Viruses</source>
+<volume>14</volume>, no. <issue>12</issue> (<year>2022</year>): <elocation-id>2629</elocation-id>, <pub-id pub-id-type="doi">10.3390/v14122629</pub-id>.<pub-id pub-id-type="pmid">36560633</pub-id>
+<pub-id pub-id-type="pmcid">PMC9785120</pub-id></mixed-citation></ref><ref id="jmv70429-bib-0037"><label>37</label><mixed-citation publication-type="journal" id="jmv70429-cit-0037">
+<string-name name-style="western">
+<given-names>M. J.</given-names>
+<surname>Peluso</surname>
+</string-name> and <string-name name-style="western">
+<given-names>S. G.</given-names>
+<surname>Deeks</surname>
+</string-name>, “<article-title>Mechanisms of Long COVID and the Path Toward Therapeutics</article-title>,” <source>Cell</source>
+<volume>187</volume>, no. <issue>20</issue> (<year>2024</year>): <fpage>5500</fpage>–<lpage>5529</lpage>, <pub-id pub-id-type="doi">10.1016/j.cell.2024.07.054</pub-id>.<pub-id pub-id-type="pmid">39326415</pub-id>
+<pub-id pub-id-type="pmcid">PMC11455603</pub-id></mixed-citation></ref><ref id="jmv70429-bib-0038"><label>38</label><mixed-citation publication-type="journal" id="jmv70429-cit-0038">
+<string-name name-style="western">
+<given-names>T.</given-names>
+<surname>Greenhalgh</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Sivan</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Perlowski</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Nikolich</surname>
+</string-name>, “<article-title>Long COVID: A Clinical Update</article-title>,” <source>Lancet</source>
+<volume>404</volume>, no. <issue>10453</issue> (<year>2024</year>): <fpage>707</fpage>–<lpage>724</lpage>, <pub-id pub-id-type="doi">10.1016/S0140-6736(24)01136-X</pub-id>.<pub-id pub-id-type="pmid">39096925</pub-id>
+</mixed-citation></ref></ref-list></back></article></pmc-articleset>

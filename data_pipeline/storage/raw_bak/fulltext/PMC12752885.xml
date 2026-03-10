@@ -1,0 +1,2334 @@
+<?xml version="1.0"  ?><!DOCTYPE pmc-articleset PUBLIC "-//NLM//DTD ARTICLE SET 2.0//EN" "https://dtd.nlm.nih.gov/ncbi/pmc/articleset/nlm-articleset-2.0.dtd"><pmc-articleset><article id="ijta8879520" xml:lang="en" article-type="research-article" dtd-version="1.4"><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">Int J Telemed Appl</journal-id><journal-id journal-id-type="iso-abbrev">Int J Telemed Appl</journal-id><journal-id journal-id-type="pmc-domain-id">588</journal-id><journal-id journal-id-type="pmc-domain">ijta</journal-id><journal-id journal-id-type="publisher-id">IJTA</journal-id><journal-title-group><journal-title>International Journal of Telemedicine and Applications</journal-title></journal-title-group><issn pub-type="ppub">1687-6415</issn><issn pub-type="epub">1687-6423</issn><publisher><publisher-name>Wiley</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC12752885</article-id><article-id pub-id-type="pmcid-ver">PMC12752885.1</article-id><article-id pub-id-type="pmcaid">12752885</article-id><article-id pub-id-type="pmcaiid">12752885</article-id><article-id pub-id-type="pmid">41477577</article-id><article-id pub-id-type="doi">10.1155/ijta/8879520</article-id><article-id pub-id-type="publisher-id">IJTA8879520</article-id><article-version article-version-type="pmc-version">1</article-version><article-categories><subj-group subj-group-type="overline"><subject>Research Article</subject></subj-group><subj-group subj-group-type="heading"><subject>Article</subject></subj-group></article-categories><title-group><article-title>Acceptability of Telehealth‐Delivered Occupational Therapy Among Individuals With Long COVID Using the Theoretical Framework of Acceptability: A Qualitative Study</article-title></title-group><contrib-group><contrib id="cr-0001" contrib-type="author" corresp="yes"><name name-style="western"><surname>Müllenmeister</surname><given-names initials="C">Christina</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-5500-7416</contrib-id><xref rid="aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref><address><email>christina.muellenmeister@hawk.de</email></address></contrib><contrib id="cr-0002" contrib-type="author"><name name-style="western"><surname>Königs</surname><given-names initials="G">Gloria</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0009-0004-1393-6964</contrib-id><xref rid="aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="cr-0003" contrib-type="author"><name name-style="western"><surname>Heinemann</surname><given-names initials="S">Stephanie</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-3937-5956</contrib-id><xref rid="aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref></contrib><contrib id="cr-0004" contrib-type="author"><name name-style="western"><surname>Schröder</surname><given-names initials="D">Dominik</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-3564-4725</contrib-id><xref rid="aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="cr-0005" contrib-type="author"><name name-style="western"><surname>Müller</surname><given-names initials="F">Frank</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-9496-9423</contrib-id><xref rid="aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="aff-0004" ref-type="aff">
+<sup>4</sup>
+</xref></contrib><contrib id="cr-0006" contrib-type="author"><name name-style="western"><surname>Hummers</surname><given-names initials="E">Eva</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0003-2707-6067</contrib-id><xref rid="aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="cr-0007" contrib-type="author"><name name-style="western"><surname>Stölting</surname><given-names initials="A">Andrea</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-7084-9013</contrib-id><xref rid="aff-0005" ref-type="aff">
+<sup>5</sup>
+</xref></contrib><contrib id="cr-0008" contrib-type="author"><name name-style="western"><surname>Happle</surname><given-names initials="C">Christine</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0003-0096-3272</contrib-id><xref rid="aff-0005" ref-type="aff">
+<sup>5</sup>
+</xref><xref rid="aff-0006" ref-type="aff">
+<sup>6</sup>
+</xref><xref rid="aff-0007" ref-type="aff">
+<sup>7</sup>
+</xref></contrib><contrib id="cr-0009" contrib-type="author"><name name-style="western"><surname>Dopfer-Jablonka</surname><given-names initials="A">Alexandra</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0001-7129-100X</contrib-id><xref rid="aff-0005" ref-type="aff">
+<sup>5</sup>
+</xref><xref rid="aff-0008" ref-type="aff">
+<sup>8</sup>
+</xref></contrib><contrib id="cr-0010" contrib-type="author"><name name-style="western"><surname>Behrens</surname><given-names initials="G">Georg</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0003-3111-621X</contrib-id><xref rid="aff-0005" ref-type="aff">
+<sup>5</sup>
+</xref><xref rid="aff-0009" ref-type="aff">
+<sup>9</sup>
+</xref></contrib><contrib id="cr-0011" contrib-type="author"><name name-style="western"><surname>Marotzki</surname><given-names initials="U">Ulrike</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0009-0006-8917-5043</contrib-id><xref rid="aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib id="cr-0012" contrib-type="author"><name name-style="western"><surname>Schmachtenberg</surname><given-names initials="T">Tim</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-4232-5095</contrib-id><xref rid="aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="aff-0005" ref-type="aff">
+<sup>5</sup>
+</xref></contrib></contrib-group><contrib-group><contrib id="cr-0013" contrib-type="editor"><name name-style="western"><surname>Sarwar</surname><given-names initials="N">Nadeem</given-names></name><address><email>nsarwar.bulc@bahria.edu.pk</email></address></contrib></contrib-group><aff id="aff-0001">
+<label>
+<sup>1</sup>
+</label>
+<named-content content-type="organisation-division">Department of General Practice</named-content>, <institution>University Medical Center Goettingen</institution>, <city>Goettingen</city>, <country>Germany</country>, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://uni-goettingen.de" ext-link-type="uri">uni-goettingen.de</ext-link>
+</aff><aff id="aff-0002">
+<label>
+<sup>2</sup>
+</label>
+<named-content content-type="organisation-division">Faculty of Social Work and Health</named-content>, <institution>Hawk University of Applied Sciences and Arts Hildesheim</institution>, <city>Goettingen</city>, <named-content content-type="country-part">Hildesheim</named-content>, <country>Germany</country>
+</aff><aff id="aff-0003">
+<label>
+<sup>3</sup>
+</label>
+<named-content content-type="organisation-division">Department of Geriatrics</named-content>, <institution>University Medical Center Goettingen</institution>, <city>Goettingen</city>, <country>Germany</country>, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://uni-goettingen.de" ext-link-type="uri">uni-goettingen.de</ext-link>
+</aff><aff id="aff-0004">
+<label>
+<sup>4</sup>
+</label>
+<named-content content-type="organisation-division">Department of Family Medicine</named-content>, <institution>Michigan State University</institution>, <city>Grand Rapids</city>, <named-content content-type="country-part">Michigan</named-content>, <country>USA</country>, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://msu.edu" ext-link-type="uri">msu.edu</ext-link>
+</aff><aff id="aff-0005">
+<label>
+<sup>5</sup>
+</label>
+<named-content content-type="organisation-division">Department of Rheumatology and Immunology</named-content>, <institution>Hannover Medical School</institution>, <city>Hannover</city>, <country>Germany</country>, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://mh-hannover.de" ext-link-type="uri">mh-hannover.de</ext-link>
+</aff><aff id="aff-0006">
+<label>
+<sup>6</sup>
+</label>
+<named-content content-type="organisation-division">Department of Pediatric Pulmonology</named-content>, <named-content content-type="organisation-division">Allergology and Neonatology</named-content>, <institution>Hannover Medical School</institution>, <city>Hannover</city>, <country>Germany</country>, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://mh-hannover.de" ext-link-type="uri">mh-hannover.de</ext-link>
+</aff><aff id="aff-0007">
+<label>
+<sup>7</sup>
+</label>
+<named-content content-type="organisation-division">Biomedical Research in End-Stage and Obstructive Lung Disease (BREATH)</named-content>, <institution>Hannover Medical School</institution>, <city>Hannover</city>, <country>Germany</country>, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://mh-hannover.de" ext-link-type="uri">mh-hannover.de</ext-link>
+</aff><aff id="aff-0008">
+<label>
+<sup>8</sup>
+</label>
+<named-content content-type="organisation-division">German Center for Lung Research (DZL)</named-content>, <named-content content-type="organisation-division">RESIST Cluster of Excellence</named-content>, <city>Hannover</city>, <country>Germany</country>, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://dzl.de" ext-link-type="uri">dzl.de</ext-link>
+</aff><aff id="aff-0009">
+<label>
+<sup>9</sup>
+</label>
+<named-content content-type="organisation-division">German Center for Infection Research</named-content>, <named-content content-type="organisation-division">Partner Site Hannover-Brunswick</named-content>, <city>Hannover</city>, <country>Germany</country>, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://dzif.de" ext-link-type="uri">dzif.de</ext-link>
+</aff><pub-date pub-type="epub"><day>12</day><month>12</month><year>2025</year></pub-date><pub-date pub-type="collection"><year>2025</year></pub-date><volume>2025</volume><issue-id pub-id-type="pmc-issue-id">479487</issue-id><elocation-id>8879520</elocation-id><history><date date-type="rev-recd"><day>11</day><month>5</month><year>2025</year></date><date date-type="received"><day>31</day><month>5</month><year>2024</year></date><date date-type="accepted"><day>04</day><month>11</month><year>2025</year></date></history><pub-history><event event-type="pmc-release"><date><day>12</day><month>12</month><year>2025</year></date></event><event event-type="pmc-live"><date><day>31</day><month>12</month><year>2025</year></date></event><event event-type="pmc-last-change"><date iso-8601-date="2026-01-01 09:25:13.190"><day>01</day><month>01</month><year>2026</year></date></event></pub-history><permissions><copyright-statement content-type="article-copyright">Copyright © 2025 Christina Müllenmeister et al. International Journal of Telemedicine and Applications published by John Wiley &amp; Sons Ltd.</copyright-statement><copyright-year>2025</copyright-year><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>This is an open access article under the terms of the <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link>, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pmc-pdf" xlink:href="IJTA-2025-8879520.pdf"/><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pdf" xlink:href="file:IJTA-2025-8879520.pdf"/><abstract><sec id="sec-0001"><title>Background</title><p>Long COVID still challenges healthcare systems worldwide. Tailored treatments are scarce. In the ErgoLoCo study, we have developed and tested a telehealth‐delivered occupational therapy intervention for people affected by long COVID. Acceptability from both recipients and providers is a prerequisite for implementing such new interventions.</p></sec><sec id="sec-0002"><title>Aim</title><p>This study is aimed at exploring the perceptions of people with long COVID and occupational therapists regarding the intervention′s acceptability and telehealth delivery approaches.</p></sec><sec id="sec-0003"><title>Methods</title><p>Semistructured interviews were conducted with 13 participants who experience long COVID and received the ErgoLoCo intervention delivered as teletherapy sessions or prerecorded videos. Eight occupational therapists who guided the teletherapy sessions participated in a focus group. Materials were analyzed following qualitative descriptive methods and interpreted using the theoretical framework of acceptability (TFA).</p></sec><sec id="sec-0004"><title>Results</title><p>Occupational therapists and long COVID clients considered the occupational therapy approach a positive experience. While all participants in the teletherapy group found the occupational therapy approach helpful in coping with long COVID symptoms and regaining participation in meaningful occupations, perceptions varied in the group supplied with prerecorded videos. Some saw the intervention as helpful, but all emphasized the need for professional support from occupational therapists to use the program more effectively. The occupational therapists emphasized the need to tailor the therapy content to clients′ needs to ensure effective and successful management of occupational challenges.</p></sec><sec id="sec-0005"><title>Discussion</title><p>The study highlights telehealth‐delivered occupational therapy′s potential benefits and challenges for individuals with long COVID. It contributes to understanding the challenges and potential of telehealth‐delivered occupational therapy for long COVID rehabilitation. This study′s key finding is the importance of personalized and professionally guided telehealth interventions.</p><p>
+<bold>Trial Registration:</bold> German Clinical Trial Registry identifier DRKS00029990</p></sec></abstract><funding-group><award-group id="funding-0001"><funding-source>
+<institution-wrap><institution>Göttingen University</institution></institution-wrap>
+</funding-source></award-group></funding-group><funding-group><award-group id="funding-0002"><funding-source>
+<institution-wrap><institution>Bundesministerium für Bildung und Forschung</institution><institution-id institution-id-type="doi">10.13039/501100002347</institution-id></institution-wrap>
+</funding-source><award-id>FKZ 01EP2103A</award-id></award-group></funding-group><counts><fig-count count="1"/><table-count count="6"/><ref-count count="74"/><page-count count="15"/><word-count count="8618"/></counts><custom-meta-group><custom-meta><meta-name>pmc-status-qastatus</meta-name><meta-value>0</meta-value></custom-meta><custom-meta><meta-name>pmc-status-live</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-status-embargo</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-status-released</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-access</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-legally-suppressed</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-pdf</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-supplement</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-pdf-only</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-suppress-copyright</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-real-version</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-scanned-article</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-in-epmc</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-license-ref</meta-name><meta-value>CC BY</meta-value></custom-meta><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>2025</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:6.6.6 mode:remove_FC converted:12.12.2025</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="ijta8879520-cit-2001">
+<string-name name-style="western">
+<surname>Müllenmeister</surname>, <given-names>Christina</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Königs</surname>, <given-names>Gloria</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Heinemann</surname>, <given-names>Stephanie</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Schröder</surname>, <given-names>Dominik</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Müller</surname>, <given-names>Frank</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Hummers</surname>, <given-names>Eva</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Stölting</surname>, <given-names>Andrea</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Happle</surname>, <given-names>Christine</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Dopfer‐Jablonka</surname>, <given-names>Alexandra</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Behrens</surname>, <given-names>Georg</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Marotzki</surname>, <given-names>Ulrike</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Schmachtenberg</surname>, <given-names>Tim</given-names>
+</string-name>, 
+<article-title>Acceptability of Telehealth‐Delivered Occupational Therapy Among Individuals With Long COVID Using the Theoretical Framework of Acceptability: A Qualitative Study</article-title>, 
+<source>International Journal of Telemedicine and Applications</source>, <volume>2025</volume>, <elocation-id>8879520</elocation-id>, 15 pages, <year>2025</year>. 
+<pub-id pub-id-type="doi">10.1155/ijta/8879520</pub-id>
+</mixed-citation>
+</p><fn-group><fn id="note-0001"><p>
+<bold>Academic Editor:</bold> Nadeem Sarwar</p></fn></fn-group></notes></front><body><sec id="sec-0006"><title>1. Introduction</title><p>Long COVID, also known as post‐acute sequelae of SARS‐CoV‐2 infection (PASC), is still challenging healthcare systems worldwide [<xref rid="bib-0001" ref-type="bibr">1</xref>, <xref rid="bib-0002" ref-type="bibr">2</xref>]. Affected people may experience various persistent symptoms after an acute COVID‐19 infection, such as fatigue, brain fog, dizziness, shortness of breath, or muscle pain [<xref rid="bib-0003" ref-type="bibr">3</xref>–<xref rid="bib-0005" ref-type="bibr">5</xref>].</p><p>Affected people often struggle to access care, and feasible and tailored rehabilitation strategies and quality of life are urgently needed [<xref rid="bib-0006" ref-type="bibr">6</xref>, <xref rid="bib-0007" ref-type="bibr">7</xref>]. The complexity of the syndrome underscores the need to innovate and refine diagnostic and therapeutic modalities to ensure greater precision and improve client care that can address medical challenges with a more focused attitude [<xref rid="bib-0008" ref-type="bibr">8</xref>–<xref rid="bib-0010" ref-type="bibr">10</xref>].</p><p>Occupational therapy is an essential part of the multimodal management of long COVID and is recommended in treatment guidelines [<xref rid="bib-0011" ref-type="bibr">11</xref>–<xref rid="bib-0013" ref-type="bibr">13</xref>]. Occupational therapy focuses on enabling people to regain autonomy in self‐management and restoring engagement, performance, and participation in meaningful occupations. Meaningful occupations encompass activities people want, need, or are expected to do daily, including work, self‐care, or leisure activities [<xref rid="bib-0014" ref-type="bibr">14</xref>–<xref rid="bib-0018" ref-type="bibr">18</xref>]. Research indicates that inpatient and outpatient occupational therapy interventions for long COVID clients encompass a variety of strategies to enhance self‐management, functionality, and independence in daily life, which are applicable in the context of long COVID rehabilitation [<xref rid="bib-0019" ref-type="bibr">19</xref>–<xref rid="bib-0024" ref-type="bibr">24</xref>].</p><p>Studies have particularly highlighted the importance of easy access, equity, and minimal client care burden, acknowledging the fluctuation of symptom strengths in long Covid [<xref rid="bib-0025" ref-type="bibr">25</xref>, <xref rid="bib-0026" ref-type="bibr">26</xref>]. Telehealth approaches may have advantages as they can be easily accessible to a large number of affected people and should thus be further explored [<xref rid="bib-0027" ref-type="bibr">27</xref>–<xref rid="bib-0029" ref-type="bibr">29</xref>]. We use the term telehealth as defined by the World Federation of Occupational Therapists (WFOT):’[…] the use of information and communication technologies (ICTs) to deliver health‐related services when the provider and client are in different physical locations’ (p 37) [<xref rid="bib-0030" ref-type="bibr">30</xref>]. These services can be synchronous, such as videoconferencing consultations between an occupational therapist and a client, or asynchronous, such as prerecorded instruction via video, e‐mail, photos, and so forth [<xref rid="bib-0030" ref-type="bibr">30</xref>]. Recent studies point to telehealth in occupational therapy providing effective models of provision [<xref rid="bib-0031" ref-type="bibr">31</xref>–<xref rid="bib-0035" ref-type="bibr">35</xref>].</p><p>Other authors have demonstrated the potential of telehealth interventions for long COVID clients, for example, through online peer support groups, digital physiotherapy interventions, or programs aimed at improving physical and mental health [<xref rid="bib-0036" ref-type="bibr">36</xref>–<xref rid="bib-0043" ref-type="bibr">43</xref>]. Despite these promising approaches, to our knowledge, telehealth interventions developed for long COVID in occupational therapy have not been evaluated yet. The acceptability of synchronous versus asynchronous occupational therapy telehealth concepts is a further unstudied topic, but it is important to prevent non‐use and allow a successful implementation [<xref rid="bib-0044" ref-type="bibr">44</xref>].</p><p>This study is aimed at exploring the intervention′s acceptability by applying the theoretical framework of acceptability (TFA). TFA accounts for both cognitive and emotional responses and thus provides insights into the perceived appropriateness of telehealth‐delivered occupational therapy for both providers and long COVID recipients [<xref rid="bib-0045" ref-type="bibr">45</xref>]. This framework facilitates a comprehensive acceptability assessment across prospective, concurrent, and retrospective studies and has been used in various studies [<xref rid="bib-0046" ref-type="bibr">46</xref>–<xref rid="bib-0048" ref-type="bibr">48</xref>].</p></sec><sec id="sec-0007"><title>2. Materials and Methods</title><sec id="sec-0008"><title>2.1. Study Setting and Design</title><p>In this paper, we report on the results of the process evaluation of the ErgoLoCo project. In ErgoLoCo, a concept for telehealth‐delivered occupational therapy was developed. Feasibility and efficacy were assessed in a randomised controlled pilot trial (pilot‐RCT). Details are outlined in a study protocol [<xref rid="bib-0049" ref-type="bibr">49</xref>]. In brief, <italic toggle="yes">n</italic> = 158 participants with long COVID were randomly assigned to (a) a synchronous teletherapy group, (b) an asynchronous video group, or (c) a control group (watch‐and‐wait). Both intervention groups received occupational therapy twice weekly for 12 weeks. Efficacy outcomes have been reported in a separate paper [<xref rid="bib-0050" ref-type="bibr">50</xref>].</p><p>As part of the process evaluation, we employed a qualitative descriptive design to elucidate individual variations in experiences and outcomes to foster the ongoing refinement of the intervention [<xref rid="bib-0051" ref-type="bibr">51</xref>]. We used the qualitative approach to acknowledge that the acceptability of an intervention is subjectively evaluated by those undergoing or guiding the intervention [<xref rid="bib-0045" ref-type="bibr">45</xref>]. Therefore, this study is aimed at exploring participants′ and occupational therapists′ perceptions of the program′s acceptability.</p></sec><sec id="sec-0009"><title>2.2. The Occupational Therapy Program</title><p>The occupational therapy program comprises six modules, each containing four 30‐min therapy sessions. Professional occupational therapists led the teletherapy group, while the video group completed the program independently with video instructions. All participants received a workbook containing session materials and “do@home‐tasks” to reinforce therapy in daily life. The Canadian Occupational Performance Measure (COPM) was used to assess occupational performance and satisfaction before the first session and after the last session. The program was developed by CM, an experienced occupational therapist, based on a literature review and expert input from Germany, Austria, and Switzerland, aims to enhance self‐management and engagement in meaningful activities [<xref rid="bib-0049" ref-type="bibr">49</xref>, <xref rid="bib-0052" ref-type="bibr">52</xref>]. Table <xref rid="tbl-0001" ref-type="table">1</xref> provides an overview of the program.</p><table-wrap position="float" id="tbl-0001" content-type="Table" orientation="portrait"><label>Table 1</label><caption><p>Overview of the occupational therapy program, consisting of 24 therapy sessions, structured in 6 consecutive modules, including four therapy sessions (INT) each; COPM, Canadian Occupational Performance Measure.</p></caption><table frame="hsides" rules="groups"><col span="1"/><col span="1"/><col span="1"/><thead><tr><th align="left" rowspan="1" colspan="1">
+<bold>Module</bold>
+</th><th align="center" rowspan="1" colspan="1">
+<bold>Intervention</bold>
+</th><th align="center" rowspan="1" colspan="1">
+<bold>Content</bold>
+</th></tr></thead><tbody><tr><td rowspan="4" align="left" colspan="1">
+<list list-type="simple"><list-item><p>1</p></list-item><list-item><p>Inventory</p></list-item></list>
+</td><td align="center" rowspan="1" colspan="1">INT 1</td><td align="center" rowspan="1" colspan="1">Entry to OT and identification of occupational concerns arising from Long COVID (COPM)</td></tr><tr><td align="center" rowspan="1" colspan="1">INT 2</td><td align="center" rowspan="1" colspan="1">Analysis of occupational performance problems</td></tr><tr><td align="center" rowspan="1" colspan="1">INT 3</td><td align="center" rowspan="1" colspan="1">Understanding occupational performance problems</td></tr><tr><td align="center" rowspan="1" colspan="1">INT 4</td><td align="center" rowspan="1" colspan="1">Identifying resources to comprehend and recover the client’s occupational repertoire</td></tr><tr style="border-bottom:solid 1px #000000"><td colspan="3" rowspan="1">  </td></tr><tr><td rowspan="4" align="left" colspan="1">
+<list list-type="simple"><list-item><p>2</p></list-item><list-item><p>Occupational balance</p></list-item></list>
+</td><td align="center" rowspan="1" colspan="1">INT 5</td><td align="center" rowspan="1" colspan="1">Managing occupational performance challenges by utilizing available resources</td></tr><tr><td align="center" rowspan="1" colspan="1">INT 6</td><td align="center" rowspan="1" colspan="1">Learning to balance occupational requirements</td></tr><tr><td align="center" rowspan="1" colspan="1">INT 7</td><td align="center" rowspan="1" colspan="1">Break‐management</td></tr><tr><td align="center" rowspan="1" colspan="1">INT 8</td><td align="center" rowspan="1" colspan="1">Applying break management in everyday life</td></tr><tr style="border-bottom:solid 1px #000000"><td colspan="3" rowspan="1">  </td></tr><tr><td rowspan="4" align="left" colspan="1">
+<list list-type="simple"><list-item><p>3</p></list-item><list-item><p>Manage everyday situations</p></list-item></list>
+</td><td align="center" rowspan="1" colspan="1">INT 9</td><td align="center" rowspan="1" colspan="1">Develop strategies for carrying out meaningful activities and occupations</td></tr><tr><td align="center" rowspan="1" colspan="1">INT 10</td><td align="center" rowspan="1" colspan="1">Implement strategies for carrying out meaningful activities and occupations</td></tr><tr><td align="center" rowspan="1" colspan="1">INT 11</td><td align="center" rowspan="1" colspan="1">Plan and perform complex occupations</td></tr><tr><td align="center" rowspan="1" colspan="1">INT 12</td><td align="center" rowspan="1" colspan="1">Monitoring day‐to‐day management</td></tr><tr style="border-bottom:solid 1px #000000"><td colspan="3" rowspan="1">  </td></tr><tr><td rowspan="4" align="left" colspan="1">
+<list list-type="simple"><list-item><p>4</p></list-item><list-item><p>Everyday life training</p></list-item></list>
+</td><td align="center" rowspan="1" colspan="1">INT 13</td><td align="center" rowspan="1" colspan="1">Everyday life training (1)</td></tr><tr><td align="center" rowspan="1" colspan="1">INT 14</td><td align="center" rowspan="1" colspan="1">Everyday life training (2)</td></tr><tr><td align="center" rowspan="1" colspan="1">INT 15</td><td align="center" rowspan="1" colspan="1">Everyday life training (3)</td></tr><tr><td align="center" rowspan="1" colspan="1">INT 16</td><td align="center" rowspan="1" colspan="1">Everyday life training (4)</td></tr><tr style="border-bottom:solid 1px #000000"><td colspan="3" rowspan="1">  </td></tr><tr><td rowspan="4" align="left" colspan="1">
+<list list-type="simple"><list-item><p>5</p></list-item><list-item><p>Autonomy in everyday life</p></list-item></list>
+</td><td align="center" rowspan="1" colspan="1">INT 17</td><td align="center" rowspan="1" colspan="1">Coordinator of everyday life (self‐care)</td></tr><tr><td align="center" rowspan="1" colspan="1">INT 18</td><td align="center" rowspan="1" colspan="1">Coordinator of everyday life (productivity)</td></tr><tr><td align="center" rowspan="1" colspan="1">INT 19</td><td align="center" rowspan="1" colspan="1">Coordinator of everyday life (leisure)</td></tr><tr><td align="center" rowspan="1" colspan="1">INT 20</td><td align="center" rowspan="1" colspan="1">Occupational Balance</td></tr><tr style="border-bottom:solid 1px #000000"><td colspan="3" rowspan="1">  </td></tr><tr><td rowspan="4" align="left" colspan="1">
+<list list-type="simple"><list-item><p>6</p></list-item><list-item><p>Well‐prepared for the future</p></list-item></list>
+</td><td align="center" rowspan="1" colspan="1">INT 21</td><td align="center" rowspan="1" colspan="1">Monitoring—evaluation of achievements and clarification of further concerns (self‐care)</td></tr><tr><td align="center" rowspan="1" colspan="1">INT 22</td><td align="center" rowspan="1" colspan="1">Monitoring—evaluation of achievements and clarification of further concerns (productivity)</td></tr><tr><td align="center" rowspan="1" colspan="1">INT 23</td><td align="center" rowspan="1" colspan="1">Monitoring—evaluation of achievements and clarification of further concerns (leisure)</td></tr><tr><td align="center" rowspan="1" colspan="1">INT 24</td><td align="center" rowspan="1" colspan="1">Re‐evaluation and completion of the therapy program (COPM follow‐up)</td></tr></tbody></table></table-wrap></sec><sec id="sec-0010"><title>2.3. Participants and Recruitment</title><p>To assess the program′s acceptability, we purposely selected participants from both intervention groups of the ErgoLoCo study who were willing to share their experiences. Interested individuals contacted the first author by phone or e‐mail and were informed orally and in writing about the study′s content and purpose. Thirteen participants (<italic toggle="yes">n</italic> = 7 teletherapy and <italic toggle="yes">n</italic> = 6 video) consented to individual interviews. To ascertain occupational therapists′ perspectives, all eight therapists who conducted the teletherapy group were invited to a focus group, and all (<italic toggle="yes">n</italic> = 8) participated in an online meeting in May 2023 (see Figure <xref rid="fig-0001" ref-type="fig">1</xref>).</p><fig position="float" fig-type="Figure" id="fig-0001" orientation="portrait"><label>Figure 1</label><caption><p>Flowchart illustrating the acceptability evaluation of the occupational therapy program within the ErgoLoCo study.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-1" orientation="portrait" xlink:href="IJTA-2025-8879520-g001.jpg"/></fig></sec><sec id="sec-0011"><title>2.4. Data Collection</title><p>Between January and June 2023, the first and last authors conducted one‐on‐one online interviews with participants and a focus group with occupational therapists in the German language. We used interviews to gain deeper insights into participants′ experiences and perceptions of acceptability. The semistructured interview guide was based on the eight constructs of the TFA [<xref rid="bib-0045" ref-type="bibr">45</xref>, <xref rid="bib-0053" ref-type="bibr">53</xref>]. CM developed the interview guide and refined it iteratively after discussing it with the research team. It included eight questions aligned with the constructs of the TFA (see Table <xref rid="tbl-0002" ref-type="table">2</xref>). For example, participants were asked to explain what had helped them most to implement therapy content in their everyday lives (self‐efficacy), or describe what they had benefited most from the program (perceived effectiveness). The guide was piloted with one teletherapy participant and further refined. We have included this pilot interview in the analysis (P1). Interviews lasted between 28 and 67 min, and no other persons than the researcher and the participant were present.</p><table-wrap position="float" id="tbl-0002" content-type="Table" orientation="portrait"><label>Table 2</label><caption><p>Overview of the TFA constructs used for deductive coding defined by Sekhon et al. (2017).</p></caption><table frame="hsides" rules="groups"><col span="1"/><col span="1"/><thead><tr><th align="left" rowspan="1" colspan="1">
+<bold>Construct/category</bold>
+</th><th align="center" rowspan="1" colspan="1">
+<bold>Description</bold>
+</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">Affective attitude</td><td align="center" rowspan="1" colspan="1">How an individual feels about the intervention</td></tr><tr><td align="left" rowspan="1" colspan="1">Burden</td><td align="center" rowspan="1" colspan="1">The perceived amount of effort that is required to participate in the intervention</td></tr><tr><td align="left" rowspan="1" colspan="1">Ethicality</td><td align="center" rowspan="1" colspan="1">The extent to which the intervention has a good fit with an individual′s value system</td></tr><tr><td align="left" rowspan="1" colspan="1">Intervention coherence</td><td align="center" rowspan="1" colspan="1">The extent to which the participant understands the intervention and how it works</td></tr><tr><td align="left" rowspan="1" colspan="1">Opportunity costs</td><td align="center" rowspan="1" colspan="1">The extent to which benefits, profits or values must be given up to engage in the intervention</td></tr><tr><td align="left" rowspan="1" colspan="1">Perceived effectiveness</td><td align="center" rowspan="1" colspan="1">The extent to which the intervention is perceived as likely to achieve its purpose</td></tr><tr><td align="left" rowspan="1" colspan="1">Self‐efficacy</td><td align="center" rowspan="1" colspan="1">The participant’s confidence that they can perform the behavior(s) required to participate in the intervention</td></tr></tbody></table></table-wrap><p>To gather the perceptions of occupational therapists, we conducted one online focus group [<xref rid="bib-0054" ref-type="bibr">54</xref>]. Conducted on May 9, 2023, the 90‐min session was moderated by the first author using a moderation guide that was also informed by the TFA and included condensed discussion topics emerging from the interviews with the participants. Discussion topics were for example: feasibility and acceptability of content and the digital nature and the implementation of the program. The last author took notes during the focus group discussion to record salient topics directly and introduce questions into the discussion round that arose due to the content discussed. Interviews and the focus group were audio recorded and conducted using Zoom videoconference software (Zoom Video Communications, Inc., San José, CA, United States). The online setting during interviews and the focus group was chosen to include individuals with mobility constraints due to their health condition, and those who lived at a greater distance from the study site had the opportunity to participate in the study.</p></sec><sec id="sec-0012"><title>2.5. Data Analysis</title><p>All data were analyzed in German. A professional transcription service transcribed all audio files verbatim following the recommendations by Dresing and Pehl [<xref rid="bib-0055" ref-type="bibr">55</xref>]. We anonymized the transcripts to ensure confidentiality and coded them as P1–P13 for Long COVID participants and OT1–OT8 for occupational therapists. CM, a female experienced occupational therapist and TS, a male sociologist and postdoc researcher, conducted the qualitative content analysis as outlined by Kuckartz and Rädiker [<xref rid="bib-0056" ref-type="bibr">56</xref>]. This method enabled a systematic and nuanced exploration of experiences.</p><p>Both researchers independently read the transcripts, highlighted significant passages, and documented content anomalies. Then, memos outlined evaluation ideas related to the seven acceptability constructs [<xref rid="bib-0045" ref-type="bibr">45</xref>]. Consensual coding was employed using a deductive approach. Both authors independently coded one‐third of the material before reaching a consensus on the final code system. Subsequently, a codebook was created based on the TFA constructs, including category definitions and exemplary quotations. Table <xref rid="tbl-0003" ref-type="table">3</xref> presents an extract of the codebook. To minimize distortion of the nuances and meanings of the participants′ literal contributions, the third author, a native English speaker, translated the quotes used to present the results in this article into English.</p><table-wrap position="float" id="tbl-0003" content-type="Table" orientation="portrait"><label>Table 3</label><caption><p>Extract of the codebook for perceptions on acceptability of the ErgoLoCo program using the theoretical framework of acceptability (Sekhon et al.,2017).</p></caption><table frame="hsides" rules="groups"><col span="1"/><col span="1"/><col span="1"/><col span="1"/><col span="1"/><thead><tr><th align="left" rowspan="1" colspan="1">
+<bold>Code/TFA constructs</bold>
+</th><th align="center" rowspan="1" colspan="1">
+<bold>Description (Sekhon et al., 2017)</bold>
+</th><th align="center" rowspan="1" colspan="1">
+<bold>Illustrative statement participant from video group</bold>
+</th><th align="center" rowspan="1" colspan="1">
+<p>
+<bold>Illustrative statement</bold>
+</p>
+<p>
+<bold>Participant teletherapy group</bold>
+</p>
+</th><th align="center" rowspan="1" colspan="1">
+<p>
+<bold>Illustrative statement</bold>
+</p>
+<p>
+<bold>Occupational therapist</bold>
+</p>
+</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">Intervention coherence</td><td align="center" rowspan="1" colspan="1">‘The extent to which the participant understands the intervention and how it works.’</td><td align="center" rowspan="1" colspan="1">‘Because I […] did not do a good job of breaking things down for myself regarding my situation. I think more would be possible in direct contact with an occupational therapist. Because that is something that I cannot manage myself.’ (P9/Video)</td><td align="center" rowspan="1" colspan="1">‘The therapist explains the Do@Home task and then asks me again: ‘Do you know what you must do?’ I then have the opportunity to ask. It is also described again in the booklet, so if I forget what she told me after the session, I can read it again and return to it. But we always talk about it again at the end of the lesson, and that is very important for me to understand it.’ (P7/Teletherapy)</td><td align="center" rowspan="1" colspan="1">‘I found that the (program) covered many facets in an occupation‐focused therapy approach. […] Many different areas were addressed, and I felt everyone could find themselves in them. I think each Long COVID client had problems in one of these areas. And then you could do a bit more in that area or expand it a bit and shorten something else or work through it more quickly, so to speak.’ (OT6)</td></tr></tbody></table></table-wrap><p>We assigned the entire material to differentiated categories using consensual coding in the second coding process. After creating interim thematic summaries for individual cases, we conducted a category‐based analysis. This phase involved paraphrasing, quantitatively representing, and qualitatively interpreting the statements from participants and occupational therapists [<xref rid="bib-0044" ref-type="bibr">44</xref>]. MAXQDA software (Version 20.0.8, VERBI Software GmbH, Berlin, Germany) was used for all coding processes.</p></sec><sec id="sec-0013"><title>2.6. Ethical Considerations</title><p>The entire ErgoLoCo project was approved by the Institutional Review Boards of Hannover Medical School (9948_BO_K_2021) and the University Medical Center Göttingen (15/8/22 U). All participants and occupational therapists provided written informed consent before the interviews or focus group sessions. Results are presented by Consolidated Criteria for Reporting Qualitative Research (COREQ) [<xref rid="bib-0057" ref-type="bibr">57</xref>].</p></sec></sec><sec id="sec-0014"><title>3. Results</title><sec id="sec-0015"><title>3.1. Demographic Characteristics of the Participants of the Intervention Groups</title><p>The participants receiving telehealth‐delivered occupational therapy were aged between 23 and 56 years. Then, 11 out of 14 were female. Only four participants stated that they had prior experience with occupational therapy. While most were familiar with digital devices and online conferencing, online therapy was a new experience for them (see Table <xref rid="tbl-0004" ref-type="table">4</xref>).</p><table-wrap position="float" id="tbl-0004" content-type="Table" orientation="portrait"><label>Table 4</label><caption><p>Characteristics of the participants of the intervention groups.</p></caption><table frame="hsides" rules="groups"><col span="1"/><col span="1"/><col span="1"/><col span="1"/><col span="1"/><col span="1"/><thead><tr><th align="left" rowspan="1" colspan="1">
+<bold>Participant</bold>
+</th><th align="center" rowspan="1" colspan="1">
+<bold>Sex</bold>
+</th><th align="center" rowspan="1" colspan="1">
+<bold>Age</bold>
+</th><th align="center" rowspan="1" colspan="1">
+<bold>Working status</bold>
+</th><th align="center" rowspan="1" colspan="1">
+<bold>OT-experiences</bold>
+</th><th align="center" rowspan="1" colspan="1">
+<bold>Experience with digital tools/online therapy</bold>
+</th></tr></thead><tbody><tr><td colspan="6" align="left" rowspan="1">Teletherapy group</td></tr><tr><td align="left" rowspan="1" colspan="1"> P1</td><td align="center" rowspan="1" colspan="1">Male</td><td align="center" rowspan="1" colspan="1">35</td><td align="center" rowspan="1" colspan="1">Sick leave since June 2022</td><td align="center" rowspan="1" colspan="1">Outpatient practice</td><td align="center" rowspan="1" colspan="1">Video‐conferencing</td></tr><tr><td align="left" rowspan="1" colspan="1"> P2</td><td align="center" rowspan="1" colspan="1">Female</td><td align="center" rowspan="1" colspan="1">33</td><td align="center" rowspan="1" colspan="1">Sick leave since February 2023</td><td align="center" rowspan="1" colspan="1">None</td><td align="center" rowspan="1" colspan="1">Not specified</td></tr><tr><td align="left" rowspan="1" colspan="1"> P4</td><td align="center" rowspan="1" colspan="1">Female</td><td align="center" rowspan="1" colspan="1">24</td><td align="center" rowspan="1" colspan="1">Working</td><td align="center" rowspan="1" colspan="1">None</td><td align="center" rowspan="1" colspan="1">Online training</td></tr><tr><td align="left" rowspan="1" colspan="1"> P5</td><td align="center" rowspan="1" colspan="1">Female</td><td align="center" rowspan="1" colspan="1">29</td><td align="center" rowspan="1" colspan="1">Working, studying</td><td align="center" rowspan="1" colspan="1">None</td><td align="center" rowspan="1" colspan="1">Online training</td></tr><tr><td align="left" rowspan="1" colspan="1"> P7</td><td align="center" rowspan="1" colspan="1">Female</td><td align="center" rowspan="1" colspan="1">46</td><td align="center" rowspan="1" colspan="1">Working</td><td align="center" rowspan="1" colspan="1">None</td><td align="center" rowspan="1" colspan="1">Not specified</td></tr><tr><td align="left" rowspan="1" colspan="1"> P10</td><td align="center" rowspan="1" colspan="1">Female</td><td align="center" rowspan="1" colspan="1">33</td><td align="center" rowspan="1" colspan="1">Studying</td><td align="center" rowspan="1" colspan="1">Outpatient practice</td><td align="center" rowspan="1" colspan="1">Online training</td></tr><tr><td align="left" rowspan="1" colspan="1"> P12</td><td align="center" rowspan="1" colspan="1">Male</td><td align="center" rowspan="1" colspan="1">26</td><td align="center" rowspan="1" colspan="1">Sick leave since May 2022</td><td align="center" rowspan="1" colspan="1">None</td><td align="center" rowspan="1" colspan="1">Video‐conferencing, online therapy</td></tr><tr><td align="left" rowspan="1" colspan="1">Video group</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1"> P3</td><td align="center" rowspan="1" colspan="1">Female</td><td align="center" rowspan="1" colspan="1">35</td><td align="center" rowspan="1" colspan="1">Sick leave since April 2022</td><td align="center" rowspan="1" colspan="1">None</td><td align="center" rowspan="1" colspan="1">Video‐conferencing, Online training</td></tr><tr><td align="left" rowspan="1" colspan="1"> P6</td><td align="center" rowspan="1" colspan="1">Female</td><td align="center" rowspan="1" colspan="1">36</td><td align="center" rowspan="1" colspan="1">Sick leave since September 2022</td><td align="center" rowspan="1" colspan="1">Inpatient rehabilitation</td><td align="center" rowspan="1" colspan="1">Use of video‐sharing platforms</td></tr><tr><td align="left" rowspan="1" colspan="1"> P8</td><td align="center" rowspan="1" colspan="1">Female</td><td align="center" rowspan="1" colspan="1">56</td><td align="center" rowspan="1" colspan="1">Sick leave since September 2021</td><td align="center" rowspan="1" colspan="1">Inpatient rehabilitation</td><td align="center" rowspan="1" colspan="1">Little experience with digital devices/tools</td></tr><tr><td align="left" rowspan="1" colspan="1"> P9</td><td align="center" rowspan="1" colspan="1">Female</td><td align="center" rowspan="1" colspan="1">46</td><td align="center" rowspan="1" colspan="1">Working</td><td align="center" rowspan="1" colspan="1">Outpatient practice</td><td align="center" rowspan="1" colspan="1">Not specified</td></tr><tr><td align="left" rowspan="1" colspan="1"> P11</td><td align="center" rowspan="1" colspan="1">Female</td><td align="center" rowspan="1" colspan="1">36</td><td align="center" rowspan="1" colspan="1">Sick leave since April 2022</td><td align="center" rowspan="1" colspan="1">None</td><td align="center" rowspan="1" colspan="1">Video‐conferencing</td></tr><tr><td align="left" rowspan="1" colspan="1"> P13</td><td align="center" rowspan="1" colspan="1">Female</td><td align="center" rowspan="1" colspan="1">23</td><td align="center" rowspan="1" colspan="1">Studying</td><td align="center" rowspan="1" colspan="1">None</td><td align="center" rowspan="1" colspan="1">Online training</td></tr></tbody></table></table-wrap><p>All participants in the intervention groups experienced persistent symptoms following SARS CoV‐2 infection, lasting from 3 to 11 months, which interfered with daily life to varying degrees. Table <xref rid="tbl-0005" ref-type="table">5</xref> outlines functional complaints and occupational performance issues mentioned by the interview participants.</p><table-wrap position="float" id="tbl-0005" content-type="Table" orientation="portrait"><label>Table 5</label><caption><p>Participant′s perceptions of long COVID symptoms and occupational problems.</p></caption><table frame="hsides" rules="groups"><col span="1"/><col span="1"/><col span="1"/><col span="1"/><thead><tr><th align="left" rowspan="1" colspan="1">
+<bold>Participant</bold>
+</th><th align="center" rowspan="1" colspan="1">
+<bold>Duration of long COVID</bold>
+</th><th align="center" rowspan="1" colspan="1">
+<bold>Reported symptoms/functional problems</bold>
+</th><th align="center" rowspan="1" colspan="1">
+<bold>Reported occupational performance problems</bold>
+</th></tr></thead><tbody><tr><td colspan="4" align="left" rowspan="1">Teletherapy</td></tr><tr><td align="left" rowspan="1" colspan="1"> P1</td><td align="center" rowspan="1" colspan="1">11</td><td align="center" rowspan="1" colspan="1">Brain fog, cognitive impairment, myasthenia, exertional dyspnea</td><td align="center" rowspan="1" colspan="1">Stair climbing, walking longer distances, reading/understanding texts</td></tr><tr><td align="left" rowspan="1" colspan="1"> P2</td><td align="center" rowspan="1" colspan="1">36</td><td align="center" rowspan="1" colspan="1">Fatigue, brain fog, cognitive impairment, perceptual disorders</td><td align="center" rowspan="1" colspan="1">Showering, cooking, reading books</td></tr><tr><td align="left" rowspan="1" colspan="1"> P4</td><td align="center" rowspan="1" colspan="1">24</td><td align="center" rowspan="1" colspan="1">Fatigue, brain fog, cognitive impairment, exertional dyspnea, irritability, melancholy</td><td align="center" rowspan="1" colspan="1">Cycling, work incapacity</td></tr><tr><td align="left" rowspan="1" colspan="1"> P5</td><td align="center" rowspan="1" colspan="1">24</td><td align="center" rowspan="1" colspan="1">Fatigue, brain fog, diminished endurance</td><td align="center" rowspan="1" colspan="1">Studying, writing, work incapacity</td></tr><tr><td align="left" rowspan="1" colspan="1"> P7</td><td align="center" rowspan="1" colspan="1">5</td><td align="center" rowspan="1" colspan="1">Brain fog, cognitive impairment, pain, exertional dyspnea</td><td align="center" rowspan="1" colspan="1">Climbing stairs, doing sports, maintaining social contacts, household activities</td></tr><tr><td align="left" rowspan="1" colspan="1"> P10</td><td align="center" rowspan="1" colspan="1">9</td><td align="center" rowspan="1" colspan="1">Fatigue, brain fog, cognitive impairment, diminished endurance</td><td align="center" rowspan="1" colspan="1">Taking walks, grocery shopping, reading</td></tr><tr><td align="left" rowspan="1" colspan="1"> P12</td><td align="center" rowspan="1" colspan="1">10</td><td align="center" rowspan="1" colspan="1">Fatigue, pain</td><td align="center" rowspan="1" colspan="1">Cooking, grocery shopping, taking walks</td></tr><tr><td align="left" rowspan="1" colspan="1">Video</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1"> P3</td><td align="center" rowspan="1" colspan="1">8</td><td align="center" rowspan="1" colspan="1">Fatigue, pain, muscle atrophy</td><td align="center" rowspan="1" colspan="1">Stair climbing, household activities, grocery shopping, child care activities, reading, writing, meeting friends, work incapacity</td></tr><tr><td align="left" rowspan="1" colspan="1"> P6</td><td align="center" rowspan="1" colspan="1">9</td><td align="center" rowspan="1" colspan="1">Fatigue, brain fog, cognitive impairment</td><td align="center" rowspan="1" colspan="1">Reading, meeting friends, preparing meals, doing Yoga</td></tr><tr><td align="left" rowspan="1" colspan="1"> P8</td><td align="center" rowspan="1" colspan="1">14</td><td align="center" rowspan="1" colspan="1">Fatigue, pain, exertional dyspnea</td><td align="center" rowspan="1" colspan="1">Reading, listening to radio news, car driving, household activities, gardening</td></tr><tr><td align="left" rowspan="1" colspan="1"> P9</td><td align="center" rowspan="1" colspan="1">3</td><td align="center" rowspan="1" colspan="1">Brain fog, cognitive impairment, pain</td><td align="center" rowspan="1" colspan="1">Reading, work incapacity, leisure activities</td></tr><tr><td align="left" rowspan="1" colspan="1"> P11</td><td align="center" rowspan="1" colspan="1">11</td><td align="center" rowspan="1" colspan="1">Brain fog, cognitive impairment, tachycardia</td><td align="center" rowspan="1" colspan="1">Meeting people appointments</td></tr><tr><td align="left" rowspan="1" colspan="1"> P13</td><td align="center" rowspan="1" colspan="1">11</td><td align="center" rowspan="1" colspan="1">Fatigue, brain fog, vertigo, exertional dyspnea</td><td align="center" rowspan="1" colspan="1">Grocery shopping, maintaining social contacts</td></tr></tbody></table></table-wrap></sec><sec id="sec-0016"><title>3.2. Characteristics of the Occupational Therapists</title><p>All occupational therapists in the focus group discussion were female and between 25 and 48 years old. As part of the intervention, they provided occupational therapy using teletherapy following the ErgoLoCo concept for one to eight participants. Occupational therapists had between 2 and 23 years of working experience, and more than half of them had an academic degree in occupational therapy. While five therapists had previous experience with teletherapy, three were new to the online‐based treatment setting. Table <xref rid="tbl-0006" ref-type="table">6</xref> provides a summary of the occupational therapists′ characteristics.</p><table-wrap position="float" id="tbl-0006" content-type="Table" orientation="portrait"><label>Table 6</label><caption><p>Characteristics of the occupational therapists.</p></caption><table frame="hsides" rules="groups"><col span="1"/><col span="1"/><col span="1"/><col span="1"/><col span="1"/><col span="1"/><col span="1"/><col span="1"/><thead><tr><th align="left" rowspan="1" colspan="1">
+<bold>Occupational therapist</bold>
+</th><th align="center" rowspan="1" colspan="1">
+<bold>Sex</bold>
+</th><th align="center" rowspan="1" colspan="1">
+<bold>Age</bold>
+</th><th align="center" rowspan="1" colspan="1">
+<bold>Degree</bold>
+</th><th align="center" rowspan="1" colspan="1">
+<bold>Working experience (years)</bold>
+</th><th align="center" rowspan="1" colspan="1">
+<bold>Experience in long COVID treatment</bold>
+</th><th align="center" rowspan="1" colspan="1">
+<bold>Number of study</bold>—<bold>clients</bold>
+</th><th align="center" rowspan="1" colspan="1">
+<bold>Experiences in telehealth</bold>
+</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">OT1</td><td align="center" rowspan="1" colspan="1">Female</td><td align="center" rowspan="1" colspan="1">38</td><td align="center" rowspan="1" colspan="1">Vocational training</td><td align="center" rowspan="1" colspan="1">15</td><td align="center" rowspan="1" colspan="1">No</td><td align="center" rowspan="1" colspan="1">5</td><td align="center" rowspan="1" colspan="1">No</td></tr><tr><td align="left" rowspan="1" colspan="1">OT2</td><td align="center" rowspan="1" colspan="1">Female</td><td align="center" rowspan="1" colspan="1">45</td><td align="center" rowspan="1" colspan="1">Bachelor′s degree</td><td align="center" rowspan="1" colspan="1">21</td><td align="center" rowspan="1" colspan="1">No</td><td align="center" rowspan="1" colspan="1">1</td><td align="center" rowspan="1" colspan="1">Yes</td></tr><tr><td align="left" rowspan="1" colspan="1">OT3</td><td align="center" rowspan="1" colspan="1">Female</td><td align="center" rowspan="1" colspan="1">25</td><td align="center" rowspan="1" colspan="1">Bachelor′s degree</td><td align="center" rowspan="1" colspan="1">4</td><td align="center" rowspan="1" colspan="1">Yes</td><td align="center" rowspan="1" colspan="1">8</td><td align="center" rowspan="1" colspan="1">Yes</td></tr><tr><td align="left" rowspan="1" colspan="1">OT4</td><td align="center" rowspan="1" colspan="1">Female</td><td align="center" rowspan="1" colspan="1">29</td><td align="center" rowspan="1" colspan="1">Bachelor′s degree</td><td align="center" rowspan="1" colspan="1">5</td><td align="center" rowspan="1" colspan="1">Yes</td><td align="center" rowspan="1" colspan="1">2</td><td align="center" rowspan="1" colspan="1">Yes</td></tr><tr><td align="left" rowspan="1" colspan="1">OT5</td><td align="center" rowspan="1" colspan="1">Female</td><td align="center" rowspan="1" colspan="1">28</td><td align="center" rowspan="1" colspan="1">Master′s degree</td><td align="center" rowspan="1" colspan="1">6</td><td align="center" rowspan="1" colspan="1">Yes</td><td align="center" rowspan="1" colspan="1">4</td><td align="center" rowspan="1" colspan="1">Yes</td></tr><tr><td align="left" rowspan="1" colspan="1">OT6</td><td align="center" rowspan="1" colspan="1">Female</td><td align="center" rowspan="1" colspan="1">26</td><td align="center" rowspan="1" colspan="1">Vocational training</td><td align="center" rowspan="1" colspan="1">2</td><td align="center" rowspan="1" colspan="1">Yes</td><td align="center" rowspan="1" colspan="1">6</td><td align="center" rowspan="1" colspan="1">No</td></tr><tr><td align="left" rowspan="1" colspan="1">OT7</td><td align="center" rowspan="1" colspan="1">Female</td><td align="center" rowspan="1" colspan="1">48</td><td align="center" rowspan="1" colspan="1">Vocational training</td><td align="center" rowspan="1" colspan="1">23</td><td align="center" rowspan="1" colspan="1">Yes</td><td align="center" rowspan="1" colspan="1">3</td><td align="center" rowspan="1" colspan="1">Yes</td></tr><tr><td align="left" rowspan="1" colspan="1">OT8</td><td align="center" rowspan="1" colspan="1">Female</td><td align="center" rowspan="1" colspan="1">26</td><td align="center" rowspan="1" colspan="1">Bachelor′s degree</td><td align="center" rowspan="1" colspan="1">3</td><td align="center" rowspan="1" colspan="1">Yes</td><td align="center" rowspan="1" colspan="1">4</td><td align="center" rowspan="1" colspan="1">No</td></tr></tbody></table></table-wrap></sec><sec id="sec-0017"><title>3.3. Perceptions on the Acceptability of the ErgoLoCo Concept</title><sec id="sec-0018"><title>3.3.1. Affective Attitude</title><p>Most of the participants in both telehealth groups expressed gratitude for the opportunity to participate in a therapy program for Long COVID rehabilitation. This was due to the limited opportunities for long haulers at the time.</p><p>
+<boxed-text position="anchor" content-type="text" orientation="portrait"><p>
+<italic toggle="yes">“What touched me very, very, very much right from the start was that there are people who take us Long COVID patients seriously and consider us worthy of research and that people are looking into it: How can we help you?” (P2/Teletherapy)</italic>
+</p></boxed-text>
+</p><p>Similarly, the occupational therapists who guided participants from the teletherapy group through the program articulated their satisfaction in having the opportunity to base their work on a concept specifically developed for treating long COVID.</p><p>
+<boxed-text position="anchor" content-type="text" orientation="portrait"><p>
+<italic toggle="yes">“I also think it′s great that there is such a specific occupational therapy program for Long COVID sufferers or that it has been tested.” (OT5)</italic>
+</p></boxed-text>
+</p><p>Participants in the video group added that they felt taken seriously, particularly through the empathetic speaking style and the way of leading recipients through the intervention in the videos.</p><p>
+<boxed-text position="anchor" content-type="text" orientation="portrait"><p>
+<italic toggle="yes">“So I feel like I′m taken seriously in the way I′m guided, so to speak, in the way I′m spoken to in an empathetic way.” (P3/Video)</italic>
+</p></boxed-text>
+</p><p>Only one person expressed negative emotions toward the program. It reminded her of psychotherapy and produced frustration and feelings of either over or under‐challenged by the tasks, resulting in an overall negative attitude towards the program.</p><p>
+<boxed-text position="anchor" content-type="text" orientation="portrait"><p>
+<italic toggle="yes">“It reminded me a lot of psychotherapy, and I′ve had some pretty bad experiences with psychotherapy. So, of course, it was really stupid; sometimes, I thought I was too stupid, and sometimes, I thought I was too intelligent. Those were the emotional swings, and it was just annoying.” (P9/Video)</italic>
+</p></boxed-text>
+</p></sec><sec id="sec-0019"><title>3.3.2. Burden</title><p>Participants in the teletherapy group and the occupational therapists described not having to make much effort to participate in or guide the therapy sessions.</p><p>
+<boxed-text position="anchor" content-type="text" orientation="portrait"><p>
+<italic toggle="yes">“I′m glad I don′t have to go somewhere else, so it fits very well into my everyday life. This means I can also integrate it with long COVID [symptoms].” (P4/Teletherapy)</italic>
+</p></boxed-text>
+</p><p>An occupational therapist mentioned that only technical issues with the conference software occasionally required finding quick and pragmatic solutions so that therapy could take place.</p><p>
+<boxed-text position="anchor" content-type="text" orientation="portrait"><p>
+<italic toggle="yes">“I had little influence on the technical difficulties when the sound didn′t work or the camera or you couldn′t dial in at all. Of course, that certainly depends on the platform. I dealt with it flexibly and sometimes used a different platform to be able to do it at all.” (OT5)</italic>
+</p></boxed-text>
+</p><p>Participants in the video group confirmed the low level of effort required to participate in the therapy sessions due to the flexible access to the videos on days, times, and frequency of their choice. While this flexibility was perceived as convenient, participants also described an emerging pressure if they could not keep up with watching and working through the material in the planned 2‐week module.</p><p>
+<boxed-text position="anchor" content-type="text" orientation="portrait"><p>
+<italic toggle="yes">“I wanted to plan to watch things again later, but then the new videos come in every time. And then it puts a bit of pressure on me in that sense. […] On the one hand, it′s practical that the videos are flexible. On the other hand, I personally also find it very difficult to stick to these times [twice a week] if I′m feeling extremely poorly on a particular day.” (P6/Video)</italic>
+</p></boxed-text>
+</p><p>Participants underwent a learning process to determine when and how much effort to put into watching videos independently. They noted the need to establish their own pace and structure for therapy.</p><p>
+<boxed-text position="anchor" content-type="text" orientation="portrait"><p>
+<italic toggle="yes">“So at the beginning, I said, well, do the video, sit down straight away, do the workbook. Now I see how much strength and concentration I have left after the video, and sometimes, if I can′t do it, I just do the task later. The good thing is that you can watch the videos several times if you′ve forgotten something or can′t remember something.” (P11/Video)</italic>
+</p></boxed-text>
+</p><p>Participants in the teletherapy group reported that they negotiated such adaptations with their occupational therapists and tailored the content to their concerns and health status.</p><p>
+<boxed-text position="anchor" content-type="text" orientation="portrait"><p>
+<italic toggle="yes">“For example, we′ve now adapted the weekly plan to suit me because I′m not in a position to draw up a plan like that at the moment due to the severity of my condition. Instead, I have to look individually every single day to see what I have available and what effort I can put in.” (P2/Teletherapy)</italic>
+</p></boxed-text>
+</p></sec><sec id="sec-0020"><title>3.3.3. Ethicality</title><p>The participants of both intervention groups mentioned that they felt valued and accepted as individuals with a novel health condition that is not clearly defined and not yet fully socially accepted or medically understood. For example, one participant in the video group stated as follows:</p><p>
+<boxed-text position="anchor" content-type="text" orientation="portrait"><p>
+<italic toggle="yes">“As far as Long COVID is concerned, you feel accepted, which is generally not the case in society or with other doctors. And you also feel understood.” (P3/Video)</italic>
+</p></boxed-text>
+</p><p>Occupational therapists emphasized that they felt valued for contributing their differentiated occupation‐focused expertise to the therapy process, even though the program was standardized and there was little room for deviation from its basic content to ensure comparability with the video group.</p><p>
+<boxed-text position="anchor" content-type="text" orientation="portrait"><p>
+<italic toggle="yes">“Before we started with the intervention, I was very unsure or wondered how it could be implemented and how we could work according to the manual if we wanted to work in a client-centred and individual way. However, I was also pleasantly surprised by the content, which always had such a connection to the COPM at the beginning and then also in the course with the formulation of goals and the evaluation, which I found very nice. But I always knew there was a manual and that I had to stick to it. So, somehow, you automatically respond to individual needs and concerns. And sometimes it was difficult for me to reconcile that with what had to be done in the unit.” (OT5)</italic>
+</p></boxed-text>
+</p></sec><sec id="sec-0021"><title>3.3.4. Intervention Coherence</title><p>The purpose of the ErgoLoCo concept was to enable participants to regain better performance and participation in meaningful occupations and thus improve self‐management of Long COVID symptoms. Occupational therapists echoed this aim in emphasizing the program′s specific focus on everyday occupations while employing flexibility to address a diverse group of persons with various needs.</p><p>
+<boxed-text position="anchor" content-type="text" orientation="portrait"><p>
+<italic toggle="yes">“I found that the (program) covered many facets in an occupation-focused therapy approach. […] Many different areas were addressed, and I felt everyone could find themselves in them. I think each Long COVID client had problems in one of these areas. And then you could do a bit more in that area or expand it a bit and shorten something else or work through it more quickly, so to speak.” (OT6)</italic>
+</p></boxed-text>
+</p><p>Most participants could grasp the structure of the therapy modules and their contents. P3 stated: <italic toggle="yes">“I think it builds on each other very well” (P3/Teletherapy).</italic> Others acknowledged the importance of continuity in pursuing individual therapy goals set at the beginning of the therapy.</p><p>
+<boxed-text position="anchor" content-type="text" orientation="portrait"><p>
+<italic toggle="yes">“With these therapy goals that you set yourself at the beginning, you can always look very specifically at what I can realize.” (P4/Teletherapy)</italic>
+</p></boxed-text>
+</p><p>One participant from the video group expressed confusion about tasks within the modules, and she struggled to understand their purpose. She also experienced frustration with goal setting, specifically with the suggestion to break her large recovery goal into smaller goals for managing long COVID.</p><p>
+<boxed-text position="anchor" content-type="text" orientation="portrait"><p>
+<italic toggle="yes">“I was also extremely annoyed by (…) the goals. I have one goal right at the back: to get better. Everything in me refuses to set myself short-term goals. I don′t do that.” (P9/Video)</italic>
+</p></boxed-text>
+</p><p>Another person added that it was hard for her to relate the content to her situation and that she would have perceived professional support from time to time as helpful in following the intervention.</p><p>
+<boxed-text position="anchor" content-type="text" orientation="portrait"><p>
+<italic toggle="yes">“Because I […] didn′t do a good job of breaking things down for myself regarding my situation. I think more would be possible in direct contact with an occupational therapist. Because that′s something that I can′t manage myself.” (P9/Video)</italic>
+</p></boxed-text>
+</p><p>A participant from the teletherapy group shared a contrary experience but emphasized that continuous support from the occupational therapist enhanced her understanding of the function of different tasks and how to apply them between therapy sessions.</p><p>
+<boxed-text position="anchor" content-type="text" orientation="portrait"><p>
+<italic toggle="yes">“The therapist explains the Do@Home task and then asks me again: ‘Do you know what you must do?’ I then have the opportunity to ask. It′s also described again in the booklet, so if I forget what she told me after the session, I can read it again and return to it. But we always talk about it again at the end of the lesson, and that′s very important for me to understand it.” (P7/Teletherapy)</italic>
+</p></boxed-text>
+</p></sec><sec id="sec-0022"><title>3.3.5. Opportunity Costs</title><p>Although the therapy′s online format saved participants time and energy due to remote participation, some reported that their engagement restricted them from carrying out other activities or resulted in changes in their usual schedules. For instance, a video‐group participant found the treatment so intense that she could not pursue other activities afterwards.</p><p>
+<boxed-text position="anchor" content-type="text" orientation="portrait"><p>
+<italic toggle="yes">“So [the therapy program] is very exhausting. […] And afterwards […] I also need time to rest again. I can′t do anything new immediately, and then I don′t read a book, do other things, or make phone calls.” (P6/Video)</italic>
+</p></boxed-text>
+</p><p>One participant in the teletherapy group also mentioned that occupational therapy overlapped with an activity that she usually does regularly at this time and had to pause it until she finished her participation in the therapy program.</p><p>
+<boxed-text position="anchor" content-type="text" orientation="portrait"><p>
+<italic toggle="yes">“On Mondays, when I have occupational therapy, I would like to meditate, but I can′t do that either. I′ll do that again when I′m finished.” (P4/Teletherapy)</italic>
+</p></boxed-text>
+</p><p>Occupational therapists mainly valued the synchronous telehealth format. Having a clear guiding treatment concept was perceived as beneficial and time‐saving. The option of organizing therapy sessions more flexibly and remotely from places other than their therapy practices was perceived as an advantage.</p><p>
+<boxed-text position="anchor" content-type="text" orientation="portrait"><p>
+<italic toggle="yes">“It was very beneficial for me. I have children of primary school age, and it was very easy to plan the family schedule so that I could still look after my children.” (OT 10)</italic>
+</p></boxed-text>
+</p></sec><sec id="sec-0023"><title>3.3.6. Perceived Effectiveness</title><p>Some participants mentioned that participating in the program was perceived as a way out of helplessness.</p><p>
+<boxed-text position="anchor" content-type="text" orientation="portrait"><p>
+<italic toggle="yes">“That you no longer have this helplessness, this ‘what do I do now?’ and nobody can tell you. ‘Take a rest. Don′t go beyond your limits.’ Yes, where is my limit? ‘Yes, that′s individual.’ That′s what the doctors say, and then you′re left standing there. What is ‘individual’? And, as I said, this has been worked out very well in the program.” (P7/Teletherapy)</italic>
+</p></boxed-text>
+</p><p>Participants of both groups described that they could partly achieve the goals they had formulated through program guidance at the beginning of the therapy.</p><p>
+<boxed-text position="anchor" content-type="text" orientation="portrait"><p>
+<italic toggle="yes">“I had set myself the goal of reading and understanding texts again. I can manage to read a story to my son again. That was definitely worse at the beginning. And I now try to read very small magazine articles myself to understand them. That has already gotten better. And I would say that I′ve achieved part of my goal.” (P3/Video)</italic>
+</p></boxed-text>
+</p><p>Even if participants did not achieve their full goals, some reported feeling they were progressing towards them by applying strategies such as pacing that they had learned through the program, even in small steps.</p><p>
+<boxed-text position="anchor" content-type="text" orientation="portrait"><p>
+<italic toggle="yes">“It′s already the case now that […] through pacing and by carrying out activities consciously and more slowly, I manage to collect small experiences of success […] and I′ll say five steps more […], or yes, the two minutes that I can walk longer, these are experiences of success.” (P1/Teletherapy)</italic>
+</p></boxed-text>
+</p><p>Concerning how the occupational therapists perceived the achievement of occupational therapy‐specific outcomes, some mentioned before the evaluation phase that they were unsure whether the program could work in an online‐based format. One occupational therapist narrated:</p><p>
+<boxed-text position="anchor" content-type="text" orientation="portrait"><p>
+<italic toggle="yes">“I remember it was a huge question mark for all of us at the beginning when we thought: Occupational therapy online? Is that possible? Until we realized all the things you can do online.” (OT6)</italic>
+</p></boxed-text>
+</p><p>She shared that she experienced it as <italic toggle="yes">“[…] an absolutely great opportunity to bring occupational therapy directly into the home environment and pick people up right where they are.” (OT6).</italic>
+</p><p>Another occupational therapist emphasized her perception of a good fit between Long COVID and occupational therapy due to the profession′s occupation‐focused lens.</p><p>
+<boxed-text position="anchor" content-type="text" orientation="portrait"><p>
+<italic toggle="yes">“Exactly, the specific focus on occupation, […] I believe the Long-COVID condition cries out for occupational therapy because it′s about using skills to get back into doing. And I thought the program was just super appropriate and modern.” (OT2)</italic>
+</p></boxed-text>
+</p><p>They perceived that it was beneficial that the program left room for adaptation, and they could adapt the therapy content with the participants to better suit their everyday situation and the burden of their illness. OT1 explained this using the example of two severely affected participants to whom she provided therapy:</p><p>
+<boxed-text position="anchor" content-type="text" orientation="portrait"><p>
+<italic toggle="yes">“For two of my clients with a relatively severe Long COVID course, the issue was that two weekly appointments were difficult for them to organize. And then the question was: What′s the best way to adapt it now? […] Exactly, where we then looked: How can we perhaps place a certain focus and leave out certain parts that are now also less relevant to their everyday lives?” (OT1)</italic>
+</p></boxed-text>
+</p><p>A participant from the teletherapy group confirmed that.</p><p>
+<boxed-text position="anchor" content-type="text" orientation="portrait"><p>
+<italic toggle="yes">“And that′s when we adjusted our goals. For example, we said: OK, cooking is really important to me because I enjoy it and because it makes me feel great when I make delicious food and can then eat it. I think that′s great. And then we focused on that. […]. And then we said: OK, my goal now is not to do more sport, but to break down the showering activity so that I can shower without completely collapsing afterwards. And we actually managed to do that.” (P2/Teletherapy)</italic>
+</p></boxed-text>
+</p><p>An occupational therapist found the program effective. She noticed that many participants reported that, after some time, they were able to integrate the tasks they had worked on in the therapy into their daily routine and thus eventually benefited from the program.</p><p>
+<boxed-text position="anchor" content-type="text" orientation="portrait"><p>
+<italic toggle="yes">“Then they said: “Of course I′ll continue with my weekly break plan and my stress chart too.” Of course, I personally realized that they had applied this and will continue to use it.” (OT4)</italic>
+</p></boxed-text>
+</p></sec><sec id="sec-0024"><title>3.3.7. Self‐Efficacy</title><p>Participants were consistent in their reports of their confidence in attending both telehealth formats. Besides one participant (P8/Video), all had experiences with the use of digital devices such as personal computers, laptops, tablets, or smartphones that were needed to attend therapy sessions via videoconferencing software or watching a video on a streaming platform.</p><p>
+<boxed-text position="anchor" content-type="text" orientation="portrait"><p>
+<italic toggle="yes">“I was already trained in that respect. It wasn′t a new situation […], online really wasn′t a problem for me.” (T11/Video)</italic>
+</p></boxed-text>
+</p><p>Participants of both groups perceived barriers mostly related to independently managing the complexity of tasks and material, such as watching two videos a week in the video group or working through the do@home tasks on top of their everyday responsibilities outside of therapy.</p><p>
+<boxed-text position="anchor" content-type="text" orientation="portrait"><p>
+<italic toggle="yes">“Then I have this do@home task, like writing a weekly plan or something, and then I find it really hard to stick to it when I have ten other things to do and then I′m so exhausted and forget about it in the evening. I find it very, very complex.” (T4/Teletherapy)</italic>
+</p></boxed-text>
+</p><p>Participants in the video group also mentioned that it was a challenge to keep motivating themselves without any professional or peer support.</p><p>
+<boxed-text position="anchor" content-type="text" orientation="portrait"><p>
+<italic toggle="yes">“I just found it very difficult to motivate myself all the time, especially over the twelve-week period. Yes, motivating myself and sitting down again and again.” (T13/Video)</italic>
+</p></boxed-text>
+</p><p>Otherwise, the participants in both groups and the occupational therapists indicated that they felt sufficiently informed and equipped with the necessary resources and media to perform the therapy effectively.</p><p>
+<boxed-text position="anchor" content-type="text" orientation="portrait"><p>
+<italic toggle="yes">“Overall, I think it works quite well. Because you have the booklets and I also have them digitally, I think you have everything you need. And with the video conferences, I think it all works in a very relaxed way.” (P5/Teletherapy)</italic>
+</p></boxed-text>
+</p></sec></sec></sec><sec id="sec-0025"><title>4. Discussion</title><p>This study investigated the acceptability of a telehealth‐delivered occupational therapy concept among individuals experiencing Long COVID and occupational therapists. We utilized the TFA as a conceptual framework to analyze their perceptions [<xref rid="bib-0045" ref-type="bibr">45</xref>]. Deductive analysis using the TFA revealed three main aspects of therapy acceptance by participants and occupational therapists: the program′s specific focus on Long COVID, its digital accessibility, and the presence or absence of professional guidance and support from occupational therapists.</p><sec id="sec-0026"><title>4.1. Long COVID‐Specific Focus of the Program</title><p>The participants highlighted the program′s focus on long COVID, contributing to their acceptance of the intervention. They valued the official recognition of long COVID syndrome and the development of the new occupational therapy intervention, seeing it as a recognition of the burden of the occupational challenges they face in daily life. These perceptions contrast with previous studies where individuals with long COVID often felt misunderstood and neglected by healthcare professionals and policymakers [<xref rid="bib-0058" ref-type="bibr">58</xref>–<xref rid="bib-0060" ref-type="bibr">60</xref>].</p><p>Although studies emphasized the necessity for particular interventions for Long COVID [<xref rid="bib-0008" ref-type="bibr">8</xref>, <xref rid="bib-0009" ref-type="bibr">9</xref>], most treatment approaches derive from interventions used for conditions with similar symptoms that are, however, often not tailored to address long COVID‐specific occupational constraints [<xref rid="bib-0020" ref-type="bibr">20</xref>, <xref rid="bib-0061" ref-type="bibr">61</xref>, <xref rid="bib-0062" ref-type="bibr">62</xref>]. While some studies have included self‐management or mindfulness exercises in Long COVID rehabilitation, our occupational therapy program uniquely focuses on addressing the individual occupational concerns arising from long COVID symptoms.</p><p>Newer standards in occupational therapy practice have shifted towards integrating everyday occupations and collaboratively setting goals with clients to enhance occupational performance, participation, and well‐being [<xref rid="bib-0016" ref-type="bibr">16</xref>, <xref rid="bib-0063" ref-type="bibr">63</xref>]. Ensuring quality services through evidence‐based and comprehensive interventions is a major concern of the profession [<xref rid="bib-0048" ref-type="bibr">48</xref>]. Standardized approaches may not fully address the specific concerns and individual needs of diverse populations, necessitating critical reflection on intervention structures to balance structure with adaptability [<xref rid="bib-0064" ref-type="bibr">64</xref>].</p><p>Some study participants revealed that some therapy content did not match their concerns and needs, necessitating adjustments to ensure positive treatment outcomes and therapy adherence. Before using the ErgoLoCo program, occupational therapists had reservations about the standardized approach, fearing it might not cater to participants′ unique needs. However, they acknowledged the program′s advantages as a structured guideline for practice, which brought about a sense of relief. Consequently, our findings underscore the importance of evidence‐based, telehealth‐enabled occupational therapy interventions employing holistic methodologies and allowing for individualized adjustments. This may contribute to therapy quality and client commitment, which in turn may reduce the discontinuation rate [<xref rid="bib-0030" ref-type="bibr">30</xref>].</p></sec><sec id="sec-0027"><title>4.2. Digital Accessibility</title><p>Participants and occupational therapists perceived the digital nature of the therapy program as user‐friendly. Both groups expressed satisfaction with the flexibility that allowed them to fit therapy into their very own schedule. These findings are consistent with a study on the acceptance of digital health applications in nonpharmacological therapies in Germany, where most therapists surveyed (88.7%, <italic toggle="yes">n</italic> = 133) appreciated the flexibility of therapy delivery [<xref rid="bib-0065" ref-type="bibr">65</xref>]. The participants′ perspective on the convenience of telehealth is similar to those described in a systematic review on enabling and restricting factors in telehealth interventions for people with chronic pain [<xref rid="bib-0066" ref-type="bibr">66</xref>]. Our findings emphasize the importance of easy access, equity, and minimal client care burden in interventions for conditions with fluctuating symptom severity and thus unpredictable symptom patterns [<xref rid="bib-0024" ref-type="bibr">24</xref>–<xref rid="bib-0026" ref-type="bibr">26</xref>].</p><p>While the program offered timesaving benefits, participants faced opportunity costs by sacrificing other activities, similar to attending therapy in an occupational therapy practice. Occupational therapists found the flexibility of telehealth advantageous for balancing professional roles with personal or caregiving roles. Remote work in therapy professions in Germany is still relatively uncommon. Still, studies showed that a combination of a home office and on‐site work is associated with higher job satisfaction and well‐being [<xref rid="bib-0067" ref-type="bibr">67</xref>, <xref rid="bib-0068" ref-type="bibr">68</xref>].</p><p>Research using telehealth interventions has consistently revealed that digital literacy is crucial for the successful implementation and usage of these interventions. It permits individuals to effectively participate in and gain advantages from telemedicine [<xref rid="bib-0069" ref-type="bibr">69</xref>–<xref rid="bib-0071" ref-type="bibr">71</xref>]. Technical difficulties were identified as an issue in a study exploring the use of telehealth in occupational therapy [<xref rid="bib-0072" ref-type="bibr">72</xref>]. While occasional technical challenges occurred in our study, the digital skillset among occupational therapists and participants seemed to be sufficient to ensure swift program use. Although our study′s participants and occupational therapists demonstrated these skills, it cannot be assumed that this applies to the general population of people affected by long COVID. Low digital literacy can prevent access to telehealth services [<xref rid="bib-0073" ref-type="bibr">73</xref>]. The high dropout rate, particularly in the video group in our study, may be related to the participants′ lack of existing digital skills. Consequently, it is imperative to ascertain the digital skills of potential users of telehealth interventions to prevent technology‐related treatment dropouts and non‐utilisation of telehealth resources [<xref rid="bib-0074" ref-type="bibr">74</xref>].</p></sec><sec id="sec-0028"><title>4.3. Professional Guidance and Support</title><p>Participants in both intervention groups expressed acceptability towards the program, particularly regarding intervention coherence, perceived effectiveness, and self‐efficacy. They felt empowered to develop strategies for managing symptoms throughout the day and during daily occupations. While the teletherapy group benefited from direct interaction and support from occupational therapists, participants in the video group often struggled to apply therapy content to their situations. The importance of receiving feedback from healthcare staff was also highlighted in another study evaluating an online self‐management program for persons with chronic conditions [<xref rid="bib-0064" ref-type="bibr">64</xref>].</p><p>Client‐centeredness is a key component of occupational therapy interventions [<xref rid="bib-0065" ref-type="bibr">65</xref>]. Earlier studies indicate that adapting therapy content independently in asynchronous video therapy requires a high level of initiative and health literacy from participants [<xref rid="bib-0063" ref-type="bibr">63</xref>]. Our results confirm these findings; almost video group participants found it challenging to link therapy content to their individual situations, define realistic therapy goals, or perform incremental tasks. These participants reported difficulties in understanding some content, leading to frustration and incomplete tasks due to the lack of opportunity to clarify questions. These findings align with a mental health study showing that although patients were satisfied with both synchronous and asynchronous therapy sessions, those receiving asynchronous care expressed more concerns due to missing or delayed feedback [<xref rid="bib-0066" ref-type="bibr">66</xref>].</p></sec><sec id="sec-0029"><title>4.4. Limitations of the Study</title><p>The present study utilized the TFA to explore the acceptability of the telehealth‐delivered occupational therapy program to both users and providers. However, a notable limitation of the study lies in its participant selection criteria, which only included individuals who completed the entire program and were willing to participate in an online interview. This omission of insights from individuals who dropped out may have missed valuable perspectives that could inform future improvements to enhance the program′s acceptability.</p><p>Despite this limitation, most participants who completed the intervention reported positive experiences. However, their positive feedback may be influenced by a lack of alternative structured intervention programs within general healthcare, leading to an inherent acceptability of the provided intervention. Participants expressed gratitude for any form of intervention throughout the study, potentially overestimating the intervention′s acceptability.</p><p>While all occupational therapists who guided the program and approximately 30% of the intervention completers were included, the findings may not be generalizable to all occupational therapists or individuals affected by long COVID. Given the homogeneous composition of the participants, it remains speculative if the program is acceptable for individuals with diverse cultural backgrounds.</p></sec><sec id="sec-0030"><title>4.5. Implications for Practice and Further Research</title><p>Future research should prioritize addressing the limitations identified in this study. This could involve adopting more inclusive participant selection criteria and employing methodologies that provide a deeper understanding of acceptability and feasibility across diverse participant demographics. Combining qualitative and quantitative approaches can enhance the generalizability of findings, ensuring interventions are effectively tailored to meet the needs of broader populations.</p><p>Moreover, further studies should focus on the participatory development and refinement of intervention concepts involving users and providers, particularly telehealth elements within occupational therapy processes. Critical reflection on telehealth elements within occupational therapy practice is essential for optimizing intervention effectiveness and adhering to established quality and ethical standards.</p><p>Further insights into the feasibility of telehealth‐based occupational therapy across various practice settings are required to facilitate the implementation of telehealth based on existing quality and ethics standards. These efforts will advance telehealth‐based therapy practice and research, ultimately enhancing the accessibility, effectiveness, and ethical integrity of interventions for diverse populations.</p></sec></sec><sec id="sec-0031"><title>5. Conclusion</title><p>This study integrated the perspectives of users and providers of a telehealth‐delivered occupational therapy concept and evaluated its acceptability in two telehealth formats. While most participants and occupational therapists embraced the synchronous teletherapy format and viewed it as potentially beneficial for treating long COVID, some participants in the video group criticized the scope and absence of professional support in the asynchronous video format. These findings underscore the importance of incorporating professional support structures and, if applicable, peer support opportunities in both telehealth formats to align program content with individual occupational issues and rehabilitation needs.</p><p>Our results suggest that telehealth can be utilized in occupational therapy treatment of long COVID. Continuous occupational therapy monitoring could enable hybrid therapy options, offering cost‐effective long‐term therapeutic solutions and contributing to a broader array of multimodal care options. Implementing telehealth could enhance the accessibility and effectiveness of occupational therapy interventions for individuals affected by syndromes such as long COVID, ultimately improving their quality of life and facilitating their recovery journey. Further research and implementation efforts are necessary to optimize the integration of telehealth approaches into occupational therapy practice and to maximize their benefits for diverse client populations.</p></sec><sec><def-list list-content="abbreviations" list-type="simple"><title>Nomenclature</title><def-item><term>COPM</term><def><p>Canadian Occupational Performance Measure</p></def></def-item><def-item><term>ErgoLoCo</term><def><p>acronym of the ErgoLoCo study—digital occupational therapy (ergotherapy) and long COVID</p></def></def-item><def-item><term>TFA</term><def><p>theoretical framework of acceptability</p></def></def-item></def-list></sec><sec sec-type="COI-statement" id="sec-0034"><title>Conflicts of Interest</title><p>The authors declare no conflicts of interest.</p></sec><sec id="sec-0035"><title>Author Contributions</title><p>C.M. prepared the first draft and conducted recruitment and interviews. T.S. also conducted interviews. T.S. and D.S. were involved in the iterative development of the interview and moderation guides for data collection. T.S. and G.K. assisted in analyzing the data. S.H. is a native English speaker and translated all quotes. All authors revised the manuscript, provided further contributions and suggestions, and read and approved the final manuscript.</p></sec><sec id="sec-0036"><title>Funding</title><p>This study was supported by the German Federal Ministry of Education and Research, FKZ 01EP2103A. We acknowledge support from the Open Access Publication Funds of Göttingen University.</p></sec></body><back><ack id="sec-0037"><title>Acknowledgments</title><p>We thank all participants and occupational therapists for sharing their experiences in the interviews and the focus group discussion. We acknowledge support from the Open Access Publication Funds of Göttingen University.</p></ack><sec sec-type="data-availability" id="sec-0033"><title>Data Availability Statement</title><p>The data that support the findings of this study are available from the corresponding author upon reasonable request.</p></sec><ref-list><ref id="bib-0001"><label>1</label><mixed-citation publication-type="miscellaneous" id="cit-0001">
+Robert Koch Institut, Epidemiologisches Bulletin 22/2021. November 44 (2022). <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.rki.de/DE/Aktuelles/Publikationen/Epidemiologisches-Bulletin/2022/44_22.pdf?__blob=publicationFile%26v=1" ext-link-type="uri">https://www.rki.de/DE/Aktuelles/Publikationen/Epidemiologisches-Bulletin/2022/44_22.pdf?__blob=publicationFile%26v=1</ext-link>.</mixed-citation></ref><ref id="bib-0002"><label>2</label><mixed-citation publication-type="journal" id="cit-0002">
+<string-name name-style="western">
+<surname>Rodriguez-Morales</surname>
+<given-names>A. J.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Lopez-Echeverri</surname>
+<given-names>M. C.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Perez-Raga</surname>
+<given-names>M. F.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Quintero-Romero</surname>
+<given-names>V.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Valencia-Gallego</surname>
+<given-names>V.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Galindo-Herrera</surname>
+<given-names>N.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>López-Alzate</surname>
+<given-names>S.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Sánchez-Vinasco</surname>
+<given-names>J. D.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Gutiérrez-Vargas</surname>
+<given-names>J. J.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Mayta-Tristan</surname>
+<given-names>P.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Husni</surname>
+<given-names>R.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Moghnieh</surname>
+<given-names>R.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Stephan</surname>
+<given-names>J.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Faour</surname>
+<given-names>W.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Tawil</surname>
+<given-names>S.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Barakat</surname>
+<given-names>H.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Chaaban</surname>
+<given-names>T.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Megarbane</surname>
+<given-names>A.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Rizk</surname>
+<given-names>Y.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Sakr</surname>
+<given-names>R.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Escalera-Antezana</surname>
+<given-names>J. P.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Alvarado-Arnez</surname>
+<given-names>L. E.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Bonilla-Aldana</surname>
+<given-names>D. K.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Camacho-Moreno</surname>
+<given-names>G.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Mendoza</surname>
+<given-names>H.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Rodriguez-Sabogal</surname>
+<given-names>I. A.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Millán-Oñate</surname>
+<given-names>J.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Lopardo</surname>
+<given-names>G.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Barbosa</surname>
+<given-names>A. N.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Cimerman</surname>
+<given-names>S.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Chaves</surname>
+<given-names>T. D. S. S.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Orduna</surname>
+<given-names>T.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Lloveras</surname>
+<given-names>S.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Rodriguez-Morales</surname>
+<given-names>A. G.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Thormann</surname>
+<given-names>M.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Zambrano</surname>
+<given-names>P. G.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Perez</surname>
+<given-names>C.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Sandoval</surname>
+<given-names>N.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Zambrano</surname>
+<given-names>L.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Alvarez-Moreno</surname>
+<given-names>C. A.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Chacon-Cruz</surname>
+<given-names>E.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Villamil-Gomez</surname>
+<given-names>W. E.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Benites-Zapata</surname>
+<given-names>V.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Savio-Larriera</surname>
+<given-names>E.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Cardona-Ospina</surname>
+<given-names>J. A.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Risquez</surname>
+<given-names>A.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Forero-Peña</surname>
+<given-names>D. A.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Henao-Martínez</surname>
+<given-names>A. F.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Sah</surname>
+<given-names>R.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Barboza</surname>
+<given-names>J. J.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>León-Figueroa</surname>
+<given-names>D. A.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Acosta-España</surname>
+<given-names>J. D.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Carrero-Gonzalez</surname>
+<given-names>C. M.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Al-Tawfiq</surname>
+<given-names>J. A.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Rabaan</surname>
+<given-names>A. A.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Leblebicioglu</surname>
+<given-names>H.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Gonzales-Zamora</surname>
+<given-names>J. A.</given-names>
+</string-name>, and 
+<string-name name-style="western">
+<surname>Ulloa-Gutiérrez</surname>
+<given-names>R.</given-names>
+</string-name>, <article-title>The Global Challenges of the Long COVID-19 in Adults and Children</article-title>, <source>Travel Medicine and Infectious Disease</source>. (<year>2023</year>) <volume>54</volume>, <elocation-id>102606</elocation-id>, <pub-id pub-id-type="doi">10.1016/j.tmaid.2023.102606</pub-id>, 37295581.<pub-id pub-id-type="pmid">37295581</pub-id>
+<pub-id pub-id-type="pmcid">PMC10247301</pub-id></mixed-citation></ref><ref id="bib-0003"><label>3</label><mixed-citation publication-type="journal" id="cit-0003">
+<string-name name-style="western">
+<surname>Niewolik</surname>
+<given-names>J.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Mikuteit</surname>
+<given-names>M.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Klawitter</surname>
+<given-names>S.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Schröder</surname>
+<given-names>D.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Stölting</surname>
+<given-names>A.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Vahldiek</surname>
+<given-names>K.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Heinemann</surname>
+<given-names>S.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Müller</surname>
+<given-names>F.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Behrens</surname>
+<given-names>G. M.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Klawonn</surname>
+<given-names>F.</given-names>
+</string-name>, and 
+<string-name name-style="western">
+<surname>Dopfer-Jablonka</surname>
+<given-names>A.</given-names>
+</string-name>, <article-title>Cluster Analysis of Long COVID Symptoms for Deciphering a Syndrome and Its Long-Term Consequence</article-title>, <source>Immunologic Research</source>. (<year>2024</year>) <volume>72</volume>, no. 4, <fpage>605</fpage>–<lpage>613</lpage>, <pub-id pub-id-type="doi">10.1007/s12026-024-09465-w</pub-id>.<pub-id pub-id-type="pmid">38627327</pub-id>
+<pub-id pub-id-type="pmcid">PMC11347473</pub-id></mixed-citation></ref><ref id="bib-0004"><label>4</label><mixed-citation publication-type="journal" id="cit-0004">
+<string-name name-style="western">
+<surname>Homann</surname>
+<given-names>S.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Mikuteit</surname>
+<given-names>M.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Niewolik</surname>
+<given-names>J.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Behrens</surname>
+<given-names>G. M. N.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Stölting</surname>
+<given-names>A.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Müller</surname>
+<given-names>F.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Schröder</surname>
+<given-names>D.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Heinemann</surname>
+<given-names>S.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Müllenmeister</surname>
+<given-names>C.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>El-Sayed</surname>
+<given-names>I.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Happle</surname>
+<given-names>C.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Steffens</surname>
+<given-names>S.</given-names>
+</string-name>, and 
+<string-name name-style="western">
+<surname>Dopfer-Jablonka</surname>
+<given-names>A.</given-names>
+</string-name>, <article-title>Effects of Pre-Existing Mental Conditions on Fatigue and Psychological Symptoms Post-COVID-19</article-title>, <source>International Journal of Environmental Research and Public Health</source>. (<year>2022</year>) <volume>19</volume>, no. 16, <pub-id pub-id-type="doi">10.3390/ijerph19169924</pub-id>.<pub-id pub-id-type="pmcid">PMC9408008</pub-id><pub-id pub-id-type="pmid">36011559</pub-id></mixed-citation></ref><ref id="bib-0005"><label>5</label><mixed-citation publication-type="journal" id="cit-0005">
+<string-name name-style="western">
+<surname>Degen</surname>
+<given-names>C. V.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Mikuteit</surname>
+<given-names>M.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Niewolik</surname>
+<given-names>J.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Schröder</surname>
+<given-names>D.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Vahldiek</surname>
+<given-names>K.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Mücke</surname>
+<given-names>U.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Heinemann</surname>
+<given-names>S.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Müller</surname>
+<given-names>F.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Behrens</surname>
+<given-names>G. M. N.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Klawonn</surname>
+<given-names>F.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Dopfer-Jablonka</surname>
+<given-names>A.</given-names>
+</string-name>, and 
+<string-name name-style="western">
+<surname>Steffens</surname>
+<given-names>S.</given-names>
+</string-name>, <article-title>Self-Reported Tinnitus and Vertigo or Dizziness in a Cohort of Adult Long COVID Patients</article-title>, <source>Frontiers in Neurology</source>. (<year>2022</year>) <volume>13</volume>, <pub-id pub-id-type="doi">10.3389/fneur.2022.884002</pub-id>, 35547372.<pub-id pub-id-type="pmcid">PMC9082801</pub-id><pub-id pub-id-type="pmid">35547372</pub-id></mixed-citation></ref><ref id="bib-0006"><label>6</label><mixed-citation publication-type="journal" id="cit-0006">
+<string-name name-style="western">
+<surname>Soriano</surname>
+<given-names>J. B.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Murthy</surname>
+<given-names>S.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Marshall</surname>
+<given-names>J. C.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Relan</surname>
+<given-names>P.</given-names>
+</string-name>, and 
+<string-name name-style="western">
+<surname>Diaz</surname>
+<given-names>J. V.</given-names>
+</string-name>, <article-title>A Clinical Case Definition of Post-COVID-19 Condition by a Delphi Consensus</article-title>, <source>Lancet Infectious Diseases</source>. (<year>2022</year>) <volume>22</volume>, no. 4, <fpage>e102</fpage>–<lpage>e107</lpage>, <pub-id pub-id-type="doi">10.1016/S1473-3099(21)00703-9</pub-id>.<pub-id pub-id-type="pmid">34951953</pub-id>
+<pub-id pub-id-type="pmcid">PMC8691845</pub-id></mixed-citation></ref><ref id="bib-0007"><label>7</label><mixed-citation publication-type="journal" id="cit-0007">
+<string-name name-style="western">
+<surname>Schmachtenberg</surname>
+<given-names>T.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Königs</surname>
+<given-names>G.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Dragaqina</surname>
+<given-names>A.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Roder</surname>
+<given-names>S.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Müller</surname>
+<given-names>F.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Müllenmeister</surname>
+<given-names>C.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Schröder</surname>
+<given-names>D.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Dopfer-Jablonka</surname>
+<given-names>A.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Vieth</surname>
+<given-names>K.</given-names>
+</string-name>, and 
+<string-name name-style="western">
+<surname>El-Sayed</surname>
+<given-names>I.</given-names>
+</string-name>, <article-title>“There Is No One Who Helps You With It”: Experiences of People With Long COVID Regarding Medical Care, Therapeutic Measures, and Barriers in the German Healthcare System: Results of a Qualitative Study With Four Focus Groups</article-title>, <source>BMC Health Services Research</source>. (<year>2023</year>) <volume>23</volume>, no. 1, <pub-id pub-id-type="doi">10.1186/s12913-023-10170-x</pub-id>, 37884993.<pub-id pub-id-type="pmcid">PMC10601213</pub-id><pub-id pub-id-type="pmid">37884993</pub-id></mixed-citation></ref><ref id="bib-0008"><label>8</label><mixed-citation publication-type="journal" id="cit-0008">
+<string-name name-style="western">
+<surname>Sapna</surname>
+<given-names>F.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Deepa</surname>
+<given-names>F.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Sakshi</surname>
+<given-names>F.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Sonam</surname>
+<given-names>F.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Kiran</surname>
+<given-names>F.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Perkash</surname>
+<given-names>R. S.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Bendari</surname>
+<given-names>A.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Kumar</surname>
+<given-names>A.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Rizvi</surname>
+<given-names>Y.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Suraksha</surname>
+<given-names>F.</given-names>
+</string-name>, and 
+<string-name name-style="western">
+<surname>Varrassi</surname>
+<given-names>G.</given-names>
+</string-name>, <article-title>Unveiling the Mysteries of Long COVID Syndrome: Exploring the Distinct Tissue and Organ Pathologies Linked to Prolonged COVID-19 Symptoms</article-title>, <source>Cureus</source>. (<year>2023</year>) <volume>15</volume>, no. 9, <elocation-id>e44588</elocation-id>, <pub-id pub-id-type="doi">10.7759/cureus.44588</pub-id>, 37795061.<pub-id pub-id-type="pmid">37795061</pub-id>
+<pub-id pub-id-type="pmcid">PMC10545886</pub-id></mixed-citation></ref><ref id="bib-0009"><label>9</label><mixed-citation publication-type="journal" id="cit-0009">
+<string-name name-style="western">
+<surname>Prusinski</surname>
+<given-names>C.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Yan</surname>
+<given-names>D.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Klasova</surname>
+<given-names>J.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>McVeigh</surname>
+<given-names>K. H.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Shah</surname>
+<given-names>S. Z.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Fermo</surname>
+<given-names>O. P.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Kubrova</surname>
+<given-names>E.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Farr</surname>
+<given-names>E. M.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Williams</surname>
+<given-names>L. C.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Gerardo-Manrique</surname>
+<given-names>G.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Bergquist</surname>
+<given-names>T. F.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Pham</surname>
+<given-names>S. M.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Engelberg-Cook</surname>
+<given-names>E.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Hare</surname>
+<given-names>J. M.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>March</surname>
+<given-names>K. L.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Caplan</surname>
+<given-names>A. I.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Qu</surname>
+<given-names>W.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Prusinski</surname>
+<given-names>C.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Yan</surname>
+<given-names>D.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Klasova</surname>
+<given-names>J.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>McVeigh</surname>
+<given-names>K.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Shah</surname>
+<given-names>S. Z.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Fermo</surname>
+<given-names>O.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Kubrova</surname>
+<given-names>E.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Farr</surname>
+<given-names>E.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Williams</surname>
+<given-names>L. C.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Gerardo-Manrique</surname>
+<given-names>G.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Bergquist</surname>
+<given-names>T.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Pham</surname>
+<given-names>S.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Engelberg-Cook</surname>
+<given-names>E.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Hare</surname>
+<given-names>J. M.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>March</surname>
+<given-names>K.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Caplan</surname>
+<given-names>A. I.</given-names>
+</string-name>, and 
+<string-name name-style="western">
+<surname>Qu</surname>
+<given-names>W.</given-names>
+</string-name>, <article-title>Multidisciplinary Management Strategies for Long COVID: A Narrative Review</article-title>, <source>Cureus</source>. (<year>2024</year>) <volume>16</volume>, no. 5, <pub-id pub-id-type="doi">10.7759/cureus.59478</pub-id>, <elocation-id>e59478</elocation-id>, 38826995.<pub-id pub-id-type="pmid">38826995</pub-id>
+<pub-id pub-id-type="pmcid">PMC11142761</pub-id></mixed-citation></ref><ref id="bib-0010"><label>10</label><mixed-citation publication-type="journal" id="cit-0010">
+<string-name name-style="western">
+<surname>Schröder</surname>
+<given-names>D.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Heinemann</surname>
+<given-names>S.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Heesen</surname>
+<given-names>G.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Hummers</surname>
+<given-names>E.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Schmachtenberg</surname>
+<given-names>T.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Dopfer-Jablonka</surname>
+<given-names>A.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Vahldiek</surname>
+<given-names>K.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Klawonn</surname>
+<given-names>F.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Klawitter</surname>
+<given-names>S.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Steffens</surname>
+<given-names>S.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Mikuteit</surname>
+<given-names>M.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Niewolik</surname>
+<given-names>J.</given-names>
+</string-name>, and 
+<string-name name-style="western">
+<surname>Müller</surname>
+<given-names>F.</given-names>
+</string-name>, <article-title>Association of Long COVID With Health-Related Quality of Life and Social Participation in Germany: Finding From an Online-Based Cross-Sectional Survey</article-title>, <source>Heliyon</source>. (<year>2024</year>) <volume>10</volume>, no. 4, <pub-id pub-id-type="doi">10.1016/j.heliyon.2024.e26130</pub-id>, <elocation-id>e26130</elocation-id>, 38380019.<pub-id pub-id-type="pmid">38380019</pub-id>
+<pub-id pub-id-type="pmcid">PMC10877341</pub-id></mixed-citation></ref><ref id="bib-0011"><label>11</label><mixed-citation publication-type="miscellaneous" id="cit-0011">
+NICE, COVID-19 Rapid Guideline: Managing the Long Term Effects of COVID-19, (2022). <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.nice.org.uk/guidance/ng188" ext-link-type="uri">https://www.nice.org.uk/guidance/ng188</ext-link>.<pub-id pub-id-type="pmid">33555768</pub-id></mixed-citation></ref><ref id="bib-0012"><label>12</label><mixed-citation publication-type="journal" id="cit-0012">
+<string-name name-style="western">
+<surname>Koczulla</surname>
+<given-names>A. R.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Ankermann</surname>
+<given-names>T.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Behrends</surname>
+<given-names>U.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Berlit</surname>
+<given-names>P.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Berner</surname>
+<given-names>R.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Böing</surname>
+<given-names>S.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Brinkmann</surname>
+<given-names>F.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Frank</surname>
+<given-names>U.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Franke</surname>
+<given-names>C.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Glöckl</surname>
+<given-names>R.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Gogoll</surname>
+<given-names>C.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Häuser</surname>
+<given-names>W.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Hohberger</surname>
+<given-names>B.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Huber</surname>
+<given-names>G.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Hummel</surname>
+<given-names>T.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Köllner</surname>
+<given-names>V.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Krause</surname>
+<given-names>S.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Kronsbein</surname>
+<given-names>J.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Maibaum</surname>
+<given-names>T.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Otto-Thöne</surname>
+<given-names>A.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Pecks</surname>
+<given-names>U.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Peters</surname>
+<given-names>E. M. J.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Peters</surname>
+<given-names>S.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Pfeifer</surname>
+<given-names>M.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Platz</surname>
+<given-names>T.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Pletz</surname>
+<given-names>M.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Powitz</surname>
+<given-names>F.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Rabe</surname>
+<given-names>K. F.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Scheibenbogen</surname>
+<given-names>C.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Schneider</surname>
+<given-names>D.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Stallmach</surname>
+<given-names>A.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Stegbauer</surname>
+<given-names>M.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Tenenbaum</surname>
+<given-names>T.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Töpfner</surname>
+<given-names>N.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Von Versen-Höynck</surname>
+<given-names>F.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Wagner</surname>
+<given-names>H. O.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Waller</surname>
+<given-names>C.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Widmann</surname>
+<given-names>C. N.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Winterholler</surname>
+<given-names>C.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Wirtz</surname>
+<given-names>H.</given-names>
+</string-name>, and 
+<string-name name-style="western">
+<surname>Zwick</surname>
+<given-names>R.</given-names>
+</string-name>, <article-title>S1-Leitlinie Long-/Post-COVID</article-title>, <source>Pneumologie</source>. (<year>2022</year>) <volume>76</volume>, no. 12, <fpage>855</fpage>–<lpage>907</lpage>, <pub-id pub-id-type="doi">10.1055/a-1946-3230</pub-id>, 36479679.<pub-id pub-id-type="pmid">36479679</pub-id>
+</mixed-citation></ref><ref id="bib-0013"><label>13</label><mixed-citation publication-type="journal" id="cit-0013">
+<string-name name-style="western">
+<surname>Costa</surname>
+<given-names>U. M.</given-names>
+</string-name>, <article-title>Leitfaden für das Management von Folgen viraler Erkrankung mit SARS-CoV-2 aus Sicht der Ergotherapie</article-title>, <source>Wiener Klinische Wochenschrift</source>. (<year>2023</year>) <volume>135</volume>, no. S4, <fpage>599</fpage>–<lpage>618</lpage>, <pub-id pub-id-type="doi">10.1007/s00508-023-02243-y</pub-id>.<pub-id pub-id-type="pmid">37522912</pub-id>
+<pub-id pub-id-type="pmcid">PMC10504210</pub-id></mixed-citation></ref><ref id="bib-0014"><label>14</label><mixed-citation publication-type="miscellaneous" id="cit-0014">
+<string-name name-style="western">
+<surname>World Federation of Occupational Therapists</surname>
+</string-name>, <article-title>Definitions of Occupational Therapy from Member Organisations, WFOT</article-title>, <year>2013</year>, accessed December 4, 2023 <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://wfot.org/resources/definitions-of-occupational-therapy-from-member-organisations" ext-link-type="uri">https://wfot.org/resources/definitions-of-occupational-therapy-from-member-organisations</ext-link>.</mixed-citation></ref><ref id="bib-0015"><label>15</label><mixed-citation publication-type="miscellaneous" id="cit-0015">
+<string-name name-style="western">
+<surname>World Federation of Occupational Therapists</surname>
+</string-name>, <article-title>About Occupational Therapy</article-title>, <year>2024</year>, accessed January 22, 2024 <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://wfot.org/about/about-occupational-therapy" ext-link-type="uri">https://wfot.org/about/about-occupational-therapy</ext-link>.</mixed-citation></ref><ref id="bib-0016"><label>16</label><mixed-citation publication-type="journal" id="cit-0016">
+<string-name name-style="western">
+<surname>Revised by the Commission on Practice, 2020</surname>
+</string-name>, 
+<string-name name-style="western">
+<surname>Casto</surname>
+<given-names>S. C.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Davis</surname>
+<given-names>C.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Dorsey</surname>
+<given-names>J.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Lannigan</surname>
+<given-names>E. L. G.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Metzger</surname>
+<given-names>L.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Miller</surname>
+<given-names>J.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Owens</surname>
+<given-names>A.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Rives</surname>
+<given-names>K.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Synovec</surname>
+<given-names>C.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Winistorfer</surname>
+<given-names>W. L.</given-names>
+</string-name>, and 
+<string-name name-style="western">
+<surname>Lieberman</surname>
+<given-names>D.</given-names>
+</string-name>, <article-title>Standards of Practice for Occupational Therapy</article-title>, <source>American Journal of Occupational Therapy</source>. (<year>2022</year>) <volume>75</volume>, no. Supplement_3, <elocation-id>7513410030</elocation-id>, <pub-id pub-id-type="doi">10.5014/ajot.2021.75S3004</pub-id>.<pub-id pub-id-type="pmid">34939642</pub-id></mixed-citation></ref><ref id="bib-0017"><label>17</label><mixed-citation publication-type="journal" id="cit-0017">
+<article-title>Guidelines for Supervision, Roles, and Responsibilities During the Delivery of Occupational Therapy Services</article-title>, <source>American Journal of Occupational Therapy</source>. (<year>2020</year>) <volume>74</volume>, no. Supplement_3, <elocation-id>7413410020p1-7413410020p6</elocation-id>, <pub-id pub-id-type="doi">10.5014/ajot.2020.74S3004</pub-id>, 34935893.<pub-id pub-id-type="pmid">34935893</pub-id></mixed-citation></ref><ref id="bib-0018"><label>18</label><mixed-citation publication-type="journal" id="cit-0018">
+<string-name name-style="western">
+<surname>Reitz</surname>
+<given-names>S. M.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Scaffa</surname>
+<given-names>M. E.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Commission on Practice</surname>
+</string-name>, and 
+<string-name name-style="western">
+<surname>Dorsey</surname>
+<given-names>J.</given-names>
+</string-name>, <article-title>Occupational Therapy in the Promotion of Health and Well-Being</article-title>, <source>American Journal of Occupational Therapy</source>. (<year>2020</year>) <volume>74</volume>, no. 3, <elocation-id>7403420010p1-7403420010p14</elocation-id>, <pub-id pub-id-type="doi">10.5014/ajot.2020.743003</pub-id>.<pub-id pub-id-type="pmid">32365325</pub-id></mixed-citation></ref><ref id="bib-0019"><label>19</label><mixed-citation publication-type="journal" id="cit-0019">
+<string-name name-style="western">
+<surname>Hersche</surname>
+<given-names>R.</given-names>
+</string-name> and 
+<string-name name-style="western">
+<surname>Weise</surname>
+<given-names>A.</given-names>
+</string-name>, <article-title>Occupational Therapy-Based Energy Management Education in People With Post-COVID-19 Condition-Related Fatigue: Results From a Focus Group Discussion</article-title>, <source>Occupational Therapy International</source>. (<year>2022</year>) <volume>2022</volume>, <elocation-id>e4590154</elocation-id>, <pub-id pub-id-type="doi">10.1155/2022/4590154</pub-id>, 35521629.<pub-id pub-id-type="pmcid">PMC9023185</pub-id><pub-id pub-id-type="pmid">35521629</pub-id></mixed-citation></ref><ref id="bib-0020"><label>20</label><mixed-citation publication-type="journal" id="cit-0020">
+<string-name name-style="western">
+<surname>Hersche</surname>
+<given-names>R.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Weise</surname>
+<given-names>A.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Hummel</surname>
+<given-names>B.</given-names>
+</string-name>, and 
+<string-name name-style="western">
+<surname>Barbero</surname>
+<given-names>M.</given-names>
+</string-name>, <article-title>Occupational Therapy-Based Self-Management Education in Persons With Post-COVID-19 Condition Related Fatigue: A Feasibility Study With a Pre-Post Design</article-title>, <source>Disability and Rehabilitation</source>. (<year>2024</year>) <volume>46</volume>, no. 14, <fpage>3060</fpage>–<lpage>3066</lpage>, <pub-id pub-id-type="doi">10.1080/09638288.2023.2242783</pub-id>.<pub-id pub-id-type="pmid">37545190</pub-id>
+</mixed-citation></ref><ref id="bib-0021"><label>21</label><mixed-citation publication-type="journal" id="cit-0021">
+<string-name name-style="western">
+<surname>Mannion</surname>
+<given-names>N.</given-names>
+</string-name> and 
+<string-name name-style="western">
+<surname>Sullivan</surname>
+<given-names>N.</given-names>
+</string-name>, <article-title>Occupational Therapy for Functional Impairments Resulting From COVID-19 Infection: A Case Report</article-title>, <source>American Journal of Occupational Therapy</source>. (<year>2021</year>) <volume>75</volume>, no. Supplement_1, <elocation-id>7511210040p1-7511210040p7</elocation-id>, <pub-id pub-id-type="doi">10.5014/ajot.2021.049215</pub-id>, 34405797.<pub-id pub-id-type="pmid">34405797</pub-id></mixed-citation></ref><ref id="bib-0022"><label>22</label><mixed-citation publication-type="journal" id="cit-0022">
+<string-name name-style="western">
+<surname>Vij</surname>
+<given-names>S.</given-names>
+</string-name>, <article-title>Role of Occupational Therapy in the Management of Long-Term Functional Impairments Post-COVID-19: An Evidence-Based Clinical Summary</article-title>, <source>Indian Journal of Occupational Therapy</source>. (<year>2021</year>) <volume>53</volume>, no. 4, <fpage>156</fpage>–<lpage>160</lpage>, <pub-id pub-id-type="doi">10.4103/ijoth.ijoth_62_21</pub-id>.</mixed-citation></ref><ref id="bib-0023"><label>23</label><mixed-citation publication-type="journal" id="cit-0023">
+<string-name name-style="western">
+<surname>von Zweck</surname>
+<given-names>C.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Naidoo</surname>
+<given-names>D.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Govender</surname>
+<given-names>P.</given-names>
+</string-name>, and 
+<string-name name-style="western">
+<surname>Ledgerd</surname>
+<given-names>R.</given-names>
+</string-name>, <article-title>Current Practice in Occupational Therapy for COVID-19 and Post-COVID-19 Conditions</article-title>, <source>Occupational Therapy International</source>. (<year>2023</year>) <volume>2023</volume>, <elocation-id>e5886581</elocation-id>, <pub-id pub-id-type="doi">10.1155/2023/5886581</pub-id>, 37250066.<pub-id pub-id-type="pmcid">PMC10219768</pub-id><pub-id pub-id-type="pmid">37250066</pub-id></mixed-citation></ref><ref id="bib-0024"><label>24</label><mixed-citation publication-type="journal" id="cit-0024">
+<string-name name-style="western">
+<surname>Wilcox</surname>
+<given-names>J.</given-names>
+</string-name> and 
+<string-name name-style="western">
+<surname>Frank</surname>
+<given-names>E.</given-names>
+</string-name>, <article-title>Occupational Therapy for the Long Haul of Post-COVID Syndrome: A Case Report</article-title>, <source>American Journal of Occupational Therapy</source>. (<year>2021</year>) <volume>75</volume>, no. Supplement_1, <elocation-id>7511210060p1-7511210060p7</elocation-id>, <pub-id pub-id-type="doi">10.5014/ajot.2021.049223</pub-id>, 34405799.<pub-id pub-id-type="pmid">34405799</pub-id></mixed-citation></ref><ref id="bib-0025"><label>25</label><mixed-citation publication-type="journal" id="cit-0025">
+<string-name name-style="western">
+<surname>Ladds</surname>
+<given-names>E.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Rushforth</surname>
+<given-names>A.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Wieringa</surname>
+<given-names>S.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Taylor</surname>
+<given-names>S.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Rayner</surname>
+<given-names>C.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Husain</surname>
+<given-names>L.</given-names>
+</string-name>, and 
+<string-name name-style="western">
+<surname>Greenhalgh</surname>
+<given-names>T.</given-names>
+</string-name>, <article-title>Developing Services for Long COVID: Lessons From a Study of Wounded Healers</article-title>, <source>Clinical Medicine</source>. (<year>2021</year>) <volume>21</volume>, no. 1, <fpage>59</fpage>–<lpage>65</lpage>, <pub-id pub-id-type="doi">10.7861/clinmed.2020-0962</pub-id>, 33479069.<pub-id pub-id-type="pmid">33479069</pub-id>
+<pub-id pub-id-type="pmcid">PMC7850205</pub-id></mixed-citation></ref><ref id="bib-0026"><label>26</label><mixed-citation publication-type="journal" id="cit-0026">
+<string-name name-style="western">
+<surname>Décary</surname>
+<given-names>S.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Dugas</surname>
+<given-names>M.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Stefan</surname>
+<given-names>T.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Langlois</surname>
+<given-names>L.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Skidmore</surname>
+<given-names>B.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Bhéreur</surname>
+<given-names>A.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>LeBlanc</surname>
+<given-names>A.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Alberta Health Services</surname>
+</string-name>, 
+<string-name name-style="western">
+<surname>Hastings</surname>
+<given-names>S.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Manns</surname>
+<given-names>B.</given-names>
+</string-name>, and 
+<string-name name-style="western">
+<surname>Saxinger</surname>
+<given-names>L.</given-names>
+</string-name>, <article-title>Care Models for Long COVID: a Rapid Systematic Review</article-title>, <source>medRxiv</source>. (<year>2021</year>) <elocation-id>2021-11</elocation-id>, <pub-id pub-id-type="doi">10.1101/2021.11.17.21266404</pub-id>.</mixed-citation></ref><ref id="bib-0027"><label>27</label><mixed-citation publication-type="journal" id="cit-0027">
+<string-name name-style="western">
+<surname>Gajarawala</surname>
+<given-names>S. N.</given-names>
+</string-name> and 
+<string-name name-style="western">
+<surname>Pelkowski</surname>
+<given-names>J. N.</given-names>
+</string-name>, <article-title>Telehealth Benefits and Barriers</article-title>, <source>Journal for Nurse Practitioners</source>. (<year>2021</year>) <volume>17</volume>, no. 2, <fpage>218</fpage>–<lpage>221</lpage>, <pub-id pub-id-type="doi">10.1016/j.nurpra.2020.09.013</pub-id>.<pub-id pub-id-type="pmcid">PMC7577680</pub-id><pub-id pub-id-type="pmid">33106751</pub-id></mixed-citation></ref><ref id="bib-0028"><label>28</label><mixed-citation publication-type="journal" id="cit-0028">
+<string-name name-style="western">
+<surname>Haleem</surname>
+<given-names>A.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Javaid</surname>
+<given-names>M.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Singh</surname>
+<given-names>R. P.</given-names>
+</string-name>, and 
+<string-name name-style="western">
+<surname>Suman</surname>
+<given-names>R.</given-names>
+</string-name>, <article-title>Telemedicine for Healthcare: Capabilities, Features, Barriers, and Applications</article-title>, <source>Sensors International</source>. (<year>2021</year>) <volume>2</volume>, <elocation-id>100117</elocation-id>, <pub-id pub-id-type="doi">10.1016/j.sintl.2021.100117</pub-id>, 34806053.<pub-id pub-id-type="pmid">34806053</pub-id>
+<pub-id pub-id-type="pmcid">PMC8590973</pub-id></mixed-citation></ref><ref id="bib-0029"><label>29</label><mixed-citation publication-type="journal" id="cit-0029">
+<string-name name-style="western">
+<surname>DePuccio</surname>
+<given-names>M. J.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Gaughan</surname>
+<given-names>A. A.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Shiu-Yee</surname>
+<given-names>K.</given-names>
+</string-name>, and 
+<string-name name-style="western">
+<surname>McAlearney</surname>
+<given-names>A. S.</given-names>
+</string-name>, <article-title>Doctoring From Home: Physicians’ Perspectives on the Advantages of Remote Care Delivery During the COVID-19 Pandemic</article-title>, <source>PLoS One</source>. (<year>2022</year>) <volume>17</volume>, no. 6, <elocation-id>e0269264</elocation-id>, <pub-id pub-id-type="doi">10.1371/journal.pone.0269264</pub-id>, 35653337.<pub-id pub-id-type="pmid">35653337</pub-id>
+<pub-id pub-id-type="pmcid">PMC9162302</pub-id></mixed-citation></ref><ref id="bib-0030"><label>30</label><mixed-citation publication-type="journal" id="cit-0030">
+<string-name name-style="western">
+<surname>World Federation Of Occupational Therapists</surname>
+</string-name>, <article-title>World Federation of Occupational Therapists’ Position Statement on Telehealth</article-title>, <source>International Journal of Telerehabilitation</source>. (<year>2014</year>) <volume>6</volume>, no. 1, <fpage>37</fpage>–<lpage>39</lpage>, <pub-id pub-id-type="doi">10.5195/IJT.2014.6153</pub-id>, 25945221.<pub-id pub-id-type="pmid">25945221</pub-id>
+<pub-id pub-id-type="pmcid">PMC4352997</pub-id></mixed-citation></ref><ref id="bib-0031"><label>31</label><mixed-citation publication-type="miscellaneous" id="cit-0031">
+Deutscher Verband Ergotherapie, Merkblatt Telemedizinische Leistungen in der Ergotherapie, (2024). <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.dve.info/service/stellungnahmen-positionen?highlight=Telemedizin" ext-link-type="uri">https://www.dve.info/service/stellungnahmen-positionen?highlight=Telemedizin</ext-link>, (accessed April 4, 2024).</mixed-citation></ref><ref id="bib-0032"><label>32</label><mixed-citation publication-type="journal" id="cit-0032">
+<string-name name-style="western">
+<surname>Zonneveld</surname>
+<given-names>M.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Patomella</surname>
+<given-names>A.-H.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Asaba</surname>
+<given-names>E.</given-names>
+</string-name>, and 
+<string-name name-style="western">
+<surname>Guidetti</surname>
+<given-names>S.</given-names>
+</string-name>, <article-title>The Use of Information and Communication Technology in Healthcare to Improve Participation in Everyday Life: A Scoping Review</article-title>, <source>Disability and Rehabilitation</source>. (<year>2020</year>) <volume>42</volume>, no. 23, <fpage>3416</fpage>–<lpage>3423</lpage>, <pub-id pub-id-type="doi">10.1080/09638288.2019.1592246</pub-id>, 30966833.<pub-id pub-id-type="pmid">30966833</pub-id>
+</mixed-citation></ref><ref id="bib-0033"><label>33</label><mixed-citation publication-type="journal" id="cit-0033">
+<string-name name-style="western">
+<surname>Hung Kn</surname>
+<given-names>G.</given-names>
+</string-name> and 
+<string-name name-style="western">
+<surname>Fong</surname>
+<given-names>K. N.</given-names>
+</string-name>, <article-title>Effects of Telerehabilitation in Occupational Therapy Practice: A Systematic Review</article-title>, <source>Hong Kong Journal of Occupational Therapy</source>. (<year>2019</year>) <volume>32</volume>, no. 1, <fpage>3</fpage>–<lpage>21</lpage>, <pub-id pub-id-type="doi">10.1177/1569186119849119</pub-id>, 2-s2.0-85067247561, 31217758.<pub-id pub-id-type="pmid">31217758</pub-id>
+<pub-id pub-id-type="pmcid">PMC6560836</pub-id></mixed-citation></ref><ref id="bib-0034"><label>34</label><mixed-citation publication-type="journal" id="cit-0034">
+<string-name name-style="western">
+<surname>Feldhacker</surname>
+<given-names>D. R.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Jewell</surname>
+<given-names>V. D.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Jung LeSage</surname>
+<given-names>S.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Collins</surname>
+<given-names>H.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Lohman</surname>
+<given-names>H.</given-names>
+</string-name>, and 
+<string-name name-style="western">
+<surname>Russell</surname>
+<given-names>M.</given-names>
+</string-name>, <article-title>Telehealth Interventions Within the Scope of Occupational Therapy Practice: A Systematic Review</article-title>, <source>American Journal of Occupational Therapy</source>. (<year>2022</year>) <volume>76</volume>, no. 6, <elocation-id>7606205090</elocation-id>, <pub-id pub-id-type="doi">10.5014/ajot.2022.049417</pub-id>, 36332197.<pub-id pub-id-type="pmid">36332197</pub-id></mixed-citation></ref><ref id="bib-0035"><label>35</label><mixed-citation publication-type="journal" id="cit-0035">
+<string-name name-style="western">
+<surname>Carrington</surname>
+<given-names>M.</given-names>
+</string-name> and 
+<string-name name-style="western">
+<surname>Shahidul Islam</surname>
+<given-names>M.</given-names>
+</string-name>, <article-title>The Use of Telehealth to Perform Occupational Therapy Home Assessments: An Integrative Literature Review</article-title>, <source>Health Care</source>. (<year>2023</year>) <volume>37</volume>, no. 4, <fpage>648</fpage>–<lpage>663</lpage>, <pub-id pub-id-type="doi">10.1080/07380577.2022.2056779</pub-id>, 35357275.<pub-id pub-id-type="pmid">35357275</pub-id></mixed-citation></ref><ref id="bib-0036"><label>36</label><mixed-citation publication-type="journal" id="cit-0036">
+<string-name name-style="western">
+<surname>Rinn</surname>
+<given-names>R.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Gao</surname>
+<given-names>L.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Schoeneich</surname>
+<given-names>S.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Dahmen</surname>
+<given-names>A.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Kumar</surname>
+<given-names>V. A.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Becker</surname>
+<given-names>P.</given-names>
+</string-name>, and 
+<string-name name-style="western">
+<surname>Lippke</surname>
+<given-names>S.</given-names>
+</string-name>, <article-title>Digital Interventions for Treating Post-COVID or Long-COVID Symptoms: Scoping Review</article-title>, <source>Journal of Medical Internet Research</source>. (<year>2023</year>) <volume>25</volume>, <elocation-id>e45711</elocation-id>, <pub-id pub-id-type="doi">10.2196/45711</pub-id>, 36943909.<pub-id pub-id-type="pmid">36943909</pub-id>
+<pub-id pub-id-type="pmcid">PMC10131666</pub-id></mixed-citation></ref><ref id="bib-0037"><label>37</label><mixed-citation publication-type="journal" id="cit-0037">
+<string-name name-style="western">
+<surname>Estebanez-Pérez</surname>
+<given-names>M.-J.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Pastora-Bernal</surname>
+<given-names>J.-M.</given-names>
+</string-name>, and 
+<string-name name-style="western">
+<surname>Martín-Valero</surname>
+<given-names>R.</given-names>
+</string-name>, <article-title>The Effectiveness of a Four-Week Digital Physiotherapy Intervention to Improve Functional Capacity and Adherence to Intervention in Patients With Long COVID-19</article-title>, <source>International Journal of Environmental Research and Public Health</source>. (<year>2022</year>) <volume>19</volume>, no. 15, <pub-id pub-id-type="doi">10.3390/ijerph19159566</pub-id>, 35954922.<pub-id pub-id-type="pmcid">PMC9367987</pub-id><pub-id pub-id-type="pmid">35954922</pub-id></mixed-citation></ref><ref id="bib-0038"><label>38</label><mixed-citation publication-type="journal" id="cit-0038">
+<string-name name-style="western">
+<surname>da Silva Vieira</surname>
+<given-names>A. G.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Pinto</surname>
+<given-names>A. C.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Garcia</surname>
+<given-names>B. M.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Eid</surname>
+<given-names>R. A.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Mól</surname>
+<given-names>C. G.</given-names>
+</string-name>, and 
+<string-name name-style="western">
+<surname>Nawa</surname>
+<given-names>R. K.</given-names>
+</string-name>, <article-title>Telerehabilitation Improves Physical Function and Reduces Dyspnoea in People With COVID-19 and Post-COVID-19 Conditions: A Systematic Review</article-title>, <source>Journal of Physiotherapy</source>. (<year>2022</year>) <volume>68</volume>, no. 2, <fpage>90</fpage>–<lpage>98</lpage>, <pub-id pub-id-type="doi">10.1016/j.jphys.2022.03.011</pub-id>, 35414491.<pub-id pub-id-type="pmid">35414491</pub-id>
+<pub-id pub-id-type="pmcid">PMC8994568</pub-id></mixed-citation></ref><ref id="bib-0039"><label>39</label><mixed-citation publication-type="journal" id="cit-0039">
+<string-name name-style="western">
+<surname>Harenwall</surname>
+<given-names>S.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Heywood-Everett</surname>
+<given-names>S.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Henderson</surname>
+<given-names>R.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Godsell</surname>
+<given-names>S.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Jordan</surname>
+<given-names>S.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Moore</surname>
+<given-names>A.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Philpot</surname>
+<given-names>U.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Shepherd</surname>
+<given-names>K.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Smith</surname>
+<given-names>J.</given-names>
+</string-name>, and 
+<string-name name-style="western">
+<surname>Bland</surname>
+<given-names>A. R.</given-names>
+</string-name>, <article-title>Post-Covid-19 Syndrome: Improvements in Health-Related Quality of Life Following Psychology-Led Interdisciplinary Virtual Rehabilitation</article-title>, <source>Journal of Primary Care and Community Health</source>. (<year>2021</year>) <volume>12</volume>, <elocation-id>21501319211067674</elocation-id>, <pub-id pub-id-type="doi">10.1177/21501319211067674</pub-id>, 34939506.<pub-id pub-id-type="pmcid">PMC8721676</pub-id><pub-id pub-id-type="pmid">34939506</pub-id></mixed-citation></ref><ref id="bib-0040"><label>40</label><mixed-citation publication-type="journal" id="cit-0040">
+<string-name name-style="western">
+<surname>Derksen</surname>
+<given-names>C.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Rinn</surname>
+<given-names>R.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Gao</surname>
+<given-names>L.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Dahmen</surname>
+<given-names>A.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Cordes</surname>
+<given-names>C.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Kolb</surname>
+<given-names>C.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Becker</surname>
+<given-names>P.</given-names>
+</string-name>, and 
+<string-name name-style="western">
+<surname>Lippke</surname>
+<given-names>S.</given-names>
+</string-name>, <article-title>Longitudinal Evaluation of an Integrated Post–COVID-19/Long COVID Management Program Consisting of Digital Interventions and Personal Support: Randomized Controlled Trial</article-title>, <source>Journal of Medical Internet Research</source>. (<year>2023</year>) <volume>25</volume>, <elocation-id>e49342</elocation-id>, <pub-id pub-id-type="doi">10.2196/49342</pub-id>, 37792437.<pub-id pub-id-type="pmid">37792437</pub-id>
+<pub-id pub-id-type="pmcid">PMC10563866</pub-id></mixed-citation></ref><ref id="bib-0041"><label>41</label><mixed-citation publication-type="journal" id="cit-0041">
+<string-name name-style="western">
+<surname>Dalbosco-Salas</surname>
+<given-names>M.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Torres-Castro</surname>
+<given-names>R.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Rojas Leyton</surname>
+<given-names>A.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Morales Zapata</surname>
+<given-names>F.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Henríquez Salazar</surname>
+<given-names>E.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Espinoza Bastías</surname>
+<given-names>G.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Beltrán Díaz</surname>
+<given-names>M. E.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Tapia Allers</surname>
+<given-names>K.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Mornhinweg Fonseca</surname>
+<given-names>D.</given-names>
+</string-name>, and 
+<string-name name-style="western">
+<surname>Vilaró</surname>
+<given-names>J.</given-names>
+</string-name>, <article-title>Effectiveness of a Primary Care Telerehabilitation Program for Post-COVID-19 Patients: A Feasibility Study</article-title>, <source>Clinical Medicine</source>. (<year>2021</year>) <volume>10</volume>, no. 19, <pub-id pub-id-type="doi">10.3390/jcm10194428</pub-id>.<pub-id pub-id-type="pmcid">PMC8509356</pub-id><pub-id pub-id-type="pmid">34640447</pub-id></mixed-citation></ref><ref id="bib-0042"><label>42</label><mixed-citation publication-type="journal" id="cit-0042">
+<string-name name-style="western">
+<surname>Seid</surname>
+<given-names>A. A.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Aychiluhm</surname>
+<given-names>S. B.</given-names>
+</string-name>, and 
+<string-name name-style="western">
+<surname>Mohammed</surname>
+<given-names>A. A.</given-names>
+</string-name>, <article-title>Effectiveness and Feasibility of Telerehabilitation in Patients With COVID-19: A Systematic Review and Meta-Analysis</article-title>, <source>BMJ Open</source>. (<year>2022</year>) <volume>12</volume>, no. 10, <elocation-id>e063961</elocation-id>, <pub-id pub-id-type="doi">10.1136/bmjopen-2022-063961</pub-id>.<pub-id pub-id-type="pmcid">PMC9534777</pub-id><pub-id pub-id-type="pmid">36198459</pub-id></mixed-citation></ref><ref id="bib-0043"><label>43</label><mixed-citation publication-type="journal" id="cit-0043">
+<string-name name-style="western">
+<surname>Daly</surname>
+<given-names>E.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Collins</surname>
+<given-names>G.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Hall</surname>
+<given-names>E.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Gallagher</surname>
+<given-names>D.</given-names>
+</string-name>, and 
+<string-name name-style="western">
+<surname>Kelly</surname>
+<given-names>J.</given-names>
+</string-name>, <article-title>Telehealth Rehabilitation for the Management of Long Covid Symptoms</article-title>, <source>Irish Medical Journal</source>. (<year>2023</year>) <volume>115</volume>, no. 9.<pub-id pub-id-type="pmid">36920416</pub-id></mixed-citation></ref><ref id="bib-0044"><label>44</label><mixed-citation publication-type="journal" id="cit-0044">
+<string-name name-style="western">
+<surname>Moore</surname>
+<given-names>G. F.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Audrey</surname>
+<given-names>S.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Barker</surname>
+<given-names>M.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Bond</surname>
+<given-names>L.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Bonell</surname>
+<given-names>C.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Hardeman</surname>
+<given-names>W.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Moore</surname>
+<given-names>L.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>O’Cathain</surname>
+<given-names>A.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Tinati</surname>
+<given-names>T.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Wight</surname>
+<given-names>D.</given-names>
+</string-name>, and 
+<string-name name-style="western">
+<surname>Baird</surname>
+<given-names>J.</given-names>
+</string-name>, <article-title>Process Evaluation of Complex Interventions: Medical Research Council Guidance</article-title>, <source>BMJ</source>. (<year>2015</year>) <volume>350</volume>, <elocation-id>h1258</elocation-id>, <pub-id pub-id-type="doi">10.1136/bmj.h1258</pub-id>, 2-s2.0-84961288715, 25791983.<pub-id pub-id-type="pmid">25791983</pub-id>
+<pub-id pub-id-type="pmcid">PMC4366184</pub-id></mixed-citation></ref><ref id="bib-0045"><label>45</label><mixed-citation publication-type="journal" id="cit-0045">
+<string-name name-style="western">
+<surname>Sekhon</surname>
+<given-names>M.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Cartwright</surname>
+<given-names>M.</given-names>
+</string-name>, and 
+<string-name name-style="western">
+<surname>Francis</surname>
+<given-names>J. J.</given-names>
+</string-name>, <article-title>Acceptability of Healthcare Interventions: An Overview of Reviews and Development of a Theoretical Framework</article-title>, <source>BMC Health Services Research</source>. (<year>2017</year>) <volume>17</volume>, no. 1, <pub-id pub-id-type="doi">10.1186/s12913-017-2031-8</pub-id>, 2-s2.0-85010837018, 28126032.<pub-id pub-id-type="pmcid">PMC5267473</pub-id><pub-id pub-id-type="pmid">28126032</pub-id></mixed-citation></ref><ref id="bib-0046"><label>46</label><mixed-citation publication-type="journal" id="cit-0046">
+<string-name name-style="western">
+<surname>Hornuvo</surname>
+<given-names>R.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Addo-Lartey</surname>
+<given-names>A.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Alangea</surname>
+<given-names>D. O.</given-names>
+</string-name>, and 
+<string-name name-style="western">
+<surname>Dako-Gyeke</surname>
+<given-names>P.</given-names>
+</string-name>, <article-title>Using the Theoretical Framework of Acceptability for Qualitative Assessment of the “COMBAT” VAW Intervention in Ghana</article-title>, <source>PLOS Global Public Health</source>. (<year>2022</year>) <volume>2</volume>, no. 5, <elocation-id>e0000269</elocation-id>, <pub-id pub-id-type="doi">10.1371/journal.pgph.0000269</pub-id>, 36962327.<pub-id pub-id-type="pmid">36962327</pub-id>
+<pub-id pub-id-type="pmcid">PMC10021998</pub-id></mixed-citation></ref><ref id="bib-0047"><label>47</label><mixed-citation publication-type="journal" id="cit-0047">
+<string-name name-style="western">
+<surname>Nyumwa</surname>
+<given-names>P.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Bula</surname>
+<given-names>A. K.</given-names>
+</string-name>, and 
+<string-name name-style="western">
+<surname>Nyondo-Mipando</surname>
+<given-names>A. L.</given-names>
+</string-name>, <article-title>Perceptions on Acceptability of the 2016 WHO ANC Model Among the Pregnant Women in Phalombe District, Malawi – A Qualitative Study Using Theoretical Framework of Acceptability</article-title>, <source>BMC Pregnancy and Childbirth</source>. (<year>2023</year>) <volume>23</volume>, no. 1, <pub-id pub-id-type="doi">10.1186/s12884-023-05497-6</pub-id>, 36906538.<pub-id pub-id-type="pmcid">PMC10007797</pub-id><pub-id pub-id-type="pmid">36906538</pub-id></mixed-citation></ref><ref id="bib-0048"><label>48</label><mixed-citation publication-type="journal" id="cit-0048">
+<string-name name-style="western">
+<surname>Paynter</surname>
+<given-names>C.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>McDonald</surname>
+<given-names>C.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Story</surname>
+<given-names>D.</given-names>
+</string-name>, and 
+<string-name name-style="western">
+<surname>Francis</surname>
+<given-names>J. J.</given-names>
+</string-name>, <article-title>Application of the Theoretical Framework of Acceptability in a Surgical Setting: Theoretical and Methodological Insights</article-title>, <source>British Journal of Health Psychology</source>. (<year>2023</year>) <volume>28</volume>, no. 4, <fpage>1153</fpage>–<lpage>1168</lpage>, <pub-id pub-id-type="doi">10.1111/bjhp.12677</pub-id>, 37353989.<pub-id pub-id-type="pmid">37353989</pub-id>
+</mixed-citation></ref><ref id="bib-0049"><label>49</label><mixed-citation publication-type="journal" id="cit-0049">
+<string-name name-style="western">
+<surname>Müllenmeister</surname>
+<given-names>C.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Stoelting</surname>
+<given-names>A.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Schröder</surname>
+<given-names>D.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Schmachtenberg</surname>
+<given-names>T.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Ritter</surname>
+<given-names>S.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>El-Sayed</surname>
+<given-names>I.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Steffens</surname>
+<given-names>S.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Klawonn</surname>
+<given-names>F.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Klawitter</surname>
+<given-names>S.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Homann</surname>
+<given-names>S.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Mikuteit</surname>
+<given-names>M.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Berg</surname>
+<given-names>C.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Behrens</surname>
+<given-names>G.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Hummers</surname>
+<given-names>E.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Cook</surname>
+<given-names>A.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Müller</surname>
+<given-names>F.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Dopfer-Jablonka</surname>
+<given-names>A.</given-names>
+</string-name>, and 
+<string-name name-style="western">
+<surname>Happle</surname>
+<given-names>C.</given-names>
+</string-name>, <article-title>Evaluating the Feasibility, Acceptance, and Beneficial Effects of Online Occupational Therapy for Post-COVID-19 Condition: Protocol for a Randomized Controlled Trial (ErgoLoCo Study)</article-title>, <source>JMIR Research Protocol</source>. (<year>2024</year>) <volume>13</volume>, <elocation-id>e50230</elocation-id>, <pub-id pub-id-type="doi">10.2196/50230</pub-id>, 38739435.<pub-id pub-id-type="pmcid">PMC11130769</pub-id><pub-id pub-id-type="pmid">38739435</pub-id></mixed-citation></ref><ref id="bib-0050"><label>50</label><mixed-citation publication-type="journal" id="cit-0050">
+<string-name name-style="western">
+<surname>Schröder</surname>
+<given-names>D.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Stölting</surname>
+<given-names>A.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Müllenmeister</surname>
+<given-names>C.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Behrens</surname>
+<given-names>G. M. N.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Klawitter</surname>
+<given-names>S.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Klawonn</surname>
+<given-names>F.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Cook</surname>
+<given-names>A.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Wegner</surname>
+<given-names>N.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Wetzke</surname>
+<given-names>M.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Schmachtenberg</surname>
+<given-names>T.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Dopfer-Jablonka</surname>
+<given-names>A.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Müller</surname>
+<given-names>F.</given-names>
+</string-name>, and 
+<string-name name-style="western">
+<surname>Happle</surname>
+<given-names>C.</given-names>
+</string-name>, <article-title>Improvement in Quality of Life and Cognitive Function in Post-Covid Syndrome After Online Occupational Therapy: Results From a Randomized Controlled Pilot Study</article-title>, <source>PLoS One</source>. (<year>2025</year>) <volume>20</volume>, no. 5, <elocation-id>e0312714</elocation-id>, <pub-id pub-id-type="doi">10.1101/2024.05.09.24307158</pub-id>.<pub-id pub-id-type="pmid">40392877</pub-id>
+<pub-id pub-id-type="pmcid">PMC12091760</pub-id></mixed-citation></ref><ref id="bib-0051"><label>51</label><mixed-citation publication-type="journal" id="cit-0051">
+<string-name name-style="western">
+<surname>Fonteyn</surname>
+<given-names>M.</given-names>
+</string-name> and 
+<string-name name-style="western">
+<surname>Bauer-Wu</surname>
+<given-names>S.</given-names>
+</string-name>, <article-title>Using Qualitative Evaluation in a Feasibility Study to Improve and Refine a Complementary Therapy Intervention Prior To Subsequent Research</article-title>, <source>Complementary Therapies in Clinical Practice</source>. (<year>2005</year>) <volume>11</volume>, no. 4, <fpage>247</fpage>–<lpage>252</lpage>, <pub-id pub-id-type="doi">10.1016/j.ctcp.2005.05.007</pub-id>, 2-s2.0-28244486036, 16290895.<pub-id pub-id-type="pmid">16290895</pub-id>
+</mixed-citation></ref><ref id="bib-0052"><label>52</label><mixed-citation publication-type="journal" id="cit-0052">
+<string-name name-style="western">
+<surname>Müllenmeister</surname>
+<given-names>C.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>El-Sayed</surname>
+<given-names>I.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Heinemann</surname>
+<given-names>S.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Schröder</surname>
+<given-names>D.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Hummers</surname>
+<given-names>E.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Stölting</surname>
+<given-names>A.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Happle</surname>
+<given-names>C.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Dopfer-Jablonka</surname>
+<given-names>A.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Marotzki</surname>
+<given-names>U.</given-names>
+</string-name>, and 
+<string-name name-style="western">
+<surname>Schmachtenberg</surname>
+<given-names>T.</given-names>
+</string-name>, <article-title>Navigating Uncertainty: Occupational Therapists’ Experiences of Long COVID Management in Germany, Austria and Switzerland</article-title>, <source>Disability and Rehabilitation</source>. (<year>2025</year>) <volume>47</volume>, no. 5, <fpage>1288</fpage>–<lpage>1297</lpage>, <pub-id pub-id-type="doi">10.1080/09638288.2024.2367603</pub-id>.<pub-id pub-id-type="pmid">38958213</pub-id>
+</mixed-citation></ref><ref id="bib-0053"><label>53</label><mixed-citation publication-type="journal" id="cit-0053">
+<string-name name-style="western">
+<surname>Sekhon</surname>
+<given-names>M.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Cartwright</surname>
+<given-names>M.</given-names>
+</string-name>, and 
+<string-name name-style="western">
+<surname>Francis</surname>
+<given-names>J. J.</given-names>
+</string-name>, <article-title>Development of a Theory-Informed Questionnaire to Assess the Acceptability of Healthcare Interventions</article-title>, <source>BMC Health Services Research</source>. (<year>2022</year>) <volume>22</volume>, no. 1, <pub-id pub-id-type="doi">10.1186/s12913-022-07577-3</pub-id>, 35232455.<pub-id pub-id-type="pmcid">PMC8887649</pub-id><pub-id pub-id-type="pmid">35232455</pub-id></mixed-citation></ref><ref id="bib-0054"><label>54</label><mixed-citation publication-type="book" id="cit-0054">
+<string-name name-style="western">
+<surname>Flick</surname>
+<given-names>U.</given-names>
+</string-name>, <part-title>Setting the Agenda–Roles of Design (ing) in Qualitative Research</part-title>, <source>The SAGE Handbook of Qualitative Research Design</source>, <year>2022</year>, <publisher-name>SAGE Publications Ltd</publisher-name>, <fpage>1</fpage>–<lpage>20</lpage>.</mixed-citation></ref><ref id="bib-0055"><label>55</label><mixed-citation publication-type="book" id="cit-0055">
+<string-name name-style="western">
+<surname>Dresing</surname>
+<given-names>T.</given-names>
+</string-name> and 
+<string-name name-style="western">
+<surname>Pehl</surname>
+<given-names>T.</given-names>
+</string-name>, <source>Praxisbuch Interview, Transkription &amp; Analyse: Anleitungen und Regelsysteme für qualitativ Forschende, 8. Auflage</source>, <year>2018</year>, <publisher-name>Eigenverlag</publisher-name>.</mixed-citation></ref><ref id="bib-0056"><label>56</label><mixed-citation publication-type="book" id="cit-0056">
+<string-name name-style="western">
+<surname>Kuckartz</surname>
+<given-names>U.</given-names>
+</string-name> and 
+<string-name name-style="western">
+<surname>Rädiker</surname>
+<given-names>S.</given-names>
+</string-name>, <source>Qualitative Inhaltsanalyse. Methoden, Praxis, Umsetzung mit Software und künstlicher Intelligenz</source>, <year>2024</year>, <publisher-name>Juventa Verlag</publisher-name>.</mixed-citation></ref><ref id="bib-0057"><label>57</label><mixed-citation publication-type="journal" id="cit-0057">
+<string-name name-style="western">
+<surname>Tong</surname>
+<given-names>A.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Sainsbury</surname>
+<given-names>P.</given-names>
+</string-name>, and 
+<string-name name-style="western">
+<surname>Craig</surname>
+<given-names>J.</given-names>
+</string-name>, <article-title>Consolidated Criteria for Reporting Qualitative Research (COREQ): A 32-Item Checklist for Interviews and Focus Groups</article-title>, <source>International Journal for Quality in Health Care</source>. (<year>2007</year>) <volume>19</volume>, no. 6, <fpage>349</fpage>–<lpage>357</lpage>, <pub-id pub-id-type="doi">10.1093/intqhc/mzm042</pub-id>, 2-s2.0-36549063576, 17872937.<pub-id pub-id-type="pmid">17872937</pub-id>
+</mixed-citation></ref><ref id="bib-0058"><label>58</label><mixed-citation publication-type="journal" id="cit-0058">
+<string-name name-style="western">
+<surname>Kohn</surname>
+<given-names>L.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Dauvrin</surname>
+<given-names>M.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Detollenaere</surname>
+<given-names>J.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Primus-de-Jong</surname>
+<given-names>C.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Maertens de Noordhout</surname>
+<given-names>C.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Castanares-Zapatero</surname>
+<given-names>D.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Cleemput</surname>
+<given-names>I.</given-names>
+</string-name>, and 
+<string-name name-style="western">
+<surname>Van den Heede</surname>
+<given-names>K.</given-names>
+</string-name>, <article-title>Difficulties Encountered by Long COVID Patients in the Belgian Health System</article-title>, <source>Santé Publique</source>. (<year>2022</year>) <volume>34</volume>, no. 5, <fpage>663</fpage>–<lpage>673</lpage>, <pub-id pub-id-type="doi">10.3917/spub.225.0663</pub-id>, 36577665.<pub-id pub-id-type="pmid">36577665</pub-id>
+</mixed-citation></ref><ref id="bib-0059"><label>59</label><mixed-citation publication-type="journal" id="cit-0059">
+<string-name name-style="western">
+<surname>Moretti</surname>
+<given-names>C.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Collaro</surname>
+<given-names>C.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Terzoni</surname>
+<given-names>C.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Colucci</surname>
+<given-names>G.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Copelli</surname>
+<given-names>M.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Sarli</surname>
+<given-names>L.</given-names>
+</string-name>, and 
+<string-name name-style="western">
+<surname>Artioli</surname>
+<given-names>G.</given-names>
+</string-name>, <article-title>Dealing With Uncertainty. A Qualitative Study on the Illness’ Experience in Patients With Long-COVID in Italy</article-title>, <source>Acta Biomedica Atenei Parmensis</source>. (<year>2022</year>) <volume>93</volume>, no. 6, <elocation-id>e2022349</elocation-id>, <pub-id pub-id-type="doi">10.23750/abm.v93i6.14059</pub-id>, 36533738.<pub-id pub-id-type="pmcid">PMC9828911</pub-id><pub-id pub-id-type="pmid">36533738</pub-id></mixed-citation></ref><ref id="bib-0060"><label>60</label><mixed-citation publication-type="journal" id="cit-0060">
+<string-name name-style="western">
+<surname>Schmachtenberg</surname>
+<given-names>T.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Müller</surname>
+<given-names>F.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Kranz</surname>
+<given-names>J.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Dragaqina</surname>
+<given-names>A.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Wegener</surname>
+<given-names>G.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Königs</surname>
+<given-names>G.</given-names>
+</string-name>, and 
+<string-name name-style="western">
+<surname>Roder</surname>
+<given-names>S.</given-names>
+</string-name>, <article-title>How Do Long COVID Patients Perceive their Current Life Situation and Occupational Perspective? Results of a Qualitative Interview Study in Germany</article-title>, <source>Frontiers in Public Health</source>. (<year>2023</year>) <volume>11</volume>, <elocation-id>1155193</elocation-id>, <pub-id pub-id-type="doi">10.3389/fpubh.2023.1155193</pub-id>, 36969629.<pub-id pub-id-type="pmid">36969629</pub-id>
+<pub-id pub-id-type="pmcid">PMC10034079</pub-id></mixed-citation></ref><ref id="bib-0061"><label>61</label><mixed-citation publication-type="journal" id="cit-0061">
+<string-name name-style="western">
+<surname>Hawke</surname>
+<given-names>L. D.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Nguyen</surname>
+<given-names>A. T. P.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Ski</surname>
+<given-names>C. F.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Thompson</surname>
+<given-names>D. R.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Ma</surname>
+<given-names>C.</given-names>
+</string-name>, and 
+<string-name name-style="western">
+<surname>Castle</surname>
+<given-names>D.</given-names>
+</string-name>, <article-title>Interventions for Mental Health, Cognition, and Psychological Wellbeing in Long COVID: A Systematic Review of Registered Trials</article-title>, <source>Psychological Medicine</source>. (<year>2022</year>) <volume>52</volume>, no. 13, <fpage>2426</fpage>–<lpage>2440</lpage>, <pub-id pub-id-type="doi">10.1017/S0033291722002203</pub-id>, 35768406.<pub-id pub-id-type="pmid">35768406</pub-id>
+<pub-id pub-id-type="pmcid">PMC9300978</pub-id></mixed-citation></ref><ref id="bib-0062"><label>62</label><mixed-citation publication-type="journal" id="cit-0062">
+<string-name name-style="western">
+<surname>Wright</surname>
+<given-names>H.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Turner</surname>
+<given-names>A.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Ennis</surname>
+<given-names>S.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Percy</surname>
+<given-names>C.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Loftus</surname>
+<given-names>G.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Clyne</surname>
+<given-names>W.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Matouskova</surname>
+<given-names>G.</given-names>
+</string-name>, and 
+<string-name name-style="western">
+<surname>Martin</surname>
+<given-names>F.</given-names>
+</string-name>, <article-title>Digital Peer-Supported Self-Management Intervention Codesigned by People With Long COVID: Mixed Methods Proof-of-Concept Study</article-title>, <source>JMIR Formative Research</source>. (<year>2022</year>) <volume>6</volume>, no. 10, <elocation-id>e41410</elocation-id>, <pub-id pub-id-type="doi">10.2196/41410</pub-id>, 36166651.<pub-id pub-id-type="pmid">36166651</pub-id>
+<pub-id pub-id-type="pmcid">PMC9578526</pub-id></mixed-citation></ref><ref id="bib-0063"><label>63</label><mixed-citation publication-type="journal" id="cit-0063">
+<string-name name-style="western">
+<surname>American Occupational Therapy Association</surname>
+</string-name>, <article-title>Occupational Therapy Scope of Practice</article-title>, <source>American Journal of Occupational Therapy</source>. (<year>2021</year>) <volume>75</volume>, no. Supplement_3, <elocation-id>7513410020</elocation-id>, <pub-id pub-id-type="doi">10.5014/ajot.2021.75S3005</pub-id>.<pub-id pub-id-type="pmid">34989779</pub-id></mixed-citation></ref><ref id="bib-0064"><label>64</label><mixed-citation publication-type="journal" id="cit-0064">
+<string-name name-style="western">
+<surname>Blanche</surname>
+<given-names>E. I.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Fogelberg</surname>
+<given-names>D.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Diaz</surname>
+<given-names>J.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Carlson</surname>
+<given-names>M.</given-names>
+</string-name>, and 
+<string-name name-style="western">
+<surname>Clark</surname>
+<given-names>F.</given-names>
+</string-name>, <article-title>Manualization of Occupational Therapy Interventions: Illustrations From the Pressure Ulcer Prevention Research Program</article-title>, <source>American Journal of Occupational Therapy</source>. (<year>2011</year>) <volume>65</volume>, no. 6, <fpage>711</fpage>–<lpage>719</lpage>, <pub-id pub-id-type="doi">10.5014/ajot.2011.001172</pub-id>, 2-s2.0-80855156879, 22214116.<pub-id pub-id-type="pmcid">PMC3254151</pub-id><pub-id pub-id-type="pmid">22214116</pub-id></mixed-citation></ref><ref id="bib-0065"><label>65</label><mixed-citation publication-type="journal" id="cit-0065">
+<string-name name-style="western">
+<surname>Frey</surname>
+<given-names>S.</given-names>
+</string-name> and 
+<string-name name-style="western">
+<surname>Kerkemeyer</surname>
+<given-names>L.</given-names>
+</string-name>, <article-title>Acceptance of Digital Health Applications in Non-Pharmacological Therapies in German Statutory Healthcare System: Results of an Online Survey</article-title>, <source>Digital Health</source>. (<year>2022</year>) <volume>8</volume>, <elocation-id>20552076221131142</elocation-id>, <pub-id pub-id-type="doi">10.1177/20552076221131142</pub-id>, 36506488.<pub-id pub-id-type="pmid">36506488</pub-id>
+<pub-id pub-id-type="pmcid">PMC9732791</pub-id></mixed-citation></ref><ref id="bib-0066"><label>66</label><mixed-citation publication-type="journal" id="cit-0066">
+<string-name name-style="western">
+<surname>Fernandes</surname>
+<given-names>L. G.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Devan</surname>
+<given-names>H.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Fioratti</surname>
+<given-names>I.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Kamper</surname>
+<given-names>S. J.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Williams</surname>
+<given-names>C. M.</given-names>
+</string-name>, and 
+<string-name name-style="western">
+<surname>Saragiotto</surname>
+<given-names>B. T.</given-names>
+</string-name>, <article-title>At my Own Pace, Space, and Place: A Systematic Review of Qualitative Studies of Enablers and Barriers to Telehealth Interventions for People With Chronic Pain</article-title>, <source>Pain</source>. (<year>2022</year>) <volume>163</volume>, no. 2, <elocation-id>e165</elocation-id>, <pub-id pub-id-type="doi">10.1097/j.pain.0000000000002364</pub-id>.<pub-id pub-id-type="pmid">34433776</pub-id>
+</mixed-citation></ref><ref id="bib-0067"><label>67</label><mixed-citation publication-type="journal" id="cit-0067">
+<string-name name-style="western">
+<surname>Kondratowicz</surname>
+<given-names>B.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Godlewska-Werner</surname>
+<given-names>D.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Połomski</surname>
+<given-names>P.</given-names>
+</string-name>, and 
+<string-name name-style="western">
+<surname>Khosla</surname>
+<given-names>M.</given-names>
+</string-name>, <article-title>Satisfaction With Job and Life and Remote Work in the COVID-19 Pandemic: The Role of Perceived Stress, Self-Efficacy and Self-Esteem</article-title>, <source>Psychology</source>. (<year>2022</year>) <volume>10</volume>, no. 1, <fpage>49</fpage>–<lpage>60</lpage>, <pub-id pub-id-type="doi">10.5114/cipp.2021.108097</pub-id>.<pub-id pub-id-type="pmcid">PMC10535621</pub-id><pub-id pub-id-type="pmid">38013756</pub-id></mixed-citation></ref><ref id="bib-0068"><label>68</label><mixed-citation publication-type="journal" id="cit-0068">
+<string-name name-style="western">
+<surname>Anderson</surname>
+<given-names>A. J.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Kaplan</surname>
+<given-names>S. A.</given-names>
+</string-name>, and 
+<string-name name-style="western">
+<surname>Vega</surname>
+<given-names>R. P.</given-names>
+</string-name>, <article-title>The Impact of Telework on Emotional Experience: When, and for Whom, Does Telework Improve Daily Affective Well-Being?</article-title>, <source>European Journal of Work and Organizational Psychology</source>. (<year>2015</year>) <volume>24</volume>, no. 6, <fpage>882</fpage>–<lpage>897</lpage>, <pub-id pub-id-type="doi">10.1080/1359432X.2014.966086</pub-id>, 2-s2.0-84942823976.</mixed-citation></ref><ref id="bib-0069"><label>69</label><mixed-citation publication-type="journal" id="cit-0069">
+<string-name name-style="western">
+<surname>Şahin</surname>
+<given-names>D.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Fırat</surname>
+<given-names>S.</given-names>
+</string-name>, and 
+<string-name name-style="western">
+<surname>Gezici</surname>
+<given-names>N.</given-names>
+</string-name>, <article-title>The Effect of Healthcare Professionals’ Digital Literacy and Knowledge of Telemedicine on Perception of Telemedicine</article-title>, <source>International Journal of Health Management and Tourism</source>. (<year>2023</year>) <volume>8</volume>, <fpage>227</fpage>–<lpage>240</lpage>, <pub-id pub-id-type="doi">10.31201/ijhmt.1326835</pub-id>.</mixed-citation></ref><ref id="bib-0070"><label>70</label><mixed-citation publication-type="journal" id="cit-0070">
+<string-name name-style="western">
+<surname>Campanozzi</surname>
+<given-names>L. L.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Gibelli</surname>
+<given-names>F.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Bailo</surname>
+<given-names>P.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Nittari</surname>
+<given-names>G.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Sirignano</surname>
+<given-names>A.</given-names>
+</string-name>, and 
+<string-name name-style="western">
+<surname>Ricci</surname>
+<given-names>G.</given-names>
+</string-name>, <article-title>The Role of Digital Literacy in Achieving Health Equity in the Third Millennium Society: A Literature Review</article-title>, <source>Frontiers in Public Health</source>. (<year>2023</year>) <volume>11</volume>, <elocation-id>1109323</elocation-id>, <pub-id pub-id-type="doi">10.3389/fpubh.2023.1109323</pub-id>, 36891330.<pub-id pub-id-type="pmid">36891330</pub-id>
+<pub-id pub-id-type="pmcid">PMC9986277</pub-id></mixed-citation></ref><ref id="bib-0071"><label>71</label><mixed-citation publication-type="journal" id="cit-0071">
+<string-name name-style="western">
+<surname>Vaz de Almeida</surname>
+<given-names>C.</given-names>
+</string-name>, <article-title>Digital Health Literacy</article-title>, <source>Electronics</source>. (<year>2021</year>) <volume>11</volume>, no. 1, <fpage>49</fpage>–<lpage>62</lpage>, <pub-id pub-id-type="doi">10.4018/IJMDWTFE.20210101.oa4</pub-id>.</mixed-citation></ref><ref id="bib-0072"><label>72</label><mixed-citation publication-type="journal" id="cit-0072">
+<string-name name-style="western">
+<surname>Dahl-popolizio</surname>
+<given-names>S.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Carpenter</surname>
+<given-names>H.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Coronado</surname>
+<given-names>M.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Popolizio</surname>
+<given-names>N. J.</given-names>
+</string-name>, and 
+<string-name name-style="western">
+<surname>Swanson</surname>
+<given-names>C.</given-names>
+</string-name>, <article-title>Telehealth for the Provision of Occupational Therapy: Reflections on Experiences During the COVID-19 Pandemic</article-title>, <source>International Journal of Telerehabilitation</source>. (<year>2020</year>) <volume>12</volume>, no. 2, <fpage>77</fpage>–<lpage>92</lpage>, <pub-id pub-id-type="doi">10.5195/ijt.2020.6328</pub-id>, 33520097.<pub-id pub-id-type="pmid">33520097</pub-id>
+<pub-id pub-id-type="pmcid">PMC7757642</pub-id></mixed-citation></ref><ref id="bib-0073"><label>73</label><mixed-citation publication-type="journal" id="cit-0073">
+<string-name name-style="western">
+<surname>Haimi</surname>
+<given-names>M.</given-names>
+</string-name>, <article-title>The Tragic Paradoxical Effect of Telemedicine on Healthcare Disparities- a Time for Redemption: A Narrative Review</article-title>, <source>BMC Medical Informatics and Decision Making</source>. (<year>2023</year>) <volume>23</volume>, no. 1, <pub-id pub-id-type="doi">10.1186/s12911-023-02194-4</pub-id>.<pub-id pub-id-type="pmcid">PMC10186294</pub-id><pub-id pub-id-type="pmid">37193960</pub-id></mixed-citation></ref><ref id="bib-0074"><label>74</label><mixed-citation publication-type="journal" id="cit-0074">
+<string-name name-style="western">
+<surname>Larsson Lund</surname>
+<given-names>M.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Månsson Lexell</surname>
+<given-names>E.</given-names>
+</string-name>, and 
+<string-name name-style="western">
+<surname>Nyman</surname>
+<given-names>A.</given-names>
+</string-name>, <article-title>Optimising the Development of Sustainable Internet-Based Occupational Therapy Interventions: Important Key Actions and Perspectives to Consider</article-title>, <source>Scandinavian Journal of Occupational Therapy</source>. (<year>2022</year>) <volume>29</volume>, no. 4, <fpage>259</fpage>–<lpage>269</lpage>, <pub-id pub-id-type="doi">10.1080/11038128.2021.1950206</pub-id>.<pub-id pub-id-type="pmid">34280329</pub-id>
+</mixed-citation></ref></ref-list></back></article></pmc-articleset>

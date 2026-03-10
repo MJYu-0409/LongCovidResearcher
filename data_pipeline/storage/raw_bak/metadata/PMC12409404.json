@@ -1,0 +1,44 @@
+{
+  "pmcid": "PMC12409404",
+  "pmid": "40918941",
+  "doi": "10.1093/jamiaopen/ooaf089",
+  "title": "A natural language processing pipeline for identifying pediatric long COVID symptoms and functional impacts in freeform clinical notes: a RECOVER study.",
+  "abstract": "OBJECTIVE: To develop a natural language processing (NLP) pipeline for unstructured electronic health record (EHR) data to identify symptoms and functional impacts associated with Long COVID in children.\nMATERIALS AND METHODS: We analyzed 48 287 outpatient progress notes from 10 618 pediatric patients from 12 institutions. We evaluated notes obtained 28 to 179 days after a COVID-19 diagnosis or positive test. Two samples were examined: patients with evidence of Long COVID and patients with acute COVID but no evidence of Long COVID based on diagnostic codes. The pipeline identified clinical concepts associated with 21 symptoms and 4 functional impact categories. Subject matter experts (SMEs) screened a sample of 4586 terms from the NLP output to assess pipeline accuracy. Prevalence and concordance of each of the 25 concepts was compared between the 2 patient samples.\nRESULTS: A binary assertion measure comparing SME and NLP assertions showed moderate accuracy (N = 4133; F1 = .80) and improved substantially when only high-confidence SME assertions were considered (N = 2043; F1 = .90). Overall, the 25 Long COVID concept categories were markedly more prevalent in the presumptive Long COVID cohort, and differences were noted between concepts identified in notes versus structured data.\nDISCUSSION: This preliminary analysis illustrates the additional insight into a syndrome such as Long COVID gained from incorporating notes data, characterizing symptoms and functional impacts.\nCONCLUSION: These data support the importance of incorporating NLP methodology when possible into designing computable phenotypes and to accurately characterize patients with Long COVID.",
+  "authors": [
+    "H Timothy Bunnell",
+    "Cara Reedy",
+    "Vitaly Lorman",
+    "Ravi Jhaveri",
+    "Andrea Rivera-Sepulveda",
+    "Katherine S Salamon",
+    "Payal B Patel",
+    "Keith E Morse",
+    "Mattina A Davenport",
+    "Lindsay G Cowell",
+    "Levon Utidjian",
+    "Dimitri A Christakis",
+    "Suchitra Rao",
+    "Marion R Sills",
+    "Abigail Case",
+    "Eneida A Mendonca",
+    "Bradley W Taylor",
+    "Jacqueline Rutter",
+    "Aaron Thomas Martinez",
+    "Rebecca Letts",
+    "L Charles Bailey",
+    "Christopher B Forrest"
+  ],
+  "journal": "JAMIA open",
+  "pub_year": "2025",
+  "pub_month": "Oct",
+  "pub_day": "04",
+  "keywords": [
+    "NLP",
+    "PEDSnet",
+    "RECOVER",
+    "pediatrics"
+  ],
+  "article_types": [
+    "Journal Article"
+  ]
+}

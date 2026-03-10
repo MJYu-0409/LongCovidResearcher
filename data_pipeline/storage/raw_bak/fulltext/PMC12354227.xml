@@ -1,0 +1,663 @@
+<?xml version="1.0"  ?><!DOCTYPE pmc-articleset PUBLIC "-//NLM//DTD ARTICLE SET 2.0//EN" "https://dtd.nlm.nih.gov/ncbi/pmc/articleset/nlm-articleset-2.0.dtd"><pmc-articleset><article id="pmrj13383" xml:lang="en" article-type="research-article" dtd-version="1.4"><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">PM R</journal-id><journal-id journal-id-type="iso-abbrev">PM R</journal-id><journal-id journal-id-type="pmc-domain-id">379</journal-id><journal-id journal-id-type="pmc-domain">blackwellopen</journal-id><journal-id journal-id-type="publisher-id">PMRJ</journal-id><journal-title-group><journal-title>Pm &amp; R</journal-title></journal-title-group><issn pub-type="ppub">1934-1482</issn><issn pub-type="epub">1934-1563</issn><custom-meta-group><custom-meta><meta-name>pmc-is-collection-domain</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-collection-title</meta-name><meta-value>Wiley Open Access Collection</meta-value></custom-meta></custom-meta-group></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC12354227</article-id><article-id pub-id-type="pmcid-ver">PMC12354227.2</article-id><article-id pub-id-type="pmcaid">12354227</article-id><article-id pub-id-type="pmcaiid">12560200</article-id><article-id pub-id-type="pmid">40249096</article-id><article-id pub-id-type="doi">10.1002/pmrj.13383</article-id><article-id pub-id-type="publisher-id">PMRJ13383</article-id><article-version article-version-type="pmc-version">2</article-version><article-categories><subj-group subj-group-type="overline"><subject>Original Article</subject></subj-group><subj-group subj-group-type="heading"><subject>Original Article</subject></subj-group></article-categories><title-group><article-title>Compassion fatigue, work engagement, and psychological distress in health care workers treating patients with long <styled-content style="fixed-case" toggle="no">COVID</styled-content>
+</article-title><alt-title alt-title-type="right-running-head">Compassion fatigue in long <styled-content style="fixed-case" toggle="no">COVID HCWs</styled-content>
+</alt-title><alt-title alt-title-type="left-running-head">Uhlig‐Reche et al.</alt-title></title-group><contrib-group><contrib id="pmrj13383-cr-0001" contrib-type="author" corresp="yes"><name name-style="western"><surname>Uhlig‐Reche</surname><given-names initials="H">Hannah</given-names></name><degrees>MD, MPH</degrees><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-8417-394X</contrib-id><xref rid="pmrj13383-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><address><email>uhligreche@uthscsa.edu</email></address></contrib><contrib id="pmrj13383-cr-0002" contrib-type="author"><name name-style="western"><surname>Rolin</surname><given-names initials="S">Summer</given-names></name><degrees>PsyD</degrees><xref rid="pmrj13383-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="pmrj13383-cr-0003" contrib-type="author"><name name-style="western"><surname>Karnik</surname><given-names initials="R">Rasika</given-names></name><degrees>MD</degrees><xref rid="pmrj13383-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib id="pmrj13383-cr-0004" contrib-type="author"><name name-style="western"><surname>Lyons</surname><given-names initials="M">Maureen</given-names></name><degrees>MD</degrees><xref rid="pmrj13383-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref></contrib><contrib id="pmrj13383-cr-0005" contrib-type="author"><name name-style="western"><surname>Verduzco‐Gutierrez</surname><given-names initials="M">Monica</given-names></name><degrees>MD</degrees><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0003-0964-5908</contrib-id><xref rid="pmrj13383-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib></contrib-group><aff id="pmrj13383-aff-0001">
+<label>
+<sup>1</sup>
+</label>
+<named-content content-type="organisation-division">Department of Rehabilitation Medicine</named-content>
+<institution>UT Health San Antonio</institution>
+<city>San Antonio</city>
+<named-content content-type="country-part">Texas</named-content>
+<country country="US">USA</country>
+</aff><aff id="pmrj13383-aff-0002">
+<label>
+<sup>2</sup>
+</label>
+<named-content content-type="organisation-division">Department of Internal Medicine, Section General Internal Medicine</named-content>
+<institution>University of Chicago</institution>
+<city>Chicago</city>
+<named-content content-type="country-part">Illinois</named-content>
+<country country="US">USA</country>
+</aff><aff id="pmrj13383-aff-0003">
+<label>
+<sup>3</sup>
+</label>
+<named-content content-type="organisation-division">Department of Medicine, Division of General Internal Medicine and Geriatrics</named-content>
+<institution>Oregon Health &amp; Science University</institution>
+<city>Portland</city>
+<named-content content-type="country-part">Oregon</named-content>
+<country country="US">USA</country>
+</aff><author-notes><corresp id="correspondenceTo">
+<label>*</label>
+<bold>Correspondence</bold>
+<break/>
+Hannah Uhlig‐Reche, Department of Rehabilitation Medicine, UT Health San Antonio, San Antonio, Texas, USA.<break/>
+Email: <email>uhligreche@uthscsa.edu</email>
+<break/>
+</corresp></author-notes><pub-date pub-type="epub"><day>18</day><month>4</month><year>2025</year></pub-date><pub-date pub-type="ppub"><month>10</month><year>2025</year></pub-date><volume>17</volume><issue seq="40">10</issue><issue-id pub-id-type="pmc-issue-id">499500</issue-id><issue-id pub-id-type="doi">10.1002/pmrj.v17.10</issue-id><fpage>1162</fpage><lpage>1169</lpage><history><date date-type="rev-recd"><day>06</day><month>12</month><year>2024</year></date><date date-type="received"><day>29</day><month>7</month><year>2024</year></date><date date-type="accepted"><day>29</day><month>1</month><year>2025</year></date></history><pub-history><event event-type="pmc-release"><date><day>28</day><month>10</month><year>2025</year></date></event><event event-type="pmc-live"><date><day>29</day><month>10</month><year>2025</year></date></event><event event-type="pmc-last-change"><date iso-8601-date="2025-10-30 00:25:42.890"><day>30</day><month>10</month><year>2025</year></date></event><event event-type="pmc-version" specific-use="not-live"><article-id pub-id-type="pmcaiid">12354227</article-id><article-id pub-id-type="doi">10.1002/pmrj.13383</article-id><article-id pub-id-type="manuscript-id">NIHMS2085355</article-id><article-version>1</article-version><pub-date><day>18</day><month>04</month><year>2025</year></pub-date><date date-type="pmc-release"><day>18</day><month>04</month><year>2026</year></date></event><event event-type="pmc-version" specific-use="live"><article-id pub-id-type="pmcaiid">12560200</article-id><article-id pub-id-type="doi">10.1002/pmrj.13383</article-id><article-version>2</article-version><pub-date><day>18</day><month>04</month><year>2025</year></pub-date></event></pub-history><permissions><copyright-statement content-type="article-copyright">© 2025 The Author(s). <italic toggle="yes">PM&amp;R</italic> published by Wiley Periodicals LLC on behalf of American Academy of Physical Medicine and Rehabilitation.</copyright-statement><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>This is an open access article under the terms of the <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pmc-pdf" xlink:href="PMRJ-17-1162.pdf"/><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pdf" xlink:href="file:PMRJ-17-1162.pdf"/><abstract><title>Abstract</title><sec id="pmrj13383-sec-0001"><title>Background</title><p>Health care workers (HCWs) caring for patients with chronic disease are more likely to experience compassion fatigue. The impacts on HCWs caring for patients with a new complex chronic disease, long COVID, are unknown.</p></sec><sec id="pmrj13383-sec-0002"><title>Objective</title><p>To measure compassion fatigue, work engagement, and psychological distress in HCWs caring for patients with long COVID and investigate associations with personal history of long COVID and demographic and occupational characteristics.</p></sec><sec id="pmrj13383-sec-0003"><title>Design</title><p>Cross‐sectional survey study assessing demographic and occupational characteristics, Compassion Fatigue‐Short Scale (CF‐SS), Utrecht Work Engagement Scale‐3 (UWES‐3), and Screening Tool for Psychological Distress (STOP‐D) in HCWs caring for patients with long COVID.</p></sec><sec id="pmrj13383-sec-0004"><title>Setting</title><p>Online survey from March–June 2023.</p></sec><sec id="pmrj13383-sec-0005"><title>Participants</title><p>116 HCWs caring for patients with long COVID.</p></sec><sec id="pmrj13383-sec-0006"><title>Interventions</title><p>Not applicable.</p></sec><sec id="pmrj13383-sec-0007"><title>Main Outcome Measures</title><p>CF‐SS, UWES‐3, and STOP‐D scores and associations with personal history of long COVID, demographic and occupational factors.</p></sec><sec id="pmrj13383-sec-0008"><title>Results</title><p>HCWs with a personal history of long COVID had worse scores in all outcome measures compared to those without long COVID. Effects were moderate (UWES‐3: η<sup>2</sup> = −0.09, <italic toggle="no">p</italic> = .01; STOP‐D: η<sup>2</sup> = 0.06, <italic toggle="no">p</italic> = .02; CF‐SS: η<sup>2</sup> = 0.07, <italic toggle="no">p</italic> = .02). Outcome measures were comparable between physical medicine and rehabilitation physicians and other HCWs (<italic toggle="no">p</italic> &gt; .05). CF‐SS showed a small positive correlation (<italic toggle="no">r</italic>
+<sub>
+<italic toggle="no">s</italic>
+</sub> = 0.19, <italic toggle="no">n</italic> = 112, <italic toggle="no">p</italic> = .04) with the percentage of the provider's patient population with long COVID. Mean outcome measures differed between career‐level groups with medium to large effects (UWES‐3: η<sup>2</sup> = 0.13, STOP‐D: η<sup>2</sup> = 0.06, CF‐SS: η<sup>2</sup> = 0.06). Work engagement was worse in early career compared to late career (<italic toggle="no">p</italic>  &lt;.01). Psychological distress was worse in middle career compared to late career (<italic toggle="no">p</italic> = .02). Compassion fatigue was worse in early career compared to late career (<italic toggle="no">p</italic> = .02).</p></sec><sec id="pmrj13383-sec-0009"><title>Conclusions</title><p>Among HCWs caring for patients with long COVID, mean scores for all primary outcomes were worse in HCWs with a personal history of long COVID compared to those without. Early career HCWs caring for this population are less engaged and experience greater compassion fatigue whereas those in middle career experience greater psychological distress.</p></sec></abstract><counts><fig-count count="1"/><table-count count="2"/><page-count count="8"/><word-count count="5700"/></counts><custom-meta-group><custom-meta><meta-name>pmc-status-qastatus</meta-name><meta-value>0</meta-value></custom-meta><custom-meta><meta-name>pmc-status-live</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-status-embargo</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-status-released</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-access</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-legally-suppressed</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-pdf</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-supplement</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-pdf-only</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-suppress-copyright</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-real-version</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-scanned-article</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-in-epmc</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-license-ref</meta-name><meta-value>CC BY</meta-value></custom-meta><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>October 2025</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:6.6.4 mode:remove_FC converted:28.10.2025</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="pmrj13383-cit-9001">
+<string-name name-style="western">
+<surname>Uhlig‐Reche</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rolin</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Karnik</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lyons</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Verduzco‐Gutierrez</surname>
+<given-names>M</given-names>
+</string-name>. <article-title>Compassion fatigue, work engagement, and psychological distress in health care workers treating patients with long <styled-content style="fixed-case" toggle="no">COVID</styled-content>
+</article-title>. <source>PM&amp;R</source>. <year>2025</year>;<volume>17</volume>(<issue>10</issue>):<fpage>1162</fpage>‐<lpage>1169</lpage>. doi:<pub-id pub-id-type="doi">10.1002/pmrj.13383</pub-id>
+<pub-id pub-id-type="pmcid">PMC12354227</pub-id><pub-id pub-id-type="pmid">40249096</pub-id></mixed-citation>
+</p></notes></front><body id="pmrj13383-body-0001"><sec id="pmrj13383-sec-0010"><title>INTRODUCTION</title><p>Compassion fatigue is a state of exhaustion and dysfunction resulting from prolonged exposure to secondary trauma.<xref rid="pmrj13383-bib-0001" ref-type="bibr">
+<sup>1</sup>
+</xref> It can be a work‐related hazard in health care workers (HCWs) caring for patients experiencing stressful and/or traumatic events.<xref rid="pmrj13383-bib-0002" ref-type="bibr">
+<sup>2</sup>
+</xref> Compassion fatigue differs from burnout. Burnout is an organizational hazard in difficult organizational environments whereas compassion fatigue is related to chronic secondary trauma or a single intensive event.<xref rid="pmrj13383-bib-0003" ref-type="bibr">
+<sup>3</sup>
+</xref> Both may present with psychological symptoms and result in a negative impact on work.<xref rid="pmrj13383-bib-0004" ref-type="bibr">
+<sup>4</sup>
+</xref> Increased work engagement and compassion can build individual resilience against both burnout and compassion fatigue and may have a positive impact on overall health, quality of life, and career longevity.<xref rid="pmrj13383-bib-0005" ref-type="bibr">
+<sup>5</sup>
+</xref>, <xref rid="pmrj13383-bib-0006" ref-type="bibr">
+<sup>6</sup>
+</xref>
+</p><p>HCWs caring for patients with chronic disease have been found more likely to have exposure to secondary trauma and subsequent compassion fatigue, resulting in a decreased willingness to care for patients with chronic disease.<xref rid="pmrj13383-bib-0007" ref-type="bibr">
+<sup>7</sup>
+</xref> A recent study of nurses in a large southwestern hospital system found that 46% of nurses reported moderate to high compassion fatigue, which was significantly associated with years of employment, job changes, and sick day use.<xref rid="pmrj13383-bib-0008" ref-type="bibr">
+<sup>8</sup>
+</xref> In a 2023 international review, the prevalence of compassion fatigue among HCWs during the COVID‐19 pandemic was estimated to be &gt;60%.<xref rid="pmrj13383-bib-0009" ref-type="bibr">
+<sup>9</sup>
+</xref> Physicians reported higher levels of compassion fatigue compared to nurses in Spain and Italy during the pandemic.<xref rid="pmrj13383-bib-0010" ref-type="bibr">
+<sup>10</sup>
+</xref>, <xref rid="pmrj13383-bib-0011" ref-type="bibr">
+<sup>11</sup>
+</xref> In the wake of the COVID‐19 pandemic, patients are experiencing a new chronic disease state, long COVID, that may affect HCWs similar to the way caring for other chronic disease populations does. This may further exacerbate the compassion fatigue experienced during the pandemic.</p><p>Long COVID has recently been defined by the National Academies of Science, Engineering, and Medicine as “an infection‐associated chronic condition that occurs after SARS‐CoV‐2 infection and is present for at least 3 months as a continuous, relapsing and remitting, or progressive disease state that affects one or more organ systems.”<xref rid="pmrj13383-bib-0012" ref-type="bibr">
+<sup>12</sup>
+</xref> Optimal medical management of long COVID is still under investigation and development and the patient needs are varied. A multidisciplinary approach is utilized with medical care often spearheaded by physical medicine and rehabilitation (PM&amp;R) with a treatment team that may include pulmonology, cardiology, neurology, psychiatry, psychology, neuropsychology, physical therapy, occupational therapy, and speech and language pathology.<xref rid="pmrj13383-bib-0013" ref-type="bibr">
+<sup>13</sup>
+</xref>, <xref rid="pmrj13383-bib-0014" ref-type="bibr">
+<sup>14</sup>
+</xref>, <xref rid="pmrj13383-bib-0015" ref-type="bibr">
+<sup>15</sup>
+</xref>, <xref rid="pmrj13383-bib-0016" ref-type="bibr">
+<sup>16</sup>
+</xref>, <xref rid="pmrj13383-bib-0017" ref-type="bibr">
+<sup>17</sup>
+</xref>, <xref rid="pmrj13383-bib-0018" ref-type="bibr">
+<sup>18</sup>
+</xref> The scope of PM&amp;R care aims to “enhance and restore functional ability and quality of life,” which is a broad objective relative to other physician counterparts.<xref rid="pmrj13383-bib-0019" ref-type="bibr">
+<sup>19</sup>
+</xref> Many patients with long COVID have complex medical and social needs requiring an integrated care model that includes social work.<xref rid="pmrj13383-bib-0013" ref-type="bibr">
+<sup>13</sup>
+</xref>, <xref rid="pmrj13383-bib-0014" ref-type="bibr">
+<sup>14</sup>
+</xref> The majority of PM&amp;R HCWs caring for this patient population are also completing disability paperwork.<xref rid="pmrj13383-bib-0014" ref-type="bibr">
+<sup>14</sup>
+</xref> Burnout in physiatrists has been associated with lower perceived meaningfulness of physiatrist clinical work and worse integration of PM&amp;R into clinical care.<xref rid="pmrj13383-bib-0020" ref-type="bibr">
+<sup>20</sup>
+</xref> It is possible that HCWs caring for patients with long COVID may feel that the demands of this growing patient population take them away from their initial subspecialty and consequently affect their work engagement and psychological well‐being.</p><p>Investigating compassion fatigue, work engagement, and psychological distress in HCWs caring for patients with long COVID will allow for a better understanding of the ongoing impact of COVID‐19 on HCWs. During the first year of the COVID‐19 pandemic, global health care personnel were found to have an increased rate of burnout and compassion fatigue.<xref rid="pmrj13383-bib-0021" ref-type="bibr">
+<sup>21</sup>
+</xref> As the symptoms of long COVID became more recognized, a 2021 cross‐sectional study of senior physician specialists in Ireland found that one quarter of respondents reported that they or a colleague had experienced long COVID, and most respondents screened positive for burnout.<xref rid="pmrj13383-bib-0022" ref-type="bibr">
+<sup>22</sup>
+</xref> This study did not examine the rate of burnout in those with long COVID nor did it discern which of those HCWs provided care for patients with long COVID. A more recent systematic review of the literature assessing the effects of long COVID among HCWs found that those HCWs with long COVID struggled with their dual patient/doctor identity, experienced barriers to health care, and reported anxiety/depression in as many as 47% of study participants.<xref rid="pmrj13383-bib-0023" ref-type="bibr">
+<sup>23</sup>
+</xref> To our knowledge, no published studies to date have examined compassion fatigue, work engagement, and psychological distress in HCWs caring for patients with long COVID.</p><p>The aim of this study is to (1) describe sociodemographic and occupational factors in HCWs caring for patients with long COVID; (2) measure compassion fatigue, work engagement, and psychological distress in these HCWs; (3) assess burnout in this group; and (4) evaluate the relationships of these metrics with sociodemographic and occupational factors, including a personal history of long COVID in the HCW. Understanding the scope of this issue may influence future organizational practices to implement or enhance factors that counteract compassion fatigue, reduce psychological distress, and improve work engagement thereby promoting career longevity in these HCWs.</p></sec><sec sec-type="methods" id="pmrj13383-sec-0011"><title>METHODS</title><p>A cross‐sectional anonymous survey study was conducted of HCWs directly caring for patients with long COVID. Non‐patient facing HCWs, such as those with purely administrative or teaching responsibilities, were not included. An online survey was administered via Qualtrics XM (Qualtrics, Provo, UT). The survey link was distributed to HCWs through the American Academy of Physical Medicine and Rehabilitation Post‐Acute Sequelae of SARS‐CoV‐2 Collaborative listserv and consent obtained. Participation was voluntary and did not involve compensation. This survey study was classified as exempt by the Institutional Review Board at the University of Texas Health Science at San Antonio.</p><p>Data collection included self‐reported demographics, clinical work descriptors, and personal history of long COVID. Occupational factors included work setting, physician versus nonphysician, practice specialty, career level, time spent in telehealth, percentage of patients treated for long COVID, clinic support, and if HCWs volunteered versus were instructed to see patients with long COVID. Validated self‐report questionnaires were administered to assess work engagement (Utrecht Work Engagement Scale‐3 [UWES‐3]), psychological distress (Screening Tool for Psychological Distress [STOP‐D]), and compassion fatigue (Compassion Fatigue‐Short Scale [CF‐SS]). UWES‐3 is an abbreviated version of UWES‐15. It is composed of three items ordinally scaled 0 (never) to 6 (always): feeling energy (vigor), enthusiasm (dedication), and immersion (absorption).<xref rid="pmrj13383-bib-0024" ref-type="bibr">
+<sup>24</sup>
+</xref> Lower scores indicate less work engagement with scores 10 or higher suggestive of a high level of work engagement, with variations depending on the specific context and population.<xref rid="pmrj13383-bib-0025" ref-type="bibr">
+<sup>25</sup>
+</xref> STOP‐D consists of five items that provide severity scores from 0 (not at all bothered) to 9 (severely bothered) for depression, anxiety, stress, anger, and low social support.<xref rid="pmrj13383-bib-0026" ref-type="bibr">
+<sup>26</sup>
+</xref> Higher scores indicate more psychological distress with a score of at least 25 suggestive of psychological distress.<xref rid="pmrj13383-bib-0026" ref-type="bibr">
+<sup>26</sup>
+</xref> It has been found to accurately identify depressed patients and have high specificity and sensitivity for screening for anxiety.<xref rid="pmrj13383-bib-0026" ref-type="bibr">
+<sup>26</sup>
+</xref>, <xref rid="pmrj13383-bib-0027" ref-type="bibr">
+<sup>27</sup>
+</xref> CF‐SS is a 13‐item questionnaire assessing two dimensions of burnout (eight items) and trauma (five items) on a 10‐point Likert scale from 1 (never) to 10 (always).<xref rid="pmrj13383-bib-0028" ref-type="bibr">
+<sup>28</sup>
+</xref> Higher scores indicate more severe compassion fatigue. The literature suggests that scores &gt;56 may indicate significant compassion fatigue.<xref rid="pmrj13383-bib-0029" ref-type="bibr">
+<sup>29</sup>
+</xref> Respondents scoring at least one SD above the mean score on the CF‐SS burnout dimension were categorized into a “burnout” group for further analysis.</p><p>Descriptive statistics were calculated according to normality determined by Kolmogorov–Smirnov test. Means, SDs, ranges, and medians were calculated for quantitative variables. Counts and percentages were calculated for categorical variables. Given the differences in scales, which are not linear, a nonnormal distribution was predicted, thus nonparametric tests (Mann–Whitney <italic toggle="yes">U</italic> and Kruskal–Wallis H) were used to compare means by participants' sociodemographic and occupational characteristics. Pearson's chi‐square test was performed to test categorical variables. Spearman's rank correlation was used for the analysis of correlations between main variables. Stepwise multiple linear regression analysis was performed for each of the CF‐SS, STOP‐D, and UWES‐3 components. A one‐way analysis of variance between groups was conducted to explore the impact of career level on UWES‐3, STOP‐D, and CF‐SS scores. Effect size was calculated using eta squared. Sidak test was used for post‐hoc comparisons of mean scores.</p></sec><sec sec-type="results" id="pmrj13383-sec-0012"><title>RESULTS</title><p>There were 116 respondents included in this study with the majority identifying as female (63.8%) and younger than 45 years of age (60.5%). Career level was identified as early (0–9 years) in 43.4% of respondents. Most were partnered (89.5%) and parents (70.2%). A majority (57.4%) were physicians, working in academic medicine (64.7%), working primarily in an outpatient setting (62.1%), working full time (93.1%), and salaried (89.7%). Physician specialists included PM&amp;R, cardiology, family medicine, infectious disease, internal medicine, neurology, orthopedics, psychiatry, and pulmonology. Nonphysician HCWs included neuropsychologists, psychologists, physician assistants, nurse practitioners, nurses, medical assistants, physical/occupational/speech therapists, social workers, community health workers, and other master's level providers. Table <xref rid="pmrj13383-tbl-0001" ref-type="table">1</xref> displays sociodemographic and occupational characteristics.</p><table-wrap position="float" id="pmrj13383-tbl-0001" content-type="TABLE" orientation="portrait"><label>TABLE 1</label><caption><p>Demographics and work‐related characteristics.</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><thead valign="bottom"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="bottom" rowspan="1" colspan="1">Descriptors of sample</th><th align="left" valign="bottom" rowspan="1" colspan="1">
+<italic toggle="yes">n</italic>
+</th><th align="left" valign="bottom" rowspan="1" colspan="1">%</th></tr></thead><tbody valign="top"><tr><td align="left" valign="top" rowspan="1" colspan="1">Age range (years)</td><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">18–24</td><td align="left" valign="top" rowspan="1" colspan="1">1</td><td align="left" valign="top" rowspan="1" colspan="1">0.9</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">25–34</td><td align="left" valign="top" rowspan="1" colspan="1">25</td><td align="left" valign="top" rowspan="1" colspan="1">21.9</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">35–44</td><td align="left" valign="top" rowspan="1" colspan="1">43</td><td align="left" valign="top" rowspan="1" colspan="1">37.7</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">45–54</td><td align="left" valign="top" rowspan="1" colspan="1">17</td><td align="left" valign="top" rowspan="1" colspan="1">14.9</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">55–64</td><td align="left" valign="top" rowspan="1" colspan="1">23</td><td align="left" valign="top" rowspan="1" colspan="1">20.2</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">65 and older</td><td align="left" valign="top" rowspan="1" colspan="1">5</td><td align="left" valign="top" rowspan="1" colspan="1">4.4</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Gender</td><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">Female</td><td align="left" valign="top" rowspan="1" colspan="1">74</td><td align="left" valign="top" rowspan="1" colspan="1">63.8</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">Male</td><td align="left" valign="top" rowspan="1" colspan="1">41</td><td align="left" valign="top" rowspan="1" colspan="1">35.3</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">Prefer not to say/other</td><td align="left" valign="top" rowspan="1" colspan="1">1</td><td align="left" valign="top" rowspan="1" colspan="1">0.9</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Married</td><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">Yes</td><td align="left" valign="top" rowspan="1" colspan="1">102</td><td align="left" valign="top" rowspan="1" colspan="1">89.5</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">No</td><td align="left" valign="top" rowspan="1" colspan="1">9</td><td align="left" valign="top" rowspan="1" colspan="1">7.9</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">Separated</td><td align="left" valign="top" rowspan="1" colspan="1">1</td><td align="left" valign="top" rowspan="1" colspan="1">0.9</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">Prefer not to say</td><td align="left" valign="top" rowspan="1" colspan="1">2</td><td align="left" valign="top" rowspan="1" colspan="1">1.7</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Children</td><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">Yes</td><td align="left" valign="top" rowspan="1" colspan="1">80</td><td align="left" valign="top" rowspan="1" colspan="1">70.2</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">No</td><td align="left" valign="top" rowspan="1" colspan="1">34</td><td align="left" valign="top" rowspan="1" colspan="1">29.8</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Career level</td><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">Early (0–9 years)</td><td align="left" valign="top" rowspan="1" colspan="1">49</td><td align="left" valign="top" rowspan="1" colspan="1">43.4</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">Middle (10–15 years)</td><td align="left" valign="top" rowspan="1" colspan="1">30</td><td align="left" valign="top" rowspan="1" colspan="1">26.5</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">Late (15 years +)</td><td align="left" valign="top" rowspan="1" colspan="1">34</td><td align="left" valign="top" rowspan="1" colspan="1">30.1</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Primary work setting</td><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">Academic medicine</td><td align="left" valign="top" rowspan="1" colspan="1">75</td><td align="left" valign="top" rowspan="1" colspan="1">64.7</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">Private hospital</td><td align="left" valign="top" rowspan="1" colspan="1">8</td><td align="left" valign="top" rowspan="1" colspan="1">6.9</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">Public hospital</td><td align="left" valign="top" rowspan="1" colspan="1">12</td><td align="left" valign="top" rowspan="1" colspan="1">10.3</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">Community clinic</td><td align="left" valign="top" rowspan="1" colspan="1">12</td><td align="left" valign="top" rowspan="1" colspan="1">10.3</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">Private practice</td><td align="left" valign="top" rowspan="1" colspan="1">3</td><td align="left" valign="top" rowspan="1" colspan="1">2.6</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Veterans Affairs system</td><td align="left" valign="top" rowspan="1" colspan="1">6</td><td align="left" valign="top" rowspan="1" colspan="1">5.2</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Specialty</td><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">PM&amp;R physician</td><td align="left" valign="top" rowspan="1" colspan="1">37</td><td align="left" valign="top" rowspan="1" colspan="1">32.2</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">Other physician<xref rid="pmrj13383-note-0002" ref-type="table-fn">
+<sup>a</sup>
+</xref>
+</td><td align="left" valign="top" rowspan="1" colspan="1">29</td><td align="left" valign="top" rowspan="1" colspan="1">25.2</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">Other provider<xref rid="pmrj13383-note-0003" ref-type="table-fn">
+<sup>b</sup>
+</xref>
+</td><td align="left" valign="top" rowspan="1" colspan="1">49</td><td align="left" valign="top" rowspan="1" colspan="1">42.6</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">% of time spent with telehealth</td><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">≤10</td><td align="left" valign="top" rowspan="1" colspan="1">60</td><td align="left" valign="top" rowspan="1" colspan="1">52.2</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">20</td><td align="left" valign="top" rowspan="1" colspan="1">27</td><td align="left" valign="top" rowspan="1" colspan="1">23.5</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">≥30</td><td align="left" valign="top" rowspan="1" colspan="1">28</td><td align="left" valign="top" rowspan="1" colspan="1">24.3</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">% of patients treated for long COVID</td><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">10</td><td align="left" valign="top" rowspan="1" colspan="1">32</td><td align="left" valign="top" rowspan="1" colspan="1">27.8</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">20</td><td align="left" valign="top" rowspan="1" colspan="1">24</td><td align="left" valign="top" rowspan="1" colspan="1">20.9</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">30</td><td align="left" valign="top" rowspan="1" colspan="1">16</td><td align="left" valign="top" rowspan="1" colspan="1">13.9</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">40</td><td align="left" valign="top" rowspan="1" colspan="1">11</td><td align="left" valign="top" rowspan="1" colspan="1">9.6</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">50</td><td align="left" valign="top" rowspan="1" colspan="1">14</td><td align="left" valign="top" rowspan="1" colspan="1">12.2</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">60</td><td align="left" valign="top" rowspan="1" colspan="1">6</td><td align="left" valign="top" rowspan="1" colspan="1">5.2</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">70</td><td align="left" valign="top" rowspan="1" colspan="1">1</td><td align="left" valign="top" rowspan="1" colspan="1">0.9</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">80</td><td align="left" valign="top" rowspan="1" colspan="1">3</td><td align="left" valign="top" rowspan="1" colspan="1">2.6</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">90</td><td align="left" valign="top" rowspan="1" colspan="1">2</td><td align="left" valign="top" rowspan="1" colspan="1">1.7</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">100</td><td align="left" valign="top" rowspan="1" colspan="1">6</td><td align="left" valign="top" rowspan="1" colspan="1">5.2</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Volunteered to treat long COVID</td><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">Yes</td><td align="left" valign="top" rowspan="1" colspan="1">61</td><td align="left" valign="top" rowspan="1" colspan="1">53.5</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">No</td><td align="left" valign="top" rowspan="1" colspan="1">53</td><td align="left" valign="top" rowspan="1" colspan="1">46.5</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Providers with long COVID</td><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">With long COVID</td><td align="left" valign="top" rowspan="1" colspan="1">19</td><td align="left" valign="top" rowspan="1" colspan="1">22.1</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">Without long COVID</td><td align="left" valign="top" rowspan="1" colspan="1">67</td><td align="left" valign="top" rowspan="1" colspan="1">77.9</td></tr></tbody></table><table-wrap-foot id="pmrj13383-ntgp-0001"><fn id="pmrj13383-note-0001"><p>
+<italic toggle="yes">Note</italic>: age range, married, children, volunteers, <italic toggle="yes">N</italic> = 114; career level, <italic toggle="yes">N</italic> = 113; gender and work setting, <italic toggle="yes">N</italic> = 116; specialty, telehealth, and % of patients with long COVID, <italic toggle="yes">N</italic> = 115; Providers with long COVID, <italic toggle="yes">N</italic> = 86. Abbreviation: PM&amp;R, physical medicine and rehabilitation.</p></fn><fn id="pmrj13383-note-0002"><label>
+<sup>a</sup>
+</label><p>This category included providers in cardiology, family medicine, infectious disease, internal medicine, neurology, orthopedics, psychiatry, and pulmonology.</p></fn><fn id="pmrj13383-note-0003"><label>
+<sup>b</sup>
+</label><p>This category included providers in neuropsychology, psychology, physician assistants, nurse practitioners, nurses, medical assistants, physical/occupational/speech therapists, social workers, community health workers, and other master's level providers.</p></fn></table-wrap-foot></table-wrap><p>The mean (SD) scores were 13.2 (3.4) on the UWES‐3, 15.4 (9.7) on the STOP‐D, and 40.3 (20.1) on CF‐SS. These mean scores do not meet the cutoff thresholds defined for work disengagement, psychological distress, or compassion fatigue; however, these thresholds are within one SD of the mean for all measures. There were no differences in outcome measures based on gender or marital or parental status.</p><p>Ten physicians were categorized into the burnout group and nine nonphysicians were categorized into the burnout group, which was not a statistically significant difference (physicians: 15.2%; nonphysicians: 18.0%; <italic toggle="yes">X</italic>
+<sup>2</sup> = 0.17, <italic toggle="yes">p</italic> = .68). Of physicians in the burnout group, five were in PM&amp;R and five were in other medical specialties, a difference that was not statistically significant (PM&amp;R: 13.5%; other medical specialties: 17.2%; <italic toggle="yes">X</italic>
+<sup>2</sup> = 0.18, <italic toggle="yes">p</italic> = .68).</p><p>Approximately 32% of total respondents were PM&amp;R physicians and 56% of physician respondents were in PM&amp;R. There was no difference in psychological distress scores for PM&amp;R physicians compared to other respondents (PM&amp;R: M = 13.3, SD = 9.0; Other respondents: M = 15.8, SD = 10.3; t (114) = −1.4, <italic toggle="yes">p</italic> = .16, two tailed). There was similarly no significant difference UWES‐3 for PM&amp;R physicians (M = 12.7, SD = 3.9) compared to other providers (M = 13.6, SD = 3.2; <italic toggle="yes">t</italic> (113) = −1.4, <italic toggle="yes">p</italic> = .17, two tailed) or in compassion fatigue scores (PM&amp;R: M = 37.9, SD = 20.5; other providers: M = 40.4, SD = 21.3; t (111) = −0.63, <italic toggle="yes">p</italic> = .53, two tailed).</p><p>There was a significant difference in all scores for providers with long COVID and without long COVID (Figure <xref rid="pmrj13383-fig-0001" ref-type="fig">1</xref>). UWES‐3 scores were significantly lower in providers with long COVID (M = 11.5, SD 4.5) than without (M = 13.7, SD = 2.9; t(84) = −2.60, <italic toggle="yes">p</italic> = .01, two tailed) with a moderate effect size (mean difference = −2.2, 95% confidence interval [CI] = −4.0 to −0.5, η<sup>2</sup> = −0.09). STOP‐D scores were significantly higher in providers with long COVID (M = 19.9, SD = 10.5) than without (M = 14.2, SD = 9.2; <italic toggle="yes">t</italic> (85) = 2.3, <italic toggle="yes">p</italic> = .02, two tailed) with a moderate effect size (mean difference = 5.7, 95% CI = 0.8–10.6, η<sup>2</sup> = 0.06). CF‐SS scores were significantly higher in patients with long COVID (M = 49.8, SD = 20.0) than without (M = 37.6, SD = 19.5; <italic toggle="yes">t</italic> (83) = 2.4, <italic toggle="yes">p</italic> = .02, two tailed) with a moderate effect size (mean difference = 12.2, 95% CI = 2.1–22.4, η<sup>2</sup> = 0.07).</p><fig position="float" fig-type="FIGURE" id="pmrj13383-fig-0001" orientation="portrait"><label>FIGURE 1</label><caption><p>Mean score on psychometric assessments in HCWs caring for patients with long COVID who reported having long COVID compared to those who did not have long COVID. HCWs with long COVID reported statistically lower work engagement, greater psychological distress, and greater compassion fatigue than HCWs without long COVID. Error bars signify SD. * Denotes statistically significant differences at the <italic toggle="yes">p</italic> &lt; .05 level. CF‐SS, Compassion Fatigue‐Short Scale; HCW, health care worker; STOP‐D, Screening Tool for Psychological Distress; UWES‐3, Utrecht Work Engagement Scale‐3.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-1" orientation="portrait" xlink:href="PMRJ-17-1162-g001.jpg"/></fig><p>Outcome measures differed between career level groups with medium to large effects (UWES‐3: η<sup>2</sup> = 0.13, STOP‐D: η<sup>2</sup> = 0.06, CF‐SS: η<sup>2</sup> = 0.06). There was a significant difference in UWES‐3 scores between career‐level groups (<italic toggle="yes">p</italic>  &lt;.01). Post‐hoc comparisons indicated the mean score for the early career group (M = 12.0, SD = 3.8) was significantly lower than for the late career group (M = 14.9, SD = 2.2, <italic toggle="yes">p</italic> &lt; .01). There was a significant difference in STOP‐D scores between career‐level groups (<italic toggle="yes">p</italic> = .03). Post‐hoc comparisons indicated the mean score for the middle career group (M = 40.8, SD = 22.3) was significantly higher than the late career group (M = 31.0, SD = 16.3, <italic toggle="yes">p</italic> = .02). There was a significant difference in CF‐SS scores between career‐level groups (<italic toggle="yes">p</italic> = .02). Post‐hoc comparisons indicated the mean score for the early career group (M = 43.1, SD = 20.8) was significantly higher than the late career hroup (M = 31.0, SD = 16.3, <italic toggle="yes">p</italic> = .02). The CF‐SS score showed a small positive correlation (<italic toggle="yes">r</italic>
+<sub>
+<italic toggle="yes">s</italic>
+</sub> = 0.19, <italic toggle="yes">n</italic> = 112, <italic toggle="yes">p</italic> = .04) with the percentage of the provider's patient population with long COVID. There was not a significant difference in scores for providers who elected versus those who were mandated to care for patients with long COVID. There was also not a significant relationship between the outcome measure scores and type of clinic support. There was not a significant difference in scores relating to percentage of time delivering telehealth care. See Table <xref rid="pmrj13383-tbl-0002" ref-type="table">2</xref> for associations of scores with these occupational factors.</p><table-wrap position="float" id="pmrj13383-tbl-0002" content-type="TABLE" orientation="portrait"><label>TABLE 2</label><caption><p>Associations with UWES‐3, STOP‐D, and CF‐SS scores and occupational factors.</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><thead valign="bottom"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="bottom" rowspan="1" colspan="1">Outcome</th><th align="left" valign="bottom" rowspan="1" colspan="1">Clinic factor</th><th align="left" valign="bottom" rowspan="1" colspan="1">
+<italic toggle="yes">r</italic>
+<sub>
+<italic toggle="yes">s</italic>
+</sub>
+</th><th align="left" valign="bottom" rowspan="1" colspan="1">
+<italic toggle="yes">t</italic>
+</th><th align="left" valign="bottom" rowspan="1" colspan="1">
+<italic toggle="yes">n</italic>
+</th><th align="left" valign="bottom" rowspan="1" colspan="1">
+<italic toggle="yes">p</italic> value</th></tr></thead><tbody valign="top"><tr><td align="left" valign="top" rowspan="1" colspan="1">UWES‐3</td><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/></tr><tr><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1">Percentage of long COVID patients</td><td align="char" char="." valign="top" rowspan="1" colspan="1">−0.01</td><td align="left" valign="top" rowspan="1" colspan="1"/><td align="char" char="." valign="top" rowspan="1" colspan="1">112</td><td align="char" char="." valign="top" rowspan="1" colspan="1">.89</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1">Volunteer vs. Not</td><td align="left" style="background-color:#D9D9D9" valign="top" rowspan="1" colspan="1"/><td align="char" char="." valign="top" rowspan="1" colspan="1">−0.53</td><td align="char" char="." valign="top" rowspan="1" colspan="1">114</td><td align="char" char="." valign="top" rowspan="1" colspan="1">.60</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1">Clinic support</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.04</td><td align="left" valign="top" rowspan="1" colspan="1"/><td align="char" char="." valign="top" rowspan="1" colspan="1">115</td><td align="char" char="." valign="top" rowspan="1" colspan="1">.69</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1">Time spent in telehealth</td><td align="char" char="." valign="top" rowspan="1" colspan="1">−0.01</td><td align="left" valign="top" rowspan="1" colspan="1"/><td align="char" char="." valign="top" rowspan="1" colspan="1">115</td><td align="char" char="." valign="top" rowspan="1" colspan="1">.27</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">STOP‐D</td><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/></tr><tr><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1">Percentage of long COVID patients</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.16</td><td align="left" valign="top" rowspan="1" colspan="1"/><td align="char" char="." valign="top" rowspan="1" colspan="1">112</td><td align="char" char="." valign="top" rowspan="1" colspan="1">.07</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1">Volunteer vs. not</td><td align="left" style="background-color:#D9D9D9" valign="top" rowspan="1" colspan="1"/><td align="char" char="." valign="top" rowspan="1" colspan="1">−1.48</td><td align="char" char="." valign="top" rowspan="1" colspan="1">115</td><td align="char" char="." valign="top" rowspan="1" colspan="1">.14</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1">Clinic support</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.00</td><td align="left" valign="top" rowspan="1" colspan="1"/><td align="char" char="." valign="top" rowspan="1" colspan="1">116</td><td align="char" char="." valign="top" rowspan="1" colspan="1">.98</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1">Time spent in telehealth</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.03</td><td align="left" valign="top" rowspan="1" colspan="1"/><td align="char" char="." valign="top" rowspan="1" colspan="1">112</td><td align="char" char="." valign="top" rowspan="1" colspan="1">.58</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">CF‐SS</td><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/></tr><tr><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1">Percentage of long COVID patients</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.19</td><td align="left" valign="top" rowspan="1" colspan="1"/><td align="char" char="." valign="top" rowspan="1" colspan="1">112</td><td align="char" char="." valign="top" rowspan="1" colspan="1">.<bold>04</bold>
+</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1">Volunteer vs. not</td><td align="left" style="background-color:#D9D9D9" valign="top" rowspan="1" colspan="1"/><td align="char" char="." valign="top" rowspan="1" colspan="1">−1.02</td><td align="char" char="." valign="top" rowspan="1" colspan="1">113</td><td align="char" char="." valign="top" rowspan="1" colspan="1">.31</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1">Clinic support</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.03</td><td align="left" valign="top" rowspan="1" colspan="1"/><td align="char" char="." valign="top" rowspan="1" colspan="1">113</td><td align="char" char="." valign="top" rowspan="1" colspan="1">.68</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1">Time spent in telehealth</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.04</td><td align="left" valign="top" rowspan="1" colspan="1"/><td align="char" char="." valign="top" rowspan="1" colspan="1">110</td><td align="char" char="." valign="top" rowspan="1" colspan="1">.85</td></tr></tbody></table><table-wrap-foot id="pmrj13383-ntgp-0002"><fn id="pmrj13383-note-0004"><p>
+<italic toggle="yes">Note</italic>: Clinic factors included in the table: percentage of all patients who are long COVID patients; providers volunteered to care for long COVID patients versus providers were assigned these patients; clinic support type available (onsite, offsite, clinic practice manager, administrative support, nurse coordinator, social work, behavioral health/psychology, specific clinic scheduling available); time spent in telehealth is indicative of the percentage of health care time spent in telehealth encounters (&lt;10%, 10–29%, ≥30%).</p></fn><fn id="pmrj13383-note-0005"><p>Abbreviations: CF‐SS, Compassion Fatigue‐Short Scale; STOP‐D, Screening Tool for Psychological Distress; UWES‐3, Utrecht Work Engagement Scale‐3.</p></fn></table-wrap-foot></table-wrap></sec><sec sec-type="discussion" id="pmrj13383-sec-0013"><title>DISCUSSION</title><p>This cross‐sectional survey study revealed that HCWs with a personal history of long COVID who are caring for patients with long COVID experience greater psychological distress, compassion fatigue, and work disengagement compared to those HCWs without a personal history of long COVID. Compassion fatigue is increased in HCWs caring for a higher percentage of patients with long COVID. Differences in these mental health outcome measures are also seen between HCW career‐level groups. Early career HCWs caring for this patient population are less engaged and experience greater compassion fatigue and those in middle career experience greater psychological distress.</p><p>In HCWs with long COVID, outcome scores indicate less work engagement, greater psychological distress, and greater compassion fatigue than HCWs without long COVID. Those HCWs with long COVID may experience mental health consequences associated with their underlying medical condition that is unrelated to their patient population at work.<xref rid="pmrj13383-bib-0030" ref-type="bibr">
+<sup>30</sup>
+</xref> HCWs with long COVID may also have a lower baseline energy reserve to protect them from burnout, work disengagement, and compassion fatigue after exposure to the various demands associated with caring for patients with long COVID. They may experience their own challenges relating to their health condition or medical care, lowering their threshold to experience compassion fatigue while working to provide care to patients with long COVID.<xref rid="pmrj13383-bib-0031" ref-type="bibr">
+<sup>31</sup>
+</xref> Despite the growing recognition of long COVID, there remains a shortage of both HCWs and specialized clinics equipped and available to treat patients and manage this complex condition.<xref rid="pmrj13383-bib-0014" ref-type="bibr">
+<sup>14</sup>
+</xref>, <xref rid="pmrj13383-bib-0031" ref-type="bibr">
+<sup>31</sup>
+</xref>, <xref rid="pmrj13383-bib-0032" ref-type="bibr">
+<sup>32</sup>
+</xref>, <xref rid="pmrj13383-bib-0033" ref-type="bibr">
+<sup>33</sup>
+</xref> A potential contributing factor to HCW distress is the current lack of resources for patients with long COVID nationally and the subsequent inability to provide the necessary care due to resource inaccessibility and lack of established protocols.<xref rid="pmrj13383-bib-0014" ref-type="bibr">
+<sup>14</sup>
+</xref>, <xref rid="pmrj13383-bib-0023" ref-type="bibr">
+<sup>23</sup>
+</xref>
+</p><p>Results of this study show that treating a greater percentage of patients with long COVID is associated with increased compassion fatigue. It is plausible that the more patients with long COVID a HCW treats, the more likely they are exposed to the secondary trauma involved in the development of compassion fatigue. The psychological impact on HCWs caring for persons with long COVID, compounded by insufficient resources and limited access to specialized clinics, may contribute to a decrease in providers available or willing to treat persons with this chronic condition.<xref rid="pmrj13383-bib-0007" ref-type="bibr">
+<sup>7</sup>
+</xref> This shortage is exacerbated by the overwhelming number of persons with long COVID in need of care, juxtaposed against the inadequate number of clinics and resources allocated to long COVID management nationwide. Because the optimal medical management of long COVID is still under investigation, the complexity of caring for this population introduces challenges that may be fatiguing.</p><p>In this study sample, early career HCWs caring for patients with long COVID are less engaged in their work and experience greater compassion fatigue and those in middle career experience more psychological distress. Those in early career may be more likely to have treated patients with acute COVID‐19 infection during the early pandemic due to recent residency training that may have required inpatient coverage of these patients. Thus, they may be at higher risk of burnout and compassion fatigue associated with the trauma of treating these acutely ill patients.<xref rid="pmrj13383-bib-0022" ref-type="bibr">
+<sup>22</sup>
+</xref> Because long COVID is a relatively new chronic condition, early career HCWs may be less engaged in caring for this patient population because it was not an area of health care they initially envisioned in their career. HCWs in later career are likely to have a more established practice aligned with their original area of interest whereas early career HCWs may not experience this same sense of connection or consistency with their patient panel. Additionally, those in early career may not have a well‐established professional network from which to gather support and resources that foster work engagement and career development. Middle career HCWs may find themselves caring for patients with a novel chronic disease that they have not previously treated, which may be psychologically distressing due to the unfamiliarity with the pathologic process, whereas some early career HCWs may be more familiar with long COVID due to training during the pandemic. It is also possible that middle career HCWs progressed from compassion fatigue to psychological distress as compassion fatigue has been correlated with depression and anxiety.<xref rid="pmrj13383-bib-0034" ref-type="bibr">
+<sup>34</sup>
+</xref> Late career HCWs may have developed successful coping strategies learned from experiencing challenges and psychological stressors in their earlier career.</p><p>Results of this study show that PM&amp;R physicians caring for patients with long COVID experience comparable psychological distress, compassion fatigue, and work engagement scores to other HCWs caring for these patients. PM&amp;R has emerged as a leader in the management of patients with long COVID and PM&amp;R practitioners often serve as the primary providers managing this chronic condition, coordinating multidisciplinary care.<xref rid="pmrj13383-bib-0013" ref-type="bibr">
+<sup>13</sup>
+</xref>, <xref rid="pmrj13383-bib-0014" ref-type="bibr">
+<sup>14</sup>
+</xref>, <xref rid="pmrj13383-bib-0015" ref-type="bibr">
+<sup>15</sup>
+</xref>, <xref rid="pmrj13383-bib-0016" ref-type="bibr">
+<sup>16</sup>
+</xref>, <xref rid="pmrj13383-bib-0017" ref-type="bibr">
+<sup>17</sup>
+</xref>, <xref rid="pmrj13383-bib-0018" ref-type="bibr">
+<sup>18</sup>
+</xref> Formal medical training in PM&amp;R did not include long COVID, as it is a newly recognized disease state, yet PM&amp;R physicians are adept at addressing various symptoms as well as functional impairments and sequelae that affect patients' daily lives. The comparable outcome measures in PM&amp;R physicians caring for this patient population is reassuring; however, nonresponse bias is a limitation that is recognized.</p><p>Future studies should investigate strategies to improve occupational well‐being in HCWs caring for patients with long COVID. A recent qualitative study in PM&amp;R physicians highlighted the importance of personal lifestyle choices, work–life harmony, and strategies to improve professional satisfaction that may be applicable to this population of HCWs.<xref rid="pmrj13383-bib-0035" ref-type="bibr">
+<sup>35</sup>
+</xref> There are likely organizational as well as personal strategies to protect against or recover from compassion fatigue, psychological distress, and work disengagement and thus combat burnout.<xref rid="pmrj13383-bib-0035" ref-type="bibr">
+<sup>35</sup>
+</xref>, <xref rid="pmrj13383-bib-0036" ref-type="bibr">
+<sup>36</sup>
+</xref>, <xref rid="pmrj13383-bib-0037" ref-type="bibr">
+<sup>37</sup>
+</xref> Various organizational contexts have been identified that relate to improvement of work engagement, including fostering an organizational culture that focuses on person‐centered care rather than productivity metrics, management practices to overcome bureaucracy, and providing opportunities for employee professional development and self‐care.<xref rid="pmrj13383-bib-0035" ref-type="bibr">
+<sup>35</sup>
+</xref>, <xref rid="pmrj13383-bib-0036" ref-type="bibr">
+<sup>36</sup>
+</xref>, <xref rid="pmrj13383-bib-0037" ref-type="bibr">
+<sup>37</sup>
+</xref>
+</p></sec><sec id="pmrj13383-sec-0014"><title>LIMITATIONS</title><p>This study is limited by survey bias or nonresponse bias. Nonrespondents may not have participated due to the presence of work disengagement, psychological distress, or lack of time or energy. Another limitation is that the validated questionnaires used did not directly measure burnout, although burnout‐related questions were included particularly in the CF‐SS. STOP‐D is validated in measuring psychological distress in patients rather than HCWs, which may also be considered a limitation. The STOP‐D results may be confounded by factors external to occupation. Although a strength of this study is that it included HCWs in multiple roles, not just physicians, its generalizability is limited as some of the auxiliary roles are not well represented in respondents. Another limitation is that we were unable to compare the outcome measures in HCWs caring for patients with long COVID to HCWs not caring for this patient population.</p></sec><sec sec-type="conclusions" id="pmrj13383-sec-0015"><title>CONCLUSION</title><p>HCWs are vulnerable to psychological distress, compassion fatigue, and reduced work engagement post pandemic. Higher compassion fatigue is seen in those treating a greater percentage of patients with long COVID, likely due to an increased exposure to secondary trauma. HCWs who have long COVID and are also caring for persons with long COVID experience worse psychological distress, more compassion fatigue, and less work engagement compared to HCWs without long COVID. Early career HCWs caring for patients with long COVID are less engaged and experience greater compassion fatigue, and those in middle career experience greater psychological distress. It is crucial to prioritize the well‐being of the HCWs caring for this patient population by providing sufficient organizational support to combat compassion fatigue and psychological distress and promote work engagement. This includes access to mental health resources, fostering a culture focused on person‐centered care, and opportunities for employee professional development and self‐care. It is evident that supporting these HCWs is imperative, as their distress is likely linked to the current national deficiency in resources for patients with long COVID. Identifying and understanding the psychological distress that these HCWs may be experiencing is important to facilitate an improved experience and thus aid in the retention of these health services in a shortage area. By supporting HCWs caring for patients with long COVID, we can ensure sustainable health care delivery and promote a healthier workforce capable of meeting the ongoing challenges posed by this complex condition.</p></sec><sec sec-type="COI-statement" id="pmrj13383-sec-0016"><title>DISCLOSURE</title><p>None.</p></sec></body><back><ref-list id="pmrj13383-bibl-0001" content-type="cited-references"><title>REFERENCES</title><ref id="pmrj13383-bib-0001"><label>1</label><mixed-citation publication-type="book" id="pmrj13383-cit-0001">
+<string-name name-style="western">
+<surname>Figley</surname>
+<given-names>C</given-names>
+</string-name>. <source>Compassion Fatigue. Coping with Secondary Traumatic Stress Disorder in Those Who Treat the Traumatized</source>. <publisher-name>Taylor &amp; Francis Group</publisher-name>; <year>1995</year>.</mixed-citation></ref><ref id="pmrj13383-bib-0002"><label>2</label><mixed-citation publication-type="book" id="pmrj13383-cit-0002">
+<string-name name-style="western">
+<surname>Munroe</surname>
+<given-names>JF</given-names>
+</string-name>. <source>Ethical Issues Associated with Secondary Trauma in Therapists. Secondary Traumatic Stress: Self‐care Issues for Clinicians, Researchers and Educators</source>. <publisher-name>Sidran Press</publisher-name>; <year>1999</year>:<fpage>211</fpage>‐<lpage>229</lpage>.</mixed-citation></ref><ref id="pmrj13383-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="pmrj13383-cit-0003">
+<string-name name-style="western">
+<surname>Slatten</surname>
+<given-names>LA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Carson</surname>
+<given-names>KD</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Carson</surname>
+<given-names>PP</given-names>
+</string-name>. <article-title>Compassion fatigue and burnout: what managers should know</article-title>. <source>Health Care Manag</source>. <year>2011</year>;<volume>30</volume>(<issue>4</issue>):<fpage>325</fpage>‐<lpage>333</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1097/HCM.0b013e31823511f7</pub-id><pub-id pub-id-type="pmid">22042140</pub-id></mixed-citation></ref><ref id="pmrj13383-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="pmrj13383-cit-0004">
+<string-name name-style="western">
+<surname>Cao</surname>
+<given-names>X</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chen</surname>
+<given-names>L</given-names>
+</string-name>. <article-title>The impact of resilience on turnover intention in dialysis nurses: the mediating effects of work engagement and compassion fatigue</article-title>. <source>Jpn J Nurs Sci</source>. <year>2021</year>;<volume>18</volume>(<issue>3</issue>):<elocation-id>e12414</elocation-id>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/jjns.12414</pub-id><pub-id pub-id-type="pmid">33682287</pub-id></mixed-citation></ref><ref id="pmrj13383-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="pmrj13383-cit-0005">
+<string-name name-style="western">
+<surname>Chan</surname>
+<given-names>AO</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chan</surname>
+<given-names>YH</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chuang</surname>
+<given-names>KP</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ng</surname>
+<given-names>JSC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Neo</surname>
+<given-names>PSH</given-names>
+</string-name>. <article-title>Addressing physician quality of life: understanding the relationship between burnout, work engagement, compassion fatigue and satisfaction</article-title>. <source>J Hosp Admin</source>. <year>2015</year>;<volume>4</volume>(<issue>6</issue>):<fpage>46</fpage>‐<lpage>55</lpage>. doi:<pub-id pub-id-type="doi">10.5430/jha.v4n6p46</pub-id>
+</mixed-citation></ref><ref id="pmrj13383-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="pmrj13383-cit-0006">
+<string-name name-style="western">
+<surname>Rao</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ferris</surname>
+<given-names>TG</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hidrue</surname>
+<given-names>MK</given-names>
+</string-name>, et al. <article-title>Physician burnout, engagement and career satisfaction in a large academic medical practice</article-title>. <source>Clin Med Res</source>. <year>2020</year>;<volume>18</volume>(<issue>1</issue>):<fpage>3</fpage>‐<lpage>10</lpage>. doi:<pub-id pub-id-type="doi">10.3121/cmr.2019.1516</pub-id>
+<pub-id pub-id-type="pmid">31959669</pub-id>
+<pub-id pub-id-type="pmcid">PMC7153796</pub-id></mixed-citation></ref><ref id="pmrj13383-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="pmrj13383-cit-0007">
+<string-name name-style="western">
+<surname>Karabuga Yakar</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Oguz</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bulut</surname>
+<given-names>B</given-names>
+</string-name>, et al. <article-title>Compassion fatigue in nurses caring for chronic diseases</article-title>. <source>Int J Occup Saf Ergon</source>. <year>2023</year>;<volume>29</volume>(<issue>1</issue>):<fpage>109</fpage>‐<lpage>114</lpage>.<pub-id pub-id-type="pmid">34979885</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1080/10803548.2021.2025314</pub-id></mixed-citation></ref><ref id="pmrj13383-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="pmrj13383-cit-0008">
+<string-name name-style="western">
+<surname>Wijdenes</surname>
+<given-names>KL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Badger</surname>
+<given-names>TA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sheppard</surname>
+<given-names>KG</given-names>
+</string-name>. <article-title>Assessing compassion fatigue risk among nurses in a large urban trauma center</article-title>. <source>J Nurs Adm</source>. <year>2019</year>;<volume>49</volume>(<issue>1</issue>):<fpage>19</fpage>‐<lpage>23</lpage>. doi:<pub-id pub-id-type="doi">10.1097/NNA.0000000000000702</pub-id>
+<pub-id pub-id-type="pmid">30499866</pub-id>
+</mixed-citation></ref><ref id="pmrj13383-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="pmrj13383-cit-0009">
+<string-name name-style="western">
+<surname>Garnett</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hui</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Oleynikov</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Boamah</surname>
+<given-names>S</given-names>
+</string-name>. <article-title>Compassion fatigue in healthcare providers: a scoping review</article-title>. <source>BMC Health Serv Res</source>. <year>2023</year>;<volume>23</volume>(<issue>1</issue>):<fpage>1336</fpage>. doi:<pub-id pub-id-type="doi">10.1186/s12913-023-10356-3</pub-id>
+<pub-id pub-id-type="pmid">38041097</pub-id>
+<pub-id pub-id-type="pmcid">PMC10693134</pub-id></mixed-citation></ref><ref id="pmrj13383-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="pmrj13383-cit-0010">
+<string-name name-style="western">
+<surname>Carmassi</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Dell'Oste</surname>
+<given-names>V</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bertelloni</surname>
+<given-names>CA</given-names>
+</string-name>, et al. <article-title>Gender and occupational role differences in work‐related post‐traumatic stress symptoms, burnout and global functioning in emergency healthcare workers</article-title>. <source>Intensive Crit Care Nurs</source>. <year>2022</year>;<volume>69</volume>:<fpage>1</fpage>‐<lpage>7</lpage>. doi:<pub-id pub-id-type="doi">10.1016/j.iccn.2021.103154</pub-id>
+<pub-id pub-id-type="pmid">34895972</pub-id></mixed-citation></ref><ref id="pmrj13383-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="pmrj13383-cit-0011">
+<string-name name-style="western">
+<surname>Ruiz‐Fernández</surname>
+<given-names>MD</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ramos‐Pichardo</surname>
+<given-names>JD</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ibáñez‐Masero</surname>
+<given-names>O</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cabrera‐Troya</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Carmona‐Rega</surname>
+<given-names>MI</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ortega‐Galán</surname>
+<given-names>ÁM</given-names>
+</string-name>. <article-title>Compassion fatigue, burnout, compassion satisfaction and perceived stress in healthcare professionals during the COVID‐19 health crisis in Spain</article-title>. <source>J Clin Nurs</source>. <year>2020</year>;<volume>29</volume>(<issue>21–22</issue>):<fpage>4321</fpage>‐<lpage>4330</lpage>. doi:<pub-id pub-id-type="doi">10.1111/jocn.15469</pub-id>
+<pub-id pub-id-type="pmid">32860287</pub-id>
+</mixed-citation></ref><ref id="pmrj13383-bib-0012"><label>12</label><mixed-citation publication-type="book" id="pmrj13383-cit-0012">
+<collab collab-type="authors">National Academies of Sciences, Engineering, and Medicine</collab>
+. <source>A Long COVID Definition: A Chronic. Systemic Disease State with Profound Consequences</source>. <publisher-loc>Washington, DC</publisher-loc>: <publisher-name>The National Academies Press</publisher-name>. <year>2024</year>;<volume>10</volume>:<elocation-id>17226/27768</elocation-id>. doi:<pub-id pub-id-type="doi">10.17226/27768</pub-id>
+<pub-id pub-id-type="pmid">39110819</pub-id></mixed-citation></ref><ref id="pmrj13383-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="pmrj13383-cit-0013">
+<string-name name-style="western">
+<surname>Barshikar</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Laguerre</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gordon</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lopez</surname>
+<given-names>M</given-names>
+</string-name>. <article-title>Integrated care models for long coronavirus disease</article-title>. <source>Phys Med Rehabil Clin N Am</source>. <year>2023</year>;<volume>34</volume>(<issue>3</issue>):<fpage>689</fpage>‐<lpage>700</lpage>. doi:<pub-id pub-id-type="doi">10.1016/j.pmr.2023.03.007</pub-id>
+<pub-id pub-id-type="pmid">37419540</pub-id>
+<pub-id pub-id-type="pmcid">PMC10165471</pub-id></mixed-citation></ref><ref id="pmrj13383-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="pmrj13383-cit-0014">
+<string-name name-style="western">
+<surname>Dundumalla</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Barshikar</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Niehaus</surname>
+<given-names>WN</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ambrose</surname>
+<given-names>AF</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kim</surname>
+<given-names>SY</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Abramoff</surname>
+<given-names>BA</given-names>
+</string-name>. <article-title>A survey of dedicated PASC clinics: characteristics, barriers and spirit of collaboration</article-title>. <source>PM R</source>. <year>2022</year>;<volume>14</volume>(<issue>3</issue>):<fpage>348</fpage>‐<lpage>356</lpage>. doi:<pub-id pub-id-type="doi">10.1002/pmrj.12766</pub-id>
+<pub-id pub-id-type="pmid">35038230</pub-id>
+</mixed-citation></ref><ref id="pmrj13383-bib-0015"><label>15</label><mixed-citation publication-type="journal" id="pmrj13383-cit-0015">
+<string-name name-style="western">
+<surname>Whiteson</surname>
+<given-names>JH</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Azola</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Barry</surname>
+<given-names>JT</given-names>
+</string-name>, et al. <article-title>Multi‐disciplinary collaborative consensus guidance statement on the assessment and treatment of cardiovascular complications in patients with post‐acute sequelae of SARS‐CoV‐2 infection (PASC)</article-title>. <source>PM&amp;R</source>. <year>2022</year>;<volume>14</volume>(<issue>7</issue>):<fpage>855</fpage>‐<lpage>878</lpage>.<pub-id pub-id-type="pmid">35657351</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/pmrj.12859</pub-id><pub-id pub-id-type="pmcid">PMC9347705</pub-id></mixed-citation></ref><ref id="pmrj13383-bib-0016"><label>16</label><mixed-citation publication-type="journal" id="pmrj13383-cit-0016">
+<string-name name-style="western">
+<surname>Melamed</surname>
+<given-names>E</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rydberg</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ambrose</surname>
+<given-names>AF</given-names>
+</string-name>, et al. <article-title>Multidisciplinary collaborative consensus guidance statement on the assessment and treatment of neurologic sequelae in patients with post‐acute sequelae of SARS‐CoV‐2 infection (PASC)</article-title>. <source>PM&amp;R</source>. <year>2023</year>;<volume>15</volume>(<issue>5</issue>):<fpage>640</fpage>‐<lpage>662</lpage>.<pub-id pub-id-type="pmid">36989078</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/pmrj.12976</pub-id></mixed-citation></ref><ref id="pmrj13383-bib-0017"><label>17</label><mixed-citation publication-type="journal" id="pmrj13383-cit-0017">
+<string-name name-style="western">
+<surname>Herrera</surname>
+<given-names>JE</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Niehaus</surname>
+<given-names>WN</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Whiteson</surname>
+<given-names>J</given-names>
+</string-name>, et al. <article-title>Multidisciplinary collaborative consensus guidance statement on the assessment and treatment of fatigue in postacute sequelae of SARS‐CoV‐2 infection (PASC) patients</article-title>. <source>PM&amp;R</source>. <year>2021</year>;<volume>13</volume>(<issue>9</issue>):<fpage>1027</fpage>‐<lpage>1043</lpage>.<pub-id pub-id-type="pmid">34346558</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/pmrj.12684</pub-id><pub-id pub-id-type="pmcid">PMC8441628</pub-id></mixed-citation></ref><ref id="pmrj13383-bib-0018"><label>18</label><mixed-citation publication-type="journal" id="pmrj13383-cit-0018">
+<string-name name-style="western">
+<surname>Munipalli</surname>
+<given-names>B</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Seim</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Dawson</surname>
+<given-names>NL</given-names>
+</string-name>, et al. <article-title>Post‐acute sequelae of COVID‐19 (LONG COVID): a meta‐narrative review of pathophysiology, prevalence, and management</article-title>. <source>SN Compr Clin Med</source>. <year>2022</year>;<volume>4</volume>(<issue>1</issue>):<fpage>90</fpage>.<pub-id pub-id-type="pmid">35402784</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s42399-022-01167-4</pub-id><pub-id pub-id-type="pmcid">PMC8977184</pub-id></mixed-citation></ref><ref id="pmrj13383-bib-0019"><label>19</label><mixed-citation publication-type="miscellaneous" id="pmrj13383-cit-0019">
+<collab collab-type="authors">About Physical Medicine &amp; Rehabilitation</collab>
+. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://www.aapmr.org" ext-link-type="uri">www.aapmr.org</ext-link>. Accessed September 23, 2024. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.aapmr.org/about-physiatry/about-physical-medicine-rehabilitation" ext-link-type="uri">https://www.aapmr.org/about-physiatry/about-physical-medicine-rehabilitation</ext-link>.</mixed-citation></ref><ref id="pmrj13383-bib-0020"><label>20</label><mixed-citation publication-type="journal" id="pmrj13383-cit-0020">
+<string-name name-style="western">
+<surname>Makowski</surname>
+<given-names>MS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Trockel</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Paganoni</surname>
+<given-names>S</given-names>
+</string-name>, et al. <article-title>Occupational characteristics associated with professional fulfillment and burnout among US physiatrists</article-title>. <source>Am J Phys Med Rehabil</source>. <year>2023</year>;<volume>102</volume>(<issue>5</issue>):<fpage>379</fpage>‐<lpage>388</lpage>. doi:<pub-id pub-id-type="doi">10.1097/PHM.0000000000002216</pub-id>
+<pub-id pub-id-type="pmid">37076955</pub-id>
+</mixed-citation></ref><ref id="pmrj13383-bib-0021"><label>21</label><mixed-citation publication-type="journal" id="pmrj13383-cit-0021">
+<string-name name-style="western">
+<surname>Lluch</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Galiana</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Doménech</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sansó</surname>
+<given-names>N</given-names>
+</string-name>. <article-title>The impact of the COVID‐19 pandemic on burnout, compassion fatigue, and compassion satisfaction in healthcare personnel: a systematic review of the literature published during the first year of the pandemic</article-title>. <source>Healthcare Basel</source>. <year>2022</year>;<volume>10</volume>(<issue>2</issue>):<fpage>364</fpage>. doi:<pub-id pub-id-type="doi">10.3390/healthcare10020364</pub-id>
+<pub-id pub-id-type="pmid">35206978</pub-id>
+<pub-id pub-id-type="pmcid">PMC8872521</pub-id></mixed-citation></ref><ref id="pmrj13383-bib-0022"><label>22</label><mixed-citation publication-type="journal" id="pmrj13383-cit-0022">
+<string-name name-style="western">
+<surname>Doherty</surname>
+<given-names>AM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Colleran</surname>
+<given-names>GC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Durcan</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Irvine</surname>
+<given-names>AD</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Barrett</surname>
+<given-names>E</given-names>
+</string-name>. <article-title>A pilot study of burnout and long covid in senior specialist doctors</article-title>. <source>Ir J Med Sci</source>. <year>2022</year>;<volume>191</volume>(<issue>1</issue>):<fpage>133</fpage>‐<lpage>137</lpage>. doi:<pub-id pub-id-type="doi">10.1007/s11845-021-02594-3</pub-id>
+<pub-id pub-id-type="pmid">33713306</pub-id>
+<pub-id pub-id-type="pmcid">PMC7955691</pub-id></mixed-citation></ref><ref id="pmrj13383-bib-0023"><label>23</label><mixed-citation publication-type="journal" id="pmrj13383-cit-0023">
+<string-name name-style="western">
+<surname>Cruickshank</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Brazzelli</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Manson</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Torrance</surname>
+<given-names>N</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Grant</surname>
+<given-names>A</given-names>
+</string-name>. <article-title>What is the impact of long‐term COVID‐19 on workers in healthcare settings? A rapid systematic review of current evidence</article-title>. <source>PLoS One</source>. <year>2024</year>;<volume>19</volume>(<issue>3</issue>):<elocation-id>e0299743</elocation-id>. doi:<pub-id pub-id-type="doi">10.1371/journal.pone.0299743</pub-id>
+<pub-id pub-id-type="pmid">38442116</pub-id>
+<pub-id pub-id-type="pmcid">PMC10914278</pub-id></mixed-citation></ref><ref id="pmrj13383-bib-0024"><label>24</label><mixed-citation publication-type="journal" id="pmrj13383-cit-0024">
+<string-name name-style="western">
+<surname>Merino‐Soto</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lozano‐Huamán</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lima‐Mendoza</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Calderón de la Cruz</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Juárez‐García</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Toledano‐Toledano</surname>
+<given-names>F</given-names>
+</string-name>. <article-title>Ultrashort version of the Utrecht Work Engagement Scale (UWES‐3): a psychometric assessment</article-title>. <source>Int J Environ Res Public Health</source>. <year>2022</year>;<volume>19</volume>(<issue>2</issue>):<fpage>890</fpage>.<pub-id pub-id-type="pmid">35055713</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3390/ijerph19020890</pub-id><pub-id pub-id-type="pmcid">PMC8775405</pub-id></mixed-citation></ref><ref id="pmrj13383-bib-0025"><label>25</label><mixed-citation publication-type="journal" id="pmrj13383-cit-0025">
+<string-name name-style="western">
+<surname>Schaufeli</surname>
+<given-names>W</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Schaufeli</surname>
+<given-names>WB</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Shimazu</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hakanen</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Salanova</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>De Witte</surname>
+<given-names>H</given-names>
+</string-name>. <article-title>An ultra‐short measure for work engagement</article-title>. <source>Eur J Psychol Assess</source>. <year>2019</year>;<volume>35</volume>(<issue>4</issue>):<fpage>577</fpage>‐<lpage>591</lpage>. doi:<pub-id pub-id-type="doi">10.1027/1015-5759/a000430</pub-id>
+</mixed-citation></ref><ref id="pmrj13383-bib-0026"><label>26</label><mixed-citation publication-type="journal" id="pmrj13383-cit-0026">
+<string-name name-style="western">
+<surname>Young</surname>
+<given-names>QR</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Nguyen</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Roth</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Broadberry</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mackay</surname>
+<given-names>MH</given-names>
+</string-name>. <article-title>Single‐item measures for depression and anxiety: validation of the screening tool for psychological distress in an inpatient cardiology setting</article-title>. <source>Eur J Cardiovasc Nurs</source>. <year>2015</year>;<volume>14</volume>(<issue>6</issue>):<fpage>544</fpage>‐<lpage>551</lpage>.<pub-id pub-id-type="pmid">25139467</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1177/1474515114548649</pub-id></mixed-citation></ref><ref id="pmrj13383-bib-0027"><label>27</label><mixed-citation publication-type="journal" id="pmrj13383-cit-0027">
+<string-name name-style="western">
+<surname>Young</surname>
+<given-names>QR</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ignaszewski</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Fofonoff</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kaan</surname>
+<given-names>A</given-names>
+</string-name>. <article-title>Brief screen to identify 5 of the most common forms of psychosocial distress in cardiac patients: validation of the screening tool for psychological distress</article-title>. <source>J Cardiovasc Nurs</source>. <year>2007</year>;<volume>22</volume>(<issue>6</issue>):<fpage>525</fpage>‐<lpage>534</lpage>. doi:<pub-id pub-id-type="doi">10.1097/01.JCN.0000297383.29250.14</pub-id>
+<pub-id pub-id-type="pmid">18090195</pub-id>
+</mixed-citation></ref><ref id="pmrj13383-bib-0028"><label>28</label><mixed-citation publication-type="journal" id="pmrj13383-cit-0028">
+<string-name name-style="western">
+<surname>Adams</surname>
+<given-names>RE</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Boscarino</surname>
+<given-names>JA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Figley</surname>
+<given-names>CR</given-names>
+</string-name>. <article-title>Compassion fatigue and psychological distress among social workers: a validation study</article-title>. <source>Am J Orthopsychiatry</source>. <year>2006</year>;<volume>76</volume>(<issue>1</issue>):<fpage>103</fpage>‐<lpage>108</lpage>.<pub-id pub-id-type="pmid">16569133</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1037/0002-9432.76.1.103</pub-id><pub-id pub-id-type="pmcid">PMC2699394</pub-id></mixed-citation></ref><ref id="pmrj13383-bib-0029"><label>29</label><mixed-citation publication-type="journal" id="pmrj13383-cit-0029">
+<string-name name-style="western">
+<surname>McGrath</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Matthews</surname>
+<given-names>LR</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Heard</surname>
+<given-names>R</given-names>
+</string-name>. <article-title>Predictors of compassion satisfaction and compassion fatigue in health care workers providing health and rehabilitation services in rural and remote locations: a scoping review</article-title>. <source>Aust J Rural Health</source>. <year>2022</year>;<volume>30</volume>(<issue>2</issue>):<fpage>264</fpage>‐<lpage>280</lpage>. doi:<pub-id pub-id-type="doi">10.1111/ajr.12857</pub-id>
+<pub-id pub-id-type="pmid">35267227</pub-id>
+<pub-id pub-id-type="pmcid">PMC9310831</pub-id></mixed-citation></ref><ref id="pmrj13383-bib-0030"><label>30</label><mixed-citation publication-type="journal" id="pmrj13383-cit-0030">
+<string-name name-style="western">
+<surname>Walia</surname>
+<given-names>N</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lat</surname>
+<given-names>JO</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tariq</surname>
+<given-names>R</given-names>
+</string-name>, et al. <article-title>Post‐acute sequelae of COVID‐19 and the mental health implications</article-title>. <source>Discoveries (Craiova, Romania)</source>. <year>2021</year>;<volume>9</volume>(<issue>4</issue>):<elocation-id>e140</elocation-id>.<pub-id pub-id-type="pmid">35359346</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.15190/d.2021.19</pub-id><pub-id pub-id-type="pmcid">PMC8959835</pub-id></mixed-citation></ref><ref id="pmrj13383-bib-0031"><label>31</label><mixed-citation publication-type="journal" id="pmrj13383-cit-0031">
+<string-name name-style="western">
+<surname>Haslam</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Prasad</surname>
+<given-names>V</given-names>
+</string-name>. <article-title>Long COVID clinics and services offered by top US hospitals: an empirical analysis of clinical options as of may 2023</article-title>. <source>BMC Health Serv Res</source>. <year>2024</year>;<volume>24</volume>(<issue>1</issue>):<fpage>684</fpage>. doi:<pub-id pub-id-type="doi">10.1186/s12913-024-11071-3</pub-id>
+<pub-id pub-id-type="pmid">38816726</pub-id>
+<pub-id pub-id-type="pmcid">PMC11138016</pub-id></mixed-citation></ref><ref id="pmrj13383-bib-0032"><label>32</label><mixed-citation publication-type="miscellaneous" id="pmrj13383-cit-0032">
+<string-name name-style="western">
+<surname>Ducharme</surname>
+<given-names>J</given-names>
+</string-name>. <article-title>Long COVID. Patients Wait Months for Treatment</article-title>. Time. February 3, 2022. Accessed September 24, 2024. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://time.com/6144427/long-covid-treatments-health-care-wait/" ext-link-type="uri">https://time.com/6144427/long-covid-treatments-health-care-wait/</ext-link>
+</mixed-citation></ref><ref id="pmrj13383-bib-0033"><label>33</label><mixed-citation publication-type="journal" id="pmrj13383-cit-0033">
+<string-name name-style="western">
+<surname>MacEwan</surname>
+<given-names>SR</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rahurkar</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tarver</surname>
+<given-names>WL</given-names>
+</string-name>, et al. <article-title>Patient experiences navigating care coordination for long COVID: a qualitative study</article-title>. <source>J Gen Intern Med</source>. <year>2024</year>;<volume>39</volume>:<fpage>1294</fpage>‐<lpage>1300</lpage>. doi:<pub-id pub-id-type="doi">10.1007/s11606-024-08622-z</pub-id>
+<pub-id pub-id-type="pmid">38308155</pub-id>
+<pub-id pub-id-type="pmcid">PMC11169119</pub-id></mixed-citation></ref><ref id="pmrj13383-bib-0034"><label>34</label><mixed-citation publication-type="book" id="pmrj13383-cit-0034">
+<string-name name-style="western">
+<surname>Graves</surname>
+<given-names>J</given-names>
+</string-name> et al. <part-title>From empathy to compassion fatigue: a narrative review of implications in healthcare</part-title>. <source>Empathy ‐ Advanced Research and Applications</source>. <publisher-name>IntechOpen</publisher-name>; <year>2023</year>.</mixed-citation></ref><ref id="pmrj13383-bib-0035"><label>35</label><mixed-citation publication-type="journal" id="pmrj13383-cit-0035">
+<string-name name-style="western">
+<surname>Amano</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Makowski</surname>
+<given-names>MS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Trockel</surname>
+<given-names>MT</given-names>
+</string-name>, et al. <article-title>A qualitative study of strategies to improve occupational well‐being in physical medicine and rehabilitation physicians</article-title>. <source>Am J Phys Med Rehabil</source>. <year>2024</year>;<volume>103</volume>:<fpage>674</fpage>‐<lpage>684</lpage>. doi:<pub-id pub-id-type="doi">10.1097/PHM.0000000000002555</pub-id>
+<pub-id pub-id-type="pmid">38838100</pub-id>
+</mixed-citation></ref><ref id="pmrj13383-bib-0036"><label>36</label><mixed-citation publication-type="journal" id="pmrj13383-cit-0036">
+<string-name name-style="western">
+<surname>Rollins</surname>
+<given-names>AL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Eliacin</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Russ‐Jara</surname>
+<given-names>AL</given-names>
+</string-name>, et al. <article-title>Organizational conditions that influence work engagement and burnout: a qualitative study of mental health workers</article-title>. <source>Psychiatr Rehabil J</source>. <year>2021</year>;<volume>44</volume>(<issue>3</issue>):<fpage>229</fpage>‐<lpage>237</lpage>. doi:<pub-id pub-id-type="doi">10.1037/prj0000472</pub-id>
+<pub-id pub-id-type="pmid">33793289</pub-id>
+<pub-id pub-id-type="pmcid">PMC8440452</pub-id></mixed-citation></ref><ref id="pmrj13383-bib-0037"><label>37</label><mixed-citation publication-type="journal" id="pmrj13383-cit-0037">
+<string-name name-style="western">
+<surname>Solms</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>van Vianen</surname>
+<given-names>AEM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Koen</surname>
+<given-names>J</given-names>
+</string-name>, et al. <article-title>Physician exhaustion and work engagement during the COVID‐19 pandemic: a longitudinal survey into the role of resources and support interventions</article-title>. <source>PLoS One</source>. <year>2023</year>;<volume>18</volume>(<issue>2</issue>):<elocation-id>e0277489</elocation-id>. Published 2023 Feb 1. doi:<pub-id pub-id-type="doi">10.1371/journal.pone.0277489</pub-id>
+<pub-id pub-id-type="pmid">36724165</pub-id>
+<pub-id pub-id-type="pmcid">PMC9891506</pub-id></mixed-citation></ref></ref-list></back></article></pmc-articleset>

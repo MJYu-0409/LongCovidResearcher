@@ -1,0 +1,27 @@
+{
+  "pmcid": "PMC12633932",
+  "pmid": "41264615",
+  "doi": "10.1371/journal.pdig.0001093",
+  "title": "Longitudinal wearable sensor data enhance precision of Long COVID detection.",
+  "abstract": "Despite the millions of individuals struggling with persistent symptoms, Long COVID has remained difficult to diagnose due to limited objective biomarkers, often leading to underdiagnosis or even misdiagnosis. To bridge this gap, we investigated the potential of utilizing wearable sensor data to aid in the diagnosis of Long COVID. We analyzed longitudinal heart rate (HR) data from 126 individuals with acute SARS-CoV-2 infections to develop machine learning models capable of predicting Long COVID status using derived HR features, symptom features, or a combination of both feature sets. The HR features were derived across six analytical categories, including time-domain, Poincaré nonlinear, raw signal, Kullback-Leibler (KL) divergence, variational mode decomposition (VMD), and the Shannon energy envelope (SEE), enabling the capture of heart rate dynamics over various temporal scales and the quantification of day-to-day shifts in HR distributions. The symptom features used in the final models included chest pain, vomiting, excessive sweating, memory loss, brain fog, heart palpitations, and loss of smell. The combined HR- and symptom-feature model demonstrated robust predictive performance, achieving an area under the Receiver Operating Characteristic curve (ROC-AUC) of 95.1% and an area under the Precision-Recall curve (PR-AUC) of 85.9%. These values represent a significant improvement of approximately 5% in both the ROC-AUC and PR-AUC over the symptoms-only model. At the population level, this improvement in discrimination could lead to clinically meaningful reductions in misclassification and improved patient outcomes, achieved through a non-invasive diagnostic tool. These findings suggest that wearable HR data could be used to derive an objective biomarker for Long COVID, thereby enhancing diagnostic precision.",
+  "authors": [
+    "Chibuike K Uwakwe",
+    "Ekanath Srihari Rangan",
+    "Satyajit Kumar",
+    "Georg Gutjahr",
+    "Xuhui Miao",
+    "Andrew W Brooks",
+    "Peter Maguire",
+    "Tejaswini Mishra",
+    "Lettie McGuire",
+    "Michael P Snyder"
+  ],
+  "journal": "PLOS digital health",
+  "pub_year": "2025",
+  "pub_month": "Nov",
+  "pub_day": "20",
+  "keywords": [],
+  "article_types": [
+    "Journal Article"
+  ]
+}

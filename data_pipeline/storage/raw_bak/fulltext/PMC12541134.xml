@@ -1,0 +1,685 @@
+<?xml version="1.0"  ?><!DOCTYPE pmc-articleset PUBLIC "-//NLM//DTD ARTICLE SET 2.0//EN" "https://dtd.nlm.nih.gov/ncbi/pmc/articleset/nlm-articleset-2.0.dtd"><pmc-articleset><article id="hsr271367" xml:lang="en" article-type="research-article" dtd-version="1.4"><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">Health Sci Rep</journal-id><journal-id journal-id-type="iso-abbrev">Health Sci Rep</journal-id><journal-id journal-id-type="pmc-domain-id">3569</journal-id><journal-id journal-id-type="pmc-domain">hscirep</journal-id><journal-id journal-id-type="publisher-id">HSR2</journal-id><journal-title-group><journal-title>Health Science Reports</journal-title></journal-title-group><issn pub-type="epub">2398-8835</issn><publisher><publisher-name>Wiley</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC12541134</article-id><article-id pub-id-type="pmcid-ver">PMC12541134.1</article-id><article-id pub-id-type="pmcaid">12541134</article-id><article-id pub-id-type="pmcaiid">12541134</article-id><article-id pub-id-type="pmid">41132192</article-id><article-id pub-id-type="doi">10.1002/hsr2.71367</article-id><article-id pub-id-type="publisher-id">HSR271367</article-id><article-version article-version-type="pmc-version">1</article-version><article-categories><subj-group subj-group-type="overline"><subject>Original Research</subject></subj-group><subj-group subj-group-type="heading"><subject>Original Research</subject></subj-group></article-categories><title-group><article-title>Individually Tailored Physiotherapy in Persons With Respiratory Symptoms Related to Post‐Acute Sequelae of COVID‐19: A Feasibility Study With Mixed Methods</article-title></title-group><contrib-group><contrib id="hsr271367-cr-0001" contrib-type="author"><name name-style="western"><surname>Lo</surname><given-names initials="M">Marcus</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-4193-5561</contrib-id><xref rid="hsr271367-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="hsr271367-cr-0002" contrib-type="author"><name name-style="western"><surname>Eiriksson</surname><given-names initials="L">Lauren</given-names></name><xref rid="hsr271367-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib id="hsr271367-cr-0003" contrib-type="author"><name name-style="western"><surname>Hunter</surname><given-names initials="S">Simone</given-names></name><xref rid="hsr271367-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref></contrib><contrib id="hsr271367-cr-0004" contrib-type="author"><name name-style="western"><surname>Twomey</surname><given-names initials="R">Rosie</given-names></name><xref rid="hsr271367-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib id="hsr271367-cr-0005" contrib-type="author"><name name-style="western"><surname>Skolnik</surname><given-names initials="K">Kate</given-names></name><xref rid="hsr271367-aff-0004" ref-type="aff">
+<sup>4</sup>
+</xref></contrib><contrib id="hsr271367-cr-0006" contrib-type="author"><name name-style="western"><surname>Chen</surname><given-names initials="J">Joel</given-names></name><xref rid="hsr271367-aff-0004" ref-type="aff">
+<sup>4</sup>
+</xref></contrib><contrib id="hsr271367-cr-0007" contrib-type="author"><name name-style="western"><surname>Afshar</surname><given-names initials="EE">Elnaz Ehteshami</given-names></name><xref rid="hsr271367-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="hsr271367-aff-0005" ref-type="aff">
+<sup>5</sup>
+</xref></contrib><contrib id="hsr271367-cr-0008" contrib-type="author"><name name-style="western"><surname>Weatherald</surname><given-names initials="J">Jason</given-names></name><xref rid="hsr271367-aff-0004" ref-type="aff">
+<sup>4</sup>
+</xref></contrib><contrib id="hsr271367-cr-0009" contrib-type="author" corresp="yes"><name name-style="western"><surname>Lim</surname><given-names initials="RK">Rachel K.</given-names></name><xref rid="hsr271367-aff-0004" ref-type="aff">
+<sup>4</sup>
+</xref><address><email>Rachel.lim@albertahealthservices.ca</email></address></contrib></contrib-group><aff id="hsr271367-aff-0001">
+<label>
+<sup>1</sup>
+</label>
+<named-content content-type="organisation-division">Department of Medicine, Cumming School of Medicine</named-content>
+<institution>University of Calgary</institution>
+<city>Calgary</city>
+<named-content content-type="country-part">Alberta</named-content>
+<country country="CA">Canada</country>
+</aff><aff id="hsr271367-aff-0002">
+<label>
+<sup>2</sup>
+</label>
+<named-content content-type="organisation-division">Faculty of Kinesiology</named-content>
+<institution>University of Calgary</institution>
+<city>Calgary</city>
+<named-content content-type="country-part">Alberta</named-content>
+<country country="CA">Canada</country>
+</aff><aff id="hsr271367-aff-0003">
+<label>
+<sup>3</sup>
+</label>
+<institution>Breathe Well Physio</institution>
+<city>Calgary</city>
+<named-content content-type="country-part">Alberta</named-content>
+<country country="CA">Canada</country>
+</aff><aff id="hsr271367-aff-0004">
+<label>
+<sup>4</sup>
+</label>
+<named-content content-type="organisation-division">Department of Medicine, Cumming School of Medicine, Division of Respiratory Medicine</named-content>
+<institution>University of Calgary</institution>
+<city>Calgary</city>
+<named-content content-type="country-part">Alberta</named-content>
+<country country="CA">Canada</country>
+</aff><aff id="hsr271367-aff-0005">
+<label>
+<sup>5</sup>
+</label>
+<named-content content-type="organisation-division">Department of Community Health Sciences, Cumming School of Medicine</named-content>
+<institution>University of Calgary</institution>
+<city>Calgary</city>
+<named-content content-type="country-part">Alberta</named-content>
+<country country="CA">Canada</country>
+</aff><author-notes><corresp id="correspondenceTo">
+<label>*</label>
+<bold>Correspondence:</bold> Rachel K. Lim (<email>Rachel.lim@albertahealthservices.ca</email>)<break/>
+</corresp></author-notes><pub-date pub-type="epub"><day>21</day><month>10</month><year>2025</year></pub-date><pub-date pub-type="collection"><month>10</month><year>2025</year></pub-date><volume>8</volume><issue seq="20">10</issue><issue-id pub-id-type="pmc-issue-id">497543</issue-id><issue-id pub-id-type="doi">10.1002/hsr2.v8.10</issue-id><elocation-id>e71367</elocation-id><history><date date-type="rev-recd"><day>13</day><month>7</month><year>2025</year></date><date date-type="received"><day>29</day><month>1</month><year>2025</year></date><date date-type="accepted"><day>29</day><month>8</month><year>2025</year></date></history><pub-history><event event-type="pmc-release"><date><day>21</day><month>10</month><year>2025</year></date></event><event event-type="pmc-live"><date><day>23</day><month>10</month><year>2025</year></date></event><event event-type="pmc-last-change"><date iso-8601-date="2025-10-24 15:25:17.847"><day>24</day><month>10</month><year>2025</year></date></event></pub-history><permissions><copyright-statement content-type="article-copyright">© 2025 The Author(s). <italic toggle="yes">Health Science Reports</italic> published by Wiley Periodicals LLC.</copyright-statement><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>This is an open access article under the terms of the <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pmc-pdf" xlink:href="HSR2-8-e71367.pdf"/><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pdf" xlink:href="file:HSR2-8-e71367.pdf"/><abstract><title>ABSTRACT</title><sec id="hsr271367-sec-0010"><title>Background and Aims</title><p>Post‐acute sequelae of COVID‐19 (PASC) commonly present with persistent respiratory symptoms, even in individuals with normal chest imaging and pulmonary function. Given the heterogeneity within this population, a personalized approach to respiratory physiotherapy could improve outcomes. The purpose of this study was to assess the feasibility and impact of a tailored respiratory physiotherapy program on health‐related quality of life (QoL), functional impairment, and patient‐reported outcome measures (PROMs) in individuals with persistent respiratory symptoms due to PASC.</p></sec><sec id="hsr271367-sec-0020"><title>Methods</title><p>A single‐arm, open‐label trial was conducted with 13 adults diagnosed with PASC, recruited from Long COVID clinics in Calgary, Canada. Participants underwent an 8‐session personalized physiotherapy program, including education, breathing exercises, and strengthening. Feasibility was measured through recruitment, retention, and session completion rates. PROMs were collected at baseline and post‐intervention, and qualitative interviews explored participant perspectives.</p></sec><sec id="hsr271367-sec-0030"><title>Results</title><p>The program was highly feasible, with 100% retention and a 99% completion rate. Significant improvements were observed in QoL, functional status (Post COVID‐19 Function Status scale), and self‐efficacy scores. The 6‐min walk test showed clinically meaningful improvements in three out of seven participants. Qualitative interviews (<italic toggle="yes">n</italic> = 8) identified three main themes: struggles with PASC, positive aspects of the program, and benefits from completing it. Participants valued the personalized approach, heart rate monitors, flexible scheduling, and a hybrid of in‐person and virtual sessions, reporting increased confidence, improved symptom management, and better mental health.</p></sec><sec id="hsr271367-sec-0040"><title>Conclusion</title><p>A personalized respiratory physiotherapy program is feasible and may benefit individuals with PASC. Larger trials are needed to assess long‐term efficacy and scalability.</p></sec><sec id="hsr271367-sec-0050"><title>Trial Registration</title><p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://ClinicalTrials.gov" ext-link-type="uri">ClinicalTrials.gov</ext-link> identifier: NCT05040893</p></sec></abstract><kwd-group><kwd id="hsr271367-kwd-0001">long‐covid</kwd><kwd id="hsr271367-kwd-0002">quality of life</kwd><kwd id="hsr271367-kwd-0003">rehabilitation</kwd></kwd-group><funding-group><award-group id="funding-0001"><funding-source>
+<institution-wrap><institution>This study was supported by a Respiratory Health – Medicine SCN Research and Innovation Seed Grant provided by the Medicine Strategic Clinical Network, Alberta Health Services (Grant Number: RES0052429).</institution></institution-wrap>
+</funding-source></award-group></funding-group><counts><fig-count count="1"/><table-count count="4"/><page-count count="12"/><word-count count="7657"/></counts><custom-meta-group><custom-meta><meta-name>pmc-status-qastatus</meta-name><meta-value>0</meta-value></custom-meta><custom-meta><meta-name>pmc-status-live</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-status-embargo</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-status-released</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-access</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-legally-suppressed</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-pdf</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-supplement</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-pdf-only</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-suppress-copyright</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-real-version</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-scanned-article</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-in-epmc</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-license-ref</meta-name><meta-value>CC BY</meta-value></custom-meta><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>October 2025</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:6.6.4 mode:remove_FC converted:22.10.2025</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="hsr271367-cit-0039">
+<string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Lo</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Eiriksson</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Hunter</surname>
+</string-name>, et al., “<article-title>Individually Tailored Physiotherapy in Persons With Respiratory Symptoms Related to Post‐Acute Sequelae of COVID‐19: A Feasibility Study With Mixed Methods</article-title>,” <source>Health Science Reports</source>
+<volume>8</volume> (<year>2025</year>): <fpage>1</fpage>‐<lpage>12</lpage>. <pub-id pub-id-type="doi">10.1002/hsr2.71367</pub-id>.</mixed-citation>
+</p></notes></front><body><sec id="hsr271367-sec-0060"><label>1</label><title>Introduction</title><p>The global coronavirus disease 2019 (COVID‐19) pandemic has resulted in catastrophic loss of life and significant morbidity among survivors. Those who have persistent symptoms for greater than 12 weeks postinfection that are not otherwise explained are considered to have “Long‐Covid” or post‐acute sequelae of COVID‐19 (PASC) [<xref rid="hsr271367-bib-0001" ref-type="bibr">1</xref>, <xref rid="hsr271367-bib-0002" ref-type="bibr">2</xref>]. PASC is estimated to affect at least 10% of infected people, which necessitates effective and accessible interventions to manage this condition [<xref rid="hsr271367-bib-0002" ref-type="bibr">2</xref>]. Various pathophysiologic mechanisms have been proposed, and the heterogeneity of this condition makes it difficult to diagnose and manage [<xref rid="hsr271367-bib-0002" ref-type="bibr">2</xref>].</p><p>Fatigue and respiratory complaints, including dyspnea, cough, and poor exertional tolerance, are among the most frequently reported symptoms [<xref rid="hsr271367-bib-0003" ref-type="bibr">3</xref>]. Many COVID‐19 survivors will have abnormalities on pulmonary function testing (PFT) (e.g., reduced diffusion capacity) and chest imaging (e.g., ground glass opacities), with some even having more serious disease, such as pulmonary fibrosis or pulmonary vascular disease [<xref rid="hsr271367-bib-0004" ref-type="bibr">4</xref>, <xref rid="hsr271367-bib-0005" ref-type="bibr">5</xref>]. Yet, a large proportion of individuals with respiratory symptoms have no objective impairment on PFTs or chest imaging [<xref rid="hsr271367-bib-0006" ref-type="bibr">6</xref>, <xref rid="hsr271367-bib-0007" ref-type="bibr">7</xref>]. In this population, potential causes of respiratory symptoms can include breathing pattern disorder (BPD), diaphragmatic weakness, post‐exertional malaise (PEM), postural orthostatic tachycardia syndrome, and general deconditioning [<xref rid="hsr271367-bib-0003" ref-type="bibr">3</xref>, <xref rid="hsr271367-bib-0008" ref-type="bibr">8</xref>]. There are currently no approved treatments for PASC despite the significant impact on quality of life and function [<xref rid="hsr271367-bib-0009" ref-type="bibr">9</xref>, <xref rid="hsr271367-bib-0010" ref-type="bibr">10</xref>]. International guidelines recommend multidisciplinary approaches to recovery from PASC, but rehabilitation access and programming vary widely across centers [<xref rid="hsr271367-bib-0009" ref-type="bibr">9</xref>]. Guidelines also emphasize the role of respiratory physiotherapy in the recovery of ambulatory individuals with PASC, focusing on education, breathing retraining strategies, pacing, and modest goal setting [<xref rid="hsr271367-bib-0011" ref-type="bibr">11</xref>, <xref rid="hsr271367-bib-0012" ref-type="bibr">12</xref>, <xref rid="hsr271367-bib-0013" ref-type="bibr">13</xref>].</p><p>Physiotherapy benefits are recognized in hospitalized patients; however, tailored physiotherapy may also play an instrumental role in the recovery of ambulatory patients with PASC without overt cardiorespiratory disease and normal investigations. Multiple studies have demonstrated the positive impact of physiotherapy programs on PASC symptoms, although many implemented aerobic and resistance exercises while lacking respiratory‐focused interventions like breathing pattern retraining [<xref rid="hsr271367-bib-0014" ref-type="bibr">14</xref>, <xref rid="hsr271367-bib-0015" ref-type="bibr">15</xref>, <xref rid="hsr271367-bib-0016" ref-type="bibr">16</xref>, <xref rid="hsr271367-bib-0017" ref-type="bibr">17</xref>]. Patient perspectives from engaging in physiotherapy are also underexplored in the literature. Given the complexity and heterogeneity of people suffering from respiratory symptoms related to PASC, the authors hypothesized that a tailored approach to respiratory physiotherapy interventions may be effective in alleviating symptoms and improving health‐related quality of life.</p><p>The authors conducted a pragmatic open‐label trial to determine the feasibility and impact of an individualized respiratory physiotherapy program on health‐related quality of life and other patient‐reported outcome measures (PROMs) among individuals with persistent respiratory symptoms related to PASC. As part of the study, a qualitative analysis was also done to explore participant perspectives on the perceived benefits and barriers to completing the tailored respiratory physiotherapy program delivered by a specialized physiotherapist.</p></sec><sec sec-type="methods" id="hsr271367-sec-0070"><label>2</label><title>Methods</title><sec id="hsr271367-sec-0080"><label>2.1</label><title>Study Design</title><p>This was a single‐arm, open‐label trial investigating the feasibility of a tailored, weekly pulmonary physiotherapy program delivered individually by a specialized physiotherapist. The study was registered at <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://clinicaltrials.gov" ext-link-type="uri">clinicaltrials.gov</ext-link> (identifier NCT05040893) and approved by the University of Calgary ethics board (REB21‐0767). All participants included in the analysis provided written informed consent for study participation.</p></sec><sec id="hsr271367-sec-0090"><label>2.2</label><title>Study Setting and Participants</title><p>Between March 2022 and March 2023, adults aged 18 years or older were recruited from two specialized respiratory PASC clinics in Calgary, Canada. No formal sample size calculation was performed due to the nature of this being a pilot study, and the sample size was determined based on recommendations that a sample size of at least 12 provides good feasibility and precision in pilot studies [<xref rid="hsr271367-bib-0018" ref-type="bibr">18</xref>]. Participants had to have persistent respiratory symptoms, have been diagnosed with PASC by a physician, and have a previous positive polymerase chain reaction (PCR) test for SARS‐CoV‐2 to be eligible. Exclusion criteria included the presence of abnormal PFTs (according to recent guidelines) [<xref rid="hsr271367-bib-0019" ref-type="bibr">19</xref>], current participation in any other physiotherapy/rehabilitation program, pregnancy, or known history of the following conditions: chronic lung disease, cardiovascular disease, venous thromboembolism within the past year, or myalgic encephalomyelitis/chronic fatigue syndrome.</p><p>Following consent, participant demographics, details of their COVID‐19 illness, and current symptoms of PASC were collected at enrollment. Baseline measurements included their most recent PFTs, dyspnea score (modified Medical Research Council [mMRC]), and Post COVID‐19 Function Status (PCFS) [<xref rid="hsr271367-bib-0020" ref-type="bibr">20</xref>]. Participants completed the brief DePaul Symptom Questionnaire‐PEM questionnaire to screen for PEM [<xref rid="hsr271367-bib-0021" ref-type="bibr">21</xref>]. Participants also completed the EQ‐5D‐VAS, cough visual analog score (VAS), and PROMIS measures of self‐efficacy (for managing daily activities and managing symptoms) before their initial physiotherapy session and after their last session [<xref rid="hsr271367-bib-0022" ref-type="bibr">22</xref>, <xref rid="hsr271367-bib-0023" ref-type="bibr">23</xref>]. Participants also gave a Patient Global Impact of Change (PGIC) score after the last session [<xref rid="hsr271367-bib-0024" ref-type="bibr">24</xref>]. Participants who screened negative for PEM completed a 6‐min walk test (6MWT) before and after the treatment program; if PEM was present, participants were given the option of performing a 1‐min sit‐to‐stand test (STST) instead [<xref rid="hsr271367-bib-0025" ref-type="bibr">25</xref>, <xref rid="hsr271367-bib-0026" ref-type="bibr">26</xref>].</p></sec><sec id="hsr271367-sec-0100"><label>2.3</label><title>Study Intervention</title><p>A registered physiotherapist with expertise in cardiopulmonary rehabilitation and training in BPD created an individualized treatment plan that was delivered in person and virtually over several weeks (8 sessions total, each lasting 1 h). Participants were allowed a maximum of one session per week but could schedule them further apart based on their schedule and preference. The first session was done in person, but subsequent sessions could be done virtually based on participant preference. Participants were provided with activity trackers to help guide home exercises and activities between sessions. The design of the program considered participant goals, current and past physical fitness, symptom stability, orthostatic tolerance, current physical/cognitive limitations, and equipment availability.</p><p>The physiotherapy intervention focused on three main pillars for intervention: (1) education and self‐management strategies, including the Stop‐Rest‐Pace approach [<xref rid="hsr271367-bib-0027" ref-type="bibr">27</xref>] and the use of wearable activity and real‐time heart rate monitors to safely guide pacing and activity, (2) Breathing pattern education and retraining (including diaphragmatic, relaxed, and paced breathing exercises), and (3) Return‐to‐activity exercise programming (e.g., postural, aerobic, and whole‐body strengthening exercises). Therapy emphasized symptom management strategies with a focus on improving the participant's functional ability to perform everyday tasks.</p></sec><sec id="hsr271367-sec-0110"><label>2.4</label><title>Quantitative Analysis</title><p>The primary outcome was the feasibility of the intervention, defined as a combined outcome including: (1) recruitment of at least 12 participants during the study (<italic toggle="yes">N</italic> based on pilot study design [<xref rid="hsr271367-bib-0018" ref-type="bibr">18</xref>]); (2) retention of ≥ 70% of participants; and (3) completion of ≥ 70% of all supervised physiotherapy sessions. Secondary outcomes included changes in PROMs, which assessed health‐related quality of life, level of functional impairment, and self‐efficacy for symptom management. Pre‐ and post‐differences in scores were analyzed using either paired <italic toggle="yes">t</italic>‐tests or Wilcoxon signed rank tests, depending on data distribution. Statistical significance was assumed at <italic toggle="yes">p</italic>‐value &lt; 0.05. Effect sizes were determined using Cohen's <italic toggle="yes">d</italic>, with classification as small (<italic toggle="yes">d</italic> = 0.2 or below), moderate (<italic toggle="yes">d</italic> = 0.5–0.79), large (<italic toggle="yes">d</italic> = 0.8–1.29), or very large (d = 1.3 or higher) [<xref rid="hsr271367-bib-0028" ref-type="bibr">28</xref>]. All analyses were performed using STATA 16.1 (StataCorp LP, College Station, USA).</p></sec><sec id="hsr271367-sec-0120"><label>2.5</label><title>Qualitative Analysis</title><p>Upon completion of the sessions, participants underwent a semi‐structured phone interview lasting approximately 30 min by a trained researcher who was not involved with either the participant's routine clinical care or the study intervention. The interview followed a standardized interview guide (see Appendix <xref rid="hsr271367-suppl-0001" ref-type="supplementary-material">S1</xref>), which contained a series of open‐ended questions and probes to encourage participants to provide more detail, elaborate, or clarify what they were saying. The interview guide was informed by the Theoretical Framework of Acceptability [<xref rid="hsr271367-bib-0029" ref-type="bibr">29</xref>]. All interviews were audio‐recorded, transcribed verbatim for data analysis, and anonymized to protect participant confidentiality. Transcripts were imported and analyzed using NVivo 12 software. Transcripts were analyzed using a hybrid inductive‐deductive approach using reflexive thematic analysis, where two authors (M.L. and R.K.L.) reviewed the transcripts, familiarized themselves with the data, and coded the transcripts [<xref rid="hsr271367-bib-0030" ref-type="bibr">30</xref>]. Following this, codes were sorted into potential themes and subthemes through an iterative process, thus allowing the collective participant voice to emerge. Discrepancies in coding were discussed to see if consensus could be reached, but a third member was consulted if needed.</p></sec></sec><sec sec-type="results" id="hsr271367-sec-0130"><label>3</label><title>Results</title><sec id="hsr271367-sec-0140"><label>3.1</label><title>Participant Population</title><p>A total of 21 individuals were screened, and 13 were eligible and enrolled. Reasons for exclusion included absence of prior testing for COVID‐19 (<italic toggle="yes">n</italic> = 3), ongoing participation in a physiotherapy program (<italic toggle="yes">n</italic> = 2), existing significant lung disease (<italic toggle="yes">n</italic> = 2), and an inability to physically participate due to surgery (<italic toggle="yes">n</italic> = 1) (see Figure <xref rid="hsr271367-fig-0001" ref-type="fig">1</xref>). Of 13 participants, 11 were female, the mean age was 45 years (± 14 years), and the mean BMI was 25.5 (± 3.7 kg/m<sup>2</sup>). The median time since COVID‐19 infection was 38 months (interquartile range [IQR]: 19–53), and only one participant had been hospitalized at the time of infection (non‐ICU). The median PCFS was 2 (IQR: 2, 2.5). The most common symptoms were dyspnea and fatigue (both 85%), followed by impaired exertional tolerance (53%), chest pain (38%), and cough (30%). Comorbidities were infrequent, and most were non‐smokers (92%). Baseline characteristics are presented in Table <xref rid="hsr271367-tbl-0001" ref-type="table">1</xref>.</p><fig position="float" fig-type="Figure" id="hsr271367-fig-0001" orientation="portrait"><label>Figure 1</label><caption><p>Flow diagram of participant flow through the enrollment, allocation, follow‐up, and analysis phases of the study.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-1" orientation="portrait" xlink:href="HSR2-8-e71367-g001.jpg"/></fig><table-wrap position="float" id="hsr271367-tbl-0001" content-type="Table" orientation="portrait"><label>Table 1</label><caption><p>Demographics.</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" align="left" span="1"/><col style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" align="center" span="1"/><thead valign="bottom"><tr valign="bottom" style="border-bottom:solid 1px #000000"><th align="left" colspan="2" valign="bottom" rowspan="1">Baseline characteristics (<italic toggle="yes">n</italic> = 13)</th></tr></thead><tbody valign="top"><tr><td align="left" valign="top" rowspan="1" colspan="1">Sex, <italic toggle="yes">n</italic> (%)</td><td align="center" valign="top" rowspan="1" colspan="1"/></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Female</td><td align="center" valign="top" rowspan="1" colspan="1">11 (85%)</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Male</td><td align="center" valign="top" rowspan="1" colspan="1">2 (15%)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Mean age at enrollment (SD)</td><td align="center" valign="top" rowspan="1" colspan="1">45.8 (14)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Median time since COVID‐19 diagnosis to enrollment (IQR)</td><td align="center" valign="top" rowspan="1" colspan="1">38 (19–53)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Hospitalized, <italic toggle="yes">n</italic> (%)</td><td align="center" valign="top" rowspan="1" colspan="1"/></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Yes</td><td align="center" valign="top" rowspan="1" colspan="1">1 (8%)</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">No</td><td align="center" valign="top" rowspan="1" colspan="1">12 (92%)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Symptoms, <italic toggle="yes">n</italic> (%)</td><td align="center" valign="top" rowspan="1" colspan="1"/></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Dyspnea</td><td align="center" valign="top" rowspan="1" colspan="1">11 (85%)</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Fatigue</td><td align="center" valign="top" rowspan="1" colspan="1">11 (85%)</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Cough</td><td align="center" valign="top" rowspan="1" colspan="1">4 (31%)</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Chest pain</td><td align="center" valign="top" rowspan="1" colspan="1">5 (38%)</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Lower exertion</td><td align="center" valign="top" rowspan="1" colspan="1">7 (54%)</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Dizziness</td><td align="center" valign="top" rowspan="1" colspan="1">2 (15%)</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Brain fog</td><td align="center" valign="top" rowspan="1" colspan="1">3 (23%)</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Depressed mood</td><td align="center" valign="top" rowspan="1" colspan="1">1 (7%)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Employed or student, <italic toggle="yes">n</italic> (%)</td><td align="center" valign="top" rowspan="1" colspan="1">9 (69%)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Mean weight in kg (SD)</td><td align="center" valign="top" rowspan="1" colspan="1">71.3 (12.4)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Mean BMI (kg/cm<sup>2</sup>) (SD)</td><td align="center" valign="top" rowspan="1" colspan="1">25.5 (3.7)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Smoker, <italic toggle="yes">n</italic> (%)</td><td align="center" valign="top" rowspan="1" colspan="1">1 (8%)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Mean FEV1 % predicted (SD)</td><td align="center" valign="top" rowspan="1" colspan="1">104% (15)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Mean FVC % predicted (SD)</td><td align="center" valign="top" rowspan="1" colspan="1">106% (15)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Mean DLCO % predicted (SD)</td><td align="center" valign="top" rowspan="1" colspan="1">106% (12)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Baseline mMRC, <italic toggle="yes">n</italic> (%)</td><td align="center" valign="top" rowspan="1" colspan="1"/></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">0</td><td align="center" valign="top" rowspan="1" colspan="1">1 (8%)</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">1</td><td align="center" valign="top" rowspan="1" colspan="1">6 (46%)</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">2</td><td align="center" valign="top" rowspan="1" colspan="1">4 (31%)</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">3</td><td align="center" valign="top" rowspan="1" colspan="1">1 (8%)</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">4</td><td align="center" valign="top" rowspan="1" colspan="1">1 (8%)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Mean 6MWD in meters<xref rid="hsr271367-tbl1-note-0002" ref-type="table-fn">*</xref> (SD)</td><td align="center" valign="top" rowspan="1" colspan="1">447 (70)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Comorbidities, <italic toggle="yes">n</italic> (%)</td><td align="center" valign="top" rowspan="1" colspan="1"/></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Depression</td><td align="center" valign="top" rowspan="1" colspan="1">1 (7%)</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Fibromyalgia</td><td align="center" valign="top" rowspan="1" colspan="1">1 (7%)</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Asthma (controlled)</td><td align="center" valign="top" rowspan="1" colspan="1">2 (15%)</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Anxiety</td><td align="center" valign="top" rowspan="1" colspan="1">1 (7%)</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Osteoarthritis</td><td align="center" valign="top" rowspan="1" colspan="1">1 (7%)</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Malignancy</td><td align="center" valign="top" rowspan="1" colspan="1">1 (7%)</td></tr></tbody></table><table-wrap-foot><fn id="hsr271367-tbl1-note-0001"><p>Abbreviations: 6MWD, 6‐min walk distance; BMI, body mass index; DLCO, diffusing capacity for carbon monoxide; FEV1, forced expiratory volume in 1 s; FVC, forced vital capacity; IQR, interquartile range; mMRC, modified Medical Research Council Dyspnea Scale; SD, standard deviation.</p></fn><fn id="hsr271367-tbl1-note-0002"><label>*</label><p>Data available for 9 of 13 participants.</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &amp; Sons, Ltd.</copyright-holder></permissions></table-wrap></sec><sec id="hsr271367-sec-0150"><label>3.2</label><title>Feasibility and Details of Intervention</title><p>The components of each participant's physiotherapy program are detailed in Table <xref rid="hsr271367-tbl-0002" ref-type="table">2</xref>. The intervention was considered feasible based on (1) the recruitment of 13 participants, (2) 100% retention, and (3) completion of 99% of supervised sessions. All participants completed post‐intervention assessments, but two participants declined the post‐6MWT. During the trial, participants were given the flexibility to schedule their sessions at their convenience. Therefore, the range of duration spanned 13–31 weeks (average 20 weeks). No adverse events occurred during the sessions.</p><table-wrap position="float" id="hsr271367-tbl-0002" content-type="Table" orientation="portrait"><label>Table 2</label><caption><p>Program details.</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" align="left" span="1"/><col style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" align="center" span="1"/><col style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" align="center" span="1"/><col style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" align="center" span="1"/><thead valign="bottom"><tr valign="bottom" style="border-bottom:solid 1px #000000"><th align="left" valign="bottom" rowspan="1" colspan="1">Participant</th><th align="center" valign="bottom" rowspan="1" colspan="1">Number of sessions</th><th align="center" valign="bottom" rowspan="1" colspan="1">Sessions in clinic/virtual</th><th align="center" valign="bottom" rowspan="1" colspan="1">Interventions during all sessions</th></tr></thead><tbody valign="top"><tr><td align="left" valign="top" rowspan="1" colspan="1">1</td><td align="center" valign="top" rowspan="1" colspan="1">8</td><td align="center" valign="top" rowspan="1" colspan="1">4/4</td><td align="center" valign="top" rowspan="1" colspan="1">
+<p>
+<list list-type="simple"><list-item><label>▪</label><p>Pacing and activity planning</p></list-item><list-item><label>▪</label><p>Breathing pattern education and retraining</p></list-item><list-item><label>▪</label><p>Strengthening exercises</p></list-item><list-item><label>▪</label><p>Restorative movement</p></list-item><list-item><label>▪</label><p>Other (return to work consideration and planning)</p></list-item></list>
+</p>
+</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">2</td><td align="center" valign="top" rowspan="1" colspan="1">7</td><td align="center" valign="top" rowspan="1" colspan="1">2/5</td><td align="center" valign="top" rowspan="1" colspan="1">
+<p>
+<list list-type="simple"><list-item><label>▪</label><p>Pacing and activity planning</p></list-item><list-item><label>▪</label><p>Breathing pattern education and retraining</p></list-item><list-item><label>▪</label><p>Restorative movement</p></list-item><list-item><label>▪</label><p>Other (emotional stress management strategies)</p></list-item></list>
+</p>
+</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">3</td><td align="center" valign="top" rowspan="1" colspan="1">8</td><td align="center" valign="top" rowspan="1" colspan="1">5/3</td><td align="center" valign="top" rowspan="1" colspan="1">
+<p>
+<list list-type="simple"><list-item><label>▪</label><p>Pacing and activity planning</p></list-item><list-item><label>▪</label><p>Breathing pattern education and retraining</p></list-item><list-item><label>▪</label><p>Airway clearance techniques</p></list-item><list-item><label>▪</label><p>Inspiratory muscle training</p></list-item></list>
+</p>
+</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">4</td><td align="center" valign="top" rowspan="1" colspan="1">8</td><td align="center" valign="top" rowspan="1" colspan="1">3/5</td><td align="center" valign="top" rowspan="1" colspan="1">
+<p>
+<list list-type="simple"><list-item><label>▪</label><p>Pacing and activity planning</p></list-item><list-item><label>▪</label><p>Breathing pattern education and retraining</p></list-item><list-item><label>▪</label><p>Strengthening exercises</p></list-item></list>
+</p>
+</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">5</td><td align="center" valign="top" rowspan="1" colspan="1">8</td><td align="center" valign="top" rowspan="1" colspan="1">5/3</td><td align="center" valign="top" rowspan="1" colspan="1">
+<p>
+<list list-type="simple"><list-item><label>▪</label><p>Pacing and activity planning</p></list-item><list-item><label>▪</label><p>Breathing pattern education and retraining</p></list-item><list-item><label>▪</label><p>Cough control strategies</p></list-item><list-item><label>▪</label><p>Cardiorespiratory exercise</p></list-item></list>
+</p>
+</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">6</td><td align="center" valign="top" rowspan="1" colspan="1">8</td><td align="center" valign="top" rowspan="1" colspan="1">6/2</td><td align="center" valign="top" rowspan="1" colspan="1">
+<p>
+<list list-type="simple"><list-item><label>▪</label><p>Pacing and activity planning</p></list-item><list-item><label>▪</label><p>Breathing pattern education and retraining</p></list-item><list-item><label>▪</label><p>Restorative movement</p></list-item></list>
+</p>
+</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">7</td><td align="center" valign="top" rowspan="1" colspan="1">8</td><td align="center" valign="top" rowspan="1" colspan="1">6/2</td><td align="center" valign="top" rowspan="1" colspan="1">
+<p>
+<list list-type="simple"><list-item><label>▪</label><p>Pacing and activity planning</p></list-item><list-item><label>▪</label><p>Breathing pattern education and retraining</p></list-item><list-item><label>▪</label><p>Cough control strategies</p></list-item><list-item><label>▪</label><p>Cardiorespiratory exercises</p></list-item><list-item><label>▪</label><p>Strengthening exercises</p></list-item></list>
+</p>
+</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">8</td><td align="center" valign="top" rowspan="1" colspan="1">8</td><td align="center" valign="top" rowspan="1" colspan="1">6/2</td><td align="center" valign="top" rowspan="1" colspan="1">
+<p>
+<list list-type="simple"><list-item><label>▪</label><p>Pacing and activity planning</p></list-item><list-item><label>▪</label><p>Breathing pattern education and retraining</p></list-item><list-item><label>▪</label><p>Cardiorespiratory exercise</p></list-item><list-item><label>▪</label><p>Strengthening exercises</p></list-item></list>
+</p>
+</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">9</td><td align="center" valign="top" rowspan="1" colspan="1">8</td><td align="center" valign="top" rowspan="1" colspan="1">8/0</td><td align="center" valign="top" rowspan="1" colspan="1">
+<p>
+<list list-type="simple"><list-item><label>▪</label><p>Pacing and activity planning</p></list-item><list-item><label>▪</label><p>Breathing pattern education and retraining</p></list-item><list-item><label>▪</label><p>Cough control strategies</p></list-item><list-item><label>▪</label><p>Cardiorespiratory exercise</p></list-item><list-item><label>▪</label><p>Strengthening exercises</p></list-item></list>
+</p>
+</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">10</td><td align="center" valign="top" rowspan="1" colspan="1">8</td><td align="center" valign="top" rowspan="1" colspan="1">8/0</td><td align="center" valign="top" rowspan="1" colspan="1">
+<p>
+<list list-type="simple"><list-item><label>▪</label><p>Pacing and activity planning</p></list-item><list-item><label>▪</label><p>Breathing pattern education and retraining</p></list-item><list-item><label>▪</label><p>Strengthening exercises</p></list-item></list>
+</p>
+</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">11</td><td align="center" valign="top" rowspan="1" colspan="1">8</td><td align="center" valign="top" rowspan="1" colspan="1">8/0</td><td align="center" valign="top" rowspan="1" colspan="1">
+<p>
+<list list-type="simple"><list-item><label>▪</label><p>Pacing and activity planning</p></list-item><list-item><label>▪</label><p>Breathing pattern education and retraining</p></list-item><list-item><label>▪</label><p>Strengthening exercises</p></list-item><list-item><label>▪</label><p>Cardiorespiratory exercises</p></list-item></list>
+</p>
+</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">12</td><td align="center" valign="top" rowspan="1" colspan="1">8</td><td align="center" valign="top" rowspan="1" colspan="1">7/1</td><td align="center" valign="top" rowspan="1" colspan="1">
+<p>
+<list list-type="simple"><list-item><label>▪</label><p>Pacing and activity planning</p></list-item><list-item><label>▪</label><p>Breathing pattern education and retraining</p></list-item><list-item><label>▪</label><p>Strengthening exercise</p></list-item><list-item><label>▪</label><p>Cardiorespiratory exercise</p></list-item></list>
+</p>
+</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">13</td><td align="center" valign="top" rowspan="1" colspan="1">8</td><td align="center" valign="top" rowspan="1" colspan="1">8/0</td><td align="center" valign="top" rowspan="1" colspan="1">
+<p>
+<list list-type="simple"><list-item><label>▪</label><p>Pacing and activity planning</p></list-item><list-item><label>▪</label><p>Breathing pattern education and retraining</p></list-item><list-item><label>▪</label><p>Cough control strategies</p></list-item><list-item><label>▪</label><p>Strengthening exercises</p></list-item><list-item><label>▪</label><p>Inspiratory muscle training</p></list-item><list-item><label>▪</label><p>Cardiorespiratory exercise</p></list-item></list>
+</p>
+</td></tr></tbody></table><permissions><copyright-holder>John Wiley &amp; Sons, Ltd.</copyright-holder></permissions></table-wrap></sec><sec id="hsr271367-sec-0160"><label>3.3</label><title>Effectiveness of the Intervention</title><p>Table <xref rid="hsr271367-tbl-0003" ref-type="table">3</xref> outlines the statistical comparison between baseline and post‐intervention results. Overall, there were significant improvements in measures of health‐related quality of life (EQ‐5D index and EQ‐VAS), as well as in individual EQ‐5D domains of usual activities, pain/discomfort, and anxiety/depression. Level of functioning (PCFS) and cough severity (VAS) were also improved. Participants' self‐efficacy for managing symptoms improved across all domains. For self‐efficacy to manage daily activities, only confidence to perform household chores improved (<italic toggle="yes">p</italic> = 0.0061). All participants perceived improvements following the program, with the majority (10 of 13) feeling “much” to “very much improved” on the PGIC test. Seven participants completed the 6MWT at both baseline and post‐intervention, and changes were not statistically significant. Increases in 6MWT distance were clinically meaningful (using an MCID of 30 m) in 3/7 participants [<xref rid="hsr271367-bib-0031" ref-type="bibr">31</xref>]. Four participants did 1‐min STST instead of 6MWT; all had an improvement in repetitions (range: 4–20).</p><table-wrap position="float" id="hsr271367-tbl-0003" content-type="Table" orientation="portrait"><label>Table 3</label><caption><p>Comparison of secondary outcome measures at baseline versus post‐intervention (<italic toggle="yes">n</italic> = 13).</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" align="left" span="1"/><col style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" align="center" span="1"/><col style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" align="center" span="1"/><col style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" align="center" span="1"/><col style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" align="center" span="1"/><thead valign="bottom"><tr valign="bottom" style="border-bottom:solid 1px #000000"><th align="left" valign="bottom" rowspan="1" colspan="1">Secondary outcome</th><th align="center" valign="bottom" rowspan="1" colspan="1">Baseline</th><th align="center" valign="bottom" rowspan="1" colspan="1">Post‐intervention</th><th align="center" valign="bottom" rowspan="1" colspan="1">
+<italic toggle="yes">p</italic>‐value</th><th align="center" valign="bottom" rowspan="1" colspan="1">Cohen's <italic toggle="yes">d</italic>
+</th></tr></thead><tbody valign="top"><tr><td align="left" valign="top" rowspan="1" colspan="1">EQ‐5D index</td><td align="center" valign="top" rowspan="1" colspan="1">0.65 (0.23)</td><td align="center" valign="top" rowspan="1" colspan="1">0.81 (0.14)</td><td align="center" valign="top" rowspan="1" colspan="1">
+<bold>0.004</bold>
+</td><td align="center" valign="top" rowspan="1" colspan="1">−0.79</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">EQ mobility</td><td align="center" valign="top" rowspan="1" colspan="1">1.92 (0.76)</td><td align="center" valign="top" rowspan="1" colspan="1">1.62 (0.77)</td><td align="center" valign="top" rowspan="1" colspan="1">0.3033</td><td align="center" valign="top" rowspan="1" colspan="1">0.4</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">EQ self‐care</td><td align="center" valign="top" rowspan="1" colspan="1">1.31 (0.48)</td><td align="center" valign="top" rowspan="1" colspan="1">1.38 (0.51)</td><td align="center" valign="top" rowspan="1" colspan="1">0.5845</td><td align="center" valign="top" rowspan="1" colspan="1">−0.16</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">EQ usual activities</td><td align="center" valign="top" rowspan="1" colspan="1">2.08 (0.76)</td><td align="center" valign="top" rowspan="1" colspan="1">1.08 (0.64)</td><td align="center" valign="top" rowspan="1" colspan="1">
+<bold>0.0003</bold>
+</td><td align="center" valign="top" rowspan="1" colspan="1">1.42</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">EQ pain/discomfort</td><td align="center" valign="top" rowspan="1" colspan="1">2.77 (1.24)</td><td align="center" valign="top" rowspan="1" colspan="1">2 (0.82)</td><td align="center" valign="top" rowspan="1" colspan="1">
+<bold>0.0112</bold>
+</td><td align="center" valign="top" rowspan="1" colspan="1">0.73</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">EQ anxiety/depression</td><td align="center" valign="top" rowspan="1" colspan="1">2.62 (1.12)</td><td align="center" valign="top" rowspan="1" colspan="1">2.23 (0.93)</td><td align="center" valign="top" rowspan="1" colspan="1">0.0544</td><td align="center" valign="top" rowspan="1" colspan="1">0.37</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">EQ‐VAS</td><td align="center" valign="top" rowspan="1" colspan="1">60 (17)</td><td align="center" valign="top" rowspan="1" colspan="1">72 (17)</td><td align="center" valign="top" rowspan="1" colspan="1">
+<bold>0.0003</bold>
+</td><td align="center" valign="top" rowspan="1" colspan="1">−0.71</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Cough VAS</td><td align="center" valign="top" rowspan="1" colspan="1">21 (22)</td><td align="center" valign="top" rowspan="1" colspan="1">11 (11)</td><td align="center" valign="top" rowspan="1" colspan="1">0.06</td><td align="center" valign="top" rowspan="1" colspan="1">0.6</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">PCFS</td><td align="center" valign="top" rowspan="1" colspan="1">2.08 (0.64)</td><td align="center" valign="top" rowspan="1" colspan="1">1.54 (0.88)</td><td align="center" valign="top" rowspan="1" colspan="1">
+<bold>0.0149</bold>
+</td><td align="center" valign="top" rowspan="1" colspan="1">0.7</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Self ADL, household chores</td><td align="center" valign="top" rowspan="1" colspan="1">2.85 (1.14)</td><td align="center" valign="top" rowspan="1" colspan="1">3.54 (1.05)</td><td align="center" valign="top" rowspan="1" colspan="1">
+<bold>0.0061</bold>
+</td><td align="center" valign="top" rowspan="1" colspan="1">−0.63</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Self ADL, shopping/errands</td><td align="center" valign="top" rowspan="1" colspan="1">3.15 (1.07)</td><td align="center" valign="top" rowspan="1" colspan="1">3.46 (1.13)</td><td align="center" valign="top" rowspan="1" colspan="1">0.3033</td><td align="center" valign="top" rowspan="1" colspan="1">−0.28</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Self ADL, ambulating in house</td><td align="center" valign="top" rowspan="1" colspan="1">4.38 (0.96)</td><td align="center" valign="top" rowspan="1" colspan="1">4.31 (1.03)</td><td align="center" valign="top" rowspan="1" colspan="1">0.9375</td><td align="center" valign="top" rowspan="1" colspan="1">0.08</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Self ADL, regular exercise</td><td align="center" valign="top" rowspan="1" colspan="1">2.69 (0.85)</td><td align="center" valign="top" rowspan="1" colspan="1">3 (1.22)</td><td align="center" valign="top" rowspan="1" colspan="1">0.3925</td><td align="center" valign="top" rowspan="1" colspan="1">−0.29</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Self symptoms, managing during usual activities</td><td align="center" valign="top" rowspan="1" colspan="1">2.69 (1.03)</td><td align="center" valign="top" rowspan="1" colspan="1">3.69 (1.03)</td><td align="center" valign="top" rowspan="1" colspan="1">
+<bold>0.0020</bold>
+</td><td align="center" valign="top" rowspan="1" colspan="1">−0.97</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Self symptoms, interfering with friends/family</td><td align="center" valign="top" rowspan="1" colspan="1">2.75 (1.06)</td><td align="center" valign="top" rowspan="1" colspan="1">3.58 (0.99)</td><td align="center" valign="top" rowspan="1" colspan="1">
+<bold>0.0105</bold>
+</td><td align="center" valign="top" rowspan="1" colspan="1">−0.78</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Self symptoms, managing in public</td><td align="center" valign="top" rowspan="1" colspan="1">3.08 (0.64)</td><td align="center" valign="top" rowspan="1" colspan="1">3.69 (0.85)</td><td align="center" valign="top" rowspan="1" colspan="1">
+<bold>0.0136</bold>
+</td><td align="center" valign="top" rowspan="1" colspan="1">−0.81</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Self symptoms, managing with doctor</td><td align="center" valign="top" rowspan="1" colspan="1">3 (0.71)</td><td align="center" valign="top" rowspan="1" colspan="1">3.77 (1.01)</td><td align="center" valign="top" rowspan="1" colspan="1">
+<bold>0.0024</bold>
+</td><td align="center" valign="top" rowspan="1" colspan="1">−0.88</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">6MWT distance (m)<xref rid="hsr271367-tbl3-note-0003" ref-type="table-fn">*</xref>
+</td><td align="center" valign="top" rowspan="1" colspan="1">476 (46)</td><td align="center" valign="top" rowspan="1" colspan="1">506 (47)</td><td align="center" valign="top" rowspan="1" colspan="1">0.2094</td><td align="center" valign="top" rowspan="1" colspan="1"/></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">STS<xref rid="hsr271367-tbl3-note-0004" ref-type="table-fn">**</xref>
+</td><td align="center" valign="top" rowspan="1" colspan="1">26 (12)</td><td align="center" valign="top" rowspan="1" colspan="1">37 (12)</td><td align="center" valign="top" rowspan="1" colspan="1">0.0669</td><td align="center" valign="top" rowspan="1" colspan="1"/></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">PGIC</td><td align="center" valign="top" rowspan="1" colspan="1">—</td><td align="center" valign="top" rowspan="1" colspan="1">1.85 (0.8)</td><td align="center" valign="top" rowspan="1" colspan="1">—</td><td align="center" valign="top" rowspan="1" colspan="1"/></tr></tbody></table><table-wrap-foot><fn id="hsr271367-tbl3-note-0001"><p>
+<italic toggle="yes">Note:</italic> Data are mean (standard deviation). Comparisons were done using paired <italic toggle="yes">t</italic>‐test or Wilcoxon signed‐rank test and effect sizes by Cohen's <italic toggle="yes">d</italic>. EQ‐5D index, EuroQol Group Association five‐domain index. Index has an upper boundary of 1 that indicates full health, whereas 0 represents death. EQ‐VAS scores range from 0, being the worst health imaginable, to 100, being the best health imaginable. Cough VAS scores range from 0, meaning no cough present, to 100, meaning the worst cough imaginable. PCFS scores range from 0 to 4, with a higher score indicating a more severe limitation in everyday life. Self ADL scores range from 1, meaning “I am not at all confident,” to 5, indicating “I am very confident.” Self symptoms scores range from 1, meaning “I am not at all confident,” to 5, indicating “I am very confident.” PGIC scores range from 1 (very much improved) to 7 (very much worse). Bold values are statistical significance (<italic toggle="yes">p</italic>‐value &lt; 0.05).</p></fn><fn id="hsr271367-tbl3-note-0002"><p>Abbreviations: 6MWT, 6‐min walk test; Cough VAS, cough visual analog scale; EQ‐VAS, EuroQol visual analog scale; PCFS, post‐COVID function status; PGIC, patient global impression of change; Self ADL, self‐efficacy for managing various activities of daily living self symptoms, self‐efficacy for managing symptoms in various settings; STS, sit‐to‐stand in 1 min.</p></fn><fn id="hsr271367-tbl3-note-0003"><label>*</label><p>Results available for 7/13 participants.</p></fn><fn id="hsr271367-tbl3-note-0004"><label>**</label><p>Results available for 4 participants who did STS in lieu of 6MWT.</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &amp; Sons, Ltd.</copyright-holder></permissions></table-wrap></sec><sec id="hsr271367-sec-0170"><label>3.4</label><title>Qualitative Results</title><p>Eight participants underwent an interview after the intervention, while the remainder either declined or could not be reached. Based on these 8 individual interviews, 3 themes with 11 subthemes emerged (see Table <xref rid="hsr271367-tbl-0004" ref-type="table">4</xref>): (1) struggles from living with PASC; (2) positive aspects of the program; and (3) benefits of completing the program. The response from participants was overwhelmingly positive, with several stating that this program would be beneficial for others and should be accessible.</p><table-wrap position="float" id="hsr271367-tbl-0004" content-type="Table" orientation="portrait"><label>Table 4</label><caption><p>Qualitative analysis of one‐on‐one interviews.</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" align="left" span="1"/><col style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" align="center" span="1"/><col style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" align="center" span="1"/><thead valign="bottom"><tr valign="bottom" style="border-bottom:solid 1px #000000"><th align="left" valign="bottom" rowspan="1" colspan="1">Themes</th><th align="center" valign="bottom" rowspan="1" colspan="1">Subthemes</th><th align="center" valign="bottom" rowspan="1" colspan="1">Statement example</th></tr></thead><tbody valign="top"><tr><td valign="middle" rowspan="4" align="left" colspan="1">Struggles from living with PASC</td><td align="center" valign="top" rowspan="1" colspan="1">Diagnostic uncertainty</td><td align="center" valign="top" rowspan="1" colspan="1">
+<p>“After that I had debilitating symptoms linger on for quite some time after that. And then just going to doctors. Nobody was able to kind of help. They don't, they didn't know what was going on.” – Participant 1</p>
+<p>“Nobody can tell you what's going on, and you rely on your medical providers like so much.” – Participant 1</p>
+<p>“I had seen multiple doctors, been in and out of emerg, like you name it, and everyone kind of shrugs their shoulders and says we don't know what to do with you. Go home, here's some more pain medication. Just stay home until you feel better, and you can tell me when that would be.” – Participant 6</p>
+</td></tr><tr><td align="center" valign="top" rowspan="1" colspan="1">Difficulty managing symptoms</td><td align="center" valign="top" rowspan="1" colspan="1">
+<p>“I've just been really struggling with like, energy levels and pain and it's been difficult to manage.” – Participant 10</p>
+<p>“I just didn't know how to deal with my symptoms, I didn't know, I didn't know how to make them get better.” – Participant 5</p>
+<p>“I felt very discouraged with my symptoms, and how they were affecting my life, and I didn't know how to resolve them.” – Participant 5</p>
+</td></tr><tr><td align="center" valign="top" rowspan="1" colspan="1">Frustration</td><td align="center" valign="top" rowspan="1" colspan="1">
+<p>“I was able to do this like last year, and now I can't do it, or like I run up the stairs and be out of breath like, that's stupid. Like I should be able to do that.” – Participant 6</p>
+<p>“keeping me from doing things that I would normally do on my daily life. Like going into stores, or going for a bike ride or going for a hike with friends, and not being able to do that, those were the other distressing things.” – Participant 9</p>
+</td></tr><tr><td align="center" valign="top" rowspan="1" colspan="1">Hopelessness</td><td align="center" valign="top" rowspan="1" colspan="1">
+<p>“When they tell you they don't know and you're like, well, what am I supposed to do now?” – Participant 1</p>
+<p>“I was quite emotional because I had experienced crashes and setbacks in terms of my well‐being. And yeah, I, I mean I left feeling emotional because I was expressing so much emotion and feeling quite stuck and frustrated.” – Participant 7</p>
+</td></tr><tr><td valign="middle" rowspan="5" align="left" colspan="1">Positive aspects of the program</td><td align="center" valign="top" rowspan="1" colspan="1">Personalized treatment</td><td align="center" valign="top" rowspan="1" colspan="1">
+<p>“[The physiotherapist] treated me according to what I needed versus just, you know, having a formula.” – Participant 7</p>
+<p>“…we always talked about what happened in those two weeks prior in between this last session, and anything that I wasn't happy with which might need changing. Or if I was happy with them or if I needed, if I wanted to do more, or have more breathing exercises in.” – Participant 12</p>
+</td></tr><tr><td align="center" valign="top" rowspan="1" colspan="1">Physical touch</td><td align="center" valign="top" rowspan="1" colspan="1">
+<p>“It was definitely a lot more hands on, so it was easier to like, learn the stretches properly and the movement properly.” – Participant 11</p>
+<p>“I actually found like the hands‐on stuff was actually really good. So like she would always say like, can I touch your shoulder, or can I touch your belly, or whatever. But that was actually, I actually found the most value from when she, physically like, put her hands on me, showed me you know what, what muscle I should be using, or how I should change my posture, or whatever, so like, to, to me that was actually maybe some of the most valuable things, is when she was physically like touching me.” – Participant 5</p>
+<p>“…and then also the quality of touch. When she was trying to help me with my breathing patterns. So, you know, like being able to actually put her hand on me and, and measure my breath, and also being able to observe how I was breathing.” – Participant 7</p>
+</td></tr><tr><td align="center" valign="top" rowspan="1" colspan="1">Activity tracker/monitor (Garmin watch)</td><td align="center" valign="top" rowspan="1" colspan="1">
+<p>“It gives me like, when do I need to slow down and like so awareness of pacing and so that was that was really handy you know.” – Participant 11</p>
+<p>“Like even for myself, I found that, might be like, walking like I initially I wouldn't feel the pain in my chest or the out of breath. But my, the heart monitor would say abnormal heart rate, take a break. So that I found really helped. Whereas before if I didn't have that, I would have continued my walk, or do whatever task I was doing and then when I would be done…” – Participant 1</p>
+<p>“I like when I go for a walk or doing any activity, and then the heart rate monitor would say abnormal heart rate, that would really kind of trigger, trigger and tell me that okay, you need to take a break and take a pause and don't rush kind of thing to make things worse. So yeah, that helped.” – Participant 1</p>
+</td></tr><tr><td align="center" valign="top" rowspan="1" colspan="1">Flexible scheduling</td><td align="center" valign="top" rowspan="1" colspan="1">
+<p>“Spacing the sessions out allowed time for like the base information on the first couple of sessions close together was very beneficial. But then spacing them out later you know, allowed me time to heal and benefit from them.” – Participant 8</p>
+<p>“October to February, to have my full 8 sessions, and I thought they were good. It gave me the opportunity to end more time to actually focus on the previousing techniques that she was teaching me. And so I, I feel like every time that I went to a session, or had a session I had more improvement at each one, because there was a length of time between.” – Participant 9</p>
+</td></tr><tr><td align="center" valign="top" rowspan="1" colspan="1">Hybrid model of delivery</td><td align="center" valign="top" rowspan="1" colspan="1">
+<p>“The Zoom sessions were like they're kind of convenient right, cause you don't have to drive anywhere…” – Participant 5</p>
+<p>“she could see, just by looking at your body language. So I think actually in person is more important than virtual really, because then she can actually assess you as you're doing things.” – Participant 12</p>
+</td></tr><tr><td valign="middle" rowspan="3" align="left" colspan="1">Benefits of completing the program</td><td align="center" valign="top" rowspan="1" colspan="1">Confidence</td><td align="center" valign="top" rowspan="1" colspan="1">
+<p>“My confidence at the end of the study is dramatically more than it was before.” – Participant 5</p>
+<p>“I gained a lot of confidence in my ability to yeah, deal with how I'm doing.” – Participant 8</p>
+<p>“There is a large time when I was, you know, basically scared to do anything because I didn't know how it was gonna work, and how I was gonna react. Now I feel like I can plan with some effectiveness, doing the things that I wanna do or need to do, and have, have a path forward.” – Participant 8</p>
+</td></tr><tr><td align="center" valign="top" rowspan="1" colspan="1">Management strategies</td><td align="center" valign="top" rowspan="1" colspan="1">
+<p>“You're confident for managing your symptoms. Like the how did the, what I learned like. Or like the pacing.” – Participant 11</p>
+<p>“I think doing the breathing exercises and all that I did learn that it was manageable. So yeah, and even the fatigue, learning how to pace myself and not overexert. And now how easy it so I just kind of manage it sometimes and I'm, I guess I'm fortunate right now that I'm on a leave for work so I'm able to kind of do that.” – Participant 1</p>
+<p>“…at the end of the study I still do have the symptoms, but I know how to resolve them…” – Participant 5</p>
+</td></tr><tr><td align="center" valign="top" rowspan="1" colspan="1">Mental health benefit</td><td align="center" valign="top" rowspan="1" colspan="1">
+<p>“my mental health is in a much better place as well.” – Participant 1</p>
+<p>“It improved my outlook, and pretty much changed things for the positive for me.” – Participant 7</p>
+<p>“It impacted me in a very positive way. I come out of it like, in a way better position than I did going in.” – Participant 9</p>
+<p>“(The physiotherapist) was a little bit of physiotherapist slash therapist for me to be honest…” – Participant 1</p>
+</td></tr></tbody></table><permissions><copyright-holder>John Wiley &amp; Sons, Ltd.</copyright-holder></permissions></table-wrap><sec id="hsr271367-sec-0180"><label>3.4.1</label><title>Struggles From Living With PASC</title><p>Subthemes found were: (1) diagnostic uncertainty, (2) difficulty managing symptoms, (3) frustration, and (4) hopelessness. We found that subthemes (1) and (4) were intricately related to each other. Many participants experienced diagnostic uncertainty regarding their PASC symptoms as they presented with chronic, debilitating symptoms in the context of normal cardiopulmonary testing. This highlighted a dilemma that was twofold – both on the part of the clinician attempting to make a unifying diagnosis in the face of normal objective testing, and on the part of the participant not receiving a diagnosis to explain their myriad of symptoms. A lack of abnormalities in standard testing creates an additional barrier for participants seeking care, because these test results are often used as entry criteria for rehabilitation programs.</p><p>We also found that subthemes (2) and (3) were closely related. Given that many participants were unable to access the specialized care they needed, they continued to struggle with chronic symptoms that impacted their daily functioning and health‐related quality of life. An inability to perform everyday tasks at their previous level of functioning led to frustration, which also negatively impacted their mental health. This vicious cycle, evident in several interviews, led to a sense of hopelessness with present circumstances.</p></sec><sec id="hsr271367-sec-0190"><label>3.4.2</label><title>Positive Aspects of the Program</title><p>Five subthemes captured participants' perspectives of the physiotherapy program, mainly highlighting the strengths of the intervention. The subthemes were: (1) personalized treatment, (2) physical touch, (3) use of an activity tracker/monitor (Garmin), (4) flexible scheduling, and (5) hybrid model of delivery.</p><p>The benefit of having personalized treatment was expressed by multiple participants. Having physiotherapy that was tailored to participants' individual needs allowed participants to focus their efforts in areas that were causing their specific physical symptoms (dysfunctional breathing, issues with pacing, etc.). Another subtheme was the aspect of physical touch, which many participants found beneficial when comparing the in‐person sessions compared to the virtual sessions. Many participants found that the quality of physical touch delivered by a physiotherapist not only helped them understand how to better perform certain exercises, but also localized many areas that were implicated in patterns of dysfunctional breathing or posture that may have been exacerbating their symptoms.</p><p>Many participants also found the use of an activity tracker/monitor (Garmin watch) to be helpful in making progress. More specifically, participants found that having an activity monitor that provided real‐time feedback about their heart rate allowed them to pace themselves more effectively. The monitors also provided objective correlates to participants' symptoms, which they did not previously have available. This in turn allowed them to adjust their activity levels to avoid symptom exacerbation, which allowed many participants to increase their perceived endurance and activity tolerance.</p><p>The scheduling of the weekly sessions was flexible based on participant availability. Many participants stated that this allowed them to complete all the sessions at their desired pace. The hybrid of in‐person with virtual video sessions allowed for flexibility in scheduling and reduced the burden of traveling to sessions, which was significant for some participants with high symptom burden.</p></sec><sec id="hsr271367-sec-0200"><label>3.4.3</label><title>Benefits of Completing the Program</title><p>Three major subthemes captured participants' perspectives after receiving the physiotherapy intervention: (1) confidence, (2) self‐management strategies, and (3) mental health benefits.</p><p>Many participants found the intervention endowed them with confidence and skills to help manage their symptoms. These skills often included pacing strategies and breathing techniques. Post‐intervention, participants found that these management strategies continued to help them improve their everyday functioning, which subsequently also led to increased confidence.</p><p>Many participants also found that following completion, they perceived an overall benefit to their mental health. This was potentially related to both improvement in their physical symptoms, as well as their newfound confidence and control over how they manage and cope with their symptoms. This theme was a stark contrast to perspectives before the intervention, where the predominant subthemes among participants were frustration and hopelessness.</p></sec></sec></sec><sec sec-type="discussion" id="hsr271367-sec-0210"><label>4</label><title>Discussion</title><p>This study demonstrates that implementing an individualized respiratory physiotherapy program for persons with PASC and persistent dyspnea was feasible. Furthermore, significant improvements were observed in secondary endpoints, namely health‐related quality of life and daily functioning. In support of our findings are numerous small trials that involved inspiratory muscle and exercise training, leading to significant improvements in breathlessness following COVID‐19 [<xref rid="hsr271367-bib-0015" ref-type="bibr">15</xref>, <xref rid="hsr271367-bib-0032" ref-type="bibr">32</xref>]. The results from the RECOVE trial found more significant improvements in muscle strength and PROMs within the group who underwent exercise training plus inspiratory muscle training compared to those who had self‐management recommendations [<xref rid="hsr271367-bib-0014" ref-type="bibr">14</xref>]. Two recently published systematic reviews and meta‐analyses also concluded that pulmonary rehabilitation improves dyspnea, quality of life, physical function, and depressive symptoms in individuals with PASC [<xref rid="hsr271367-bib-0033" ref-type="bibr">33</xref>, <xref rid="hsr271367-bib-0034" ref-type="bibr">34</xref>].</p><p>While this study found statistically significant improvements in health‐related quality of life measures, the clinical relevance is difficult to discern in the absence of validated MCIDs among those with PASC. Del Corral et al. sought to determine the MCID for the EQ‐5D index and EQ‐VAS among individuals with PASC and found that an improvement of at least 7.5 in EQ‐VAS had acceptable discriminative ability for individuals who had improvements following a respiratory muscle training program [<xref rid="hsr271367-bib-0035" ref-type="bibr">35</xref>]. By this measure, 8 of our 13 participants exceeded this MCID in their EQ‐VAS; however, it is important to note that this MCID has not been externally validated to date. Among our study population, there was a moderate effect size observed in the differences in EQ‐5D index, EQ‐VAS, and PCFS.</p><p>There were excellent retention and completion rates during this study, and the qualitative analysis was invaluable for determining contributing factors as well as affirming the clinical benefit that coincided with statistically significant improvements in PROMs. We noted that several participants valued the flexibility in scheduling their sessions as well as the hybrid delivery of in‐person and virtual sessions. While all participants took more than 8 weeks to complete the program, this allowed more time to practice home exercises in between sessions, and the flexible scheduling facilitated completion of all sessions. Although telerehabilitation offers convenience, some participants in our study highlighted that in‐person sessions were more useful than virtual sessions. Many participants placed importance on having a therapist face‐to‐face to perform hands‐on assessments and demonstrations. A systematic review done by Martinez‐Pozas and colleagues found that both delivery modes improved outcomes; however, the in‐person format led to more significant improvement in the physical domain of quality of life compared to the telerehabilitation format [<xref rid="hsr271367-bib-0030" ref-type="bibr">30</xref>]. A subsequent review and network meta‐analysis found that there were greater improvements in physical function and physical and mental quality of life with the in‐person format compared to telerehabilitation [<xref rid="hsr271367-bib-0036" ref-type="bibr">36</xref>]. The mode of delivery may need to be individualized, with an option for hybrid models if possible.</p><p>Before receiving the intervention, participants experienced significant frustration and hopelessness related to diagnostic uncertainty and difficulty with managing symptoms. After the intervention, participants gained confidence related to the physical symptom management strategies they acquired from physiotherapy, which in turn led to mental health benefits. The impact described by participants is corroborated by the significant improvements in numerous outcome measures, including the PCFS and self‐efficacy scores for managing symptoms in various settings (the latter demonstrating a large effect size in all domains).</p><p>Our study is unique in that the cohort consisted only of those without pulmonary impairment detected on conventional testing. There are several potential contributors to unexplained dyspnea and exercise capacity in this population. A common mechanism is BPD following COVID‐19, which can have a prevalence as high as 21%–30% among those with PASC [<xref rid="hsr271367-bib-0037" ref-type="bibr">37</xref>, <xref rid="hsr271367-bib-0038" ref-type="bibr">38</xref>]. As such, it is pivotal for physiotherapy programs to include dedicated breathing retraining exercises. This population can also suffer from autonomic dysfunction and PEM, which our program took into consideration when planning rehabilitation strategies. In addition, frailty because of COVID‐19 and/or hospitalization can compound symptoms. The terms “tailored” and “individualized” are loosely defined as they apply to studies of physiotherapy programs, as many are referring to the tailoring of pacing and intensity. However, the program within this study individualized the components of the intervention as well as the intensity and schedule, as it is unlikely to find a “one‐size‐fits‐all” solution for those with PASC.</p><p>There are several limitations to note in this small pilot study. The primary goal was to assess feasibility, and due to the lack of a control group to account for confounders, data showing improvements must be interpreted with caution. The impact of time alone cannot be ruled out; however, based on the long interim between initial infection and enrollment for most participants (ranging from 14 to 57 months), it is reasonable to suggest that benefits were derived from the relatively brief physiotherapy program. Additionally, the sample size was small, limiting the ability to detect more subtle differences within our study population. Larger studies are needed to determine if there is an impact on outcomes like 6MWD. Selection bias is also a possibility as the population in the study was identified from specialty clinics and may limit the generalizability to those receiving care in primary care settings. It is also important to note that confirmatory testing for COVID‐19 may no longer be as easily accessed as it was during the pandemic, and thus, our study's inclusion criteria of requiring a prior positive PCR test could exclude a relevant patient population. Nonresponse bias is also possible, given that some participants did not undergo interviews for the qualitative analysis, potentially skewing these results to appear more favorable towards the intervention. Finally, the sustainability of these improvements is unclear. Future studies should aim to incorporate longer‐term follow‐up to determine the duration of any impact.</p><p>The results of this pilot feasibility study suggest that more rigorous and powered studies are warranted to determine whether this novel approach to managing PASC could be beneficial and scalable to larger populations. This intervention was able to be implemented in an outpatient setting with minimal resources and was found to be safe and beneficial for participants. Based on our qualitative results, the authors support a personalized approach to dyspnea management, a blend of in‐person and virtual sessions, and the use of activity trackers to assist patients with pacing and exercises when designing future physiotherapy programs for individuals with PASC suffering from respiratory symptoms.</p><sec id="hsr271367-sec-0220"><label>4.1</label><title>Implications for Physiotherapy Practice</title><p>This study demonstrates that an individualized physiotherapy program for persons with PASC is feasible, beneficial for symptom burden, and improves health‐related quality of life and daily functioning. The physiotherapy intervention was able to be implemented with minimal resources in an outpatient setting as a blend of in‐person and virtual sessions, which could be scalable to a larger population. As COVID‐19 continues to show seasonal resurgence, there will likely be a continuous population of individuals afflicted with PASC. Given that there are currently no approved treatments for PASC, implementing individualized physiotherapy programs that focus on education/self‐management strategies, breathing retraining, and return‐to‐activity exercise programming would likely be beneficial for this population.</p></sec></sec><sec id="hsr271367-sec-0230"><title>Author Contributions</title><p>
+<bold>Marcus Lo:</bold> investigation, writing – original draft, writing – review and editing, software, formal analysis. <bold>Lauren Eiriksson:</bold> investigation, writing – review and editing, data curation. <bold>Simone Hunter:</bold> data curation, writing – review and editing. <bold>Rosie Twomey:</bold> writing – review and editing, data curation. <bold>Kate Skolnik:</bold> writing – review and editing, conceptualization, methodology. <bold>Joel Chen:</bold> conceptualization, writing – review and editing, methodology. <bold>Elnaz Ehteshami Afshar:</bold> conceptualization, writing – review and editing, methodology. <bold>Jason Weatherald:</bold> conceptualization, writing – review and editing, methodology. <bold>Rachel K. Lim:</bold> conceptualization, investigation, funding acquisition, writing – original draft, writing – review and editing, methodology, validation, visualization, project administration, supervision, resources, software. All authors have read and approved the final version of the manuscript.</p></sec><sec id="hsr271367-sec-0250"><title>Ethics Statement</title><p>This study protocol was reviewed and approved by the Conjoint Health Research Ethics Board at the University of Calgary, approval number REB21‐0767.</p></sec><sec id="hsr271367-sec-0260"><title>Consent</title><p>Written informed consent was obtained from participants to participate in the study.</p></sec><sec sec-type="COI-statement" id="hsr271367-sec-0270"><title>Conflicts of Interest</title><p>The authors declare no conflicts of interest.</p></sec><sec id="hsr271367-sec-0300"><title>Transparency Statement</title><p>The lead author, Rachel K. Lim, affirms that this manuscript is an honest, accurate, and transparent account of the study being reported; that no important aspects of the study have been omitted; and that any discrepancies from the study as planned (and, if relevant, registered) have been explained.</p></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material id="hsr271367-suppl-0001" position="float" content-type="local-data" orientation="portrait"><caption><p>POETIC‐Qualitative Interview Draft.</p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="HSR2-8-e71367-s001.docx" position="float" orientation="portrait"/></supplementary-material></sec></body><back><ack id="hsr271367-sec-0240"><title>Acknowledgments</title><p>This study was supported by a Respiratory Health – Medicine SCN Research and Innovation Seed Grant provided by the Medicine Strategic Clinical Network, Alberta Health Services (Grant Number: RES0052429). The funder had no role in the design, data collection, data analysis, and reporting of this study.</p></ack><sec sec-type="data-availability" id="hsr271367-sec-0290"><title>Data Availability Statement</title><p>The data that supports the findings of this study are available in the supplementary material of this article. R.K.L. had full access to all of the data in this study and takes complete responsibility for the integrity of the data and the accuracy of the data analysis.</p></sec><ref-list content-type="cited-references" id="hsr271367-bibl-0001"><title>References</title><ref id="hsr271367-bib-0001"><label>1</label><mixed-citation publication-type="miscellaneous" id="hsr271367-cit-0001">Coronavirus Disease (COVID‐19): Post COVID‐19 Condition [Internet] (World Health Organization, <year>2023</year>), <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.who.int/news-room/questions-and-answers/item/coronavirus-disease-(covid-19)-post-covid-19-condition#:%E2%88%BC:text=" ext-link-type="uri">https://www.who.int/news-room/questions-and-answers/item/coronavirus-disease-(covid-19)-post-covid-19-condition#:∼:text=</ext-link>.</mixed-citation></ref><ref id="hsr271367-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="hsr271367-cit-0002">
+<string-name name-style="western">
+<given-names>H. E.</given-names>
+<surname>Davis</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L.</given-names>
+<surname>McCorkell</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J. M.</given-names>
+<surname>Vogel</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>E. J.</given-names>
+<surname>Topol</surname>
+</string-name>, “<article-title>Long COVID: Major Findings, Mechanisms and Recommendations</article-title>,” <source>Nature Reviews Microbiology</source>
+<volume>21</volume>, no. <issue>3</issue> (<year>2023</year>): <fpage>133</fpage>–<lpage>146</lpage>.<pub-id pub-id-type="pmid">36639608</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41579-022-00846-2</pub-id><pub-id pub-id-type="pmcid">PMC9839201</pub-id></mixed-citation></ref><ref id="hsr271367-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="hsr271367-cit-0003">
+<string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Montani</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Savale</surname>
+</string-name>, <string-name name-style="western">
+<given-names>N.</given-names>
+<surname>Noel</surname>
+</string-name>, et al., “<article-title>Post‐Acute COVID‐19 Syndrome</article-title>,” <source>European Respiratory Review</source>
+<volume>31</volume>, no. <issue>163</issue> (March <year>2022</year>): <elocation-id>210185</elocation-id>, <pub-id pub-id-type="doi">10.1183/16000617.0185-2021</pub-id>.<pub-id pub-id-type="pmid">35264409</pub-id>
+<pub-id pub-id-type="pmcid">PMC8924706</pub-id></mixed-citation></ref><ref id="hsr271367-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="hsr271367-cit-0004">
+<string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Huang</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Huang</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Wang</surname>
+</string-name>, et al., “<article-title>6‐Month Consequences of COVID‐19 in Patients Discharged From Hospital: A Cohort Study</article-title>,” <source>Lancet</source>
+<volume>401</volume>, no. <issue>10393</issue> (June <year>2023</year>): <fpage>e21</fpage>–<lpage>e33</lpage>.<pub-id pub-id-type="pmid">37321233</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/S0140-6736(23)00810-3</pub-id><pub-id pub-id-type="pmcid">PMC10258565</pub-id></mixed-citation></ref><ref id="hsr271367-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="hsr271367-cit-0005">
+<string-name name-style="western">
+<given-names>X.</given-names>
+<surname>Mo</surname>
+</string-name>, <string-name name-style="western">
+<given-names>W.</given-names>
+<surname>Jian</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Z.</given-names>
+<surname>Su</surname>
+</string-name>, et al., “<article-title>Abnormal Pulmonary Function in COVID‐19 Patients at Time of Hospital Discharge</article-title>,” <source>European Respiratory Journal</source>
+<volume>55</volume>, no. <issue>6</issue> (<year>2020</year>): <elocation-id>2001217</elocation-id>.<pub-id pub-id-type="pmid">32381497</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1183/13993003.01217-2020</pub-id><pub-id pub-id-type="pmcid">PMC7236826</pub-id></mixed-citation></ref><ref id="hsr271367-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="hsr271367-cit-0006">
+<string-name name-style="western">
+<given-names>J. S.</given-names>
+<surname>Grewal</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Carlsten</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J. C.</given-names>
+<surname>Johnston</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A. S.</given-names>
+<surname>Shah</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A. W.</given-names>
+<surname>Wong</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>C. J.</given-names>
+<surname>Ryerson</surname>
+</string-name>, “<article-title>Post‐COVID Dyspnea: Prevalence, Predictors, and Outcomes in a Longitudinal, Prospective Cohort</article-title>,” <source>BMC Pulmonary Medicine</source>
+<volume>23</volume>, no. <issue>1</issue> (March <year>2023</year>): <fpage>84</fpage>.<pub-id pub-id-type="pmid">36907855</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1186/s12890-023-02376-w</pub-id><pub-id pub-id-type="pmcid">PMC10008721</pub-id></mixed-citation></ref><ref id="hsr271367-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="hsr271367-cit-0007">
+<string-name name-style="western">
+<given-names>R. I.</given-names>
+<surname>Beaudry</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A. R.</given-names>
+<surname>Brotto</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R. A.</given-names>
+<surname>Varughese</surname>
+</string-name>, et al., “<article-title>Persistent Dyspnea After COVID‐19 Is Not Related to Cardiopulmonary Impairment; a Cross‐Sectional Study of Persistently Dyspneic COVID‐19, Non‐Dyspneic COVID‐19 and Controls</article-title>,” <source>Frontiers in Physiology</source>
+<volume>13</volume> (<year>2022</year>): <elocation-id>917886</elocation-id>.<pub-id pub-id-type="pmid">35874528</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3389/fphys.2022.917886</pub-id><pub-id pub-id-type="pmcid">PMC9297912</pub-id></mixed-citation></ref><ref id="hsr271367-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="hsr271367-cit-0008">
+<string-name name-style="western">
+<given-names>E.</given-names>
+<surname>Daynes</surname>
+</string-name>, <string-name name-style="western">
+<given-names>G.</given-names>
+<surname>Mills</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J. H.</given-names>
+<surname>Hull</surname>
+</string-name>, et al., “<article-title>Pulmonary Rehabilitation for People With Persistent Symptoms After COVID‐19</article-title>,” <source>Chest</source>
+<volume>166</volume>, no. <issue>3</issue> (September <year>2024</year>): <fpage>461</fpage>–<lpage>471</lpage>.<pub-id pub-id-type="pmid">38246521</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.chest.2024.01.029</pub-id></mixed-citation></ref><ref id="hsr271367-bib-0009"><label>9</label><mixed-citation publication-type="miscellaneous" id="hsr271367-cit-0009">Therapeutics and COVID‐19: Living Guideline (World Health Organization, <year>2023</year>), <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.who.int/publications/i/item/WHO-2019-nCoV-therapeutics-2023.2" ext-link-type="uri">https://www.who.int/publications/i/item/WHO-2019-nCoV-therapeutics-2023.2</ext-link>.<pub-id pub-id-type="pmid">35917393</pub-id></mixed-citation></ref><ref id="hsr271367-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="hsr271367-cit-0010">
+<string-name name-style="western">
+<given-names>T.</given-names>
+<surname>Greenhalgh</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Knight</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C.</given-names>
+<surname>A'Court</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Buxton</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Husain</surname>
+</string-name>, “<article-title>Management of Post‐Acute Covid‐19 in Primary Care</article-title>,” <source>BMJ (Clinical Research ed.)</source>
+<volume>370</volume> (<year>2020</year>): <elocation-id>3026</elocation-id>, <pub-id pub-id-type="doi">10.1136/bmj.m3026</pub-id>.<pub-id pub-id-type="pmid">32784198</pub-id></mixed-citation></ref><ref id="hsr271367-bib-0011"><label>11</label><mixed-citation publication-type="miscellaneous" id="hsr271367-cit-0011">
+<collab collab-type="authors">NICE Guidelines</collab>
+, COVID‐19 Rapid Guideline: Managing the Long‐Term Effects of COVID‐19 (NICE Guidelines, 2020), <fpage>1</fpage>–<lpage>35</lpage>.</mixed-citation></ref><ref id="hsr271367-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="hsr271367-cit-0012">
+<string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Sisó‐Almirall</surname>
+</string-name>, <string-name name-style="western">
+<given-names>P.</given-names>
+<surname>Brito‐Zerón</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Conangla Ferrín</surname>
+</string-name>, et al., “<article-title>Long Covid‐19: Proposed Primary Care Clinical Guidelines for Diagnosis and Disease Management</article-title>,” <source>International Journal of Environmental Research and Public Health</source>
+<volume>18</volume>, no. <issue>8</issue> (April <year>2021</year>): <elocation-id>4350</elocation-id>, <pub-id pub-id-type="doi">10.3390/ijerph18084350</pub-id>.<pub-id pub-id-type="pmid">33923972</pub-id>
+<pub-id pub-id-type="pmcid">PMC8073248</pub-id></mixed-citation></ref><ref id="hsr271367-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="hsr271367-cit-0013">
+<string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Funke‐Chambour</surname>
+</string-name>, <string-name name-style="western">
+<given-names>P.‐O.</given-names>
+<surname>Bridevaux</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C. F.</given-names>
+<surname>Clarenbach</surname>
+</string-name>, <string-name name-style="western">
+<given-names>P. M.</given-names>
+<surname>Soccal</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L. P.</given-names>
+<surname>Nicod</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>C.</given-names>
+<surname>von Garnier</surname>
+</string-name>, “<article-title>Swiss Recommendations for the Follow‐Up and Treatment of Pulmonary Long COVID</article-title>,” <source>Respiration</source>
+<volume>100</volume>, no. <issue>8</issue> (<year>2021</year>): <fpage>826</fpage>–<lpage>841</lpage>.<pub-id pub-id-type="pmid">34091456</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1159/000517255</pub-id><pub-id pub-id-type="pmcid">PMC8339046</pub-id></mixed-citation></ref><ref id="hsr271367-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="hsr271367-cit-0014">
+<string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Jimeno‐Almazán</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Á.</given-names>
+<surname>Buendía‐Romero</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Martínez‐Cava</surname>
+</string-name>, et al., “<article-title>Effects of a Concurrent Training, Respiratory Muscle Exercise, and Self‐Management Recommendations on Recovery From Post‐COVID‐19 Conditions: The RECOVE Trial</article-title>,” <source>Journal of Applied Physiology</source>
+<volume>134</volume>, no. <issue>1</issue> (January <year>2023</year>): <fpage>95</fpage>–<lpage>104</lpage>.<pub-id pub-id-type="pmid">36476156</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1152/japplphysiol.00489.2022</pub-id><pub-id pub-id-type="pmcid">PMC9829459</pub-id></mixed-citation></ref><ref id="hsr271367-bib-0015"><label>15</label><mixed-citation publication-type="journal" id="hsr271367-cit-0015">
+<string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Romanet</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Wormser</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Fels</surname>
+</string-name>, et al., “<article-title>Effectiveness of Exercise Training on the Dyspnoea of Individuals With Long COVID: A Randomised Controlled Multicentre Trial</article-title>,” <source>Annals of Physical and Rehabilitation Medicine</source>
+<volume>66</volume>, no. <issue>5</issue> (<year>2023</year>): <elocation-id>101765</elocation-id>, <pub-id pub-id-type="doi">10.1016/j.rehab.2023.101765</pub-id>.<pub-id pub-id-type="pmid">37271020</pub-id>
+<pub-id pub-id-type="pmcid">PMC10237688</pub-id></mixed-citation></ref><ref id="hsr271367-bib-0016"><label>16</label><mixed-citation publication-type="journal" id="hsr271367-cit-0016">
+<string-name name-style="western">
+<given-names>T.</given-names>
+<surname>Hasenoehrl</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Palma</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D. F.‐X.</given-names>
+<surname>Huber</surname>
+</string-name>, et al., “<article-title>Post‐COVID: Effects of Physical Exercise on Functional Status and Work Ability in Health Care Personnel</article-title>,” <source>Disability and Rehabilitation</source>
+<volume>45</volume>, no. <issue>18</issue> (<year>2023</year>): <fpage>2872</fpage>–<lpage>2878</lpage>.<pub-id pub-id-type="pmid">35980383</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1080/09638288.2022.2111467</pub-id></mixed-citation></ref><ref id="hsr271367-bib-0017"><label>17</label><mixed-citation publication-type="journal" id="hsr271367-cit-0017">
+<string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Michalas</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Katsaras</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Spetsioti</surname>
+</string-name>, et al., “<article-title>The Effect of Physiotherapy on Dyspnea, Muscle Strength and Functional Status in Patients With Long COVID Syndrome</article-title>,” <source>Journal of Personalized Medicine</source>
+<volume>14</volume>, no. <issue>5</issue> (<year>2024</year>): <elocation-id>515</elocation-id>, <pub-id pub-id-type="doi">10.3390/jpm14050515</pub-id>.<pub-id pub-id-type="pmid">38793097</pub-id>
+<pub-id pub-id-type="pmcid">PMC11121916</pub-id></mixed-citation></ref><ref id="hsr271367-bib-0018"><label>18</label><mixed-citation publication-type="journal" id="hsr271367-cit-0018">
+<string-name name-style="western">
+<given-names>S. A.</given-names>
+<surname>Julious</surname>
+</string-name>, “<article-title>Sample Size of 12 Per Group Rule of Thumb for a Pilot Study</article-title>,” <source>Pharmaceutical Statistics</source>
+<volume>4</volume>, no. <issue>4</issue> (<year>2005</year>): <fpage>287</fpage>–<lpage>291</lpage>.</mixed-citation></ref><ref id="hsr271367-bib-0019"><label>19</label><mixed-citation publication-type="journal" id="hsr271367-cit-0019">
+<string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Stanojevic</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D. A.</given-names>
+<surname>Kaminsky</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M. R.</given-names>
+<surname>Miller</surname>
+</string-name>, et al., “<article-title>ERS/ATS Technical Standard on Interpretive Strategies for Routine Lung Function Tests</article-title>,” <source>European Respiratory Journal</source>
+<volume>60</volume>, no. <issue>1</issue> (July <year>2022</year>): <elocation-id>2101499</elocation-id>.<pub-id pub-id-type="pmid">34949706</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1183/13993003.01499-2021</pub-id></mixed-citation></ref><ref id="hsr271367-bib-0020"><label>20</label><mixed-citation publication-type="journal" id="hsr271367-cit-0020">
+<string-name name-style="western">
+<given-names>F. A.</given-names>
+<surname>Klok</surname>
+</string-name>, <string-name name-style="western">
+<given-names>G. J. A. M.</given-names>
+<surname>Boon</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Barco</surname>
+</string-name>, et al., “<article-title>The Post‐COVID‐19 Functional Status Scale: A Tool to Measure Functional Status Over Time After COVID‐19</article-title>,” <source>European Respiratory Journal</source>
+<volume>56</volume>, no. <issue>1</issue> (July <year>2020</year>): <elocation-id>2001494</elocation-id>, <pub-id pub-id-type="doi">10.1183/13993003.01494-2020</pub-id>.<pub-id pub-id-type="pmid">32398306</pub-id>
+<pub-id pub-id-type="pmcid">PMC7236834</pub-id></mixed-citation></ref><ref id="hsr271367-bib-0021"><label>21</label><mixed-citation publication-type="journal" id="hsr271367-cit-0021">
+<string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Cotler</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Holtzman</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Dudun</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>L. A.</given-names>
+<surname>Jason</surname>
+</string-name>, “<article-title>A Brief Questionnaire to Assess Post‐Exertional Malaise</article-title>,” <source>Diagnostics</source>
+<volume>8</volume>, no. <issue>3</issue> (September <year>2018</year>): <elocation-id>66</elocation-id>, <pub-id pub-id-type="doi">10.3390/diagnostics8030066</pub-id>.<pub-id pub-id-type="pmid">30208578</pub-id>
+<pub-id pub-id-type="pmcid">PMC6165517</pub-id></mixed-citation></ref><ref id="hsr271367-bib-0022"><label>22</label><mixed-citation publication-type="journal" id="hsr271367-cit-0022">
+<string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Rabin</surname>
+</string-name> and <string-name name-style="western">
+<given-names>F.</given-names>
+<surname>Charro</surname>
+</string-name>, “<article-title>EQ‐SD: A Measure of Health Status From the EuroQol Group</article-title>,” <source>Annals of Medicine</source>
+<volume>33</volume>, no. <issue>5</issue> (July <year>2001</year>): <fpage>337</fpage>–<lpage>343</lpage>.<pub-id pub-id-type="pmid">11491192</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3109/07853890109002087</pub-id></mixed-citation></ref><ref id="hsr271367-bib-0023"><label>23</label><mixed-citation publication-type="journal" id="hsr271367-cit-0023">
+<string-name name-style="western">
+<given-names>A. L.</given-names>
+<surname>Gruber‐Baldini</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Velozo</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Romero</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>L. M.</given-names>
+<surname>Shulman</surname>
+</string-name>, “<article-title>Validation of the PROMIS Measures of Self‐Efficacy for Managing Chronic Conditions</article-title>,” <source>Quality of Life Research</source>
+<volume>26</volume>, no. <issue>7</issue> (July <year>2017</year>): <fpage>1915</fpage>–<lpage>1924</lpage>.<pub-id pub-id-type="pmid">28239781</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s11136-017-1527-3</pub-id><pub-id pub-id-type="pmcid">PMC5479750</pub-id></mixed-citation></ref><ref id="hsr271367-bib-0024"><label>24</label><mixed-citation publication-type="journal" id="hsr271367-cit-0024">
+<string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Hurst</surname>
+</string-name> and <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Bolton</surname>
+</string-name>, “<article-title>Assessing the Clinical Significance of Change Scores Recorded on Subjective Outcome Measures</article-title>,” <source>Journal of Manipulative and Physiological Therapeutics</source>
+<volume>27</volume>, no. <issue>1</issue> (January <year>2004</year>): <fpage>26</fpage>–<lpage>35</lpage>.<pub-id pub-id-type="pmid">14739871</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.jmpt.2003.11.003</pub-id></mixed-citation></ref><ref id="hsr271367-bib-0025"><label>25</label><mixed-citation publication-type="journal" id="hsr271367-cit-0025">
+<article-title>ATS Statement: Guidelines for the Six‐Minute Walk Test</article-title>,” <source>American Journal of Respiratory and Critical Care Medicine</source>
+<volume>166</volume>, no. <issue>1</issue> (July <year>2002</year>): <fpage>111</fpage>–<lpage>117</lpage>.<pub-id pub-id-type="pmid">12091180</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1164/ajrccm.166.1.at1102</pub-id></mixed-citation></ref><ref id="hsr271367-bib-0026"><label>26</label><mixed-citation publication-type="journal" id="hsr271367-cit-0026">
+<string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Núñez‐Cortés</surname>
+</string-name>, <string-name name-style="western">
+<given-names>G.</given-names>
+<surname>Rivera‐Lillo</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Arias‐Campoverde</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Soto‐García</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R.</given-names>
+<surname>García‐Palomera</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Torres‐Castro</surname>
+</string-name>, “<article-title>Use of Sit‐to‐Stand Test to Assess the Physical Capacity and Exertional Desaturation in Patients Post COVID‐19</article-title>,” <source>Chronic Respiratory Disease</source>
+<volume>18</volume> (<year>2021</year>): <elocation-id>1479973121999205</elocation-id>.<pub-id pub-id-type="pmid">33645261</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1177/1479973121999205</pub-id><pub-id pub-id-type="pmcid">PMC7923980</pub-id></mixed-citation></ref><ref id="hsr271367-bib-0027"><label>27</label><mixed-citation publication-type="journal" id="hsr271367-cit-0027">
+<string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Décary</surname>
+</string-name>, <string-name name-style="western">
+<given-names>I.</given-names>
+<surname>Gaboury</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Poirier</surname>
+</string-name>, et al., “<article-title>Humility and Acceptance: Working Within Our Limits With Long COVID and Myalgic Encephalomyelitis/Chronic Fatigue Syndrome</article-title>,” <source>Journal of Orthopaedic &amp; Sports Physical Therapy</source>
+<volume>51</volume>, no. <issue>5</issue> (May <year>2021</year>): <fpage>197</fpage>–<lpage>200</lpage>.<pub-id pub-id-type="pmid">33930983</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.2519/jospt.2021.0106</pub-id></mixed-citation></ref><ref id="hsr271367-bib-0028"><label>28</label><mixed-citation publication-type="journal" id="hsr271367-cit-0028">
+<string-name name-style="western">
+<given-names>G. M.</given-names>
+<surname>Sullivan</surname>
+</string-name> and <string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Feinn</surname>
+</string-name>, “<article-title>Using Effect Size—Or Why the <italic toggle="yes">P</italic> Value Is Not Enough</article-title>,” <source>Journal of Graduate Medical Education</source>
+<volume>4</volume>, no. <issue>3</issue> (September <year>2012</year>): <fpage>279</fpage>–<lpage>282</lpage>.<pub-id pub-id-type="pmid">23997866</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.4300/JGME-D-12-00156.1</pub-id><pub-id pub-id-type="pmcid">PMC3444174</pub-id></mixed-citation></ref><ref id="hsr271367-bib-0029"><label>29</label><mixed-citation publication-type="journal" id="hsr271367-cit-0029">
+<string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Sekhon</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Cartwright</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>J. J.</given-names>
+<surname>Francis</surname>
+</string-name>, “<article-title>Acceptability of Healthcare Interventions: An Overview of Reviews and Development of a Theoretical Framework</article-title>,” <source>BMC Health Services Research</source>
+<volume>17</volume>, no. <issue>1</issue> (January <year>2017</year>): <fpage>88</fpage>.<pub-id pub-id-type="pmid">28126032</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1186/s12913-017-2031-8</pub-id><pub-id pub-id-type="pmcid">PMC5267473</pub-id></mixed-citation></ref><ref id="hsr271367-bib-0030"><label>30</label><mixed-citation publication-type="journal" id="hsr271367-cit-0030">
+<string-name name-style="western">
+<given-names>V.</given-names>
+<surname>Braun</surname>
+</string-name> and <string-name name-style="western">
+<given-names>V.</given-names>
+<surname>Clarke</surname>
+</string-name>, “<article-title>Using Thematic Analysis in Psychology</article-title>,” <source>Qualitative Research in Psychology</source>
+<volume>3</volume>, no. <issue>2</issue> (<year>2006</year>): <fpage>77</fpage>–<lpage>101</lpage>.</mixed-citation></ref><ref id="hsr271367-bib-0031"><label>31</label><mixed-citation publication-type="journal" id="hsr271367-cit-0031">
+<string-name name-style="western">
+<given-names>M. I.</given-names>
+<surname>Polkey</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M. A.</given-names>
+<surname>Spruit</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L. D.</given-names>
+<surname>Edwards</surname>
+</string-name>, et al., “<article-title>Six‐Minute‐Walk Test in Chronic Obstructive Pulmonary Disease: Minimal Clinically Important Difference for Death or Hospitalization</article-title>,” <source>American Journal of Respiratory and Critical Care Medicine</source>
+<volume>187</volume>, no. <issue>4</issue> (February <year>2013</year>): <fpage>382</fpage>–<lpage>386</lpage>.<pub-id pub-id-type="pmid">23262518</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1164/rccm.201209-1596OC</pub-id></mixed-citation></ref><ref id="hsr271367-bib-0032"><label>32</label><mixed-citation publication-type="journal" id="hsr271367-cit-0032">
+<string-name name-style="western">
+<given-names>M. A.</given-names>
+<surname>McNarry</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R. M. G.</given-names>
+<surname>Berg</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Shelley</surname>
+</string-name>, et al., “<article-title>Inspiratory Muscle Training Enhances Recovery Post COVID‐19: A Randomised Controlled Trial</article-title>,” <source>European Respiratory Journal</source>
+<volume>60</volume>, no. <issue>4</issue> (<year>2022</year>): <elocation-id>2103101</elocation-id>.<pub-id pub-id-type="pmid">35236727</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1183/13993003.03101-2021</pub-id><pub-id pub-id-type="pmcid">PMC8900538</pub-id></mixed-citation></ref><ref id="hsr271367-bib-0033"><label>33</label><mixed-citation publication-type="journal" id="hsr271367-cit-0033">
+<string-name name-style="western">
+<given-names>O.</given-names>
+<surname>Martínez‐Pozas</surname>
+</string-name>, <string-name name-style="western">
+<given-names>E.</given-names>
+<surname>Meléndez‐Oliva</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L. M.</given-names>
+<surname>Rolando</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J. A. Q.</given-names>
+<surname>Rico</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Corbellini</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>E. A.</given-names>
+<surname>Sánchez Romero</surname>
+</string-name>, “<article-title>The Pulmonary Rehabilitation Effect on Long Covid‐19 Syndrome: A Systematic Review and Meta‐Analysis</article-title>,” <source>Physiotherapy Research International</source>
+<volume>29</volume>, no. <issue>2</issue> (April <year>2024</year>): <elocation-id>e2077</elocation-id>.<pub-id pub-id-type="pmid">38389299</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/pri.2077</pub-id></mixed-citation></ref><ref id="hsr271367-bib-0034"><label>34</label><mixed-citation publication-type="journal" id="hsr271367-cit-0034">
+<string-name name-style="western">
+<given-names>E.</given-names>
+<surname>Meléndez‐Oliva</surname>
+</string-name>, <string-name name-style="western">
+<given-names>O.</given-names>
+<surname>Martínez‐Pozas</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J. N.</given-names>
+<surname>Cuenca‐Zaldívar</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J. H.</given-names>
+<surname>Villafañe</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Jiménez‐Ortega</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>E. A.</given-names>
+<surname>Sánchez‐Romero</surname>
+</string-name>, “<article-title>Efficacy of Pulmonary Rehabilitation in Post‐COVID‐19: A Systematic Review and Meta‐Analysis</article-title>,” <source>Biomedicines</source>
+<volume>11</volume>, no. <issue>8</issue> (August <year>2023</year>): <elocation-id>2213</elocation-id>, <pub-id pub-id-type="doi">10.3390/biomedicines11082213</pub-id>.<pub-id pub-id-type="pmid">37626710</pub-id>
+<pub-id pub-id-type="pmcid">PMC10452542</pub-id></mixed-citation></ref><ref id="hsr271367-bib-0035"><label>35</label><mixed-citation publication-type="journal" id="hsr271367-cit-0035">
+<string-name name-style="western">
+<given-names>T.</given-names>
+<surname>Del Corral</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Fabero‐Garrido</surname>
+</string-name>, <string-name name-style="western">
+<given-names>G.</given-names>
+<surname>Plaza‐Manzano</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M. J.</given-names>
+<surname>Navarro‐Santana</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Fernández‐de‐Las‐Peñas</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>I.</given-names>
+<surname>López‐de‐Uralde‐Villanueva</surname>
+</string-name>, “<article-title>Minimal Clinically Important Differences in EQ‐5D‐5L Index and VAS After a Respiratory Muscle Training Program in Individuals Experiencing Long‐Term Post‐COVID‐19 Symptoms</article-title>,” <source>Biomedicines</source>
+<volume>11</volume>, no. <issue>9</issue> (September <year>2023</year>): <elocation-id>2522</elocation-id>, <pub-id pub-id-type="doi">10.3390/biomedicines11092522</pub-id>.<pub-id pub-id-type="pmid">37760964</pub-id>
+<pub-id pub-id-type="pmcid">PMC10526144</pub-id></mixed-citation></ref><ref id="hsr271367-bib-0036"><label>36</label><mixed-citation publication-type="journal" id="hsr271367-cit-0036">
+<string-name name-style="western">
+<given-names>O.</given-names>
+<surname>Martínez‐Pozas</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Corbellini</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J. N.</given-names>
+<surname>Cuenca‐Zaldívar</surname>
+</string-name>, <string-name name-style="western">
+<given-names>É.</given-names>
+<surname>Meléndez‐Oliva</surname>
+</string-name>, <string-name name-style="western">
+<given-names>P.</given-names>
+<surname>Sinatti</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>E. A.</given-names>
+<surname>Sánchez Romero</surname>
+</string-name>, “<article-title>Effectiveness of Telerehabilitation Versus Face‐to‐Face Pulmonary Rehabilitation on Physical Function and Quality of Life in People With Post COVID‐19 Condition: A Systematic Review and Network Meta‐Analysis</article-title>,” <source>European Journal of Physical and Rehabilitation Medicine</source>
+<volume>60</volume>, no. <issue>5</issue> (October <year>2024</year>): <fpage>868</fpage>–<lpage>877</lpage>.<pub-id pub-id-type="pmid">39235257</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.23736/S1973-9087.24.08540-X</pub-id><pub-id pub-id-type="pmcid">PMC11561472</pub-id></mixed-citation></ref><ref id="hsr271367-bib-0037"><label>37</label><mixed-citation publication-type="journal" id="hsr271367-cit-0037">
+<string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Hylton</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Long</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Francis</surname>
+</string-name>, et al., “<article-title>Real‐World Use of the Breathing Pattern Assessment Tool in Assessment of Breathlessness Post‐COVID‐19</article-title>,” <source>Clinical Medicine</source>
+<volume>22</volume>, no. <issue>4</issue> (July <year>2022</year>): <fpage>376</fpage>–<lpage>379</lpage>.<pub-id pub-id-type="pmid">35760447</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.7861/clinmed.2021-0759</pub-id><pub-id pub-id-type="pmcid">PMC9345218</pub-id></mixed-citation></ref><ref id="hsr271367-bib-0038"><label>38</label><mixed-citation publication-type="journal" id="hsr271367-cit-0038">
+<string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Todd</surname>
+</string-name>, <string-name name-style="western">
+<given-names>E. S.</given-names>
+<surname>Walsted</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Grillo</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Livingston</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Menzies‐Gow</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>J. H.</given-names>
+<surname>Hull</surname>
+</string-name>, “<article-title>Novel Assessment Tool to Detect Breathing Pattern Disorder in Patients With Refractory Asthma</article-title>,” <source>Respirology</source>
+<volume>23</volume>, no. <issue>3</issue> (March <year>2018</year>): <fpage>284</fpage>–<lpage>290</lpage>.<pub-id pub-id-type="pmid">28905471</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/resp.13173</pub-id></mixed-citation></ref></ref-list></back></article></pmc-articleset>

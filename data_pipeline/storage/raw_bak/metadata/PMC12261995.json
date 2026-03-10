@@ -1,0 +1,28 @@
+{
+  "pmcid": "PMC12261995",
+  "pmid": "40667466",
+  "doi": "10.3389/fneur.2025.1563040",
+  "title": "A data-mining analysis of host solute carrier family proteins in SARS-CoV-2 infection with reference to brain endothelial cells and the blood-brain barrier in COVID-19.",
+  "abstract": "BACKGROUND: The brain vasculature is a key player in neurological manifestations of COVID-19. Infection of brain endothelial cells with SARS-CoV-2 along with circulating cytokines may cause dysfunction of the blood-brain barrier (BBB). Solute carrier transporters (SLCs) in brain endothelial cells regulate substrate transport across the BBB. Here, it was hypothesized that transport functions of SLCs will be impaired by interactions with viral proteins, and subsequently, data-mining studies were performed.\nMETHODS: Virus-host protein-protein interaction data for SARS-CoV-2 infection were retrieved from the BioGRID database, filtered for SLCs, and then annotated for relevant expression in brain endothelial cells using a mouse brain transcriptomics database. Host SLCs expressed in brain endothelial cells were further explored using publicly available databases and information in the literature. Functional Annotation Clustering was performed using DAVID, and Enrichr served for pathway analysis. Substrates were retrieved from NCBI Gene. Links to monogenic disorders were retrieved from Online Mendelian Inheritance in Man™ and screened for disorders of the nervous system. Interactome data for viral proteins of SARS-CoV-2 were retrieved from BioGRID. Reports for host SLCs in viral receptor functions, viral entry mechanisms, and other major roles in the viral cycle were explored in databases (VThunter) and literature. ATP-binding cassette transporters (ABCs) were studied in parallel.\nRESULTS: N = 80 host SLCs showed relevant expression in brain endothelial cells whereby amino acid transporter stood out. N = 24/80 host SLCs were linked to monogenic disorders of the nervous system. N = 9/29 SARS-CoV-2 viral proteins had strong links to SLCs and key functions in viral infection (e.g., interferon response). SLCs serving as viral receptors and with closely associated functions were significantly enriched among all known listed viral receptors (chi-square test, p = 0.001). Literature searches for host SLCs revealed involvement of a subset of SLCs in infection mechanisms for SARS-CoV-2 and more broadly for other viruses. N = 17 host ABCs were found in brain endothelial cells where they may serve as efflux transporters.\nDISCUSSION: This hypothesis-generating work proposes a set of N = 80 host SLCs expressed in endothelial cells as contributors to BBB impairment after SARS-CoV-2 infection. Theoretically, persistent dysfunction of SLCs at the BBB, in particular insufficient transport of amino acids, could be one of many reasons for cognitive changes in long-COVID. Functions of SLCs in viral entry and associated roles deserve close attention.",
+  "authors": [
+    "Talia Fradkin",
+    "Rainald Schmidt-Kastner"
+  ],
+  "journal": "Frontiers in neurology",
+  "pub_year": "2025",
+  "pub_month": "07",
+  "pub_day": "01",
+  "keywords": [
+    "COVID-19",
+    "SARS-CoV-2",
+    "amino acid transport",
+    "blood-brain barrier",
+    "brain endothelial cells",
+    "protein-protein interactions",
+    "solute carrier proteins",
+    "virus-host interactions"
+  ],
+  "article_types": [
+    "Journal Article"
+  ]
+}

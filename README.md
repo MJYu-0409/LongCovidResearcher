@@ -91,16 +91,19 @@ long covid 的自主神经功能障碍有哪些治疗方案？
 │   │                                 # get_sparse_embedding_model / get_rerank_model / get_qwen_chat_model
 │   └── logging_config.py            # configure_logging（入口处调用一次）
 │
+├── storage/                         # 数据层（与 data_pipeline / agent 同级）
+│   ├── postgres/
+│   │   ├── papers.py                # papers 表：建表、插入、fetch_meta、fetch_paper
+│   │   └── session_store.py         # agent_sessions 表：跨会话 load/save
+│   └── qdrant/chunks.py             # Qdrant 集合与 chunk 向量写入（ensure_collection、upsert_chunks）
+│
 ├── data_pipeline/                   # 数据处理流水线
 │   ├── processor/
 │   │   ├── xml_parser.py            # PMC JATS XML → 结构化段落
 │   │   ├── chunker.py               # 段落 → token 限制的 chunk
 │   │   ├── embedder.py              # 生成 dense + sparse 向量
 │   │   └── metadata_parser.py       # 提取论文元数据
-│   ├── storage/
-│   │   ├── qdrant/db.py             # Qdrant 写入 / 集合管理
-│   │   ├── postgres/db.py           # PostgreSQL 读写
-│   │   └── raw/progress.py          # 流水线断点续跑
+│   ├── raw/progress.py              # 流水线断点续跑（progress.json）
 │   ├── pipeline.py                  # 三阶段流水线编排
 │   └── scripts/                     # 常用维护脚本（不详细列出）
 │
@@ -118,7 +121,6 @@ long covid 的自主神经功能障碍有哪些治疗方案？
 │   ├── nodes.py                     # orchestrator / tools / 路由节点
 │   ├── runner.py                    # 对外接口：单轮 & 多轮对话
 │   ├── summarizer.py                # 会话内摘要（每轮压摘要 + 保留最近 N 条）
-│   ├── session_store.py             # 跨会话记忆：PostgreSQL 持久化（每轮写库）
 │   └── tools/
 │       ├── __init__.py              # ALL_TOOLS 汇总
 │       ├── search.py                # search_literature：文献检索

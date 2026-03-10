@@ -1,0 +1,31 @@
+{
+  "pmcid": "PMC12724323",
+  "pmid": "41347787",
+  "doi": "10.1128/jvi.01205-25",
+  "title": "Resistance of endothelial cells to SARS-CoV-2 infection in vitro.",
+  "abstract": "The secondary thrombotic/vascular clinical syndrome of COVID-19 suggests that SARS-CoV-2 infects the endothelium; however, robust in vitro infection of endothelial cells by various strains of SARS-CoV-2 remains to be demonstrated and continues to be debated. Here, we revisit the question of endothelial cell permissiveness to SARS-CoV-2 using isolated endothelial cells (from the lung, aorta, and endothelial cell progenitors), and additionally, to overcome limitations associated with cultured cells, using native endothelial cells within living precision cut human lung slices and single-cell RNA sequencing to track viral presence. Cellular infection in endothelial monocultures was determined using fluorescence imaging. Mediator release was measured by ELISA, and gene expression was assessed by RT-qPCR. Infection in lung slices was determined using single-cell RNA sequencing, capturing molecular identifiers that aligned to the SARS-CoV-2 viral genome (for lung slices). Each cultured endothelial cell type displayed functional viral responses by increased release of IP-10 when stimulated with Poly-IC (TLR3) or Imiquimod (TLR7/8). Compared to nasal epithelial cells, endothelial cells expressed low or undetectable levels of ACE2 and showed susceptibility to Ebola and Vesicular Stomatitis Virus glycoprotein-expressing pseudoviruses but not live SARS-CoV-2. Importantly, native endothelial cells within human lung slices displayed minimal infectability with SARS-CoV-2. To our knowledge, this is the first study to demonstrate that neither cultured nor native human endothelial cells are particularly, directly permissive to SARS-CoV-2, likely due to the lack of sufficient AEC2 expression. These observations confirm that the vascular inflammation and cardiovascular consequences of COVID-19 are largely an indirect result of paracrine inflammatory responses.IMPORTANCESARS-CoV-2 is recognized not only for its acute effects and links with cardiovascular events but also for its ability to cause long COVID syndrome, which is now a major concern particularly since its long-term implications remain poorly understood. Revisiting endothelial cell permissivity to SARS-CoV-2 is therefore critical in this setting. We show that SARS-CoV-2, and several strains, do not infect cultured different types of endothelial cells cultured alone or native endothelial cells in situ in human lung tissue. Our findings are in line with the idea that vascular inflammation and thrombosis seen in COVID-19 are independent of direct endothelial cell infection and likely to be mediated by factors released by adjacent infected cells or circulating systemic inflammatory mediators. Our work also suggests that where viremia occurs, SARS-CoV-2 passes through the endothelium, facilitated by loss of barrier function because of local inflammation at the site of infection.",
+  "authors": [
+    "Blerina Ahmetaj-Shala",
+    "Thomas P Peacock",
+    "Laury Baillon",
+    "Olivia C Swann",
+    "Hime Gashaw",
+    "Arjun Rustagi",
+    "Wendy S Barclay",
+    "Jane A Mitchell"
+  ],
+  "journal": "Journal of virology",
+  "pub_year": "2025",
+  "pub_month": "Dec",
+  "pub_day": "23",
+  "keywords": [
+    "B.1.1.7",
+    "COVID-19",
+    "SARS-CoV-2",
+    "endothelial cells",
+    "infection"
+  ],
+  "article_types": [
+    "Journal Article"
+  ]
+}

@@ -13,7 +13,7 @@ from fastapi import FastAPI, HTTPException
 from pydantic import BaseModel, Field
 
 from agent import run as run_agent
-from agent.session_store import load as load_session, save as save_session
+from storage.postgres.session_store import load as load_session, save as save_session
 from agent.summarizer import run_summarizer
 from retrieval.search import search as retrieval_search
 

@@ -1,0 +1,34 @@
+{
+  "pmcid": "PMC12445499",
+  "pmid": "40953059",
+  "doi": "10.1371/journal.pmed.1004711",
+  "title": "Effect of Paxlovid treatment during acute COVID-19 on Long COVID onset: An EHR-based target trial emulation from the N3C and RECOVER consortia.",
+  "abstract": "BACKGROUND: Preventing and treating post-acute sequelae of COVID-19 infection (PASC), commonly known as Long COVID, has become a public health priority. This study tests whether Paxlovid treatment in the acute phase of COVID-19 could help prevent the onset of PASC.\nMETHODS AND FINDINGS: We used electronic health records from the National Clinical Cohort Collaborative to define a cohort of 445,738 patients who had COVID-19 since April 1, 2022, and were eligible for Paxlovid treatment due to risk for progression to severe COVID-19. We used the target trial emulation framework to estimate the effect of Paxlovid treatment on PASC incidence. We emulated a series of six sequential trials: one for each day of a 5-day treatment grace period. For each sequential trial, the treatment group was defined as patients prescribed Paxlovid on the trial start day, and the control group was defined as all patients meeting eligibility criteria who remained untreated on the trial start day. We pooled individual record-level data from the sequential trials for analysis. The follow-up period was 180 days. The primary outcome was overall PASC incidence measured using a computable phenotype. Secondary outcomes were incident cognitive, fatigue, and respiratory symptoms in the post-acute period. We controlled for a wide range of demographic and medical history covariates. Compared to the control group, Paxlovid treatment did not have a significant effect on overall PASC incidence or incident respiratory symptoms. It had a small protective effect against cognitive (relative risk [RR] 0.91; 95% CI [0.84, 0.98]; p = 0.019) and fatigue (RR 0.94; 95% CI [0.90, 0.98]; p = 0.002) symptoms. Finally, we estimated Paxlovid's effect on overall PASC incidence across strata of age, COVID-19 vaccination status, and Charlson Comorbidity Index (CCI) prior to COVID-19. We found small protective effects among patients aged 65 years or more (RR 0.92; 95% CI [0.88, 0.97]; p < 0.001; absolute risk difference [ARD] -0.43%; number needed to treat [NNT] 233) and with a CCI of 3 or 4 (RR 0.83; 95% CI [0.75, 0.92]; p < 0.001; ARD -1.30%; NNT 76). This study's main limitation is that the causal interpretation relies on the assumption that we controlled for all confounding variables.\nCONCLUSIONS: Although some prior observational studies suggested that Paxlovid held promise as a PASC preventive, this study-with a large, nationally sampled cohort; a contemporary study period; and causal inference methodology-found that Paxlovid treatment during acute COVID-19 had no effect on subsequent PASC incidence. Stratified analyses suggest that Paxlovid may have a small protective effect among higher-risk patients, but the NNT is high. In conclusion, we see Paxlovid as unlikely to become a definitive solution for PASC prevention.",
+  "authors": [
+    "Alexander Preiss",
+    "Abhishek Bhatia",
+    "Leyna V Aragon",
+    "John M Baratta",
+    "Monika Baskaran",
+    "Frank Blancero",
+    "Michael Daniel Brannock",
+    "Robert F Chew",
+    "Iván Díaz",
+    "Megan Fitzgerald",
+    "Elizabeth P Kelly",
+    "Andrea G Zhou",
+    "Thomas W Carton",
+    "Christopher G Chute",
+    "Melissa Haendel",
+    "Richard Moffitt",
+    "Emily Pfaff"
+  ],
+  "journal": "PLoS medicine",
+  "pub_year": "2025",
+  "pub_month": "Sep",
+  "pub_day": "15",
+  "keywords": [],
+  "article_types": [
+    "Journal Article"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "pmcid": "PMC12167103",
+  "pmid": "40519702",
+  "doi": "10.1016/j.bbrep.2025.102068",
+  "title": "Role of Galanin system and insulin resistance parameters as predictive tools for diagnosis of Long-COVID patients.",
+  "abstract": "BACKGROUND: COVID-19 patients may have long-lasting symptoms known as long-COVID (LC) without any underlying medical issues or obvious organ damage. Much research suggested that these issues are attributed to cytokine storm, lung and nerve injury, and glucose homeostasis disruption. Galanin (Gal), a neuropeptide in the peripheral and central nervous systems, has several physiological activities connected to illnesses. The current case-control research hypothesized the role of insulin resistance (IR) and the Gal system in LC pathophysiology.\nMETHODS: This research included 30 healthy controls and 60 LC patients. Insulin, Gal, and GalR1 were determined using the enzyme-linked immunosorbent assay (ELISA). The HOMA2 calculator determined β-cell function (HOMA%B), insulin sensitivity (HOMA%S), and insulin resistance (HOMA2IR) by analyzing fasting serum insulin and glucose levels.\nRESULTS: LC patients showed higher Gal, GalR1, and Gal/GalR1 concentrations than controls, suggesting Gal system activation. LC patients likely have an IR state. The correlation study showed a negative link between Gal, GalR1, and SpO2. Gal level was positively correlated with insulin, insulin/glucose, and HOMA2IR and negatively correlated with HOMA%S. With an AUC-ROC of 0.939, artificial neural networks (ANN) predicted a sensitivity of 71.4 % and a specificity of 87.5 %. In LC, IR parameters and Gal system biomarkers were strongly correlated, suggesting they may contribute to disease.\nCONCLUSION: Galanin system and IR parameters are altered in LC patients and can predict LC in suspicious subjects with 91.7 % sensitivity and 100.0 % specificity using the neural network model. The top five predictors were CRP, insulin/glucose, Gal, glucose, and GalR1. CRP had the greatest importance (100.0 %), indicating the importance of inflammation, IR, and Gal system biomarkers in the pathophysiology of LC.",
+  "authors": [
+    "Wasim Talib Al Masoodi",
+    "Sami Waheed Radhi",
+    "Habiba Khdair Abdalsada",
+    "Hussein Kadhem Al-Hakeim"
+  ],
+  "journal": "Biochemistry and biophysics reports",
+  "pub_year": "2025",
+  "pub_month": "Sep",
+  "pub_day": "03",
+  "keywords": [
+    "Gal/GalR-1",
+    "Galanin",
+    "Galanin receptor",
+    "Insulin resistance",
+    "Long-COVID",
+    "Neuronal network"
+  ],
+  "article_types": [
+    "Journal Article"
+  ]
+}

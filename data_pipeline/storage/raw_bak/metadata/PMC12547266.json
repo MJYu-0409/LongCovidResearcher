@@ -1,0 +1,34 @@
+{
+  "pmcid": "PMC12547266",
+  "pmid": "40939689",
+  "doi": "10.1016/j.mcpro.2025.101068",
+  "title": "Multi-Omics Blood Atlas Reveals Host Immune Response Features of Immunocompromised Populations Following SARS-CoV-2 Infection.",
+  "abstract": "The dysregulation of human genes and proteins following SARS-CoV-2 infection significantly impacts the clinical symptoms and prognosis of COVID-19, particularly in immunocompromised individuals such as patients with hematological tumors. Despite this, a comprehensive multi-omics understanding of human host immune responses remains incomplete. Here, we conducted a multi-omics analysis of 89 peripheral blood samples (RNA sequencing) and 98 serum samples (proteome mass spectrometry) from 52 patients with COVID-19, including patients with hematological tumors and non-tumor individuals. By integrating transcriptomic, proteomic, and interactome data, we compared differentially expressed genes (DEGs) and proteins (DEPs) across infection stages and clinical outcomes to gain insights into the mechanisms of SARS-CoV-2 infection. Our analysis revealed distinct and overlapping transcriptomic and proteomic responses to SARS-CoV-2 infection. DEGs were predominantly associated with innate immune responses and viral processes, while DEPs were linked to actin cytoskeleton organization and protein kinase regulation. Notably, DEGs and DEPs often exhibited opposing regulatory patterns, suggesting post-transcriptional and post-translational mechanisms. Tumor patients showed more severe proteomic perturbations, with a higher proportion of DEPs functioning as key hub proteins in cellular networks. Network-based drug repositioning identified potential therapeutic targets, including HSPA8, SRC, STAT1, APOE, and APP. Clinical analysis indicated that patients with long COVID experienced more severe coagulation abnormalities, immunosuppression, and myocardial injury, while acutely deceased patients exhibited abnormally activated immune responses. Our study provides a comprehensive resource for understanding the molecular mechanisms of SARS-CoV-2 infection in patients with hematological tumors. By integrating multi-omics data, we highlight the importance of proteomic changes in disease progression and identify potential therapeutic targets for COVID-19 and long COVID.",
+  "authors": [
+    "Xiaodi Yang",
+    "Ye Shen",
+    "Bo Tang",
+    "Jialin Zhu",
+    "Bingjie Wang",
+    "Qingyun Wang",
+    "Wenmin Tian",
+    "Stefan Wuchty",
+    "Ziding Zhang",
+    "Zeyin Liang",
+    "Yujun Dong"
+  ],
+  "journal": "Molecular & cellular proteomics : MCP",
+  "pub_year": "2025",
+  "pub_month": "Oct",
+  "pub_day": "10",
+  "keywords": [
+    "SARS-CoV-2 infection",
+    "hematological malignancies",
+    "interactome",
+    "proteome",
+    "transcriptome"
+  ],
+  "article_types": [
+    "Journal Article"
+  ]
+}

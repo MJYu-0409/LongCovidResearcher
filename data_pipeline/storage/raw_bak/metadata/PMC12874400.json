@@ -1,0 +1,38 @@
+{
+  "pmcid": "PMC12874400",
+  "pmid": "41505721",
+  "doi": "10.1016/j.ijcrp.2023.200183",
+  "title": "Strategies for forecasting long COVID in the active component U.S. military.",
+  "abstract": "Long COVID, or post-acute coronavirus disease syndrome, represents a potentially serious threat to military readiness. Forecasts of future long COVID diagnoses could help prepare senior leaders for disruptions. Few studies predicting the incidence of long COVID have been published to date, however. Using existing COVID-19 and long COVID diagnoses, as well as demographic and outpatient encounter data, 1- to 6-month ahead and full 6-month forecasts were generated using time series and machine learning models trained on various covariate data. Forecasting models generated accurate predictions of long COVID diagnoses up to 6 months ahead of the forecasted date. Several model and covariate combinations were within 5% of the observed number of diagnoses over the full 6-month testing period, while monthly forecasts of long COVID diagnoses had median absolute percentage errors ranging from 3% to 10% for the best performing model combinations. Simple forecasting models and distribution-based forecasts that utilize existing clinical databases can provide accurate predictions of incident long COVID up to 6 months in advance and can be used to prepare for the burden of new long COVID diagnoses. Accurate predictions of long COVID cases over a 6-month period were achieved by utilizing existing COVID-19 case and outpatient encounter data from January 1, 2020, through December 31, 2022. Long COVID symptoms can cause disruptions to military readiness and prevent a healthy force, especially after surges in COVID-19 cases. The ability to use existing data sources to accurately predict future cases of long COVID allows senior leaders to anticipate and prepare for potential changes in the availability of service members.",
+  "authors": [
+    "Mark L Bova",
+    "Tara N Palmore",
+    "Guoqing Diao",
+    "Jamaal A Russell",
+    "Manya Magnus"
+  ],
+  "journal": "MSMR",
+  "pub_year": "2026",
+  "pub_month": "Jan",
+  "pub_day": "05",
+  "keywords": [
+    "COVID-19",
+    "United States",
+    "armed forces",
+    "coronavirus disease 2019",
+    "effects",
+    "forecasting",
+    "learning",
+    "long COVID",
+    "machine",
+    "military",
+    "modeling",
+    "models",
+    "post-acute coronavirus disease syndrome",
+    "predicting",
+    "sequelae"
+  ],
+  "article_types": [
+    "Journal Article"
+  ]
+}

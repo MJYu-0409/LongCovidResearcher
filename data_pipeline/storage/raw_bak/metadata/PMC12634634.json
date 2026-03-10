@@ -1,0 +1,34 @@
+{
+  "pmcid": "PMC12634634",
+  "pmid": "41280901",
+  "doi": "10.3389/fimmu.2025.1710783",
+  "title": "Transcriptome analysis of classical blood cells reveals downregulation of pro-inflammatory genes in the classical monocytes of long COVID patients.",
+  "abstract": "INTRODUCTION: Despite extensive research, the pathogenesis and predispositions underlying long COVID (long-term coronavirus disease 2019) remain poorly understood.\nMETHODS: To address this, we analyzed the immunological landscapes of 44 patients with long COVID and 44 matched convalescents using single-cell RNA sequencing (scRNA-seq) of peripheral blood mononuclear cells (PBMCs) and validated the findings with plasma cytokine measurements via Luminex technology.\nRESULTS: While the immune cell compositions showed minimal quantitative differences only among natural killer (NK) cells, the transcriptome analyses identified distinct gene expression patterns, particularly in classical monocytes: patients with long COVID exhibited downregulation of the inflammation-associated genes, including IL1B and CXCL2. Imputation of the transcription factor activity hinted at a reduced inflammasome activity (via SNAI1) and an impaired monocyte differentiation (via ATF2) in long COVID. The RNA velocity data supported the presence of immature classical monocytes in these patients.\nDISCUSSION: These findings show that monocytes might be dysregulated and/or exhausted in patients with long COVID.",
+  "authors": [
+    "Florian Fricke",
+    "Franz Mai",
+    "Christine Wossidlo",
+    "Felix Steinbeck",
+    "Wendy Bergmann-Ewert",
+    "Marcel Kordt",
+    "Karin Kraft",
+    "Britta Müller",
+    "Emil C Reisinger",
+    "Brigitte Müller-Hilke"
+  ],
+  "journal": "Frontiers in immunology",
+  "pub_year": "2025",
+  "pub_month": "11",
+  "pub_day": "07",
+  "keywords": [
+    "SARS-CoV-2",
+    "immune landscape",
+    "immune tolerance",
+    "long COVID",
+    "monocytes",
+    "scRNAseq"
+  ],
+  "article_types": [
+    "Journal Article"
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "pmcid": "PMC12675013",
+  "pmid": "41357333",
+  "doi": "10.1016/j.eclinm.2025.103633",
+  "title": "Effects of nicotinamide riboside on NAD+ levels, cognition, and symptom recovery in long-COVID: a randomized controlled trial.",
+  "abstract": "BACKGROUND: Long-COVID often involves cognitive difficulties, immune dysregulation, and mitochondrial dysfunction. Studies suggest nicotinamide adenine dinucleotide (NAD+) precursors like nicotinamide riboside (NR) may reduce inflammation and support mitochondrial and neurological function. This double-blind, placebo (PBO)-controlled clinical trial with a placebo lead-in phase evaluated the effects of NR (2000 mg/day) on NAD+ and changes in cognitive and long-COVID symptoms.\nMETHODS: This was a 24-week, double-blind, placebo-controlled trial at a single center in Boston, USA, between August 2021 and September 2023. 58 community-dwelling participants with long-COVID were randomized 2:1 to the NR-NR group (NR for 20 weeks) or the PBO-NR group (PBO for 10 weeks, followed by NR for 10 weeks). The primary outcome was cognition, assessed using the Everyday Cognition scale (ECog), Repeatable Battery for the Assessment of Neuropsychological Status (RBANS), and Trail Making Test-B (TMT-B). Secondary outcomes included the Fatigue Severity Scale (FSS), Beck Depression Inventory (BDI), Beck Anxiety Inventory (BAI), and Pittsburgh Sleep Quality Index. We conducted a mixed model for repeated measures to compare groups, then post-hoc and unadjusted for multiplicity, combined both groups to explore changes from baseline after 10 weeks of NR. This trial was registered with ClinicalTrials.gov (NCT04809974) in 2021.\nFINDINGS: 37 participants (64%) were assigned to NR-NR, and 21 participants (36%) to PBO-NR. There was a 32.4% and 51.4% dropout in the NR-NR group at 10 weeks and 20 weeks, respectively, vs. 14.3% dropout at each timepoint in the PBO-NR group. In the NR-NR group, NAD+ levels increased by 2.6- to 3.1-fold after 5-10 weeks of supplementation, respectively, and remained elevated at 20 weeks. In the PBO-NR group, NAD+ levels remained close to baseline (0.93- to 1.0-fold change, 95% CI: 0.5-1.4) during the initial 5 and 10 weeks of PBO. After switching to NR, levels rose to a 2.6-fold and 2.1-fold increase after 5 and 10 weeks of NR, respectively. No significant between-group differences were observed for cognitive outcomes (ECog, RBANS, TMT-B; p-values = 0.47-0.74). There were no significant differences in fatigue severity (p = 0.59), sleep quality p = 0.69), and symptoms of anxiety (p = 0.84) or depression (p = 0.20) between PBO and NR groups. In post-hoc exploratory analysis, examining within-group changes during 5 and 10 weeks of NR intake by grouping all participants during the first 10 weeks of the NR phase, there were significant differences from baseline after 10 weeks of NR in executive functioning, fatigue severity, sleep quality, and symptoms of depression (compared with no significant changes in TMT-B, FSS, PSQI, BAI, or BDI scores during the PBO phase). One serious adverse event was reported, deemed unrelated to the study drug or trial.\nINTERPRETATION: In long-COVID, NR increased NAD+ within 5 weeks but did not significantly improve cognition, fatigue, sleep, or mood vs. PBO. Exploratory analyses suggested within-group benefits after 10 weeks of NR, supporting the need for larger trials.\nFUNDING: This work was supported by Niagen Bioscience, the MGH McCance Center for Brain Health, Lavine Brain Health Innovation Fund, MGH ECOR CDI Physician-Scientist Development Award, and the Alzheimer's Association (grant no. AARGD-23-114103).",
+  "authors": [
+    "Chao-Yi Wu",
+    "William Cody Reynolds",
+    "Isabel Abril",
+    "Alison J McManus",
+    "Charles Brenner",
+    "Gabriel González-Irizarry",
+    "Leidys Gutiérrez-Martínez",
+    "Olivia Sun",
+    "Jonathan Rosand",
+    "Rudolph E Tanzi",
+    "Steven E Arnold",
+    "Edmarie Guzmán-Vélez"
+  ],
+  "journal": "EClinicalMedicine",
+  "pub_year": "2025",
+  "pub_month": "Nov",
+  "pub_day": "12",
+  "keywords": [
+    "Depression",
+    "Fatigue",
+    "Nicotinamide adenine dinucleotide",
+    "PASC",
+    "SARS-CoV-2",
+    "Sleep"
+  ],
+  "article_types": [
+    "Journal Article"
+  ]
+}

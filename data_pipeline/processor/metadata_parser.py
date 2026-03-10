@@ -21,7 +21,7 @@ from pathlib import Path
 from typing import NamedTuple
 
 from config import EXCLUDED_ARTICLE_TYPES, METADATA_DIR, PROGRESS_FILE
-from data_pipeline.storage.raw.progress import ProgressTracker
+from data_pipeline.raw.progress import ProgressTracker
 
 logger = logging.getLogger(__name__)
 

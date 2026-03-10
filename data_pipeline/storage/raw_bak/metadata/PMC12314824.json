@@ -1,0 +1,27 @@
+{
+  "pmcid": "PMC12314824",
+  "pmid": "40518292",
+  "doi": "10.1136/bmjresp-2024-002506",
+  "title": "Bidirectional relationship between sleep problems and long COVID: a longitudinal analysis of data from the COVIDENCE UK study.",
+  "abstract": "BACKGROUND: Studies into the bidirectional relationship between sleep and long COVID have been limited by retrospective pre-infection sleep data and infrequent post-infection follow-up. We therefore used prospectively collected monthly data to evaluate how pre-infection sleep characteristics affect risk of long COVID and to track changes in sleep duration during the year after SARS-CoV-2 infection.\nMETHODS: COVIDENCE UK is a prospective, population-based UK study of COVID-19 in adults. We included non-hospitalised participants with evidence of SARS-CoV-2 infection and used logistic regression to estimate adjusted ORs for the association between preinfection sleep characteristics and long COVID. We assessed post-infection sleep duration using multilevel mixed models. We collected sleep data from participants using a subset of questions from the Pittsburgh Sleep Quality Index. We defined long COVID as unresolved symptoms at least 12 weeks after infection. COVIDENCE UK is registered with ClinicalTrials.gov, NCT04330599.\nRESULTS: We included 3994 participants in our long COVID risk analysis, of whom 327 (8.2%) reported long COVID. We found an inverse relationship between pre-infection sleep quality and risk of long COVID (medium vs good quality: OR 1.37, 95% CI 1.04 to 1.81; medium-low vs good: 1.55, 1.12 to 2.16; low vs good: 1.94, 1.11 to 3.38). Greater variability in pre-infection sleep efficiency was also associated with long COVID when adjusted for infection severity (OR per percentage-point increase 1.07, 1.02 to 1.12). We assessed post-infection sleep duration in 6860 participants, observing a 0.11 hour (95% CI 0.09 to 0.14) increase in the first month after infection compared with pre-infection, with larger increases for more severe infections. After 1 month, sleep duration largely returned to pre-infection levels, although fluctuations in duration lasted up to 6 months after infection among people reporting long COVID.\nCONCLUSIONS: While poor-quality sleep before SARS-CoV-2 infection associates with increased risk of long COVID thereafter, changes in sleep duration after infection in these non-hospitalised cases were modest and generally quick to resolve.\nTRIAL REGISTRATION NUMBER: NCT04330599.",
+  "authors": [
+    "Giulia Vivaldi",
+    "Mohammad Talaei",
+    "John Blaikley",
+    "Callum Jackson",
+    "Paul E Pfeffer",
+    "Seif O Shaheen",
+    "Adrian R Martineau"
+  ],
+  "journal": "BMJ open respiratory research",
+  "pub_year": "2025",
+  "pub_month": "Jun",
+  "pub_day": "15",
+  "keywords": [
+    "COVID-19"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Observational Study"
+  ]
+}

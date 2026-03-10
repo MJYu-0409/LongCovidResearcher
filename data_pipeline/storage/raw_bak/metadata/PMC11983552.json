@@ -1,0 +1,27 @@
+{
+  "pmcid": "PMC11983552",
+  "pmid": "40212085",
+  "doi": "10.3389/frai.2025.1536486",
+  "title": "Pattern recognition in SARS cases: insights from t-SNE and k-means clustering applied to COVID-19 symptomatology.",
+  "abstract": "INTRODUCTION: Despite the end of the SARS-CoV-2 pandemic, the medical field continues to address several lasting effects, the most notable being long COVID. However, COVID-19 presents another specific challenge that complicates diagnosis: the similarity of its symptoms with those of other viral diseases, particularly among various SARS strains. This overlap makes it difficult to identify distinct and meaningful symptom patterns as they develop. This study proposes a dimensionality reduction approach combined with a clustering technique to visually analyse structural similarities among SARS-infected individuals, aiming to determine whether aspects such as case progression and diagnosis impact these patterns.\nMETHODS: This analysis utilised the t-Distributed Stochastic Neighbour Embedding (t-SNE) algorithm for dimensionality reduction, combined with Gower's distance to handle categorical data, and k-means clustering. The study focused on symptoms, case progression, and diagnoses of SARS-CoV-2 and unspecified SARS cases using data from the Brazilian SARS dataset for São Paulo State during 2020 and 2021. The process began with a visual analysis aimed at identifying structural patterns in the symptom data, highlighting potential similarities between COVID-19 patients and those diagnosed with unspecified SARS. Following this, an intra-cluster analysis was performed to investigate the common features that defined each cluster, providing insights into shared characteristics among grouped individuals.\nRESULTS: The analysis revealed that both diagnoses share substantial similarities, particularly in the presence or absence of COVID-19-related symptoms, even when the majority of individuals were diagnosed with unspecified SARS.\nDISCUSSION: The analysis is crucial, as Brazil was one of the countries most severely affected by the pandemic, experiencing profound impacts across multiple dimensions.",
+  "authors": [
+    "Julliana Gonçalves Marques",
+    "Bruno Motta de Carvalho",
+    "Luiz Affonso Guedes",
+    "Márjory Da Costa-Abreu"
+  ],
+  "journal": "Frontiers in artificial intelligence",
+  "pub_year": "2025",
+  "pub_month": "03",
+  "pub_day": "27",
+  "keywords": [
+    "COVID-19",
+    "k-means",
+    "pattern recognition",
+    "symptoms",
+    "t-SNE"
+  ],
+  "article_types": [
+    "Journal Article"
+  ]
+}

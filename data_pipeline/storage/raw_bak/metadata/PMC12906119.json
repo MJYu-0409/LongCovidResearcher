@@ -1,0 +1,34 @@
+{
+  "pmcid": "PMC12906119",
+  "pmid": "41694691",
+  "doi": "10.1016/j.lanepe.2026.101605",
+  "title": "Ethnic differences in Long COVID diagnosed in primary care in England (2020-2022): an observational cohort study using OpenSAFELY.",
+  "abstract": "BACKGROUND: Long COVID continues to affect millions of adults and contribute to substantial economic burden across Europe. Ethnic inequalities in Long COVID, and the reasons underlying these, are poorly understood. We aimed to investigate ethnic differences in the incidence of diagnosed Long COVID in England using linked national primary care data.\nMETHODS: With approval from NHS England, we used linked health record data from England, 2020-2022, accessed through the OpenSAFELY platform. We applied Cox regression to compare incidence of diagnosed Long COVID in primary care across self-reported ethnicity in five groups. We explored potential explanations for these differences by 1) adjusting for sociodemographic and health-related factors, 2) restricting to those tested or hospitalised with COVID-19, 3) stratifying into 16 ethnic sub-groups.\nFINDINGS: Our sample comprised 17,848,825 adults, of whom 16,970 (0.1%) had a diagnosis of Long COVID recorded in primary care. Hazard ratios (95% confidence intervals) for Long COVID compared with the white group were 1.04 (0.98-1.11) for the South Asian group, 0.84 (0.75-0.94) for the Black group, 0.97 (0.84-1.13) for the Mixed Ethnicity group, and 0.63 (0.55-0.72) for Other ethnic groups, which remained similar when adjusting for sociodemographic and health-related factors and among those tested or hospitalised for COVID-19. Disaggregating into 16 ethnic sub-groups revealed heterogeneity within groups, for example, compared with the White British group, hazard ratios were 1.21 (1.00-1.47) for the Bangladeshi group and 1.09 (0.99-1.21) for the Pakistani group, but 0.77 (0.70-0.86) for the Indian group; and 1.15 (0.95-1.40) for the Black Caribbean group but 0.61 (0.51-0.72) for the Black African group.\nINTERPRETATION: Differences in Long COVID diagnoses across broad ethnic groups mask important sub-group inequalities, offering insight into underlying mechanisms and approaches to better target Long COVID services.\nFUNDING: The OpenSAFELY platform is principally funded by grants from: NHS England [2023-2025]; The Wellcome Trust (222097/Z/20/Z) [2020-2024]; MRC (MR/V015737/1) [2020-2021]. Additional contributions to OpenSAFELY and this analysis have been funded by grants from: MRC via the National Core Study programme, Longitudinal Health and Wellbeing strand (MC_PC_20030, MC_PC_20059) [2020-2022] and the Data and Connectivity strand (MC_PC_20058) [2021-2022]; NHS England via the Primary Care Medicines Analytics Unit [2021-2024]; NIHR and MRC via the CONVALESCENCE programme (COV-LT-0009, MC_PC_20051) [2021-2024] and MRC (MR/V040235/1) [2021-24].",
+  "authors": [
+    "Poppy Ac Mallinson",
+    "Nick Birk",
+    "Alasdair D Henderson",
+    "Alex Lewin",
+    "Anoop Sv Shah",
+    "Amir Mehrkar",
+    "Ben Goldacre",
+    "Giridhar R Babu",
+    "Santosh Kumar Banjara",
+    "Laurie A Tomlinson",
+    "Sanjay Kinra",
+    "Rohini Mathur"
+  ],
+  "journal": "The Lancet regional health. Europe",
+  "pub_year": "2026",
+  "pub_month": "Apr",
+  "pub_day": "05",
+  "keywords": [
+    "Ethnicity",
+    "Health inequalities",
+    "Long COVID",
+    "Primary care"
+  ],
+  "article_types": [
+    "Journal Article"
+  ]
+}

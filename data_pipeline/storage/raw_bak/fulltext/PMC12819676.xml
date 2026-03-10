@@ -1,0 +1,1034 @@
+<?xml version="1.0"  ?><!DOCTYPE pmc-articleset PUBLIC "-//NLM//DTD ARTICLE SET 2.0//EN" "https://dtd.nlm.nih.gov/ncbi/pmc/articleset/nlm-articleset-2.0.dtd"><pmc-articleset><article xml:lang="en" article-type="research-article" dtd-version="1.4"><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">Front Immunol</journal-id><journal-id journal-id-type="iso-abbrev">Front Immunol</journal-id><journal-id journal-id-type="pmc-domain-id">1754</journal-id><journal-id journal-id-type="pmc-domain">frontimmu</journal-id><journal-id journal-id-type="publisher-id">Front. Immunol.</journal-id><journal-title-group><journal-title>Frontiers in Immunology</journal-title></journal-title-group><issn pub-type="epub">1664-3224</issn><publisher><publisher-name>Frontiers Media SA</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC12819676</article-id><article-id pub-id-type="pmcid-ver">PMC12819676.1</article-id><article-id pub-id-type="pmcaid">12819676</article-id><article-id pub-id-type="pmcaiid">12819676</article-id><article-id pub-id-type="pmid">41573552</article-id><article-id pub-id-type="doi">10.3389/fimmu.2025.1706997</article-id><article-version-alternatives><article-version article-version-type="pmc-version">1</article-version><article-version article-version-type="Version of Record" vocab="NISO-RP-8-2008"/></article-version-alternatives><article-categories><subj-group subj-group-type="heading"><subject>Original Research</subject></subj-group></article-categories><title-group><article-title>Acetylsalicylic acid disrupts SARS-CoV-2 spike protein glycosylation and selectively impairs binding to ACE2</article-title></title-group><contrib-group><contrib contrib-type="author" corresp="yes" equal-contrib="yes"><name name-style="western"><surname>Perico</surname><given-names initials="L">Luca</given-names></name><xref rid="c001" ref-type="corresp">
+<sup>*</sup>
+</xref><xref rid="fn003" ref-type="author-notes">
+<sup>†</sup>
+</xref><uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://loop.frontiersin.org/people/1684079/overview"/><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="conceptualization" vocab-term-identifier="https://credit.niso.org/contributor-roles/conceptualization/">Conceptualization</role><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Funding acquisition" vocab-term-identifier="https://credit.niso.org/contributor-roles/funding-acquisition/">Funding acquisition</role><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Data curation" vocab-term-identifier="https://credit.niso.org/contributor-roles/data-curation/">Data curation</role><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Formal analysis" vocab-term-identifier="https://credit.niso.org/contributor-roles/formal-analysis/">Formal analysis</role><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="investigation" vocab-term-identifier="https://credit.niso.org/contributor-roles/investigation/">Investigation</role><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="methodology" vocab-term-identifier="https://credit.niso.org/contributor-roles/methodology/">Methodology</role><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Writing – original draft" vocab-term-identifier="https://credit.niso.org/contributor-roles/writing-original-draft/">Writing – original draft</role></contrib><contrib contrib-type="author" equal-contrib="yes"><name name-style="western"><surname>Bovio</surname><given-names initials="A">Alessandra</given-names></name><xref rid="fn003" ref-type="author-notes">
+<sup>†</sup>
+</xref><uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://loop.frontiersin.org/people/3276821/overview"/><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Data curation" vocab-term-identifier="https://credit.niso.org/contributor-roles/data-curation/">Data curation</role><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Formal analysis" vocab-term-identifier="https://credit.niso.org/contributor-roles/formal-analysis/">Formal analysis</role><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="investigation" vocab-term-identifier="https://credit.niso.org/contributor-roles/investigation/">Investigation</role><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="methodology" vocab-term-identifier="https://credit.niso.org/contributor-roles/methodology/">Methodology</role><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Writing – original draft" vocab-term-identifier="https://credit.niso.org/contributor-roles/writing-original-draft/">Writing – original draft</role></contrib><contrib contrib-type="author"><name name-style="western"><surname>Tomasoni</surname><given-names initials="S">Susanna</given-names></name><uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://loop.frontiersin.org/people/1596449/overview"/><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Data curation" vocab-term-identifier="https://credit.niso.org/contributor-roles/data-curation/">Data curation</role><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Formal analysis" vocab-term-identifier="https://credit.niso.org/contributor-roles/formal-analysis/">Formal analysis</role><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="investigation" vocab-term-identifier="https://credit.niso.org/contributor-roles/investigation/">Investigation</role><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="methodology" vocab-term-identifier="https://credit.niso.org/contributor-roles/methodology/">Methodology</role><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Writing – original draft" vocab-term-identifier="https://credit.niso.org/contributor-roles/writing-original-draft/">Writing – original draft</role></contrib><contrib contrib-type="author"><name name-style="western"><surname>Trionfini</surname><given-names initials="P">Piera</given-names></name><uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://loop.frontiersin.org/people/2136518/overview"/><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Data curation" vocab-term-identifier="https://credit.niso.org/contributor-roles/data-curation/">Data curation</role><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Formal analysis" vocab-term-identifier="https://credit.niso.org/contributor-roles/formal-analysis/">Formal analysis</role><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="investigation" vocab-term-identifier="https://credit.niso.org/contributor-roles/investigation/">Investigation</role><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="methodology" vocab-term-identifier="https://credit.niso.org/contributor-roles/methodology/">Methodology</role><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Writing – original draft" vocab-term-identifier="https://credit.niso.org/contributor-roles/writing-original-draft/">Writing – original draft</role></contrib><contrib contrib-type="author"><name name-style="western"><surname>Cerullo</surname><given-names initials="D">Domenico</given-names></name><uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://loop.frontiersin.org/people/552477/overview"/><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Data curation" vocab-term-identifier="https://credit.niso.org/contributor-roles/data-curation/">Data curation</role><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Formal analysis" vocab-term-identifier="https://credit.niso.org/contributor-roles/formal-analysis/">Formal analysis</role><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="investigation" vocab-term-identifier="https://credit.niso.org/contributor-roles/investigation/">Investigation</role><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="methodology" vocab-term-identifier="https://credit.niso.org/contributor-roles/methodology/">Methodology</role><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Writing – original draft" vocab-term-identifier="https://credit.niso.org/contributor-roles/writing-original-draft/">Writing – original draft</role></contrib><contrib contrib-type="author"><name name-style="western"><surname>Corna</surname><given-names initials="D">Daniela</given-names></name><uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://loop.frontiersin.org/people/3319021/overview"/><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Data curation" vocab-term-identifier="https://credit.niso.org/contributor-roles/data-curation/">Data curation</role><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Formal analysis" vocab-term-identifier="https://credit.niso.org/contributor-roles/formal-analysis/">Formal analysis</role><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="investigation" vocab-term-identifier="https://credit.niso.org/contributor-roles/investigation/">Investigation</role><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="methodology" vocab-term-identifier="https://credit.niso.org/contributor-roles/methodology/">Methodology</role><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Writing – original draft" vocab-term-identifier="https://credit.niso.org/contributor-roles/writing-original-draft/">Writing – original draft</role></contrib><contrib contrib-type="author"><name name-style="western"><surname>Pezzotta</surname><given-names initials="A">Anna</given-names></name><uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://loop.frontiersin.org/people/1684093/overview"/><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Data curation" vocab-term-identifier="https://credit.niso.org/contributor-roles/data-curation/">Data curation</role><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Formal analysis" vocab-term-identifier="https://credit.niso.org/contributor-roles/formal-analysis/">Formal analysis</role><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="investigation" vocab-term-identifier="https://credit.niso.org/contributor-roles/investigation/">Investigation</role><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="methodology" vocab-term-identifier="https://credit.niso.org/contributor-roles/methodology/">Methodology</role><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Writing – original draft" vocab-term-identifier="https://credit.niso.org/contributor-roles/writing-original-draft/">Writing – original draft</role></contrib><contrib contrib-type="author"><name name-style="western"><surname>Locatelli</surname><given-names initials="M">Monica</given-names></name><uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://loop.frontiersin.org/people/2615518/overview"/><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Data curation" vocab-term-identifier="https://credit.niso.org/contributor-roles/data-curation/">Data curation</role><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Formal analysis" vocab-term-identifier="https://credit.niso.org/contributor-roles/formal-analysis/">Formal analysis</role><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="investigation" vocab-term-identifier="https://credit.niso.org/contributor-roles/investigation/">Investigation</role><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="methodology" vocab-term-identifier="https://credit.niso.org/contributor-roles/methodology/">Methodology</role><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Writing – original draft" vocab-term-identifier="https://credit.niso.org/contributor-roles/writing-original-draft/">Writing – original draft</role></contrib><contrib contrib-type="author"><name name-style="western"><surname>Alberti</surname><given-names initials="M">Marta</given-names></name><uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://loop.frontiersin.org/people/719977/overview"/><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Data curation" vocab-term-identifier="https://credit.niso.org/contributor-roles/data-curation/">Data curation</role><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Formal analysis" vocab-term-identifier="https://credit.niso.org/contributor-roles/formal-analysis/">Formal analysis</role><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="investigation" vocab-term-identifier="https://credit.niso.org/contributor-roles/investigation/">Investigation</role><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="methodology" vocab-term-identifier="https://credit.niso.org/contributor-roles/methodology/">Methodology</role><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Writing – original draft" vocab-term-identifier="https://credit.niso.org/contributor-roles/writing-original-draft/">Writing – original draft</role></contrib><contrib contrib-type="author"><name name-style="western"><surname>Benigni</surname><given-names initials="A">Ariela</given-names></name><uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://loop.frontiersin.org/people/212384/overview"/><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="conceptualization" vocab-term-identifier="https://credit.niso.org/contributor-roles/conceptualization/">Conceptualization</role><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Funding acquisition" vocab-term-identifier="https://credit.niso.org/contributor-roles/funding-acquisition/">Funding acquisition</role><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="supervision" vocab-term-identifier="https://credit.niso.org/contributor-roles/supervision/">Supervision</role><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Writing – review &amp; editing" vocab-term-identifier="https://credit.niso.org/contributor-roles/writing-review-editing/">Writing – review &amp; editing</role></contrib><contrib contrib-type="author"><name name-style="western"><surname>Remuzzi</surname><given-names initials="G">Giuseppe</given-names></name><uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://loop.frontiersin.org/people/459226/overview"/><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="conceptualization" vocab-term-identifier="https://credit.niso.org/contributor-roles/conceptualization/">Conceptualization</role><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="supervision" vocab-term-identifier="https://credit.niso.org/contributor-roles/supervision/">Supervision</role><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Writing – review &amp; editing" vocab-term-identifier="https://credit.niso.org/contributor-roles/writing-review-editing/">Writing – review &amp; editing</role></contrib></contrib-group><aff id="aff1"><institution>Department of Molecular Medicine, Istituto di Ricerche Farmacologiche Mario Negri IRCCS</institution>, <city>Bergamo</city>, <country country="it">Italy</country></aff><author-notes><corresp id="c001"><label>*</label>Correspondence: Luca Perico, <email xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="mailto:luca.perico@marionegri.it">luca.perico@marionegri.it</email></corresp><fn fn-type="equal" id="fn003"><label>†</label><p>These authors have contributed equally to this work</p></fn></author-notes><pub-date publication-format="electronic" date-type="pub" iso-8601-date="2026-01-07"><day>07</day><month>1</month><year>2026</year></pub-date><pub-date publication-format="electronic" date-type="collection"><year>2025</year></pub-date><volume>16</volume><issue-id pub-id-type="pmc-issue-id">480569</issue-id><elocation-id>1706997</elocation-id><history><date date-type="received"><day>16</day><month>9</month><year>2025</year></date><date date-type="accepted"><day>09</day><month>12</month><year>2025</year></date><date date-type="rev-recd"><day>21</day><month>11</month><year>2025</year></date></history><pub-history><event event-type="pmc-release"><date><day>07</day><month>01</month><year>2026</year></date></event><event event-type="pmc-live"><date><day>22</day><month>01</month><year>2026</year></date></event><event event-type="pmc-last-change"><date iso-8601-date="2026-01-23 09:25:13.157"><day>23</day><month>01</month><year>2026</year></date></event></pub-history><permissions><copyright-statement>Copyright © 2026 Perico, Bovio, Tomasoni, Trionfini, Cerullo, Corna, Pezzotta, Locatelli, Alberti, Benigni and Remuzzi.</copyright-statement><copyright-year>2026</copyright-year><copyright-holder>Perico, Bovio, Tomasoni, Trionfini, Cerullo, Corna, Pezzotta, Locatelli, Alberti, Benigni and Remuzzi</copyright-holder><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense" start_date="2026-01-07">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>This is an open-access article distributed under the terms of the <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License (CC BY)</ext-link>. The use, distribution or reproduction in other forums is permitted, provided the original author(s) and the copyright owner(s) are credited and that the original publication in this journal is cited, in accordance with accepted academic practice. No use, distribution or reproduction is permitted which does not comply with these terms.</license-p></license></permissions><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pmc-pdf" xlink:href="fimmu-16-1706997.pdf"/><abstract><p>Preclinical and clinical evidence suggested the potential benefits of treatment with acetylsalicylic acid (ASA) in mitigating COVID-19 severity. While available studies largely focused on the intracellular pathways through which ASA impairs viral replication or dampens host immunoresponse stimulated by SARS-CoV-2, whether ASA directly affects the interaction between the viral spike protein and its cellular receptor angiotensin converting enzyme 2 (ACE2) remains unexplored. This question is clinically relevant, as circulating spike S1 has been shown to persist in patients with acute and long COVID-19, where its interaction with the broadly expressed ACE2 drives systemic manifestations and tissue damage. Here, we demonstrate that pre-incubation of the SARS-CoV-2 spike subunit 1 (S1) with ASA dose-dependently impaired ACE2 binding on Vero cells. The functional relevance of this finding was confirmed in transgenic mice with human ACE2, in which intratracheal administration of ASA-treated S1 markedly reduced lung injury, fibrosis, and inflammation compared to untreated S1. Glycoproteomic profiling revealed that ASA altered the glycosylation landscape of S1, particularly N-glycosylation at N61 and O-glycosylation at S325. Site-directed mutagenesis of these two residues confirmed the critical role of their glycosylation in S1-ACE2 binding <italic toggle="yes">in vitro</italic>. Consistently, the glycosylation-insensitive S1 had limited effect in inducing lung injury, fibrosis, and inflammation in transgenic mice compared to WT S1, phenocopying the protective effects of ASA. These findings unveil a previously unrecognized antiviral activity of ASA, providing a molecular rationale for its repurposing as a low-cost, readily available intervention to prevent the progression from mild to severe COVID-19.</p></abstract><kwd-group><kwd>COVID-19</kwd><kwd>SARS-CoV-2 spike protein</kwd><kwd>ACE2 binding</kwd><kwd>acetylsalicylic acid</kwd><kwd>glycosylation</kwd></kwd-group><funding-group><award-group id="gs1"><funding-source id="sp1">
+<institution-wrap><institution>Ministero dell'Università e della Ricerca</institution><institution-id institution-id-type="doi" vocab="open-funder-registry" vocab-identifier="10.13039/open_funder_registry">10.13039/501100021856</institution-id></institution-wrap>
+</funding-source></award-group><award-group id="gs2"><funding-source id="sp2">
+<institution-wrap><institution>Ministero della Salute</institution><institution-id institution-id-type="doi" vocab="open-funder-registry" vocab-identifier="10.13039/open_funder_registry">10.13039/501100003196</institution-id></institution-wrap>
+</funding-source></award-group><funding-statement>The author(s) declared that financial support was received for this work and/or its publication. This research was supported by Ministero della Salute, Italy, Bando della Ricerca Finalizzata (Project no. GR-2021–12374492) and partly by the EU funding within the NextGenerationEU-MUR PNRR Extended Partnership initiative on Emerging Infectious Diseases (Project no. PE00000007, INF-ACT). The present study was also supported by generous contributions from Banca d’Italia, Rome, Italy. The funders had no role in study design, data collection or analysis, decision to publish, or preparation of the manuscript.</funding-statement></funding-group><counts><fig-count count="4"/><table-count count="0"/><equation-count count="0"/><ref-count count="95"/><page-count count="16"/><word-count count="8930"/></counts><custom-meta-group><custom-meta><meta-name>pmc-status-qastatus</meta-name><meta-value>0</meta-value></custom-meta><custom-meta><meta-name>pmc-status-live</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-status-embargo</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-status-released</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-access</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-legally-suppressed</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-pdf</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-supplement</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-pdf-only</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-suppress-copyright</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-real-version</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-scanned-article</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-in-epmc</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-license-ref</meta-name><meta-value>CC BY</meta-value></custom-meta><custom-meta><meta-name>section-at-acceptance</meta-name><meta-value>Viral Immunology</meta-value></custom-meta></custom-meta-group></article-meta></front><body><sec sec-type="intro" id="s1"><title>Introduction</title><p>Coronavirus disease 2019 (COVID-19) is a communicable disease caused by SARS-CoV-2. In approximately 80-90% of infected individuals, SARS-CoV-2 infection is mainly restricted to the upper airways and manifests as a self-limiting illness with mild flu-like symptoms (<xref rid="B1" ref-type="bibr">1</xref>). In the remaining cases, an altered immune response facilitates uncontrolled viral replication in the lower airways, resulting in pneumonia and acute respiratory distress syndrome (<xref rid="B2" ref-type="bibr">2</xref>, <xref rid="B3" ref-type="bibr">3</xref>). In these severe forms, systemic dissemination of the virus to distal organs contributes to endothelial injury, microthrombotic complications (<xref rid="B4" ref-type="bibr">4</xref>–<xref rid="B8" ref-type="bibr">8</xref>), multiorgan failure (<xref rid="B9" ref-type="bibr">9</xref>–<xref rid="B11" ref-type="bibr">11</xref>), and death.</p><p>Intervening at the onset of mild to severe COVID-19 in the outpatient setting provides the opportunity to prevent disease progression and long-term complications (<xref rid="B12" ref-type="bibr">12</xref>). Recent clinical evidence indicates that anti-inflammatory drugs, particularly non-steroidal anti-inflammatory drugs (NSAIDs), represent a promising therapeutic approach to limit COVID-19 severity (<xref rid="B13" ref-type="bibr">13</xref>). Indeed, several observational studies have evaluated NSAIDs, especially selective cyclooxygenase-2 (COX-2) inhibitors, as part of multipharmacological protocols for early outpatient treatment (<xref rid="B14" ref-type="bibr">14</xref>, <xref rid="B15" ref-type="bibr">15</xref>).</p><p>Among these compounds, aspirin (acetylsalicylic acid, ASA) has been shown to reduce in-hospital mortality and severe outcomes in COVID-19 patients, as reported in several retrospective analyses and meta-analyses involving thousands of patients (<xref rid="B16" ref-type="bibr">16</xref>–<xref rid="B31" ref-type="bibr">31</xref>), although with mixed results (<xref rid="B32" ref-type="bibr">32</xref>, <xref rid="B33" ref-type="bibr">33</xref>). The primary mechanism of action of ASA is attributed to its ability to acetylate serine residues in the active site of COX-2 and COX-1, thereby inhibiting their activity (<xref rid="B34" ref-type="bibr">34</xref>). By targeting COX-2, ASA reduces the production of prostaglandins, which are critical mediators of the inflammatory response. Simultaneously, inhibition of COX-1 in platelets diminishes thromboxane A2 synthesis (<xref rid="B34" ref-type="bibr">34</xref>), a key molecule involved in promoting platelet aggregation and vasoconstriction. This antithrombotic effect has positioned ASA as a candidate for preventing thromboembolic events in severe disease (<xref rid="B35" ref-type="bibr">35</xref>), which are strongly associated with COVID-19 mortality risk (<xref rid="B4" ref-type="bibr">4</xref>–<xref rid="B8" ref-type="bibr">8</xref>).</p><p>Beyond these anti-inflammatory and anti-thrombotic effects, ASA has demonstrated direct antiviral activity against various RNA viruses, including hepatitis (<xref rid="B36" ref-type="bibr">36</xref>–<xref rid="B38" ref-type="bibr">38</xref>), flavivirus (<xref rid="B39" ref-type="bibr">39</xref>), rotavirus (<xref rid="B40" ref-type="bibr">40</xref>), and respiratory viruses (<xref rid="B41" ref-type="bibr">41</xref>–<xref rid="B43" ref-type="bibr">43</xref>), as well as DNA viruses such as varicella zoster (<xref rid="B44" ref-type="bibr">44</xref>, <xref rid="B45" ref-type="bibr">45</xref>) and cytomegalovirus (<xref rid="B46" ref-type="bibr">46</xref>). In the context of COVID-19, evidence indicates that ASA inhibits SARS-CoV-2 replication both in cell culture and in <italic toggle="yes">ex vivo</italic> models using human precision-cut lung slices (<xref rid="B47" ref-type="bibr">47</xref>). These studies revealed that ASA exerts antiviral activity through multiple mechanisms, including inhibition of viral replication, acetylation of viral or host proteins, suppression of NF-κB signaling, and modulation of host metabolic and post-translational pathways, ultimately limiting viral transcription and assembly.</p><p>While these findings primarily focused on the intracellular mechanisms by which ASA modulates viral replication or attenuates host cell responses, it remains unclear whether ASA can directly interfere with the interaction between the viral spike protein and its receptor angiotensin converting enzyme 2 (ACE2). Blocking the S1–ACE2 interaction is particularly important, as high levels of circulating SARS-CoV-2 antigens, particularly the spike protein S1 subunit (S1), have been detected in patients with severe disease (<xref rid="B48" ref-type="bibr">48</xref>, <xref rid="B49" ref-type="bibr">49</xref>). In addition, the widespread distribution of ACE2 across multiple organs enables receptor engagement by S1 and activation of detrimental signaling pathways, thereby contributing to systemic symptoms and multi-organ involvement, such as cardiopulmonary manifestations (<xref rid="B48" ref-type="bibr">48</xref>, <xref rid="B49" ref-type="bibr">49</xref>). Additionally, circulating S1 has been detected in the post-acute sequelae of long-COVID (<xref rid="B50" ref-type="bibr">50</xref>, <xref rid="B51" ref-type="bibr">51</xref>). As an example, persistence of spike protein at the skull-meninges-brain axis has been associated with the neurological sequelae of long-COVID (<xref rid="B52" ref-type="bibr">52</xref>). Therefore, blocking spike–ACE2 interaction during SARS-CoV-2 infection may have therapeutic relevance in mitigating systemic complications beyond viral entry in the respiratory tract.</p><p>In this study, we sought to investigate the potential effects of ASA on the spike protein of SARS-CoV-2, specifically assessing its ability to interfere with spike–ACE2 binding. Clarifying this potential mode of action is critical in the context of repurposing ASA as an affordable therapeutic option, as disrupting spike–ACE2 binding could prevent the downstream cascade leading to organ injury, thrombosis, and long-term complications associated SARS-CoV-2 infection (<xref rid="B53" ref-type="bibr">53</xref>–<xref rid="B55" ref-type="bibr">55</xref>).</p></sec><sec sec-type="results" id="s2"><title>Results</title><sec id="s2_1"><title>Treatment with ASA reduces cell surface binding of recombinant SARS-CoV-2 S1 protein in a dose-dependent manner</title><p>In an initial attempt to assess the ability of ASA to alter S1 binding to ACE2, we developed an <italic toggle="yes">in vitro</italic> system using Vero cells exposed to recombinant S1 subunit (S1) of the spike protein of SARS-CoV-2, which contains the receptor binding domain (RBD) for ACE2 interaction (<xref rid="B56" ref-type="bibr">56</xref>, <xref rid="B57" ref-type="bibr">57</xref>). First, we assessed the impact of different concentrations of the S1 protein on Vero cells. In this setting, an irrelevant isotype antibody or a functional blocking antibody targeting ACE2 were used to determine whether this toxicity was dependent on S1-ACE2 binding. As shown in <xref rid="SM1" ref-type="supplementary-material"><bold>Supplementary Figure 1A</bold></xref>, the exposure of Vero cells to increasing concentrations of S1 (10, 20, and 50 nM) in the presence of an irrelevant isotype antibody induced a dose-dependent decrease in cell viability after 24 hours. In contrast, co-incubation with the anti-ACE2 blocking antibody effectively prevented cell toxicity at 10 and 20 nM (<xref rid="SM1" ref-type="supplementary-material"><bold>Supplementary Figure 1A</bold></xref>). However, 50 nM S1 still induced a significant reduction in cell viability despite ACE2 blockade (<xref rid="SM1" ref-type="supplementary-material"><bold>Supplementary Figure 1A</bold></xref>), suggesting that, at this dose, the S1 cytotoxicity may occur <italic toggle="yes">via</italic> ACE2-independent mechanisms, such as off-target interactions or non-specific cytotoxic effects potentially arising from supraphysiological ligand levels.</p><p>Having identified the S1 concentrations that induce ACE2-dependent toxicity, we selected to use 20 nM S1 for subsequent experiments. Using immunofluorescence analysis, we observed a significant binding of the 20 nM S1 protein to the apical surface of Vero cells (<xref rid="SM1" ref-type="supplementary-material"><bold>Supplementary Figure 1B</bold></xref>). In this setting, we investigated whether ASA could reduce the binding affinity of S1. To this aim, S1 protein was incubated overnight with increasing concentrations of ASA. To ensure clinical relevance, we used three different concentrations of ASA (5, 20, and 50 mg/L), in the range of plasma levels achievable with oral doses of 500–1000 mg ASA (<xref rid="B58" ref-type="bibr">58</xref>). As shown in <xref rid="f1" ref-type="fig"><bold>Figure 1A</bold></xref>, pre-treatment with ASA was able to significantly inhibit the binding of S1 to Vero cells in a dose-dependent manner. Of note, this inhibitory effect was not observed when S1 was incubated with another compound, namely paracetamol (<xref rid="SM1" ref-type="supplementary-material"><bold>Supplementary Figure 2</bold></xref>), indicating the specific effect of ASA.</p><fig position="float" id="f1" orientation="portrait"><label>Figure 1</label><caption><p>ASA inhibits S1-ACE2 binding in Vero cells. <bold>(A)</bold> Representative images and quantification of the binding of spike protein (RBD, red) on Vero cells following 24 h treatment with 20 nM S1 incubated overnight with control medium (S1) or increasing concentrations of ASA in control medium (S1+ASA 5 mg/L, S1+ASA 20 mg/L, and S1+ASA 50 mg/L). Cell treated with medium alone served as control. Nuclei were counterstained with DAPI (blue). Data are expressed as % of positive area <italic toggle="yes">per</italic> high power field at ×63 magnification (% area/field, n=3 <italic toggle="yes">per</italic> group). Scale bar 20 µm. <bold>(B)</bold> Schematic representation (upper panel, created with BioRender.com) and quantification (lower panel) of the ELISA assay used to evaluate the binding of ACE2 to S1 protein treated overnight with PBS 1X (S1) or with increasing concentrations of ASA in PBS 1X (S1+ASA 5 mg/L, S1+ASA 20 mg/L, and S1+ASA 50 mg/L). Data are expressed as percentage of relative binding compared to S1 (n=7 <italic toggle="yes">per</italic> group). <bold>(C)</bold> Schematic representation (upper panel, created with BioRender.com) and quantification (lower panel) of the ELISA assay used to evaluate the binding of an anti-S1 antibody to S1 protein treated overnight in PBS 1X (S1) or with increasing concentrations of ASA (S1+ASA 5 mg/L, S1+ASA 20 mg/L, and S1+ASA 50 mg/L). Data are expressed as percentage of relative binding compared to S1 (n=4 <italic toggle="yes">per</italic> group). <bold>(D)</bold> Representative phase-contrast images showing the cytopathic effects in Vero cells at 4 days following exposure to SARS-CoV-2-positive swab incubated for 1 h with control medium (SARS-CoV-2 positive swab) or with ASA 20 mg/L (SARS-CoV-2 positive swab + ASA 20 mg/L). Cell treated with ASA 20 mg/L served as control. Scale bar 50 µm. Results are shown as mean ± SEM and were analyzed with Tukey’s multiple comparison test. **p-value&lt;0.01, and ***p-value&lt;0.001 <italic toggle="yes">vs</italic> control; °°p-value&lt;0.01, and °°°p-value&lt;0.001 <italic toggle="yes">vs</italic> S1.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="fimmu-16-1706997-g001.jpg"><alt-text content-type="machine-generated">Panel A shows microscopy images comparing control and S1 exposed or not to varying ASA concentrations, highlighting protein binding differences. Panel A also includes a graph quantifying S1 protein binding. Panel B illustrates ACE2 binding assays with a bar graph indicating percentage following treatments or not with different ASA concentrations. Panel C shows anti-RBD antibody assays with binding percentage data. Panel D presents microscopy images of SARS-CoV-2 positive swabs treated with ASA, showing morphological differences.</alt-text></graphic></fig><p>To further confirm the direct role of ASA in blocking the interaction between S1 and ACE2, we established an ELISA-based binding assay, adapted with minor modifications from previously published protocols (<xref rid="B59" ref-type="bibr">59</xref>). Specifically, S1 protein was treated or not with increasing concentrations of ASA (5, 20, and 50 mg/L) and then immobilized on ELISA plates (<xref rid="f1" ref-type="fig"><bold>Figure 1B</bold></xref>, upper panel). Following incubation with recombinant human ACE2 fused to a human Fc domain, binding of ACE2 to S1 was detected using an HRP-conjugated anti-human Fc secondary antibody (<xref rid="f1" ref-type="fig"><bold>Figure 1B</bold></xref>, upper panel). In this setting, ASA treatment was sufficient to impair S1-ACE2 binding efficiency in a dose-dependent manner, with a reduction of up to 50% at a dosage of 20 mg/L (<xref rid="f1" ref-type="fig"><bold>Figure 1B</bold></xref>, lower panel). This experimental setup also enabled us to assess the direct effect of ASA on the inhibition of ACE2–S1 interaction, while eliminating any potential confounding influence of ASA on the binding between S1 and the detection antibody. This latter effect was indeed marginal, as aspirin only partially limited the recognition of S1 by a specific anti-RBD antibody and this effect was independent of its dosage (<xref rid="f1" ref-type="fig"><bold>Figure 1C</bold></xref>).</p><p>Overall, these results demonstrate that ASA specifically impairs the binding of the S1 protein to ACE2 in a dose-dependent manner, both in cell-based and cell-free systems, supporting a direct effect of ASA on the molecular interaction between S1 and ACE2.</p></sec><sec id="s2_2"><title>Treatment with ASA inhibits binding of replication-competent SARS-CoV-2, limiting its cytopathic effect</title><p>To further validate the potential direct impact of ASA in disrupting the interaction between the spike protein and ACE2, we performed a cytopathic assay in Vero cells with replication-competent SARS-CoV-2. As depicted in the phase-contrast micrographs (<xref rid="f1" ref-type="fig"><bold>Figure 1D</bold></xref>, left panel), inoculation with the SARS-CoV-2 positive nasopharyngeal swab sample alone induced a distinct and extensive cytopathic effect in Vero cells after 4 days, characterized by widespread cellular rounding, syncytia formation, and detachment from the culture substrate, indicative of significant viral replication and subsequent cellular damage. Large areas of the cell monolayer exhibited marked disruption, consistent with the expected pathological effects of SARS-CoV-2 infection in susceptible cells. In contrast, when the SARS-CoV-2 positive viral sample was pre-incubated with 20 mg/L ASA, the cytopathic effect was strikingly abrogated (<xref rid="f1" ref-type="fig"><bold>Figure 1D</bold></xref>, middle panel). Under these conditions, the Vero cell monolayer largely maintained its integrity, exhibiting a healthy, confluent appearance with characteristic flat, polygonal cell morphology, comparable to that of uninfected control cells. Importantly, ASA alone had no detectable impact on the integrity of the Vero cell monolayer (<xref rid="f1" ref-type="fig"><bold>Figure 1D</bold></xref>, right panel).</p><p>Collectively, these results demonstrate the ability of ASA to attenuate the cytopathic effects induced by SARS-CoV-2 in Vero cells, highlighting its potential to block virus–host cell interactions in susceptible cells.</p></sec><sec id="s2_3"><title>Treatment with ASA limits the pathogenic effect of S1 in transgenic mice with human ACE2</title><p>To validate whether treatment of S1 with ASA blocks its binding to ACE2, thereby limiting organ damage, we employed a biologically relevant <italic toggle="yes">in vivo</italic> model of acute lung injury induced by SARS-CoV-2 S1 protein in transgenic mice expressing human ACE2 (hACE2-KI). To this end, mice received an intratracheal instillation of 15 µg S1 pre-incubated overnight in saline or 20 mg/L ASA. Hematoxylin and eosin staining of lung sections from mice instilled with S1 incubated with saline revealed significant histological changes at 7 days compared to hACE2-KI mice receiving vehicle (<xref rid="f2" ref-type="fig"><bold>Figure 2A</bold></xref>). In particular, S1-treated mice showed dilation of the alveolar spaces and increased thickness of the alveolar septa, associated with lung tissue hypercellularity within the alveolar parenchyma and in blood vessels, perivascular sites and spreading to larger interstitial areas (<xref rid="f2" ref-type="fig"><bold>Figure 2A</bold></xref>). These histological abnormalities were significantly attenuated in the lungs of hACE2-KI mice receiving S1 pre-incubated with ASA (<xref rid="f2" ref-type="fig"><bold>Figure 2A</bold></xref>).</p><fig position="float" id="f2" orientation="portrait"><label>Figure 2</label><caption><p>ASA prevents S1-induced lung injury, fibrosis and inflammation in hACE2-KI mice. <bold>(A, B)</bold> Representative images of lung sections stained with H&amp;E <bold>(A)</bold> and Masson’s trichrome <bold>(B)</bold> from mice receiving intratracheal instillation of vehicle, 15 μg S1 pre-treated overnight with vehicle (S1), 15 μg S1 pre-treated overnight with ASA 20 mg/L (ASA-treated S1) or 15 μg S1 pre-treated overnight with vehicle followed by ASA 20 mg/L administered immediately afterward through the same route (S1+ASA) at 7 days (n=3 <italic toggle="yes">per</italic> group). Scale bars: 100 µm for H&amp;E and 20 µm for Masson’s trichrome staining. <bold>(C-E)</bold> Representative images and quantification of fibronectin (<bold>C</bold>, red), MAC2<sup>+</sup> macrophages (<bold>D</bold>, red), and GR1<sup>+</sup> neutrophils (<bold>E</bold>, red) in lung tissue sections of mice receiving intratracheal instillation of vehicle, S1, ASA-treated S1 or S1+ASA at 7 days (n=3 <italic toggle="yes">per</italic> group). Lung structures and nuclei were counterstained with WGA lectin (green) and DAPI (blue), respectively. Scale bar: 20 µm. Data are expressed as % of fibronectin fluorescence area <italic toggle="yes">per</italic> high power field at ×63 magnification (% area/field) and the average number of MAC2<sup>+</sup> or GR1<sup>+</sup> cells <italic toggle="yes">per</italic> high power field at ×63 magnification. For all panels, results are shown as mean ± SEM and were analyzed with Tukey’s multiple comparison test. *p-value&lt;0.05, **p-value&lt;0.01, and ***p-value&lt;0.001 <italic toggle="yes">vs</italic> Vehicle; °°p-value&lt;0.01, and °°°p-value&lt;0.001 <italic toggle="yes">vs</italic> S1; <sup>##</sup>p-value&lt;0.01, and <sup>###</sup>p-value&lt;0.001 <italic toggle="yes">vs</italic> ASA-treated S1.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="fimmu-16-1706997-g002.jpg"><alt-text content-type="machine-generated">Panels A and B show histological images of lung tissue stained with hematoxylin and eosin and Masson's trichrome, respectively, across four conditions: Vehicle, S1, ASA-treated S1, and S1 + ASA. Panels C, D, and E display immunofluorescence images indicating fibronectin, macrophage, and neutrophil infiltration using different markers, with corresponding bar graphs quantifying expression levels for each condition. Each panel demonstrates marked differences in tissue structure and cell infiltration based on the treatments.</alt-text></graphic></fig><p>To further evaluate the impact of ASA on the S1 pathogenicity in the lungs, Masson’s Trichrome staining was performed to assess extracellular matrix remodeling across the experimental groups. Lungs from mice receiving vehicle exhibited well-preserved alveolar structures with no matrix deposition (<xref rid="f2" ref-type="fig"><bold>Figure 2B</bold></xref>). Conversely, mice instilled with S1 pre-incubated with saline displayed substantial and diffuse fuchsin-positive signal, reflecting intense extracellular matrix accumulation, as well as aniline blue staining, indicating increase in mature collagen fibers (<xref rid="f2" ref-type="fig"><bold>Figure 2B</bold></xref>). Pre-incubation of S1 with ASA reduced both fuchsin- and aniline-positive areas in the lungs of hACE2-KI mice (<xref rid="f2" ref-type="fig"><bold>Figure 2B</bold></xref>), suggesting the ability of ASA to reduce S1-induced pro-fibrotic processes (<xref rid="B60" ref-type="bibr">60</xref>).</p><p>To gain deeper insights into how ASA treatment affects the capacity of S1 to induce fibrosis, we examined the expression of fibronectin, a hallmark of nascent fibrotic remodeling that serves as the dominant matrix component providing a scaffold for collagen deposition (<xref rid="B61" ref-type="bibr">61</xref>). Immunofluorescence analyses revealed a significant increase in fibronectin expression in the lung of mice treated with S1 pre-incubated with saline compared to mice receiving vehicle (<xref rid="f2" ref-type="fig"><bold>Figure 2C</bold></xref>). Notably, S1 pre-incubated with ASA exhibited reduced pro-fibrotic activity, as evidenced by a significantly reduced expression of fibronectin in the lungs of hACE2-KI mice (<xref rid="f2" ref-type="fig"><bold>Figure 2C</bold></xref>).</p><p>We next investigated whether these effects functionally translated into a reduction in inflammatory cell infiltrates. To achieve this, we performed immunofluorescence analysis of MAC2<sup>+</sup> macrophages and GR1<sup>+</sup> neutrophils in lung tissue 7 days after S1 instillation. Quantification of MAC2<sup>+</sup> and GR1<sup>+</sup> cells disclosed a significant accumulation of macrophages (<xref rid="f2" ref-type="fig"><bold>Figure 2D</bold></xref>) and neutrophils (<xref rid="f2" ref-type="fig"><bold>Figure 2E</bold></xref>) in the lung of mice receiving S1 pre-incubated with saline compared to mice treated with vehicle. Pre-incubation of S1 with ASA effectively dampened the infiltration of inflammatory cells in the lungs of hACE2-KI mice (<xref rid="f2" ref-type="fig"><bold>Figures 2D, E</bold></xref>).</p><p>To rule out the possibility that ASA present in the pre-treated S1 preparation was responsible for the protective effects, an additional group of animals received intratracheal instillation of untreated S1 followed immediately by intratracheal delivery of 15 μl ASA 20 mg/L. Under this condition, S1 followed by ASA intratracheal administration still induced lung injury (<xref rid="f2" ref-type="fig"><bold>Figure 2A</bold></xref>), fibrosis (<xref rid="f2" ref-type="fig"><bold>Figures 2B, C</bold></xref>) and inflammatory cell infiltration (<xref rid="f2" ref-type="fig"><bold>Figures 2D, E</bold></xref>). This lack of protection confirms that ASA acts through direct structural modification of the S1 protein and excludes indirect anti-inflammatory effects of ASA in the context of the rapid, single-bolus exposure characteristic of our acute instillation model.</p><p>Taken together, these findings suggest that ASA has the potential to interfere with the interaction between the S1 protein and ACE2, thus attenuating S1-induced damage across ACE2-expressing tissues and limiting its widespread pathogenic effects.</p></sec><sec id="s2_4"><title>Treatment with ASA alters the glycosylation profile of S1</title><p>To elucidate the mechanism by which ASA inhibits the binding of S1 to ACE2, we focused on S1 protein glycosylation. This hypothesis was grounded in the extensive glycosylation of the S1 protein, which plays a pivotal role in spike protein folding, immune evasion (<xref rid="B62" ref-type="bibr">62</xref>), and ACE2 engagement (<xref rid="B63" ref-type="bibr">63</xref>, <xref rid="B64" ref-type="bibr">64</xref>), coupled with the previously reported antiglycation activity of ASA (<xref rid="B60" ref-type="bibr">60</xref>). To test this, we performed glycoproteomic profiling of S1 in the native state, as well as following treatment with 20 mg/L ASA to comprehensively define any potential ASA-induced glycosylation changes. As depicted in <xref rid="f3" ref-type="fig"><bold>Figure 3A</bold></xref>, the native S1 protein displayed 8 N-linked and 25 O-linked glycosylation sites (<xref rid="SM1" ref-type="supplementary-material"><bold>Supplementary Tables 1</bold></xref> and <xref rid="SM1" ref-type="supplementary-material"><bold>2</bold></xref>). In our experimental setting, ASA treatment selectively reduced N-linked glycosylation at N61 residue (<xref rid="f3" ref-type="fig"><bold>Figure 3A</bold></xref>), located in the N-terminal domain (NTD). In addition to this, ASA also limited O-linked glycosylation at multiple serine and threonine residues across distinct structural regions of the spike protein (<xref rid="f3" ref-type="fig"><bold>Figure 3A</bold></xref>). Specifically, we observed reduced O-linked glycosylation at T250 in the NTD, S325 and S494 within the RBD, and T572 and T645 in the subdomain 1 (SD1) and 2 (SD2).</p><fig position="float" id="f3" orientation="portrait"><label>Figure 3</label><caption><p>Structural mapping and functional relevance of glycosylation sites on SARS-CoV-2 S1 protein upon ASA treatment. <bold>(A)</bold> Schematic representation of the SARS-CoV-2 Spike S1 protein, comprising a signal peptide (SP, aa 1–13), the N-terminal domain (NTD; aa 14–305) a short interdomain linker (IL, aa 306–318), the receptor binding domain (RBD, aa 319–541), and subdomain 1 (SD1, aa 542–591) and subdomain 2 (SD2, aa 592–686). Glycoproteomic profiling revealed 8 N-linked and 25 O-linked glycosylation sites across different domains of S1. Treatment of the S1 with ASA 20 mg/L selectively removed N-glycosylation at residue N61 and O-glycosylation at residues T250, S325, S494, T572, and T645 (indicated in red). <bold>(B)</bold> Representative Western blot and quantification of S1 acetylation after overnight incubation in PBS or with increasing concentrations of ASA (ASA 5 mg/L, ASA 20 mg/L, and ASA 50 mg/L). Acetyl-lysine levels were detected using a rabbit anti-acetyl-lysine antibody, while a mouse anti-RBD antibody was used as loading control for normalization. Results are shown as mean ± SEM and were analyzed with Tukey’s multiple comparison test. *p-value&lt;0.05, and **p-value&lt;0.01 <italic toggle="yes">vs</italic> PBS. <bold>(C)</bold> Western blot analysis of wild-type S1 (S1 WT), mutant S1 N61D, and the double mutant S1 N61D/S325A, confirming successful expression and comparable molecular weight of the produced recombinant proteins. <bold>(D)</bold> Quantification of ACE2 binding to recombinant S1 proteins using the ELISA-based functional assay described in <xref rid="f1" ref-type="fig"><bold>Figure 1B</bold></xref>. Data are expressed as a percentage of ACE2 binding relative to S1 WT (n=12 <italic toggle="yes">per</italic> group). Results are shown as mean ± SEM and were analyzed with Tukey’s multiple comparison test. ***p-value&lt;0.001 <italic toggle="yes">vs</italic> S1 WT; °°°p-value&lt;0.001 <italic toggle="yes">vs</italic> S1 N61D.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="fimmu-16-1706997-g003.jpg"><alt-text content-type="machine-generated">Panel A displays a schematic of the S1 protein with and without ASA treatment, highlighting N-glycosylated and O-glycosylated sites. Panel B shows western blot results for lysine acetylation of S1 treated or not with different ASA concentrations, alongside a bar graph illustrating S1 acetylation levels. Panel C presents a protein gel with molecular weight markers for S1 wild type, S1 N61D, and S1 N61D/S325A. Panel D features a bar graph comparing ACE2 binding to different S1 variants, indicating significant changes.</alt-text></graphic></fig><p>Considering the well-known ability of ASA in inducing non-enzymatic acetylation of lysine residues (<xref rid="B34" ref-type="bibr">34</xref>), we next examined whether the observed changes in S1 glycosylation was accompanied by chemical modification of the S1 protein. To this end, we assessed S1 acetylation after exposure to increasing concentrations of ASA. As shown in <xref rid="f3" ref-type="fig"><bold>Figure 3B</bold></xref>, ASA induced a robust dose-dependent increase in S1 acetylation. This modification was evident at the lowest concentration tested (5 mg/L) and showed progressively strong enrichment at 20 mg/L and 50 mg/L (<xref rid="f3" ref-type="fig"><bold>Figure 3B</bold></xref>).</p><p>Altogether, these results indicate that ASA reshapes N- and O-linked glycosylation of the S1 protein, potentially through an acetylation-dependent process, thereby diminishing its capacity to bind ACE2.</p></sec><sec id="s2_5"><title>Site-directed mutagenesis confirms the critical role of glycosylation at N61 and S325 in mediating the interaction between S1 and ACE2</title><p>Among all the glycosylation sites modified by ASA, two specific residues, namely N61 and S325, have been previously described as potential modulators of S1-ACE2 interaction (<xref rid="B63" ref-type="bibr">63</xref>, <xref rid="B65" ref-type="bibr">65</xref>). To assess the direct contribution of glycosylation at N61 and S325 in S1 binding to ACE2, we performed site-directed mutagenesis of the S1 protein through a PCR-based method. The pUNO1His-SARS2-S1 plasmid, containing the SARS-CoV-2 Spike S1 open reading frame, was used as a template. We introduced targeted amino acid substitutions of asparagine 61 with aspartic acid (N61D) to disrupt N-linked glycosylation, and substitution of serine 325 with alanine (S325A) to abrogate O-linked glycosylation. Besides the N61D plasmid, we generated the double mutant (N61D/S325A) by sequential mutagenesis using the N61D plasmid as a template for the second round. Sanger sequencing confirmed the correct mutation of the two residues (<xref rid="SM1" ref-type="supplementary-material"><bold>Supplementary Figure 3</bold></xref>). WT and mutant proteins were purified from ExpiCHO cells transfected with the corresponding plasmids, and proper protein expression and purification was confirmed by Western blot analysis (<xref rid="f3" ref-type="fig"><bold>Figure 3C</bold></xref>). The resulting mutant proteins were used as coating antigens in the ELISA assay described in <xref rid="f1" ref-type="fig"><bold>Figure 1B</bold></xref> to assess ACE2 binding efficiency. In this experimental setup, the S1 protein featuring the N61D mutation showed a partial reduction in ACE2 binding efficiency when compared to its WT counterpart (<xref rid="f3" ref-type="fig"><bold>Figure 3D</bold></xref>). Notably, the double mutant harboring both N61D and S325A substitutions (N61D/S325A) exhibited an even more pronounced and statistically significant reduction in ACE2 binding efficiency than the single N61D mutation (<xref rid="f3" ref-type="fig"><bold>Figure 3D</bold></xref>).</p><p>Together, these findings provide direct evidence that simultaneous disruption of glycosylation at N61 and S325 is required to trigger a significant structural S1 rearrangement, hindering the recognition or accessibility to ACE2.</p></sec><sec id="s2_6"><title>Double S1 mutant has a limited pathogenic effect in transgenic mice with human ACE2</title><p>To evaluate whether the reduced binding to ACE2 caused by the N61D/S325A double mutation affects the pathogenicity and organ damage induced by the S1 protein <italic toggle="yes">in vivo</italic>, we administered the mutated recombinant S1 intratracheally into hACE2-KI mice. In stark contrast to the S1 WT, hematoxylin and eosin staining of lung tissue 7 days after administration of S1 N61D/S325A double mutant revealed a marked attenuation of histopathological features (<xref rid="f4" ref-type="fig"><bold>Figure 4A</bold></xref>). Specifically, lungs from these mice exhibited well-preserved alveolar architecture, with minimal thickening of the alveolar walls and no evidence of diffuse parenchymal hypercellularity or vascular congestion (<xref rid="f4" ref-type="fig"><bold>Figure 4A</bold></xref>). Consistently, Masson’s Trichrome staining showed a near-complete absence of collagen deposition in lungs exposed to the mutated S1 protein, with only sparse fuchsin- and aniline blue-positive areas compared to the extensive remodeling induced by S1 WT (<xref rid="f4" ref-type="fig"><bold>Figure 4B</bold></xref>). This was paralleled by significantly reduced fibronectin expression in the lungs of mice receiving S1 N61D/S325A double mutant (<xref rid="f4" ref-type="fig"><bold>Figure 4C</bold></xref>). Furthermore, analysis of inflammatory cells revealed limited infiltration of MAC2<sup>+</sup> macrophages (<xref rid="f4" ref-type="fig"><bold>Figure 4D</bold></xref>) and GR1<sup>+</sup> neutrophils in the lungs of mice receiving S1 N61D/S325A double mutant compared to S1 WT (<xref rid="f4" ref-type="fig"><bold>Figure 4E</bold></xref>), with cell counts comparable to vehicle-treated mice. In line with the <italic toggle="yes">in vitro</italic> data, the single-mutant S1 N61D was less effective in reducing the pathogenicity <italic toggle="yes">in vivo</italic> than the double mutant. Indeed, S1 N61D induced lung injury (<xref rid="f4" ref-type="fig"><bold>Figure 4A</bold></xref>), fibrosis (<xref rid="f4" ref-type="fig"><bold>Figures 4B, C</bold></xref>), and inflammatory cell infiltration (<xref rid="f4" ref-type="fig"><bold>Figures 4D, E</bold></xref>) at levels comparable to S1 WT, underscoring that the protective phenotype is specific to double N61D/S325A substitution.</p><fig position="float" id="f4" orientation="portrait"><label>Figure 4</label><caption><p>Glycosylation-deficient S1 double mutant displays reduced lung pathogenicity <italic toggle="yes">in vivo</italic>. <bold>(A, B)</bold> Representative images of lung sections stained with H&amp;E <bold>(A)</bold> and Masson’s trichrome <bold>(B)</bold> from mice receiving intratracheal instillation of vehicle, 15 μg wild-type S1 (S1 WT), 15 μg single S1 mutant (S1 N61D) or 15 μg double S1 mutant (S1 N61D/S325A) at 7 days (n=3 <italic toggle="yes">per</italic> group). Scale bars: 100 µm for H&amp;E and 20 µm for Masson’s trichrome staining. <bold>(C–E)</bold> Representative images and quantification of fibronectin (<bold>C</bold>, red), MAC2<sup>+</sup> macrophages (<bold>D</bold>, red), and GR1<sup>+</sup> neutrophils (<bold>E</bold>, red) in lung tissue sections of mice receiving intratracheal instillation of vehicle, S1 WT, S1 N61D or S1 N61D/S325A at 7 days (n=3 <italic toggle="yes">per</italic> group). Lung structures and nuclei were counterstained with WGA lectin (green) and DAPI (blue), respectively. Scale bar: 20 µm. Data are expressed as % of fibronectin fluorescence area <italic toggle="yes">per</italic> high power field at ×63 magnification (% area/field) and the average number of MAC2<sup>+</sup> or GR1<sup>+</sup> cells <italic toggle="yes">per</italic> high power field at ×63 magnification. For all panels, results are shown as mean ± SEM and were analyzed with Tukey’s multiple comparison test. **p-value&lt;0.01, and ***p-value&lt;0.001 <italic toggle="yes">vs</italic> Vehicle; °p-value&lt;0.05, °°p-value&lt;0.01, and °°°p-value&lt;0.001 <italic toggle="yes">vs</italic> S1 WT; <sup>#</sup>p-value&lt;0.05, and <sup>##</sup>p-value&lt;0.01 <italic toggle="yes">vs</italic> S1 N61D.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="fimmu-16-1706997-g004.jpg"><alt-text content-type="machine-generated">Panels A and B show histological images of lung tissue stainedwith hematoxylin and eosin and Masson's trichrome, respectively, across four conditions: Vehicle, S1 WT, S1 N61D, and S1 N61D/S325A. Panels C, D, and E display immunofluorescence images indicating fibronectin, macrophage, and neutrophil infiltration using different markers, with corresponding bar graphs quantifying expression levels for each condition. Each panel demonstrates marked differences in tissue structure and cell infiltration based on the treatments.</alt-text></graphic></fig><p>Altogether, these results demonstrate that the N61D/S325A double mutation, but not the single-mutant S1 N61D, mirrors the protective effects observed with ASA-treated S1, effectively preventing the organ damage and pathogenic responses induced by wild-type S1, further underscoring the specificity and functional relevance of the selected sites.</p></sec></sec><sec sec-type="discussion" id="s3"><title>Discussion</title><p>In the present study, we identify a novel antiviral activity of ASA that directly impairs the interaction between the S1 protein of SARS-CoV-2 and the human ACE2 receptor. Using a defined, cell-free system with recombinant S1 protein, we show that treatment with clinically relevant plasmatic concentrations of ASA (<xref rid="B58" ref-type="bibr">58</xref>) impairs S1–ACE2 binding independently of cellular metabolism or enzymatic processing. This experimental setup also allowed us to avoid the confounding influence of additional intracellular effects of ASA on host signaling pathways activated during SARS-CoV-2 infection, including NF-κB activation (<xref rid="B47" ref-type="bibr">47</xref>). These observations point to a distinct, non-canonical molecular mechanism of ASA in blocking S1 interaction with ACE2, separate from the well-established anti-inflammatory and antithrombotic effects of ASA.</p><p>This is of critical relevance considering that, beside facilitating viral entry, engagement of ACE2 by S1 triggers multiple detrimental signaling pathways known to participate in cellular responses, including inflammation, fibrosis and tissue damage (<xref rid="B66" ref-type="bibr">66</xref>), collectively contributing to COVID-19 severity. Therefore, the ability of aspirin to interfere with S1-ACE2 interaction and the consequent intracellular signaling may represent a critical mechanism to mitigate virus-induced tissue injury.</p><p>To assess whether the reduced S1-ACE2 binding induced by ASA effectively translates into meaningful tissue protection <italic toggle="yes">in vivo</italic>, we took advantage of mice transgenic for human ACE2 to maximize the binding of S1. Consistent with previous findings (<xref rid="B67" ref-type="bibr">67</xref>), intratracheal instillation of untreated S1 elicits marked histological lung damage, recapitulating key pathological features of COVID-19-related lung injury, including fibrosis and inflammation. In this setting, pre-incubation of recombinant S1 protein with ASA is sufficient to attenuate pulmonary injury, fibrosis, and inflammation in hACE2-KI mice, supporting a previously unreported role for ASA in modulating spike–receptor engagement. This is particularly relevant given that elevated levels of circulating SARS-CoV-2 antigens, especially the S1 subunit, are found in a significant proportion of patients during infection, correlating with cardiopulmonary symptoms (<xref rid="B48" ref-type="bibr">48</xref>, <xref rid="B49" ref-type="bibr">49</xref>), and persist in some cases during the post-acute phase, contributing to the pathophysiology of long COVID (<xref rid="B50" ref-type="bibr">50</xref>, <xref rid="B51" ref-type="bibr">51</xref>). Our findings may indicate that ASA inhibits circulating SARS-CoV-2 or viral antigens from binding to the host cellular receptor, thereby reducing tissue damage across ACE2-expressing organs. The broad tissue distribution of ACE2, which underlies the organ tropism and tissue-specific damage observed in severe SARS-CoV-2 infection (<xref rid="B68" ref-type="bibr">68</xref>), suggests that ASA may exert protective effects across multiple susceptible tissues by directly interfering with spike–ACE2 binding.</p><p>To uncover the molecular basis for these observed effects, we focused on protein glycosylation. This post-translational modification is particularly relevant for SARS-CoV-2. Indeed, the virus exhibits extensive glycosylation of the S protein (<xref rid="B63" ref-type="bibr">63</xref>, <xref rid="B64" ref-type="bibr">64</xref>), which plays a crucial role in proper protein folding, interaction with the host receptor, and evasion of the immune response (<xref rid="B62" ref-type="bibr">62</xref>). On top of that, ASA has been shown to exert antiglycation properties (<xref rid="B60" ref-type="bibr">60</xref>), raising the intriguing possibility that this mechanism underlies its ability to disrupt the binding of the S1 protein to ACE2. To investigate this hypothesis, we conducted a comprehensive glycopeptidomic analysis comparing native S1 protein with ASA-treated S1. In our experimental setting, we observed 8 occupied N-linked sites in the native S1 protein, a lower number compared to previous reports. Indeed, Watanabe and colleagues identified 13 putative N-glycosylation sites within the S1 domain using the trimeric full-length Spike protein expressed in HEK293F cells (<xref rid="B69" ref-type="bibr">69</xref>). In contrast, Sanda et al. reported 11 N-glycosylation sites when analyzing recombinant full-length Spike expressed in HEK293 cells (<xref rid="B70" ref-type="bibr">70</xref>). These differences likely reflect the well-recognized variability introduced by differences in Spike protein constructs (e.g., pre-fusion stabilized trimers, full-length protein, recombinant S1 protein), expression systems (e.g., HEK293, CHO), and glycoproteomic workflows (<xref rid="B70" ref-type="bibr">70</xref>–<xref rid="B74" ref-type="bibr">74</xref>). The possibility that distinct spike constructs exhibit differential N-glycan occupancy is exemplified by findings from Shajahan et al., who used a recombinant S1 protein expressed in HEK293 cells and observed that several of the predicted N-glycosylation sites remained unoccupied in a significant proportion of peptides (<xref rid="B75" ref-type="bibr">75</xref>), a pattern consistent with our observations using a similar recombinant S1 protein. As for O-glycosylation, our glycopeptidomic analysis revealed a higher number of O-linked sites in the natively expressed recombinant S1 compared to previous studies. For instance, Shajahan and colleagues identified 9 O-glycopeptides in SARS-CoV-2 S1 protein produced by HEK293 cells (<xref rid="B75" ref-type="bibr">75</xref>). However, Tian et al. reported a total of 17 <italic toggle="yes">O</italic>-glycosites on the spike protein extracted from SARS-CoV-2 virions (<xref rid="B76" ref-type="bibr">76</xref>). In line with this latter finding, our identification of a higher number of O-linked sites highlights the enhanced sensitivity of our analytical workflow and corroborates the view that the O-glycosylation profile of recombinant S1 may be more intricate than previously appreciated.</p><p>Irrespective of these inherent variations in native spike protein glycosylation, our data crucially revealed loss of specific glycan structures on S1 following treatment with ASA. Among these, we found that ASA impacted N- and O-glycosylation at N61 and S325, which have been previously implicated as critical modulators of S1–ACE2 interaction (<xref rid="B63" ref-type="bibr">63</xref>, <xref rid="B65" ref-type="bibr">65</xref>). Indeed, N61 is a conserved N-glycosylation site (N-X-S/T motif), consistently reported across multiple structural and glycoproteomic dataset (<xref rid="B63" ref-type="bibr">63</xref>, <xref rid="B73" ref-type="bibr">73</xref>). Although distal from the RBD, the N-glycosylation at N61 is proximal to the furin-site and may increase the steric hindrance for cleavage, which seems to be beneficial to SARS-CoV-2 entry (<xref rid="B63" ref-type="bibr">63</xref>, <xref rid="B77" ref-type="bibr">77</xref>). Additionally, S325 was recently unambiguously identified as an unexpected O-glycosylation site within the RBD (<xref rid="B75" ref-type="bibr">75</xref>). This residue has since been validated by multiple independent datasets (<xref rid="B69" ref-type="bibr">69</xref>, <xref rid="B73" ref-type="bibr">73</xref>, <xref rid="B78" ref-type="bibr">78</xref>–<xref rid="B82" ref-type="bibr">82</xref>), and proposed to influence spike–ACE2 binding affinity (<xref rid="B75" ref-type="bibr">75</xref>, <xref rid="B83" ref-type="bibr">83</xref>, <xref rid="B84" ref-type="bibr">84</xref>). Consistent with this, pharmacological inhibition of both N-linked and O-linked glycosylation significantly impairs viral entry (<xref rid="B77" ref-type="bibr">77</xref>), further supporting our findings that alterations in S1 glycosylation by ASA decrease its binding affinity for ACE2.</p><p>To directly test whether these changes in the glycosylation of these two critical residues have an impact on the binding activity of the spike protein, we performed site-directed mutagenesis experiments to substitute the asparagine (N) residue at position 61 with aspartic acid (N61D) and the serine (S) residue at position 325 with alanine (S325A), both of which prevent glycosylation at these sites. <italic toggle="yes">In vitro</italic>, the single mutation at residue N61 negatively modulated the binding activity of S1 to ACE2. Our data are in line with a previous study showing that single N61D mutation decreases S1 protein binding on the surface of cells (<xref rid="B85" ref-type="bibr">85</xref>). Adding another layer of complexity, our findings provide evidence that diminished O-glycan occupancy at S325 synergizes with the N61D mutation in reducing S1–ACE2 binding, thereby unveiling a previously unreported regulatory level in spike–host receptor interaction. The biological relevance of these two glycosylation sites on the functional properties of S1 was substantiated by <italic toggle="yes">in vivo</italic> experiments in hACE2-KI mice in which intratracheal administration of the N61D/S325A double mutant failed to induce significant alveolar damage, fibrotic remodeling, and immune cell recruitment. The convergence of results obtained with the mutated S1 and with ASA pre-treatment strengthens the hypothesis that interfering with S1 glycosylation at the ACE2 binding interface, either structurally or pharmacologically, is sufficient to mitigate the pathogenic activity of S1 in pulmonary tissue.</p><p>Altogether, these findings highlight a glycosylation-based mechanism through which ASA impairs its functional interaction with ACE2, ultimately exerting antiviral effects. Given that our system involved recombinant spike protein exposed directly to ASA, the observed glycosylation changes are strongly indicative of non-enzymatic chemical modifications. In this context, a plausible explanation involves the well-documented acetylating capacity of ASA (<xref rid="B86" ref-type="bibr">86</xref>), which may interfere with glycosylation through multiple mechanisms, including local conformational changes, or interactions with glycan chains themselves. In line with this hypothesis, in our experimental setting we found a detectable, dose-dependent increase in S1 acetylation upon ASA treatment. These findings support a structural mechanism by which ASA-induced acetylation may influence the local glycosylation environment. Importantly, both regions surrounding N61 and S325 contain multiple lysine residues that could potentially undergo ASA-dependent acetylation and contribute to these effects. Further studies, such as mass spectrometry, could elucidate the precise molecular interactions between ASA and spike protein, shedding more light on these novel findings.</p><p>From a clinical perspective, these insights complement the well-established anti-inflammatory and antithrombotic actions of ASA and offer a mechanistic rationale to guide the repurposing of ASA as an effective intervention to prevent the progression from mild to severe COVID-19. Although this study employed a recombinant S1 protein based on the original Wuhan-Hu-1 SARS-CoV-2 sequence, recent global sequencing efforts indicate that the N61 and S325 residues remain highly conserved across major circulating variants (<xref rid="B64" ref-type="bibr">64</xref>, <xref rid="B87" ref-type="bibr">87</xref>, <xref rid="B88" ref-type="bibr">88</xref>), including the more recent Omicron lineages. Crucially, recent site-specific glycoproteomic analyses have shown that both N- and O-glycosylation sites on the spike protein are largely conserved across major SARS-CoV-2 variants (<xref rid="B89" ref-type="bibr">89</xref>). This degree of conservation suggests that the modulatory effects of ASA on S1 glycosylation and its subsequent impact on ACE2 binding may therefore have clinical relevance beyond the ancestral strain. However, given the substantial amino acid diversification observed among SARS-CoV-2 variants, future studies should evaluate whether variant-specific residue substitutions, including the introduction or loss of lysine residues, may modulate the susceptibility of S1 to ASA-induced acetylation and, consequently, its inhibitory effect on ACE2 binding across different viral lineages. Finally, these findings may also have broader implications for other viral infections in which glycosylation plays a critical role in mediating virus–host interactions, such as influenza (<xref rid="B90" ref-type="bibr">90</xref>, <xref rid="B91" ref-type="bibr">91</xref>).</p><p>In conclusion, these insights expand the current understanding of the pharmacological profile of ASA and lay the groundwork for potential repurposing strategies against emerging respiratory viruses with glycosylation-dependent entry mechanisms.</p></sec><sec sec-type="materials|methods" id="s4"><title>Materials and methods</title><sec id="s4_1"><title>Study approval</title><p>All procedures involving animals were performed in accordance with institutional guidelines in compliance with national (D.L.n.26, March 4, 2014), and international laws and policies (directive 2010/63/EU on the protection of animals used for scientific purposes). This study was approved by the Institutional Animal Care and Use Committees of Istituto di Ricerche Farmacologiche Mario Negri IRCCS and by the Italian Ministry of Health (approval number 371/2023-PR).</p></sec><sec id="s4_2"><title>Animal experiments</title><p>A total of 24 male hemizygous B6.129S2(Cg)-Ace2<sup>tm1(ACE2)Dwnt/J</sup> (hACE2-KI) mice (strain #:035000; The Jackson Laboratory) were maintained in a specific pathogen-free facility at a constant temperature with a 12:12-h light/dark cycle and free access to a diet and water, as we previously described (<xref rid="B92" ref-type="bibr">92</xref>, <xref rid="B93" ref-type="bibr">93</xref>). At 12 weeks of age, n=9 hACE2-KI mice were anesthetized with isoflurane (4–5% induction, 2–3% maintenance) and randomly allocated to receive a 15 μL intratracheal instillation of 15 μg SARS-CoV-2 spike protein S1 produced in HEK293 cells (Invivogen, his-sars2-s1) incubated overnight in saline (S1, n=3 mice) or with 20 mg/L ASA (ASA-treated S1, n=3 mice). One group of animals received a 15 μL instillation of untreated S1 followed by ASA administered immediately afterward through the same route, serving as a control to exclude any confounding effect of residual ASA from the incubation step (S1 + ASA, n = 3 mice). In an additional experiment, n=9 hACE2-KI mice were randomly allocated to receive a 15 μL intratracheal instillation of 15 μg of S1 wild-type (S1 WT, n=3 mice), single S1 double mutant (S1 N61D, n=3 mice) or double S1 double mutant (S1 N61D/S325A, n=3 mice). In both settings, hACE2-KI mice receiving an intratracheal instillation of 15 μL saline served as controls (Vehicle, n = 6 mice). No mortality was observed throughout the experimental period. Following 7 days, mice were euthanized by CO<sub>2</sub> at a flow rate of 30% of the chamber volume <italic toggle="yes">per</italic> minute (Quietek™ 1, Next Advance, Inc.) and lungs processed for subsequent analyses. The researchers conducting the procedures on the animals and all subsequent analyses were blinded to the treatments. No inclusion or exclusion parameters were used. The work has been reported in line with the 2.0ARRIVE guidelines (<xref rid="B94" ref-type="bibr">94</xref>).</p></sec><sec id="s4_3"><title>Lung histology and fibrosis</title><p>Lung samples were fixed in formalin. Paraffin-embedded sections (4-μm thick) were stained with hematoxylin–eosin and assessed by light microscopy. Lung fibrosis was evaluated on paraffin-embedded sections stained with Masson’s trichrome to highlight collagen deposition.</p></sec><sec id="s4_4"><title><italic toggle="yes">In vivo</italic> immunofluorescence analysis</title><p>Optimum Cutting Temperature (OCT)-frozen lung sections (4-μm thick) were fixed in paraformaldehyde (PFA) 4% incubated with 1% BSA to block nonspecific sites. The sections were then incubated with the rabbit anti-fibronectin (1:600; Abcam, ab2040), rat anti-GR1 antibody that recognizes the lymphocyte antigen 6 complex locus G6D (Ly6G; 1:50; Caltag, RM3000), rat anti-macrophage antigen 2 (MAC2; 1:200; Cederlane, CL8942AP) followed by the corresponding Cy3-conjugated secondary antibodies (Jackson ImmunoResearch Laboratories), as appropriate. Negative controls were obtained by omitting the primary antibody on adjacent sections. Lung structure was counterstained with FITC-wheat germ agglutinin (WGA) lectin (Vector Laboratories, FL-1021). Nuclei were counterstained with 4’,6-diamidino-2-phenylindole (DAPI, Sigma-Aldrich). Samples were examined under confocal inverted laser microscopy (Leica TCS SP8, Leica Microsystems). The expression of fibronectin in the lung was quantified with ImageJ (version 1.40g). Digitized images were binarized using a threshold, the values were expressed as the percentage of the area occupied by the staining <italic toggle="yes">per</italic> total area in an average of 10 high-power fields at ×63 magnification. For quantification of neutrophil and macrophage infiltration, GR1<sup>+</sup> or MAC2<sup>+</sup> cells were counted in an average of 10 high-power fields at ×63 magnification and expressed as the average number of cells <italic toggle="yes">per</italic> field.</p></sec><sec id="s4_5"><title>Cell culture and incubations</title><p>VERO C1008 (Vero 76, cloneE6, Vero E6; ATCC, CRL1586; RRID: CVCL_0574) were cultured in Eagle’s minimal essential medium (EMEM; ATCC, 302003) supplemented with 10% heat inactivated fetal bovine serum (FBS) and 1X penicillin/streptomycin (P/S).</p><p>For cell viability studies, VERO C1008 cells were seeded at 80.000 cells/cm<sup>2</sup> in 24 well plate. At confluence, cells were exposed to control medium alone (EMEM supplemented with 2% FBS, 1X P/S) or with S1 at a concentration of 10 nM, 20 nM, and 50 nM in the presence of anti-ACE2 functional blocking antibody (α-ACE2, 2 μg/ml, Adipogen, AG-20A-0037PF) or the corresponding normal mouse IgG (IRR; Santa Cruz, sc-2025). After 24 hours, cells were detached and counted.</p></sec><sec id="s4_6"><title>Immunofluorescence analysis</title><p>For immunofluorescence analysis, VERO C1008 cells were seeded 80.000 cells/cm<sup>2</sup> on coverslips. At confluence, cells were incubated for 24 hours with either control medium or 20 nM of the S1 protein that had been pre-incubated overnight with control medium or with acetylsalicylic acid (ASA; Sigma-Aldrich, A5376) diluted in at concentrations of 5, 20, or 50 mg/L. In selected experiments, 20 nM of the S1 protein was incubated with 20 mg/L paracetamol (PARA; Sigma-Aldrich, P0300000). After treatments, cells were fixed in 2% paraformaldehyde (PFA, Electron Microscopy Science) and 4% sucrose (Sigma-Aldrich) for 20 minutes. Non-specific binding sites were blocked with 2% FCS, 2% BSA, and 0.2% bovine gelatine in PBS 1X. Cells were incubated with a mouse anti-SARS-CoV-2 RBD (1:1,000; Abcam, ab277624), followed by incubation with a goat anti-mouse Cy3-conjugated (1:80; Jackson ImmunoResearch Laboratories). Negative controls were obtained by omitting primary antibodies. Nuclei were counterstained with DAPI (Sigma-Aldrich). After mounting with Dako (Agilent Technologies), cover slips were examined using confocal microscope.</p><p>The binding of S1 to VERO C1008 was quantified with ImageJ. Digitized images were binarized using a threshold, the values were expressed as the percentage of the area occupied by the staining <italic toggle="yes">per</italic> total area in an average of 10 high-power fields at ×63 magnification.</p></sec><sec id="s4_7"><title>Infectivity assay</title><p>For SARS-CoV-2 infection, VERO C1008 cells were seeded at 80.000 cells/cm<sup>2</sup> in 48 well plate, as we previously described (<xref rid="B95" ref-type="bibr">95</xref>). To evaluate the infection potential, 200 µl of SARS-CoV-2 positive nasopharyngeal swab (UTM™, Copan Italia) was preincubated or not with 20 mg/L ASA for 1 hour and inoculated on confluent VERO C1008 cells in 300 µl of EMEM, 2% FBS, 1X P/S, and 5 μg/mL TPCK-treated trypsin (Sigma Aldrich). After 2-hour incubation at 37 °C in 5% CO<sub>2</sub>, infection medium was discarded and 500 µl of fresh EMEM, 2% FBS, 1X P/S, and 5 μg/mL TPCK-treated trypsin was added to each well. Cells were observed daily for evidence of cytopathic effects.</p></sec><sec id="s4_8"><title>ELISA assay</title><p>ELISA-based binding activity of ACE2 to S1 protein was adapted with minor modifications from previously published protocols (<xref rid="B59" ref-type="bibr">59</xref>). Briefly, 96-well plates (Bethyl Laboratories, E101) were coated with 200 ng S1 incubated or not with 10 mg/L, 20 mg/L, or 50 mg/L ASA in PBS 1X overnight. In additional experiments, 200 ng of S1 wild type (S1 WT), single S1 mutant (N61D), or double S1 mutant (N61D/S325A) were used as coating antigens. The following day, wells were washed and incubated with blocking buffer (50 mM Tris buffered saline, pH 8.0, 1% BSA; Bethyl Laboratories, E101) for 30 minutes at room temperature. Then, wells were incubated with 0.1 μg/mL ACE2 with C-term human Fc tag (Invivogen, fc-hace2) for 1 hour at room temperature in PBS 1X. A rabbit anti-spike antibody (Abcam, ab275759) was used as positive control. After washing, wells were incubated with a goat anti-human Fc HRP affinity pure (Invitrogen, A18817). The chromogenic reaction was quantified following the addition of TMB substrate and stop solution (Bethyl Laboratories, E101). The absorbance of the samples was measured on the multimode microplate reader TECAN Infinite M200<sup>®</sup> PRO at 450 nm with a reference wavelength of 650 nm.</p></sec><sec id="s4_9"><title>Glycopeptidomics and glycosylation site mapping of SARS-CoV-2 S1 protein</title><p>Glycopeptidomics analysis was performed by Creative Proteomics (Shirley, NY, USA) on recombinant SARS-CoV-2 S1 proteins (untreated and ASA-treated), expressed in HEK293 cells. Approximately 100 µg of each protein sample was processed using the following workflow. Proteins were first buffer-exchanged using Microcon YM-10 centrifugal filter units (Millipore), followed by reduction with 10 mM dithiothreitol (DTT) at 56 °C for 1 hour and alkylation with 20 mM iodoacetamide (IAA) at room temperature in the dark for 1 hour. After removal of reagents by centrifugation and washing with 50 mM ammonium bicarbonate, the proteins were digested overnight at 37 °C with sequencing-grade trypsin (Promega) at an enzyme-to-substrate ratio of 1:50. The resulting peptides were recovered by centrifugation and lyophilized to near dryness. Prior to LC-MS/MS analysis, peptides were reconstituted in 20 µL of 0.1% formic acid. Peptides were analyzed using an Ultimate 3000 nano UHPLC system coupled to a Q Exactive HF mass spectrometer (Thermo Fisher Scientific) with an ESI nanospray source. Peptides were loaded onto a trapping column (PepMap C18, 100 Å, 100 µm × 2 cm, 5 µm) and separated on an analytical column (PepMap C18, 100 Å, 75 µm × 50 cm, 2 µm) using a linear gradient of 0.1% formic acid in 80% acetonitrile at a flow rate of 250 nL/min. The gradient progressed as follows: 2–8% B in 3 min, 8–20% B in 50 min, 20–40% B in 43 min, and 40–90% B in 4 min. The MS full scan was acquired over 300–1650 m/z at a resolution of 60,000 (at 200 m/z), with an AGC target of 3e6. MS/MS spectra were acquired in Top20 mode with a resolution of 15,000, AGC target of 1e5, maximum injection time of 19 ms, and normalized collision energy of 28%. Dynamic exclusion was set to 30 s. Singly charged and &gt;6-charged ions were excluded. Raw MS data were analyzed using Byonic software, with the protein sequence provided by the client as the reference. A glycopeptide score threshold of ≥300 was applied to ensure high-confidence identifications. N- and O-linked glycosylation sites were mapped across the S1 protein.</p></sec><sec id="s4_10"><title>Site-directed mutagenesis</title><p>Site-directed mutagenesis was performed to introduce specific amino acid substitutions in the S1 protein of the SARS-CoV-2 Spike protein, encoded in the pUNO1His-SARS2-S1 plasmid (InvivoGen, p1his-cov2-s1), targeting predicted glycosylation sites. Mutations were introduced using the Phusion™ Site-Directed Mutagenesis kit (Thermo Fisher Scientific, F541) following the manufacturer’s instructions. For each mutation, specific mutagenic primers were designed with the desired nucleotide substitution centrally located. Briefly, the asparagine at position 61 was replaced with aspartic acid (N61D) to disrupt N-linked glycosylation, and serine at position 325 with alanine (S325A) to abrogate O-linked glycosylation. The optimal annealing temperature for each primer pair was calculated using the Thermo Fisher Scientific Tm Calculator tool (available at: thermofisher.com/tmcalculator). For the generation of the double mutant (S1 N61D/S325A), the plasmid containing the N61D mutation was used as the template for a second round of mutagenesis using the primer pair specifically designed for the S325A mutation. The final reaction products were transformed into One Shot™ TOP10 Chemically Competent E. coli cells (Thermo Fisher, C4040-10) by heat shock at 42 °C for 30 seconds. Transformed cells were plated on LB low salt agar containing 100 µg/mL of Blasticidin (InvivoGen, ant-bl-1) as the selective antibiotic, and insertion of the N61D and N61D/S325A mutations, together with the absence of any non-specific mutations, was confirmed by Sanger sequencing of the plasmids (purified through NucleoSpin Plasmid, Mini kit for plasmid DNA, Macherey-Nagel) using the BigDye™ Terminator v3.1 Cycle Sequencing Kit (Thermo Fisher Scientific), according to the manufacturer’s protocol. Sequencing analyses were carried out on the 48-capillary 3730 DNA Analyzer (Life Technologies). The results were aligned using SnapGene software. Large scale plasmid purification from the selected colonies was performed using EndoFree Plasmid Maxi kit (Qiagen, 12362), according to the manufacturer instructions. Sequences of primers used for mutagenesis and sequencing are reported in <xref rid="SM1" ref-type="supplementary-material"><bold>Supplementary Table 3</bold></xref>.</p></sec><sec id="s4_11"><title>Expression and purification of S1 proteins in ExpiCHO cells</title><p>Confirmed wild-type and site-directed mutant plasmids of the SARS-CoV-2 spike S1 protein were transfected into ExpiCHO™ cells using the ExpiCHO™ expression system (Thermo Fisher Scientific, A29133) following the manufacturer’s instructions for optimized max-yield protein expression protocol. ExpiCHO-S™ cells were cultured in ExpiCHO Expression Medium in a humidified incubator at 37 °C, 8% CO<sub>2</sub> in Erlenmeyer shaker flasks on an orbital shaker platform at a speed of 125 rpm. Cells were passaged every 2–3 days and kept in log-phase growth, ensuring viability &gt;95% prior to transfection. For transfection, cultures were seeded at density of 6×10<sup>6</sup> cells/mL in fresh pre-warmed medium and each plasmid DNA (1 µg/mL) was diluted in OptiPRO™ SFM and mixed with ExpiFectamine™ CHO reagent for 5 minutes at room temperature, according to the manufacturer’s instructions. After incubation to allow complex formation, the transfection mixture was added directly to the cultures. ExpiCHO™ Enhancer and Feed supplements were added at 24-hours post-transfection and cells were shifted to 32 °C and 5% CO<sub>2</sub> with shaking. A second volume of ExpiCHO™ Feed was added on day 5 post-transfection to boost protein expression. Cultures were maintained for 12–14 days, and supernatants were harvested by centrifugation at 4000 × g for 30 minutes at 4 °C. Recombinant S1 proteins, both wild-type and mutated forms, were purified from the clarified supernatants by immobilized metal affinity chromatography (IMAC) using HisPur™ Ni-NTA Spin Purification kit (Thermo Scientific, 88229), equilibrated in 200 mM sodium phosphate, 3 M sodium chloride, pH 7.4, and eluted with 250 mM imidazole. Eluted proteins were concentrated using Centrifugal Filters NeoSpin 10 KD (CliniSciences, NB-57-0007), protein concentration was determined using the BCA Protein Assay Kit (Thermo Scientific) and diluted in saline to a final concentration of 1 mg/mL. Purity and integrity were assessed by Western blot. Specifically, 1 µg of each S1 WT and S1 mutant proteins was resolved on a 4–15% Mini-PROTEAN<sup>®</sup> TGX™ Precast Protein Gels (Bio-Rad Laboratories, 4561084). Proteins were then transferred to 0.2 µm nitrocellulose membranes (Bio-Rad Laboratories, 1704159) and verified by Ponceau S staining.</p></sec><sec id="s4_12"><title>Western blot analysis of S1 acetylation</title><p>For the analysis of S1 acetylation, 1 µg of untreated or ASA-treated S1 was resolved on a 4–15% Mini-PROTEAN<sup>®</sup> TGX™ Precast Protein Gels (Bio-Rad Laboratories) and transferred to 0.2 µm nitrocellulose membranes (Bio-Rad Laboratories). After blocking with 5% bovine serum albumin (BSA) in Tris-buffered saline supplemented with 0.1% Tween-20, membranes were incubated overnight at 4 °C with rabbit anti-acetylated lysine (1:1,000; Cell Signaling, #9441) and mouse anti-SARS-CoV-2 RBD (1:1,000; Abcam, ab277624). The signals were visualized on Odyssey<sup>®</sup>FC Imaging System (LiCor) by infrared (IR) fluorescence using a donkey anti-rabbit IRDye 680LT (1:1,000; LiCor, 926-68023) or a goat anti-mouse IRDye 800CW (1:1,000; LiCor, 926-32210) secondary antibody, as appropriate. Bands were quantified by densitometry using the Image Studio Lite 5.0 (LiCor) software.</p></sec><sec id="s4_13"><title>Sample size and statistical analysis</title><p>The sample size of the <italic toggle="yes">in vivo</italic> studies was estimated based on our preliminary data showing a marked increase in neutrophil infiltration in S1-treated animals (mean ± SD: 9.7 ± 3.0) compared to controls (1.6 ± 0.2). In this setting, we estimated an effect size (Cohen’s d) of ~3.8. Using standard power calculations (α=0.05, power=0.8), a minimum of 3 animals <italic toggle="yes">per</italic> group is sufficient to detect statistically significant differences.</p><p>All data are presented as the mean ± standard error of the mean (SEM). Data analysis was performed using Prism Software (GraphPad Software Inc). Comparisons were made using unpaired t-test or ANOVA with Tukey <italic toggle="yes">post hoc</italic> test, as appropriate. Statistical significance was defined as p-value&lt;0.05. The sample size for each analysis is indicated in the corresponding figure legend. The datasets presented in this study can be found in the online repository Zenodo (10.5281/zenodo.17659820). </p></sec></sec></body><back><fn-group><fn id="n1" fn-type="edited-by"><p>Edited by: <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://loop.frontiersin.org/people/2870977" ext-link-type="uri">Amit Sharma</ext-link>, North Carolina State University, United States</p></fn><fn id="n2" fn-type="reviewed-by"><p>Reviewed by: <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://loop.frontiersin.org/people/2128534" ext-link-type="uri">Mahesh Agarwal</ext-link>, National Cancer Institute at Frederick (NIH), United States</p><p><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://loop.frontiersin.org/people/2755186" ext-link-type="uri">Mark Peeples</ext-link>, Nationwide Children’s Hospital, United States</p></fn></fn-group><sec sec-type="data-availability" id="s5"><title>Data availability statement</title><p>The original contributions presented in the study are included in the article/<xref rid="SM1" ref-type="supplementary-material"><bold>Supplementary Material</bold></xref>. Further inquiries can be directed to the corresponding author.</p></sec><sec sec-type="ethics-statement" id="s6"><title>Ethics statement</title><p>Ethical approval was not required for the studies on humans in accordance with the local legislation and institutional requirements because only commercially available established cell lines were used. The animal study was approved by Italian Ministry of Health (approval number 371/2023-PR). The study was conducted in accordance with the local legislation and institutional requirements.</p></sec><sec sec-type="author-contributions" id="s7"><title>Author contributions</title><p>LP: Conceptualization, Funding acquisition, Data curation, Formal analysis, Investigation, Methodology, Writing – original draft. ABo: Data curation, Formal analysis, Investigation, Methodology, Writing – original draft. ST: Data curation, Formal analysis, Investigation, Methodology, Writing – original draft. PT: Data curation, Formal analysis, Investigation, Methodology, Writing – original draft. DCe: Data curation, Formal analysis, Investigation, Methodology, Writing – original draft. DCo: Data curation, Formal analysis, Investigation, Methodology, Writing – original draft. AP: Data curation, Formal analysis, Investigation, Methodology, Writing – original draft. ML: Data curation, Formal analysis, Investigation, Methodology, Writing – original draft. MA: Data curation, Formal analysis, Investigation, Methodology, Writing – original draft. ABe: Conceptualization, Funding acquisition, Supervision, Writing – review &amp; editing. GR: Conceptualization, Supervision, Writing – review &amp; editing.</p></sec><sec sec-type="COI-statement" id="s9"><title>Conflict of interest</title><p>The author(s) declared that this work was conducted in the absence of any commercial or financial relationships that could be construed as a potential conflict of interest.</p></sec><sec sec-type="ai-statement" id="s10"><title>Generative AI statement</title><p>The author(s) declared that generative AI was not used in the creation of this manuscript.</p><p>Any alternative text (alt text) provided alongside figures in this article has been generated by Frontiers with the support of artificial intelligence and reasonable efforts have been made to ensure accuracy, including review by the authors wherever possible. If you identify any issues, please contact us.</p></sec><sec sec-type="disclaimer" id="s11"><title>Publisher’s note</title><p>All claims expressed in this article are solely those of the authors and do not necessarily represent those of their affiliated organizations, or those of the publisher, the editors and the reviewers. Any product that may be evaluated in this article, or claim that may be made by its manufacturer, is not guaranteed or endorsed by the publisher.</p></sec><sec sec-type="supplementary-material" id="s12"><title>Supplementary material</title><p>The Supplementary Material for this article can be found online at: <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.frontiersin.org/articles/10.3389/fimmu.2025.1706997/full#supplementary-material" ext-link-type="uri">https://www.frontiersin.org/articles/10.3389/fimmu.2025.1706997/full#supplementary-material</ext-link></p><supplementary-material id="SF1" position="float" content-type="local-data" orientation="portrait"><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="DataSheet1.pdf" position="float" orientation="portrait"/></supplementary-material><supplementary-material id="SM1" position="float" content-type="local-data" orientation="portrait"><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="Table1.xlsx" position="float" orientation="portrait"/></supplementary-material><supplementary-material id="SM2" position="float" content-type="local-data" orientation="portrait"><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="Table2.xlsx" position="float" orientation="portrait"/></supplementary-material><supplementary-material id="SM3" position="float" content-type="local-data" orientation="portrait"><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="Table3.docx" position="float" orientation="portrait"/></supplementary-material></sec><ref-list><title>References</title><ref id="B1"><label>1</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Verity</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Okell</surname><given-names>LC</given-names></name>
+<name name-style="western"><surname>Dorigatti</surname><given-names>I</given-names></name>
+<name name-style="western"><surname>Winskill</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Whittaker</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Imai</surname><given-names>N</given-names></name>
+<etal/>
+</person-group>. 
+<article-title>Estimates of the severity of coronavirus disease 2019: a model-based analysis</article-title>. <source>Lancet Infect Dis</source>. (<year>2020</year>) <volume>20</volume>:<page-range>669–77</page-range>. doi: <pub-id pub-id-type="doi">10.1016/S1473-3099(20)30243-7</pub-id>, PMID: 
+<pub-id pub-id-type="pmid">32240634</pub-id>
+<pub-id pub-id-type="pmcid">PMC7158570</pub-id></mixed-citation></ref><ref id="B2"><label>2</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Huang</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Wang</surname><given-names>Y</given-names></name>
+<name name-style="western"><surname>Li</surname><given-names>X</given-names></name>
+<name name-style="western"><surname>Ren</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Zhao</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Hu</surname><given-names>Y</given-names></name>
+<etal/>
+</person-group>. 
+<article-title>Clinical features of patients infected with 2019 novel coronavirus in Wuhan, China</article-title>. <source>Lancet</source>. (<year>2020</year>) <volume>395</volume>:<fpage>497</fpage>–<lpage>506</lpage>. doi: <pub-id pub-id-type="doi">10.1016/S0140-6736(20)30183-5</pub-id>, PMID: 
+<pub-id pub-id-type="pmid">31986264</pub-id>
+<pub-id pub-id-type="pmcid">PMC7159299</pub-id></mixed-citation></ref><ref id="B3"><label>3</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Li</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Jiang</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Li</surname><given-names>X</given-names></name>
+<name name-style="western"><surname>Lin</surname><given-names>F</given-names></name>
+<name name-style="western"><surname>Wang</surname><given-names>Y</given-names></name>
+<name name-style="western"><surname>Li</surname><given-names>B</given-names></name>
+<etal/>
+</person-group>. 
+<article-title>Clinical and pathological investigation of patients with severe COVID-19</article-title>. <source>JCI Insight</source>. (<year>2020</year>) <volume>5</volume>:<elocation-id>e138070</elocation-id>. doi: <pub-id pub-id-type="doi">10.1172/jci.insight.138070</pub-id>, PMID: 
+<pub-id pub-id-type="pmid">32427582</pub-id>
+<pub-id pub-id-type="pmcid">PMC7406259</pub-id></mixed-citation></ref><ref id="B4"><label>4</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Bonaventura</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Vecchié</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Dagna</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Martinod</surname><given-names>K</given-names></name>
+<name name-style="western"><surname>Dixon</surname><given-names>DL</given-names></name>
+<name name-style="western"><surname>Van Tassell</surname><given-names>BW</given-names></name>
+<etal/>
+</person-group>. 
+<article-title>Endothelial dysfunction and immunothrombosis as key pathogenic mechanisms in COVID-19</article-title>. <source>Nat Rev Immunol</source>. (<year>2021</year>) <volume>21</volume>:<page-range>319–29</page-range>. doi: <pub-id pub-id-type="doi">10.1038/s41577-021-00536-9</pub-id>, PMID: 
+<pub-id pub-id-type="pmid">33824483</pub-id>
+<pub-id pub-id-type="pmcid">PMC8023349</pub-id></mixed-citation></ref><ref id="B5"><label>5</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Conway</surname><given-names>EM</given-names></name>
+<name name-style="western"><surname>Mackman</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Warren</surname><given-names>RQ</given-names></name>
+<name name-style="western"><surname>Wolberg</surname><given-names>AS</given-names></name>
+<name name-style="western"><surname>Mosnier</surname><given-names>LO</given-names></name>
+<name name-style="western"><surname>Campbell</surname><given-names>RA</given-names></name>
+<etal/>
+</person-group>. 
+<article-title>Understanding COVID-19-associated coagulopathy</article-title>. <source>Nat Rev Immunol</source>. (<year>2022</year>) <volume>22</volume>:<page-range>639–49</page-range>. doi: <pub-id pub-id-type="doi">10.1038/s41577-022-00762-9</pub-id>, PMID: 
+<pub-id pub-id-type="pmid">35931818</pub-id>
+<pub-id pub-id-type="pmcid">PMC9362465</pub-id></mixed-citation></ref><ref id="B6"><label>6</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Zhang</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Tecson</surname><given-names>KM</given-names></name>
+<name name-style="western"><surname>McCullough</surname><given-names>PA</given-names></name>
+</person-group>. 
+<article-title>Role of endothelial cell receptors in the context of SARS-CoV-2 infection (COVID-19)</article-title>. <source>Proc (Bayl Univ Med Cent)</source>. (<year>2021</year>) <volume>34</volume>:<page-range>262–8</page-range>. doi: <pub-id pub-id-type="doi">10.1080/08998280.2021.1874231</pub-id>, PMID: 
+<pub-id pub-id-type="pmid">33664552</pub-id>
+<pub-id pub-id-type="pmcid">PMC7852287</pub-id></mixed-citation></ref><ref id="B7"><label>7</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Gorog</surname><given-names>DA</given-names></name>
+<name name-style="western"><surname>Storey</surname><given-names>RF</given-names></name>
+<name name-style="western"><surname>Gurbel</surname><given-names>PA</given-names></name>
+<name name-style="western"><surname>Tantry</surname><given-names>US</given-names></name>
+<name name-style="western"><surname>Berger</surname><given-names>JS</given-names></name>
+<name name-style="western"><surname>Chan</surname><given-names>MY</given-names></name>
+<etal/>
+</person-group>. 
+<article-title>Current and novel biomarkers of thrombotic risk in COVID-19: a Consensus Statement from the International COVID-19 Thrombosis Biomarkers Colloquium</article-title>. <source>Nat Rev Cardiol</source>. (<year>2022</year>) <volume>19</volume>:<page-range>475–95</page-range>. doi: <pub-id pub-id-type="doi">10.1038/s41569-021-00665-7</pub-id>, PMID: 
+<pub-id pub-id-type="pmid">35027697</pub-id>
+<pub-id pub-id-type="pmcid">PMC8757397</pub-id></mixed-citation></ref><ref id="B8"><label>8</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Gu</surname><given-names>SX</given-names></name>
+<name name-style="western"><surname>Tyagi</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Jain</surname><given-names>K</given-names></name>
+<name name-style="western"><surname>Gu</surname><given-names>VW</given-names></name>
+<name name-style="western"><surname>Lee</surname><given-names>SH</given-names></name>
+<name name-style="western"><surname>Hwa</surname><given-names>JM</given-names></name>
+<etal/>
+</person-group>. 
+<article-title>Thrombocytopathy and endotheliopathy: crucial contributors to COVID-19 thromboinflammation</article-title>. <source>Nat Rev Cardiol</source>. (<year>2021</year>) <volume>18</volume>:<fpage>194</fpage>–<lpage>209</lpage>. doi: <pub-id pub-id-type="doi">10.1038/s41569-020-00469-1</pub-id>, PMID: 
+<pub-id pub-id-type="pmid">33214651</pub-id>
+<pub-id pub-id-type="pmcid">PMC7675396</pub-id></mixed-citation></ref><ref id="B9"><label>9</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Yang</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Liu</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Liu</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Zhang</surname><given-names>Z</given-names></name>
+<name name-style="western"><surname>Wan</surname><given-names>X</given-names></name>
+<name name-style="western"><surname>Huang</surname><given-names>B</given-names></name>
+<etal/>
+</person-group>. 
+<article-title>COVID-19: immunopathogenesis and immunotherapeutics</article-title>. <source>Sig Transduct Target Ther</source>. (<year>2020</year>) <volume>5</volume>:<fpage>128</fpage>. doi: <pub-id pub-id-type="doi">10.1038/s41392-020-00243-2</pub-id>, PMID: 
+<pub-id pub-id-type="pmid">32712629</pub-id>
+<pub-id pub-id-type="pmcid">PMC7381863</pub-id></mixed-citation></ref><ref id="B10"><label>10</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Catanzaro</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Fagiani</surname><given-names>F</given-names></name>
+<name name-style="western"><surname>Racchi</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Corsini</surname><given-names>E</given-names></name>
+<name name-style="western"><surname>Govoni</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Lanni</surname><given-names>C</given-names></name>
+</person-group>. 
+<article-title>Immune response in COVID-19: addressing a pharmacological challenge by targeting pathways triggered by SARS-CoV-2</article-title>. <source>Sig Transduct Target Ther</source>. (<year>2020</year>) <volume>5</volume>:<fpage>84</fpage>. doi: <pub-id pub-id-type="doi">10.1038/s41392-020-0191-1</pub-id>, PMID: 
+<pub-id pub-id-type="pmid">32467561</pub-id>
+<pub-id pub-id-type="pmcid">PMC7255975</pub-id></mixed-citation></ref><ref id="B11"><label>11</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Li</surname><given-names>Q</given-names></name>
+<name name-style="western"><surname>Wang</surname><given-names>Y</given-names></name>
+<name name-style="western"><surname>Sun</surname><given-names>Q</given-names></name>
+<name name-style="western"><surname>Knopf</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Herrmann</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Lin</surname><given-names>L</given-names></name>
+<etal/>
+</person-group>. 
+<article-title>Immune response in COVID-19: what is next</article-title>? <source>Cell Death Differ</source>. (<year>2022</year>) <volume>29</volume>:<page-range>1107–22</page-range>. doi: <pub-id pub-id-type="doi">10.1038/s41418-022-01015-x</pub-id>, PMID: 
+<pub-id pub-id-type="pmid">35581387</pub-id>
+<pub-id pub-id-type="pmcid">PMC9110941</pub-id></mixed-citation></ref><ref id="B12"><label>12</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Bassetti</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Andreoni</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Santus</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Scaglione</surname><given-names>F</given-names></name>
+</person-group>. 
+<article-title>NSAIDs for early management of acute respiratory infections</article-title>. <source>Curr Opin Infect Dis</source>. (<year>2024</year>) <volume>37</volume>:<page-range>304–11</page-range>. doi: <pub-id pub-id-type="doi">10.1097/QCO.0000000000001024</pub-id>, PMID: 
+<pub-id pub-id-type="pmid">38779903</pub-id>
+<pub-id pub-id-type="pmcid">PMC11213495</pub-id></mixed-citation></ref><ref id="B13"><label>13</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Perico</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Cortinovis</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Suter</surname><given-names>F</given-names></name>
+<name name-style="western"><surname>Remuzzi</surname><given-names>G</given-names></name>
+</person-group>. 
+<article-title>Home as the new frontier for the treatment of COVID-19: the case for anti-inflammatory agents</article-title>. <source>Lancet Infect Dis</source>. (<year>2023</year>) <volume>23</volume>:<page-range>e22–33</page-range>. doi: <pub-id pub-id-type="doi">10.1016/S1473-3099(22)00433-9</pub-id>, PMID: 
+<pub-id pub-id-type="pmid">36030796</pub-id>
+<pub-id pub-id-type="pmcid">PMC9411261</pub-id></mixed-citation></ref><ref id="B14"><label>14</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Suter</surname><given-names>F</given-names></name>
+<name name-style="western"><surname>Consolaro</surname><given-names>E</given-names></name>
+<name name-style="western"><surname>Pedroni</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Moroni</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Pastò</surname><given-names>E</given-names></name>
+<name name-style="western"><surname>Paganini</surname><given-names>MV</given-names></name>
+<etal/>
+</person-group>. 
+<article-title>A simple, home-therapy algorithm to prevent hospitalisation for COVID-19 patients: A retrospective observational matched-cohort study</article-title>. <source>EClinicalMedicine</source>. (<year>2021</year>) <volume>37</volume>:<elocation-id>100941</elocation-id>. doi: <pub-id pub-id-type="doi">10.1016/j.eclinm.2021.100941</pub-id>, PMID: 
+<pub-id pub-id-type="pmid">34127959</pub-id>
+<pub-id pub-id-type="pmcid">PMC8189543</pub-id></mixed-citation></ref><ref id="B15"><label>15</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Consolaro</surname><given-names>E</given-names></name>
+<name name-style="western"><surname>Suter</surname><given-names>F</given-names></name>
+<name name-style="western"><surname>Rubis</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Pedroni</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Moroni</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Pastò</surname><given-names>E</given-names></name>
+<etal/>
+</person-group>. 
+<article-title>A home-treatment algorithm based on anti-inflammatory drugs to prevent hospitalization of patients with early COVID-19: A matched-cohort study (COVER 2)</article-title>. <source>Front Med (Lausanne)</source>. (<year>2022</year>) <volume>9</volume>:<elocation-id>785785</elocation-id>. doi: <pub-id pub-id-type="doi">10.3389/fmed.2022.785785</pub-id>, PMID: 
+<pub-id pub-id-type="pmid">35530041</pub-id>
+<pub-id pub-id-type="pmcid">PMC9073076</pub-id></mixed-citation></ref><ref id="B16"><label>16</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Meizlish</surname><given-names>ML</given-names></name>
+<name name-style="western"><surname>Goshua</surname><given-names>G</given-names></name>
+<name name-style="western"><surname>Liu</surname><given-names>Y</given-names></name>
+<name name-style="western"><surname>Fine</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Amin</surname><given-names>K</given-names></name>
+<name name-style="western"><surname>Chang</surname><given-names>E</given-names></name>
+<etal/>
+</person-group>. 
+<article-title>Intermediate-dose anticoagulation, aspirin, and in-hospital mortality in COVID-19: A propensity score-matched analysis</article-title>. <source>Am J Hematol</source>. (<year>2021</year>) <volume>96</volume>:<page-range>471–9</page-range>. doi: <pub-id pub-id-type="doi">10.1002/ajh.26102</pub-id>, PMID: 
+<pub-id pub-id-type="pmid">33476420</pub-id>
+<pub-id pub-id-type="pmcid">PMC8013588</pub-id></mixed-citation></ref><ref id="B17"><label>17</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Haji Aghajani</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Moradi</surname><given-names>O</given-names></name>
+<name name-style="western"><surname>Amini</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Azhdari Tehrani</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Pourheidar</surname><given-names>E</given-names></name>
+<name name-style="western"><surname>Rabiei</surname><given-names>MM</given-names></name>
+<etal/>
+</person-group>. 
+<article-title>Decreased in-hospital mortality associated with aspirin administration in hospitalized patients due to severe COVID-19</article-title>. <source>J Med Virol</source>. (<year>2021</year>) <volume>93</volume>:<page-range>5390–5</page-range>. doi: <pub-id pub-id-type="doi">10.1002/jmv.27053</pub-id>, PMID: 
+<pub-id pub-id-type="pmid">33913549</pub-id>
+<pub-id pub-id-type="pmcid">PMC8242852</pub-id></mixed-citation></ref><ref id="B18"><label>18</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Chow</surname><given-names>JH</given-names></name>
+<name name-style="western"><surname>Khanna</surname><given-names>AK</given-names></name>
+<name name-style="western"><surname>Kethireddy</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Yamane</surname><given-names>D</given-names></name>
+<name name-style="western"><surname>Levine</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Jackson</surname><given-names>AM</given-names></name>
+<etal/>
+</person-group>. 
+<article-title>Aspirin use is associated with decreased mechanical ventilation, intensive care unit admission, and in-hospital mortality in hospitalized patients with coronavirus disease 2019</article-title>. <source>Anesth Analg</source>. (<year>2021</year>) <volume>132</volume>:<page-range>930–41</page-range>. doi: <pub-id pub-id-type="doi">10.1213/ANE.0000000000005292</pub-id>, PMID: 
+<pub-id pub-id-type="pmid">33093359</pub-id>
+</mixed-citation></ref><ref id="B19"><label>19</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Yuan</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Chen</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Li</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Chen</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Wang</surname><given-names>F</given-names></name>
+<name name-style="western"><surname>Wang</surname><given-names>DW</given-names></name>
+</person-group>. 
+<article-title>Mortality and pre-hospitalization use of low-dose aspirin in COVID-19 patients with coronary artery disease</article-title>. <source>J Cell Mol Med</source>. (<year>2021</year>) <volume>25</volume>:<page-range>1263–73</page-range>. doi: <pub-id pub-id-type="doi">10.1111/jcmm.16198</pub-id>, PMID: 
+<pub-id pub-id-type="pmid">33336936</pub-id>
+<pub-id pub-id-type="pmcid">PMC7812246</pub-id></mixed-citation></ref><ref id="B20"><label>20</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Merzon</surname><given-names>E</given-names></name>
+<name name-style="western"><surname>Green</surname><given-names>I</given-names></name>
+<name name-style="western"><surname>Vinker</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Golan-Cohen</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Gorohovski</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Avramovich</surname><given-names>E</given-names></name>
+<etal/>
+</person-group>. 
+<article-title>The use of aspirin for primary prevention of cardiovascular disease is associated with a lower likelihood of COVID-19 infection</article-title>. <source>FEBS J</source>. (<year>2021</year>) <volume>288</volume>:<page-range>5179–89</page-range>. doi: <pub-id pub-id-type="doi">10.1111/febs.15784</pub-id>, PMID: 
+<pub-id pub-id-type="pmid">33621437</pub-id>
+<pub-id pub-id-type="pmcid">PMC8013755</pub-id></mixed-citation></ref><ref id="B21"><label>21</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Lodigiani</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Iapichino</surname><given-names>G</given-names></name>
+<name name-style="western"><surname>Carenzo</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Cecconi</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Ferrazzi</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Sebastian</surname><given-names>T</given-names></name>
+<etal/>
+</person-group>. 
+<article-title>Venous and arterial thromboembolic complications in COVID-19 patients admitted to an academic hospital in Milan, Italy</article-title>. <source>Thromb Res</source>. (<year>2020</year>) <volume>191</volume>:<fpage>9</fpage>–<lpage>14</lpage>. doi: <pub-id pub-id-type="doi">10.1016/j.thromres.2020.04.024</pub-id>, PMID: 
+<pub-id pub-id-type="pmid">32353746</pub-id>
+<pub-id pub-id-type="pmcid">PMC7177070</pub-id></mixed-citation></ref><ref id="B22"><label>22</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Alamdari</surname><given-names>NM</given-names></name>
+<name name-style="western"><surname>Afaghi</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Rahimi</surname><given-names>FS</given-names></name>
+<name name-style="western"><surname>Tarki</surname><given-names>FE</given-names></name>
+<name name-style="western"><surname>Tavana</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Zali</surname><given-names>A</given-names></name>
+<etal/>
+</person-group>. 
+<article-title>Mortality risk factors among hospitalized COVID-19 patients in a major referral center in Iran</article-title>. <source>Tohoku J Exp Med</source>. (<year>2020</year>) <volume>252</volume>:<fpage>73</fpage>–<lpage>84</lpage>. doi: <pub-id pub-id-type="doi">10.1620/tjem.252.73</pub-id>, PMID: 
+<pub-id pub-id-type="pmid">32908083</pub-id>
+</mixed-citation></ref><ref id="B23"><label>23</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Srivastava</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Kumar</surname><given-names>A</given-names></name>
+</person-group>. 
+<article-title>Use of aspirin in reduction of mortality of COVID-19 patients: A meta-analysis</article-title>. <source>Int J Clin Pract</source>. (<year>2021</year>) <volume>75</volume>:<fpage>e14515</fpage>. doi: <pub-id pub-id-type="doi">10.1111/ijcp.14515</pub-id>, PMID: 
+<pub-id pub-id-type="pmid">34118111</pub-id>
+<pub-id pub-id-type="pmcid">PMC8420464</pub-id></mixed-citation></ref><ref id="B24"><label>24</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Chow</surname><given-names>JH</given-names></name>
+<name name-style="western"><surname>Rahnavard</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Gomberg-Maitland</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Chatterjee</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Patodi</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Yamane</surname><given-names>DP</given-names></name>
+<etal/>
+</person-group>. 
+<article-title>Association of early aspirin use with in-hospital mortality in patients with moderate COVID-19</article-title>. <source>JAMA Netw Open</source>. (<year>2022</year>) <volume>5</volume>:<fpage>e223890</fpage>. doi: <pub-id pub-id-type="doi">10.1001/jamanetworkopen.2022.3890</pub-id>, PMID: 
+<pub-id pub-id-type="pmid">35323950</pub-id>
+<pub-id pub-id-type="pmcid">PMC8948531</pub-id></mixed-citation></ref><ref id="B25"><label>25</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Ma</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Su</surname><given-names>W</given-names></name>
+<name name-style="western"><surname>Sun</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Lowe</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Zhou</surname><given-names>Z</given-names></name>
+<name name-style="western"><surname>Liu</surname><given-names>H</given-names></name>
+<etal/>
+</person-group>. 
+<article-title>Does aspirin have an effect on risk of death in patients with COVID-19? A meta-analysis</article-title>. <source>Eur J Clin Pharmacol</source>. (<year>2022</year>) <volume>78</volume>:<page-range>1403–20</page-range>. doi: <pub-id pub-id-type="doi">10.1007/s00228-022-03356-5</pub-id>, PMID: 
+<pub-id pub-id-type="pmid">35732963</pub-id>
+<pub-id pub-id-type="pmcid">PMC9217117</pub-id></mixed-citation></ref><ref id="B26"><label>26</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Osborne</surname><given-names>TF</given-names></name>
+<name name-style="western"><surname>Veigulis</surname><given-names>ZP</given-names></name>
+<name name-style="western"><surname>Arreola</surname><given-names>DM</given-names></name>
+<name name-style="western"><surname>Mahajan</surname><given-names>SM</given-names></name>
+<name name-style="western"><surname>Röösli</surname><given-names>E</given-names></name>
+<name name-style="western"><surname>Curtin</surname><given-names>CM</given-names></name>
+</person-group>. 
+<article-title>Association of mortality and aspirin prescription for COVID-19 patients at the Veterans Health Administration</article-title>. <source>PLoS One</source>. (<year>2021</year>) <volume>16</volume>:<fpage>e0246825</fpage>. doi: <pub-id pub-id-type="doi">10.1371/journal.pone.0246825</pub-id>, PMID: 
+<pub-id pub-id-type="pmid">33571280</pub-id>
+<pub-id pub-id-type="pmcid">PMC7877611</pub-id></mixed-citation></ref><ref id="B27"><label>27</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Martha</surname><given-names>JW</given-names></name>
+<name name-style="western"><surname>Pranata</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Lim</surname><given-names>MA</given-names></name>
+<name name-style="western"><surname>Wibowo</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Akbar</surname><given-names>MR</given-names></name>
+</person-group>. 
+<article-title>Active prescription of low-dose aspirin during or prior to hospitalization and mortality in COVID-19: A systematic review and meta-analysis of adjusted effect estimates</article-title>. <source>Int J Infect Dis</source>. (<year>2021</year>) <volume>108</volume>:<fpage>6</fpage>–<lpage>12</lpage>. doi: <pub-id pub-id-type="doi">10.1016/j.ijid.2021.05.016</pub-id>, PMID: 
+<pub-id pub-id-type="pmid">34000418</pub-id>
+<pub-id pub-id-type="pmcid">PMC8123385</pub-id></mixed-citation></ref><ref id="B28"><label>28</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Wijaya</surname><given-names>I</given-names></name>
+<name name-style="western"><surname>Andhika</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Huang</surname><given-names>I</given-names></name>
+<name name-style="western"><surname>Purwiga</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Budiman</surname><given-names>KY</given-names></name>
+</person-group>. 
+<article-title>The effects of aspirin on the outcome of COVID-19: A systematic review and meta-analysis</article-title>. <source>Clin Epidemiol Glob Health</source>. (<year>2021</year>) <volume>12</volume>:<elocation-id>100883</elocation-id>. doi: <pub-id pub-id-type="doi">10.1016/j.cegh.2021.100883</pub-id>, PMID: 
+<pub-id pub-id-type="pmid">34754983</pub-id>
+<pub-id pub-id-type="pmcid">PMC8556685</pub-id></mixed-citation></ref><ref id="B29"><label>29</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Liu</surname><given-names>Q</given-names></name>
+<name name-style="western"><surname>Huang</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Li</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Zhou</surname><given-names>Y</given-names></name>
+<name name-style="western"><surname>Liang</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Song</surname><given-names>X</given-names></name>
+<etal/>
+</person-group>. 
+<article-title>Effect of low-dose aspirin on mortality and viral duration of the hospitalized adults with COVID-19</article-title>. <source>Med (Baltimore)</source>. (<year>2021</year>) <volume>100</volume>:<fpage>e24544</fpage>. doi: <pub-id pub-id-type="doi">10.1097/MD.0000000000024544</pub-id>, PMID: 
+<pub-id pub-id-type="pmid">33578548</pub-id>
+<pub-id pub-id-type="pmcid">PMC7886487</pub-id></mixed-citation></ref><ref id="B30"><label>30</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Santoro</surname><given-names>F</given-names></name>
+<name name-style="western"><surname>Núñez-Gil</surname><given-names>IJ</given-names></name>
+<name name-style="western"><surname>Vitale</surname><given-names>E</given-names></name>
+<name name-style="western"><surname>Viana-Llamas</surname><given-names>MC</given-names></name>
+<name name-style="western"><surname>Romero</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Maroun Eid</surname><given-names>C</given-names></name>
+<etal/>
+</person-group>. 
+<article-title>Aspirin therapy on prophylactic anticoagulation for patients hospitalized with COVID-19: A propensity score-matched cohort analysis of the HOPE-COVID-19 registry</article-title>. <source>J Am Heart Assoc</source>. (<year>2022</year>) <volume>11</volume>:<fpage>e024530</fpage>. doi: <pub-id pub-id-type="doi">10.1161/JAHA.121.024530</pub-id>, PMID: 
+<pub-id pub-id-type="pmid">35730631</pub-id>
+<pub-id pub-id-type="pmcid">PMC9333361</pub-id></mixed-citation></ref><ref id="B31"><label>31</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Santoro</surname><given-names>F</given-names></name>
+<name name-style="western"><surname>Nuñez-Gil</surname><given-names>IJ</given-names></name>
+<name name-style="western"><surname>Vitale</surname><given-names>E</given-names></name>
+<name name-style="western"><surname>Viana-Llamas</surname><given-names>MC</given-names></name>
+<name name-style="western"><surname>Reche-Martinez</surname><given-names>B</given-names></name>
+<name name-style="western"><surname>Romero-Pareja</surname><given-names>R</given-names></name>
+<etal/>
+</person-group>. 
+<article-title>Antiplatelet therapy and outcome in COVID-19: the Health Outcome Predictive Evaluation Registry</article-title>. <source>Heart</source>. (<year>2022</year>) <volume>108</volume>:<page-range>130–6</page-range>. doi: <pub-id pub-id-type="doi">10.1136/heartjnl-2021-319552</pub-id>, PMID: 
+<pub-id pub-id-type="pmid">34611045</pub-id>
+<pub-id pub-id-type="pmcid">PMC8494537</pub-id></mixed-citation></ref><ref id="B32"><label>32</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><collab>RECOVERY Collaborative Group</collab>
+</person-group>. 
+<article-title>Aspirin in patients admitted to hospital with COVID-19 (RECOVERY): a randomised, controlled, open-label, platform trial</article-title>. <source>Lancet</source>. (<year>2022</year>) <volume>399</volume>:<page-range>143–51</page-range>. doi: <pub-id pub-id-type="doi">10.1016/S0140-6736(21)01825-0</pub-id>, PMID: 
+<pub-id pub-id-type="pmid">34800427</pub-id>
+<pub-id pub-id-type="pmcid">PMC8598213</pub-id></mixed-citation></ref><ref id="B33"><label>33</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Eikelboom</surname><given-names>JW</given-names></name>
+<name name-style="western"><surname>Jolly</surname><given-names>SS</given-names></name>
+<name name-style="western"><surname>Belley-Cote</surname><given-names>EP</given-names></name>
+<name name-style="western"><surname>Whitlock</surname><given-names>RP</given-names></name>
+<name name-style="western"><surname>Rangarajan</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Xu</surname><given-names>L</given-names></name>
+<etal/>
+</person-group>. 
+<article-title>Colchicine and aspirin in community patients with COVID-19 (ACT): an open-label, factorial, randomised, controlled trial</article-title>. <source>Lancet Respir Med</source>. (<year>2022</year>) <volume>10</volume>:<page-range>1160–8</page-range>. doi: <pub-id pub-id-type="doi">10.1016/S2213-2600(22)00299-5</pub-id>, PMID: 
+<pub-id pub-id-type="pmid">36228639</pub-id>
+<pub-id pub-id-type="pmcid">PMC9635862</pub-id></mixed-citation></ref><ref id="B34"><label>34</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Warner</surname><given-names>TD</given-names></name>
+<name name-style="western"><surname>Nylander</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Whatling</surname><given-names>C</given-names></name>
+</person-group>. 
+<article-title>Anti-platelet therapy: cyclo-oxygenase inhibition and the use of aspirin with particular regard to dual anti-platelet therapy</article-title>. <source>Br J Clin Pharmacol</source>. (<year>2011</year>) <volume>72</volume>:<page-range>619–33</page-range>. doi: <pub-id pub-id-type="doi">10.1111/j.1365-2125.2011.03943.x</pub-id>, PMID: 
+<pub-id pub-id-type="pmid">21320154</pub-id>
+<pub-id pub-id-type="pmcid">PMC3195738</pub-id></mixed-citation></ref><ref id="B35"><label>35</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Ahmed</surname><given-names>HAS</given-names></name>
+<name name-style="western"><surname>Merrell</surname><given-names>E</given-names></name>
+<name name-style="western"><surname>Ismail</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Joudeh</surname><given-names>AI</given-names></name>
+<name name-style="western"><surname>Riley</surname><given-names>JB</given-names></name>
+<name name-style="western"><surname>Shawkat</surname><given-names>A</given-names></name>
+<etal/>
+</person-group>. 
+<article-title>Rationales and uncertainties for aspirin use in COVID-19: a narrative review</article-title>. <source>Fam Med Com Health</source>. (<year>2021</year>) <volume>9</volume>:<elocation-id>e000741</elocation-id>. doi: <pub-id pub-id-type="doi">10.1136/fmch-2020-000741</pub-id>, PMID: 
+<pub-id pub-id-type="pmid">33879541</pub-id>
+<pub-id pub-id-type="pmcid">PMC8061559</pub-id></mixed-citation></ref><ref id="B36"><label>36</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Trujillo-Murillo</surname><given-names>K</given-names></name>
+<name name-style="western"><surname>Rincón-Sánchez</surname><given-names>AR</given-names></name>
+<name name-style="western"><surname>Martínez-Rodríguez</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Bosques-Padilla</surname><given-names>F</given-names></name>
+<name name-style="western"><surname>Ramos-Jiménez</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Barrera-Saldaña</surname><given-names>HA</given-names></name>
+<etal/>
+</person-group>. 
+<article-title>Acetylsalicylic acid inhibits hepatitis C virus RNA and protein expression through cyclooxygenase 2 signaling pathways</article-title>. <source>Hepatology</source>. (<year>2008</year>) <volume>47</volume>:<page-range>1462–72</page-range>. doi: <pub-id pub-id-type="doi">10.1002/hep.22215</pub-id>, PMID: 
+<pub-id pub-id-type="pmid">18393288</pub-id>
+</mixed-citation></ref><ref id="B37"><label>37</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Sánchez-García</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Ríos-Ibarra</surname><given-names>CP</given-names></name>
+<name name-style="western"><surname>Rincón-Sánchez</surname><given-names>AR</given-names></name>
+<name name-style="western"><surname>Ortiz-López</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Garza-Juárez</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Morlett-Chávez</surname><given-names>J</given-names></name>
+<etal/>
+</person-group>. 
+<article-title>Use of proteomic analysis tools to identify HCV-proteins down-regulated by acetylsalicylic acid</article-title>. <source>Ann Hepatol</source>. (<year>2013</year>) <volume>12</volume>:<page-range>725–32</page-range>. doi: <pub-id pub-id-type="doi">10.1016/S1665-2681(19)31313-4</pub-id>, PMID: 
+<pub-id pub-id-type="pmid">24018490</pub-id>
+</mixed-citation></ref><ref id="B38"><label>38</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Yin</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Zhang</surname><given-names>L</given-names></name>
+</person-group>. 
+<article-title>Aspirin inhibits hepatitis C virus entry by downregulating claudin-1</article-title>. <source>J Viral Hepat</source>. (<year>2016</year>) <volume>23</volume>:<page-range>62–4</page-range>. doi: <pub-id pub-id-type="doi">10.1111/jvh.12446</pub-id>, PMID: 
+<pub-id pub-id-type="pmid">26289738</pub-id>
+</mixed-citation></ref><ref id="B39"><label>39</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Liao</surname><given-names>CL</given-names></name>
+<name name-style="western"><surname>Lin</surname><given-names>YL</given-names></name>
+<name name-style="western"><surname>Wu</surname><given-names>BC</given-names></name>
+<name name-style="western"><surname>Tsao</surname><given-names>CH</given-names></name>
+<name name-style="western"><surname>Wang</surname><given-names>MC</given-names></name>
+<name name-style="western"><surname>Liu</surname><given-names>CI</given-names></name>
+<etal/>
+</person-group>. 
+<article-title>Salicylates inhibit flavivirus replication independently of blocking nuclear factor kappa B activation</article-title>. <source>J Virol</source>. (<year>2001</year>) <volume>75</volume>:<page-range>7828–39</page-range>. doi: <pub-id pub-id-type="doi">10.1128/jvi.75.17.7828-7839.2001</pub-id>, PMID: 
+<pub-id pub-id-type="pmid">11483726</pub-id>
+<pub-id pub-id-type="pmcid">PMC115025</pub-id></mixed-citation></ref><ref id="B40"><label>40</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Zhao</surname><given-names>W</given-names></name>
+<name name-style="western"><surname>Li</surname><given-names>Z</given-names></name>
+<name name-style="western"><surname>Yu</surname><given-names>ML</given-names></name>
+<name name-style="western"><surname>Liu</surname><given-names>Y</given-names></name>
+<name name-style="western"><surname>Liu</surname><given-names>CC</given-names></name>
+<name name-style="western"><surname>Jia</surname><given-names>XJ</given-names></name>
+<etal/>
+</person-group>. 
+<article-title>Aspirin inhibits rotavirus replication and alters rat gut microbial composition</article-title>. <source>Virol J</source>. (<year>2023</year>) <volume>20</volume>:<fpage>237</fpage>. doi: <pub-id pub-id-type="doi">10.1186/s12985-023-02199-5</pub-id>, PMID: 
+<pub-id pub-id-type="pmid">37848986</pub-id>
+<pub-id pub-id-type="pmcid">PMC10580602</pub-id></mixed-citation></ref><ref id="B41"><label>41</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Glatthaar-Saalmüller</surname><given-names>B</given-names></name>
+<name name-style="western"><surname>Mair</surname><given-names>KH</given-names></name>
+<name name-style="western"><surname>Saalmüller</surname><given-names>A</given-names></name>
+</person-group>. 
+<article-title>Antiviral activity of aspirin against RNA viruses of the respiratory tract-an <italic toggle="yes">in vitro</italic> study</article-title>. <source>Influenza Other Respir Viruses</source>. (<year>2017</year>) <volume>11</volume>:<fpage>85</fpage>–<lpage>92</lpage>. doi: <pub-id pub-id-type="doi">10.1111/irv.12421</pub-id>, PMID: 
+<pub-id pub-id-type="pmid">27542891</pub-id>
+<pub-id pub-id-type="pmcid">PMC5155651</pub-id></mixed-citation></ref><ref id="B42"><label>42</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Mazur</surname><given-names>I</given-names></name>
+<name name-style="western"><surname>Wurzer</surname><given-names>WJ</given-names></name>
+<name name-style="western"><surname>Ehrhardt</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Pleschka</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Puthavathana</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Silberzahn</surname><given-names>T</given-names></name>
+<etal/>
+</person-group>. 
+<article-title>Acetylsalicylic acid (ASA) blocks influenza virus propagation via its NF-kappaB-inhibiting activity</article-title>. <source>Cell Microbiol</source>. (<year>2007</year>) <volume>9</volume>:<page-range>1683–94</page-range>. doi: <pub-id pub-id-type="doi">10.1111/j.1462-5822.2007.00902.x</pub-id>, PMID: 
+<pub-id pub-id-type="pmid">17324159</pub-id>
+</mixed-citation></ref><ref id="B43"><label>43</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Huang</surname><given-names>RT</given-names></name>
+<name name-style="western"><surname>Dietsch</surname><given-names>E</given-names></name>
+</person-group>. 
+<article-title>Anti-influenza viral activity of aspirin in cell culture</article-title>. <source>N Engl J Med</source>. (<year>1988</year>) <volume>319</volume>:<fpage>797</fpage>. doi: <pub-id pub-id-type="doi">10.1056/nejm198809223191218</pub-id>, PMID: 
+<pub-id pub-id-type="pmid">3412407</pub-id>
+</mixed-citation></ref><ref id="B44"><label>44</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Primache</surname><given-names>V</given-names></name>
+<name name-style="western"><surname>Binda</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>De Benedittis</surname><given-names>G</given-names></name>
+<name name-style="western"><surname>Barbi</surname><given-names>M</given-names></name>
+</person-group>. 
+<article-title><italic toggle="yes">In vitro</italic> activity of acetylsalicylic acid on replication of varicella-zoster virus</article-title>. <source>New Microbiol</source>. (<year>1998</year>) <volume>21</volume>:<fpage>397</fpage>–<lpage>401</lpage>., PMID: 
+<pub-id pub-id-type="pmid">9812322</pub-id>
+</mixed-citation></ref><ref id="B45"><label>45</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Walz-Cicconi</surname><given-names>MA</given-names></name>
+<name name-style="western"><surname>Weller</surname><given-names>TH</given-names></name>
+</person-group>. 
+<article-title>Dose-related effect of acetylsalicylic acid on replication of varicella zoster virus</article-title>. <source>vitro. Proc Natl Acad Sci U.S.A</source>. (<year>1984</year>) <volume>81</volume>:<page-range>5223–6</page-range>. doi: <pub-id pub-id-type="doi">10.1073/pnas.81.16.5223</pub-id>, PMID: 
+<pub-id pub-id-type="pmid">6089187</pub-id>
+<pub-id pub-id-type="pmcid">PMC391670</pub-id></mixed-citation></ref><ref id="B46"><label>46</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Speir</surname><given-names>E</given-names></name>
+<name name-style="western"><surname>Yu</surname><given-names>ZX</given-names></name>
+<name name-style="western"><surname>Ferrans</surname><given-names>VJ</given-names></name>
+<name name-style="western"><surname>Huang</surname><given-names>ES</given-names></name>
+<name name-style="western"><surname>Epstein</surname><given-names>SE</given-names></name>
+</person-group>. 
+<article-title>Aspirin attenuates cytomegalovirus infectivity and gene expression mediated by cyclooxygenase-2 in coronary artery smooth muscle cells</article-title>. <source>Circ Res</source>. (<year>1998</year>) <volume>83</volume>:<page-range>210–6</page-range>. doi: <pub-id pub-id-type="doi">10.1161/01.res.83.2.210</pub-id>, PMID: 
+<pub-id pub-id-type="pmid">9686761</pub-id>
+</mixed-citation></ref><ref id="B47"><label>47</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Geiger</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>König</surname><given-names>E-M</given-names></name>
+<name name-style="western"><surname>Oberwinkler</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Roll</surname><given-names>V</given-names></name>
+<name name-style="western"><surname>Diesendorf</surname><given-names>V</given-names></name>
+<name name-style="western"><surname>Fähr</surname><given-names>S</given-names></name>
+<etal/>
+</person-group>. 
+<article-title>Acetylsalicylic acid and salicylic acid inhibit SARS-CoV-2 replication in precision-cut lung slices</article-title>. <source>Vaccines (Basel)</source>. (<year>2022</year>) <volume>10</volume>:<elocation-id>1619</elocation-id>. doi: <pub-id pub-id-type="doi">10.3390/vaccines10101619</pub-id>, PMID: 
+<pub-id pub-id-type="pmid">36298484</pub-id>
+<pub-id pub-id-type="pmcid">PMC9609675</pub-id></mixed-citation></ref><ref id="B48"><label>48</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Peluso</surname><given-names>MJ</given-names></name>
+<name name-style="western"><surname>Swank</surname><given-names>ZN</given-names></name>
+<name name-style="western"><surname>Goldberg</surname><given-names>SA</given-names></name>
+<name name-style="western"><surname>Lu</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Dalhuisen</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Borberg</surname><given-names>E</given-names></name>
+<etal/>
+</person-group>. 
+<article-title>Plasma-based antigen persistence in the post-acute phase of COVID-19</article-title>. <source>Lancet Infect Dis</source>. (<year>2024</year>) <volume>24</volume>:<page-range>e345–7</page-range>. doi: <pub-id pub-id-type="doi">10.1016/S1473-3099(24)00211-1</pub-id>, PMID: 
+<pub-id pub-id-type="pmid">38604216</pub-id>
+<pub-id pub-id-type="pmcid">PMC11650779</pub-id></mixed-citation></ref><ref id="B49"><label>49</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Swank</surname><given-names>Z</given-names></name>
+<name name-style="western"><surname>Borberg</surname><given-names>E</given-names></name>
+<name name-style="western"><surname>Chen</surname><given-names>Y</given-names></name>
+<name name-style="western"><surname>Senussi</surname><given-names>Y</given-names></name>
+<name name-style="western"><surname>Chalise</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Manickas-Hill</surname><given-names>Z</given-names></name>
+<etal/>
+</person-group>. 
+<article-title>Measurement of circulating viral antigens post-SARS-CoV-2 infection in a multicohort study</article-title>. <source>Clin Microbiol Infect</source>. (<year>2024</year>) <volume>30</volume>:<page-range>1599–605</page-range>. doi: <pub-id pub-id-type="doi">10.1016/j.cmi.2024.09.001</pub-id>, PMID: 
+<pub-id pub-id-type="pmid">39389851</pub-id>
+<pub-id pub-id-type="pmcid">PMC11578795</pub-id></mixed-citation></ref><ref id="B50"><label>50</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Craddock</surname><given-names>V</given-names></name>
+<name name-style="western"><surname>Mahajan</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Spikes</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Krishnamachary</surname><given-names>B</given-names></name>
+<name name-style="western"><surname>Ram</surname><given-names>AK</given-names></name>
+<name name-style="western"><surname>Kumar</surname><given-names>A</given-names></name>
+<etal/>
+</person-group>. 
+<article-title>Persistent circulation of soluble and extracellular vesicle-linked Spike protein in individuals with postacute sequelae of COVID-19</article-title>. <source>J Med Virol</source>. (<year>2023</year>) <volume>95</volume>:<fpage>e28568</fpage>. doi: <pub-id pub-id-type="doi">10.1002/jmv.28568</pub-id>, PMID: 
+<pub-id pub-id-type="pmid">36756925</pub-id>
+<pub-id pub-id-type="pmcid">PMC10048846</pub-id></mixed-citation></ref><ref id="B51"><label>51</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Swank</surname><given-names>Z</given-names></name>
+<name name-style="western"><surname>Senussi</surname><given-names>Y</given-names></name>
+<name name-style="western"><surname>Manickas-Hill</surname><given-names>Z</given-names></name>
+<name name-style="western"><surname>Yu</surname><given-names>XG</given-names></name>
+<name name-style="western"><surname>Li</surname><given-names>JZ</given-names></name>
+<name name-style="western"><surname>Alter</surname><given-names>G</given-names></name>
+<etal/>
+</person-group>. 
+<article-title>Persistent circulating severe acute respiratory syndrome coronavirus 2 spike is associated with post-acute coronavirus disease 2019 sequelae</article-title>. <source>Clin Infect Dis</source>. (<year>2023</year>) <volume>76</volume>:<page-range>e487–90</page-range>. doi: <pub-id pub-id-type="doi">10.1093/cid/ciac722</pub-id>, PMID: 
+<pub-id pub-id-type="pmid">36052466</pub-id>
+<pub-id pub-id-type="pmcid">PMC10169416</pub-id></mixed-citation></ref><ref id="B52"><label>52</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Rong</surname><given-names>Z</given-names></name>
+<name name-style="western"><surname>Mai</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Ebert</surname><given-names>G</given-names></name>
+<name name-style="western"><surname>Kapoor</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Puelles</surname><given-names>VG</given-names></name>
+<name name-style="western"><surname>Czogalla</surname><given-names>J</given-names></name>
+<etal/>
+</person-group>. 
+<article-title>Persistence of spike protein at the skull-meninges-brain axis may contribute to the neurological sequelae of COVID-19</article-title>. <source>Cell Host Microbe</source>. (<year>2024</year>) <volume>32</volume>:<fpage>2112</fpage>–<lpage>2130.e10</lpage>. doi: <pub-id pub-id-type="doi">10.1016/j.chom.2024.11.007</pub-id>, PMID: 
+<pub-id pub-id-type="pmid">39615487</pub-id>
+</mixed-citation></ref><ref id="B53"><label>53</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Perico</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Benigni</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Remuzzi</surname><given-names>G</given-names></name>
+</person-group>. 
+<article-title>SARS-CoV-2 and the spike protein in endotheliopathy</article-title>. <source>Trends Microbiol</source>. (<year>2024</year>) <volume>32</volume>:<fpage>53</fpage>–<lpage>67</lpage>. doi: <pub-id pub-id-type="doi">10.1016/j.tim.2023.06.004</pub-id>, PMID: 
+<pub-id pub-id-type="pmid">37393180</pub-id>
+<pub-id pub-id-type="pmcid">PMC10258582</pub-id></mixed-citation></ref><ref id="B54"><label>54</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Jin</surname><given-names>Y</given-names></name>
+<name name-style="western"><surname>Ji</surname><given-names>W</given-names></name>
+<name name-style="western"><surname>Yang</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Chen</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Zhang</surname><given-names>W</given-names></name>
+<name name-style="western"><surname>Duan</surname><given-names>G</given-names></name>
+</person-group>. 
+<article-title>Endothelial activation and dysfunction in COVID-19: from basic mechanisms to potential therapeutic approaches</article-title>. <source>Sig Transduct Target Ther</source>. (<year>2020</year>) <volume>5</volume>:<fpage>293</fpage>. doi: <pub-id pub-id-type="doi">10.1038/s41392-020-00454-7</pub-id>, PMID: 
+<pub-id pub-id-type="pmid">33361764</pub-id>
+<pub-id pub-id-type="pmcid">PMC7758411</pub-id></mixed-citation></ref><ref id="B55"><label>55</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Perico</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Benigni</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Casiraghi</surname><given-names>F</given-names></name>
+<name name-style="western"><surname>Ng</surname><given-names>LFP</given-names></name>
+<name name-style="western"><surname>Renia</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Remuzzi</surname><given-names>G</given-names></name>
+</person-group>. 
+<article-title>Immunity, endothelial injury and complement-induced coagulopathy in COVID-19</article-title>. <source>Nat Rev Nephrol</source>. (<year>2021</year>) <volume>17</volume>:<fpage>46</fpage>–<lpage>64</lpage>. doi: <pub-id pub-id-type="doi">10.1038/s41581-020-00357-4</pub-id>, PMID: 
+<pub-id pub-id-type="pmid">33077917</pub-id>
+<pub-id pub-id-type="pmcid">PMC7570423</pub-id></mixed-citation></ref><ref id="B56"><label>56</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Perico</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Benigni</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Remuzzi</surname><given-names>G</given-names></name>
+</person-group>. 
+<article-title>Angiotensin-converting enzyme 2: from a vasoactive peptide to the gatekeeper of a global pandemic</article-title>. <source>Curr Opin Nephrol Hypertens</source>. (<year>2021</year>) <volume>30</volume>:<page-range>252–63</page-range>. doi: <pub-id pub-id-type="doi">10.1097/MNH.0000000000000692</pub-id>, PMID: 
+<pub-id pub-id-type="pmid">33395036</pub-id>
+</mixed-citation></ref><ref id="B57"><label>57</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Perico</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Benigni</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Remuzzi</surname><given-names>G</given-names></name>
+</person-group>. 
+<article-title>Should COVID-19 concern nephrologists? Why and to what extent? The emerging impasse of angiotensin blockade</article-title>. <source>Nephron</source>. (<year>2020</year>) <volume>144</volume>:<page-range>213–21</page-range>. doi: <pub-id pub-id-type="doi">10.1159/000507305</pub-id>, PMID: 
+<pub-id pub-id-type="pmid">32203970</pub-id>
+<pub-id pub-id-type="pmcid">PMC7179544</pub-id></mixed-citation></ref><ref id="B58"><label>58</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Nagelschmitz</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Blunck</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Kraetzschmar</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Ludwig</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Wensing</surname><given-names>G</given-names></name>
+<name name-style="western"><surname>Hohlfeld</surname><given-names>T</given-names></name>
+</person-group>. 
+<article-title>Pharmacokinetics and pharmacodynamics of acetylsalicylic acid after intravenous and oral administration to healthy volunteers</article-title>. <source>Clin Pharmacol</source>. (<year>2014</year>) <volume>6</volume>:<page-range>51–9</page-range>. doi: <pub-id pub-id-type="doi">10.2147/CPAA.S47895</pub-id>, PMID: 
+<pub-id pub-id-type="pmid">24672263</pub-id>
+<pub-id pub-id-type="pmcid">PMC3964022</pub-id></mixed-citation></ref><ref id="B59"><label>59</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Tan</surname><given-names>CW</given-names></name>
+<name name-style="western"><surname>Chia</surname><given-names>WN</given-names></name>
+<name name-style="western"><surname>Qin</surname><given-names>X</given-names></name>
+<name name-style="western"><surname>Liu</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Chen</surname><given-names>MI-C</given-names></name>
+<name name-style="western"><surname>Tiu</surname><given-names>C</given-names></name>
+<etal/>
+</person-group>. 
+<article-title>A SARS-CoV-2 surrogate virus neutralization test based on antibody-mediated blockage of ACE2–spike protein–protein interaction</article-title>. <source>Nat Biotechnol</source>. (<year>2020</year>) <volume>38</volume>:<page-range>1073–8</page-range>. doi: <pub-id pub-id-type="doi">10.1038/s41587-020-0631-z</pub-id>, PMID: 
+<pub-id pub-id-type="pmid">32704169</pub-id>
+</mixed-citation></ref><ref id="B60"><label>60</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Ghazanfari-Sarabi</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Habibi-Rezaei</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Eshraghi-Naeeni</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Moosavi-Movahedi</surname><given-names>AA</given-names></name>
+</person-group>. 
+<article-title>Prevention of haemoglobin glycation by acetylsalicylic acid (ASA): A new view on old mechanism</article-title>. <source>PLoS One</source>. (<year>2019</year>) <volume>14</volume>:<fpage>e0214725</fpage>. doi: <pub-id pub-id-type="doi">10.1371/journal.pone.0214725</pub-id>, PMID: 
+<pub-id pub-id-type="pmid">30986221</pub-id>
+<pub-id pub-id-type="pmcid">PMC6464172</pub-id></mixed-citation></ref><ref id="B61"><label>61</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Sun</surname><given-names>Y</given-names></name>
+<name name-style="western"><surname>King</surname><given-names>B</given-names></name>
+<name name-style="western"><surname>Hamlin</surname><given-names>AJ</given-names></name>
+<name name-style="western"><surname>Saniepay</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Gorshkov</surname><given-names>K</given-names></name>
+<name name-style="western"><surname>Barker</surname><given-names>G</given-names></name>
+<etal/>
+</person-group>. 
+<article-title>Identification of a fibronectin-binding protein signature associated with idiopathic pulmonary fibrosis</article-title>. <source>Cells Dev</source>. (<year>2024</year>) <volume>179</volume>:<elocation-id>203941</elocation-id>. doi: <pub-id pub-id-type="doi">10.1016/j.cdev.2024.203941</pub-id>, PMID: 
+<pub-id pub-id-type="pmid">39038657</pub-id>
+<pub-id pub-id-type="pmcid">PMC11344656</pub-id></mixed-citation></ref><ref id="B62"><label>62</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Cheng</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Liu</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Li</surname><given-names>W</given-names></name>
+<name name-style="western"><surname>Sun</surname><given-names>B</given-names></name>
+<name name-style="western"><surname>Liu</surname><given-names>D</given-names></name>
+<name name-style="western"><surname>Wang</surname><given-names>G</given-names></name>
+<etal/>
+</person-group>. 
+<article-title>Protein post-translational modification in SARS-CoV-2 and host interaction</article-title>. <source>Front Immunol</source>. (<year>2023</year>) <volume>13</volume>:<elocation-id>1068449</elocation-id>. doi: <pub-id pub-id-type="doi">10.3389/fimmu.2022.1068449</pub-id>, PMID: 
+<pub-id pub-id-type="pmid">36713387</pub-id>
+<pub-id pub-id-type="pmcid">PMC9880545</pub-id></mixed-citation></ref><ref id="B63"><label>63</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Gong</surname><given-names>Y</given-names></name>
+<name name-style="western"><surname>Qin</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Dai</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Tian</surname><given-names>Z</given-names></name>
+</person-group>. 
+<article-title>The glycosylation in SARS-CoV-2 and its receptor ACE2</article-title>. <source>Signal Transduct Target Ther</source>. (<year>2021</year>) <volume>6</volume>:<fpage>396</fpage>. doi: <pub-id pub-id-type="doi">10.1038/s41392-021-00809-8</pub-id>, PMID: 
+<pub-id pub-id-type="pmid">34782609</pub-id>
+<pub-id pub-id-type="pmcid">PMC8591162</pub-id></mixed-citation></ref><ref id="B64"><label>64</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Calvaresi</surname><given-names>V</given-names></name>
+<name name-style="western"><surname>Wrobel</surname><given-names>AG</given-names></name>
+<name name-style="western"><surname>Toporowska</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Hammerschmid</surname><given-names>D</given-names></name>
+<name name-style="western"><surname>Doores</surname><given-names>KJ</given-names></name>
+<name name-style="western"><surname>Bradshaw</surname><given-names>RT</given-names></name>
+<etal/>
+</person-group>. 
+<article-title>Structural dynamics in the evolution of SARS-CoV-2 spike glycoprotein</article-title>. <source>Nat Commun</source>. (<year>2023</year>) <volume>14</volume>:<fpage>1421</fpage>. doi: <pub-id pub-id-type="doi">10.1038/s41467-023-36745-0</pub-id>, PMID: 
+<pub-id pub-id-type="pmid">36918534</pub-id>
+<pub-id pub-id-type="pmcid">PMC10013288</pub-id></mixed-citation></ref><ref id="B65"><label>65</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Casalino</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Gaieb</surname><given-names>Z</given-names></name>
+<name name-style="western"><surname>Goldsmith</surname><given-names>JA</given-names></name>
+<name name-style="western"><surname>Hjorth</surname><given-names>CK</given-names></name>
+<name name-style="western"><surname>Dommer</surname><given-names>AC</given-names></name>
+<name name-style="western"><surname>Harbison</surname><given-names>AM</given-names></name>
+<etal/>
+</person-group>. 
+<article-title>Beyond shielding: the roles of glycans in the SARS-CoV-2 spike protein</article-title>. <source>ACS Cent Sci</source>. (<year>2020</year>) <volume>6</volume>:<page-range>1722–34</page-range>. doi: <pub-id pub-id-type="doi">10.1021/acscentsci.0c01056</pub-id>, PMID: 
+<pub-id pub-id-type="pmid">33140034</pub-id>
+<pub-id pub-id-type="pmcid">PMC7523240</pub-id></mixed-citation></ref><ref id="B66"><label>66</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Gracie</surname><given-names>NP</given-names></name>
+<name name-style="western"><surname>Lai</surname><given-names>LYS</given-names></name>
+<name name-style="western"><surname>Newsome</surname><given-names>TP</given-names></name>
+</person-group>. 
+<article-title>Cellular signalling by SARS-CoV-2 spike protein</article-title>. <source>Microbiol Aust</source>. (<year>2024</year>) <volume>45</volume>:<page-range>13–7</page-range>. doi: <pub-id pub-id-type="doi">10.1071/MA24005</pub-id>
+</mixed-citation></ref><ref id="B67"><label>67</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Zhu</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Wu</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Lu</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Jiao</surname><given-names>Q</given-names></name>
+<name name-style="western"><surname>Liu</surname><given-names>X</given-names></name>
+<name name-style="western"><surname>Liu</surname><given-names>L</given-names></name>
+<etal/>
+</person-group>. 
+<article-title>Acute lung injury induced by recombinant SARS-CoV-2 spike protein subunit S1 in mice</article-title>. <source>Respir Res</source>. (<year>2025</year>) <volume>26</volume>:<fpage>59</fpage>. doi: <pub-id pub-id-type="doi">10.1186/s12931-025-03143-7</pub-id>, PMID: 
+<pub-id pub-id-type="pmid">39972348</pub-id>
+<pub-id pub-id-type="pmcid">PMC11837662</pub-id></mixed-citation></ref><ref id="B68"><label>68</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Oudit</surname><given-names>GY</given-names></name>
+<name name-style="western"><surname>Wang</surname><given-names>K</given-names></name>
+<name name-style="western"><surname>Viveiros</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Kellner</surname><given-names>MJ</given-names></name>
+<name name-style="western"><surname>Penninger</surname><given-names>JM</given-names></name>
+</person-group>. 
+<article-title>Angiotensin-converting enzyme 2—at the heart of the COVID-19 pandemic</article-title>. <source>Cell</source>. (<year>2023</year>) <volume>186</volume>:<page-range>906–22</page-range>. doi: <pub-id pub-id-type="doi">10.1016/j.cell.2023.01.039</pub-id>, PMID: 
+<pub-id pub-id-type="pmid">36787743</pub-id>
+<pub-id pub-id-type="pmcid">PMC9892333</pub-id></mixed-citation></ref><ref id="B69"><label>69</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Watanabe</surname><given-names>Y</given-names></name>
+<name name-style="western"><surname>Allen</surname><given-names>JD</given-names></name>
+<name name-style="western"><surname>Wrapp</surname><given-names>D</given-names></name>
+<name name-style="western"><surname>McLellan</surname><given-names>JS</given-names></name>
+<name name-style="western"><surname>Crispin</surname><given-names>M</given-names></name>
+</person-group>. 
+<article-title>Site-specific glycan analysis of the SARS-CoV-2 spike</article-title>. <source>Science</source>. (<year>2020</year>) <volume>369</volume>:<page-range>330–3</page-range>. doi: <pub-id pub-id-type="doi">10.1126/science.abb9983</pub-id>, PMID: 
+<pub-id pub-id-type="pmid">32366695</pub-id>
+<pub-id pub-id-type="pmcid">PMC7199903</pub-id></mixed-citation></ref><ref id="B70"><label>70</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Sanda</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Morrison</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Goldman</surname><given-names>R--</given-names></name>
+</person-group>. 
+<article-title>and O-glycosylation of the SARS-CoV-2 spike protein</article-title>. <source>Anal Chem</source>. (<year>2021</year>) <volume>93</volume>:<page-range>2003–9</page-range>. doi: <pub-id pub-id-type="doi">10.1021/acs.analchem.0c03173</pub-id>, PMID: 
+<pub-id pub-id-type="pmid">33406838</pub-id>
+<pub-id pub-id-type="pmcid">PMC7805595</pub-id></mixed-citation></ref><ref id="B71"><label>71</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Wang</surname><given-names>Y</given-names></name>
+<name name-style="western"><surname>Wu</surname><given-names>Z</given-names></name>
+<name name-style="western"><surname>Hu</surname><given-names>W</given-names></name>
+<name name-style="western"><surname>Hao</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Yang</surname><given-names>S</given-names></name>
+</person-group>. 
+<article-title>Impact of expressing cells on glycosylation and glycan of the SARS-CoV-2 spike glycoprotein</article-title>. <source>ACS Omega</source>. (<year>2021</year>) <volume>6</volume>:<page-range>15988–99</page-range>. doi: <pub-id pub-id-type="doi">10.1021/acsomega.1c01785</pub-id>, PMID: 
+<pub-id pub-id-type="pmid">34179644</pub-id>
+<pub-id pub-id-type="pmcid">PMC8204757</pub-id></mixed-citation></ref><ref id="B72"><label>72</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Huang</surname><given-names>Y</given-names></name>
+<name name-style="western"><surname>Yang</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Xu</surname><given-names>X-F</given-names></name>
+<name name-style="western"><surname>Xu</surname><given-names>W</given-names></name>
+<name name-style="western"><surname>Liu</surname><given-names>S-W</given-names></name>
+</person-group>. 
+<article-title>Structural and functional properties of SARS-CoV-2 spike protein: potential antivirus drug development for COVID-19</article-title>. <source>Acta Pharmacol Sin</source>. (<year>2020</year>) <volume>41</volume>:<page-range>1141–9</page-range>. doi: <pub-id pub-id-type="doi">10.1038/s41401-020-0485-4</pub-id>, PMID: 
+<pub-id pub-id-type="pmid">32747721</pub-id>
+<pub-id pub-id-type="pmcid">PMC7396720</pub-id></mixed-citation></ref><ref id="B73"><label>73</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Bagdonaite</surname><given-names>I</given-names></name>
+<name name-style="western"><surname>Thompson</surname><given-names>AJ</given-names></name>
+<name name-style="western"><surname>Wang</surname><given-names>X</given-names></name>
+<name name-style="western"><surname>Søgaard</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Fougeroux</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Frank</surname><given-names>M</given-names></name>
+<etal/>
+</person-group>. 
+<article-title>Site-specific O-glycosylation analysis of SARS-CoV-2 spike protein produced in insect and human cells</article-title>. <source>Viruses</source>. (<year>2021</year>) <volume>13</volume>:<elocation-id>551</elocation-id>. doi: <pub-id pub-id-type="doi">10.3390/v13040551</pub-id>, PMID: 
+<pub-id pub-id-type="pmid">33806155</pub-id>
+<pub-id pub-id-type="pmcid">PMC8064498</pub-id></mixed-citation></ref><ref id="B74"><label>74</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Tian</surname><given-names>W</given-names></name>
+<name name-style="western"><surname>Li</surname><given-names>D</given-names></name>
+<name name-style="western"><surname>Zhang</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Bai</surname><given-names>G</given-names></name>
+<name name-style="western"><surname>Yuan</surname><given-names>K</given-names></name>
+<name name-style="western"><surname>Xiao</surname><given-names>H</given-names></name>
+<etal/>
+</person-group>. 
+<article-title>O-glycosylation pattern of the SARS-CoV-2 spike protein reveals an “O-Follow-N” rule</article-title>. <source>Cell Res</source>. (<year>2021</year>) <volume>31</volume>:<page-range>1123–5</page-range>. doi: <pub-id pub-id-type="doi">10.1038/s41422-021-00545-2</pub-id>, PMID: 
+<pub-id pub-id-type="pmid">34341488</pub-id>
+<pub-id pub-id-type="pmcid">PMC8326647</pub-id></mixed-citation></ref><ref id="B75"><label>75</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Shajahan</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Supekar</surname><given-names>NT</given-names></name>
+<name name-style="western"><surname>Gleinich</surname><given-names>AS</given-names></name>
+<name name-style="western"><surname>Azadi</surname><given-names>P</given-names></name>
+</person-group>. 
+<article-title>Deducing the N- and O-glycosylation profile of the spike protein of novel coronavirus SARS-CoV-2</article-title>. <source>Glycobiology</source>. (<year>2020</year>) <volume>30</volume>:<page-range>981–8</page-range>. doi: <pub-id pub-id-type="doi">10.1093/glycob/cwaa042</pub-id>, PMID: 
+<pub-id pub-id-type="pmid">32363391</pub-id>
+<pub-id pub-id-type="pmcid">PMC7239183</pub-id></mixed-citation></ref><ref id="B76"><label>76</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Tian</surname><given-names>Y</given-names></name>
+<name name-style="western"><surname>Parsons</surname><given-names>LM</given-names></name>
+<name name-style="western"><surname>Jankowska</surname><given-names>E</given-names></name>
+<name name-style="western"><surname>Cipollo</surname><given-names>JF</given-names></name>
+</person-group>. 
+<article-title>Site-specific glycosylation patterns of the SARS-CoV-2 spike protein derived from recombinant protein and viral WA1 and D614G strains</article-title>. <source>Front Chem</source>. (<year>2021</year>) <volume>9</volume>:<elocation-id>767448</elocation-id>. doi: <pub-id pub-id-type="doi">10.3389/fchem.2021.767448</pub-id>, PMID: 
+<pub-id pub-id-type="pmid">34869209</pub-id>
+<pub-id pub-id-type="pmcid">PMC8640487</pub-id></mixed-citation></ref><ref id="B77"><label>77</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Yang</surname><given-names>Q</given-names></name>
+<name name-style="western"><surname>Hughes</surname><given-names>TA</given-names></name>
+<name name-style="western"><surname>Kelkar</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Yu</surname><given-names>X</given-names></name>
+<name name-style="western"><surname>Cheng</surname><given-names>K</given-names></name>
+<name name-style="western"><surname>Park</surname><given-names>S</given-names></name>
+<etal/>
+</person-group>. 
+<article-title>Inhibition of SARS-CoV-2 viral entry upon blocking N- and O-glycan elaboration</article-title>. <source>Elife</source>. (<year>2020</year>) <volume>9</volume>:<fpage>e61552</fpage>. doi: <pub-id pub-id-type="doi">10.7554/eLife.61552</pub-id>, PMID: 
+<pub-id pub-id-type="pmid">33103998</pub-id>
+<pub-id pub-id-type="pmcid">PMC7685702</pub-id></mixed-citation></ref><ref id="B78"><label>78</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Zhao</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Praissman</surname><given-names>JL</given-names></name>
+<name name-style="western"><surname>Grant</surname><given-names>OC</given-names></name>
+<name name-style="western"><surname>Cai</surname><given-names>Y</given-names></name>
+<name name-style="western"><surname>Xiao</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Rosenbalm</surname><given-names>KE</given-names></name>
+<etal/>
+</person-group>. 
+<article-title>Virus-receptor interactions of glycosylated SARS-CoV-2 spike and human ACE2 receptor</article-title>. <source>Cell Host Microbe</source>. (<year>2020</year>) <volume>28</volume>:<fpage>586</fpage>–<lpage>601.e6</lpage>. doi: <pub-id pub-id-type="doi">10.1016/j.chom.2020.08.004</pub-id>, PMID: 
+<pub-id pub-id-type="pmid">32841605</pub-id>
+<pub-id pub-id-type="pmcid">PMC7443692</pub-id></mixed-citation></ref><ref id="B79"><label>79</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Wang</surname><given-names>D</given-names></name>
+<name name-style="western"><surname>Baudys</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Bundy</surname><given-names>JL</given-names></name>
+<name name-style="western"><surname>Solano</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Keppel</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Barr</surname><given-names>JR</given-names></name>
+</person-group>. 
+<article-title>Comprehensive analysis of the glycan complement of SARS-coV-2 spike proteins using signature ions-triggered electron-transfer/higher-energy collisional dissociation (EThcD) mass spectrometry</article-title>. <source>Anal Chem</source>. (<year>2020</year>) <volume>92</volume>:<page-range>14730–9</page-range>. doi: <pub-id pub-id-type="doi">10.1021/acs.analchem.0c03301</pub-id>, PMID: 
+<pub-id pub-id-type="pmid">33064451</pub-id>
+<pub-id pub-id-type="pmcid">PMC7586457</pub-id></mixed-citation></ref><ref id="B80"><label>80</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Andersen</surname><given-names>KG</given-names></name>
+<name name-style="western"><surname>Rambaut</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Lipkin</surname><given-names>WI</given-names></name>
+<name name-style="western"><surname>Holmes</surname><given-names>EC</given-names></name>
+<name name-style="western"><surname>Garry</surname><given-names>RF</given-names></name>
+</person-group>. 
+<article-title>The proximal origin of SARS-CoV-2</article-title>. <source>Nat Med</source>. (<year>2020</year>) <volume>26</volume>:<page-range>450–2</page-range>. doi: <pub-id pub-id-type="doi">10.1038/s41591-020-0820-9</pub-id>, PMID: 
+<pub-id pub-id-type="pmid">32284615</pub-id>
+<pub-id pub-id-type="pmcid">PMC7095063</pub-id></mixed-citation></ref><ref id="B81"><label>81</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Dong</surname><given-names>X</given-names></name>
+<name name-style="western"><surname>Chen</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Yan</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Zhang</surname><given-names>X</given-names></name>
+<name name-style="western"><surname>Li</surname><given-names>X</given-names></name>
+<name name-style="western"><surname>Liang</surname><given-names>X</given-names></name>
+</person-group>. 
+<article-title>Comprehensive O-glycosylation analysis of the SARS-CoV-2 spike protein with biomimetic trp-arg materials</article-title>. <source>Anal Chem</source>. (<year>2021</year>) <volume>93</volume>:<page-range>10444–52</page-range>. doi: <pub-id pub-id-type="doi">10.1021/acs.analchem.0c04634</pub-id>, PMID: 
+<pub-id pub-id-type="pmid">34284575</pub-id>
+</mixed-citation></ref><ref id="B82"><label>82</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Nguyen</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>McCord</surname><given-names>KA</given-names></name>
+<name name-style="western"><surname>Bui</surname><given-names>DT</given-names></name>
+<name name-style="western"><surname>Bouwman</surname><given-names>KM</given-names></name>
+<name name-style="western"><surname>Kitova</surname><given-names>EN</given-names></name>
+<name name-style="western"><surname>Elaish</surname><given-names>M</given-names></name>
+<etal/>
+</person-group>. 
+<article-title>Sialic acid-containing glycolipids mediate binding and viral entry of SARS-CoV-2</article-title>. <source>Nat Chem Biol</source>. (<year>2022</year>) <volume>18</volume>:<fpage>81</fpage>–<lpage>90</lpage>. doi: <pub-id pub-id-type="doi">10.1038/s41589-021-00924-1</pub-id>, PMID: 
+<pub-id pub-id-type="pmid">34754101</pub-id>
+<pub-id pub-id-type="pmcid">PMC12434308</pub-id></mixed-citation></ref><ref id="B83"><label>83</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Zhang</surname><given-names>Y</given-names></name>
+<name name-style="western"><surname>Zhao</surname><given-names>W</given-names></name>
+<name name-style="western"><surname>Mao</surname><given-names>Y</given-names></name>
+<name name-style="western"><surname>Chen</surname><given-names>Y</given-names></name>
+<name name-style="western"><surname>Wang</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Zhong</surname><given-names>Y</given-names></name>
+<etal/>
+</person-group>. 
+<article-title>Site-specific N-glycosylation characterization of recombinant SARS-CoV-2 spike proteins</article-title>. <source>Mol Cell Proteomics</source>. (<year>2021</year>) <volume>20</volume>:<fpage>100058</fpage>. doi: <pub-id pub-id-type="doi">10.1074/mcp.RA120.002295</pub-id>, PMID: 
+<pub-id pub-id-type="pmid">33077685</pub-id>
+<pub-id pub-id-type="pmcid">PMC7876485</pub-id></mixed-citation></ref><ref id="B84"><label>84</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Antonopoulos</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Broome</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Sharov</surname><given-names>V</given-names></name>
+<name name-style="western"><surname>Ziegenfuss</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Easton</surname><given-names>RL</given-names></name>
+<name name-style="western"><surname>Panico</surname><given-names>M</given-names></name>
+<etal/>
+</person-group>. 
+<article-title>Site-specific characterization of SARS-CoV-2 spike glycoprotein receptor-binding domain</article-title>. <source>Glycobiology</source>. (<year>2021</year>) <volume>31</volume>:<page-range>181–7</page-range>. doi: <pub-id pub-id-type="doi">10.1093/glycob/cwaa085</pub-id>, PMID: 
+<pub-id pub-id-type="pmid">32886791</pub-id>
+<pub-id pub-id-type="pmcid">PMC7499654</pub-id></mixed-citation></ref><ref id="B85"><label>85</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Zhang</surname><given-names>F</given-names></name>
+<name name-style="western"><surname>Schmidt</surname><given-names>F</given-names></name>
+<name name-style="western"><surname>Muecksch</surname><given-names>F</given-names></name>
+<name name-style="western"><surname>Wang</surname><given-names>Z</given-names></name>
+<name name-style="western"><surname>Gazumyan</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Nussenzweig</surname><given-names>MC</given-names></name>
+<etal/>
+</person-group>. 
+<article-title>SARS-CoV-2 spike glycosylation affects function and neutralization sensitivity</article-title>. <source>mBio</source>. (<year>2024</year>) <volume>15</volume>:<page-range>e01672–23</page-range>. doi: <pub-id pub-id-type="doi">10.1128/mbio.01672-23</pub-id>, PMID: 
+<pub-id pub-id-type="pmid">38193662</pub-id>
+<pub-id pub-id-type="pmcid">PMC10865855</pub-id></mixed-citation></ref><ref id="B86"><label>86</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Hun-Opfer</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Mata-Segreda</surname><given-names>JF</given-names></name>
+</person-group>. 
+<article-title>Non-enzymatic acetylation of proteins by aspirin as protection against the secondary complications of diabetes mellitus</article-title>. <source>Acta Physiol Pharmacol Latinoam</source>. (<year>1986</year>) <volume>36</volume>:<page-range>313–6</page-range>., PMID: 
+<pub-id pub-id-type="pmid">3577806</pub-id>
+</mixed-citation></ref><ref id="B87"><label>87</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Parsons</surname><given-names>RJ</given-names></name>
+<name name-style="western"><surname>Acharya</surname><given-names>P</given-names></name>
+</person-group>. 
+<article-title>Evolution of the SARS-CoV-2 omicron spike</article-title>. <source>Cell Rep</source>. (<year>2023</year>) <volume>42</volume>:<fpage>113444</fpage>. doi: <pub-id pub-id-type="doi">10.1016/j.celrep.2023.113444</pub-id>, PMID: 
+<pub-id pub-id-type="pmid">37979169</pub-id>
+<pub-id pub-id-type="pmcid">PMC10782855</pub-id></mixed-citation></ref><ref id="B88"><label>88</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Ou</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Lan</surname><given-names>W</given-names></name>
+<name name-style="western"><surname>Wu</surname><given-names>X</given-names></name>
+<name name-style="western"><surname>Zhao</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Duan</surname><given-names>B</given-names></name>
+<name name-style="western"><surname>Yang</surname><given-names>P</given-names></name>
+<etal/>
+</person-group>. 
+<article-title>Tracking SARS-CoV-2 Omicron diverse spike gene mutations identifies multiple inter-variant recombination events</article-title>. <source>Sig Transduct Target Ther</source>. (<year>2022</year>) <volume>7</volume>:<fpage>138</fpage>. doi: <pub-id pub-id-type="doi">10.1038/s41392-022-00992-2</pub-id>, PMID: 
+<pub-id pub-id-type="pmid">35474215</pub-id>
+<pub-id pub-id-type="pmcid">PMC9039610</pub-id></mixed-citation></ref><ref id="B89"><label>89</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Shajahan</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Pepi</surname><given-names>LE</given-names></name>
+<name name-style="western"><surname>Kumar</surname><given-names>B</given-names></name>
+<name name-style="western"><surname>Murray</surname><given-names>NB</given-names></name>
+<name name-style="western"><surname>Azadi</surname><given-names>P</given-names></name>
+</person-group>. 
+<article-title>Site specific N- and O-glycosylation mapping of the spike proteins of SARS-CoV-2 variants of concern</article-title>. <source>Sci Rep</source>. (<year>2023</year>) <volume>13</volume>:<fpage>10053</fpage>. doi: <pub-id pub-id-type="doi">10.1038/s41598-023-33088-0</pub-id>, PMID: 
+<pub-id pub-id-type="pmid">37344512</pub-id>
+<pub-id pub-id-type="pmcid">PMC10284906</pub-id></mixed-citation></ref><ref id="B90"><label>90</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Wu</surname><given-names>C-Y</given-names></name>
+<name name-style="western"><surname>Lin</surname><given-names>C-W</given-names></name>
+<name name-style="western"><surname>Tsai</surname><given-names>T-I</given-names></name>
+<name name-style="western"><surname>Lee</surname><given-names>C-CD</given-names></name>
+<name name-style="western"><surname>Chuang</surname><given-names>H-Y</given-names></name>
+<name name-style="western"><surname>Chen</surname><given-names>J-B</given-names></name>
+<etal/>
+</person-group>. 
+<article-title>Influenza A surface glycosylation and vaccine design</article-title>. <source>Proc Natl Acad Sci</source>. (<year>2017</year>) <volume>114</volume>:<page-range>280–5</page-range>. doi: <pub-id pub-id-type="doi">10.1073/pnas.1617174114</pub-id>, PMID: 
+<pub-id pub-id-type="pmid">28028222</pub-id>
+<pub-id pub-id-type="pmcid">PMC5240703</pub-id></mixed-citation></ref><ref id="B91"><label>91</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Kosik</surname><given-names>I</given-names></name>
+<name name-style="western"><surname>Ince</surname><given-names>WL</given-names></name>
+<name name-style="western"><surname>Gentles</surname><given-names>LE</given-names></name>
+<name name-style="western"><surname>Oler</surname><given-names>AJ</given-names></name>
+<name name-style="western"><surname>Kosikova</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Angel</surname><given-names>M</given-names></name>
+<etal/>
+</person-group>. 
+<article-title>Influenza A virus hemagglutinin glycosylation compensates for antibody escape fitness costs</article-title>. <source>PLoS Pathog</source>. (<year>2018</year>) <volume>14</volume>:<fpage>e1006796</fpage>. doi: <pub-id pub-id-type="doi">10.1371/journal.ppat.1006796</pub-id>, PMID: 
+<pub-id pub-id-type="pmid">29346435</pub-id>
+<pub-id pub-id-type="pmcid">PMC5773227</pub-id></mixed-citation></ref><ref id="B92"><label>92</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Perico</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Morigi</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Pezzotta</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Locatelli</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Imberti</surname><given-names>B</given-names></name>
+<name name-style="western"><surname>Corna</surname><given-names>D</given-names></name>
+<etal/>
+</person-group>. 
+<article-title>SARS-CoV-2 spike protein induces lung endothelial cell dysfunction and thrombo-inflammation depending on the C3a/C3a receptor signalling</article-title>. <source>Sci Rep</source>. (<year>2023</year>) <volume>13</volume>:<fpage>11392</fpage>. doi: <pub-id pub-id-type="doi">10.1038/s41598-023-38382-5</pub-id>, PMID: 
+<pub-id pub-id-type="pmid">37452090</pub-id>
+<pub-id pub-id-type="pmcid">PMC10349115</pub-id></mixed-citation></ref><ref id="B93"><label>93</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Pezzotta</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Bovio</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Imberti</surname><given-names>B</given-names></name>
+<name name-style="western"><surname>Locatelli</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Corna</surname><given-names>D</given-names></name>
+<name name-style="western"><surname>Cerullo</surname><given-names>D</given-names></name>
+<etal/>
+</person-group>. 
+<article-title>Mesenchymal stromal cell secretome reduces lung injury and thrombo-inflammation induced by SARS-CoV-2 spike protein</article-title>. <source>Stem Cell Res Ther</source>. (<year>2025</year>) <volume>16</volume>:<fpage>324</fpage>. doi: <pub-id pub-id-type="doi">10.1186/s13287-025-04472-6</pub-id>, PMID: 
+<pub-id pub-id-type="pmid">40597299</pub-id>
+<pub-id pub-id-type="pmcid">PMC12210905</pub-id></mixed-citation></ref><ref id="B94"><label>94</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Percie du Sert</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Ahluwalia</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Alam</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Avey</surname><given-names>MT</given-names></name>
+<name name-style="western"><surname>Baker</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Browne</surname><given-names>WJ</given-names></name>
+<etal/>
+</person-group>. 
+<article-title>Reporting animal research: Explanation and elaboration for the ARRIVE guidelines 2.0</article-title>. <source>PLoS Biol</source>. (<year>2020</year>) <volume>18</volume>:<fpage>e3000411</fpage>. doi: <pub-id pub-id-type="doi">10.1371/journal.pbio.3000411</pub-id>, PMID: 
+<pub-id pub-id-type="pmid">32663221</pub-id>
+<pub-id pub-id-type="pmcid">PMC7360025</pub-id></mixed-citation></ref><ref id="B95"><label>95</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Perico</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Tomasoni</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Peracchi</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Perna</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Pezzotta</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Remuzzi</surname><given-names>G</given-names></name>
+<etal/>
+</person-group>. 
+<article-title>COVID-19 and lombardy: TESTing the impact of the first wave of the pandemic</article-title>. <source>EBioMedicine</source>. (<year>2020</year>) <volume>61</volume>:<fpage>103069</fpage>. doi: <pub-id pub-id-type="doi">10.1016/j.ebiom.2020.103069</pub-id>, PMID: 
+<pub-id pub-id-type="pmid">33130396</pub-id>
+<pub-id pub-id-type="pmcid">PMC7581396</pub-id></mixed-citation></ref></ref-list></back></article></pmc-articleset>

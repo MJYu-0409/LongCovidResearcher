@@ -1,0 +1,34 @@
+{
+  "pmcid": "PMC12903254",
+  "pmid": "41559790",
+  "doi": "10.1186/s12967-026-07684-3",
+  "title": "Multilayer metabolomic integration reveals bioenergetic disruption in Long COVID.",
+  "abstract": "BACKGROUND: Long COVID represents a significant health challenge, with 10–20% of patients with COVID-19 experiencing persistent multiorgan symptoms. The heterogeneity of clinical manifestations, combined with an incomplete understanding of the underlying molecular mechanisms, limits the improvement of patient management. Circulating metabolomic profiling constitutes a promising tool to address these limitations. In this context, we aim to investigate long-term metabolic disruptions in Long COVID through multilayer integration of plasma metabolites.\nMETHODS: The study population included 42 survivors of critical COVID-19 who attended a comprehensive clinical evaluation conducted 12 months postdischarge. Plasma biochemicals, including lipoproteins, lipids, glycoproteins and metabolites were quantified using proton nuclear magnetic resonance spectroscopy (H-NMR). Circulating tricarboxylic acid (TCA) cycle intermediates and protein damage markers were detected by gas chromatography‒mass spectrometry (GC/MS). A machine learning-based feature selection approach was employed to identify the multilayered metabolic signature. Generalized additive models (GAMs) were used to explore associations between individual metabolites and specific dimensions of Long COVID.\nRESULTS: Univariate analysis revealed significantly elevated levels of alpha-ketoglutarate (aKG) and reduced levels of creatine in patients with Long COVID. A nine-metabolite and damage marker signature [aKG, carboxymethyl-cysteine (CMC), carboxymethyl-lysine (CML), creatine, fumarate, lactate, low density lipoprotein particle size (LDL-Z), 2-succinyl-cysteine (2SC) and tyrosine] was identified through the integration of Random Forest with Boruta and Sparse Partial Least Squares regression. This signature effectively classified patients with Long COVID (a cross-validated AUC of 0.91). In the GAM models, aKG, CMC, CML and creatine were associated with distinct Long COVID dimensions, including cognitive, functional and respiratory impairments.\nCONCLUSIONS: Multilayer metabolomic integration reveals persistent bioenergetic disruption in patients with Long COVID. The identified metabolic profile offers promising biomarkers for medical decision-making. Modulating key metabolites could potentially mitigate specific symptoms of long COVID.\nGRAPHICAL ABSTRACT: [Image: see text]\nSUPPLEMENTARY INFORMATION: The online version contains supplementary material available at 10.1186/s12967-026-07684-3.",
+  "authors": [
+    "María C García-Hidalgo",
+    "Natàlia Mota-Martorell",
+    "Jessica González",
+    "Iván D Benítez",
+    "Idoia Company-Marín",
+    "Mariona Jové",
+    "Ferran Barbé",
+    "Núria Amigó",
+    "Reinald Pamplona",
+    "David de Gonzalo-Calvo",
+    "Gerard Torres"
+  ],
+  "journal": "Journal of translational medicine",
+  "pub_year": "2026",
+  "pub_month": "Jan",
+  "pub_day": "20",
+  "keywords": [
+    "Biomarkers",
+    "Long COVID",
+    "Metabolomics",
+    "Mitochondria",
+    "Multilayer integration"
+  ],
+  "article_types": [
+    "Journal Article"
+  ]
+}

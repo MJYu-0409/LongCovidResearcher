@@ -1,0 +1,614 @@
+<?xml version="1.0"  ?><!DOCTYPE pmc-articleset PUBLIC "-//NLM//DTD ARTICLE SET 2.0//EN" "https://dtd.nlm.nih.gov/ncbi/pmc/articleset/nlm-articleset-2.0.dtd"><pmc-articleset><article id="hex70516" xml:lang="en" article-type="research-article" dtd-version="1.4"><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">Health Expect</journal-id><journal-id journal-id-type="iso-abbrev">Health Expect</journal-id><journal-id journal-id-type="pmc-domain-id">2997</journal-id><journal-id journal-id-type="pmc-domain">hex</journal-id><journal-id journal-id-type="publisher-id">HEX</journal-id><journal-title-group><journal-title>Health Expectations : An International Journal of Public Participation in Health Care and Health Policy</journal-title></journal-title-group><issn pub-type="ppub">1369-6513</issn><issn pub-type="epub">1369-7625</issn><publisher><publisher-name>Wiley</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC12703803</article-id><article-id pub-id-type="pmcid-ver">PMC12703803.1</article-id><article-id pub-id-type="pmcaid">12703803</article-id><article-id pub-id-type="pmcaiid">12703803</article-id><article-id pub-id-type="pmid">41395800</article-id><article-id pub-id-type="doi">10.1111/hex.70516</article-id><article-id pub-id-type="publisher-id">HEX70516</article-id><article-version article-version-type="pmc-version">1</article-version><article-categories><subj-group subj-group-type="overline"><subject>Original Article</subject></subj-group><subj-group subj-group-type="heading"><subject>Original Article</subject></subj-group></article-categories><title-group><article-title>Leveraging Community‐Based System Dynamics to Understand Long Covid Disparities in African American Communities: A Model for Health Equity Research</article-title></title-group><contrib-group><contrib id="hex70516-cr-0001" contrib-type="author" corresp="yes"><name name-style="western"><surname>Evans</surname><given-names initials="CR">Chad R.</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-1650-1008</contrib-id><xref rid="hex70516-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><address><email>crevans@msm.edu</email></address></contrib><contrib id="hex70516-cr-0002" contrib-type="author"><name name-style="western"><surname>Echols</surname><given-names initials="MR">Melvin R.</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0001-6630-5761</contrib-id><xref rid="hex70516-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="hex70516-cr-0003" contrib-type="author"><name name-style="western"><surname>Martin</surname><given-names initials="D">D.</given-names><suffix>Jr.</suffix></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0009-0003-8937-6476</contrib-id><xref rid="hex70516-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib id="hex70516-cr-0004" contrib-type="author"><name name-style="western"><surname>Taylor</surname><given-names initials="HA">H. A.</given-names></name><xref rid="hex70516-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="hex70516-cr-0005" contrib-type="author"><name name-style="western"><surname>Washington</surname><given-names initials="JA">James A.</given-names><suffix>II</suffix></name><xref rid="hex70516-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="hex70516-cr-0006" contrib-type="author"><name name-style="western"><surname>Gbinigie</surname><given-names initials="O">Olusola</given-names></name><xref rid="hex70516-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref></contrib><contrib id="hex70516-cr-0007" contrib-type="author"><name name-style="western"><surname>Gaglioti</surname><given-names initials="AH">Anne H.</given-names></name><xref rid="hex70516-aff-0004" ref-type="aff">
+<sup>4</sup>
+</xref></contrib><contrib id="hex70516-cr-0008" contrib-type="author"><name name-style="western"><surname>Wright</surname><given-names initials="W">Wendi</given-names></name><xref rid="hex70516-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="hex70516-cr-0009" contrib-type="author"><name name-style="western"><surname>Hovmand</surname><given-names initials="P">Peter</given-names></name><xref rid="hex70516-aff-0005" ref-type="aff">
+<sup>5</sup>
+</xref></contrib></contrib-group><aff id="hex70516-aff-0001">
+<label>
+<sup>1</sup>
+</label>
+<named-content content-type="organisation-division">Morehouse School of Medicine</named-content>
+<institution>Cardiovascular Research Institute</institution>
+<city>Atlanta</city>
+<named-content content-type="country-part">Georgia</named-content>
+<country country="US">USA</country>
+</aff><aff id="hex70516-aff-0002">
+<label>
+<sup>2</sup>
+</label>
+<institution>Global Institute for the Learning Society</institution>
+<city>Oakland</city>
+<named-content content-type="country-part">California</named-content>
+<country country="US">USA</country>
+</aff><aff id="hex70516-aff-0003">
+<label>
+<sup>3</sup>
+</label>
+<named-content content-type="organisation-division">Morehouse School of Medicine</named-content>
+<institution>Clinical Research Center</institution>
+<city>Atlanta</city>
+<named-content content-type="country-part">Georgia</named-content>
+<country country="US">USA</country>
+</aff><aff id="hex70516-aff-0004">
+<label>
+<sup>4</sup>
+</label>
+<institution>American Cancer Society</institution>
+<city>Atlanta</city>
+<named-content content-type="country-part">Georgia</named-content>
+<country country="US">USA</country>
+</aff><aff id="hex70516-aff-0005">
+<label>
+<sup>5</sup>
+</label>
+<institution>Case Western Reserve University</institution>
+<city>Cleveland</city>
+<named-content content-type="country-part">Ohio</named-content>
+<country country="US">USA</country>
+</aff><author-notes><corresp id="correspondenceTo">
+<label>*</label>
+<bold>Correspondence:</bold> Chad R. Evans (<email>crevans@msm.edu</email>)<break/>
+</corresp></author-notes><pub-date pub-type="epub"><day>15</day><month>12</month><year>2025</year></pub-date><pub-date pub-type="collection"><month>12</month><year>2025</year></pub-date><volume>28</volume><issue seq="15">6</issue><issue-id pub-id-type="pmc-issue-id">499657</issue-id><issue-id pub-id-type="doi">10.1111/hex.v28.6</issue-id><elocation-id>e70516</elocation-id><history><date date-type="rev-recd"><day>07</day><month>10</month><year>2025</year></date><date date-type="received"><day>11</day><month>5</month><year>2025</year></date><date date-type="accepted"><day>13</day><month>11</month><year>2025</year></date></history><pub-history><event event-type="pmc-release"><date><day>15</day><month>12</month><year>2025</year></date></event><event event-type="pmc-live"><date><day>16</day><month>12</month><year>2025</year></date></event><event event-type="pmc-last-change"><date iso-8601-date="2025-12-16 11:25:12.650"><day>16</day><month>12</month><year>2025</year></date></event></pub-history><permissions><copyright-statement content-type="article-copyright">© 2025 The Author(s). <italic toggle="yes">Health Expectations</italic> published by John Wiley &amp; Sons Ltd.</copyright-statement><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>This is an open access article under the terms of the <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pmc-pdf" xlink:href="HEX-28-e70516.pdf"/><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pdf" xlink:href="file:HEX-28-e70516.pdf"/><abstract><title>ABSTRACT</title><sec id="hex70516-sec-0010"><title>Background</title><p>Long Covid disproportionately affects African American communities, exacerbating pre‐existing health disparities and systemic barriers to care. Conventional public health interventions often fail to address the complex systemic issues at play due to a lack of grounding in community‐certified knowledge about the broader societal context that produces the disparities and in which the interventions must operate. New methods are needed to elicit community perspectives on living with long Covid.</p></sec><sec id="hex70516-sec-0020"><title>Methods</title><p>This study employed Community‐Based System Dynamics (CBSD) workshops, conducted in hybrid formats (online and in‐person), to engage African American communities impacted by long Covid. Participants included affected individuals, healthcare professionals and systems researchers.</p></sec><sec id="hex70516-sec-0030"><title>Results</title><p>The workshops yielded system dynamics causal loop diagrams that illustrate the multifaceted societal context and impact of long Covid. Community‐driven insights led to the identification of targeted interventions and informed a comprehensive action plan designed to address specific health system barriers and enhance community resilience.</p></sec><sec id="hex70516-sec-0040"><title>Conclusions</title><p>CBSD workshops proved effective in fostering significant community engagement and empowerment, presenting a replicable model for gaining a deeper understanding of the socio‐cultural context that underlies complex health disparities. These findings suggest that incorporating community‐sourced societal context knowledge and system dynamics modelling and analysis can substantially enhance public health strategies for managing long Covid.</p></sec><sec id="hex70516-sec-0050"><title>Patient or Public Contribution</title><p>People with lived experience of long Covid were actively involved throughout all phases of this study. Participants contributed to the design and facilitation of Community‐Based System Dynamics (CBSD) workshops, helped construct and refine causal loop diagrams based on their experiences, and generated action ideas for future interventions. Their insights shaped both the structure and content of the system models and directly informed the interpretation of results. Several participants also reviewed and provided feedback on early drafts of the manuscript to ensure the findings reflected their perspectives and priorities.</p></sec></abstract><kwd-group><kwd id="hex70516-kwd-0001">causal loop diagram</kwd><kwd id="hex70516-kwd-0002">Community‐Based System Dynamics</kwd><kwd id="hex70516-kwd-0003">group model building</kwd><kwd id="hex70516-kwd-0004">health equity</kwd><kwd id="hex70516-kwd-0005">long Covid</kwd><kwd id="hex70516-kwd-0006">participatory research</kwd><kwd id="hex70516-kwd-0007">patient engagement</kwd></kwd-group><funding-group><award-group id="funding-0001"><funding-source>
+<institution-wrap><institution>The authors received no specific funding for this work.</institution></institution-wrap>
+</funding-source></award-group></funding-group><counts><fig-count count="3"/><table-count count="4"/><page-count count="11"/><word-count count="6359"/></counts><custom-meta-group><custom-meta><meta-name>pmc-status-qastatus</meta-name><meta-value>0</meta-value></custom-meta><custom-meta><meta-name>pmc-status-live</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-status-embargo</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-status-released</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-access</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-legally-suppressed</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-pdf</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-supplement</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-pdf-only</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-suppress-copyright</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-real-version</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-scanned-article</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-in-epmc</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-license-ref</meta-name><meta-value>CC BY</meta-value></custom-meta><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>December 2025</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:6.6.6 mode:remove_FC converted:15.12.2025</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="hex70516-cit-0041">
+<string-name name-style="western">
+<given-names>C. R.</given-names>
+<surname>Evans</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M. R.</given-names>
+<surname>Echols</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D.</given-names>, <surname>Martin</surname>
+<suffix>Jr.</suffix>
+</string-name>, et al., “<article-title>Leveraging Community‐Based System Dynamics to Understand Long Covid Disparities in African American Communities: A Model for Health Equity Research</article-title>,” <source>Health Expectations</source> 0 (<year>2025</year>
+<volume>28</volume>:): <fpage>1</fpage>–<lpage>11</lpage>, <pub-id pub-id-type="doi">10.1111/hex.70516</pub-id>.</mixed-citation>
+</p></notes></front><body><sec id="hex70516-sec-0060"><label>1</label><title>Introduction</title><p>Post‐acute sequelae of SARS‐CoV‐2 infection (PASC), also known as long Covid, persists as a significant aftermath of the Covid‐19 pandemic, characterised by a range of symptoms that continue long after the initial infection has resolved and defined as persistent, relapsing or new symptoms and conditions that present 30 or more days after Covid‐19 infection [<xref rid="hex70516-bib-0001" ref-type="bibr">1</xref>]. African American communities face a disproportionately high burden of these ongoing symptoms, compounding long‐standing health inequities [<xref rid="hex70516-bib-0002" ref-type="bibr">2</xref>, <xref rid="hex70516-bib-0003" ref-type="bibr">3</xref>]. A growing body of evidence from large‐scale epidemiological studies, national surveys and meta‐analyses has revealed a clear and troubling trend: Black and Hispanic communities bear a disproportionately high burden of long Covid. Major cohort studies and federal data analyses consistently show that these populations experience a higher prevalence and severity of long Covid, and these disparities remain robust even after adjusting for socio‐economic and clinical factors [<xref rid="hex70516-bib-0004" ref-type="bibr">4</xref>, <xref rid="hex70516-bib-0005" ref-type="bibr">5</xref>, <xref rid="hex70516-bib-0006" ref-type="bibr">6</xref>]. This inequity has been documented across diverse settings, from large urban cohorts to national electronic health records, and has been a key finding of the national RECOVER initiative [<xref rid="hex70516-bib-0007" ref-type="bibr">7</xref>, <xref rid="hex70516-bib-0008" ref-type="bibr">8</xref>, <xref rid="hex70516-bib-0009" ref-type="bibr">9</xref>]. The traditional public health response, which tends to be compartmentalised and reactive, may not fully address the complexities of long Covid [<xref rid="hex70516-bib-0003" ref-type="bibr">3</xref>]. This situation calls for innovative approaches that recognise and address the systemic nature of health disparities and are grounded in community‐sourced societal context knowledge [<xref rid="hex70516-bib-0010" ref-type="bibr">10</xref>].</p><p>Recognising the limitations, we advocate for Community‐Based System Dynamics (CBSD) as a transformative approach to health research. CBSD is a participatory approach that engages community members as experts in their own lived experience, empowering them to collaboratively map the socio‐structural factors and feedback loops that influence their health [<xref rid="hex70516-bib-0011" ref-type="bibr">11</xref>]. By co‐creating system maps, CBSD not only ensures that research is contextually relevant but also builds community capacity and identifies leverage points for effective, sustainable interventions [<xref rid="hex70516-bib-0012" ref-type="bibr">12</xref>, <xref rid="hex70516-bib-0013" ref-type="bibr">13</xref>]. To our knowledge, this is the first study to explicitly use CBSD to understand the systemic challenges of long Covid within the African American community.</p><p>This study harnessed the insights of African American individuals directly impacted by long Covid through a series of CBSD workshops [<xref rid="hex70516-bib-0014" ref-type="bibr">14</xref>]. By integrating their lived experiences with system science principles, we aimed to develop a shared, systemic understanding of managing long Covid, identify key feedback loops that perpetuate disparities, and lay the groundwork for community‐vetted strategies to promote health equity. This paper presents the findings generated through this participatory process and discusses the broader implications of CBSD for public health practice and policy in a post‐pandemic world.</p></sec><sec sec-type="methods" id="hex70516-sec-0070"><label>2</label><title>Methods</title><sec id="hex70516-sec-0080"><label>2.1</label><title>Study Design</title><p>The design process for the three CBSD workshops combined in‐person and online formats to accommodate participant needs and maximise the reach of engagement, facilitating an agile and responsive approach to model development [<xref rid="hex70516-bib-0015" ref-type="bibr">15</xref>]. Serving as a central component of the study design, the CBSD workshops employed a structured yet participatory approach to integrate lived experience directly into the development of system models depicting the complex dynamics of living with long Covid. Adapting methods like group model building (GMB) to online settings has been explored as a complementary option to face‐to‐face delivery, particularly when restrictions limit in‐person activities [<xref rid="hex70516-bib-0016" ref-type="bibr">16</xref>]. While online formats can present challenges regarding access and diversity of participants, they can also potentially facilitate broader inclusion by reaching individuals who might otherwise be unable to attend [<xref rid="hex70516-bib-0015" ref-type="bibr">15</xref>]. Flexible delivery is recognised as an implementation factor that can influence the success of systems thinking approaches in community settings.</p><p>The first in‐person workshop convened researchers from an existing long Covid study, participants enrolled in the study with lived experience, and CBSD experts over a period of 2 days in January. CBSD and GMB often involve diverse stakeholders, including community members, researchers and experts [<xref rid="hex70516-bib-0017" ref-type="bibr">17</xref>]. Initial workshops in the development of a causal loop diagram (CLD) typically focus on problem scoping and identifying key variables and the system boundary [<xref rid="hex70516-bib-0018" ref-type="bibr">18</xref>]. The primary objective of this foundational session was to collaboratively explore participant experiences with long Covid through structured GMB activities, engaging participants in initial CLD exercises aimed at identifying key system dynamics, relationships among symptoms, and contextual factors shaping the condition's trajectory [<xref rid="hex70516-bib-0016" ref-type="bibr">16</xref>].</p><p>We conducted a follow‐up online session with participants from the in‐person workshop that was conducted on 16 February 2024. This session provided an opportunity to revisit and refine the emerging model, validate thematic structures, and introduce additional variables and feedback loops based on participant reflection. A third and final workshop was held online on 23 April 2024 and included a new group of participants with lived experience of long Covid, specifically those whose symptoms, location or circumstances precluded in‐person attendance. This session followed a similar structure but emphasised action idea generation and participant feedback on an exploratory simulation model derived from earlier workshops. The exploratory model was from a previous CBSD workshop on a different topic (cardiovascular health) and a different study and used to introduce and explore interest in developing a similar simulation model from this workshop. The use of such exploratory models being shared across problem contexts within a community (e.g., same community, different topic and patient groups) is an effective way to build a community‐based practice in system dynamics that is specific to CBSD. We make the simulation model, along with documented equations, available at GitHub public repository (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://github.com/CBSDLab/GSPA" ext-link-type="uri">https://github.com/CBSDLab/GSPA</ext-link>). Collectively, this mixed‐format design allowed for iterative model development, ensuring that both the rich dynamics of in‐person interaction and the enhanced accessibility of online engagement contributed to a more comprehensive systems understanding of long Covid, reflecting responsiveness to community needs and facilitating broader inclusion.</p></sec><sec id="hex70516-sec-0090"><label>2.2</label><title>Workshop Outline</title><p>Each workshop followed a structured agenda of facilitated activities (or ‘scripts’), which began with rapport‐building exercises before progressing to core system mapping tasks (see Table <xref rid="hex70516-tbl-0001" ref-type="table">1</xref> for a detailed outline).</p><table-wrap position="float" id="hex70516-tbl-0001" content-type="Table" orientation="portrait"><label>Table 1</label><caption><p>Summary/outline of workshop activities.</p></caption><table frame="hsides" rules="groups"><col align="left" style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" span="1"/><col align="left" style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" span="1"/><thead valign="bottom"><tr style="border-bottom:solid 1px #000000" valign="bottom"><th align="left" valign="bottom" rowspan="1" colspan="1">Workshop activity</th><th align="center" valign="bottom" rowspan="1" colspan="1">Description</th></tr></thead><tbody valign="top"><tr><td align="left" valign="top" rowspan="1" colspan="1">Welcome and overarching goals</td><td align="left" valign="top" rowspan="1" colspan="1">The initial phase of the workshop focused on introducing participants, building rapport and clearly communicating the purpose, objectives and overall process of the sessions.</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">‘Hopes and Fears’ for this workshop</td><td align="left" valign="top" rowspan="1" colspan="1">A participatory exercise where individuals share their expectations, motivations, concerns and desired outcomes regarding their involvement in the workshop process.</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Behaviour over time graphs related to long Covid symptoms and treatment (in‐person only)</td><td align="left" valign="top" rowspan="1" colspan="1">A method used to graphically plot the historical patterns or perceived trends of key variables (e.g., symptom severity and treatment access) over time to identify dynamic behaviours.</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Causal loop diagramming (developing causal loop diagrams)</td><td align="left" valign="top" rowspan="1" colspan="1">The core process of collaboratively identifying key variables within a system and mapping the perceived cause‐and‐effect relationships between them, forming feedback loops.</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Action ideas (online only)</td><td align="left" valign="top" rowspan="1" colspan="1">A brainstorming session dedicated to generating potential interventions, policies or strategies aimed at addressing challenges and improving outcomes based on the system maps.</td></tr></tbody></table><permissions><copyright-holder>John Wiley &amp; Sons, Ltd.</copyright-holder></permissions></table-wrap></sec><sec id="hex70516-sec-0100"><label>2.3</label><title>Participant Recruitment</title><p>All in‐person workshop participants were randomly recruited from an existing 12‐month observational study (<italic toggle="yes">n</italic> = 80) investigating long Covid among patients at Grady Memorial Hospital (GMH), a 953‐bed Level 1 trauma centre serving the greater Atlanta metropolitan area. The original observational study utilised a combination of telemonitoring and smartphone‐enabled technology to monitor clinical and objective symptoms following Covid‐19 infection (see Table <xref rid="hex70516-tbl-0002" ref-type="table">2</xref>) [<xref rid="hex70516-bib-0019" ref-type="bibr">19</xref>]. While the study was not powered to test the hypotheses associating observed data with prolonged Covid‐19 symptoms, we examined the distribution of patient characteristics, estimates of effect and variances of measurements to inform a future clinical trial [<xref rid="hex70516-bib-0020" ref-type="bibr">20</xref>].</p><table-wrap position="float" id="hex70516-tbl-0002" content-type="Table" orientation="portrait"><label>Table 2</label><caption><p>Demographic and clinical characteristics of the original observational cohort and the workshop participant sub‐sample (Demographic and clinical characteristics of study participants: Original versus workshop groups presents the demographic and clinical characteristics of the full observational study sample [<italic toggle="yes">N</italic> = 80] compared to the subset who participated in the CBSD workshops [<italic toggle="yes">N</italic> = 29]).</p></caption><table frame="hsides" rules="groups"><col align="left" style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" span="1"/><col align="center" style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" span="1"/><col align="center" style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" span="1"/><thead valign="bottom"><tr style="border-bottom:solid 1px #000000" valign="bottom"><th align="left" valign="bottom" rowspan="1" colspan="1">Characteristic</th><th align="center" valign="bottom" rowspan="1" colspan="1">Original sample (<italic toggle="yes">N</italic> = 80)</th><th align="center" valign="bottom" rowspan="1" colspan="1">Workshop sample (<italic toggle="yes">N</italic> = 29)</th></tr></thead><tbody valign="top"><tr><td align="left" valign="top" rowspan="1" colspan="1">Age, mean (SD), years</td><td align="center" valign="top" rowspan="1" colspan="1">41.2 (18.7)</td><td align="center" valign="top" rowspan="1" colspan="1">67.4 (13.7)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Gender, <italic toggle="yes">n</italic> (%)</td><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1"/></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Female</td><td align="center" valign="top" rowspan="1" colspan="1">44 (55.0)</td><td align="center" valign="top" rowspan="1" colspan="1">18 (62.1)</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Male</td><td align="center" valign="top" rowspan="1" colspan="1">36 (45.0)</td><td align="center" valign="top" rowspan="1" colspan="1">11 (37.9)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Risk factors for long Covid (PMH of: obesity, diabetes, hypertension, asthma, autoimmune conditions, HIV or immune suppression), <italic toggle="yes">n</italic> (%)</td><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1"/></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Present</td><td align="center" valign="top" rowspan="1" colspan="1">38 (47.5)</td><td align="center" valign="top" rowspan="1" colspan="1">25 (86.2)</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Absent</td><td align="center" valign="top" rowspan="1" colspan="1">42 (52.5)</td><td align="center" valign="top" rowspan="1" colspan="1">4 (13.8)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Covid‐19 vaccination status, <italic toggle="yes">n</italic> (%)</td><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1"/></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Vaccinated</td><td align="center" valign="top" rowspan="1" colspan="1">51 (63.7)</td><td align="center" valign="top" rowspan="1" colspan="1">20 (69.0)</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Unvaccinated</td><td align="center" valign="top" rowspan="1" colspan="1">29 (36.2)</td><td align="center" valign="top" rowspan="1" colspan="1">9 (31.0)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Breakthrough infection, <italic toggle="yes">n</italic> (%)</td><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1"/></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Yes</td><td align="center" valign="top" rowspan="1" colspan="1">16 (20.0)</td><td align="center" valign="top" rowspan="1" colspan="1">2 (6.9)</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">No</td><td align="center" valign="top" rowspan="1" colspan="1">64 (80.0)</td><td align="center" valign="top" rowspan="1" colspan="1">27 (93.1)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Insurance coverage, <italic toggle="yes">n</italic> (%)</td><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1"/></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Yes</td><td align="center" valign="top" rowspan="1" colspan="1">57 (71.2)</td><td align="center" valign="top" rowspan="1" colspan="1">17 (58.6)</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">No</td><td align="center" valign="top" rowspan="1" colspan="1">23 (28.7)</td><td align="center" valign="top" rowspan="1" colspan="1">12 (41.4)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">6‐min walk test completion, <italic toggle="yes">n</italic> (%)</td><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1"/></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Completed</td><td align="center" valign="top" rowspan="1" colspan="1">63 (78.8)</td><td align="center" valign="top" rowspan="1" colspan="1">21 (72.4)</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Not completed</td><td align="center" valign="top" rowspan="1" colspan="1">17 (21.2)</td><td align="center" valign="top" rowspan="1" colspan="1">8 (27.6)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Vital status, <italic toggle="yes">n</italic> (%)</td><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1"/></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Alive</td><td align="center" valign="top" rowspan="1" colspan="1">73 (91.2)</td><td align="center" valign="top" rowspan="1" colspan="1">29 (100.0)</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Deceased</td><td align="center" valign="top" rowspan="1" colspan="1">7 (8.8)</td><td align="center" valign="top" rowspan="1" colspan="1">0 (0.0)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">ED/clinic visits after Covid‐19 infection, mean (SD)</td><td align="center" valign="top" rowspan="1" colspan="1">2.28 (1.73)</td><td align="center" valign="top" rowspan="1" colspan="1">4.82 (3.96)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Workshop location, <italic toggle="yes">n</italic> (%)</td><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1"/></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">In‐Person</td><td align="center" valign="top" rowspan="1" colspan="1">—</td><td align="center" valign="top" rowspan="1" colspan="1">15 (51.7)</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Online</td><td align="center" valign="top" rowspan="1" colspan="1">—</td><td align="center" valign="top" rowspan="1" colspan="1">14 (48.3)</td></tr></tbody></table><table-wrap-foot><fn id="hex70516-tbl2-note-0001"><p>
+<italic toggle="yes">Note:</italic> The ‘Workshop Sample’ column (<italic toggle="yes">N</italic> = 29) includes data only for participants recruited from the original observational study. An additional 5 patient advocates, for whom prior clinical data were not available, also participated in the CBSD workshops, bringing the total number of workshop participants to 34.</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &amp; Sons, Ltd.</copyright-holder></permissions></table-wrap><p>A total of 34 individuals participated in the CBSD workshops. These participants included 29 individuals recruited from the original observational study cohort and 5 external patient advocates living with long Covid. All 34 individuals contributed to the qualitative group model‐building activities. Because detailed demographic and clinical data were collected as part of the parent observational study, the quantitative characteristics presented in Table <xref rid="hex70516-tbl-0002" ref-type="table">2</xref> are limited to the 29 participants recruited from that cohort. All participants in both the original observational study cohort and the CBSD workshops identified as African American [<xref rid="hex70516-bib-0021" ref-type="bibr">21</xref>].</p><p>The observational study and the subsequent CBSD workshops were approved by the Morehouse School of Medicine Institutional Review Board. We obtained written informed consent from all participants before their enrollment in the original observational study, and separate informed consent was obtained from all 29 participants who agreed to participate in the CBSD workshops after receiving a full explanation of the workshop's purpose and procedures.</p></sec></sec><sec sec-type="results" id="hex70516-sec-0110"><label>3</label><title>Results</title><p>The in‐person CBSD workshops yielded a comprehensive CLD and participant insights regarding long Covid [<xref rid="hex70516-bib-0022" ref-type="bibr">22</xref>, <xref rid="hex70516-bib-0023" ref-type="bibr">23</xref>]. The initial in‐person workshop resulted in the collaborative development of behaviour over time graphs illustrating the perceived trajectories of symptoms and experiences with treatment, alongside preliminary CLDs mapping key relationships. Participants in this session particularly highlighted the central role of themes such as trust in healthcare providers, validation of their lived experiences, and the significant interplay between symptom severity and social functioning [<xref rid="hex70516-bib-0024" ref-type="bibr">24</xref>].</p><p>Given the nature of certain long Covid symptoms, such as severe fatigue, cognitive dysfunction, anxiety and depression, which can impede attendance at in‐person workshops, the study team elected to conduct an online CBSD workshop [<xref rid="hex70516-bib-0025" ref-type="bibr">25</xref>]. Online workshops facilitated broader geographic reach, offered scheduling flexibility and enhanced accessibility, rendering them a viable option for geographically dispersed participants or those experiencing symptoms that impede their ability to leave the house [<xref rid="hex70516-bib-0026" ref-type="bibr">26</xref>]. The online workshops expanded the scope and detail of the system model built during the in‐person workshop. Participants refined the initial causal structures, introducing additional variables and feedback loops to represent a broader range of influencing factors.</p><p>Collectively, the iterative process across the in‐person and online workshops produced a co‐developed causal loop model representing the complex system of factors influencing long Covid, grounded in the lived experiences of affected individuals [<xref rid="hex70516-bib-0027" ref-type="bibr">27</xref>]. This process also generated qualitative data on participants' hopes, fears and potential solutions. These outcomes demonstrate the capacity of a mixed‐format CBSD approach to generate detailed system insights and actionable ideas, particularly valuable when working with populations affected by conditions that impact participation [<xref rid="hex70516-bib-0021" ref-type="bibr">21</xref>, <xref rid="hex70516-bib-0028" ref-type="bibr">28</xref>].</p></sec><sec id="hex70516-sec-0120"><label>4</label><title>Hopes and Fears Exercise</title><sec id="hex70516-sec-0130"><label>4.1</label><title>In‐Person</title><p>Participants expressed a strong desire to discuss their hopes and fears related to living with long Covid, rather than focusing solely on the anticipated outcomes of the workshop. This unexpected focus revealed the profound psychological and social impact of long Covid on individuals' lives. Interestingly, the depth and richness of these responses were closely aligned with current research on social determinants of health (SDoH), highlighting the intersection of chronic illness with broader socio‐economic and environmental factors [<xref rid="hex70516-bib-0029" ref-type="bibr">29</xref>]. This deviation underscores the importance of addressing the holistic needs of long Covid patients, beyond clinical symptoms, to encompass their emotional and social well‐being [<xref rid="hex70516-bib-0030" ref-type="bibr">30</xref>]. Table <xref rid="hex70516-tbl-0003" ref-type="table">3a</xref> summarises the In‐person Hopes and Fears exercise results.</p><table-wrap position="float" id="hex70516-tbl-0003" content-type="Table" orientation="portrait"><label>Table 3a</label><caption><p>Summary of in‐person participant hopes and fears regarding long Covid (Table presents the hopes and fears regarding long Covid articulated by participants during the in‐person CBSD workshop. Entries are categorised by the overarching thematic area based on the summary of expressed sentiments under hopes or fears).</p></caption><table frame="hsides" rules="groups"><col align="left" style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" span="1"/><col align="left" style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" span="1"/><col align="left" style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" span="1"/><tbody valign="top"><tr style="border-bottom:solid 1px #000000"><td align="left" valign="top" rowspan="1" colspan="1">
+<bold>Session</bold>
+</td><td align="center" valign="top" rowspan="1" colspan="1">
+<bold>Hopes</bold>
+</td><td align="center" valign="top" rowspan="1" colspan="1">
+<bold>Fears</bold>
+</td></tr><tr><td rowspan="4" valign="middle" align="left" colspan="1">In‐Person</td><td align="left" valign="top" rowspan="1" colspan="1">Scientific advancements<p>
+<list list-type="bullet"><list-item><p>Hope for a cure for long Covid or management of long‐term effects</p></list-item><list-item><p>Hope for better research outcomes and new natural remedies</p></list-item><list-item><p>Hope to apply research to broader topics</p></list-item></list>
+</p>
+</td><td align="left" valign="top" rowspan="1" colspan="1">
+<p>
+<list list-type="bullet"><list-item><p>Health deterioration</p></list-item><list-item><p>Fear of death and worsening health</p></list-item><list-item><p>Fear of medication side effects and persistent symptoms like shortness of breath</p></list-item><list-item><p>Fear of cognitive decline, especially memory loss</p></list-item></list>
+</p>
+</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Medical and professional improvements<p>
+<list list-type="bullet"><list-item><p>Hope for more compassionate doctors</p></list-item><list-item><p>Hope for comprehensive training for medical professionals about chronic conditions</p></list-item></list>
+</p>
+</td><td align="left" valign="top" rowspan="1" colspan="1">Systemic barriers<p>
+<list list-type="bullet"><list-item><p>Fear of treatments not being affordable or accessible</p></list-item><list-item><p>Fear that research results will arrive too late</p></list-item><list-item><p>Fear that research outcomes will not reach the average person</p></list-item></list>
+</p>
+</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Community and support<p>
+<list list-type="bullet"><list-item><p>Hope to meet and support others in the community</p></list-item><list-item><p>Hope for self‐protection and mutual aid</p></list-item><list-item><p>Hope for acknowledgement of the seriousness of the condition</p></list-item></list>
+</p>
+</td><td align="left" valign="top" rowspan="1" colspan="1">Loss of credibility and knowledge<p>
+<list list-type="bullet"><list-item><p>Fear that the knowledge gained will not be credible or helpful</p></list-item><list-item><p>Fear of being unable to help others effectively</p></list-item></list>
+</p>
+</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Broader societal hopes<p>
+<list list-type="bullet"><list-item><p>Hope to prevent societal shutdowns and help vulnerable populations</p></list-item></list>
+</p>
+</td><td align="left" valign="top" rowspan="1" colspan="1">Social isolation<p>
+<list list-type="bullet"><list-item><p>Fear of returning to social isolation</p></list-item></list>
+</p>
+</td></tr></tbody></table><permissions><copyright-holder>John Wiley &amp; Sons, Ltd.</copyright-holder></permissions></table-wrap></sec><sec id="hex70516-sec-0140"><label>4.2</label><title>Online</title><p>The online workshop offered increased flexibility in how we conducted the hopes and fears exercise. The online format allowed for the establishment of five virtual breakout groups. The participants for each breakout group were selected randomly. In the breakout groups, participants were allocated 10 min to discuss their hopes and fears related to living with long Covid. This exercise aimed to elicit personal reflections and collective insights on the challenges and aspirations associated with the condition. Following these discussions, each group was asked to share a brief summary of its conversations with the larger group. This summary included the key themes and concerns identified during their discussions, providing a broader understanding of the lived experiences and emotional landscapes of those affected by long Covid [<xref rid="hex70516-bib-0026" ref-type="bibr">26</xref>]. Table <xref rid="hex70516-tbl-0004" ref-type="table">3b</xref> summarises the online Hopes and Fears exercise results.</p><table-wrap position="float" id="hex70516-tbl-0004" content-type="Table" orientation="portrait"><label>Table 3b</label><caption><p>Summary of online participant hopes and fears regarding long Covid (Table presents the hopes and fears regarding long COVID articulated by participants during the online CBSD workshops. Entries are categorised by the overarching thematic area based on the summary of expressed sentiments under hopes or fears).</p></caption><table frame="hsides" rules="groups"><col align="left" style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" span="1"/><col align="left" style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" span="1"/><col align="left" style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" span="1"/><tbody valign="top"><tr style="border-bottom:solid 1px #000000"><td align="left" valign="top" rowspan="1" colspan="1">
+<bold>Session</bold>
+</td><td align="center" valign="top" rowspan="1" colspan="1">
+<bold>Hopes</bold>
+</td><td align="center" valign="top" rowspan="1" colspan="1">
+<bold>Fears</bold>
+</td></tr><tr><td rowspan="8" valign="middle" align="left" colspan="1">Online</td><td align="left" valign="top" rowspan="1" colspan="1">Access to care<p>
+<list list-type="bullet"><list-item><p>Hope that health insurance will provide sustained support for treatment and diagnosis</p></list-item><list-item><p>Hope for the establishment of clinics specialised in long Covid care</p></list-item></list>
+</p>
+</td><td align="left" valign="top" rowspan="1" colspan="1">Health outcomes<p>
+<list list-type="bullet"><list-item><p>Fear that symptoms will worsen over time</p></list-item><list-item><p>Fear of continuous symptom management, such as wear and tear</p></list-item><list-item><p>Fear of persistent symptoms, anxiety and functional decline</p></list-item></list>
+</p>
+</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Treatment approach<p>
+<list list-type="bullet"><list-item><p>Hope for non‐pharmaceutical treatment options</p></list-item></list>
+</p>
+</td><td align="left" valign="top" rowspan="1" colspan="1">Infection risk<p>
+<list list-type="bullet"><list-item><p>Fear of getting sick again due to inadequate public health behaviours</p></list-item><list-item><p>Fear of reinfection</p></list-item></list>
+</p>
+</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Health outcomes<p>
+<list list-type="bullet"><list-item><p>Hope to avoid infection</p></list-item></list>
+</p>
+</td><td align="left" valign="top" rowspan="1" colspan="1">Misinformation<p>
+<list list-type="bullet"><list-item><p>Fear of misinformation and conspiracy theories</p></list-item></list>
+</p>
+</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Community support<p>
+<list list-type="bullet"><list-item><p>Hope for a supportive community for self‐care</p></list-item></list>
+</p>
+</td><td align="left" valign="top" rowspan="1" colspan="1">Developmental concerns<p>
+<list list-type="bullet"><list-item><p>Fear of developmental impacts on children born during the pandemic</p></list-item></list>
+</p>
+</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Spiritual and emotional support<p>
+<list list-type="bullet"><list-item><p>Hope for maintaining spiritual connection during recovery</p></list-item></list>
+</p>
+</td><td align="left" valign="top" rowspan="1" colspan="1">Access to benefits<p>
+<list list-type="bullet"><list-item><p>Fear of losing disability benefits over time</p></list-item></list>
+</p>
+</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Treatment development<p>
+<list list-type="bullet"><list-item><p>Hope for the development of effective treatments</p></list-item></list>
+</p>
+</td><td align="left" valign="top" rowspan="1" colspan="1">Uncertainty about the future<p>
+<list list-type="bullet"><list-item><p>Fear of ongoing uncertainty and absence of clear solutions</p></list-item></list>
+</p>
+</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Recognition and understanding<p>
+<list list-type="bullet"><list-item><p>Hope for increased recognition, understanding and knowledge of long Covid</p></list-item></list>
+</p>
+</td><td align="left" valign="top" rowspan="1" colspan="1">Advocacy and representation<p>
+<list list-type="bullet"><list-item><p>Fear of being unable to advocate for one's self during critical healthcare moments</p></list-item></list>
+</p>
+</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Research progress<p>
+<list list-type="bullet"><list-item><p>Hope that research will enable better future outcomes for the next generation</p></list-item><list-item><p>Hope that current research is progressing towards a solution</p></list-item></list>
+</p>
+</td><td align="left" valign="top" rowspan="1" colspan="1">Family responsibilities<p>
+<list list-type="bullet"><list-item><p>Fear associated with raising children while managing illness</p></list-item></list>
+</p>
+</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1">Symptom confusion<p>
+<list list-type="bullet"><list-item><p>Fear of difficulty distinguishing Covid symptoms from other illnesses</p></list-item></list>
+</p>
+</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1">Diagnostic challenges<p>
+<list list-type="bullet"><list-item><p>Fear of receiving inaccurate diagnoses or being misclassified</p></list-item></list>
+</p>
+</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1">Health equity and stigma<p>
+<list list-type="bullet"><list-item><p>Fear of being stigmatised through existing health disparities</p></list-item><list-item><p>Fear of being labelled as a hypochondriac</p></list-item></list>
+</p>
+</td></tr></tbody></table><permissions><copyright-holder>John Wiley &amp; Sons, Ltd.</copyright-holder></permissions></table-wrap></sec></sec><sec id="hex70516-sec-0150"><label>5</label><title>Behaviour Over Time Graphs</title><p>During the in‐person session, participants were tasked with hand‐drawing behaviour over time graphs. The graphs focused on symptoms and treatments related to long Covid, providing a detailed visual representation of the progression and management of this condition. These graphs illustrated trends in symptom severity, treatment efficacy and patient outcomes. Additionally, the discussions extended beyond the immediate medical aspects, encompassing broader social issues such as homelessness and the challenges faced by individuals living with Covid. The implications for nurse employment were also a significant topic, highlighting the strain on healthcare workers and the evolving demands on the nursing profession in managing both the acute and chronic phases of the pandemic. These discussions underscored the multifaceted nature of long Covid, emphasising the need for comprehensive intervention strategies that address both health and social dimensions [<xref rid="hex70516-bib-0031" ref-type="bibr">31</xref>].</p></sec><sec id="hex70516-sec-0160"><label>6</label><title>Causal Loop Mapping</title><sec id="hex70516-sec-0170"><label>6.1</label><title>In‐Person</title><p>As an introduction to causal loop diagramming, the research team chose a reference mode of the chicken and egg. The chicken and egg reference mode is a standard starting point in GMB [<xref rid="hex70516-bib-0032" ref-type="bibr">32</xref>]. This was quickly rejected by the study participants, who instead preferred to draw inspiration from the behaviour over time graphs created earlier in the session, aligning with how participatory approaches allow stakeholders to shift the focus of the modelling effort and draw upon previously generated insights such as those from trends over time graph [<xref rid="hex70516-bib-0033" ref-type="bibr">33</xref>]. Adhering to the participants' request, we pivoted to a CLD of a variation of the susceptibility of infectious disease (Figure <xref rid="hex70516-fig-0001" ref-type="fig">1</xref>). Participants continued to work in their assigned groups and began drawing CLDs.</p><fig position="float" fig-type="Figure" id="hex70516-fig-0001" orientation="portrait"><label>Figure 1</label><caption><p>Requested reference mode from the in‐person workshop focused on Covid.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-1" orientation="portrait" xlink:href="HEX-28-e70516-g001.jpg"/></fig></sec><sec id="hex70516-sec-0180"><label>6.2</label><title>In‐Person CLD Insights</title><p>
+<list list-type="simple"><list-item><label>❖</label><p>Group 1—This group highlighted the goal of enabling people living without Covid to maintain their workout routines. They insightfully integrated the presence of the virus into the model.</p></list-item><list-item><label>❖</label><p>Group 2—This group identified a positive correlation between financial stability and the ease of managing medication regimens. They also noted that improved recovery can reduce symptoms such as shortness of breath.</p></list-item><list-item><label>❖</label><p>Group 3—Focused on the supply chain and basic needs, this group mapped out essential elements like shelter, clothing, counselling and medication. They also included the role of community activists in engaging and supporting individuals.</p></list-item><list-item><label>❖</label><p>Group 4—This group examined the impact of mandatory vaccination on civil liberties. Their second map concentrated on strategies to reduce prolonged hospital stays following infection.</p></list-item></list>
+</p><p>Following an online meeting with in‐person workshop participants, the research team synthesised the CLDs from all four groups into a comprehensive, unified diagram (Figure <xref rid="hex70516-fig-0002" ref-type="fig">2</xref>). Participants responded positively to this merged model, appreciating the holistic representation of their experiences [<xref rid="hex70516-bib-0034" ref-type="bibr">34</xref>]. A critical insight identified by the participants was the need for in‐person workshop sessions. While participants were generally open to online workshops, they expressed concerns about the potential inability to match the intensity, interaction and camaraderie of in‐person sessions. Face‐to‐face interaction was highlighted as a key factor in ensuring full engagement in workshop activities, a point well‐documented in the literature. Participants also shared that the workshop prompted them to reassess how their symptoms, such as exhaustion while walking, significantly impact their quality of life.</p><fig position="float" fig-type="Figure" id="hex70516-fig-0002" orientation="portrait"><label>Figure 2</label><caption><p>Combined causal loop diagram from the in‐person groups.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-3" orientation="portrait" xlink:href="HEX-28-e70516-g003.jpg"/></fig></sec><sec id="hex70516-sec-0190"><label>6.3</label><title>Online</title><p>The CLD developed during the online workshop provides an illustrative representation of the complex interactions between various factors influencing the experience and management of Covid‐19 and long Covid. The final CLD illustrates the dynamic interplay of factors influencing the long Covid experience (Figure <xref rid="hex70516-fig-0003" ref-type="fig">3</xref>). A key reinforcing loop shows how validation of experiences enhances trust, which improves functioning in public, creating a virtuous cycle. In contrast, a balancing loop demonstrates how rising symptoms during Covid leads to more Covid testing, a necessary intervention to manage the condition. The model underscores the critical role of psychosocial factors like trust and validation in driving overall system behaviour.</p><fig position="float" fig-type="Figure" id="hex70516-fig-0003" orientation="portrait"><label>Figure 3</label><caption><p>Updated causal loop diagram with action ideas from online workshop.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-5" orientation="portrait" xlink:href="HEX-28-e70516-g002.jpg"/></fig><p>The diagram distinguishes between positive and negative feedback loops, which are critical in understanding the system's behaviour over time. Reinforcing loops, identified as positive feedback loops, amplify changes within the system. For instance, the variable ‘Validation of Experiences’ positively influences ‘Trust’, which subsequently enhances ‘Functioning in Public’, further reinforcing ‘Validation of Experiences’. This loop illustrates how the acknowledgement of patient experiences can create a cycle of increased trust and social functioning.</p><p>Conversely, the diagram also includes balancing loops, or negative feedback loops, which serve to counteract changes and maintain stability within the system. An example of a balancing loop is the relationship between ‘Symptoms During Covid’ and ‘Covid Testing’. As symptoms increase, the demand for testing rises, which, in turn, contributes to reducing the symptoms through appropriate treatment and management. This loop illustrates the role of diagnostic interventions in mitigating the severity of symptoms and controlling the spread of the virus.</p><p>The interplay between reinforcing and balancing loops in the CLD highlights the dynamic nature of the healthcare system's response to Covid‐19 and long Covid. The reinforcing loops underscore the importance of factors that can enhance patient outcomes through positive feedback mechanisms, while the balancing loops emphasise the role of interventions in stabilising the system and preventing adverse outcomes. The inclusion of variables such as ‘Trust’ and ‘Validation of Experiences’ also points to the critical role of psychosocial factors in the management of long Covid, suggesting that, beyond clinical interventions, there is a need for healthcare systems to address the psychological and social dimensions of patient care.</p><p>Overall, the CLD provides valuable insights into the interconnectedness of various factors that influence the patient experience with Covid‐19 and long Covid. By identifying key variables and understanding the feedback loops that drive the system, this model can inform more effective and holistic approaches to treatment and patient management. It is important to stress that these initial workshops were to engage communities and persons living with long Covid early in the process of developing a method and assessing the feasibility of the approach, not developing a comprehensive or validated account of long Covid and symptoms. Moreover, while member checking as a form of qualitative validation is concurrent within a group model‐building workshop, this generally only applies to variables and causal links, not feedback loops identified in a CLD [<xref rid="hex70516-bib-0035" ref-type="bibr">35</xref>]. Additional research to develop a validated CLD could focus on replicating the workshops across more groups, member checking identified loops with lived experience supported by quotations, and comparisons against published literature. Further research could also build on this model to explore specific interventions that might optimise the balance between reinforcing and balancing loops, ultimately improving patient outcomes in the context of long Covid.</p></sec><sec id="hex70516-sec-0200"><label>6.4</label><title>Differences in In‐Person and Online Workshops</title><p>Both workshops demonstrated distinct strengths in fostering productive outcomes. The in‐person workshop notably facilitated a deeper sense of camaraderie among participants, which enhanced interpersonal connections and collaborative engagement. This aligns with the recognised benefits of face‐to‐face interaction in methods like GMB, which is considered essential for exploring a shared view together and can lead to greater engagement. In contrast, the online workshop yielded a more comprehensive CLD. This increased comprehensiveness can be attributed to the study team's proactive role in using Stella Architect software to create the diagrams, thereby accelerating the rate of model development and refinement. These contrasting yet complementary strengths underscore the value of both in‐person and online modalities in advancing our understanding and management of long Covid [<xref rid="hex70516-bib-0031" ref-type="bibr">31</xref>].</p></sec></sec><sec sec-type="discussion" id="hex70516-sec-0210"><label>7</label><title>Discussion</title><p>This pilot study demonstrates that CBSD is a vital participatory framework for advancing health equity in African American communities grappling with long Covid. Through collaborative workshops, this study provided a unique platform for individuals with lived experience to articulate the systemic dynamics of their condition. Centring community perspectives in the model‐building process offers a nuanced understanding of long Covid that traditional approaches may miss. Embedding CBSD early in the research process, before interventions are defined, holds significant promise for developing more precise and effective treatments tailored to the community's realities. As health systems confront evolving challenges, this study underscores CBSD's value as a path towards more inclusive, responsive and equitable public health research that addresses the needs of historically marginalised communities.</p><p>This study underscores the value of collaborative patient participation in health equity research. CBSD is underpinned by community‐based participatory frameworks, aiming to co‐create solutions with active community involvement and integrate with public health efforts to address complex issues [<xref rid="hex70516-bib-0036" ref-type="bibr">36</xref>]. Participants were not passive subjects but active contributors in shaping how the condition is understood and how interventions might be targeted. By placing individuals with lived experience at the centre of the model‐building process, CBSD aligns with current calls for greater patient inclusion in health research, as advocated by organisations like the Patient‐Centered Outcomes Research Institute. This inclusion is particularly urgent in conditions like long Covid, where emerging evidence, fragmented care pathways, and contested illness narratives intersect with broader SDoH [<xref rid="hex70516-bib-0037" ref-type="bibr">37</xref>].</p><p>Beyond its application to long Covid, CBSD offers a flexible and replicable methodology for use in other community health initiatives. The process fosters systems thinking at the community level, bridging gaps between experiential knowledge and public health planning. It supports the co‐production of knowledge that is both actionable and context‐specific, enhancing the likelihood that future interventions are both effective and equitable. Importantly, the collaborative mapping process also contributes to participant empowerment, trust building and engagement, which are foundational to long‐term public health impact.</p><p>Based on the workshop findings, several avenues for further research emerge. First, future studies could explore the use of CBSD as a diagnostic tool to identify leverage points for intervention before implementation, for instance, by simulating the impact of potential policy changes on healthcare access. Second, the method's capacity to adapt to various population groups suggests its potential scalability for addressing other health disparities, such as chronic disease management for individuals with diabetes, mental health inequities in underserved communities, or maternal health outcomes in rural areas. Finally, longitudinal studies could examine whether community‐designed systems models improve the relevance, uptake and sustainability of health interventions over time.</p></sec><sec sec-type="conclusions" id="hex70516-sec-0220"><label>8</label><title>Conclusions</title><p>In conclusion, this pilot study demonstrates that CBSD is not only a powerful modelling technique but also a vital participatory framework for advancing health equity, particularly within African American communities grappling with the complexities of long Covid [<xref rid="hex70516-bib-0038" ref-type="bibr">38</xref>]. Through collaborative workshops, this study provided a unique platform for African American individuals with lived experience to articulate the system‐level dynamics influencing their experience of the condition [<xref rid="hex70516-bib-0039" ref-type="bibr">39</xref>]. By centring the perspectives of African American community members in the model‐building process, this study offers a nuanced understanding of long Covid within this population that may be missed by traditional research approaches [<xref rid="hex70516-bib-0040" ref-type="bibr">40</xref>]. Embedding CBSD earlier in the research process, before interventions are defined, holds significant promise for developing more precise, relevant and effective treatments and support systems tailored to the specific realities of African American individuals living with long Covid. As health systems continue to confront the evolving challenges of long Covid and other emergent conditions, this study underscores the value of CBSD as a path towards more inclusive, responsive and ultimately more equitable public health research and practice that directly addresses the needs of historically marginalised communities.</p></sec><sec id="hex70516-sec-0230"><label>9</label><title>Limitations</title><p>This study has several limitations. First, the relatively small number of workshop participants (<italic toggle="yes">N</italic> = 34) limits the statistical generalisability of our findings and may not fully capture the diversity of experiences within the broader African American community with long Covid.</p><p>Second, and most notably, our workshop sample was significantly older (mean age: 67 years) than the parent observational cohort from which most participants were drawn (mean age: 41 years). This indicates a significant age‐related selection bias, likely stemming from our sequential, first‐come, first‐served recruitment method. This approach may have inadvertently favoured older, retired individuals with greater schedule flexibility over their younger, working‐age counterparts. Consequently, our systems model may place greater emphasis on challenges pertinent to older adults (e.g., managing comorbidities and navigating Medicare) while under‐representing issues critical to younger populations (e.g., workplace accommodations and childcare). Future research should employ a stratified sampling strategy to ensure a more age‐diverse sample.</p><p>Third, the CLDs are qualitative models based on participant perceptions, and as such, their predictive power has not been validated quantitatively. Fourth, despite our iterative, participant‐engaged refinement process, potential interpretive gaps between participant intent and researcher framing may still exist. Finally, the cross‐sectional nature of the workshops prevents an assessment of how participant perspectives and system dynamics may evolve over time.</p><p>Despite these limitations, this study provides an important contribution by demonstrating the utility of CBSD for integrating patient perspectives into a systems‐level understanding of long Covid, thereby laying a crucial foundation for the design of equitable interventions.</p></sec><sec id="hex70516-sec-0240"><title>Author Contributions</title><p>
+<bold>Chad R. Evans:</bold> conceptualisation, investigation, writing – original draft, methodology, writing – review and editing, data curation, investigation, formal analysis. <bold>Melvin R. Echols:</bold> conceptualisation, writing – original draft, methodology, writing – review and editing, supervision. <bold>D. Martin Jr:</bold> conceptualisation, writing – original draft, methodology, writing – review and editing, validation, supervision. <bold>H. A. Taylor:</bold> conceptualisation, investigation, writing – original draft, methodology, writing – review and editing, validation, supervision. <bold>James A. Washington:</bold> conceptualisation, investigation, writing – original draft, methodology, writing – review and editing. <bold>Olusola Gbinigie:</bold> writing – original draft, writing – review and editing, project administration. <bold>Anne H. Gaglioti:</bold> conceptualisation, investigation, writing‐original draft, methodology, writing – review and editing. <bold>Wendi Wright:</bold> writing – review and editing. <bold>Peter Hovmand:</bold> conceptualisation, investigation, writing – original draft, methodology, writing – review and editing, validation, supervision, formal analysis.</p></sec><sec id="hex70516-sec-0260"><title>Ethics Statement</title><p>The observational study and the subsequent CBSD workshops were approved by the Morehouse School of Medicine Institutional Review Board. Written informed consent was obtained from all participants before their enrollment in the original observational study, and separate informed consent was obtained from all 29 participants who agreed to participate in the CBSD workshops after receiving a full explanation of the workshop's purpose and procedures.</p></sec><sec sec-type="COI-statement" id="hex70516-sec-0270"><title>Conflicts of Interest</title><p>The authors declare no conflicts of interest.</p></sec></body><back><ack id="hex70516-sec-0250"><title>Acknowledgements</title><p>We extend our sincere gratitude to all the individuals living with long Covid who participated in this study. Your time, openness and insights were essential to every stage of this study, from shaping the workshop discussions to informing the development of the system models. We deeply value your contributions and your willingness to share personal experiences to support research that aims to improve understanding, care and outcomes for others affected by long Covid. Generative AI was used to assist with the refinement and editing of manuscript text, including improving clarity, suggesting structural enhancements and providing feedback on earlier drafts. All content, analysis and interpretations remain the sole responsibility of the authors.</p></ack><sec sec-type="data-availability" id="hex70516-sec-0290"><title>Data Availability Statement</title><p>The data that support the findings of this study are available on request from the corresponding author. The data are not publicly available due to privacy or ethical restrictions.</p></sec><ref-list content-type="cited-references" id="hex70516-bibl-0001"><title>References</title><ref id="hex70516-bib-0001"><label>1</label><mixed-citation publication-type="journal" id="hex70516-cit-0001">
+<string-name name-style="western">
+<given-names>T.</given-names>
+<surname>Thaweethai</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S. E.</given-names>
+<surname>Jolley</surname>
+</string-name>, <string-name name-style="western">
+<given-names>E. W.</given-names>
+<surname>Karlson</surname>
+</string-name>, et al., “<article-title>Development of a Definition of Postacute Sequelae of SARS‐CoV‐2 Infection</article-title>,” <source>JAMA</source>
+<volume>329</volume>, no. <issue>22</issue> (<year>2023</year>): <fpage>1934</fpage>–<lpage>1946</lpage>, <pub-id pub-id-type="doi">10.1001/jama.2023.8823</pub-id>.<pub-id pub-id-type="pmid">37278994</pub-id>
+<pub-id pub-id-type="pmcid">PMC10214179</pub-id></mixed-citation></ref><ref id="hex70516-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="hex70516-cit-0002">
+<string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Swietek</surname>
+</string-name>, <string-name name-style="western">
+<given-names>K. Z.</given-names>
+<surname>Gianattasio</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Henderson</surname>
+</string-name>, et al., “<article-title>Association Between Racial Segregation and COVID‐19 Vaccination Rates</article-title>,” <source>Journal of Public Health Management and Practice</source>
+<volume>29</volume>, no. <issue>4</issue> (<year>2023</year>): <fpage>572</fpage>–<lpage>579</lpage>.<pub-id pub-id-type="pmid">36943401</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1097/PHH.0000000000001738</pub-id></mixed-citation></ref><ref id="hex70516-bib-0003"><label>3</label><mixed-citation publication-type="miscellaneous" id="hex70516-cit-0003">
+<string-name name-style="western">
+<given-names>S. N.</given-names>
+<surname>Neupane</surname>
+</string-name> and <string-name name-style="western">
+<given-names>E.</given-names>
+<surname>Ruel</surname>
+</string-name>, “Association Between Racial Residential Segregation and COVID‐19 Mortality.”<pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s11524-023-00780-5</pub-id><pub-id pub-id-type="pmcid">PMC10618147</pub-id><pub-id pub-id-type="pmid">37715049</pub-id></mixed-citation></ref><ref id="hex70516-bib-0004"><label>4</label><mixed-citation publication-type="miscellaneous" id="hex70516-cit-0004">
+<string-name name-style="western">
+<given-names>T. K.</given-names>
+<surname>Boehmer</surname>
+</string-name>, <string-name name-style="western">
+<given-names>E. H.</given-names>
+<surname>Koumans</surname>
+</string-name>, <string-name name-style="western">
+<given-names>E. L.</given-names>
+<surname>Skillen</surname>
+</string-name>, et al., “Racial and Ethnic Disparities in Outpatient Treatment of COVID‐19―United States, January–July 2022.”<pub-id pub-id-type="doi" assigning-authority="pmc">10.15585/mmwr.mm7143a2</pub-id><pub-id pub-id-type="pmcid">PMC9620572</pub-id><pub-id pub-id-type="pmid">36301738</pub-id></mixed-citation></ref><ref id="hex70516-bib-0005"><label>5</label><mixed-citation publication-type="miscellaneous" id="hex70516-cit-0005">
+<string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Khullar</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Zang</surname>
+</string-name>, et al., “Racial/Ethnic Disparities in Post‐Acute Sequelae of SARS‐CoV‐2 Infection in New York.”<pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s11606-022-07997-1</pub-id><pub-id pub-id-type="pmcid">PMC9933823</pub-id><pub-id pub-id-type="pmid">36795327</pub-id></mixed-citation></ref><ref id="hex70516-bib-0006"><label>6</label><mixed-citation publication-type="miscellaneous" id="hex70516-cit-0006">
+<string-name name-style="western">
+<given-names>S. D.</given-names>
+<surname>Romano</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A. J.</given-names>
+<surname>Blackstock</surname>
+</string-name>, <string-name name-style="western">
+<given-names>E. V.</given-names>
+<surname>Taylor</surname>
+</string-name>, et al., “Trends in Racial and Ethnic Disparities in COVID‐19 Hospitalizations, by Region—United States, March–December 2020.”<pub-id pub-id-type="doi" assigning-authority="pmc">10.15585/mmwr.mm7015e2</pub-id><pub-id pub-id-type="pmcid">PMC8344991</pub-id><pub-id pub-id-type="pmid">33857068</pub-id></mixed-citation></ref><ref id="hex70516-bib-0007"><label>7</label><mixed-citation publication-type="miscellaneous" id="hex70516-cit-0007">
+<string-name name-style="western">
+<given-names>S. S.</given-names>
+<surname>Dutta</surname>
+</string-name>, “New Long COVID Index Highlights Five Symptom Subtypes.”</mixed-citation></ref><ref id="hex70516-bib-0008"><label>8</label><mixed-citation publication-type="miscellaneous" id="hex70516-cit-0008">
+<string-name name-style="western">
+<given-names>L. N.</given-names>
+<surname>Geng</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Kristine</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M. H.</given-names>
+<surname>Erlandson</surname>
+</string-name>, et al., “2024 Update of the RECOVER‐Adult Long COVID Research Index.”<pub-id pub-id-type="doi" assigning-authority="pmc">10.1001/jama.2024.24184</pub-id><pub-id pub-id-type="pmcid">PMC11862971</pub-id><pub-id pub-id-type="pmid">39693079</pub-id></mixed-citation></ref><ref id="hex70516-bib-0009"><label>9</label><mixed-citation publication-type="miscellaneous" id="hex70516-cit-0009">
+<string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Shi</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Lu</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Tian</surname>
+</string-name>, et al., “Prevalence of and Factors Associated with Long COVID Among US Adults.”<pub-id pub-id-type="doi" assigning-authority="pmc">10.1186/s12889-025-22987-8</pub-id><pub-id pub-id-type="pmcid">PMC12070722</pub-id><pub-id pub-id-type="pmid">40361045</pub-id></mixed-citation></ref><ref id="hex70516-bib-0010"><label>10</label><mixed-citation publication-type="miscellaneous" id="hex70516-cit-0010">
+<string-name name-style="western">
+<given-names>E. V.</given-names>
+<surname>Woodward</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S. S.</given-names>
+<surname>Rajinder</surname>
+</string-name>, <string-name name-style="western">
+<given-names>N.‐N.</given-names>
+<surname>Phiwinhlanhla</surname>
+</string-name>, et al., “A More Practical Guide to Incorporating Health Equity Domains in Implementation Determinant Frameworks.”<pub-id pub-id-type="doi" assigning-authority="pmc">10.1186/s43058-021-00146-5</pub-id><pub-id pub-id-type="pmcid">PMC8178842</pub-id><pub-id pub-id-type="pmid">34090524</pub-id></mixed-citation></ref><ref id="hex70516-bib-0011"><label>11</label><mixed-citation publication-type="miscellaneous" id="hex70516-cit-0011">
+<string-name name-style="western">
+<given-names>P. S.</given-names>
+<surname>Hovmand</surname>
+</string-name>, “Community Based System Dynamics HOVMAND.Pdf.”</mixed-citation></ref><ref id="hex70516-bib-0012"><label>12</label><mixed-citation publication-type="miscellaneous" id="hex70516-cit-0012">
+<string-name name-style="western">
+<given-names>U.</given-names>
+<surname>Röger‐Offergeld</surname>
+</string-name>, <string-name name-style="western">
+<given-names>E.</given-names>
+<surname>Kurfer</surname>
+</string-name>, <string-name name-style="western">
+<given-names>H. P.</given-names>
+<surname>Brandl‐Bredenbeck</surname>
+</string-name>, et al., “<article-title>Empowerment Through Participation in Community‐Based Participatory Research—Effects of a Physical Activity Promotion Project Among Socially Disadvantaged Women</article-title>.”<pub-id pub-id-type="doi" assigning-authority="pmc">10.3389/fpubh.2023.1205808</pub-id><pub-id pub-id-type="pmcid">PMC10396770</pub-id><pub-id pub-id-type="pmid">37538266</pub-id></mixed-citation></ref><ref id="hex70516-bib-0013"><label>13</label><mixed-citation publication-type="miscellaneous" id="hex70516-cit-0013">
+<string-name name-style="western">
+<given-names>B. A.</given-names>
+<surname>Israel</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M. C.</given-names>
+<surname>Coombe</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R. R.</given-names>
+<surname>Cheezum</surname>
+</string-name>, et al., “Community‐Based Participatory Research.”</mixed-citation></ref><ref id="hex70516-bib-0014"><label>14</label><mixed-citation publication-type="miscellaneous" id="hex70516-cit-0014">
+<string-name name-style="western">
+<given-names>S. H.</given-names>
+<surname>Keitt</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Tibbs</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Bonhomme</surname>
+</string-name>, “Fostering Equity.”</mixed-citation></ref><ref id="hex70516-bib-0015"><label>15</label><mixed-citation publication-type="miscellaneous" id="hex70516-cit-0015">
+<string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Chavez‐Ugalde</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Z.</given-names>
+<surname>Toumpakari</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>White</surname>
+</string-name>, <string-name name-style="western">
+<given-names>F.</given-names>
+<surname>De Vocht</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Jago</surname>
+</string-name>, “Using Group Model Building to Frame the Commercial Determinants of Dietary Behaviour in Adolescence—Proposed Methods for Online System Mapping Workshops.”<pub-id pub-id-type="doi" assigning-authority="pmc">10.1186/s12874-022-01576-y</pub-id><pub-id pub-id-type="pmcid">PMC8961487</pub-id><pub-id pub-id-type="pmid">35350996</pub-id></mixed-citation></ref><ref id="hex70516-bib-0016"><label>16</label><mixed-citation publication-type="miscellaneous" id="hex70516-cit-0016">
+<string-name name-style="western">
+<given-names>W.</given-names>
+<surname>Matilda</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Johansson</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Bertoni</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>S. I.</given-names>
+<surname>Hallstedt</surname>
+</string-name>, “Investigating Effects of Group Model Building on Sustainable Design Decision‐Making.”</mixed-citation></ref><ref id="hex70516-bib-0017"><label>17</label><mixed-citation publication-type="miscellaneous" id="hex70516-cit-0017">
+<string-name name-style="western">
+<given-names>T.</given-names>
+<surname>Felmingham</surname>
+</string-name>, <string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Backholer</surname>
+</string-name>, <string-name name-style="western">
+<given-names>E.</given-names>
+<surname>Hoban</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A. D.</given-names>
+<surname>Brown</surname>
+</string-name>, <string-name name-style="western">
+<given-names>P.</given-names>
+<surname>Nagorcka‐Smith</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Allender</surname>
+</string-name>, “<article-title>Success of Community‐Based System Dynamics in Prevention Interventions</article-title>.”<pub-id pub-id-type="doi" assigning-authority="pmc">10.3389/fpubh.2023.1103834</pub-id><pub-id pub-id-type="pmcid">PMC10080052</pub-id><pub-id pub-id-type="pmid">37033017</pub-id></mixed-citation></ref><ref id="hex70516-bib-0018"><label>18</label><mixed-citation publication-type="miscellaneous" id="hex70516-cit-0018">
+<string-name name-style="western">
+<given-names>O.</given-names>
+<surname>Sahin</surname>
+</string-name>, <string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Salim</surname>
+</string-name>, <string-name name-style="western">
+<given-names>E.</given-names>
+<surname>Suprun</surname>
+</string-name>, et al., “<article-title>Developing a Preliminary Causal Loop Diagram for Understanding the Wicked Complexity of the COVID‐19 Pandemic</article-title>.”</mixed-citation></ref><ref id="hex70516-bib-0019"><label>19</label><mixed-citation publication-type="miscellaneous" id="hex70516-cit-0019">
+<string-name name-style="western">
+<given-names>C. H.</given-names>
+<surname>Sudre</surname>
+</string-name>, <string-name name-style="western">
+<given-names>B.</given-names>
+<surname>Murray</surname>
+</string-name>, <string-name name-style="western">
+<given-names>T.</given-names>
+<surname>Varsavsky</surname>
+</string-name>, et al., “Attributes and Predictors of Long COVID.”<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41591-021-01292-y</pub-id><pub-id pub-id-type="pmcid">PMC7611399</pub-id><pub-id pub-id-type="pmid">33692530</pub-id></mixed-citation></ref><ref id="hex70516-bib-0020"><label>20</label><mixed-citation publication-type="miscellaneous" id="hex70516-cit-0020">
+<string-name name-style="western">
+<given-names>G.</given-names>
+<surname>Vivaldi</surname>
+</string-name>, <string-name name-style="western">
+<given-names>P. E.</given-names>
+<surname>Pfeffer</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Talaei</surname>
+</string-name>, <string-name name-style="western">
+<given-names>T. J.</given-names>
+<surname>Basera</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S. O.</given-names>
+<surname>Shaheen</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>A. R.</given-names>
+<surname>Martineau</surname>
+</string-name>, “Long‐Term Symptom Profiles After COVID‐19 vs Other Acute Respiratory Infections.”<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.eclinm.2023.102251</pub-id><pub-id pub-id-type="pmcid">PMC10721552</pub-id><pub-id pub-id-type="pmid">38106559</pub-id></mixed-citation></ref><ref id="hex70516-bib-0021"><label>21</label><mixed-citation publication-type="miscellaneous" id="hex70516-cit-0021">
+<string-name name-style="western">
+<given-names>E. R.</given-names>
+<surname>Pfaff</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A. T.</given-names>
+<surname>Girvin</surname>
+</string-name>, <string-name name-style="western">
+<given-names>T. D.</given-names>
+<surname>Bennett</surname>
+</string-name>, et al., “<article-title>Identifying Who Has Long COVID in the USA</article-title>.”</mixed-citation></ref><ref id="hex70516-bib-0022"><label>22</label><mixed-citation publication-type="miscellaneous" id="hex70516-cit-0022">
+<string-name name-style="western">
+<given-names>B. T.</given-names>
+<surname>Poon</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Atchison</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Kwan</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Veasey</surname>
+</string-name>, “A Community‐Based Systems Dynamics Approach for Understanding Determinants of Children's Social and Emotional Well‐Being.”<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.healthplace.2021.102712</pub-id><pub-id pub-id-type="pmid">34808588</pub-id></mixed-citation></ref><ref id="hex70516-bib-0023"><label>23</label><mixed-citation publication-type="miscellaneous" id="hex70516-cit-0023">
+<string-name name-style="western">
+<given-names>G.</given-names>
+<surname>Linnéusson</surname>
+</string-name> and <string-name name-style="western">
+<given-names>A. G.</given-names>
+<surname>Uriarte</surname>
+</string-name>, “Learning From Simulating With System Dynamics in Healthcare.”</mixed-citation></ref><ref id="hex70516-bib-0024"><label>24</label><mixed-citation publication-type="miscellaneous" id="hex70516-cit-0024">
+<string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Pearson</surname>
+</string-name>, <string-name name-style="western">
+<given-names>P.</given-names>
+<surname>Singh</surname>
+</string-name>, <string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Bartel</surname>
+</string-name>, <string-name name-style="western">
+<given-names>P.</given-names>
+<surname>Crawford</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>G.</given-names>
+<surname>Allsopp</surname>
+</string-name>, “Creative Long Covid.”<pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/hex.13602</pub-id><pub-id pub-id-type="pmcid">PMC9700147</pub-id><pub-id pub-id-type="pmid">36148648</pub-id></mixed-citation></ref><ref id="hex70516-bib-0025"><label>25</label><mixed-citation publication-type="miscellaneous" id="hex70516-cit-0025">
+<string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Lewthwaite</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Byrne</surname>
+</string-name>, <string-name name-style="western">
+<given-names>B.</given-names>
+<surname>Brew</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>P. G.</given-names>
+<surname>Gibson</surname>
+</string-name>, “Treatable Traits for Long COVID.”<pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/resp.14596</pub-id><pub-id pub-id-type="pmid">37715729</pub-id></mixed-citation></ref><ref id="hex70516-bib-0026"><label>26</label><mixed-citation publication-type="miscellaneous" id="hex70516-cit-0026">
+<string-name name-style="western">
+<given-names>N.</given-names>
+<surname>Zimmermann</surname>
+</string-name>, <string-name name-style="western">
+<given-names>I.</given-names>
+<surname>Pluchinotta</surname>
+</string-name>, <string-name name-style="western">
+<given-names>G.</given-names>
+<surname>Salvia</surname>
+</string-name>, et al., “Moving Online.”</mixed-citation></ref><ref id="hex70516-bib-0027"><label>27</label><mixed-citation publication-type="miscellaneous" id="hex70516-cit-0027">
+<string-name name-style="western">
+<given-names>A. M.</given-names>
+<surname>Loreche</surname>
+</string-name>, <string-name name-style="western">
+<given-names>V. C. F.</given-names>
+<surname>Pepito</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>M. M.</given-names>
+<surname>Dayrit</surname>
+</string-name>, “Long Covid.”</mixed-citation></ref><ref id="hex70516-bib-0028"><label>28</label><mixed-citation publication-type="miscellaneous" id="hex70516-cit-0028">
+<string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Chou</surname>
+</string-name>, <string-name name-style="western">
+<given-names>T.</given-names>
+<surname>Dana</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A. Y.</given-names>
+<surname>Ahmed</surname>
+</string-name>, et al., “Technical Brief No. 45: Long COVID Models of Care.”</mixed-citation></ref><ref id="hex70516-bib-0029"><label>29</label><mixed-citation publication-type="miscellaneous" id="hex70516-cit-0029">
+<string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Kim</surname>
+</string-name>, <string-name name-style="western">
+<given-names>B.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Mohandas</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Rehman</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Z. A.</given-names>
+<surname>Sherif</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Coombs</surname>
+</string-name>, “<article-title>The Importance of Patient‐Partnered Research in Addressing Long COVID</article-title>.”<pub-id pub-id-type="doi" assigning-authority="pmc">10.7554/eLife.86043</pub-id><pub-id pub-id-type="pmcid">PMC10516599</pub-id><pub-id pub-id-type="pmid">37737716</pub-id></mixed-citation></ref><ref id="hex70516-bib-0030"><label>30</label><mixed-citation publication-type="miscellaneous" id="hex70516-cit-0030">
+<string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Liira</surname>
+</string-name>, <string-name name-style="western">
+<given-names>P.</given-names>
+<surname>Garner</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Malmivaara</surname>
+</string-name>, et al., “Prognosis of Patients With Post‐Covid‐19 Condition: Prospective Cohort Cluster Analysis at One Year.”<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.jpsychores.2024.111808</pub-id><pub-id pub-id-type="pmid">38781803</pub-id></mixed-citation></ref><ref id="hex70516-bib-0031"><label>31</label><mixed-citation publication-type="miscellaneous" id="hex70516-cit-0031">
+<string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Astin</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Banerjee</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M. R.</given-names>
+<surname>Baker</surname>
+</string-name>, et al., “Long COVID.”</mixed-citation></ref><ref id="hex70516-bib-0032"><label>32</label><mixed-citation publication-type="miscellaneous" id="hex70516-cit-0032">
+<string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Titenok</surname>
+</string-name>, “Best Ways to Solve Chicken and Egg Problem.”</mixed-citation></ref><ref id="hex70516-bib-0033"><label>33</label><mixed-citation publication-type="miscellaneous" id="hex70516-cit-0033">
+<string-name name-style="western">
+<given-names>J. A.</given-names>
+<surname>Kuhlberg</surname>
+</string-name>, <string-name name-style="western">
+<given-names>I.</given-names>
+<surname>Headen</surname>
+</string-name>, <string-name name-style="western">
+<given-names>E. A.</given-names>
+<surname>Ballard</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Martin</surname>, <suffix>Jr.</suffix>
+</string-name>, “Advancing Community Engaged Approaches to Identifying Structural Drivers of Racial Bias in Health Diagnostic Algorithms.Pdf.”</mixed-citation></ref><ref id="hex70516-bib-0034"><label>34</label><mixed-citation publication-type="miscellaneous" id="hex70516-cit-0034">
+<string-name name-style="western">
+<given-names>O. S.</given-names>
+<surname>Smeekes</surname>
+</string-name>, <string-name name-style="western">
+<given-names>H. C.</given-names>
+<surname>Willems</surname>
+</string-name>, <string-name name-style="western">
+<given-names>I.</given-names>
+<surname>Blomberg</surname>
+</string-name>, <string-name name-style="western">
+<given-names>E. A. J. A.</given-names>
+<surname>Rouwette</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>B. M.</given-names>
+<surname>Buurman</surname>
+</string-name>, “Implementing Online Group Model Building to Unravel Complex Geriatric Problems, a Methodological Description.”<pub-id pub-id-type="doi" assigning-authority="pmc">10.1186/s12877-023-04110-x</pub-id><pub-id pub-id-type="pmcid">PMC10339532</pub-id><pub-id pub-id-type="pmid">37438723</pub-id></mixed-citation></ref><ref id="hex70516-bib-0035"><label>35</label><mixed-citation publication-type="miscellaneous" id="hex70516-cit-0035">
+<string-name name-style="western">
+<given-names>B. A.</given-names>
+<surname>Israel</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A. J.</given-names>
+<surname>Schulz</surname>
+</string-name>, <string-name name-style="western">
+<given-names>E. A.</given-names>
+<surname>Parker</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>A. B.</given-names>
+<surname>Becker</surname>
+</string-name>, “Review of Community‐Based Research.”</mixed-citation></ref><ref id="hex70516-bib-0036"><label>36</label><mixed-citation publication-type="miscellaneous" id="hex70516-cit-0036">
+<string-name name-style="western">
+<given-names>V.</given-names>
+<surname>Prabhakaran</surname>
+</string-name> and <string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Martin</surname>
+</string-name>, “Participatory Machine Learning Using Community‐Based System Dynamics.”<pub-id pub-id-type="pmcid">PMC7762892</pub-id><pub-id pub-id-type="pmid">33390696</pub-id></mixed-citation></ref><ref id="hex70516-bib-0037"><label>37</label><mixed-citation publication-type="miscellaneous" id="hex70516-cit-0037">
+<string-name name-style="western">
+<given-names>R. E.</given-names>
+<surname>Hamlin</surname>
+</string-name> and <string-name name-style="western">
+<given-names>C. A.</given-names>
+<surname>Blish</surname>
+</string-name>, “Challenges and Opportunities in Long COVID Research.”<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.immuni.2024.05.010</pub-id><pub-id pub-id-type="pmcid">PMC11210969</pub-id><pub-id pub-id-type="pmid">38865966</pub-id></mixed-citation></ref><ref id="hex70516-bib-0038"><label>38</label><mixed-citation publication-type="miscellaneous" id="hex70516-cit-0038">
+<string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Bai</surname>
+</string-name> and <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Wang</surname>
+</string-name>, “<article-title>Modeling Long COVID Dynamics</article-title>.”</mixed-citation></ref><ref id="hex70516-bib-0039"><label>39</label><mixed-citation publication-type="miscellaneous" id="hex70516-cit-0039">
+<string-name name-style="western">
+<given-names>B.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Zhou</surname>
+</string-name>, <string-name name-style="western">
+<given-names>T.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Ma</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>W.</given-names>
+<surname>Hao</surname>
+</string-name>, “<article-title>Effectiveness of a Scenario‐Based, Community‐Based Intervention in Containing COVID‐19 in China</article-title>.”<pub-id pub-id-type="doi" assigning-authority="pmc">10.3389/fpubh.2024.1449305</pub-id><pub-id pub-id-type="pmcid">PMC11631882</pub-id><pub-id pub-id-type="pmid">39664544</pub-id></mixed-citation></ref><ref id="hex70516-bib-0040"><label>40</label><mixed-citation publication-type="miscellaneous" id="hex70516-cit-0040">
+<string-name name-style="western">
+<given-names>M. L.</given-names>
+<surname>Fitzgerald</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A. K.</given-names>
+<surname>Cohen</surname>
+</string-name>, <string-name name-style="western">
+<given-names>T.</given-names>
+<surname>Wall Jaudon</surname>
+</string-name>, et al., “<article-title>A Call From Patient‐Researchers to Advance Research on Long COVID</article-title>.”<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.cell.2024.09.011</pub-id><pub-id pub-id-type="pmid">39366339</pub-id></mixed-citation></ref></ref-list></back></article></pmc-articleset>

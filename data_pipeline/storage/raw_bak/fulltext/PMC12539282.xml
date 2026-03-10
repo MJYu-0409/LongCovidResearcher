@@ -1,0 +1,635 @@
+<?xml version="1.0"  ?><!DOCTYPE pmc-articleset PUBLIC "-//NLM//DTD ARTICLE SET 2.0//EN" "https://dtd.nlm.nih.gov/ncbi/pmc/articleset/nlm-articleset-2.0.dtd"><pmc-articleset><article id="puh270144" xml:lang="en" article-type="research-article" dtd-version="1.4"><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">Public Health Chall</journal-id><journal-id journal-id-type="iso-abbrev">Public Health Chall</journal-id><journal-id journal-id-type="pmc-domain-id">4740</journal-id><journal-id journal-id-type="pmc-domain">phchall</journal-id><journal-id journal-id-type="publisher-id">PUH2</journal-id><journal-title-group><journal-title>Public Health Challenges</journal-title></journal-title-group><issn pub-type="epub">2769-2450</issn><publisher><publisher-name>Wiley</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC12539282</article-id><article-id pub-id-type="pmcid-ver">PMC12539282.1</article-id><article-id pub-id-type="pmcaid">12539282</article-id><article-id pub-id-type="pmcaiid">12539282</article-id><article-id pub-id-type="pmid">41127554</article-id><article-id pub-id-type="doi">10.1002/puh2.70144</article-id><article-id pub-id-type="publisher-id">PUH270144</article-id><article-version article-version-type="pmc-version">1</article-version><article-categories><subj-group subj-group-type="overline"><subject>Research Article</subject></subj-group><subj-group subj-group-type="heading"><subject>Research Article</subject></subj-group></article-categories><title-group><article-title>Understanding Long COVID Among Young People in Victoria, Australia: Prevalence, Impact, and Associated Factors</article-title></title-group><contrib-group><contrib id="puh270144-cr-0001" contrib-type="author"><name name-style="western"><surname>Engelberts</surname><given-names initials="R">Robin</given-names></name><xref rid="puh270144-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="puh270144-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib id="puh270144-cr-0002" contrib-type="author"><name name-style="western"><surname>Douglass</surname><given-names initials="CH">Caitlin H.</given-names></name><xref rid="puh270144-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="puh270144-cr-0003" contrib-type="author"><name name-style="western"><surname>Orozco</surname><given-names initials="A">Ana</given-names></name><xref rid="puh270144-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="puh270144-cr-0004" contrib-type="author"><name name-style="western"><surname>Eddy</surname><given-names initials="S">Sarah</given-names></name><xref rid="puh270144-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="puh270144-cr-0005" contrib-type="author"><name name-style="western"><surname>Wilkinson</surname><given-names initials="AL">Anna Lee</given-names></name><xref rid="puh270144-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="puh270144-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref><xref rid="puh270144-aff-0004" ref-type="aff">
+<sup>4</sup>
+</xref></contrib><contrib id="puh270144-cr-0006" contrib-type="author"><name name-style="western"><surname>Altermatt</surname><given-names initials="A">Aimée</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0003-3617-2413</contrib-id><xref rid="puh270144-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="puh270144-cr-0007" contrib-type="author"><name name-style="western"><surname>van den Toren</surname><given-names initials="S">Suzanne</given-names></name><xref rid="puh270144-aff-0005" ref-type="aff">
+<sup>5</sup>
+</xref><xref rid="puh270144-aff-0006" ref-type="aff">
+<sup>6</sup>
+</xref></contrib><contrib id="puh270144-cr-0008" contrib-type="author" corresp="yes"><name name-style="western"><surname>Lim</surname><given-names initials="MSC">Megan S. C.</given-names></name><xref rid="puh270144-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="puh270144-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref><xref rid="puh270144-aff-0004" ref-type="aff">
+<sup>4</sup>
+</xref><address><email>megan.lim@burnet.edu.au</email></address></contrib></contrib-group><aff id="puh270144-aff-0001">
+<label>
+<sup>1</sup>
+</label>
+<named-content content-type="organisation-division">Disease Elimination</named-content>
+<institution>Burnet Institute</institution>
+<city>Melbourne</city>
+<named-content content-type="country-part">Victoria</named-content>
+<country country="AU">Australia</country>
+</aff><aff id="puh270144-aff-0002">
+<label>
+<sup>2</sup>
+</label>
+<named-content content-type="organisation-division">Medical School</named-content>
+<institution>Erasmus University Rotterdam, Erasmus Medical Center</institution>
+<city>Rotterdam</city>
+<country country="NL">The Netherlands</country>
+</aff><aff id="puh270144-aff-0003">
+<label>
+<sup>3</sup>
+</label>
+<named-content content-type="organisation-division">School of Population and Global Health</named-content>
+<institution>University of Melbourne</institution>
+<city>Carlton</city>
+<named-content content-type="country-part">Victoria</named-content>
+<country country="AU">Australia</country>
+</aff><aff id="puh270144-aff-0004">
+<label>
+<sup>4</sup>
+</label>
+<named-content content-type="organisation-division">School of Public Health and Preventative Medicine</named-content>
+<institution>Monash University</institution>
+<city>Melbourne</city>
+<named-content content-type="country-part">Victoria</named-content>
+<country country="AU">Australia</country>
+</aff><aff id="puh270144-aff-0005">
+<label>
+<sup>5</sup>
+</label>
+<named-content content-type="organisation-division">Department of Public Health</named-content>
+<institution>Erasmus Medical Center</institution>
+<city>Rotterdam</city>
+<country country="NL">The Netherlands</country>
+</aff><aff id="puh270144-aff-0006">
+<label>
+<sup>6</sup>
+</label>
+<named-content content-type="organisation-division">Department of Health</named-content>
+<institution>Albert Schweitzer Hospital</institution>
+<city>Dordrecht</city>
+<country country="NL">The Netherlands</country>
+</aff><pub-date pub-type="epub"><day>21</day><month>10</month><year>2025</year></pub-date><pub-date pub-type="collection"><month>12</month><year>2025</year></pub-date><volume>4</volume><issue seq="150">4</issue><issue-id pub-id-type="pmc-issue-id">497357</issue-id><issue-id pub-id-type="doi">10.1002/puh2.v4.4</issue-id><elocation-id>e70144</elocation-id><history><date date-type="rev-recd"><day>08</day><month>9</month><year>2025</year></date><date date-type="received"><day>05</day><month>5</month><year>2025</year></date><date date-type="accepted"><day>07</day><month>10</month><year>2025</year></date></history><pub-history><event event-type="pmc-release"><date><day>21</day><month>10</month><year>2025</year></date></event><event event-type="pmc-live"><date><day>22</day><month>10</month><year>2025</year></date></event><event event-type="pmc-last-change"><date iso-8601-date="2025-10-23 09:25:15.713"><day>23</day><month>10</month><year>2025</year></date></event></pub-history><permissions><copyright-statement content-type="article-copyright">© 2025 The Author(s). <italic toggle="yes">Public Health Challenges</italic> published by John Wiley &amp; Sons Ltd.</copyright-statement><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>This is an open access article under the terms of the <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pmc-pdf" xlink:href="PUH2-4-e70144.pdf"/><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pdf" xlink:href="file:PUH2-4-e70144.pdf"/><abstract><title>ABSTRACT</title><sec id="puh270144-sec-0010"><title>Introduction</title><p>Long COVID is a significant public health concern. This study aimed to identify the prevalence, impact, and factors associated with long COVID among young people in Victoria, Australia.</p></sec><sec id="puh270144-sec-0020"><title>Methods</title><p>From April to June 2023, we conducted a cross‐sectional online survey of people aged 15–29 years. Participants reported if they had ever experienced long COVID (defined as COVID‐19 symptoms for more than 4 weeks) and the impact on their daily functioning. We used multivariable logistic regression to compare participants who reported long COVID with participants who reported acute COVID‐19.</p></sec><sec id="puh270144-sec-0030"><title>Results</title><p>Among 765 participants, 11.2% reported they had ever had long COVID; however, only 1 in 10 had been diagnosed by a medical practitioner. Compared to those without prolonged symptoms, participants reporting long COVID were younger (adjusted odds ratio [aOR]: 0.92; 95% confidence interval [CI]: 0.85–0.99), reported worsened general health (aOR: 8.22; 95% CI: 4.34–15.56), expressed greater concern about getting long COVID again (aOR: 1.20; 95% CI: 1.09–1.33), and had more family or friends who also experienced long COVID (aOR: 4.43; 95% CI: 1.92–10.19). In the past 4 weeks, 79.1% of participants with current long COVID reported difficulties with performing work, and 79.1% accomplished less than desired.</p></sec><sec id="puh270144-sec-0040"><title>Conclusions</title><p>One in 10 participants aged 15–29 years experienced long COVID, and most reported negative impacts on their daily life. General practitioners should be aware of the high burden of suspected long COVID in young people and consider supports to mitigate its effects on the health and well‐being of this population.</p></sec></abstract><abstract id="puh270144-abs-0001" abstract-type="graphical"><p>
+<boxed-text position="anchor" content-type="graphic" orientation="portrait"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-1" orientation="portrait" xlink:href="PUH2-4-e70144-g003.jpg"/></boxed-text>
+</p></abstract><kwd-group kwd-group-type="author-generated"><kwd id="puh270144-kwd-0001">Australia</kwd><kwd id="puh270144-kwd-0002">COVID‐19</kwd><kwd id="puh270144-kwd-0003">long COVID</kwd><kwd id="puh270144-kwd-0004">young people</kwd></kwd-group><counts><fig-count count="3"/><table-count count="3"/><page-count count="10"/><word-count count="6402"/></counts><custom-meta-group><custom-meta><meta-name>pmc-status-qastatus</meta-name><meta-value>0</meta-value></custom-meta><custom-meta><meta-name>pmc-status-live</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-status-embargo</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-status-released</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-access</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-legally-suppressed</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-pdf</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-supplement</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-pdf-only</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-suppress-copyright</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-real-version</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-scanned-article</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-in-epmc</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-license-ref</meta-name><meta-value>CC BY</meta-value></custom-meta><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>December 2025</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:6.6.4 mode:remove_FC converted:21.10.2025</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="puh270144-cit-0001">
+<string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Engelberts</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C. H.</given-names>
+<surname>Douglass</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Orozco</surname>
+</string-name>, et al. “<article-title>Understanding Long COVID Among Young People in Victoria, Australia: Prevalence, Impact, and Associated Factors</article-title>.” <source>Public Health Challenges</source>
+<volume>4</volume>, no. <issue>4</issue> (<year>2025</year>): <elocation-id>e70144</elocation-id>. <pub-id pub-id-type="doi">10.1002/puh2.70144</pub-id>
+</mixed-citation>
+</p><fn-group><fn id="puh270144-note-0001"><p>
+<bold>Funding:</bold> Megan S. C. Lim receives an NHMRC career development fellowship. No specific funding was received for this project.</p></fn></fn-group></notes></front><body><sec id="puh270144-sec-0050"><label>1</label><title>Introduction</title><p>Long COVID includes symptoms of fatigue or shortness of breath, persisting for either <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="jats-math-1" display="inline"><mml:mrow><mml:mo>≥</mml:mo></mml:mrow></mml:math>4 [<xref rid="puh270144-bib-0001" ref-type="bibr">1</xref>] or <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="jats-math-2" display="inline"><mml:mrow><mml:mo>≥</mml:mo></mml:mrow></mml:math>12 weeks [<xref rid="puh270144-bib-0002" ref-type="bibr">2</xref>] after initial infection, depending on the applied definition. As of August 2022, one study found that 4.7% of Australian adults (or approximately 10% of those who had experienced COVID‐19) had or were experiencing long COVID symptoms lasting 12 weeks or more [<xref rid="puh270144-bib-0003" ref-type="bibr">3</xref>]. This cohort study also found that these participants faced considerably greater difficulties with their daily activities compared to before getting COVID‐19 [<xref rid="puh270144-bib-0003" ref-type="bibr">3</xref>]. Most research on long COVID has focused on adults.</p><p>A small number of studies worldwide have investigated the prevalence of long COVID specifically in young people. For example, as of October 2023, an ongoing cohort study from the United States (US) reported that 16% of young people aged 18–29 years had ever experienced long COVID symptoms persisting for 12 weeks or more [<xref rid="puh270144-bib-0004" ref-type="bibr">4</xref>]. An ongoing cohort study from the United Kingdom (UK) showed that as of March 2023, 1.4% of young people aged 17–24 years had current self‐reported long COVID symptoms persisting for 12 weeks or more [<xref rid="puh270144-bib-0005" ref-type="bibr">5</xref>]. Up to now, there has been an insufficient description of the prevalence of long COVID among young people in Australia.</p><p>Emerging evidence has documented the serious impacts of long COVID on young people, including severe fatigue and difficulties navigating education, social activities, and the healthcare system [<xref rid="puh270144-bib-0006" ref-type="bibr">6</xref>]. A cohort study conducted in the UK involving approximately 13,000 young people showed that nearly half of those with long COVID felt they had fallen behind their classmates due to the pandemic [<xref rid="puh270144-bib-0007" ref-type="bibr">7</xref>].</p><p>Other studies have also explored the risk factors for long COVID in young people. Multiple potential biological risk factors for long COVID in young people have been identified, such as older age [<xref rid="puh270144-bib-0008" ref-type="bibr">8</xref>], severe acute COVID‐19 illness [<xref rid="puh270144-bib-0008" ref-type="bibr">8</xref>], and preexisting chronic conditions [<xref rid="puh270144-bib-0009" ref-type="bibr">9</xref>]. Limited research has explored the role of social determinants in the risk profile of long COVID. Understanding these social factors is crucial as some groups are disproportionally impacted by the condition. For example, a UK cohort study of nearly 13,000 young people showed that those from poorer areas were more likely to report symptoms of long COVID [<xref rid="puh270144-bib-0007" ref-type="bibr">7</xref>]. Moreover, a higher prevalence of long COVID has been reported in certain ethnicities in the US, including people of Hispanic or Latino heritage [<xref rid="puh270144-bib-0004" ref-type="bibr">4</xref>].</p><sec id="puh270144-sec-0060"><label>1.1</label><title>Aims</title><p>Research on the prevalence and impact of long COVID among young people in Australia could result in greater awareness of its effect on young people [<xref rid="puh270144-bib-0010" ref-type="bibr">10</xref>]. This may assist in providing care and support for young people experiencing long COVID symptoms. Better understanding of how social and behavioral factors influence long COVID risk could direct efforts toward healthcare equity. Our study aims to estimate the prevalence and impact of long COVID among young Victorians and identify differences in demographic and behavioral characteristics between young people with long COVID and those who had COVID‐19 without prolonged symptoms.</p></sec></sec><sec id="puh270144-sec-0070"><label>2</label><title>Methods</title><sec id="puh270144-sec-0080"><label>2.1</label><title>Study Design</title><p>This study used data from the Sex, Drugs, and Rock‘n'Roll 2023 survey [<xref rid="puh270144-bib-0011" ref-type="bibr">11</xref>]. This is an annual cross‐sectional survey conducted online since 2015. The survey included 61 questions on multiple health topics, including 12 questions on COVID‐19 and long COVID (see Table <xref rid="puh270144-supinfo-0001" ref-type="">S1</xref>). The survey was hosted in Research Electronic Data Capture (REDCap) [<xref rid="puh270144-bib-0012" ref-type="bibr">12</xref>]. The survey took approximately 20 min to complete.</p></sec><sec id="puh270144-sec-0090"><label>2.2</label><title>Setting</title><p>Recruitment occurred online from April to June 2023, targeting people aged 15–29 years from Victoria, Australia. Victoria had a unique experience during the COVID‐19 pandemic, with multiple long and strict lockdowns [<xref rid="puh270144-bib-0013" ref-type="bibr">13</xref>]. There was minimal community transmission until the Omicron wave in January 2022 [<xref rid="puh270144-bib-0014" ref-type="bibr">14</xref>]. By then, most of the population had already been vaccinated against COVID‐19 [<xref rid="puh270144-bib-0015" ref-type="bibr">15</xref>]. At the time of data collection, COVID‐19 was still circulating in the community [<xref rid="puh270144-bib-0014" ref-type="bibr">14</xref>].</p></sec><sec id="puh270144-sec-0100"><label>2.3</label><title>Participants</title><p>Individuals were eligible to participate in the survey if they were aged 15–29 years and provided informed consent. Participants were excluded if they did not report the outcome variables (history of COVID‐19 and long COVID) or gave inconsistent responses to these variables (e.g., stating no history of COVID‐19, however, currently experiencing long COVID). Although all participants were included in the initial sample analysis, only those with a history of COVID‐19 were included in the subsequent analyses that specifically explored long COVID.</p><p>Individuals were recruited online through paid advertisements on Facebook, Instagram, in online community groups, and in the researchers’ networks. COVID‐19 was not mentioned in the advertisements. Participants who completed the survey entered a draw to win A$250.</p></sec><sec id="puh270144-sec-0110"><label>2.4</label><title>Variables and Measurement</title><sec id="puh270144-sec-0120"><label>2.4.1</label><title>Primary Outcome</title><p>We provided participants with a definition of long COVID, defined as experiencing new health problems that have persisted for more than 1 month after being infected with COVID‐19. Participants reported whether they had ever experienced long COVID, with options “No,” “Yes—and I have been diagnosed by a health professional,” “Yes—I think I have long COVID, but I have not been diagnosed by a health professional,” or “I don't wish to say.” For the primary outcome, we dichotomized the long COVID variable into yes or no (with “yes” combining participants who believed they had long COVID and those who had been diagnosed with long COVID).</p></sec><sec id="puh270144-sec-0130"><label>2.4.2</label><title>Secondary Outcomes</title><p>All participants were asked the number of experienced COVID‐19 infections (treated as a continuous variable). For analysis, participants with a history of COVID‐19, but without long COVID symptoms, were labeled “short COVID.”</p><p>Participants reporting long COVID answered four questions about the impact of COVID‐19 on their lives. Participants reporting any COVID‐19 infection were asked to rate their current health compared to their health prior to their first COVID‐19 infection on a five‐point scale, ranging from “much worse” to “much better.” These questions originated from the 36‐Item Short Form Survey Instrument (SF36) and were adapted to ask specifically about long COVID [<xref rid="puh270144-bib-0016" ref-type="bibr">16</xref>].</p></sec><sec id="puh270144-sec-0140"><label>2.4.3</label><title>Explanatory Variables</title><p>Participants reported the number of COVID‐19 vaccine doses received (treated as a continuous variable). Participants were asked to scale their concern of getting COVID‐19 and long COVID from 0 (no concern) to 10 (extreme concern). All participants were asked about their number of family or friends with a history of long COVID, and how many of these individuals required the participant's support to manage their long COVID. For analysis purposes, this variable was condensed from its initial five categories into three (none/one or two/three or more).</p><p>Sociodemographic factors included the participant's age, area of residency in Victoria (dichotomized as either city or regional, based on the reported postal code or region of residency), sex, gender identity, country of birth, Aboriginal and/or Torres Strait Islander ancestry, sexual identity, relationship status, current study status, highest level of education, discretionary income, religiosity, and health service use in past 12 months.</p><p>Behavioral characteristics included lifetime alcohol consumption, current smoking status (both e‐cigarettes and other tobacco products), and lifetime recreational drug use. We assessed mental well‐being using the Short Warwick–Edinburgh Mental Well‐Being Scale (SWEMWBS) [<xref rid="puh270144-bib-0017" ref-type="bibr">17</xref>]. Scores could range from 7 to 35 with higher scores indicating better mental well‐being. Existent mental health condition was reported (e.g., anxiety, depression, or schizophrenia), either self‐determined or diagnosed by a health professional.</p></sec></sec><sec id="puh270144-sec-0150"><label>2.5</label><title>Statistical Methods</title><p>Summary statistics described the sample's demographic and behavioral characteristics, as well as its characteristics related to COVID‐19 and long COVID. Participants were classified into three groups: no reported COVID‐19, short COVID, or long COVID.</p><p>The relationship between the primary outcome (long COVID vs. short COVID) and other variables was estimated using logistic regression. Bivariable logistic regression analyses were first conducted with each explanatory variable (Table <xref rid="puh270144-supinfo-0001" ref-type="">S2</xref>). Variables with a <italic toggle="yes">p</italic> value less than 0.1 in the bivariable logistic regression models or those previously associated with long COVID in the literature were included in the multivariable logistic regression model. Stepwise modeling offered an efficient approach to select the key variables, particularly in this context with a large number of potential predictors [<xref rid="puh270144-bib-0018" ref-type="bibr">18</xref>]. The explanatory variable “Aboriginal and/or Torres Strait Islander ancestry” was dropped from the multivariable model as such a small sample size (<italic toggle="yes">n</italic> = 9) might not provide reliable statistical insights. The explanatory variable “number of affected family or friends that needed participant's support” was also dropped as it was highly correlated with “number of family or friends with long COVID.” Participants with missing data were excluded from the logistic regression models. Stata version 17.0 [<xref rid="puh270144-bib-0019" ref-type="bibr">19</xref>] was used for the data analyses.</p></sec><sec id="puh270144-sec-0160"><label>2.6</label><title>Sensitivity Analysis</title><p>We conducted a sensitivity analysis to understand the impact of using the NICE definition of long COVID (persisting for <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="jats-math-3" display="inline"><mml:mrow><mml:mo>≥</mml:mo></mml:mrow></mml:math>4 weeks) [<xref rid="puh270144-bib-0001" ref-type="bibr">1</xref>] over the WHO definition (persisting for <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="jats-math-4" display="inline"><mml:mrow><mml:mo>≥</mml:mo></mml:mrow></mml:math>12 weeks) [<xref rid="puh270144-bib-0002" ref-type="bibr">2</xref>]. In this analysis, participants reporting symptoms for fewer than 3 months were not considered to have had long COVID. An alternative prevalence was calculated, and factors associated with long COVID with this alternative definition were determined.</p></sec></sec><sec id="puh270144-sec-0170"><label>3</label><title>Results</title><sec id="puh270144-sec-0180"><label>3.1</label><title>Sample Characteristics</title><p>From 1555 people who clicked the survey link, 784 (50.8%) participants provided consent and completed the survey. Of these, 19 records were excluded due to not meeting the age criteria (<italic toggle="yes">n</italic> = 9), no reported outcome variables (<italic toggle="yes">n</italic> = 9), and inconsistency in responses (<italic toggle="yes">n</italic> = 1). The final analysis included 765 young people aged 15–29 years. The sample's demographic and behavioral characteristics are summarized in Table <xref rid="puh270144-tbl-0001" ref-type="table">1</xref>. Table <xref rid="puh270144-supinfo-0001" ref-type="">S3</xref> shows the sample characteristics categorized by group (no reported COVID‐19, short COVID, and long COVID).</p><table-wrap position="float" id="puh270144-tbl-0001" content-type="TABLE" orientation="portrait"><label>TABLE 1</label><caption><p>Demographic and behavioral characteristics (<italic toggle="yes">n </italic>= 765).</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="center" span="1"/><thead><tr style="border-bottom:solid 1px #000000"><th align="left" rowspan="1" colspan="1">Variable (<italic toggle="yes">n </italic>= 765)</th><th align="center" rowspan="1" colspan="1"/></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">Age (years), mean (SD)</td><td align="center" rowspan="1" colspan="1">23.3 (4.1)</td></tr><tr><td align="left" rowspan="1" colspan="1">Area of residence, % (<italic toggle="yes">n</italic>)</td><td align="center" rowspan="1" colspan="1"/></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">City</td><td align="center" rowspan="1" colspan="1">79.7 (610)</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Regional</td><td align="center" rowspan="1" colspan="1">15.2 (116)</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Missing</td><td align="center" rowspan="1" colspan="1">5.1 (39)</td></tr><tr><td align="left" rowspan="1" colspan="1">Sex, % (<italic toggle="yes">n</italic>)</td><td align="center" rowspan="1" colspan="1"/></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Male</td><td align="center" rowspan="1" colspan="1">32.4 (248)</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Female</td><td align="center" rowspan="1" colspan="1">66.3 (507)</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Missing</td><td align="center" rowspan="1" colspan="1">1.3 (10)</td></tr><tr><td align="left" rowspan="1" colspan="1">Gender identity, % (<italic toggle="yes">n</italic>)</td><td align="center" rowspan="1" colspan="1"/></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Man</td><td align="center" rowspan="1" colspan="1">29.8 (228)</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Woman</td><td align="center" rowspan="1" colspan="1">52.2 (399)</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Nonbinary and other</td><td align="center" rowspan="1" colspan="1">16.9 (129)</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Missing</td><td align="center" rowspan="1" colspan="1">1.2 (9)</td></tr><tr><td align="left" rowspan="1" colspan="1">Country of birth, % (<italic toggle="yes">n</italic>)</td><td align="center" rowspan="1" colspan="1"/></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Australia</td><td align="center" rowspan="1" colspan="1">86.9 (665)</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Other</td><td align="center" rowspan="1" colspan="1">12.6 (96)</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Missing</td><td align="center" rowspan="1" colspan="1">0.5 (4)</td></tr><tr><td align="left" rowspan="1" colspan="1">Aboriginal and/or Torres Strait Islander ancestry, % (<italic toggle="yes">n</italic>)</td><td align="center" rowspan="1" colspan="1"/></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Yes</td><td align="center" rowspan="1" colspan="1">2.5 (19)</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">No</td><td align="center" rowspan="1" colspan="1">96.6 (739)</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Missing</td><td align="center" rowspan="1" colspan="1">0.9 (7)</td></tr><tr><td align="left" rowspan="1" colspan="1">Sexual identity, % (<italic toggle="yes">n</italic>)</td><td align="center" rowspan="1" colspan="1"/></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Heterosexual</td><td align="center" rowspan="1" colspan="1">44.8 (343)</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Other</td><td align="center" rowspan="1" colspan="1">54.9 (420)</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Missing</td><td align="center" rowspan="1" colspan="1">0.3 (2)</td></tr><tr><td align="left" rowspan="1" colspan="1">Relationship status, % (<italic toggle="yes">n</italic>)</td><td align="center" rowspan="1" colspan="1"/></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Single</td><td align="center" rowspan="1" colspan="1">38.5 (294)</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Relationship</td><td align="center" rowspan="1" colspan="1">60.9 (465)</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Missing</td><td align="center" rowspan="1" colspan="1">0.8 (6)</td></tr><tr><td align="left" rowspan="1" colspan="1">Currently studying, % (<italic toggle="yes">n</italic>)</td><td align="center" rowspan="1" colspan="1"/></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Yes</td><td align="center" rowspan="1" colspan="1">54.3 (415)</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">No</td><td align="center" rowspan="1" colspan="1">45.2 (346)</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Missing</td><td align="center" rowspan="1" colspan="1">0.5 (4)</td></tr><tr><td align="left" rowspan="1" colspan="1">Highest level of education, % (<italic toggle="yes">n</italic>)</td><td align="center" rowspan="1" colspan="1"/></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">High school</td><td align="center" rowspan="1" colspan="1">23.3 (178)</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Post‐high school</td><td align="center" rowspan="1" colspan="1">76.1 (582)</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Missing</td><td align="center" rowspan="1" colspan="1">0.7 (5)</td></tr><tr><td align="left" rowspan="1" colspan="1">Discretionary income, % (<italic toggle="yes">n</italic>)</td><td align="center" rowspan="1" colspan="1"/></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">&lt; A$120</td><td align="center" rowspan="1" colspan="1">67.7 (518)</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">≥ A$120</td><td align="center" rowspan="1" colspan="1">28.9 (221)</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Missing</td><td align="center" rowspan="1" colspan="1">3.4 (26)</td></tr><tr><td align="left" rowspan="1" colspan="1">Active member of any religious group, % (<italic toggle="yes">n</italic>)</td><td align="center" rowspan="1" colspan="1"/></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Yes</td><td align="center" rowspan="1" colspan="1">9.2 (70)</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">No</td><td align="center" rowspan="1" colspan="1">89.8 (687)</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Missing</td><td align="center" rowspan="1" colspan="1">1.1 (8)</td></tr><tr><td align="left" rowspan="1" colspan="1">Health service use in past 12 months, % (<italic toggle="yes">n</italic>)</td><td align="center" rowspan="1" colspan="1"/></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Yes</td><td align="center" rowspan="1" colspan="1">83.0 (635)</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">No</td><td align="center" rowspan="1" colspan="1">16.7 (128)</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Missing</td><td align="center" rowspan="1" colspan="1">0.3 (2)</td></tr><tr><td align="left" rowspan="1" colspan="1">Ever consumed alcohol, % (<italic toggle="yes">n</italic>)</td><td align="center" rowspan="1" colspan="1"/></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Yes</td><td align="center" rowspan="1" colspan="1">90.2 (690)</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">No</td><td align="center" rowspan="1" colspan="1">9.5 (73)</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Missing</td><td align="center" rowspan="1" colspan="1">0.3 (2)</td></tr><tr><td align="left" rowspan="1" colspan="1">Currently smoking<xref rid="puh270144-tbl1-note-0001" ref-type="table-fn">
+<sup>a</sup>
+</xref>, % (<italic toggle="yes">n</italic>)</td><td align="center" rowspan="1" colspan="1"/></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Yes</td><td align="center" rowspan="1" colspan="1">22.2 (170)</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">No</td><td align="center" rowspan="1" colspan="1">77.5 (593)</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Missing</td><td align="center" rowspan="1" colspan="1">0.3 (2)</td></tr><tr><td align="left" rowspan="1" colspan="1">Ever used recreational drugs, % (<italic toggle="yes">n</italic>)</td><td align="center" rowspan="1" colspan="1"/></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Yes</td><td align="center" rowspan="1" colspan="1">61.3 (469)</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">No</td><td align="center" rowspan="1" colspan="1">38.7 (296)</td></tr><tr><td align="left" rowspan="1" colspan="1">Existent mental health condition, % (<italic toggle="yes">n</italic>)</td><td align="center" rowspan="1" colspan="1"/></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Yes</td><td align="center" rowspan="1" colspan="1">65.9 (504)</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">No</td><td align="center" rowspan="1" colspan="1">32.8 (251)</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Missing</td><td align="center" rowspan="1" colspan="1">1.3 (10)</td></tr><tr><td align="left" rowspan="1" colspan="1">Mental well‐being<xref rid="puh270144-tbl1-note-0003" ref-type="table-fn">
+<sup>b</sup>
+</xref>, mean (SD)</td><td align="center" rowspan="1" colspan="1">21.0 (3.9)</td></tr></tbody></table><table-wrap-foot><fn id="puh270144-tbl1-note-0001"><p>
+<italic toggle="yes">Note:</italic> Percentages may not total 100% due to rounding.</p></fn><fn id="puh270144-tbl1-note-0002"><label>
+<sup>a</sup>
+</label><p>Smoking included e‐cigarettes and other tobacco products.</p></fn><fn id="puh270144-tbl1-note-0003"><label>
+<sup>b</sup>
+</label><p>Measured with the Short Warwick–Edinburgh Mental Well‐Being Scale (SWEMWBS [<xref rid="puh270144-bib-0022" ref-type="bibr">22</xref>]), score range [7–35], and higher scores indicating better mental well‐being.</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &amp; Sons, Ltd.</copyright-holder></permissions></table-wrap></sec><sec id="puh270144-sec-0190"><label>3.2</label><title>COVID‐19</title><p>Of 765 participants, 98.2% (<italic toggle="yes">n</italic> = 751) had received at least one dose of the COVID‐19 vaccine. Of all participants, 79.6% (<italic toggle="yes">n</italic> = 609) reported having had one or multiple COVID‐19 infections (Table <xref rid="puh270144-tbl-0002" ref-type="table">2</xref>).</p><table-wrap position="float" id="puh270144-tbl-0002" content-type="TABLE" orientation="portrait"><label>TABLE 2</label><caption><p>COVID‐19‐related characteristics <italic toggle="yes">(n</italic> = 765).</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="center" span="1"/><thead><tr style="border-bottom:solid 1px #000000"><th align="left" rowspan="1" colspan="1">Variable (<italic toggle="yes">n </italic>= 765)</th><th align="center" rowspan="1" colspan="1"/></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">Number of received vaccine doses, mean (SD)</td><td align="center" rowspan="1" colspan="1">2.9 (0.7)</td></tr><tr><td align="left" rowspan="1" colspan="1">Number of COVID‐19 infections, mean (SD)</td><td align="center" rowspan="1" colspan="1">1.1 (0.8)</td></tr><tr><td align="left" rowspan="1" colspan="1">Concern of getting COVID‐19 infection, mean (SD)</td><td align="center" rowspan="1" colspan="1">3.4 (2.7)</td></tr><tr><td align="left" rowspan="1" colspan="1">Concern of getting long COVID, mean (SD)</td><td align="center" rowspan="1" colspan="1">4.9 (3.3)</td></tr><tr><td align="left" rowspan="1" colspan="1">Number of family or friends with long COVID, % (<italic toggle="yes">n</italic>)</td><td align="center" rowspan="1" colspan="1"/></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">None</td><td align="center" rowspan="1" colspan="1">50.5 (386)</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">One or two</td><td align="center" rowspan="1" colspan="1">35.7 (273)</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Three or more</td><td align="center" rowspan="1" colspan="1">11.8 (90)</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Missing</td><td align="center" rowspan="1" colspan="1">2.1 (16)</td></tr><tr><td align="left" rowspan="1" colspan="1">Number of affected family or friends that needed participant's support, % (<italic toggle="yes">n</italic>)</td><td align="center" rowspan="1" colspan="1"/></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">None</td><td align="center" rowspan="1" colspan="1">84.3 (645)</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">One or two</td><td align="center" rowspan="1" colspan="1">12.9 (99)</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Three or more</td><td align="center" rowspan="1" colspan="1">1.4 (11)</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Missing</td><td align="center" rowspan="1" colspan="1">1.3 (10)</td></tr><tr><td align="left" rowspan="1" colspan="1">COVID‐19 status % (<italic toggle="yes">n</italic>)</td><td align="center" rowspan="1" colspan="1"/></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Never had COVID‐19</td><td align="center" rowspan="1" colspan="1">20.4 (156)</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Short COVID‐19 only</td><td align="center" rowspan="1" colspan="1">68.4 (523)</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Long COVID‐19</td><td align="center" rowspan="1" colspan="1">11.2 (86)</td></tr></tbody></table><table-wrap-foot><fn id="puh270144-tbl2-note-0001"><p>
+<italic toggle="yes">Note:</italic> Percentages may not total 100% due to rounding.</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &amp; Sons, Ltd.</copyright-holder></permissions></table-wrap></sec><sec id="puh270144-sec-0200"><label>3.3</label><title>Long COVID</title><p>The prevalence of long COVID was 11.2% (<italic toggle="yes">n</italic> = 86). At the time of the survey, 5.6% reported currently experiencing long COVID (<italic toggle="yes">n </italic>= 43). Most long COVID cases were self‐reported (89.5%, <italic toggle="yes">n</italic> = 77), whereas only 10.5% (<italic toggle="yes">n</italic> = 9) of participants with long COVID symptoms were diagnosed by a health professional. Participants currently experiencing long COVID symptoms had a mean symptom duration of 10.3 months (SD 5.3), whereas the group that had already recovered from long COVID had symptoms for an average of 4.7 months (SD 3.3). The fraction of participants with long COVID increased with a higher number of COVID‐19 infections (one infection: 47/406; two infections: 27/164; three infections: 9/30; four infections: 2/5; and five or more infections: 1/4).</p></sec><sec id="puh270144-sec-0210"><label>3.4</label><title>Impact of Long COVID</title><p>Figure <xref rid="puh270144-fig-0001" ref-type="fig">1</xref> shows the impact of long COVID on participants’ lives. Most participants with short COVID reported that their current health was about the same as before their first COVID‐19 infection. Conversely, most participants with long COVID reported a worsened general health (Figure <xref rid="puh270144-fig-0002" ref-type="fig">2</xref>).</p><fig position="float" fig-type="FIGURE" id="puh270144-fig-0001" orientation="portrait"><label>FIGURE 1</label><caption><p>Impact of long COVID on group with current symptoms (<italic toggle="yes">n</italic> = 45). Participants reported the impact during the four weeks prior to the survey.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-3" orientation="portrait" xlink:href="PUH2-4-e70144-g002.jpg"/></fig><fig position="float" fig-type="FIGURE" id="puh270144-fig-0002" orientation="portrait"><label>FIGURE 2</label><caption><p>Rating of current health compared to health prior to the first COVID‐19 infection.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-5" orientation="portrait" xlink:href="PUH2-4-e70144-g001.jpg"/></fig></sec><sec id="puh270144-sec-0220"><label>3.5</label><title>Associations With Long COVID</title><p>Long COVID was negatively associated with older age (Table <xref rid="puh270144-tbl-0003" ref-type="table">3</xref>). Participants with long COVID showed greater concern of getting long COVID compared to participants with short. Participants with long COVID had significantly more family or friends with long COVID than participants with short COVID. Participants with long COVID had significantly higher odds of reporting worse general health compared to participants with short COVID. No other variables were significantly associated with long COVID.</p><table-wrap position="float" id="puh270144-tbl-0003" content-type="TABLE" orientation="portrait"><label>TABLE 3</label><caption><p>Variables associated with long COVID compared to short COVID (bivariable and multivariable logistic regression analysis, 95% confidence intervals [CIs]).</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><thead><tr style="border-bottom:solid 1px #000000"><th align="left" rowspan="1" colspan="1">Variable</th><th align="center" rowspan="1" colspan="1">Short COVID (<italic toggle="yes">n</italic> = 488)</th><th align="center" rowspan="1" colspan="1">Long COVID (<italic toggle="yes">n</italic> = 75)</th><th align="center" rowspan="1" colspan="1">OR<xref rid="puh270144-tbl3-note-0003" ref-type="table-fn">
+<sup>a</sup>
+</xref>
+</th><th align="center" rowspan="1" colspan="1">95% CI</th><th align="center" rowspan="1" colspan="1">aOR<xref rid="puh270144-tbl3-note-0004" ref-type="table-fn">
+<sup>b</sup>
+</xref>
+</th><th align="center" rowspan="1" colspan="1">95% CI</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">Age (years), mean (SD)</td><td align="center" rowspan="1" colspan="1">23.5 (4.2)</td><td align="center" rowspan="1" colspan="1">23.0 (4.0)</td><td align="center" rowspan="1" colspan="1">0.97</td><td align="center" rowspan="1" colspan="1">0.92–1.03</td><td align="center" rowspan="1" colspan="1">0.92</td><td align="center" rowspan="1" colspan="1">0.85–0.995</td></tr><tr><td align="left" rowspan="1" colspan="1">Gender identity, % (<italic toggle="yes">n</italic>)</td><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1"/></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Man</td><td align="center" rowspan="1" colspan="1">30.5 (149)</td><td align="center" rowspan="1" colspan="1">29.3 (22)</td><td align="center" rowspan="1" colspan="1">1.00</td><td align="center" rowspan="1" colspan="1">—</td><td align="center" rowspan="1" colspan="1">1.00</td><td align="center" rowspan="1" colspan="1">—</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Woman</td><td align="center" rowspan="1" colspan="1">54.7 (267)</td><td align="center" rowspan="1" colspan="1">44.0 (33)</td><td align="center" rowspan="1" colspan="1">0.84</td><td align="center" rowspan="1" colspan="1">0.47–1.49</td><td align="center" rowspan="1" colspan="1">0.53</td><td align="center" rowspan="1" colspan="1">0.27–1.06</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Nonbinary and other</td><td align="center" rowspan="1" colspan="1">14.8 (72)</td><td align="center" rowspan="1" colspan="1">26.7 (20)</td><td align="center" rowspan="1" colspan="1">1.88</td><td align="center" rowspan="1" colspan="1">0.96–3.67</td><td align="center" rowspan="1" colspan="1">0.78</td><td align="center" rowspan="1" colspan="1">0.32–1.88</td></tr><tr><td align="left" rowspan="1" colspan="1">Discretionary income, % (<italic toggle="yes">n</italic>)</td><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1"/></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">&lt;A$120</td><td align="center" rowspan="1" colspan="1">68.4 (334)</td><td align="center" rowspan="1" colspan="1">73.3 (55)</td><td align="center" rowspan="1" colspan="1">1.00</td><td align="center" rowspan="1" colspan="1">—</td><td align="center" rowspan="1" colspan="1">1.00</td><td align="center" rowspan="1" colspan="1">—</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">≥A$120</td><td align="center" rowspan="1" colspan="1">31.6 (154)</td><td align="center" rowspan="1" colspan="1">26.7 (20)</td><td align="center" rowspan="1" colspan="1">0.79</td><td align="center" rowspan="1" colspan="1">0.46–1.36</td><td align="center" rowspan="1" colspan="1">0.85</td><td align="center" rowspan="1" colspan="1">0.43–1.69</td></tr><tr><td align="left" rowspan="1" colspan="1">Currently smoking<xref rid="puh270144-tbl3-note-0005" ref-type="table-fn">
+<sup>c</sup>
+</xref>, % (<italic toggle="yes">n</italic>)</td><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1"/></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Yes</td><td align="center" rowspan="1" colspan="1">76.8 (375)</td><td align="center" rowspan="1" colspan="1">68.0 (51)</td><td align="center" rowspan="1" colspan="1">1.56</td><td align="center" rowspan="1" colspan="1">0.92–2.65</td><td align="center" rowspan="1" colspan="1">1.33</td><td align="center" rowspan="1" colspan="1">0.68–2.57</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">No</td><td align="center" rowspan="1" colspan="1">23.2 (113)</td><td align="center" rowspan="1" colspan="1">32.0 (24)</td><td align="center" rowspan="1" colspan="1">1.00</td><td align="center" rowspan="1" colspan="1">—</td><td align="center" rowspan="1" colspan="1">1.00</td><td align="center" rowspan="1" colspan="1">—</td></tr><tr><td align="left" rowspan="1" colspan="1">Ever used recreational drugs, % (<italic toggle="yes">n</italic>)</td><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1"/></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Yes</td><td align="center" rowspan="1" colspan="1">99.2 (484)</td><td align="center" rowspan="1" colspan="1">97.3 (73)</td><td align="center" rowspan="1" colspan="1">3.32</td><td align="center" rowspan="1" colspan="1">0.60–18.42</td><td align="center" rowspan="1" colspan="1">1.99</td><td align="center" rowspan="1" colspan="1">0.23–16.82</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">No</td><td align="center" rowspan="1" colspan="1">0.8 (4)</td><td align="center" rowspan="1" colspan="1">2.7 (2)</td><td align="center" rowspan="1" colspan="1">1.00</td><td align="center" rowspan="1" colspan="1">—</td><td align="center" rowspan="1" colspan="1">1.00</td><td align="center" rowspan="1" colspan="1">—</td></tr><tr><td align="left" rowspan="1" colspan="1">Mental well‐being<xref rid="puh270144-tbl3-note-0006" ref-type="table-fn">
+<sup>d</sup>
+</xref>, mean (SD)</td><td align="center" rowspan="1" colspan="1">21.2 (3.7)</td><td align="center" rowspan="1" colspan="1">20.7 (4.5)</td><td align="center" rowspan="1" colspan="1">0.97</td><td align="center" rowspan="1" colspan="1">0.91–1.03</td><td align="center" rowspan="1" colspan="1">1.05</td><td align="center" rowspan="1" colspan="1">0.97–1.13</td></tr><tr><td align="left" rowspan="1" colspan="1">Number of received COVID‐19 vaccine doses, mean (SD)</td><td align="center" rowspan="1" colspan="1">2.8 (0.7)</td><td align="center" rowspan="1" colspan="1">3.0 (0.8)</td><td align="center" rowspan="1" colspan="1">1.37</td><td align="center" rowspan="1" colspan="1">0.96–1.96</td><td align="center" rowspan="1" colspan="1">1.19</td><td align="center" rowspan="1" colspan="1">0.77–1.84</td></tr><tr><td align="left" rowspan="1" colspan="1">Number of COVID‐19 infections, mean (SD)</td><td align="center" rowspan="1" colspan="1">1.4 (0.7)</td><td align="center" rowspan="1" colspan="1">1.7 (0.9)</td><td align="center" rowspan="1" colspan="1">1.55</td><td align="center" rowspan="1" colspan="1">1.16–2.09</td><td align="center" rowspan="1" colspan="1">1.30</td><td align="center" rowspan="1" colspan="1">0.91–1.86</td></tr><tr><td align="left" rowspan="1" colspan="1">Concern of getting long COVID, mean (SD)</td><td align="center" rowspan="1" colspan="1">4.6 (3.2)</td><td align="center" rowspan="1" colspan="1">6.8 (2.7)</td><td align="center" rowspan="1" colspan="1">1.26</td><td align="center" rowspan="1" colspan="1">1.16–1.38</td><td align="center" rowspan="1" colspan="1">1.20</td><td align="center" rowspan="1" colspan="1">1.09–1.33</td></tr><tr><td align="left" rowspan="1" colspan="1">Number of family or with long COVID, % (<italic toggle="yes">n</italic>)</td><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1"/></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">None</td><td align="center" rowspan="1" colspan="1">54.5 (266)</td><td align="center" rowspan="1" colspan="1">24.0 (18)</td><td align="center" rowspan="1" colspan="1">1.00</td><td align="center" rowspan="1" colspan="1">—</td><td align="center" rowspan="1" colspan="1">1.00</td><td align="center" rowspan="1" colspan="1">—</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">One or two</td><td align="center" rowspan="1" colspan="1">36.1 (176)</td><td align="center" rowspan="1" colspan="1">46.7 (35)</td><td align="center" rowspan="1" colspan="1">2.94</td><td align="center" rowspan="1" colspan="1">1.61–5.35</td><td align="center" rowspan="1" colspan="1">2.07</td><td align="center" rowspan="1" colspan="1">1.06–4.01</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Three or more</td><td align="center" rowspan="1" colspan="1">9.4 (46)</td><td align="center" rowspan="1" colspan="1">29.3 (22)</td><td align="center" rowspan="1" colspan="1">7.07</td><td align="center" rowspan="1" colspan="1">3.52–14.19</td><td align="center" rowspan="1" colspan="1">4.43</td><td align="center" rowspan="1" colspan="1">1.92–10.19</td></tr><tr><td align="left" rowspan="1" colspan="1">Current health compared to prior to COVID‐19, % (<italic toggle="yes">n</italic>)</td><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1"/></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Same</td><td align="center" rowspan="1" colspan="1">67.9 (332)</td><td align="center" rowspan="1" colspan="1">24.0 (18)</td><td align="center" rowspan="1" colspan="1">1.00</td><td align="center" rowspan="1" colspan="1">—</td><td align="center" rowspan="1" colspan="1">1.00</td><td align="center" rowspan="1" colspan="1">—</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Better</td><td align="center" rowspan="1" colspan="1">13.1 (64)</td><td align="center" rowspan="1" colspan="1">8.0 (6)</td><td align="center" rowspan="1" colspan="1">1.72</td><td align="center" rowspan="1" colspan="1">0.66–4.51</td><td align="center" rowspan="1" colspan="1">1.30</td><td align="center" rowspan="1" colspan="1">0.46–3.62</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Worse</td><td align="center" rowspan="1" colspan="1">19.0 (93)</td><td align="center" rowspan="1" colspan="1">68.0 (51)</td><td align="center" rowspan="1" colspan="1">10.08</td><td align="center" rowspan="1" colspan="1">5.62–18.09</td><td align="center" rowspan="1" colspan="1">8.22</td><td align="center" rowspan="1" colspan="1">4.34–15.56</td></tr></tbody></table><table-wrap-foot><fn id="puh270144-tbl3-note-0001"><p>
+<italic toggle="yes">Note:</italic> The analyses only included participants with complete data on all the variables of interest (any participants missing data were excluded).</p></fn><fn id="puh270144-tbl3-note-0002"><p>Abbreviations: aOR, adjusted odds ratio; OR, odds ratio.</p></fn><fn id="puh270144-tbl3-note-0003"><label>
+<sup>a</sup>
+</label><p>OR calculated using bivariable logistic regression, comparing long COVID to short COVID (reference group).</p></fn><fn id="puh270144-tbl3-note-0004"><label>
+<sup>b</sup>
+</label><p>aOR calculated using multivariable logistic regression, comparing long COVID to short COVID (reference group).</p></fn><fn id="puh270144-tbl3-note-0005"><label>
+<sup>c</sup>
+</label><p>Smoking included e‐cigarettes and other tobacco products.</p></fn><fn id="puh270144-tbl3-note-0006"><label>
+<sup>d</sup>
+</label><p>Measured with the Short Warwick–Edinburgh Mental Well‐Being Scale (SWEMWBS [<xref rid="puh270144-bib-0022" ref-type="bibr">22</xref>]), score range [7–35], and higher scores indicating better mental well‐being.</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &amp; Sons, Ltd.</copyright-holder></permissions></table-wrap></sec><sec id="puh270144-sec-0230"><label>3.6</label><title>Sensitivity Analysis</title><p>With a definition of long COVID as persisting for 3 months or more, the prevalence of long COVID in the sample was 9.8% (<italic toggle="yes">n</italic> = 75). Factors associated with long COVID using this definition are shown in Table <xref rid="puh270144-supinfo-0001" ref-type="">S4</xref>. These factors were consistent with the original analysis, except for age that was no longer associated with long COVID (adjusted odds ratio [aOR]: 0.93; 95% confidence interval [CI]: 0.86–1.01).</p></sec></sec><sec id="puh270144-sec-0240"><label>4</label><title>Discussion</title><sec id="puh270144-sec-0250"><label>4.1</label><title>Prevalence of Long COVID</title><p>This is one of the first studies to measure the prevalence, impacts, and associated factors of long COVID among young people in Victoria, Australia. Of 765 participants, 11% reported they had experienced long COVID, with substantial impacts on their daily life and general health. Most young people who reported experiencing long COVID had not been diagnosed by a healthcare professional and had experienced symptoms for an average of 10 months.</p><p>Our study's prevalence of 11% aligns with the prevalence of 14% observed in a survey of 3510 Australian adults as of August 2022 [<xref rid="puh270144-bib-0003" ref-type="bibr">3</xref>]. Both studies defined long COVID as COVID‐19 symptoms persisting for more than 4 weeks. Compared to international data, our study's prevalence is higher than findings from a large‐scale US survey that reported a 5.4% prevalence in young people aged 18–29 years as of October 2023 [<xref rid="puh270144-bib-0004" ref-type="bibr">4</xref>], as well as the prevalence of 1.4% found in the UK among young people aged 17–24 years as of March 2023 [<xref rid="puh270144-bib-0005" ref-type="bibr">5</xref>]. However, both these studies used a definition of long COVID as persisting for ≥12 weeks, compared to our study that used a 4‐week cutoff. They also only included those with a formal diagnosis of long COVID. Both of these criteria would result in a higher prevalence observed in our study.</p></sec><sec id="puh270144-sec-0260"><label>4.2</label><title>Impact of Long COVID</title><p>Our results suggest that long COVID had considerable impact on young people's daily lives, for example, through difficulties in performing work and exercising. Other studies have documented similar impacts, with one Australian study finding that 86% of adults with long COVID reported a reduced ability to carry out daily activities [<xref rid="puh270144-bib-0003" ref-type="bibr">3</xref>]. Unlike previous research [<xref rid="puh270144-bib-0020" ref-type="bibr">20</xref>], our study found no association between long COVID and mental well‐being. This may be due to the high proportion of participants (66%) reporting a mental health condition. The discrepancy with other research could also be attributed to our use of the SWEMWBS [<xref rid="puh270144-bib-0017" ref-type="bibr">17</xref>], a scale that primarily measures positive mental health. A positive focus in research shifts the narrative from solely treating disorders to promoting mental strengths and emphasizing resilience. This approach is crucial, but it might overlook the negative mental health effects of long COVID.</p></sec><sec id="puh270144-sec-0270"><label>4.3</label><title>Factors Associated With Long COVID</title><p>Our study unexpectedly found that younger age was associated with long COVID. This finding differs from other research that suggests an inverted U‐shaped relationship between age and long COVID prevalence [<xref rid="puh270144-bib-0021" ref-type="bibr">21</xref>]. Studies indicated an increasing prevalence from childhood [<xref rid="puh270144-bib-0008" ref-type="bibr">8</xref>] through each decade of adult life, followed by a decline around 60 years [<xref rid="puh270144-bib-0021" ref-type="bibr">21</xref>]. However, the relationship was not significant in sensitivity analysis, and it is possible that the finding was due to chance or bias.</p><p>Participants with long COVID showed greater concern about getting long COVID than participants with short COVID. This finding may be due to participant's personal experiences with the condition and being more aware of the potential health impacts. Qualitative research suggests that people with long COVID experience unpredictable symptoms [<xref rid="puh270144-bib-0001" ref-type="bibr">1</xref>] and feel uncertain they will ever recover [<xref rid="puh270144-bib-0022" ref-type="bibr">22</xref>, <xref rid="puh270144-bib-0023" ref-type="bibr">23</xref>]. Research also suggests that long COVID patients face barriers to accessing care, leading to negative impacts on emotional well‐being and recovery [<xref rid="puh270144-bib-0024" ref-type="bibr">24</xref>]. More qualitative research is needed to understand young people's personal experiences with long COVID, access to support services, and the long‐term impacts.</p><p>Participants who reported experiencing long COVID had more friends or family members who also had long COVID. This finding may be due to young people seeking support from others experiencing the same condition. Online peer support groups for long COVID were created throughout the pandemic to address gaps in professional care and to advocate for greater awareness of long COVID [<xref rid="puh270144-bib-0025" ref-type="bibr">25</xref>, <xref rid="puh270144-bib-0026" ref-type="bibr">26</xref>]. Additionally, discussing their long COVID experiences could have prompted others in their social circle to share similar stories. Participants with long COVID could have been more attuned to similar cases, creating the impression of knowing more people with the condition. Network studies could help clarify if the apparent higher prevalence of long COVID within certain social circles is due to increased awareness or actual case clustering.</p><p>Gender and sex were not associated with long COVID. Some studies highlighted female sex as a potential risk factor for long COVID in adults [<xref rid="puh270144-bib-0027" ref-type="bibr">27</xref>, <xref rid="puh270144-bib-0028" ref-type="bibr">28</xref>]. This trend is less evident in adolescent populations [<xref rid="puh270144-bib-0008" ref-type="bibr">8</xref>, <xref rid="puh270144-bib-0029" ref-type="bibr">29</xref>]. The underlying causation of this gender disparity in long COVID risk remains unclear. Biological (sex) factors might explain why female adults are more at risk for long COVID. For example, females showed a more robust immune activation than males in acute COVID‐19 [<xref rid="puh270144-bib-0030" ref-type="bibr">30</xref>], possibly contributing to the persistence of long COVID symptoms in females. Sociocultural (gender) roles could also play a crucial part. Cisgender women, who more predominantly occupy roles in healthcare and caregiving [<xref rid="puh270144-bib-0031" ref-type="bibr">31</xref>], might face increased viral exposure. Additionally, gender‐based differences in healthcare‐seeking behavior [<xref rid="puh270144-bib-0032" ref-type="bibr">32</xref>] might lead to more frequent reporting of long COVID symptoms among cisgender women. These factors may manifest differently in younger populations, including our study group with an average age of 23. Further research in both biological (sex) and sociocultural (gender) differences regarding long COVID in this age group is required to deepen the understanding of this relationship.</p><p>Although not included in multivariable analysis due to small numbers, there was a markedly high proportion of participants who identified as Aboriginal and Torres Strait Islander reporting long COVID (21%, 4/19). This demonstrates a need for focused and community‐led research and management strategies for long COVID among Aboriginal and Torres Strait Islander people.</p><p>Finally, COVID‐19 vaccination is a known protective factor against long COVID in children and adults [<xref rid="puh270144-bib-0033" ref-type="bibr">33</xref>, <xref rid="puh270144-bib-0034" ref-type="bibr">34</xref>, <xref rid="puh270144-bib-0035" ref-type="bibr">35</xref>]. Our study observed no association, likely because nearly all participants (98%) were vaccinated.</p></sec><sec id="puh270144-sec-0280"><label>4.4</label><title>Implications</title><p>Our study demonstrates that a significant minority of young people in Victoria reported experiencing long COVID, with many experiencing symptoms for &gt;10 months. A recent review identified there are a small number of services in Australia that provide long COVID rehabilitation and support to patients to manage symptoms [<xref rid="puh270144-bib-0010" ref-type="bibr">10</xref>]. However, many have since been closed [<xref rid="puh270144-bib-0036" ref-type="bibr">36</xref>]. Most services require a referral from a general practitioner or specialist and include support from allied health professionals like physiotherapists and psychologists. Our findings suggest that young people with long COVID will likely also require support from their employers and education institutes to enable flexible work and study arrangements [<xref rid="puh270144-bib-0037" ref-type="bibr">37</xref>].</p><p>Most of our participants had not been diagnosed with long COVID by a healthcare professional; however, we do not know if this is because they had not sought diagnosis for the condition, or if they had sought care but not received a formal diagnosis. Further work may be needed to ensure that general practitioners are confident in diagnosing long COVID or providing alternative diagnoses, and that young people with chronic conditions can navigate the healthcare system and access support when needed. Long COVID research shows that many people with the condition feel invalidated, dismissed, or disbelieved when seeking help from medical professionals [<xref rid="puh270144-bib-0038" ref-type="bibr">38</xref>, <xref rid="puh270144-bib-0039" ref-type="bibr">39</xref>, <xref rid="puh270144-bib-0040" ref-type="bibr">40</xref>, <xref rid="puh270144-bib-0041" ref-type="bibr">41</xref>]. This research shows that feeling heard and believed can be as important for well‐being as any medical treatment. Clinicians can support patients by listening to and validating patients’ concerns and sharing their own frustrations with lack of scientific and clinical knowledge around long COVID [<xref rid="puh270144-bib-0038" ref-type="bibr">38</xref>, <xref rid="puh270144-bib-0039" ref-type="bibr">39</xref>]. Long COVID patients should be offered multidisciplinary patient‐centered integrated care and active self‐management [<xref rid="puh270144-bib-0010" ref-type="bibr">10</xref>, <xref rid="puh270144-bib-0042" ref-type="bibr">42</xref>]. However, more research into treatment and prevention of long COVID is needed [<xref rid="puh270144-bib-0043" ref-type="bibr">43</xref>].</p><p>Given its prevalence and impact, work is needed to raise awareness and educate the public about long COVID. A longitudinal cohort study reinforces this by showing that only one‐third of its participants considered the Victorian government's information on long COVID sufficient [<xref rid="puh270144-bib-0044" ref-type="bibr">44</xref>]. Increasing awareness about long COVID could facilitate earlier detection and timely, effective support, while setting realistic expectations and reducing the stigma around long COVID [<xref rid="puh270144-bib-0022" ref-type="bibr">22</xref>].</p></sec><sec id="puh270144-sec-0290"><label>4.5</label><title>Limitations and Strengths</title><p>Our study has several limitations. First, COVID was self‐reported, which may have led to over‐ or underreporting and misdiagnosis. Diagnosis was based on a single item rather than a validated diagnostic tool or questionnaire. Given that even healthcare professionals find diagnosing long COVID challenging [<xref rid="puh270144-bib-0045" ref-type="bibr">45</xref>], people without medical training might have attributed symptoms of other conditions to long COVID. However, patient‐reported outcomes are central to identification of long COVID, and self‐reported outcomes are used commonly in long COVID research [<xref rid="puh270144-bib-0040" ref-type="bibr">40</xref>, <xref rid="puh270144-bib-0046" ref-type="bibr">46</xref>]. Second, our study was cross‐sectional, and we cannot establish a temporal relationship between variables. We are also unable to verify onset dates and duration of symptoms. Implementing a national, longitudinal screening program for long COVID in Australia, modeled after successful international initiatives [<xref rid="puh270144-bib-0004" ref-type="bibr">4</xref>, <xref rid="puh270144-bib-0005" ref-type="bibr">5</xref>], is recommended to follow its progression over time. Third, our study used convenience sampling; therefore, it is unlikely participants represent the general population of young people in Australia. Recruiting participants online means we likely did not reach participants with lower levels of education and digital literacy. Studies have shown that those with greater digital health literacy are more likely to take precautions to prevent COVID infection, which may have affected our reported prevalence rates [<xref rid="puh270144-bib-0047" ref-type="bibr">47</xref>, <xref rid="puh270144-bib-0048" ref-type="bibr">48</xref>]. A strength of the study was that it was not advertised as a COVID‐19 study, so selection bias towards those with strong feelings about long COVID was likely minimized. However, the advertising of the survey topic as “Sex, Drugs, and Rock‘n'Roll” means there may have been a bias towards volunteers of particular social and cultural groups, for example, we have a high number of participants identifying as LGBTQIA+. Although there is no evidence that LGBTQIA+ young people have disproportionate rates of long COVID, we have previously shown that this group experienced greater psychological distress during the pandemic [<xref rid="puh270144-bib-0049" ref-type="bibr">49</xref>].</p></sec></sec><sec id="puh270144-sec-0300"><label>5</label><title>Conclusions</title><p>The unique perspective of this study, from young people, as opposed to clinicians, contributes to the existing literature. Our study suggests that long COVID in young people is a significant public health concern, affecting 11% of our sample. Most reported negative impacts on their health and daily lives. Young people with long COVID were concerned about getting the condition again and often had others in their social circle who also experienced long COVID. General practitioners should be aware of the high burden of suspected long COVID in young people and consider potential supports to mitigate its long‐term effects on the health and well‐being of this population.</p></sec><sec id="puh270144-sec-0310"><title>Author Contributions</title><p>Study design: CHD, AO, SE, ST, MSCL. Data collection: AO, SE, MSCL. Methodology: RE, CHD, ALW, AA, ST, MSCL. Data analysis: RE, AO, SE, ALW. Writing: RE, MSCL. Writing and editing: all authors.</p></sec><sec id="puh270144-sec-0320"><title>Ethics Statement</title><p>Ethical approval was given by the Alfred Health Research Ethics Committee (project number 326/08).</p></sec><sec id="puh270144-sec-0330"><title>Consent</title><p>All participants gave informed consent.</p></sec><sec sec-type="COI-statement" id="puh270144-sec-0340"><title>Conflicts of Interest</title><p>The authors declare no conflicts of interest.</p></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material id="puh270144-supinfo-0001" position="float" content-type="local-data" orientation="portrait"/><supplementary-material id="puh270144-supitem-0001" position="float" content-type="local-data" orientation="portrait"><caption><p>
+<bold>Supporting Table 1:</bold> COVID‐19‐related questions from Sex, Drugs, and Rock‘n’Roll (SDRR) study 2023.</p><p>
+<bold>Supporting Table 2:</bold> Bivariable analysis of each explanatory variable (bivariable logistic regression analysis, 95% confidence intervals).</p><p>
+<bold>Supporting Table 3:</bold> Sample characteristics categorized by group (no reported COVID‐19, short COVID and long COVID).</p><p>
+<bold>Supporting Table 4:</bold> Sensitivity analysis using symptoms persisting for 3 or more months as the definition of long COVID. Variables associated with long COVID compared to short COVID (bivariable and multivariable logistic regression analysis, 95% confidence intervals).</p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="PUH2-4-e70144-s001.docx" position="float" orientation="portrait"/></supplementary-material></sec></body><back><sec sec-type="data-availability" id="puh270144-sec-0360"><title>Data Availability Statement</title><p>The data that support this study cannot be publicly shared due to ethical or privacy reasons and may be shared upon reasonable request to the corresponding author if appropriate.</p></sec><ref-list id="puh270144-bibl-0001"><title>References</title><ref id="puh270144-bib-0001"><label>1</label><mixed-citation publication-type="book" id="puh270144-cite-0001">
+<collab collab-type="authors">National Institute for Health and Care Excellence (NICE)</collab>
+, “<article-title>COVID‐19 Rapid Guideline: Managing the Long‐Term Effects of COVID‐19</article-title>,” <publisher-name>NICE</publisher-name>, published <year>2022</year>, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.nice.org.uk/guidance/ng188" ext-link-type="uri">https://www.nice.org.uk/guidance/ng188</ext-link>.<pub-id pub-id-type="pmid">33555768</pub-id></mixed-citation></ref><ref id="puh270144-bib-0002"><label>2</label><mixed-citation publication-type="book" id="puh270144-cite-0002">
+<collab collab-type="authors">World Health Organization (WHO)</collab>
+, “<article-title>Post COVID‐19 Condition (Long COVID)</article-title>,” <publisher-name>WHO</publisher-name>, published <year>2022</year>, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.who.int/europe/news-room/fact-sheets/item/post-covid-19-condition" ext-link-type="uri">https://www.who.int/europe/news‐room/fact‐sheets/item/post‐covid‐19‐condition</ext-link>.</mixed-citation></ref><ref id="puh270144-bib-0003"><label>3</label><mixed-citation publication-type="book" id="puh270144-cite-0003">
+<string-name name-style="western">
+<given-names>N.</given-names>
+<surname>Biddle</surname>
+</string-name> and <string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Korda</surname>
+</string-name>, <source>The Experience of COVID‐19 in Australia, Including Long‐COVID—Evidence From the COVID‐19 Impact Monitoring Survey Series</source> (<publisher-name>Australian National University</publisher-name>, <year>2022</year>), <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://csrm.cass.anu.edu.au/research/publications/experience-covid-19-australia-including-long-covid-evidence-covid-19-impact" ext-link-type="uri">https://csrm.cass.anu.edu.au/research/publications/experience‐covid‐19‐australia‐including‐long‐covid‐evidence‐covid‐19‐impact</ext-link>.</mixed-citation></ref><ref id="puh270144-bib-0004"><label>4</label><mixed-citation publication-type="book" id="puh270144-cite-0004">
+<collab collab-type="authors">Centers for Disease Control and Prevention (CDC)</collab>
+, “<article-title>Household Pulse Survey</article-title>,” <publisher-name>CDC</publisher-name>, published<year>2023</year>, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.cdc.gov/nchs/covid19/pulse/long-covid.htm" ext-link-type="uri">https://www.cdc.gov/nchs/covid19/pulse/long‐covid.htm</ext-link>.</mixed-citation></ref><ref id="puh270144-bib-0005"><label>5</label><mixed-citation publication-type="book" id="puh270144-cite-0005">
+<collab collab-type="authors">Office for National Statistics (ONS)</collab>
+, “<article-title>Prevalence of Ongoing Symptoms Following Coronavirus (COVID‐19) Infection in the UK</article-title>,” <publisher-name>ONS</publisher-name>, published<year>2023</year>, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/datasets/alldatarelatingtoprevalenceofongoingsymptomsfollowingcoronaviruscovid19infectionintheuk" ext-link-type="uri">https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/datasets/alldatarelatingtoprevalenceofongoingsymptomsfollowingcoronaviruscovid19infectionintheuk</ext-link>.</mixed-citation></ref><ref id="puh270144-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="puh270144-cite-0006">
+<string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Jaidka</surname>
+</string-name> and <string-name name-style="western">
+<given-names>E.</given-names>
+<surname>Byrne</surname>
+</string-name>, “<article-title>Children and Young People With Long COVID: Overlooked and Neglected</article-title>,” <source>Lancet Child &amp; Adolescent Health</source>
+<volume>8</volume>, no. <issue>2</issue> (<year>2024</year>): <fpage>99</fpage>–<lpage>100</lpage>.</mixed-citation></ref><ref id="puh270144-bib-0007"><label>7</label><mixed-citation publication-type="book" id="puh270144-cite-0007">
+<string-name name-style="western">
+<given-names>E.</given-names>
+<surname>Holt‐White</surname>
+</string-name>, <string-name name-style="western">
+<given-names>X.</given-names>
+<surname>Shao</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Montacute</surname>
+</string-name>, et al. “<article-title>Briefing No. 5 – Health Impacts and Behaviours</article-title>,” <publisher-name>COSMO</publisher-name>, published<year>2023</year>, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://cosmostudy.uk/publications/health-impacts-and-behaviours" ext-link-type="uri">https://cosmostudy.uk/publications/health‐impacts‐and‐behaviours</ext-link>.</mixed-citation></ref><ref id="puh270144-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="puh270144-cite-0008">
+<string-name name-style="western">
+<given-names>A. L.</given-names>
+<surname>Funk</surname>
+</string-name>, <string-name name-style="western">
+<given-names>N.</given-names>
+<surname>Kuppermann</surname>
+</string-name>, <string-name name-style="western">
+<given-names>T. A.</given-names>
+<surname>Florin</surname>
+</string-name>, et al., “<article-title>Post‐COVID‐19 Conditions Among Children 90 Days After SARS‐CoV‐2 Infection</article-title>,” <source>JAMA Network Open</source>
+<volume>5</volume>, no. <issue>7</issue> (<year>2022</year>): <elocation-id>e2223253</elocation-id>.<pub-id pub-id-type="pmid">35867061</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1001/jamanetworkopen.2022.23253</pub-id><pub-id pub-id-type="pmcid">PMC9308058</pub-id></mixed-citation></ref><ref id="puh270144-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="puh270144-cite-0009">
+<string-name name-style="western">
+<given-names>F.</given-names>
+<surname>Miller</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D. V.</given-names>
+<surname>Nguyen</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A. M.</given-names>
+<surname>Navaratnam</surname>
+</string-name>, et al., “<article-title>Prevalence and Characteristics of Persistent Symptoms in Children During the COVID‐19 Pandemic: Evidence From a Household Cohort Study in England and Wales</article-title>,” <source>Pediatric Infectious Disease Journal</source>
+<volume>41</volume>, no. <issue>12</issue> (<year>2022</year>): <fpage>979</fpage>–<lpage>984</lpage>.<pub-id pub-id-type="pmid">36375098</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1097/INF.0000000000003715</pub-id><pub-id pub-id-type="pmcid">PMC9645448</pub-id></mixed-citation></ref><ref id="puh270144-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="puh270144-cite-0010">
+<string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Luo</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Z.</given-names>
+<surname>Zheng</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S. R.</given-names>
+<surname>Bird</surname>
+</string-name>, et al., “<article-title>An Overview of Long COVID Support Services in Australia and International Clinical Guidelines, With a Proposed Care Model in a Global Context</article-title>,” <source>Public Health Reviews</source>
+<volume>44</volume> (<year>2023</year>): <elocation-id>1606084</elocation-id>.<pub-id pub-id-type="pmid">37811128</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3389/phrs.2023.1606084</pub-id><pub-id pub-id-type="pmcid">PMC10556237</pub-id></mixed-citation></ref><ref id="puh270144-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="puh270144-cite-0011">
+<string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Eddy</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Douglass</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Raggatt</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Thomas</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Lim</surname>
+</string-name>, “<article-title>Trends in Testing of Sexually Transmissible Infections (STIs), Sexual Health Knowledge and Behaviours, and Pornography Use in Cross‐Sectional Samples of Young People in Victoria, Australia, 2015–21</article-title>,” <source>Sex Health</source>
+<volume>20</volume>, no. <issue>2</issue> (<year>2023</year>): <fpage>164</fpage>–<lpage>172</lpage>.<pub-id pub-id-type="pmid">36966731</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1071/SH22122</pub-id></mixed-citation></ref><ref id="puh270144-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="puh270144-cite-0012">
+<string-name name-style="western">
+<given-names>P. A.</given-names>
+<surname>Harris</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Taylor</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Thielke</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Payne</surname>
+</string-name>, <string-name name-style="western">
+<given-names>N.</given-names>
+<surname>Gonzalez</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>J. G.</given-names>
+<surname>Conde</surname>
+</string-name>, “<article-title>Research Electronic Data Capture (REDCap)—A Metadata‐Driven Methodology and Workflow Process for Providing Translational Research Informatics Support</article-title>,” <source>Journal of Biomedical Informatics</source>
+<volume>42</volume>, no. <issue>2</issue> (<year>2009</year>): <fpage>377</fpage>–<lpage>381</lpage>.<pub-id pub-id-type="pmid">18929686</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.jbi.2008.08.010</pub-id><pub-id pub-id-type="pmcid">PMC2700030</pub-id></mixed-citation></ref><ref id="puh270144-bib-0013"><label>13</label><mixed-citation publication-type="miscellaneous" id="puh270144-cite-0013">
+<string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Storen</surname>
+</string-name> and <string-name name-style="western">
+<given-names>N.</given-names>
+<surname>Corrigan</surname>
+</string-name>, “<article-title>COVID‐19: A Chronology of State and Territory Government Announcements (Up Until 30 June 2020)</article-title>,” Parliament of Australia, published 2020, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.aph.gov.au/About_Parliament/Parliamentary_departments/Parliamentary_Library/pubs/rp/rp2021/Chronologies/COVID-19StateTerritoryGovernmentAnnouncements#_Toc52275800" ext-link-type="uri">https://www.aph.gov.au/About_Parliament/Parliamentary_departments/Parliamentary_Library/pubs/rp/rp2021/Chronologies/COVID‐19StateTerritoryGovernmentAnnouncements#_Toc52275800</ext-link>.</mixed-citation></ref><ref id="puh270144-bib-0014"><label>14</label><mixed-citation publication-type="book" id="puh270144-cite-0014">
+<collab collab-type="authors">Covid live</collab>
+, “<article-title>Daily Positive Test Rate</article-title>,” <publisher-name>Covid live</publisher-name>, published<year>2023</year>, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://covidlive.com.au/report/daily-cases/vic" ext-link-type="uri">https://covidlive.com.au/report/daily‐cases/vic</ext-link>.</mixed-citation></ref><ref id="puh270144-bib-0015"><label>15</label><mixed-citation publication-type="book" id="puh270144-cite-0015">
+<collab collab-type="authors">Department of Health Victoria</collab>
+, <article-title>Coronavirus Update—8 January 2022</article-title> (<publisher-name>Department of Health Victoria</publisher-name>, <year>2022</year>), <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.health.vic.gov.au/media-releases/coronavirus-update-8-january-2022" ext-link-type="uri">https://www.health.vic.gov.au/media‐releases/coronavirus‐update‐8‐january‐2022</ext-link>.</mixed-citation></ref><ref id="puh270144-bib-0016"><label>16</label><mixed-citation publication-type="book" id="puh270144-cite-0016">
+<collab collab-type="authors">RAND Corporation</collab>
+, “<article-title>36‐Item Short Form Survey Instrument (SF‐36)</article-title>,” <publisher-name>RAND Corporation</publisher-name>, accessed December 18, 2023, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.rand.org/health-care/surveys_tools/mos/36-item-short-form/survey-instrument.html" ext-link-type="uri">https://www.rand.org/health‐care/surveys_tools/mos/36‐item‐short‐form/survey‐instrument.html</ext-link>.</mixed-citation></ref><ref id="puh270144-bib-0017"><label>17</label><mixed-citation publication-type="journal" id="puh270144-cite-0017">
+<string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Stewart‐Brown</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Tennant</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Tennant</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Platt</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Parkinson</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Weich</surname>
+</string-name>, “<article-title>Internal Construct Validity of the Warwick‐Edinburgh Mental Well‐Being Scale (WEMWBS): A Rasch Analysis Using Data From the Scottish Health Education Population Survey</article-title>,” <source>Health and Quality of Life Outcomes</source>
+<volume>7</volume> (<year>2009</year>): <fpage>15</fpage>.<pub-id pub-id-type="pmid">19228398</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1186/1477-7525-7-15</pub-id><pub-id pub-id-type="pmcid">PMC2669062</pub-id></mixed-citation></ref><ref id="puh270144-bib-0018"><label>18</label><mixed-citation publication-type="book" id="puh270144-cite-0018">
+<string-name name-style="western">
+<given-names>G.</given-names>
+<surname>James</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Witten</surname>
+</string-name>, <string-name name-style="western">
+<given-names>T.</given-names>
+<surname>Hastie</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Tibshirani</surname>
+</string-name>, <source>An Introduction to Statistical Learning With Applications in R</source> (<publisher-name>Springer</publisher-name>, <year>2013</year>).</mixed-citation></ref><ref id="puh270144-bib-0019"><label>19</label><mixed-citation publication-type="book" id="puh270144-cite-0019">
+<collab collab-type="authors">StataCorp</collab>
+, <source>Stata Statistical Software: Release 17</source> (<publisher-name>StataCorp LLC</publisher-name>, <year>2021</year>).</mixed-citation></ref><ref id="puh270144-bib-0020"><label>20</label><mixed-citation publication-type="journal" id="puh270144-cite-0020">
+<string-name name-style="western">
+<given-names>V.</given-names>
+<surname>Efstathiou</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M. I.</given-names>
+<surname>Stefanou</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Demetriou</surname>
+</string-name>, et al., “<article-title>Long COVID and Neuropsychiatric Manifestations (Review)</article-title>,” <source>Experimental and Therapeutic Medicine</source>
+<volume>23</volume>, no. <issue>5</issue> (<year>2022</year>): <fpage>363</fpage>.<pub-id pub-id-type="pmid">35493431</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3892/etm.2022.11290</pub-id><pub-id pub-id-type="pmcid">PMC9019760</pub-id></mixed-citation></ref><ref id="puh270144-bib-0021"><label>21</label><mixed-citation publication-type="journal" id="puh270144-cite-0021">
+<string-name name-style="western">
+<given-names>E. J.</given-names>
+<surname>Thompson</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D. M.</given-names>
+<surname>Williams</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A. J.</given-names>
+<surname>Walker</surname>
+</string-name>, et al., “<article-title>Long COVID Burden and Risk Factors in 10 UK Longitudinal Studies and Electronic Health Records</article-title>,” <source>Nature Communications</source>
+<volume>13</volume>, no. <issue>1</issue> (<year>2022</year>): <fpage>3528</fpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41467-022-30836-0</pub-id><pub-id pub-id-type="pmcid">PMC9240035</pub-id><pub-id pub-id-type="pmid">35764621</pub-id></mixed-citation></ref><ref id="puh270144-bib-0022"><label>22</label><mixed-citation publication-type="journal" id="puh270144-cite-0022">
+<string-name name-style="western">
+<given-names>C. E.</given-names>
+<surname>Kennelly</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A. T. P.</given-names>
+<surname>Nguyen</surname>
+</string-name>, <string-name name-style="western">
+<given-names>N. Y.</given-names>
+<surname>Sheikhan</surname>
+</string-name>, et al., “<article-title>The Lived Experience of Long COVID: A Qualitative Study of Mental Health, Quality of Life, and Coping</article-title>,” <source>PLoS ONE</source>
+<volume>18</volume>, no. <issue>10</issue> (<year>2023</year>): <elocation-id>e0292630</elocation-id>.<pub-id pub-id-type="pmid">37831706</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1371/journal.pone.0292630</pub-id><pub-id pub-id-type="pmcid">PMC10575511</pub-id></mixed-citation></ref><ref id="puh270144-bib-0023"><label>23</label><mixed-citation publication-type="journal" id="puh270144-cite-0023">
+<string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Thomas</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M. A.</given-names>
+<surname>Faghy</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Owen</surname>
+</string-name>, et al., “<article-title>Lived Experience of Patients With Long COVID: A Qualitative Study in the UK</article-title>,” <source>BMJ Open</source>
+<volume>13</volume>, no. <issue>4</issue> (<year>2023</year>): <elocation-id>e068481</elocation-id>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1136/bmjopen-2022-068481</pub-id><pub-id pub-id-type="pmcid">PMC10151237</pub-id><pub-id pub-id-type="pmid">37185640</pub-id></mixed-citation></ref><ref id="puh270144-bib-0024"><label>24</label><mixed-citation publication-type="journal" id="puh270144-cite-0024">
+<string-name name-style="western">
+<given-names>L. D.</given-names>
+<surname>Hawke</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A. T. P.</given-names>
+<surname>Nguyen</surname>
+</string-name>, <string-name name-style="western">
+<given-names>N. Y.</given-names>
+<surname>Sheikhan</surname>
+</string-name>, et al., “<article-title>Swept Under the Carpet: A Qualitative Study of Patient Perspectives on Long COVID, Treatments, Services, and Mental Health</article-title>,” <source>BMC Health Services Research</source>
+<volume>23</volume>, no. <issue>1</issue> (<year>2023</year>): <fpage>1088</fpage>.<pub-id pub-id-type="pmid">37821939</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1186/s12913-023-10091-9</pub-id><pub-id pub-id-type="pmcid">PMC10568931</pub-id></mixed-citation></ref><ref id="puh270144-bib-0025"><label>25</label><mixed-citation publication-type="journal" id="puh270144-cite-0025">
+<string-name name-style="western">
+<given-names>H. L. S.</given-names>
+<surname>Day</surname>
+</string-name>, “<article-title>Exploring Online Peer Support Groups for Adults Experiencing Long COVID in the United Kingdom: Qualitative Interview Study</article-title>,” <source>Journal of Medical Internet Research</source>
+<volume>24</volume>, no. <issue>5</issue> (<year>2022</year>): <elocation-id>e37674</elocation-id>.<pub-id pub-id-type="pmid">35468083</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.2196/37674</pub-id><pub-id pub-id-type="pmcid">PMC9128729</pub-id></mixed-citation></ref><ref id="puh270144-bib-0026"><label>26</label><mixed-citation publication-type="journal" id="puh270144-cite-0026">
+<string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Gorna</surname>
+</string-name>, <string-name name-style="western">
+<given-names>N.</given-names>
+<surname>MacDermott</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Rayner</surname>
+</string-name>, et al., “<article-title>Long COVID Guidelines Need to Reflect Lived Experience</article-title>,” <source>Lancet</source>
+<volume>397</volume>, no. <issue>10273</issue> (<year>2021</year>): <fpage>455</fpage>–<lpage>457</lpage>.<pub-id pub-id-type="pmid">33357467</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/S0140-6736(20)32705-7</pub-id><pub-id pub-id-type="pmcid">PMC7755576</pub-id></mixed-citation></ref><ref id="puh270144-bib-0027"><label>27</label><mixed-citation publication-type="journal" id="puh270144-cite-0027">
+<string-name name-style="western">
+<given-names>V.</given-names>
+<surname>Tsampasian</surname>
+</string-name>, <string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Elghazaly</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Chattopadhyay</surname>
+</string-name>, et al., “<article-title>Risk Factors Associated With Post‐COVID‐19 Condition: A Systematic Review and Meta‐Analysis</article-title>,” <source>JAMA Internal Medicine</source>
+<volume>183</volume>, no. <issue>6</issue> (<year>2023</year>): <fpage>566</fpage>–<lpage>580</lpage>.<pub-id pub-id-type="pmid">36951832</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1001/jamainternmed.2023.0750</pub-id><pub-id pub-id-type="pmcid">PMC10037203</pub-id></mixed-citation></ref><ref id="puh270144-bib-0028"><label>28</label><mixed-citation publication-type="journal" id="puh270144-cite-0028">
+<string-name name-style="western">
+<given-names>C. J.</given-names>
+<surname>Atchison</surname>
+</string-name>, <string-name name-style="western">
+<given-names>B.</given-names>
+<surname>Davies</surname>
+</string-name>, <string-name name-style="western">
+<given-names>E.</given-names>
+<surname>Cooper</surname>
+</string-name>, et al., “<article-title>Long‐Term Health Impacts of COVID‐19 Among 242,712 Adults in England</article-title>,” <source>Nature Communications</source>
+<volume>14</volume>, no. <issue>1</issue> (<year>2023</year>): <fpage>6588</fpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41467-023-41879-2</pub-id><pub-id pub-id-type="pmcid">PMC10598213</pub-id><pub-id pub-id-type="pmid">37875536</pub-id></mixed-citation></ref><ref id="puh270144-bib-0029"><label>29</label><mixed-citation publication-type="journal" id="puh270144-cite-0029">
+<string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Morello</surname>
+</string-name>, <string-name name-style="western">
+<given-names>F.</given-names>
+<surname>Mariani</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Mastrantoni</surname>
+</string-name>, et al., “<article-title>Risk Factors for Post‐COVID‐19 Condition (Long Covid) in Children: A Prospective Cohort Study</article-title>,” <source>EClinicalMedicine</source>
+<volume>59</volume> (<year>2023</year>): <elocation-id>101961</elocation-id>.<pub-id pub-id-type="pmid">37073325</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.eclinm.2023.101961</pub-id><pub-id pub-id-type="pmcid">PMC10101848</pub-id></mixed-citation></ref><ref id="puh270144-bib-0030"><label>30</label><mixed-citation publication-type="journal" id="puh270144-cite-0030">
+<string-name name-style="western">
+<given-names>F.</given-names>
+<surname>Zeng</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Dai</surname>
+</string-name>, <string-name name-style="western">
+<given-names>P.</given-names>
+<surname>Cai</surname>
+</string-name>, et al., “<article-title>A Comparison Study of SARS‐CoV‐2 IgG Antibody Between Male and Female COVID‐19 Patients: A Possible Reason Underlying Different Outcome Between Sex</article-title>,” <source>Journal of Medical Virology</source>
+<volume>92</volume>, no. <issue>10</issue> (<year>2020</year>): <fpage>2050</fpage>–<lpage>2054</lpage>.<pub-id pub-id-type="pmid">32383183</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/jmv.25989</pub-id><pub-id pub-id-type="pmcid">PMC7267228</pub-id></mixed-citation></ref><ref id="puh270144-bib-0031"><label>31</label><mixed-citation publication-type="book" id="puh270144-cite-0031">
+<collab collab-type="authors">World Health Organization (WHO)</collab>
+, <article-title>
+Delivered by Women, Led By Men: A Gender and Equity Analysis of the Global Health and Social Workforce
+</article-title>, Human Resources for Health Observer Series No. 24 (<publisher-name>WHO</publisher-name>, <year>2019</year>), <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.who.int/publications/i/item/9789241515467" ext-link-type="uri">https://www.who.int/publications/i/item/9789241515467</ext-link>.</mixed-citation></ref><ref id="puh270144-bib-0032"><label>32</label><mixed-citation publication-type="journal" id="puh270144-cite-0032">
+<string-name name-style="western">
+<given-names>A. E.</given-names>
+<surname>Thompson</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Anisimowicz</surname>
+</string-name>, <string-name name-style="western">
+<given-names>B.</given-names>
+<surname>Miedema</surname>
+</string-name>, <string-name name-style="western">
+<given-names>W.</given-names>
+<surname>Hogg</surname>
+</string-name>, <string-name name-style="western">
+<given-names>W. P.</given-names>
+<surname>Wodchis</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Aubrey‐Bassler</surname>
+</string-name>, “<article-title>The Influence of Gender and Other Patient Characteristics on Health Care‐Seeking Behaviour: A QUALICOPC Study</article-title>,” <source>BMC Family Practice</source>
+<volume>17</volume> (<year>2016</year>): <fpage>38</fpage>.<pub-id pub-id-type="pmid">27036116</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1186/s12875-016-0440-0</pub-id><pub-id pub-id-type="pmcid">PMC4815064</pub-id></mixed-citation></ref><ref id="puh270144-bib-0033"><label>33</label><mixed-citation publication-type="journal" id="puh270144-cite-0033">
+<string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Razzaghi</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C. B.</given-names>
+<surname>Forrest</surname>
+</string-name>, <string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Hirabayashi</surname>
+</string-name>, et al., “<article-title>Vaccine Effectiveness Against Long COVID in Children</article-title>,” <source>Pediatrics</source>
+<volume>153</volume>, no. <issue>4</issue> (<year>2024</year>): <elocation-id>e2023064446</elocation-id>.<pub-id pub-id-type="pmid">38225804</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1542/peds.2023-064446</pub-id><pub-id pub-id-type="pmcid">PMC10979300</pub-id></mixed-citation></ref><ref id="puh270144-bib-0034"><label>34</label><mixed-citation publication-type="journal" id="puh270144-cite-0034">
+<string-name name-style="western">
+<given-names>P.</given-names>
+<surname>Gao</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Liu</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Liu</surname>
+</string-name>, “<article-title>Effect of COVID‐19 Vaccines on Reducing the Risk of Long COVID in the Real World: A Systematic Review and Meta‐Analysis</article-title>,” <source>International Journal of Environmental Research and Public Health</source>
+<volume>19</volume>, no. <issue>19</issue> (<year>2022</year>): <elocation-id>12422</elocation-id>.<pub-id pub-id-type="pmid">36231717</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3390/ijerph191912422</pub-id><pub-id pub-id-type="pmcid">PMC9566528</pub-id></mixed-citation></ref><ref id="puh270144-bib-0035"><label>35</label><mixed-citation publication-type="journal" id="puh270144-cite-0035">
+<string-name name-style="western">
+<given-names>B.</given-names>
+<surname>Oyungerel</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Paulina</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Justin</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Kylie</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>G.</given-names>
+<surname>Paul</surname>
+</string-name>, “<article-title>Effect of Covid‐19 Vaccination on Long Covid: Systematic Review</article-title>,” <source>BMJ Medicine</source>
+<volume>2</volume>, no. <issue>1</issue> (<year>2023</year>): <elocation-id>e000385</elocation-id>.<pub-id pub-id-type="pmid">36936268</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1136/bmjmed-2022-000385</pub-id><pub-id pub-id-type="pmcid">PMC9978692</pub-id></mixed-citation></ref><ref id="puh270144-bib-0036"><label>36</label><mixed-citation publication-type="journal" id="puh270144-cite-0036">
+<string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Branley</surname>
+</string-name>, “<article-title>Long COVID Cases Will Likely Increase With Each New Wave, So Why are We Closing Clinics?</article-title>” <source>ABC News</source>, December 12, <year>2023</year>, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.abc.net.au/news/2023-12-12/long-covid-clinics-are-closing-as-us-clinic-expands/103186272" ext-link-type="uri">https://www.abc.net.au/news/2023‐12‐12/long‐covid‐clinics‐are‐closing‐as‐us‐clinic‐expands/103186272</ext-link>.</mixed-citation></ref><ref id="puh270144-bib-0037"><label>37</label><mixed-citation publication-type="miscellaneous" id="puh270144-cite-0037">
+<collab collab-type="authors">Australian Institute of Health and Welfare</collab>
+, <article-title>Australia's Youth</article-title>, (<year>2021</year>), accessed October 13, 2025, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.aihw.gov.au/reports/children-youth/australias-youth" ext-link-type="uri">https://www.aihw.gov.au/reports/children-youth/australias-youth</ext-link>.</mixed-citation></ref><ref id="puh270144-bib-0038"><label>38</label><mixed-citation publication-type="journal" id="puh270144-cite-0038">
+<string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Petker</surname>
+</string-name> and <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Ogden</surname>
+</string-name>, “<article-title>Patients' Experiences of Living With Long Covid and Their Beliefs About the Role of Psychology in Their Condition</article-title>,” <source>Journal of Health Psychology</source> (<year>2025</year>): <elocation-id>13591053251325112</elocation-id>.<pub-id pub-id-type="pmid">40091647</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1177/13591053251325112</pub-id><pub-id pub-id-type="pmcid">PMC12618729</pub-id></mixed-citation></ref><ref id="puh270144-bib-0039"><label>39</label><mixed-citation publication-type="journal" id="puh270144-cite-0039">
+<string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Burton</surname>
+</string-name>, <string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Aughterson</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Fancourt</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>K. E. J.</given-names>
+<surname>Philip</surname>
+</string-name>, “<article-title>Factors Shaping the Mental Health and Well‐Being of People Experiencing Persistent COVID‐19 Symptoms or ‘Long COVID’: Qualitative Study</article-title>,” <source>BJPsych Open</source>
+<volume>8</volume>, no. <issue>2</issue> (<year>2022</year>): <elocation-id>e72</elocation-id>.<pub-id pub-id-type="pmid">35307048</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1192/bjo.2022.38</pub-id><pub-id pub-id-type="pmcid">PMC8987646</pub-id></mixed-citation></ref><ref id="puh270144-bib-0040"><label>40</label><mixed-citation publication-type="journal" id="puh270144-cite-0040">
+<string-name name-style="western">
+<given-names>V. E.</given-names>
+<surname>Di Mattei</surname>
+</string-name>, <string-name name-style="western">
+<given-names>G.</given-names>
+<surname>Perego</surname>
+</string-name>, <string-name name-style="western">
+<given-names>F.</given-names>
+<surname>Milano</surname>
+</string-name>, <string-name name-style="western">
+<given-names>T. E.</given-names>
+<surname>Hill</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>S. A.</given-names>
+<surname>Harari</surname>
+</string-name>, “<article-title>The Curious Incident of Long COVID Symptoms, From an Imaginary Condition to a Recognised Syndrome: A “Small Victory”</article-title>,” <source>European Respiratory Journal</source>
+<volume>59</volume>, no. <issue>6</issue> (<year>2022</year>): <elocation-id>2200653</elocation-id>.<pub-id pub-id-type="pmid">35487533</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1183/13993003.00653-2022</pub-id><pub-id pub-id-type="pmcid">PMC9245190</pub-id></mixed-citation></ref><ref id="puh270144-bib-0041"><label>41</label><mixed-citation publication-type="book" id="puh270144-cite-0041">
+<string-name name-style="western">
+<given-names>E.</given-names>
+<surname>Ladds</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Rushforth</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Wieringa</surname>
+</string-name>, et al., <source>Persistent Symptoms After Covid‐19: Qualitative Study of 114 “Long Covid” Patients and Draft Quality Principles for Services</source> (<publisher-name>BMC Health Services Research</publisher-name>, <year>2020</year>).<pub-id pub-id-type="doi" assigning-authority="pmc">10.1186/s12913-020-06001-y</pub-id><pub-id pub-id-type="pmcid">PMC7750006</pub-id><pub-id pub-id-type="pmid">33342437</pub-id></mixed-citation></ref><ref id="puh270144-bib-0042"><label>42</label><mixed-citation publication-type="journal" id="puh270144-cite-0042">
+<string-name name-style="western">
+<given-names>T. C.</given-names>
+<surname>Sorrell</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Hensher</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Sanci</surname>
+</string-name>, “<article-title>Long COVID in Australia: Achieving Equitable Access to Supportive Health Care</article-title>,” <source>Medical Journal of Australia</source>
+<volume>218</volume> (<year>2023</year>): <fpage>455</fpage>–<lpage>457</lpage>.<pub-id pub-id-type="pmid">37164340</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.5694/mja2.51950</pub-id></mixed-citation></ref><ref id="puh270144-bib-0043"><label>43</label><mixed-citation publication-type="journal" id="puh270144-cite-0043">
+<string-name name-style="western">
+<given-names>M. J. L.</given-names>
+<surname>Scoullar</surname>
+</string-name>, <string-name name-style="western">
+<given-names>G.</given-names>
+<surname>Khoury</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S. S.</given-names>
+<surname>Majumdar</surname>
+</string-name>, <string-name name-style="western">
+<given-names>E.</given-names>
+<surname>Tippett</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>B. S.</given-names>
+<surname>Crabb</surname>
+</string-name>, “<article-title>Towards a Cure for Long COVID: The Strengthening Case for Persistently Replicating SARS‐CoV‐2 as a Driver of Post‐Acute Sequelae of COVID‐19</article-title>,” <source>Medical Journal of Australia</source>
+<volume>221</volume>, no. <issue>11</issue> (<year>2024</year>): <fpage>587</fpage>–<lpage>590</lpage>.<pub-id pub-id-type="pmid">39580703</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.5694/mja2.52517</pub-id><pub-id pub-id-type="pmcid">PMC11625527</pub-id></mixed-citation></ref><ref id="puh270144-bib-0044"><label>44</label><mixed-citation publication-type="book" id="puh270144-cite-0044">
+<string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Hellard</surname>
+</string-name>, <string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Gibney</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Stoové</surname>
+</string-name>, <string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Marinkovic Chavez</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Wilkinson</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Heath</surname>
+</string-name>, “<article-title>The Optimise Study: A Rapid Survey Examining Frequency, Impacts of Long COVID and Associated Concerns</article-title>,” <publisher-name>Burnet Institute</publisher-name>, published<year>2022</year>, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://optimisecovid.com.au/study-findings/" ext-link-type="uri">https://optimisecovid.com.au/study‐findings/</ext-link>.</mixed-citation></ref><ref id="puh270144-bib-0045"><label>45</label><mixed-citation publication-type="journal" id="puh270144-cite-0045">
+<string-name name-style="western">
+<given-names>A. M.</given-names>
+<surname>O'Hare</surname>
+</string-name>, <string-name name-style="western">
+<given-names>E. K.</given-names>
+<surname>Vig</surname>
+</string-name>, <string-name name-style="western">
+<given-names>T. J.</given-names>
+<surname>Iwashyna</surname>
+</string-name>, et al., “<article-title>Complexity and Challenges of the Clinical Diagnosis and Management of Long COVID</article-title>,” <source>JAMA Network Open</source>
+<volume>5</volume>, no. <issue>11</issue> (<year>2022</year>): <elocation-id>e2240332</elocation-id>.<pub-id pub-id-type="pmid">36326761</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1001/jamanetworkopen.2022.40332</pub-id><pub-id pub-id-type="pmcid">PMC9634500</pub-id></mixed-citation></ref><ref id="puh270144-bib-0046"><label>46</label><mixed-citation publication-type="book" id="puh270144-cite-0046">
+<string-name name-style="western">
+<given-names>E.</given-names>
+<surname>Paul</surname>
+</string-name> and <string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Fancourt</surname>
+</string-name>, <source>Health Behaviours the Month Prior to COVID‐19 Infection and the Development of Self‐Reported Long COVID and Specific Long COVID Symptoms: A Longitudinal Analysis of 1581 UK Adults</source> (<publisher-name>BMC Public Health</publisher-name>, <year>2022</year>).<pub-id pub-id-type="doi" assigning-authority="pmc">10.1186/s12889-022-14123-7</pub-id><pub-id pub-id-type="pmcid">PMC9462889</pub-id><pub-id pub-id-type="pmid">36085055</pub-id></mixed-citation></ref><ref id="puh270144-bib-0047"><label>47</label><mixed-citation publication-type="journal" id="puh270144-cite-0047">
+<string-name name-style="western">
+<given-names>U.</given-names>
+<surname>Patil</surname>
+</string-name>, <string-name name-style="western">
+<given-names>U.</given-names>
+<surname>Kostareva</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Hadley</surname>
+</string-name>, et al., “<article-title>Health Literacy, Digital Health Literacy, and COVID‐19 Pandemic Attitudes and Behaviors in U.S. College Students: Implications for Interventions</article-title>,” <source>International Journal of Environmental Research and Public Health</source>
+<volume>18</volume>, no. <issue>6</issue> (<year>2021</year>): <fpage>3301</fpage>.<pub-id pub-id-type="pmid">33806763</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3390/ijerph18063301</pub-id><pub-id pub-id-type="pmcid">PMC8004744</pub-id></mixed-citation></ref><ref id="puh270144-bib-0048"><label>48</label><mixed-citation publication-type="journal" id="puh270144-cite-0048">
+<string-name name-style="western">
+<given-names>M. J.</given-names>
+<surname>Silva</surname>
+</string-name> and <string-name name-style="western">
+<given-names>P.</given-names>
+<surname>Santos</surname>
+</string-name>, “<article-title>The Impact of Health Literacy on Knowledge and Attitudes Towards Preventive Strategies Against COVID‐19: A Cross‐Sectional Study</article-title>,” <source>International Journal of Environmental Research and Public Health</source>
+<volume>18</volume>, no. <issue>10</issue> (<year>2021</year>): <fpage>5421</fpage>.<pub-id pub-id-type="pmid">34069438</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3390/ijerph18105421</pub-id><pub-id pub-id-type="pmcid">PMC8159089</pub-id></mixed-citation></ref><ref id="puh270144-bib-0049"><label>49</label><mixed-citation publication-type="journal" id="puh270144-cite-0049">
+<string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Orozco</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Thomas</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Raggatt</surname>
+</string-name>, et al., “<article-title>Coping With COVID‐19: A Prospective Cohort Study on Young Australians' Anxiety and Depression Symptoms From 2020–2021</article-title>,” <source>Archives of Public Health</source>
+<volume>82</volume>, no. <issue>1</issue> (<year>2024</year>): <fpage>166</fpage>.<pub-id pub-id-type="pmid">39327590</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1186/s13690-024-01397-z</pub-id><pub-id pub-id-type="pmcid">PMC11426065</pub-id></mixed-citation></ref></ref-list></back></article></pmc-articleset>

@@ -1,0 +1,30 @@
+{
+  "pmcid": "PMC12652589",
+  "pmid": "41302639",
+  "doi": "10.3390/ijerph22111693",
+  "title": "A Predictive Model for the Development of Long COVID in Children.",
+  "abstract": "BACKGROUND/OBJECTIVES: Machine learning is an extremely important issue, considering the potential to prevent the onset of long-term complications from coronavirus disease or to ensure timely detection and effective treatment. The aim of our study was to develop an algorithm and mathematical model to predict the risk of developing long COVID in children who have had acute SARS-CoV-2 viral infection, taking into account a wide range of demographic, clinical, and laboratory parameters.\nMETHODS: We conducted a cross-sectional study involving 305 pediatric patients aged from 1 month to 18 years who had recovered from acute SARS-CoV-2 infection. To perform a detailed analysis of the factors influencing the development of long-term consequences of coronavirus disease in children, two models were created. The first model included basic demographic and clinical characteristics of the acute SARS-CoV-2 infection, as well as serum levels of vitamin D and zinc for all patients from both groups. The second model, in addition to the aforementioned parameters, also incorporated laboratory test results and included only hospitalized patients.\nRESULTS: Among 265 children, 138 patients (52.0%) developed long COVID, and the remaining 127 (48.0%) fully recovered. We included 36 risk factors of developing long COVID in children (DLCC) in model 1, including non-hospitalized patients, and 58 predictors in model 2, excluding them. These included demographic characteristics of the children, major comorbid conditions, main symptoms and course of acute SARS-CoV-2 infection, and main parameters of complete blood count and coagulation profile. In the first model, which accounted for non-hospitalized patients, multivariate regression analysis identified obesity, a history of allergic disorders, and serum vitamin D deficiency as significant predictors of long COVID development. In the second model, limited to hospitalized patients, significant risk factors for long-term sequelae of acute SARS-CoV-2 infection included fever and the presence of ≥3 symptoms during the acute phase, a history of allergic conditions, thrombocytosis, neutrophilia, and altered prothrombin time, as determined by multivariate regression analysis. To assess the acceptability of the model as a whole, an ANOVA analysis was performed. Based on this method, it can be concluded that the model for predicting the risk of developing long COVID in children is highly acceptable, since the significance level is p < 0.001, and the model itself will perform better than a simple prediction using average values.\nCONCLUSIONS: The results of multivariate regression analysis demonstrated that the presence of a burdened comorbid background-specifically obesity and allergic pathology-fever during the acute phase of the disease or the presence of three or more symptoms, as well as laboratory abnormalities including thrombocytosis, neutrophilia, alterations in prothrombin time (either shortened or prolonged), and reduced serum vitamin D levels, are predictors of long COVID development among pediatric patients.",
+  "authors": [
+    "Vita Perestiuk",
+    "Andriy Sverstyuk",
+    "Tetyana Kosovska",
+    "Liubov Volianska",
+    "Oksana Boyarchuk"
+  ],
+  "journal": "International journal of environmental research and public health",
+  "pub_year": "2025",
+  "pub_month": "Nov",
+  "pub_day": "09",
+  "keywords": [
+    "COVID-19",
+    "adolescents",
+    "children",
+    "forecasting",
+    "long COVID",
+    "mathematical model",
+    "post-COVID syndrome"
+  ],
+  "article_types": [
+    "Journal Article"
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "pmcid": "PMC12820521",
+  "pmid": "40500151",
+  "doi": "10.3399/BJGPO.2024.0140",
+  "title": "Patient characteristics associated with clinically coded long COVID: an OpenSAFELY study using electronic health records.",
+  "abstract": "BACKGROUND: Clinically coded long COVID cases in electronic health records (EHRs) are incomplete, despite reports of rising cases of long COVID.\nAIM: To determine patient characteristics associated with clinically coded long COVID.\nDESIGN & SETTING: With the approval of NHS England, we conducted a cohort study using EHRs within the OpenSAFELY-TPP platform in England, to study patient characteristics associated with clinically coded long COVID from 29 January 2020 to 31 March 2022.\nMETHOD: We summarised the distribution of characteristics for people with clinically coded long COVID. We estimated age-sex adjusted hazard ratios (aHRs) and fully aHRs for coded long COVID. Patient characteristics included demographic factors, and health behavioural and clinical factors.\nRESULTS: Among 17 986 419 adults, 36 886 (0.21%) were clinically coded with long COVID. Patient characteristics associated with coded long COVID included female sex, younger age (aged <60 years), obesity, living in less deprived areas, ever smoking, greater consultation frequency, and history of diagnosed asthma, mental health conditions, pre-pandemic post-viral fatigue, or psoriasis. These associations were attenuated following two doses of COVID-19 vaccines compared with before vaccination. Differences in the predictors of coded long COVID between the pre-vaccination and post-vaccination cohorts may reflect the different patient characteristics in these two cohorts rather than the vaccination status. Incidence of coded long COVID was higher in those with hospitalised COVID-19 than with those with non-hospitalised COVID-19.\nCONCLUSION: We identified variation in coded long COVID by patient characteristic. Results should be interpreted with caution as long COVID was likely under-recorded in EHRs.",
+  "authors": [
+    "Yinghui Wei",
+    "Elsie Mf Horne",
+    "Rochelle Knight",
+    "Genevieve Cezard",
+    "Alex J Walker",
+    "Louis Fisher",
+    "Rachel Denholm",
+    "Kurt Taylor",
+    "Venexia Walker",
+    "Stephanie Riley",
+    "Dylan M Williams",
+    "Robert Willans",
+    "Simon Davy",
+    "Sebastian Bacon",
+    "Ben Goldacre",
+    "Amir Mehrkar",
+    "Spiros Denaxas",
+    "Felix Greaves",
+    "Richard J Silverwood",
+    "Aziz Sheikh",
+    "Nish Chaturvedi",
+    "Angela M Wood",
+    "John Macleod",
+    "Claire Steves",
+    "Jonathan Sterne"
+  ],
+  "journal": "BJGP open",
+  "pub_year": "2025",
+  "pub_month": "Dec",
+  "pub_day": "19",
+  "keywords": [
+    "COVID-19",
+    "Long COVID",
+    "SARS-CoV-2",
+    "post-acute COVID-19 syndrome"
+  ],
+  "article_types": [
+    "Journal Article"
+  ]
+}

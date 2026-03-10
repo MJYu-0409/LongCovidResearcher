@@ -1,0 +1,1296 @@
+<?xml version="1.0"  ?><!DOCTYPE pmc-articleset PUBLIC "-//NLM//DTD ARTICLE SET 2.0//EN" "https://dtd.nlm.nih.gov/ncbi/pmc/articleset/nlm-articleset-2.0.dtd"><pmc-articleset><article id="brb371278" xml:lang="en" article-type="research-article" dtd-version="1.4"><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">Brain Behav</journal-id><journal-id journal-id-type="iso-abbrev">Brain Behav</journal-id><journal-id journal-id-type="pmc-domain-id">1650</journal-id><journal-id journal-id-type="pmc-domain">brb</journal-id><journal-id journal-id-type="publisher-id">BRB3</journal-id><journal-title-group><journal-title>Brain and Behavior</journal-title></journal-title-group><issn pub-type="epub">2162-3279</issn><publisher><publisher-name>Wiley</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC12922456</article-id><article-id pub-id-type="pmcid-ver">PMC12922456.1</article-id><article-id pub-id-type="pmcaid">12922456</article-id><article-id pub-id-type="pmcaiid">12922456</article-id><article-id pub-id-type="pmid">41718450</article-id><article-id pub-id-type="doi">10.1002/brb3.71278</article-id><article-id pub-id-type="publisher-id">BRB371278</article-id><article-version article-version-type="pmc-version">1</article-version><article-categories><subj-group subj-group-type="overline"><subject>Original Article</subject></subj-group><subj-group subj-group-type="heading"><subject>Original Article</subject></subj-group></article-categories><title-group><article-title>Detecting Malingered COVID‐19 Symptoms Using the Verifiability Approach</article-title></title-group><contrib-group><contrib id="brb371278-cr-0001" contrib-type="author" corresp="yes"><name name-style="western"><surname>Ribatti</surname><given-names initials="RM">Raffaella Maria</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0001-5534-0123</contrib-id><xref rid="brb371278-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="brb371278-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref><address><email>raffaella.ribatti@uniba.it</email></address></contrib><contrib id="brb371278-cr-0002" contrib-type="author"><name name-style="western"><surname>Lanciano</surname><given-names initials="T">Tiziana</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0001-6533-1052</contrib-id><xref rid="brb371278-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="brb371278-cr-0003" contrib-type="author"><name name-style="western"><surname>Curci</surname><given-names initials="A">Antonietta</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-0932-7152</contrib-id><xref rid="brb371278-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib></contrib-group><aff id="brb371278-aff-0001">
+<label>
+<sup>1</sup>
+</label>
+<named-content content-type="organisation-division">Department of Education, Psychology, Communication Sciences</named-content>
+<institution>University of Bari Aldo Moro</institution>
+<city>Bari</city>
+<country country="IT">Italy</country>
+</aff><aff id="brb371278-aff-0002">
+<label>
+<sup>2</sup>
+</label>
+<named-content content-type="organisation-division">Department of Bioscience, Biotechnology and Environment</named-content>
+<institution>University of Bari Aldo Moro</institution>
+<city>Bari</city>
+<country country="IT">Italy</country>
+</aff><pub-date pub-type="epub"><day>20</day><month>2</month><year>2026</year></pub-date><pub-date pub-type="collection"><month>2</month><year>2026</year></pub-date><volume>16</volume><issue seq="650">2</issue><issue-id pub-id-type="pmc-issue-id">506126</issue-id><issue-id pub-id-type="doi">10.1002/brb3.v16.2</issue-id><elocation-id>e71278</elocation-id><history><date date-type="rev-recd"><day>22</day><month>11</month><year>2025</year></date><date date-type="received"><day>17</day><month>6</month><year>2025</year></date><date date-type="accepted"><day>04</day><month>2</month><year>2026</year></date></history><pub-history><event event-type="pmc-release"><date><day>20</day><month>02</month><year>2026</year></date></event><event event-type="pmc-live"><date><day>21</day><month>02</month><year>2026</year></date></event><event event-type="pmc-last-change"><date iso-8601-date="2026-02-21 10:25:15.173"><day>21</day><month>02</month><year>2026</year></date></event></pub-history><permissions><copyright-statement content-type="article-copyright">© 2026 The Author(s). <italic toggle="yes">Brain and Behavior</italic> published by Wiley Periodicals LLC.</copyright-statement><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>This is an open access article under the terms of the <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pmc-pdf" xlink:href="BRB3-16-e71278.pdf"/><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pdf" xlink:href="file:BRB3-16-e71278.pdf"/><abstract><title>ABSTRACT</title><sec id="brb371278-sec-0010"><title>Introduction:</title><p>The COVID‐19 pandemic has heightened concerns about malingering, particularly given its recognition as an occupational disease in several regions. This study evaluated the applicability of the Verifiability Approach (VA), a credibility assessment tool based on the principle that liars provide fewer verifiable details than truth tellers, to distinguish between honest reporters and malingerers of COVID‐19 infection.</p></sec><sec id="brb371278-sec-0020"><title>Methods</title><p>A total of 410 participants (51.5% female) completed an online survey via Google Forms. Participants who reported previous COVID‐19 infection (<italic toggle="yes">n</italic> = 205) were assigned to either an <italic toggle="yes">informed honest</italic> (<italic toggle="yes">n</italic> = 104) or <italic toggle="yes">not‐informed honest</italic> (<italic toggle="yes">n</italic> = 101) group, while those without prior infection (<italic toggle="yes">n</italic> = 205) were assigned to <italic toggle="yes">informed malingerers</italic> (<italic toggle="yes">n</italic> = 105) or <italic toggle="yes">not‐informed malingerers</italic> (<italic toggle="yes">n</italic> = 100) conditions. Participants in the informed condition were briefed about the VA before writing their reports.</p></sec><sec id="brb371278-sec-0030"><title>Results:</title><p>Informed honest participants provided significantly more verifiable details than both uninformed honest participants and malingerers. The number of verifiable details and the ratio of verifiable details to total details were strongly associated with honesty when participants were informed about the VA, indicating that the information Protocol enhanced diagnostic accuracy. Perceived success was higher among honest participants, particularly those informed about the VA. No significant effects emerged for reported long COVID or fabricated symptoms, likely due to limited variability and low symptom familiarity.</p></sec><sec id="brb371278-sec-0040"><title>Conclusion:</title><p>The findings support the VA's validity in distinguishing genuine from feigned symptom reports in health‐related contexts. However, the fully online design, lack of factual verification, and potential for misreporting represent key limitations. Future studies should replicate these results in face‐to‐face or ecologically valid settings and extend the VA framework to the study of symptom dissimulation.</p></sec></abstract><abstract id="brb371278-abs-0001" abstract-type="graphical"><p>Using the verifiability approach, this study shows that genuine COVID‐19 reports include more verifiable details than fabricated ones. Informing participants about the method further increases accuracy. Results highlight new possibilities for detecting deceptive symptom presentations across health‐related, clinical, and forensic settings.
+<boxed-text position="anchor" content-type="graphic" orientation="portrait"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-1" orientation="portrait" xlink:href="BRB3-16-e71278-g004.jpg"/></boxed-text>
+</p></abstract><kwd-group kwd-group-type="author-generated"><kwd id="brb371278-kwd-0001">COVID‐19</kwd><kwd id="brb371278-kwd-0002">malingering</kwd><kwd id="brb371278-kwd-0003">noncredible symptom reports</kwd><kwd id="brb371278-kwd-0004">symptom validity</kwd><kwd id="brb371278-kwd-0005">verifiability approach</kwd></kwd-group><counts><fig-count count="4"/><table-count count="4"/><page-count count="13"/><word-count count="9355"/></counts><custom-meta-group><custom-meta><meta-name>pmc-status-qastatus</meta-name><meta-value>0</meta-value></custom-meta><custom-meta><meta-name>pmc-status-live</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-status-embargo</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-status-released</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-access</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-legally-suppressed</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-pdf</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-supplement</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-pdf-only</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-suppress-copyright</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-real-version</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-scanned-article</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-in-epmc</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-license-ref</meta-name><meta-value>CC BY</meta-value></custom-meta><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>February 2026</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:6.7.1 mode:remove_FC converted:20.02.2026</meta-value></custom-meta></custom-meta-group></article-meta></front><body><sec id="brb371278-sec-0050"><label>1</label><title>Introduction</title><p>Malingering is the deliberate fabrication or exaggeration of symptoms for external gains, such as avoiding work, legal consequences, or obtaining financial or drug‐related benefits (American Psychiatric Association <xref rid="brb371278-bib-0005" ref-type="bibr">2013</xref>). It presents a significant challenge, costing over $5 billion annually in medical and legal expenses (Gouvier et al. <xref rid="brb371278-bib-0036" ref-type="bibr">2003</xref>), and strains justice and mental health systems by diverting resources from those who genuinely need them (Rogers and Bender <xref rid="brb371278-bib-0084" ref-type="bibr">2018</xref>; Resnick and Knoll <xref rid="brb371278-bib-0081" ref-type="bibr">2018</xref>).</p><p>Malingering rates vary by context and method, from about 5% in clinical samples (Martin and Schroeder <xref rid="brb371278-bib-0058" ref-type="bibr">2020</xref>; Schroeder et al. <xref rid="brb371278-bib-0090" ref-type="bibr">2022</xref>) to over 50% in forensic settings (Chafetz et al. <xref rid="brb371278-bib-0026" ref-type="bibr">2007</xref>; Grills and Armistad‐Jehle <xref rid="brb371278-bib-0037" ref-type="bibr">2016</xref>). This behavior is not limited to offenders. Studies have shown that many individuals in the general population admit to feigning symptoms (Walczyk et al. <xref rid="brb371278-bib-0111" ref-type="bibr">2018</xref>; Dandachi‐FitzGerald et al. <xref rid="brb371278-bib-0030" ref-type="bibr">2020</xref>). For example, 34% reported doing so, often for minor ailments like headaches or fevers (Dandachi‐FitzGerald and Merckelbach <xref rid="brb371278-bib-0029" ref-type="bibr">2013</xref>). Among psychology students, 41% admitted to malingering for academic or personal gain (Merten and Giger <xref rid="brb371278-bib-0062" ref-type="bibr">2018</xref>; Boskovic <xref rid="brb371278-bib-0016" ref-type="bibr">2020</xref>).</p><p>Common motives for malingering include taking sick leave (36.3%), receiving social security benefits (20.6%), filing insurance claims (15%), and taking extended vacations (11.9%; Puente‐López et al. <xref rid="brb371278-bib-0078" ref-type="bibr">2023</xref>). Sick leave is the top reason among both the general population (42.4%) and students (38.1%; Puente‐López et al. <xref rid="brb371278-bib-0078" ref-type="bibr">2023</xref>).</p><p>Detecting malingering remains challenging. Unstructured methods such as clinical interviews often fail to reliably identify deception, even among experienced professionals (Dandachi‐FitzGerald et al. <xref rid="brb371278-bib-0031" ref-type="bibr">2017</xref>; Resnick and Harris <xref rid="brb371278-bib-0080" ref-type="bibr">2002</xref>; Rosen and Phillips <xref rid="brb371278-bib-0087" ref-type="bibr">2004</xref>). To improve accuracy, researchers have developed structured interviews (Rogers et al. <xref rid="brb371278-bib-0083" ref-type="bibr">1992</xref>), self‐report screening tools (Smith and Burger <xref rid="brb371278-bib-0093" ref-type="bibr">1997</xref>; Merten et al. <xref rid="brb371278-bib-0063" ref-type="bibr">2016</xref>), response style analyses (Rogers and Vitacco <xref rid="brb371278-bib-0086" ref-type="bibr">2002</xref>), technological methods (Monaro et al. <xref rid="brb371278-bib-0064" ref-type="bibr">2018</xref>), and verbal credibility assessment techniques (Akehurst et al. <xref rid="brb371278-bib-0002" ref-type="bibr">2017</xref>). Given the inherently deceptive nature of malingering, recent studies highlight the potential of integrating advances in lie detection (Walczyk et al. <xref rid="brb371278-bib-0111" ref-type="bibr">2018</xref>).</p><sec id="brb371278-sec-0060"><label>1.1</label><title>Lessons From Verbal Deception Detection: The Verifiability Approach</title><p>Deception research has examined various cues, with verbal indicators proving more reliable than nonverbal ones, especially in high‐stakes settings (Bond and DePaulo <xref rid="brb371278-bib-0015" ref-type="bibr">2006</xref>; Curci et al., <xref rid="brb371278-bib-0027" ref-type="bibr">2019</xref>, Porter and ten Brinke <xref rid="brb371278-bib-0077" ref-type="bibr">2010</xref>; Vrij <xref rid="brb371278-bib-0102" ref-type="bibr">2008</xref>). Truth‐tellers typically give richer, more detailed accounts, while liars provide less specific information (Amado et al. <xref rid="brb371278-bib-0004" ref-type="bibr">2016</xref>; DePaulo et al. <xref rid="brb371278-bib-0032" ref-type="bibr">2003</xref>; Masip et al. <xref rid="brb371278-bib-0059" ref-type="bibr">2005</xref>; Oberlader et al. <xref rid="brb371278-bib-0074" ref-type="bibr">2016</xref>; Vrij <xref rid="brb371278-bib-0101" ref-type="bibr">2005</xref>, <xref rid="brb371278-bib-0102" ref-type="bibr">2008</xref>). Deceivers often add numerous details to appear credible but typically provide fewer genuine specifics due to the cognitive effort required for fabrication (Bell and Loftus <xref rid="brb371278-bib-0011" ref-type="bibr">1989</xref>; Hartwig et al. <xref rid="brb371278-bib-0040" ref-type="bibr">2007</xref>). To avoid contradictions, especially when verification is expected, they tend to omit verifiable false information (Masip and Herrero <xref rid="brb371278-bib-0060" ref-type="bibr">2013</xref>; Nahari et al. <xref rid="brb371278-bib-0066" ref-type="bibr">2014c</xref>).</p><p>The verifiability approach (VA; Nahari, 2018) builds on the observation that liars tend to avoid providing details that could be independently checked. It distinguishes between verifiable (details linked to specific people, places, or times) and unverifiable information. While truth‐tellers typically include both types of details in their accounts, liars are more likely to rely on unverifiable information to reduce the risk of being exposed (Strömwall et al. <xref rid="brb371278-bib-0094" ref-type="bibr">2006</xref>; Vrij et al. <xref rid="brb371278-bib-0108" ref-type="bibr">2010</xref>). Furthermore, explaining the VA through an “Information Protocol” improves its accuracy in detecting deception (Harvey et al. <xref rid="brb371278-bib-0041" ref-type="bibr">2017a</xref>; Nahari et al. <xref rid="brb371278-bib-0072" ref-type="bibr">2014b</xref>; Nahari and Pazuelo <xref rid="brb371278-bib-0067" ref-type="bibr">2015</xref>; Vrij et al. <xref rid="brb371278-bib-0109" ref-type="bibr">2016</xref>). Informed truth‐tellers increase verifiable details, while deceivers do not—likely due to a lack of genuine information. This makes the protocol a key element of the VA (Nahari <xref rid="brb371278-bib-0065" ref-type="bibr">2019</xref>). The ratio of verifiable to total details reliably distinguishes liars from truth‐tellers, with higher ratios consistently linked to truthful accounts (Nahari et al. <xref rid="brb371278-bib-0072" ref-type="bibr">2014b</xref>).</p><p>The VA has been successfully applied across multiple domains, including law enforcement (Nahari and Vrij; Nahari et al. <xref rid="brb371278-bib-0071" ref-type="bibr">2014a</xref>, <xref rid="brb371278-bib-0072" ref-type="bibr">2014b</xref>; Vernham et al. <xref rid="brb371278-bib-0100" ref-type="bibr">2020</xref>), insurance claims (Harvey et al. <xref rid="brb371278-bib-0041" ref-type="bibr">2017a</xref>; Harvey et al. <xref rid="brb371278-bib-0042" ref-type="bibr">2017b</xref>; Nahari et al. <xref rid="brb371278-bib-0066" ref-type="bibr">2014c</xref>; Vrij et al. <xref rid="brb371278-bib-0109" ref-type="bibr">2016</xref>), airport security (Jupe et al. <xref rid="brb371278-bib-0047" ref-type="bibr">2017</xref>; Kleinberg et al. <xref rid="brb371278-bib-0048" ref-type="bibr">2017</xref>), occupational settings (Jupe et al. <xref rid="brb371278-bib-0046" ref-type="bibr">2016</xref>), and malingering detection (Boskovic et al. <xref rid="brb371278-bib-0018" ref-type="bibr">2017</xref>; <xref rid="brb371278-bib-0019" ref-type="bibr">2019a</xref>; Boskovic et al. <xref rid="brb371278-bib-0020" ref-type="bibr">2019b</xref>; Acka et al. <xref rid="brb371278-bib-0001" ref-type="bibr">2020</xref>).</p><p>Research by Boskovic et al. <xref rid="brb371278-bib-0018" ref-type="bibr">2017</xref>, <xref rid="brb371278-bib-0019" ref-type="bibr">2019a</xref>, <xref rid="brb371278-bib-0020" ref-type="bibr">2019b</xref>) on the VA in cases of noncredible pain and PTSD symptom presentations has yielded important insights. Their findings suggest that individuals feigning symptoms often provide a high number of unverifiable details but few that can be objectively confirmed. However, when malingerers were prompted with an information protocol, they produced longer statements than truth‐tellers by fabricating false verifiable details (Boskovic et al. <xref rid="brb371278-bib-0018" ref-type="bibr">2017</xref>). This indicates that explicit warnings about verification might lead both genuine and feigned accounts to become equally elaborate, potentially complicating typical deception detection patterns.</p><p>Despite this, Nahari (<xref rid="brb371278-bib-0065" ref-type="bibr">2019</xref>) highlights the inherent challenges of applying the VA to malingering, particularly because many symptoms are intangible and lack direct documentation. Unlike observable physical signs, verifiable details often rely on recorded or witnessed evidence, which is inherently more challenging to obtain when symptoms are fabricated or subjective. However, symptom reports frequently include verifiable behaviors such as doctor visits or medication use (Boskovic et al. <xref rid="brb371278-bib-0017" ref-type="bibr">2018</xref>), which can serve as objective points of reference. The concept of “compelling inconsistencies” (Bianchini et al. <xref rid="brb371278-bib-0013" ref-type="bibr">2005</xref>) further underscores how verifiable evidence can expose deception. For instance, if a patient claiming disability is later observed working, and witnesses or official records corroborate this contradiction, it provides substantial proof of malingering—a phenomenon often highlighted in the media. While commonly feigned symptoms like fever, cough, or fatigue are subjective and difficult to verify directly, associated actions, such as doctor appointments, medication purchases, test results, or observable behaviors, can offer potential verifiable details (Sherman et al., 2020). This approach is particularly auspicious in the context of COVID‐19, where symptom exaggeration or fabrication can be cross‐referenced with verifiable medical records and testing data.</p></sec><sec id="brb371278-sec-0070"><label>1.2</label><title>COVID‐19 and Long‐COVID Symptoms</title><p>COVID‐19, first identified in Wuhan, China, in late 2019, primarily causes respiratory symptoms like fever and cough. Declared a pandemic by the WHO in March 2020, it led to lockdowns and social distancing, which adversely affected mental health. These measures contributed to depression, sleep problems, anxiety, PTSD symptoms, memory issues, and emotional difficulties (Gualano et al. <xref rid="brb371278-bib-0038" ref-type="bibr">2020</xref>; Brooks et al. <xref rid="brb371278-bib-0022" ref-type="bibr">2020</xref>; Taylor et al. <xref rid="brb371278-bib-0099" ref-type="bibr">2020</xref>; Lanciano et al. <xref rid="brb371278-bib-0050" ref-type="bibr">2024</xref>; Mangiulli et al. <xref rid="brb371278-bib-0056" ref-type="bibr">2022</xref>; Ribatti et al. <xref rid="brb371278-bib-0082" ref-type="bibr">2022</xref>; Bendau et al. <xref rid="brb371278-bib-0012" ref-type="bibr">2021</xref>; Qiu et al. <xref rid="brb371278-bib-0079" ref-type="bibr">2021</xref>; Talevi et al. <xref rid="brb371278-bib-0096" ref-type="bibr">2020</xref>; Wang et al. <xref rid="brb371278-bib-0112" ref-type="bibr">2021</xref>; Zhang and Ma <xref rid="brb371278-bib-0114" ref-type="bibr">2020</xref>). Fear took many forms, including separation anxiety and infection fears, sometimes causing obsessive behaviors and social withdrawal (Buccolo et al. <xref rid="brb371278-bib-0023" ref-type="bibr">2020</xref>; Lanciano et al. <xref rid="brb371278-bib-0051" ref-type="bibr">2020</xref>; Banerjee and Rai <xref rid="brb371278-bib-0008" ref-type="bibr">2020</xref>). COVID‐19 patients show increased post‐traumatic stress, depression, and altered social perception compared to controls (Taurisano et al. <xref rid="brb371278-bib-0098" ref-type="bibr">2022</xref>).</p><p>Studies have documented persistent neuropsychiatric symptoms, commonly referred to as “Long‐COVID,” including fatigue, cognitive dysfunction, sleep disturbances, and mood and anxiety disorders following the acute phase of the illness (Badenoch et al. <xref rid="brb371278-bib-0006" ref-type="bibr">2022</xref>; Hampshire et al. <xref rid="brb371278-bib-0039" ref-type="bibr">2021</xref>). Persistent symptoms often extend beyond a year post‐infection, featuring dysexecutive syndrome, inattention, and motor coordination issues (Helms et al. <xref rid="brb371278-bib-0043" ref-type="bibr">2020</xref>). These cognitive impairments frequently co‐occur with anxiety and depression (Almeria et al. <xref rid="brb371278-bib-0003" ref-type="bibr">2020</xref>). Essential workers, particularly healthcare personnel, have faced disproportionately high infection rates due to increased exposure risk (Ladhani et al. <xref rid="brb371278-bib-0049" ref-type="bibr">2020</xref>; Baker et al. <xref rid="brb371278-bib-0007" ref-type="bibr">2021</xref>; Carlsten et al. <xref rid="brb371278-bib-0025" ref-type="bibr">2021</xref>). Other sectors, such as transportation and food services, also experienced significant exposure (Sears et al. <xref rid="brb371278-bib-0092" ref-type="bibr">2020</xref>). Beyond the physical health impact, the pandemic has imposed significant psychological stress on workers, potentially impairing work productivity (AronssHernández et al. <xref rid="brb371278-bib-0044" ref-type="bibr">2021</xref>; Jamal et al. <xref rid="brb371278-bib-0045" ref-type="bibr">2021</xref>). Consequently, understanding trends in absenteeism and presenteeism is critical, with factors such as working conditions, job satisfaction, and employee well‐being playing pivotal roles in addressing these challenges (Barmby et al. <xref rid="brb371278-bib-0009" ref-type="bibr">2002</xref>; Beemsterboer et al. <xref rid="brb371278-bib-0010" ref-type="bibr">2009</xref>; Livanos and Zangelidis <xref rid="brb371278-bib-0054" ref-type="bibr">2013</xref>; Lusinyan and Bonato <xref rid="brb371278-bib-0055" ref-type="bibr">2007</xref>).</p><p>Research has shown an increase in sick leave among healthcare workers during the pandemic (Calvo‐Bonacho et al. <xref rid="brb371278-bib-0024" ref-type="bibr">2020</xref>). COVID‐19's classification as an occupational disease (Carlsten et al. <xref rid="brb371278-bib-0021" ref-type="bibr">2021</xref>) has raised concerns about malingering. In Italy, INAIL officially recognizes COVID‐19 infection as a workplace injury under Decree Law No. 18 (March 17, 2020), equating it with accidents. Marinaccio et al. (<xref rid="brb371278-bib-0057" ref-type="bibr">2020</xref>) found that 19.4% of cases were workplace‐acquired, primarily in high‐risk sectors such as healthcare, social care, meat processing, retail, postal services, pharmacies, and cleaning. Additionally, LeGoff et al. (<xref rid="brb371278-bib-0052" ref-type="bibr">2023</xref>) assessed the utility of neurocognitive screening in managing post–COVID–19 symptoms and facilitating employees' return to work. Although malingering was not the primary focus, the study revealed that 48% of participants provided invalid responses and demonstrated noncredible effort on psychological and cognitive assessments.</p><p>The ambiguity and persistence of symptoms complicate the validation of health claims, thereby increasing the risk of symptom exaggeration or fabrication, which may be aimed at prolonging sick leave or obtaining benefits. Therefore, addressing malingering in the context of COVID‐19 is critical to distinguishing genuine health concerns from false claims.</p></sec></sec><sec id="brb371278-sec-0080"><label>2</label><title>Methods</title><sec id="brb371278-sec-0090"><label>2.1</label><title>Aims and Hypotheses</title><p>The present study aims to evaluate the effectiveness of the verifiability approach (VA; Nahari et al. <xref rid="brb371278-bib-0071" ref-type="bibr">2014a</xref>, <xref rid="brb371278-bib-0072" ref-type="bibr">2014b</xref>) in accurately detecting malingering of COVID‐19 infection. Given the global impact of COVID‐19 and the limited empirical research on malingering related to it, understanding potential symptom exaggeration or feigning for external gains is crucial. This study addresses this gap and explores innovative methods for malingering detection.</p><p>Building on the work of Nahari et al. (<xref rid="brb371278-bib-0071" ref-type="bibr">2014a</xref>, <xref rid="brb371278-bib-0072" ref-type="bibr">2014b</xref>), Nahari and Pazuelo (<xref rid="brb371278-bib-0067" ref-type="bibr">2015</xref>), and Boskovic et al. (<xref rid="brb371278-bib-0018" ref-type="bibr">2017</xref>, <xref rid="brb371278-bib-0017" ref-type="bibr">2018</xref>, <xref rid="brb371278-bib-0019" ref-type="bibr">2019a</xref>), we conduct a comparative analysis between self‐reports of individuals who contracted COVID‐19 (honest participants) and those instructed to simulate infection (malingerers). We also examine whether informing participants about the VA mechanism helps distinguish between truthful and deceptive reports (Nahari et al. <xref rid="brb371278-bib-0072" ref-type="bibr">2014b</xref>). Additionally, participants were asked about their experiences with genuine or simulated long‐COVID symptoms.</p><p>Consequently, the hypotheses are formulated as follows:
+<list list-type="simple" id="brb371278-list-0001"><list-item><p>H1: Informed honest participants are expected to report a greater number of verifiable details compared to both not‐informed honest participants and both instructed and not‐instructed malingerers. Conversely, malingerers will not demonstrate significant differences in the endorsement of verifiable information.</p></list-item><list-item><p>H2: Informed honest participants will provide a higher ratio of verifiable details to total details compared to other conditions.</p></list-item><list-item><p>H3: Informed honest participants would report a higher perceived success in convincing the experimenter they were honest compared to both informed and not‐informed malingerers.</p></list-item><list-item><p>H4: Malingerers would report a higher number of bogus long‐COVID symptoms compared to honest participants.</p></list-item></list>
+</p></sec><sec id="brb371278-sec-0100"><label>2.2</label><title>Design and Participants</title><p>We used G*Power (Faul et al. <xref rid="brb371278-bib-0035" ref-type="bibr">2007</xref>) to conduct a priori power analysis for an ANOVA with four groups, assuming <italic toggle="yes">α</italic> = 0.05, a power of 0.95, and an effect size of <italic toggle="yes">f</italic> = 0.25, which corresponds to a sample size of approximately 400 participants. An initial sample of 420 participants was recruited for the study. After an initial screening, 10 participants were excluded from the study due to admitting to malingering or providing insufficient effort in their descriptions (fewer than five details). A total sample of 410 participants (51.5% women) was recruited. The average age of the sample was 33.11 years (<italic toggle="yes">SD </italic>= 12.68, range = 18–67), with an average level of education of 14.20 years (<italic toggle="yes">SD </italic>= 2.62; range = 8–22). For further details, see Table <xref rid="brb371278-tbl-0001" ref-type="table">1</xref>.</p><table-wrap position="float" id="brb371278-tbl-0001" content-type="TABLE" orientation="portrait"><label>TABLE 1</label><caption><p>Description of the study population.</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><thead><tr style="border-bottom:solid 1px #000000"><th align="left" rowspan="1" colspan="1">Variable</th><th align="center" rowspan="1" colspan="1">Total sample</th><th align="center" rowspan="1" colspan="1">Informed honests</th><th align="center" rowspan="1" colspan="1">Not‐informed honests</th><th align="center" rowspan="1" colspan="1">Informed malingerers</th><th align="center" rowspan="1" colspan="1">Not‐ informed malingerers</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">
+<italic toggle="yes">N</italic> (%)</td><td align="center" rowspan="1" colspan="1">410 (100%)</td><td align="center" rowspan="1" colspan="1">104 (25.4%)</td><td align="center" rowspan="1" colspan="1">101 (24.6%)</td><td align="center" rowspan="1" colspan="1">105 (25.6%)</td><td align="center" rowspan="1" colspan="1">100 (24.4%)</td></tr><tr><td align="left" rowspan="1" colspan="1">Women, <italic toggle="yes">n</italic> (%)</td><td align="center" rowspan="1" colspan="1">211 (51.5%)</td><td align="center" rowspan="1" colspan="1">55 (52.9%)</td><td align="center" rowspan="1" colspan="1">52 (51.5%)</td><td align="center" rowspan="1" colspan="1">53 (50.5%)</td><td align="center" rowspan="1" colspan="1">51 (51%)</td></tr><tr><td align="left" rowspan="1" colspan="1">Age, M (SD)</td><td align="center" rowspan="1" colspan="1">33.11 (12.68)</td><td align="center" rowspan="1" colspan="1">29.66 (9.84)</td><td align="center" rowspan="1" colspan="1">33.00 (11.97)</td><td align="center" rowspan="1" colspan="1">34.27 (14.68)</td><td align="center" rowspan="1" colspan="1">35.55 (13.21)</td></tr><tr><td align="left" rowspan="1" colspan="1">Education (years), M (SD)</td><td align="center" rowspan="1" colspan="1">14.20 (2.62)</td><td align="center" rowspan="1" colspan="1">14.32 (2.12)</td><td align="center" rowspan="1" colspan="1">14.71 (2.37)</td><td align="center" rowspan="1" colspan="1">13.64 (2.28)</td><td align="center" rowspan="1" colspan="1">13.61 (2.57)</td></tr></tbody></table><permissions><copyright-holder>John Wiley &amp; Sons, Ltd.</copyright-holder></permissions></table-wrap><p>The study was conducted between July 2022 and January 2023. The entire procedure was conducted online using a Google Forms survey. Initially, the researchers collected data from a cohort of 200 participants sourced from the experimenters' acquaintances based on the scrutinizing questions. Subsequent participants were then recruited via social networks (Facebook and Instagram) and stratified based on their self‐reported COVID‐19 status to ensure an even distribution across both honest and malingerer categories.</p><p>The study was approved by the Ethical Committee of the University of Bari and conducted in accordance with the Declaration of Helsinki (No. ET‐21‐16).</p></sec><sec id="brb371278-sec-0110"><label>2.3</label><title>Materials and Procedure</title><p>The study employed a 2 × 2 between‐subjects design with condition (honest vs. malingerer) and information (informed vs. not‐informed) as factors, and the number of verifiable details and the verifiable details/total details ratio as dependent variables.</p><p>A detailed description of the experimental protocol is provided in Supporting Information S <xref rid="brb371278-supinfo-0001" ref-type="">1</xref>. Our methodology replicated Nahari et al. (<xref rid="brb371278-bib-0072" ref-type="bibr">2014b</xref>) with adjustments: the study was conducted in Italy (not Israel), without additional incentives for credible statements, and participants responded in Italian. Although no strict time limit was imposed, participants completed the task within 15 min. We introduced an exclusion criterion for noncompliance with instructions and included a post‐task question assessing participants' perceived success (see Nahari et al. 2014) in convincing the experimenter they were honest, serving as a manipulation check given the challenge deceivers face in fabricating convincing lies (Walczyk et al. <xref rid="brb371278-bib-0110" ref-type="bibr">2014</xref>). Finally, participants were asked about the experience of genuine or simulated long‐COVID symptoms.</p><p>Upon providing informed consent and answering some demographic questions, participants accessed the study via a Google Forms link while the experimenter was connected via video call.</p><p>First, participants were asked whether they had ever tested positive for COVID‐19. Those who disclosed having experienced COVID‐19 (<italic toggle="yes">n</italic> = 205) were randomly categorized into two groups: informed honest (<italic toggle="yes">n</italic> = 104) and not‐informed honest (<italic toggle="yes">n</italic> = 101). At the same time, those reporting that they never had COVID‐19 (<italic toggle="yes">n</italic> = 205) were randomly assigned to the conditions of informed honests (<italic toggle="yes">n</italic> = 105) and not‐informed malingerers (<italic toggle="yes">n</italic> = 100).</p><p>Participants who reported a prior COVID‐19 infection were instructed to compose an email to their physician detailing all symptoms experienced during the acute phase and any persistent symptoms related to long COVID‐19 to obtain a medical certificate for sick leave. They were also explicitly asked to provide precise information about the contagion circumstances, including medications taken, contacts during infection, and activities while infected. Participants denying prior COVID‐19 exposure completed a similar task but were asked to fabricate the information.</p><p>Those in the informed condition received an information protocol statement before the task, warning that their details might be verified (cf. Harvey et al.<xref rid="brb371278-bib-0041" ref-type="bibr">2017a</xref>, <xref rid="brb371278-bib-0042" ref-type="bibr">2017b</xref>; see Supporting Information S<xref rid="brb371278-supinfo-0001" ref-type="">3</xref>). After submitting their report, participants rated their perceived success in convincing the experimenter on a 1‐to‐7 scale. Finally, participants indicated whether they experienced (genuine or fabricated) long‐COVID symptoms (yes/no) and were shown a list of commonly reported long‐COVID symptoms from WHO (2020), alongside several bogus symptoms never documented in the literature (e.g., lack of thirst, loss of sight, genital herpes, nail fungus; see Supporting Information S<xref rid="brb371278-supinfo-0001" ref-type="">2</xref>).</p><p>Upon completing the task, participants received a debriefing that explained the true purpose of the study. Throughout, responses were mandatory before proceeding, and participants could withdraw at any time.</p></sec><sec id="brb371278-sec-0120"><label>2.4</label><title>Data Analyses</title><p>All simple effects and post hoc comparisons were conducted in <italic toggle="yes">R</italic> (version 4.4.1; <italic toggle="yes">R</italic> Core Team, 2<xref rid="brb371278-bib-0117" ref-type="bibr">2023</xref>) using the packagesfor the ANOVA and <italic toggle="yes">emmeans</italic> for the estimation of marginal means and pairwise contrasts. To control for Type I error, the Bonferroni correction was applied to all pairwise post hoc comparisons. Effect sizes (partial <italic toggle="yes">η</italic>
+<sup>2</sup>) were computed using the <italic toggle="yes">effectsize</italic> package. The reported <italic toggle="yes">p</italic> values in Section <xref rid="brb371278-sec-0140" ref-type="sec">3</xref> are adjusted accordingly.</p><p>Before conducting the main analyses, the distributional properties of the dependent variables were assessed. Skewness (&lt; 1.4) and kurtosis (≤ 2.3) indicated moderate but acceptable deviations from normality. According to simulation studies such as those of Curran et al. (<xref rid="brb371278-bib-0028" ref-type="bibr">1996</xref>), univariate skewness below 2 and kurtosis below 7 seldom distort parameter estimates or Type I error rates, particularly with large, balanced samples. Consistent with these findings and further evidence supporting ANOVA's robustness to moderate non‐normality (Blanca et al. <xref rid="brb371278-bib-0014" ref-type="bibr">2017</xref>; Schmider et al. <xref rid="brb371278-bib-0089" ref-type="bibr">2010</xref>), the assumption of approximate normality was considered satisfied.</p><p>Preliminary descriptive statistics were computed for each dependent variable. A series of two‐way analyses of variance (ANOVAs) was conducted with <italic toggle="yes">information</italic> (informed vs. not informed) and <italic toggle="yes">condition</italic> (honest vs. malingerers) as between‐subject factors. Separate ANOVAs were performed for (a) the total number of details, (b) the number of verifiable details, (c) the ratio of verifiable details to total details, (d) perceived success in the task, and (e) the number of reported long‐COVID symptoms. For each ANOVA, <italic toggle="yes">F</italic>‐values, <italic toggle="yes">p</italic> values, and <italic toggle="yes">η<sub>p</sub>
+</italic>
+<sup>2</sup> effect sizes were reported. The significance threshold was set at <italic toggle="yes">α</italic> = 0.05 (two‐tailed). Where significant interactions were detected, simple effects analyses were conducted to examine the direction of the effects. Descriptive statistics and group means are presented in the corresponding tables (Tables <xref rid="brb371278-tbl-0002" ref-type="table">2</xref>, <xref rid="brb371278-tbl-0003" ref-type="table">3</xref>, <xref rid="brb371278-tbl-0004" ref-type="table">4</xref>), and significant interactions are graphically illustrated in Figures <xref rid="brb371278-fig-0001" ref-type="fig">1</xref>, <xref rid="brb371278-fig-0002" ref-type="fig">2</xref>, <xref rid="brb371278-fig-0003" ref-type="fig">3</xref>.</p><table-wrap position="float" id="brb371278-tbl-0002" content-type="TABLE" orientation="portrait"><label>TABLE 2</label><caption><p>Descriptive statistics of the number of total details by information and condition.</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="center" span="1"/><col align="center" span="1"/><thead><tr style="border-bottom:solid 1px #000000"><th align="left" rowspan="1" colspan="1">Measures</th><th align="center" rowspan="1" colspan="1"/><th align="center" rowspan="1" colspan="1">Mean (<italic toggle="yes">SD</italic>)</th></tr></thead><tbody><tr><td rowspan="2" align="left" colspan="1">Information</td><td align="center" rowspan="1" colspan="1">Informed</td><td align="center" rowspan="1" colspan="1">20.11 (11.27)</td></tr><tr><td align="center" rowspan="1" colspan="1">Not‐informed</td><td align="center" rowspan="1" colspan="1">14.06 (9.45)</td></tr><tr><td rowspan="2" align="left" colspan="1">Condition</td><td align="center" rowspan="1" colspan="1">Honest</td><td align="center" rowspan="1" colspan="1">22.22 (11.90)</td></tr><tr><td align="center" rowspan="1" colspan="1">Malingerers</td><td align="center" rowspan="1" colspan="1">12.07 (6.50)</td></tr><tr><td rowspan="4" align="left" colspan="1">Information* Condition</td><td align="center" rowspan="1" colspan="1">Informed honest</td><td align="center" rowspan="1" colspan="1">25.33 (12.32)</td></tr><tr><td align="center" rowspan="1" colspan="1">Informed malingerers</td><td align="center" rowspan="1" colspan="1">14.94 (7.05)</td></tr><tr><td align="center" rowspan="1" colspan="1">Not‐informed honest</td><td align="center" rowspan="1" colspan="1">19.02 (10.59)</td></tr><tr><td align="center" rowspan="1" colspan="1">Not‐informed malingerers</td><td align="center" rowspan="1" colspan="1">9.06 (4.11)</td></tr></tbody></table><permissions><copyright-holder>John Wiley &amp; Sons, Ltd.</copyright-holder></permissions></table-wrap><table-wrap position="float" id="brb371278-tbl-0003" content-type="TABLE" orientation="portrait"><label>TABLE 3</label><caption><p>ANOVA for the number of verifiable details by information and conditions.</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><thead><tr style="border-bottom:solid 1px #000000"><th align="left" rowspan="1" colspan="1">Measures</th><th align="center" rowspan="1" colspan="1"/><th align="center" rowspan="1" colspan="1">Mean (SD)</th><th align="center" rowspan="1" colspan="1">
+<italic toggle="yes">F</italic>
+<sub>(1, 406)</sub>
+</th><th align="center" rowspan="1" colspan="1">
+<italic toggle="yes">p</italic>
+</th><th align="center" rowspan="1" colspan="1">Partial <italic toggle="yes">η<sup>2</sup>
+</italic>
+</th></tr></thead><tbody><tr><td rowspan="2" align="left" colspan="1">Information</td><td align="center" rowspan="1" colspan="1">Informed</td><td align="center" rowspan="1" colspan="1">6.62 (5.37)</td><td rowspan="2" align="center" colspan="1">138.23</td><td rowspan="2" align="center" colspan="1">&lt;0.001</td><td rowspan="2" align="center" colspan="1">0.25</td></tr><tr><td align="center" rowspan="1" colspan="1">Notinformed</td><td align="center" rowspan="1" colspan="1">3.52 (2.35)</td></tr><tr><td rowspan="2" align="left" colspan="1">Condition</td><td align="center" rowspan="1" colspan="1">Honest</td><td align="center" rowspan="1" colspan="1">7.86 (4.71)</td><td rowspan="2" align="center" colspan="1">422.56</td><td rowspan="2" align="center" colspan="1">&lt;0.001</td><td rowspan="2" align="center" colspan="1">0.51</td></tr><tr><td align="center" rowspan="1" colspan="1">Malingerers</td><td align="center" rowspan="1" colspan="1">2.35 (1.50)</td></tr><tr><td rowspan="4" align="left" colspan="1">Information* Condition</td><td align="center" rowspan="1" colspan="1">Informed honest</td><td align="center" rowspan="1" colspan="1">10.96 (2.67)</td><td rowspan="4" align="center" colspan="1">142.34</td><td rowspan="4" align="center" colspan="1">&lt;0.001</td><td rowspan="4" align="center" colspan="1">0.26</td></tr><tr><td align="center" rowspan="1" colspan="1">Informed malingerers</td><td align="center" rowspan="1" colspan="1">2.32 (1.48)</td></tr><tr><td align="center" rowspan="1" colspan="1">Not‐informed honest</td><td align="center" rowspan="1" colspan="1">4.66 (2.48)</td></tr><tr><td align="center" rowspan="1" colspan="1">Not‐informed malingerers</td><td align="center" rowspan="1" colspan="1">2.37 (1.51)</td></tr></tbody></table><permissions><copyright-holder>John Wiley &amp; Sons, Ltd.</copyright-holder></permissions></table-wrap><table-wrap position="float" id="brb371278-tbl-0004" content-type="TABLE" orientation="portrait"><label>TABLE 4</label><caption><p>ANOVA for the ratio scores by information and condition.</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><thead><tr style="border-bottom:solid 1px #000000"><th align="left" rowspan="1" colspan="1">Measures</th><th align="center" rowspan="1" colspan="1"/><th align="center" rowspan="1" colspan="1">Mean (SD)</th><th align="center" rowspan="1" colspan="1">
+<italic toggle="yes">F</italic>
+<sub>(1, 406)</sub>
+</th><th align="center" rowspan="1" colspan="1">
+<italic toggle="yes">p</italic>
+</th><th align="center" rowspan="1" colspan="1">Partial <italic toggle="yes">η<sup>2</sup>
+</italic>
+</th></tr></thead><tbody><tr><td rowspan="2" align="left" colspan="1">Information</td><td align="center" rowspan="1" colspan="1">Informed</td><td align="center" rowspan="1" colspan="1">0.28 (0.18)</td><td rowspan="2" align="center" colspan="1">8.101</td><td rowspan="2" align="center" colspan="1">0.005</td><td rowspan="2" align="center" colspan="1">0.02</td></tr><tr><td align="center" rowspan="1" colspan="1">Not informed</td><td align="center" rowspan="1" colspan="1">0.33 (0.24)</td></tr><tr><td rowspan="2" align="left" colspan="1">Condition</td><td align="center" rowspan="1" colspan="1">Honest</td><td align="center" rowspan="1" colspan="1">0.38 (0.21)</td><td rowspan="2" align="center" colspan="1">66.702</td><td rowspan="2" align="center" colspan="1">&lt;0.001</td><td rowspan="2" align="center" colspan="1">0.14</td></tr><tr><td align="center" rowspan="1" colspan="1">Malingerers</td><td align="center" rowspan="1" colspan="1">0.23 (0.19)</td></tr><tr><td rowspan="4" align="left" colspan="1">Information* Condition</td><td align="center" rowspan="1" colspan="1">Informed honest</td><td align="center" rowspan="1" colspan="1">0.48 (0.21)</td><td rowspan="4" align="center" colspan="1">77.264</td><td rowspan="4" align="center" colspan="1">&lt;0.001</td><td rowspan="4" align="center" colspan="1">0.16</td></tr><tr><td align="center" rowspan="1" colspan="1">Informed malingerers</td><td align="center" rowspan="1" colspan="1">0.18 (0.15)</td></tr><tr><td align="center" rowspan="1" colspan="1">Not‐informed honest</td><td align="center" rowspan="1" colspan="1">0.27 (0.15)</td></tr><tr><td align="center" rowspan="1" colspan="1">Not‐informed malingerers</td><td align="center" rowspan="1" colspan="1">0.28 (0.20)</td></tr></tbody></table><permissions><copyright-holder>John Wiley &amp; Sons, Ltd.</copyright-holder></permissions></table-wrap><fig position="float" fig-type="FIGURE" id="brb371278-fig-0001" orientation="portrait"><label>FIGURE 1</label><caption><p>Interaction effect of information × condition on the number of verifiable details.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-3" orientation="portrait" xlink:href="BRB3-16-e71278-g002.jpg"/></fig><fig position="float" fig-type="FIGURE" id="brb371278-fig-0002" orientation="portrait"><label>FIGURE 2</label><caption><p>Interaction effect of information × condition on the ratio scores.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-5" orientation="portrait" xlink:href="BRB3-16-e71278-g003.jpg"/></fig><fig position="float" fig-type="FIGURE" id="brb371278-fig-0003" orientation="portrait"><label>FIGURE 3</label><caption><p>Interaction effect of information × condition on the success scores.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-7" orientation="portrait" xlink:href="BRB3-16-e71278-g001.jpg"/></fig></sec><sec id="brb371278-sec-0130"><label>2.5</label><title>Coding Details</title><p>The coding methodology followed the established guidelines as delineated in prior research (Nahari et al., <xref rid="brb371278-bib-0072" ref-type="bibr">2014b</xref>) and was adapted to malingering applications (Akca et al.<xref rid="brb371278-bib-0001" ref-type="bibr">2020</xref>). The criteria for details to be categorized as verifiable included: (a) the details being documented and thus checkable (e.g., appointments with a doctor, prescriptions); (b) details involving actions carried out with identified individuals rather than alone or with non‐traceable strangers (e.g., visiting the doctor with a parent); (c) details relating to events witnessed by other identified individuals (e.g., calling a doctor in the presence of someone else); (d) details reported as being recorded (e.g., on CCTV; e.g., entering a pharmacy); (e) the use of technology (e.g., phone, tablet, or computer; e.g., searching symptoms online, making a doctor's appointment); or (f) details that can potentially be verified through blood analysis and/or medical tests (e.g., taking specific pills; Boskovic et al. <xref rid="brb371278-bib-0017" ref-type="bibr">2018</xref>; Nahari &amp; Vrij, 2014). The coding process was conducted by two independent coders who were blinded to the experimental conditions and tasked with evaluating all reports. Specifically, the total count of details (“total details”) and the count of verifiable details (“verifiable details”) were recorded. Any disparities between coders were resolved to reach a final consensus on each detail. The inter‐coder agreement, assessed using Cohen's Kappa, demonstrated a notably high level of concordance, yielding coefficients of 0.86 (<italic toggle="yes">p</italic> &lt; 0.001) for total details and 0.89 (<italic toggle="yes">p</italic> &lt; 0.001) for verifiable details.</p></sec></sec><sec id="brb371278-sec-0140"><label>3</label><title>Results</title><sec id="brb371278-sec-0150"><label>3.1</label><title>Total Details Descriptives</title><p>For a more comprehensive approach, we conducted a preliminary analysis of the descriptive statistics for Total details before proceeding to the ANOVA (see Table <xref rid="brb371278-tbl-0002" ref-type="table">2</xref>).</p><p>The descriptive statistics reveal that Honest participants reported more total details than malingerers. Informed honest reported the highest number of total details, while not‐informed malingerers reported the lowest number of total details.</p></sec><sec id="brb371278-sec-0160"><label>3.2</label><title>Number of Verifiable Details</title><p>We conducted an analysis of variance (ANOVA) with information and condition as factors and the number of verifiable details as the dependent variable. For completeness, descriptives and main effects are reported in Table <xref rid="brb371278-tbl-0003" ref-type="table">3</xref>.</p><p>Results revealed a significant main effect of information, indicating that participants who were informed provided more verifiable details than those who were not informed. Additionally, a significant main effect of condition was observed, indicating that Honest participants provided more verifiable details than malingerers.</p><p>The information × condition interaction effect was statistically significant (see Figure <xref rid="brb371278-fig-0001" ref-type="fig">1</xref>).</p><p>Specifically, simple effects show that when participants were in the honest condition, those who were informed provided a significantly higher number of verifiable details compared to those who were not informed, <italic toggle="yes">F</italic>
+<sub>(1, 406)</sub> = 538.21, <italic toggle="yes">p</italic> &lt; 0.001, <italic toggle="yes">η<sub>p</sub>
+</italic>
+<sup>2</sup> = 0.57. Conversely, when participants were malingerers, there was no significant difference between the Informed and not‐informed groups in the number of verifiable details reported (<italic toggle="yes">M</italic> = 2.37, SD = 1.52), <italic toggle="yes">F</italic>
+<sub>(1, 406)</sub> = 0.02, <italic toggle="yes">p</italic> = 0.90, <italic toggle="yes">η<sub>p</sub>
+</italic>
+<sup>2</sup> = 0.001. Additionally, when participants were informed, Honest individuals reported significantly more verifiable details than malingerers, <italic toggle="yes">F</italic>
+<sub>(1, 406)</sub> = 280.61, <italic toggle="yes">p</italic> &lt; 0.001, <italic toggle="yes">η<sub>p</sub>
+</italic>
+<sup>2</sup> = 0.41. The same pattern emerged in the not‐informed condition, although the effect was smaller, <italic toggle="yes">F</italic>
+<sub>(1, 406)</sub> = 36.49, <italic toggle="yes">p</italic> &lt; 0.001, <italic toggle="yes">η<sub>p</sub>
+</italic>
+<sup>2</sup> = 0.08.</p></sec><sec id="brb371278-sec-0170"><label>3.3</label><title>The Ratio of Verifiable Details/Total Detail Score</title><p>We conducted an analysis of variance (ANOVA) with information and condition as factors, and the ratio of verifiable details to total details score (ratio) as the dependent variable. For completeness, descriptives and main effects are reported in Table <xref rid="brb371278-tbl-0004" ref-type="table">4</xref>.</p><p>The analysis revealed a significant main effect of information, indicating that participants who were informed had higher ratio scores than those who were not. Furthermore, there was a significant main effect of condition, indicating that honest participants provided higher ratio scores than malingerers.</p><p>The interaction effect between information and condition was statistically significant (see Figure <xref rid="brb371278-fig-0002" ref-type="fig">2</xref>). Follow‐up simple effects analyses showed that, among honest participants, the effect of information was significant, <italic toggle="yes">F</italic>
+<sub>(1, 406)</sub> = 67.71, <italic toggle="yes">p </italic>&lt; 0.001, <italic toggle="yes">η<sub>p</sub>
+</italic>
+<sup>2</sup> = 0.14, with informed honest participants providing a greater proportion of verifiable details than not‐informed honest participants. Among malingerers, the effect of information was also significant, <italic toggle="yes">F<sub>(</sub>
+</italic>
+<sub>1, 406)</sub> = 17.66, <italic toggle="yes">p</italic> &lt; 0.001, <italic toggle="yes">η<sub>p</sub>
+<sup>2</sup> </italic>= 0.04, indicating that informed malingerers provided higher ratio scores than not‐informed malingerers. Conversely, the effect of condition was significant only among informed participants, <italic toggle="yes">F</italic>
+<sub>(1, 406)</sub> = 146.63, <italic toggle="yes">p </italic>&lt; 0.001, <italic toggle="yes">η<sub>p</sub>
+</italic>
+<sup>2</sup> = 0.27, showing that informed honest reported markedly higher ratio scores than informed malingerers. Among not‐informed participants, the effect of condition was not significant, <italic toggle="yes">F</italic>
+<sub>(1, 406)</sub> = 0.19, <italic toggle="yes">p</italic> = 0.66, <italic toggle="yes">η<sub>p</sub>
+</italic>
+<sup>2</sup>&lt; 0.001.</p></sec><sec id="brb371278-sec-0180"><label>3.4</label><title>Post‐Report Questions</title><sec id="brb371278-sec-0190"><label>3.4.1</label><title>Self‐Perceived Success</title><p>We conducted an analysis of variance (ANOVA) with information and condition as factors and perceived success as the dependent variable.</p><p>Results showed a significant main effect of information. Informed participants (<italic toggle="yes">M</italic> = 3.55, <italic toggle="yes">SD</italic> = 1.92) perceived themselves as having been more successful than not‐informed participants (<italic toggle="yes">M</italic> = 3.06, <italic toggle="yes">SD</italic> = 1.42; <italic toggle="yes">F</italic>
+<sub>(1, 406) </sub>= 10.125, partial <italic toggle="yes">η<sub>p</sub>
+</italic>
+<sup>2</sup> = 0.02, <italic toggle="yes">p</italic> &lt; 0.005).</p><p>A main effect of condition was also observed, indicating that honest participants perceived themselves as more successful in convincing the experimenter (<italic toggle="yes">M</italic> = 3.85, SD = 1.92) compared to malingerers (<italic toggle="yes">M</italic> = 2.77, SD = 1.24; <italic toggle="yes">F</italic>
+<sub>(1, 406)</sub> = 48.22, <italic toggle="yes">η<sub>p</sub>
+<sup>2</sup>
+</italic> = 0.11, <italic toggle="yes">p</italic> &lt; 0.001).</p><p>The interaction effect between information and condition was also significant, <italic toggle="yes">F</italic>
+<sub>(1, 406)</sub> = 21.40, <italic toggle="yes">p </italic>&lt; 0.001, <italic toggle="yes">η<sub>p</sub>
+</italic>
+<sup>2</sup> = 0.05. Follow‐up simple effects analyses showed that, among nformed participants, honest individuals (<italic toggle="yes">M</italic> = 4.44, <italic toggle="yes">SD</italic> = 2.02) perceived themselves as having been significantly more successful than malingerers (<italic toggle="yes">M</italic> = 2.66, <italic toggle="yes">SD</italic> = 1.28), <italic toggle="yes">F</italic>
+<sub>(1, 406)</sub> = 68.27, <italic toggle="yes">p</italic> &lt; 0.001, <italic toggle="yes">η<sub>p</sub>
+<sup>2</sup>
+</italic> = 0.14. Among not‐informed participants, this difference was not significant, <italic toggle="yes">F</italic>
+<sub>(1, 406)</sub> = 2.64, <italic toggle="yes">p</italic> = 0.11, <italic toggle="yes">η<sub>p</sub>
+<sup>2</sup>
+</italic> = 0.006. When examining the effect of information within each condition, results indicated that informed honest participants reported higher self‐perceived success than not‐informed honests, <italic toggle="yes">F</italic>
+<sub>(1, 406)</sub> = 30.49, <italic toggle="yes">p</italic> &lt; 0.001, <italic toggle="yes">η<sub>p</sub>
+<sup>2</sup>
+</italic> = 0.07. In contrast, among malingerers, the effect of information was not significant, <italic toggle="yes">F</italic>
+<sub>(1, 406)</sub> = 1.04, <italic toggle="yes">p</italic> = 0.31, <italic toggle="yes">η<sub>p</sub>
+<sup>2</sup>
+</italic> = 0.003.</p></sec><sec id="brb371278-sec-0200"><label>3.4.2</label><title>Long‐COVID Questions</title><p>We conducted an analysis of variance (ANOVA) with information and condition as factors and the sum of reported long‐COVID symptoms as the dependent variable. Results showed that neither the main effect nor the interaction was significant, <italic toggle="yes">F</italic> &lt; 1.70, <italic toggle="yes">ps</italic> &gt; 0.05, <italic toggle="yes">ηs<sub>p</sub>
+<sup>2</sup>
+</italic> &lt; 0.012. Another ANOVA was conducted with information and condition as factors, and the sum of reported long‐COVID fake symptoms as the dependent variable. Analyses showed no significant main or interaction effect, <italic toggle="yes">F</italic> &lt; 1.03, <italic toggle="yes">ps</italic> &gt; 0.05, <italic toggle="yes">ηs<sub>p</sub>
+<sup>2</sup>
+</italic> &lt; 0.003.</p></sec></sec></sec><sec id="brb371278-sec-0210"><label>4</label><title>Discussion</title><p>The present study aimed to examine the applicability of the verifiability approach (VA) in distinguishing honest reporters from malingerers within the context of COVID‐19 and long COVID symptoms. Specifically, it compared symptom reports provided by individuals who had genuinely experienced COVID‐19 (honests) with those instructed to simulate the condition (malingerers), while also assessing whether prior information about the VA influenced participants’ reporting strategies.</p><p>A preliminary examination of total details showed that honest participants generally provided longer and richer accounts than malingerers, confirming that genuine recollection tends to produce more elaborate narratives. This effect was particularly strong among informed, honest participants, who produced the most extensive reports overall. These findings are consistent with prior deception research demonstrating that truth‐tellers include more details because they rely on actual episodic memory, while deceivers, drawing on fabricated or reconstructed accounts, tend to simplify their narratives to minimize the risk of inconsistencies (Vrij <xref rid="brb371278-bib-0102" ref-type="bibr">2008</xref>; Nahari <xref rid="brb371278-bib-0065" ref-type="bibr">2019</xref>). However, this result diverges from previous findings in the field of malingering and VA, where total detail count has often failed to discriminate between liars and truth‐tellers (Boskovic et al. <xref rid="brb371278-bib-0018" ref-type="bibr">2017</xref>, <xref rid="brb371278-bib-0017" ref-type="bibr">2018</xref>). One possible explanation lies in the different nature of the task: while previous studies involved simulated mental or physical disorders, our participants described a discrete and temporally bounded event (COVID‐19 infection). Such experiences are more likely to evoke vivid episodic memories, enabling honest individuals to recall numerous contextual details, whereas malingerers may rely on schematic or generalized representations of the illness. Thus, the higher total detail production observed in honest participants may reflect the episodic specificity of the COVID‐19 experience rather than a generalizable effect of honesty across all clinical contexts.</p><p>As expected, informed participants provided more verifiable details than uninformed participants, and honest individuals outperformed dishonest ones, in line with previous research (Nahari <xref rid="brb371278-bib-0065" ref-type="bibr">2019</xref>). Specifically, receiving the information protocol notably increased the number of verifiable details among honest participants, while malingerers were largely unaffected. This interaction suggests that the VA mechanism amplifies the natural differences in reporting style between genuine and simulated accounts, supporting its diagnostic potential in malingering contexts, in that honest individuals benefit from the instruction, while malingerers cannot effectively imitate the strategy.</p><p>Regarding the ratio of verifiable to total details, informed participants displayed higher ratios than uninformed participants, and honest participants, especially when informed, consistently outperformed those who were not honest. These findings support Hypotheses 1 and 2 and align with prior research (Nahari et al. <xref rid="brb371278-bib-0071" ref-type="bibr">2014a</xref>, <xref rid="brb371278-bib-0072" ref-type="bibr">2014b</xref>; Palena et al. <xref rid="brb371278-bib-0075" ref-type="bibr">2021</xref>), confirming that verifiable details may be used as reliable indicators of honesty. The pattern also highlights that informing malingerers about the VA slightly increased their ratio scores, suggesting partial awareness of the strategy, yet their performance remained significantly below that of honest participants, consistent with the idea that deception constrains the inclusion of verifiable information (Vrij et al. <xref rid="brb371278-bib-0107" ref-type="bibr">2021</xref>). Nevertheless, our findings diverge from those of previous malingering studies in the VA realm (Akca et al. <xref rid="brb371278-bib-0001" ref-type="bibr">2020</xref>; Boskovic et al. <xref rid="brb371278-bib-0018" ref-type="bibr">2017</xref>, <xref rid="brb371278-bib-0017" ref-type="bibr">2018</xref>), where the number of verifiable details did not emerge as a significant marker of honesty in symptom reporting. These discrepancies may stem from differences in how the VA was applied. Unlike previous work that used generalized symptom lists or chronic conditions, the present study focused on a discrete, temporally bounded event (COVID‐19), where symptoms and experiences were more easily anchored to verifiable facts such as testing dates or quarantine locations. This may have enhanced the VA's sensitivity in detecting fabricated reports.</p><p>Analyses of perceived success reinforced these findings: informed honest participants reported feeling significantly more successful than all other groups, including both informed and uninformed malingerers as well as uninformed honest participants. This aligns with Hypothesis 3 and resonates with the results from Nahari et al. (<xref rid="brb371278-bib-0072" ref-type="bibr">2014b</xref>), indicating that deceivers face greater challenges in appearing credible compared to honest participants. Informed malingerers’ lower perceived success may also reflect increased awareness of their limited ability to fabricate verifiable information once the verification principle was introduced.</p><p>The low number of reported long‐COVID symptoms limited the statistical analyses. This outcome may reflect that honest participants had not actually experienced such symptoms, whereas malingerers may have deliberately avoided mentioning them to appear more credible (Nahari et al. <xref rid="brb371278-bib-0070" ref-type="bibr">2012</xref>). Given the relative rarity and ambiguity of long COVID during the data collection period, simulators may have preferred to describe more familiar and recognizable COVID‐related symptoms. Consequently, Hypothesis 4 could not be empirically verified due to the inconsistency and scarcity of relevant data. Nonetheless, this null finding underscores the importance of symptom familiarity and perceived plausibility in shaping deceptive reporting strategies.</p><p>While these findings highlight the potential of the verifiability approach (VA) in detecting malingering and the role of information provision in eliciting more comprehensive and verifiable details, several limitations should be acknowledged.</p><p>The first limitation concerns the methodological nature of the study, which was conducted entirely online through a Google Forms platform. Research indicates that deception tends to be easier in written, asynchronous contexts than in face‐to‐face settings, where nonverbal cues and anxiety levels are more salient (Eskritt et al., <xref rid="brb371278-bib-0034" ref-type="bibr">2025</xref>). The lack of direct interaction might therefore have reduced the emotional engagement typically associated with deceptive behavior. Future studies should aim to replicate the present design in controlled, in‐person conditions to evaluate how communication mode and social presence influence the production of verifiable details.</p><p>A second limitation pertains to the operationalization of “verifiable details.” Participants were asked to include elements that could, in principle, be externally verified (e.g., names, places, specific events), yet no factual verification of these details was carried out. This methodological choice reflected the study's main objective, that is, to examine the <italic toggle="yes">production</italic> of potentially verifiable content rather than its actual accuracy, in accordance with previous VA research (e.g. Nahari et al., <xref rid="brb371278-bib-0072" ref-type="bibr">2014b</xref>,<xref rid="brb371278-bib-0065" ref-type="bibr">2019</xref> . However, the absence of an independent verification process prevents conclusions about the factual truthfulness of participants’ statements. Because the data were collected online, verifying personal information would also have been impractical and potentially raised privacy and ethical concerns. Future studies could adopt partial verification procedures or ethically feasible corroboration methods to enhance the ecological validity of the VA in applied contexts.</p><p>A further limitation lies in the characteristics of the illness investigated. COVID‐19 symptoms share several features with common flu‐like conditions, which could facilitate the fabrication of plausible symptom reports. This familiarity may limit the generalizability of our findings to illnesses that are less well known or more complex (e.g., Leins et al. <xref rid="brb371278-bib-0053" ref-type="bibr">2013</xref>; Nahari, 2018a; Vrij <xref rid="brb371278-bib-0102" ref-type="bibr">2008</xref>). Future research could, therefore, apply the VA to rarer or less familiar medical conditions, focusing on secondary‐level verifiable information to test the robustness of the approach across different symptom domains.</p><p>The absence of monetary compensation or tangible incentives represents another limitation. Although this choice minimized potential demand effects, it also reduced ecological validity, as real‐life malingering is typically motivated by concrete external rewards, such as financial gain, avoidance of responsibility, or access to resources. This experimental design, commonly adopted in deception research (e.g., Rogers and Cruise <xref rid="brb371278-bib-0085" ref-type="bibr">1998</xref>), allows for controlled comparisons but may not fully capture the motivational and emotional factors that characterize real‐life malingering scenarios. Consequently, participants’ engagement and deceptive strategies may differ from those of actual malingerers encountered in clinical or forensic settings. Future studies could integrate more ecologically valid paradigms by including participants with genuine incentives to feign or by replicating the procedure in applied contexts, such as medico‐legal or occupational health evaluations.</p><p>Another limitation concerns the possibility that some participants misreported their COVID‐19 infection history in the preliminary questionnaire. Given the social and political sensitivity surrounding the pandemic (e.g., vaccination debates, stigma, and differing beliefs about severity), it cannot be ruled out that some individuals, intentionally or unintentionally, provided inaccurate information. Such misreporting could have influenced group assignment and the interpretation of results. Although screening questions were implemented to minimize this risk, self‐reported data remain vulnerable to bias. Future studies should consider incorporating objective verification measures, such as requiring medical documentation or test results, to ensure diagnostic reliability.</p><p>A specific limitation concerns the inconclusive findings regarding Hypothesis 4 on long COVID symptoms. The scarcity and inconsistency of these reports constrained statistical power and interpretability. This likely reflects both the low prevalence of long COVID among honest participants and the tendency of malingerers to avoid mentioning unfamiliar or ambiguous symptoms in order to appear credible. Furthermore, at the time of data collection, public understanding of long COVID was still emerging and fragmented, leading to variability in symptom conceptualization. Future research could address this issue by employing more targeted prompts or recruiting verified long COVID patients to ensure sufficient variability and ecological validity.</p><p>Finally, it is plausible, that during the pandemic, some individuals were more motivated to <italic toggle="yes">dissimulate</italic> than to <italic toggle="yes">exaggerate</italic> symptoms; that is, to pretend to be healthy rather than ill. Under strict public health restrictions, concealing symptoms could allow individuals to maintain employment, social life, or freedom of movement, thereby functioning as an adaptive deceptive strategy. For example, Boskovic et al. (<xref rid="brb371278-bib-0021" ref-type="bibr">2024</xref>) found that 14% of participants admitted to feigning a COVID‐19 infection, mainly to stay home or obtain sick leave, while 12% reported concealing an actual infection to avoid stigma or missing events. Younger individuals were more likely to hide illness, and when asked about people they knew, these rates nearly doubled (28% for feigning and 51% for concealment), suggesting that symptom misrepresentation occurred on a meaningful scale and may have biased self‐reported COVID‐19 data. Meanwhile, widespread media exposure provided individuals with abundant and coherent information about COVID‐19 symptoms, offering both models for credible malingering and cues for strategic dissimulation (Leins et al. <xref rid="brb371278-bib-0053" ref-type="bibr">2013</xref>). This dynamic suggests that deception during health crises may operate bidirectionally, encompassing both the overreporting and underreporting of symptoms. Extending the verifiability approach to study dissimulation could, therefore, clarify whether individuals who conceal illness similarly limit verifiable content to avoid detection (Nahari <xref rid="brb371278-bib-0115" ref-type="bibr">2018</xref>). Despite these limitations, the present study has the potential to contribute to the growing literature on the VA by demonstrating its applicability to symptom reporting contexts and by highlighting the moderating role of information provision in distinguishing honest from deceptive narratives.</p></sec><sec id="brb371278-sec-0220"><label>5</label><title>Conclusions</title><p>The present study marks an innovative foray into the realm of detecting malingering amid COVID‐19. By leveraging the VA to scrutinize the provision of details and verifiable information, this research extends our understanding of malingering behaviors associated with COVID‐19 symptoms. Although the study has its limitations, notably the familiarity with COVID‐19 symptoms, its pioneering nature lays the groundwork for further exploration. The insights gleaned from this investigation hold substantial implications across diverse domains.</p><p>Hence, the outcomes of this study present a valuable tool that could aid in detecting fabricated information related to COVID‐19 symptoms, not only in healthcare but also in settings where individuals might exploit the pandemic to shirk responsibilities, such as the workplace.</p></sec><sec id="brb371278-sec-0230"><title>Author Contributions</title><p>
+<bold>R.M.R</bold>.: conceptualization, methodology, investigation, data curation, formal analysis, writing – original draft preparation. <bold>A.C</bold>.: supervision, validation. <bold>A.C</bold>. and <bold>T.L</bold>.: methodology, data curation, writing – reviewing and editing, visualization.</p></sec><sec id="brb371278-sec-0250"><title>Funding</title><p>The authors have nothing to report.</p></sec><sec id="brb371278-sec-0260"><title>Ethics Statement</title><p>The study was approved by the University of Bari and conducted in accordance with the Declaration of Helsinki (Approval No. ET‐21‐16).</p></sec><sec id="brb371278-sec-0270"><title>Consent</title></sec><sec id="brb371278-sec-0280"><p>Informed consent was obtained from all participants involved in the study.</p></sec><sec sec-type="COI-statement" id="brb371278-sec-0290"><title>Conflicts of Interest</title><p>The authors declare no conflicts of interest.</p></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material id="brb371278-supinfo-0001" position="float" content-type="local-data" orientation="portrait"/><supplementary-material id="brb371278-supitem-0001" position="float" content-type="local-data" orientation="portrait"><caption><p>
+<bold>Supplementary Material</bold>: brb371278‐sup‐0001‐SuppMat.docx</p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="BRB3-16-e71278-s001.docx" position="float" orientation="portrait"/></supplementary-material></sec></body><back><ack id="brb371278-sec-0240"><title>Acknowledgments</title><p>Open access publishing facilitated by Universita degli Studi di Bari Aldo Moro, as part of the Wiley ‐ CRUI‐CARE agreement.</p></ack><sec sec-type="data-availability" id="brb371278-sec-0310"><title>Data Availability Statement</title><p>The data that support the findings of this study are available from the corresponding author upon reasonable request.</p></sec><ref-list id="brb371278-bibl-0001"><title>References</title><ref id="brb371278-bib-0005"><mixed-citation publication-type="book" id="brb371278-cite-0005">
+<collab collab-type="authors">American Psychiatric Association</collab>
+. <year>2013</year>. <source>Diagnostic and Statistical Manual of Mental Disorders</source>, <edition>5th ed.</edition>
+<publisher-name>American Psychiatric Association</publisher-name>.</mixed-citation></ref><ref id="brb371278-bib-0001"><mixed-citation publication-type="journal" id="brb371278-cite-0001">
+<string-name name-style="western">
+<surname>Akca</surname>, <given-names>Y. A.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Slootmaekers</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>I.</given-names>
+<surname>Boskovic</surname>
+</string-name>. <year>2020</year>. “<article-title>Verifiability and Symptom Endorsement in Genuine, Exaggerated, and Malingered Pain</article-title>.” <source>Psychological Injury and Law</source>
+<volume>13</volume>, no. <issue>3</issue>: <fpage>235</fpage>–<lpage>245</lpage>. <pub-id pub-id-type="doi">10.1007/s12207-020-09375-w</pub-id>.</mixed-citation></ref><ref id="brb371278-bib-0002"><mixed-citation publication-type="journal" id="brb371278-cite-0002">
+<string-name name-style="western">
+<surname>Akehurst</surname>, <given-names>R. L.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>E.</given-names>
+<surname>Abadie</surname>
+</string-name>, <string-name name-style="western">
+<given-names>N.</given-names>
+<surname>Renaudin</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>F.</given-names>
+<surname>Sarkozy</surname>
+</string-name>. <year>2017</year>. “<article-title>Variation in Health Technology Assessment and Reimbursement Processes in Europe</article-title>.” <source>Value in Health: The journal of the International Society for Pharmacoeconomics and Outcomes Research</source>
+<volume>20</volume>, no. <issue>1</issue>: <fpage>67</fpage>–<lpage>76</lpage>. <pub-id pub-id-type="doi">10.1016/j.jval.2016.08.725</pub-id>.<pub-id pub-id-type="pmid">28212972</pub-id>
+</mixed-citation></ref><ref id="brb371278-bib-0003"><mixed-citation publication-type="journal" id="brb371278-cite-0003">
+<string-name name-style="western">
+<surname>Almeria</surname>, <given-names>M.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>J. C.</given-names>
+<surname>Cejudo</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Sotoca</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Deus</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Krupinski</surname>
+</string-name>. <year>2020</year>. “<article-title>Cognitive Profile Following COVID‐19 Infection: Clinical Predictors Leading to Neuropsychological Impairment</article-title>.” <source>Brain, Behavior, &amp; Immunity—Health</source>
+<volume>9</volume>, no. <issue>1</issue>: <elocation-id>100163</elocation-id>. <pub-id pub-id-type="doi">10.1016/j.bbih.2020.100163</pub-id>.<pub-id pub-id-type="pmcid">PMC7581383</pub-id><pub-id pub-id-type="pmid">33111132</pub-id></mixed-citation></ref><ref id="brb371278-bib-0004"><mixed-citation publication-type="journal" id="brb371278-cite-0004">
+<string-name name-style="western">
+<surname>Amado</surname>, <given-names>B. G.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Arce</surname>
+</string-name>, <string-name name-style="western">
+<given-names>F.</given-names>
+<surname>Fariña</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Vilariño</surname>
+</string-name>. <year>2016</year>. “<article-title>Criteria‐Based Content Analysis (CBCA) Reality Criteria in Adults: A Meta‐Analytic Review</article-title>.” <source>International Journal of Clinical and Health Psychology: IJCHP</source>
+<volume>16</volume>, no. <issue>2</issue>: <fpage>201</fpage>–<lpage>210</lpage>. <pub-id pub-id-type="doi">10.1016/j.ijchp.2016.01.002</pub-id>.<pub-id pub-id-type="pmid">30487863</pub-id>
+<pub-id pub-id-type="pmcid">PMC6225082</pub-id></mixed-citation></ref><ref id="brb371278-bib-0006"><mixed-citation publication-type="journal" id="brb371278-cite-0006">
+<string-name name-style="western">
+<surname>Badenoch</surname>, <given-names>J. B.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>E. R.</given-names>
+<surname>Rengasamy</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Watson</surname>
+</string-name>, et al. <year>2022</year>. “<article-title>Persistent Neuropsychiatric Symptoms After COVID‐19: A Systematic Review and Meta‐Analysis</article-title>.” <source>Brain Communications</source>
+<volume>4</volume>, no. <issue>1</issue>: <elocation-id>fcab297</elocation-id>. <pub-id pub-id-type="doi">10.1093/braincomms/fcab297</pub-id>.<pub-id pub-id-type="pmid">35169700</pub-id>
+<pub-id pub-id-type="pmcid">PMC8833580</pub-id></mixed-citation></ref><ref id="brb371278-bib-0007"><mixed-citation publication-type="journal" id="brb371278-cite-0007">
+<string-name name-style="western">
+<surname>Baker</surname>, <given-names>J. M.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>K. N.</given-names>
+<surname>Nelson</surname>
+</string-name>, <string-name name-style="western">
+<given-names>E.</given-names>
+<surname>Overton</surname>
+</string-name>, et al. <year>2021</year>. “<article-title>Quantification of Occupational and Community Risk Factors for SARS‐CoV‐2 Seropositivity Among Health Care Workers in a Large US Health Care System</article-title>.” <source>Annals of Internal Medicine</source>
+<volume>174</volume>, no. <issue>5</issue>: <fpage>649</fpage>–<lpage>654</lpage>. <pub-id pub-id-type="doi">10.7326/M20-7145</pub-id>.<pub-id pub-id-type="pmid">33513035</pub-id>
+<pub-id pub-id-type="pmcid">PMC7877798</pub-id></mixed-citation></ref><ref id="brb371278-bib-0008"><mixed-citation publication-type="journal" id="brb371278-cite-0008">
+<string-name name-style="western">
+<surname>Banerjee</surname>, <given-names>D.</given-names>
+</string-name>, and <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Rai</surname>
+</string-name>. <year>2020</year>. “<article-title>Social Isolation in Covid‐19: The Impact of Loneliness</article-title>.” <source>International Journal of Social Psychiatry</source>
+<volume>66</volume>, no. <issue>6</issue>: <fpage>525</fpage>–<lpage>527</lpage>. <pub-id pub-id-type="doi">10.1177/0020764020922269</pub-id>.<pub-id pub-id-type="pmid">32349580</pub-id>
+<pub-id pub-id-type="pmcid">PMC7405628</pub-id></mixed-citation></ref><ref id="brb371278-bib-0009"><mixed-citation publication-type="journal" id="brb371278-cite-0009">
+<string-name name-style="western">
+<surname>Barmby</surname>, <given-names>T. A.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>M. G.</given-names>
+<surname>Ercolani</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>J. G.</given-names>
+<surname>Treble</surname>
+</string-name>. <year>2002</year>. “<article-title>Sickness Absence: An International Comparison</article-title>.” <source>Economic Journal</source>
+<volume>112</volume>, no. <issue>480</issue>: <fpage>F315</fpage>–<lpage>F331</lpage>. <pub-id pub-id-type="doi">10.1111/1468-0297.00046</pub-id>.</mixed-citation></ref><ref id="brb371278-bib-0010"><mixed-citation publication-type="journal" id="brb371278-cite-0010">
+<string-name name-style="western">
+<surname>Beemsterboer</surname>, <given-names>W.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Stewart</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Groothoff</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>F.</given-names>
+<surname>Nijhuis</surname>
+</string-name>. <year>2009</year>. “<article-title>A Literature Review on Sick Leave Determinants (1984‐2004)</article-title>.” <source>International Journal of Occupational Medicine and Environmental Health</source>
+<volume>22</volume>, no. <issue>2</issue>: <fpage>169</fpage>–<lpage>179</lpage>. <pub-id pub-id-type="doi">10.2478/v10001-009-0013-8</pub-id>.<pub-id pub-id-type="pmid">19617195</pub-id>
+</mixed-citation></ref><ref id="brb371278-bib-0011"><mixed-citation publication-type="journal" id="brb371278-cite-0011">
+<string-name name-style="western">
+<surname>Bell</surname>, <given-names>B. E.</given-names>
+</string-name>, and <string-name name-style="western">
+<given-names>E. F.</given-names>
+<surname>Loftus</surname>
+</string-name>. <year>1989</year>. “<article-title>Trivial Persuasion in the Courtroom: The Power of (a Few) Minor Details</article-title>.” <source>Journal of Personality and Social Psychology</source>
+<volume>56</volume>, no. <issue>5</issue>: <fpage>669</fpage>–<lpage>679</lpage>. <pub-id pub-id-type="doi">10.1037//0022-3514.56.5.669</pub-id>.<pub-id pub-id-type="pmid">2724064</pub-id>
+</mixed-citation></ref><ref id="brb371278-bib-0012"><mixed-citation publication-type="journal" id="brb371278-cite-0012">
+<string-name name-style="western">
+<surname>Bendau</surname>, <given-names>A.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>M. B.</given-names>
+<surname>Petzold</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Pyrkosch</surname>
+</string-name>, et al. <year>2021</year>. “<article-title>Associations Between COVID‐19 Related Media Consumption and Symptoms of Anxiety, Depression and COVID‐19 Related Fear in the General Population in Germany</article-title>.” <source>European Archives of Psychiatry &amp; Clinical Neuroscience</source>
+<volume>271</volume>, no. <issue>2</issue>: <fpage>283</fpage>–<lpage>291</lpage>. <pub-id pub-id-type="doi">10.1007/s00406-020-01171-6</pub-id>.<pub-id pub-id-type="pmid">32691135</pub-id>
+<pub-id pub-id-type="pmcid">PMC7371788</pub-id></mixed-citation></ref><ref id="brb371278-bib-0013"><mixed-citation publication-type="journal" id="brb371278-cite-0013">
+<string-name name-style="western">
+<surname>Bianchini</surname>, <given-names>K. J.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>K. W.</given-names>
+<surname>Greve</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>G.</given-names>
+<surname>Glynn</surname>
+</string-name>. <year>2005</year>. “<article-title>On the Diagnosis of Malingered Pain‐Related Disability: Lessons From Cognitive Malingering Research</article-title>.” <source>Spine Journal</source>
+<volume>5</volume>, no. <issue>4</issue>: <fpage>404</fpage>–<lpage>417</lpage>. <pub-id pub-id-type="doi">10.1016/j.spinee.2004.11.016</pub-id>.<pub-id pub-id-type="pmid">15996610</pub-id></mixed-citation></ref><ref id="brb371278-bib-0014"><mixed-citation publication-type="journal" id="brb371278-cite-0014">
+<string-name name-style="western">
+<surname>Blanca</surname>, <given-names>M. J.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Alarcón</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Arnau</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Bono</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Bendayan</surname>
+</string-name>. <year>2017</year>. “<article-title>Non‐Normal Data: Is ANOVA Still a Valid Option?</article-title>” <source>Psicothema</source>
+<volume>29</volume>, no. <issue>4</issue>: <fpage>552</fpage>–<lpage>557</lpage>. <pub-id pub-id-type="doi">10.7334/psicothema2016.383</pub-id>.<pub-id pub-id-type="pmid">29048317</pub-id>
+</mixed-citation></ref><ref id="brb371278-bib-0015"><mixed-citation publication-type="journal" id="brb371278-cite-0015">
+<string-name name-style="western">
+<surname>Bond</surname>, <given-names>C. F.</given-names>
+<suffix>Jr</suffix>
+</string-name>, and <string-name name-style="western">
+<given-names>B. M.</given-names>
+<surname>DePaulo</surname>
+</string-name>. <year>2006</year>. “<article-title>Accuracy of Deception Judgments</article-title>.” <source>Personality and Social Psychology Review: An Official Journal of the Society for Personality and Social Psychology, Inc</source>
+<volume>10</volume>, no. <issue>3</issue>: <fpage>214</fpage>–<lpage>234</lpage>. <pub-id pub-id-type="doi">10.1207/s15327957pspr1003_2</pub-id>.<pub-id pub-id-type="pmid">16859438</pub-id>
+</mixed-citation></ref><ref id="brb371278-bib-0016"><mixed-citation publication-type="journal" id="brb371278-cite-0016">
+<string-name name-style="western">
+<surname>Boskovic</surname>, <given-names>I.</given-names>
+</string-name>
+<year>2020</year>. “<article-title>Do Motives Matter? A Comparison Between Positive and Negative Incentives in Students' Willingness to Malinger</article-title>.” <source>Educational Psychology</source>
+<volume>40</volume>, no. <issue>8</issue>: <fpage>1022</fpage>–<lpage>1032</lpage>. <pub-id pub-id-type="doi">10.1080/01443410.2019.1704400</pub-id>.</mixed-citation></ref><ref id="brb371278-bib-0017"><mixed-citation publication-type="journal" id="brb371278-cite-0017">
+<string-name name-style="western">
+<surname>Boskovic</surname>, <given-names>I.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>A. J.</given-names>
+<surname>Biermans</surname>
+</string-name>, <string-name name-style="western">
+<given-names>T.</given-names>
+<surname>Merten</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Jelicic</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Hope</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Merckelbach</surname>
+</string-name>. <year>2018</year>. “<article-title>The Modified Stroop Task Is Susceptible to Feigning: Stroop Performance and Symptom Over‐Endorsement in Feigned Test Anxiety</article-title>.” <source>Frontiers in Psychology</source>
+<volume>9</volume>: <elocation-id>1195</elocation-id>. <pub-id pub-id-type="doi">10.3389/fpsyg.2018.01195</pub-id>.<pub-id pub-id-type="pmid">30050491</pub-id>
+<pub-id pub-id-type="pmcid">PMC6050504</pub-id></mixed-citation></ref><ref id="brb371278-bib-0018"><mixed-citation publication-type="journal" id="brb371278-cite-0018">
+<string-name name-style="western">
+<surname>Boskovic</surname>, <given-names>I.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>G.</given-names>
+<surname>Bogaard</surname>
+</string-name>, <string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Merckelbach</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Vrij</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Hope</surname>
+</string-name>. <year>2017</year>. “<article-title>The Verifiability Approach to Detection of Malingered Physical Symptoms</article-title>.” <source>Psychology, Crime &amp; Law</source>
+<volume>23</volume>, no. <issue>8</issue>: <fpage>717</fpage>–<lpage>729</lpage>. <pub-id pub-id-type="doi">10.1080/1068316X.2017.1302585</pub-id>.</mixed-citation></ref><ref id="brb371278-bib-0019"><mixed-citation publication-type="journal" id="brb371278-cite-0019">
+<string-name name-style="western">
+<surname>Boskovic</surname>, <given-names>I.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>P.</given-names>
+<surname>Dibbets</surname>
+</string-name>, <string-name name-style="western">
+<given-names>G.</given-names>
+<surname>Bogaard</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Hope</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Jelicic</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Orthey</surname>
+</string-name>. <year>2019a</year>. “<article-title>Verify the Scene, Report the Symptoms: Testing the Verifiability Approach and SRSI in the Detection of Fabricated PTSD Claims</article-title>.” <source>Legal and Criminological Psychology</source>
+<volume>24</volume>, no. <issue>2</issue>: <fpage>241</fpage>–<lpage>257</lpage>. <pub-id pub-id-type="doi">10.1111/lcrp.12149</pub-id>.</mixed-citation></ref><ref id="brb371278-bib-0020"><mixed-citation publication-type="journal" id="brb371278-cite-0020">
+<string-name name-style="western">
+<surname>Boskovic</surname>, <given-names>I.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>C. T.</given-names>
+<surname>Gallardo</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Vrij</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Hope</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Merckelbach</surname>
+</string-name>. <year>2019b</year>. “<article-title>Verifiability on the Run: An Experimental Study on the Verifiability Approach to Malingered Symptoms</article-title>.” <source>Psychiatry, Psychology and Law</source>
+<volume>26</volume>, no. <issue>1</issue>: <fpage>65</fpage>–<lpage>76</lpage>. <pub-id pub-id-type="doi">10.1080/13218719.2018.1483272</pub-id>.<pub-id pub-id-type="pmcid">PMC6762097</pub-id><pub-id pub-id-type="pmid">31984064</pub-id></mixed-citation></ref><ref id="brb371278-bib-0021"><mixed-citation publication-type="journal" id="brb371278-cite-0021">
+<string-name name-style="western">
+<surname>Boskovic</surname>, <given-names>I.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>E.</given-names>
+<surname>Puente‐López</surname>
+</string-name>, <string-name name-style="western">
+<given-names>B.</given-names>
+<surname>Dandachi‐FitzGerald</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Merckelbach</surname>
+</string-name>. <year>2024</year>. “<article-title>The Prevalence of Feigning and Concealment of Covid‐19 Infections in an International Sample</article-title>.” <source>Journal of Health Psychology</source>
+<volume>29</volume>, no. <issue>6</issue>: <fpage>595</fpage>–<lpage>607</lpage>. <pub-id pub-id-type="doi">10.1177/13591053231226033</pub-id>.<pub-id pub-id-type="pmid">38282358</pub-id>
+<pub-id pub-id-type="pmcid">PMC11075400</pub-id></mixed-citation></ref><ref id="brb371278-bib-0022"><mixed-citation publication-type="journal" id="brb371278-cite-0022">
+<string-name name-style="western">
+<surname>Brooks</surname>, <given-names>S. K.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>R. K.</given-names>
+<surname>Webster</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L. E.</given-names>
+<surname>Smith</surname>
+</string-name>, et al. <year>2020</year>. “<article-title>The Psychological Impact of Quarantine and How to Reduce It: Rapid Review of the Evidence</article-title>.” <source>Lancet</source>
+<volume>395</volume>, no. <issue>10227</issue>: <fpage>912</fpage>–<lpage>920</lpage>. <pub-id pub-id-type="doi">10.1016/S0140-6736(20)30460-8</pub-id>.<pub-id pub-id-type="pmid">32112714</pub-id>
+<pub-id pub-id-type="pmcid">PMC7158942</pub-id></mixed-citation></ref><ref id="brb371278-bib-0023"><mixed-citation publication-type="journal" id="brb371278-cite-0023">
+<string-name name-style="western">
+<surname>Buccolo</surname>, <given-names>M.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>V. F.</given-names>
+<surname>Allodola</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Mongili</surname>
+</string-name>. <year>2020</year>. “<article-title>Percezioni E Vissuti Emozionali Ai Tempi Del COVID‐19: Una Ricerca Esplorativa per Riflettere Sulle Proprie Esistenze</article-title>.” <source>Lifelong Lifewide Learning</source>
+<volume>16</volume>, no. <issue>35</issue>: <fpage>372</fpage>–<lpage>398</lpage>.</mixed-citation></ref><ref id="brb371278-bib-0024"><mixed-citation publication-type="journal" id="brb371278-cite-0024">
+<string-name name-style="western">
+<surname>Calvo‐Bonacho</surname>, <given-names>E.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Catalina‐Romero</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Fernández‐Labandera</surname>
+</string-name>, et al. <year>2020</year>. “<article-title>COVID‐19 and Sick Leave: An Analysis of the Ibermutua Cohort of over 1,651,305 Spanish Workers in the First Trimester of 2020</article-title>.” <source>Frontiers in Public Health</source>
+<volume>8</volume>: <elocation-id>580546</elocation-id>. <pub-id pub-id-type="doi">10.3389/fpubh.2020.580546</pub-id>.<pub-id pub-id-type="pmid">33194983</pub-id>
+<pub-id pub-id-type="pmcid">PMC7604328</pub-id></mixed-citation></ref><ref id="brb371278-bib-0025"><mixed-citation publication-type="journal" id="brb371278-cite-0025">
+<string-name name-style="western">
+<surname>Carlsten</surname>, <given-names>C.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Gulati</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Hines</surname>
+</string-name>, et al. <year>2021</year>. “<article-title>COVID‐19 as an Occupational Disease</article-title>.” <source>American Journal of Industrial Medicine</source>
+<volume>64</volume>, no. <issue>4</issue>: <fpage>227</fpage>–<lpage>237</lpage>. <pub-id pub-id-type="doi">10.1002/ajim.23222</pub-id>.<pub-id pub-id-type="pmid">33491195</pub-id>
+<pub-id pub-id-type="pmcid">PMC8014565</pub-id></mixed-citation></ref><ref id="brb371278-bib-0026"><mixed-citation publication-type="journal" id="brb371278-cite-0026">
+<string-name name-style="western">
+<surname>Chafetz</surname>, <given-names>M. D.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>J. P.</given-names>
+<surname>Abrahams</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Kohlmaier</surname>
+</string-name>. <year>2007</year>. “<article-title>Malingering on the Social Security Disability Consultative Exam: A New Rating Scale</article-title>.” <source>Archives of Clinical Neuropsychology</source>
+<volume>22</volume>, no. <issue>1</issue>: <fpage>1</fpage>–<lpage>14</lpage>. <pub-id pub-id-type="doi">10.1016/j.acn.2006.10.003</pub-id>.<pub-id pub-id-type="pmid">17097263</pub-id>
+</mixed-citation></ref><ref id="brb371278-bib-0027"><mixed-citation publication-type="journal" id="brb371278-cite-0027">
+<string-name name-style="western">
+<surname>Curci</surname>, <given-names>A.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>T.</given-names>
+<surname>Lanciano</surname>
+</string-name>, <string-name name-style="western">
+<given-names>F.</given-names>
+<surname>Battista</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Guaragno</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>R. M.</given-names>
+<surname>Ribatti</surname>
+</string-name>. <year>2019</year>. “<article-title>Accuracy, Confidence, and Experiential Criteria for Lie Detection Through a Videotaped Interview</article-title>.” <source>Frontiers in Psychiatry</source>
+<volume>9</volume>: <elocation-id>748</elocation-id>. <pub-id pub-id-type="doi">10.3389/fpsyt.2018.00748</pub-id>.<pub-id pub-id-type="pmid">30740066</pub-id>
+<pub-id pub-id-type="pmcid">PMC6357939</pub-id></mixed-citation></ref><ref id="brb371278-bib-0028"><mixed-citation publication-type="journal" id="brb371278-cite-0028">
+<string-name name-style="western">
+<surname>Curran</surname>, <given-names>P. J.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>S. G.</given-names>
+<surname>West</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>J. F.</given-names>
+<surname>Finch</surname>
+</string-name>. <year>1996</year>. “<article-title>The Robustness of Test Statistics to Nonnormality and Specification Error in Confirmatory Factor Analysis</article-title>.” <source>Psychological Methods</source>
+<volume>1</volume>, no. <issue>1</issue>: <fpage>16</fpage>–<lpage>29</lpage>. <pub-id pub-id-type="doi">10.1037/1082-989X.1.1.16</pub-id>.</mixed-citation></ref><ref id="brb371278-bib-0029"><mixed-citation publication-type="journal" id="brb371278-cite-0029">
+<string-name name-style="western">
+<surname>Dandachi‐FitzGerald</surname>, <given-names>B.</given-names>
+</string-name>, and <string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Merckelbach</surname>
+</string-name>. <year>2013</year>. “<article-title>Feigning ≠ Feigning a Memory Deficit: The Medical Symptom Validity Test as an Example</article-title>.” <source>Journal of Experimental Psychopathology</source>
+<volume>4</volume>, no. <issue>1</issue>: <fpage>46</fpage>–<lpage>63</lpage>. <pub-id pub-id-type="doi">10.5127/jep.025511</pub-id>.</mixed-citation></ref><ref id="brb371278-bib-0030"><mixed-citation publication-type="journal" id="brb371278-cite-0030">
+<string-name name-style="western">
+<surname>Dandachi‐FitzGerald</surname>, <given-names>B.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Merckelbach</surname>
+</string-name>, <string-name name-style="western">
+<given-names>I.</given-names>
+<surname>Bošković</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Jelicic</surname>
+</string-name>. <year>2020</year>. “<article-title>Do You Know People Who Feign? Proxy Respondents About Feigned Symptoms</article-title>.” <source>Psychological Injury and Law</source>
+<volume>13</volume>, no. <issue>3</issue>: <fpage>225</fpage>–<lpage>234</lpage>. <pub-id pub-id-type="doi">10.1007/s12207-020-09387-6</pub-id>.</mixed-citation></ref><ref id="brb371278-bib-0031"><mixed-citation publication-type="journal" id="brb371278-cite-0031">
+<string-name name-style="western">
+<surname>Dandachi‐FitzGerald</surname>, <given-names>B.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Merckelbach</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>R. W.</given-names>
+<surname>Ponds</surname>
+</string-name>. <year>2017</year>. “<article-title>Neuropsychologists' Ability to Predict Distorted Symptom Presentation</article-title>.” <source>Journal of Clinical and Experimental Neuropsychology</source>
+<volume>39</volume>, no. <issue>3</issue>: <fpage>257</fpage>–<lpage>264</lpage>. <pub-id pub-id-type="doi">10.1080/13803395.2016.1223278</pub-id>.<pub-id pub-id-type="pmid">27603924</pub-id>
+</mixed-citation></ref><ref id="brb371278-bib-0032"><mixed-citation publication-type="journal" id="brb371278-cite-0032">
+<string-name name-style="western">
+<surname>DePaulo</surname>, <given-names>B. M.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>J. J.</given-names>
+<surname>Lindsay</surname>
+</string-name>, <string-name name-style="western">
+<given-names>B. E.</given-names>
+<surname>Malone</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Muhlenbruck</surname>
+</string-name>, <string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Charlton</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Cooper</surname>
+</string-name>. <year>2003</year>. “<article-title>Cues to Deception</article-title>.” <source>Psychological Bulletin</source>
+<volume>129</volume>, no. <issue>1</issue>: <fpage>74</fpage>–<lpage>118</lpage>. <pub-id pub-id-type="doi">10.1037/0033-2909.129.1.74</pub-id>.<pub-id pub-id-type="pmid">12555795</pub-id>
+</mixed-citation></ref><ref id="brb371278-bib-0034"><mixed-citation publication-type="journal" id="brb371278-cite-0034">
+<string-name name-style="western">
+<surname>Eskritt</surname>, <given-names>M.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Seale</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>M.‐E.</given-names>
+<surname>Brownell</surname>
+</string-name>. <year>2025</year>. “<article-title>Does the Positivity Effect Apply to Emotion Recognition? Examining Emotion Recognition Across Adulthood</article-title>.” <source>Cognitive Development</source>
+<volume>73</volume>: <elocation-id>101521</elocation-id>. <pub-id pub-id-type="doi">10.1016/j.cogdev.2024.101521</pub-id>.</mixed-citation></ref><ref id="brb371278-bib-0035"><mixed-citation publication-type="journal" id="brb371278-cite-0035">
+<string-name name-style="western">
+<surname>Faul</surname>, <given-names>F.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>E.</given-names>
+<surname>Erdfelder</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A. G.</given-names>
+<surname>Lang</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Buchner</surname>
+</string-name>. <year>2007</year>. “<article-title>G* Power 3: A Flexible Statistical Power Analysis Program for the Social, Behavioral, and Biomedical Sciences</article-title>.” <source>Behavior Research Methods</source>
+<volume>39</volume>, no. <issue>2</issue>: <fpage>175</fpage>–<lpage>191</lpage>. <pub-id pub-id-type="doi">10.3758/bf03193146</pub-id>.<pub-id pub-id-type="pmid">17695343</pub-id>
+</mixed-citation></ref><ref id="brb371278-bib-0036"><mixed-citation publication-type="book" id="brb371278-cite-0036">
+<string-name name-style="western">
+<surname>Gouvier</surname>, <given-names>W. D.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>P.</given-names>
+<surname>Lees‐Haley</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>J. H.</given-names>
+<surname>Hammer</surname>
+</string-name>. <year>2003</year>. “<part-title>The Neuropsychological Examination in the Problem of Detecting Malingering in the Forensic Arena: Costs and Benefits</part-title>.” In <source>Clinical Neuropsychology and Cost Outcomes Research: A Beginning</source>, <publisher-name>The Psychology Press</publisher-name>. ISBN 9781315787039.</mixed-citation></ref><ref id="brb371278-bib-0037"><mixed-citation publication-type="journal" id="brb371278-cite-0037">
+<string-name name-style="western">
+<surname>Grills</surname>, <given-names>C. E.</given-names>
+</string-name>, and <string-name name-style="western">
+<given-names>P.</given-names>
+<surname>Armistead‐Jehle</surname>
+</string-name>. <year>2016</year>. “<article-title>Performance Validity Test and Neuropsychological Assessment Battery Screening Module Performances in an Active‐Duty Sample With a History of Concussion</article-title>.” <source>Applied Neuropsychology: Adult</source>
+<volume>23</volume>, no. <issue>4</issue>: <fpage>295</fpage>–<lpage>301</lpage>. <pub-id pub-id-type="doi">10.1080/23279095.2015.1079713</pub-id>.<pub-id pub-id-type="pmid">26943837</pub-id>
+</mixed-citation></ref><ref id="brb371278-bib-0038"><mixed-citation publication-type="journal" id="brb371278-cite-0038">
+<string-name name-style="western">
+<surname>Gualano</surname>, <given-names>M. R.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>G.</given-names>
+<surname>Lo Moro</surname>
+</string-name>, <string-name name-style="western">
+<given-names>G.</given-names>
+<surname>Voglino</surname>
+</string-name>, <string-name name-style="western">
+<given-names>F.</given-names>
+<surname>Bert</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Siliquini</surname>
+</string-name>. <year>2020</year>. “<article-title>Effects of Covid‐19 Lockdown on Mental Health and Sleep Disturbances in Italy</article-title>.” <source>International Journal of Environmental Research and Public Health</source>
+<volume>17</volume>, no. <issue>13</issue>: <elocation-id>4779</elocation-id>. <pub-id pub-id-type="doi">10.3390/ijerph17134779</pub-id>.<pub-id pub-id-type="pmid">32630821</pub-id>
+<pub-id pub-id-type="pmcid">PMC7369943</pub-id></mixed-citation></ref><ref id="brb371278-bib-0039"><mixed-citation publication-type="journal" id="brb371278-cite-0039">
+<string-name name-style="western">
+<surname>Hampshire</surname>, <given-names>A.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>W.</given-names>
+<surname>Trender</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S. R.</given-names>
+<surname>Chamberlain</surname>
+</string-name>, et al. <year>2021</year>. “<article-title>Cognitive Deficits in People Who Have Recovered From COVID‐19</article-title>.” <source>EClinicalMedicine</source>
+<volume>39</volume>: <elocation-id>101044</elocation-id>. <pub-id pub-id-type="doi">10.1016/j.eclinm.2021.101044</pub-id>.<pub-id pub-id-type="pmid">34316551</pub-id>
+<pub-id pub-id-type="pmcid">PMC8298139</pub-id></mixed-citation></ref><ref id="brb371278-bib-0040"><mixed-citation publication-type="journal" id="brb371278-cite-0040">
+<string-name name-style="western">
+<surname>Hartwig</surname>, <given-names>M.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>P. A.</given-names>
+<surname>Granhag</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>L. A.</given-names>
+<surname>Strömwall</surname>
+</string-name>. <year>2007</year>. “<article-title>Guilty and Innocent Suspects' strategies During Police Interrogations</article-title>.” <source>Psychology, Crime &amp; Law</source>
+<volume>13</volume>, no. <issue>2</issue>: <fpage>213</fpage>–<lpage>227</lpage>. <pub-id pub-id-type="doi">10.1080/10683160600750264</pub-id>.</mixed-citation></ref><ref id="brb371278-bib-0041"><mixed-citation publication-type="journal" id="brb371278-cite-0041">
+<string-name name-style="western">
+<surname>Harvey</surname>, <given-names>A. C.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Vrij</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Leal</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Lafferty</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>G.</given-names>
+<surname>Nahari</surname>
+</string-name>. <year>2017a</year>. “<article-title>Insurance Based Lie Detection: Enhancing the Verifiability Approach With a Model Statement Component</article-title>.” <source>Acta Psychologica</source>
+<volume>174</volume>, no. <issue>1</issue>: <fpage>1</fpage>–<lpage>8</lpage>. <pub-id pub-id-type="doi">10.1080/17470910802507660</pub-id>.<pub-id pub-id-type="pmid">28088655</pub-id>
+</mixed-citation></ref><ref id="brb371278-bib-0042"><mixed-citation publication-type="journal" id="brb371278-cite-0042">
+<string-name name-style="western">
+<surname>Harvey</surname>, <given-names>A. C.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Vrij</surname>
+</string-name>, <string-name name-style="western">
+<given-names>G.</given-names>
+<surname>Nahari</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Ludwig</surname>
+</string-name>. <year>2017b</year>. “<article-title>Applying the Verifiability Approach to Insurance Claims Settings: Exploring the Effect of the Information Protocol</article-title>.” <source>Legal and Criminological Psychology</source>
+<volume>22</volume>, no. <issue>1</issue>: <fpage>47</fpage>–<lpage>59</lpage>. <pub-id pub-id-type="doi">10.1111/lcrp.12092</pub-id>.</mixed-citation></ref><ref id="brb371278-bib-0043"><mixed-citation publication-type="journal" id="brb371278-cite-0043">
+<string-name name-style="western">
+<surname>Helms</surname>, <given-names>J.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Kremer</surname>
+</string-name>, <string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Merdji</surname>
+</string-name>, et al. <year>2020</year>. “<article-title>Delirium and Encephalopathy in Severe COVID‐19: A Cohort Analysis of ICU Patients</article-title>.” <source>Critical Care</source>
+<volume>24</volume>, no. <issue>1</issue>: <fpage>491</fpage>–<lpage>502</lpage>. <pub-id pub-id-type="doi">10.1186/s13054-020-03200-1</pub-id>.<pub-id pub-id-type="pmid">32771053</pub-id>
+<pub-id pub-id-type="pmcid">PMC7414289</pub-id></mixed-citation></ref><ref id="brb371278-bib-0044"><mixed-citation publication-type="journal" id="brb371278-cite-0044">
+<string-name name-style="western">
+<surname>Hernández</surname>, <given-names>Y. A. T.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>F.</given-names>
+<surname>Parente</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M. A.</given-names>
+<surname>Faghy</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C. M.</given-names>
+<surname>Roscoe</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>F. A.</given-names>
+<surname>Maratos</surname>
+</string-name>. <year>2021</year>. “<article-title>Influence of the COVID‐19 Lockdown on the Physical and Psychosocial Well‐Being and Work Productivity of Remote Workers: Cross‐Sectional Correlational Study</article-title>.” <source>JMIRx Med</source>
+<volume>2</volume>, no. <issue>4</issue>: <elocation-id>e30708</elocation-id>. <pub-id pub-id-type="doi">10.2196/30708</pub-id>.<pub-id pub-id-type="pmid">34898665</pub-id>
+<pub-id pub-id-type="pmcid">PMC8641476</pub-id></mixed-citation></ref><ref id="brb371278-bib-0045"><mixed-citation publication-type="journal" id="brb371278-cite-0045">
+<string-name name-style="western">
+<surname>Jamal</surname>, <given-names>M. T.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>I.</given-names>
+<surname>Anwar</surname>
+</string-name>, <string-name name-style="western">
+<given-names>N. A.</given-names>
+<surname>Khan</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>I.</given-names>
+<surname>Saleem</surname>
+</string-name>. <year>2021</year>. “<article-title>Work During COVID‐19: Assessing the Influence of Job Demands and Resources On Practical and Psychological Outcomes for Employees</article-title>.” <source>Asia‐Pacific Journal of Business Administration</source>
+<volume>13</volume>, no. <issue>3</issue>: <fpage>293</fpage>–<lpage>319</lpage>. <pub-id pub-id-type="doi">10.1108/APJBA-05-2020-0149</pub-id>.</mixed-citation></ref><ref id="brb371278-bib-0046"><mixed-citation publication-type="journal" id="brb371278-cite-0046">
+<string-name name-style="western">
+<surname>Jupe</surname>, <given-names>L.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Vrij</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Leal</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Mann</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>G.</given-names>
+<surname>Nahari</surname>
+</string-name>. <year>2016</year>. “<article-title>The Lies We Live: Using the Verifiability Approach to Detect Lying About Occupation</article-title>.” <source>Journal of Articles in Support of the Null Hypothesis</source>
+<volume>13</volume>, no. <issue>1</issue>: <fpage>2</fpage>–<lpage>16</lpage>.</mixed-citation></ref><ref id="brb371278-bib-0047"><mixed-citation publication-type="journal" id="brb371278-cite-0047">
+<string-name name-style="western">
+<surname>Jupe</surname>, <given-names>L. M.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Leal</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Vrij</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>G.</given-names>
+<surname>Nahari</surname>
+</string-name>. <year>2017</year>. “<article-title>Applying the Verifiability Approach in an International Airport Setting</article-title>.” <source>Psychology, Crime &amp; Law</source>
+<volume>23</volume>, no. <issue>8</issue>: <fpage>812</fpage>–<lpage>825</lpage>. <pub-id pub-id-type="doi">10.1080/1068316X.2017.1327584</pub-id>.</mixed-citation></ref><ref id="brb371278-bib-0048"><mixed-citation publication-type="journal" id="brb371278-cite-0048">
+<string-name name-style="western">
+<surname>Kleinberg</surname>, <given-names>B.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>G.</given-names>
+<surname>Nahari</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Arntz</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>B.</given-names>
+<surname>Verschuere</surname>
+</string-name>. <year>2017</year>. “<article-title>An Investigation on the Detectability of Deceptive Intent About Flying Through Verbal Deception Detection</article-title>.” <source>Collabra: Psychology</source>
+<volume>3</volume>, no. <issue>1</issue>: <fpage>21</fpage>–<lpage>35</lpage>. <pub-id pub-id-type="doi">10.1525/collabra.80</pub-id>.</mixed-citation></ref><ref id="brb371278-bib-0049"><mixed-citation publication-type="journal" id="brb371278-cite-0049">
+<string-name name-style="western">
+<surname>Ladhani</surname>, <given-names>S. N.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>J. Y.</given-names>
+<surname>Chow</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Janarthanan</surname>
+</string-name>, <collab collab-type="authors">CoG Consortium</collab>
+. et al. <year>2020</year>. “<article-title>Increased Risk of SARS‐CoV‐2 Infection in Staff Working Across Different Care Homes: Enhanced CoVID‐19 Outbreak Investigations in London Care Homes</article-title>.” <source>Journal of Infection</source>
+<volume>81</volume>, no. <issue>4</issue>: <fpage>621</fpage>–<lpage>624</lpage>. <pub-id pub-id-type="doi">10.1016/j.jinf.2020.07.027</pub-id>.<pub-id pub-id-type="pmid">32735893</pub-id>
+<pub-id pub-id-type="pmcid">PMC7387283</pub-id></mixed-citation></ref><ref id="brb371278-bib-0050"><mixed-citation publication-type="journal" id="brb371278-cite-0050">
+<string-name name-style="western">
+<surname>Lanciano</surname>, <given-names>T.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>F.</given-names>
+<surname>Alfeo</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Curci</surname>
+</string-name>, et al. <year>2024</year>. “<article-title>The Flashbulb‐Like Nature of Memory for the First COVID‐19 Case and the Impact of the Emergency. A Cross‐National Survey</article-title>.” <source>Memory</source>
+<volume>32</volume>, no. <issue>2</issue>: <fpage>264</fpage>–<lpage>282</lpage>. <pub-id pub-id-type="doi">10.1080/09658211.2024.2310554</pub-id>.<pub-id pub-id-type="pmid">38315731</pub-id>
+</mixed-citation></ref><ref id="brb371278-bib-0051"><mixed-citation publication-type="journal" id="brb371278-cite-0051">
+<string-name name-style="western">
+<surname>Lanciano</surname>, <given-names>T.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>G.</given-names>
+<surname>Graziano</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Curci</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Costadura</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Monaco</surname>
+</string-name>. <year>2020</year>. “<article-title>Risk Perceptions and Psychological Effects During the Italian COVID‐19 Emergency</article-title>.” <source>Frontiers in Psychology</source>
+<volume>11</volume>, no. <issue>1</issue>: <elocation-id>580053</elocation-id>. <pub-id pub-id-type="doi">10.3389/fpsyg.2020.580053</pub-id>.<pub-id pub-id-type="pmid">33071920</pub-id>
+<pub-id pub-id-type="pmcid">PMC7533588</pub-id></mixed-citation></ref><ref id="brb371278-bib-0052"><mixed-citation publication-type="journal" id="brb371278-cite-0052">
+<string-name name-style="western">
+<surname>LeGoff</surname>, <given-names>D. B.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Lazarovic</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Kofeldt</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Peters</surname>
+</string-name>. <year>2023</year>. “<article-title>Neurocognitive and Symptom Validity Testing for Post‐COVID‐19 Condition in a Workers Compensation Context</article-title>.” <source>Journal of Occupational and Environmental Medicine</source>
+<volume>65</volume>, no. <issue>10</issue>: <fpage>803</fpage>–<lpage>812</lpage>. <pub-id pub-id-type="doi">10.1097/JOM.0000000000002921</pub-id>.<pub-id pub-id-type="pmid">37442762</pub-id>
+<pub-id pub-id-type="pmcid">PMC10581420</pub-id></mixed-citation></ref><ref id="brb371278-bib-0053"><mixed-citation publication-type="journal" id="brb371278-cite-0053">
+<string-name name-style="western">
+<surname>Leins</surname>, <given-names>D. A.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>R. P.</given-names>
+<surname>Fisher</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>S. J.</given-names>
+<surname>Ross</surname>
+</string-name>. <year>2013</year>. “<article-title>Exploring Liars' Strategies for Creating Deceptive Reports</article-title>.” <source>Legal and Criminological Psychology</source>
+<volume>18</volume>, no. <issue>1</issue>: <fpage>141</fpage>–<lpage>151</lpage>. <pub-id pub-id-type="doi">10.1111/j.2044-8333.2011.02041.x</pub-id>.</mixed-citation></ref><ref id="brb371278-bib-0054"><mixed-citation publication-type="journal" id="brb371278-cite-0054">
+<string-name name-style="western">
+<surname>Livanos</surname>, <given-names>I.</given-names>
+</string-name>, and <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Zangelidis</surname>
+</string-name>. <year>2013</year>. “<article-title>Unemployment, Labor Market Flexibility, and Absenteeism: A Pan‐European Study</article-title>.” <source>Industrial Relations: A Journal of Economy and Society</source>
+<volume>52</volume>, no. <issue>2</issue>: <fpage>492</fpage>–<lpage>515</lpage>. <pub-id pub-id-type="doi">10.1111/irel.12021</pub-id>.</mixed-citation></ref><ref id="brb371278-bib-0055"><mixed-citation publication-type="journal" id="brb371278-cite-0055">
+<string-name name-style="western">
+<surname>Lusinyan</surname>, <given-names>L.</given-names>
+</string-name>, and <string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Bonato</surname>
+</string-name>. <year>2007</year>. “<article-title>Work Absence in Europe</article-title>.” <source>IMF Staff Papers</source>
+<volume>54</volume>, no. <issue>3</issue>: <fpage>475</fpage>–<lpage>538</lpage>. <pub-id pub-id-type="doi">10.5089/9781451859843.001</pub-id>.</mixed-citation></ref><ref id="brb371278-bib-0056"><mixed-citation publication-type="journal" id="brb371278-cite-0056">
+<string-name name-style="western">
+<surname>Mangiulli</surname>, <given-names>I.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>F.</given-names>
+<surname>Battista</surname>
+</string-name>, <string-name name-style="western">
+<given-names>N. A.</given-names>
+<surname>Kafi</surname>
+</string-name>, et al. <year>2022</year>. “<article-title>False Memory and COVID‐19: How People Fall for Fake News about COVID‐19 in Digital Contexts</article-title>.” <source>Frontiers in Psychology</source>
+<volume>13</volume>, no. <issue>1</issue>: <elocation-id>972004</elocation-id>. <pub-id pub-id-type="doi">10.3389/fpsyg.2022.972004</pub-id>.<pub-id pub-id-type="pmid">36312068</pub-id>
+<pub-id pub-id-type="pmcid">PMC9608342</pub-id></mixed-citation></ref><ref id="brb371278-bib-0057"><mixed-citation publication-type="journal" id="brb371278-cite-0057">
+<string-name name-style="western">
+<surname>Marinaccio</surname>, <given-names>A.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>F.</given-names>
+<surname>Boccuni</surname>
+</string-name>, <string-name name-style="western">
+<given-names>B. M.</given-names>
+<surname>Rondinone</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Brusco</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>D'Amario</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Iavicoli</surname>
+</string-name>. <year>2020</year>. “<article-title>Occupational Factors in the COVID‐19 Pandemic in Italy: Compensation Claims Applications Support Establishing an Occupational Surveillance System</article-title>.” <source>Occupational and Environmental Medicine</source>
+<volume>77</volume>, no. <issue>12</issue>: <fpage>818</fpage>–<lpage>821</lpage>. <pub-id pub-id-type="doi">10.1136/oemed-2020-106844</pub-id>.<pub-id pub-id-type="pmid">32967988</pub-id>
+<pub-id pub-id-type="pmcid">PMC7677459</pub-id></mixed-citation></ref><ref id="brb371278-bib-0058"><mixed-citation publication-type="journal" id="brb371278-cite-0058">
+<string-name name-style="western">
+<surname>Martin</surname>, <given-names>P. K.</given-names>
+</string-name>, and <string-name name-style="western">
+<given-names>R. W.</given-names>
+<surname>Schroeder</surname>
+</string-name>. <year>2020</year>. “<article-title>Base Rates of Invalid Test Performance across Clinical Non‐Forensic Contexts and Settings</article-title>.” <source>Archives of Clinical Neuropsychology: The Official Journal of the National Academy of Neuropsychologists</source>
+<volume>35</volume>, no. <issue>6</issue>: <fpage>717</fpage>–<lpage>725</lpage>. <pub-id pub-id-type="doi">10.1093/arclin/acaa017</pub-id>.<pub-id pub-id-type="pmid">32318712</pub-id>
+</mixed-citation></ref><ref id="brb371278-bib-0059"><mixed-citation publication-type="journal" id="brb371278-cite-0059">
+<string-name name-style="western">
+<surname>Masip</surname>, <given-names>J.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Alonso</surname>
+</string-name>, <string-name name-style="western">
+<given-names>E.</given-names>
+<surname>Garrido</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Antón</surname>
+</string-name>. <year>2005</year>. “<article-title>Generalized Communicative Suspicion (GCS) Among Police Officers: Accounting for the Investigator Bias Effect</article-title>.” <source>Journal of Applied Social Psychology</source>
+<volume>35</volume>, no. <issue>5</issue>: <fpage>1046</fpage>–<lpage>1066</lpage>. <pub-id pub-id-type="doi">10.1111/j.1559-1816.2005.tb02159.x</pub-id>.</mixed-citation></ref><ref id="brb371278-bib-0060"><mixed-citation publication-type="journal" id="brb371278-cite-0060">
+<string-name name-style="western">
+<surname>Masip</surname>, <given-names>J.</given-names>
+</string-name>, and <string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Herrero</surname>
+</string-name>. <year>2013</year>. “<article-title>What ‘Would You Say If You Were Guilty?’ Suspects' Strategies During a Hypothetical Behavior Analysis Interview Concerning a Serious Crime</article-title>.” <source>Applied Cognitive Psychology</source>
+<volume>27</volume>, no. <issue>1</issue>: <fpage>60</fpage>–<lpage>70</lpage>. <pub-id pub-id-type="doi">10.1002/acp.2872</pub-id>.</mixed-citation></ref><ref id="brb371278-bib-0062"><mixed-citation publication-type="journal" id="brb371278-cite-0062">
+<string-name name-style="western">
+<surname>Merten</surname>, <given-names>T.</given-names>
+</string-name>, and <string-name name-style="western">
+<given-names>P.</given-names>
+<surname>Giger</surname>
+</string-name>. <year>2018</year>. “<article-title>Lay Persons' Prevalence Estimates of Malingering in Independent Medical and Psychological Examinations</article-title>.” <source>Forensische Psychiatrie, Psychologie, Kriminologie</source>
+<volume>12</volume>, no. <issue>1</issue>: <fpage>164</fpage>–<lpage>171</lpage>. <pub-id pub-id-type="doi">10.1037/pne0000303</pub-id>.</mixed-citation></ref><ref id="brb371278-bib-0063"><mixed-citation publication-type="journal" id="brb371278-cite-0063">
+<string-name name-style="western">
+<surname>Merten</surname>, <given-names>T.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Merckelbach</surname>
+</string-name>, <string-name name-style="western">
+<given-names>P.</given-names>
+<surname>Giger</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Strevens</surname>
+</string-name>. <year>2016</year>. “<article-title>The Self‐Report Symptom Inventory (SRSI): A New Instrument for the Assessment of Distorted Symptom Endorsement</article-title>.” <source>Psychological Injury and Law</source>
+<volume>2</volume>, no. <issue>9</issue>: <fpage>102</fpage>–<lpage>111</lpage>. <pub-id pub-id-type="doi">10.1007/s12207-016-9257-3</pub-id>.</mixed-citation></ref><ref id="brb371278-bib-0064"><mixed-citation publication-type="journal" id="brb371278-cite-0064">
+<string-name name-style="western">
+<surname>Monaro</surname>, <given-names>M.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Toncini</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Ferracuti</surname>
+</string-name>, et al. <year>2018</year>. “<article-title>The Detection of Malingering: A New Tool to Identify Made‐Up Depression</article-title>.” <source>Frontiers in Psychiatry</source>
+<volume>9</volume>: <elocation-id>249</elocation-id>. <pub-id pub-id-type="doi">10.3389/fpsyt.2018.00249</pub-id>.<pub-id pub-id-type="pmid">29937740</pub-id>
+<pub-id pub-id-type="pmcid">PMC6002526</pub-id></mixed-citation></ref><ref id="brb371278-bib-0065"><mixed-citation publication-type="book" id="brb371278-cite-0065">
+<string-name name-style="western">
+<surname>Nahari</surname>, <given-names>G.</given-names>
+</string-name>
+<year>2019</year>. “<part-title>Verifiability Approach: Applications in Different Judgmental Settings</part-title>.” In <source>The Palgrave Handbook of Deceptive Communication</source>, <fpage>213</fpage>–<lpage>225</lpage>. <publisher-name>Springer International Publishing</publisher-name>. ISBN 9783319963334.</mixed-citation></ref><ref id="brb371278-bib-0066"><mixed-citation publication-type="journal" id="brb371278-cite-0066">
+<string-name name-style="western">
+<surname>Nahari</surname>, <given-names>G.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Leal</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Vrij</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Warmelink</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>Z.</given-names>
+<surname>Vernham</surname>
+</string-name>. <year>2014c</year>. “<article-title>Did Somebody See It? Applying the Verifiability Approach to Insurance Claim Interviews</article-title>.” <source>Journal of Investigative Psychology and Offender Profiling</source>
+<volume>11</volume>, no. <issue>3</issue>: <fpage>237</fpage>–<lpage>243</lpage>. <pub-id pub-id-type="doi">10.1002/jip.1417</pub-id>.</mixed-citation></ref><ref id="brb371278-bib-0067"><mixed-citation publication-type="journal" id="brb371278-cite-0067">
+<string-name name-style="western">
+<surname>Nahari</surname>, <given-names>G.</given-names>
+</string-name>, and <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Pazuelo</surname>
+</string-name>. <year>2015</year>. “<article-title>Telling a Convincing Story: Richness in Detail as a Function of Gender and Information</article-title>.” <source>Journal of Applied Research in Memory and Cognition</source>
+<volume>4</volume>, no. <issue>4</issue>: <fpage>363</fpage>–<lpage>367</lpage>. <pub-id pub-id-type="doi">10.1016/j.jarmac.2015.08.005</pub-id>.</mixed-citation></ref><ref id="brb371278-bib-0070"><mixed-citation publication-type="journal" id="brb371278-cite-0070">
+<string-name name-style="western">
+<surname>Nahari</surname>, <given-names>G.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Vrij</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>R. P.</given-names>
+<surname>Fisher</surname>
+</string-name>. <year>2012</year>. “<article-title>Does the Truth Come Out in the Writing? Scan as a Lie Detection Tool</article-title>.” <source>Law and Human Behavior</source>
+<volume>36</volume>, no. <issue>1</issue>: <fpage>68</fpage>–<lpage>76</lpage>. <pub-id pub-id-type="doi">10.1037/h0093965</pub-id>.<pub-id pub-id-type="pmid">22471387</pub-id>
+</mixed-citation></ref><ref id="brb371278-bib-0071"><mixed-citation publication-type="journal" id="brb371278-cite-0071">
+<string-name name-style="western">
+<surname>Nahari</surname>, <given-names>G.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Vrij</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>R. P.</given-names>
+<surname>Fisher</surname>
+</string-name>. <year>2014a</year>. “<article-title>Exploiting Liars' Verbal Strategies by Examining the Verifiability of Details</article-title>.” <source>Legal and Criminological Psychology</source>
+<volume>19</volume>, no. <issue>2</issue>: <fpage>227</fpage>–<lpage>239</lpage>. <pub-id pub-id-type="doi">10.1111/j.2044-8333.2012.02069.x</pub-id>.</mixed-citation></ref><ref id="brb371278-bib-0072"><mixed-citation publication-type="journal" id="brb371278-cite-0072">
+<string-name name-style="western">
+<surname>Nahari</surname>, <given-names>G.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Vrij</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>R. P.</given-names>
+<surname>Fisher</surname>
+</string-name>. <year>2014b</year>. “<article-title>The Verifiability Approach: Countermeasures Facilitate Its Ability to Discriminate Between Truths and Lies</article-title>.” <source>Applied Cognitive Psychology</source>
+<volume>28</volume>, no. <issue>1</issue>: <fpage>122</fpage>–<lpage>128</lpage>. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://doi.wiley.com/10.1002/acp.2974" ext-link-type="uri">http://doi.wiley.com/10.1002/acp.2974</ext-link>.</mixed-citation></ref><ref id="brb371278-bib-0115"><mixed-citation publication-type="book" id="brb371278-cit-0115">
+<string-name name-style="western">
+<surname>Nahari</surname>, <given-names>G.</given-names>
+</string-name>
+<year>2018</year>. “<part-title>The applicability of the verifiability approach to the real world</part-title>.” In <person-group person-group-type="editor">
+<string-name name-style="western">
+<given-names>J. P.</given-names>
+<surname>Rosenfeld</surname>
+</string-name>
+</person-group> (Ed.), <source>Detecting concealed information and deception: Recent developments</source>, <fpage>329</fpage>–<lpage>349</lpage>. <publisher-name>Elsevier Academic Press</publisher-name>. <pub-id pub-id-type="doi">10.1016/B978-0-12-812729-2.00014-8</pub-id>.</mixed-citation></ref><ref id="brb371278-bib-0074"><mixed-citation publication-type="journal" id="brb371278-cite-0074">
+<string-name name-style="western">
+<surname>Oberlader</surname>, <given-names>V. A.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Naefgen</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Koppehele‐Gossel</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Quinten</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Banse</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>A. F.</given-names>
+<surname>Schmidt</surname>
+</string-name>. <year>2016</year>. “<article-title>Validity of Content‐Based Techniques to Distinguish True and Fabricated Statements: A Meta‐Analysis</article-title>.” <source>Law and Human Behavior</source>
+<volume>40</volume>, no. <issue>4</issue>: <fpage>440</fpage>–<lpage>457</lpage>. <pub-id pub-id-type="doi">10.1037/lhb0000193</pub-id>.<pub-id pub-id-type="pmid">27149290</pub-id>
+</mixed-citation></ref><ref id="brb371278-bib-0075"><mixed-citation publication-type="journal" id="brb371278-cite-0075">
+<string-name name-style="western">
+<surname>Palena</surname>, <given-names>N.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Caso</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Vrij</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>G.</given-names>
+<surname>Nahari</surname>
+</string-name>. <year>2021</year>. “<article-title>The Verifiability Approach: A Meta‐Analysis</article-title>.” <source>Journal of Applied Research in Memory and Cognition</source>
+<volume>10</volume>, no. <issue>1</issue>: <fpage>155</fpage>–<lpage>166</lpage>. <pub-id pub-id-type="doi">10.1016/j.jarmac.2020.09.001</pub-id>.</mixed-citation></ref><ref id="brb371278-bib-0077"><mixed-citation publication-type="journal" id="brb371278-cite-0077">
+<string-name name-style="western">
+<surname>Porter</surname>, <given-names>S.</given-names>
+</string-name>, and <string-name name-style="western">
+<given-names>L.</given-names>
+<surname>ten Brinke</surname>
+</string-name>. <year>2010</year>. “<article-title>The Truth About Lies: What Works in Detecting High‐Stakes Deception?</article-title>” <source>Legal and Criminological Psychology</source>
+<volume>15</volume>, no. <issue>1</issue>: <fpage>57</fpage>–<lpage>75</lpage>. <pub-id pub-id-type="doi">10.1348/135532509x433151</pub-id>.</mixed-citation></ref><ref id="brb371278-bib-0078"><mixed-citation publication-type="journal" id="brb371278-cite-0078">
+<string-name name-style="western">
+<surname>Puente‐López</surname>, <given-names>E.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Pina</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R.</given-names>
+<surname>López‐López</surname>
+</string-name>, <string-name name-style="western">
+<given-names>H. G.</given-names>
+<surname>Ordi</surname>
+</string-name>, <string-name name-style="western">
+<given-names>I.</given-names>
+<surname>Bošković</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>T.</given-names>
+<surname>Merten</surname>
+</string-name>. <year>2023</year>. “<article-title>Prevalence Estimates of Symptom Feigning and Malingering in Spain</article-title>.” <source>Psychological Injury and Law</source>
+<volume>16</volume>, no. <issue>1</issue>: <fpage>1</fpage>–<lpage>17</lpage>. <pub-id pub-id-type="doi">10.1007/s12207-022-09458-w</pub-id>.<pub-id pub-id-type="pmid">35911787</pub-id>
+<pub-id pub-id-type="pmcid">PMC9321279</pub-id></mixed-citation></ref><ref id="brb371278-bib-0079"><mixed-citation publication-type="journal" id="brb371278-cite-0079">
+<string-name name-style="western">
+<surname>Qiu</surname>, <given-names>D.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>He</surname>
+</string-name>, <string-name name-style="western">
+<given-names>F.</given-names>
+<surname>Ouyang</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Xiao</surname>
+</string-name>. <year>2021</year>. “<article-title>Prevalence of Post‐Traumatic Stress Symptoms Among People Influenced by Coronavirus Disease 2019 Outbreak: A Meta‐Analysis</article-title>.” <source>European Psychiatry</source>
+<volume>64</volume>, no. <issue>1</issue>: <elocation-id>e30</elocation-id>. <pub-id pub-id-type="doi">10.1192/j.eurpsy.2021.24</pub-id>.<pub-id pub-id-type="pmid">33843547</pub-id>
+<pub-id pub-id-type="pmcid">PMC8060540</pub-id></mixed-citation></ref><ref id="brb371278-bib-0117"><mixed-citation publication-type="book" id="brb371278-cit-0117">
+<collab collab-type="authors">R Core Team</collab>
+. <year>2023</year>. <source>R: A language and environment for statistical computing</source>. <publisher-name>R Foundation for Statistical Computing</publisher-name>. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.R-project.org/" ext-link-type="uri">https://www.R-project.org/</ext-link>.</mixed-citation></ref><ref id="brb371278-bib-0080"><mixed-citation publication-type="book" id="brb371278-cite-0080">
+<string-name name-style="western">
+<surname>Resnick</surname>, <given-names>P. J.</given-names>
+</string-name>, and <string-name name-style="western">
+<given-names>M. R.</given-names>
+<surname>Harris</surname>
+</string-name>. <year>2002</year>. “<part-title>Retrospective Assessment of Malingering in Insanity Defense Cases</part-title>.” In <source>Retrospective Assessment of Mental States in Litigation: Predicting the Past</source>, edited by <person-group person-group-type="editor">
+<string-name name-style="western">
+<given-names>R. I.</given-names>
+<surname>Simon</surname>
+</string-name>
+</person-group> and <person-group person-group-type="editor">
+<string-name name-style="western">
+<given-names>D. W.</given-names>
+<surname>Shuman</surname>
+</string-name>
+</person-group>, <fpage>101</fpage>–<lpage>134</lpage>. <publisher-name>American Psychiatric Publishing, Inc</publisher-name>.</mixed-citation></ref><ref id="brb371278-bib-0081"><mixed-citation publication-type="book" id="brb371278-cite-0081">
+<string-name name-style="western">
+<surname>Resnick</surname>, <given-names>P. J.</given-names>
+</string-name>, and <string-name name-style="western">
+<given-names>J. L.</given-names>
+<surname>Knoll</surname>
+</string-name>. <year>2018</year>. “<part-title>Malingered psychosis</part-title>.” In <source>Clinical Assessment of Malingering and Deception</source>, edited by <person-group person-group-type="editor">
+<string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Rogers</surname>
+</string-name>
+</person-group> and <person-group person-group-type="editor">
+<string-name name-style="western">
+<given-names>S. D.</given-names>
+<surname>Bender</surname>
+</string-name>
+</person-group>, <edition>4th ed.</edition>, <fpage>98</fpage>–<lpage>121</lpage>. <publisher-name>Guilford Press</publisher-name>.</mixed-citation></ref><ref id="brb371278-bib-0082"><mixed-citation publication-type="journal" id="brb371278-cite-0082">
+<string-name name-style="western">
+<surname>Ribatti</surname>, <given-names>R. M.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Curci</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>T.</given-names>
+<surname>Lanciano</surname>
+</string-name>. <year>2022</year>. “<article-title>The Psychological Impact of the Pandemic: The Effects of COVID‐19 Pictures on Emotional Processing</article-title>.” <source>Psychology Hub</source>
+<volume>39</volume>, no. <issue>1</issue>: <fpage>25</fpage>–<lpage>36</lpage>. <pub-id pub-id-type="doi">10.13133/2724-2943/17660</pub-id>.</mixed-citation></ref><ref id="brb371278-bib-0083"><mixed-citation publication-type="book" id="brb371278-cite-0083">
+<string-name name-style="western">
+<surname>Rogers</surname>, <given-names>R.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>R. M.</given-names>
+<surname>Bagby</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>S. E.</given-names>
+<surname>Dickens</surname>
+</string-name>. <year>1992</year>. <source>Structured Interview of Reported Symptoms (SIRS) and Professional Manual</source>. <publisher-name>Psychological Assessment Resources, Inc</publisher-name>. <pub-id pub-id-type="doi">10.1002/9780470479216.corpsy0957</pub-id>.</mixed-citation></ref><ref id="brb371278-bib-0084"><mixed-citation publication-type="book" id="brb371278-cite-0084">
+<string-name name-style="western">
+<surname>Rogers</surname>, <given-names>R.</given-names>
+</string-name>, and <string-name name-style="western">
+<given-names>S. D.</given-names>
+<surname>Bender</surname>
+</string-name>. <year>2018</year>. <source>Clinical Assessment of Malingering and Deception</source>, <edition>4th ed.</edition>
+<publisher-name>Guilford Press</publisher-name>. ISBN 9781462544189.</mixed-citation></ref><ref id="brb371278-bib-0085"><mixed-citation publication-type="journal" id="brb371278-cite-0085">
+<string-name name-style="western">
+<surname>Rogers</surname>, <given-names>R.</given-names>
+</string-name>, and <string-name name-style="western">
+<given-names>K. R.</given-names>
+<surname>Cruise</surname>
+</string-name>. <year>1998</year>. “<article-title>Assessment of Malingering With Simulation Designs: Threats to External Validity</article-title>.” <source>Law and Human Behavior</source>
+<volume>22</volume>, no. <issue>3</issue>: <fpage>273</fpage>–<lpage>285</lpage>. <pub-id pub-id-type="doi">10.1023/a:1025702405865</pub-id>.<pub-id pub-id-type="pmid">9631664</pub-id>
+</mixed-citation></ref><ref id="brb371278-bib-0086"><mixed-citation publication-type="book" id="brb371278-cite-0086">
+<string-name name-style="western">
+<surname>Rogers</surname>, <given-names>R.</given-names>
+</string-name>, and <string-name name-style="western">
+<given-names>M. J.</given-names>
+<surname>Vitacco</surname>
+</string-name>. <year>2002</year>. “<part-title>Forensic Assessment of Malingering and Related Response Styles</part-title>.” In <source>Forensic Psychology: From Classroom to Courtroom</source>, <fpage>83</fpage>–<lpage>104</lpage>. <publisher-name>Springer</publisher-name>. <pub-id pub-id-type="doi">10.1007/0-306-47923-0_5</pub-id>.</mixed-citation></ref><ref id="brb371278-bib-0087"><mixed-citation publication-type="journal" id="brb371278-cite-0087">
+<string-name name-style="western">
+<surname>Rosen</surname>, <given-names>G. M.</given-names>
+</string-name>, and <string-name name-style="western">
+<given-names>W. R.</given-names>
+<surname>Phillips</surname>
+</string-name>. <year>2004</year>. “<article-title>A Cautionary Lesson From Simulated Patients</article-title>.” <source>Journal of the American Academy of Psychiatry and the Law Online</source>
+<volume>32</volume>, no. <issue>2</issue>: <fpage>132</fpage>–<lpage>133</lpage>.<pub-id pub-id-type="pmid">15281413</pub-id></mixed-citation></ref><ref id="brb371278-bib-0089"><mixed-citation publication-type="journal" id="brb371278-cite-0089">
+<string-name name-style="western">
+<surname>Schmider</surname>, <given-names>E.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Ziegler</surname>
+</string-name>, <string-name name-style="western">
+<given-names>E.</given-names>
+<surname>Danay</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Beyer</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Bühner</surname>
+</string-name>. <year>2010</year>. “<article-title>Is It Really Robust? Reinvestigating the Robustness of ANOVA Against Violations of the Normal Distribution Assumption</article-title>.” <source>Methodology: European Journal of Research Methods for the Behavioral and Social Sciences</source>
+<volume>6</volume>, no. <issue>4</issue>: <fpage>147</fpage>–<lpage>151</lpage>. <pub-id pub-id-type="doi">10.1027/1614-2241/a000016</pub-id>.</mixed-citation></ref><ref id="brb371278-bib-0090"><mixed-citation publication-type="journal" id="brb371278-cite-0090">
+<string-name name-style="western">
+<surname>Schroeder</surname>, <given-names>R. W.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>H. A.</given-names>
+<surname>Clark</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>P. K.</given-names>
+<surname>Martin</surname>
+</string-name>. <year>2022</year>. “<article-title>Base Rates of Invalidity When Patients Undergoing Routine Clinical Evaluations Have Social Security Disability as an External Incentive</article-title>.” <source>Clinical Neuropsychologist</source>
+<volume>36</volume>, no. <issue>7</issue>: <fpage>1902</fpage>–<lpage>1914</lpage>. <pub-id pub-id-type="doi">10.1080/13854046.2021.1895322</pub-id>.<pub-id pub-id-type="pmid">33706657</pub-id>
+</mixed-citation></ref><ref id="brb371278-bib-0092"><mixed-citation publication-type="journal" id="brb371278-cite-0092">
+<string-name name-style="western">
+<surname>Sears</surname>, <given-names>D.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Ahalt</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Augustine</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>B.</given-names>
+<surname>Williams</surname>
+</string-name>. <year>2020</year>. “<article-title>Occupational Health: A Key to the Control of COVID‐19 in Correctional Facilities</article-title>.” <source>Annals of internal medicine</source>
+<volume>173</volume>, no. <issue>11</issue>: <fpage>924</fpage>–<lpage>925</lpage>. <pub-id pub-id-type="doi">10.7326/M20-4543</pub-id>.<pub-id pub-id-type="pmid">32716628</pub-id>
+<pub-id pub-id-type="pmcid">PMC7418489</pub-id></mixed-citation></ref><ref id="brb371278-bib-0093"><mixed-citation publication-type="journal" id="brb371278-cite-0093">
+<string-name name-style="western">
+<surname>Smith</surname>, <given-names>G. P.</given-names>
+</string-name>, and <string-name name-style="western">
+<given-names>G. K.</given-names>
+<surname>Burger</surname>
+</string-name>. <year>1997</year>. “<article-title>Detection of Malingering: Validation of the Structured Inventory of Malingered Symptomatology (SIMS)</article-title>.” <source>Journal of the American Academy of Psychiatry and the Law Online</source>
+<volume>25</volume>, no. <issue>2</issue>: <fpage>183</fpage>–<lpage>189</lpage>.<pub-id pub-id-type="pmid">9213290</pub-id></mixed-citation></ref><ref id="brb371278-bib-0094"><mixed-citation publication-type="journal" id="brb371278-cite-0094">
+<string-name name-style="western">
+<surname>Strömwall</surname>, <given-names>L. A.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Hartwig</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>P. A.</given-names>
+<surname>Granhag</surname>
+</string-name>. <year>2006</year>. “<article-title>To Act Truthfully: Nonverbal Behaviour and Strategies During a Police Interrogation</article-title>.” <source>Psychology, Crime &amp; Law</source>
+<volume>12</volume>, no. <issue>2</issue>: <fpage>207</fpage>–<lpage>219</lpage>. <pub-id pub-id-type="doi">10.1080/10683160512331331328</pub-id>.</mixed-citation></ref><ref id="brb371278-bib-0096"><mixed-citation publication-type="journal" id="brb371278-cite-0096">
+<string-name name-style="western">
+<surname>Talevi</surname>, <given-names>D.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>V.</given-names>
+<surname>Socci</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Carai</surname>
+</string-name>, et al. <year>2020</year>. “<article-title>Mental Health Outcomes of the CoViD‐19 Pandemic</article-title>.” <source>Rivista di Psichiatria</source>
+<volume>55</volume>, no. <issue>3</issue>: <fpage>137</fpage>–<lpage>144</lpage>. <pub-id pub-id-type="doi">10.1708/3382.33569</pub-id>.<pub-id pub-id-type="pmid">32489190</pub-id>
+</mixed-citation></ref><ref id="brb371278-bib-0098"><mixed-citation publication-type="journal" id="brb371278-cite-0098">
+<string-name name-style="western">
+<surname>Taurisano</surname>, <given-names>P.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>T.</given-names>
+<surname>Lanciano</surname>
+</string-name>, <string-name name-style="western">
+<given-names>F.</given-names>
+<surname>Alfeo</surname>
+</string-name>, et al. <year>2022</year>. “<article-title>The COVID‐19 Stress Perceived on Social Distance and Gender‐Based Implications</article-title>.” <source>Frontiers in Psychology</source>
+<volume>13</volume>: <elocation-id>846097</elocation-id>. <pub-id pub-id-type="doi">10.3389/fpsyg.2022.846097</pub-id>.<pub-id pub-id-type="pmid">35615201</pub-id>
+<pub-id pub-id-type="pmcid">PMC9126176</pub-id></mixed-citation></ref><ref id="brb371278-bib-0099"><mixed-citation publication-type="journal" id="brb371278-cite-0099">
+<string-name name-style="western">
+<surname>Taylor</surname>, <given-names>S.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>C. A.</given-names>
+<surname>Landry</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M. M.</given-names>
+<surname>Paluszek</surname>
+</string-name>, <string-name name-style="western">
+<given-names>T. A.</given-names>
+<surname>Fergus</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D.</given-names>
+<surname>McKay</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>G. J.</given-names>
+<surname>Asmundson</surname>
+</string-name>. <year>2020</year>. “<article-title>COVID Stress Syndrome: Concept, Structure, and Correlates</article-title>.” <source>Depression and Anxiety</source>
+<volume>37</volume>, no. <issue>8</issue>: <fpage>706</fpage>–<lpage>714</lpage>. <pub-id pub-id-type="doi">10.1002/da.23071</pub-id>.<pub-id pub-id-type="pmid">32627255</pub-id>
+<pub-id pub-id-type="pmcid">PMC7362150</pub-id></mixed-citation></ref><ref id="brb371278-bib-0100"><mixed-citation publication-type="journal" id="brb371278-cite-0100">
+<string-name name-style="western">
+<surname>Vernham</surname>, <given-names>Z.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Vrij</surname>
+</string-name>, <string-name name-style="western">
+<given-names>G.</given-names>
+<surname>Nahari</surname>
+</string-name>, et al. <year>2020</year>. “<article-title>Applying the Verifiability Approach to Deception Detection in Alibi Witness Situations</article-title>.” <source>Acta Psychologica</source>
+<volume>204</volume>, no. <issue>1</issue>: <elocation-id>103020</elocation-id>. <pub-id pub-id-type="doi">10.1016/j.actpsy.2020.103020</pub-id>.<pub-id pub-id-type="pmid">32014621</pub-id>
+</mixed-citation></ref><ref id="brb371278-bib-0101"><mixed-citation publication-type="journal" id="brb371278-cite-0101">
+<string-name name-style="western">
+<surname>Vrij</surname>, <given-names>A.</given-names>
+</string-name>
+<year>2005</year>. “<article-title>Criteria‐Based Content Analysis: A Qualitative Review of the First 37 Studies</article-title>.” <source>Psychology, Public Policy, and Law</source>
+<volume>11</volume>, no. <issue>1</issue>: <fpage>3</fpage>–<lpage>41</lpage>. <pub-id pub-id-type="doi">10.1037/1076-8971.11.1.3</pub-id>.</mixed-citation></ref><ref id="brb371278-bib-0102"><mixed-citation publication-type="book" id="brb371278-cite-0102">
+<string-name name-style="western">
+<surname>Vrij</surname>, <given-names>A.</given-names>
+</string-name>
+<year>2008</year>. <source>Detecting Lies and Deceit: Pitfalls and Opportunities</source>. <publisher-name>John Wiley &amp; Sons</publisher-name>. ISBN 978‐0‐470‐51624‐9.</mixed-citation></ref><ref id="brb371278-bib-0103"><mixed-citation publication-type="book" id="brb371278-cite-0103">
+<string-name name-style="western">
+<surname>Vrij</surname>, <given-names>A.</given-names>
+</string-name>
+<year>2015</year>. “<part-title>Deception detection</part-title>.” In <source>APA Handbook of Forensic Psychology, Vol. 2. Criminal Investigation, Adjudication, and Sentencing Outcomes</source>, edited by <person-group person-group-type="editor">
+<string-name name-style="western">
+<given-names>B. L.</given-names>
+<surname>Cutler</surname>
+</string-name>
+</person-group> and <person-group person-group-type="editor">
+<string-name name-style="western">
+<given-names>P. A.</given-names>
+<surname>Zapf</surname>
+</string-name>
+</person-group>, <fpage>225</fpage>–<lpage>244</lpage>. <publisher-name>American Psychological Association</publisher-name>. <pub-id pub-id-type="doi">10.1037/14462-008</pub-id>.</mixed-citation></ref><ref id="brb371278-bib-0107"><mixed-citation publication-type="journal" id="brb371278-cite-0107">
+<string-name name-style="western">
+<surname>Vrij</surname>, <given-names>A.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Mann</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Leal</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>R. P.</given-names>
+<surname>Fisher</surname>
+</string-name>. <year>2021</year>. “<article-title>Combining Verbal Veracity Assessment Techniques to Distinguish Truth Tellers From Lie Tellers</article-title>.” <source>European Journal of Psychology Applied to Legal Context</source>
+<volume>13</volume>, no. <issue>1</issue>: <fpage>9</fpage>–<lpage>19</lpage>. <pub-id pub-id-type="doi">10.5093/ejpalc2021a2</pub-id>.</mixed-citation></ref><ref id="brb371278-bib-0108"><mixed-citation publication-type="journal" id="brb371278-cite-0108">
+<string-name name-style="western">
+<surname>Vrij</surname>, <given-names>A.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Mann</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Leal</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>P. A.</given-names>
+<surname>Granhag</surname>
+</string-name>. <year>2010</year>. “<article-title>Getting into the Minds of Pairs of Liars and Truth Tellers: An Examination of Their Strategies</article-title>.” <source>Open Criminology Journal</source>
+<volume>3</volume>, no. <issue>1</issue>: <fpage>17</fpage>–<lpage>22</lpage>. <pub-id pub-id-type="doi">10.2174/1874917801003010017</pub-id>.</mixed-citation></ref><ref id="brb371278-bib-0109"><mixed-citation publication-type="journal" id="brb371278-cite-0109">
+<string-name name-style="western">
+<surname>Vrij</surname>, <given-names>A.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>G.</given-names>
+<surname>Nahari</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Isitt</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Leal</surname>
+</string-name>. <year>2016</year>. “<article-title>Using the Verifiability Lie Detection Approach in an Insurance Claim Setting</article-title>.” <source>Journal of Investigative Psychology and Offender Profiling</source>
+<volume>13</volume>, no. <issue>3</issue>: <fpage>183</fpage>–<lpage>197</lpage>. <pub-id pub-id-type="doi">10.1002/jip.1458</pub-id>.</mixed-citation></ref><ref id="brb371278-bib-0110"><mixed-citation publication-type="journal" id="brb371278-cite-0110">
+<string-name name-style="western">
+<surname>Walczyk</surname>, <given-names>J. J.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>L. L.</given-names>
+<surname>Harris</surname>
+</string-name>, <string-name name-style="western">
+<given-names>T. K.</given-names>
+<surname>Duck</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Mulay</surname>
+</string-name>. <year>2014</year>. “<article-title>A Social‐Cognitive Framework for Understanding Serious Lies: Activation‐Decision‐Construction‐Action Theory</article-title>.” <source>New Ideas in Psychology</source>
+<volume>34</volume>: <fpage>22</fpage>–<lpage>36</lpage>. <pub-id pub-id-type="doi">10.1016/j.newideapsych.2014.03.001</pub-id>.</mixed-citation></ref><ref id="brb371278-bib-0111"><mixed-citation publication-type="journal" id="brb371278-cite-0111">
+<string-name name-style="western">
+<surname>Walczyk</surname>, <given-names>J. J.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>N.</given-names>
+<surname>Sewell</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>M. B.</given-names>
+<surname>DiBenedetto</surname>
+</string-name>. <year>2018</year>. “<article-title>A Review of Approaches to Detecting Malingering in Forensic Contexts and Promising Cognitive Load‐Inducing Lie Detection Techniques</article-title>.” <source>Frontiers in Psychiatry</source>
+<volume>9</volume>, no. <issue>1</issue>: <fpage>700</fpage>–<lpage>714</lpage>. <pub-id pub-id-type="doi">10.3389/fpsyt.2018.00700</pub-id>.<pub-id pub-id-type="pmid">30622488</pub-id>
+<pub-id pub-id-type="pmcid">PMC6308182</pub-id></mixed-citation></ref><ref id="brb371278-bib-0112"><mixed-citation publication-type="journal" id="brb371278-cite-0112">
+<string-name name-style="western">
+<surname>Wang</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>M. C.</given-names>
+<surname>Chung</surname>
+</string-name>, <string-name name-style="western">
+<given-names>N.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name name-style="western">
+<given-names>X.</given-names>
+<surname>Yu</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Kenardy</surname>
+</string-name>. <year>2021</year>. “<article-title>Social Support and Posttraumatic Stress Disorder: A Meta‐Analysis of Longitudinal Studies</article-title>.” <source>Clinical Psychology Review</source>
+<volume>85</volume>, no. <issue>1</issue>: <elocation-id>101998</elocation-id>. <pub-id pub-id-type="doi">10.1016/j.cpr.2021.10199</pub-id>.<pub-id pub-id-type="pmid">33714168</pub-id>
+</mixed-citation></ref><ref id="brb371278-bib-0114"><mixed-citation publication-type="journal" id="brb371278-cite-0114">
+<string-name name-style="western">
+<surname>Zhang</surname>, <given-names>Y.</given-names>
+</string-name>, and <string-name name-style="western">
+<given-names>Z. F.</given-names>
+<surname>Ma</surname>
+</string-name>. <year>2020</year>. “<article-title>Impact of the COVID‐19 Pandemic on Mental Health and Quality of Life Among Local Residents in Liaoning Province, China: A Cross‐Sectional Study</article-title>.” <source>International Journal of Environmental Research and Public Health</source>
+<volume>17</volume>, no. <issue>7</issue>: <fpage>2381</fpage>–<lpage>2395</lpage>. <pub-id pub-id-type="doi">10.3390/ijerph17072381</pub-id>.<pub-id pub-id-type="pmid">32244498</pub-id>
+<pub-id pub-id-type="pmcid">PMC7177660</pub-id></mixed-citation></ref></ref-list></back></article></pmc-articleset>

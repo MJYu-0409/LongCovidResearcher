@@ -1,0 +1,30 @@
+{
+  "pmcid": "PMC12563213",
+  "pmid": "41154289",
+  "doi": "10.3390/healthcare13202611",
+  "title": "A Multidimensional Assessment of Sleep Disorders in Long COVID Using the Alliance Sleep Questionnaire.",
+  "abstract": "Background/Objectives: Sleep disturbances are recognized as a common feature of Long COVID but detailed investigation into the specific nature of these sleep symptoms remain limited. This study analyzes comprehensive sleep questionnaire data from a Long COVID clinic to better characterize the nature and prevalence of sleep complaints in this population. Methods: We conducted a cross-sectional analysis of 200 adults referred to the Stanford Long COVID Clinic. Patients completed an intake questionnaire including three sleep-related items (unrefreshing sleep, insomnia, daytime sleepiness) rated on a 0-5 Likert scale. Additionally, patients completed the Alliance Sleep Questionnaire (ASQ), incorporating the Insomnia Severity Index, Epworth Sleepiness Scale, reduced Morningness-Eveningness Questionnaire, and modules for parasomnia, restless legs, and breathing symptoms. We calculated the prevalence of six sleep symptom domains. Standardized symptom data were analyzed using principal component analysis (PCA) and K-means clustering (k = 2) to explore latent phenotypes and used logistic regression to assess associations between demographic and clinical variables and each sleep complaint. Results: Sleep-related breathing complaints affected 57.5% of participants, insomnia 42.5%, and excessive daytime sleepiness 28.5%. Parallel analysis supported a nine-factor structure explaining ~90% of variance, with varimax rotation yielding interpretable domains such as insomnia/unrefreshing sleep, fatigue/post-exertional malaise, parasomnias, and respiratory symptoms. Gaussian mixture modeling favored a two-cluster solution (n = 94 and n = 106); one cluster represented a higher-burden phenotype characterized by greater BMI, insomnia, daytime sleepiness, gastrointestinal symptoms, and parasomnias. Logistic models using factor scores predicted insomnia with high accuracy (AUC = 0.90), EDS moderately well (AUC = 0.81), but extreme chronotype poorly (AUC = 0.39). In adjusted models, hospitalization during acute COVID-19 was significantly associated with insomnia (OR 4.41; 95% CI 1.27-15.36). Participants identifying as multiracial had higher odds of insomnia (OR 3.22; 95% CI 1.00-10.34), though this narrowly missed statistical significance. No other predictors were significant. Conclusions: Sleep disturbances are frequent and diverse in Long COVID. Factor analysis showed overlapping domains, while clustering identified a higher-burden phenotype marked by more severe sleep and systemic complaints. Symptom-based screening may help target those at greatest risk.",
+  "authors": [
+    "Alina Wilson",
+    "Giorgio Camillo Ricciardiello Mejia",
+    "Sara Lomba",
+    "Linda N Geng",
+    "Sanjay Malunjkar",
+    "Hector Bonilla",
+    "Oliver Sum-Ping"
+  ],
+  "journal": "Healthcare (Basel, Switzerland)",
+  "pub_year": "2025",
+  "pub_month": "Oct",
+  "pub_day": "16",
+  "keywords": [
+    "alliance sleep questionnaire",
+    "insomnia",
+    "long COVID",
+    "principal component analysis",
+    "sleep disturbances"
+  ],
+  "article_types": [
+    "Journal Article"
+  ]
+}

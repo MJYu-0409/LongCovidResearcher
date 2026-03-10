@@ -1,0 +1,1096 @@
+<?xml version="1.0"  ?><!DOCTYPE pmc-articleset PUBLIC "-//NLM//DTD ARTICLE SET 2.0//EN" "https://dtd.nlm.nih.gov/ncbi/pmc/articleset/nlm-articleset-2.0.dtd"><pmc-articleset><article xml:lang="en" article-type="research-article" dtd-version="1.4"><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">F1000Res</journal-id><journal-id journal-id-type="iso-abbrev">F1000Res</journal-id><journal-id journal-id-type="pmc-domain-id">2005</journal-id><journal-id journal-id-type="pmc-domain">f1000res</journal-id><journal-title-group><journal-title>F1000Research</journal-title></journal-title-group><issn pub-type="epub">2046-1402</issn><publisher><publisher-name>Faculty of 1000 Ltd</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC12000803</article-id><article-id pub-id-type="pmcid-ver">PMC12000803.1</article-id><article-id pub-id-type="pmcaid">12000803</article-id><article-id pub-id-type="pmcaiid">12000803</article-id><article-id pub-id-type="pmid">40242142</article-id><article-id pub-id-type="doi">10.12688/f1000research.152196.1</article-id><article-version article-version-type="pmc-version">1</article-version><article-categories><subj-group subj-group-type="heading"><subject>Research Article</subject></subj-group><subj-group><subject>Articles</subject></subj-group></article-categories><title-group><article-title>Incidence and predictive factors of hyperventilation syndrome in patients after COVID 19 pneumonia: a prospective cohort study</article-title><fn-group content-type="pub-status"><fn><p>[version 1; peer review: 2 approved]</p></fn></fn-group></title-group><contrib-group><contrib contrib-type="author" corresp="yes"><name name-style="western"><surname>CHERIF</surname><given-names initials="H">Hela</given-names></name><role content-type="http://credit.niso.org/">Conceptualization</role><role content-type="http://credit.niso.org/">Investigation</role><role content-type="http://credit.niso.org/">Methodology</role><role content-type="http://credit.niso.org/">Writing – Original Draft Preparation</role><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-2086-918X</contrib-id><xref rid="c1" ref-type="corresp">a</xref><xref rid="a1" ref-type="aff">1</xref><xref rid="a2" ref-type="aff">2</xref><xref rid="a3" ref-type="aff">3</xref></contrib><contrib contrib-type="author"><name name-style="western"><surname>Mokaddem</surname><given-names initials="S">Salma</given-names></name><role content-type="http://credit.niso.org/">Supervision</role><role content-type="http://credit.niso.org/">Validation</role><role content-type="http://credit.niso.org/">Writing – Review &amp; Editing</role><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-7775-3073</contrib-id><xref rid="a1" ref-type="aff">1</xref><xref rid="a2" ref-type="aff">2</xref></contrib><contrib contrib-type="author"><name name-style="western"><surname>Debiche</surname><given-names initials="S">Soumaya</given-names></name><role content-type="http://credit.niso.org/">Data Curation</role><role content-type="http://credit.niso.org/">Formal Analysis</role><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0009-0003-9211-3095</contrib-id><xref rid="a1" ref-type="aff">1</xref><xref rid="a2" ref-type="aff">2</xref><xref rid="a3" ref-type="aff">3</xref></contrib><contrib contrib-type="author"><name name-style="western"><surname>Kalboussi</surname><given-names initials="S">Slim</given-names></name><role content-type="http://credit.niso.org/">Data Curation</role><role content-type="http://credit.niso.org/">Formal Analysis</role><role content-type="http://credit.niso.org/">Investigation</role><xref rid="a1" ref-type="aff">1</xref><xref rid="a2" ref-type="aff">2</xref></contrib><contrib contrib-type="author"><name name-style="western"><surname>Yangui</surname><given-names initials="F">Ferdaous</given-names></name><role content-type="http://credit.niso.org/">Writing – Review &amp; Editing</role><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0003-2465-0019</contrib-id><xref rid="a1" ref-type="aff">1</xref><xref rid="a2" ref-type="aff">2</xref><xref rid="a3" ref-type="aff">3</xref></contrib><contrib contrib-type="author"><name name-style="western"><surname>Charfi</surname><given-names initials="MR">Mohamed Ridha</given-names></name><role content-type="http://credit.niso.org/">Validation</role><role content-type="http://credit.niso.org/">Writing – Review &amp; Editing</role><xref rid="a1" ref-type="aff">1</xref><xref rid="a2" ref-type="aff">2</xref><xref rid="a3" ref-type="aff">3</xref></contrib><aff id="a1">
+<label>1</label>Pulmonology Department, Internal Security Forces Hospital, Tunis, Tunisia</aff><aff id="a2">
+<label>2</label>Faculty of Medicine of Tunis, University of Tunis El Manar, Tunis, Tunis, Tunisia</aff><aff id="a3">
+<label>3</label>Research Laboratory on Health and Environment for security Foces LR21INT01, Tunis, Tunisia</aff></contrib-group><author-notes><corresp id="c1">
+<label>a</label>
+<email xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="mailto:hela.cherif@fmt.utm.tn">hela.cherif@fmt.utm.tn</email>
+</corresp><fn fn-type="COI-statement"><p>No competing interests were disclosed.</p></fn></author-notes><pub-date pub-type="epub"><day>6</day><month>12</month><year>2024</year></pub-date><pub-date pub-type="collection"><year>2024</year></pub-date><volume>13</volume><issue-id pub-id-type="pmc-issue-id">457151</issue-id><elocation-id>1497</elocation-id><history><date date-type="accepted"><day>27</day><month>11</month><year>2024</year></date></history><pub-history><event event-type="pmc-release"><date><day>06</day><month>12</month><year>2024</year></date></event><event event-type="pmc-live"><date><day>16</day><month>04</month><year>2025</year></date></event><event event-type="pmc-last-change"><date iso-8601-date="2025-04-17 09:25:40.487"><day>17</day><month>04</month><year>2025</year></date></event></pub-history><permissions><copyright-statement>Copyright: © 2024 CHERIF H et al.</copyright-statement><copyright-year>2024</copyright-year><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>This is an open access article distributed under the terms of the Creative Commons Attribution Licence, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pmc-pdf" xlink:href="f1000research-13-166928.pdf"/><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pdf" xlink:href="f1000research-13-166928.pdf"/><abstract><sec><title>Background</title><p>This study investigates the incidence and predictive factors of Hyperventilation Syndrome (HVS) in patients after COVID 19 pneumonia, addressing the clinical overlap between these conditions.</p></sec><sec><title>Methods</title><p>A one-month prospective study was conducted, tracking survivors of COVID-19 pneumonia. Patients were evaluated for ongoing clinical status, including HVS and post-traumatic syndrome disorder (PTSD), using clinical questionnaires, mMRC, Post-COVID-19 Functional Status (PCFS) Score, Nijmegen score, and PTSD Checklist for DSM-5 questionnaire.</p></sec><sec><title>Results</title><p>Our study included 222 patients (median age: 57 years, male predominance 62.6%). Somatic comorbidities, primarily metabolic disorders, were reported in 71.2% of cases. The majority had severe or critical infection forms (78.4%), and 91.9% experienced acute symptoms, with 86.5% having three or more symptom clusters. At one month follow-up, dyspnea (52.9%) and asthenia (21.7%) persisted. Functional limitations (PCFS Grade &gt; 2) were observed in 19.6% of patients. The overall incidence of HVS was 158 per 1000 patients, and PTSD was 445 per 1000 patients. Multivariate logistic regression identified cognitive impairment (acute phase), persistent weight loss (post-COVID-19 phase), PCFS grade &gt; 2, and PTSD as independent factors for developing HVS, with relative risks (RRs) of 3.47 (95%CI [1.48-8.31]; p = 0.004), 11.87 (95%CI [1.25-112.88]; p = 0.031), 3.24 (95%CI [1.34-7.86]; p = 0.009), and 5.98 (95%CI [2.27-15.77]; p &lt; 0.001), respectively.</p></sec><sec><title>Conclusion</title><p>HVS is prevalent in the post-COVID-19 phase, affecting 15.6 % of survivors. Identified predictive factors suggest the convergence of psychosomatic pathophysiological mechanisms. Further research is crucial for a detailed understanding of these mechanisms in long COVID-19 patients.</p></sec></abstract><kwd-group kwd-group-type="author"><kwd>Hyperventilation Syndrome; COVID-19 pneumonia; Post-Traumatic Stress Disorder; Prospective Studies; Incidence</kwd></kwd-group><funding-group><funding-statement>The author(s) declared that no grants were involved in supporting this work.</funding-statement></funding-group><custom-meta-group><custom-meta><meta-name>pmc-status-qastatus</meta-name><meta-value>0</meta-value></custom-meta><custom-meta><meta-name>pmc-status-live</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-status-embargo</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-status-released</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-access</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-legally-suppressed</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-pdf</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-supplement</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-pdf-only</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-suppress-copyright</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-real-version</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-scanned-article</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-in-epmc</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-license-ref</meta-name><meta-value>CC BY</meta-value></custom-meta></custom-meta-group></article-meta></front><body><table-wrap position="anchor" id="T1" orientation="portrait"><table frame="hsides" rules="groups" content-type="article-table"><tbody><tr><td align="left" colspan="1" rowspan="1" valign="top">
+<bold>What is known on this topic</bold>
+</td></tr><tr><td align="left" colspan="1" rowspan="1" valign="top">
+<p>
+<list list-type="simple"><list-item><label>▪</label><p>COVID-19 sequels are heterogeneous encompassing multiple incapacitating symptoms that overlap with signs of inappropriate hyperventilation.
+</p></list-item><list-item><label>▪</label><p>Few case series have reported the diagnosis of hyperventilation syndrome in survivors of post-acute COVID-19 pneumonia.</p></list-item></list>
+</p>
+</td></tr><tr><td align="left" colspan="1" rowspan="1" valign="top">
+<bold>What this study adds</bold>
+</td></tr><tr><td align="left" colspan="1" rowspan="1" valign="top">
+<p>
+<list list-type="simple"><list-item><label>▪</label><p>This is the first prospective cohort study assessing the exact incidence of hyperventilation syndrome at 156 per 1000 patients experiencing post COVID-19 residual symptoms.
+</p></list-item><list-item><label>▪</label><p>The predictive model for developing hyperventilation syndrome post-COVID-19 includes cognitive impairment in the acute phase, persistent weight loss in the post-infection phase, functional alteration (PCFS grade &gt; 2), and PTSD.
+</p></list-item><list-item><label>▪</label><p>The predictive factors for hyperventilation syndrome highlight the convergence of psychosomatic pathophysiological mechanisms.</p></list-item></list>
+</p>
+</td></tr><tr><td align="left" colspan="1" rowspan="1" valign="top">
+<bold>Research perspectives</bold>
+</td></tr><tr><td align="left" colspan="1" rowspan="1" valign="top">
+<p>
+<list list-type="simple"><list-item><label>▪</label><p>Further investigations, particularly in neurophysiology and psychology, are imperative to elucidate the precise mechanisms promoting hyperventilation syndrome after COVID-19 pneumonia.
+</p></list-item><list-item><label>▪</label><p>The development of individualized management strategies is warranted to enhance the care and well-being of individuals grappling with the lasting effects of COVID-19.
+</p></list-item></list>
+</p>
+</td></tr></tbody></table></table-wrap><sec sec-type="intro" id="sec5"><title>Introduction</title><p>Covid-19 acute pneumonia presents a diverse clinical spectrum, ranging from asymptomatic cases to severe and critical forms.
+<sup>
+<xref rid="ref1" ref-type="bibr">1</xref>,
+<xref rid="ref2" ref-type="bibr">2</xref>
+</sup> Characterized by acute respiratory symptoms, it may also exhibit nonspecific multisystemic manifestations such as fever, gastrointestinal issues, and neuropsychiatric signs, forming distinct symptom clusters.
+<sup>
+<xref rid="ref1" ref-type="bibr">1</xref>,
+<xref rid="ref3" ref-type="bibr">3</xref>,
+<xref rid="ref4" ref-type="bibr">4</xref>
+</sup> While the acute phase is extensively documented, attention has shifted to the significant concern of the consequences of COVID-19.
+<sup>
+<xref rid="ref5" ref-type="bibr">5</xref>,
+<xref rid="ref6" ref-type="bibr">6</xref>
+</sup>
+</p><p>Hyperventilation Syndrome (HVS) is delineated by an array of somatic symptoms induced by physiologically inappropriate and reproducible hyperventilation, either entirely or partially instigated by voluntary hyperventilation.
+<sup>
+<xref rid="ref7" ref-type="bibr">7</xref>–
+<xref rid="ref10" ref-type="bibr">10</xref>
+</sup> The estimated prevalence of HVS ranges from 6% to 10% within the general population, predominantly afflicting women.
+<sup>
+<xref rid="ref7" ref-type="bibr">7</xref>,
+<xref rid="ref11" ref-type="bibr">11</xref>
+</sup> Operating as an exclusion diagnosis, HVS may manifest as an acute crisis triggered by physical or psychological stress, mimicking medical emergencies such as acute coronary syndrome or hypocalcemic spasms. This acute presentation is marked by agitation, dyspnea, and symmetrical paresthesias. In its chronic forms, although more prevalent, diagnosis proves challenging as the hyperventilation component may not be prominently featured. Patients may manifest general indicators such as chronic fatigue, headaches, dyspnea, cough, atypical chest pain, palpitations, or peripheral vasospasm.
+<sup>
+<xref rid="ref7" ref-type="bibr">7</xref>,
+<xref rid="ref10" ref-type="bibr">10</xref>,
+<xref rid="ref12" ref-type="bibr">12</xref>–
+<xref rid="ref14" ref-type="bibr">14</xref>
+</sup>
+</p><p>Given the significant clinical symptom overlap between long COVID-19 and HVS, some authors suggest that HVS may play a notable role in the post-COVID-19 phase.
+<sup>
+<xref rid="ref15" ref-type="bibr">15</xref>,
+<xref rid="ref16" ref-type="bibr">16</xref>
+</sup> Therefore, our study aims to determine the incidence rate and predictive factors of HVS within a prospective cohort of survivors of COVID-19 pneumonia.</p></sec><sec sec-type="methods" id="sec6"><title>Methods</title><sec id="sec7"><title>1. Study design and settings</title><p>This study is a prospective cohort investigation conducted at the Pulmonology Outpatient Department of the Internal Security Forces Hospital, La Marsa, Tunisia, from September 2020 to December 2021. The study focuses on patients admitted for SARS-CoV-2 acute pneumonia, with follow-up examinations conducted one month after the acute COVID-19 infection.</p></sec><sec id="sec8"><title>2. Participants selection</title><p>Eligible participants for this study were individuals aged 18 years and older with a confirmed diagnosis of SARS-CoV-2 pneumonia, who actively participated in post-COVID-19 follow-up appointments. The confirmation of SARS-CoV-2 pneumonia involved the detection of the viral genome in the upper airways using RT-PCR on nasopharyngeal swabs, complemented by a chest CT scan indicating the presence of lung damage. Individuals who declined to participate in this study were excluded from consideration.</p><p>Exclusions encompassed patients without a confirmed SARS-CoV-2 infection, and those who presented a normal chest CT scan during the acute infection phase. Furthermore, during the follow-up period, patients who did not complete the Nijmegen Questionnaire were excluded from the analysis.</p></sec><sec id="sec9"><title>3. Data collection and outcomes measures</title><p>
+<bold>3.1. Step 1: Inclusion at hospital discharge</bold>
+</p><p>Clinical data of the enrolled patients were systematically noted. Demographic and clinical features, encompassing age, gender, BMI, cigarette smoking, somatic and psychiatric comorbidities were meticulously obtained. A comprehensive examination of acute COVID-19 pneumonia infection was conducted, focusing on COVID 19-related symptoms. Patients were asked about these symptoms, which were categorized into five symptomatic clusters:
+<list list-type="simple"><list-item><label>▪</label><p>Constitutional Signs: Fatigue, fever, and weight loss</p></list-item><list-item><label>▪</label><p>Cardiorespiratory Cluster: Dyspnea, cough, palpitations, and chest pain</p></list-item><list-item><label>▪</label><p>Gastrointestinal Cluster: Nausea, vomiting, and diarrhea</p></list-item><list-item><label>▪</label><p>Musculoskeletal Cluster: Myalgia and arthralgia</p></list-item><list-item><label>▪</label><p>Neuropsychiatric Cluster: Dysgeusia, anosmia, headache, dizziness, and cognitive impairment</p></list-item></list>
+</p><p>Additionally, dyspnea was assessed using the modified Medical Research Council (mMRC) dyspnea scale. Markers of the severity of acute COVID-19 pneumonia were noted, including therapeutic features such as the intensity of oxygen requirement (low or high-flow oxygen therapy), admission to the intensive care unit (ICU), anticoagulation therapy, and the occurrence of complications, particularly pulmonary embolism.</p><p>
+<bold>3.2. Step 2: One-month follow-up appointment</bold>
+</p><p>Patients’ one-month follow-up appointments were scheduled following their discharge date and communicated to them via phone calls. Key outcome measures assessed during this examination included:</p><p>
+<bold>Evaluation of the ongoing clinical status after recovery from acute COVID-19:</bold>
+<list list-type="simple"><list-item><label>▪</label><p>Post-COVID-19 Follow-up Questionnaire: Patients were queried about symptoms related to SARS-CoV-2 infection, assessing both residual and newly developed symptoms. Response options were recorded as “yes” or “no”. This questionnaire maintained the same five symptomatic clusters as in the initial assessment.</p></list-item><list-item><label>▪</label><p>mMRC Dyspnea Scores: Dyspnea evaluation was tracked using the mMRC dyspnea scale to monitor changes over time.</p></list-item><list-item><label>▪</label><p>Post-COVID-19 Functional Status (PCFS) Score
+<sup>
+<xref rid="ref17" ref-type="bibr">17</xref>
+</sup>: All patients were administered the validated Arabic version of the PCFS questionnaire, categorizing individuals into five grades based on the degree of functional limitations experienced.</p></list-item></list>
+</p><p>
+<bold>Screening for Hyperventilation Syndrome:</bold> The Nijmegen score, assessing the clinical probability of HVS, was administered to all patients during the one-month follow-up. A score higher than 23/64 indicated the presence of HVS.
+<sup>
+<xref rid="ref12" ref-type="bibr">12</xref>,
+<xref rid="ref18" ref-type="bibr">18</xref>
+</sup>
+</p><p>
+<bold>Screening for Post-Traumatic Stress Disorder (PTSD):</bold> COVID-19 survivors were screened for PTSD using the PTSD Checklist for DSM-5 (PCL-5) questionnaire, which has been validated in Arabic. A PCL-5 cutoff score higher than 33/80 suggested probable PTSD.
+<sup>
+<xref rid="ref19" ref-type="bibr">19</xref>
+</sup>
+</p><p>
+<bold>Arterial Blood Gas Test (ABG):</bold> Patients underwent an ABG test to measure post-recovery blood levels of various gases, including oxygen (O2) and carbon dioxide (CO2).</p></sec><sec id="sec10"><title>4. Data analysis</title><p>The collected data underwent thorough statistical analysis, with due consideration for variable normality assessed using the Kolmogorov-Smirnov normality test. Nominal values were presented as frequencies and percentages, while continuous non-Gaussian variables were expressed using medians (M) and quartiles [Q1-Q3].</p><p>To discern predictive factors for the occurrence of HVS, the sample was divided into two groups: patients with HVS (HVS+) and patients without HVS (HVS-). Initial analytical comparisons were conducted between these two groups to reveal factors associated with HVS. Continuous variables were compared using the Mann-Whitney U test, whereas discrete variables were assessed using the chi-squared or Fisher’s exact test, as appropriate.</p><p>Subsequently, a multivariate logistic regression model was employed to evaluate the influence of explanatory variables on the incidence of HVS. Coefficients (β) associated with each independent variable were estimated, and relative risks (RRs) were calculated by exponentiating these coefficients (exp(β)). A 95% confidence interval (95% CI) for each relative ratio was computed to gauge the precision of the estimate. The overall fit of the model was evaluated using the Hosmer-Lemeshow test, with a non-significant result (p &gt; 0.05) indicative of an acceptable fit. Additionally, the model’s explanatory power was assessed through the calculation of the Adjusted R
+<sup>2</sup>.</p><p>For each value, the data was tabulated using the Microsoft Excel software. All statistical analyses were conducted with a significance threshold set at a p-value of 0.05 considered significant for all data analyses.</p></sec><sec id="sec11"><title>5. Ethical considerations</title><p>This study involving human subjects is ethically sound. Participants were thoroughly briefed on procedures and objectives, providing verbal consent. It was elected to minimize physical contact and the handling of documents, thereby reducing the risk of transmission in the context of the ongoing epidemic at the time of the study Data confidentiality is assured, adhering to rigorous ethical standards. Ethical committee approval was obtained from the Ethical committee of the FSI hospital under the approval number 05/2020 on September16, 2020.</p></sec></sec><sec sec-type="results" id="sec12"><title>Results</title><sec id="sec13"><title>1. Baseline patient characteristics</title><p>Our prospective cohort comprised 222 patients hospitalized for SARS-CoV-2 acute pneumonia.
+<xref rid="T2" ref-type="table">
+Table 1</xref> provides a summary of their baseline demographic and clinical characteristics. The median age was 57 years [50-67], with a male predominance of 62.6%. Among participants, 35.6% were ever smokers. The average BMI was 29.7 kg/m
+<sup>2</sup> [26.8-32.8]. Notably, 48.1% of patients were classified as obese, and 39.6% were overweight.</p><table-wrap position="float" id="T2" orientation="portrait"><label>
+Table 1. </label><caption><title>Baseline Demographic and Clinical Features in the Studied Cohort.</title></caption><table frame="hsides" rules="groups" content-type="article-table"><thead><tr><th align="left" colspan="2" rowspan="1" valign="top"/><th align="left" colspan="1" rowspan="1" valign="top">All cohort (n=222)</th><th align="left" colspan="1" rowspan="1" valign="top">Patients with HVS (n=35)</th><th align="left" colspan="1" rowspan="1" valign="top">Patients without HVS (n=187)</th><th align="left" colspan="1" rowspan="1" valign="top">
+p-value
+</th></tr></thead><tbody><tr><td align="left" colspan="1" rowspan="2" valign="middle">Gender</td><td align="left" colspan="1" rowspan="1" valign="middle">
+<bold>Male</bold>
+</td><td align="left" colspan="1" rowspan="1" valign="middle">62.6%</td><td align="left" colspan="1" rowspan="1" valign="middle">48.6%</td><td align="left" colspan="1" rowspan="1" valign="middle">65.2%</td><td align="left" colspan="1" rowspan="2" valign="middle">0.061</td></tr><tr><td align="left" colspan="1" rowspan="1" valign="middle">
+<bold>Female</bold>
+</td><td align="left" colspan="1" rowspan="1" valign="middle">38.3%</td><td align="left" colspan="1" rowspan="1" valign="middle">51.4%</td><td align="left" colspan="1" rowspan="1" valign="middle">34.8%</td></tr><tr><td align="left" colspan="2" rowspan="1" valign="middle">Age (years)</td><td align="left" colspan="1" rowspan="1" valign="middle">57 [50-67]</td><td align="left" colspan="1" rowspan="1" valign="middle">58 [51-67]</td><td align="left" colspan="1" rowspan="1" valign="middle">57 [49-67]</td><td align="left" colspan="1" rowspan="1" valign="middle">0.827</td></tr><tr><td align="left" colspan="2" rowspan="1" valign="middle">BMI (Kg/m
+<sup>2</sup>)</td><td align="left" colspan="1" rowspan="1" valign="middle">29.7 [26.8-32.8]</td><td align="left" colspan="1" rowspan="1" valign="middle">31.2 [28.0-33.1]</td><td align="left" colspan="1" rowspan="1" valign="middle">29.4 [26.7-32.8]</td><td align="left" colspan="1" rowspan="1" valign="middle">0.160</td></tr><tr><td align="left" colspan="2" rowspan="1" valign="middle">Vaccinated</td><td align="left" colspan="1" rowspan="1" valign="middle">24.8%</td><td align="left" colspan="1" rowspan="1" valign="middle">25.7%</td><td align="left" colspan="1" rowspan="1" valign="middle">24.6%</td><td align="left" colspan="1" rowspan="1" valign="middle">0.888</td></tr><tr><td align="left" colspan="2" rowspan="1" valign="middle">EverSmoker</td><td align="left" colspan="1" rowspan="1" valign="middle">35.6%</td><td align="left" colspan="1" rowspan="1" valign="middle">30.3%</td><td align="left" colspan="1" rowspan="1" valign="middle">39.9%</td><td align="left" colspan="1" rowspan="1" valign="middle">0.300</td></tr><tr><td align="left" colspan="6" rowspan="1" valign="middle">Comorbidities</td></tr><tr><td align="left" colspan="1" rowspan="2" valign="middle">OverallComorbidities</td><td align="left" colspan="1" rowspan="1" valign="middle">
+<bold>None</bold>
+</td><td align="left" colspan="1" rowspan="1" valign="middle">28.8%</td><td align="left" colspan="1" rowspan="1" valign="middle">14.3%</td><td align="left" colspan="1" rowspan="1" valign="middle">31.6%</td><td align="left" colspan="1" rowspan="2" valign="middle">
+<bold>0.038*</bold>
+</td></tr><tr><td align="left" colspan="1" rowspan="1" valign="middle">
+<bold>≥1</bold>
+</td><td align="left" colspan="1" rowspan="1" valign="middle">71.2%</td><td align="left" colspan="1" rowspan="1" valign="middle">85.7%</td><td align="left" colspan="1" rowspan="1" valign="middle">68.4%</td></tr><tr><td align="left" colspan="2" rowspan="1" valign="middle">Anxiety</td><td align="left" colspan="1" rowspan="1" valign="middle">5.4%</td><td align="left" colspan="1" rowspan="1" valign="middle">11.4%</td><td align="left" colspan="1" rowspan="1" valign="middle">4.3%</td><td align="left" colspan="1" rowspan="1" valign="middle">0.086</td></tr><tr><td align="left" colspan="2" rowspan="1" valign="middle">Diabetes</td><td align="left" colspan="1" rowspan="1" valign="middle">35.1%</td><td align="left" colspan="1" rowspan="1" valign="middle">25.7%</td><td align="left" colspan="1" rowspan="1" valign="middle">36.9%</td><td align="left" colspan="1" rowspan="1" valign="middle">0.203</td></tr><tr><td align="left" colspan="2" rowspan="1" valign="middle">Hypertension</td><td align="left" colspan="1" rowspan="1" valign="middle">41.9%</td><td align="left" colspan="1" rowspan="1" valign="middle">51.4%</td><td align="left" colspan="1" rowspan="1" valign="middle">40.1%</td><td align="left" colspan="1" rowspan="1" valign="middle">0.213</td></tr><tr><td align="left" colspan="2" rowspan="1" valign="middle">Obesity</td><td align="left" colspan="1" rowspan="1" valign="middle">48.1%</td><td align="left" colspan="1" rowspan="1" valign="middle">63.6%</td><td align="left" colspan="1" rowspan="1" valign="middle">45.3%</td><td align="left" colspan="1" rowspan="1" valign="middle">0.052</td></tr><tr><td align="left" colspan="2" rowspan="1" valign="middle">CoronaryHeartDisease</td><td align="left" colspan="1" rowspan="1" valign="middle">7.2%</td><td align="left" colspan="1" rowspan="1" valign="middle">11.4%</td><td align="left" colspan="1" rowspan="1" valign="middle">6.4%</td><td align="left" colspan="1" rowspan="1" valign="middle">0.293</td></tr><tr><td align="left" colspan="2" rowspan="1" valign="middle">Dyslipidemia</td><td align="left" colspan="1" rowspan="1" valign="middle">19.4%</td><td align="left" colspan="1" rowspan="1" valign="middle">28.6%</td><td align="left" colspan="1" rowspan="1" valign="middle">17.6%</td><td align="left" colspan="1" rowspan="1" valign="middle">0.133</td></tr><tr><td align="left" colspan="2" rowspan="1" valign="middle">Asthma</td><td align="left" colspan="1" rowspan="1" valign="middle">8.6%</td><td align="left" colspan="1" rowspan="1" valign="middle">17.1%</td><td align="left" colspan="1" rowspan="1" valign="middle">7%</td><td align="left" colspan="1" rowspan="1" valign="middle">
+<bold>0.048*</bold>
+</td></tr></tbody></table><table-wrap-foot><p>HVS: Hyperventilation syndrome; BMI: Body Mass Index; Continuous variables are expressed in median and quartiles M [Q1-Q3]; Bold p values indicate significant results (p&lt;0.05);</p></table-wrap-foot></table-wrap><p>Somatic comorbidities were reported in 71.2% of cases, predominantly metabolic disorders. Following obesity, the most prevalent comorbidities were hypertension (41.9%), diabetes (35.1%), and dyslipidemia (19.4%). Cardiorespiratory diseases were less common, with asthma noted in 8.6% and coronary heart disease in 7.2% of patients. A history of anxiety was reported in 5.6% of patients.</p></sec><sec id="sec14"><title>2. Acute features of COVID-19 pneumonia</title><p>Symptoms manifested in 91.9% of the enrolled patients, with 86.5% experiencing three or more symptom clusters, as detailed in
+<xref rid="T3" ref-type="table">
+Table 2</xref>. Predominantly, constitutional (94.1%), cardiorespiratory (92.8%), and neuropsychiatric (79.7%) signs emerged as the most prevalent clusters during the acute phase. Dyspnea and fatigue ranked highest with incidences of 82.4% and 80.5%, respectively. Individuals reporting dyspnea frequently exhibited severe forms of mMRC 3 and 4 in 24.9% and 45.2% of cases, respectively. Approximately two-thirds of participants also reported a weight loss of around 6 kg [3-10].</p><table-wrap position="float" id="T3" orientation="portrait"><label>
+Table 2. </label><caption><title>Clinical Presentation in Patients with Acute COVID-19 Pneumonia and during the Post-COVID-19Phase.</title></caption><table frame="hsides" rules="groups" content-type="article-table"><thead><tr><th align="left" colspan="1" rowspan="2" valign="top">COVID symptoms</th><th align="left" colspan="4" rowspan="1" valign="top">Acute Phase of COVID-19 Pneumonia</th><th align="left" colspan="4" rowspan="1" valign="top">One-month post-COVID-19pneumonia</th></tr><tr><th align="left" colspan="1" rowspan="1" valign="top">All Cohort (n=222)</th><th align="left" colspan="1" rowspan="1" valign="top">Patients without HVS (n=187)</th><th align="left" colspan="1" rowspan="1" valign="top">Patients with HVS (n=35)</th><th align="left" colspan="1" rowspan="1" valign="top">p-value
+</th><th align="left" colspan="1" rowspan="1" valign="top">All Cohort (n=222)</th><th align="left" colspan="1" rowspan="1" valign="top">Patients without HVS (n=187)</th><th align="left" colspan="1" rowspan="1" valign="top">Patients with HVS (n=35)</th><th align="left" colspan="1" rowspan="1" valign="top">p-value
+</th></tr></thead><tbody><tr><td align="left" colspan="1" rowspan="1" valign="middle">Constitutionalsigns</td><td align="left" colspan="1" rowspan="1" valign="middle">94.1%</td><td align="left" colspan="1" rowspan="1" valign="middle">95.7%</td><td align="left" colspan="1" rowspan="1" valign="middle">85.7%</td><td align="left" colspan="1" rowspan="1" valign="middle">
+<bold>0.021*</bold>
+</td><td align="left" colspan="1" rowspan="1" valign="middle">23%</td><td align="left" colspan="1" rowspan="1" valign="middle">23,0%</td><td align="left" colspan="1" rowspan="1" valign="middle">22.9%</td><td align="left" colspan="1" rowspan="1" valign="middle">0.986</td></tr><tr><td align="left" colspan="1" rowspan="1" valign="middle"> Fatigue</td><td align="left" colspan="1" rowspan="1" valign="middle">80.5%</td><td align="left" colspan="1" rowspan="1" valign="middle">80.6%</td><td align="left" colspan="1" rowspan="1" valign="middle">80%</td><td align="left" colspan="1" rowspan="1" valign="middle">0.930</td><td align="left" colspan="1" rowspan="1" valign="middle">21.7%</td><td align="left" colspan="1" rowspan="1" valign="middle">18.8%</td><td align="left" colspan="1" rowspan="1" valign="middle">37.1%</td><td align="left" colspan="1" rowspan="1" valign="middle">
+<bold>0.016*</bold>
+</td></tr><tr><td align="left" colspan="1" rowspan="1" valign="middle"> Fever</td><td align="left" colspan="1" rowspan="1" valign="middle">66.1%</td><td align="left" colspan="1" rowspan="1" valign="middle">65.6%</td><td align="left" colspan="1" rowspan="1" valign="middle">68.6%</td><td align="left" colspan="1" rowspan="1" valign="middle">0.733</td><td align="left" colspan="1" rowspan="1" valign="middle">0.5%</td><td align="left" colspan="1" rowspan="1" valign="middle">0.5%</td><td align="left" colspan="1" rowspan="1" valign="middle">0%</td><td align="left" colspan="1" rowspan="1" valign="middle">0.664</td></tr><tr><td align="left" colspan="1" rowspan="1" valign="middle"> Weightloss</td><td align="left" colspan="1" rowspan="1" valign="middle">67%</td><td align="left" colspan="1" rowspan="1" valign="middle">66.7%</td><td align="left" colspan="1" rowspan="1" valign="middle">68.6%</td><td align="left" colspan="1" rowspan="1" valign="middle">0.826</td><td align="left" colspan="1" rowspan="1" valign="middle">2.3%</td><td align="left" colspan="1" rowspan="1" valign="middle">1.1%</td><td align="left" colspan="1" rowspan="1" valign="middle">8.6%</td><td align="left" colspan="1" rowspan="1" valign="middle">
+<bold>0.006*</bold>
+</td></tr><tr><td align="left" colspan="1" rowspan="1" valign="middle"> Weightloss (Kg)</td><td align="left" colspan="1" rowspan="1" valign="middle">6 [3-10]</td><td align="left" colspan="1" rowspan="1" valign="middle">6 [3-10]</td><td align="left" colspan="1" rowspan="1" valign="middle">5 [3-10]</td><td align="left" colspan="1" rowspan="1" valign="middle">0.206</td><td align="left" colspan="1" rowspan="1" valign="middle">-</td><td align="left" colspan="1" rowspan="1" valign="middle">-</td><td align="left" colspan="1" rowspan="1" valign="middle">-</td><td align="left" colspan="1" rowspan="1" valign="middle">-</td></tr><tr><td align="left" colspan="1" rowspan="1" valign="middle">Cardiorespiratory cluster</td><td align="left" colspan="1" rowspan="1" valign="middle">92.8%</td><td align="left" colspan="1" rowspan="1" valign="middle">92.5%</td><td align="left" colspan="1" rowspan="1" valign="middle">94.3%</td><td align="left" colspan="1" rowspan="1" valign="middle">0.710</td><td align="left" colspan="1" rowspan="1" valign="middle">62.2%</td><td align="left" colspan="1" rowspan="1" valign="middle">62.6%</td><td align="left" colspan="1" rowspan="1" valign="middle">60%</td><td align="left" colspan="1" rowspan="1" valign="middle">0.774</td></tr><tr><td align="left" colspan="1" rowspan="1" valign="middle"> Chest pain</td><td align="left" colspan="1" rowspan="1" valign="middle">41.2%</td><td align="left" colspan="1" rowspan="1" valign="middle">38.2%</td><td align="left" colspan="1" rowspan="1" valign="middle">57.1%</td><td align="left" colspan="1" rowspan="1" valign="middle">
+<bold>0.036*</bold>
+</td><td align="left" colspan="1" rowspan="1" valign="middle">19.9%</td><td align="left" colspan="1" rowspan="1" valign="middle">19.4%</td><td align="left" colspan="1" rowspan="1" valign="middle">22.9%</td><td align="left" colspan="1" rowspan="1" valign="middle">0.634</td></tr><tr><td align="left" colspan="1" rowspan="1" valign="middle"> Cough</td><td align="left" colspan="1" rowspan="1" valign="middle">57%</td><td align="left" colspan="1" rowspan="1" valign="middle">57.5%</td><td align="left" colspan="1" rowspan="1" valign="middle">54.3%</td><td align="left" colspan="1" rowspan="1" valign="middle">0.722</td><td align="left" colspan="1" rowspan="1" valign="middle">13.1%</td><td align="left" colspan="1" rowspan="1" valign="middle">11.3%</td><td align="left" colspan="1" rowspan="1" valign="middle">22.9%</td><td align="left" colspan="1" rowspan="1" valign="middle">0.063</td></tr><tr><td align="left" colspan="1" rowspan="1" valign="middle"> Palpitations</td><td align="left" colspan="1" rowspan="1" valign="middle">35.3%</td><td align="left" colspan="1" rowspan="1" valign="middle">33.9%</td><td align="left" colspan="1" rowspan="1" valign="middle">42.9%</td><td align="left" colspan="1" rowspan="1" valign="middle">0.307</td><td align="left" colspan="1" rowspan="1" valign="middle">13.6%</td><td align="left" colspan="1" rowspan="1" valign="middle">10.8%</td><td align="left" colspan="1" rowspan="1" valign="middle">28.6%</td><td align="left" colspan="1" rowspan="1" valign="middle">
+<bold>0.005</bold>
+</td></tr><tr><td align="left" colspan="1" rowspan="1" valign="middle"> Dyspnea</td><td align="left" colspan="1" rowspan="1" valign="middle">82.4%</td><td align="left" colspan="1" rowspan="1" valign="middle">81.2%</td><td align="left" colspan="1" rowspan="1" valign="middle">88.6%</td><td align="left" colspan="1" rowspan="1" valign="middle">0.293</td><td align="left" colspan="1" rowspan="1" valign="middle">52.9%</td><td align="left" colspan="1" rowspan="1" valign="middle">52.7%</td><td align="left" colspan="1" rowspan="1" valign="middle">54.3%</td><td align="left" colspan="1" rowspan="1" valign="middle">0.862</td></tr><tr><td align="left" colspan="1" rowspan="1" valign="middle"> Dyspnea stages</td><td colspan="1" rowspan="1"/><td colspan="1" rowspan="1"/><td colspan="1" rowspan="1"/><td colspan="1" rowspan="1"/><td colspan="1" rowspan="1"/><td colspan="1" rowspan="1"/><td colspan="1" rowspan="1"/><td colspan="1" rowspan="1"/></tr><tr><td align="left" colspan="1" rowspan="1" valign="middle">  mMRC 1</td><td align="left" colspan="1" rowspan="1" valign="middle">14.7%</td><td align="left" colspan="1" rowspan="1" valign="middle">15%</td><td align="left" colspan="1" rowspan="1" valign="middle">13.3%</td><td align="left" colspan="1" rowspan="4" valign="middle">0.331</td><td align="left" colspan="1" rowspan="1" valign="middle">44.5%</td><td align="left" colspan="1" rowspan="1" valign="middle">47%</td><td align="left" colspan="1" rowspan="1" valign="middle">31.6%</td><td align="left" colspan="1" rowspan="4" valign="middle">0.542</td></tr><tr><td align="left" colspan="1" rowspan="1" valign="middle">  mMRC 2</td><td align="left" colspan="1" rowspan="1" valign="middle">15.3%</td><td align="left" colspan="1" rowspan="1" valign="middle">16.3%</td><td align="left" colspan="1" rowspan="1" valign="middle">10%</td><td align="left" colspan="1" rowspan="1" valign="middle">45.4%</td><td align="left" colspan="1" rowspan="1" valign="middle">43%</td><td align="left" colspan="1" rowspan="1" valign="middle">57.9%</td></tr><tr><td align="left" colspan="1" rowspan="1" valign="middle">  mMRC 3</td><td align="left" colspan="1" rowspan="1" valign="middle">24.9%</td><td align="left" colspan="1" rowspan="1" valign="middle">26.5%</td><td align="left" colspan="1" rowspan="1" valign="middle">16.7%</td><td align="left" colspan="1" rowspan="1" valign="middle">8.4%</td><td align="left" colspan="1" rowspan="1" valign="middle">8%</td><td align="left" colspan="1" rowspan="1" valign="middle">10.5%</td></tr><tr><td align="left" colspan="1" rowspan="1" valign="middle">  mMRC 4</td><td align="left" colspan="1" rowspan="1" valign="middle">45.2%</td><td align="left" colspan="1" rowspan="1" valign="middle">42.2%</td><td align="left" colspan="1" rowspan="1" valign="middle">60%</td><td align="left" colspan="1" rowspan="1" valign="middle">1.7%</td><td align="left" colspan="1" rowspan="1" valign="middle">2%</td><td align="left" colspan="1" rowspan="1" valign="middle">0%</td></tr><tr><td align="left" colspan="1" rowspan="1" valign="middle">Gastrointestinal Cluster</td><td align="left" colspan="1" rowspan="1" valign="middle">50.5%</td><td align="left" colspan="1" rowspan="1" valign="middle">52.4%</td><td align="left" colspan="1" rowspan="1" valign="middle">40%</td><td align="left" colspan="1" rowspan="1" valign="middle">0.178</td><td align="left" colspan="1" rowspan="1" valign="middle">5.9%</td><td align="left" colspan="1" rowspan="1" valign="middle">5.9%</td><td align="left" colspan="1" rowspan="1" valign="middle">5.7%</td><td align="left" colspan="1" rowspan="1" valign="middle">0.969</td></tr><tr><td align="left" colspan="1" rowspan="1" valign="middle"> Nausea and vomiting</td><td align="left" colspan="1" rowspan="1" valign="middle">32.6%</td><td align="left" colspan="1" rowspan="1" valign="middle">32.3%</td><td align="left" colspan="1" rowspan="1" valign="middle">34.3%</td><td align="left" colspan="1" rowspan="1" valign="middle">0.814</td><td align="left" colspan="1" rowspan="1" valign="middle">2.3%</td><td align="left" colspan="1" rowspan="1" valign="middle">2.2%</td><td align="left" colspan="1" rowspan="1" valign="middle">2.9%</td><td align="left" colspan="1" rowspan="1" valign="middle">0.796</td></tr><tr><td align="left" colspan="1" rowspan="1" valign="middle"> Diarrhea</td><td align="left" colspan="1" rowspan="1" valign="middle">37.7%</td><td align="left" colspan="1" rowspan="1" valign="middle">35.7%</td><td align="left" colspan="1" rowspan="1" valign="middle">48.6%</td><td align="left" colspan="1" rowspan="1" valign="middle">0.149</td><td align="left" colspan="1" rowspan="1" valign="middle">0.5%</td><td align="left" colspan="1" rowspan="1" valign="middle">4.8%</td><td align="left" colspan="1" rowspan="1" valign="middle">5.7%</td><td align="left" colspan="1" rowspan="1" valign="middle">0.827</td></tr><tr><td align="left" colspan="1" rowspan="1" valign="middle">Musculoskeletal cluster</td><td align="left" colspan="1" rowspan="1" valign="middle">73.4%</td><td align="left" colspan="1" rowspan="1" valign="middle">74.9%</td><td align="left" colspan="1" rowspan="1" valign="middle">65.7%</td><td align="left" colspan="1" rowspan="1" valign="middle">0.261</td><td align="left" colspan="1" rowspan="1" valign="middle">28.4%</td><td align="left" colspan="1" rowspan="1" valign="middle">28.9%</td><td align="left" colspan="1" rowspan="1" valign="middle">25.7%</td><td align="left" colspan="1" rowspan="1" valign="middle">0.703</td></tr><tr><td align="left" colspan="1" rowspan="1" valign="middle"> Myalgia</td><td align="left" colspan="1" rowspan="1" valign="middle">67%</td><td align="left" colspan="1" rowspan="1" valign="middle">66.7%</td><td align="left" colspan="1" rowspan="1" valign="middle">68.6%</td><td align="left" colspan="1" rowspan="1" valign="middle">0.826</td><td align="left" colspan="1" rowspan="1" valign="middle">20.4%</td><td align="left" colspan="1" rowspan="1" valign="middle">18.3%</td><td align="left" colspan="1" rowspan="1" valign="middle">31.4%</td><td align="left" colspan="1" rowspan="1" valign="middle">0.076</td></tr><tr><td align="left" colspan="1" rowspan="1" valign="middle"> Arthralgia</td><td align="left" colspan="1" rowspan="1" valign="middle">58.8%</td><td align="left" colspan="1" rowspan="1" valign="middle">57.5%</td><td align="left" colspan="1" rowspan="1" valign="middle">65.7%</td><td align="left" colspan="1" rowspan="1" valign="middle">0.367</td><td align="left" colspan="1" rowspan="1" valign="middle">20.4%</td><td align="left" colspan="1" rowspan="1" valign="middle">18.3%</td><td align="left" colspan="1" rowspan="1" valign="middle">31.4%</td><td align="left" colspan="1" rowspan="1" valign="middle">0.076</td></tr><tr><td align="left" colspan="1" rowspan="1" valign="middle">Neuropsychiatric Cluster</td><td align="left" colspan="1" rowspan="1" valign="middle">79.7%</td><td align="left" colspan="1" rowspan="1" valign="middle">82.4%</td><td align="left" colspan="1" rowspan="1" valign="middle">65.7%</td><td align="left" colspan="1" rowspan="1" valign="middle">
+<bold>0.025*</bold>
+</td><td align="left" colspan="1" rowspan="1" valign="middle">40.5%</td><td align="left" colspan="1" rowspan="1" valign="middle">40.6%</td><td align="left" colspan="1" rowspan="1" valign="middle">40%</td><td align="left" colspan="1" rowspan="1" valign="middle">0.943</td></tr><tr><td align="left" colspan="1" rowspan="1" valign="middle"> Headache</td><td align="left" colspan="1" rowspan="1" valign="middle">58.4%</td><td align="left" colspan="1" rowspan="1" valign="middle">57.5%</td><td align="left" colspan="1" rowspan="1" valign="middle">62.9%</td><td align="left" colspan="1" rowspan="1" valign="middle">0.557</td><td align="left" colspan="1" rowspan="1" valign="middle">15.4%</td><td align="left" colspan="1" rowspan="1" valign="middle">13.4%</td><td align="left" colspan="1" rowspan="1" valign="middle">25.7%</td><td align="left" colspan="1" rowspan="1" valign="middle">0.065</td></tr><tr><td align="left" colspan="1" rowspan="1" valign="middle"> Dizziness</td><td align="left" colspan="1" rowspan="1" valign="middle">40.7%</td><td align="left" colspan="1" rowspan="1" valign="middle">38.2%</td><td align="left" colspan="1" rowspan="1" valign="middle">54.3%</td><td align="left" colspan="1" rowspan="1" valign="middle">0.075</td><td align="left" colspan="1" rowspan="1" valign="middle">14.9%</td><td align="left" colspan="1" rowspan="1" valign="middle">11.8%</td><td align="left" colspan="1" rowspan="1" valign="middle">31.4%</td><td align="left" colspan="1" rowspan="1" valign="middle">
+<bold>0.003*</bold>
+</td></tr><tr><td align="left" colspan="1" rowspan="1" valign="middle"> Cognitive impairment</td><td align="left" colspan="1" rowspan="1" valign="middle">41.4%</td><td align="left" colspan="1" rowspan="1" valign="middle">36.2%</td><td align="left" colspan="1" rowspan="1" valign="middle">68.6%</td><td align="left" colspan="1" rowspan="1" valign="middle">
+<bold>&lt;0.001*</bold>
+</td><td align="left" colspan="1" rowspan="1" valign="middle">25%</td><td align="left" colspan="1" rowspan="1" valign="middle">20.5%</td><td align="left" colspan="1" rowspan="1" valign="middle">48.6%</td><td align="left" colspan="1" rowspan="1" valign="middle">
+<bold>&lt;0.001*</bold>
+</td></tr><tr><td align="left" colspan="1" rowspan="1" valign="middle"> Dysgeusia</td><td align="left" colspan="1" rowspan="1" valign="middle">40.7%</td><td align="left" colspan="1" rowspan="1" valign="middle">37.6%</td><td align="left" colspan="1" rowspan="1" valign="middle">57.1%</td><td align="left" colspan="1" rowspan="1" valign="middle">
+<bold>0.031*</bold>
+</td><td align="left" colspan="1" rowspan="1" valign="middle">4.1%</td><td align="left" colspan="1" rowspan="1" valign="middle">3.8%</td><td align="left" colspan="1" rowspan="1" valign="middle">5.7%</td><td align="left" colspan="1" rowspan="1" valign="middle">0.592</td></tr><tr><td align="left" colspan="1" rowspan="1" valign="middle"> Anosmia</td><td align="left" colspan="1" rowspan="1" valign="middle">38.5%</td><td align="left" colspan="1" rowspan="1" valign="middle">34.9%</td><td align="left" colspan="1" rowspan="1" valign="middle">57.1%</td><td align="left" colspan="1" rowspan="1" valign="middle">
+<bold>0.013*</bold>
+</td><td align="left" colspan="1" rowspan="1" valign="middle">5.4%</td><td align="left" colspan="1" rowspan="1" valign="middle">4.3%</td><td align="left" colspan="1" rowspan="1" valign="middle">11.4%</td><td align="left" colspan="1" rowspan="1" valign="middle">0.088</td></tr><tr><td align="left" colspan="1" rowspan="1" valign="middle">Overall Clusters</td><td colspan="1" rowspan="1"/><td colspan="1" rowspan="1"/><td colspan="1" rowspan="1"/><td colspan="1" rowspan="1"/><td colspan="1" rowspan="1"/><td colspan="1" rowspan="1"/><td colspan="1" rowspan="1"/><td colspan="1" rowspan="1"/></tr><tr><td align="left" colspan="1" rowspan="1" valign="middle"> Asymptomatic</td><td align="left" colspan="1" rowspan="1" valign="middle">0.9%</td><td align="left" colspan="1" rowspan="1" valign="middle">0.5%</td><td align="left" colspan="1" rowspan="1" valign="middle">2.9%</td><td align="left" colspan="1" rowspan="4" valign="middle">0.101</td><td align="left" colspan="1" rowspan="1" valign="middle">23.4%</td><td align="left" colspan="1" rowspan="1" valign="middle">23%</td><td align="left" colspan="1" rowspan="1" valign="middle">25.7%</td><td align="left" colspan="1" rowspan="4" valign="middle">0.194</td></tr><tr><td align="left" colspan="1" rowspan="1" valign="middle"> 1 cluster</td><td align="left" colspan="1" rowspan="1" valign="middle">3.2%</td><td align="left" colspan="1" rowspan="1" valign="middle">2.1%</td><td align="left" colspan="1" rowspan="1" valign="middle">8.6%</td><td align="left" colspan="1" rowspan="1" valign="middle">34.2%</td><td align="left" colspan="1" rowspan="1" valign="middle">32.6%</td><td align="left" colspan="1" rowspan="1" valign="middle">42.9%</td></tr><tr><td align="left" colspan="1" rowspan="1" valign="middle"> 2 clusters</td><td align="left" colspan="1" rowspan="1" valign="middle">9.5%</td><td align="left" colspan="1" rowspan="1" valign="middle">9.1%</td><td align="left" colspan="1" rowspan="1" valign="middle">11.4%</td><td align="left" colspan="1" rowspan="1" valign="middle">18.5%</td><td align="left" colspan="1" rowspan="1" valign="middle">20.9%</td><td align="left" colspan="1" rowspan="1" valign="middle">5.7%</td></tr><tr><td align="left" colspan="1" rowspan="1" valign="middle"> ≥ 3 clusters</td><td align="left" colspan="1" rowspan="1" valign="middle">86.5%</td><td align="left" colspan="1" rowspan="1" valign="middle">88.2%</td><td align="left" colspan="1" rowspan="1" valign="middle">77.1%</td><td align="left" colspan="1" rowspan="1" valign="middle">23.9%</td><td align="left" colspan="1" rowspan="1" valign="middle">23.5%</td><td align="left" colspan="1" rowspan="1" valign="middle">25.7%</td></tr></tbody></table><table-wrap-foot><p>HVS: Hyperventilation syndrome; BMI: Body Mass Index; Continuous variables are expressed in median and quartiles M [Q1-Q3]; Bold p values indicate significant results (p&lt;0.05);</p></table-wrap-foot></table-wrap><p>The majority of participants presented with severe or critical infection forms (78.4%). Radiological manifestations of COVID-19pneumonia affected over 50% of the pulmonary parenchyma on chest CT scans in 73.8% of instances. High-flow oxygen therapy was required in 40.3%, while 6% of patients necessitated ICU admission for respiratory support. Pulmonary embolism complicated the course of 10.3% of COVID-19 pneumonias. The median hospital stay in our cohort was 10 days [7-15].</p></sec><sec id="sec15"><title>3. One-month follow-up evaluation</title><p>
+<bold>3.1. Clinical and functional assessment</bold>
+</p><p>The post-COVID-19 phase marked a substantial improvement in all symptoms, demonstrating a significant decrease in symptom occurrence and cluster cumulation compared to the early infection phase. At the one-month appointment, 23.4% of our cohort was asymptomatic, and 34.2% exhibited mono-cluster symptoms. The cardiorespiratory and neuropsychiatric clusters were the most residual, observed in 62.2% and 40.5% of patients, respectively. The most persistent physical complaints were dyspnea (52.9%) and asthenia (21.7%). Notably, dyspnea presentations were less severe, with 89.9% staged as mMRC 1 or mMRC 2. A quarter of participants still reported cognitive impairment at the one-month follow-up. The Post-COVID-19 Functional Status (PCFS) assessment revealed that 47.4% of patients experienced no functional limitations (Grade 0). Negligible (Grade 1) and slight (Grade 2) functional limitations were observed in 16.3% and 16.7% of examined patients, respectively. Severe limitations (Grade 4) affected only 4.2% of cases.</p><p>
+<bold>3.2. Screening for HVS and PTSD</bold>
+</p><p>The median Nijmegen Score was 9 points [3-18], with 35 participants having a score suggestive of HVS, resulting in an overall hospital Incidence of 158 per 1000 patients, which translates to 15.8%. Post-traumatic stress disorder (PTSD) screening using PCL-5 indicated an average score of 30 points [23-46], with 44.5% of our cohort displaying psychological distress consistent with a PTSD diagnosis.</p><p>
+<bold>3.3. Arterial blood gas test</bold>
+</p><p>The ABG test was performed on 100 patients. The average PaO2 and PaCO2 were 89 mmHg [81.5-98] and 36.2 mmHg [35-39], respectively. Hypoxemia and hypocapnea were reported in 21% and 24% of ABG tests, respectively. The median bicarbonate concentration was 25 mmol/L [23.5-26], with 17% of tested patients showing levels lower than the limit of normal. The median pH level was 7.43 [7.42-7.45]. Only 4% of patients featured alkalosis.</p><p>
+<bold>Comparison between Two Groups: HVS+ and HVS-
+</bold>
+</p><p>The overall patient characteristics of both groups revealed general similarities in demographics and clinical features, as detailed in
+<xref rid="T2" ref-type="table">
+Table 1</xref>. There were no significant differences in age, smoking habits, or BMI between the two groups. Although HVS+ patients showed a trend towards female predominance compared to HVS-, this difference did not reach statistical significance (p=0.061). The presence of one or more comorbidities was significantly associated with HVS+ (85.7% versus 68.4%; p=0.038). However, no significant variations were noted in psychiatric or somatic comorbidities between the two groups, except for asthma, which was statistically associated with HVS+ (p=0.048).</p><p>In
+<xref rid="f1" ref-type="fig">
+Figure 1</xref> and
+<xref rid="T3" ref-type="table">
+Table 2</xref>, we highlighted the main distinctions between the two groups concerning the clinical presentation of acute COVID-19 pneumonia and symptoms reported one month after. During the early infectious episode, patients with HVS tended to manifest slightly fewer symptoms and less cluster accumulation than patients without HVS. This trend held true for all symptomatic clusters except for the cardiorespiratory cluster (94.3% versus 92.5%; p=0.710), where complaints like dyspnea (p=0.293) and chest pain (p=0.036) were notably more prevalent in this group. Patients without HVS significantly exhibited, in terms of frequency, more symptoms related to neuropsychiatric cluster (p=0.025) during the acute viral infection, even though specific symptoms such as dysgeusia (p=0.031), anosmia (p=0.013), and cognitive impairment (p&lt;0.001) were significantly associated with HVS.</p><fig position="float" fig-type="figure" id="f1" orientation="portrait"><label>
+Figure 1. </label><caption><title>Comparative Radar Chart Illustrating COVID-19 Symptoms in Acute Pneumonia and the Post-Acute Phase.</title><p>(A): Symptoms during the Acute Phase; (B): Symptoms during the Post-Acute Phase; HVS: Hyperventilation Syndrome. Symptoms marked with an asterisk (*) indicate a significant difference between patients with and without HVS (p&lt;0.05)</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="gr1" position="float" orientation="portrait" xlink:href="f1000research-13-166928-g0000.jpg"/></fig><p>Concerning the post-acute phase, both groups experienced recovery from most symptoms. However, the HVS+ group showed a significantly slower recovery in terms of signs suggestive of HVS, particularly palpitations (p=0.005) and dizziness (p=0.003). Notably, signs unrelated to the classical clinical constellation of hyperventilation, particularly persistent weight loss (p=0.006) and residual cognitive impairment (p&lt;0.001), were observed.</p><p>No marker of COVID-19 pneumonia severity was significantly associated with HVS in our cohort (
+<xref rid="T4" ref-type="table">
+Table 3</xref>). Substantial differences were not observed between both groups in terms of the clinical severity of COVID-19, the radiological extension of COVID-19 lesions, oxygen requirement, ICU admission, the incidence of pulmonary embolism, or hospital stay duration. No significant difference in ABG tests was encountered in both groups either.</p><table-wrap position="float" id="T4" orientation="portrait"><label>
+Table 3. </label><caption><title>Acute COVID-19 Severity Markers and Post-Infection Sequelae in Our Cohort.</title></caption><table frame="hsides" rules="groups" content-type="article-table"><thead><tr><th align="left" colspan="1" rowspan="1" valign="top"/><th align="left" colspan="1" rowspan="1" valign="top">
+All Cohort (n=222)</th><th align="left" colspan="1" rowspan="1" valign="top">
+Patients with HVS (n=35)</th><th align="left" colspan="1" rowspan="1" valign="top">
+Patients without HVS (n=187)</th><th align="left" colspan="1" rowspan="1" valign="top">
+p value</th></tr></thead><tbody><tr><td align="left" colspan="1" rowspan="1" valign="middle">Acute COVID-19 PneumoniaMarkers</td><td colspan="1" rowspan="1"/><td colspan="1" rowspan="1"/><td colspan="1" rowspan="1"/><td colspan="1" rowspan="1"/></tr><tr><td align="left" colspan="1" rowspan="1" valign="middle"> Infection Severity</td><td colspan="1" rowspan="1"/><td colspan="1" rowspan="1"/><td colspan="1" rowspan="1"/><td colspan="1" rowspan="1"/></tr><tr><td align="left" colspan="1" rowspan="1" valign="middle">  Mild to Moderate</td><td align="left" colspan="1" rowspan="1" valign="middle">21.6%</td><td align="left" colspan="1" rowspan="1" valign="middle">71.4%</td><td align="left" colspan="1" rowspan="1" valign="middle">79.7%</td><td align="left" colspan="1" rowspan="2" valign="middle">0.276</td></tr><tr><td align="left" colspan="1" rowspan="1" valign="middle">  Severe to Critical</td><td align="left" colspan="1" rowspan="1" valign="middle">78.4%</td><td align="left" colspan="1" rowspan="1" valign="middle">28.6%</td><td align="left" colspan="1" rowspan="1" valign="middle">20.3%</td></tr><tr><td align="left" colspan="1" rowspan="1" valign="middle"> Extension of radiologic lesions on initial Chest CT scan</td><td colspan="1" rowspan="1"/><td colspan="1" rowspan="1"/><td colspan="1" rowspan="1"/><td colspan="1" rowspan="1"/></tr><tr><td align="left" colspan="1" rowspan="1" valign="middle">  &lt;10%</td><td align="left" colspan="1" rowspan="1" valign="middle">3.6%</td><td align="left" colspan="1" rowspan="1" valign="middle">8.6%</td><td align="left" colspan="1" rowspan="1" valign="middle">2.7%</td><td align="left" colspan="1" rowspan="5" valign="middle">0.271</td></tr><tr><td align="left" colspan="1" rowspan="1" valign="middle">  10-25%</td><td align="left" colspan="1" rowspan="1" valign="middle">22.5%</td><td align="left" colspan="1" rowspan="1" valign="middle">20%</td><td align="left" colspan="1" rowspan="1" valign="middle">23%</td></tr><tr><td align="left" colspan="1" rowspan="1" valign="middle">  25-50%</td><td align="left" colspan="1" rowspan="1" valign="middle">44.1%</td><td align="left" colspan="1" rowspan="1" valign="middle">37.1%</td><td align="left" colspan="1" rowspan="1" valign="middle">45.5%</td></tr><tr><td align="left" colspan="1" rowspan="1" valign="middle">  50-75%</td><td align="left" colspan="1" rowspan="1" valign="middle">23.4%</td><td align="left" colspan="1" rowspan="1" valign="middle">22.9%</td><td align="left" colspan="1" rowspan="1" valign="middle">23.5%</td></tr><tr><td align="left" colspan="1" rowspan="1" valign="middle">  &gt;75%</td><td align="left" colspan="1" rowspan="1" valign="middle">6.3%</td><td align="left" colspan="1" rowspan="1" valign="middle">11.4%</td><td align="left" colspan="1" rowspan="1" valign="middle">5.3%</td></tr><tr><td align="left" colspan="1" rowspan="1" valign="middle"> Oxygenrequirement</td><td colspan="1" rowspan="1"/><td colspan="1" rowspan="1"/><td colspan="1" rowspan="1"/><td colspan="1" rowspan="1"/></tr><tr><td align="left" colspan="1" rowspan="1" valign="middle">  Low O2 flow</td><td align="left" colspan="1" rowspan="1" valign="middle">59.7%</td><td align="left" colspan="1" rowspan="1" valign="middle">54.3%</td><td align="left" colspan="1" rowspan="1" valign="middle">60.8%</td><td align="left" colspan="1" rowspan="2" valign="middle">0.474</td></tr><tr><td align="left" colspan="1" rowspan="1" valign="middle">  High O2 flow</td><td align="left" colspan="1" rowspan="1" valign="middle">40.3%</td><td align="left" colspan="1" rowspan="1" valign="middle">45.7%</td><td align="left" colspan="1" rowspan="1" valign="middle">39.2%</td></tr><tr><td align="left" colspan="1" rowspan="1" valign="middle">  ICU Admission</td><td align="left" colspan="1" rowspan="1" valign="middle">6%</td><td align="left" colspan="1" rowspan="1" valign="middle">6.5%</td><td align="left" colspan="1" rowspan="1" valign="middle">5.9%</td><td align="left" colspan="1" rowspan="1" valign="middle">0.908</td></tr><tr><td align="left" colspan="1" rowspan="1" valign="middle">  PulmonaryEmbolism</td><td align="left" colspan="1" rowspan="1" valign="middle">10.3%</td><td align="left" colspan="1" rowspan="1" valign="middle">6.9%</td><td align="left" colspan="1" rowspan="1" valign="middle">10.9%</td><td align="left" colspan="1" rowspan="1" valign="middle">0.512</td></tr><tr><td align="left" colspan="1" rowspan="1" valign="middle">  Hospital Stay (days)</td><td align="left" colspan="1" rowspan="1" valign="middle">10 [7-15]</td><td align="left" colspan="1" rowspan="1" valign="middle">12.5 [8-15.5]</td><td align="left" colspan="1" rowspan="1" valign="middle">10 [7-15]</td><td align="left" colspan="1" rowspan="1" valign="middle">0.084</td></tr><tr><td align="left" colspan="1" rowspan="1" valign="middle">One-month post-COVID-19 pneumonia</td><td colspan="1" rowspan="1"/><td colspan="1" rowspan="1"/><td colspan="1" rowspan="1"/><td colspan="1" rowspan="1"/></tr><tr><td align="left" colspan="1" rowspan="1" valign="middle"> Post-COVID-19 Functional Status</td><td colspan="1" rowspan="1"/><td colspan="1" rowspan="1"/><td colspan="1" rowspan="1"/><td colspan="1" rowspan="1"/></tr><tr><td align="left" colspan="1" rowspan="1" valign="middle">  Grade 0</td><td align="left" colspan="1" rowspan="1" valign="middle">47.4%</td><td align="left" colspan="1" rowspan="1" valign="middle">8.6%</td><td align="left" colspan="1" rowspan="1" valign="middle">55%</td><td align="left" colspan="1" rowspan="5" valign="middle">
+<bold>&lt;0.001*</bold>
+</td></tr><tr><td align="left" colspan="1" rowspan="1" valign="middle">  Grade 1</td><td align="left" colspan="1" rowspan="1" valign="middle">16.3%</td><td align="left" colspan="1" rowspan="1" valign="middle">22.9%</td><td align="left" colspan="1" rowspan="1" valign="middle">15%</td></tr><tr><td align="left" colspan="1" rowspan="1" valign="middle">  Grade 2</td><td align="left" colspan="1" rowspan="1" valign="middle">16.7%</td><td align="left" colspan="1" rowspan="1" valign="middle">25.7%</td><td align="left" colspan="1" rowspan="1" valign="middle">15%</td></tr><tr><td align="left" colspan="1" rowspan="1" valign="middle">  Grade 3</td><td align="left" colspan="1" rowspan="1" valign="middle">15.3%</td><td align="left" colspan="1" rowspan="1" valign="middle">37.1%</td><td align="left" colspan="1" rowspan="1" valign="middle">11.1%</td></tr><tr><td align="left" colspan="1" rowspan="1" valign="middle">  Grade 4</td><td align="left" colspan="1" rowspan="1" valign="middle">4.2%</td><td align="left" colspan="1" rowspan="1" valign="middle">5.7%</td><td align="left" colspan="1" rowspan="1" valign="middle">3.9%</td></tr><tr><td align="left" colspan="1" rowspan="1" valign="middle"> Nijmegen Score (points)</td><td align="left" colspan="1" rowspan="1" valign="middle">9 [3-18]</td><td align="left" colspan="1" rowspan="1" valign="middle">33 [25-40]</td><td align="left" colspan="1" rowspan="1" valign="middle">7 [2-14]</td><td align="left" colspan="1" rowspan="1" valign="middle">
+<bold>-</bold>
+</td></tr><tr><td align="left" colspan="1" rowspan="1" valign="middle"> PCL-5 (points)</td><td align="left" colspan="1" rowspan="1" valign="middle">30 [23-46]</td><td align="left" colspan="1" rowspan="1" valign="middle">55 [34-75]</td><td align="left" colspan="1" rowspan="1" valign="middle">28 [22-41]</td><td align="left" colspan="1" rowspan="1" valign="middle">
+<bold>&lt;0.001*</bold>
+</td></tr><tr><td align="left" colspan="1" rowspan="1" valign="middle"> PTSD</td><td align="left" colspan="1" rowspan="1" valign="middle">44.5%</td><td align="left" colspan="1" rowspan="1" valign="middle">80,00%</td><td align="left" colspan="1" rowspan="1" valign="middle">37.7%</td><td align="left" colspan="1" rowspan="1" valign="middle">
+<bold>&lt;0.001*</bold>
+</td></tr></tbody></table><table frame="hsides" rules="groups" content-type="article-table"><thead><tr><th align="left" colspan="1" rowspan="1" valign="top">Arterial Blood Gas</th><th align="left" colspan="1" rowspan="1" valign="top">
+All Cohort (n=100)</th><th align="left" colspan="1" rowspan="1" valign="top">
+Patients with HVS (n=17)</th><th align="left" colspan="1" rowspan="1" valign="top">
+Patients without HVS (n=83)</th><th align="left" colspan="1" rowspan="1" valign="top">
+p-value</th></tr></thead><tbody><tr><td align="left" colspan="1" rowspan="1" valign="middle">PH</td><td align="left" colspan="1" rowspan="1" valign="middle">7.43 [7.42-7.45]</td><td align="left" colspan="1" rowspan="1" valign="middle">7.42 [7.40-7.44]</td><td align="left" colspan="1" rowspan="1" valign="middle">7.43 [7.42-7.45]</td><td align="left" colspan="1" rowspan="1" valign="middle">0.177</td></tr><tr><td align="left" colspan="1" rowspan="1" valign="middle">PaO2 (mmHg)</td><td align="left" colspan="1" rowspan="1" valign="middle">89 [81.5-98]</td><td align="left" colspan="1" rowspan="1" valign="middle">90 [84-97]</td><td align="left" colspan="1" rowspan="1" valign="middle">89 [81-98]</td><td align="left" colspan="1" rowspan="1" valign="middle">0.993</td></tr><tr><td align="left" colspan="1" rowspan="1" valign="middle">PaCO2 (mmHg)</td><td align="left" colspan="1" rowspan="1" valign="middle">36.2 [35-39]</td><td align="left" colspan="1" rowspan="1" valign="middle">39 [35-40.2]</td><td align="left" colspan="1" rowspan="1" valign="middle">36 [35-39]</td><td align="left" colspan="1" rowspan="1" valign="middle">0.237</td></tr><tr><td align="left" colspan="1" rowspan="1" valign="middle">[HCO3-] (mmol/L)</td><td align="left" colspan="1" rowspan="1" valign="middle">25 [23.5-26]</td><td align="left" colspan="1" rowspan="1" valign="middle">25 [23.5-26]</td><td align="left" colspan="1" rowspan="1" valign="middle">24 [23-26]</td><td align="left" colspan="1" rowspan="1" valign="middle">0.941</td></tr><tr><td align="left" colspan="1" rowspan="1" valign="middle">SaO2 (%)</td><td align="left" colspan="1" rowspan="1" valign="middle">97 [96-98]</td><td align="left" colspan="1" rowspan="1" valign="middle">97 [96-97.4]</td><td align="left" colspan="1" rowspan="1" valign="middle">97 [96-98]</td><td align="left" colspan="1" rowspan="1" valign="middle">0.402</td></tr></tbody></table><table-wrap-foot><p>Bold p values indicate significant results (p&lt;0.05); HVS: Hyperventilation Syndrome; PTSD: Post-Traumatic Stress Disorder; PCL-5:Posttraumatic Stress Disorder Checklist for DSM-5PaO2: Partial Pressure of Oxygen; PaCO2: Partial Pressure of Carbon Dioxide; [HCO3-]: Bicarbonate Ion Concentration; SaO2: Arterial Oxygen Saturation; ICU: Intensive Care Unit.</p></table-wrap-foot></table-wrap><p>Distinctive functional and psychological outcomes were evident between the compared groups at the one-month appointment (
+<xref rid="T4" ref-type="table">
+Table 3</xref>). Worse PCFS grades were significantly associated with the HVS+ group, as most patients with HVS presented with PCFS grade &gt; 2 (42.8% versus 15%; p&lt;0.001). The PCL-5 score was significantly higher in patients with HVS (55 [34-75] versus 28 [22-41]; p&lt;0.001). A positive diagnosis of PTSD was significantly associated with HVS (p&lt;0.001).</p></sec><sec id="sec16"><title>4. Predictive factors for HVS</title><p>To identify predictive factors for HVS within our cohort, logistic regression analysis was conducted, encompassing various variables, including demographic and clinical factors, acute COVID-19 pneumonia presentation, COVID-19 pneumonia severity markers, persistent symptoms, PCFS, and PTSD. As indicated in
+<xref rid="T5" ref-type="table">
+Table 4</xref>, multivariate analysis revealed that presenting with cognitive impairment during the acute phase, persistent weight loss, PCFS grade &gt; 2, and PTSD were independent factors for developing HVS, with a relative risk (RR) of 3.47 (p = 0.004), 11.87 (p = 0.031), 3.24 (p = 0.009), and 5.98 (p &lt; 0.001), respectively.</p><table-wrap position="float" id="T5" orientation="portrait"><label>
+Table 4. </label><caption><title>Univariate and Multivariate Logistic Regression Analysis of Factors Influencing theOccurrence of Hyperventilation Syndrome.</title></caption><table frame="hsides" rules="groups" content-type="article-table"><thead><tr><th align="left" colspan="1" rowspan="2" valign="top"/><th align="left" colspan="5" rowspan="1" valign="top">UnivariateLogisticRegression</th><th align="left" colspan="6" rowspan="1" valign="top">MultivariateLogisticRegression Model
+<xref rid="tfn1" ref-type="table-fn">*</xref>
+</th></tr><tr><th align="left" colspan="1" rowspan="1" valign="top">β</th><th align="left" colspan="1" rowspan="1" valign="top">SE</th><th align="left" colspan="1" rowspan="1" valign="top">p-value
+</th><th align="left" colspan="1" rowspan="1" valign="top">OR</th><th align="left" colspan="1" rowspan="1" valign="top">95% CI</th><th align="left" colspan="1" rowspan="1" valign="top">Adjusted β</th><th align="left" colspan="1" rowspan="1" valign="top">SE</th><th align="left" colspan="1" rowspan="1" valign="top">Wald χ
+<sup>2</sup>
+</th><th align="left" colspan="1" rowspan="1" valign="top">p-value
+</th><th align="left" colspan="1" rowspan="1" valign="top">RR</th><th align="left" colspan="1" rowspan="1" valign="top">
+95% CI</th></tr></thead><tbody><tr><td align="left" colspan="1" rowspan="1" valign="middle">Constant</td><td align="left" colspan="1" rowspan="1" valign="middle">-</td><td align="left" colspan="1" rowspan="1" valign="middle">-</td><td align="left" colspan="1" rowspan="1" valign="middle">-</td><td align="left" colspan="1" rowspan="1" valign="middle">-</td><td align="left" colspan="1" rowspan="1" valign="middle">-</td><td align="left" colspan="1" rowspan="1" valign="middle">-3.756</td><td align="left" colspan="1" rowspan="1" valign="middle">0.527</td><td colspan="1" rowspan="1"/><td colspan="1" rowspan="1"/><td colspan="1" rowspan="1"/><td colspan="1" rowspan="1"/></tr><tr><td align="left" colspan="1" rowspan="1" valign="middle">Comorbidities ≥ 1</td><td align="left" colspan="1" rowspan="1" valign="middle">1.017</td><td align="left" colspan="1" rowspan="1" valign="middle">0.508</td><td align="left" colspan="1" rowspan="1" valign="middle">0.045</td><td align="left" colspan="1" rowspan="1" valign="middle">2.77</td><td align="left" colspan="1" rowspan="1" valign="middle">1.02-7.49</td><td colspan="1" rowspan="1"/><td colspan="1" rowspan="1"/><td colspan="1" rowspan="1"/><td colspan="1" rowspan="1"/><td colspan="1" rowspan="1"/><td colspan="1" rowspan="1"/></tr><tr><td align="left" colspan="1" rowspan="1" valign="middle">Acute COVID-19 Phase</td><td colspan="1" rowspan="1"/><td colspan="1" rowspan="1"/><td colspan="1" rowspan="1"/><td colspan="1" rowspan="1"/><td colspan="1" rowspan="1"/><td colspan="1" rowspan="1"/><td colspan="1" rowspan="1"/><td colspan="1" rowspan="1"/><td colspan="1" rowspan="1"/><td colspan="1" rowspan="1"/><td colspan="1" rowspan="1"/></tr><tr><td align="left" colspan="1" rowspan="1" valign="middle">Constitutionalsigns</td><td align="left" colspan="1" rowspan="1" valign="middle">-1.316</td><td align="left" colspan="1" rowspan="1" valign="middle">0.603</td><td align="left" colspan="1" rowspan="1" valign="middle">0.029</td><td align="left" colspan="1" rowspan="1" valign="middle">0.27</td><td align="left" colspan="1" rowspan="1" valign="middle">0.08-0.87</td><td colspan="1" rowspan="1"/><td colspan="1" rowspan="1"/><td colspan="1" rowspan="1"/><td colspan="1" rowspan="1"/><td colspan="1" rowspan="1"/><td colspan="1" rowspan="1"/></tr><tr><td align="left" colspan="1" rowspan="1" valign="middle">Neuropsychiatric cluster</td><td align="left" colspan="1" rowspan="1" valign="middle">0.890</td><td align="left" colspan="1" rowspan="1" valign="middle">0.404</td><td align="left" colspan="1" rowspan="1" valign="middle">0.028</td><td align="left" colspan="1" rowspan="1" valign="middle">2.43</td><td align="left" colspan="1" rowspan="1" valign="middle">1.10-5.38</td><td colspan="1" rowspan="1"/><td colspan="1" rowspan="1"/><td colspan="1" rowspan="1"/><td colspan="1" rowspan="1"/><td colspan="1" rowspan="1"/><td colspan="1" rowspan="1"/></tr><tr><td align="left" colspan="1" rowspan="1" valign="middle">Chest Pain</td><td align="left" colspan="1" rowspan="1" valign="middle">0.770</td><td align="left" colspan="1" rowspan="1" valign="middle">0.373</td><td align="left" colspan="1" rowspan="1" valign="middle">0.039</td><td align="left" colspan="1" rowspan="1" valign="middle">2.16</td><td align="left" colspan="1" rowspan="1" valign="middle">1.04-4.49</td><td colspan="1" rowspan="1"/><td colspan="1" rowspan="1"/><td colspan="1" rowspan="1"/><td colspan="1" rowspan="1"/><td colspan="1" rowspan="1"/><td colspan="1" rowspan="1"/></tr><tr><td align="left" colspan="1" rowspan="1" valign="middle">Cognitive Impairment</td><td align="left" colspan="1" rowspan="1" valign="middle">1.346</td><td align="left" colspan="1" rowspan="1" valign="middle">0.395</td><td align="left" colspan="1" rowspan="1" valign="middle">0.001</td><td align="left" colspan="1" rowspan="1" valign="middle">3.84</td><td align="left" colspan="1" rowspan="1" valign="middle">1.77-8.33</td><td align="left" colspan="1" rowspan="1" valign="middle">
+<bold>1.244</bold>
+</td><td align="left" colspan="1" rowspan="1" valign="middle">
+<bold>0.433</bold>
+</td><td align="left" colspan="1" rowspan="1" valign="middle">
+<bold>8.23</bold>
+</td><td align="left" colspan="1" rowspan="1" valign="middle">
+<bold>0.004</bold>
+</td><td align="left" colspan="1" rowspan="1" valign="middle">
+<bold>3.47</bold>
+</td><td align="left" colspan="1" rowspan="1" valign="middle">
+<bold>1.48-8.11</bold>
+</td></tr><tr><td align="left" colspan="1" rowspan="1" valign="middle">Dysgeusia</td><td align="left" colspan="1" rowspan="1" valign="middle">0.793</td><td align="left" colspan="1" rowspan="1" valign="middle">0.374</td><td align="left" colspan="1" rowspan="1" valign="middle">0.034</td><td align="left" colspan="1" rowspan="1" valign="middle">2.21</td><td align="left" colspan="1" rowspan="1" valign="middle">1.06-4.60</td><td colspan="1" rowspan="1"/><td colspan="1" rowspan="1"/><td colspan="1" rowspan="1"/><td colspan="1" rowspan="1"/><td colspan="1" rowspan="1"/><td colspan="1" rowspan="1"/></tr><tr><td align="left" colspan="1" rowspan="1" valign="middle">Anosmia</td><td align="left" colspan="1" rowspan="1" valign="middle">0.909</td><td align="left" colspan="1" rowspan="1" valign="middle">0.375</td><td align="left" colspan="1" rowspan="1" valign="middle">0.015</td><td align="left" colspan="1" rowspan="1" valign="middle">2.48</td><td align="left" colspan="1" rowspan="1" valign="middle">1.19-5.17</td><td colspan="1" rowspan="1"/><td colspan="1" rowspan="1"/><td colspan="1" rowspan="1"/><td colspan="1" rowspan="1"/><td colspan="1" rowspan="1"/><td colspan="1" rowspan="1"/></tr><tr><td align="left" colspan="1" rowspan="1" valign="middle">Post-Phase
+</td><td colspan="1" rowspan="1"/><td colspan="1" rowspan="1"/><td colspan="1" rowspan="1"/><td colspan="1" rowspan="1"/><td colspan="1" rowspan="1"/><td colspan="1" rowspan="1"/><td colspan="1" rowspan="1"/><td colspan="1" rowspan="1"/><td colspan="1" rowspan="1"/><td colspan="1" rowspan="1"/><td colspan="1" rowspan="1"/></tr><tr><td align="left" colspan="1" rowspan="1" valign="middle">Fatigue</td><td align="left" colspan="1" rowspan="1" valign="middle">0.936</td><td align="left" colspan="1" rowspan="1" valign="middle">0.397</td><td align="left" colspan="1" rowspan="1" valign="middle">0.018</td><td align="left" colspan="1" rowspan="1" valign="middle">2.55</td><td align="left" colspan="1" rowspan="1" valign="middle">1.17-5.55</td><td colspan="1" rowspan="1"/><td colspan="1" rowspan="1"/><td colspan="1" rowspan="1"/><td colspan="1" rowspan="1"/><td colspan="1" rowspan="1"/><td colspan="1" rowspan="1"/></tr><tr><td align="left" colspan="1" rowspan="1" valign="middle">WeightLoss</td><td align="left" colspan="1" rowspan="1" valign="middle">2.155</td><td align="left" colspan="1" rowspan="1" valign="middle">0.933</td><td align="left" colspan="1" rowspan="1" valign="middle">0.021</td><td align="left" colspan="1" rowspan="1" valign="middle">8.62</td><td align="left" colspan="1" rowspan="1" valign="middle">1.39-53.67</td><td align="left" colspan="1" rowspan="1" valign="middle">
+<bold>2.475</bold>
+</td><td align="left" colspan="1" rowspan="1" valign="middle">
+<bold>1.149</bold>
+</td><td align="left" colspan="1" rowspan="1" valign="middle">
+<bold>4.64</bold>
+</td><td align="left" colspan="1" rowspan="1" valign="middle">
+<bold>0.031</bold>
+</td><td align="left" colspan="1" rowspan="1" valign="middle">
+<bold>11.88</bold>
+</td><td align="left" colspan="1" rowspan="1" valign="middle">
+<bold>1.25-112.88</bold>
+</td></tr><tr><td align="left" colspan="1" rowspan="1" valign="middle">Palpitation</td><td align="left" colspan="1" rowspan="1" valign="middle">1.200</td><td align="left" colspan="1" rowspan="1" valign="middle">0.443</td><td align="left" colspan="1" rowspan="1" valign="middle">0.007</td><td align="left" colspan="1" rowspan="1" valign="middle">3.32</td><td align="left" colspan="1" rowspan="1" valign="middle">1.39-7.91</td><td colspan="1" rowspan="1"/><td colspan="1" rowspan="1"/><td colspan="1" rowspan="1"/><td colspan="1" rowspan="1"/><td colspan="1" rowspan="1"/><td colspan="1" rowspan="1"/></tr><tr><td align="left" colspan="1" rowspan="1" valign="middle">Dizziness</td><td align="left" colspan="1" rowspan="1" valign="middle">1.229</td><td align="left" colspan="1" rowspan="1" valign="middle">0.429</td><td align="left" colspan="1" rowspan="1" valign="middle">0.004</td><td align="left" colspan="1" rowspan="1" valign="middle">3.42</td><td align="left" colspan="1" rowspan="1" valign="middle">1.47-7.92</td><td colspan="1" rowspan="1"/><td colspan="1" rowspan="1"/><td colspan="1" rowspan="1"/><td colspan="1" rowspan="1"/><td colspan="1" rowspan="1"/><td colspan="1" rowspan="1"/></tr><tr><td align="left" colspan="1" rowspan="1" valign="middle">Cognitive Impairment</td><td align="left" colspan="1" rowspan="1" valign="middle">1.296</td><td align="left" colspan="1" rowspan="1" valign="middle">0.384</td><td align="left" colspan="1" rowspan="1" valign="middle">&lt;0.001</td><td align="left" colspan="1" rowspan="1" valign="middle">3.65</td><td align="left" colspan="1" rowspan="1" valign="middle">1.72-7.76</td><td colspan="1" rowspan="1"/><td colspan="1" rowspan="1"/><td colspan="1" rowspan="1"/><td colspan="1" rowspan="1"/><td colspan="1" rowspan="1"/><td colspan="1" rowspan="1"/></tr><tr><td align="left" colspan="1" rowspan="1" valign="middle">PCFS &gt; Grade 2</td><td align="left" colspan="1" rowspan="1" valign="middle">1.447</td><td align="left" colspan="1" rowspan="1" valign="middle">0.400</td><td align="left" colspan="1" rowspan="1" valign="middle">&lt;0.001</td><td align="left" colspan="1" rowspan="1" valign="middle">4.25</td><td align="left" colspan="1" rowspan="1" valign="middle">1.94-9.31</td><td align="left" colspan="1" rowspan="1" valign="middle">
+<bold>1.175</bold>
+</td><td align="left" colspan="1" rowspan="1" valign="middle">
+<bold>0.452</bold>
+</td><td align="left" colspan="1" rowspan="1" valign="middle">
+<bold>6.75</bold>
+</td><td align="left" colspan="1" rowspan="1" valign="middle">
+<bold>0.009</bold>
+</td><td align="left" colspan="1" rowspan="1" valign="middle">
+<bold>3,24</bold>
+</td><td align="left" colspan="1" rowspan="1" valign="middle">
+<bold>1.34-7.86</bold>
+</td></tr><tr><td align="left" colspan="1" rowspan="1" valign="middle">PTSD</td><td align="left" colspan="1" rowspan="1" valign="middle">1.888</td><td align="left" colspan="1" rowspan="1" valign="middle">0.449</td><td align="left" colspan="1" rowspan="1" valign="middle">&lt;0.001</td><td align="left" colspan="1" rowspan="1" valign="middle">6.61</td><td align="left" colspan="1" rowspan="1" valign="middle">2.74-15.94</td><td align="left" colspan="1" rowspan="1" valign="middle">
+<bold>1.788</bold>
+</td><td align="left" colspan="1" rowspan="1" valign="middle">
+<bold>0.495</bold>
+</td><td align="left" colspan="1" rowspan="1" valign="middle">
+<bold>13.07</bold>
+</td><td align="left" colspan="1" rowspan="1" valign="middle">
+<bold>&lt;0.001</bold>
+</td><td align="left" colspan="1" rowspan="1" valign="middle">
+<bold>5.98</bold>
+</td><td align="left" colspan="1" rowspan="1" valign="middle">
+<bold>2.27-15.77</bold>
+</td></tr></tbody></table><table-wrap-foot><fn id="tfn1"><label>*</label><p>Hosmer-Lemeshow test for model fit (χ
+<sup>2</sup> = 1.379, p = 0.947). Adjusted R
+<sup>2</sup> = 0.32; Significance is determined for all p-values &lt; 0.05; SE: Standard Error; RR: relative risk RR; CI: Confidence Interval; PCFS: Post COVID-19 Functional Status Scale; PTSD: Post-Traumatic Stress Disorder.</p></fn></table-wrap-foot></table-wrap><p>The probability (p) of developing HVS based on this multivariate logistic regression model is represented by the following equation:
+<disp-formula id="e1">
+<mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="M1" display="block" overflow="scroll"><mml:mtext>logit</mml:mtext><mml:mspace width="0.25em"/><mml:mrow><mml:mo stretchy="true">(</mml:mo><mml:mi mathvariant="normal">p</mml:mi><mml:mo stretchy="true">)</mml:mo></mml:mrow><mml:mo>=</mml:mo><mml:mo>−</mml:mo><mml:mn>3.756</mml:mn><mml:mo>+</mml:mo><mml:mn>1.244</mml:mn><mml:mo>∗</mml:mo><mml:msub><mml:mi mathvariant="normal">X</mml:mi><mml:mn>1</mml:mn></mml:msub><mml:mo>+</mml:mo><mml:mn>2.475</mml:mn><mml:mo>∗</mml:mo><mml:msub><mml:mi mathvariant="normal">X</mml:mi><mml:mn>2</mml:mn></mml:msub><mml:mo>+</mml:mo><mml:mn>1.175</mml:mn><mml:mo>∗</mml:mo><mml:msub><mml:mi mathvariant="normal">X</mml:mi><mml:mn>3</mml:mn></mml:msub><mml:mo>+</mml:mo><mml:mn>1.788</mml:mn><mml:mo>∗</mml:mo><mml:msub><mml:mi mathvariant="normal">X</mml:mi><mml:mn>4</mml:mn></mml:msub></mml:math>
+</disp-formula>where:
+<disp-formula id="e2">
+<mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="M2" display="block" overflow="scroll"><mml:msub><mml:mi mathvariant="normal">X</mml:mi><mml:mn>1</mml:mn></mml:msub><mml:mo>:</mml:mo><mml:mtext>Cognitive impairment during the acute COVID</mml:mtext><mml:mo>−</mml:mo><mml:mn>19</mml:mn><mml:mspace width="0.25em"/><mml:mtext>phase</mml:mtext><mml:mspace width="0.25em"/><mml:mrow><mml:mo stretchy="true">(</mml:mo><mml:mspace width="0.25em"/><mml:mn>1</mml:mn><mml:mspace width="0.25em"/><mml:mtext>if present</mml:mtext><mml:mo>,</mml:mo><mml:mn>0</mml:mn><mml:mspace width="0.25em"/><mml:mtext>if absent</mml:mtext><mml:mo stretchy="true">)</mml:mo></mml:mrow></mml:math>
+</disp-formula>
+<disp-formula id="e3">
+<mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="M3" display="block" overflow="scroll"><mml:msub><mml:mi mathvariant="normal">X</mml:mi><mml:mn>2</mml:mn></mml:msub><mml:mo>:</mml:mo><mml:mtext>Weight loss during the post</mml:mtext><mml:mo>−</mml:mo><mml:mtext>COVID</mml:mtext><mml:mo>−</mml:mo><mml:mn>19</mml:mn><mml:mspace width="0.25em"/><mml:mtext>phase</mml:mtext><mml:mspace width="0.25em"/><mml:mrow><mml:mo stretchy="true">(</mml:mo><mml:mspace width="0.25em"/><mml:mn>1</mml:mn><mml:mspace width="0.25em"/><mml:mtext>if present</mml:mtext><mml:mo>,</mml:mo><mml:mn>0</mml:mn><mml:mspace width="0.25em"/><mml:mtext>if absent</mml:mtext><mml:mo stretchy="true">)</mml:mo></mml:mrow></mml:math>
+</disp-formula>
+<disp-formula id="e4">
+<mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="M4" display="block" overflow="scroll"><mml:msub><mml:mi mathvariant="normal">X</mml:mi><mml:mn>3</mml:mn></mml:msub><mml:mo>:</mml:mo><mml:mtext>PCFS grading</mml:mtext><mml:mspace width="0.25em"/><mml:mrow><mml:mo stretchy="true">(</mml:mo><mml:mn>1</mml:mn><mml:mspace width="0.25em"/><mml:mtext>if PCFS</mml:mtext><mml:mo>&gt;</mml:mo><mml:mn>2</mml:mn><mml:mo>,</mml:mo><mml:mn>0</mml:mn><mml:mspace width="0.25em"/><mml:mtext mathvariant="italic">if PCFS</mml:mtext><mml:mo>≤</mml:mo><mml:mn>2</mml:mn><mml:mo stretchy="true">)</mml:mo></mml:mrow></mml:math>
+</disp-formula>
+<disp-formula id="e5">
+<mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="M5" display="block" overflow="scroll"><mml:msub><mml:mi mathvariant="normal">X</mml:mi><mml:mn>4</mml:mn></mml:msub><mml:mo>:</mml:mo><mml:mtext>PTSD during the post</mml:mtext><mml:mo>−</mml:mo><mml:mtext>COVID</mml:mtext><mml:mspace width="0.25em"/><mml:mn>19</mml:mn><mml:mspace width="0.25em"/><mml:mtext>phase</mml:mtext><mml:mspace width="0.25em"/><mml:mrow><mml:mo stretchy="true">(</mml:mo><mml:mspace width="0.25em"/><mml:mn>1</mml:mn><mml:mspace width="0.25em"/><mml:mtext>if present</mml:mtext><mml:mo>,</mml:mo><mml:mn>0</mml:mn><mml:mspace width="0.25em"/><mml:mtext>if absent</mml:mtext><mml:mo stretchy="true">)</mml:mo></mml:mrow></mml:math>
+</disp-formula>
+</p><p>The logistic regression model’s adequacy was assessed through the Hosmer-Lemeshow test, yielding a non-significant result (χ
+<sup>2</sup> = 1.379, p = 0.947), suggesting a satisfactory fit of the model to the data. The model’s explanatory power was further evaluated using the Adjusted R
+<sup>2</sup>, revealing a value of 0.32. This indicates that approximately 32% of the variance in the occurrence of HVS in the post-COVID-19 phase is accounted for by these four independent factors.</p></sec></sec><sec sec-type="discussion" id="sec17"><title>Discussion</title><p>Despite considerable scientific enthusiasm and extensive medical investigations into the clinical aspects and therapeutics of both acute infection and persistent COVID-19 symptoms, researchers have paid limited attention to HVS in survivors of COVID-19 pneumonia.
+<sup>
+<xref rid="ref16" ref-type="bibr">16</xref>,
+<xref rid="ref20" ref-type="bibr">20</xref>
+</sup> This study sheds light on this topic through a prospective cohort study involving 222 patients and showed that HVS is prevalent in the post-COVID-19 phase, affecting 15.6% of survivors. Identified predictive factors suggest the convergence of psychosomatic pathophysiological mechanisms.</p><p>The mechanisms underlying symptoms in HVS remain incompletely understood. Authors posit that hypocapnia and alkalosis induced by inappropriate hyperventilation play a crucial role. Increased ventilation leads to dyspnea due to the muscular effort it engenders, creating a cycle of stress that perpetuates the process.
+<sup>
+<xref rid="ref7" ref-type="bibr">7</xref>,
+<xref rid="ref21" ref-type="bibr">21</xref>,
+<xref rid="ref22" ref-type="bibr">22</xref>
+</sup> Furthermore, symptoms potentially related to hypocapnia are inherently anxiogenic. This scenario is frequently observed in response to various stimuli, both organic and psychiatric, such as exercise or stress, imparting psychosomatic components to this syndrome.
+<sup>
+<xref rid="ref13" ref-type="bibr">13</xref>,
+<xref rid="ref23" ref-type="bibr">23</xref>
+</sup>
+</p><p>To the best of our knowledge, this cohort study is the inaugural contribution in the literature assessing the incidence of HVS in a substantial sample of patients after COVID-19 pneumonia. Our estimation places the incidence of 156 per 1000 patients hospitalized for COVID-19 pneumonia., surpassing the classical reported prevalence of 6-10% in the general population.
+<sup>
+<xref rid="ref7" ref-type="bibr">7</xref>,
+<xref rid="ref11" ref-type="bibr">11</xref>
+</sup> Previous studies examining post-COVID-19 patients have been confined to limited case series with cross-sectional designs, thus lacking sufficient statistical power to accurately ascertain the incidence of this condition.
+<sup>
+<xref rid="ref15" ref-type="bibr">15</xref>,
+<xref rid="ref16" ref-type="bibr">16</xref>,
+<xref rid="ref20" ref-type="bibr">20</xref>,
+<xref rid="ref24" ref-type="bibr">24</xref>
+</sup> While HVS is traditionally associated with a higher prevalence in females, with a male-to-female sex ratio ranging from 1:2 to 1:4, our findings suggest an equal gender distribution in survivors of COVID-19.
+<sup>
+<xref rid="ref7" ref-type="bibr">7</xref>,
+<xref rid="ref11" ref-type="bibr">11</xref>
+</sup>
+</p><p>Within our cohort, patients with somatic comorbidities exhibit a significant susceptibility to developing HVS compared to their healthier counterparts. Interestingly, common chronic conditions like obesity, hypertension, or diabetes did not exhibit a comparable association, suggesting a potential psychological influence rather than a solely somatic component. The stressful atmosphere linked to the COVID-19 pandemic emanates not just from the nature of the disease but also from the extensive attention given by mainstream and social media. This dissemination of overwhelming and alarming information is particularly pronounced for populations with comorbidities.
+<sup>
+<xref rid="ref25" ref-type="bibr">25</xref>–
+<xref rid="ref27" ref-type="bibr">27</xref>
+</sup> The persistent perception of threat could potentially trigger HVS in patients recovering from acute COVID-19 pneumonia. This heightened sense of vulnerability may be further exacerbated in individuals with pre-existing respiratory conditions, especially asthma, as supported by the significant association found in our study.
+<sup>
+<xref rid="ref28" ref-type="bibr">28</xref>,
+<xref rid="ref29" ref-type="bibr">29</xref>
+</sup>
+</p><p>In our investigation, we failed to identify distinct acute clinical presentations reliably predicting the subsequent onset of HVS. Patients who later developed hyperventilation manifested less severe COVID-19 symptoms and a reduced accumulation of symptom clusters during the acute phase in comparison to those who did not develop HVS. An exception regarding anosmia and dysgeusia should be highlighted. Experiencing these latter symptoms during the acute phase was strongly associated with the occurrence of HVS. Similarly, cognitive impairment also emerged as an independent predictive factor for HVS, as identified in our multivariate regression model with a relative risk RR of 3.47.</p><p>These findings prompt considerations regarding a potential organic mechanism for HVS in individuals who have contracted COVID. Multiple studies have highlighted the notable neurotropism of SARS-CoV-2.
+<sup>
+<xref rid="ref30" ref-type="bibr">30</xref>
+</sup> This neural spread rapidly leads to disruptions in taste and olfaction from the onset of infection due to alterations in the neuroperception of gustatory and olfactory chemosensors caused by the virus.
+<sup>
+<xref rid="ref30" ref-type="bibr">30</xref>–
+<xref rid="ref32" ref-type="bibr">32</xref>
+</sup> Moreover, various authors posit that viral neurotropism contributes to the silent hypoxia reported in 32%–65% of infected individuals, affecting both peripheral and central respiratory chemoreceptors. This spread may induce inflammation and impair the processing of hypoxia signals at higher respiratory centers, resulting in inappropriate normal breathing despite severe hypoxia.
+<sup>
+<xref rid="ref33" ref-type="bibr">33</xref>–
+<xref rid="ref35" ref-type="bibr">35</xref>
+</sup> The impairment in the central respiratory command might be proposed as a potential common denominator linking silent hypoxia observed in acute COVID-19 to the later onset of HVS in post-infections. Further neurophysiological studies are imperative to elucidate the precise impact of COVID-19 on chemosensation and nervous respiratory command during and after infection,</p><p>Surprisingly, our data do not state any significant association between HVS and markers of COVID-19 infection gravity, including acute COVID-19 form severity, oxygen requirement, radiological extension of pneumonia, and serious complications like ICU admission and pulmonary embolism. Many previous studies also find no substantial correlation between acute pneumonia severity and several clinical and functional outcomes in long COVID-19.
+<sup>
+<xref rid="ref36" ref-type="bibr">36</xref>,
+<xref rid="ref37" ref-type="bibr">37</xref>
+</sup>
+</p><p>In the post-infection phase, both patients with and without HVS experience symptom relief and a decrease in the accumulation of symptom clusters, consistent with observations in previous studies on cohorts with long COVID-19.
+<sup>
+<xref rid="ref1" ref-type="bibr">1</xref>,
+<xref rid="ref37" ref-type="bibr">37</xref>
+</sup> Notably, individuals who develop HVS appear to show a slower improvement in symptoms, continuing to experience residual issues such as dyspnea, palpitations, dizziness, and cognitive impairment. These lingering symptoms, often associated with HVS, suggest a significant contribution of HVS to the overall scenario of long COVID-19.
+<sup>
+<xref rid="ref16" ref-type="bibr">16</xref>,
+<xref rid="ref20" ref-type="bibr">20</xref>,
+<xref rid="ref24" ref-type="bibr">24</xref>
+</sup>
+</p><p>Of importance, continuous weight loss—a physical sign unrelated to the typical presentation of HVS—predicts the occurrence of HVS by approximately 12-fold in our statistical regression model. This novel finding has not been previously reported in the literature. During the early COVID-19 infection, organic factors such as viral aggression, the hospitalization context, and alterations in taste and smell may affect the energy balance with less food intake and increased energy expenditure, leading to weight loss.
+<sup>
+<xref rid="ref38" ref-type="bibr">38</xref>,
+<xref rid="ref39" ref-type="bibr">39</xref>
+</sup> At the post-infection stage, persistent weight loss would be rather explained by psychological sequelae associated with COVID-19 and the quarantine, which may have increase depression, anxiety, and other mental health issues.
+<sup>
+<xref rid="ref27" ref-type="bibr">27</xref>,
+<xref rid="ref40" ref-type="bibr">40</xref>,
+<xref rid="ref41" ref-type="bibr">41</xref>
+</sup> Restrictive feeding behavior is widely observed in patients with long COVID-19 across all age groups.
+<sup>
+<xref rid="ref38" ref-type="bibr">38</xref>,
+<xref rid="ref42" ref-type="bibr">42</xref>
+</sup> In one prospective study tracking 1230 COVID-19 survivors, Tosato et al. diagnosed malnutrition in 22% of patients 4-5 months after acute disease. Stress can cause changes in appetite, energy, desires, and interests, and at the same time, it is a triggering factor of HVS.
+<sup>
+<xref rid="ref39" ref-type="bibr">39</xref>,
+<xref rid="ref41" ref-type="bibr">41</xref>
+</sup>
+</p><p>Furthermore, the PCFS scale may be a valuable tool to suspect HVS in COVID-19 survivors. Our findings identify that individuals displaying functional limitations of grade 3 and 4 are 3.24-fold exposed to developing ventilatory dysfunction during convalescence. Laskovski et al. analyzed PCFS in a longitudinal cohort of 140 COVID-19 survivors and concluded that alterations in PCFS were significantly influenced not only by residual fatigue and dyspnea but also by manifestations of depression and anxiety in COVID-19 survivors, reminding us once again of the HVS manifestations.
+<sup>
+<xref rid="ref27" ref-type="bibr">27</xref>,
+<xref rid="ref43" ref-type="bibr">43</xref>,
+<xref rid="ref44" ref-type="bibr">44</xref>
+</sup>
+</p><p>PTSD symptoms among individuals recovering from COVID-19 present an additional explanatory factor for HVS in the post-COVID-19 phase.
+<sup>
+<xref rid="ref45" ref-type="bibr">45</xref>–
+<xref rid="ref47" ref-type="bibr">47</xref>
+</sup> Our multivariate analysis reveals a sixfold increase in the incidence of HVS associated with the presence of PTSD symptoms. A longitudinal observational study in the Netherlands, encompassing 239 patients, highlighted a substantial prevalence of PTSD—37.2% at 3 months and 26.8% at 6 months post-onset of COVID-19 symptoms.
+<sup>
+<xref rid="ref48" ref-type="bibr">48</xref>
+</sup> Similarly, a UK-based online survey, involving 3290 COVID-19 patients, documented a progressive and notable escalation in PTSD prevalence: 15% at 4–8 weeks, 17.3% at 8–12 weeks, and 18.9% at &gt;12 weeks.
+<sup>
+<xref rid="ref49" ref-type="bibr">49</xref>
+</sup>
+</p><p>The lasting psychological impact on individuals who have survived the infection may result from the stigma linked with COVID-19, the circumstances of lockdown, and the apprehension of contagion.
+<sup>
+<xref rid="ref27" ref-type="bibr">27</xref>,
+<xref rid="ref44" ref-type="bibr">44</xref>
+</sup> This enduring effect could contribute to prolonged psychological consequences. Ongoing intrusive thoughts or images related to traumatic events experienced during COVID-19, along with flashbacks of hospitalization, including witnessing the demise of other infected individuals, may act as triggers for inappropriate hyperventilation in COVID-19 survivors.
+<sup>
+<xref rid="ref27" ref-type="bibr">27</xref>,
+<xref rid="ref41" ref-type="bibr">41</xref>,
+<xref rid="ref44" ref-type="bibr">44</xref>
+</sup> This rationale aligns with the significant association observed in our study between the PCL-5 score and HVS.</p><p>Our study fills a significant gap in the current literature by providing substantial evidence regarding the prevalence of HVS in patients with long COVID. This contributes to a more comprehensive understanding of respiratory dysfunction within this population. We have developed a logistic regression model to assess the likelihood of developing HVS in post-COVID-19 individuals, incorporating predictive factors from both acute and post-infection phases. The prospective design, along with a large sample size, enhances the robustness of our study, minimizing biases and facilitating the generalization of our findings to diverse populations. This could provide valuable assistance to clinicians managing long COVID-19 survivors, aiding in the prompt detection of HVS.</p><p>However, a noteworthy limitation is our inability to enhance the accuracy of HVS diagnosis by including a hyperventilation provocation test alongside the Nijmegen questionnaire.
+<sup>
+<xref rid="ref12" ref-type="bibr">12</xref>
+</sup> This limitation stems from the stringent COVID-19 precautions mandated during the pandemic to curb infection spread. Additionally, the study’s follow-up duration was limited to one month for all participants, mainly due to a significant proportion discontinuing their participation or being lost to follow-up after symptom relief.</p></sec><sec sec-type="conclusion" id="sec18"><title>Conclusion</title><p>HVS manifests in 15.6% of COVID-19 pneumonia survivors, underscoring its significance in the post-acute phase. Recognizing this condition is vital for healthcare providers managing lCOVID-19 cases and follow-up, as it significantly contributes to the array of residual symptoms of post-acute pneumonia. The predictive factors for HVS, identified through our multivariate analysis, highlight the convergence of psychosomatic pathophysiological mechanisms. Further investigations, particularly in neurophysiology and psychology, are imperative to elucidate the precise mechanisms promoting HVS in long COVID-19 patients. The development of individualized management strategies can enhance the care and well-being of individuals grappling with the lasting effects of COVID-19.</p></sec><sec id="sec19"><title>Author contributions</title><p>H. Cherif, MR. Charfi conceived the study design. H. cherif carried out patients follow up and data collection. H. Cherif and S. Kalboussi operated the data analysis. H. Cherif, S. Mokaddem, and S. Debbiche drafted the manuscript. F. Yangui and MR. Charfi supervised the research progression. All authors approved the final version of the manuscript.</p></sec></body><back><sec sec-type="data-availability" id="sec22"><title>Data availability statement</title><sec id="sec23"><title>Underlying Data</title><p>Repository name: Zenodo. Title of project: Incidence and Predictive Factors of Hyperventilation Syndrome in Patients after COVID-19 Pneumonia: A Prospective Cohort Study. DOI:
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://zenodo.org/records/12668622?token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6ImY1NDI5YWRlLTU3NWMtNDRiZS1hYmIwLThlMjUwN2M4ZjJkMyIsImRhdGEiOnt9LCJyYW5kb20iOiI3YjgyMmQxMTdiYWZhNTllOWQ2ZWVlZjU1ZjRhZTk0OSJ9.2yVU74m7rPZlgJPnZHXScaPKhnzFHiSbeJmfwbzuSvn5cy0ODdH2Bxd9mLW40_dZPhqg6TUb8KXrR6AyQHzFyg" ext-link-type="uri">10.5281/zenodo.12668621</ext-link>.
+<sup>
+<xref rid="ref50" ref-type="bibr">50</xref>
+</sup>
+</p><p>This project contains the following underlying data:
+<list list-type="simple"><list-item><label>•</label><p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://zenodo.org/records/12668622/files/HVS%20anonym.xlsx?download=1" ext-link-type="uri">HVS anonym.xlsx</ext-link>
+</p></list-item></list>
+</p><p>Data are available under the terms of the
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://creativecommons.org/licenses/by/4.0/" ext-link-type="uri">Creative Commons Attribution 4.0 International license</ext-link> (CC-BY 4.0).</p></sec><sec id="sec24"><title>Extended data</title><p>
+<bold>Zenodo:</bold> Extended Data,
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://doi.org/10.5281/zenodo.14210595" ext-link-type="uri">10.5281/zenodo.14210595</ext-link>.
+<sup>
+<xref rid="ref51" ref-type="bibr">51</xref>
+</sup>
+</p><p>This project contains the following underlying data:
+<list list-type="simple"><list-item><label>•</label><p>Data file 1: ethic statement HVS</p></list-item><list-item><label>•</label><p>Data file 2: STROBE_checklist_cohort</p></list-item><list-item><label>•</label><p>Data file 3: Data collection form</p></list-item></list>
+</p><p>Data are available under the terms of the
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://creativecommons.org/licenses/by/4.0/" ext-link-type="uri">Creative Commons Attribution 4.0 International license</ext-link> (CC-BY 4.0).</p></sec></sec><ref-list><title>References</title><ref id="ref1"><label>1</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Jennings</surname><given-names>G</given-names></name>
+<name name-style="western"><surname>Monaghan</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Xue</surname><given-names>F</given-names></name>
+<etal/>
+</person-group>:
+<article-title>A Systematic Review of Persistent Symptoms and Residual Abnormal Functioning following Acute COVID-19: Ongoing Symptomatic Phase vs. Post-COVID-19 Syndrome.</article-title>
+<source>
+<italic toggle="yes">J. Clin. Med.</italic>
+</source>
+<year>2021 Dec 16</year>;<volume>10</volume>(<issue>24</issue>):<fpage>5913</fpage>.
+<pub-id pub-id-type="doi">10.3390/jcm10245913</pub-id>
+
+<pub-id pub-id-type="pmid">34945213</pub-id>
+<pub-id pub-id-type="pmcid">PMC8708187</pub-id></mixed-citation></ref><ref id="ref2"><label>2</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Bouteleux</surname><given-names>B</given-names></name>
+<name name-style="western"><surname>Henrot</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Ernst</surname><given-names>R</given-names></name>
+<etal/>
+</person-group>:
+<article-title>Respiratory rehabilitation for Covid-19 related persistent dyspnoea: A one-year experience.</article-title>
+<source>
+<italic toggle="yes">Respir. Med.</italic>
+</source>
+<year>2021 Nov 1 [cited 2024 Jan 28]</year>;<volume>189</volume>:<fpage>106648</fpage>.
+<pub-id pub-id-type="doi">10.1016/j.rmed.2021.106648</pub-id>
+
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.resmedjournal.com/article/S0954-6111(21)00356-5/fulltext" ext-link-type="uri">Reference Source</ext-link>
+<pub-id pub-id-type="pmid">34689061</pub-id>
+<pub-id pub-id-type="pmcid">PMC8511554</pub-id></mixed-citation></ref><ref id="ref3"><label>3</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Halpin</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>O’Connor</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Sivan</surname><given-names>M</given-names></name>
+</person-group>:
+<article-title>Long COVID and chronic COVID syndromes.</article-title>
+<source>
+<italic toggle="yes">J. Med. Virol.</italic>
+</source>
+<year>2021 Mar</year>;<volume>93</volume>(<issue>3</issue>):<fpage>1242</fpage>–<lpage>1243</lpage>.
+<pub-id pub-id-type="doi">10.1002/jmv.26587</pub-id>
+
+<pub-id pub-id-type="pmid">33034893</pub-id>
+<pub-id pub-id-type="pmcid">PMC7675759</pub-id></mixed-citation></ref><ref id="ref4"><label>4</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Gavriatopoulou</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Korompoki</surname><given-names>E</given-names></name>
+<name name-style="western"><surname>Fotiou</surname><given-names>D</given-names></name>
+<etal/>
+</person-group>:
+<article-title>Organ-specific manifestations of COVID-19 infection.</article-title>
+<source>
+<italic toggle="yes">Clin. Exp. Med.</italic>
+</source>
+<year>2020 Nov</year>;<volume>20</volume>(<issue>4</issue>):<fpage>493</fpage>–<lpage>506</lpage>.
+<pub-id pub-id-type="doi">10.1007/s10238-020-00648-x</pub-id>
+
+<pub-id pub-id-type="pmid">32720223</pub-id>
+<pub-id pub-id-type="pmcid">PMC7383117</pub-id></mixed-citation></ref><ref id="ref5"><label>5</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Lippi</surname><given-names>G</given-names></name>
+<name name-style="western"><surname>Sanchis-Gomar</surname><given-names>F</given-names></name>
+<name name-style="western"><surname>Henry</surname><given-names>BM</given-names></name>
+</person-group>:
+<article-title>COVID-19 and its long-term sequelae: what do we know in 2023?.</article-title>
+<source>
+<italic toggle="yes">Pol Arch Intern Med.</italic>
+</source>
+<year>2023 Apr 19</year>;<volume>133</volume>(<issue>4</issue>):<fpage>16402</fpage>.
+<pub-id pub-id-type="doi">10.20452/pamw.16402</pub-id>
+<pub-id pub-id-type="pmid">36626183</pub-id>
+</mixed-citation></ref><ref id="ref6"><label>6</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Naeije</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Caravita</surname><given-names>S</given-names></name>
+</person-group>:
+<article-title>Phenotyping long COVID.</article-title>
+<source>
+<italic toggle="yes">Eur. Respir. J.</italic>
+</source>
+<year>2021 Aug</year>;<volume>58</volume>(<issue>2</issue>):<fpage>2101763</fpage>.
+<pub-id pub-id-type="doi">10.1183/13993003.01763-2021</pub-id>
+
+<pub-id pub-id-type="pmid">34244323</pub-id>
+<pub-id pub-id-type="pmcid">PMC8287735</pub-id></mixed-citation></ref><ref id="ref7"><label>7</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Selleron</surname><given-names>B</given-names></name>
+<name name-style="western"><surname>Chenivesse</surname><given-names>C</given-names></name>
+</person-group>:
+<article-title>Le syndrome d’hyperventilation, définition, diagnostic et thérapeutique.</article-title>
+<source>
+<italic toggle="yes">Rev. Mal. Respir.</italic>
+</source>
+<year>2023 Jun 1</year>;<volume>40</volume>(<issue>6</issue>):<fpage>499</fpage>–<lpage>505</lpage>.
+<pub-id pub-id-type="doi">10.1016/j.rmr.2023.04.007</pub-id>
+<pub-id pub-id-type="pmid">37179152</pub-id>
+</mixed-citation></ref><ref id="ref8"><label>8</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Malmberg</surname><given-names>LP</given-names></name>
+<name name-style="western"><surname>Tamminen</surname><given-names>K</given-names></name>
+<name name-style="western"><surname>Sovijärvi</surname><given-names>AR</given-names></name>
+</person-group>:
+<article-title>Hyperventilation syndrome.</article-title>
+<source>
+<italic toggle="yes">Thorax.</italic>
+</source>
+<year>2001 Jan</year>;<volume>56</volume>(<issue>1</issue>):<fpage>85</fpage>–<lpage>86</lpage>.
+<pub-id pub-id-type="doi">10.1136/thorax.56.1.84d</pub-id>
+<pub-id pub-id-type="pmid">11193487</pub-id>
+<pub-id pub-id-type="pmcid">PMC1745894</pub-id></mixed-citation></ref><ref id="ref9"><label>9</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Lewis</surname><given-names>RA</given-names></name>
+<name name-style="western"><surname>Howell</surname><given-names>JB</given-names></name>
+</person-group>:
+<article-title>Definition of the hyperventilation syndrome.</article-title>
+<source>
+<italic toggle="yes">Bull. Eur. Physiopathol. Respir.</italic>
+</source>
+<year>1986</year>;<volume>22</volume>(<issue>2</issue>):<fpage>201</fpage>–<lpage>205</lpage>.
+<pub-id pub-id-type="pmid">3708188</pub-id>
+</mixed-citation></ref><ref id="ref10"><label>10</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Dubreuil</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Prosper</surname><given-names>M</given-names></name>
+</person-group>:
+<article-title>Le syndrome d’hyperventilation.</article-title>
+<source>
+<italic toggle="yes">Réanimation.</italic>
+</source>
+<year>2014 Sep</year>;<volume>23</volume>(<issue>5</issue>):<fpage>523</fpage>–<lpage>528</lpage>.
+<pub-id pub-id-type="doi">10.1007/s13546-014-0909-6</pub-id>
+</mixed-citation></ref><ref id="ref11"><label>11</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Gridina</surname><given-names>I</given-names></name>
+<name name-style="western"><surname>Bidat</surname><given-names>E</given-names></name>
+<name name-style="western"><surname>Chevallier</surname><given-names>B</given-names></name>
+<etal/>
+</person-group>:
+<article-title>Prevalence of chronic hyperventilation syndrome in children and teenagers.</article-title>
+<source>
+<italic toggle="yes">Arch Pediatr Organe Off Soc Francaise Pediatr.</italic>
+</source>
+<year>2013 Mar</year>;<volume>20</volume>(<issue>3</issue>):<fpage>265</fpage>–<lpage>268</lpage>.
+<pub-id pub-id-type="doi">10.1016/j.arcped.2012.12.016</pub-id>
+<pub-id pub-id-type="pmid">23375424</pub-id></mixed-citation></ref><ref id="ref12"><label>12</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Vansteenkiste</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Rochette</surname><given-names>F</given-names></name>
+<name name-style="western"><surname>Demedts</surname><given-names>M</given-names></name>
+</person-group>:
+<article-title>Diagnostic tests of hyperventilation syndrome.</article-title>
+<source>
+<italic toggle="yes">Eur. Respir. J.</italic>
+</source>
+<year>1991 Apr</year>;<volume>4</volume>(<issue>4</issue>):<fpage>393</fpage>–<lpage>399</lpage>.
+<pub-id pub-id-type="doi">10.1183/09031936.93.04040393</pub-id>
+<pub-id pub-id-type="pmid">1855568</pub-id>
+</mixed-citation></ref><ref id="ref13"><label>13</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Corfield</surname><given-names>DR</given-names></name>
+<name name-style="western"><surname>Fink</surname><given-names>GR</given-names></name>
+<name name-style="western"><surname>Ramsay</surname><given-names>SC</given-names></name>
+<etal/>
+</person-group>:
+<article-title>Evidence for limbic system activation during CO2-stimulated breathing in man.</article-title>
+<source>
+<italic toggle="yes">J. Physiol.</italic>
+</source>
+<year>1995 Oct 1</year>;<volume>488</volume>(<issue>(Pt 1) (Pt 1)</issue>):<fpage>77</fpage>–<lpage>84</lpage>.
+<pub-id pub-id-type="doi">10.1113/jphysiol.1995.sp020947</pub-id>
+
+<pub-id pub-id-type="pmid">8568667</pub-id>
+<pub-id pub-id-type="pmcid">PMC1156702</pub-id></mixed-citation></ref><ref id="ref14"><label>14</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Gardner</surname><given-names>WN</given-names></name>
+<name name-style="western"><surname>Meah</surname><given-names>MS</given-names></name>
+<name name-style="western"><surname>Bass</surname><given-names>C</given-names></name>
+</person-group>:
+<article-title>Controlled study of respiratory responses during prolonged measurement in patients with chronic hyperventilation.</article-title>
+<source>
+<italic toggle="yes">Lancet Lond Engl.</italic>
+</source>
+<year>1986 Oct 11</year>;<volume>328</volume>(<issue>8511</issue>):<fpage>826</fpage>–<lpage>830</lpage>.
+<pub-id pub-id-type="doi">10.1016/S0140-6736(86)92867-9</pub-id>
+<pub-id pub-id-type="pmid">2876278</pub-id></mixed-citation></ref><ref id="ref15"><label>15</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Farinha</surname><given-names>IT</given-names></name>
+<name name-style="western"><surname>Cunha</surname><given-names>AT</given-names></name>
+<name name-style="western"><surname>Rodrigues</surname><given-names>C</given-names></name>
+<etal/>
+</person-group>:
+<article-title>Hyperventilation Syndrome Following an Asymptomatic COVID-19 Infection.</article-title>
+<source>
+<italic toggle="yes">Acta Médica Port.</italic>
+</source>
+<year>2023 Oct 2</year>;<volume>36</volume>(<issue>10</issue>):<fpage>690</fpage>–<lpage>691</lpage>.
+<pub-id pub-id-type="doi">10.20344/amp.19995</pub-id>
+<pub-id pub-id-type="pmid">37788654</pub-id>
+</mixed-citation></ref><ref id="ref16"><label>16</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Motiejunaite</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Balagny</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Arnoult</surname><given-names>F</given-names></name>
+<etal/>
+</person-group>:
+<article-title>Hyperventilation as one of the mechanisms of persistent dyspnoea in SARS-CoV-2 survivors.</article-title>
+<source>
+<italic toggle="yes">Eur. Respir. J.</italic>
+</source>
+<year>2021 Aug</year>;<volume>58</volume>(<issue>2</issue>):<fpage>2101578</fpage>.
+<pub-id pub-id-type="doi">10.1183/13993003.01578-2021</pub-id>
+
+<pub-id pub-id-type="pmid">34385265</pub-id>
+<pub-id pub-id-type="pmcid">PMC8361302</pub-id></mixed-citation></ref><ref id="ref17"><label>17</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Klok</surname><given-names>FA</given-names></name>
+<name name-style="western"><surname>Boon</surname><given-names>GJAM</given-names></name>
+<name name-style="western"><surname>Barco</surname><given-names>S</given-names></name>
+<etal/>
+</person-group>:
+<article-title>The Post-COVID-19 Functional Status scale: a tool to measure functional status over time after COVID-19.</article-title>
+<source>
+<italic toggle="yes">Eur. Respir. J.</italic>
+</source>
+<year>2020 Jul</year>;<volume>56</volume>(<issue>1</issue>):<fpage>2001494</fpage>.
+<pub-id pub-id-type="doi">10.1183/13993003.01494-2020</pub-id>
+
+<pub-id pub-id-type="pmid">32398306</pub-id>
+<pub-id pub-id-type="pmcid">PMC7236834</pub-id></mixed-citation></ref><ref id="ref18"><label>18</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Dixhoorn</surname><given-names>J</given-names><prefix>van</prefix></name>
+<name name-style="western"><surname>Duivenvoorden</surname><given-names>HJ</given-names></name>
+</person-group>:
+<article-title>Efficacy of Nijmegen Questionnaire in recognition of the hyperventilation syndrome.</article-title>
+<source>
+<italic toggle="yes">J. Psychosom. Res.</italic>
+</source>
+<year>1985</year>;<volume>29</volume>(<issue>2</issue>):<fpage>199</fpage>–<lpage>206</lpage>.
+<pub-id pub-id-type="doi">10.1016/0022-3999(85)90042-X</pub-id>
+<pub-id pub-id-type="pmid">4009520</pub-id>
+</mixed-citation></ref><ref id="ref19"><label>19</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Blevins</surname><given-names>CA</given-names></name>
+<name name-style="western"><surname>Weathers</surname><given-names>FW</given-names></name>
+<name name-style="western"><surname>Davis</surname><given-names>MT</given-names></name>
+<etal/>
+</person-group>:
+<article-title>The Posttraumatic Stress Disorder Checklist for DSM-5 (PCL-5): Development and Initial Psychometric Evaluation.</article-title>
+<source>
+<italic toggle="yes">J. Trauma. Stress.</italic>
+</source>
+<year>2015 Dec</year>;<volume>28</volume>(<issue>6</issue>):<fpage>489</fpage>–<lpage>498</lpage>.
+<pub-id pub-id-type="doi">10.1002/jts.22059</pub-id>
+<pub-id pub-id-type="pmid">26606250</pub-id>
+</mixed-citation></ref><ref id="ref20"><label>20</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Allado</surname><given-names>E</given-names></name>
+<name name-style="western"><surname>Poussel</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Hamroun</surname><given-names>A</given-names></name>
+<etal/>
+</person-group>:
+<article-title>Is There a Relationship between Hyperventilation Syndrome and History of Acute SARS-CoV-2 Infection? A Cross-Sectional Study.</article-title>
+<source>
+<italic toggle="yes">Healthcare.</italic>
+</source>
+<year>2022 Oct 28</year>;<volume>10</volume>(<issue>11</issue>):<fpage>2154</fpage>.
+<pub-id pub-id-type="doi">10.3390/healthcare10112154</pub-id>
+
+<pub-id pub-id-type="pmid">36360494</pub-id>
+<pub-id pub-id-type="pmcid">PMC9690850</pub-id></mixed-citation></ref><ref id="ref21"><label>21</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Jack</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Kemp</surname><given-names>GJ</given-names></name>
+<name name-style="western"><surname>Bimson</surname><given-names>WE</given-names></name>
+<etal/>
+</person-group>:
+<article-title>Patterns of brain activity in response to respiratory stimulation in patients with idiopathic hyperventilation (IHV).</article-title>
+<source>
+<italic toggle="yes">Adv. Exp. Med. Biol.</italic>
+</source>
+<year>2010</year>;<volume>669</volume>:<fpage>341</fpage>–<lpage>345</lpage>.
+<pub-id pub-id-type="doi">10.1007/978-1-4419-5692-7_70</pub-id>
+<pub-id pub-id-type="pmid">20217379</pub-id>
+</mixed-citation></ref><ref id="ref22"><label>22</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Moosavi</surname><given-names>SH</given-names></name>
+<name name-style="western"><surname>Golestanian</surname><given-names>E</given-names></name>
+<name name-style="western"><surname>Binks</surname><given-names>AP</given-names></name>
+<etal/>
+</person-group>:
+<article-title>Hypoxic and hypercapnic drives to breathe generate equivalent levels of air hunger in humans.</article-title>
+<source>
+<italic toggle="yes">J Appl Physiol Bethesda Md 1985.</italic>
+</source>
+<year>2003 Jan</year>;<volume>94</volume>(<issue>1</issue>):<fpage>141</fpage>–<lpage>154</lpage>.
+<pub-id pub-id-type="doi">10.1152/japplphysiol.00594.2002</pub-id>
+<pub-id pub-id-type="pmid">12391041</pub-id></mixed-citation></ref><ref id="ref23"><label>23</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Jack</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Rossiter</surname><given-names>HB</given-names></name>
+<name name-style="western"><surname>Pearson</surname><given-names>MG</given-names></name>
+<etal/>
+</person-group>:
+<article-title>Ventilatory responses to inhaled carbon dioxide, hypoxia, and exercise in idiopathic hyperventilation.</article-title>
+<source>
+<italic toggle="yes">Am. J. Respir. Crit. Care Med.</italic>
+</source>
+<year>2004 Jul 15</year>;<volume>170</volume>(<issue>2</issue>):<fpage>118</fpage>–<lpage>125</lpage>.
+<pub-id pub-id-type="doi">10.1164/rccm.200207-720OC</pub-id>
+<pub-id pub-id-type="pmid">15059786</pub-id>
+</mixed-citation></ref><ref id="ref24"><label>24</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Taverne</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Salvator</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Leboulch</surname><given-names>C</given-names></name>
+<etal/>
+</person-group>:
+<article-title>High incidence of hyperventilation syndrome after COVID-19.</article-title>
+<source>
+<italic toggle="yes">J. Thorac. Dis.</italic>
+</source>
+<year>2021 Jun</year>;<volume>13</volume>(<issue>6</issue>):<fpage>3918</fpage>–<lpage>3922</lpage>.
+<pub-id pub-id-type="doi">10.21037/jtd-20-2753</pub-id>
+
+<pub-id pub-id-type="pmid">34277081</pub-id>
+<pub-id pub-id-type="pmcid">PMC8264705</pub-id></mixed-citation></ref><ref id="ref25"><label>25</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Ejaz</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Alsrhani</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Zafar</surname><given-names>A</given-names></name>
+<etal/>
+</person-group>:
+<article-title>COVID-19 and comorbidities: Deleterious impact on infected patients.</article-title>
+<source>
+<italic toggle="yes">J. Infect. Public Health.</italic>
+</source>
+<year>2020 Dec</year>;<volume>13</volume>(<issue>12</issue>):<fpage>1833</fpage>–<lpage>1839</lpage>.
+<pub-id pub-id-type="doi">10.1016/j.jiph.2020.07.014</pub-id>
+
+<pub-id pub-id-type="pmid">32788073</pub-id>
+<pub-id pub-id-type="pmcid">PMC7402107</pub-id></mixed-citation></ref><ref id="ref26"><label>26</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Dessie</surname><given-names>ZG</given-names></name>
+<name name-style="western"><surname>Zewotir</surname><given-names>T</given-names></name>
+</person-group>:
+<article-title>Mortality-related risk factors of COVID-19: a systematic review and meta-analysis of 42 studies and 423,117 patients.</article-title>
+<source>
+<italic toggle="yes">BMC Infect. Dis.</italic>
+</source>
+<year>2021 Aug 21</year>;<volume>21</volume>(<issue>1</issue>):<fpage>855</fpage>.
+<pub-id pub-id-type="doi">10.1186/s12879-021-06536-3</pub-id>
+
+<pub-id pub-id-type="pmid">34418980</pub-id>
+<pub-id pub-id-type="pmcid">PMC8380115</pub-id></mixed-citation></ref><ref id="ref27"><label>27</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Rodriguez-Besteiro</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Beltran-Velasco</surname><given-names>AI</given-names></name>
+<name name-style="western"><surname>Tornero-Aguilera</surname><given-names>JF</given-names></name>
+<etal/>
+</person-group>:
+<article-title>Social Media, Anxiety and COVID-19 Lockdown Measurement Compliance.</article-title>
+<source>
+<italic toggle="yes">Int. J. Environ. Res. Public Health.</italic>
+</source>
+<year>2023 Mar 1</year>;<volume>20</volume>(<issue>5</issue>):<fpage>4416</fpage>.
+<pub-id pub-id-type="doi">10.3390/ijerph20054416</pub-id>
+
+<pub-id pub-id-type="pmid">36901425</pub-id>
+<pub-id pub-id-type="pmcid">PMC10001599</pub-id></mixed-citation></ref><ref id="ref28"><label>28</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Martínez-Moragón</surname><given-names>E</given-names></name>
+<name name-style="western"><surname>Perpiñá</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Belloch</surname><given-names>A</given-names></name>
+<etal/>
+</person-group>:
+<article-title>Prevalence of Hyperventilation Syndrome in Patients Treated for Asthma in a Pulmonology Clinic.</article-title>
+<source>
+<italic toggle="yes">Arch Bronconeumol Engl Ed.</italic>
+</source>
+<year>2005 May 1</year>;<volume>41</volume>(<issue>5</issue>):<fpage>267</fpage>–<lpage>271</lpage>.
+<pub-id pub-id-type="doi">10.1157/13074593</pub-id>
+<pub-id pub-id-type="pmid">15919008</pub-id>
+</mixed-citation></ref><ref id="ref29"><label>29</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Grammatopoulou</surname><given-names>EP</given-names></name>
+<name name-style="western"><surname>Skordilis</surname><given-names>EK</given-names></name>
+<name name-style="western"><surname>Georgoudis</surname><given-names>G</given-names></name>
+<etal/>
+</person-group>:
+<article-title>Hyperventilation in asthma: a validation study of the Nijmegen Questionnaire--NQ.</article-title>
+<source>
+<italic toggle="yes">J Asthma Off J Assoc Care Asthma.</italic>
+</source>
+<year>2014 Oct</year>;<volume>51</volume>(<issue>8</issue>):<fpage>839</fpage>–<lpage>846</lpage>.
+<pub-id pub-id-type="doi">10.3109/02770903.2014.922190</pub-id>
+<pub-id pub-id-type="pmid">24823322</pub-id></mixed-citation></ref><ref id="ref30"><label>30</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Moretti</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Brufani</surname><given-names>F</given-names></name>
+<name name-style="western"><surname>Pierotti</surname><given-names>V</given-names></name>
+<etal/>
+</person-group>:
+<article-title>Neurotropism and Neuropsychiatric Symptomsi in Patients with COVID-19.</article-title>
+<source>
+<italic toggle="yes">Psychiatr. Danub.</italic>
+</source>
+<year>2021 Dec</year>;<volume>33</volume>(<issue>Suppl 11</issue>):<fpage>10</fpage>–<lpage>13</lpage>.
+<pub-id pub-id-type="pmid">34862882</pub-id>
+</mixed-citation></ref><ref id="ref31"><label>31</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Liang</surname><given-names>F</given-names></name>
+<name name-style="western"><surname>Wang</surname><given-names>DY</given-names></name>
+</person-group>:
+<article-title>COVID-19 Anosmia: High Prevalence, Plural Neuropathogenic Mechanisms, and Scarce Neurotropism of SARS-CoV-2?.</article-title>
+<source>
+<italic toggle="yes">Viruses.</italic>
+</source>
+<year>2021 Nov 4</year>;<volume>13</volume>(<issue>11</issue>):<fpage>2225</fpage>.
+<pub-id pub-id-type="doi">10.3390/v13112225</pub-id>
+
+<pub-id pub-id-type="pmid">34835030</pub-id>
+<pub-id pub-id-type="pmcid">PMC8625547</pub-id></mixed-citation></ref><ref id="ref32"><label>32</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Wang</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Liu</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Ma</surname><given-names>H</given-names></name>
+<etal/>
+</person-group>:
+<article-title>The Pathogenesis of COVID-19-Related Taste Disorder and Treatments.</article-title>
+<source>
+<italic toggle="yes">J. Dent. Res.</italic>
+</source>
+<year>2023 Oct</year>;<volume>102</volume>(<issue>11</issue>):<fpage>1191</fpage>–<lpage>1198</lpage>.
+<pub-id pub-id-type="doi">10.1177/00220345231182926</pub-id>
+<pub-id pub-id-type="pmid">37729625</pub-id>
+</mixed-citation></ref><ref id="ref33"><label>33</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Nouri-Vaskeh</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Sharifi</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Khalili</surname><given-names>N</given-names></name>
+<etal/>
+</person-group>:
+<article-title>Dyspneic and non-dyspneic (silent) hypoxemia in COVID-19: Possible neurological mechanism.</article-title>
+<source>
+<italic toggle="yes">Clin. Neurol. Neurosurg.</italic>
+</source>
+<year>2020 Nov</year>;<volume>198</volume>:<fpage>106217</fpage>.
+<pub-id pub-id-type="doi">10.1016/j.clineuro.2020.106217</pub-id>
+
+<pub-id pub-id-type="pmid">32947193</pub-id>
+<pub-id pub-id-type="pmcid">PMC7480672</pub-id></mixed-citation></ref><ref id="ref34"><label>34</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Rahman</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Tabassum</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Araf</surname><given-names>Y</given-names></name>
+<etal/>
+</person-group>:
+<article-title>Silent hypoxia in COVID-19: pathomechanism and possible management strategy.</article-title>
+<source>
+<italic toggle="yes">Mol. Biol. Rep.</italic>
+</source>
+<year>2021 Apr</year>;<volume>48</volume>(<issue>4</issue>):<fpage>3863</fpage>–<lpage>3869</lpage>.
+<pub-id pub-id-type="doi">10.1007/s11033-021-06358-1</pub-id>
+
+<pub-id pub-id-type="pmid">33891272</pub-id>
+<pub-id pub-id-type="pmcid">PMC8062941</pub-id></mixed-citation></ref><ref id="ref35"><label>35</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Anoop</surname><given-names>UR</given-names></name>
+<name name-style="western"><surname>Verma</surname><given-names>K</given-names></name>
+</person-group>:
+<article-title>Happy Hypoxemia in COVID-19-A Neural Hypothesis.</article-title>
+<source>
+<italic toggle="yes">ACS Chem. Neurosci.</italic>
+</source>
+<year>2020 Jul 1</year>;<volume>11</volume>(<issue>13</issue>):<fpage>1865</fpage>–<lpage>1867</lpage>.
+<pub-id pub-id-type="doi">10.1021/acschemneuro.0c00318</pub-id>
+<pub-id pub-id-type="pmid">32530597</pub-id>
+</mixed-citation></ref><ref id="ref36"><label>36</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Faverio</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Luppi</surname><given-names>F</given-names></name>
+<name name-style="western"><surname>Rebora</surname><given-names>P</given-names></name>
+<etal/>
+</person-group>:
+<article-title>Six-Month Pulmonary Impairment after Severe COVID-19: A Prospective, Multicentre Follow-Up Study.</article-title>
+<source>
+<italic toggle="yes">Respir Int Rev Thorac Dis.</italic>
+</source>
+<year>2021</year>;<volume>100</volume>(<issue>11</issue>):<fpage>1078</fpage>–<lpage>1087</lpage>.
+<pub-id pub-id-type="doi">10.1159/000518141</pub-id>
+<pub-id pub-id-type="pmcid">PMC8450855</pub-id><pub-id pub-id-type="pmid">34515212</pub-id></mixed-citation></ref><ref id="ref37"><label>37</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Guler</surname><given-names>SA</given-names></name>
+<name name-style="western"><surname>Ebner</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Aubry-Beigelman</surname><given-names>C</given-names></name>
+<etal/>
+</person-group>:
+<article-title>Pulmonary function and radiological features 4 months after COVID-19: first results from the national prospective observational Swiss COVID-19 lung study.</article-title>
+<source>
+<italic toggle="yes">Eur. Respir. J.</italic>
+</source>
+<year>2021 Apr</year>;<volume>57</volume>(<issue>4</issue>):<fpage>2003690</fpage>.
+<pub-id pub-id-type="doi">10.1183/13993003.03690-2020</pub-id>
+
+<pub-id pub-id-type="pmid">33419891</pub-id>
+<pub-id pub-id-type="pmcid">PMC8082329</pub-id></mixed-citation></ref><ref id="ref38"><label>38</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Di Filippo</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>De Lorenzo</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>D’Amico</surname><given-names>M</given-names></name>
+<etal/>
+</person-group>:
+<article-title>COVID-19 is associated with clinically significant weight loss and risk of malnutrition, independent of hospitalisation: A post-hoc analysis of a prospective cohort study.</article-title>
+<source>
+<italic toggle="yes">Clin Nutr Edinb Scotl.</italic>
+</source>
+<year>2021 Apr</year>;<volume>40</volume>(<issue>4</issue>):<fpage>2420</fpage>–<lpage>2426</lpage>.
+<pub-id pub-id-type="doi">10.1016/j.clnu.2020.10.043</pub-id>
+<pub-id pub-id-type="pmcid">PMC7598735</pub-id><pub-id pub-id-type="pmid">33160700</pub-id></mixed-citation></ref><ref id="ref39"><label>39</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Tosato</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Calvani</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Ciciarello</surname><given-names>F</given-names></name>
+<etal/>
+</person-group>:
+<article-title>Malnutrition in COVID-19 survivors: prevalence and risk factors.</article-title>
+<source>
+<italic toggle="yes">Aging Clin. Exp. Res.</italic>
+</source>
+<year>2023 Oct</year>;<volume>35</volume>(<issue>10</issue>):<fpage>2257</fpage>–<lpage>2265</lpage>.
+<pub-id pub-id-type="doi">10.1007/s40520-023-02526-4</pub-id>
+
+<pub-id pub-id-type="pmid">37665556</pub-id>
+<pub-id pub-id-type="pmcid">PMC10520154</pub-id></mixed-citation></ref><ref id="ref40"><label>40</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Zawilska</surname><given-names>JB</given-names></name>
+<name name-style="western"><surname>Kuczyńska</surname><given-names>K</given-names></name>
+</person-group>:
+<article-title>Psychiatric and neurological complications of long COVID.</article-title>
+<source>
+<italic toggle="yes">J. Psychiatr. Res.</italic>
+</source>
+<year>2022 Dec</year>;<volume>156</volume>:<fpage>349</fpage>–<lpage>360</lpage>.
+<pub-id pub-id-type="doi">10.1016/j.jpsychires.2022.10.045</pub-id>
+
+<pub-id pub-id-type="pmid">36326545</pub-id>
+<pub-id pub-id-type="pmcid">PMC9582925</pub-id></mixed-citation></ref><ref id="ref41"><label>41</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Lin</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Yi</surname><given-names>Z</given-names></name>
+<name name-style="western"><surname>Zhang</surname><given-names>S</given-names></name>
+<etal/>
+</person-group>:
+<article-title>Predictors of Psychological Distress and Resilience in the Post-COVID-19 Era.</article-title>
+<source>
+<italic toggle="yes">Int. J. Behav. Med.</italic>
+</source>
+<year>2022 Aug 1</year>;<volume>29</volume>(<issue>4</issue>):<fpage>506</fpage>–<lpage>516</lpage>.
+<pub-id pub-id-type="doi">10.1007/s12529-021-10036-8</pub-id>
+
+<pub-id pub-id-type="pmid">34686965</pub-id>
+<pub-id pub-id-type="pmcid">PMC8533665</pub-id></mixed-citation></ref><ref id="ref42"><label>42</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Vaillant</surname><given-names>MF</given-names></name>
+<name name-style="western"><surname>Agier</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Martineau</surname><given-names>C</given-names></name>
+<etal/>
+</person-group>:
+<article-title>Food intake and weight loss of surviving inpatients in the course of COVID-19 infection: A longitudinal study of the multicenter NutriCoviD30 cohort.</article-title>
+<source>
+<italic toggle="yes">Nutrition.</italic>
+</source>
+<year>2022 Jan 1</year>;<volume>93</volume>:<fpage>111433</fpage>.
+<pub-id pub-id-type="doi">10.1016/j.nut.2021.111433</pub-id>
+
+<pub-id pub-id-type="pmid">34482098</pub-id>
+<pub-id pub-id-type="pmcid">PMC8314865</pub-id></mixed-citation></ref><ref id="ref43"><label>43</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Laskovski</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Felcar</surname><given-names>JM</given-names></name>
+<name name-style="western"><surname>Fillis</surname><given-names>MMA</given-names></name>
+<etal/>
+</person-group>:
+<article-title>Risk factors associated with limited functional status among out-of-hospital patients 30 days and one year after a diagnosis of COVID-19: a cohort study.</article-title>
+<source>
+<italic toggle="yes">Sci. Rep.</italic>
+</source>
+<year>2023 Mar 3</year>;<volume>13</volume>(<issue>1</issue>):<fpage>3584</fpage>.
+<pub-id pub-id-type="doi">10.1038/s41598-023-30674-0</pub-id>
+
+<pub-id pub-id-type="pmid">36869060</pub-id>
+<pub-id pub-id-type="pmcid">PMC9982776</pub-id></mixed-citation></ref><ref id="ref44"><label>44</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Ferrando</surname><given-names>SJ</given-names></name>
+<name name-style="western"><surname>Lynch</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Ferrando</surname><given-names>N</given-names></name>
+<etal/>
+</person-group>:
+<article-title>Anxiety and posttraumatic stress in post-acute sequelae of COVID-19: prevalence, characteristics, comorbidity, and clinical correlates.</article-title>
+<source>
+<italic toggle="yes">Front. Psych.</italic>
+</source>
+<year>2023</year>;<volume>14</volume>:<fpage>1160852</fpage>.
+<pub-id pub-id-type="doi">10.3389/fpsyt.2023.1160852</pub-id>
+
+<pub-id pub-id-type="pmid">37333906</pub-id>
+<pub-id pub-id-type="pmcid">PMC10272460</pub-id></mixed-citation></ref><ref id="ref45"><label>45</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Benzakour</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Voruz</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Lador</surname><given-names>F</given-names></name>
+<etal/>
+</person-group>:
+<article-title>Posttraumatic Stress Disorder and Hyperventilation in Post-COVID-19 Syndrome: An Underestimated Association.</article-title>
+<source>
+<italic toggle="yes">J Acad Consult-Liaison Psychiatry.</italic>
+</source>
+<year>2022</year>;<volume>63</volume>(<issue>6</issue>):<fpage>637</fpage>–<lpage>638</lpage>.
+<pub-id pub-id-type="doi">10.1016/j.jaclp.2022.08.006</pub-id>
+
+<pub-id pub-id-type="pmid">36522036</pub-id>
+<pub-id pub-id-type="pmcid">PMC9747240</pub-id></mixed-citation></ref><ref id="ref46"><label>46</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Einvik</surname><given-names>G</given-names></name>
+<name name-style="western"><surname>Dammen</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Ghanima</surname><given-names>W</given-names></name>
+<etal/>
+</person-group>:
+<article-title>Prevalence and Risk Factors for Post-Traumatic Stress in Hospitalized and Non-Hospitalized COVID-19 Patients.</article-title>
+<source>
+<italic toggle="yes">Int. J. Environ. Res. Public Health.</italic>
+</source>
+<year>2021 Feb 20</year>;<volume>18</volume>(<issue>4</issue>):<fpage>2079</fpage>.
+<pub-id pub-id-type="doi">10.3390/ijerph18042079</pub-id>
+
+<pub-id pub-id-type="pmid">33672759</pub-id>
+<pub-id pub-id-type="pmcid">PMC7924607</pub-id></mixed-citation></ref><ref id="ref47"><label>47</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Kotzalidis</surname><given-names>GD</given-names></name>
+<name name-style="western"><surname>Ferrara</surname><given-names>OM</given-names></name>
+<name name-style="western"><surname>Margoni</surname><given-names>S</given-names></name>
+<etal/>
+</person-group>:
+<article-title>Are the Post-COVID-19 Posttraumatic Stress Disorder (PTSD) Symptoms Justified by the Effects of COVID-19 on Brain Structure? A Systematic Review.</article-title>
+<source>
+<italic toggle="yes">J Pers Med.</italic>
+</source>
+<year>2023 Jul 15</year>;<volume>13</volume>(<issue>7</issue>):<fpage>1140</fpage>.
+<pub-id pub-id-type="doi">10.3390/jpm13071140</pub-id>
+
+<pub-id pub-id-type="pmid">37511753</pub-id>
+<pub-id pub-id-type="pmcid">PMC10381510</pub-id></mixed-citation></ref><ref id="ref48"><label>48</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Houben-Wilke</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Goërtz</surname><given-names>YM</given-names></name>
+<name name-style="western"><surname>Delbressine</surname><given-names>JM</given-names></name>
+<etal/>
+</person-group>:
+<article-title>The Impact of Long COVID-19 on Mental Health: Observational 6-Month Follow-Up Study.</article-title>
+<source>
+<italic toggle="yes">JMIR Ment Health.</italic>
+</source>
+<year>2022 Feb 24</year>;<volume>9</volume>(<issue>2</issue>):<fpage>e33704</fpage>.
+<pub-id pub-id-type="doi">10.2196/33704</pub-id>
+
+<pub-id pub-id-type="pmid">35200155</pub-id>
+<pub-id pub-id-type="pmcid">PMC8914795</pub-id></mixed-citation></ref><ref id="ref49"><label>49</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Buttery</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Philip</surname><given-names>KEJ</given-names></name>
+<name name-style="western"><surname>Williams</surname><given-names>P</given-names></name>
+<etal/>
+</person-group>:
+<article-title>Patient symptoms and experience following COVID-19: results from a UK-wide survey.</article-title>
+<source>
+<italic toggle="yes">BMJ Open Respir. Res.</italic>
+</source>
+<year>2021 Nov</year>;<volume>8</volume>(<issue>1</issue>):<fpage>e001075</fpage>.
+<pub-id pub-id-type="doi">10.1136/bmjresp-2021-001075</pub-id>
+
+<pub-id pub-id-type="pmid">34732518</pub-id>
+<pub-id pub-id-type="pmcid">PMC8572361</pub-id></mixed-citation></ref><ref id="ref50"><label>50</label><mixed-citation publication-type="data">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Cherif</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Mokaddem</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Debiche</surname><given-names>S</given-names></name>
+<etal/>
+</person-group>:
+<data-title>Incidence and Predictive Factors of Hyperventilation Syndrome in Patients after COVID 19 pneumonia: A Prospective Cohort Study.</data-title>[Data set].
+<source>
+<italic toggle="yes">F1000research. Zenodo.</italic>
+</source>
+<year>2024</year>.
+<pub-id pub-id-type="doi">10.5281/zenodo.12668622</pub-id>
+</mixed-citation></ref><ref id="ref51"><label>
+51
+</label><mixed-citation publication-type="other">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Cherif</surname><given-names>H</given-names></name>
+</person-group>:
+<article-title>Extended Data.</article-title>
+<source>
+<italic toggle="yes">F1000research. Zenodo.</italic>
+</source>
+<year>2024</year>.
+<pub-id pub-id-type="doi">10.5281/zenodo.14210595</pub-id>
+</mixed-citation></ref></ref-list></back><sub-article article-type="reviewer-report" id="report371473"><front-stub><article-id pub-id-type="doi">10.5256/f1000research.166928.r371473</article-id><title-group><article-title>Reviewer response for version 1</article-title></title-group><contrib-group><contrib contrib-type="author"><name name-style="western"><surname>Kallel</surname><given-names initials="N">Nesrine</given-names></name><xref rid="r371473a1" ref-type="aff">1</xref><role>Referee</role></contrib><aff id="r371473a1">
+<label>1</label>Faculty of Medicine of Sfax, Sfax, Tunisia</aff></contrib-group><author-notes><fn fn-type="COI-statement"><p>
+<bold>Competing interests: </bold>No competing interests were disclosed.</p></fn></author-notes><pub-date pub-type="epub"><day>15</day><month>4</month><year>2025</year></pub-date><permissions><copyright-statement>Copyright: © 2025 Kallel N</copyright-statement><copyright-year>2025</copyright-year><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>This is an open access peer review report distributed under the terms of the Creative Commons Attribution Licence, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><related-article xmlns:xlink="http://www.w3.org/1999/xlink" related-article-type="peer-reviewed-article" ext-link-type="doi" id="relatedArticleReport371473" xlink:href="10.12688/f1000research.152196.1">Version 1</related-article><custom-meta-group><custom-meta><meta-name>recommendation</meta-name><meta-value>approve</meta-value></custom-meta></custom-meta-group></front-stub><body><p>This is a prospective study which aim to determine the incidence and predictive factors of Hyperventilation Syndrome (HVS) in patients after COVID 19 pneumonia. Results share  that the principal factors for developing HVS  are cognitive impairment , persistent weight loss (post-COVID-19 phase), Post-COVID-19 Functional Status (PCFS) grade &gt; 2, and post-traumatic syndrome disorder (PTSD) are independent. The manuscript is clearly presented with different sections. The methods are well explained and the application of statistical analysis is appropriate. The discussion contain a recent published articles. The conclusions align with the topic addressed by the authors.</p><p> This article may be considered for acceptance.</p><p>Is the work clearly and accurately presented and does it cite the current literature?</p><p>Yes</p><p>If applicable, is the statistical analysis and its interpretation appropriate?</p><p>Yes</p><p>Are all the source data underlying the results available to ensure full reproducibility?</p><p>Yes</p><p>Is the study design appropriate and is the work technically sound?</p><p>Yes</p><p>Are the conclusions drawn adequately supported by the results?</p><p>Yes</p><p>Are sufficient details of methods and analysis provided to allow replication by others?</p><p>Yes</p><p>Reviewer Expertise:</p><p>pulmonologist</p><p>I confirm that I have read this submission and believe that I have an appropriate level of expertise to confirm that it is of an acceptable scientific standard.</p></body></sub-article><sub-article article-type="reviewer-report" id="report371476"><front-stub><article-id pub-id-type="doi">10.5256/f1000research.166928.r371476</article-id><title-group><article-title>Reviewer response for version 1</article-title></title-group><contrib-group><contrib contrib-type="author"><name name-style="western"><surname>Ben saad</surname><given-names initials="A">Ahmed</given-names></name><xref rid="r371476a1" ref-type="aff">1</xref><role>Referee</role></contrib><aff id="r371476a1">
+<label>1</label>Faculty of Medicine of Monastir, Monastir, Tunisia</aff></contrib-group><author-notes><fn fn-type="COI-statement"><p>
+<bold>Competing interests: </bold>No competing interests were disclosed.</p></fn></author-notes><pub-date pub-type="epub"><day>26</day><month>3</month><year>2025</year></pub-date><permissions><copyright-statement>Copyright: © 2025 Ben saad A</copyright-statement><copyright-year>2025</copyright-year><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>This is an open access peer review report distributed under the terms of the Creative Commons Attribution Licence, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><related-article xmlns:xlink="http://www.w3.org/1999/xlink" related-article-type="peer-reviewed-article" ext-link-type="doi" id="relatedArticleReport371476" xlink:href="10.12688/f1000research.152196.1">Version 1</related-article><custom-meta-group><custom-meta><meta-name>recommendation</meta-name><meta-value>approve</meta-value></custom-meta></custom-meta-group></front-stub><body><p>This prospective study aimed to determine the incidence and predictive factors of Hyperventilation Syndrome (HVS) in patients after COVID 19 pneumonia. Authors found that cognitive impairment (acute phase), persistent weight loss (post-COVID-19 phase), Post-COVID-19 Functional Status (PCFS) grade &gt; 2, and post-traumatic syndrome disorder (PTSD) are independent factors for developing HVS. The different sections are clearly presented in the article. The methods are well-explained and the application of statistical analysis is appropriate. Relevant published articles are reported in the discussion. The conclusions align with the topic addressed by the authors. Regarding the  overall incidence of HVS, two values were mentioned: 15.6% and 15.8% ?. Overall, it is a well-presented article. Based on these considerations, it should be considered for acceptance.</p><p>Is the work clearly and accurately presented and does it cite the current literature?</p><p>Yes</p><p>If applicable, is the statistical analysis and its interpretation appropriate?</p><p>Yes</p><p>Are all the source data underlying the results available to ensure full reproducibility?</p><p>Yes</p><p>Is the study design appropriate and is the work technically sound?</p><p>Yes</p><p>Are the conclusions drawn adequately supported by the results?</p><p>Yes</p><p>Are sufficient details of methods and analysis provided to allow replication by others?</p><p>Yes</p><p>Reviewer Expertise:</p><p>Pulmonology</p><p>I confirm that I have read this submission and believe that I have an appropriate level of expertise to confirm that it is of an acceptable scientific standard.</p></body><sub-article article-type="response" id="comment13661-371476"><front-stub><contrib-group><contrib contrib-type="author"><name name-style="western"><surname>CHERIF</surname><given-names initials="H">Hela</given-names></name><aff>Pulmonology, University of Tunis El Manar, Tunis, Tunis, Tunisia</aff></contrib></contrib-group><author-notes><fn fn-type="COI-statement"><p>
+<bold>Competing interests: </bold>No competing interests were disclosed.</p></fn></author-notes><pub-date pub-type="epub"><day>30</day><month>3</month><year>2025</year></pub-date></front-stub><body><p>
+<bold>Dear Reviewer,</bold>
+</p><p> Thank you for your thoughtful and positive feedback on our manuscript. We appreciate your careful review and insightful comments.</p><p> Regarding the incidence of Hyperventilation Syndrome (HVS), the correct value is
+<bold>15.8%</bold>. The discrepancy was due to a typographical error, which we will correct in the revised version of the manuscript.</p><p> We sincerely appreciate your time and consideration, and we are grateful for your recommendation for acceptance</p></body></sub-article></sub-article></article></pmc-articleset>

@@ -1,0 +1,859 @@
+<?xml version="1.0"  ?><!DOCTYPE pmc-articleset PUBLIC "-//NLM//DTD ARTICLE SET 2.0//EN" "https://dtd.nlm.nih.gov/ncbi/pmc/articleset/nlm-articleset-2.0.dtd"><pmc-articleset><article xml:lang="en" article-type="research-article" dtd-version="1.4"><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">Am J Respir Crit Care Med</journal-id><journal-id journal-id-type="iso-abbrev">Am J Respir Crit Care Med</journal-id><journal-id journal-id-type="pmc-domain-id">465</journal-id><journal-id journal-id-type="pmc-domain">ajrccm</journal-id><journal-id journal-id-type="publisher-id">ajrccm</journal-id><journal-title-group><journal-title>American Journal of Respiratory and Critical Care Medicine</journal-title></journal-title-group><issn pub-type="ppub">1073-449X</issn><issn pub-type="epub">1535-4970</issn><publisher><publisher-name>American Thoracic Society</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC12369859</article-id><article-id pub-id-type="pmcid-ver">PMC12369859.1</article-id><article-id pub-id-type="pmcaid">12369859</article-id><article-id pub-id-type="pmcaiid">12369859</article-id><article-id pub-id-type="pmid">40439483</article-id><article-id pub-id-type="doi">10.1164/rccm.202410-2036PP</article-id><article-version article-version-type="pmc-version">1</article-version><article-categories><subj-group subj-group-type="heading"><subject>Pulmonary Perspective</subject></subj-group></article-categories><title-group><article-title>Using the 2024 National Academies of Science, Engineering, and Medicine Definition of Long COVID: Implications for Pulmonary and Critical Care Medicine</article-title></title-group><contrib-group><contrib contrib-type="author" corresp="yes"><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0001-5525-4778</contrib-id><name name-style="western"><surname>Krishnan</surname><given-names initials="JA">Jerry A.</given-names></name><xref rid="aff1" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="aff2" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0001-6991-0350</contrib-id><name name-style="western"><surname>Cao</surname><given-names initials="B">Bin</given-names></name><xref rid="aff3" ref-type="aff">
+<sup>3</sup>
+</xref></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0003-0417-7607</contrib-id><name name-style="western"><surname>Chotirmall</surname><given-names initials="SH">Sanjay H.</given-names></name><xref rid="aff4" ref-type="aff">
+<sup>4</sup>
+</xref><xref rid="aff5" ref-type="aff">
+<sup>5</sup>
+</xref></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0003-3957-2172</contrib-id><name name-style="western"><surname>Ely</surname><given-names initials="EW">E. Wesley</given-names></name><xref rid="aff6" ref-type="aff">
+<sup>6</sup>
+</xref><xref rid="aff7" ref-type="aff">
+<sup>7</sup>
+</xref></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-7220-2555</contrib-id><name name-style="western"><surname>Openshaw</surname><given-names initials="P">Peter</given-names></name><xref rid="aff8" ref-type="aff">
+<sup>8</sup>
+</xref></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-3162-5033</contrib-id><name name-style="western"><surname>Roche</surname><given-names initials="N">Nicolas</given-names></name><xref rid="aff9" ref-type="aff">
+<sup>9</sup>
+</xref></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-7222-8018</contrib-id><name name-style="western"><surname>Waterer</surname><given-names initials="G">Grant</given-names></name><xref rid="aff10" ref-type="aff">
+<sup>10</sup>
+</xref></contrib><aff id="aff1"><label><sup>1</sup></label>Breathe Chicago Center, Division of Pulmonary, Critical Care, Sleep, and Allergy, and</aff><aff id="aff2"><label><sup>2</sup></label>Office of Population Health Sciences, University of Illinois Chicago, Chicago, Illinois;</aff><aff id="aff3"><label><sup>3</sup></label>Department of Pulmonary and Critical Care Medicine, China-Japan Friendship Hospital, National Center for Respiratory Medicine, Beijing, China;</aff><aff id="aff4"><label><sup>4</sup></label>Lee Kong Chian School of Medicine, Nanyang Technological University, Singapore;</aff><aff id="aff5"><label><sup>5</sup></label>Department of Respiratory and Critical Care Medicine, Tan Tock Seng Hospital, Singapore;</aff><aff id="aff6"><label><sup>6</sup></label>Critical Illness, Brain Dysfunction, and Survivorship Center, Vanderbilt University Medical Center, Nashville, Tennessee;</aff><aff id="aff7"><label><sup>7</sup></label>Veteran Affairs Tennessee Valley Geriatric Research Education Clinical Center, Nashville, Tennessee;</aff><aff id="aff8"><label><sup>8</sup></label>Faculty of Medicine, National Heart &amp; Lung Institute, St. Mary’s Campus, London, United Kingdom;</aff><aff id="aff9"><label><sup>9</sup></label>Pneumologie, Hôpital Cochin, Assistance publique–hôpitaux de Paris, Université Paris Cité, UMR 1016, Institut Cochin, Paris, France; and</aff><aff id="aff10"><label><sup>10</sup></label>Faculty of Medicine, University of Western Australia, Nedlands, Western Australia, Australia</aff></contrib-group><author-notes><corresp>Correspondence and requests for reprints should be addressed to Jerry A. Krishnan, M.D., Ph.D., Breathe Chicago Center, University of Illinois Chicago, Mile Square Health Center, Third Floor, 1220 South Wood Street, Chicago, IL 60514. E-mail: <email xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="mailto:jakris@uic.edu">jakris@uic.edu</email>.</corresp></author-notes><pub-date date-type="pub" publication-format="electronic"><day>29</day><month>5</month><year>2025</year></pub-date><pub-date date-type="collection" publication-format="electronic"><day>1</day><month>8</month><year>2025</year></pub-date><volume>211</volume><issue>8</issue><issue-id pub-id-type="pmc-issue-id">495362</issue-id><fpage>1391</fpage><lpage>1396</lpage><history><date date-type="received"><day>21</day><month>10</month><year>2024</year></date><date date-type="accepted"><day>19</day><month>5</month><year>2025</year></date></history><pub-history><event event-type="pmc-release"><date><day>29</day><month>05</month><year>2025</year></date></event><event event-type="pmc-live"><date><day>22</day><month>08</month><year>2025</year></date></event><event event-type="pmc-last-change"><date iso-8601-date="2025-08-22 10:25:47.697"><day>22</day><month>08</month><year>2025</year></date></event></pub-history><permissions><copyright-statement>Copyright © 2025 by the American Thoracic Society</copyright-statement><copyright-year>2025</copyright-year><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbyncndlicense">https://creativecommons.org/licenses/by-nc-nd/4.0/</ali:license_ref><license-p>This article is open access and distributed under the terms of the <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution Non-Commercial No Derivatives License 4.0</ext-link>. For commercial usage and reprints, please e-mail Diane Gern (<email xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="mailto:dgern@thoracic.org">dgern@thoracic.org</email>).</license-p></license></permissions><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pmc-pdf" xlink:href="rccm.202410-2036PP.pdf"/><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pdf" xlink:href="rccm.202410-2036PP.pdf"/><counts><fig-count count="1"/><table-count count="0"/><ref-count count="48"/><page-count count="6"/></counts><custom-meta-group><custom-meta><meta-name>pmc-status-qastatus</meta-name><meta-value>0</meta-value></custom-meta><custom-meta><meta-name>pmc-status-live</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-status-embargo</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-status-released</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-access</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-legally-suppressed</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-pdf</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-supplement</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-pdf-only</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-suppress-copyright</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-real-version</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-scanned-article</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-in-epmc</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-license-ref</meta-name><meta-value>CC BY-NC-ND</meta-value></custom-meta></custom-meta-group></article-meta></front><body><p content-type="flushleft">SARS-CoV-2 emerged in late 2019, leading to the COVID-19 pandemic (<xref rid="bib1" ref-type="bibr">1</xref>). In the initial months of the pandemic, the number of hospitalizations for respiratory failure caused by acute respiratory distress syndrome increased exponentially, and the global case fatality rate reached 3.4% with large regional variations (<xref rid="bib2" ref-type="bibr">2</xref>, <xref rid="bib3" ref-type="bibr">3</xref>). An unprecedented number of research studies were launched around the globe, aiming to understand and prevent severe acute illness (<xref rid="bib4" ref-type="bibr">4</xref>–<xref rid="bib7" ref-type="bibr">7</xref>). Over the past 5 years, the public health impact of acute COVID-19 has evolved considerably, with increases in population-level immunity due to natural infections and the increasing availability of proven effective vaccines, antiviral agents, immunomodulators, monoclonal antibodies, and the ever-changing landscape of SARS-CoV-2 variants with reduced pathogenicity but enhanced immune evasion and infectivity (<xref rid="bib8" ref-type="bibr">8</xref>–<xref rid="bib12" ref-type="bibr">12</xref>).</p><p>The World Health Organization declared an end of COVID-19 as a global health emergency in May 2023 (<xref rid="bib13" ref-type="bibr">13</xref>). However, many patients report symptoms lasting months or years after infection with SARS-CoV-2, leading to coining of the term “long COVID” to describe the long-lasting effects on health (<xref rid="bib14" ref-type="bibr">14</xref>). The cumulative incidence of long COVID is estimated to be about 400 million people worldwide (<xref rid="bib15" ref-type="bibr">15</xref>). A meta-analysis of 144 studies published from 2021 to 2024 suggested an overall global prevalence of long COVID of 36% among those with a confirmed diagnosis of COVID-19 (<xref rid="bib16" ref-type="bibr">16</xref>). However, the authors of this report indicated numerous sources of heterogeneity in the prevalence of long COVID across studies, including the definition of “long COVID.” The postacute sequelae are highly variable, including the timing of onset or duration of symptoms, involvement of single to multiple organ systems, and mild to disabling levels of impairments (<xref rid="bib17" ref-type="bibr">17</xref>). Our understanding of the risk, trajectory, and pathogenesis of long COVID, unfortunately, has been limited and inconsistent across studies.</p><p>Various groups have proposed their own terminology and definitions to describe the longer-term adverse health effects of SARS-CoV-2 infection, including “post–COVID-19 syndrome” (National Institute for Health and Care Excellence, United Kingdom) (<xref rid="bib18" ref-type="bibr">18</xref>), “post-COVID condition” (World Health Organization) (<xref rid="bib19" ref-type="bibr">19</xref>), and postacute sequelae of SARS-CoV-2 infection or “PASC” (NIH Researching COVID to Enhance Recovery [RECOVER] Initiative, United States) (<xref rid="bib20" ref-type="bibr">20</xref>). A score-based definition of postacute sequelae of SARS-CoV-2 infection was developed by the NIH RECOVER team in 2023 (<xref rid="bib20" ref-type="bibr">20</xref>) and updated in 2024 (<xref rid="bib21" ref-type="bibr">21</xref>), with the current definition relying on the “RECOVER-Adult Long COVID Research Index” based on 11 symptoms at 4.5 or more months after a first SARS-CoV-2 infection. The RECOVER team also developed different symptom indexes for children aged 6 to 11 years (10 symptoms) and for adolescents (8 symptoms) (<xref rid="bib22" ref-type="bibr">22</xref>).</p><p>More than 200 symptoms have been reported in association with long COVID (<xref rid="bib23" ref-type="bibr">23</xref>), raising concerns that definitions proposed by the RECOVER team to improve specificity on the basis of a selective list of symptoms will unwittingly exclude some individuals with significant chronic health impairments after SARS-CoV-2 infection. In the absence of validated biomarkers (a limitation of the current state of science), use of selective symptom lists would also limit the ability of individuals with chronic sequelae of SARS-CoV-2 to successfully apply for disability benefits or contribute to further research for patients with long COVID. In addition, some groups have proposed long COVID as a diagnosis of exclusion (<xref rid="bib18" ref-type="bibr">18</xref>, <xref rid="bib19" ref-type="bibr">19</xref>), which does not consider the biologic plausibility that infection with SARS-CoV-2 may exacerbate preexisting illnesses. The minimum duration of symptoms to diagnose long COVID is also highly variable across definitions (e.g., 3 mo [<xref rid="bib18" ref-type="bibr">18</xref>], 2 mo [<xref rid="bib19" ref-type="bibr">19</xref>], no specific duration [<xref rid="bib21" ref-type="bibr">21</xref>]). The lack of consensus about the terminology and definition has been a barrier to clinical care and has slowed research in long COVID.</p><p>In response to these various concerns, the U.S. federal government sponsored the National Academies of Science, Engineering, and Medicine (NASEM), a private, U.S.-based nonprofit organization, to develop a consensus-based definition, with input from patients and an interdisciplinary group of experts. After 18 months of deliberation involving over 1,300 stakeholders and an extensive literature review (<xref rid="bib24" ref-type="bibr">24</xref>), NASEM recommended the adoption of the patient-coined term “long COVID” and offered the following symptom-based definition: Long COVID is “an infection-associated chronic condition (IACC) that occurs after SARS-CoV-2 infection and is present for at least 3 months as a continuous, relapsing and remitting, or progressive disease state that affects one or more organ systems.” The 2024 NASEM definition applies to both pediatric and adult populations. A table comparing the 2024 NASEM long COVID definition with those of other groups is available in a previous publication developed by one of the authors of the present report (E.W.E.) (<xref rid="bib24" ref-type="bibr">24</xref>).</p><p>Because there are currently no biomarkers to include or exclude long COVID (<xref rid="bib25" ref-type="bibr">25</xref>), the NASEM committee prioritized the importance of ensuring that all patients who experience long COVID will be included in the definition (i.e., high sensitivity), so that they may receive appropriate medical and social supports and be eligible for research. The committee acknowledged the opportunity for false-positive findings (i.e., low specificity) and recommended a revision of the definition within 3 years or sooner if relevant information is available. For example, the availability of biomarkers and their integration into tests that reliably identify a previous infection weeks, months, or years earlier could greatly improve the specificity of a long COVID definition, particularly in populations with inadequate access to or use of tests during their initial infection with SARS-CoV-2. The pathogenesis of long COVID may be highly variable (e.g., specific organ damage, thromboinflammation, SARS-CoV-2 persistence, reactivation of other viruses, alteration of the microbiome, autoimmunity, serotonin deficiency) across individual patients and is inadequately understood; we refer interested readers to other reports (<xref rid="bib26" ref-type="bibr">26</xref>–<xref rid="bib33" ref-type="bibr">33</xref>).</p><p>As an international team of clinicians and researchers who authored this pulmonary perspective, we advocate for using a standardized definition of long COVID as the basis for patient care and research. We acknowledge that the 2024 NASEM symptom-based definition of long COVID has limitations because of the current state of science. Nevertheless, we view the 2024 NASEM definition as a reasonable starting point to propose frameworks for clinicians and researchers in the pulmonary and critical care community. We hope this report catalyzes global collaborations to fill key knowledge gaps so that more patients around the world can benefit from the latest advancements in care.</p><sec><title>Framework for Clinical Evaluation</title><p content-type="flushleft">In the initial months of the COVID-19 pandemic, there were no tests that could reliably rule in or exclude SARS-CoV-2 infection. Even after highly sensitive and specific RT-PCR tests were developed, their availability was insufficient to meet the need for testing across the world. Rapid antigen tests started to become available in some parts of the world in the second half of 2020, offering the convenience of at-home testing. However, the sensitivity of rapid antigen tests for SARS-CoV-2 is estimated to be only 47% when compared with RT-PCR (<xref rid="bib34" ref-type="bibr">34</xref>). Therefore, many millions were likely infected across the world with highly pathogenic variants of SARS-CoV-2 (and therefore at increased risk of long COVID) before they could be diagnosed. Accordingly, the 2024 NASEM definition of long COVID does not require objective confirmation of SARS-CoV-2 infection to avoid the exacerbating health inequities in historically disadvantaged populations.</p><p>Also, long COVID may exacerbate preexisting comorbid diseases, so the 2024 NASEM definition does not consider long COVID as a diagnosis of exclusion. The time course of long COVID appears to be highly variable. Fortunately, most patients with acute symptoms of COVID-19 fully recover after a period of days to weeks after the initial illness without further sequelae (i.e., do not develop long COVID). Those with long COVID may present with ongoing symptoms that continue after the initial illness or symptoms that start weeks or months after an apparent initial recovery. Symptoms of long COVID may be continuous (persistent, progressively worsening, or progressively improving); present with a relapsing (at times worse) and remitting (at other times improve or disappear altogether) pattern over hours, days, weeks, or longer; or start after an apparent resolution of the initial episode of COVID-19. The trajectory also may be symptom specific. For example, cough may improve and resolve over a period of weeks to months, whereas exercise intolerance and fatigue may be persistent. The NASEM committee recommends a minimum of 3 months’ duration of symptoms or a 3-month period of relapsing and remitting symptoms after infection with SARS-CoV-2 before a diagnosis of long COVID can be made. A 3-month cutoff was intended to provide sufficient time for most patients to recover from acute manifestations of SARS-CoV-2 infection and for evaluation and initial management of conditions that may present with symptoms similar to long COVID.</p><p>Currently, the principles for evaluating a patient with respiratory symptoms after SARS-CoV-2 infection are no different from any other clinical scenario. The role of the pulmonologist is to obtain a history, perform a clinical examination, and judiciously use investigations to identify pathology to provide the patient with some idea of the diagnosis, prognosis, and treatment options. It is important to recognize that the clinical work-up may or may not identify an abnormality associated with presenting respiratory symptoms; also, abnormalities that are detected may not be related to a prior SARS CoV-2 infection. All of this could change once reliable biomarkers for long COVID are identified.</p><p>It is acknowledged that in the case of long COVID, many abnormalities that will be identified are unlikely to have treatment options because they are largely sequelae of organ damage, but this may change with future research. If specific nonpulmonary syndromes are identified, such as resting tachycardia or orthostatic intolerance in the absence of dehydration or other causes of hypovolemia, then a referral can be made to an appropriate specialist (e.g., electrophysiologist) to evaluate a patient for postural orthostatic tachycardia syndrome using a tilt table test. The clinical challenge is when identifiable pathology is absent or is insufficient to explain the patient’s symptoms, which is not unique to long COVID. What the NASEM guidelines explicitly make clear is that the absence of identifiable pathology does not rule out the diagnosis of long COVID, because the diagnosis of long COVID is based on a patient’s symptoms and temporal relationship to an episode of SARS-CoV-2 infection.</p><p>Pulmonologists are likely to encounter a patient with long COVID with unexplained fatigue, breathlessness, chronic cough, or exercise intolerance. In a minority of cases, such symptoms are related to postinfectious interstitial lung disease (ILD)– and acute respiratory distress syndrome–related pulmonary fibrosis or the physical and neuropsychological impairments similar to those seen in the post–intensive care syndrome. Whether such presentations are different after SARS-CoV-2 infection compared with other etiologies (e.g., severe community-acquired bacterial pneumonia) is unclear. Other long COVID symptom clusters (e.g., neurocognitive impairment, syncope) will generally present to other specialists as appropriate. Our recommendations for clinical evaluation of long COVID in the present report are the opinion of the authors and based on a reasonable assessment of patient with the symptoms as described above. Although there are publications of a variety of highly specialized testing in patients with long COVID (such as magnetic resonance angiography, cardiopulmonary exercise testing, hyperpolarized gas imaging), these should be considered as research tools because their utility in long COVID has not been established. As with all conditions, clinicians are encouraged to engage patients in shared decision making when considering various options (<xref rid="fig1" ref-type="fig">Figure 1</xref>). The authors acknowledge the need for studies to assess the utility of the proposed approach to evaluation, including in low-resource settings, and revisions to the clinical framework as validated biomarkers of long COVID emerge. We also encourage clinicians to consider referral to a long COVID support group, a multidisciplinary long COVID clinic, and, when eligible, to join a research study when available. We refer readers to other reports that have described potential approaches to managing long COVID–associated conditions, including respiratory symptoms (<xref rid="bib35" ref-type="bibr">35</xref>), dysautonomia (<xref rid="bib36" ref-type="bibr">36</xref>), cardiovascular complications (<xref rid="bib37" ref-type="bibr">37</xref>), and neurocognitive symptoms (<xref rid="bib38" ref-type="bibr">38</xref>, <xref rid="bib39" ref-type="bibr">39</xref>). Results of a systematic review of clinical trials suggest the potential for cognitive behavioral therapy and rehabilitation to improve physical and mental health in adults with long COVID; however, the authors of the review were concerned about the risk of bias because of a lack of masking or adequacy of attention controls as well as the applicability of findings to various subgroups of populations with long COVID (e.g., predominant symptom clusters or level of disability) (<xref rid="bib40" ref-type="bibr">40</xref>). Evidence-based recommendations for management of long COVID will therefore require the results of rigorously performed clinical trials with adequate attention to internal validity (to minimize risk of bias) and external validity (generalizability).</p><fig position="float" id="fig1" orientation="portrait"><label>
+Figure 1.
+</label><caption><p>Approach to clinical evaluation. The approach to evaluation described in the figure is based on expert opinion. The sequence and comprehensiveness of the evaluation should be tailored to the individual patient using a shared decision-making process based on resources available in the clinical setting and patient preferences and values. The approach should be updated as evidence from rigorously performed studies becomes available to guide practice (e.g., validated biomarkers for diagnosis or response to therapy, clinical trials).</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="rccm.202410-2036PPf1.jpg"/></fig></sec><sec><title>Framework for Research, Including Clinical Trials</title><p content-type="flushleft">Currently, the unknowns are far greater than the knowns regarding long COVID. The 2024 NASEM definition of long COVID serves as scaffold on which we can build studies to better understand the burden and biologic pathways that contribute to SARS-CoV-2–associated chronic conditions and the harms and benefits of potential interventions. Key considerations for design of research in long COVID are outlined below.
+<list list-type="order"><list-item><p><italic toggle="yes">Use the 2024 NASEM definition of long COVID</italic>: The definition is intentionally broad. Researchers, however, are advised to use study inclusion and exclusion criteria to select the appropriate segment of the long COVID population that is fit for purpose. For example, for studies to understand SARS-CoV-2– associated postviral ILD, inclusion criteria should include results of imaging studies (including high-resolution chest computed tomography) that confirm findings consistent with ILD.</p></list-item><list-item><p><italic toggle="yes">Report whether the diagnosis of SARS-CoV-2 was “suspected,” “probable,” or “confirmed” (World Health Organization categorization)</italic> (<xref rid="bib41" ref-type="bibr">41</xref>): Many patients are now not being formally tested, with significant implications for the rising risk of misclassifying exposure (SARS-CoV-2 infection). However, for studies to understand the extent to which viral persistence contributes to the pathogenesis of long COVID or clinical trials of antiviral interventions, researchers may wish to limit participation to individuals with confirmed SARS-CoV-2 infection (e.g., positive RT-PCR or positive SARS-CoV-2 antigen test result during acute illness).</p></list-item><list-item><p><italic toggle="yes">Describe the period (dates) of acute COVID-19 and other factors that contribute to secular trends in the severity of initial illness</italic>: Studies should specify dates of enrollment and follow-up, locations at which participants were enrolled, and, ideally, the predominant viral variants at each field site and treatments, if any, for SARS-CoV-2 and for supportive care (e.g., use of treatment-dose anticoagulation in hospitalized patients).</p></list-item><list-item><p><italic toggle="yes">Characterize preexisting health conditions and risk factors for COVID-19</italic>: Standardizing the collection and reporting of these data would help with interpreting study results and support cross-study synthesis of findings. For example, the Centers for Disease Control and Prevention maintains a list of underlying conditions that predispose individuals to severe COVID-19 (<xref rid="bib42" ref-type="bibr">42</xref>).</p></list-item><list-item><p><italic toggle="yes">Select an appropriate comparator group when making claims about COVID-19– and long COVID–specific findings</italic>: Depending on the research question, consider matching long COVID and comparator groups on the basis of dates of selection into the study to account for factors that contribute to secular changes in disease severity. These factors include vaccination status against SARS-CoV-2 before the index SARS-CoV-2 infection, severity of acute illness (hospitalized or outpatient), treatments received, duration of symptoms, and preexisting conditions.</p></list-item><list-item><p><italic toggle="yes">Characterize long COVID</italic>: Characterize long COVID on the basis of symptoms/symptom clusters, duration of symptoms, severity, trajectory, and any supportive treatment. We also recommend that investigators describe the study population that is enrolled using the symptom-based NIH RECOVER index (<xref rid="bib21" ref-type="bibr">21</xref>, <xref rid="bib22" ref-type="bibr">22</xref>), which may facilitate subsequent cross-study syntheses of results. Outcomes with known measurement properties in long COVID or relevant conditions should be employed (if unavailable in long COVID). For example, to assess neurocognitive impairment, investigators could use the CogState brief battery, which has been validated in patients with mild traumatic brain injury and AIDS dementia complex (<xref rid="bib43" ref-type="bibr">43</xref>). To assess functional exercise capacity and tolerance, investigators could use the 6-minute-walk test, which is widely used to measure response to medical interventions in patients with moderate or severe heart or lung disease (<xref rid="bib44" ref-type="bibr">44</xref>).</p></list-item><list-item><p><italic toggle="yes">Report results of pulmonary function tests and imaging</italic>: Although long COVID is defined on the basis of symptoms, we recommend, when possible, collecting and reporting results of pre- and post-bronchodilator spirometry, lung volumes, D<sc>l</sc><sub>CO</sub>, and high-resolution chest computed tomography. Such information will help to relate the patient’s symptoms with well-accepted measures of lung disease.</p></list-item></list></p><p>Numerous studies are underway to fill the evidence gaps, including over 60 studies about the pathogenesis of long COVID (<xref rid="bib45" ref-type="bibr">45</xref>, <xref rid="bib46" ref-type="bibr">46</xref>) and 8 clinical trials of 13 interventions by the NIH RECOVER consortium (<xref rid="bib47" ref-type="bibr">47</xref>). More such studies are needed, including those conducted in other countries and by multinational consortia, because the presentation of long COVID and context of health care may vary by geographic region. We recommend establishing additional research infrastructures, including international consortia, to promote knowledge sharing as a key next step. The consortia may include various sections that may focus on <italic toggle="yes">1</italic>) epidemiology, <italic toggle="yes">2</italic>) pathogenesis, <italic toggle="yes">3</italic>) clinical trials, <italic toggle="yes">4</italic>) clinical guideline development, and <italic toggle="yes">5</italic>) dissemination and implementation science. Because some features of long COVID are shared with other disease states (e.g., myalgic encephalomyelitis/chronic fatigue syndrome, post-treatment Lyme disease syndrome, HIV/AIDS), collaborations with other research groups or experts in these areas may help to unlock synergies. Early and continuous patient engagement as research partners is critical to ensuring that the studies are designed to address the health concerns of those with the lived experience and are feasible for people with long COVID to join. For example, long study visits (e.g., 4 h or more) may be impractical in patients with postexertional malaise or other disabling conditions. Given the heterogeneous nature of long COVID driven by different pathophysiological mechanisms (i.e., multiple subtypes) and degrees of impairment, clinical trials using innovative designs, such as the use of master protocols and adaptive trial platforms to efficiently study multiple therapies, multiple diseases, or both, should be considered (<xref rid="bib48" ref-type="bibr">48</xref>).</p></sec><sec sec-type="conclusions"><title>Conclusions</title><p content-type="flushleft">In the past 5 years, significant progress has been made in preventing and treating acute COVID-19, the illness caused by SARS-CoV-2. However, advancements in the evaluation and management of persistent respiratory symptoms and other chronic conditions known as long COVID have been comparatively slower. The recently introduced 2024 NASEM definition of long COVID provides a basis for a crucial framework for clinical and research settings. Moving forward, research must adopt a multidisciplinary approach, prioritizing patient perspectives and fostering international collaborations. Innovative clinical trial designs that employ master protocols and leverage global consortia will be vital in translating research into tangible improvements in care and support for individuals affected by long COVID.</p></sec></body><back><ack><sec><title>Acknowledgment</title><p>Drs. Krishnan and Ely served on the committee that developed the 2024 NASEM definition of long COVID.</p></sec></ack><fn-group><fn><p>Artificial Intelligence Disclaimer: No artificial intelligence tools were used in writing this manuscript.</p></fn><fn><p>Originally Published in Press as DOI: <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://doi.org/10.1164/rccm.202410-2036PP" ext-link-type="uri">10.1164/rccm.202410-2036PP</ext-link> on May 29, 2025</p></fn><fn fn-type="financial-disclosure"><p><underline><bold><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://www.atsjournals.org/doi/suppl/10.1164/rccm.202410-2036PP/suppl_file/disclosures.pdf" ext-link-type="uri">Author disclosures</ext-link></bold></underline> are available with the text of this article at <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://www.atsjournals.org" ext-link-type="uri">www.atsjournals.org</ext-link>.</p></fn></fn-group><ref-list><title>References</title><ref id="bib1"><label>1.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Niederman</surname><given-names>MS</given-names></name>
+<name name-style="western"><surname>Richeldi</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Chotirmall</surname><given-names>SH</given-names></name>
+<name name-style="western"><surname>Bai</surname><given-names>C</given-names></name>
+</person-group>
+<article-title>Rising to the challenge of COVID-19: advice for pulmonary and critical care and an agenda for research</article-title>
+<source>
+<italic toggle="yes">Am J Respir Crit Care Med</italic>
+</source>
+<year>2020</year>
+<volume>201</volume>
+<fpage>1019</fpage>
+<lpage>1022</lpage>
+<pub-id pub-id-type="pmid">32203671</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1164/rccm.202003-0741ED</pub-id><pub-id pub-id-type="pmcid">PMC7193856</pub-id></mixed-citation></ref><ref id="bib2"><label>2.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Wu</surname><given-names>Z</given-names></name>
+<name name-style="western"><surname>McGoogan</surname><given-names>JM</given-names></name>
+</person-group>
+<article-title>Characteristics of and important lessons from the coronavirus disease 2019 (COVID-19) outbreak in China: summary of a report of 72314 cases from the Chinese center for disease control and prevention</article-title>
+<source>
+<italic toggle="yes">JAMA</italic>
+</source>
+<year>2020</year>
+<volume>323</volume>
+<fpage>1239</fpage>
+<lpage>1242</lpage>
+<pub-id pub-id-type="pmid">32091533</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1001/jama.2020.2648</pub-id></mixed-citation></ref><ref id="bib3"><label>3.</label><mixed-citation publication-type="other">
+<collab>World Health Organization</collab>
+<article-title>World Health Organization Director-General’s opening remarks at the media briefing on COVID-19</article-title>
+<year>2020</year>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.who.int/director-general/speeches/detail/who-director-general-s-opening-remarks-at-the-media-briefing-on-covid-19---3-march-2020" ext-link-type="uri">https://www.who.int/director-general/speeches/detail/who-director-general-s-opening-remarks-at-the-media-briefing-on-covid-19---3-march-2020</ext-link>
+</mixed-citation></ref><ref id="bib4"><label>4.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Wang</surname><given-names>Y</given-names></name>
+<name name-style="western"><surname>Zhang</surname><given-names>D</given-names></name>
+<name name-style="western"><surname>Du</surname><given-names>G</given-names></name>
+<name name-style="western"><surname>Du</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Zhao</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Jin</surname><given-names>Y</given-names></name>
+</person-group>
+<etal>
+<italic toggle="yes">et al.</italic>
+</etal>
+<article-title>Remdesivir in adults with severe COVID-19: a randomised, double-blind, placebo-controlled, multicentre trial</article-title>
+<source>
+<italic toggle="yes">Lancet</italic>
+</source>
+<year>2020</year>
+<volume>395</volume>
+<fpage>1569</fpage>
+<lpage>1578</lpage>
+<pub-id pub-id-type="pmid">32423584</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/S0140-6736(20)31022-9</pub-id><pub-id pub-id-type="pmcid">PMC7190303</pub-id></mixed-citation></ref><ref id="bib5"><label>5.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Horby</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Lim</surname><given-names>WS</given-names></name>
+<name name-style="western"><surname>Emberson</surname><given-names>JR</given-names></name>
+<name name-style="western"><surname>Mafham</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Bell</surname><given-names>JL</given-names></name>
+<name name-style="western"><surname>Linsell</surname><given-names>L</given-names></name>
+</person-group>
+<etal>
+<italic toggle="yes">et al.</italic>
+</etal>
+<collab>RECOVERY Collaborative Group</collab>
+<article-title>Dexamethasone in hospitalized patients with Covid-19</article-title>
+<source>
+<italic toggle="yes">N Engl J Med</italic>
+</source>
+<year>2021</year>
+<volume>384</volume>
+<fpage>693</fpage>
+<lpage>704</lpage>
+<pub-id pub-id-type="pmid">32678530</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1056/NEJMoa2021436</pub-id><pub-id pub-id-type="pmcid">PMC7383595</pub-id></mixed-citation></ref><ref id="bib6"><label>6.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Accorsi</surname><given-names>EK</given-names></name>
+<name name-style="western"><surname>Britton</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Fleming-Dutra</surname><given-names>KE</given-names></name>
+<name name-style="western"><surname>Smith</surname><given-names>ZR</given-names></name>
+<name name-style="western"><surname>Shang</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Derado</surname><given-names>G</given-names></name>
+</person-group>
+<etal>
+<italic toggle="yes">et al.</italic>
+</etal>
+<article-title>Association between 3 doses of mRNA COVID-19 vaccine and symptomatic infection caused by the SARS-CoV-2 Omicron and Delta variants</article-title>
+<source>
+<italic toggle="yes">JAMA</italic>
+</source>
+<year>2022</year>
+<volume>327</volume>
+<fpage>639</fpage>
+<lpage>651</lpage>
+<pub-id pub-id-type="pmid">35060999</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1001/jama.2022.0470</pub-id><pub-id pub-id-type="pmcid">PMC8848203</pub-id></mixed-citation></ref><ref id="bib7"><label>7.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Lamers</surname><given-names>MM</given-names></name>
+<name name-style="western"><surname>Haagmans</surname><given-names>BL</given-names></name>
+</person-group>
+<article-title>SARS-CoV-2 pathogenesis</article-title>
+<source>
+<italic toggle="yes">Nat Rev Microbiol</italic>
+</source>
+<year>2022</year>
+<volume>20</volume>
+<fpage>270</fpage>
+<lpage>284</lpage>
+<pub-id pub-id-type="pmid">35354968</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41579-022-00713-0</pub-id></mixed-citation></ref><ref id="bib8"><label>8.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Barouch</surname><given-names>DH</given-names></name>
+</person-group>
+<article-title>Covid-19 vaccines—immunity, variants, boosters</article-title>
+<source>
+<italic toggle="yes">N Engl J Med</italic>
+</source>
+<year>2022</year>
+<volume>387</volume>
+<fpage>1011</fpage>
+<lpage>1020</lpage>
+<pub-id pub-id-type="pmid">36044620</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1056/NEJMra2206573</pub-id><pub-id pub-id-type="pmcid">PMC9454645</pub-id></mixed-citation></ref><ref id="bib9"><label>9.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Kalil</surname><given-names>AC</given-names></name>
+<name name-style="western"><surname>Patterson</surname><given-names>TF</given-names></name>
+<name name-style="western"><surname>Mehta</surname><given-names>AK</given-names></name>
+<name name-style="western"><surname>Tomashek</surname><given-names>KM</given-names></name>
+<name name-style="western"><surname>Wolfe</surname><given-names>CR</given-names></name>
+<name name-style="western"><surname>Ghazaryan</surname><given-names>V</given-names></name>
+</person-group>
+<etal>
+<italic toggle="yes">et al.</italic>
+</etal>
+<collab>ACTT-2 Study Group Members</collab>
+<article-title>Baricitinib plus remdesivir for hospitalized adults with Covid-19</article-title>
+<source>
+<italic toggle="yes">N Engl J Med</italic>
+</source>
+<year>2021</year>
+<volume>384</volume>
+<fpage>795</fpage>
+<lpage>807</lpage>
+<pub-id pub-id-type="pmid">33306283</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1056/NEJMoa2031994</pub-id><pub-id pub-id-type="pmcid">PMC7745180</pub-id></mixed-citation></ref><ref id="bib10"><label>10.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Rosas</surname><given-names>IO</given-names></name>
+<name name-style="western"><surname>Bräu</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Waters</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Go</surname><given-names>RC</given-names></name>
+<name name-style="western"><surname>Hunter</surname><given-names>BD</given-names></name>
+<name name-style="western"><surname>Bhagani</surname><given-names>S</given-names></name>
+</person-group>
+<etal>
+<italic toggle="yes">et al.</italic>
+</etal>
+<article-title>Tocilizumab in hospitalized patients with severe Covid-19 pneumonia</article-title>
+<source>
+<italic toggle="yes">N Engl J Med</italic>
+</source>
+<year>2021</year>
+<volume>384</volume>
+<fpage>1503</fpage>
+<lpage>1516</lpage>
+<pub-id pub-id-type="pmid">33631066</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1056/NEJMoa2028700</pub-id><pub-id pub-id-type="pmcid">PMC7953459</pub-id></mixed-citation></ref><ref id="bib11"><label>11.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Nyberg</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Ferguson</surname><given-names>NM</given-names></name>
+<name name-style="western"><surname>Nash</surname><given-names>SG</given-names></name>
+<name name-style="western"><surname>Webster</surname><given-names>HH</given-names></name>
+<name name-style="western"><surname>Flaxman</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Andrews</surname><given-names>N</given-names></name>
+</person-group>
+<etal>
+<italic toggle="yes">et al.</italic>
+</etal>
+<collab>COVID-19 Genomics UK (COG-UK) consortium</collab>
+<article-title>Comparative analysis of the risks of hospitalisation and death associated with SARS-CoV-2 omicron (B.1.1.529) and delta (B.1.617.2) variants in England: a cohort study</article-title>
+<source>
+<italic toggle="yes">Lancet</italic>
+</source>
+<year>2022</year>
+<volume>399</volume>
+<fpage>1303</fpage>
+<lpage>1312</lpage>
+<pub-id pub-id-type="pmid">35305296</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/S0140-6736(22)00462-7</pub-id><pub-id pub-id-type="pmcid">PMC8926413</pub-id></mixed-citation></ref><ref id="bib12"><label>12.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Weinreich</surname><given-names>DM</given-names></name>
+<name name-style="western"><surname>Sivapalasingam</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Norton</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Ali</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Gao</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Bhore</surname><given-names>R</given-names></name>
+</person-group>
+<etal>
+<italic toggle="yes">et al.</italic>
+</etal>
+<collab>Trial Investigators</collab>
+<article-title>REGEN-COV antibody combination and outcomes in outpatients with Covid-19</article-title>
+<source>
+<italic toggle="yes">N Engl J Med</italic>
+</source>
+<year>2021</year>
+<volume>385</volume>
+<fpage>e81</fpage>
+<pub-id pub-id-type="pmid">34587383</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1056/NEJMoa2108163</pub-id><pub-id pub-id-type="pmcid">PMC8522800</pub-id></mixed-citation></ref><ref id="bib13"><label>13.</label><mixed-citation publication-type="other">
+<collab>World Health Organization</collab>
+<article-title>World Health Organization chief declares end to COVID-19 as a global health emergency</article-title>
+<year>2023</year>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://news.un.org/en/story/2023/05/1136367" ext-link-type="uri">https://news.un.org/en/story/2023/05/1136367</ext-link>
+</mixed-citation></ref><ref id="bib14"><label>14.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Callard</surname><given-names>F</given-names></name>
+<name name-style="western"><surname>Perego</surname><given-names>E</given-names></name>
+</person-group>
+<article-title>How and why patients made long Covid</article-title>
+<source>
+<italic toggle="yes">Soc Sci Med</italic>
+</source>
+<year>2021</year>
+<volume>268</volume>
+<fpage>113426</fpage>
+<pub-id pub-id-type="pmid">33199035</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.socscimed.2020.113426</pub-id><pub-id pub-id-type="pmcid">PMC7539940</pub-id></mixed-citation></ref><ref id="bib15"><label>15.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Al-Aly</surname><given-names>Z</given-names></name>
+<name name-style="western"><surname>Davis</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>McCorkell</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Soares</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Wulf-Hanson</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Iwasaki</surname><given-names>A</given-names></name>
+</person-group>
+<etal>
+<italic toggle="yes">et al.</italic>
+</etal>
+<article-title>Long COVID science, research and policy</article-title>
+<source>
+<italic toggle="yes">Nat Med</italic>
+</source>
+<year>2024</year>
+<volume>30</volume>
+<fpage>2148</fpage>
+<lpage>2164</lpage>
+<pub-id pub-id-type="pmid">39122965</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41591-024-03173-6</pub-id></mixed-citation></ref><ref id="bib16"><label>16.</label><mixed-citation publication-type="other">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Hou</surname><given-names>Y</given-names></name>
+<name name-style="western"><surname>Gu</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Ni</surname><given-names>Z</given-names></name>
+<name name-style="western"><surname>Shi</surname><given-names>X</given-names></name>
+<name name-style="western"><surname>Ranney</surname><given-names>ML</given-names></name>
+<name name-style="western"><surname>Mukherjee</surname><given-names>B</given-names></name>
+</person-group>
+<article-title>Global prevalence of long COVID, its subtypes and risk factors: an updated systematic review and meta-analysis [preprint]</article-title>
+<year>2025</year>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://pubmed.ncbi.nlm.nih.gov/39830235/" ext-link-type="uri">https://pubmed.ncbi.nlm.nih.gov/39830235/</ext-link>
+</mixed-citation></ref><ref id="bib17"><label>17.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>O’Mahoney</surname><given-names>LL</given-names></name>
+<name name-style="western"><surname>Routen</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Gillies</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Ekezie</surname><given-names>W</given-names></name>
+<name name-style="western"><surname>Welford</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Zhang</surname><given-names>A</given-names></name>
+</person-group>
+<etal>
+<italic toggle="yes">et al.</italic>
+</etal>
+<article-title>The prevalence and long-term health effects of long Covid among hospitalised and non-hospitalised populations: a systematic review and meta-analysis</article-title>
+<source>
+<italic toggle="yes">EClinicalMedicine</italic>
+</source>
+<year>2022</year>
+<volume>55</volume>
+<fpage>101762</fpage>
+<comment>[Published erratum appears in</comment>
+<comment>
+<italic toggle="yes">EClinicalMedicine</italic>
+</comment>
+<comment>59:101959.]</comment>
+<pub-id pub-id-type="pmid">36474804</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.eclinm.2022.101762</pub-id><pub-id pub-id-type="pmcid">PMC9714474</pub-id></mixed-citation></ref><ref id="bib18"><label>18.</label><mixed-citation publication-type="other">
+<collab>National Institute for Health and Care Excellence (NICE)</collab>
+<article-title>COVID-19 rapid guideline: managing the long-term effects of COVID-19 (NG188)</article-title>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.nice.org.uk/guidance/ng188/resources/covid19-rapid-guideline-managing-the-longterm-effects-of-covid19-pdf-66142028400325" ext-link-type="uri">https://www.nice.org.uk/guidance/ng188/resources/covid19-rapid-guideline-managing-the-longterm-effects-of-covid19-pdf-66142028400325</ext-link>
+<pub-id pub-id-type="pmid">33555768</pub-id></mixed-citation></ref><ref id="bib19"><label>19.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Soriano</surname><given-names>JB</given-names></name>
+<name name-style="western"><surname>Murthy</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Marshall</surname><given-names>JC</given-names></name>
+<name name-style="western"><surname>Relan</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Diaz</surname><given-names>JV</given-names></name>
+<collab>WHO Clinical Case Definition Working Group on Post-COVID-19 Condition</collab>
+</person-group>
+<article-title>A clinical case definition of post-COVID-19 condition by a Delphi consensus</article-title>
+<source>
+<italic toggle="yes">Lancet Infect Dis</italic>
+</source>
+<year>2022</year>
+<volume>22</volume>
+<fpage>e102</fpage>
+<lpage>e107</lpage>
+<pub-id pub-id-type="pmid">34951953</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/S1473-3099(21)00703-9</pub-id><pub-id pub-id-type="pmcid">PMC8691845</pub-id></mixed-citation></ref><ref id="bib20"><label>20.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Thaweethai</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Jolley</surname><given-names>SE</given-names></name>
+<name name-style="western"><surname>Karlson</surname><given-names>EW</given-names></name>
+<name name-style="western"><surname>Levitan</surname><given-names>EB</given-names></name>
+<name name-style="western"><surname>Levy</surname><given-names>B</given-names></name>
+<name name-style="western"><surname>McComsey</surname><given-names>GA</given-names></name>
+</person-group>
+<etal>
+<italic toggle="yes">et al.</italic>
+</etal>
+<article-title>Development of a definition of postacute sequelae of SARS-CoV-2 infection</article-title>
+<source>
+<italic toggle="yes">JAMA</italic>
+</source>
+<year>2023</year>
+<volume>329</volume>
+<fpage>1934</fpage>
+<lpage>1946</lpage>
+<comment>[Published erratum appears in</comment>
+<comment>
+<italic toggle="yes">JAMA</italic>
+</comment>
+<comment>331:1505.]</comment>
+<pub-id pub-id-type="pmid">37278994</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1001/jama.2023.8823</pub-id><pub-id pub-id-type="pmcid">PMC10214179</pub-id></mixed-citation></ref><ref id="bib21"><label>21.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Geng</surname><given-names>LN</given-names></name>
+<name name-style="western"><surname>Erlandson</surname><given-names>KM</given-names></name>
+<name name-style="western"><surname>Hornig</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Letts</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Selvaggi</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Ashktorab</surname><given-names>H</given-names></name>
+</person-group>
+<etal>
+<italic toggle="yes">et al.</italic>
+</etal>
+<collab>RECOVER Consortium</collab>
+<article-title>2024 update of the RECOVER-adult long COVID research index</article-title>
+<source>
+<italic toggle="yes">JAMA</italic>
+</source>
+<year>2024</year>
+<volume>333</volume>
+<fpage>694</fpage>
+<lpage>700</lpage>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1001/jama.2024.24184</pub-id><pub-id pub-id-type="pmcid">PMC11862971</pub-id><pub-id pub-id-type="pmid">39693079</pub-id></mixed-citation></ref><ref id="bib22"><label>22.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Gross</surname><given-names>RS</given-names></name>
+<name name-style="western"><surname>Thaweethai</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Kleinman</surname><given-names>LC</given-names></name>
+<name name-style="western"><surname>Snowden</surname><given-names>JN</given-names></name>
+<name name-style="western"><surname>Rosenzweig</surname><given-names>EB</given-names></name>
+<name name-style="western"><surname>Milner</surname><given-names>JD</given-names></name>
+</person-group>
+<etal>
+<italic toggle="yes">et al.</italic>
+</etal>
+<collab>RECOVER-Pediatrics Group Authors</collab>
+<article-title>Characterizing long COVID in children and adolescents</article-title>
+<source>
+<italic toggle="yes">JAMA</italic>
+</source>
+<year>2024</year>
+<volume>332</volume>
+<fpage>1174</fpage>
+<lpage>1188</lpage>
+<pub-id pub-id-type="pmid">39196964</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1001/jama.2024.12747</pub-id><pub-id pub-id-type="pmcid">PMC11339705</pub-id></mixed-citation></ref><ref id="bib23"><label>23.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Davis</surname><given-names>HE</given-names></name>
+<name name-style="western"><surname>Assaf</surname><given-names>GS</given-names></name>
+<name name-style="western"><surname>McCorkell</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Wei</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Low</surname><given-names>RJ</given-names></name>
+<name name-style="western"><surname>Re’em</surname><given-names>Y</given-names></name>
+</person-group>
+<etal>
+<italic toggle="yes">et al.</italic>
+</etal>
+<article-title>Characterizing long COVID in an international cohort: 7 months of symptoms and their impact</article-title>
+<source>
+<italic toggle="yes">EClinicalMedicine</italic>
+</source>
+<year>2021</year>
+<volume>38</volume>
+<fpage>101019</fpage>
+<pub-id pub-id-type="pmid">34308300</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.eclinm.2021.101019</pub-id><pub-id pub-id-type="pmcid">PMC8280690</pub-id></mixed-citation></ref><ref id="bib24"><label>24.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Ely</surname><given-names>EW</given-names></name>
+<name name-style="western"><surname>Brown</surname><given-names>LM</given-names></name>
+<name name-style="western"><surname>Fineberg</surname><given-names>HV</given-names></name>
+<collab>National Academies of Sciences, Engineering, and Medicine Committee on Examining the Working Definition for Long Covid</collab>
+</person-group>
+<article-title>Long Covid defined</article-title>
+<source>
+<italic toggle="yes">N Engl J Med</italic>
+</source>
+<year>2024</year>
+<volume>391</volume>
+<fpage>1746</fpage>
+<lpage>1753</lpage>
+<pub-id pub-id-type="pmid">39083764</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1056/NEJMsb2408466</pub-id><pub-id pub-id-type="pmcid">PMC11687645</pub-id></mixed-citation></ref><ref id="bib25"><label>25.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Erlandson</surname><given-names>KM</given-names></name>
+<name name-style="western"><surname>Geng</surname><given-names>LN</given-names></name>
+<name name-style="western"><surname>Selvaggi</surname><given-names>CA</given-names></name>
+<name name-style="western"><surname>Thaweethai</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Chen</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Erdmann</surname><given-names>NB</given-names></name>
+</person-group>
+<etal>
+<italic toggle="yes">et al.</italic>
+</etal>
+<collab>RECOVER-Adult Cohort</collab>
+<article-title>Differentiation of prior SARS-CoV-2 infection and postacute sequelae by standard clinical laboratory measurements in the RECOVER cohort</article-title>
+<source>
+<italic toggle="yes">Ann Intern Med</italic>
+</source>
+<year>2024</year>
+<volume>177</volume>
+<fpage>1209</fpage>
+<lpage>1221</lpage>
+<pub-id pub-id-type="pmid">39133923</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.7326/M24-0737</pub-id><pub-id pub-id-type="pmcid">PMC11408082</pub-id></mixed-citation></ref><ref id="bib26"><label>26.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Sk Abd Razak</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Ismail</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Abdul Aziz</surname><given-names>AF</given-names></name>
+<name name-style="western"><surname>Suddin</surname><given-names>LS</given-names></name>
+<name name-style="western"><surname>Azzeri</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Sha’ari</surname><given-names>NI</given-names></name>
+</person-group>
+<etal>
+<italic toggle="yes">et al.</italic>
+</etal>
+<article-title>Post-COVID syndrome prevalence: a systematic review and meta-analysis</article-title>
+<source>
+<italic toggle="yes">BMC Public Health</italic>
+</source>
+<year>2024</year>
+<volume>24</volume>
+<fpage>1785</fpage>
+<pub-id pub-id-type="pmid">38965510</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1186/s12889-024-19264-5</pub-id><pub-id pub-id-type="pmcid">PMC11223303</pub-id></mixed-citation></ref><ref id="bib27"><label>27.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Oelsner</surname><given-names>EC</given-names></name>
+<name name-style="western"><surname>Sun</surname><given-names>Y</given-names></name>
+<name name-style="western"><surname>Balte</surname><given-names>PP</given-names></name>
+<name name-style="western"><surname>Allen</surname><given-names>NB</given-names></name>
+<name name-style="western"><surname>Andrews</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Carson</surname><given-names>A</given-names></name>
+</person-group>
+<etal>
+<italic toggle="yes">et al.</italic>
+</etal>
+<article-title>Epidemiologic features of recovery from SARS-CoV-2 infection</article-title>
+<source>
+<italic toggle="yes">JAMA Netw Open</italic>
+</source>
+<year>2024</year>
+<volume>7</volume>
+<fpage>e2417440</fpage>
+<comment>[Published erratum appears in</comment>
+<comment>
+<italic toggle="yes">JAMA Netw Open</italic>
+</comment>
+<comment>7:e2427640.]</comment>
+<pub-id pub-id-type="pmid">38884994</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1001/jamanetworkopen.2024.17440</pub-id><pub-id pub-id-type="pmcid">PMC11184459</pub-id></mixed-citation></ref><ref id="bib28"><label>28.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Subramanian</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Nirantharakumar</surname><given-names>K</given-names></name>
+<name name-style="western"><surname>Hughes</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Myles</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Williams</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Gokhale</surname><given-names>KM</given-names></name>
+</person-group>
+<etal>
+<italic toggle="yes">et al.</italic>
+</etal>
+<article-title>Symptoms and risk factors for long COVID in non-hospitalized adults</article-title>
+<source>
+<italic toggle="yes">Nat Med</italic>
+</source>
+<year>2022</year>
+<volume>28</volume>
+<fpage>1706</fpage>
+<lpage>1714</lpage>
+<pub-id pub-id-type="pmid">35879616</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41591-022-01909-w</pub-id><pub-id pub-id-type="pmcid">PMC9388369</pub-id></mixed-citation></ref><ref id="bib29"><label>29.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Tsampasian</surname><given-names>V</given-names></name>
+<name name-style="western"><surname>Elghazaly</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Chattopadhyay</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Debski</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Naing</surname><given-names>TKP</given-names></name>
+<name name-style="western"><surname>Garg</surname><given-names>P</given-names></name>
+</person-group>
+<etal>
+<italic toggle="yes">et al.</italic>
+</etal>
+<article-title>Risk factors associated with post-COVID-19 condition: a systematic review and meta-analysis</article-title>
+<source>
+<italic toggle="yes">JAMA Intern Med</italic>
+</source>
+<year>2023</year>
+<volume>183</volume>
+<fpage>566</fpage>
+<lpage>580</lpage>
+<pub-id pub-id-type="pmid">36951832</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1001/jamainternmed.2023.0750</pub-id><pub-id pub-id-type="pmcid">PMC10037203</pub-id></mixed-citation></ref><ref id="bib30"><label>30.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Cervia-Hasler</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Brüningk</surname><given-names>SC</given-names></name>
+<name name-style="western"><surname>Hoch</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Fan</surname><given-names>B</given-names></name>
+<name name-style="western"><surname>Muzio</surname><given-names>G</given-names></name>
+<name name-style="western"><surname>Thompson</surname><given-names>RC</given-names></name>
+</person-group>
+<etal>
+<italic toggle="yes">et al.</italic>
+</etal>
+<article-title>Persistent complement dysregulation with signs of thromboinflammation in active long Covid</article-title>
+<source>
+<italic toggle="yes">Science</italic>
+</source>
+<year>2024</year>
+<volume>383</volume>
+<fpage>eadg7942</fpage>
+<pub-id pub-id-type="pmid">38236961</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1126/science.adg7942</pub-id></mixed-citation></ref><ref id="bib31"><label>31.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Varga</surname><given-names>Z</given-names></name>
+<name name-style="western"><surname>Flammer</surname><given-names>AJ</given-names></name>
+<name name-style="western"><surname>Steiger</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Haberecker</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Andermatt</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Zinkernagel</surname><given-names>AS</given-names></name>
+</person-group>
+<etal>
+<italic toggle="yes">et al.</italic>
+</etal>
+<article-title>Endothelial cell infection and endotheliitis in COVID-19</article-title>
+<source>
+<italic toggle="yes">Lancet</italic>
+</source>
+<year>2020</year>
+<volume>395</volume>
+<fpage>1417</fpage>
+<lpage>1418</lpage>
+<pub-id pub-id-type="pmid">32325026</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/S0140-6736(20)30937-5</pub-id><pub-id pub-id-type="pmcid">PMC7172722</pub-id></mixed-citation></ref><ref id="bib32"><label>32.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Liu</surname><given-names>Q</given-names></name>
+<name name-style="western"><surname>Mak</surname><given-names>JWY</given-names></name>
+<name name-style="western"><surname>Su</surname><given-names>Q</given-names></name>
+<name name-style="western"><surname>Yeoh</surname><given-names>YK</given-names></name>
+<name name-style="western"><surname>Lui</surname><given-names>GC</given-names></name>
+<name name-style="western"><surname>Ng</surname><given-names>SSS</given-names></name>
+</person-group>
+<etal>
+<italic toggle="yes">et al.</italic>
+</etal>
+<article-title>Gut microbiota dynamics in a prospective cohort of patients with post-acute COVID-19 syndrome</article-title>
+<source>
+<italic toggle="yes">Gut</italic>
+</source>
+<year>2022</year>
+<volume>71</volume>
+<fpage>544</fpage>
+<lpage>552</lpage>
+<pub-id pub-id-type="pmid">35082169</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1136/gutjnl-2021-325989</pub-id></mixed-citation></ref><ref id="bib33"><label>33.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Wong</surname><given-names>AC</given-names></name>
+<name name-style="western"><surname>Devason</surname><given-names>AS</given-names></name>
+<name name-style="western"><surname>Umana</surname><given-names>IC</given-names></name>
+<name name-style="western"><surname>Cox</surname><given-names>TO</given-names></name>
+<name name-style="western"><surname>Dohnalová</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Litichevskiy</surname><given-names>L</given-names></name>
+</person-group>
+<etal>
+<italic toggle="yes">et al.</italic>
+</etal>
+<article-title>Serotonin reduction in post-acute sequelae of viral infection</article-title>
+<source>
+<italic toggle="yes">Cell</italic>
+</source>
+<year>2023</year>
+<volume>186</volume>
+<fpage>4851</fpage>
+<lpage>4867.e20</lpage>
+<pub-id pub-id-type="pmid">37848036</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.cell.2023.09.013</pub-id><pub-id pub-id-type="pmcid">PMC11227373</pub-id></mixed-citation></ref><ref id="bib34"><label>34.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Smith-Jeffcoat</surname><given-names>SE</given-names></name>
+<name name-style="western"><surname>Mellis</surname><given-names>AM</given-names></name>
+<name name-style="western"><surname>Grijalva</surname><given-names>CG</given-names></name>
+<name name-style="western"><surname>Talbot</surname><given-names>HK</given-names></name>
+<name name-style="western"><surname>Schmitz</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Lutrick</surname><given-names>K</given-names></name>
+</person-group>
+<etal>
+<italic toggle="yes">et al.</italic>
+</etal>
+<collab>RVTN-Sentinel Study Group</collab>
+<article-title>SARS-CoV-2 viral shedding and rapid antigen test performance—Respiratory Virus Transmission Network, November 2022–May 2023</article-title>
+<source>
+<italic toggle="yes">MMWR Morb Mortal Wkly Rep</italic>
+</source>
+<year>2024</year>
+<volume>73</volume>
+<fpage>365</fpage>
+<lpage>371</lpage>
+<pub-id pub-id-type="pmid">38668391</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.15585/mmwr.mm7316a2</pub-id><pub-id pub-id-type="pmcid">PMC11065460</pub-id></mixed-citation></ref><ref id="bib35"><label>35.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Maley</surname><given-names>JH</given-names></name>
+<name name-style="western"><surname>Alba</surname><given-names>GA</given-names></name>
+<name name-style="western"><surname>Barry</surname><given-names>JT</given-names></name>
+<name name-style="western"><surname>Bartels</surname><given-names>MN</given-names></name>
+<name name-style="western"><surname>Fleming</surname><given-names>TK</given-names></name>
+<name name-style="western"><surname>Oleson</surname><given-names>CV</given-names></name>
+</person-group>
+<etal>
+<italic toggle="yes">et al.</italic>
+</etal>
+<article-title>Multi-disciplinary collaborative consensus guidance statement on the assessment and treatment of breathing discomfort and respiratory sequelae in patients with post-acute sequelae of SARS-CoV-2 infection (PASC)</article-title>
+<source>
+<italic toggle="yes">PM R</italic>
+</source>
+<year>2022</year>
+<volume>14</volume>
+<fpage>77</fpage>
+<lpage>95</lpage>
+<pub-id pub-id-type="pmid">34902224</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/pmrj.12744</pub-id></mixed-citation></ref><ref id="bib36"><label>36.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Blitshteyn</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Whiteson</surname><given-names>JH</given-names></name>
+<name name-style="western"><surname>Abramoff</surname><given-names>B</given-names></name>
+<name name-style="western"><surname>Azola</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Bartels</surname><given-names>MN</given-names></name>
+<name name-style="western"><surname>Bhavaraju-Sanka</surname><given-names>R</given-names></name>
+</person-group>
+<etal>
+<italic toggle="yes">et al.</italic>
+</etal>
+<article-title>Multi-disciplinary collaborative consensus guidance statement on the assessment and treatment of autonomic dysfunction in patients with post-acute sequelae of SARS-CoV-2 infection (PASC)</article-title>
+<source>
+<italic toggle="yes">PM R</italic>
+</source>
+<year>2022</year>
+<volume>14</volume>
+<fpage>1270</fpage>
+<lpage>1291</lpage>
+<pub-id pub-id-type="pmid">36169154</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/pmrj.12894</pub-id><pub-id pub-id-type="pmcid">PMC9538426</pub-id></mixed-citation></ref><ref id="bib37"><label>37.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Whiteson</surname><given-names>JH</given-names></name>
+<name name-style="western"><surname>Azola</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Barry</surname><given-names>JT</given-names></name>
+<name name-style="western"><surname>Bartels</surname><given-names>MN</given-names></name>
+<name name-style="western"><surname>Blitshteyn</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Fleming</surname><given-names>TK</given-names></name>
+</person-group>
+<etal>
+<italic toggle="yes">et al.</italic>
+</etal>
+<article-title>Multi-disciplinary collaborative consensus guidance statement on the assessment and treatment of cardiovascular complications in patients with post-acute sequelae of SARS-CoV-2 infection (PASC)</article-title>
+<source>
+<italic toggle="yes">PM R</italic>
+</source>
+<year>2022</year>
+<volume>14</volume>
+<fpage>855</fpage>
+<lpage>878</lpage>
+<pub-id pub-id-type="pmid">35657351</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/pmrj.12859</pub-id><pub-id pub-id-type="pmcid">PMC9347705</pub-id></mixed-citation></ref><ref id="bib38"><label>38.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Fine</surname><given-names>JS</given-names></name>
+<name name-style="western"><surname>Ambrose</surname><given-names>AF</given-names></name>
+<name name-style="western"><surname>Didehbani</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Fleming</surname><given-names>TK</given-names></name>
+<name name-style="western"><surname>Glashan</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Longo</surname><given-names>M</given-names></name>
+</person-group>
+<etal>
+<italic toggle="yes">et al.</italic>
+</etal>
+<article-title>Multi-disciplinary collaborative consensus guidance statement on the assessment and treatment of cognitive symptoms in patients with post-acute sequelae of SARS-CoV-2 infection (PASC)</article-title>
+<source>
+<italic toggle="yes">PM R</italic>
+</source>
+<year>2022</year>
+<volume>14</volume>
+<fpage>96</fpage>
+<lpage>111</lpage>
+<pub-id pub-id-type="pmid">34902226</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/pmrj.12745</pub-id></mixed-citation></ref><ref id="bib39"><label>39.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Melamed</surname><given-names>E</given-names></name>
+<name name-style="western"><surname>Rydberg</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Ambrose</surname><given-names>AF</given-names></name>
+<name name-style="western"><surname>Bhavaraju-Sanka</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Fine</surname><given-names>JS</given-names></name>
+<name name-style="western"><surname>Fleming</surname><given-names>TK</given-names></name>
+</person-group>
+<etal>
+<italic toggle="yes">et al.</italic>
+</etal>
+<article-title>Multidisciplinary collaborative consensus guidance statement on the assessment and treatment of neurologic sequelae in patients with post-acute sequelae of SARS-CoV-2 infection (PASC)</article-title>
+<source>
+<italic toggle="yes">PM R</italic>
+</source>
+<year>2023</year>
+<volume>15</volume>
+<fpage>640</fpage>
+<lpage>662</lpage>
+<pub-id pub-id-type="pmid">36989078</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/pmrj.12976</pub-id></mixed-citation></ref><ref id="bib40"><label>40.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Zeraatkar</surname><given-names>D</given-names></name>
+<name name-style="western"><surname>Ling</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Kirsh</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Jassal</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Shahab</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Movahed</surname><given-names>H</given-names></name>
+</person-group>
+<etal>
+<italic toggle="yes">et al.</italic>
+</etal>
+<article-title>Interventions for the management of long covid (post-covid condition): living systematic review</article-title>
+<source>
+<italic toggle="yes">BMJ</italic>
+</source>
+<year>2024</year>
+<volume>387</volume>
+<fpage>e081318</fpage>
+<pub-id pub-id-type="pmid">39603702</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1136/bmj-2024-081318</pub-id><pub-id pub-id-type="pmcid">PMC11600537</pub-id></mixed-citation></ref><ref id="bib41"><label>41.</label><mixed-citation publication-type="other">
+<collab>World Health Organization</collab>
+<article-title>WHO COVID-19 case definition</article-title>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://iris.who.int/bitstream/handle/10665/360579/WHO-2019-nCoV-Surveillance-Case-Definition-2022.1-eng.pdf" ext-link-type="uri">https://iris.who.int/bitstream/handle/10665/360579/WHO-2019-nCoV-Surveillance-Case-Definition-2022.1-eng.pdf</ext-link>
+</mixed-citation></ref><ref id="bib42"><label>42.</label><mixed-citation publication-type="other">
+<collab>Centers for Disease Control and Prevention</collab>
+<article-title>Underlying conditions and the higher risk for severe COVID-19</article-title>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.cdc.gov/covid/hcp/clinical-care/underlying-conditions.html" ext-link-type="uri">https://www.cdc.gov/covid/hcp/clinical-care/underlying-conditions.html</ext-link>
+<pub-id pub-id-type="pmid">34009770</pub-id></mixed-citation></ref><ref id="bib43"><label>43.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Maruff</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Thomas</surname><given-names>E</given-names></name>
+<name name-style="western"><surname>Cysique</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Brew</surname><given-names>B</given-names></name>
+<name name-style="western"><surname>Collie</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Snyder</surname><given-names>P</given-names></name>
+</person-group>
+<etal>
+<italic toggle="yes">et al.</italic>
+</etal>
+<article-title>Validity of the CogState brief battery: relationship to standardized tests and sensitivity to cognitive impairment in mild traumatic brain injury, schizophrenia, and AIDS dementia complex</article-title>
+<source>
+<italic toggle="yes">Arch Clin Neuropsychol</italic>
+</source>
+<year>2009</year>
+<volume>24</volume>
+<fpage>165</fpage>
+<lpage>178</lpage>
+<pub-id pub-id-type="pmid">19395350</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/arclin/acp010</pub-id></mixed-citation></ref><ref id="bib44"><label>44.</label><mixed-citation publication-type="journal">
+<collab>ATS Committee on Proficiency Standards for Clinical Pulmonary Function Laboratories</collab>
+<article-title>ATS statement: guidelines for the six-minute walk test</article-title>
+<source>
+<italic toggle="yes">Am J Respir Crit Care Med</italic>
+</source>
+<year>2002</year>
+<volume>166</volume>
+<fpage>111</fpage>
+<lpage>117</lpage>
+<comment>[Published erratum appears in</comment>
+<comment>
+<italic toggle="yes">Am J Respir Crit Care Med</italic>
+</comment>
+<comment>193:1185.]</comment>
+<pub-id pub-id-type="pmid">12091180</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1164/ajrccm.166.1.at1102</pub-id></mixed-citation></ref><ref id="bib45"><label>45.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Marrazzo</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Gibbons</surname><given-names>GH</given-names></name>
+<name name-style="western"><surname>Koroshetz</surname><given-names>W</given-names></name>
+</person-group>
+<article-title>Initiating long Covid RECOVERy</article-title>
+<source>
+<italic toggle="yes">Sci Transl Med</italic>
+</source>
+<year>2024</year>
+<volume>16</volume>
+<fpage>eadr9971</fpage>
+<pub-id pub-id-type="pmid">39536123</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1126/scitranslmed.adr9971</pub-id></mixed-citation></ref><ref id="bib46"><label>46.</label><mixed-citation publication-type="other">
+<collab>NIH Researching COVID to Enhance Recovery (RECOVER) Initiative</collab>
+<article-title>Pathobiology studies</article-title>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://recovercovid.org/pathobiology" ext-link-type="uri">https://recovercovid.org/pathobiology</ext-link>
+</mixed-citation></ref><ref id="bib47"><label>47.</label><mixed-citation publication-type="other">
+<collab>NIH Researching COVID to Enhance Recovery (RECOVER) Initiative</collab>
+<article-title>RECOVER clinical trials</article-title>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://trials.recovercovid.org/" ext-link-type="uri">https://trials.recovercovid.org/</ext-link>
+</mixed-citation></ref><ref id="bib48"><label>48.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Woodcock</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>LaVange</surname><given-names>LM</given-names></name>
+</person-group>
+<article-title>Master protocols to study multiple therapies, multiple diseases, or both</article-title>
+<source>
+<italic toggle="yes">N Engl J Med</italic>
+</source>
+<year>2017</year>
+<volume>377</volume>
+<fpage>62</fpage>
+<lpage>70</lpage>
+<pub-id pub-id-type="pmid">28679092</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1056/NEJMra1510062</pub-id></mixed-citation></ref></ref-list></back></article></pmc-articleset>

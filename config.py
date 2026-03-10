@@ -10,7 +10,7 @@ load_dotenv()
 
 # ── 项目路径 ──────────────────────────────────────────────────
 BASE_DIR = Path(__file__).parent
-RAW_DIR = BASE_DIR / "data_pipeline" / "storage" / "raw"
+RAW_DIR = BASE_DIR / "data_pipeline" / "raw"
 METADATA_DIR = RAW_DIR / "metadata"
 FULLTEXT_DIR = RAW_DIR / "fulltext"
 PROGRESS_FILE = RAW_DIR / "progress.json"

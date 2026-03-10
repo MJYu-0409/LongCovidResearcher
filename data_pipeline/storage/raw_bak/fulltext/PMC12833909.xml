@@ -1,0 +1,736 @@
+<?xml version="1.0"  ?><!DOCTYPE pmc-articleset PUBLIC "-//NLM//DTD ARTICLE SET 2.0//EN" "https://dtd.nlm.nih.gov/ncbi/pmc/articleset/nlm-articleset-2.0.dtd"><pmc-articleset><article id="jmv70816" xml:lang="en" article-type="research-article" dtd-version="1.4"><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">J Med Virol</journal-id><journal-id journal-id-type="iso-abbrev">J Med Virol</journal-id><journal-id journal-id-type="pmc-domain-id">379</journal-id><journal-id journal-id-type="pmc-domain">blackwellopen</journal-id><journal-id journal-id-type="publisher-id">JMV</journal-id><journal-title-group><journal-title>Journal of Medical Virology</journal-title></journal-title-group><issn pub-type="ppub">0146-6615</issn><issn pub-type="epub">1096-9071</issn><custom-meta-group><custom-meta><meta-name>pmc-is-collection-domain</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-collection-title</meta-name><meta-value>Wiley Open Access Collection</meta-value></custom-meta></custom-meta-group></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC12833909</article-id><article-id pub-id-type="pmcid-ver">PMC12833909.1</article-id><article-id pub-id-type="pmcaid">12833909</article-id><article-id pub-id-type="pmcaiid">12833909</article-id><article-id pub-id-type="pmid">41586458</article-id><article-id pub-id-type="doi">10.1002/jmv.70816</article-id><article-id pub-id-type="publisher-id">JMV70816</article-id><article-version article-version-type="pmc-version">1</article-version><article-categories><subj-group subj-group-type="overline"><subject>Research Article</subject></subj-group><subj-group subj-group-type="heading"><subject>Research Article</subject></subj-group></article-categories><title-group><article-title>Large‐Scale Psychometric Assessment and Validation of the Modified COVID‐19 Yorkshire Rehabilitation Scale Patient‐Reported Outcome Measure for Long COVID or Post‐COVID Syndrome</article-title></title-group><contrib-group><contrib id="jmv70816-cr-0001" contrib-type="author"><name name-style="western"><surname>Horton</surname><given-names initials="M">Mike</given-names></name><xref rid="jmv70816-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="jmv70816-cr-0002" contrib-type="author" corresp="yes"><name name-style="western"><surname>Smith</surname><given-names initials="AB">Adam B.</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-5750-7772</contrib-id><xref rid="jmv70816-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><address><email>a.b.smith@leeds.ac.uk</email></address></contrib><contrib id="jmv70816-cr-0003" contrib-type="author"><name name-style="western"><surname>Milne</surname><given-names initials="R">Ruairidh</given-names></name><xref rid="jmv70816-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib id="jmv70816-cr-0004" contrib-type="author"><name name-style="western"><surname>Winch</surname><given-names initials="D">Darren</given-names></name><xref rid="jmv70816-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref></contrib><contrib id="jmv70816-cr-0005" contrib-type="author"><name name-style="western"><surname>Rayner</surname><given-names initials="C">Clare</given-names></name><xref rid="jmv70816-aff-0004" ref-type="aff">
+<sup>4</sup>
+</xref></contrib><contrib id="jmv70816-cr-0006" contrib-type="author"><name name-style="western"><surname>Halpin</surname><given-names initials="S">Stephen</given-names></name><xref rid="jmv70816-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="jmv70816-cr-0007" contrib-type="author"><name name-style="western"><surname>O'Connor</surname><given-names initials="R">Rory</given-names></name><xref rid="jmv70816-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="jmv70816-cr-0008" contrib-type="author"><name name-style="western"><surname>Rocha Lawrence</surname><given-names initials="R">Roman</given-names></name><xref rid="jmv70816-aff-0005" ref-type="aff">
+<sup>5</sup>
+</xref></contrib><contrib id="jmv70816-cr-0009" contrib-type="author"><name name-style="western"><surname>Greenwood</surname><given-names initials="DC">Darren C.</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0001-7035-3096</contrib-id><xref rid="jmv70816-aff-0006" ref-type="aff">
+<sup>6</sup>
+</xref></contrib><contrib id="jmv70816-cr-0010" contrib-type="author"><name name-style="western"><surname>Bakerly</surname><given-names initials="ND">Nawar D.</given-names></name><xref rid="jmv70816-aff-0007" ref-type="aff">
+<sup>7</sup>
+</xref><xref rid="jmv70816-aff-0008" ref-type="aff">
+<sup>8</sup>
+</xref></contrib><contrib id="jmv70816-cr-0011" contrib-type="author"><name name-style="western"><surname>Evans</surname><given-names initials="R">Rachael</given-names></name><xref rid="jmv70816-aff-0009" ref-type="aff">
+<sup>9</sup>
+</xref></contrib><contrib id="jmv70816-cr-0012" contrib-type="author"><name name-style="western"><surname>Kwon</surname><given-names initials="J">Joseph</given-names></name><xref rid="jmv70816-aff-0010" ref-type="aff">
+<sup>10</sup>
+</xref></contrib><contrib id="jmv70816-cr-0013" contrib-type="author"><name name-style="western"><surname>Dawes</surname><given-names initials="H">Helen</given-names></name><xref rid="jmv70816-aff-0011" ref-type="aff">
+<sup>11</sup>
+</xref></contrib><contrib id="jmv70816-cr-0014" contrib-type="author"><name name-style="western"><surname>Wood</surname><given-names initials="C">Conor</given-names></name><xref rid="jmv70816-aff-0012" ref-type="aff">
+<sup>12</sup>
+</xref></contrib><contrib id="jmv70816-cr-0015" contrib-type="author"><name name-style="western"><surname>Williams</surname><given-names initials="P">Paul</given-names></name><xref rid="jmv70816-aff-0013" ref-type="aff">
+<sup>13</sup>
+</xref></contrib><contrib id="jmv70816-cr-0016" contrib-type="author"><name name-style="western"><surname>Master</surname><given-names initials="H">Harsha</given-names></name><xref rid="jmv70816-aff-0013" ref-type="aff">
+<sup>13</sup>
+</xref></contrib><contrib id="jmv70816-cr-0017" contrib-type="author"><name name-style="western"><surname>Mansoubi</surname><given-names initials="M">Mae</given-names></name><xref rid="jmv70816-aff-0011" ref-type="aff">
+<sup>11</sup>
+</xref></contrib><contrib id="jmv70816-cr-0018" contrib-type="author"><name name-style="western"><surname>De Kock</surname><given-names initials="JH">Johannes H.</given-names></name><xref rid="jmv70816-aff-0014" ref-type="aff">
+<sup>14</sup>
+</xref></contrib><contrib id="jmv70816-cr-0019" contrib-type="author"><name name-style="western"><surname>Mullard</surname><given-names initials="J">Jordan</given-names></name><xref rid="jmv70816-aff-0015" ref-type="aff">
+<sup>15</sup>
+</xref></contrib><contrib id="jmv70816-cr-0020" contrib-type="author"><name name-style="western"><surname>Ormerod</surname><given-names initials="M">Mike</given-names></name><xref rid="jmv70816-aff-0016" ref-type="aff">
+<sup>16</sup>
+</xref></contrib><contrib id="jmv70816-cr-0021" contrib-type="author"><name name-style="western"><surname>Mir</surname><given-names initials="G">Ghazala</given-names></name><xref rid="jmv70816-aff-0017" ref-type="aff">
+<sup>17</sup>
+</xref></contrib><contrib id="jmv70816-cr-0022" contrib-type="author"><name name-style="western"><surname>Petrou</surname><given-names initials="S">Stavros</given-names></name><xref rid="jmv70816-aff-0010" ref-type="aff">
+<sup>10</sup>
+</xref></contrib><contrib id="jmv70816-cr-0023" contrib-type="author"><name name-style="western"><surname>O'Connor</surname><given-names initials="DB">Daryl B.</given-names></name><xref rid="jmv70816-aff-0018" ref-type="aff">
+<sup>18</sup>
+</xref></contrib><contrib id="jmv70816-cr-0024" contrib-type="author"><name name-style="western"><surname>Sivan</surname><given-names initials="M">Manoj</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-0334-2968</contrib-id><xref rid="jmv70816-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="jmv70816-aff-0019" ref-type="aff">
+<sup>19</sup>
+</xref><xref rid="jmv70816-aff-0020" ref-type="aff">
+<sup>20</sup>
+</xref></contrib><contrib id="jmv70816-cr-0025" contrib-type="author"><collab collab-type="authors">LOCOMOTION Consortium</collab></contrib></contrib-group><aff id="jmv70816-aff-0001">
+<label>
+<sup>1</sup>
+</label>
+<named-content content-type="organisation-division">Leeds Institute of Rheumatic and Musculoskeletal Medicine</named-content>
+<institution>University of Leeds</institution>
+<city>Leeds</city>
+<country country="GB">UK</country>
+</aff><aff id="jmv70816-aff-0002">
+<label>
+<sup>2</sup>
+</label>
+<institution>University of Southampton</institution>
+<city>Southampton</city>
+<country country="GB">UK</country>
+</aff><aff id="jmv70816-aff-0003">
+<label>
+<sup>3</sup>
+</label>
+<institution>Kent &amp; Medway ICB Patient Reference Group</institution>
+<city>Kent</city>
+<country country="GB">UK</country>
+</aff><aff id="jmv70816-aff-0004">
+<label>
+<sup>4</sup>
+</label>
+<named-content content-type="organisation-division">LOCOMOTION Patient Advisory Group</named-content>
+<institution>University of Leeds</institution>
+<city>Leeds</city>
+<country country="GB">UK</country>
+</aff><aff id="jmv70816-aff-0005">
+<label>
+<sup>5</sup>
+</label>
+<institution>ELAROS 24/7 Ltd.</institution>
+<city>Sheffield</city>
+<country country="GB">UK</country>
+</aff><aff id="jmv70816-aff-0006">
+<label>
+<sup>6</sup>
+</label>
+<named-content content-type="organisation-division">Leeds Institute for Data Analytics</named-content>
+<institution>University of Leeds</institution>
+<city>Leeds</city>
+<country country="GB">UK</country>
+</aff><aff id="jmv70816-aff-0007">
+<label>
+<sup>7</sup>
+</label>
+<institution>Northern Care Alliance</institution>
+<city>Bury</city>
+<country country="GB">UK</country>
+</aff><aff id="jmv70816-aff-0008">
+<label>
+<sup>8</sup>
+</label>
+<institution>Manchester Metropolitan University</institution>
+<city>Manchester</city>
+<country country="GB">UK</country>
+</aff><aff id="jmv70816-aff-0009">
+<label>
+<sup>9</sup>
+</label>
+<named-content content-type="organisation-division">Department of Respiratory Sciences</named-content>
+<institution>University of Leicester</institution>
+<city>Leicester</city>
+<country country="GB">UK</country>
+</aff><aff id="jmv70816-aff-0010">
+<label>
+<sup>10</sup>
+</label>
+<named-content content-type="organisation-division">Nuffield Department of Primary Care Health Sciences</named-content>
+<institution>University of Oxford</institution>
+<city>Oxford</city>
+<country country="GB">UK</country>
+</aff><aff id="jmv70816-aff-0011">
+<label>
+<sup>11</sup>
+</label>
+<named-content content-type="organisation-division">Medical School, NIHR Exeter Biomedical Research Centre, Faculty of Health and Life Sciences</named-content>
+<institution>University of Exeter</institution>
+<city>Exeter</city>
+<country country="GB">UK</country>
+</aff><aff id="jmv70816-aff-0012">
+<label>
+<sup>12</sup>
+</label>
+<institution>Birmingham Community Healthcare NHS Foundation Trust</institution>
+<city>Aston</city>
+<country country="GB">UK</country>
+</aff><aff id="jmv70816-aff-0013">
+<label>
+<sup>13</sup>
+</label>
+<institution>Hertfordshire Community NHS Trust</institution>
+<city>Stevenage</city>
+<country country="GB">UK</country>
+</aff><aff id="jmv70816-aff-0014">
+<label>
+<sup>14</sup>
+</label>
+<named-content content-type="organisation-division">NHS Highland COVID Recovery Service, Faculty of Health Sciences</named-content>
+<institution>North West University</institution>
+<city>Inverness</city>
+<country country="GB">UK</country>
+</aff><aff id="jmv70816-aff-0015">
+<label>
+<sup>15</sup>
+</label>
+<named-content content-type="organisation-division">Faculty of Medical Sciences</named-content>
+<institution>Newcastle University</institution>
+<city>Newcastle upon Tyne</city>
+<country country="GB">UK</country>
+</aff><aff id="jmv70816-aff-0016">
+<label>
+<sup>16</sup>
+</label>
+<institution>Long Covid Support (UK Registered Charity: 1198938)</institution>
+<city>London</city>
+<country country="GB">UK</country>
+</aff><aff id="jmv70816-aff-0017">
+<label>
+<sup>17</sup>
+</label>
+<named-content content-type="organisation-division">School of Medicine</named-content>
+<institution>University of Leeds</institution>
+<city>Leeds</city>
+<country country="GB">UK</country>
+</aff><aff id="jmv70816-aff-0018">
+<label>
+<sup>18</sup>
+</label>
+<named-content content-type="organisation-division">School of Psychology</named-content>
+<institution>University of Leeds</institution>
+<city>Leeds</city>
+<country country="GB">UK</country>
+</aff><aff id="jmv70816-aff-0019">
+<label>
+<sup>19</sup>
+</label>
+<named-content content-type="organisation-division">COVID Rehabilitation Service</named-content>
+<institution>Leeds Community Healthcare NHS Trust</institution>
+<city>Leeds</city>
+<country country="GB">UK</country>
+</aff><aff id="jmv70816-aff-0020">
+<label>
+<sup>20</sup>
+</label>
+<named-content content-type="organisation-division">National Demonstration Centre of Rehabilitation Medicine</named-content>
+<institution>Leeds Teaching Hospitals NHS Trust</institution>
+<city>Leeds</city>
+<country country="GB">UK</country>
+</aff><author-notes><corresp id="correspondenceTo">
+<label>*</label>
+<bold>Correspondence:</bold> Adam B. Smith (<email>a.b.smith@leeds.ac.uk</email>)<break/>
+</corresp></author-notes><pub-date pub-type="epub"><day>26</day><month>1</month><year>2026</year></pub-date><pub-date pub-type="ppub"><month>2</month><year>2026</year></pub-date><volume>98</volume><issue seq="20">2</issue><issue-id pub-id-type="pmc-issue-id">506020</issue-id><issue-id pub-id-type="doi">10.1002/jmv.v98.2</issue-id><elocation-id>e70816</elocation-id><history><date date-type="rev-recd"><day>28</day><month>11</month><year>2025</year></date><date date-type="received"><day>30</day><month>6</month><year>2025</year></date><date date-type="accepted"><day>12</day><month>1</month><year>2026</year></date></history><pub-history><event event-type="pmc-release"><date><day>26</day><month>01</month><year>2026</year></date></event><event event-type="pmc-live"><date><day>27</day><month>01</month><year>2026</year></date></event><event event-type="pmc-last-change"><date iso-8601-date="2026-01-29 09:25:13.570"><day>29</day><month>01</month><year>2026</year></date></event></pub-history><permissions><copyright-statement content-type="article-copyright">© 2026 The Author(s). <italic toggle="yes">Journal of Medical Virology</italic> published by Wiley Periodicals LLC.</copyright-statement><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>This is an open access article under the terms of the <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pmc-pdf" xlink:href="JMV-98-e70816.pdf"/><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pdf" xlink:href="file:JMV-98-e70816.pdf"/><abstract><title>ABSTRACT</title><p>The C19‐YRS was the first condition‐specific for long COVID/post‐COVID syndrome. Although the original C19‐YRS evolved to the modified version (C19‐YRSm) based on psychometric evidence, clinical content relevance, as well as feedback from patients and healthcare professionals, it has not been validated through Rasch analysis. The study aim was to psychometrically assess and validate the C19‐YRSm using newly collected data from a large‐scale, multicenter study (LOCOMOTION). In total, 1278 patients (67% Female; mean age = 48.6, SD 12.7) digitally completed the C19‐YRSm. The psychometric properties of the C19‐YRSm Symptom Severity (SS) and Functional Disability (FD) subscales were assessed using a Rasch Measurement Theory framework, assessing for individual item model fit, targeting, internal consistency reliability, unidimensionality, local dependency (LD), response category functioning and differential item functioning (DIF) by age group, sex and ethnicity. Rasch analysis revealed robust psychometric properties of both subscales, with each demonstrating unidimensionality, appropriate response category structuring, no floor or ceiling effects, and minimal LD and DIF. Both subscales also displayed good targeting and reliability (SS: Person Separation Index (PSI) = 0.81, Cronbach's <italic toggle="yes">α </italic>= 0.82; FD: PSI = 0.76, Cronbach's <italic toggle="yes">α</italic> = 0.81). Although some minor anomalies are apparent, the modifications to the original C19‐YRS have strengthened its measurement characteristics and its clinical and conceptual relevance.</p><p>
+<bold>Trial Registration:</bold> <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmc:clinical-trial" xlink:href="NCT05057260">NCT05057260</ext-link>, ISRCTN15022307</p></abstract><kwd-group><kwd id="jmv70816-kwd-0001">C19‐YRSm</kwd><kwd id="jmv70816-kwd-0002">long COVID</kwd><kwd id="jmv70816-kwd-0003">patient‐reported outcome</kwd><kwd id="jmv70816-kwd-0004">post‐COVID Syndrome</kwd></kwd-group><funding-group><award-group id="funding-0001"><funding-source>
+<institution-wrap><institution>National Institute for Health and Care Research award</institution></institution-wrap>
+</funding-source><award-id>COV‐LT2‐0016</award-id></award-group></funding-group><counts><fig-count count="1"/><table-count count="5"/><page-count count="11"/><word-count count="6893"/></counts><custom-meta-group><custom-meta><meta-name>pmc-status-qastatus</meta-name><meta-value>0</meta-value></custom-meta><custom-meta><meta-name>pmc-status-live</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-status-embargo</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-status-released</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-access</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-legally-suppressed</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-pdf</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-supplement</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-pdf-only</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-suppress-copyright</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-real-version</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-scanned-article</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-in-epmc</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-license-ref</meta-name><meta-value>CC BY</meta-value></custom-meta><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>February 2026</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:6.6.8 mode:remove_FC converted:26.01.2026</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="jmv70816-cit-0044">
+<string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Horton</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A. B.</given-names>
+<surname>Smith</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Milne</surname>
+</string-name>, et al., “<article-title>Large‐Scale Psychometric Assessment and Validation of the Modified COVID‐19 Yorkshire Rehabilitation Scale Patient‐Reported Outcome Measure for Long COVID or Post‐COVID Syndrome</article-title>,” <source>Journal of Medical Virology</source>
+<volume>98</volume> (<year>2026</year>): <fpage>1</fpage>–<lpage>11</lpage>, <pub-id pub-id-type="doi">10.1002/jmv.70816</pub-id>.</mixed-citation>
+</p></notes></front><body><sec id="jmv70816-sec-0010"><label>1</label><title>Introduction</title><p>Long Covid (LC) or post COVID‐19 syndrome (PCS) is a multisystem clinical syndrome where symptoms persist for more than 3 months after acute infection with SARS‐CoV‐2 [<xref rid="jmv70816-bib-0001" ref-type="bibr">1</xref>]. The prevalence of the condition is estimated to be ~3.3% (2 million cases) in the United Kingdom alone [<xref rid="jmv70816-bib-0002" ref-type="bibr">2</xref>] and up to 36% worldwide [<xref rid="jmv70816-bib-0003" ref-type="bibr">3</xref>].</p><p>Common symptoms include fatigue, shortness of breath, cognitive impairment, muscle and joint pain, chest pain, palpitations, persistent loss of smell and taste, gastrointestinal upset, and headache [<xref rid="jmv70816-bib-0004" ref-type="bibr">4</xref>]. Symptoms may fluctuate [<xref rid="jmv70816-bib-0005" ref-type="bibr">5</xref>] and ~20% of those suffering with LC describe their symptoms as severe [<xref rid="jmv70816-bib-0002" ref-type="bibr">2</xref>]. For some individuals, symptoms may persist for more than 4 years (persistent LC) following the initial COVID‐19 infection [<xref rid="jmv70816-bib-0006" ref-type="bibr">6</xref>]. This protracted course of LC leads to a significant compromise on individuals' ability to work and conduct day‐to‐day tasks and can result in severely reduced health‐related quality of life (HRQoL) [<xref rid="jmv70816-bib-0007" ref-type="bibr">7</xref>, <xref rid="jmv70816-bib-0008" ref-type="bibr">8</xref>, <xref rid="jmv70816-bib-0009" ref-type="bibr">9</xref>].</p><p>Measuring symptom burden, functional disability (or ability) and HRQoL through patient‐reported outcome measures (PROMs) is therefore crucial to understand the impacts on health, condition trajectories, and the cost‐effectiveness of interventions. There have been a number of condition‐specific PROMs developed for the condition during or after the pandemic [<xref rid="jmv70816-bib-0010" ref-type="bibr">10</xref>, <xref rid="jmv70816-bib-0011" ref-type="bibr">11</xref>, <xref rid="jmv70816-bib-0012" ref-type="bibr">12</xref>].</p><p>The COVID‐19 Yorkshire Rehabilitation Scale (C19‐YRS) is the first LC condition‐specific PROM reported in the literature [<xref rid="jmv70816-bib-0013" ref-type="bibr">13</xref>]. The scale was developed to cover all of the 2001 WHO International Classification of Functioning, Disability and Health (ICF) framework [<xref rid="jmv70816-bib-0014" ref-type="bibr">14</xref>] and was designed to capture the symptoms and functional problems associated with LC [<xref rid="jmv70816-bib-0013" ref-type="bibr">13</xref>]. The instrument has been widely employed in primary care and community settings [<xref rid="jmv70816-bib-0015" ref-type="bibr">15</xref>, <xref rid="jmv70816-bib-0016" ref-type="bibr">16</xref>, <xref rid="jmv70816-bib-0017" ref-type="bibr">17</xref>], rehabilitation interventions [<xref rid="jmv70816-bib-0018" ref-type="bibr">18</xref>], and post‐COVID epidemiological studies [<xref rid="jmv70816-bib-0019" ref-type="bibr">19</xref>, <xref rid="jmv70816-bib-0020" ref-type="bibr">20</xref>]. Following an initial psychometric analysis of the C19‐YRS [<xref rid="jmv70816-bib-0021" ref-type="bibr">21</xref>], psychometric and clinical evidence, and feedback from patients and healthcare professionals was subsequently integrated, culminating in a modified version of the instrument (C19‐YRSm) [<xref rid="jmv70816-bib-0022" ref-type="bibr">22</xref>]. The C19‐YRSm has since undergone further classical psychometric validation and has been shown, for instance, to have good internal reliability and convergent validity in a Croatian patient population [<xref rid="jmv70816-bib-0023" ref-type="bibr">23</xref>]. More recent validation has demonstrated the C19‐YRSm to have good psychometric properties [<xref rid="jmv70816-bib-0024" ref-type="bibr">24</xref>], in terms of internal consistency and test–retest reliability, as well as discriminant and convergent validity. Factor analysis supported the instrument's factor structure. Furthermore, an exploratory minimal important difference (MID) and minimal clinically important difference (MCID) were determined for the subscale scores [<xref rid="jmv70816-bib-0024" ref-type="bibr">24</xref>].</p><p>The psychometric properties of the modified C19‐YRSm have not yet been assessed using Rasch measurement theory (RMT). In contrast to classical psychometrics, which are focused on the test‐level, that is, the instrument as a whole, RMT allows for item‐level analysis. This enables the identification of individual PROM items that may potentially require modification (or removal) in order to improve the measurement properties of a PROM. The aim of this study was therefore to use Rasch measurement methodology to psychometrically assess and further validate the C19‐YRSm using data collected from a large‐scale, multicenter study (LOng COvid Multidisciplinary consortium Optimising Treatments and servIces, LOCOMOTION) [<xref rid="jmv70816-bib-0025" ref-type="bibr">25</xref>].</p></sec><sec sec-type="materials-and-methods" id="jmv70816-sec-0020"><label>2</label><title>Materials and Methods</title><sec id="jmv70816-sec-0030"><label>2.1</label><title>C19‐YRSm</title><p>The C19‐YRSm [<xref rid="jmv70816-bib-0022" ref-type="bibr">22</xref>] consists of four separate subscales: Symptom Severity (SS), Functional Disability (FD), Other Symptoms (OS), and Overall Health (OH). The OH subscale is a single item, scored on a 0–10 numeric rating subscale, with a score of 0 representing “worst health” and 10 being “best health.” Given the OH is a single‐item subscale it cannot be analyzed using the Rasch model. The OS subscale consists of a checklist of 25 additional symptoms, where respondents select the symptoms that they have experienced over the last 7 days based on yes/no options. The analysis of the OS subscale is not presented here.</p><p>For the remaining subscales, both the SS (26 items condensed to 10 core items, see below) and FD (5 items) are summed individually to form total scores for each subscale. All items on the SS and FD subscales are scored on a 4‐point subscale (0 = <italic toggle="yes">No problem</italic>; 1 = <italic toggle="yes">Mild problem</italic>; 2 = <italic toggle="yes">Moderate problem</italic>; 3 = <italic toggle="yes">Severe problem</italic>) where a higher score represents a higher severity of the problem, that is, worse symptoms or worse functional disability.</p><p>Some of the SS subscale core items are grouped within subsets. For these items, the maximum value observed within the subset is selected as the representative value. This scoring step is taken due to the inherent (local) dependency between the items within a subset, as observed during the modification of the original C19‐YRS [<xref rid="jmv70816-bib-0020" ref-type="bibr">20</xref>]. Taking the maximum score from within a set avoids local dependency (LD), whilst maintaining the clinical utility of the individual component items. The sections concerning breathlessness, cough/throat sensitivity, smell/taste, pain/discomfort, cognition, palpitation/dizziness, and anxiety/mood each have a maximum score that is taken from across multiple items in the section.</p></sec><sec id="jmv70816-sec-0040"><label>2.2</label><title>Data Collection</title><p>Data collection was carried out as part of the LOCOMOTION study [<xref rid="jmv70816-bib-0025" ref-type="bibr">25</xref>] (NIHR Ref: COV‐LT2‐0016), with the C19‐YRSm data collected routinely within 10 participating LC services across the United Kingdom between December 2021 and October 2023. Participants with a clinical diagnosis of LC by a qualified healthcare professional were National Institute for Health and Care Excellence (NICE) eligible for inclusion in one of the ten participating centers. Participants had to meet the UK NICE case definition, that is, one or more persistent symptoms developed during or postinfection that are consistent with COVID‐19 and not explained by alternative diagnoses [<xref rid="jmv70816-bib-0026" ref-type="bibr">26</xref>]. Consent and clinical data were collected using the ELAROS digital PROMs platform [<xref rid="jmv70816-bib-0027" ref-type="bibr">27</xref>]. Ethics approval for the LOCOMOTION study was obtained from the Bradford and Leeds Research Ethics Committee on behalf of Health Research Authority and Health and Care Research Wales (Reference: 21/YH/0276).</p></sec><sec id="jmv70816-sec-0050"><label>2.3</label><title>Rasch Analysis</title><p>Rasch analysis of the data [<xref rid="jmv70816-bib-0026" ref-type="bibr">26</xref>, <xref rid="jmv70816-bib-0028" ref-type="bibr">28</xref>] was undertaken using RUMM2030 software [<xref rid="jmv70816-bib-0029" ref-type="bibr">29</xref>], and carried out separately for the SS subscale (10 items) and the FD subscale (5 items). Key criteria for the RMT are (1) Unidimensionality—whether the items represent a single factor, (2) Item fit—whether the items fit the Rasch model, (3) Local dependence–the absence of any further association between items beyond that explained by the underlying trait, (4) Response category functioning (or threshold disordering)—requiring the latent trait to increase monotonically across item response categories, and (5) Item invariance (or absence of item bias or differential item functioning (DIF))—requiring item properties to be invariant to subgroup characteristics (e.g., gender, ethnicity) where latent trait levels are equivalent.
+<list list-type="simple"><list-item><label>1.</label><p>Unidimensionality was evaluated by a series of <italic toggle="yes">t</italic>‐tests [<xref rid="jmv70816-bib-0030" ref-type="bibr">30</xref>], with multidimensionality indicated if independent subsets of items delivered significantly different person estimates, and the lower bound 95% CI percentage of significantly different <italic toggle="yes">t</italic>‐tests was &gt; 5%.</p></list-item><list-item><label>2.</label><p>The Rasch analytic process included several standard tests of fit, covering both the overall subscale and item‐level fit. All items were assessed individually for fit to the Rasch model (Partial Credit Model) [<xref rid="jmv70816-bib-0031" ref-type="bibr">31</xref>] within the subscale item set to assess whether each item contributes to the underlying construct. Item misfit was indicated where the Bonferroni‐adjusted χ<sup>2</sup>
+<italic toggle="yes">p</italic> value was statistically significant for an item and the standardized (<italic toggle="yes">z</italic>‐score) fit‐residuals fell outside ±2.5 [<xref rid="jmv70816-bib-0032" ref-type="bibr">32</xref>, <xref rid="jmv70816-bib-0033" ref-type="bibr">33</xref>].</p></list-item><list-item><label>3.</label><p>Tests of LD were carried out to determine whether any items in the subscale were more closely related than is explained by the underlying construct; LD was indicated using a residual correlation (Q3 value) criterion cut point of 0.2 above average residual correlation [<xref rid="jmv70816-bib-0034" ref-type="bibr">34</xref>].</p></list-item><list-item><label>4.</label><p>Response category functioning was assessed to determine whether the response structure of the items was operating in the intended manner. A functional 0–3 response category structure for each item would be indicated by sequential response thresholds (the crossover points between subsequent response categories) on the underlying (logit) subscale [<xref rid="jmv70816-bib-0035" ref-type="bibr">35</xref>].</p></list-item><list-item><label>5.</label><p>Item bias was assessed through uniform and nonuniform DIF testing by sex (male/female), age group (16–49; 50+ years), and ethnicity, with significant DIF indicated at a Bonferroni‐adjusted ANOVA <italic toggle="yes">p</italic> value.</p></list-item></list>
+</p><p>Furthermore, reliability indices were taken as the Person Separation Index (PSI), and the Cronbach's <italic toggle="yes">α</italic> values, and the scale‐sample targeting was assessed graphically through the relative distribution of item and person locations, along with the calculation of floor and ceiling effects. When the Rasch model assumptions are satisfied, the sufficiency of the raw score allows for the transformation into a linear, interval‐level transformation [<xref rid="jmv70816-bib-0033" ref-type="bibr">33</xref>].</p></sec><sec id="jmv70816-sec-0060"><label>2.4</label><title>Cross‐Validation</title><p>In order to assess the replication of results across independent samples, the complete sample was randomly split into three equally sized subsamples which were examined separately. This strengthens the analysis through replication, whilst avoiding the overpowering of RUMM fit statistics and misinterpretation that can occur with sample sizes &gt; 500 [<xref rid="jmv70816-bib-0036" ref-type="bibr">36</xref>, <xref rid="jmv70816-bib-0037" ref-type="bibr">37</xref>]. The subsamples were used to assess Rasch‐based individual item fit and DIF. However, the complete sample was utilized to assess response category functioning, targeting, LD, and the reliability indices, as these tests operate better with the precision afforded by larger sample sizes. To allow for brevity of reporting, only the results of the first subsample are presented within the manuscript.</p></sec><sec id="jmv70816-sec-0070"><label>2.5</label><title>Working Group/Patient Advisory Group</title><p>All empirical results were reported back to a working group made up of clinicians, patients, and social scientists with expertise in PROMs and psychometrics, and additionally to the wider LOCOMOTION team, for sense‐checking from both the patient and clinical context. Results were also reported back to a patient advisory group (PAG), and any potential further modifications were discussed within the working group and the PAG, with an emphasis on the practical implications of any potential change in the instrument.</p></sec></sec><sec sec-type="results" id="jmv70816-sec-0080"><label>3</label><title>Results</title><sec id="jmv70816-sec-0090"><label>3.1</label><title>Sample</title><p>Data from 1278 patients were included in the study. The mean age was 48.6 (standard deviation, SD: 12.7) years, predominantly female (67%) and White (79%). The mean time since infection was 418 (SD: 268.7) days. Levels of pre‐COVID comorbidity were low with the most commonly reported being mental health (17%) and respiratory conditions (10%). Vaccination status was recorded for only 45% of the sample. The key demographic characteristics of the sample are presented in Table <xref rid="jmv70816-tbl-0001" ref-type="table">1</xref>. The data for the presented cross‐validation subsample were from 423 patients.</p><table-wrap position="float" id="jmv70816-tbl-0001" content-type="Table" orientation="portrait"><label>Table 1</label><caption><p>Demographic characteristics of the sample.</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" align="left" span="1"/><col style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" align="center" span="1"/><col style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" align="center" span="1"/><col style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" align="center" span="1"/><thead valign="bottom"><tr valign="bottom"><th rowspan="2" align="left" valign="bottom" colspan="1"/><th align="center" valign="bottom" rowspan="1" colspan="1">All<xref rid="jmv70816-tbl1-note-0001" ref-type="table-fn">
+<sup>a</sup>
+</xref> (T1)</th><th align="center" valign="bottom" rowspan="1" colspan="1">Nonhospitalized</th><th align="center" valign="bottom" rowspan="1" colspan="1">Hospitalized</th></tr><tr valign="bottom" style="border-bottom:solid 1px #000000"><th align="center" valign="bottom" rowspan="1" colspan="1">1278</th><th align="center" valign="bottom" rowspan="1" colspan="1">1157</th><th align="center" valign="bottom" rowspan="1" colspan="1">120</th></tr></thead><tbody valign="top"><tr><td align="left" valign="top" rowspan="1" colspan="1">Female <italic toggle="yes">n</italic> (%)</td><td align="center" valign="top" rowspan="1" colspan="1">856 (67%)</td><td align="center" valign="top" rowspan="1" colspan="1">779 (67.3%)</td><td align="center" valign="top" rowspan="1" colspan="1">76 (63.3%)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Mean age in years (SD)</td><td align="center" valign="top" rowspan="1" colspan="1">48.6 (12.7)</td><td align="center" valign="top" rowspan="1" colspan="1">48.2 (12.6)</td><td align="center" valign="top" rowspan="1" colspan="1">52.5 (13.2)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Mean weight in kg (SD)</td><td align="center" valign="top" rowspan="1" colspan="1">82.9 (22.5) (<italic toggle="yes">n</italic> = 249)</td><td align="center" valign="top" rowspan="1" colspan="1">81.5 (22.1) (<italic toggle="yes">n</italic> = 224)</td><td align="center" valign="top" rowspan="1" colspan="1">94.9 (24.2) (<italic toggle="yes">n</italic> =24)</td></tr><tr><td align="left" colspan="4" valign="top" rowspan="1">Ethnicity <italic toggle="yes">n</italic> (%)</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">White</td><td align="center" valign="top" rowspan="1" colspan="1">1006 (78.7%)</td><td align="center" valign="top" rowspan="1" colspan="1">906 (78.3%)</td><td align="center" valign="top" rowspan="1" colspan="1">99 (82.5%)</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Black</td><td align="center" valign="top" rowspan="1" colspan="1">23 (1.8%)</td><td align="center" valign="top" rowspan="1" colspan="1">19 (1.6%)</td><td align="center" valign="top" rowspan="1" colspan="1">4 (3.3%)</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Asian</td><td align="center" valign="top" rowspan="1" colspan="1">72 (5.6%)</td><td align="center" valign="top" rowspan="1" colspan="1">61 (5.3%)</td><td align="center" valign="top" rowspan="1" colspan="1">11 (9.2%)</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Mixed/other</td><td align="center" valign="top" rowspan="1" colspan="1">43 (3.3%)</td><td align="center" valign="top" rowspan="1" colspan="1">41 (3.5%)</td><td align="center" valign="top" rowspan="1" colspan="1">2 (1.7%)</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Missing</td><td align="center" valign="top" rowspan="1" colspan="1">134 (10.5%)</td><td align="center" valign="top" rowspan="1" colspan="1">130 (11.2%)</td><td align="center" valign="top" rowspan="1" colspan="1">4 (3.3%)</td></tr><tr><td align="left" colspan="4" valign="top" rowspan="1">Smoking status <italic toggle="yes">n</italic> (%)</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Never smoked</td><td align="center" valign="top" rowspan="1" colspan="1">316 (24.7%)</td><td align="center" valign="top" rowspan="1" colspan="1">285 (24.7%)</td><td align="center" valign="top" rowspan="1" colspan="1">31 (25.9%)</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Current smoker</td><td align="center" valign="top" rowspan="1" colspan="1">27 (2%)</td><td align="center" valign="top" rowspan="1" colspan="1">25 (2.1%)</td><td align="center" valign="top" rowspan="1" colspan="1">2 (1.6%)</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Ex‐smoker</td><td align="center" valign="top" rowspan="1" colspan="1">123 (9.6%)</td><td align="center" valign="top" rowspan="1" colspan="1">105 (9.1%)</td><td align="center" valign="top" rowspan="1" colspan="1">17 (14.2%)</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Missing</td><td align="center" valign="top" rowspan="1" colspan="1">812 (63.5%)</td><td align="center" valign="top" rowspan="1" colspan="1">742 (64.1%)</td><td align="center" valign="top" rowspan="1" colspan="1">70 (58.3%)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Admitted to hospital <italic toggle="yes">n</italic> (%)</td><td align="center" valign="top" rowspan="1" colspan="1">120 (9.4%)</td><td align="center" valign="top" rowspan="1" colspan="1">0 (0%)</td><td align="center" valign="top" rowspan="1" colspan="1">120 (100%)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Mean days since infection (SD)<xref rid="jmv70816-tbl1-note-0001" ref-type="table-fn">a</xref>
+</td><td align="center" valign="top" rowspan="1" colspan="1">418.1 (268.7)</td><td align="center" valign="top" rowspan="1" colspan="1">408.3 (268.4)</td><td align="center" valign="top" rowspan="1" colspan="1">484.9 (257.7)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Vaccination status <italic toggle="yes">n</italic> (%)</td><td align="center" valign="top" rowspan="1" colspan="1">465 (46%)</td><td align="center" valign="top" rowspan="1" colspan="1">418 (45%)</td><td align="center" valign="top" rowspan="1" colspan="1">46 (46%)</td></tr><tr><td align="left" colspan="4" valign="top" rowspan="1">Pre‐COVID comorbidity <italic toggle="yes">n</italic> (%)</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Mental health conditions</td><td align="center" valign="top" rowspan="1" colspan="1">177 (17%)</td><td align="center" valign="top" rowspan="1" colspan="1">157 (17%)</td><td align="center" valign="top" rowspan="1" colspan="1">19 (19%)</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Respiratory</td><td align="center" valign="top" rowspan="1" colspan="1">101 (10%)</td><td align="center" valign="top" rowspan="1" colspan="1">88 (10%)</td><td align="center" valign="top" rowspan="1" colspan="1">13 (13%)</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Cardiovascular</td><td align="center" valign="top" rowspan="1" colspan="1">29 (3%)</td><td align="center" valign="top" rowspan="1" colspan="1">24 (3%)</td><td align="center" valign="top" rowspan="1" colspan="1">5 (5%)</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Diabetes</td><td align="center" valign="top" rowspan="1" colspan="1">32 (3%)</td><td align="center" valign="top" rowspan="1" colspan="1">25 (3%)</td><td align="center" valign="top" rowspan="1" colspan="1">7 (7%)</td></tr></tbody></table><table-wrap-foot><fn id="jmv70816-tbl1-note-0001"><label>
+<sup>a</sup>
+</label><p>
+<italic toggle="yes">n </italic>= 1021.</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &amp; Sons, Ltd.</copyright-holder></permissions></table-wrap></sec><sec id="jmv70816-sec-0100"><label>3.2</label><title>Rasch Analysis</title><sec id="jmv70816-sec-0110"><label>3.2.1</label><title>Symptom Severity Subscale: Unidimensionality, Reliability, Floor/Ceiling, and Targeting</title><p>A summary of the psychometric properties of both subscales is presented in Table <xref rid="jmv70816-tbl-0002" ref-type="table">2</xref>, including results for the full sample and for the cross‐validation subsample. The results indicated that the SS subscale was unidimensional, although the percentage of significant <italic toggle="yes">t</italic>‐tests fell just outside the lower bound 95% CI, 5% criterion (5.1%) on the full sample. A good level of internal‐consistency reliability (0.82) was displayed with no floor or ceiling effect (see Table <xref rid="jmv70816-tbl-0002" ref-type="table">2</xref> and Figure <xref rid="jmv70816-fig-0001" ref-type="fig">1</xref>).</p><table-wrap position="float" id="jmv70816-tbl-0002" content-type="Table" orientation="portrait"><label>Table 2</label><caption><p>Overview of psychometric properties of the Symptom Severity (SS) and Functional Disability (FD) subscales.</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" align="left" span="1"/><col style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" align="center" span="1"/><col style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" align="center" span="1"/><col style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" align="center" span="1"/><col style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" align="center" span="1"/><col style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" align="center" span="1"/><thead valign="bottom"><tr valign="bottom"><th align="left" valign="bottom" rowspan="1" colspan="1"/><th colspan="2" style="border-bottom:solid 1px #000000" align="center" valign="bottom" rowspan="1">Symptom Severity (SS)</th><th align="center" colspan="2" style="border-bottom:solid 1px #000000" valign="bottom" rowspan="1">Functional Disability (FD)</th><th align="center" valign="bottom" rowspan="1" colspan="1"/></tr><tr valign="bottom" style="border-bottom:solid 1px #000000"><th align="left" valign="bottom" rowspan="1" colspan="1"/><th align="center" valign="bottom" rowspan="1" colspan="1">Full sample</th><th align="center" valign="bottom" rowspan="1" colspan="1">Sample A</th><th align="center" valign="bottom" rowspan="1" colspan="1">Full sample</th><th align="center" valign="bottom" rowspan="1" colspan="1">Sample A</th><th align="center" valign="bottom" rowspan="1" colspan="1">Target values</th></tr></thead><tbody valign="top"><tr><td align="left" valign="top" rowspan="1" colspan="1">Total <italic toggle="yes">n</italic> − (extremes) = valid <italic toggle="yes">n</italic>
+</td><td align="center" valign="top" rowspan="1" colspan="1">1268 − (11) = 1257</td><td align="center" valign="top" rowspan="1" colspan="1">423 − (3) = 420</td><td align="center" valign="top" rowspan="1" colspan="1">1268 − (63) = 1205</td><td align="center" valign="top" rowspan="1" colspan="1">423 − (17) = 406</td><td align="center" valign="top" rowspan="1" colspan="1"/></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Number of items</td><td align="center" valign="top" rowspan="1" colspan="1">10</td><td align="center" valign="top" rowspan="1" colspan="1">10</td><td align="center" valign="top" rowspan="1" colspan="1">5</td><td align="center" valign="top" rowspan="1" colspan="1">5</td><td align="center" valign="top" rowspan="1" colspan="1"/></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Overall Scale Fit (χ<sup>2</sup>
+<italic toggle="yes">p</italic>)</td><td align="center" valign="top" rowspan="1" colspan="1">
+<italic toggle="yes">p</italic> &lt; 0.001</td><td align="center" valign="top" rowspan="1" colspan="1">
+<italic toggle="yes">p</italic> &lt; 0.001</td><td align="center" valign="top" rowspan="1" colspan="1">
+<italic toggle="yes">p</italic> &lt; 0.001</td><td align="center" valign="top" rowspan="1" colspan="1">
+<italic toggle="yes">p</italic> = 0.026</td><td align="center" valign="top" rowspan="1" colspan="1">
+<italic toggle="yes">p</italic> &gt; 0.01</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Individual item fit residuals</td><td align="center" valign="top" rowspan="1" colspan="1">6/10 out of range</td><td align="center" valign="top" rowspan="1" colspan="1">2/10 out of range</td><td align="center" valign="top" rowspan="1" colspan="1">2/5 out of range</td><td align="center" valign="top" rowspan="1" colspan="1">1/5 out of range</td><td align="center" valign="top" rowspan="1" colspan="1">Within ±2.5</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Individual item fit (χ<sup>2</sup>
+<italic toggle="yes">p</italic>)</td><td align="center" valign="top" rowspan="1" colspan="1">7/10 out of range</td><td align="center" valign="top" rowspan="1" colspan="1">4/10 out of range</td><td align="center" valign="top" rowspan="1" colspan="1">3/5 out of range</td><td align="center" valign="top" rowspan="1" colspan="1">All in range</td><td align="center" valign="top" rowspan="1" colspan="1">
+<italic toggle="yes">p </italic>&gt; 0.05 (Bonferroni adj)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Person fit residuals</td><td align="center" valign="top" rowspan="1" colspan="1">1.4% outside range</td><td align="center" valign="top" rowspan="1" colspan="1">1.2% outside range</td><td align="center" valign="top" rowspan="1" colspan="1">1.3% outside range</td><td align="center" valign="top" rowspan="1" colspan="1">1.2% outside range</td><td align="center" valign="top" rowspan="1" colspan="1">within ±3.0</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Unidimensionality</td><td align="center" valign="top" rowspan="1" colspan="1">6.28% (5.1%)</td><td align="center" valign="top" rowspan="1" colspan="1">6.43% (4.3%)</td><td align="center" valign="top" rowspan="1" colspan="1">2.66%</td><td align="center" valign="top" rowspan="1" colspan="1">2.46%</td><td align="center" valign="top" rowspan="1" colspan="1">% of significant <italic toggle="yes">t</italic>‐tests &lt; 5%</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Local dependency</td><td align="center" valign="top" rowspan="1" colspan="1">2/45 pairwise significant</td><td align="center" valign="top" rowspan="1" colspan="1">2/45 pairwise significant</td><td align="center" valign="top" rowspan="1" colspan="1">1/10 pairwise significant</td><td align="center" valign="top" rowspan="1" colspan="1">1/10 pairwise significant</td><td align="center" valign="top" rowspan="1" colspan="1">&lt; 0.2 above average Q3</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Targeting</td><td align="center" valign="top" rowspan="1" colspan="1">Good alignment</td><td align="center" valign="top" rowspan="1" colspan="1">Good alignment</td><td align="center" valign="top" rowspan="1" colspan="1">Good alignment</td><td align="center" valign="top" rowspan="1" colspan="1">Good alignment</td><td align="center" valign="top" rowspan="1" colspan="1">Aligned</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">% sample at floor (min score)</td><td align="center" valign="top" rowspan="1" colspan="1">0.0%</td><td align="center" valign="top" rowspan="1" colspan="1">0.0%</td><td align="center" valign="top" rowspan="1" colspan="1">3.0%</td><td align="center" valign="top" rowspan="1" colspan="1">3.3%</td><td align="center" valign="top" rowspan="1" colspan="1"/></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">% sample at ceiling (max score)</td><td align="center" valign="top" rowspan="1" colspan="1">0.9%</td><td align="center" valign="top" rowspan="1" colspan="1">0.7%</td><td align="center" valign="top" rowspan="1" colspan="1">2.0%</td><td align="center" valign="top" rowspan="1" colspan="1">0.7%</td><td align="center" valign="top" rowspan="1" colspan="1"/></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">% sample at floor and ceiling (combined)</td><td align="center" valign="top" rowspan="1" colspan="1">0.9%</td><td align="center" valign="top" rowspan="1" colspan="1">0.7%</td><td align="center" valign="top" rowspan="1" colspan="1">5.0%</td><td align="center" valign="top" rowspan="1" colspan="1">4.0%</td><td align="center" valign="top" rowspan="1" colspan="1">&lt; 15%</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Person Separation Index (PSI)</td><td align="center" valign="top" rowspan="1" colspan="1">0.81</td><td align="center" valign="top" rowspan="1" colspan="1">0.82</td><td align="center" valign="top" rowspan="1" colspan="1">0.76</td><td align="center" valign="top" rowspan="1" colspan="1">0.77</td><td align="center" valign="top" rowspan="1" colspan="1">&gt; 0.85</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Cronbach's <italic toggle="yes">α</italic>
+</td><td align="center" valign="top" rowspan="1" colspan="1">0.82</td><td align="center" valign="top" rowspan="1" colspan="1">0.84</td><td align="center" valign="top" rowspan="1" colspan="1">0.81</td><td align="center" valign="top" rowspan="1" colspan="1">0.81</td><td align="center" valign="top" rowspan="1" colspan="1">&gt; 0.85</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Response category threshold ordering</td><td align="center" valign="top" rowspan="1" colspan="1">4/10 disordered</td><td align="center" valign="top" rowspan="1" colspan="1">2/10 disordered</td><td align="center" valign="top" rowspan="1" colspan="1">All ordered</td><td align="center" valign="top" rowspan="1" colspan="1">3/5 disordered</td><td align="center" valign="top" rowspan="1" colspan="1">All ordered</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">DIF‐by‐sex</td><td align="center" valign="top" rowspan="1" colspan="1">No DIF</td><td align="center" valign="top" rowspan="1" colspan="1">No DIF</td><td align="center" valign="top" rowspan="1" colspan="1">1/5 display DIF (nu)</td><td align="center" valign="top" rowspan="1" colspan="1">1/5 display DIF (nu)</td><td align="center" valign="top" rowspan="1" colspan="1">
+<italic toggle="yes">p </italic>&gt; 0.05 (Bonferroni adj)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">DIF‐by‐age group</td><td align="center" valign="top" rowspan="1" colspan="1">3/10 display DIF</td><td align="center" valign="top" rowspan="1" colspan="1">No DIF</td><td align="center" valign="top" rowspan="1" colspan="1">3/5 display DIF</td><td align="center" valign="top" rowspan="1" colspan="1">No DIF</td><td align="center" valign="top" rowspan="1" colspan="1">
+<italic toggle="yes">p </italic>&gt; 0.05 (Bonferroni adj)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">DIF‐by‐ethnicity</td><td align="center" valign="top" rowspan="1" colspan="1">No DIF</td><td align="center" valign="top" rowspan="1" colspan="1">No DIF</td><td align="center" valign="top" rowspan="1" colspan="1">No DIF</td><td align="center" valign="top" rowspan="1" colspan="1">No DIF</td><td align="center" valign="top" rowspan="1" colspan="1">
+<italic toggle="yes">p </italic>&gt; 0.05 (Bonferroni adj)</td></tr></tbody></table><permissions><copyright-holder>John Wiley &amp; Sons, Ltd.</copyright-holder></permissions></table-wrap><fig position="float" fig-type="Figure" id="jmv70816-fig-0001" orientation="portrait"><label>Figure 1</label><caption><p>The relative scale‐to‐sample targeting of the Symptom Severity (SS) and Functional Disability (FD) subscales. Key: The (logit) location distribution of the sample is plotted above the <italic toggle="yes">x</italic>‐axis, and the (logit) location distribution of the scale items is plotted below the <italic toggle="yes">x</italic>‐axis. Here, we can see a slight right‐skew for the SS scale and good targeting for the FD scale.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-1" orientation="portrait" xlink:href="JMV-98-e70816-g001.jpg"/></fig></sec><sec id="jmv70816-sec-0120"><label>3.2.2</label><title>Symptom Severity Subscale: Local Dependency</title><p>The average residual correlation was −0.10 and therefore the criterion value to indicate LD was taken as 0.10 (−0.10 + 0.2). Two local dependencies out of the 45 (4%) pairs were identified (Table <xref rid="jmv70816-tbl-0003" ref-type="table">3</xref>). The largest LD was observed between the “Fatigue” and “Post‐exertional malaise” items (0.17); the other between the “Breathlessness” and “Cough” (0.13). Both of these dependencies appear to be conceptually logical, suggesting that these findings are real and not just a chance finding.</p><table-wrap position="float" id="jmv70816-tbl-0003" content-type="Table" orientation="portrait"><label>Table 3</label><caption><p>Individual item fit and local dependency of the Symptom Severity (SS) subscale.</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" align="left" span="1"/><col style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" align="center" span="1"/><col style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" align="center" span="1"/><col style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" align="center" span="1"/><col style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" align="center" span="1"/><col style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" align="center" span="1"/><col style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" align="center" span="1"/><col style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" align="center" span="1"/><col style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" align="center" span="1"/><col style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" align="center" span="1"/><col style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" align="center" span="1"/><col style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" align="center" span="1"/><col style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" align="center" span="1"/><col style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" align="center" span="1"/><col style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" align="center" span="1"/><col style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" align="center" span="1"/><thead valign="bottom"><tr valign="bottom"><th align="left" valign="bottom" rowspan="1" colspan="1"/><th align="center" valign="bottom" rowspan="1" colspan="1"/><th colspan="4" style="border-bottom:solid 1px #000000" align="center" valign="bottom" rowspan="1">Item order and fit</th><th align="center" colspan="10" style="border-bottom:solid 1px #000000" valign="bottom" rowspan="1">Local dependency Q3 correlations</th></tr><tr valign="bottom" style="border-bottom:solid 1px #000000"><th align="left" valign="bottom" rowspan="1" colspan="1">Item</th><th align="center" valign="bottom" rowspan="1" colspan="1">Statement</th><th align="center" valign="bottom" rowspan="1" colspan="1">Logit location</th><th align="center" valign="bottom" rowspan="1" colspan="1">SE</th><th align="center" valign="bottom" rowspan="1" colspan="1">Fit residual</th><th align="center" valign="bottom" rowspan="1" colspan="1">χ<sup>2</sup>
+<italic toggle="yes">p</italic>
+</th><th align="center" valign="bottom" rowspan="1" colspan="1">SS1</th><th align="center" valign="bottom" rowspan="1" colspan="1">SS2</th><th align="center" valign="bottom" rowspan="1" colspan="1">SS3</th><th align="center" valign="bottom" rowspan="1" colspan="1">SS4</th><th align="center" valign="bottom" rowspan="1" colspan="1">SS5</th><th align="center" valign="bottom" rowspan="1" colspan="1">SS6</th><th align="center" valign="bottom" rowspan="1" colspan="1">SS7</th><th align="center" valign="bottom" rowspan="1" colspan="1">SS8</th><th align="center" valign="bottom" rowspan="1" colspan="1">SS9</th><th align="center" valign="bottom" rowspan="1" colspan="1">SS10</th></tr></thead><tbody valign="top"><tr><td align="left" valign="top" rowspan="1" colspan="1">SS1</td><td align="center" valign="top" rowspan="1" colspan="1">Breathlessness</td><td align="center" valign="top" rowspan="1" colspan="1">−0.16</td><td align="center" valign="top" rowspan="1" colspan="1">0.039</td><td align="center" valign="top" rowspan="1" colspan="1">1.593</td><td align="center" valign="top" rowspan="1" colspan="1">0.286</td><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1"/></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">SS2</td><td align="center" valign="top" rowspan="1" colspan="1">Cough</td><td align="center" valign="top" rowspan="1" colspan="1">0.883</td><td align="center" valign="top" rowspan="1" colspan="1">0.035</td><td align="center" valign="top" rowspan="1" colspan="1">4.961</td><td align="center" valign="top" rowspan="1" colspan="1">0.000</td><td align="center" valign="top" rowspan="1" colspan="1">0.134</td><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1"/></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">SS3</td><td align="center" valign="top" rowspan="1" colspan="1">Fatigue</td><td align="center" valign="top" rowspan="1" colspan="1">−1.054</td><td align="center" valign="top" rowspan="1" colspan="1">0.045</td><td align="center" valign="top" rowspan="1" colspan="1">−2.217</td><td align="center" valign="top" rowspan="1" colspan="1">0.000</td><td align="center" valign="top" rowspan="1" colspan="1">−0.051</td><td align="center" valign="top" rowspan="1" colspan="1">−0.249</td><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1"/></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">SS4</td><td align="center" valign="top" rowspan="1" colspan="1">Smell and Taste</td><td align="center" valign="top" rowspan="1" colspan="1">1.283</td><td align="center" valign="top" rowspan="1" colspan="1">0.035</td><td align="center" valign="top" rowspan="1" colspan="1">2.468</td><td align="center" valign="top" rowspan="1" colspan="1">0.002</td><td align="center" valign="top" rowspan="1" colspan="1">−0.108</td><td align="center" valign="top" rowspan="1" colspan="1">−0.005</td><td align="center" valign="top" rowspan="1" colspan="1">−0.232</td><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1"/></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">SS5</td><td align="center" valign="top" rowspan="1" colspan="1">Pain</td><td align="center" valign="top" rowspan="1" colspan="1">−0.359</td><td align="center" valign="top" rowspan="1" colspan="1">0.038</td><td align="center" valign="top" rowspan="1" colspan="1">−1.51</td><td align="center" valign="top" rowspan="1" colspan="1">0.022</td><td align="center" valign="top" rowspan="1" colspan="1">−0.084</td><td align="center" valign="top" rowspan="1" colspan="1">−0.129</td><td align="center" valign="top" rowspan="1" colspan="1">0.013</td><td align="center" valign="top" rowspan="1" colspan="1">−0.186</td><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1"/></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">SS6</td><td align="center" valign="top" rowspan="1" colspan="1">Cognition</td><td align="center" valign="top" rowspan="1" colspan="1">−0.375</td><td align="center" valign="top" rowspan="1" colspan="1">0.039</td><td align="center" valign="top" rowspan="1" colspan="1">−2.598</td><td align="center" valign="top" rowspan="1" colspan="1">0.002</td><td align="center" valign="top" rowspan="1" colspan="1">−0.255</td><td align="center" valign="top" rowspan="1" colspan="1">−0.265</td><td align="center" valign="top" rowspan="1" colspan="1">0.031</td><td align="center" valign="top" rowspan="1" colspan="1">−0.122</td><td align="center" valign="top" rowspan="1" colspan="1">−0.066</td><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1"/></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">SS7</td><td align="center" valign="top" rowspan="1" colspan="1">Palpitations and Dizziness</td><td align="center" valign="top" rowspan="1" colspan="1">0.497</td><td align="center" valign="top" rowspan="1" colspan="1">0.036</td><td align="center" valign="top" rowspan="1" colspan="1">0.795</td><td align="center" valign="top" rowspan="1" colspan="1">0.098</td><td align="center" valign="top" rowspan="1" colspan="1">−0.113</td><td align="center" valign="top" rowspan="1" colspan="1">−0.194</td><td align="center" valign="top" rowspan="1" colspan="1">−0.118</td><td align="center" valign="top" rowspan="1" colspan="1">−0.156</td><td align="center" valign="top" rowspan="1" colspan="1">−0.019</td><td align="center" valign="top" rowspan="1" colspan="1">−0.036</td><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1"/></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">SS8</td><td align="center" valign="top" rowspan="1" colspan="1">PE Malaise</td><td align="center" valign="top" rowspan="1" colspan="1">−0.283</td><td align="center" valign="top" rowspan="1" colspan="1">0.035</td><td align="center" valign="top" rowspan="1" colspan="1">1.209</td><td align="center" valign="top" rowspan="1" colspan="1">0.750</td><td align="center" valign="top" rowspan="1" colspan="1">−0.158</td><td align="center" valign="top" rowspan="1" colspan="1">−0.235</td><td align="center" valign="top" rowspan="1" colspan="1">0.166</td><td align="center" valign="top" rowspan="1" colspan="1">−0.254</td><td align="center" valign="top" rowspan="1" colspan="1">−0.137</td><td align="center" valign="top" rowspan="1" colspan="1">0.044</td><td align="center" valign="top" rowspan="1" colspan="1">−0.074</td><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1"/></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">SS9</td><td align="center" valign="top" rowspan="1" colspan="1">Anxiety and Mood</td><td align="center" valign="top" rowspan="1" colspan="1">−0.205</td><td align="center" valign="top" rowspan="1" colspan="1">0.038</td><td align="center" valign="top" rowspan="1" colspan="1">−0.592</td><td align="center" valign="top" rowspan="1" colspan="1">0.067</td><td align="center" valign="top" rowspan="1" colspan="1">−0.168</td><td align="center" valign="top" rowspan="1" colspan="1">−0.162</td><td align="center" valign="top" rowspan="1" colspan="1">−0.087</td><td align="center" valign="top" rowspan="1" colspan="1">−0.142</td><td align="center" valign="top" rowspan="1" colspan="1">−0.081</td><td align="center" valign="top" rowspan="1" colspan="1">0.026</td><td align="center" valign="top" rowspan="1" colspan="1">−0.118</td><td align="center" valign="top" rowspan="1" colspan="1">−0.086</td><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1"/></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">SS10</td><td align="center" valign="top" rowspan="1" colspan="1">Sleep</td><td align="center" valign="top" rowspan="1" colspan="1">−0.226</td><td align="center" valign="top" rowspan="1" colspan="1">0.036</td><td align="center" valign="top" rowspan="1" colspan="1">−0.281</td><td align="center" valign="top" rowspan="1" colspan="1">0.359</td><td align="center" valign="top" rowspan="1" colspan="1">−0.192</td><td align="center" valign="top" rowspan="1" colspan="1">−0.204</td><td align="center" valign="top" rowspan="1" colspan="1">−0.057</td><td align="center" valign="top" rowspan="1" colspan="1">−0.074</td><td align="center" valign="top" rowspan="1" colspan="1">−0.034</td><td align="center" valign="top" rowspan="1" colspan="1">−0.051</td><td align="center" valign="top" rowspan="1" colspan="1">−0.114</td><td align="center" valign="top" rowspan="1" colspan="1">−0.118</td><td align="center" valign="top" rowspan="1" colspan="1">−0.024</td><td align="center" valign="top" rowspan="1" colspan="1"/></tr><tr><td align="left" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1"/><td colspan="3" align="center" valign="top" rowspan="1">Average residual correlation</td><td align="center" valign="top" rowspan="1" colspan="1">−0.101</td><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1"/></tr><tr><td align="left" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1"/><td colspan="3" align="center" valign="top" rowspan="1">Average + 0.2 (criterion)</td><td align="center" valign="top" rowspan="1" colspan="1">0.099</td><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1"/></tr></tbody></table><table-wrap-foot><fn id="jmv70816-tbl3-note-0001"><p>
+<italic toggle="yes">Note:</italic> All values are based on the complete sample, except for the Fit Residual and χ<sup>2</sup>
+<italic toggle="yes">p</italic> value, which are based on the first subsample (<italic toggle="yes">n </italic>= 423). Highlighted items indicate some form of misfit.</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &amp; Sons, Ltd.</copyright-holder></permissions></table-wrap></sec><sec id="jmv70816-sec-0130"><label>3.2.3</label><title>Symptom Severity Subscale: Individual Item Fit</title><p>Most items were within the acceptable fit ranges, although misfit was identified for some items (Table <xref rid="jmv70816-tbl-0003" ref-type="table">3</xref>). The “Cough” item (covering “cough” and “throat sensitivity”) displayed the largest chi‐square and fit residual misfit anomalies, with the high positive fit residual value indicating an underdiscrimination. The “Smell/Taste” and “Cognition” items also demonstrated some misfit, although this was borderline in both instances, and inconsistent among the different subsamples.</p></sec><sec id="jmv70816-sec-0140"><label>3.2.4</label><title>Symptom Severity Subscale: Category Response Structure</title><p>The modified 4‐response category format mostly displayed an ordered, functional response structure across all items, evidencing a marked improvement from the response functioning of the original C19‐YRS. However, the “Smell/Taste” item was consistently disordered among the full sample and all subsamples, with a nonborderline response structure suggesting that a binary response format may be more appropriate. Additionally, the full sample displayed three further items as borderline disordered (“Fatigue,” “PEM,” and “Sleep”), with these same items either ordered or borderline disordered among the three smaller subsamples, suggesting that this is not problematic.</p></sec><sec id="jmv70816-sec-0150"><label>3.2.5</label><title>Symptom Severity Subscale: Item Location Ordering (Easiest/Most Difficult Items to Affirm)</title><p>The item location ordering can be observed in Table <xref rid="jmv70816-tbl-0003" ref-type="table">3</xref>. The “Fatigue” item marked the lowest location on the subscale, meaning that fatigue is observed as the most frequently problematic issue on the SS subscale, that is, the most easily endorsed item by people with LC. Conversely, the “Smell/Taste” item had the highest location on the subscale, meaning that smell/taste is observed as the least frequently problematic issue on the SS subscale.</p></sec><sec id="jmv70816-sec-0160"><label>3.2.6</label><title>Symptom Severity Subscale: Differential Item Functioning</title><p>No items displayed any consistently significant DIF by sex, age group, or ethnicity grouping. However, the limited sample for minority ethnic groups was insufficient to make the findings on ethnicity reliable.</p></sec><sec id="jmv70816-sec-0170"><label>3.2.7</label><title>Symptom Severity Subscale: Post Hoc Analysis Addressing the Issues Found</title><p>In order to determine whether amendments could be made to address and thereby potentially resolve the individual item issues that had been identified, the first subsample (<italic toggle="yes">N</italic> = 423) was taken as an experimental data set and a number of analysis iterations were run.</p><p>The first analysis focused on retaining all items in the SS subscale and involved rescoring the “Smell/Taste” and “Cough” items into a binary response format. This resolved the associated response structure and item fit issues. Furthermore, the “Breathlessness” and “Cough” items were subtested, that is, added together into a single item, rather than contributing as two separate items, to account for local dependency. This resolved the dependency issues, although the subtested item displayed some misfit (Fit Residual: 3.8).</p><p>The second analysis focused on model fit and involved removing “Cough” whilst retaining the rescored (binary) “Smell/Taste” item. This resolved all fit and dependency issues, although the PEM item continued to display a borderline disordered response structure.</p><p>Finally, in order to examine the impact of these amendments on person estimates (“scores”), the person estimates from the complete subscale (full sample) were correlated against the full‐sample person estimates from both analyses. This indicated that there was a strong (Spearman's) correlation between the complete subscale person estimates and both post hoc analyses estimates (0.99 and 0.98, respectively), indicating that the subscale amendments have very little effect on person ordering.</p><p>Taken together, this suggests that, despite the issues identified, it is perhaps optimal to retain the complete SS subscale in its original format, in order to retain maximum information and allow for continuity of data collection and comparison. Given that Rasch model assumptions have been satisfied, the transformation of the raw ordinal scale scores into interval‐level equivalent scores is appropriate, and these transformed scores are available in Table <xref rid="jmv70816-tbl-0005" ref-type="table">5</xref>. Please note that this transformation is only valid for complete data, where all items have been included in the total score.</p></sec><sec id="jmv70816-sec-0180"><label>3.2.8</label><title>Functional Disability Subscale: Unidimensionality, Reliability, Floor/Ceiling, and Targeting</title><p>A summary of the psychometric properties for the FD subscale is presented in Table <xref rid="jmv70816-tbl-0002" ref-type="table">2</xref>. The FD subscale was unidimensional (only 2.6% of unidimensionality <italic toggle="yes">t</italic>‐tests were statistically significant), displayed a good level of internal‐consistency reliability (0.82), and had good subscale‐sample targeting with no floor or ceiling effect (see Table <xref rid="jmv70816-tbl-0002" ref-type="table">2</xref> and Figure <xref rid="jmv70816-fig-0001" ref-type="fig">1</xref>).</p></sec><sec id="jmv70816-sec-0190"><label>3.2.9</label><title>Functional Disability Subscale: Local Dependency</title><p>The average correlation was −0.23 and therefore the criterion value to indicate LD was taken as −0.03 (−0.23 + 0.2). One local dependency (Table <xref rid="jmv70816-tbl-0004" ref-type="table">4</xref>) was observed between the “Walking or moving around” and “Personal care” items. Again, there appears to be a conceptual connection between these two items, suggesting that this is a real dependency rather than a chance finding.</p><table-wrap position="float" id="jmv70816-tbl-0004" content-type="Table" orientation="portrait"><label>Table 4</label><caption><p>Individual item fit and local dependency of the Functional Disability (FD) subscale.</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" align="left" span="1"/><col style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" align="center" span="1"/><col style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" align="center" span="1"/><col style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" align="center" span="1"/><col style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" align="center" span="1"/><col style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" align="center" span="1"/><col style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" align="center" span="1"/><col style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" align="center" span="1"/><col style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" align="center" span="1"/><col style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" align="center" span="1"/><col style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" align="center" span="1"/><thead valign="bottom"><tr valign="bottom"><th align="left" valign="bottom" rowspan="1" colspan="1"/><th align="center" valign="bottom" rowspan="1" colspan="1"/><th colspan="4" style="border-bottom:solid 1px #000000" align="center" valign="bottom" rowspan="1">Item order and fit</th><th align="center" colspan="5" style="border-bottom:solid 1px #000000" valign="bottom" rowspan="1">Local dependency Q3 correlations</th></tr><tr valign="bottom" style="border-bottom:solid 1px #000000"><th align="left" valign="bottom" rowspan="1" colspan="1">Item</th><th align="center" valign="bottom" rowspan="1" colspan="1">Statement</th><th align="center" valign="bottom" rowspan="1" colspan="1">Logit location</th><th align="center" valign="bottom" rowspan="1" colspan="1">SE</th><th align="center" valign="bottom" rowspan="1" colspan="1">Fit residual</th><th align="center" valign="bottom" rowspan="1" colspan="1">χ<sup>2</sup>
+<italic toggle="yes">p</italic>
+</th><th align="center" valign="bottom" rowspan="1" colspan="1">FD1</th><th align="center" valign="bottom" rowspan="1" colspan="1">FD2</th><th align="center" valign="bottom" rowspan="1" colspan="1">FD3</th><th align="center" valign="bottom" rowspan="1" colspan="1">FD4</th><th align="center" valign="bottom" rowspan="1" colspan="1">FD5</th></tr></thead><tbody valign="top"><tr><td align="left" valign="top" rowspan="1" colspan="1">FD1</td><td align="center" valign="top" rowspan="1" colspan="1">Communication</td><td align="center" valign="top" rowspan="1" colspan="1">0.035</td><td align="center" valign="top" rowspan="1" colspan="1">0.039</td><td align="center" valign="top" rowspan="1" colspan="1">3.54</td><td align="center" valign="top" rowspan="1" colspan="1">0.010</td><td style="background-color:#808080" align="center" valign="top" rowspan="1" colspan="1"/><td style="background-color:#808080" align="center" valign="top" rowspan="1" colspan="1"/><td style="background-color:#808080" align="center" valign="top" rowspan="1" colspan="1"/><td style="background-color:#808080" align="center" valign="top" rowspan="1" colspan="1"/><td style="background-color:#808080" align="center" valign="top" rowspan="1" colspan="1"/></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">FD2</td><td align="center" valign="top" rowspan="1" colspan="1">Walking</td><td align="center" valign="top" rowspan="1" colspan="1">−0.045</td><td align="center" valign="top" rowspan="1" colspan="1">0.039</td><td align="center" valign="top" rowspan="1" colspan="1">0.207</td><td align="center" valign="top" rowspan="1" colspan="1">0.572</td><td align="center" valign="top" rowspan="1" colspan="1">−0.408</td><td style="background-color:#808080" align="center" valign="top" rowspan="1" colspan="1"/><td style="background-color:#808080" align="center" valign="top" rowspan="1" colspan="1"/><td style="background-color:#808080" align="center" valign="top" rowspan="1" colspan="1"/><td style="background-color:#808080" align="center" valign="top" rowspan="1" colspan="1"/></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">FD3</td><td align="center" valign="top" rowspan="1" colspan="1">Personal Care</td><td align="center" valign="top" rowspan="1" colspan="1">1.459</td><td align="center" valign="top" rowspan="1" colspan="1">0.044</td><td align="center" valign="top" rowspan="1" colspan="1">−0.672</td><td align="center" valign="top" rowspan="1" colspan="1">0.599</td><td align="center" valign="top" rowspan="1" colspan="1">−0.384</td><td align="center" valign="top" rowspan="1" colspan="1">0.017</td><td style="background-color:#808080" align="center" valign="top" rowspan="1" colspan="1"/><td style="background-color:#808080" align="center" valign="top" rowspan="1" colspan="1"/><td style="background-color:#808080" align="center" valign="top" rowspan="1" colspan="1"/></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">FD4</td><td align="center" valign="top" rowspan="1" colspan="1">Daily Living</td><td align="center" valign="top" rowspan="1" colspan="1">−1.366</td><td align="center" valign="top" rowspan="1" colspan="1">0.043</td><td align="center" valign="top" rowspan="1" colspan="1">−2.416</td><td align="center" valign="top" rowspan="1" colspan="1">0.162</td><td align="center" valign="top" rowspan="1" colspan="1">−0.357</td><td align="center" valign="top" rowspan="1" colspan="1">−0.134</td><td align="center" valign="top" rowspan="1" colspan="1">−0.112</td><td style="background-color:#808080" align="center" valign="top" rowspan="1" colspan="1"/><td style="background-color:#808080" align="center" valign="top" rowspan="1" colspan="1"/></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">FD5</td><td align="center" valign="top" rowspan="1" colspan="1">Social</td><td align="center" valign="top" rowspan="1" colspan="1">−0.083</td><td align="center" valign="top" rowspan="1" colspan="1">0.038</td><td align="center" valign="top" rowspan="1" colspan="1">−0.786</td><td align="center" valign="top" rowspan="1" colspan="1">0.451</td><td align="center" valign="top" rowspan="1" colspan="1">−0.133</td><td align="center" valign="top" rowspan="1" colspan="1">−0.394</td><td align="center" valign="top" rowspan="1" colspan="1">−0.263</td><td align="center" valign="top" rowspan="1" colspan="1">−0.112</td><td style="background-color:#808080" align="center" valign="top" rowspan="1" colspan="1"/></tr><tr><td align="left" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1"/><td colspan="3" align="center" valign="top" rowspan="1">Average residual correlation</td><td align="center" valign="top" rowspan="1" colspan="1">−0.228</td><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1"/></tr><tr><td align="left" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1"/><td colspan="3" align="center" valign="top" rowspan="1">Average + 0.2 (criterion)</td><td align="center" valign="top" rowspan="1" colspan="1">−0.028</td><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1"/></tr></tbody></table><table-wrap-foot><fn id="jmv70816-tbl4-note-0001"><p>
+<italic toggle="yes">Note</italic>: All values are based on the complete sample, except for the Fit Residual and Chi‐square <italic toggle="yes">p</italic> value, which are based on the first subsample (<italic toggle="yes">n </italic>= 423). Highlighted items indicate some form of misfit.</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &amp; Sons, Ltd.</copyright-holder></permissions></table-wrap></sec><sec id="jmv70816-sec-0200"><label>3.2.10</label><title>Functional Disability Subscale: Individual Item Fit</title><p>The “Communication” item consistently displayed a fit residual misfit anomaly, with the high positive fit residual value indicating an underdiscrimination (Table <xref rid="jmv70816-tbl-0004" ref-type="table">4</xref>). No other items indicated any evidence of misfit.</p></sec><sec id="jmv70816-sec-0210"><label>3.2.11</label><title>Functional Disability Subscale: Category Response Structure</title><p>The response categories displayed an ordered, functional response structure across all items. None of the items were disordered.</p></sec><sec id="jmv70816-sec-0220"><label>3.2.12</label><title>Functional Disability Subscale: Item Location Ordering (Easiest/Most Difficult Items to Affirm)</title><p>The “Other activities of daily living” item marked the lowest location on the subscale, that is, the most frequently problematic (or easily endorsed) issue on the FD subscale. Conversely, the “Personal care” item had the highest location on the subscale, representing the least frequently problematic issue on the FD subscale. The item location ordering can be observed in Table <xref rid="jmv70816-tbl-0004" ref-type="table">4</xref>.</p></sec><sec id="jmv70816-sec-0230"><label>3.2.13</label><title>Functional Disability Subscale: Differential Item Functioning</title><p>There was no significant DIF by sex, age group, or ethnicity grouping indicated for any of the items across any of the samples. As highlighted earlier, however, the ethnic minority sample was insufficiently powered to make the finding on ethnicity reliable. DIF by age group was observed for the “Walking or moving around” item, this was, however, consistent with expectation, as the older group are more likely to report issues with walking.</p></sec><sec id="jmv70816-sec-0240"><label>3.2.14</label><title>Functional Disability Subscale: Post Hoc Analysis Addressing the Issues Found</title><p>Although there were relatively few issues found in the FD subscale, the first subsample (<italic toggle="yes">N</italic> = 423) was again taken as an experimental data set and amendments were made to address the issues that had been identified. This involved subtesting the “Walking or moving around” and “Personal care” items in order to resolve the dependency issues, although this resulted in a further borderline dependency between the “Other activities of daily living” and “Social role” in the full sample. However, no further subtesting was carried out due to the borderline nature of the apparent dependency.</p><p>In order to examine the impact of this amendment on person estimates, the person estimates from the complete scale (full sample) were correlated against the full‐sample person estimates from the resolved analysis. This indicated a very strong (Spearman's) correlation of 0.999, indicating that the subscale amendment had very little effect on the ordering of persons. Again, this suggests that the parsimonious retention of the complete FD subscale in its original format would retain maximum information and allow for continuity of data collection and comparison.</p><p>Again, given that Rasch model assumptions have been satisfied, the transformation of the raw ordinal scale scores into interval‐level equivalent scores is appropriate, and these transformed scores are available in Table <xref rid="jmv70816-tbl-0005" ref-type="table">5</xref> (for complete data).</p><table-wrap position="float" id="jmv70816-tbl-0005" content-type="Table" orientation="portrait"><label>Table 5</label><caption><p>The raw‐score to interval‐level equivalent transformed score for the Symptom Severity (SS) and Functional Disability (FD) subscales.</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" align="left" span="1"/><col style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" align="center" span="1"/><col style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" align="center" span="1"/><thead valign="bottom"><tr valign="bottom"><th align="left" valign="bottom" rowspan="1" colspan="1"/><th align="center" colspan="2" style="border-bottom:solid 1px #000000" valign="bottom" rowspan="1">Interval transformations</th></tr><tr valign="bottom" style="border-bottom:solid 1px #000000"><th align="left" valign="bottom" rowspan="1" colspan="1">Raw score</th><th align="center" valign="bottom" rowspan="1" colspan="1">SS (0–30)</th><th align="center" valign="bottom" rowspan="1" colspan="1">FD (0–15)</th></tr></thead><tbody valign="top"><tr><td align="left" valign="top" rowspan="1" colspan="1">0</td><td align="center" valign="top" rowspan="1" colspan="1">0.00</td><td align="center" valign="top" rowspan="1" colspan="1">0.00</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">1</td><td align="center" valign="top" rowspan="1" colspan="1">2.80</td><td align="center" valign="top" rowspan="1" colspan="1">1.84</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">2</td><td align="center" valign="top" rowspan="1" colspan="1">4.74</td><td align="center" valign="top" rowspan="1" colspan="1">3.19</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">3</td><td align="center" valign="top" rowspan="1" colspan="1">6.07</td><td align="center" valign="top" rowspan="1" colspan="1">4.17</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">4</td><td align="center" valign="top" rowspan="1" colspan="1">7.13</td><td align="center" valign="top" rowspan="1" colspan="1">4.97</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">5</td><td align="center" valign="top" rowspan="1" colspan="1">8.03</td><td align="center" valign="top" rowspan="1" colspan="1">5.67</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">6</td><td align="center" valign="top" rowspan="1" colspan="1">8.81</td><td align="center" valign="top" rowspan="1" colspan="1">6.32</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">7</td><td align="center" valign="top" rowspan="1" colspan="1">9.53</td><td align="center" valign="top" rowspan="1" colspan="1">6.96</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">8</td><td align="center" valign="top" rowspan="1" colspan="1">10.19</td><td align="center" valign="top" rowspan="1" colspan="1">7.61</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">9</td><td align="center" valign="top" rowspan="1" colspan="1">10.82</td><td align="center" valign="top" rowspan="1" colspan="1">8.28</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">10</td><td align="center" valign="top" rowspan="1" colspan="1">11.41</td><td align="center" valign="top" rowspan="1" colspan="1">8.98</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">11</td><td align="center" valign="top" rowspan="1" colspan="1">11.99</td><td align="center" valign="top" rowspan="1" colspan="1">9.72</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">12</td><td align="center" valign="top" rowspan="1" colspan="1">12.57</td><td align="center" valign="top" rowspan="1" colspan="1">10.55</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">13</td><td align="center" valign="top" rowspan="1" colspan="1">13.14</td><td align="center" valign="top" rowspan="1" colspan="1">11.56</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">14</td><td align="center" valign="top" rowspan="1" colspan="1">13.71</td><td align="center" valign="top" rowspan="1" colspan="1">12.99</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">15</td><td align="center" valign="top" rowspan="1" colspan="1">14.29</td><td align="center" valign="top" rowspan="1" colspan="1">15.00</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">16</td><td align="center" valign="top" rowspan="1" colspan="1">14.87</td><td align="center" valign="top" rowspan="1" colspan="1"/></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">17</td><td align="center" valign="top" rowspan="1" colspan="1">15.47</td><td align="center" valign="top" rowspan="1" colspan="1"/></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">18</td><td align="center" valign="top" rowspan="1" colspan="1">16.09</td><td align="center" valign="top" rowspan="1" colspan="1"/></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">19</td><td align="center" valign="top" rowspan="1" colspan="1">16.72</td><td align="center" valign="top" rowspan="1" colspan="1"/></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">20</td><td align="center" valign="top" rowspan="1" colspan="1">17.36</td><td align="center" valign="top" rowspan="1" colspan="1"/></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">21</td><td align="center" valign="top" rowspan="1" colspan="1">18.02</td><td align="center" valign="top" rowspan="1" colspan="1"/></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">22</td><td align="center" valign="top" rowspan="1" colspan="1">18.70</td><td align="center" valign="top" rowspan="1" colspan="1"/></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">23</td><td align="center" valign="top" rowspan="1" colspan="1">19.40</td><td align="center" valign="top" rowspan="1" colspan="1"/></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">24</td><td align="center" valign="top" rowspan="1" colspan="1">20.16</td><td align="center" valign="top" rowspan="1" colspan="1"/></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">25</td><td align="center" valign="top" rowspan="1" colspan="1">20.98</td><td align="center" valign="top" rowspan="1" colspan="1"/></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">26</td><td align="center" valign="top" rowspan="1" colspan="1">21.92</td><td align="center" valign="top" rowspan="1" colspan="1"/></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">27</td><td align="center" valign="top" rowspan="1" colspan="1">23.06</td><td align="center" valign="top" rowspan="1" colspan="1"/></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">28</td><td align="center" valign="top" rowspan="1" colspan="1">24.55</td><td align="center" valign="top" rowspan="1" colspan="1"/></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">29</td><td align="center" valign="top" rowspan="1" colspan="1">26.75</td><td align="center" valign="top" rowspan="1" colspan="1"/></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">30</td><td align="center" valign="top" rowspan="1" colspan="1">30.00</td><td align="center" valign="top" rowspan="1" colspan="1"/></tr></tbody></table><table-wrap-foot><fn id="jmv70816-tbl5-note-0001"><p>
+<italic toggle="yes">Note:</italic> This conversion is only valid in the case of complete data.</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &amp; Sons, Ltd.</copyright-holder></permissions></table-wrap></sec></sec><sec id="jmv70816-sec-0250"><label>3.3</label><title>Working Group/PAG</title><p>A benefit of the C19‐YRSm is that it is a relatively short measure with a simple response structure. The feedback from the PAG suggested that it was not burdensome for patients to complete, and that the simplified response format was more appropriate than the previous 11‐point numeric rating scale on the original C19‐YRS. The PAG suggested that the C19‐YRSm was comprehensible, easy to understand, and that the range of symptoms covered across the SS and OS scales (not presented here) was broadly comprehensive, whilst remaining manageable.</p></sec></sec><sec sec-type="discussion" id="jmv70816-sec-0260"><label>4</label><title>Discussion</title><p>This study provides the first Rasch analysis of the latest version of the C19‐YRSm following the initial development [<xref rid="jmv70816-bib-0013" ref-type="bibr">13</xref>, <xref rid="jmv70816-bib-0021" ref-type="bibr">21</xref>] and subsequent psychometric analysis [<xref rid="jmv70816-bib-0022" ref-type="bibr">22</xref>]. In line with the classical psychometric analysis [<xref rid="jmv70816-bib-0024" ref-type="bibr">24</xref>], the results demonstrated evidence of a two‐factor structure, comprising unidimensional SS and FD subscales, with both displaying good internal reliability.</p><p>Within the subscale analysis, the few item anomalies observed concerned the “Cough” and “Smell/Taste” items, both within the SS subscale. It is uncertain why these items were inconsistent with the other subscale items, but there are some potential explanations. For instance, these items also marked the “most difficult” end of the subscale, meaning that they were generally reported to be problematic less frequently than the other items. This positioning means that there is less certainty in respect of the item fit characteristics of the items (given that less sample information is available). Furthermore, it also means that these items are an important demarcation of the upper measurement range of the subscale. The post hoc removal and amendment of these items had very little effect on the ordering of the person estimates that were generated, therefore the added clinical and measurement information provided by the retention of these items would seem to outweigh any potential improvement in subscale fit [<xref rid="jmv70816-bib-0037" ref-type="bibr">37</xref>].</p><p>Although the cough, throat sensitivity, and anosmia items were recognized by the Working Group as common and important symptoms of COVID, the analysis results indicate that their contribution to the impact of LC on a person's daily life is less clear. It is also possible that a binary (no problem/problem) response format may be more appropriate for these items than the 4‐point response structure, especially for the “Smell/Taste” item. Feedback from the Working Group suggested that a binary response would align with the manifestation of these symptoms that present in LC/PCS clinics, especially for the “Smell/Taste” item.</p><p>The input from the Working Group/PAG also suggested that the C19‐YRSm was not burdensome for patients to complete, and that the simplified response format was more appropriate than the previous 11‐point numeric rating subscale. The benefit of the C19‐YRSm is that it is a relatively short measure with a simple response structure. If outcome measures are to be repeatedly used in clinical or research settings, they should be relevant, clinically useful, and nonburdensome to patients. Long PROMs may lead to questionnaire response burden, which is recognized as a threat to subscale completion and adherence in trials [<xref rid="jmv70816-bib-0038" ref-type="bibr">38</xref>].</p><p>This study is the first, to the authors knowledge, to investigate item bias or DIF for the C19‐YRSm and demonstrated little or no DIF across age groups and gender, thus reinforcing the instrument usability across a wide population of people living with LC. However, one potential limitation to be noted here is that minority ethnic groups were considerably underrepresented within our patient sample. Despite the fact there was no evident item bias, there is still a need for further research that is sufficiently powered to explore any variation by ethnicity in LC symptoms. Furthermore, although a recent systematic review [<xref rid="jmv70816-bib-0039" ref-type="bibr">39</xref>] determined that the content validity of the C19‐YRSm was sufficient, there is, in general, further research required involving additional input from people with LC as part of the instrument's ongoing validation process.</p><p>Nevertheless, the C19‐YRS scored well as one of the suggested LC condition‐specific instruments, covering a number of the core outcomes identified in an international consensus study [<xref rid="jmv70816-bib-0040" ref-type="bibr">40</xref>] when evaluated against reporting a core outcome set of 12 outcomes that should be measured in all future clinical studies and in clinical care for people with LC [<xref rid="jmv70816-bib-0041" ref-type="bibr">41</xref>]. In addition to the current study, previous validation studies [<xref rid="jmv70816-bib-0022" ref-type="bibr">22</xref>, <xref rid="jmv70816-bib-0024" ref-type="bibr">24</xref>] have shown the C19‐YRSm to have robust psychometric properties and this is reflected in the growing evidence supporting the clinical utility of the C19‐YRSm [<xref rid="jmv70816-bib-0042" ref-type="bibr">42</xref>, <xref rid="jmv70816-bib-0043" ref-type="bibr">43</xref>].</p></sec><sec sec-type="conclusions" id="jmv70816-sec-0270"><label>5</label><title>Conclusion</title><p>The modified C19‐YRSm has been demonstrated to have significant advantages over the original C19‐YRS. The content coverage is much improved, including a number of common symptoms that were not included in the original version. This study and preceding validation studies have shown the SS and FD subscales to be far more robust than the original C19‐YRS, thereby strengthening the measurement characteristics of the C19‐YRSm and enhancing its clinical and conceptual relevance for use in both clinical and community settings. For research purposes, an interval‐level score transformation is available, allowing for the calculation of parametric statistics on C19‐YRSm scores.</p></sec><sec id="jmv70816-sec-0280"><title>Author Contributions</title><p>Mike Horton, Stavros Petrou, Rory O'Connor, Helen Dawes, Ruairidh Milne, Stephen Halpin, Ghazala Mir, Clare Rayner, Daryl B. O'Connor, Darren C. Greenwood, Nawar D. Bakerly, and Manoj Sivan were responsible for the funding acquisition. Mike Horton was additionally responsible for the data analysis and methodology; Darren C. Greenwood and Adam B. Smith additionally contributed to the methodology. All authors contributed to the drafting, review, and editing of the manuscript.</p></sec><sec id="jmv70816-sec-0300"><title>Ethics Statement</title><p>Ethics approval for the LOCOMOTION study was obtained from the Bradford and Leeds Research Ethics Committee on behalf of Health Research Authority and Health and Care Research Wales (Reference: 21/YH/0276; Trial Registration Number <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmc:clinical-trial" xlink:href="NCT05057260">NCT05057260</ext-link>, ISRCTN15022307).</p></sec><sec id="jmv70816-sec-0310"><title>Consent</title><p>All participants consented for their data to be used for evaluation and research purposes.</p></sec><sec sec-type="COI-statement" id="jmv70816-sec-0320"><title>Conflicts of Interest</title><p>The authors declare no conflicts of interest.</p></sec></body><back><ack id="jmv70816-sec-0290"><title>Acknowledgments</title><p>The authors thank all the participants of this study for their valuable time and feedback on the instrument. The authors are also grateful to all the participating NHS sites and the ELAROS 24/7 digital company for their PROMs platform. The study was funded through a National Institute for Health and Care Research award (COV‐LT2‐0016). The views expressed in this publication are those of the authors and not necessarily those of NIHR or the Department of Health and Social Care.</p></ack><sec sec-type="data-availability" id="jmv70816-sec-0340"><title>Data Availability Statement</title><p>The data sets used and analyzed during the current study are available from the corresponding author on reasonable request.</p></sec><ref-list content-type="cited-references" id="jmv70816-bibl-0001"><title>References</title><ref id="jmv70816-bib-0001"><label>1</label><mixed-citation publication-type="journal" id="jmv70816-cit-0001">
+<string-name name-style="western">
+<given-names>H. E.</given-names>
+<surname>Davis</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L.</given-names>
+<surname>McCorkell</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J. M.</given-names>
+<surname>Vogel</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>E. J.</given-names>
+<surname>Topol</surname>
+</string-name>, “<article-title>Long COVID: Major Findings, Mechanisms and Recommendations</article-title>,” <source>Nature Reviews Microbiology</source>
+<volume>21</volume>, no. <issue>3</issue> (<year>2023</year>): <fpage>133</fpage>–<lpage>146</lpage>.<pub-id pub-id-type="pmid">36639608</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41579-022-00846-2</pub-id><pub-id pub-id-type="pmcid">PMC9839201</pub-id></mixed-citation></ref><ref id="jmv70816-bib-0002"><label>2</label><mixed-citation publication-type="miscellaneous" id="jmv70816-cit-0002">
+<collab collab-type="authors">Office of National Statistics (ONS)</collab>
+, <italic toggle="yes">Self‐Reported Coronavirus (COVID‐19) Infections and Associated Symptoms</italic> (ONS, 2024).</mixed-citation></ref><ref id="jmv70816-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="jmv70816-cit-0003">
+<string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Hou</surname>
+</string-name>, <string-name name-style="western">
+<given-names>T.</given-names>
+<surname>Gu</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Z.</given-names>
+<surname>Ni</surname>
+</string-name>, et al., “<article-title>Global Prevalence of Long COVID, Its Subtypes, and Risk Factors: An Updated Systematic Review and Meta‐Analysis</article-title>,” <source>Open Forum Infectious Diseases</source>
+<volume>12</volume>, no. <issue>9</issue> (<year>2025</year>): <fpage>ofaf533</fpage>.<pub-id pub-id-type="pmid">41018705</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/ofid/ofaf533</pub-id><pub-id pub-id-type="pmcid">PMC12461872</pub-id></mixed-citation></ref><ref id="jmv70816-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="jmv70816-cit-0004">
+<string-name name-style="western">
+<given-names>B.</given-names>
+<surname>Bowe</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Xie</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>Z.</given-names>
+<surname>Al‐Aly</surname>
+</string-name>, “<article-title>Postacute Sequelae of COVID‐19 at 2 Years</article-title>,” <source>Nature Medicine</source>
+<volume>29</volume>, no. <issue>9</issue> (<year>2023</year>): <fpage>2347</fpage>–<lpage>2357</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41591-023-02521-2</pub-id><pub-id pub-id-type="pmcid">PMC10504070</pub-id><pub-id pub-id-type="pmid">37605079</pub-id></mixed-citation></ref><ref id="jmv70816-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="jmv70816-cit-0005">
+<string-name name-style="western">
+<given-names>D. C.</given-names>
+<surname>Greenwood</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Mansoubi</surname>
+</string-name>, <string-name name-style="western">
+<given-names>N. D.</given-names>
+<surname>Bakerly</surname>
+</string-name>, et al., “<article-title>Physical, Cognitive, and Social Triggers of Symptom Fluctuations in People Living With Long COVID: An Intensive Longitudinal Cohort Study</article-title>,” <source>Lancet Regional Health ‐ Europe</source>
+<volume>46</volume> (<year>2024</year>): <elocation-id>101082</elocation-id>.<pub-id pub-id-type="pmid">39381546</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.lanepe.2024.101082</pub-id><pub-id pub-id-type="pmcid">PMC11458954</pub-id></mixed-citation></ref><ref id="jmv70816-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="jmv70816-cit-0006">
+<string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Sivan</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A. B.</given-names>
+<surname>Smith</surname>
+</string-name>, <string-name name-style="western">
+<given-names>T.</given-names>
+<surname>Osborne</surname>
+</string-name>, et al., “<article-title>Long COVID Clinical Severity Types Based on Symptoms and Functional Disability: A Longitudinal Evaluation</article-title>,” <source>Journal of Clinical Medicine</source>
+<volume>13</volume>, no. <issue>7</issue> (<year>2024</year>): <fpage>1908</fpage>.<pub-id pub-id-type="pmid">38610673</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3390/jcm13071908</pub-id><pub-id pub-id-type="pmcid">PMC11012375</pub-id></mixed-citation></ref><ref id="jmv70816-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="jmv70816-cit-0007">
+<string-name name-style="western">
+<given-names>H. E.</given-names>
+<surname>Davis</surname>
+</string-name>, <string-name name-style="western">
+<given-names>G. S.</given-names>
+<surname>Assaf</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L.</given-names>
+<surname>McCorkell</surname>
+</string-name>, et al., “<article-title>Characterizing Long COVID in an International Cohort: 7 Months of Symptoms and Their Impact</article-title>,” <source>EClinicalMedicine</source>
+<volume>38</volume> (<year>2021</year>): <elocation-id>101019</elocation-id>.<pub-id pub-id-type="pmid">34308300</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.eclinm.2021.101019</pub-id><pub-id pub-id-type="pmcid">PMC8280690</pub-id></mixed-citation></ref><ref id="jmv70816-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="jmv70816-cit-0008">
+<string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Kwon</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Milne</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Rayner</surname>
+</string-name>, et al., “<article-title>Impact of Long COVID on Productivity and Informal Caregiving</article-title>,” <source>European Journal of Health Economics</source>
+<volume>25</volume>, no. <issue>7</issue> (<year>2024</year>): <fpage>1095</fpage>–<lpage>1115</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s10198-023-01653-z</pub-id><pub-id pub-id-type="pmcid">PMC11377524</pub-id><pub-id pub-id-type="pmid">38146040</pub-id></mixed-citation></ref><ref id="jmv70816-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="jmv70816-cit-0009">
+<string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Walker</surname>
+</string-name>, <string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Goodfellow</surname>
+</string-name>, <string-name name-style="western">
+<given-names>P.</given-names>
+<surname>Pookarnjanamorakot</surname>
+</string-name>, et al., “<article-title>Impact of Fatigue as the Primary Determinant of Functional Limitations Among Patients With Post‐COVID‐19 Syndrome: A Cross‐Sectional Observational Study</article-title>,” <source>BMJ Open</source>
+<volume>13</volume>, no. <issue>6</issue> (<year>2023</year>): <elocation-id>e069217</elocation-id>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1136/bmjopen-2022-069217</pub-id><pub-id pub-id-type="pmcid">PMC10335413</pub-id><pub-id pub-id-type="pmid">37286327</pub-id></mixed-citation></ref><ref id="jmv70816-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="jmv70816-cit-0010">
+<string-name name-style="western">
+<given-names>S. E.</given-names>
+<surname>Hughes</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Haroon</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Subramanian</surname>
+</string-name>, et al., “<article-title>Development and Validation of the Symptom Burden Questionnaire for Long Covid (SBQ‐LC): Rasch Analysis</article-title>,” <source>BMJ</source>
+<volume>377</volume> (<year>2022</year>): <elocation-id>e070230</elocation-id>, <pub-id pub-id-type="doi">10.1136/bmj-2022-070230</pub-id>.<pub-id pub-id-type="pmid">35477524</pub-id>
+<pub-id pub-id-type="pmcid">PMC9043395</pub-id></mixed-citation></ref><ref id="jmv70816-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="jmv70816-cit-0011">
+<string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Rofail</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Somersan‐Karakaya</surname>
+</string-name>, <string-name name-style="western">
+<given-names>E.</given-names>
+<surname>Mylonakis</surname>
+</string-name>, et al., “<article-title>The Symptoms Evolution of Long COVID‑19 (SE‐LC19): A New Patient‐Reported Content Valid Instrument</article-title>,” <source>Journal of Patient‐Reported Outcomes</source>
+<volume>8</volume>, no. <issue>1</issue> (August <year>2024</year>): <fpage>87</fpage>.<pub-id pub-id-type="pmid">39117891</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1186/s41687-024-00737-5</pub-id><pub-id pub-id-type="pmcid">PMC11310370</pub-id></mixed-citation></ref><ref id="jmv70816-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="jmv70816-cit-0012">
+<string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Jandhyala</surname>
+</string-name>, “<article-title>Design, Validation and Implementation of the Post‐Acute (Long) COVID‐19 Quality of Life (PAC‐19QoL) Instrument</article-title>,” <source>Health and Quality of Life Outcomes</source>
+<volume>19</volume> (<year>2021</year>): <fpage>229</fpage>.<pub-id pub-id-type="pmid">34583690</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1186/s12955-021-01862-1</pub-id><pub-id pub-id-type="pmcid">PMC8477362</pub-id></mixed-citation></ref><ref id="jmv70816-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="jmv70816-cit-0013">
+<string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Sivan</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Halpin</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Gees</surname>
+</string-name>, et al., “<article-title>The Self‐Report Version and Digital Format of the COVID‐19 Yorkshire Rehabilitation Scale (C19‐YRS) for Long Covid or Post‐COVID Syndrome Assessment and Monitoring</article-title>,” <source>Advances in Clinical Neuroscience &amp; Rehabilitation</source>
+<volume>20</volume>, no. <issue>3</issue> (<year>2021</year>), <pub-id pub-id-type="doi">10.47795/QROO4168</pub-id>.</mixed-citation></ref><ref id="jmv70816-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="jmv70816-cit-0014">
+<string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Patel</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Straudi</surname>
+</string-name>, <string-name name-style="western">
+<given-names>N.</given-names>
+<surname>Yee Sien</surname>
+</string-name>, <string-name name-style="western">
+<given-names>N.</given-names>
+<surname>Fayed</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J. L.</given-names>
+<surname>Melvin</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Sivan</surname>
+</string-name>, “<article-title>Applying the WHO ICF Framework to the Outcome Measures Used in the Evaluation of Long‐Term Clinical Outcomes in Coronavirus Outbreaks</article-title>,” <source>International Journal of Environmental Research and Public Health</source>
+<volume>17</volume>, no. <issue>18</issue> (<year>2020</year>): <fpage>6476</fpage>.<pub-id pub-id-type="pmid">32899534</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3390/ijerph17186476</pub-id><pub-id pub-id-type="pmcid">PMC7558385</pub-id></mixed-citation></ref><ref id="jmv70816-bib-0015"><label>15</label><mixed-citation publication-type="journal" id="jmv70816-cit-0015">
+<string-name name-style="western">
+<given-names>L.</given-names>
+<surname>López‐López</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Calvache‐Mateo</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Ortiz‐Rubio</surname>
+</string-name>, et al., “<article-title>Differences of Disabling Symptoms Between Previously Hospitalized or Non‐Hospitalized Currently Working Long‐COVID Survivors One Year After Infection: A Descriptive Study</article-title>,” <source>Healthcare</source>
+<volume>11</volume> (<year>2023</year>): <fpage>2306</fpage>.<pub-id pub-id-type="pmid">37628505</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3390/healthcare11162306</pub-id><pub-id pub-id-type="pmcid">PMC10454028</pub-id></mixed-citation></ref><ref id="jmv70816-bib-0016"><label>16</label><mixed-citation publication-type="journal" id="jmv70816-cit-0016">
+<string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Partiprajak</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Krongthaeo</surname>
+</string-name>, <string-name name-style="western">
+<given-names>N.</given-names>
+<surname>Piaseu</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Wongsathikun</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Kongsuwan</surname>
+</string-name>, “<article-title>The Thai Version of the COVID‐19 Yorkshire Rehabilitation Scale: A Valid Instrument for the Psychometric Assessment of the Community Members in Bangkok, Thailand</article-title>,” <source>BMC Public Health</source>
+<volume>23</volume>, no. <issue>1</issue> (<year>2023</year>): <fpage>663</fpage>.<pub-id pub-id-type="pmid">37041552</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1186/s12889-023-15566-2</pub-id><pub-id pub-id-type="pmcid">PMC10088103</pub-id></mixed-citation></ref><ref id="jmv70816-bib-0017"><label>17</label><mixed-citation publication-type="journal" id="jmv70816-cit-0017">
+<string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name name-style="western">
+<given-names>V. C.‐H.</given-names>
+<surname>Chung</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D. C.‐C.</given-names>
+<surname>Chan</surname>
+</string-name>, et al., “<article-title>Determinants of Post‐COVID‐19 Symptoms Among Adults Aged 55 or Above With Chronic Conditions in Primary Care: Data From a Prospective Cohort in Hong Kong</article-title>,” <source>Frontiers in Public Health</source>
+<volume>11</volume> (<year>2023</year>): <elocation-id>1138147</elocation-id>.<pub-id pub-id-type="pmid">37213637</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3389/fpubh.2023.1138147</pub-id><pub-id pub-id-type="pmcid">PMC10196359</pub-id></mixed-citation></ref><ref id="jmv70816-bib-0018"><label>18</label><mixed-citation publication-type="journal" id="jmv70816-cit-0018">
+<string-name name-style="western">
+<given-names>M. F.</given-names>
+<surname>Kabir</surname>
+</string-name>, <string-name name-style="western">
+<given-names>K. N.</given-names>
+<surname>Yin</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M. S.</given-names>
+<surname>Jeffree</surname>
+</string-name>, et al., “<article-title>Profile of Long COVID Symptoms Needing Rehabilitation: A Cross‐Sectional Household Survey of 12,925 SARS‐CoV‐2 Cases Between July and December 2021 in Bangladesh</article-title>,” <source>Archives of Public Health</source>
+<volume>81</volume>, no. <issue>1</issue> (<year>2023</year>): <fpage>132</fpage>.<pub-id pub-id-type="pmid">37461092</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1186/s13690-023-01140-0</pub-id><pub-id pub-id-type="pmcid">PMC10351147</pub-id></mixed-citation></ref><ref id="jmv70816-bib-0019"><label>19</label><mixed-citation publication-type="journal" id="jmv70816-cit-0019">
+<string-name name-style="western">
+<given-names>B.</given-names>
+<surname>Ayuso García</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Besteiro Balado</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Pérez López</surname>
+</string-name>, et al., “<article-title>Assessment of Post‐COVID Symptoms Using the C19‐YRS Tool in a Cohort of Patients From the First Pandemic Wave in Northwestern Spain</article-title>,” <source>Telemedicine and e‐Health</source>
+<volume>29</volume>, no. <issue>2</issue> (<year>2023</year>): <fpage>278</fpage>–<lpage>283</lpage>.<pub-id pub-id-type="pmid">35727139</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1089/tmj.2022.0085</pub-id></mixed-citation></ref><ref id="jmv70816-bib-0020"><label>20</label><mixed-citation publication-type="journal" id="jmv70816-cit-0020">
+<string-name name-style="western">
+<given-names>F. F.</given-names>
+<surname>Ho</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Xu</surname>
+</string-name>, <string-name name-style="western">
+<given-names>T. M. H.</given-names>
+<surname>Kwong</surname>
+</string-name>, et al., “<article-title>Prevalence, Patterns, and Clinical Severity of Long COVID Among Chinese Medicine Telemedicine Service Users: Preliminary Results From a Cross‐Sectional Study</article-title>,” <source>International Journal of Environmental Research and Public Health</source>
+<volume>20</volume>, no. <issue>3</issue> (<year>2023</year>): <fpage>1827</fpage>.<pub-id pub-id-type="pmid">36767195</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3390/ijerph20031827</pub-id><pub-id pub-id-type="pmcid">PMC9914360</pub-id></mixed-citation></ref><ref id="jmv70816-bib-0021"><label>21</label><mixed-citation publication-type="journal" id="jmv70816-cit-0021">
+<string-name name-style="western">
+<given-names>R. J.</given-names>
+<surname>O'Connor</surname>
+</string-name>, <string-name name-style="western">
+<given-names>N.</given-names>
+<surname>Preston</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Parkin</surname>
+</string-name>, et al., “<article-title>The COVID‐19 Yorkshire Rehabilitation Scale (C19‐YRS): Application and Psychometric Analysis in a Post‐COVID‐19 Syndrome Cohort</article-title>,” <source>Journal of Medical Virology</source>
+<volume>94</volume>, no. <issue>3</issue> (<year>2022</year>): <fpage>1027</fpage>–<lpage>1034</lpage>.<pub-id pub-id-type="pmid">34676578</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/jmv.27415</pub-id><pub-id pub-id-type="pmcid">PMC8662016</pub-id></mixed-citation></ref><ref id="jmv70816-bib-0022"><label>22</label><mixed-citation publication-type="journal" id="jmv70816-cit-0022">
+<string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Sivan</surname>
+</string-name>, <string-name name-style="western">
+<given-names>N.</given-names>
+<surname>Preston</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Parkin</surname>
+</string-name>, et al., “<article-title>The Modified COVID‐19 Yorkshire Rehabilitation Scale (C19‐YRSm) Patient‐Reported Outcome Measure for Long Covid or Post‐COVID‐19 Syndrome</article-title>,” <source>Journal of Medical Virology</source>
+<volume>94</volume>, no. <issue>9</issue> (September <year>2022</year>): <fpage>4253</fpage>–<lpage>4264</lpage>, <pub-id pub-id-type="doi">10.1002/jmv.27878</pub-id>.<pub-id pub-id-type="pmid">35603810</pub-id>
+<pub-id pub-id-type="pmcid">PMC9348420</pub-id></mixed-citation></ref><ref id="jmv70816-bib-0023"><label>23</label><mixed-citation publication-type="journal" id="jmv70816-cit-0023">
+<string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Kustura</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Bobek</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Poljičanin</surname>
+</string-name>, et al., “<article-title>Psychometric Properties and Observational Data for COVID‐19 Yorkshire Rehabilitation Scale (C19‐YRSm) for Post‐COVID‐19 Syndrome</article-title>,” <source>QJM</source>
+<volume>117</volume>, no. <issue>1</issue> (<year>2024</year>): <fpage>38</fpage>–<lpage>47</lpage>.<pub-id pub-id-type="pmid">37788123</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/qjmed/hcad224</pub-id></mixed-citation></ref><ref id="jmv70816-bib-0024"><label>24</label><mixed-citation publication-type="journal" id="jmv70816-cit-0024">
+<string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Smith</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Greenwood</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Horton</surname>
+</string-name>, et al., “<article-title>Psychometric Analysis of the Modified COVID‐19 Yorkshire Rehabilitation Scale (C19‐YRSm) in a Prospective Multicentre Study</article-title>,” <source>BMJ Open Respiratory Research</source>
+<volume>11</volume>, no. <issue>1</issue> (<year>2024</year>): <elocation-id>e002271</elocation-id>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1136/bmjresp-2023-002271</pub-id><pub-id pub-id-type="pmcid">PMC11086182</pub-id><pub-id pub-id-type="pmid">38724221</pub-id></mixed-citation></ref><ref id="jmv70816-bib-0025"><label>25</label><mixed-citation publication-type="journal" id="jmv70816-cit-0025">
+<string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Sivan</surname>
+</string-name>, <string-name name-style="western">
+<given-names>T.</given-names>
+<surname>Greenhalgh</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J. L.</given-names>
+<surname>Darbyshire</surname>
+</string-name>, et al., “<article-title>LOng COvid Multidisciplinary Consortium Optimising Treatments and Services AcrOss the NHS (LOCOMOTION): Protocol for a Mixed‐Methods Study in the UK</article-title>,” <source>BMJ Open</source>
+<volume>12</volume>, no. <issue>5</issue> (<year>2022</year>): <elocation-id>e063505</elocation-id>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1136/bmjopen-2022-063505</pub-id><pub-id pub-id-type="pmcid">PMC9114312</pub-id><pub-id pub-id-type="pmid">35580970</pub-id></mixed-citation></ref><ref id="jmv70816-bib-0026"><label>26</label><mixed-citation publication-type="miscellaneous" id="jmv70816-cit-0026">
+<collab collab-type="authors">National Institute for Health and Care Excellence (NICE)</collab>
+, <italic toggle="yes">COVID‐19 Rapid Guideline: Managing the Long‐Term Effects of COVID‐19</italic> (NICE Guideline [NG188], <year>2024</year>).<pub-id pub-id-type="pmid">33555768</pub-id></mixed-citation></ref><ref id="jmv70816-bib-0027"><label>27</label><mixed-citation publication-type="journal" id="jmv70816-cit-0027">
+<string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Sivan</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Rocha Lawrence</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>P.</given-names>
+<surname>O'Brien</surname>
+</string-name>, “<article-title>Digital Patient Reported Outcome Measures Platform for Post–COVID‐19 Condition and Other Long‐Term Conditions: User‐Centered Development and Technical Description</article-title>,” <source>JMIR Human Factors</source>
+<volume>10</volume>, no. <issue>1</issue> (<year>2023</year>): <elocation-id>e48632</elocation-id>.<pub-id pub-id-type="pmid">37665334</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.2196/48632</pub-id><pub-id pub-id-type="pmcid">PMC10592725</pub-id></mixed-citation></ref><ref id="jmv70816-bib-0028"><label>28</label><mixed-citation publication-type="book" id="jmv70816-cit-0028">
+<string-name name-style="western">
+<given-names>G.</given-names>
+<surname>Rasch</surname>
+</string-name>, <source>Probabilistic Models for Some Intelligence and Attainment Tests</source> (<publisher-name>ERIC</publisher-name>, <year>1993</year>).</mixed-citation></ref><ref id="jmv70816-bib-0029"><label>29</label><mixed-citation publication-type="book" id="jmv70816-cit-0029">
+<string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Andrich</surname>
+</string-name>, <string-name name-style="western">
+<given-names>B.</given-names>
+<surname>Sheridan</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>G.</given-names>
+<surname>Luo</surname>
+</string-name>, <source>RUMM 2030</source> (<publisher-name>RUMM Laboratory</publisher-name>, <year>2010</year>).</mixed-citation></ref><ref id="jmv70816-bib-0030"><label>30</label><mixed-citation publication-type="miscellaneous" id="jmv70816-cit-0030">
+<string-name name-style="western">
+<given-names>E. V.</given-names>
+<surname>Smith</surname>
+</string-name> Jr., “Detecting and Evaluating the Impact of Multidimensionality Using Item Fit Statistics and Principal Component Analysis of Residuals,” <italic toggle="yes">Journal of Applied Measurement</italic> 3, no. 2 (<year>2002</year>): 205–231.<pub-id pub-id-type="pmid">12011501</pub-id></mixed-citation></ref><ref id="jmv70816-bib-0031"><label>31</label><mixed-citation publication-type="journal" id="jmv70816-cit-0031">
+<string-name name-style="western">
+<given-names>G. N.</given-names>
+<surname>Masters</surname>
+</string-name>, “<article-title>A Rasch Model for Partial Credit Scoring</article-title>,” <source>Psychometrika</source>
+<volume>47</volume>, no. <issue>2</issue> (<year>1982</year>): <fpage>149</fpage>–<lpage>174</lpage>.</mixed-citation></ref><ref id="jmv70816-bib-0032"><label>32</label><mixed-citation publication-type="journal" id="jmv70816-cit-0032">
+<string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Hagquist</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Bruce</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>J. P.</given-names>
+<surname>Gustavsson</surname>
+</string-name>, “<article-title>Using the Rasch Model in Nursing Research: An Introduction and Illustrative Example</article-title>,” <source>International Journal of Nursing Studies</source>
+<volume>46</volume>, no. <issue>3</issue> (<year>2009</year>): <fpage>380</fpage>–<lpage>393</lpage>.<pub-id pub-id-type="pmid">19059593</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.ijnurstu.2008.10.007</pub-id></mixed-citation></ref><ref id="jmv70816-bib-0033"><label>33</label><mixed-citation publication-type="journal" id="jmv70816-cit-0033">
+<string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Tennant</surname>
+</string-name> and <string-name name-style="western">
+<given-names>A. A.</given-names>
+<surname>Küçükdeveci</surname>
+</string-name>, “<article-title>Application of the Rasch Measurement Model in Rehabilitation Research and Practice: Early Developments, Current Practice, and Future Challenges</article-title>,” <source>Frontiers in Rehabilitation Sciences</source>
+<volume>4</volume> (<year>2023</year>): <elocation-id>1208670</elocation-id>.<pub-id pub-id-type="pmid">37529206</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3389/fresc.2023.1208670</pub-id><pub-id pub-id-type="pmcid">PMC10387545</pub-id></mixed-citation></ref><ref id="jmv70816-bib-0034"><label>34</label><mixed-citation publication-type="journal" id="jmv70816-cit-0034">
+<string-name name-style="western">
+<given-names>K. B.</given-names>
+<surname>Christensen</surname>
+</string-name>, <string-name name-style="western">
+<given-names>G.</given-names>
+<surname>Makransky</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Horton</surname>
+</string-name>, “<article-title>Critical Values for Yen's Q 3: Identification of Local Dependence in the Rasch Model Using Residual Correlations</article-title>,” <source>Applied Psychological Measurement</source>
+<volume>41</volume>, no. <issue>3</issue> (<year>2017</year>): <fpage>178</fpage>–<lpage>194</lpage>.<pub-id pub-id-type="pmid">29881087</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1177/0146621616677520</pub-id><pub-id pub-id-type="pmcid">PMC5978551</pub-id></mixed-citation></ref><ref id="jmv70816-bib-0035"><label>35</label><mixed-citation publication-type="journal" id="jmv70816-cit-0035">
+<string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Andrich</surname>
+</string-name>, “<article-title>Rating Scales and Rasch Measurement</article-title>,” <source>Expert Review of Pharmacoeconomics &amp; Outcomes Research</source>
+<volume>11</volume>, no. <issue>5</issue> (<year>2011</year>): <fpage>571</fpage>–<lpage>585</lpage>.<pub-id pub-id-type="pmid">21958102</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1586/erp.11.59</pub-id></mixed-citation></ref><ref id="jmv70816-bib-0036"><label>36</label><mixed-citation publication-type="journal" id="jmv70816-cit-0036">
+<string-name name-style="western">
+<given-names>P.</given-names>
+<surname>Hagell</surname>
+</string-name> and <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Westergren</surname>
+</string-name>, “<article-title>Sample Size and Statistical Conclusions From Tests of Fit to the Rasch Model According to the Rasch Unidimensional Measurement Model (RUMM) Program in Health Outcome Measurement</article-title>,” <source>Journal of Applied Measurement</source>
+<volume>17</volume>, no. <issue>4</issue> (<year>2016</year>): <fpage>416</fpage>–<lpage>431</lpage>.<pub-id pub-id-type="pmid">28009589</pub-id>
+</mixed-citation></ref><ref id="jmv70816-bib-0037"><label>37</label><mixed-citation publication-type="journal" id="jmv70816-cit-0037">
+<string-name name-style="western">
+<given-names>P.</given-names>
+<surname>Hagell</surname>
+</string-name>, “<article-title>Testing Rating Scale Unidimensionality Using the Principal Component Analysis (PCA)/<italic toggle="yes">t</italic>‐Test Protocol With the Rasch Model: The Primacy of Theory Over Statistics</article-title>,” <source>Open Journal of Statistics</source>
+<volume>4</volume>, no. <issue>6</issue> (<year>2014</year>): <fpage>456</fpage>–<lpage>465</lpage>.</mixed-citation></ref><ref id="jmv70816-bib-0038"><label>38</label><mixed-citation publication-type="journal" id="jmv70816-cit-0038">
+<string-name name-style="western">
+<given-names>E. M.</given-names>
+<surname>Basch</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Abernethy</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C. D.</given-names>
+<surname>Mullins</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M. R.</given-names>
+<surname>Tiglao</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>S. R.</given-names>
+<surname>Tunis</surname>
+</string-name>, “<article-title>EV1 Development of a Guidance for Including Patient‐Reported Outcomes (PROS) in Post‐Approval Clinical Trials of Oncology Drugs for Comparative Effectiveness Research (CER)</article-title>,” <source>Value in Health</source>
+<volume>14</volume>, no. <issue>3</issue> (<year>2011</year>): <fpage>A10</fpage>.</mixed-citation></ref><ref id="jmv70816-bib-0039"><label>39</label><mixed-citation publication-type="journal" id="jmv70816-cit-0039">
+<string-name name-style="western">
+<given-names>A. K.</given-names>
+<surname>Baalmann</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Blome</surname>
+</string-name>, <string-name name-style="western">
+<given-names>N.</given-names>
+<surname>Stoletzki</surname>
+</string-name>, <string-name name-style="western">
+<given-names>T.</given-names>
+<surname>Donhauser</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Apfelbacher</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Piontek</surname>
+</string-name>, “<article-title>Patient‐Reported Outcome Measures for Post‐COVID‐19 Condition: A Systematic Review of Instruments and Measurement Properties</article-title>,” <source>BMJ Open</source>
+<volume>14</volume>, no. <issue>12</issue> (<year>2024</year>): <elocation-id>e084202</elocation-id>, <pub-id pub-id-type="doi">10.1136/bmjopen-2024-084202</pub-id>.<pub-id pub-id-type="pmcid">PMC11667390</pub-id><pub-id pub-id-type="pmid">39806627</pub-id></mixed-citation></ref><ref id="jmv70816-bib-0040"><label>40</label><mixed-citation publication-type="journal" id="jmv70816-cit-0040">
+<string-name name-style="western">
+<given-names>S. L.</given-names>
+<surname>Gorst</surname>
+</string-name>, <string-name name-style="western">
+<given-names>N.</given-names>
+<surname>Seylanova</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S. R.</given-names>
+<surname>Dodd</surname>
+</string-name>, et al., “<article-title>Core Outcome Measurement Instruments for Use in Clinical and Research Settings for Adults With Post‐COVID‐19 Condition: An International Delphi Consensus Study</article-title>,” <source>Lancet Respiratory Medicine</source>
+<volume>11</volume>, no. <issue>12</issue> (<year>2023</year>): <fpage>1101</fpage>–<lpage>1114</lpage>.<pub-id pub-id-type="pmid">37926103</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/S2213-2600(23)00370-3</pub-id></mixed-citation></ref><ref id="jmv70816-bib-0041"><label>41</label><mixed-citation publication-type="journal" id="jmv70816-cit-0041">
+<string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Munblit</surname>
+</string-name>, <string-name name-style="western">
+<given-names>T.</given-names>
+<surname>Nicholson</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Akrami</surname>
+</string-name>, et al., “<article-title>A Core Outcome Set for Post‐COVID‐19 Condition in Adults for Use in Clinical Practice and Research: An International Delphi Consensus Study</article-title>,” <source>Lancet Respiratory Medicine</source>
+<volume>10</volume>, no. <issue>7</issue> (<year>2022</year>): <fpage>715</fpage>–<lpage>724</lpage>.<pub-id pub-id-type="pmid">35714658</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/S2213-2600(22)00169-2</pub-id><pub-id pub-id-type="pmcid">PMC9197249</pub-id></mixed-citation></ref><ref id="jmv70816-bib-0042"><label>42</label><mixed-citation publication-type="journal" id="jmv70816-cit-0042">
+<string-name name-style="western">
+<given-names>L.</given-names>
+<surname>D'hoore</surname>
+</string-name>, <string-name name-style="western">
+<given-names>P.</given-names>
+<surname>Germonpré</surname>
+</string-name>, <string-name name-style="western">
+<given-names>B.</given-names>
+<surname>Rinia</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Caeyers</surname>
+</string-name>, <string-name name-style="western">
+<given-names>N.</given-names>
+<surname>Stevens</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Balestra</surname>
+</string-name>, “<article-title>Effect of Normobaric and Hyperbaric Hyperoxia Treatment on Symptoms and Cognitive Capacities in Long COVID Patients: A Randomised Placebo‐Controlled, Prospective, Double‐Blind Trial</article-title>,” <source>Diving and Hyperbaric Medicine Journal</source>
+<volume>55</volume>, no. <issue>2</issue> (<year>2025</year>): <fpage>104</fpage>–<lpage>113</lpage>, <pub-id pub-id-type="doi">10.28920/dhm55.2.104-113</pub-id>.<pub-id pub-id-type="pmcid">PMC12267068</pub-id><pub-id pub-id-type="pmid">40544138</pub-id></mixed-citation></ref><ref id="jmv70816-bib-0043"><label>43</label><mixed-citation publication-type="journal" id="jmv70816-cit-0043">
+<string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Corrado</surname>
+</string-name>, <string-name name-style="western">
+<given-names>N.</given-names>
+<surname>Iftekhar</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Halpin</surname>
+</string-name>, et al., “<article-title>HEART Rate Variability Biofeedback for LOng COVID Dysautonomia (HEARTLOC): Results of a Feasibility Study</article-title>,” <source>Advances in Rehabilitation Science and Practice</source>
+<volume>13</volume> (<year>2024</year>): <elocation-id>27536351241227261</elocation-id>, <pub-id pub-id-type="doi">10.1177/27536351241227261</pub-id>.<pub-id pub-id-type="pmid">38298551</pub-id>
+<pub-id pub-id-type="pmcid">PMC10826406</pub-id></mixed-citation></ref></ref-list><app-group><app id="jmv70816-app-0001" content-type="Appendix"><sec sec-type="opening-section" id="jmv70816-sec-0350"><label>1</label><p>The C19‐YRSm is available via the University of Leeds licensing platform, here:</p><p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://licensing.leeds.ac.uk/product/c19-yrs-covid-19-yorkshire-rehabilitation-subscale" ext-link-type="uri">https://licensing.leeds.ac.uk/product/c19-yrs-covid-19-yorkshire-rehabilitation-subscale</ext-link>.</p></sec></app></app-group></back></article></pmc-articleset>

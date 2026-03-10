@@ -1,0 +1,1134 @@
+<?xml version="1.0"  ?><!DOCTYPE pmc-articleset PUBLIC "-//NLM//DTD ARTICLE SET 2.0//EN" "https://dtd.nlm.nih.gov/ncbi/pmc/articleset/nlm-articleset-2.0.dtd"><pmc-articleset><article id="hex70399" xml:lang="en" article-type="research-article" dtd-version="1.4"><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">Health Expect</journal-id><journal-id journal-id-type="iso-abbrev">Health Expect</journal-id><journal-id journal-id-type="pmc-domain-id">2997</journal-id><journal-id journal-id-type="pmc-domain">hex</journal-id><journal-id journal-id-type="publisher-id">HEX</journal-id><journal-title-group><journal-title>Health Expectations : An International Journal of Public Participation in Health Care and Health Policy</journal-title></journal-title-group><issn pub-type="ppub">1369-6513</issn><issn pub-type="epub">1369-7625</issn><publisher><publisher-name>Wiley</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC12368431</article-id><article-id pub-id-type="pmcid-ver">PMC12368431.1</article-id><article-id pub-id-type="pmcaid">12368431</article-id><article-id pub-id-type="pmcaiid">12368431</article-id><article-id pub-id-type="pmid">40836768</article-id><article-id pub-id-type="doi">10.1111/hex.70399</article-id><article-id pub-id-type="publisher-id">HEX70399</article-id><article-version article-version-type="pmc-version">1</article-version><article-categories><subj-group subj-group-type="overline"><subject>Original Article</subject></subj-group><subj-group subj-group-type="heading"><subject>Original Article</subject></subj-group></article-categories><title-group><article-title>Long COVID Optimal Health Programme to Enhance Mental and Physical Health: A Feasibility Randomised Controlled Trial</article-title></title-group><contrib-group><contrib id="hex70399-cr-0001" contrib-type="author" corresp="yes"><name name-style="western"><surname>Al‐Jabr</surname><given-names initials="H">Hiyam</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-4038-3996</contrib-id><xref rid="hex70399-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="hex70399-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref><address><email>h.al-jabr@keele.ac.uk</email></address></contrib><contrib id="hex70399-cr-0002" contrib-type="author"><name name-style="western"><surname>Castle</surname><given-names initials="DJ">David J.</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-3075-1580</contrib-id><xref rid="hex70399-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref><xref rid="hex70399-aff-0004" ref-type="aff">
+<sup>4</sup>
+</xref></contrib><contrib id="hex70399-cr-0003" contrib-type="author"><name name-style="western"><surname>Thompson</surname><given-names initials="DR">David R.</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0001-8518-6307</contrib-id><xref rid="hex70399-aff-0005" ref-type="aff">
+<sup>5</sup>
+</xref></contrib><contrib id="hex70399-cr-0004" contrib-type="author"><name name-style="western"><surname>Windle</surname><given-names initials="K">Karen</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-2136-735X</contrib-id><xref rid="hex70399-aff-0006" ref-type="aff">
+<sup>6</sup>
+</xref></contrib><contrib id="hex70399-cr-0005" contrib-type="author"><name name-style="western"><surname>Belcher</surname><given-names initials="J">John</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0001-6844-0932</contrib-id><xref rid="hex70399-aff-0007" ref-type="aff">
+<sup>7</sup>
+</xref></contrib><contrib id="hex70399-cr-0006" contrib-type="author"><name name-style="western"><surname>Valenzuela</surname><given-names initials="MMDI">Mónica M. De Icaza</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-9782-625X</contrib-id><xref rid="hex70399-aff-0008" ref-type="aff">
+<sup>8</sup>
+</xref></contrib><contrib id="hex70399-cr-0007" contrib-type="author"><name name-style="western"><surname>Helliwell</surname><given-names initials="T">Toby</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0003-3987-6045</contrib-id><xref rid="hex70399-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="hex70399-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib id="hex70399-cr-0008" contrib-type="author"><name name-style="western"><surname>Ski</surname><given-names initials="CF">Chantal F.</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0003-1324-2933</contrib-id><xref rid="hex70399-aff-0005" ref-type="aff">
+<sup>5</sup>
+</xref></contrib></contrib-group><aff id="hex70399-aff-0001">
+<label>
+<sup>1</sup>
+</label>
+<named-content content-type="organisation-division">School of Medicine</named-content>
+<institution>Keele University</institution>
+<city>Staffordshire</city>
+<country country="GB">UK</country>
+</aff><aff id="hex70399-aff-0002">
+<label>
+<sup>2</sup>
+</label>
+<named-content content-type="organisation-division">Department of Research and Innovation</named-content>
+<institution>Midlands Partnership University NHS Foundation Trust</institution>
+<city>Stafford</city>
+<country country="GB">UK</country>
+</aff><aff id="hex70399-aff-0003">
+<label>
+<sup>3</sup>
+</label>
+<named-content content-type="organisation-division">Department of Psychiatry</named-content>
+<institution>University of Tasmania</institution>
+<city>Tasmania</city>
+<country country="AU">Australia</country>
+</aff><aff id="hex70399-aff-0004">
+<label>
+<sup>4</sup>
+</label>
+<institution>Centre for Mental Health Service Innovation</institution>
+<city>Tasmania</city>
+<country country="AU">Australia</country>
+</aff><aff id="hex70399-aff-0005">
+<label>
+<sup>5</sup>
+</label>
+<named-content content-type="organisation-division">School of Nursing and Midwifery</named-content>
+<institution>Queen's University Belfast</institution>
+<city>Belfast</city>
+<country country="GB">UK</country>
+</aff><aff id="hex70399-aff-0006">
+<label>
+<sup>6</sup>
+</label>
+<named-content content-type="organisation-division">Centre for Applied Dementia Studies</named-content>
+<institution>University of Bradford</institution>
+<city>Bradford</city>
+<country country="GB">UK</country>
+</aff><aff id="hex70399-aff-0007">
+<label>
+<sup>7</sup>
+</label>
+<named-content content-type="organisation-division">School of Medicine</named-content>
+<institution>Keele University</institution>
+<city>Keele</city>
+<country country="GB">UK</country>
+</aff><aff id="hex70399-aff-0008">
+<label>
+<sup>8</sup>
+</label>
+<named-content content-type="organisation-division">Integrated Care Academy</named-content>
+<institution>University of Suffolk</institution>
+<city>Suffolk</city>
+<country country="GB">UK</country>
+</aff><author-notes><corresp id="correspondenceTo">
+<label>*</label>
+<bold>Correspondence:</bold> Hiyam Al‐Jabr (<email>h.al-jabr@keele.ac.uk</email>)<break/>
+</corresp></author-notes><pub-date pub-type="epub"><day>21</day><month>8</month><year>2025</year></pub-date><pub-date pub-type="collection"><month>8</month><year>2025</year></pub-date><volume>28</volume><issue seq="88">4</issue><issue-id pub-id-type="pmc-issue-id">491792</issue-id><issue-id pub-id-type="doi">10.1111/hex.v28.4</issue-id><elocation-id>e70399</elocation-id><history><date date-type="rev-recd"><day>20</day><month>5</month><year>2025</year></date><date date-type="received"><day>22</day><month>12</month><year>2024</year></date><date date-type="accepted"><day>06</day><month>8</month><year>2025</year></date></history><pub-history><event event-type="pmc-release"><date><day>21</day><month>08</month><year>2025</year></date></event><event event-type="pmc-live"><date><day>22</day><month>08</month><year>2025</year></date></event><event event-type="pmc-last-change"><date iso-8601-date="2025-08-22 10:25:47.697"><day>22</day><month>08</month><year>2025</year></date></event></pub-history><permissions><copyright-statement content-type="article-copyright">© 2025 The Author(s). <italic toggle="yes">Health Expectations</italic> published by John Wiley &amp; Sons Ltd.</copyright-statement><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>This is an open access article under the terms of the <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pmc-pdf" xlink:href="HEX-28-e70399.pdf"/><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pdf" xlink:href="file:HEX-28-e70399.pdf"/><abstract><title>ABSTRACT</title><sec id="hex70399-sec-0010"><title>Introduction</title><p>Long COVID (LC) is characterised by fatigue, muscle weakness and impaired concentration among other symptoms. No standardised diagnostic or treatment pathway is yet available, though a holistic, person‐centred approach to symptom management is recommended. The LC Optimal Health Programme (LC‐OHP) is a psychoeducational programme designed to support the mental and physical health of people with LC. This study aimed to examine the feasibility of delivering the LC‐OHP to people with LC.</p></sec><sec id="hex70399-sec-0020"><title>Methods</title><p>This was a feasibility randomised controlled trial of the LC‐OHP conducted across the UK. Adults diagnosed with LC were recruited and randomised to control (usual care) or to intervention (LC‐OHP) groups; follow‐up questionnaires were completed at three‐ and 6‐months (December 2021 to May 2023).</p></sec><sec id="hex70399-sec-0030"><title>Results</title><p>Sixty participants were recruited with a completion rate of 83% (<italic toggle="yes">n</italic> = 50). Most participants in the LC‐OHP group completed programme sessions (<italic toggle="yes">n</italic> = 19, 68%), rated the programme positively (<italic toggle="yes">n</italic> = 23, 87%); and felt that it had potential to improve health outcomes (<italic toggle="yes">n</italic> = 42, 70%). Initial findings demonstrate improvements across all variables at 3‐ and 6‐months, and more so for the LC‐OHP group than the control group in the short‐term.</p></sec><sec id="hex70399-sec-0040"><title>Conclusion</title><p>Findings support the feasibility of delivering the LC‐OHP to people with LC. Further, initial data demonstrate potential for the programme to improve most outcomes at three and 6 months. Data from this feasibility trial will be used as an evidence base to support a fully powered RCT of the LC‐OHP on patients with LC.</p></sec><sec id="hex70399-sec-0050"><title>Patient or Public Contribution</title><p>The LC‐OHP programme was adapted from the original OHP. Taking into account the various symptoms that people with LC experience, including fatigue and brain fog, public members were not directly involved in the design of the study; however, several approaches were considered to obtain ongoing support from public members while conducting the study, to suit people with LC. This included consulting with practitioners who care for people with LC and implementing their feedback, implementing prior feedback from patients with other chronic health conditions who used the OHP in previous studies, and collecting and implementing feedback from participants receiving this programme in this study. Additionally, two public members with lived LC experience were members of the data management committee that overviewed the study progress and provided continuous support. Public members and practitioners provided advice and guidance on different aspects related to the LC‐OHP programme and to the process of delivering it to study participants. This included making the programme concise, visual, colourful, and more user‐friendly, and adjusting and adapting the mode and timing of delivering the programme sessions (i.e., reduce the session duration, use convenient delivery methods) as preferred by study participants.</p><p>
+<bold>Trial Registration:</bold> ISRCTN trial register: registration number 38746119, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://doi.org/10.1186/ISRCTN38746119" ext-link-type="uri">https://doi.org/10.1186/ISRCTN38746119</ext-link>.</p></sec></abstract><kwd-group><kwd id="hex70399-kwd-0001">feasibility randomised controlled trial</kwd><kwd id="hex70399-kwd-0002">long COVID</kwd><kwd id="hex70399-kwd-0003">mental health</kwd><kwd id="hex70399-kwd-0004">Optimal Health Programme</kwd></kwd-group><funding-group><award-group id="funding-0001"><funding-source>
+<institution-wrap><institution>This study was supported by Mental Health Alliance (East Suffolk, West Suffolk and North East Essex) (SIV02/0000555).</institution></institution-wrap>
+</funding-source></award-group></funding-group><counts><fig-count count="1"/><table-count count="3"/><page-count count="10"/><word-count count="7221"/></counts><custom-meta-group><custom-meta><meta-name>pmc-status-qastatus</meta-name><meta-value>0</meta-value></custom-meta><custom-meta><meta-name>pmc-status-live</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-status-embargo</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-status-released</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-access</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-legally-suppressed</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-pdf</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-supplement</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-pdf-only</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-suppress-copyright</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-real-version</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-scanned-article</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-in-epmc</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-license-ref</meta-name><meta-value>CC BY</meta-value></custom-meta><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>August 2025</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:6.6.0 mode:remove_FC converted:21.08.2025</meta-value></custom-meta></custom-meta-group></article-meta></front><body><sec id="hex70399-sec-0060"><label>1</label><title>Introduction</title><p>Since the COVID‐19 pandemic, evidence has emerged that symptoms may persist for weeks/months beyond the acute infection, collectively referred to as ‘long COVID’ (LC) [<xref rid="hex70399-bib-0001" ref-type="bibr">1</xref>, <xref rid="hex70399-bib-0002" ref-type="bibr">2</xref>, <xref rid="hex70399-bib-0003" ref-type="bibr">3</xref>, <xref rid="hex70399-bib-0004" ref-type="bibr">4</xref>]. According to the National Institute for Health and Care Excellence (NICE), LC encompasses both ongoing symptomatic COVID‐19 (4‐12 weeks) and post‐COVID‐19 syndrome ( ≥ 12 weeks) [<xref rid="hex70399-bib-0005" ref-type="bibr">5</xref>, <xref rid="hex70399-bib-0006" ref-type="bibr">6</xref>]. It is estimated that within the first 2 years of COVID‐19, around 17 million people across Europe alone experienced LC, and millions are expected to live with it for years to come [<xref rid="hex70399-bib-0007" ref-type="bibr">7</xref>]. It is estimated in the United States that 7.5% of adults continue to have symptoms ≥ 3 months beyond the acute infection [<xref rid="hex70399-bib-0008" ref-type="bibr">8</xref>]. Further, evidence continues to demonstrate ongoing, persistent symptoms of LC globally [<xref rid="hex70399-bib-0009" ref-type="bibr">9</xref>, <xref rid="hex70399-bib-0010" ref-type="bibr">10</xref>, <xref rid="hex70399-bib-0011" ref-type="bibr">11</xref>, <xref rid="hex70399-bib-0012" ref-type="bibr">12</xref>, <xref rid="hex70399-bib-0013" ref-type="bibr">13</xref>]. In the United Kingdom, the number of people with symptomatic LC is estimated between one (persisting ≥ 4 weeks) [<xref rid="hex70399-bib-0014" ref-type="bibr">14</xref>] to two million (persisting ≥ 12 weeks) [<xref rid="hex70399-bib-0015" ref-type="bibr">15</xref>], with reports of one in ten [<xref rid="hex70399-bib-0016" ref-type="bibr">16</xref>, <xref rid="hex70399-bib-0017" ref-type="bibr">17</xref>] and one in 20 people with persistent symptoms at ≥ 12 weeks [<xref rid="hex70399-bib-0018" ref-type="bibr">18</xref>].</p><p>Risk factors for LC are numerous, including gender, age, symptom severity in the acute phase, and concomitant chronic illnesses [<xref rid="hex70399-bib-0019" ref-type="bibr">19</xref>, <xref rid="hex70399-bib-0020" ref-type="bibr">20</xref>, <xref rid="hex70399-bib-0021" ref-type="bibr">21</xref>]. LC affects multiple organ systems with persistent and fluctuating symptoms with consequent restriction in quality of life (QoL) [<xref rid="hex70399-bib-0022" ref-type="bibr">22</xref>]. Most reported symptoms include fatigue, depression, anxiety, brain fog and muscle/joint pain [<xref rid="hex70399-bib-0014" ref-type="bibr">14</xref>, <xref rid="hex70399-bib-0023" ref-type="bibr">23</xref>, <xref rid="hex70399-bib-0024" ref-type="bibr">24</xref>, <xref rid="hex70399-bib-0025" ref-type="bibr">25</xref>, <xref rid="hex70399-bib-0026" ref-type="bibr">26</xref>, <xref rid="hex70399-bib-0027" ref-type="bibr">27</xref>, <xref rid="hex70399-bib-0028" ref-type="bibr">28</xref>]. The multitude of symptoms, global reach of the pandemic, and associated uncertainties have caused considerable distress and burden on healthcare systems, patients, and the public [<xref rid="hex70399-bib-0029" ref-type="bibr">29</xref>, <xref rid="hex70399-bib-0030" ref-type="bibr">30</xref>, <xref rid="hex70399-bib-0031" ref-type="bibr">31</xref>, <xref rid="hex70399-bib-0032" ref-type="bibr">32</xref>].</p><p>To date, no evidence‐based standardised approach to managing LC exists. However, recommendations are to use comprehensive pathways for LC management [<xref rid="hex70399-bib-0005" ref-type="bibr">5</xref>, <xref rid="hex70399-bib-0033" ref-type="bibr">33</xref>, <xref rid="hex70399-bib-0034" ref-type="bibr">34</xref>]. Of note, with significant variation in LC presentation, it is recommended that different approaches should be considered to suit patients’ individual needs [<xref rid="hex70399-bib-0034" ref-type="bibr">34</xref>, <xref rid="hex70399-bib-0035" ref-type="bibr">35</xref>, <xref rid="hex70399-bib-0036" ref-type="bibr">36</xref>]. The initial priority in responding to the pandemic was to manage and prevent the acute infection. Considering the enormity of its impact (e.g., personal, social, economic, and health), the priority has shifted toward providing comprehensive support [<xref rid="hex70399-bib-0023" ref-type="bibr">23</xref>, <xref rid="hex70399-bib-0037" ref-type="bibr">37</xref>]. Due to the increasing demands placed on mental health services by COVID‐19 and LC [<xref rid="hex70399-bib-0023" ref-type="bibr">23</xref>], along with workforce shortages and increasing multimorbidity, the sustainability of healthcare systems is increasingly under threat.</p><p>The Optimal Health Programme (OHP) is a psychoeducational self‐efficacy programme originally developed to support people with mental health issues [<xref rid="hex70399-bib-0038" ref-type="bibr">38</xref>, <xref rid="hex70399-bib-0039" ref-type="bibr">39</xref>, <xref rid="hex70399-bib-0040" ref-type="bibr">40</xref>]. This study aimed to examine the feasibility of delivering the LC‐OHP to people with LC. Primary objectives were to explore the feasibility (i.e., recruitment and retention rates) and acceptability (i.e., intervention adherence, completion of outcome assessments, acceptability and fidelity of the intervention, reasons for withdrawal) of delivering the LC‐OHP. Secondary objective was to identify any indicators of potential impact of the intervention on anxiety, depression, QoL, self‐efficacy and fatigue across groups and time through trends in data.</p></sec><sec sec-type="materials-and-methods" id="hex70399-sec-0070"><label>2</label><title>Materials and Methods</title><sec id="hex70399-sec-0080"><label>2.1</label><title>Ethics and Governance</title><p>Ethics approval was granted by the university research ethics committee (RETH21/004) and NHS Health Research Authority (IRAS no. 304234). The study was overseen by a Data Management Committee (DMC), which comprised 11 members (including public members, clinicians, and researchers), and met four times over the course of the study. Protocol amendments (e.g., expanding recruitment strategies) were approved by the relevant ethical committees.</p></sec><sec id="hex70399-sec-0090"><label>2.2</label><title>Participants</title><p>Eligibility criteria were patients aged ≥ 18 years, confirmed diagnosis with COVID‐19 and LC (through reporting of PCR testing or confirmation by a clinician involved in the management of their LC); able to communicate in English and provide consent.</p></sec><sec id="hex70399-sec-0100"><label>2.3</label><title>Participant Recruitment</title><p>Multiple recruitment approaches were used (Figure <xref rid="hex70399-fig-0001" ref-type="fig">1</xref>).</p><fig position="float" fig-type="Figure" id="hex70399-fig-0001" orientation="portrait"><label>Figure 1</label><caption><p>Flowchart of participant identification, invitation and recruitment.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-1" orientation="portrait" xlink:href="HEX-28-e70399-g001.jpg"/></fig></sec><sec id="hex70399-sec-0110"><label>2.4</label><title>Participant Randomisation</title><p>Once consented, participants were randomised post‐baseline data collection by an independent researcher using computer‐generated block randomisation [<xref rid="hex70399-bib-0043" ref-type="bibr">43</xref>]. Due to the nature and length of the intervention, neither the researcher nor the participant was blinded to the treatment allocation.</p></sec><sec id="hex70399-sec-0120"><label>2.5</label><title>Intervention</title><p>The OHP has been successfully implemented across a range of long‐term conditions [<xref rid="hex70399-bib-0038" ref-type="bibr">38</xref>, <xref rid="hex70399-bib-0039" ref-type="bibr">39</xref>, <xref rid="hex70399-bib-0044" ref-type="bibr">44</xref>, <xref rid="hex70399-bib-0045" ref-type="bibr">45</xref>, <xref rid="hex70399-bib-0046" ref-type="bibr">46</xref>]. The LC‐OHP addresses mental and physical dimensions of health and wellbeing [<xref rid="hex70399-bib-0047" ref-type="bibr">47</xref>]. It works on enhancing self‐efficacy and self‐management skills, with expectations of reductions in healthcare system burden and economic strain. In this study, the OHP was adapted to people with LC, LC‐OHP description is shown in Table <xref rid="hex70399-tbl-0001" ref-type="table">1</xref>.</p><table-wrap position="float" id="hex70399-tbl-0001" content-type="Table" orientation="portrait"><label>Table 1</label><caption><p>Description of LC‐OHP sessions.</p></caption><table frame="hsides" rules="groups"><col align="left" style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" span="1"/><col align="center" style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" span="1"/><col align="center" style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" span="1"/><thead valign="bottom"><tr style="border-bottom:solid 1px #000000" valign="bottom"><th align="left" valign="bottom" rowspan="1" colspan="1">Session</th><th align="center" valign="bottom" rowspan="1" colspan="1">Title</th><th align="center" valign="bottom" rowspan="1" colspan="1">Content</th></tr></thead><tbody valign="top"><tr><td rowspan="2" align="left" valign="top" colspan="1">1</td><td rowspan="2" align="center" valign="top" colspan="1">Optimal health</td><td align="center" valign="top" rowspan="1" colspan="1">What is optimal health?</td></tr><tr><td align="center" valign="top" rowspan="1" colspan="1">
+<italic toggle="yes">Optimal Health Wheel</italic>
+</td></tr><tr><td rowspan="3" align="left" valign="top" colspan="1">2</td><td rowspan="3" align="center" valign="top" colspan="1">I‐Can‐Do‐Model</td><td align="center" valign="top" rowspan="1" colspan="1">Strengths and Vulnerabilities</td></tr><tr><td align="center" valign="top" rowspan="1" colspan="1">Stressors and Strategies</td></tr><tr><td align="center" valign="top" rowspan="1" colspan="1">
+<italic toggle="yes">Health Plans 1 &amp; 2</italic>
+</td></tr><tr><td rowspan="3" align="left" valign="top" colspan="1">3</td><td rowspan="3" align="center" valign="top" colspan="1">Factors of Wellbeing</td><td align="center" valign="top" rowspan="1" colspan="1">Medication and metabolic monitoring</td></tr><tr><td align="center" valign="top" rowspan="1" colspan="1">Collaborative partners and strategies</td></tr><tr><td align="center" valign="top" rowspan="1" colspan="1">
+<italic toggle="yes">Health Plan 3</italic>
+</td></tr><tr><td rowspan="4" align="left" valign="top" colspan="1">4</td><td rowspan="4" align="center" valign="top" colspan="1">Visioning and Goal Setting</td><td align="center" valign="top" rowspan="1" colspan="1">Defining change</td></tr><tr><td align="center" valign="top" rowspan="1" colspan="1">Orientation and preparation</td></tr><tr><td align="center" valign="top" rowspan="1" colspan="1">Creative problem solving and goal setting</td></tr><tr><td align="center" valign="top" rowspan="1" colspan="1">
+<italic toggle="yes">Reflection &amp; Celebration</italic>
+</td></tr><tr><td rowspan="2" align="left" valign="top" colspan="1">5</td><td rowspan="2" align="center" valign="top" colspan="1">Building Health Plans</td><td align="center" valign="top" rowspan="1" colspan="1">Health Plans 1, 2 and 3</td></tr><tr><td align="center" valign="top" rowspan="1" colspan="1">
+<italic toggle="yes">My Health Journal</italic>
+</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Booster</td><td align="center" valign="top" rowspan="1" colspan="1">Self‐reflection of learning on the journey to sustain wellbeing</td><td align="center" valign="top" rowspan="1" colspan="1">Self‐reflection of learning on the journey to sustain wellbeing</td></tr></tbody></table><permissions><copyright-holder>John Wiley &amp; Sons, Ltd.</copyright-holder></permissions></table-wrap></sec><sec id="hex70399-sec-0130"><label>2.6</label><title>Patient and Public Involvement</title><p>The OHP was refined using feedback provided by patients with long‐term conditions who used the programme in previous trials, to make it more succinct, colourful, and visual. Additionally, LC clinic practitioners (i.e., two occupational therapists) who were involved in recruiting participants also provided guidance regarding most convenient mode, time and duration of programme delivery as per patient needs.</p><p>Throughout the trial, the programme was further refined and adapted by two patient and public involvement (PPI) members of the DMC, with LC. Through monitoring and review of study progression, they gave feedback on programme session delivery (e.g., reducing session duration where needed to avoid fatigue), and advised and supported tailoring of content to suit the fluctuating nature of LC (e.g., paying attention to physical activity vs. energy levels). Also, at the beginning of the trial, the programme was tested with the first two recruited participants to identify any necessary adjustments before delivery to others. Potential of adaptations was discussed with the research team inclusive of the original OHP programme developer (D.J.C.), to gain consensus before implementation to ensure the programme was more user‐friendly i.e., conciseness (less wordy), visual appeal (more colourful).</p></sec><sec id="hex70399-sec-0140"><label>2.7</label><title>Procedure</title><p>Participants were provided with a soft and a hard copy of the programme and sessions were delivered at their convenience regarding date, time, and delivery mode (telephone vs online). The LC‐OHP was delivered in one‐on‐one sessions over a minimum of five sessions (one session per week, up to 1 h per session), followed by a booster session delivered 3 months post‐final session. Most sessions were delivered by the lead researcher (H.A.), who received specialised LC‐OHP training over a 2‐day workshop by the programme developer (D.J.C.). Participants were advised they could withdraw from the study at any point. Those who withdrew were invited to an optional online short interview to identify reason(s) for withdrawal and offer suggestions for programme improvement.</p></sec><sec id="hex70399-sec-0150"><label>2.8</label><title>Data Collection</title><p>Questionnaires in Table <xref rid="hex70399-tbl-0002" ref-type="table">2</xref> were completed at baseline (pre‐randomisation), three‐, and 6‐months post‐randomisation, as per participant preference (i.e., either by post with a pre‐paid envelope or electronically by email).</p><table-wrap position="float" id="hex70399-tbl-0002" content-type="Table" orientation="portrait"><label>Table 2</label><caption><p>Questionnaires completed at baseline, 3 and 6 months.</p></caption><table frame="hsides" rules="groups"><col align="left" style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" span="1"/><col align="center" style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" span="1"/><col align="center" style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" span="1"/><thead valign="bottom"><tr style="border-bottom:solid 1px #000000" valign="bottom"><th align="left" valign="bottom" rowspan="1" colspan="1">Questionnaire</th><th align="center" valign="bottom" rowspan="1" colspan="1">Outcome</th><th align="center" valign="bottom" rowspan="1" colspan="1">Details</th></tr></thead><tbody valign="top"><tr><td align="left" valign="top" rowspan="1" colspan="1">Patient Health Questionnaire (PHQ‐9)</td><td align="center" valign="top" rowspan="1" colspan="1">Depression</td><td align="center" valign="top" rowspan="1" colspan="1">Validated questionnaire composed of nine items with four response options; ‘not at all’ (scored as 0) to ‘nearly every day’ (scored as 3). Total scores range from 0 to 27, with scores of ≥ 5, ≥ 10, ≥ 15, representing mild, moderate and severe depression [<xref rid="hex70399-bib-0048" ref-type="bibr">48</xref>].</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">The Generalised Anxiety Disorder Assessment (GAD‐7)</td><td align="center" valign="top" rowspan="1" colspan="1">Anxiety</td><td align="center" valign="top" rowspan="1" colspan="1">A seven‐item self‐administered questionnaire with four‐point answer scale (0 to 3). Usually used as a screening tool and severity measure for generalised anxiety disorder (GAD) [<xref rid="hex70399-bib-0049" ref-type="bibr">49</xref>, <xref rid="hex70399-bib-0050" ref-type="bibr">50</xref>].</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">General Self‐Efficacy Scale (GSE)</td><td align="center" valign="top" rowspan="1" colspan="1">Self‐efficacy</td><td align="center" valign="top" rowspan="1" colspan="1">A 10‐item, valid and reliable questionnaire with a four‐point Likert scale (‘not at all true’ to ‘exactly true’). It tests the individual's self‐efficacy. Higher scores are indicative of higher self‐efficacy [<xref rid="hex70399-bib-0051" ref-type="bibr">51</xref>].</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">EQ‐5D‐5L</td><td align="center" valign="top" rowspan="1" colspan="1">Quality of life</td><td align="center" valign="top" rowspan="1" colspan="1">A validated five‐item questionnaire with a 5‐item answers providing a generic measure on five health dimensions: mobility, self‐care, usual activities, pain/discomfort, and anxiety/depression [<xref rid="hex70399-bib-0052" ref-type="bibr">52</xref>]. The questionnaire also includes a visual analogue scale with scores ranging from 0 and 100 that reflect current health status [<xref rid="hex70399-bib-0053" ref-type="bibr">53</xref>].</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Fatigue Assessment Scale (FAS)</td><td align="center" valign="top" rowspan="1" colspan="1">Fatigue</td><td align="center" valign="top" rowspan="1" colspan="1">A validated 10‐item questionnaire with a five point answer scale; never (scored as 1) to always (scored as 5) [<xref rid="hex70399-bib-0054" ref-type="bibr">54</xref>, <xref rid="hex70399-bib-0055" ref-type="bibr">55</xref>].</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Treatment Evaluation Inventory‐ short form (TEI‐SF)</td><td align="center" valign="top" rowspan="1" colspan="1">Programme evaluation</td><td align="center" valign="top" rowspan="1" colspan="1">An adapted version of the TEI‐SF [<xref rid="hex70399-bib-0056" ref-type="bibr">56</xref>] was completed by participants in the intervention group at 6‐months to assess the LC‐OHP. The adapted version composed of seven items, rated by a 5‐point Likert scale (strongly disagree to strongly agree).</td></tr></tbody></table><permissions><copyright-holder>John Wiley &amp; Sons, Ltd.</copyright-holder></permissions></table-wrap></sec><sec id="hex70399-sec-0160"><label>2.9</label><title>Sample Size</title><p>Recommendations for sample size are mostly cited at 30–35 participants per group for pilot and feasibility studies [<xref rid="hex70399-bib-0057" ref-type="bibr">57</xref>, <xref rid="hex70399-bib-0058" ref-type="bibr">58</xref>, <xref rid="hex70399-bib-0059" ref-type="bibr">59</xref>, <xref rid="hex70399-bib-0060" ref-type="bibr">60</xref>]. In this study, the target sample was to recruit a total of 60 participants over 9 months.</p></sec><sec id="hex70399-sec-0170"><label>2.10</label><title>Statistical Analysis</title><p>Data for recruitment, adherence and retention rates, completeness of data and acceptability of the intervention are summarised using descriptive summary statistics.</p><p>Several feasibility measures exist [<xref rid="hex70399-bib-0061" ref-type="bibr">61</xref>], for the purpose of this study, the research team agreed that the trial feasibility to be assessed as per the following criteria:
+<list list-type="simple"><list-item><label>1.</label><p>Recruiting target sample (i.e., 60 participants within 9 months).</p></list-item><list-item><label>2.</label><p>Acceptable retention rates; total dropout rate &lt; 20% (to avoid risking the validity of the study [<xref rid="hex70399-bib-0062" ref-type="bibr">62</xref>, <xref rid="hex70399-bib-0063" ref-type="bibr">63</xref>])</p></list-item><list-item><label>3.</label><p>Intervention implementation and practicality, as reflected by the success in delivering intervention as intended, and by participants' adherence in attending the intervention sessions.</p></list-item><list-item><label>4.</label><p>Intervention acceptability as reflected by participants' evaluations of the intervention their intervention acceptability scores.</p></list-item></list>
+</p><p>These criteria would help in gathering suitable information to estimate key design features of a future definitive RCT on using the intervention programme in the LC population.</p><p>Means and standard deviations at 3 and 6 months are presented to identify any trends in continuous variables (anxiety, depression, QoL, self‐efficacy and fatigue). Change from baseline and Cohen's effect size for each follow‐up point is calculated using complete case data to assess sensitivity to change.</p></sec><sec id="hex70399-sec-0180"><label>2.11</label><title>Design and Setting</title><p>A feasibility randomised controlled trial (RCT) of a programme tailored to support LC patients (LC‐OHP) was conducted at a UK university between December 2021 and May 2023. The study included collecting quantitative and qualitative data. This manuscript reports the quantitative data. The study protocol and qualitative findings are reported elsewhere [<xref rid="hex70399-bib-0041" ref-type="bibr">41</xref>, <xref rid="hex70399-bib-0042" ref-type="bibr">42</xref>].</p></sec></sec><sec sec-type="results" id="hex70399-sec-0190"><label>3</label><title>Results</title><p>A total of 128 patients were invited to participate (Figure <xref rid="hex70399-fig-0001" ref-type="fig">1</xref>), of whom 60 (47%) were recruited and randomised to the intervention group (intervention group) (<italic toggle="yes">n</italic> = 28) or control groups (control group) (<italic toggle="yes">n</italic> = 32).</p><sec id="hex70399-sec-0200"><label>3.1</label><title>Demographics</title><p>Of the 60 recruited participants, most had completed their undergraduate and/or postgraduate education (<italic toggle="yes">n</italic> = 42, 70%) and were of white ethnicity (<italic toggle="yes">n</italic> = 52, 87%), mostly white British (<italic toggle="yes">n</italic> = 44, 73%). Demographics were similar across groups (Table <xref rid="hex70399-tbl-0003" ref-type="table">3</xref>).</p><table-wrap position="float" id="hex70399-tbl-0003" content-type="Table" orientation="portrait"><label>Table 3</label><caption><p>Demographics of recruited participants (<italic toggle="yes">n</italic> = 60).</p></caption><table frame="hsides" rules="groups"><col align="left" style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" span="1"/><col align="center" style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" span="1"/><col align="center" style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" span="1"/><col align="center" style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" span="1"/><thead valign="bottom"><tr style="border-bottom:solid 1px #000000" valign="bottom"><th align="left" valign="bottom" rowspan="1" colspan="1">Demographic</th><th align="center" valign="bottom" rowspan="1" colspan="1">Intervention (<italic toggle="yes">n</italic> = 28, 47%)</th><th align="center" valign="bottom" rowspan="1" colspan="1">Control (<italic toggle="yes">n</italic> = 32, 53%)</th><th align="center" valign="bottom" rowspan="1" colspan="1">Total (<italic toggle="yes">n</italic> = 60, 100%)</th></tr></thead><tbody valign="top"><tr><td align="left" valign="top" rowspan="1" colspan="1">Age (mean (SD))</td><td align="center" valign="top" rowspan="1" colspan="1">46 (13)</td><td align="center" valign="top" rowspan="1" colspan="1">41 (12)</td><td align="center" valign="top" rowspan="1" colspan="1">44 (13)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Gender</td><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1"/></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Male</td><td align="center" valign="top" rowspan="1" colspan="1">4 (7%)</td><td align="center" valign="top" rowspan="1" colspan="1">6 (10%)</td><td align="center" valign="top" rowspan="1" colspan="1">10 (17%)</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Female</td><td align="center" valign="top" rowspan="1" colspan="1">24 (40%)</td><td align="center" valign="top" rowspan="1" colspan="1">25 (42%)</td><td align="center" valign="top" rowspan="1" colspan="1">49 (82%)</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">other</td><td align="center" valign="top" rowspan="1" colspan="1">NA</td><td align="center" valign="top" rowspan="1" colspan="1">1 (2%)</td><td align="center" valign="top" rowspan="1" colspan="1">1 (2%)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Ethnicity</td><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1"/></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">White British</td><td align="center" valign="top" rowspan="1" colspan="1">23 (38%)</td><td align="center" valign="top" rowspan="1" colspan="1">21 (35%)</td><td align="center" valign="top" rowspan="1" colspan="1">44 (73%)</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Other White background</td><td align="center" valign="top" rowspan="1" colspan="1">4 (7%)</td><td align="center" valign="top" rowspan="1" colspan="1">4 (7%)</td><td align="center" valign="top" rowspan="1" colspan="1">8 (13%)</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Asian or Asian British</td><td align="center" valign="top" rowspan="1" colspan="1">1 (2%)</td><td align="center" valign="top" rowspan="1" colspan="1">4 (7%)</td><td align="center" valign="top" rowspan="1" colspan="1">5 (8%)</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Black or Black British</td><td align="center" valign="top" rowspan="1" colspan="1">0</td><td align="center" valign="top" rowspan="1" colspan="1">1 (2%)</td><td align="center" valign="top" rowspan="1" colspan="1">1 (2%)</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Other mixed/multiple backgrounds</td><td align="center" valign="top" rowspan="1" colspan="1">0</td><td align="center" valign="top" rowspan="1" colspan="1">2 (3)</td><td align="center" valign="top" rowspan="1" colspan="1">2 (3%)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Educational level</td><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1"/></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Secondary education</td><td align="center" valign="top" rowspan="1" colspan="1">1 (2%)</td><td align="center" valign="top" rowspan="1" colspan="1">3 (5%)</td><td align="center" valign="top" rowspan="1" colspan="1">4 (7%)</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Postsecondary education</td><td align="center" valign="top" rowspan="1" colspan="1">9 (15%)</td><td align="center" valign="top" rowspan="1" colspan="1">5 (8%)</td><td align="center" valign="top" rowspan="1" colspan="1">14 (23%)</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Undergraduate and/or post‐graduate education</td><td align="center" valign="top" rowspan="1" colspan="1">18 (30%)</td><td align="center" valign="top" rowspan="1" colspan="1">24 (40%)</td><td align="center" valign="top" rowspan="1" colspan="1">42 (70%)</td></tr></tbody></table><permissions><copyright-holder>John Wiley &amp; Sons, Ltd.</copyright-holder></permissions></table-wrap></sec><sec id="hex70399-sec-0210"><label>3.2</label><title>Primary Outcomes</title><sec id="hex70399-sec-0220"><label>3.2.1</label><title>Completion Rate and Withdrawals</title><p>The overall study completion rate was 83% (<italic toggle="yes">n</italic> = 50). Ten participants withdrew from the study: eight pre‐3‐month follow‐up (intervention group <italic toggle="yes">n</italic> = 5), and two from the control group did not return final questionnaires. The mean (SD) age of withdrawn participants was 42 (± 14), with the majority being females (<italic toggle="yes">n</italic> = 6, 60%) and of White ethnicity (<italic toggle="yes">n</italic> = 7, 70%).</p></sec><sec id="hex70399-sec-0230"><label>3.2.2</label><title>Interviews With Withdrawn Participants</title><p>Three withdrawn participants received between two and five sessions; two were interviewed (contact was lost with the third participant). Withdrawal was related primarily to LC health‐related issues. Other reasons included prioritising activities in consideration of energy levels, programme not offered as a cure, and some programme tasks perceived as an additional burden. Some described familiarity with most LC‐OHP topics, due to proactive self‐sourcing LC support materials whilst waiting for medical appointments. Timing of LC‐OHP delivery was also mentioned as a contributor to withdrawal, with consensus that the optimal time of delivery would be during early stages of LC.</p><p>Programme materials were described as well‐structured, easy to understand, and relevant. However, one participant felt it needed to be more flexible in the amount of time allocated to discuss the key concerns targeted by the programme. Also suggested, was to signpost people with LC within the programme to ‘reliable’ sources of information.</p></sec><sec id="hex70399-sec-0240"><label>3.2.3</label><title>Adherence to Programme Sessions</title><p>The LC‐OHP was delivered as intended, in a minimum of six sessions including the booster session, with sessions' durations adapted to suit individual needs of participants. Over half of the intervention group completed all programme sessions (<italic toggle="yes">n</italic> = 19, 68%). Three participants (11%) completed all except the booster session, and one (4%) completed four sessions. Three participants required seven sessions, and three other required eight, nine, and 10 sessions for completion. Despite expressing positive feedback on the programme, two participants withdrew before the first session (7%), two after completing the second session (7%), and one before the booster session (4%). Most participants received sessions remotely via videoconference using a convenient platform (e.g., Microsoft Teams, Skype, Zoom), and one received sessions via telephone.</p></sec><sec id="hex70399-sec-0250"><label>3.2.4</label><title>LC‐OHP Acceptability and Satisfaction</title><p>Acceptability of the LC‐OHP was evidenced by participants in the intervention group who completed the programme evaluation questionnaire TEI‐SF (<italic toggle="yes">n</italic> = 23, 82%) and by the low attrition rates across time (18% at 3 months; further 0% at 6 months). Of participants who completed the TEI‐SF, 87% reflected positive reactions towards the LC‐OHP i.e., its potential for improving wellbeing. For example, the LC‐OHP was perceived to be effective (87%) and that it has the potential to permanent improvements (70%).</p></sec><sec id="hex70399-sec-0260"><label>3.2.5</label><title>Secondary Outcomes</title><p>Initial data on effects of the LC‐OHP within groups at 3‐ and 6‐month follow‐up are presented in Supporting File <xref rid="hex70399-suppl-0001" ref-type="supplementary-material">S1</xref>. As this was a feasibility trial, the statistics presented are to identify trends in outcome data only. At both time points, the direction of scores for the intervention group was favourable across all outcomes from baseline to 3 and 6 months, with decreasing scores in depression (PHQ‐9), anxiety (GAD‐7) and fatigue (FAS), and increases shown in self‐efficacy (GSE) and QoL (EQ‐5D‐5L). Outcomes scores in the control group also demonstrated some improvements apart from self‐efficacy (GSE) at 6 months. Note, these data should be viewed cautiously as comparisons need to reflect baseline scores and retention rates.</p></sec></sec></sec><sec sec-type="discussion" id="hex70399-sec-0270"><label>4</label><title>Discussion</title><sec id="hex70399-sec-0280"><label>4.1</label><title>Summary</title><p>Various interventions have been designed to support LC, mostly focusing on managing specific symptoms [<xref rid="hex70399-bib-0064" ref-type="bibr">64</xref>, <xref rid="hex70399-bib-0065" ref-type="bibr">65</xref>, <xref rid="hex70399-bib-0066" ref-type="bibr">66</xref>]. However, to the best of our knowledge, this is the first study that introduces a comprehensive programme consistent with current recommendations for supporting LC.</p><p>This study aimed to explore the feasibility and acceptability of delivering the LC‐OHP to people with LC, and to identify variability in key outcome measures of anxiety, depression, QoL, self‐efficacy and fatigue across groups and time. The study was built on a hypothesis that the programme will be found feasible to be delivered to this population, to be acceptable, and to deliver improvements on the various outcomes. Study findings support the feasibility and acceptability of the programme. This is evidenced by several factors including recruiting the target number of participants, the low attrition rate, overall study completion and high adherence and retention rates, along with participant evaluations of the LC‐OHP, reflecting thus the implementation and practicality of the intervention. These initial data suggest the LC‐OHP has the potential to lead improvements across all outcomes at 3 and 6 months. Additionally, those in the intervention group seem to have more favourable outcomes in the short‐term (3 months) compared to the control group.</p><p>In this study, varied recruitment approaches were used including referral from LC clinics and social media to ensure recruitment of the target number of participants. Most participants were recruited using social media. The use of social media in recruiting research participants has been increasing and is expected to increase further [<xref rid="hex70399-bib-0067" ref-type="bibr">67</xref>]. Previous reviews reported the usefulness of social media platforms in recruiting participants for mental health research [<xref rid="hex70399-bib-0068" ref-type="bibr">68</xref>, <xref rid="hex70399-bib-0069" ref-type="bibr">69</xref>]. Social media presents an effective and efficient platform to engage the community for research recruitment [<xref rid="hex70399-bib-0070" ref-type="bibr">70</xref>] and to facilitate researchers’ work [<xref rid="hex70399-bib-0071" ref-type="bibr">71</xref>]. Use of social media to recruit patients has been shown to have positive outcomes for scalability and reach, e.g. 38% of studies in a recent review included hard‐to‐reach participant population through the use of social media [<xref rid="hex70399-bib-0071" ref-type="bibr">71</xref>]. However, recruiting through social media could pose some challenges including limiting the age diversity of recruited participants, mostly with the elderly, who might not be highly engaged with these technological platforms. This has been reported by a recent review [<xref rid="hex70399-bib-0071" ref-type="bibr">71</xref>] and is also reflected in this study, as the average age of recruited participants was in their forties.</p><p>Additionally, of note, most recruited participants were of white ethnicity. There is inconsistent reporting with regard to ethnic groups most affected by LC. For example, some report this to be higher amongst the white non‐Hispanic population [<xref rid="hex70399-bib-0072" ref-type="bibr">72</xref>], whereas others report it to be higher among the blacks and Hispanic populations [<xref rid="hex70399-bib-0073" ref-type="bibr">73</xref>]. This may be due to challenges with diagnosing the condition, with many people living the condition without being diagnosed [<xref rid="hex70399-bib-0074" ref-type="bibr">74</xref>]. A recent systematic review reported that people of ethnic minority backgrounds are underrepresented or incorrectly classified in UK‐based LC trials [<xref rid="hex70399-bib-0075" ref-type="bibr">75</xref>]. The review also identified several barriers to recruiting this population, including language. This potentially contributed to recruiting a less diverse population in this trial, as we only included people who could communicate in English. Therefore, future research should implement further measures to overcome potential recruitment barriers (e.g., modifying language to suit diverse populations) and use wider recruitment approaches to increase reach and awareness about research and to encourage patients with varied demographic characteristics and ethnic backgrounds to participate, to identify the efficacy and acceptability of the programme on the various ethnic populations.</p><p>Similarly, most recruited participants were females. This is generally a common finding in research as females tend to participate in research more than males [<xref rid="hex70399-bib-0076" ref-type="bibr">76</xref>, <xref rid="hex70399-bib-0077" ref-type="bibr">77</xref>, <xref rid="hex70399-bib-0078" ref-type="bibr">78</xref>, <xref rid="hex70399-bib-0079" ref-type="bibr">79</xref>]. This is also not surprising, since LC is reported to be more common among females [<xref rid="hex70399-bib-0002" ref-type="bibr">2</xref>, <xref rid="hex70399-bib-0019" ref-type="bibr">19</xref>, <xref rid="hex70399-bib-0020" ref-type="bibr">20</xref>, <xref rid="hex70399-bib-0029" ref-type="bibr">29</xref>, <xref rid="hex70399-bib-0080" ref-type="bibr">80</xref>, <xref rid="hex70399-bib-0081" ref-type="bibr">81</xref>, <xref rid="hex70399-bib-0082" ref-type="bibr">82</xref>, <xref rid="hex70399-bib-0083" ref-type="bibr">83</xref>, <xref rid="hex70399-bib-0084" ref-type="bibr">84</xref>, <xref rid="hex70399-bib-0085" ref-type="bibr">85</xref>, <xref rid="hex70399-bib-0086" ref-type="bibr">86</xref>, <xref rid="hex70399-bib-0087" ref-type="bibr">87</xref>, <xref rid="hex70399-bib-0088" ref-type="bibr">88</xref>]. Consideration should also be given to the stage of LC (i.e., duration of LC journey) when participants are recruited, and other supportive measures they are receiving. Time of contacting acute COVID‐19 infection and the duration of time of experiencing LC may have also impacted the findings, as people experience this illness differently and thus may have different reactions to the programme and other supportive measures they received. The duration of LC and other support offered/received by participants has not been collected as part of this study. Future research should therefore consider exploring this and identifying the impacts of delivering the programme at different stages of LC, in comparison to the different supportive measures offered to this population. Consideration should also be given to what constitutes usual care given to people with LC and the impact this may have on other supportive interventions.</p><p>With regard to the programme, the high adherence and satisfaction rates support acceptability of the LC‐OHP. Of note, withdrawn participants in the intervention group reported benefits from the programme and that it may have been of even greater benefit had it been introduced at an earlier stage. This is consistent with the views of other participants in the intervention group [<xref rid="hex70399-bib-0042" ref-type="bibr">42</xref>] who were interviewed at the end of the study [<xref rid="hex70399-bib-0089" ref-type="bibr">89</xref>], and with participants who received the original OHP, with similar suggestions to receive the programme early in the disease course [<xref rid="hex70399-bib-0090" ref-type="bibr">90</xref>].</p><p>The OHP was originally designed to be delivered in nine sessions and is highly flexible to the needs of individual patients [<xref rid="hex70399-bib-0037" ref-type="bibr">37</xref>, <xref rid="hex70399-bib-0039" ref-type="bibr">39</xref>, <xref rid="hex70399-bib-0040" ref-type="bibr">40</xref>, <xref rid="hex70399-bib-0047" ref-type="bibr">47</xref>]. Our findings demonstrated that the LC‐OHP could be completed in at least six sessions dependent on participant's needs. This is akin to findings of a study where the OHP programme was delivered to people with diabetes [<xref rid="hex70399-bib-0091" ref-type="bibr">91</xref>]. The findings are also consistent with other studies that used the OHP in managing long‐term conditions, with positive findings reported by people who received it [<xref rid="hex70399-bib-0039" ref-type="bibr">39</xref>, <xref rid="hex70399-bib-0047" ref-type="bibr">47</xref>, <xref rid="hex70399-bib-0090" ref-type="bibr">90</xref>].</p></sec><sec id="hex70399-sec-0290"><label>4.2</label><title>Strengths and Limitations</title><p>The LC‐OHP was adapted in consultation with an LC‐focused clinical team, following testing it with the first two participants, and was informed by interviews with a sample of the intervention group participants. Moreover, it was delivered according to participant preference and tailored to their needs. Most sessions were delivered by the same researcher, for the purpose of optimising fidelity. The sample represented a range of demographic characteristics, in terms of age, education, social, professional backgrounds and illness experience. Various recruitment approaches were used, which extended reach to participants across the United Kingdom. The study limitations included the following: over a third of participants in both groups were graduates/post‐graduates, perhaps restricting an assessment of how far the LC‐OHP could be successfully applied alongside those from deprived populations or who may have challenges with literacy. Most participants were recruited through social media, which might have limited the diversity of recruited participants, for example, regarding age (i.e., few elderly people were recruited) and ethnic backgrounds. The sample was predominantly white British; additionally, there was a higher proportion of female participants, yet this is consistent with LC literature [<xref rid="hex70399-bib-0080" ref-type="bibr">80</xref>, <xref rid="hex70399-bib-0092" ref-type="bibr">92</xref>, <xref rid="hex70399-bib-0093" ref-type="bibr">93</xref>]. With no standard treatment for LC, there may have been variability in supports received from other resources/health services. Additionally, public members with LC were not involved in refining the programme prior to starting the trial, which could have had derived further changed to the programme, thus causing a different experience. Also, for pragmatic purposes, as a preliminary study, the lead researcher also delivered the intervention. For a large‐scale, fully powered study, a clinical practitioner would also deliver the intervention for the purpose of scalability and external validity. Lastly, although the LC‐OHP may have contributed to the improvements in the intervention group, other factors may also have contributed, as some improvements were also reported by the control group. These include variations in usual care, other additional supports (e.g., from family and/or friends), and variations in severity and duration of LC.</p></sec></sec><sec sec-type="conclusions" id="hex70399-sec-0300"><label>5</label><title>Conclusion</title><p>A comprehensive, person‐centred approach is recommended to manage LC [<xref rid="hex70399-bib-0005" ref-type="bibr">5</xref>, <xref rid="hex70399-bib-0006" ref-type="bibr">6</xref>]. The LC‐OHP was purposefully designed to be consistent with these recommendations. Findings demonstrate the feasibility and acceptability of the LC‐OHP in an LC population. Trends in the data show promise for improvements across a range of outcomes, thus supporting progression to conduct a fully powered RCT to identify the efficacy of the LC‐OHP on improving outcomes related to the mental and physical wellbeing across a more diverse LC population. Further investigation on the impacts of other supportive measures received by participants, particularly by those in the control group, and what constitutes ‘usual care’ is also recommended.</p></sec><sec id="hex70399-sec-0310"><title>Author Contributions</title><p>
+<bold>Hiyam Al‐Jabr:</bold> conceptualising, methodology, validation, formal analysis, investigation, resources, data curation, writing – original draft, writing – review and editing, visualisation, supervision, project administration. <bold>David R. Thompson:</bold> conceptualising, methodology, validation, resources, writing ‐ review and editing, supervision. <bold>David J. Castle:</bold> conceptualising, methodology, validation, resources, writing ‐ review and editing, supervision. <bold>Chantal F. Ski:</bold> conceptualising, methodology, validation, formal analysis, investigation, resources, data curation, writing ‐ review and editing, supervision, project administration, funding acquisition. <bold>Karen Windle:</bold> methodology, validation, formal analysis, investigation, resources, writing – review and editing, visualisation, supervision, project administration. <bold>Monica M. De Icaza Valenzuela:</bold> validation, formal analysis, investigation, writing – review and editing, project administration. <bold>John Belcher:</bold> validation, formal analysis, writing – review and editing. <bold>Toby Helliwell:</bold> validation, formal analysis, writing – review and editing.</p></sec><sec id="hex70399-sec-0330"><title>Ethics Statement</title><p>The study received ethical approval from the University of Suffolk research ethics committee and the Health Research Authority ethical committee in November 2021. All participants provided written informed consent before starting the study.</p></sec><sec sec-type="COI-statement" id="hex70399-sec-0340"><title>Conflicts of Interest</title><p>The authors declare no conflicts of interest.</p></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material id="hex70399-suppl-0001" position="float" content-type="local-data" orientation="portrait"><caption><p>Supporting file 1 Summary Data of Outcome Variables.</p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="HEX-28-e70399-s001.docx" position="float" orientation="portrait"/></supplementary-material></sec></body><back><ack id="hex70399-sec-0320"><title>Acknowledgements</title><p>Authors would like to thank all participants who took part in this study and to everyone who helped with recruiting participants. Further acknowledgement is dedicated to the data management committee and public members for providing guidance and support.</p></ack><sec sec-type="data-availability" id="hex70399-sec-0360"><title>Data Availability Statement</title><p>The data that supports the findings of this study are available in the <xref rid="hex70399-suppl-0001" ref-type="supplementary-material">Supporting Information</xref> of this article. The data supporting the findings of this study are available from the corresponding author upon reasonable request.</p></sec><ref-list content-type="cited-references" id="hex70399-bibl-0001"><title>References</title><ref id="hex70399-bib-0001"><label>1</label><mixed-citation publication-type="miscellaneous" id="hex70399-cit-0001">
+<string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Baz</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Fang</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J. D.</given-names>
+<surname>Carpentieri</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Sheard</surname>
+</string-name>, <article-title>Understanding the Lived Experience of Long Covid: A Rapid Literature Review [Report]</article-title> (<year>2021</year>), <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://livrepository.liverpool.ac.uk/3169178/" ext-link-type="uri">https://livrepository.liverpool.ac.uk/3169178/</ext-link>.</mixed-citation></ref><ref id="hex70399-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="hex70399-cit-0002">
+<string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Crook</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Raza</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Nowell</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Young</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>P.</given-names>
+<surname>Edison</surname>
+</string-name>, “<article-title>Long Covid—Mechanisms, Risk Factors, and Management</article-title>,” <source>BMJ</source>
+<volume>374</volume> (<year>2021</year>): <fpage>n1648</fpage>.<pub-id pub-id-type="pmid">34312178</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1136/bmj.n1648</pub-id></mixed-citation></ref><ref id="hex70399-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="hex70399-cit-0003">
+<string-name name-style="western">
+<given-names>P. H.</given-names>
+<surname>Roth</surname>
+</string-name> and <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Gadebusch‐Bondio</surname>
+</string-name>, “<article-title>The Contested Meaning of ‘Long COVID’–Patients, Doctors, and the Politics of Subjective Evidence</article-title>,” <source>Social Science &amp; Medicine (1982)</source>
+<volume>292</volume> (<year>2022</year>): <elocation-id>114619</elocation-id>.<pub-id pub-id-type="pmid">34906823</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.socscimed.2021.114619</pub-id><pub-id pub-id-type="pmcid">PMC8629766</pub-id></mixed-citation></ref><ref id="hex70399-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="hex70399-cit-0004">
+<string-name name-style="western">
+<given-names>B.</given-names>
+<surname>Walitt</surname>
+</string-name> and <string-name name-style="western">
+<given-names>E.</given-names>
+<surname>Bartrum</surname>
+</string-name>, “<article-title>A Clinical Primer for the Expected and Potential post‐COVID‐19 Syndromes</article-title>,” <source>Pain Reports</source>
+<volume>6</volume>, no. <issue>1</issue> (<year>2021</year>): <elocation-id>e887</elocation-id>.<pub-id pub-id-type="pmid">33615088</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1097/PR9.0000000000000887</pub-id><pub-id pub-id-type="pmcid">PMC7889402</pub-id></mixed-citation></ref><ref id="hex70399-bib-0005"><label>5</label><mixed-citation publication-type="miscellaneous" id="hex70399-cit-0005">
+<collab collab-type="authors">NICE</collab>
+, COVID‐19 Rapid Guideline: Managing COVID‐19, <year>2021</year>, accessed September 29, 2021, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.guidelines.co.uk/infection/nice-covid-19-management/455939.article" ext-link-type="uri">https://www.guidelines.co.uk/infection/nice-covid-19-management/455939.article</ext-link>.</mixed-citation></ref><ref id="hex70399-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="hex70399-cit-0006">
+<string-name name-style="western">
+<given-names>W.</given-names>
+<surname>Shah</surname>
+</string-name>, <string-name name-style="western">
+<given-names>T.</given-names>
+<surname>Hillman</surname>
+</string-name>, <string-name name-style="western">
+<given-names>E. D.</given-names>
+<surname>Playford</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Hishmeh</surname>
+</string-name>, “<article-title>Managing the Long Term Effects of Covid‐19: Summary of NICE, SIGN, and RCGP Rapid Guideline</article-title>,” <source>BMJ</source>
+<volume>372</volume> (<year>2021</year>): <fpage>n136</fpage>.<pub-id pub-id-type="pmid">33483331</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1136/bmj.n136</pub-id></mixed-citation></ref><ref id="hex70399-bib-0007"><label>7</label><mixed-citation publication-type="miscellaneous" id="hex70399-cit-0007">
+<collab collab-type="authors">WHO</collab>
+, At Least 17 Million People in the WHO European Region Experienced Long COVID in the First Two Years of the Pandemic; Millions May Have to Live With It for Years to Come, <year>2022</year>, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.who.int/europe/news/item/13-09-2022-at-least-17-million-people-in-the-who-european-region-experienced-long-covid-in-the-first-two-years-of-the-pandemic--millions-may-have-to-live-with-it-for-years-to-come" ext-link-type="uri">https://www.who.int/europe/news/item/13-09-2022-at-least-17-million-people-in-the-who-european-region-experienced-long-covid-in-the-first-two-years-of-the-pandemic--millions-may-have-to-live-with-it-for-years-to-come</ext-link>.</mixed-citation></ref><ref id="hex70399-bib-0008"><label>8</label><mixed-citation publication-type="miscellaneous" id="hex70399-cit-0008">
+<collab collab-type="authors">National Centre for Health Statistics</collab>
+, Nearly One in Five American Adults Who Have Had COVID‐19 Still Have “Long COVID”, 2022, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.cdc.gov/nchs/pressroom/nchs_press_releases/2022/20220622.htm" ext-link-type="uri">https://www.cdc.gov/nchs/pressroom/nchs_press_releases/2022/20220622.htm</ext-link>, <year>2023</year>.</mixed-citation></ref><ref id="hex70399-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="hex70399-cit-0009">
+<string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Michelen</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Manoharan</surname>
+</string-name>, <string-name name-style="western">
+<given-names>N.</given-names>
+<surname>Elkheir</surname>
+</string-name>, et al., “<article-title>Characterising Long COVID: A Living Systematic Review</article-title>,” <source>BMJ Global Health</source>
+<volume>6</volume>, no. <issue>9</issue> (<year>2021</year>): <elocation-id>e005427</elocation-id>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1136/bmjgh-2021-005427</pub-id><pub-id pub-id-type="pmcid">PMC8478580</pub-id><pub-id pub-id-type="pmid">34580069</pub-id></mixed-citation></ref><ref id="hex70399-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="hex70399-cit-0010">
+<string-name name-style="western">
+<given-names>O. L.</given-names>
+<surname>Aiyegbusi</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S. E.</given-names>
+<surname>Hughes</surname>
+</string-name>, <string-name name-style="western">
+<given-names>G.</given-names>
+<surname>Turner</surname>
+</string-name>, et al., “<article-title>Symptoms, Complications and Management of Long COVID: A Review</article-title>,” <source>Journal of the Royal Society of Medicine</source>
+<volume>114</volume>, no. <issue>9</issue> (<year>2021</year>): <fpage>428</fpage>–<lpage>442</lpage>.<pub-id pub-id-type="pmid">34265229</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1177/01410768211032850</pub-id><pub-id pub-id-type="pmcid">PMC8450986</pub-id></mixed-citation></ref><ref id="hex70399-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="hex70399-cit-0011">
+<string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Groff</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Sun</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A. E.</given-names>
+<surname>Ssentongo</surname>
+</string-name>, et al., “<article-title>Short‐Term and Long‐Term Rates of Postacute Sequelae of SARS‐CoV‐2 Infection: A Systematic Review</article-title>,” <source>JAMA Network Open</source>
+<volume>4</volume>, no. <issue>10</issue> (<year>2021</year>): <elocation-id>e2128568–e2128568</elocation-id>.<pub-id pub-id-type="pmid">34643720</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1001/jamanetworkopen.2021.28568</pub-id><pub-id pub-id-type="pmcid">PMC8515212</pub-id></mixed-citation></ref><ref id="hex70399-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="hex70399-cit-0012">
+<string-name name-style="western">
+<given-names>P. A. G.</given-names>
+<surname>Ferrareze</surname>
+</string-name>, <string-name name-style="western">
+<given-names>V. B.</given-names>
+<surname>Franceschi</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A. M.</given-names>
+<surname>Mayer</surname>
+</string-name>, <string-name name-style="western">
+<given-names>G. D.</given-names>
+<surname>Caldana</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R. A.</given-names>
+<surname>Zimerman</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>C. E.</given-names>
+<surname>Thompson</surname>
+</string-name>, “<article-title>E484K as an Innovative Phylogenetic Event for Viral Evolution: Genomic Analysis of the E484K Spike Mutation in SARS‐CoV‐2 Lineages From Brazil</article-title>,” <source>Infection, Genetics and Evolution</source>
+<volume>93</volume> (<year>2021</year>): <elocation-id>104941</elocation-id>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.meegid.2021.104941</pub-id><pub-id pub-id-type="pmcid">PMC8143912</pub-id><pub-id pub-id-type="pmid">34044192</pub-id></mixed-citation></ref><ref id="hex70399-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="hex70399-cit-0013">
+<string-name name-style="western">
+<given-names>T.</given-names>
+<surname>Nasserie</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Hittle</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>S. N.</given-names>
+<surname>Goodman</surname>
+</string-name>, “<article-title>Assessment of the Frequency and Variety of Persistent Symptoms Among Patients With COVID‐19: A Systematic Review</article-title>,” <source>JAMA Network Open</source>
+<volume>4</volume>, no. <issue>5</issue> (<year>2021</year>): <elocation-id>e2111417</elocation-id>.<pub-id pub-id-type="pmid">34037731</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1001/jamanetworkopen.2021.11417</pub-id><pub-id pub-id-type="pmcid">PMC8155823</pub-id></mixed-citation></ref><ref id="hex70399-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="hex70399-cit-0014">
+<string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Ayoubkhani</surname>
+</string-name>, “<article-title>Prevalence of Ongoing Symptoms Following Coronavirus (COVID‐19) Infection in the UK: 1 April 2021</article-title>,” <source>Off Natl Stat</source>
+<year>2021</year>: <fpage>1</fpage>–<lpage>16</lpage>.</mixed-citation></ref><ref id="hex70399-bib-0015"><label>15</label><mixed-citation publication-type="journal" id="hex70399-cit-0015">
+<string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Whitaker</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Elliott</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Chadeau‐Hyam</surname>
+</string-name>, et al., “<article-title>Persistent Symptoms Following SARS‐CoV‐2 Infection in a Random Community Sample of 508,707 People</article-title>,” <source>MedRxiv</source> (<year>2021</year>), <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.medrxiv.org/content/10.1101/2021.06.28.21259452v1" ext-link-type="uri">https://www.medrxiv.org/content/10.1101/2021.06.28.21259452v1</ext-link>.</mixed-citation></ref><ref id="hex70399-bib-0016"><label>16</label><mixed-citation publication-type="miscellaneous" id="hex70399-cit-0016">
+<collab collab-type="authors">COVID Symptom Study</collab>
+, How Long Does COVID‐19 Last? 2020, accessed July 1, 2021, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://covid.joinzoe.com/post/covid-long-term" ext-link-type="uri">https://covid.joinzoe.com/post/covid-long-term</ext-link>.</mixed-citation></ref><ref id="hex70399-bib-0017"><label>17</label><mixed-citation publication-type="miscellaneous" id="hex70399-cit-0017">
+<collab collab-type="authors">Office for National Statistics</collab>
+, Coronavirus (COVID‐19) Latest Insights, <year>2021</year>, accessed July 13, 2021, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/coronaviruscovid19/latestinsights" ext-link-type="uri">https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/coronaviruscovid19/latestinsights</ext-link>.</mixed-citation></ref><ref id="hex70399-bib-0018"><label>18</label><mixed-citation publication-type="book" id="hex70399-cit-0018">
+<string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Alford</surname>
+</string-name>, <source>Over 2m Adults in England May Have Had Long COVID</source> (<year>2021</year>).</mixed-citation></ref><ref id="hex70399-bib-0019"><label>19</label><mixed-citation publication-type="journal" id="hex70399-cit-0019">
+<string-name name-style="western">
+<given-names>F. M.</given-names>
+<surname>Iqbal</surname>
+</string-name>, <string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Lam</surname>
+</string-name>, <string-name name-style="western">
+<given-names>V.</given-names>
+<surname>Sounderajah</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J. M.</given-names>
+<surname>Clarke</surname>
+</string-name>, <string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Ashrafian</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Darzi</surname>
+</string-name>, “<article-title>Characteristics and Predictors of Acute and Chronic Post‐COVID Syndrome: A Systematic Review and Meta‐Analysis</article-title>,” <source>eClinicalMedicine</source>
+<volume>36</volume> (<year>2021</year>): <elocation-id>100899</elocation-id>.<pub-id pub-id-type="pmid">34036253</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.eclinm.2021.100899</pub-id><pub-id pub-id-type="pmcid">PMC8141371</pub-id></mixed-citation></ref><ref id="hex70399-bib-0020"><label>20</label><mixed-citation publication-type="journal" id="hex70399-cit-0020">
+<string-name name-style="western">
+<given-names>S. J.</given-names>
+<surname>Yong</surname>
+</string-name>, “<article-title>Long Covid or post‐COVID‐19 Syndrome: Putative Pathophysiology, Risk Factors, and Treatments</article-title>,” <source>Infectious Diseases</source>
+<volume>53</volume>, no. <issue>10</issue> (<year>2021</year>): <fpage>737</fpage>–<lpage>754</lpage>.<pub-id pub-id-type="pmid">34024217</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1080/23744235.2021.1924397</pub-id><pub-id pub-id-type="pmcid">PMC8146298</pub-id></mixed-citation></ref><ref id="hex70399-bib-0021"><label>21</label><mixed-citation publication-type="journal" id="hex70399-cit-0021">
+<string-name name-style="western">
+<given-names>B. G.</given-names>
+<surname>Ogundunmade</surname>
+</string-name>, “<article-title>Leveraging on Rehabilitation in Long Covid Management</article-title>,” <source>Editorial Advisory Board</source>
+<volume>16</volume>, no. <issue>1</issue> (<year>2022</year>): <fpage>68</fpage>.</mixed-citation></ref><ref id="hex70399-bib-0022"><label>22</label><mixed-citation publication-type="journal" id="hex70399-cit-0022">
+<string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Lacedonia</surname>
+</string-name>, <string-name name-style="western">
+<given-names>G.</given-names>
+<surname>Scioscia</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C. C.</given-names>
+<surname>De Pace</surname>
+</string-name>, et al., “<article-title>How Are We Handling the Post‐Covid Patients? The Dance of Uncertainties</article-title>,” <source>Respiration</source>
+<volume>101</volume>, no. <issue>2</issue> (<year>2022</year>): <fpage>210</fpage>–<lpage>213</lpage>.<pub-id pub-id-type="pmid">34515235</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1159/000518330</pub-id><pub-id pub-id-type="pmcid">PMC8450839</pub-id></mixed-citation></ref><ref id="hex70399-bib-0023"><label>23</label><mixed-citation publication-type="journal" id="hex70399-cit-0023">
+<string-name name-style="western">
+<given-names>M. T.</given-names>
+<surname>Sammons</surname>
+</string-name>, “<article-title>Unmet Mental Health Needs Associated With Covid Must be Addressed</article-title>,” <source>Journal of Health Service Psychology</source>
+<volume>48</volume>, no. <issue>1</issue> (<year>2022</year>): <fpage>1</fpage>–<lpage>2</lpage>.<pub-id pub-id-type="pmid">35128462</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s42843-022-00057-6</pub-id><pub-id pub-id-type="pmcid">PMC8809244</pub-id></mixed-citation></ref><ref id="hex70399-bib-0024"><label>24</label><mixed-citation publication-type="journal" id="hex70399-cit-0024">
+<string-name name-style="western">
+<given-names>T.</given-names>
+<surname>Greenhalgh</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Knight</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C.</given-names>
+<surname>A'Court</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Buxton</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Husain</surname>
+</string-name>, “<article-title>Management of Post‐Acute Covid‐19 in Primary Care</article-title>,” <source>BMJ</source>
+<volume>370</volume> (<year>2020</year>): <fpage>m3026</fpage>.<pub-id pub-id-type="pmid">32784198</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1136/bmj.m3026</pub-id></mixed-citation></ref><ref id="hex70399-bib-0025"><label>25</label><mixed-citation publication-type="journal" id="hex70399-cit-0025">
+<string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Carfì</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Bernabei</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>F.</given-names>
+<surname>Landi</surname>
+</string-name>, “<article-title>Persistent Symptoms in Patients After Acute Covid‐19</article-title>,” <source>Journal of the American Medical Association</source>
+<volume>324</volume>, no. <issue>6</issue> (<year>2020</year>): <fpage>603</fpage>–<lpage>605</lpage>.<pub-id pub-id-type="pmid">32644129</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1001/jama.2020.12603</pub-id><pub-id pub-id-type="pmcid">PMC7349096</pub-id></mixed-citation></ref><ref id="hex70399-bib-0026"><label>26</label><mixed-citation publication-type="journal" id="hex70399-cit-0026">
+<string-name name-style="western">
+<given-names>D. T.</given-names>
+<surname>Arnold</surname>
+</string-name>, <string-name name-style="western">
+<given-names>F. W.</given-names>
+<surname>Hamilton</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Milne</surname>
+</string-name>, et al., “<article-title>Patient Outcomes After Hospitalisation With COVID‐19 and Implications for Follow‐Up: Results From a Prospective UK Cohort</article-title>,” <source>Thorax</source>
+<volume>76</volume>, no. <issue>4</issue> (<year>2021</year>): <fpage>399</fpage>–<lpage>401</lpage>.<pub-id pub-id-type="pmid">33273026</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1136/thoraxjnl-2020-216086</pub-id><pub-id pub-id-type="pmcid">PMC7716340</pub-id></mixed-citation></ref><ref id="hex70399-bib-0027"><label>27</label><mixed-citation publication-type="journal" id="hex70399-cit-0027">
+<string-name name-style="western">
+<given-names>Y. M. J.</given-names>
+<surname>Goërtz</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Van Herck</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J. M.</given-names>
+<surname>Delbressine</surname>
+</string-name>, et al., “<article-title>Persistent Symptoms 3 Months After a SARS‐CoV‐2 Infection: The Post‐COVID‐19 Syndrome?</article-title>,” <source>ERJ Open Research</source>
+<volume>6</volume>, no. <issue>4</issue> (<year>2020</year>): <elocation-id>00542‐2020</elocation-id>.<pub-id pub-id-type="pmid">33257910</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1183/23120541.00542-2020</pub-id><pub-id pub-id-type="pmcid">PMC7491255</pub-id></mixed-citation></ref><ref id="hex70399-bib-0028"><label>28</label><mixed-citation publication-type="journal" id="hex70399-cit-0028">
+<string-name name-style="western">
+<given-names>A. W.</given-names>
+<surname>Vaes</surname>
+</string-name>, <string-name name-style="western">
+<given-names>F. V. C.</given-names>
+<surname>Machado</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Meys</surname>
+</string-name>, et al., “<article-title>Care Dependency in Non‐Hospitalized Patients With Covid‐19</article-title>,” <source>Journal of Clinical Medicine</source>
+<volume>9</volume>, no. <issue>9</issue> (<year>2020</year>): <fpage>2946</fpage>.<pub-id pub-id-type="pmid">32932582</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3390/jcm9092946</pub-id><pub-id pub-id-type="pmcid">PMC7564703</pub-id></mixed-citation></ref><ref id="hex70399-bib-0029"><label>29</label><mixed-citation publication-type="journal" id="hex70399-cit-0029">
+<string-name name-style="western">
+<given-names>E.</given-names>
+<surname>Ladds</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Rushforth</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Wieringa</surname>
+</string-name>, et al., “<article-title>Persistent Symptoms After Covid‐19: Qualitative Study of 114 ‘Long Covid’ Patients and Draft Quality Principles for Services</article-title>,” <source>BMC Health Services Research</source>
+<volume>20</volume>, no. <issue>1</issue> (<year>2020</year>): <fpage>1144</fpage>.<pub-id pub-id-type="pmid">33342437</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1186/s12913-020-06001-y</pub-id><pub-id pub-id-type="pmcid">PMC7750006</pub-id></mixed-citation></ref><ref id="hex70399-bib-0030"><label>30</label><mixed-citation publication-type="book" id="hex70399-cit-0030">
+<string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Kumar</surname>
+</string-name> and <string-name name-style="western">
+<given-names>K. R.</given-names>
+<surname>Nayar</surname>
+</string-name>, <source>COVID 19 and Its Mental Health Consequences</source>. <publisher-name>Taylor &amp; Francis</publisher-name>, <year>2021</year>), <fpage>1</fpage>–<lpage>2</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1080/09638237.2020.1757052</pub-id><pub-id pub-id-type="pmid">32339041</pub-id></mixed-citation></ref><ref id="hex70399-bib-0031"><label>31</label><mixed-citation publication-type="journal" id="hex70399-cit-0031">
+<string-name name-style="western">
+<given-names>C. K. T.</given-names>
+<surname>Lima</surname>
+</string-name>, <string-name name-style="western">
+<given-names>P. M. M.</given-names>
+<surname>Carvalho</surname>
+</string-name>, <string-name name-style="western">
+<given-names>I. A. A. S.</given-names>
+<surname>Lima</surname>
+</string-name>, et al., “<article-title>The Emotional Impact of Coronavirus 2019‐nCoV (New Coronavirus Disease)</article-title>,” <source>Psychiatry Research</source>
+<volume>287</volume> (<year>2020</year>): <elocation-id>112915</elocation-id>.<pub-id pub-id-type="pmid">32199182</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.psychres.2020.112915</pub-id><pub-id pub-id-type="pmcid">PMC7195292</pub-id></mixed-citation></ref><ref id="hex70399-bib-0032"><label>32</label><mixed-citation publication-type="journal" id="hex70399-cit-0032">
+<string-name name-style="western">
+<given-names>Y.‐T.</given-names>
+<surname>Xiang</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Yang</surname>
+</string-name>, <string-name name-style="western">
+<given-names>W.</given-names>
+<surname>Li</surname>
+</string-name>, et al., “<article-title>Timely Mental Health Care for the 2019 Novel Coronavirus Outbreak Is Urgently Needed</article-title>,” <source>Lancet Psychiatry</source>
+<volume>7</volume>, no. <issue>3</issue> (<year>2020</year>): <fpage>228</fpage>–<lpage>229</lpage>.<pub-id pub-id-type="pmid">32032543</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/S2215-0366(20)30046-8</pub-id><pub-id pub-id-type="pmcid">PMC7128153</pub-id></mixed-citation></ref><ref id="hex70399-bib-0033"><label>33</label><mixed-citation publication-type="book" id="hex70399-cit-0033">
+<collab collab-type="authors">World Health Organization</collab>
+, <source>
+<italic toggle="yes">COVID‐19 Clinical Management: Living Guidance</italic>, <italic toggle="yes">25 January 2021</italic>
+</source>
+<publisher-name>(World Health Organization</publisher-name>, <year>2021</year>).</mixed-citation></ref><ref id="hex70399-bib-0034"><label>34</label><mixed-citation publication-type="miscellaneous" id="hex70399-cit-0034">
+<collab collab-type="authors">National Institute of Health</collab>
+, Coronavirus Disease 2019 (COVID‐19) Treatment Guidelines, <year>2021</year>.<pub-id pub-id-type="pmid">34003615</pub-id></mixed-citation></ref><ref id="hex70399-bib-0035"><label>35</label><mixed-citation publication-type="journal" id="hex70399-cit-0035">
+<string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Jreidini</surname>
+</string-name>, “<article-title>How Can You Help Me Integrate My Long Covid Care?</article-title>,” <source>BMJ</source>
+<volume>376</volume> (<year>2022</year>): <fpage>n3102</fpage>, <pub-id pub-id-type="doi">10.1136/bmj.n3102</pub-id>.<pub-id pub-id-type="pmid">35086863</pub-id>
+</mixed-citation></ref><ref id="hex70399-bib-0036"><label>36</label><mixed-citation publication-type="journal" id="hex70399-cit-0036">
+<string-name name-style="western">
+<given-names>B.</given-names>
+<surname>Carpallo‐Porcar</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Calvo</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Pérez‐Palomares</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Blázquez‐Pérez</surname>
+</string-name>, <string-name name-style="western">
+<given-names>N.</given-names>
+<surname>Brandín‐de la Cruz</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Jiménez‐Sánchez</surname>
+</string-name>, “<article-title>Perceptions and Experiences of a Multimodal Rehabilitation Program for People With Post‐Acute COVID‐19: A Qualitative Study</article-title>,” <source>Health Expectations</source>
+<volume>28</volume>, no. <issue>3</issue> (<year>2025</year>): <elocation-id>e70283</elocation-id>.<pub-id pub-id-type="pmid">40302157</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/hex.70283</pub-id><pub-id pub-id-type="pmcid">PMC12040759</pub-id></mixed-citation></ref><ref id="hex70399-bib-0037"><label>37</label><mixed-citation publication-type="journal" id="hex70399-cit-0037">
+<string-name name-style="western">
+<given-names>C. F.</given-names>
+<surname>Ski</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D. R.</given-names>
+<surname>Thompson</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>D. J.</given-names>
+<surname>Castle</surname>
+</string-name>, “<article-title>Trialling of an Optimal Health Programme (OHP) Across Chronic Disease</article-title>,” <source>Trials</source>
+<volume>17</volume>, no. <issue>1</issue> (<year>2016</year>): <fpage>445</fpage>.<pub-id pub-id-type="pmid">27612634</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1186/s13063-016-1560-5</pub-id><pub-id pub-id-type="pmcid">PMC5018188</pub-id></mixed-citation></ref><ref id="hex70399-bib-0038"><label>38</label><mixed-citation publication-type="journal" id="hex70399-cit-0038">
+<string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Castle</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C.</given-names>
+<surname>White</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Chamberlain</surname>
+</string-name>, et al., “<article-title>Group‐Based Psychosocial Intervention for Bipolar Disorder: Randomised Controlled Trial</article-title>,” <source>British Journal of Psychiatry</source>
+<volume>196</volume>, no. <issue>5</issue> (<year>2010</year>): <fpage>383</fpage>–<lpage>388</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1192/bjp.bp.108.058263</pub-id><pub-id pub-id-type="pmid">20435965</pub-id></mixed-citation></ref><ref id="hex70399-bib-0039"><label>39</label><mixed-citation publication-type="journal" id="hex70399-cit-0039">
+<string-name name-style="western">
+<given-names>M. M.</given-names>
+<surname>Gilbert</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J. A.</given-names>
+<surname>Chamberlain</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C. R.</given-names>
+<surname>White</surname>
+</string-name>, et al., “<article-title>Controlled Clinical Trial of a Self‐Management Program for People With Mental Illness in an Adult Mental Health Service–The Optimal Health Program (OHP)</article-title>,” <source>Australian Health Review</source>
+<volume>36</volume>, no. <issue>1</issue> (<year>2012</year>): <fpage>1</fpage>–<lpage>7</lpage>.<pub-id pub-id-type="pmid">22513012</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1071/AH11008</pub-id></mixed-citation></ref><ref id="hex70399-bib-0040"><label>40</label><mixed-citation publication-type="journal" id="hex70399-cit-0040">
+<string-name name-style="western">
+<given-names>C. L.</given-names>
+<surname>O'Brien</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C. F.</given-names>
+<surname>Ski</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D. R.</given-names>
+<surname>Thompson</surname>
+</string-name>, et al., “<article-title>The Mental Health in Diabetes Service (MINDS) to Enhance Psychosocial Health: Study Protocol for a Randomized Controlled Trial</article-title>,” <source>Trials</source>
+<volume>17</volume>, no. <issue>1</issue> (<year>2016</year>): <fpage>444</fpage>.<pub-id pub-id-type="pmid">27612943</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1186/s13063-016-1561-4</pub-id><pub-id pub-id-type="pmcid">PMC5018192</pub-id></mixed-citation></ref><ref id="hex70399-bib-0041"><label>41</label><mixed-citation publication-type="journal" id="hex70399-cit-0041">
+<string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Al‐Jabr</surname>
+</string-name>, <string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Windle</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D. R.</given-names>
+<surname>Thompson</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Z. M.</given-names>
+<surname>Jenkins</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D. J.</given-names>
+<surname>Castle</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>C. F.</given-names>
+<surname>Ski</surname>
+</string-name>, “<article-title>Long COVID Optimal Health Program (LC‐OHP) to Enhance Psychological and Physical Health: Protocol for a Feasibility Randomized Controlled Trial</article-title>,” <source>JMIR Research Protocols</source>
+<volume>11</volume>, no. <issue>5</issue> (<year>2022</year>): <elocation-id>e36673</elocation-id>.<pub-id pub-id-type="pmid">35468586</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.2196/36673</pub-id><pub-id pub-id-type="pmcid">PMC9106280</pub-id></mixed-citation></ref><ref id="hex70399-bib-0042"><label>42</label><mixed-citation publication-type="journal" id="hex70399-cit-0042">
+<string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Al‐Jabr</surname>
+</string-name>, <string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Windle</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Clifton</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D. R.</given-names>
+<surname>Thompson</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D. J.</given-names>
+<surname>Castle</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>C. F.</given-names>
+<surname>Ski</surname>
+</string-name>, “<article-title>Patient Experiences of the Long COVID–Optimal Health Programme: Qualitative Interview Study in Community Settings</article-title>,” <source>BJGP open</source>
+<volume>8</volume>, no. <issue>1</issue> (<year>2024</year>).<pub-id pub-id-type="doi" assigning-authority="pmc">10.3399/BJGPO.2023.0137</pub-id><pub-id pub-id-type="pmcid">PMC11169993</pub-id><pub-id pub-id-type="pmid">37907337</pub-id></mixed-citation></ref><ref id="hex70399-bib-0043"><label>43</label><mixed-citation publication-type="miscellaneous" id="hex70399-cit-0043">
+<collab collab-type="authors">Castor</collab>
+. Castor, <year>2024</year>, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.castoredc.com/?utm_source=google%26utm_medium=cpc%26utm_content=HomePage%26utm_campaign=Google%20Ads%20%7C%20HomePage" ext-link-type="uri">https://www.castoredc.com/?utm_source=google&amp;utm_medium=cpc&amp;utm_content=HomePage&amp;utm_campaign=Google%20Ads%20%7C%20HomePage</ext-link>.</mixed-citation></ref><ref id="hex70399-bib-0044"><label>44</label><mixed-citation publication-type="journal" id="hex70399-cit-0044">
+<string-name name-style="western">
+<given-names>D. J.</given-names>
+<surname>Castle</surname>
+</string-name> and <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Gilbert</surname>
+</string-name>, “<article-title>Collaborative Therapy: Framework for Mental Health</article-title>,” <source>British Journal of Psychiatry</source>
+<volume>189</volume>, no. <issue>5</issue> (<year>2006</year>): <fpage>467</fpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1192/bjp.189.5.467</pub-id><pub-id pub-id-type="pmid">17077443</pub-id></mixed-citation></ref><ref id="hex70399-bib-0045"><label>45</label><mixed-citation publication-type="journal" id="hex70399-cit-0045">
+<string-name name-style="western">
+<given-names>C. L.</given-names>
+<surname>O'Brien</surname>
+</string-name>, <string-name name-style="western">
+<given-names>G.</given-names>
+<surname>Moore</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J. X.</given-names>
+<surname>Rolley</surname>
+</string-name>, et al., “<article-title>Exploring Health Care Providers' Perceptions of the Needs of Stroke Carers: Informing Development of an Optimal Health Program</article-title>,” <source>Topics in Stroke Rehabilitation</source>
+<volume>21</volume>, no. <issue>5</issue> (<year>2014</year>): <fpage>421</fpage>–<lpage>431</lpage>.<pub-id pub-id-type="pmid">25341387</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1310/tsr2105-421</pub-id></mixed-citation></ref><ref id="hex70399-bib-0046"><label>46</label><mixed-citation publication-type="journal" id="hex70399-cit-0046">
+<string-name name-style="western">
+<given-names>C. F.</given-names>
+<surname>Ski</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D. J.</given-names>
+<surname>Castle</surname>
+</string-name>, <string-name name-style="western">
+<given-names>N. T.</given-names>
+<surname>Lautenschlager</surname>
+</string-name>, <string-name name-style="western">
+<given-names>G.</given-names>
+<surname>Moore</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>D. R.</given-names>
+<surname>Thompson</surname>
+</string-name>, “<article-title>Caring for Caregivers After a Stroke</article-title>,” <source>International Psychogeriatrics</source>
+<volume>27</volume>, no. <issue>1</issue> (<year>2015</year>): <fpage>1</fpage>–<lpage>4</lpage>.<pub-id pub-id-type="pmid">25381810</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1017/S1041610214002385</pub-id></mixed-citation></ref><ref id="hex70399-bib-0047"><label>47</label><mixed-citation publication-type="journal" id="hex70399-cit-0047">
+<string-name name-style="western">
+<given-names>Z. M.</given-names>
+<surname>Jenkins</surname>
+</string-name>, <string-name name-style="western">
+<given-names>E. J.</given-names>
+<surname>Tan</surname>
+</string-name>, <string-name name-style="western">
+<given-names>E.</given-names>
+<surname>O'Flaherty</surname>
+</string-name>, et al., “<article-title>A Psychosocial Intervention for Individuals With Advanced Chronic Kidney Disease: A Feasibility Randomized Controlled Trial</article-title>,” <source>Nephrology</source>
+<volume>26</volume>, no. <issue>5</issue> (<year>2021</year>): <fpage>442</fpage>–<lpage>453</lpage>.<pub-id pub-id-type="pmid">33484221</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/nep.13850</pub-id></mixed-citation></ref><ref id="hex70399-bib-0048"><label>48</label><mixed-citation publication-type="journal" id="hex70399-cit-0048">
+<string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Kroenke</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R. L.</given-names>
+<surname>Spitzer</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>J. B. W.</given-names>
+<surname>Williams</surname>
+</string-name>, “<article-title>The PHQ‐9: Validity of a Brief Depression Severity Measure</article-title>,” <source>Journal of General Internal Medicine</source>
+<volume>16</volume>, no. <issue>9</issue> (<year>2001</year>): <fpage>606</fpage>–<lpage>613</lpage>.<pub-id pub-id-type="pmid">11556941</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1046/j.1525-1497.2001.016009606.x</pub-id><pub-id pub-id-type="pmcid">PMC1495268</pub-id></mixed-citation></ref><ref id="hex70399-bib-0049"><label>49</label><mixed-citation publication-type="journal" id="hex70399-cit-0049">
+<string-name name-style="western">
+<given-names>R. P.</given-names>
+<surname>Swinson</surname>
+</string-name>, “<article-title>The GAD‐7 Scale Was Accurate for Diagnosing Generalised Anxiety Disorder</article-title>,” <source>Evidence‐Based Medicine</source>
+<volume>11</volume>, no. <issue>6</issue> (<year>2006</year>): <fpage>184</fpage>.<pub-id pub-id-type="pmid">17213178</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1136/ebm.11.6.184</pub-id></mixed-citation></ref><ref id="hex70399-bib-0050"><label>50</label><mixed-citation publication-type="journal" id="hex70399-cit-0050">
+<string-name name-style="western">
+<given-names>R. L.</given-names>
+<surname>Spitzer</surname>
+</string-name>, <string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Kroenke</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J. B. W.</given-names>
+<surname>Williams</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>B.</given-names>
+<surname>Löwe</surname>
+</string-name>, “<article-title>A Brief Measure for Assessing Generalized Anxiety Disorder: The Gad‐7</article-title>,” <source>Archives of Internal Medicine</source>
+<volume>166</volume>, no. <issue>10</issue> (<year>2006</year>): <fpage>1092</fpage>–<lpage>1097</lpage>.<pub-id pub-id-type="pmid">16717171</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1001/archinte.166.10.1092</pub-id></mixed-citation></ref><ref id="hex70399-bib-0051"><label>51</label><mixed-citation publication-type="miscellaneous" id="hex70399-cit-0051">
+<string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Schwarzer</surname>
+</string-name> and <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Jerusalem</surname>,</string-name>
+<article-title>The General Self‐Efficacy Scale (GSE)</article-title>,<year>1995</year>.</mixed-citation></ref><ref id="hex70399-bib-0052"><label>52</label><mixed-citation publication-type="journal" id="hex70399-cit-0052">
+<string-name name-style="western">
+<given-names>M. F.</given-names>
+<surname>Janssen</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A. S.</given-names>
+<surname>Pickard</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Golicki</surname>
+</string-name>, et al., “<article-title>Measurement Properties of the EQ‐5D‐5L Compared to the EQ‐5D‐3L Across Eight Patient Groups: A Multi‐Country Study</article-title>,” <source>Quality of Life Research</source>
+<volume>22</volume>, no. <issue>7</issue> (<year>2013</year>): <fpage>1717</fpage>–<lpage>1727</lpage>.<pub-id pub-id-type="pmid">23184421</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s11136-012-0322-4</pub-id><pub-id pub-id-type="pmcid">PMC3764313</pub-id></mixed-citation></ref><ref id="hex70399-bib-0053"><label>53</label><mixed-citation publication-type="journal" id="hex70399-cit-0053">
+<string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Herdman</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Gudex</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Lloyd</surname>
+</string-name>, et al., “<article-title>Development and Preliminary Testing of the New Five‐Level Version of EQ‐5D (EQ‐5D‐5L)</article-title>,” <source>Quality of Life Research</source>
+<volume>20</volume>, no. <issue>10</issue> (<year>2011</year>): <fpage>1727</fpage>–<lpage>1736</lpage>.<pub-id pub-id-type="pmid">21479777</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s11136-011-9903-x</pub-id><pub-id pub-id-type="pmcid">PMC3220807</pub-id></mixed-citation></ref><ref id="hex70399-bib-0054"><label>54</label><mixed-citation publication-type="journal" id="hex70399-cit-0054">
+<string-name name-style="western">
+<given-names>W. P. E.</given-names>
+<surname>de Kleijn</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>De Vries</surname>
+</string-name>, <string-name name-style="western">
+<given-names>P. A. H. M.</given-names>
+<surname>Wijnen</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Drent</surname>
+</string-name>, “<article-title>Minimal (Clinically) Important Differences for the Fatigue Assessment Scale in Sarcoidosis</article-title>,” <source>Respiratory Medicine</source>
+<volume>105</volume>, no. <issue>9</issue> (<year>2011</year>): <fpage>1388</fpage>–<lpage>1395</lpage>.<pub-id pub-id-type="pmid">21700440</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.rmed.2011.05.004</pub-id></mixed-citation></ref><ref id="hex70399-bib-0055"><label>55</label><mixed-citation publication-type="journal" id="hex70399-cit-0055">
+<string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Drent</surname>
+</string-name>, <string-name name-style="western">
+<given-names>E. E.</given-names>
+<surname>Lower</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>De Vries</surname>
+</string-name>, “<article-title>Sarcoidosis‐Associated Fatigue</article-title>,” <source>European Respiratory Society</source>
+<volume>40</volume>, no. <issue>1</issue> (<year>2012</year>): <fpage>255</fpage>–<lpage>263</lpage>, <pub-id pub-id-type="doi">10.1183/09031936.00002512</pub-id>.<pub-id pub-id-type="pmid">22441750</pub-id></mixed-citation></ref><ref id="hex70399-bib-0056"><label>56</label><mixed-citation publication-type="journal" id="hex70399-cit-0056">
+<string-name name-style="western">
+<given-names>M. L.</given-names>
+<surname>Kelley</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R. W.</given-names>
+<surname>Heffer</surname>
+</string-name>, <string-name name-style="western">
+<given-names>F. M.</given-names>
+<surname>Gresham</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>S. N.</given-names>
+<surname>Elliott</surname>
+</string-name>, “<article-title>Development of a Modified Treatment Evaluation Inventory</article-title>,” <source>Journal of Psychopathology and Behavioral Assessment</source>
+<volume>11</volume>, no. <issue>3</issue> (<year>1989</year>): <fpage>235</fpage>–<lpage>247</lpage>.</mixed-citation></ref><ref id="hex70399-bib-0057"><label>57</label><mixed-citation publication-type="journal" id="hex70399-cit-0057">
+<string-name name-style="western">
+<given-names>S. A.</given-names>
+<surname>Billingham</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A. L.</given-names>
+<surname>Whitehead</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>S. A.</given-names>
+<surname>Julious</surname>
+</string-name>, “<article-title>An Audit of Sample Sizes for Pilot and Feasibility Trials Being Undertaken in the United Kingdom Registered in the United Kingdom Clinical Research Network Database</article-title>,” <source>BMC Medical Research Methodology</source>
+<volume>13</volume>, no. <issue>1</issue> (<year>2013</year>): <fpage>104</fpage>.<pub-id pub-id-type="pmid">23961782</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1186/1471-2288-13-104</pub-id><pub-id pub-id-type="pmcid">PMC3765378</pub-id></mixed-citation></ref><ref id="hex70399-bib-0058"><label>58</label><mixed-citation publication-type="journal" id="hex70399-cit-0058">
+<string-name name-style="western">
+<given-names>R. H.</given-names>
+<surname>Browne</surname>
+</string-name>, “<article-title>On the Use of a Pilot Sample for Sample Size Determination</article-title>,” <source>Statistics in Medicine</source>
+<volume>14</volume>, no. <issue>17</issue> (<year>1995</year>): <fpage>1933</fpage>–<lpage>1940</lpage>.<pub-id pub-id-type="pmid">8532986</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/sim.4780141709</pub-id></mixed-citation></ref><ref id="hex70399-bib-0059"><label>59</label><mixed-citation publication-type="journal" id="hex70399-cit-0059">
+<string-name name-style="western">
+<given-names>G. A.</given-names>
+<surname>Lancaster</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Dodd</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>P. R.</given-names>
+<surname>Williamson</surname>
+</string-name>, “<article-title>Design and Analysis of Pilot Studies: Recommendations for Good Practice</article-title>,” <source>Journal of Evaluation in Clinical Practice</source>
+<volume>10</volume>, no. <issue>2</issue> (<year>2004</year>): <fpage>307</fpage>–<lpage>312</lpage>.<pub-id pub-id-type="pmid">15189396</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/j..2002.384.doc.x</pub-id></mixed-citation></ref><ref id="hex70399-bib-0060"><label>60</label><mixed-citation publication-type="journal" id="hex70399-cit-0060">
+<string-name name-style="western">
+<given-names>M. D.</given-names>
+<surname>Teare</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Dimairo</surname>
+</string-name>, <string-name name-style="western">
+<given-names>N.</given-names>
+<surname>Shephard</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Hayman</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Whitehead</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>S. J.</given-names>
+<surname>Walters</surname>
+</string-name>, “<article-title>Sample Size Requirements to Estimate Key Design Parameters From External Pilot Randomised Controlled Trials: A Simulation Study</article-title>,” <source>Trials</source>
+<volume>15</volume>, no. <issue>1</issue> (<year>2014</year>): <fpage>264</fpage>.<pub-id pub-id-type="pmid">24993581</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1186/1745-6215-15-264</pub-id><pub-id pub-id-type="pmcid">PMC4227298</pub-id></mixed-citation></ref><ref id="hex70399-bib-0061"><label>61</label><mixed-citation publication-type="journal" id="hex70399-cit-0061">
+<string-name name-style="western">
+<given-names>D. J.</given-names>
+<surname>Bowen</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Kreuter</surname>
+</string-name>, <string-name name-style="western">
+<given-names>B.</given-names>
+<surname>Spring</surname>
+</string-name>, et al., “<article-title>How We Design Feasibility Studies</article-title>,” <source>American Journal of Preventive Medicine</source>
+<volume>36</volume>, no. <issue>5</issue> (<year>2009</year>): <fpage>452</fpage>–<lpage>457</lpage>.<pub-id pub-id-type="pmid">19362699</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.amepre.2009.02.002</pub-id><pub-id pub-id-type="pmcid">PMC2859314</pub-id></mixed-citation></ref><ref id="hex70399-bib-0062"><label>62</label><mixed-citation publication-type="journal" id="hex70399-cit-0062">
+<string-name name-style="western">
+<given-names>P.</given-names>
+<surname>Szymczynska</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Walsh</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Greenberg</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Priebe</surname>
+</string-name>, “<article-title>Attrition in Trials Evaluating Complex Interventions for Schizophrenia: Systematic Review and Meta‐Analysis</article-title>,” <source>Journal of Psychiatric Research</source>
+<volume>90</volume> (<year>2017</year>): <fpage>67</fpage>–<lpage>77</lpage>.<pub-id pub-id-type="pmid">28231496</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.jpsychires.2017.02.009</pub-id></mixed-citation></ref><ref id="hex70399-bib-0063"><label>63</label><mixed-citation publication-type="journal" id="hex70399-cit-0063">
+<string-name name-style="western">
+<given-names>M. S.</given-names>
+<surname>Fewtrell</surname>
+</string-name>, <string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Kennedy</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Singhal</surname>
+</string-name>, et al., “<article-title>How Much Loss to Follow‐Up Is Acceptable in Long‐Term Randomised Trials and Prospective Studies?</article-title>,” <source>Archives of Disease in Childhood</source>
+<volume>93</volume>, no. <issue>6</issue> (<year>2008</year>): <fpage>458</fpage>–<lpage>461</lpage>.<pub-id pub-id-type="pmid">18495909</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1136/adc.2007.127316</pub-id></mixed-citation></ref><ref id="hex70399-bib-0064"><label>64</label><mixed-citation publication-type="journal" id="hex70399-cit-0064">
+<string-name name-style="western">
+<given-names>N.</given-names>
+<surname>Veronese</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Bonica</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Cotugno</surname>
+</string-name>, et al., “<article-title>Interventions for Improving Long COVID‐19 Symptomatology: A Systematic Review</article-title>,” <source>Viruses</source>
+<volume>14</volume>, no. <issue>9</issue> (<year>2022</year>): <fpage>1863</fpage>.<pub-id pub-id-type="pmid">36146672</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3390/v14091863</pub-id><pub-id pub-id-type="pmcid">PMC9502379</pub-id></mixed-citation></ref><ref id="hex70399-bib-0065"><label>65</label><mixed-citation publication-type="journal" id="hex70399-cit-0065">
+<string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Jimeno‐Almazán</surname>
+</string-name>, <string-name name-style="western">
+<given-names>F.</given-names>
+<surname>Franco‐López</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Á.</given-names>
+<surname>Buendía‐Romero</surname>
+</string-name>, et al., “<article-title>Rehabilitation for Post‐COVID‐19 Condition Through a Supervised Exercise Intervention: A Randomized Controlled Trial</article-title>,” <source>Scandinavian Journal of Medicine &amp; Science in Sports</source>
+<volume>32</volume>, no. <issue>12</issue> (<year>2022</year>): <fpage>1791</fpage>–<lpage>1801</lpage>.<pub-id pub-id-type="pmid">36111386</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/sms.14240</pub-id><pub-id pub-id-type="pmcid">PMC9538729</pub-id></mixed-citation></ref><ref id="hex70399-bib-0066"><label>66</label><mixed-citation publication-type="journal" id="hex70399-cit-0066">
+<string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Al‐Jabr</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L. D.</given-names>
+<surname>Hawke</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D. R.</given-names>
+<surname>Thompson</surname>
+</string-name>, et al., “<article-title>Interventions to Support Mental Health in People With Long COVID: A Scoping Review</article-title>,” <source>BMC Public Health</source>
+<volume>23</volume>, no. <issue>1</issue> (<year>2023</year>): <fpage>1186</fpage>.<pub-id pub-id-type="pmid">37340400</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1186/s12889-023-16079-8</pub-id><pub-id pub-id-type="pmcid">PMC10280822</pub-id></mixed-citation></ref><ref id="hex70399-bib-0067"><label>67</label><mixed-citation publication-type="journal" id="hex70399-cit-0067">
+<string-name name-style="western">
+<given-names>M. V. A.</given-names>
+<surname>Smith</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Grohmann</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Trivedi</surname>
+</string-name>, “<article-title>Use of Social Media in Recruiting Young People to Mental Health Research: A Scoping Review</article-title>,” <source>BMJ Open</source>
+<volume>13</volume>, no. <issue>11</issue> (<year>2023</year>): <elocation-id>e075290</elocation-id>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1136/bmjopen-2023-075290</pub-id><pub-id pub-id-type="pmcid">PMC10685975</pub-id><pub-id pub-id-type="pmid">38016791</pub-id></mixed-citation></ref><ref id="hex70399-bib-0068"><label>68</label><mixed-citation publication-type="journal" id="hex70399-cit-0068">
+<string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Sanchez</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Grzenda</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Varias</surname>
+</string-name>, et al., “<article-title>Social Media Recruitment for Mental Health Research: A Systematic Review</article-title>,” <source>Comprehensive Psychiatry</source>
+<volume>103</volume> (<year>2020</year>): <elocation-id>152197</elocation-id>.<pub-id pub-id-type="pmid">32992073</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.comppsych.2020.152197</pub-id><pub-id pub-id-type="pmcid">PMC7704547</pub-id></mixed-citation></ref><ref id="hex70399-bib-0069"><label>69</label><mixed-citation publication-type="journal" id="hex70399-cit-0069">
+<string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Bour</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Ahne</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Schmitz</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Perchoux</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Dessenne</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>G.</given-names>
+<surname>Fagherazzi</surname>
+</string-name>, “<article-title>The Use of Social Media for Health Research Purposes: Scoping Review</article-title>,” <source>Journal of Medical Internet Research</source>
+<volume>23</volume>, no. <issue>5</issue> (<year>2021</year>): <elocation-id>e25736</elocation-id>.<pub-id pub-id-type="pmid">34042593</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.2196/25736</pub-id><pub-id pub-id-type="pmcid">PMC8193478</pub-id></mixed-citation></ref><ref id="hex70399-bib-0070"><label>70</label><mixed-citation publication-type="journal" id="hex70399-cit-0070">
+<string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Raju</surname>
+</string-name>, “<article-title>Knowledge and Skills for the Digital Era Academic Library</article-title>,” <source>Journal of academic librarianship</source>
+<volume>40</volume>, no. <issue>2</issue> (<year>2014</year>): <fpage>163</fpage>–<lpage>170</lpage>.</mixed-citation></ref><ref id="hex70399-bib-0071"><label>71</label><mixed-citation publication-type="journal" id="hex70399-cit-0071">
+<string-name name-style="western">
+<given-names>E. M.</given-names>
+<surname>Darko</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Kleib</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Olson</surname>
+</string-name>, “<article-title>Social Media Use for Research Participant Recruitment: Integrative Literature Review</article-title>,” <source>Journal of Medical Internet Research</source>
+<volume>24</volume>, no. <issue>8</issue> (<year>2022</year>): <elocation-id>e38015</elocation-id>.<pub-id pub-id-type="pmid">35925655</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.2196/38015</pub-id><pub-id pub-id-type="pmcid">PMC9389385</pub-id></mixed-citation></ref><ref id="hex70399-bib-0072"><label>72</label><mixed-citation publication-type="journal" id="hex70399-cit-0072">
+<string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Khullar</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Zang</surname>
+</string-name>, et al., “<article-title>Racial/Ethnic Disparities in Post‐Acute Sequelae of SARS‐CoV‐2 Infection in New York: An EHR‐Based Cohort Study From the Recover Program</article-title>,” <source>Journal of General Internal Medicine</source>
+<volume>38</volume>, no. <issue>5</issue> (<year>2023</year>): <fpage>1127</fpage>–<lpage>1136</lpage>.<pub-id pub-id-type="pmid">36795327</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s11606-022-07997-1</pub-id><pub-id pub-id-type="pmcid">PMC9933823</pub-id></mixed-citation></ref><ref id="hex70399-bib-0073"><label>73</label><mixed-citation publication-type="journal" id="hex70399-cit-0073">
+<string-name name-style="western">
+<given-names>M. M.</given-names>
+<surname>Jacobs</surname>
+</string-name>, <string-name name-style="western">
+<given-names>E.</given-names>
+<surname>Evans</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Ellis</surname>
+</string-name>, “<article-title>Racial, Ethnic, and Sex Disparities in the Incidence and Cognitive Symptomology of Long Covid‐19</article-title>,” <source>Journal of the National Medical Association</source>
+<volume>115</volume>, no. <issue>2</issue> (<year>2023</year>): <fpage>233</fpage>–<lpage>243</lpage>.<pub-id pub-id-type="pmid">36792456</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.jnma.2023.01.016</pub-id><pub-id pub-id-type="pmcid">PMC9923441</pub-id></mixed-citation></ref><ref id="hex70399-bib-0074"><label>74</label><mixed-citation publication-type="miscellaneous" id="hex70399-cit-0074">
+<collab collab-type="authors">National Institute of Health</collab>
+, Symptoms of Long COVID Differ for People of Different Racial and Ethnic Groups, 2023, accessed December 18, 2024, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://covid19.nih.gov/news-and-stories/symptoms-long-covid-differ-people-different-racial-and-ethnic-groups#:%7E:text=A%20study%20supported%20by%20the,greater%20access%20to%20health%20care" ext-link-type="uri">https://covid19.nih.gov/news-and-stories/symptoms-long-covid-differ-people-different-racial-and-ethnic-groups#:~:text=A%20study%20supported%20by%20the,greater%20access%20to%20health%20care</ext-link>.</mixed-citation></ref><ref id="hex70399-bib-0075"><label>75</label><mixed-citation publication-type="journal" id="hex70399-cit-0075">
+<string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Murali</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Gumber</surname>
+</string-name>, <string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Jethwa</surname>
+</string-name>, et al., “<article-title>Ethnic Minority Representation in UK COVID‐19 Trials: Systematic Review and Meta‐Analysis</article-title>,” <source>BMC Medicine</source>
+<volume>21</volume>, no. <issue>1</issue> (<year>2023</year>): <fpage>111</fpage>.<pub-id pub-id-type="pmid">36978166</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1186/s12916-023-02809-7</pub-id><pub-id pub-id-type="pmcid">PMC10049782</pub-id></mixed-citation></ref><ref id="hex70399-bib-0076"><label>76</label><mixed-citation publication-type="journal" id="hex70399-cit-0076">
+<string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Glass</surname>
+</string-name>, <string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Kelsall</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Slegers</surname>
+</string-name>, et al., “<article-title>A Telephone Survey of Factors Affecting Willingness to Participate in Health Research Surveys</article-title>,” <source>BMC Public Health</source>
+<volume>15</volume>, no. <issue>1</issue> (<year>2015</year>): <fpage>1017</fpage>.<pub-id pub-id-type="pmid">26438148</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1186/s12889-015-2350-9</pub-id><pub-id pub-id-type="pmcid">PMC4594742</pub-id></mixed-citation></ref><ref id="hex70399-bib-0077"><label>77</label><mixed-citation publication-type="journal" id="hex70399-cit-0077">
+<string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Meiklejohn</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Connor</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Kypri</surname>
+</string-name>, “<article-title>The Effect of Low Survey Response Rates on Estimates of Alcohol Consumption in a General Population Survey</article-title>,” <source>PLoS One</source>
+<volume>7</volume>, no. <issue>4</issue> (<year>2012</year>): <elocation-id>e35527</elocation-id>.<pub-id pub-id-type="pmid">22532858</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1371/journal.pone.0035527</pub-id><pub-id pub-id-type="pmcid">PMC3332039</pub-id></mixed-citation></ref><ref id="hex70399-bib-0078"><label>78</label><mixed-citation publication-type="journal" id="hex70399-cit-0078">
+<string-name name-style="western">
+<given-names>K. M.</given-names>
+<surname>Dunn</surname>
+</string-name>, “<article-title>Patterns of Consent in Epidemiologic Research: Evidence From Over 25,000 Responders</article-title>,” <source>American Journal of Epidemiology</source>
+<volume>159</volume>, no. <issue>11</issue> (<year>2004</year>): <fpage>1087</fpage>–<lpage>1094</lpage>.<pub-id pub-id-type="pmid">15155293</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/aje/kwh141</pub-id></mixed-citation></ref><ref id="hex70399-bib-0079"><label>79</label><mixed-citation publication-type="journal" id="hex70399-cit-0079">
+<string-name name-style="western">
+<given-names>T. M. L.</given-names>
+<surname>Eagan</surname>
+</string-name>, <string-name name-style="western">
+<given-names>G. E.</given-names>
+<surname>Eide</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Gulsvik</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>P. S.</given-names>
+<surname>Bakke</surname>
+</string-name>, “<article-title>Nonresponse in a Community Cohort Study</article-title>,” <source>Journal of Clinical Epidemiology</source>
+<volume>55</volume>, no. <issue>8</issue> (<year>2002</year>): <fpage>775</fpage>–<lpage>781</lpage>.<pub-id pub-id-type="pmid">12384191</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/s0895-4356(02)00431-6</pub-id></mixed-citation></ref><ref id="hex70399-bib-0080"><label>80</label><mixed-citation publication-type="journal" id="hex70399-cit-0080">
+<string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Fernández‐de‐Las‐Peñas</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J. D.</given-names>
+<surname>Martín‐Guerrero</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Ó. J.</given-names>
+<surname>Pellicer‐Valero</surname>
+</string-name>, et al., “<article-title>Female Sex Is a Risk Factor Associated With Long‐Term Post‐COVID Related‐Symptoms but Not With COVID‐19 Symptoms: The Long‐COVID‐EXP‐CM Multicenter Study</article-title>,” <source>Journal of Clinical Medicine</source>
+<volume>11</volume>, no. <issue>2</issue> (<year>2022</year>): <fpage>413</fpage>.<pub-id pub-id-type="pmid">35054108</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3390/jcm11020413</pub-id><pub-id pub-id-type="pmcid">PMC8778106</pub-id></mixed-citation></ref><ref id="hex70399-bib-0081"><label>81</label><mixed-citation publication-type="journal" id="hex70399-cit-0081">
+<string-name name-style="western">
+<given-names>Q.</given-names>
+<surname>Xiong</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Xu</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Li</surname>
+</string-name>, et al., “<article-title>Clinical Sequelae of COVID‐19 Survivors in Wuhan, China: A Single‐Centre Longitudinal Study</article-title>,” <source>Clinical Microbiology and Infection</source>
+<volume>27</volume>, no. <issue>1</issue> (<year>2021</year>): <fpage>89</fpage>–<lpage>95</lpage>.<pub-id pub-id-type="pmid">32979574</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.cmi.2020.09.023</pub-id><pub-id pub-id-type="pmcid">PMC7510771</pub-id></mixed-citation></ref><ref id="hex70399-bib-0082"><label>82</label><mixed-citation publication-type="journal" id="hex70399-cit-0082">
+<string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Huang</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Huang</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Wang</surname>
+</string-name>, et al., “<article-title>Retracted: 6‐month Consequences of COVID‐19 in Patients Discharged From Hospital: A Cohort Study</article-title>,” <source>Lancet</source>
+<volume>397</volume>, no. <issue>10270</issue> (<year>2021</year>): <fpage>220</fpage>–<lpage>232</lpage>.<pub-id pub-id-type="pmid">33428867</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/S0140-6736(20)32656-8</pub-id><pub-id pub-id-type="pmcid">PMC7833295</pub-id><related-article xmlns:xlink="http://www.w3.org/1999/xlink" related-article-type="expression-of-concern" ext-link-type="pmc" xlink:href="PMC9691145"/></mixed-citation></ref><ref id="hex70399-bib-0083"><label>83</label><mixed-citation publication-type="journal" id="hex70399-cit-0083">
+<string-name name-style="western">
+<given-names>D. L.</given-names>
+<surname>Sykes</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Holdsworth</surname>
+</string-name>, <string-name name-style="western">
+<given-names>N.</given-names>
+<surname>Jawad</surname>
+</string-name>, <string-name name-style="western">
+<given-names>P.</given-names>
+<surname>Gunasekera</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A. H.</given-names>
+<surname>Morice</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>M. G.</given-names>
+<surname>Crooks</surname>
+</string-name>, “<article-title>Post‐COVID‐19 Symptom Burden: What Is Long‐Covid and How Should We Manage It?</article-title>,” <source>Lung</source>
+<volume>199</volume>, no. <issue>2</issue> (<year>2021</year>): <fpage>113</fpage>–<lpage>119</lpage>.<pub-id pub-id-type="pmid">33569660</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s00408-021-00423-z</pub-id><pub-id pub-id-type="pmcid">PMC7875681</pub-id></mixed-citation></ref><ref id="hex70399-bib-0084"><label>84</label><mixed-citation publication-type="journal" id="hex70399-cit-0084">
+<string-name name-style="western">
+<given-names>L. G.</given-names>
+<surname>Jacobs</surname>
+</string-name>, <string-name name-style="western">
+<given-names>E.</given-names>
+<surname>Gourna Paleoudis</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Lesky‐Di Bari</surname>
+</string-name>, et al., “<article-title>Persistence of Symptoms and Quality of Life at 35 Days After Hospitalization for COVID‐19 Infection</article-title>,” <source>PLoS One</source>
+<volume>15</volume>, no. <issue>12</issue> (<year>2020</year>): <elocation-id>e0243882</elocation-id>.<pub-id pub-id-type="pmid">33306721</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1371/journal.pone.0243882</pub-id><pub-id pub-id-type="pmcid">PMC7732078</pub-id></mixed-citation></ref><ref id="hex70399-bib-0085"><label>85</label><mixed-citation publication-type="journal" id="hex70399-cit-0085">
+<string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Munblit</surname>
+</string-name>, <string-name name-style="western">
+<given-names>P.</given-names>
+<surname>Bobkova</surname>
+</string-name>, <string-name name-style="western">
+<given-names>E.</given-names>
+<surname>Spiridonova</surname>
+</string-name>, et al., “<article-title>Incidence and Risk Factors for Persistent Symptoms in Adults Previously Hospitalized for COVID‐19</article-title>,” <source>Clinical &amp; Experimental Allergy</source>
+<volume>51</volume>, no. <issue>9</issue> (<year>2021</year>): <fpage>1107</fpage>–<lpage>1120</lpage>.<pub-id pub-id-type="pmid">34351016</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/cea.13997</pub-id><pub-id pub-id-type="pmcid">PMC8444748</pub-id></mixed-citation></ref><ref id="hex70399-bib-0086"><label>86</label><mixed-citation publication-type="journal" id="hex70399-cit-0086">
+<string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Peghin</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Palese</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Venturini</surname>
+</string-name>, et al., “<article-title>Post‐COVID‐19 Symptoms 6 Months After Acute Infection Among Hospitalized and Non‐Hospitalized Patients</article-title>,” <source>Clinical Microbiology and Infection</source>
+<volume>27</volume>, no. <issue>10</issue> (<year>2021</year>): <fpage>1507</fpage>–<lpage>1513</lpage>.<pub-id pub-id-type="pmid">34111579</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.cmi.2021.05.033</pub-id><pub-id pub-id-type="pmcid">PMC8180450</pub-id></mixed-citation></ref><ref id="hex70399-bib-0087"><label>87</label><mixed-citation publication-type="journal" id="hex70399-cit-0087">
+<string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Ghosn</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Piroth</surname>
+</string-name>, <string-name name-style="western">
+<given-names>O.</given-names>
+<surname>Epaulard</surname>
+</string-name>, et al., “<article-title>Persistent COVID‐19 Symptoms Are Highly Prevalent 6 Months After Hospitalization: Results From a Large Prospective Cohort</article-title>,” <source>Clinical Microbiology and Infection</source>
+<volume>27</volume>, no. <issue>7</issue> (<year>2021</year>): <fpage>1041.e1</fpage>–<lpage>1041.e4</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.cmi.2021.03.012</pub-id><pub-id pub-id-type="pmcid">PMC8107834</pub-id><pub-id pub-id-type="pmid">34125067</pub-id></mixed-citation></ref><ref id="hex70399-bib-0088"><label>88</label><mixed-citation publication-type="book" id="hex70399-cit-0088">
+<collab collab-type="authors">Office for National Statistics</collab>
+, <source>Research Report on Population Estimates by Ethnic Group and Religion</source>(<publisher-name>ONS</publisher-name>, <year>2019</year>).</mixed-citation></ref><ref id="hex70399-bib-0089"><label>89</label><mixed-citation publication-type="journal" id="hex70399-cit-0089">
+<string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Al‐Jabr</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D. R.</given-names>
+<surname>Thompson</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D. J.</given-names>
+<surname>Castle</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>C. F.</given-names>
+<surname>Ski</surname>
+</string-name>, “<article-title>Experiences of People With Long Covid: Symptoms, Support Strategies and the Long Covid Optimal Health Programme</article-title>,” <source>Health Expectations</source>
+<volume>27</volume>, no. <issue>1</issue> (<year>2024</year>): <elocation-id>e13879</elocation-id>.<pub-id pub-id-type="pmid">37751413</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/hex.13879</pub-id><pub-id pub-id-type="pmcid">PMC10726154</pub-id></mixed-citation></ref><ref id="hex70399-bib-0090"><label>90</label><mixed-citation publication-type="journal" id="hex70399-cit-0090">
+<string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Ferrier</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C. F.</given-names>
+<surname>Ski</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C.</given-names>
+<surname>O'Brien</surname>
+</string-name>, et al., “<article-title>Bridging the Gap Between Diabetes Care and Mental Health: Perspectives of the Mental Health in Diabetes Optimal Health Program (MINDS OHP)</article-title>,” <source>BMC Endocrine Disorders</source>
+<volume>21</volume>, no. <issue>1</issue> (<year>2021</year>): <fpage>96</fpage>.<pub-id pub-id-type="pmid">33964904</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1186/s12902-021-00760-3</pub-id><pub-id pub-id-type="pmcid">PMC8105945</pub-id></mixed-citation></ref><ref id="hex70399-bib-0091"><label>91</label><mixed-citation publication-type="journal" id="hex70399-cit-0091">
+<string-name name-style="western">
+<given-names>C. L.</given-names>
+<surname>O'Brien</surname>
+</string-name>, <string-name name-style="western">
+<given-names>P.</given-names>
+<surname>Apputhurai</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S. R.</given-names>
+<surname>Knowles</surname>
+</string-name>, et al., “<article-title>Initial Evaluation of the Optimal Health Program for People With Diabetes: 12‐month Outcomes of a Randomised Controlled Trial</article-title>,” <source>Psychology &amp; Health</source>
+<volume>39</volume>, no. <issue>3</issue> (<year>2024</year>): <fpage>358</fpage>–<lpage>378</lpage>.<pub-id pub-id-type="pmid">35465777</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1080/08870446.2022.2060507</pub-id></mixed-citation></ref><ref id="hex70399-bib-0092"><label>92</label><mixed-citation publication-type="journal" id="hex70399-cit-0092">
+<string-name name-style="western">
+<given-names>F.</given-names>
+<surname>Bai</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Tomasoni</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Falcinella</surname>
+</string-name>, et al., “<article-title>Female Gender Is Associated With Long Covid Syndrome: A Prospective Cohort Study</article-title>,” <source>Clinical Microbiology and Infection</source>
+<volume>28</volume>, no. <issue>4</issue> (<year>2022</year>): <fpage>611.e9</fpage>–<lpage>611.e16</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.cmi.2021.11.002</pub-id><pub-id pub-id-type="pmcid">PMC8575536</pub-id><pub-id pub-id-type="pmid">34763058</pub-id></mixed-citation></ref><ref id="hex70399-bib-0093"><label>93</label><mixed-citation publication-type="journal" id="hex70399-cit-0093">
+<string-name name-style="western">
+<given-names>N.</given-names>
+<surname>Nabavi</surname>
+</string-name>, “<article-title>Long Covid: How to Define It and How to Manage It</article-title>,” <source>BMJ</source>
+<volume>370</volume> (<year>2020</year>): <elocation-id>m3489</elocation-id>, <pub-id pub-id-type="doi">10.1136/bmj.m3489</pub-id>.<pub-id pub-id-type="pmid">32895219</pub-id>
+</mixed-citation></ref></ref-list></back></article></pmc-articleset>

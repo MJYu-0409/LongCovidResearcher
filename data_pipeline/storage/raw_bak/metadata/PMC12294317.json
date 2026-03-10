@@ -1,0 +1,26 @@
+{
+  "pmcid": "PMC12294317",
+  "pmid": "40724930",
+  "doi": "10.3390/ijms26146680",
+  "title": "In Silico Analysis of Post-COVID-19 Condition (PCC) Associated SNP rs9367106 Predicts the Molecular Basis of Abnormalities in the Lungs and Brain Functions.",
+  "abstract": "Long- or post-COVID-19 syndrome, which is also designated by WHO as Post COVID-19 Condition (PCC), is characterized by the persistent symptoms that remain after recovery from SARS-CoV-2 infection. A worldwide consortium of Long COVID-19 Host Genetics Initiative (Long COVID-19 HGI) identified an SNP rs9367106 (G>C; chr6:41,515,652, GRCh38, p = 1.76 × 10-10, OR = 1.63, 95% CI: 1.40-1.89) that is associated with PCC. Unraveling the functional significance of this SNP is of prime importance to understanding the development of the PCC phenotypes and their therapy. Here, in Silico, I explored how the risk allele of this SNP alters the functional mechanisms and molecular pathways leading to the development of PCC phenotypes. Bioinformatic methods include physical interactions using HI-C and Chia-PET analysis, Transcription Factors (TFs) binding ability, RNA structure modeling, epigenetic, and pathway analysis. This SNP resides within two long RNA genes, LINC01276 and FOXP4-AS1, and is located at ~31 kb upstream of a transcription factor FOXP4. This DNA region, including this SNP, physically interacts with FOXP4-AS1 and FOXP4, implying that this regulatory SNP could alter the normal cellular function of FOXP4-AS1 and FOXP4. Furthermore, rs9367106 is in eQTL with the FOXP4 gene in lung tissue. rs9367106 carrying DNA sequences act as distant enhancers and bind with several transcription factors (TFs) including YY1, PPAR-α, IK-1, GR-α, and AP2αA. The G>C transition extensively modifies the RNA structure that may affect the TF bindings and enhancer functions to alter the interactions and functions of these RNA molecules. This SNP also includes an ALU/SINE sequence and alteration of which by the G>C transition may prevent IFIH1/MDA5 activation, leading to suppression of host innate immune responses. LINC01276 targets the MED20 gene that expresses mostly in brain tissues, associated with sleep disorders and basal ganglia abnormalities similar to some of the symptoms of PCC phenotypes. Taken together, G>C transition of rs9367601 may likely alter the function of all three genes to explain the molecular basis of developing the long-term symptomatic abnormalities in the lungs and brain observed after COVID-19 recovery.",
+  "authors": [
+    "Amit K Maiti"
+  ],
+  "journal": "International journal of molecular sciences",
+  "pub_year": "2025",
+  "pub_month": "Jul",
+  "pub_day": "11",
+  "keywords": [
+    "FOXP4",
+    "LINC01276",
+    "enhancer",
+    "polymorphism",
+    "post-COVID-19 condition",
+    "sleep disorder",
+    "transcription factor"
+  ],
+  "article_types": [
+    "Journal Article"
+  ]
+}

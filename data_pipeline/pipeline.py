@@ -30,13 +30,13 @@ from config import PROGRESS_FILE, FULLTEXT_DIR, TEST_MODE, TEST_LIMIT
 
 from data_pipeline.fetcher.pmc_search import search_pmcids
 from data_pipeline.fetcher.pmc_fetcher import fetch_all
-from data_pipeline.storage.raw.progress import ProgressTracker
-from data_pipeline.storage.postgres.db import create_tables, insert_papers, fetch_meta_by_pmcids
+from data_pipeline.raw.progress import ProgressTracker
+from storage.postgres.papers import create_tables, insert_papers, fetch_meta_by_pmcids
 from data_pipeline.processor.metadata_parser import parse_metadata
 from data_pipeline.processor.xml_parser import parse_fulltext_xml
 from data_pipeline.processor.chunker import chunk_fulltext
 from data_pipeline.processor.embedder import embed_chunks
-from data_pipeline.storage.qdrant.db import upsert_chunks
+from storage.qdrant.chunks import upsert_chunks
 
 logger = logging.getLogger(__name__)
 

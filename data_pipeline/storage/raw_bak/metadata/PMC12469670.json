@@ -1,0 +1,31 @@
+{
+  "pmcid": "PMC12469670",
+  "pmid": "41008398",
+  "doi": "10.3390/healthcare13182266",
+  "title": "An Integrated AI Framework for Occupational Health: Predicting Burnout, Long COVID, and Extended Sick Leave in Healthcare Workers.",
+  "abstract": "BACKGROUND: Healthcare workers face multiple, interlinked occupational health risks-burnout, post-COVID-19 sequelae (Long COVID), and extended medical leave. These outcomes often share predictors, contribute to each other, and, together, impact workforce capacity. Yet, existing tools typically address them in isolation.\nOBJECTIVE: The objective of this study to develop and deploy an integrated, explainable artificial intelligence (AI) framework that predicts these three outcomes using the same structured occupational health dataset, enabling unified workforce risk monitoring.\nMETHODS: We analyzed data from 1244 Romanian healthcare professionals with 14 demographic, occupational, lifestyle, and comorbidity features. For each outcome, we trained a separate predictive model within a common framework: (1) a lightweight transformer neural network with hyperparameter optimization, (2) a transformer with multi-head attention, and (3) a stacked ensemble combining transformer, XGBoost, and logistic regression. The data were SMOTE-balanced and evaluated on held-out test sets using Accuracy, ROC-AUC, and F1-score, with 10,000-iteration bootstrap testing for statistical significance.\nRESULTS: The stacked ensemble achieved the highest performance: ROC AUC = 0.70 (burnout), 0.93 (Long COVID), and 0.93 (extended leave). The F1 scores were >0.89 for Long COVID and extended leave, whereas the performance gains for burnout were comparatively modest, reflecting the multidimensional and heterogeneous nature of burnout as a binary construct. The gains over logistic regression were statistically significant (p < 0.0001 for Long COVID and extended leave; p = 0.0355 for burnout). The SHAP analysis identified overlapping top predictors-tenure, age, job role, cancer history, pulmonary disease, and obesity-supporting the value of a unified framework.\nCONCLUSIONS: We trained separate models for each occupational health risk but deployed them in a single, real-time web application. This integrated approach improves efficiency, enables multi-outcome workforce surveillance, and supports proactive interventions in healthcare settings.",
+  "authors": [
+    "Maria Valentina Popa",
+    "Călin Gheorghe Buzea",
+    "Irina Luciana Gurzu",
+    "Camer Salim",
+    "Bogdan Gurzu",
+    "Dragoș Ioan Rusu",
+    "Lăcrămioara Ochiuz",
+    "Letiția Doina Duceac"
+  ],
+  "journal": "Healthcare (Basel, Switzerland)",
+  "pub_year": "2025",
+  "pub_month": "Sep",
+  "pub_day": "10",
+  "keywords": [
+    "burnout and Long COVID in healthcare workers",
+    "explainable artificial intelligence (XAI)",
+    "occupational health risk prediction",
+    "tabular deep-learning models",
+    "workforce planning and decision support"
+  ],
+  "article_types": [
+    "Journal Article"
+  ]
+}

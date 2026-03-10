@@ -1,0 +1,867 @@
+<?xml version="1.0"  ?><!DOCTYPE pmc-articleset PUBLIC "-//NLM//DTD ARTICLE SET 2.0//EN" "https://dtd.nlm.nih.gov/ncbi/pmc/articleset/nlm-articleset-2.0.dtd"><pmc-articleset><article id="cpf70037" xml:lang="en" article-type="research-article" dtd-version="1.4"><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">Clin Physiol Funct Imaging</journal-id><journal-id journal-id-type="iso-abbrev">Clin Physiol Funct Imaging</journal-id><journal-id journal-id-type="pmc-domain-id">379</journal-id><journal-id journal-id-type="pmc-domain">blackwellopen</journal-id><journal-id journal-id-type="publisher-id">CPF</journal-id><journal-title-group><journal-title>Clinical Physiology and Functional Imaging</journal-title></journal-title-group><issn pub-type="ppub">1475-0961</issn><issn pub-type="epub">1475-097X</issn><custom-meta-group><custom-meta><meta-name>pmc-is-collection-domain</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-collection-title</meta-name><meta-value>Wiley Open Access Collection</meta-value></custom-meta></custom-meta-group></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC12641159</article-id><article-id pub-id-type="pmcid-ver">PMC12641159.1</article-id><article-id pub-id-type="pmcaid">12641159</article-id><article-id pub-id-type="pmcaiid">12641159</article-id><article-id pub-id-type="pmid">41277094</article-id><article-id pub-id-type="doi">10.1111/cpf.70037</article-id><article-id pub-id-type="publisher-id">CPF70037</article-id><article-version article-version-type="pmc-version">1</article-version><article-categories><subj-group subj-group-type="overline"><subject>Original Article</subject></subj-group><subj-group subj-group-type="heading"><subject>Original Article</subject></subj-group></article-categories><title-group><article-title>Characterization of sympathicotonia in post‐covid condition (long covid) and healthy controls using long‐term electrodermal activity (EDA) follow‐up</article-title><alt-title alt-title-type="left-running-head">MUSTONEN <sc>et al.</sc>
+</alt-title></title-group><contrib-group><contrib id="cpf70037-cr-0001" contrib-type="author" corresp="yes"><name name-style="western"><surname>Mustonen</surname><given-names initials="T">Timo</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0009-0002-1128-4814</contrib-id><xref rid="cpf70037-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><address><email>timo.mustonen@hus.fi</email></address></contrib><contrib id="cpf70037-cr-0002" contrib-type="author"><name name-style="western"><surname>Kytölä</surname><given-names initials="P">Pasi</given-names></name><xref rid="cpf70037-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib id="cpf70037-cr-0003" contrib-type="author"><name name-style="western"><surname>Lantto</surname><given-names initials="H">Hanna</given-names></name><xref rid="cpf70037-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref></contrib><contrib id="cpf70037-cr-0004" contrib-type="author"><name name-style="western"><surname>Lager</surname><given-names initials="E">Erika</given-names></name><xref rid="cpf70037-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib id="cpf70037-cr-0005" contrib-type="author"><name name-style="western"><surname>Vangelova‐Korpinen</surname><given-names initials="V">Velina</given-names></name><xref rid="cpf70037-aff-0004" ref-type="aff">
+<sup>4</sup>
+</xref></contrib><contrib id="cpf70037-cr-0006" contrib-type="author"><name name-style="western"><surname>Virrantaus</surname><given-names initials="H">Hélène</given-names></name><xref rid="cpf70037-aff-0004" ref-type="aff">
+<sup>4</sup>
+</xref></contrib><contrib id="cpf70037-cr-0007" contrib-type="author"><name name-style="western"><surname>Sulg</surname><given-names initials="A">Aleksandra</given-names></name><xref rid="cpf70037-aff-0004" ref-type="aff">
+<sup>4</sup>
+</xref></contrib><contrib id="cpf70037-cr-0008" contrib-type="author"><name name-style="western"><surname>Stålnacke</surname><given-names initials="S">Sanna</given-names></name><xref rid="cpf70037-aff-0004" ref-type="aff">
+<sup>4</sup>
+</xref></contrib><contrib id="cpf70037-cr-0009" contrib-type="author"><name name-style="western"><surname>Posharina</surname><given-names initials="T">Tatiana</given-names></name><xref rid="cpf70037-aff-0004" ref-type="aff">
+<sup>4</sup>
+</xref></contrib><contrib id="cpf70037-cr-0010" contrib-type="author"><name name-style="western"><surname>Luukkonen</surname><given-names initials="R">Ritva</given-names></name><xref rid="cpf70037-aff-0005" ref-type="aff">
+<sup>5</sup>
+</xref></contrib><contrib id="cpf70037-cr-0011" contrib-type="author"><name name-style="western"><surname>Uusitalo</surname><given-names initials="A">Arja</given-names></name><xref rid="cpf70037-aff-0006" ref-type="aff">
+<sup>6</sup>
+</xref></contrib><contrib id="cpf70037-cr-0012" contrib-type="author"><name name-style="western"><surname>Piirilä</surname><given-names initials="P">Päivi</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-2535-4409</contrib-id><xref rid="cpf70037-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref></contrib><contrib id="cpf70037-cr-0013" contrib-type="author"><name name-style="western"><surname>Kanerva</surname><given-names initials="M">Mari</given-names></name><xref rid="cpf70037-aff-0007" ref-type="aff">
+<sup>7</sup>
+</xref><xref rid="cpf70037-aff-0008" ref-type="aff">
+<sup>8</sup>
+</xref></contrib></contrib-group><aff id="cpf70037-aff-0001">
+<label>
+<sup>1</sup>
+</label>
+<named-content content-type="organisation-division">Department of Clinical Physiology</named-content>
+<institution>Peijas Hospital, HUS Medical Diagnostic Center, Helsinki University Hospital and Helsinki University</institution>
+<city>Helsinki</city>
+<country country="FI">Finland</country>
+</aff><aff id="cpf70037-aff-0002">
+<label>
+<sup>2</sup>
+</label>
+<named-content content-type="organisation-division">Faculty of Social Sciences</named-content>
+<institution>Tampere University</institution>
+<city>Tampere</city>
+<country country="FI">Finland</country>
+</aff><aff id="cpf70037-aff-0003">
+<label>
+<sup>3</sup>
+</label>
+<named-content content-type="organisation-division">Department of Clinical Physiology</named-content>
+<institution>Park Hospital, HUS Medical Diagnostic Center, Helsinki University Hospital and Helsinki University</institution>
+<city>Helsinki</city>
+<country country="FI">Finland</country>
+</aff><aff id="cpf70037-aff-0004">
+<label>
+<sup>4</sup>
+</label>
+<named-content content-type="organisation-division">Outpatient Clinic for Persistent Symptom Rehabilitation</named-content>
+<institution>Helsinki University Hospital and Helsinki University</institution>
+<city>Helsinki</city>
+<country country="FI">Finland</country>
+</aff><aff id="cpf70037-aff-0005">
+<label>
+<sup>5</sup>
+</label>
+<named-content content-type="organisation-division">Department of Statistics and Bioanalytics</named-content>
+<institution>Finnish Institute of Occupational Health</institution>
+<city>Helsinki</city>
+<country country="FI">Finland</country>
+</aff><aff id="cpf70037-aff-0006">
+<label>
+<sup>6</sup>
+</label>
+<named-content content-type="organisation-division">Division of Clinical Physiology and Nuclear Medicine</named-content>
+<institution>HUS Medical Diagnostic Center, Helsinki University Hospital and Helsinki University</institution>
+<city>Helsinki</city>
+<country country="FI">Finland</country>
+</aff><aff id="cpf70037-aff-0007">
+<label>
+<sup>7</sup>
+</label>
+<named-content content-type="organisation-division">Department of Internal Medicine and Rehabilitation</named-content>
+<institution>Helsinki University Hospital and Helsinki University</institution>
+<city>Helsinki</city>
+<country country="FI">Finland</country>
+</aff><aff id="cpf70037-aff-0008">
+<label>
+<sup>8</sup>
+</label>
+<named-content content-type="organisation-division">Department of Infection Control</named-content>
+<institution>Turku University Hospital, The Wellbeing Services County of Southwest Finland</institution>
+<city>Turku</city>
+<country country="FI">Finland</country>
+</aff><author-notes><corresp id="correspondenceTo">
+<label>*</label>
+<bold>Correspondence</bold> Timo Mustonen, Department of Clinical Physiology, Peijas Hospital, HUS Medical Diagnostic Center, PL 281, 00029 HUS (Stenbäckinkatu 11 C, Helsinki).<break/>
+Email: <email>timo.mustonen@hus.fi</email>
+<break/>
+</corresp></author-notes><pub-date pub-type="epub"><day>23</day><month>11</month><year>2025</year></pub-date><pub-date pub-type="ppub"><month>11</month><year>2025</year></pub-date><volume>45</volume><issue seq="20">6</issue><issue-id pub-id-type="pmc-issue-id">501083</issue-id><issue-id pub-id-type="doi">10.1111/cpf.v45.6</issue-id><elocation-id>e70037</elocation-id><history><date date-type="rev-recd"><day>28</day><month>10</month><year>2025</year></date><date date-type="received"><day>29</day><month>4</month><year>2025</year></date><date date-type="accepted"><day>12</day><month>11</month><year>2025</year></date></history><pub-history><event event-type="pmc-release"><date><day>24</day><month>11</month><year>2025</year></date></event><event event-type="pmc-live"><date><day>25</day><month>11</month><year>2025</year></date></event><event event-type="pmc-last-change"><date iso-8601-date="2025-11-25 10:25:14.317"><day>25</day><month>11</month><year>2025</year></date></event></pub-history><permissions><copyright-statement content-type="article-copyright">© 2025 The Author(s). <italic toggle="yes">Clinical Physiology and Functional Imaging</italic> published by John Wiley &amp; Sons Ltd on behalf of Scandinavian Society of Clinical Physiology and Nuclear Medicine.</copyright-statement><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>This is an open access article under the terms of the <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pmc-pdf" xlink:href="CPF-45-0.pdf"/><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pdf" xlink:href="file:CPF-45-0.pdf"/><abstract><title>Abstract</title><sec id="cpf70037-sec-0010"><title>Purpose</title><p>After SARS‐CoV‐2 infection, some patients develop post‐COVID condition (PCC), often associated with sympathicotonia. This study aimed to characterize sympathicotonia in PCC patients using a novel long‐term electrodermal activity (EDA) analysis via a smart ring and evaluate its clinical applicability.</p></sec><sec id="cpf70037-sec-0020"><title>Methods</title><p>Seventeen PCC patients were recruited from a Long Covid outpatient clinic, and 18 healthy controls volunteered. PCC patients were divided based on self‐reported symptoms into those with or without sympathicotonia. A 14‐day EDA monitoring was conducted. Sympathetic nervous system (SNS) activity was expressed as a double normalized index of electrodermal activity (DNE), with higher levels indicating higher SNS activity. Orthostatic tests were performed to identify orthostatic sympathicotonia. DNE levels, representing EDA, were compared to self‐reported and orthostatic sympathicotonia.</p></sec><sec id="cpf70037-sec-0030"><title>Results</title><p>DNE levels did not differ between PCC patients with (<italic toggle="yes">N</italic> = 12) or without (<italic toggle="yes">N</italic> = 5) self‐reported sympathicotonia or compared with nonsympathetic controls. When dividing all participants by orthostatic test results, DNE levels were lower during day (08:00–14:00; <italic toggle="yes">p</italic> &lt; 0.05) but higher during late night (00:00–02:00; <italic toggle="yes">p</italic> &lt; 0.05) in those with orthostatic sympathicotonia (<italic toggle="yes">N</italic> = 21) compared to those without (<italic toggle="yes">N</italic> = 14), with the 24‐h comparison significant (<italic toggle="yes">p</italic> = 0.022). Among PCC patients, DNE levels were higher in orthostatic nonsympathicotonic (<italic toggle="yes">N</italic> = 7) than orthostatic sympathicotonic (<italic toggle="yes">N</italic> = 10) during morning (09:00–12:00; <italic toggle="yes">p</italic> &lt; 0.05), with the 24‐h comparison significant (<italic toggle="yes">p</italic> = 0.044).</p></sec><sec id="cpf70037-sec-0040"><title>Conclusion</title><p>Self‐reported symptoms did not distinguish sympathicotonia. However, individuals with orthostatic test‐identified sympathicotonia had heightened EDA, indicating increased sympathetic activity, particularly during late night. PCC was not identifiable by EDA. Long‐term EDA monitoring may provide an objective tool for detecting sympathicotonia independently of self‐reported symptoms.</p></sec></abstract><kwd-group><kwd id="cpf70037-kwd-0001">ambulatory physiological monitoring</kwd><kwd id="cpf70037-kwd-0002">Autonomic nervous system</kwd><kwd id="cpf70037-kwd-0003">post‐acute COVID‐19 syndrome</kwd><kwd id="cpf70037-kwd-0004">skin conductance</kwd><kwd id="cpf70037-kwd-0005">sympathetic activation</kwd></kwd-group><funding-group><award-group id="funding-0001"><funding-source>
+<institution-wrap><institution>European Union's Horizon Europe research and innovation</institution></institution-wrap>
+</funding-source><award-id>101057553</award-id></award-group><award-group id="funding-0002"><funding-source>
+<institution-wrap><institution>Helsinki University Central Hospital Research Funding for HUS Medical Diagnostic Center</institution></institution-wrap>
+</funding-source><award-id>Y780022061</award-id><award-id>Y780024073</award-id><award-id>Y780023041</award-id></award-group></funding-group><counts><fig-count count="4"/><table-count count="3"/><page-count count="13"/><word-count count="8932"/></counts><custom-meta-group><custom-meta><meta-name>pmc-status-qastatus</meta-name><meta-value>0</meta-value></custom-meta><custom-meta><meta-name>pmc-status-live</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-status-embargo</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-status-released</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-access</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-legally-suppressed</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-pdf</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-supplement</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-pdf-only</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-suppress-copyright</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-real-version</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-scanned-article</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-in-epmc</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-license-ref</meta-name><meta-value>CC BY</meta-value></custom-meta><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>November 2025</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:6.6.6 mode:remove_FC converted:24.11.2025</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="cpf70037-cit-0066">
+<string-name name-style="western">
+<surname>Mustonen</surname>, <given-names>T.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kytölä</surname>, <given-names>P.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lantto</surname>, <given-names>H.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lager</surname>, <given-names>E.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Vangelova‐Korpinen</surname>, <given-names>V.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Virrantaus</surname>, <given-names>H.</given-names>
+</string-name> et al. (<year>2025</year>) <article-title>Characterization of sympathicotonia in post‐covid condition (long covid) and healthy controls using long‐term electrodermal activity (EDA) follow‐up</article-title>. <source>Clinical Physiology and Functional Imaging</source>, <volume>45</volume>, <elocation-id>e70037</elocation-id>. <pub-id pub-id-type="doi">10.1111/cpf.70037</pub-id>
+<pub-id pub-id-type="pmid">41277094</pub-id></mixed-citation>
+</p><fn-group><fn id="cpf70037-note-0001"><p>Timo Mustonen and Pasi Kytölä contributed equally as first authors; Päivi Piirilä and Mari Kanerva contributed equally as senior authors.</p></fn></fn-group></notes></front><body><sec id="cpf70037-sec-0050"><label>1</label><title>INTRODUCTION</title><p>After acute SARS‐CoV‐2 infection, about 3%–10% (Alkodaymi et al., <xref rid="cpf70037-bib-0002" ref-type="bibr">2022</xref>; Ballering et al., <xref rid="cpf70037-bib-0007" ref-type="bibr">2022</xref>; Fernandez‐de‐las‐Peñas et al., <xref rid="cpf70037-bib-0018" ref-type="bibr">2024</xref>; Premraj et al., <xref rid="cpf70037-bib-0043" ref-type="bibr">2022</xref>) of patients develop variable symptoms, a condition called post‐COVID condition (PCC) or Long Covid (LC). This condition is diagnosed if no other diagnoses explain the symptoms which have lasted for at least 2 months and continue or develop at 3 months after the acute COVID‐19 infection (Havervall et al., <xref rid="cpf70037-bib-0023" ref-type="bibr">2021</xref>). PCC has been observed following both severe (Parotto et al., <xref rid="cpf70037-bib-0041" ref-type="bibr">2023</xref>) and mild COVID‐19 infections (Fernández‐de‐las‐Peñas et al., <xref rid="cpf70037-bib-0020" ref-type="bibr">2021</xref>). Several studies suggest that since the turn of the years 2021 and 2022, with the emergence of the Omicron variant, PCC has become less common, possibly due to the nature of the disease and increased vaccination coverage (Agergaard et al., <xref rid="cpf70037-bib-0001" ref-type="bibr">2023</xref>; Antonelli et al., <xref rid="cpf70037-bib-0003" ref-type="bibr">2022</xref>; Fernández‐de‐las‐Peñas et al., <xref rid="cpf70037-bib-0019" ref-type="bibr">2022</xref>). The symptoms of PCC include fatigue, exercise intolerance, cognitive disturbances, cough, dyspnea, chest pain, tachycardia, muscle pain, brain fog, depression and gastric symptoms (Fernández‐de‐las‐Peñas et al., <xref rid="cpf70037-bib-0020" ref-type="bibr">2021</xref>; Havervall et al., <xref rid="cpf70037-bib-0023" ref-type="bibr">2021</xref>; Parotto et al., <xref rid="cpf70037-bib-0041" ref-type="bibr">2023</xref>). Sympathetic overactivity, an imbalance between the sympathetic and parasympathetic functions (Aranyó et al., <xref rid="cpf70037-bib-0005" ref-type="bibr">2022</xref>; Barizien et al., <xref rid="cpf70037-bib-0008" ref-type="bibr">2021</xref>; Dani et al., <xref rid="cpf70037-bib-0015" ref-type="bibr">2021</xref>; Papadopoulou et al., <xref rid="cpf70037-bib-0039" ref-type="bibr">2022</xref>; Shouman et al., <xref rid="cpf70037-bib-0055" ref-type="bibr">2021</xref>), or even dysautonomia (Barizien et al., <xref rid="cpf70037-bib-0008" ref-type="bibr">2021</xref>; Ladlow et al., <xref rid="cpf70037-bib-0029" ref-type="bibr">2022</xref>; Papadopoulou et al., <xref rid="cpf70037-bib-0039" ref-type="bibr">2022</xref>) have been suggested as explanations for some of these symptoms, such as increased heart rates at rest and during and after physical activity (Inanc and Sabanoglu, <xref rid="cpf70037-bib-0025" ref-type="bibr">2022</xref>; Ladlow et al., <xref rid="cpf70037-bib-0029" ref-type="bibr">2022</xref>). Some studies have explained PCC as a multiorgan syndrome with vascular and/or cardiac complaints while others have interpreted the phenomenon from a biopsychosocial perspective (Raman et al., <xref rid="cpf70037-bib-0045" ref-type="bibr">2022</xref>; Rinaldo et al., <xref rid="cpf70037-bib-0046" ref-type="bibr">2021</xref>; Rudofker et al., <xref rid="cpf70037-bib-0047" ref-type="bibr">2022</xref>; Saunders et al., <xref rid="cpf70037-bib-0051" ref-type="bibr">2023</xref>). Although severe cardiac involvement, such as chronotropic incompetence (Aparisi et al., <xref rid="cpf70037-bib-0004" ref-type="bibr">2022</xref>; Durstenfeld et al., <xref rid="cpf70037-bib-0017" ref-type="bibr">2022</xref>; Mustonen et al., <xref rid="cpf70037-bib-0037" ref-type="bibr">2024</xref>; Szekely et al., <xref rid="cpf70037-bib-0059" ref-type="bibr">2021</xref>) has been reported, several extensive studies have not found any severe organic basis for the syndrome.</p><p>Among PCC patients, sympathetic activity has most commonly been measured using ECG‐based heart rate variability (Aranyó et al., <xref rid="cpf70037-bib-0005" ref-type="bibr">2022</xref>; Dani et al., <xref rid="cpf70037-bib-0015" ref-type="bibr">2021</xref>; Freire et al., <xref rid="cpf70037-bib-0021" ref-type="bibr">2023</xref>; Marques et al., <xref rid="cpf70037-bib-0033" ref-type="bibr">2023</xref>; Menezes Junior et al., <xref rid="cpf70037-bib-0035" ref-type="bibr">2022</xref>), sometimes also with the Ewing test battery or individual tests from the battery (Townsend et al., <xref rid="cpf70037-bib-0062" ref-type="bibr">2021</xref>). Other examples of methods used to study PCC symptoms include a microneurographic technique to measure muscle sympathetic activity and heart rate or blood pressure measurement with a finger photoplethysmography (Stute et al., <xref rid="cpf70037-bib-0058" ref-type="bibr">2022</xref>). Some researchers have also measured quantitative sudomotor axon reflex (Shouman et al., <xref rid="cpf70037-bib-0055" ref-type="bibr">2021</xref>). In some studies, electrodermal activity (EDA) has been used to assess sympathetic activity by studying sympathetic skin responses (SSRs) in laboratory settings (Bocci et al., <xref rid="cpf70037-bib-0009" ref-type="bibr">2023</xref>; Papadopoulou et al., <xref rid="cpf70037-bib-0039" ref-type="bibr">2022</xref>; Ser et al., <xref rid="cpf70037-bib-0054" ref-type="bibr">2022</xref>). However, as far as we know, EDA has not been previously utilized in long‐term follow‐up analysis of PCC patients in ambulatory settings. As known, the sympathetic nervous system (SNS) is activated during stress, leading to increased sweat production and enhanced electrical conductance of the skin. This physiological response results in heightened skin moisture content, which subsequently enhances the electrical conductivity of the skin's outer layer. EDA changes, therefore, serve as an indicator of SNS activity (Liu &amp; Du, <xref rid="cpf70037-bib-0030" ref-type="bibr">2018</xref>).</p><p>Our aim was to analyze and assess the presence of sympathicotonia in PCC patients using (1) the presence of subjective symptoms, (2) objective hemodynamic responses measured during active orthostatic testing, and (3) an EDA follow‐up profile obtained with a new ambulatory method. We also aimed to examine whether the EDA profile differs between patients with self‐reported sympathicotonia and those without, in both patients and controls. Furthermore, we aimed to study whether the EDA profile differs according to orthostatic hemodynamic responses between sympathicotonic and non‐sympathicotonic participants. The aim was also to characterize the EDA patterns in both groups and to investigate the feasibility of EDA measurements for clinical use.</p></sec><sec sec-type="methods" id="cpf70037-sec-0060"><label>2</label><title>METHODS</title><sec id="cpf70037-sec-0070"><label>2.1</label><title>Study design</title><p>The study aimed to assess the presence or absence of sympathicotonia in patients with PCC symptoms. The study design is presented in Figure <xref rid="cpf70037-fig-0001" ref-type="fig">1</xref>. The original goal was to recruit 20 patients who reported symptoms suggestive of sympathicotonia and 20 patients without such symptoms, as well as 20 healthy control subjects. However, it was challenging to find PCC patients without any symptoms suggestive of sympathicotonia, which is why the final numbers were lower than initially planned.</p><fig position="float" fig-type="Figure" id="cpf70037-fig-0001" orientation="portrait"><label>Figure 1</label><caption><p>Study design for the selection and analysis of the patients and controls. ‘Self‐Reported Symp‐PCC’ = Post‐COVID condition patients who self‐reported symptoms suggestive of sympathicotonia. ‘Self‐Reported Non‐Symp‐PCC’ = Post‐COVID condition patients without self‐reported symptoms suggestive of sympathicotonia. ‘Ortho‐Symp’ = participants with a sympathicotonic orthostatic reaction. ‘Ortho‐Non‐Symp’ = participants without a sympathicotonic orthostatic reaction. ‘Ortho‐Symp‐PCC’ = Post‐COVID condition patients with a sympathicotonic orthostatic reaction. ‘Ortho‐Non‐Symp‐PCC’ = Post‐COVID condition patients without a sympathicotonic orthostatic reaction.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-1" orientation="portrait" xlink:href="CPF-45-0-g003.jpg"/></fig></sec><sec id="cpf70037-sec-0080"><label>2.2</label><title>Patients</title><p>The patient group consisted of individuals who had been referred to the HUS LC outpatient clinic due to PCC symptoms (Table <xref rid="cpf70037-tbl-0001" ref-type="table">1</xref>). Except for one patient who required a brief hospitalization without intubation, all others were treated at home during the acute phase. All patients underwent PCR testing, but the virus variant was not determined. The patients had COVID‐19 between March 2020 and December 2022, corresponding to the Alpha or Beta variant periods in two patients, and to the Omicron variants in the others (THL 2025). A total of 35 adult PCC patients were invited to participate in the study. They were recruited consecutively based on predefined inclusion criteria and their voluntary consent to participate. Patients who reported symptoms suggestive of sympathicotonia (e.g., a sensation of high resting heart rate, a feeling of excessive heart rate increase during exertion, palpitations, and/or sleep difficulties) were assigned to the sympathicotonic group, while those without these symptoms were placed in the non‐sympathicotonic group by the physicians or physiotherapists at the PCC outpatient clinic. Seventeen PCC patients completed successful ring follow‐ups (12 with self‐reported sympathicotonia and 5 without). The symptoms among patients without self‐reported sympathicotonia included fatigue (4 patients), depression (1), brain fog (2), dyspnea (1), decreased exercise tolerance or postexercise malaise (2), and neurological symptoms such as olfactory and taste changes, and possibly neurologically mediated muscle pain in the back or buttocks. Individual patients could present several symptoms. In the patients with self‐reported sympathicotonia, additional symptoms were as follows: fatigue (8 patients), exercise intolerance (4), brain fog (4), muscular or chest pain (5), neurological symptoms (4), sleep disturbance (2), dyspnea (1), and depression (1). Of all patients, 15 had received two to four vaccinations, and two had received none.</p><table-wrap position="float" id="cpf70037-tbl-0001" content-type="Table" orientation="portrait"><label>Table 1</label><caption><p>Baseline characteristics and electrodermal activity results in PCC patients divided by self‐reported sympathicotonia, and in asymptomatic control subjects.</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" align="left" span="1"/><col style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" align="left" span="1"/><col style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" align="left" span="1"/><col style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" align="left" span="1"/><col style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" align="left" span="1"/><col style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" align="left" span="1"/><thead valign="bottom"><tr valign="bottom" style="border-bottom:solid 1px #000000"><th rowspan="2" align="left" valign="bottom" colspan="1"/><th colspan="2" align="left" valign="bottom" rowspan="1">PCC patients</th><th valign="middle" rowspan="2" align="left" colspan="1">Nonsymptomatic Control subjects <italic toggle="yes">N</italic> = 18</th><th valign="middle" rowspan="2" align="left" colspan="1">
+<italic toggle="yes">p</italic> value, ANOVA</th><th valign="middle" rowspan="2" align="left" colspan="1">
+<italic toggle="yes">p</italic> value, adjusted</th></tr><tr valign="bottom" style="border-bottom:solid 1px #000000"><th align="left" valign="bottom" rowspan="1" colspan="1">Self‐Reported Symp‐PCC <italic toggle="yes">N</italic> = 12</th><th align="left" valign="bottom" rowspan="1" colspan="1">Self‐Reported Non‐Symp‐PCC <italic toggle="yes">N</italic> = 5</th></tr></thead><tbody valign="top"><tr><td align="left" valign="top" rowspan="1" colspan="1">Variable</td><td align="left" valign="top" rowspan="1" colspan="1">Mean (SD)</td><td align="left" valign="top" rowspan="1" colspan="1">Mean (SD)</td><td align="left" valign="top" rowspan="1" colspan="1">Mean (SD)</td><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Sex, male/female</td><td align="left" valign="top" rowspan="1" colspan="1">5/7</td><td align="left" valign="top" rowspan="1" colspan="1">2/3</td><td align="left" valign="top" rowspan="1" colspan="1">3/15</td><td align="left" valign="top" rowspan="1" colspan="1">0.236<xref rid="cpf70037-tbl1-note-0002" ref-type="table-fn">a</xref>
+</td><td align="left" valign="top" rowspan="1" colspan="1">‐</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Age (y)</td><td align="left" valign="top" rowspan="1" colspan="1">42.5 (9.9)</td><td align="left" valign="top" rowspan="1" colspan="1">37.2 (6.0)</td><td align="left" valign="top" rowspan="1" colspan="1">49.1 (10.9)</td><td align="left" valign="top" rowspan="1" colspan="1">0.048</td><td align="left" valign="top" rowspan="1" colspan="1">‐</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">BMI (kg/m<sup>2</sup>)</td><td align="left" valign="top" rowspan="1" colspan="1">25.7 (3.8)</td><td align="left" valign="top" rowspan="1" colspan="1">26.0 (4.8)</td><td align="left" valign="top" rowspan="1" colspan="1">26.5 (4.4)</td><td align="left" valign="top" rowspan="1" colspan="1">0.749</td><td align="left" valign="top" rowspan="1" colspan="1">‐</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">COVID‐19 vaccinations before examinations (number)</td><td align="left" valign="top" rowspan="1" colspan="1">2.9 (1.2)</td><td align="left" valign="top" rowspan="1" colspan="1">3.7 (1.6)</td><td align="left" valign="top" rowspan="1" colspan="1">2.4 (0.8)</td><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Unvaccinated (<italic toggle="yes">n</italic>)</td><td align="left" valign="top" rowspan="1" colspan="1">1</td><td align="left" valign="top" rowspan="1" colspan="1">1</td><td align="left" valign="top" rowspan="1" colspan="1">1</td><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Time period of acute COVID‐19 infection</td><td align="left" valign="top" rowspan="1" colspan="1">3/2020‐12/2022</td><td align="left" valign="top" rowspan="1" colspan="1">6/2021‐6/2022</td><td align="left" valign="top" rowspan="1" colspan="1">12/2021‐6/2022<xref rid="cpf70037-tbl1-note-0003" ref-type="table-fn">b</xref>
+</td><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1">‐</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Time from acute COVID‐19 infection to examinations (months)</td><td align="left" valign="top" rowspan="1" colspan="1">13.7 (4.6)</td><td align="left" valign="top" rowspan="1" colspan="1">15.8 (1.9)</td><td align="left" valign="top" rowspan="1" colspan="1">11.9 (5.3)<xref rid="cpf70037-tbl1-note-0003" ref-type="table-fn">b</xref>
+</td><td align="left" valign="top" rowspan="1" colspan="1">0.209</td><td align="left" valign="top" rowspan="1" colspan="1">‐</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Increased sympathetic activity in the orthostatic test (Thulesius criterion)</td><td align="left" valign="top" rowspan="1" colspan="1">9 (75%)</td><td align="left" valign="top" rowspan="1" colspan="1">2 (40%)</td><td align="left" valign="top" rowspan="1" colspan="1">13 (72%)</td><td align="left" valign="top" rowspan="1" colspan="1">‐</td><td align="left" valign="top" rowspan="1" colspan="1">‐</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Full day period DNE level</td><td align="left" valign="top" rowspan="1" colspan="1">52.9 (6.1)</td><td align="left" valign="top" rowspan="1" colspan="1">44.7 (13.6)</td><td align="left" valign="top" rowspan="1" colspan="1">52.2 (3.7)</td><td align="left" valign="top" rowspan="1" colspan="1">0.064</td><td align="left" valign="top" rowspan="1" colspan="1">0.202</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Night period (23:00‐07:00) DNE level</td><td align="left" valign="top" rowspan="1" colspan="1">38.1 (14.3)</td><td align="left" valign="top" rowspan="1" colspan="1">30.2 (15.2)</td><td align="left" valign="top" rowspan="1" colspan="1">39.7 (9.4)</td><td align="left" valign="top" rowspan="1" colspan="1">0.310</td><td align="left" valign="top" rowspan="1" colspan="1">0.397</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Day period (07:00‐23:00) DNE level</td><td align="left" valign="top" rowspan="1" colspan="1">61.2 (8.4)</td><td align="left" valign="top" rowspan="1" colspan="1">53.0 (17.8)</td><td align="left" valign="top" rowspan="1" colspan="1">59.6 (6.9)</td><td align="left" valign="top" rowspan="1" colspan="1">0.273</td><td align="left" valign="top" rowspan="1" colspan="1">0.341</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Late night (23:00‐03:00) DNE level</td><td align="left" valign="top" rowspan="1" colspan="1">39.8 (14.8)</td><td align="left" valign="top" rowspan="1" colspan="1">32.0 (12.7)</td><td align="left" valign="top" rowspan="1" colspan="1">37.6 (10.6)</td><td align="left" valign="top" rowspan="1" colspan="1">0.513</td><td align="left" valign="top" rowspan="1" colspan="1">0.355</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Early morning (03:00‐07:00) DNE level</td><td align="left" valign="top" rowspan="1" colspan="1">36.4 (15.3)</td><td align="left" valign="top" rowspan="1" colspan="1">28.3 (18.1)</td><td align="left" valign="top" rowspan="1" colspan="1">41.9 (10.2)</td><td align="left" valign="top" rowspan="1" colspan="1">0.130</td><td align="left" valign="top" rowspan="1" colspan="1">0.877</td></tr></tbody></table><table-wrap-foot><fn id="cpf70037-tbl1-note-0001"><p>
+<italic toggle="yes">Note</italic>: PCC patients were clinically divided into groups with increased or normal sympathetic activity based on self‐reported symptoms. Self‐Reported Symp‐PCC refers to PCC patients who reported symptoms suggestive of sympathicotonia (e.g., sensation of high resting heart rate, palpitations, or sleep disturbances), while Self‐Reported Non‐Symp‐PCC refers to PCC patients who did not report such symptoms. Healthy, non‐symptomatic control subjects are included for comparison. The presence of increased sympathetic activity was additionally analyzed according to the Thulesius (<xref rid="cpf70037-bib-0060" ref-type="bibr">1976</xref>) criterion. DNE, a double normalized index of electrodermal activity; full day period DNE level, the average of daily DNE values across all 14 days; night period (23:00‐07:00) DNE level = the average of DNE values between 23:00 and 07:00 across all 14 days; day period (07:00‐23:00) DNE level = the average of DNE values between 07:00 and 23:00 across all 14 days; late night (23:00‐03:00) DNE level = the average of DNE values between 23:00 and 03:00 across all 14 days; early morning (03:00‐07:00) DNE level = the average of DNE values between 03:00 and 07:00 across all 14 days.</p></fn><fn id="cpf70037-tbl1-note-0002"><label>
+<sup>a</sup>
+</label><p>Fisher's exact test.</p></fn><fn id="cpf70037-tbl1-note-0003"><label>
+<sup>b</sup>
+</label><p>Control group included 8 participants with a history of COVID‐19.</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &amp; Sons, Ltd.</copyright-holder></permissions></table-wrap><p>As a part of the study protocol, patients wore smart rings for 14 days and underwent an active orthostatic test. Ring follow‐ups were conducted soon after the first visit to the LC outpatient clinic. Participation was not recommended for individuals with a nickel allergy due to the risk of an adverse skin reaction from wearing the smart ring. The investigations were carried out between October 5, 2022, and October 4, 2023 (Table <xref rid="cpf70037-tbl-0001" ref-type="table">1</xref>).</p></sec><sec id="cpf70037-sec-0090"><label>2.3</label><title>Controls</title><p>The control group consisted of 21 healthy adults who did not have PCC symptoms and either had no history of COVID‐19 infection or had recovered from a PCR‐confirmed infection without developing PCC symptoms (<italic toggle="yes">N </italic>= 8). Both successful ring measurements and orthostatic test results were obtained from 18 controls (Table <xref rid="cpf70037-tbl-0001" ref-type="table">1</xref>). The infections among the eight nonsymptomatic participants had occurred between November 2021 and March 2022, were treated at home, and took place during a period when Omicron variants were predominant. All but one control had received at least two SARS‐CoV‐2 vaccinations. Controls were hospital personnel (including some researchers) or their acquaintances who volunteered as a nonsymptomatic comparison group. They followed the same study protocol as the patient group, including 14 days of smart ring monitoring and an active orthostatic test.</p><p>The control subjects were also interviewed to rule out PCC‐like symptoms to confirm the eligibility as controls. They were additionally asked whether they had any symptoms suggestive of sympathicotonia. One participant without a history of COVID‐19 occasionally experienced mild sympathetic sensations, and another reported sleep difficulties and palpitations. Three participants had noticed a rapid increase in heart rate during exertion, two of them with a previous COVID‐19 infection and one without. One participant with a history of COVID‐19 reported sleep difficulties. These symptoms were described as unrelated to COVID‐19 infection or as having been present already before the infection.</p></sec></sec><sec id="cpf70037-sec-0100"><label>3</label><title>MEASUREMENTS</title><sec id="cpf70037-sec-0110"><label>3.1</label><title>Continuous and ambulatory electrodermal activity (EDA) measurement</title><p>The EDA measures were collected with Nuanic smart ring version V7AC_2 (formerly Moodmetric smart ring) (Nuanic Oy, Finland). The ring was primarily developed for continuous and ambulatory measurements, but it can be used to capture EDA data in two ways. For short‐term measurements it is possible to record raw EDA signal at a sampling rate of 3‐16 Hz. The signal accuracy of the ring has been investigated in two independent studies reaching an accuracy of 83% compared to that of a laboratory device (Pakarinen et al., <xref rid="cpf70037-bib-0038" ref-type="bibr">2019</xref>; Torniainen et al., <xref rid="cpf70037-bib-0061" ref-type="bibr">2015</xref>). EDA signals are prone to artifacts caused by movement, moisture and, other external factors (Boucsein, <xref rid="cpf70037-bib-0010" ref-type="bibr">2012</xref>). To enhance interpretability, Nuanic Oy has developed a proprietary parameter called the double‐normalized index of electrodermal activity (DNE). DNE provides a value between 1 and 100 every minute, allowing for continuous and ambulatory assessments of SNS activity. A higher DNE value indicates higher SNS activation. DNE was specifically designed to minimize the impact of confounding factors, making it particularly well‐suited for ambulatory settings (Salonius et al., <xref rid="cpf70037-bib-0050" ref-type="bibr">2024</xref>). DNE is calculated using a learning algorithm, which compares changes in EDA to the typical, individualized baseline values established while the participant wears the ring. During a 12‐h calibration period, an individual‐specific algorithm state is established to mitigate undesired influences, such as muscle movement, temperature fluctuations, and skin dryness.</p><p>Participants were instructed to wear the rings continuously for 2 weeks, except during showers. To ensure sufficient data quality, a minimum of four valid recording days was required, with at least 16 h of wear per day. Participants with fewer than four valid days were excluded from the study. The rings automatically collected DNE data, which participants uploaded twice daily to a cloud service via a mobile application. For each participant, hourly DNE values were averaged across all available measurement days at each hour. If a participant recorded data for the full 14‐day period, up to 840 min‐level values (14 × 60 per hour) were included in the calculation for each hour. Hourly differences between groups were analyzed using these pooled values to compare trends over time. The ring also includes a 3‐axis accelerometer that provides step count data. Participants maintained a daily diary to document activity levels, sensations of tension, stress, arousal, or anxiety, which were then compared to DNE values.</p><p>To summarize DNE levels and variability, six variables were created based on minute‐by‐minute observations. The daily DNE level was calculated for each 24‐h period, starting at 06:00, by averaging all minute‐by‐minute DNE values. The full‐day DNE level represents the average of daily DNE values across all 14 days, while the full‐day DNE variability represents the standard deviation of these values. The daytime DNE level was calculated as the average between 07:00 and 23:00, whereas the nighttime DNE level was determined from 23:00 to 07:00. Nighttime was further divided into late‐night (23:00–03:00) and early‐morning (03:00–07:00) periods for a more detailed analysis.</p><p>For quality assessment, number of successfully recorded days (at least 4 days with a minimum of 16 h per day) was considered for analysis. The average recording duration per day (minutes per day) and the average step count per day were also calculated. To assess physical activity levels, the step count per recorded minute was used as a measure.</p></sec><sec id="cpf70037-sec-0120"><label>3.2</label><title>Orthostatic test</title><p>Among PCC patients, active orthostatic tests were conducted approximately 1–2 months after the ring measurements (median 0.8 months in those with self‐reported sympathicotonia and 1.05 months in those without). Similarly, in the control group, the orthostatic tests were conducted approximately 1–2 months after EDA recording, following the same scheduling constraints as for PCC patients. The orthostatic tests in PCC patients were performed, on average, 14.1 months (SD 6.2; range 5–35) after the onset of a PCR‐positive COVID‐19 infection.</p><p>Participants were asked to refrain from smoking for 2 h and from drinking coffee or tea for 4 h before the examination. Two participants were using beta‐blockers; one discontinued the medication 2 days before the orthostatic test, following the laboratory's standard practice, while the other continued due to an arrhythmia condition. After a 10‐min rest in a supine position, blood pressure, heart rate, oxygen saturation and breathing frequency were recorded. A 12‐lead ECG was continuously monitored throughout the test, and measurements were recorded using computerized software (CardioSoft version 7‐7.0851; GE Medical Systems) alongside manual blood pressure measurements. The subject then stood up, and blood pressure was measured immediately upon standing and at 1‐min intervals thereafter. A continuous ECG was recorded throughout the test, with the highest heart noted immediately upon standing (approximately the 15th beat after standing up), followed by recordings at 1 min and at every full minute thereafter. The active standing phase lasted for a total of 8 min (Malmberg &amp; Sovijärvi, <xref rid="cpf70037-bib-0032" ref-type="bibr">2000</xref>). A sympathicotonic orthostatic reaction was defined as a heart rate increase of ≥25 beats per minute, combined with either normal (±10 mmHg) or decreased systolic blood pressure compared to baseline, according to the criteria described by Thulesius (Thulesius, <xref rid="cpf70037-bib-0060" ref-type="bibr">1976</xref>).</p></sec><sec id="cpf70037-sec-0130"><label>3.3</label><title>Statistical methods</title><p>The data were analyzed using IBM SPSS Statistics version 27 and R software. Shapiro–Wilk's test was used to evaluate the normality of the outcome variables. A linear model was applied to assess the effects of self‐reported sympathicotonia, absence of sympathicotonia, and control status on DNE results, adjusting for age, sex, and body mass index (BMI). Differences between participants with and without sympathicotonia were assessed using non‐paired t‐tests, also adjusted for age, sex, and BMI.</p><p>To analyze the average hourly profile of DNE and physical activity (step counts) over a 24‐h period across study groups, linear mixed‐effects models were applied to assess the effect of group on hourly DNE and step count levels, adjusting for age, sex, and BMI. Estimated marginal means were calculated for each individual hour. Pairwise comparisons of means were performed, with <italic toggle="yes">p</italic>‐values adjusted using the Tukey method to control for family‐wise error rates. A bootstrap method was also applied to evaluate the overall average absolute difference between the estimated marginal means of two groups over a 24‐h period. <italic toggle="yes">p</italic>‐Values were computed as the proportion of null simulations that produced an absolute difference equal to or greater than the observed value.</p><p>Poisson regression with a log link was used to assess whether subjects with sympathicotonia, as determined by the orthostatic test, and late night (23:00–03:00) DNE levels above 35 reported more perceptions of tension, stress, arousal, or anxiety. The dependent variable was the proportion of diary days with reported perceptions. The model was adjusted for sex, age, and BMI. Estimated ratio means and 95% confidence intervals were calculated for both groups, with age, sex, and BMI standardized at their mean values.</p><p>A <italic toggle="yes">p</italic> &lt; 0.05 was considered statistically significant.</p></sec></sec><sec sec-type="results" id="cpf70037-sec-0140"><label>4</label><title>RESULTS</title><p>Mean values for the number of valid measurement days across different groups are presented in Supporting Information S1: Tables <xref rid="cpf70037-suppl-0001" ref-type="supplementary-material">S1</xref>–<xref rid="cpf70037-suppl-0001" ref-type="supplementary-material">S3</xref>. The participants wore the ring for a median of 12 valid measurement days (range: 4–14 days) over a 2‐week period. Among the self‐reported groups, the duration of follow‐up was the shortest in the control group (<italic toggle="yes">p</italic> = 0.037), as shown in Supporting Information S1: Tables <xref rid="cpf70037-suppl-0001" ref-type="supplementary-material">S1</xref>. Additionally, the total minutes recorded over 24 h, and specifically between 03:00 and 07:00, differed significantly among the groups (<italic toggle="yes">p</italic> = 0.026) (Supporting Information S1: Table <xref rid="cpf70037-suppl-0001" ref-type="supplementary-material">S1</xref>). However, physical activity (=step counts/minute) and average step counts did not differ between the groups (Supporting Information S1: Tables <xref rid="cpf70037-suppl-0001" ref-type="supplementary-material">S1</xref> and <xref rid="cpf70037-suppl-0001" ref-type="supplementary-material">S3</xref>).</p><sec id="cpf70037-sec-0150"><label>4.1</label><title>Self‐reported sympathicotonia</title><p>The mean DNE levels did not differ among the groups with self‐reported sympathicotonia, without sympathicotonia, and the controls (data not shown). In longitudinal analyses of self‐reported sympathicotonia, the 14‐day mean DNE (coverin both day and night periods) was 53 for PCC patients with self‐reported sympathicotonia (<italic toggle="yes">N</italic> = 12), 45 for those without self‐reported sympathicotonia (<italic toggle="yes">N</italic> = 5), and 52 for the control group (<italic toggle="yes">N</italic> = 18). These differences were not statistically significant (<italic toggle="yes">p</italic> = 0.11, data not shown). There were no significant differences in orthostatic test results between participants with and without self‐reported sympathicotonia (data not shown). However, in the longitudinal analysis between PCC patients (combining those with and without self‐reported sympathicotonia) and controls, the mean DNE level was higher in controls between 5:00 and 9:00 (<italic toggle="yes">p</italic> &lt; 0.05). Nevertheless, the longitudinal difference between the groups was not significant when the entire 24‐h period was considered (<italic toggle="yes">p</italic> = 0.19; Figure <xref rid="cpf70037-fig-0002" ref-type="fig">2</xref>). Physical activity (step counts/minutes) varied between groups, with PCC patients showing higher activity than controls between 20:00 and 23:00 (<italic toggle="yes">p</italic> &lt; 0.05), but lower activity during the early morning (6:00–8:00, <italic toggle="yes">p</italic> &lt; 0.05) and at noon (12:00–14:00, <italic toggle="yes">p</italic> &lt; 0.05) (Figure <xref rid="cpf70037-fig-0002" ref-type="fig">2</xref>).</p><fig position="float" fig-type="Figure" id="cpf70037-fig-0002" orientation="portrait"><label>Figure 2</label><caption><p>Longitudinal presentation and comparison of the mean DNE values over a 2‐week day and night follow‐up period between PCC patients (Self‐Reported Symp‐PCC + Self‐Reported Non‐Symp‐PCC) and control subjects. Simultaneous average step counts per minute are shown below the DNE curves. <italic toggle="yes">p</italic> values for significant hourly differences are shown just above or just below the respective curves, while the <italic toggle="yes">p</italic> value for the overall difference across the follow‐up period is shown at the bottom of the figure. A <italic toggle="yes">p</italic> &lt; 0.05 was considered statistically significant. Error bars indicate the standard error of the mean for each hour, without accounting within‐subject correlations.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-3" orientation="portrait" xlink:href="CPF-45-0-g001.jpg"/></fig></sec><sec id="cpf70037-sec-0160"><label>4.2</label><title>Objectively measured sympathicotonia</title><p>Sympathicotonia, as determined by the orthostatic test, was observed in all three groups: patients with (9/12) and without self‐reported sympathicotonia (2/5), as well as the controls (13/18) (Table <xref rid="cpf70037-tbl-0001" ref-type="table">1</xref>). Therefore, the data were further divided according to the orthostatic test results into those with a sympathicotonic orthostatic reaction (Ortho‐Symp, <italic toggle="yes">N</italic> = 21) and those without (Ortho‐Non‐Symp, <italic toggle="yes">N</italic> = 14), regardless of whether they were PCC patients or controls (Tables <xref rid="cpf70037-tbl-0001" ref-type="table">1</xref> and <xref rid="cpf70037-tbl-0002" ref-type="table">2</xref>). Patients in the ortho‐Symp group were slightly leaner than those in the Ortho‐Non‐Symp patients (BMI 24.8 vs. 28.6; <italic toggle="yes">p</italic> = 0.006).</p><table-wrap position="float" id="cpf70037-tbl-0002" content-type="Table" orientation="portrait"><label>Table 2</label><caption><p>Baseline characteristics and electrodermal activity results for all participants, including both PCC patients and control subjects, divided based on orthostatic test results indicating increased (Ortho‐Symp) or normal (Ortho‐Non‐Symp) sympathetic activity.</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" align="left" span="1"/><col style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" align="left" span="1"/><col style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" align="left" span="1"/><col style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" align="char" char="." span="1"/><col style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" align="left" span="1"/><thead valign="bottom"><tr valign="bottom"><th rowspan="2" align="left" valign="bottom" colspan="1"/><th colspan="2" style="border-bottom:solid 1px #000000" align="left" valign="bottom" rowspan="1">Mean (SD)</th><th align="left" valign="bottom" rowspan="1" colspan="1">Nonadjusted</th><th align="left" valign="bottom" rowspan="1" colspan="1">Adjusted<xref rid="cpf70037-tbl2-note-0002" ref-type="table-fn">a</xref>
+</th></tr><tr valign="bottom" style="border-bottom:solid 1px #000000"><th align="left" valign="bottom" rowspan="1" colspan="1">Ortho‐Non‐Symp <italic toggle="yes">n</italic> = 14</th><th align="left" valign="bottom" rowspan="1" colspan="1">Ortho‐Symp <italic toggle="yes">n</italic> = 21</th><th align="left" valign="bottom" rowspan="1" colspan="1">
+<italic toggle="yes">p</italic>
+</th><th align="left" valign="bottom" rowspan="1" colspan="1">
+<italic toggle="yes">p</italic>
+</th></tr></thead><tbody valign="top"><tr><td align="left" valign="top" rowspan="1" colspan="1">Sex, male/female</td><td align="left" valign="top" rowspan="1" colspan="1">4/10</td><td align="left" valign="top" rowspan="1" colspan="1">6/15</td><td align="char" valign="top" rowspan="1" colspan="1">0.652</td><td align="left" valign="top" rowspan="1" colspan="1">‐</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Age (y)</td><td align="left" valign="top" rowspan="1" colspan="1">48.21 (10.7)</td><td align="left" valign="top" rowspan="1" colspan="1">43.1 (10.5)</td><td align="char" valign="top" rowspan="1" colspan="1">0.165</td><td align="left" valign="top" rowspan="1" colspan="1">‐</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">BMI (kg/m<sup>2</sup>)</td><td align="left" valign="top" rowspan="1" colspan="1">28.6 (4.0)</td><td align="left" valign="top" rowspan="1" colspan="1">24.8 (3.61)</td><td align="char" valign="top" rowspan="1" colspan="1">
+<bold>0.006</bold>
+</td><td align="left" valign="top" rowspan="1" colspan="1">‐</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Full day period DNE level</td><td align="left" valign="top" rowspan="1" colspan="1">52.00 (3.51)</td><td align="left" valign="top" rowspan="1" colspan="1">50.98 (8.60)</td><td align="char" valign="top" rowspan="1" colspan="1">0.631</td><td align="left" valign="top" rowspan="1" colspan="1">0.515</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Night period (23:00‐07:00) DNE level</td><td align="left" valign="top" rowspan="1" colspan="1">34.78 (10.09)</td><td align="left" valign="top" rowspan="1" colspan="1">39.77 (13.23)</td><td align="char" valign="top" rowspan="1" colspan="1">0.240</td><td align="left" valign="top" rowspan="1" colspan="1">0.163</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Day period (07:00‐23:00) DNE level</td><td align="left" valign="top" rowspan="1" colspan="1">61.87 (5.27)</td><td align="left" valign="top" rowspan="1" colspan="1">57.44 (11.34)</td><td align="char" valign="top" rowspan="1" colspan="1">0.130</td><td align="left" valign="top" rowspan="1" colspan="1">0.063</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Late night (23:00‐03:00) DNE level</td><td align="left" valign="top" rowspan="1" colspan="1">32.74 (9.65)</td><td align="left" valign="top" rowspan="1" colspan="1">40.78 (13.06)</td><td align="char" valign="top" rowspan="1" colspan="1">0.057</td><td align="left" valign="top" rowspan="1" colspan="1">
+<bold>0.046</bold>
+</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Early morning (03:00‐07:00) DNE level</td><td align="left" valign="top" rowspan="1" colspan="1">36.99 (13.16)</td><td align="left" valign="top" rowspan="1" colspan="1">38.80 (14.44)</td><td align="char" valign="top" rowspan="1" colspan="1">0.709</td><td align="left" valign="top" rowspan="1" colspan="1">0.453</td></tr></tbody></table><table-wrap-foot><fn id="cpf70037-tbl2-note-0001"><p>
+<italic toggle="yes">Note</italic>: DNE = a double normalized index of electrodermal activity; full day period DNE level = the average of daily DNE values across all 14 days; night period (23:00‐07:00) DNE level = the average of DNE values between 23:00 and 07:00 across all 14 days; day period (07:00‐23:00) DNE level = the average of DNE values between 07:00 and 23:00 across all 14 days; late night (23:00‐03:00) DNE level = the average of DNE values between 23:00 and 03:00 across all 14 days; early morning (03:00‐07:00) DNE level = the average of DNE values between 03:00 and 07:00 across all 14 days. Bold values indicate statistically significant difference <italic toggle="yes">p</italic> &lt; 0.05.</p></fn><fn id="cpf70037-tbl2-note-0002"><label>
+<sup>a</sup>
+</label><p>Adjusted for age, sex, and BMI.</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &amp; Sons, Ltd.</copyright-holder></permissions></table-wrap><p>In longitudinal analyses, when participants were divided according to orthostatic test results, daytime (07:00–23:00) DNE levels were numerically higher in the Ortho‐Non‐Symp group compared to the Ortho‐Symp group, 61.9 (5.3) versus 57.4 (11.3); however, this difference was not statistically significant (<italic toggle="yes">p</italic> = 0.063). In contrast, during the late‐night period (23:00–03:00), DNE levels were significantly higher in the Ortho‐Symp group compared to the Ortho‐Non‐Symp group, 40.8 (13.1) versus 32.7 (9.7); <italic toggle="yes">p</italic> = 0.046 (Table <xref rid="cpf70037-tbl-0002" ref-type="table">2</xref>). In the longitudinal analysis, the Ortho‐Non‐Symp group had higher DNE levels between 8:00 and 14:00, while the Ortho‐Symp group had higher DNE levels between 00:00 and 02:00. Additionally, the DNE difference across the entire day and night period was significant (<italic toggle="yes">p</italic> = 0.04) (Figure <xref rid="cpf70037-fig-0003" ref-type="fig">3</xref>).</p><fig position="float" fig-type="Figure" id="cpf70037-fig-0003" orientation="portrait"><label>Figure 3</label><caption><p>Longitudinal presentation and comparison of the mean DNE values over a 2‐week day and night follow‐up between Ortho‐Symp and Ortho‐Non‐Symp participants (<italic toggle="yes">N</italic> = 35). Simultaneous average step counts per minute are shown below the DNE curves. <italic toggle="yes">p</italic>‐Values for significant hourly differences are shown just above or just below the respective curves, while the <italic toggle="yes">p</italic>‐value for the overall difference across the follow‐up period is shown at the bottom of the figure. A <italic toggle="yes">p</italic> &lt; 0.05 was considered statistically significant. Error bars indicate the standard error of the mean for each hour, without accounting within‐subject correlations.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-5" orientation="portrait" xlink:href="CPF-45-0-g002.jpg"/></fig><p>Participants in the Ortho‐Symp group with late night DNE levels above 35 reported feelings of tension, stress, arousal, or anxiety on approximately one‐third (0.33, 95% CI: 0.24, 0.45) of the days, compared to about one‐quarter (0.23, 95% CI: 0.18, 0.30) of the days in the Ortho‐Non‐Symp group according to the daily forms completed during follow‐up.</p></sec><sec id="cpf70037-sec-0170"><label>4.3</label><title>Analysis among PCC patients</title><p>Based on orthostatic test results, PCC patients were divided into Ortho‐Symp‐PCC (<italic toggle="yes">N</italic> = 10) and Ortho‐Non‐Symp‐PCC (<italic toggle="yes">N</italic> = 7) groups, while control subjects were similarly classified into Ortho‐Symp‐Cont (<italic toggle="yes">N</italic> = 11) and Ortho‐Non‐Symp‐Cont (<italic toggle="yes">N</italic> = 7) groups. The number of recording days and total recorded minutes varied between groups classified according to the orthostatic test, but average step counts and physical activity levels did not differ (Supporting Information S1: Tables <xref rid="cpf70037-suppl-0001" ref-type="supplementary-material">S3</xref> and <xref rid="cpf70037-suppl-0001" ref-type="supplementary-material">S4</xref>).</p><p>When results for PCC patients only were analyzed, mean DNE levels during the late‐night period (23:00–03:00) were numerically higher in those with sympathicotonia (Ortho‐Symp‐PCC, DNE 41.2 ± 16.9) compared to those without (Ortho‐Non‐Symp‐PCC, DNE 32.2 ± 7.8), but this difference was not statistically significant (<italic toggle="yes">p </italic>= 0.091; Table <xref rid="cpf70037-tbl-0003" ref-type="table">3</xref>). In the longitudinal analysis, between 9:00 and 12:00, DNE levels were significantly higher in the Ortho‐Non‐Symp‐PCC group compared to the Ortho‐Symp‐PCC group. Although a visual inspection suggested higher DNE levels in the Ortho‐Symp‐PCC group between 1:00 and 5:00, the difference compared to Ortho‐Non‐Symp was not statistically significant. However, the overall DNE difference between the groups over the full 24‐h period was significant (<italic toggle="yes">p</italic> = 0.049; Figure <xref rid="cpf70037-fig-0004" ref-type="fig">4</xref>). Simultaneous step counts (steps per minute) did not differ between the groups.</p><table-wrap position="float" id="cpf70037-tbl-0003" content-type="Table" orientation="portrait"><label>Table 3</label><caption><p>Baseline characteristics and electrodermal activity (EDA) results for PCC patients divided into groups, based on orthostatic test results indicating sympathicotonia (Ortho‐Symp‐PCC) or normal sympathetic activity (Ortho‐Non‐Symp‐PCC).</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" align="left" span="1"/><col style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" align="left" span="1"/><col style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" align="left" span="1"/><col style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" align="char" char="." span="1"/><col style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" align="left" span="1"/><thead valign="bottom"><tr valign="bottom"><th rowspan="2" align="left" valign="bottom" colspan="1"/><th colspan="2" style="border-bottom:solid 1px #000000" align="left" valign="bottom" rowspan="1">Mean (SD)</th><th align="left" valign="bottom" rowspan="1" colspan="1">Nonadjusted</th><th align="left" valign="bottom" rowspan="1" colspan="1">Adjusted<xref rid="cpf70037-tbl3-note-0002" ref-type="table-fn">a</xref>
+</th></tr><tr valign="bottom" style="border-bottom:solid 1px #000000"><th align="left" valign="bottom" rowspan="1" colspan="1">Ortho‐Non‐Symp‐PCC <italic toggle="yes">n</italic> = 7</th><th align="left" valign="bottom" rowspan="1" colspan="1">Ortho‐Symp‐PCC <italic toggle="yes">n</italic> = 10</th><th align="left" valign="bottom" rowspan="1" colspan="1">
+<italic toggle="yes">p</italic>
+</th><th align="left" valign="bottom" rowspan="1" colspan="1">
+<italic toggle="yes">p</italic>
+</th></tr></thead><tbody valign="top"><tr><td align="left" valign="top" rowspan="1" colspan="1">Sex, male/female</td><td align="left" valign="top" rowspan="1" colspan="1">3/4</td><td align="left" valign="top" rowspan="1" colspan="1">4/6</td><td align="char" valign="top" rowspan="1" colspan="1">0.646</td><td align="left" valign="top" rowspan="1" colspan="1">‐</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Age (y)</td><td align="left" valign="top" rowspan="1" colspan="1">44.9 (8.2)</td><td align="left" valign="top" rowspan="1" colspan="1">38.2 (9.0)</td><td align="char" valign="top" rowspan="1" colspan="1">0.141</td><td align="left" valign="top" rowspan="1" colspan="1">‐</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">BMI (kg/m<sup>2</sup>)</td><td align="left" valign="top" rowspan="1" colspan="1">28.6 (3.6)</td><td align="left" valign="top" rowspan="1" colspan="1">23.8 (2.9)</td><td align="char" valign="top" rowspan="1" colspan="1">
+<bold>0.008</bold>
+</td><td align="left" valign="top" rowspan="1" colspan="1">‐</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Time from acute COVID‐19 infection to examinations (months)</td><td align="left" valign="top" rowspan="1" colspan="1">14.83 (3.5)</td><td align="left" valign="top" rowspan="1" colspan="1">14.11 (4.4)</td><td align="char" valign="top" rowspan="1" colspan="1">0.744</td><td align="left" valign="top" rowspan="1" colspan="1">‐</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Full day period DNE level</td><td align="left" valign="top" rowspan="1" colspan="1">51.23 (1.98)</td><td align="left" valign="top" rowspan="1" colspan="1">50.02 (12.30)</td><td align="char" valign="top" rowspan="1" colspan="1">0.767</td><td align="left" valign="top" rowspan="1" colspan="1">0.956</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Night period (23:00‐07:00) DNE level</td><td align="left" valign="top" rowspan="1" colspan="1">30.50 (8.96)</td><td align="left" valign="top" rowspan="1" colspan="1">39.42 (16.96)</td><td align="char" valign="top" rowspan="1" colspan="1">0.225</td><td align="left" valign="top" rowspan="1" colspan="1">0.087</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Day period (07:00‐23:00) DNE level</td><td align="left" valign="top" rowspan="1" colspan="1">62.65 (5.78)</td><td align="left" valign="top" rowspan="1" colspan="1">56.13 (14.54)</td><td align="char" valign="top" rowspan="1" colspan="1">0.223</td><td align="left" valign="top" rowspan="1" colspan="1">0.307</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Late night (23:00‐03:00) DNE level</td><td align="left" valign="top" rowspan="1" colspan="1">32.17 (7.79)</td><td align="left" valign="top" rowspan="1" colspan="1">41.22 (16.89)</td><td align="char" valign="top" rowspan="1" colspan="1">0.209</td><td align="left" valign="top" rowspan="1" colspan="1">0.091</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Early morning (03:00‐07:00) DNE level</td><td align="left" valign="top" rowspan="1" colspan="1">28.79 (11.82)</td><td align="left" valign="top" rowspan="1" colspan="1">37.72 (18.12)</td><td align="char" valign="top" rowspan="1" colspan="1">0.272</td><td align="left" valign="top" rowspan="1" colspan="1">0.101</td></tr></tbody></table><table-wrap-foot><fn id="cpf70037-tbl3-note-0001"><p>
+<italic toggle="yes">Note</italic>: DNE = a double normalized index of electrodermal activity; full day period DNE level = the average of daily DNE values across all 14 days; night period (23:00‐07:00) DNE level = the average of DNE values between 23:00 and 07:00 across all 14 days; day period (07:00‐23:00) DNE level = the average of DNE values between 07:00 and 23:00 across all 14 days; late night (23:00‐03:00) DNE level = the average of DNE values between 23:00 and 03:00 across all 14 days; early morning (03:00‐07:00) DNE level = the average of DNE values between 03:00 and 07:00 across all 14 days. Bold value indicates statistically significant difference <italic toggle="yes">p</italic> &lt; 0.05.</p></fn><fn id="cpf70037-tbl3-note-0002"><label>
+<sup>a</sup>
+</label><p>Adjusted for age, sex and BMI.</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &amp; Sons, Ltd.</copyright-holder></permissions></table-wrap><fig position="float" fig-type="Figure" id="cpf70037-fig-0004" orientation="portrait"><label>Figure 4</label><caption><p>Longitudinal presentation and comparison of the mean DNE values over a 2‐week day and night follow‐up between Ortho‐Symp‐PCC and Ortho‐Non‐Symp‐PCC patients. Simultaneous average step counts per minute are shown below the DNE curves. <italic toggle="yes">p</italic>‐Values for significant hourly differences are shown just above the curves, while the <italic toggle="yes">p</italic>‐value for the overall difference across the follow‐up period is shown at the bottom of the figure. A <italic toggle="yes">p</italic> &lt; 0.05 was considered statistically significant. Error bars indicate the standard error of the mean for each hour, without accounting within‐subject correlations.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-7" orientation="portrait" xlink:href="CPF-45-0-g004.jpg"/></fig></sec><sec id="cpf70037-sec-0180"><label>4.4</label><title>Analysis among controls</title><p>When the control group was analyzed separately, no significant differences in DNE levels were observed between those with and without sympathicotonia (data not shown).</p></sec></sec><sec sec-type="discussion" id="cpf70037-sec-0190"><label>5</label><title>DISCUSSION</title><p>In the present study, sympathicotonia based on participants' self‐reported symptoms did not correspond well to orthostatic test‐identified sympathicotonia or to DNE levels during long‐term monitoring. When the mixed cohort of PCC patients and control participants was divided according to orthostatic test results, elevated DNE levels indicating sympathicotonia were most evident during the late‐night period. Simultaneous time‐related step counts did not differ between sympathicotonic and nonsympathicotonic participants, supporting the interpretation that increased DNE levels were likely due to sympathetic activation rather than physical activity. This pattern was similar in PCC patients, whereas no clear pattern emerged in controls. These observations represent novel findings.</p><p>Sleeping time represents a relatively stable state both physically and mentally, making it reliable and easy to interpret. However, in stress and disease states, sleep is often disturbed (Jacob et al., <xref rid="cpf70037-bib-0026" ref-type="bibr">2022</xref>; Park &amp; Oh, <xref rid="cpf70037-bib-0040" ref-type="bibr">2023</xref>; Siddique et al., <xref rid="cpf70037-bib-0056" ref-type="bibr">2021</xref>). The late‐night increase in DNE observed in our study may reflect difficulties in falling asleep or prolonged stress interfering with normal relaxation during sleep. Alternatively, the findings might indicate altered autonomic regulation, which could contribute to sleep disturbances and non‐restorative sleep. To our knowledge, no previous studies have examined differences in EDA between late‐night and early‐morning periods in the context of sympathicotonia. While our study did not include direct sleep assessments, the results suggest that EDA measurements based on the DNE index could provide insights into autonomic activity during nighttime, offering potential applications for sleep analysis in future research.</p><p>Previous studies have shown that general DNE levels are higher during the daytime and lower during the nighttime in normal ambulatory EDA monitoring (Salonius et al., <xref rid="cpf70037-bib-0050" ref-type="bibr">2024</xref>). This pattern supports the idea of individuals' normal transition from wakefulness to sleep, when sympathetic tone decreases representing typical circadian rhythm patterns (Cardinali, <xref rid="cpf70037-bib-0012" ref-type="bibr">2018</xref>; Doberenz et al., <xref rid="cpf70037-bib-0016" ref-type="bibr">2011</xref>; Salonius et al., <xref rid="cpf70037-bib-0050" ref-type="bibr">2024</xref>; Somers et al., <xref rid="cpf70037-bib-0057" ref-type="bibr">1993</xref>). Variations in daily autonomous nervous function have been found to be associated with stress (Brugnera et al., <xref rid="cpf70037-bib-0011" ref-type="bibr">2019</xref>; Schiweck et al., <xref rid="cpf70037-bib-0052" ref-type="bibr">2021</xref>), and the combination of stress and depressive symptoms leads to a blunted heart rate circadian rhythm (Lutin et al., <xref rid="cpf70037-bib-0031" ref-type="bibr">2022</xref>). According to a recent study, individuals classified as healthy but exhibiting varying levels of depressive symptoms may show atypical cardiovascular responses to stressful events (Brugnera et al., <xref rid="cpf70037-bib-0011" ref-type="bibr">2019</xref>). Patients with PCC often present with depression (Cázares‐Lara et al., <xref rid="cpf70037-bib-0013" ref-type="bibr">2025</xref>). In earlier studies, increased heart rate with reduced variation, and lower heart rate variability have been observed in individuals with depression during both daytime and nighttime (Schiweck et al., <xref rid="cpf70037-bib-0052" ref-type="bibr">2021</xref>). This variation is most probably due to a decrease in activity of parasympathetic modulation of cardiac function (Saad et al., <xref rid="cpf70037-bib-0048" ref-type="bibr">2020</xref>). However, depressive symptoms were not assessed in this study.</p><p>Sympathicotonia is considered a physiological phenomenon that can occur even in healthy individuals as part of normal autonomic regulation. However, prolonged or excessive sympathetic activation has been implicated in various autonomic dysfunctions. Several studies on PCC have reported increased sympathetic activity, dysautonomia (Aranyó et al., <xref rid="cpf70037-bib-0005" ref-type="bibr">2022</xref>; Barizien et al., <xref rid="cpf70037-bib-0008" ref-type="bibr">2021</xref>; Dani et al., <xref rid="cpf70037-bib-0015" ref-type="bibr">2021</xref>; Ladlow et al., <xref rid="cpf70037-bib-0029" ref-type="bibr">2022</xref>; Papadopoulou et al., <xref rid="cpf70037-bib-0039" ref-type="bibr">2022</xref>; Shouman et al., <xref rid="cpf70037-bib-0055" ref-type="bibr">2021</xref>; Zanoli et al., <xref rid="cpf70037-bib-0064" ref-type="bibr">2022</xref>) or postural orthostatic tachycardia syndrome (POTS)‐like condition (Seeley et al., <xref rid="cpf70037-bib-0053" ref-type="bibr">2023</xref>). Saunders et al. (<xref rid="cpf70037-bib-0051" ref-type="bibr">2023</xref>) propose a biopsychosocial model for explaining PCC, suggesting that in the presence of predisposing factors, COVID‐19 infection may trigger the brain's stress systems (Kozlowska, <xref rid="cpf70037-bib-0028" ref-type="bibr">2020</xref>), leading to sympathetic activation and changes in hormonal and inflammatory regulation. Prolongation of these changes has been hypothesized to cause sensitization of the central nervous system, contributing to the persistence of the symptoms (Goudman et al., <xref rid="cpf70037-bib-0022" ref-type="bibr">2021</xref>). Previous research has speculated that prolonged inflammatory responses triggered during the acute phase could lead to endotheliopathy, mitochondrial dysfunction, vascular stiffness, vascular injury, and cardiovascular complications (Aranyó et al., <xref rid="cpf70037-bib-0005" ref-type="bibr">2022</xref>; Araújo et al., <xref rid="cpf70037-bib-0006" ref-type="bibr">2023</xref>; Karakasis et al., <xref rid="cpf70037-bib-0027" ref-type="bibr">2024</xref>; Marques et al., <xref rid="cpf70037-bib-0033" ref-type="bibr">2023</xref>; Saeed et al., <xref rid="cpf70037-bib-0049" ref-type="bibr">2021</xref>). It is not known, however, whether these changes could persist and contribute to post‐acute syndromes. Arterial stiffness and sympathetic overactivity have been shown to be reversible phenomena (Zanoli et al., <xref rid="cpf70037-bib-0064" ref-type="bibr">2022</xref>). PCC symptoms, including those suggestive of increased sympathetic activity, can develop after both mild and severe acute COVID‐19 disease (Barizien et al., <xref rid="cpf70037-bib-0008" ref-type="bibr">2021</xref>; Fernández‐de‐las‐Peñas et al., <xref rid="cpf70037-bib-0020" ref-type="bibr">2021</xref>; Havervall et al., <xref rid="cpf70037-bib-0023" ref-type="bibr">2021</xref>; Parotto et al., <xref rid="cpf70037-bib-0041" ref-type="bibr">2023</xref>).</p><p>The present study adopted Thulesius' criteria for sympathicotonic heart rate and blood pressure changes (Thulesius, <xref rid="cpf70037-bib-0060" ref-type="bibr">1976</xref>). These criteria define a heart rate increase of ≥25 bpm, which is lower than the POTS threshold (≥30 bpm) and transient, in contrast to the POTS definition of sustained tachycardia (Raj et al., <xref rid="cpf70037-bib-0044" ref-type="bibr">2020</xref>). Our findings suggest that characterizing intermediate cases of sympathicotonia—those falling between normal autonomic responses and POTS—may be valuable, even though these cases are not as clinically pronounced as POTS. Our clinical observations suggest that sympathicotonia may represent an inherent personal trait or autonomic sensitivity rather than a pathological condition. Based on our findings, we suggest that even individuals with milder, transient orthostatic changes may warrant further study, as this group could provide new insights into autonomic nervous system function and variability.</p><p>The present study demonstrates the uncertainty associated with self‐reported sympathicotonia compared with objectively measured sympathetic reactions in the orthostatic test. Subjective factors, such as altered interoception or anxiety related to PCC symptoms, may have influenced the self‐reporting during outpatient visits (Chen et al., <xref rid="cpf70037-bib-0014" ref-type="bibr">2021</xref>; Henningsen et al., <xref rid="cpf70037-bib-0024" ref-type="bibr">2018</xref>). Patients may also have been particularly aware of PCC symptoms as presented by the media during and immediately after the years of the COVID‐19 pandemic, which could have influenced their self‐reports. Furthermore, the present results suggest that sympathicotonia may be very common and not necessarily associated with any disease conditions. Pakarinen et al. (<xref rid="cpf70037-bib-0038" ref-type="bibr">2019</xref>) found that EDA was more accurate in classifying stress levels compared to self‐report questionnaires, suggesting that individuals may have difficulty in accurately recognizing and reporting their own stress levels. Additionally, only seven (29%) of the participants reported symptoms consistent with sympathicotonia during the sympathetic reaction in orthostatic test, highlighting the difficulty in recognizing sympathetic symptoms. The results confirm that increased sympathetic activity is not present in all PCC patients, and self‐reported symptoms may not reliably reflect physiological sympathicotonia. The findings suggest that EDA measured via the DNE index may serve as a useful method for detecting and analyzing sympathicotonia in PCC.</p><p>The control group, as well as the Ortho‐Non‐Symp and Ortho‐Non‐Symp‐PCC groups, exhibited higher DNE values during early morning and daytime compared to the groups with sympathicotonia. This difference likely reflects normal sympathetic function, where higher EDA levels are associated with increased physical activity, as also indicated by step counts. While these patterns may partly be explained by differences in daily routines, such as morning exercise or commuting to work, participant diaries were too inconsistent to reliably determine individual activity levels at different times of the day.</p><p>In the present study, the patients had experienced mild COVID‐19, and thorough examinations in the outpatient clinic did not reveal specific complaints related to the prior infection. However, increased DNE levels were observed in individuals with orthostatic sympathicotonia. EDA primarily reflects direct sympathetic activation at the skin level, whereas heart rate variability (HRV) is often used as an indirect measure of autonomic balance, with reduced HRV typically associated with increased sympathetic dominance. Previous studies have shown that autonomic nervous system dynamics, including sympathetic activation, play a role in sleep regulation (Peplow, <xref rid="cpf70037-bib-0042" ref-type="bibr">2013</xref>; Zapalac et al., <xref rid="cpf70037-bib-0065" ref-type="bibr">2024</xref>). Although our study did not include direct assessments of sleep stages, the ability of the DNE index‐based EDA measurement to capture nocturnal sympathetic activity makes it a valuable tool for understanding autonomic function during sleep.</p><p>One of the key advantages of the DNE index is its ability to assess and monitor sympathicotonia independently of self‐reported symptoms. Unlike subjective symptom assessments, which may be influenced by individual perception and variability, the DNE index provides an objective, continuous measure of sympathetic nervous system activity. This is particularly relevant in the context of PCC, where autonomic dysfunction may contribute to various symptoms. Monitoring based on the DNE index could aid in identifying the physiological basis of these symptoms and offer a tool for tracking autonomic regulation over time. In clinical practice, the ability to quantify sympathicotonia using EDA may help optimize symptom management and guide rehabilitation strategies. Further studies are warranted to explore its potential applications in personalized treatment approaches for PCC patients.</p><p>An interesting aspect of the present study lies not only in how the smart ring device detects sympathicotonia, but also in how a single orthostatic test can effectively capture signs of sympathicotonia. Despite the relatively small number of patients, the findings related to sympathicotonia were consistent and logically interpretable.</p><sec id="cpf70037-sec-0200"><label>5.1</label><title>Strengths and limitations</title><p>The study presents a longitudinal clinical follow‐up using a novel method based on EDA measurement. The EDA recordings were of high quality, and participants wore the ring for a sufficient duration to allow reliable comparisons. The initial plan was to divide participants based on self‐reported symptoms of sympathicotonia. However, the study highlighted the difficulty of accurately self‐recognizing this condition. In contrast, the orthostatic test provided an objective means to detect sympathicotonia. Nevertheless, the number of participants was relatively small, which may limit the generalizability of the findings. Despite this, the results are logical and suggest that sympathicotonia was reliably assessed.</p><p>Eight women in our study used either hormonal contraception (<italic toggle="yes">n</italic> = 3) or hormone replacement therapy (<italic toggle="yes">n</italic> = 5). It is known that sex hormones may influence skin conductivity (White &amp; Graham, <xref rid="cpf70037-bib-0063" ref-type="bibr">2016</xref>). We also added hormonal therapy to the model, but the model showed instability due to the strong correlation between gender and hormonal therapy. Therefore, hormonal therapy was not included as an adjustment factor in our final analyses. However, the influence of hormonal therapy on EDA values warrants further study with larger patient cohorts.</p><p>Another limitation is related to the diary recordings. Although participants were asked to fill out a diary detailing their daily activities and sleep periods, the entries varied considerably in quality and completeness. Therefore, reliable data on sleep duration and quality were not available. Step counts, however, provided valuable insights into participants' activity levels.</p><p>Additionally, there was a 1–2‐month delay between the EDA monitoring period and orthostatic testing for both patients and controls due to laboratory scheduling constraints. This delay did not significantly affect the results, as it was similar for both groups. Moreover, an individual's tendency toward sympathicotonia may be partly determined by inherent personal characteristics or sensitivities, making short‐term delays less likely to alter their sympathicotonia response in this kind of time delay.</p></sec></sec><sec sec-type="conclusions" id="cpf70037-sec-0210"><label>6</label><title>CONCLUSION</title><p>Self‐reported presence or absence of sympathicotonia did not correspond to sympathicotonia detected objectively by orthostatic testing or measured using the new DNE‐based electrodermal activity method in either PCC patients or control subjects. However, in individuals with orthostatic sympathicotonia, DNE values were elevated during the late night, consistent with electrodermal sympathicotonia. The DNE analysis did not distinguish PCC patients from controls. Nevertheless, the results suggest that the DNE index is a useful objective method for detecting sympathicotonia in both healthy subjects and PCC patients, even in cases where individuals do not subjectively perceive symptoms related to increased autonomic nervous activity.</p></sec><sec id="cpf70037-sec-0220"><title>AUTHOR CONTRIBUTIONS</title><p>Timo Mustonen, Päivi Piirilä and Mari Kanerva conceived the study; Timo Mustonen, Pasi Kytölä, Ritva Luukkonen and Päivi Piirilä analyzed data; Timo Mustonen, Pasi Kytölä and Päivi Piirilä drafted manuscript; Timo Mustonen and Pasi Kytölä prepared the figures; Päivi Piirilä and Mari Kanerva acquired funding; Päivi Piirilä, Mari Kanerva and Arja Uusitalo supervised the study and provided resources; Timo Mustonen, Pasi Kytölä, Hanna Lantto, Erika Lager, VV‐L, Hélène Virrantaus, Aleksandra Sulg, Sanna Stålnacke, Tatiana Posharina, Ritva Luukkonen, Arja Uusitalo, Päivi Piirilä and Mari Kanerva edited and revised manuscript. Timo Mustonen, Pasi Kytölä, Arja Uusitalo, Päivi Piirilä and Mari Kanerva approved final version of manuscript. All authors meet the ICMJE criteria for authorship.</p></sec><sec sec-type="COI-statement" id="cpf70037-sec-0240"><title>CONFLICT OF INTEREST STATEMENT</title><p>The authors declare no conflicts of interest.</p></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material id="cpf70037-suppl-0001" position="float" content-type="local-data" orientation="portrait"><caption><p>Table S1. Medication use and DNE recording quality data for groups, based on self‐reported increased sympathetic activity (Self‐Reported Symp‐PCC), self‐reported normal sympathetic activity (Self‐Reported Non‐Symp‐PCC), and non‐symptomatic control subjects. Table S2. Orthostatic test results, medication use, and DNE recording quality data for groups, classified based on orthostatic sympathetic response (Ortho‐Symp and Ortho‐Non‐Symp). Table S3. Baseline characteristics, medication use, DNE values, and DNE recording quality data for PCC patients and controls divided into four groups, based on orthostatic sympathetic response (Ortho‐Non‐Symp‐Control, Ortho‐Symp‐Control, Ortho‐Non‐Symp‐PCC, Ortho‐Symp‐PCC).</p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="CPF-45-0-s001.docx" position="float" orientation="portrait"/></supplementary-material></sec></body><back><ack id="cpf70037-sec-0230"><title>ACKNOWLEDGEMENTS</title><p>The authors acknowledge Henna Salonius for her valuable comments and active contributions to the development of this manuscript and project nurse Katja Suominen for helping in the patient contacts and data organising. This project has received funding from the European Union's Horizon Europe research and innovation programme under grant agreement No 101057553, as well as Helsinki University Central Hospital Research Funding for HUS Medical Diagnostic Center (grant numbers Y780022061, Y780024073, Y780023041 for the years 2022, 2023, and 2024, respectively).</p></ack><sec sec-type="data-availability" id="cpf70037-sec-0260"><title>DATA AVAILABILITY STATEMENT</title><p>Data is provided within the manuscript or supplementary information files. The data is not publicly available due to privacy statements.</p></sec><ref-list content-type="cited-references" id="cpf70037-bibl-0001"><title>REFERENCES</title><ref id="cpf70037-bib-0001"><mixed-citation publication-type="journal" id="cpf70037-cit-0001">
+<string-name name-style="western">
+<surname>Agergaard</surname>, <given-names>J.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gunst</surname>, <given-names>J.D.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Schiøttz‐Christensen</surname>, <given-names>B.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Østergaard</surname>, <given-names>L.</given-names>
+</string-name> &amp; <string-name name-style="western">
+<surname>Wejse</surname>, <given-names>C.</given-names>
+</string-name> (<year>2023</year>) <article-title>Long‐term prognosis at 1.5 years after infection with wild‐type strain of SARS‐CoV‐2 and Alpha, Delta, as well as Omicron variants</article-title>. <source>International Journal of Infectious Diseases</source>, <volume>137</volume>, <fpage>126</fpage>–<lpage>133</lpage>.<pub-id pub-id-type="pmid">37907167</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.ijid.2023.10.022</pub-id></mixed-citation></ref><ref id="cpf70037-bib-0002"><mixed-citation publication-type="journal" id="cpf70037-cit-0002">
+<string-name name-style="western">
+<surname>Alkodaymi</surname>, <given-names>M.S.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Omrani</surname>, <given-names>O.A.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ashraf</surname>, <given-names>N.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Shaar</surname>, <given-names>B.A.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Almamlouk</surname>, <given-names>R.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Riaz</surname>, <given-names>M.</given-names>
+</string-name> et al. (<year>2022</year>) <article-title>Prevalence of post‐acute COVID‐19 syndrome symptoms at different follow‐up periods: a systematic review and meta‐analysis</article-title>. <source>Clinical Microbiology and Infection</source>, <volume>28</volume>, <fpage>657</fpage>–<lpage>666</lpage>.<pub-id pub-id-type="pmid">35124265</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.cmi.2022.01.014</pub-id><pub-id pub-id-type="pmcid">PMC8812092</pub-id></mixed-citation></ref><ref id="cpf70037-bib-0003"><mixed-citation publication-type="journal" id="cpf70037-cit-0003">
+<string-name name-style="western">
+<surname>Antonelli</surname>, <given-names>M.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Pujol</surname>, <given-names>J.C.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Spector</surname>, <given-names>T.D.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ourselin</surname>, <given-names>S.</given-names>
+</string-name> &amp; <string-name name-style="western">
+<surname>Steves</surname>, <given-names>C.J.</given-names>
+</string-name> (<year>2022</year>) <article-title>Risk of long COVID associated with delta versus omicron variants of SARS‐CoV‐2</article-title>. <source>The Lancet</source>, <volume>399</volume>, <fpage>2263</fpage>–<lpage>2264</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/S0140-6736(22)00941-2</pub-id><pub-id pub-id-type="pmcid">PMC9212672</pub-id><pub-id pub-id-type="pmid">35717982</pub-id></mixed-citation></ref><ref id="cpf70037-bib-0004"><mixed-citation publication-type="journal" id="cpf70037-cit-0004">
+<string-name name-style="western">
+<surname>Aparisi</surname>, <given-names>Á.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ladrón</surname>, <given-names>R.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ybarra‐Falcón</surname>, <given-names>C.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tobar</surname>, <given-names>J.</given-names>
+</string-name> &amp; <string-name name-style="western">
+<surname>San Román</surname>, <given-names>J.A.</given-names>
+</string-name> (<year>2022</year>) <article-title>Exercise intolerance in post‐acute sequelae of COVID‐19 and the value of cardiopulmonary exercise testing—a mini‐review</article-title>. <source>Frontiers in Medicine</source>, <volume>9</volume>, <elocation-id>924819</elocation-id>.<pub-id pub-id-type="pmid">35935782</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3389/fmed.2022.924819</pub-id><pub-id pub-id-type="pmcid">PMC9352932</pub-id></mixed-citation></ref><ref id="cpf70037-bib-0005"><mixed-citation publication-type="journal" id="cpf70037-cit-0005">
+<string-name name-style="western">
+<surname>Aranyó</surname>, <given-names>J.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bazan</surname>, <given-names>V.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lladós</surname>, <given-names>G.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Domizquez</surname>, <given-names>M. J.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bisbal</surname>, <given-names>F.</given-names>
+</string-name> &amp; <string-name name-style="western">
+<surname>Massanella</surname>, <given-names>M.</given-names>
+</string-name> (<year>2022</year>) <article-title>Inappropriate sinus tachycardia in post‐COVID‐19 syndrome</article-title>. <source>Scientific Reports</source>, <volume>12</volume>, <fpage>298</fpage>.<pub-id pub-id-type="pmid">34996973</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41598-021-03831-6</pub-id><pub-id pub-id-type="pmcid">PMC8741896</pub-id></mixed-citation></ref><ref id="cpf70037-bib-0006"><mixed-citation publication-type="journal" id="cpf70037-cit-0006">
+<string-name name-style="western">
+<surname>Araújo</surname>, <given-names>C.R.S.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Fernandes</surname>, <given-names>J.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Caetano</surname>, <given-names>D.S.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Barros</surname>, <given-names>A.E.V.R.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>de Souza</surname>, <given-names>J.A.F.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Machado</surname>, <given-names>M.G.R.</given-names>
+</string-name> et al. (<year>2023</year>) <article-title>Endothelial function, arterial stiffness and heart rate variability of patients with cardiovascular diseases hospitalized due to COVID‐19</article-title>. <source>Heart &amp; Lung</source>, <volume>58</volume>, <fpage>210</fpage>–<lpage>216</lpage>.<pub-id pub-id-type="pmid">36621104</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.hrtlng.2022.12.016</pub-id><pub-id pub-id-type="pmcid">PMC9805900</pub-id></mixed-citation></ref><ref id="cpf70037-bib-0007"><mixed-citation publication-type="journal" id="cpf70037-cit-0007">
+<string-name name-style="western">
+<surname>Ballering</surname>, <given-names>A.V.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Van Zon</surname>, <given-names>S.K.R.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Olde Hartman</surname>, <given-names>T.C.</given-names>
+</string-name> &amp; <string-name name-style="western">
+<surname>Rosmalen</surname>, <given-names>J.G.M.</given-names>
+</string-name> (<year>2022</year>) <article-title>Persistence of somatic symptoms after COVID‐19 in the Netherlands: an observational cohort study</article-title>. <source>The Lancet</source>, <volume>400</volume>, <fpage>452</fpage>–<lpage>461</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/S0140-6736(22)01214-4</pub-id><pub-id pub-id-type="pmcid">PMC9352274</pub-id><pub-id pub-id-type="pmid">35934007</pub-id></mixed-citation></ref><ref id="cpf70037-bib-0008"><mixed-citation publication-type="journal" id="cpf70037-cit-0008">
+<string-name name-style="western">
+<surname>Barizien</surname>, <given-names>N.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Le Guen</surname>, <given-names>M.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Russel</surname>, <given-names>S.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Touche</surname>, <given-names>P.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Huang</surname>, <given-names>F.</given-names>
+</string-name> &amp; <string-name name-style="western">
+<surname>Vallée</surname>, <given-names>A.</given-names>
+</string-name> (<year>2021</year>) <article-title>Clinical characterization of dysautonomia in long COVID‐19 patients</article-title>. <source>Scientific Reports</source>, <volume>11</volume>, <elocation-id>14042</elocation-id>.<pub-id pub-id-type="pmid">34234251</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41598-021-93546-5</pub-id><pub-id pub-id-type="pmcid">PMC8263555</pub-id></mixed-citation></ref><ref id="cpf70037-bib-0009"><mixed-citation publication-type="journal" id="cpf70037-cit-0009">
+<string-name name-style="western">
+<surname>Bocci</surname>, <given-names>T.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bertini</surname>, <given-names>A.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Campiglio</surname>, <given-names>L.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Botta</surname>, <given-names>S.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Libelli</surname>, <given-names>G.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Guidetti</surname>, <given-names>M.</given-names>
+</string-name> et al. (<year>2023</year>) <article-title>Not myopathic, but autonomic changes in patients with long‐COVID syndrome: a case series</article-title>. <source>Neurological Science</source>, <volume>44</volume>, <fpage>1147</fpage>–<lpage>1153</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s10072-023-06637-8</pub-id><pub-id pub-id-type="pmcid">PMC9896447</pub-id><pub-id pub-id-type="pmid">36735149</pub-id></mixed-citation></ref><ref id="cpf70037-bib-0010"><mixed-citation publication-type="book" id="cpf70037-cit-0010">
+<string-name name-style="western">
+<surname>Boucsein</surname>, <given-names>W.</given-names>
+</string-name> (<year>2012</year>) <source>Electrodermal activity</source>. <publisher-loc>Boston, MA</publisher-loc>: <publisher-name>Springer US</publisher-name>.</mixed-citation></ref><ref id="cpf70037-bib-0011"><mixed-citation publication-type="journal" id="cpf70037-cit-0011">
+<string-name name-style="western">
+<surname>Brugnera</surname>, <given-names>A.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zarbo</surname>, <given-names>C.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tarvainen</surname>, <given-names>M.P.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Carlucci</surname>, <given-names>S.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tasca</surname>, <given-names>G.A.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Adorni</surname>, <given-names>R.</given-names>
+</string-name> et al. (<year>2019</year>) <article-title>Higher levels of depressive symptoms are associated with increased resting‐state heart rate variability and blunted reactivity to a laboratory stress task among healthy adults</article-title>. <source>Applied Psychophysiology And Biofeedback</source>, <volume>44</volume>, <fpage>221</fpage>–<lpage>234</lpage>.<pub-id pub-id-type="pmid">31041646</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s10484-019-09437-z</pub-id></mixed-citation></ref><ref id="cpf70037-bib-0012"><mixed-citation publication-type="book" id="cpf70037-cit-0012">
+<string-name name-style="western">
+<surname>Cardinali</surname>, <given-names>D.P.</given-names>
+</string-name> (<year>2018</year>) <source>Autonomic nervous system</source>. <publisher-loc>Cham</publisher-loc>: <publisher-name>Springer International Publishing</publisher-name>.</mixed-citation></ref><ref id="cpf70037-bib-0013"><mixed-citation publication-type="journal" id="cpf70037-cit-0013">
+<string-name name-style="western">
+<surname>Cázares‐Lara</surname>, <given-names>J.O.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ordinola‐Navarro</surname>, <given-names>A.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Carmona‐Aguilera</surname>, <given-names>Z.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Benitez‐Altamirano</surname>, <given-names>G.M.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Beltran‐Ontiveros</surname>, <given-names>L.D.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ramirez‐Hinojosa</surname>, <given-names>J.P.</given-names>
+</string-name> et al. (<year>2025</year>) <article-title>Main predictors of decreasing in quality of life in patients with post‐COVID‐19: a cross‐sectional study</article-title>. <source>Value in Health Regional Issues</source>, <volume>45</volume>, <elocation-id>101039</elocation-id>.<pub-id pub-id-type="pmid">39255548</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.vhri.2024.101039</pub-id></mixed-citation></ref><ref id="cpf70037-bib-0014"><mixed-citation publication-type="journal" id="cpf70037-cit-0014">
+<string-name name-style="western">
+<surname>Chen</surname>, <given-names>W.G.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Schloesser</surname>, <given-names>D.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Arensdorf</surname>, <given-names>A.M.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Simmons</surname>, <given-names>J.M.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cui</surname>, <given-names>C.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Valentino</surname>, <given-names>R.</given-names>
+</string-name> et al. (<year>2021</year>) <article-title>The emerging science of interoception: sensing, integrating, interpreting, and regulating signals within the self</article-title>. <source>Trends in Neurosciences</source>, <volume>44</volume>, <fpage>3</fpage>–<lpage>16</lpage>.<pub-id pub-id-type="pmid">33378655</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.tins.2020.10.007</pub-id><pub-id pub-id-type="pmcid">PMC7780231</pub-id></mixed-citation></ref><ref id="cpf70037-bib-0015"><mixed-citation publication-type="journal" id="cpf70037-cit-0015">
+<string-name name-style="western">
+<surname>Dani</surname>, <given-names>M.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Dirksen</surname>, <given-names>A.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Taraborrelli</surname>, <given-names>P.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Torocastro</surname>, <given-names>M.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Panagopoulos</surname>, <given-names>D.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sutton</surname>, <given-names>R.</given-names>
+</string-name> et al. (<year>2021</year>) <article-title>Autonomic dysfunction in ‘long COVID’: rationale, physiology and management strategies</article-title>. <source>Clinical Medicine</source>, <volume>21</volume>, <fpage>e63</fpage>–<lpage>e67</lpage>.<pub-id pub-id-type="pmid">33243837</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.7861/clinmed.2020-0896</pub-id><pub-id pub-id-type="pmcid">PMC7850225</pub-id></mixed-citation></ref><ref id="cpf70037-bib-0016"><mixed-citation publication-type="journal" id="cpf70037-cit-0016">
+<string-name name-style="western">
+<surname>Doberenz</surname>, <given-names>S.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Roth</surname>, <given-names>W.T.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wollburg</surname>, <given-names>E.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Maslowski</surname>, <given-names>N.I.</given-names>
+</string-name> &amp; <string-name name-style="western">
+<surname>Kim</surname>, <given-names>S.</given-names>
+</string-name> (<year>2011</year>) <article-title>Methodological considerations in ambulatory skin conductance monitoring</article-title>. <source>International Journal of Psychophysiology</source>, <volume>80</volume>, <fpage>87</fpage>–<lpage>95</lpage>.<pub-id pub-id-type="pmid">21320551</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.ijpsycho.2011.02.002</pub-id><pub-id pub-id-type="pmcid">PMC3075336</pub-id></mixed-citation></ref><ref id="cpf70037-bib-0017"><mixed-citation publication-type="journal" id="cpf70037-cit-0017">
+<string-name name-style="western">
+<surname>Durstenfeld</surname>, <given-names>M.S.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sun</surname>, <given-names>K.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tahir</surname>, <given-names>P.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Peluso</surname>, <given-names>M.J.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Deeks</surname>, <given-names>S.G.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Aras</surname>, <given-names>M.A.</given-names>
+</string-name> et al. (<year>2022</year>) <article-title>Use of cardiopulmonary exercise testing to evaluate long COVID‐19 symptoms in adults: a systematic review and meta‐analysis</article-title>. <source>JAMA Network Open</source>, <volume>5</volume>, <elocation-id>e2236057</elocation-id>.<pub-id pub-id-type="pmid">36223120</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1001/jamanetworkopen.2022.36057</pub-id><pub-id pub-id-type="pmcid">PMC9557896</pub-id></mixed-citation></ref><ref id="cpf70037-bib-0018"><mixed-citation publication-type="journal" id="cpf70037-cit-0018">
+<string-name name-style="western">
+<surname>Fernandez‐de‐las‐Peñas</surname>, <given-names>C.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Notarte</surname>, <given-names>K.I.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Macasaet</surname>, <given-names>R.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Velasco</surname>, <given-names>J.V.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Catahay</surname>, <given-names>J.A.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ver</surname>, <given-names>A.T.</given-names>
+</string-name> et al. (<year>2024</year>) <article-title>Persistence of post‐COVID symptoms in the general population two years after SARS‐CoV‐2 infection: a systematic review and meta‐analysis</article-title>. <source>Journal of Infection</source>, <volume>88</volume>, <fpage>77</fpage>–<lpage>88</lpage>.<pub-id pub-id-type="pmid">38101521</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.jinf.2023.12.004</pub-id></mixed-citation></ref><ref id="cpf70037-bib-0019"><mixed-citation publication-type="journal" id="cpf70037-cit-0019">
+<string-name name-style="western">
+<surname>Fernández‐de‐las‐Peñas</surname>, <given-names>C.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Notarte</surname>, <given-names>K.I.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Peligro</surname>, <given-names>P.J.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Velasco</surname>, <given-names>J.V.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ocampo</surname>, <given-names>M.J.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Henry</surname>, <given-names>B.M.</given-names>
+</string-name> et al. (<year>2022</year>) <article-title>Long‐COVID symptoms in individuals infected with different SARS‐CoV‐2 variants of concern: a systematic review of the literature</article-title>. <source>Viruses</source>, <volume>14</volume>, <elocation-id>2629</elocation-id>.<pub-id pub-id-type="pmid">36560633</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3390/v14122629</pub-id><pub-id pub-id-type="pmcid">PMC9785120</pub-id></mixed-citation></ref><ref id="cpf70037-bib-0020"><mixed-citation publication-type="journal" id="cpf70037-cit-0020">
+<string-name name-style="western">
+<surname>Fernández‐de‐las‐Peñas</surname>, <given-names>C.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Palacios‐Ceña</surname>, <given-names>D.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gómez‐Mayordomo</surname>, <given-names>V.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Florencio</surname>, <given-names>L.L.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cuadrado</surname>, <given-names>M.L.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Plaza‐Manzano</surname>, <given-names>G.</given-names>
+</string-name> et al. (<year>2021</year>) <article-title>Prevalence of post‐COVID‐19 symptoms in hospitalized and non‐hospitalized COVID‐19 survivors: a systematic review and meta‐analysis</article-title>. <source>European Journal of Internal Medicine</source>, <volume>92</volume>, <fpage>55</fpage>–<lpage>70</lpage>.<pub-id pub-id-type="pmid">34167876</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.ejim.2021.06.009</pub-id><pub-id pub-id-type="pmcid">PMC8206636</pub-id></mixed-citation></ref><ref id="cpf70037-bib-0021"><mixed-citation publication-type="journal" id="cpf70037-cit-0021">
+<string-name name-style="western">
+<surname>Freire</surname>, <given-names>A.P.C.F.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Amin</surname>, <given-names>S.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lira</surname>, <given-names>F.S.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Morano</surname>, <given-names>A.E.A.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Pereira</surname>, <given-names>T.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Coelho‐E‐Silva</surname>, <given-names>M.J.</given-names>
+</string-name> et al. (<year>2023</year>) <article-title>Autonomic function recovery and physical activity levels in post‐COVID‐19 young adults after immunization: an observational follow‐up case‐control study</article-title>. <source>International Journal of Environmental Research and Public Health</source>, <volume>20</volume>, <elocation-id>2251</elocation-id>.<pub-id pub-id-type="pmid">36767620</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3390/ijerph20032251</pub-id><pub-id pub-id-type="pmcid">PMC9915325</pub-id></mixed-citation></ref><ref id="cpf70037-bib-0022"><mixed-citation publication-type="journal" id="cpf70037-cit-0022">
+<string-name name-style="western">
+<surname>Goudman</surname>, <given-names>L.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>De Smedt</surname>, <given-names>A.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Noppen</surname>, <given-names>M.</given-names>
+</string-name> &amp; <string-name name-style="western">
+<surname>Moens</surname>, <given-names>M.</given-names>
+</string-name> (<year>2021</year>) <article-title>Is central sensitisation the missing link of persisting symptoms after COVID‐19 infection?</article-title>
+<source>Journal of Clinical Medicine</source>, <volume>10</volume>, <elocation-id>5594</elocation-id>.<pub-id pub-id-type="pmid">34884296</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3390/jcm10235594</pub-id><pub-id pub-id-type="pmcid">PMC8658135</pub-id></mixed-citation></ref><ref id="cpf70037-bib-0023"><mixed-citation publication-type="journal" id="cpf70037-cit-0023">
+<string-name name-style="western">
+<surname>Havervall</surname>, <given-names>S.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rosell</surname>, <given-names>A.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Phillipson</surname>, <given-names>M.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mangsbo</surname>, <given-names>S.M.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Nilsson</surname>, <given-names>P.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hober</surname>, <given-names>S.</given-names>
+</string-name> et al. (<year>2021</year>) <article-title>Symptoms and functional impairment assessed 8 months after mild COVID‐19 among health care workers</article-title>. <source>Journal of the American Medical Association</source>, <volume>325</volume>, <fpage>2015</fpage>.<pub-id pub-id-type="pmid">33825846</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1001/jama.2021.5612</pub-id><pub-id pub-id-type="pmcid">PMC8027932</pub-id></mixed-citation></ref><ref id="cpf70037-bib-0024"><mixed-citation publication-type="journal" id="cpf70037-cit-0024">
+<string-name name-style="western">
+<surname>Henningsen</surname>, <given-names>P.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gündel</surname>, <given-names>H.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kop</surname>, <given-names>W.J.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Löwe</surname>, <given-names>B.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Martin</surname>, <given-names>A.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rief</surname>, <given-names>W.</given-names>
+</string-name> et al. (<year>2018</year>) <article-title>Persistent physical symptoms as perceptual dysregulation: a neuropsychobehavioral model and its clinical implications</article-title>. <source>Psychosomatic Medicine</source>, <volume>80</volume>, <fpage>422</fpage>–<lpage>431</lpage>.<pub-id pub-id-type="pmid">29621046</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1097/PSY.0000000000000588</pub-id></mixed-citation></ref><ref id="cpf70037-bib-0025"><mixed-citation publication-type="journal" id="cpf70037-cit-0025">
+<string-name name-style="western">
+<surname>Inanc</surname>, <given-names>I.H.</given-names>
+</string-name> &amp; <string-name name-style="western">
+<surname>Sabanoglu</surname>, <given-names>C.</given-names>
+</string-name> (<year>2022</year>) <article-title>Autonomic dysfunction and metabolic disorders as the possible sequelae of COVID‐19 infection</article-title>. <source>European Review for Medical and Pharmacological Sciences</source>, <volume>26</volume>, <fpage>5587</fpage>–<lpage>5595</lpage>.<pub-id pub-id-type="pmid">35993657</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.26355/eurrev_202208_29431</pub-id></mixed-citation></ref><ref id="cpf70037-bib-0026"><mixed-citation publication-type="journal" id="cpf70037-cit-0026">
+<string-name name-style="western">
+<surname>Jacob</surname>, <given-names>G.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Thomas</surname>, <given-names>D.C.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jo</surname>, <given-names>S.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mathew</surname>, <given-names>B.</given-names>
+</string-name> &amp; <string-name name-style="western">
+<surname>Reshmi</surname>, <given-names>A.</given-names>
+</string-name> (<year>2022</year>) <article-title>The influence of stress in modulating the relationship between coronavirus disease‐2019 disease and sleep quality</article-title>. <source>Journal of Pharmacy and BioAllied Sciences</source>, <volume>14</volume>, <fpage>S415</fpage>–<lpage>S419</lpage>.<pub-id pub-id-type="pmid">36110768</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.4103/jpbs.jpbs_738_21</pub-id><pub-id pub-id-type="pmcid">PMC9469293</pub-id></mixed-citation></ref><ref id="cpf70037-bib-0027"><mixed-citation publication-type="journal" id="cpf70037-cit-0027">
+<string-name name-style="western">
+<surname>Karakasis</surname>, <given-names>P.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Nasoufidou</surname>, <given-names>A.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sagris</surname>, <given-names>M.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Fragakis</surname>, <given-names>N.</given-names>
+</string-name> &amp; <string-name name-style="western">
+<surname>Tsioufis</surname>, <given-names>K.</given-names>
+</string-name> (<year>2024</year>) <article-title>Vascular alterations following COVID‐19 infection: a comprehensive literature review</article-title>. <source>Life</source>, <volume>14</volume>, <elocation-id>545</elocation-id>.<pub-id pub-id-type="pmid">38792566</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3390/life14050545</pub-id><pub-id pub-id-type="pmcid">PMC11122535</pub-id></mixed-citation></ref><ref id="cpf70037-bib-0028"><mixed-citation publication-type="book" id="cpf70037-cit-0028">
+<string-name name-style="western">
+<surname>Kozlowska</surname>, <given-names>K.</given-names>
+</string-name> (<year>2020</year>) <source>Functional somatic symptoms in children and adolescents: a stress‐system approach to assessment and treatment</source>, <edition>1st ed</edition>. <publisher-loc>Cham</publisher-loc>: <publisher-name>Springer International Publishing AG</publisher-name>.</mixed-citation></ref><ref id="cpf70037-bib-0029"><mixed-citation publication-type="journal" id="cpf70037-cit-0029">
+<string-name name-style="western">
+<surname>Ladlow</surname>, <given-names>P.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>O'Sullivan</surname>, <given-names>O.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Houston</surname>, <given-names>A.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Barker‐Davies</surname>, <given-names>R.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>May</surname>, <given-names>S.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mills</surname>, <given-names>D.</given-names>
+</string-name> et al. (<year>2022</year>) <article-title>Dysautonomia following COVID‐19 is not associated with subjective limitations or symptoms but is associated with objective functional limitations</article-title>. <source>Heart Rhythm</source>, <volume>19</volume>, <fpage>613</fpage>–<lpage>620</lpage>.<pub-id pub-id-type="pmid">34896622</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.hrthm.2021.12.005</pub-id><pub-id pub-id-type="pmcid">PMC8656177</pub-id></mixed-citation></ref><ref id="cpf70037-bib-0030"><mixed-citation publication-type="journal" id="cpf70037-cit-0030">
+<string-name name-style="western">
+<surname>Liu</surname>, <given-names>Y.</given-names>
+</string-name> &amp; <string-name name-style="western">
+<surname>Du</surname>, <given-names>S.</given-names>
+</string-name> (<year>2018</year>) <article-title>Psychological stress level detection based on electrodermal activity</article-title>. <source>Behavioural Brain Research</source>, <volume>341</volume>, <fpage>50</fpage>–<lpage>53</lpage>.<pub-id pub-id-type="pmid">29274343</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.bbr.2017.12.021</pub-id></mixed-citation></ref><ref id="cpf70037-bib-0031"><mixed-citation publication-type="journal" id="cpf70037-cit-0031">
+<string-name name-style="western">
+<surname>Lutin</surname>, <given-names>E.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Schiweck</surname>, <given-names>C.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cornelis</surname>, <given-names>J.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>De Raedt</surname>, <given-names>W.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Reif</surname>, <given-names>A.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Vrieze</surname>, <given-names>E.</given-names>
+</string-name> et al. (<year>2022</year>) <article-title>The cumulative effect of chronic stress and depressive symptoms affects heart rate in a working population</article-title>. <source>Frontiers in Psychiatry</source>, <volume>13</volume>, <elocation-id>1022298</elocation-id>.<pub-id pub-id-type="pmid">36311512</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3389/fpsyt.2022.1022298</pub-id><pub-id pub-id-type="pmcid">PMC9606467</pub-id></mixed-citation></ref><ref id="cpf70037-bib-0032"><mixed-citation publication-type="journal" id="cpf70037-cit-0032">
+<string-name name-style="western">
+<surname>Malmberg</surname>, <given-names>L.P.</given-names>
+</string-name> (<year>2000</year>) <article-title>Orthostatic increase of respiratory gas exchange in hyperventilation syndrome</article-title>. <source>Thorax</source>, <volume>55</volume>, <fpage>295</fpage>–<lpage>301</lpage>.<pub-id pub-id-type="pmid">10722769</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1136/thorax.55.4.295</pub-id><pub-id pub-id-type="pmcid">PMC1745734</pub-id></mixed-citation></ref><ref id="cpf70037-bib-0033"><mixed-citation publication-type="journal" id="cpf70037-cit-0033">
+<string-name name-style="western">
+<surname>Marques</surname>, <given-names>K.C.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Quaresma</surname>, <given-names>J.A.S.</given-names>
+</string-name> &amp; <string-name name-style="western">
+<surname>Falcão</surname>, <given-names>L.F.M.</given-names>
+</string-name> (<year>2023</year>) <article-title>Cardiovascular autonomic dysfunction in “Long COVID”: pathophysiology, heart rate variability, and inflammatory markers</article-title>. <source>Frontiers in Cardiovascular Medicine</source>, <volume>10</volume>, <elocation-id>1256512</elocation-id>.<pub-id pub-id-type="pmid">37719983</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3389/fcvm.2023.1256512</pub-id><pub-id pub-id-type="pmcid">PMC10502909</pub-id></mixed-citation></ref><ref id="cpf70037-bib-0035"><mixed-citation publication-type="journal" id="cpf70037-cit-0035">
+<string-name name-style="western">
+<surname>Menezes Junior</surname>, <given-names>A.S.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Schröder</surname>, <given-names>A.A.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Botelho</surname>, <given-names>S.M.</given-names>
+</string-name> &amp; <string-name name-style="western">
+<surname>Resende</surname>, <given-names>A.L.</given-names>
+</string-name> (<year>2022</year>) <article-title>Cardiac autonomic function in long covid‐19 using heart rate variability: an observational cross‐sectional study</article-title>. <source>Journal of Clinical Medicine</source>, <volume>12</volume>, <elocation-id>100</elocation-id>.<pub-id pub-id-type="pmid">36614901</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3390/jcm12010100</pub-id><pub-id pub-id-type="pmcid">PMC9821736</pub-id></mixed-citation></ref><ref id="cpf70037-bib-0037"><mixed-citation publication-type="journal" id="cpf70037-cit-0037">
+<string-name name-style="western">
+<surname>Mustonen</surname>, <given-names>T.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kanerva</surname>, <given-names>M.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Luukkonen</surname>, <given-names>R.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lantto</surname>, <given-names>H.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Uusitalo</surname>, <given-names>A.</given-names>
+</string-name> &amp; <string-name name-style="western">
+<surname>Piirilä</surname>, <given-names>P.</given-names>
+</string-name> (<year>2024</year>) <article-title>Cardiopulmonary exercise testing in long covid shows the presence of dysautonomia or chronotropic incompetence independent of subjective exercise intolerance and fatigue</article-title>. <source>BMC Cardiovascular Disorders</source>, <volume>24</volume>, <fpage>413</fpage>.<pub-id pub-id-type="pmid">39117999</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1186/s12872-024-04081-w</pub-id><pub-id pub-id-type="pmcid">PMC11308233</pub-id></mixed-citation></ref><ref id="cpf70037-bib-0038"><mixed-citation publication-type="book" id="cpf70037-cit-0038">
+<string-name name-style="western">
+<surname>Pakarinen</surname>, <given-names>T.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Pietila</surname>, <given-names>J.</given-names>
+</string-name> &amp; <string-name name-style="western">
+<surname>Nieminen</surname>, <given-names>H.</given-names>
+</string-name>
+<article-title>Prediction of self‐perceived stress and arousal based on electrodermal activity</article-title>. <article-title>In: <italic toggle="yes">2019 41st Annu. Int. Conf. IEEE Eng. Med. Biol. Soc. EMBC</italic>
+</article-title> (<year>2019</year>); <fpage>2191</fpage>–<lpage>2195</lpage>. <publisher-name>IEEE</publisher-name>, <publisher-loc>Berlin, Germany</publisher-loc>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1109/EMBC.2019.8857621</pub-id><pub-id pub-id-type="pmid">31946336</pub-id></mixed-citation></ref><ref id="cpf70037-bib-0039"><mixed-citation publication-type="journal" id="cpf70037-cit-0039">
+<string-name name-style="western">
+<surname>Papadopoulou</surname>, <given-names>M.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bakola</surname>, <given-names>E.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Papapostolou</surname>, <given-names>A.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Stefanou</surname>, <given-names>M.I.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gaga</surname>, <given-names>M.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zouvelou</surname>, <given-names>V.</given-names>
+</string-name> et al. (<year>2022</year>) <article-title>Autonomic dysfunction in long‐COVID syndrome: a neurophysiological and neurosonology study</article-title>. <source>Journal of Neurology</source>, <volume>269</volume>, <fpage>4611</fpage>–<lpage>4612</lpage>.<pub-id pub-id-type="pmid">35536408</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s00415-022-11172-1</pub-id><pub-id pub-id-type="pmcid">PMC9086662</pub-id></mixed-citation></ref><ref id="cpf70037-bib-0040"><mixed-citation publication-type="journal" id="cpf70037-cit-0040">
+<string-name name-style="western">
+<surname>Park</surname>, <given-names>H.‐C.</given-names>
+</string-name> &amp; <string-name name-style="western">
+<surname>Oh</surname>, <given-names>J.</given-names>
+</string-name> (<year>2023</year>) <article-title>The relationship between stress and sleep quality: the mediating effect of fatigue and dizziness among patients with cardiovascular disease</article-title>. <source>Medicine</source>, <volume>102</volume>, <elocation-id>e33837</elocation-id>.<pub-id pub-id-type="pmid">37335686</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1097/MD.0000000000033837</pub-id><pub-id pub-id-type="pmcid">PMC10194731</pub-id></mixed-citation></ref><ref id="cpf70037-bib-0041"><mixed-citation publication-type="journal" id="cpf70037-cit-0041">
+<string-name name-style="western">
+<surname>Parotto</surname>, <given-names>M.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gyöngyösi</surname>, <given-names>M.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Howe</surname>, <given-names>K.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Myatra</surname>, <given-names>S.N.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ranzani</surname>, <given-names>O.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Shankar‐Hari</surname>, <given-names>M.</given-names>
+</string-name> et al. (<year>2023</year>) <article-title>Post‐acute sequelae of COVID‐19: understanding and addressing the burden of multisystem manifestations</article-title>. <source>The Lancet Respiratory Medicine</source>, <volume>11</volume>, <fpage>739</fpage>–<lpage>754</lpage>.<pub-id pub-id-type="pmid">37475125</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/S2213-2600(23)00239-4</pub-id></mixed-citation></ref><ref id="cpf70037-bib-0042"><mixed-citation publication-type="journal" id="cpf70037-cit-0042">
+<string-name name-style="western">
+<surname>Peplow</surname>, <given-names>M.</given-names>
+</string-name> (<year>2013</year>) <article-title>Structure: the anatomy of sleep</article-title>. <source>Nature</source>, <volume>497</volume>, <fpage>S2</fpage>–<lpage>S3</lpage>.<pub-id pub-id-type="pmid">23698505</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/497S2a</pub-id></mixed-citation></ref><ref id="cpf70037-bib-0043"><mixed-citation publication-type="journal" id="cpf70037-cit-0043">
+<string-name name-style="western">
+<surname>Premraj</surname>, <given-names>L.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kannapadi</surname>, <given-names>N.V.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Briggs</surname>, <given-names>J.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Seal</surname>, <given-names>S.M.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Battaglini</surname>, <given-names>D.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Fanning</surname>, <given-names>J.</given-names>
+</string-name> et al. (<year>2022</year>) <article-title>Mid and long‐term neurological and neuropsychiatric manifestations of post‐COVID‐19 syndrome: a meta‐analysis</article-title>. <source>Journal of the Neurological Sciences</source>, <volume>434</volume>, <elocation-id>120162</elocation-id>.<pub-id pub-id-type="pmid">35121209</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.jns.2022.120162</pub-id><pub-id pub-id-type="pmcid">PMC8798975</pub-id></mixed-citation></ref><ref id="cpf70037-bib-0044"><mixed-citation publication-type="journal" id="cpf70037-cit-0044">
+<string-name name-style="western">
+<surname>Raj</surname>, <given-names>S.R.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Guzman</surname>, <given-names>J.C.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Harvey</surname>, <given-names>P.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Richer</surname>, <given-names>L.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Schondorf</surname>, <given-names>R.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Seifer</surname>, <given-names>C.</given-names>
+</string-name> et al. (<year>2020</year>) <article-title>Canadian cardiovascular society position statement on postural orthostatic tachycardia syndrome (POTS) and related disorders of chronic orthostatic intolerance</article-title>. <source>Canadian Journal of Cardiology</source>, <volume>36</volume>, <fpage>357</fpage>–<lpage>372</lpage>.<pub-id pub-id-type="pmid">32145864</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.cjca.2019.12.024</pub-id></mixed-citation></ref><ref id="cpf70037-bib-0045"><mixed-citation publication-type="journal" id="cpf70037-cit-0045">
+<string-name name-style="western">
+<surname>Raman</surname>, <given-names>B.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bluemke</surname>, <given-names>D.A.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lüscher</surname>, <given-names>T.F.</given-names>
+</string-name> &amp; <string-name name-style="western">
+<surname>Neubauer</surname>, <given-names>S.</given-names>
+</string-name> (<year>2022</year>) <article-title>Long COVID: post‐acute sequelae of COVID‐19 with a cardiovascular focus</article-title>. <source>European Heart Journal</source>, <volume>43</volume>, <fpage>1157</fpage>–<lpage>1172</lpage>.<pub-id pub-id-type="pmid">35176758</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/eurheartj/ehac031</pub-id><pub-id pub-id-type="pmcid">PMC8903393</pub-id></mixed-citation></ref><ref id="cpf70037-bib-0046"><mixed-citation publication-type="journal" id="cpf70037-cit-0046">
+<string-name name-style="western">
+<surname>Rinaldo</surname>, <given-names>R.F.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mondoni</surname>, <given-names>M.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Parazzini</surname>, <given-names>E.M.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Pitari</surname>, <given-names>F.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Brambilla</surname>, <given-names>E.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Luraschi</surname>, <given-names>S.</given-names>
+</string-name> et al. (<year>2021</year>) <article-title>Deconditioning as main mechanism of impaired exercise response in COVID‐19 survivors</article-title>. <source>European Respiratory Journal</source>, <volume>58</volume>, <elocation-id>2100870</elocation-id>.<pub-id pub-id-type="pmid">33926969</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1183/13993003.00870-2021</pub-id><pub-id pub-id-type="pmcid">PMC8082950</pub-id></mixed-citation></ref><ref id="cpf70037-bib-0047"><mixed-citation publication-type="journal" id="cpf70037-cit-0047">
+<string-name name-style="western">
+<surname>Rudofker</surname>, <given-names>E.W.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Parker</surname>, <given-names>H.</given-names>
+</string-name> &amp; <string-name name-style="western">
+<surname>Cornwell</surname>, <given-names>W.K.</given-names>
+</string-name> (<year>2022</year>) <article-title>An exercise prescription as a novel management strategy for treatment of long COVID</article-title>. <source>JACC: Case Reports</source>, <volume>4</volume>, <fpage>1344</fpage>–<lpage>1347</lpage>.<pub-id pub-id-type="pmid">36278147</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.jaccas.2022.06.026</pub-id><pub-id pub-id-type="pmcid">PMC9580598</pub-id></mixed-citation></ref><ref id="cpf70037-bib-0048"><mixed-citation publication-type="journal" id="cpf70037-cit-0048">
+<string-name name-style="western">
+<surname>Saad</surname>, <given-names>M.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ray</surname>, <given-names>L.B.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bradley‐Garcia</surname>, <given-names>M.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Palamarchuk</surname>, <given-names>I.S.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gholamrezaei</surname>, <given-names>A.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Douglass</surname>, <given-names>A.</given-names>
+</string-name> et al. (<year>2020</year>) <article-title>Autonomic modulation of cardiac activity across levels of sleep depth in individuals with depression and sleep complaints</article-title>. <source>Psychosomatic Medicine</source>, <volume>82</volume>, <fpage>172</fpage>–<lpage>180</lpage>.<pub-id pub-id-type="pmid">31977732</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1097/PSY.0000000000000766</pub-id></mixed-citation></ref><ref id="cpf70037-bib-0049"><mixed-citation publication-type="journal" id="cpf70037-cit-0049">
+<string-name name-style="western">
+<surname>Saeed</surname>, <given-names>S.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tadic</surname>, <given-names>M.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Larsen</surname>, <given-names>T.H.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Grassi</surname>, <given-names>G.</given-names>
+</string-name> &amp; <string-name name-style="western">
+<surname>Mancia</surname>, <given-names>G.</given-names>
+</string-name> (<year>2021</year>) <article-title>Coronavirus disease 2019 and cardiovascular complications: focused clinical review</article-title>. <source>Journal of Hypertension</source>, <volume>39</volume>, <fpage>1282</fpage>–<lpage>1292</lpage>.<pub-id pub-id-type="pmid">33687179</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1097/HJH.0000000000002819</pub-id><pub-id pub-id-type="pmcid">PMC9904438</pub-id></mixed-citation></ref><ref id="cpf70037-bib-0050"><mixed-citation publication-type="journal" id="cpf70037-cit-0050">
+<string-name name-style="western">
+<surname>Salonius</surname>, <given-names>H.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kytölä</surname>, <given-names>P.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Pakarinen</surname>, <given-names>S.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mäkikangas</surname>, <given-names>A.</given-names>
+</string-name> &amp; <string-name name-style="western">
+<surname>Mauno</surname>, <given-names>S.</given-names>
+</string-name> (<year>2024</year>) <article-title>Associations of continuous electrodermal activity with job burnout and work engagement</article-title>. <source>Electronic Journal</source>. Preprint.</mixed-citation></ref><ref id="cpf70037-bib-0051"><mixed-citation publication-type="journal" id="cpf70037-cit-0051">
+<string-name name-style="western">
+<surname>Saunders</surname>, <given-names>C.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sperling</surname>, <given-names>S.</given-names>
+</string-name> &amp; <string-name name-style="western">
+<surname>Bendstrup</surname>, <given-names>E.</given-names>
+</string-name> (<year>2023</year>) <article-title>A new paradigm is needed to explain long COVID</article-title>. <source>The Lancet Respiratory Medicine</source>, <volume>11</volume>, <fpage>e12</fpage>–<lpage>e13</lpage>.<pub-id pub-id-type="pmid">36620963</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/S2213-2600(22)00501-X</pub-id></mixed-citation></ref><ref id="cpf70037-bib-0052"><mixed-citation publication-type="journal" id="cpf70037-cit-0052">
+<string-name name-style="western">
+<surname>Schiweck</surname>, <given-names>C.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lutin</surname>, <given-names>E.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>De Raedt</surname>, <given-names>W.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cools</surname>, <given-names>O.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Coppens</surname>, <given-names>V.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Morrens</surname>, <given-names>M.</given-names>
+</string-name> et al. (<year>2021</year>) <article-title>Twenty‐four‐hour heart rate is a trait but not state marker for depression in a pilot randomized controlled trial with a single infusion of ketamine</article-title>. <source>Frontiers in Psychiatry</source>, <volume>12</volume>, <elocation-id>696170</elocation-id>.<pub-id pub-id-type="pmid">34393856</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3389/fpsyt.2021.696170</pub-id><pub-id pub-id-type="pmcid">PMC8358607</pub-id></mixed-citation></ref><ref id="cpf70037-bib-0053"><mixed-citation publication-type="journal" id="cpf70037-cit-0053">
+<string-name name-style="western">
+<surname>Seeley</surname>, <given-names>M.‐C.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gallagher</surname>, <given-names>C.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ong</surname>, <given-names>E.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Langdon</surname>, <given-names>A.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chieng</surname>, <given-names>J.</given-names>
+</string-name> &amp; <string-name name-style="western">
+<surname>Bailey</surname>, <given-names>D.</given-names>
+</string-name> (<year>2023</year>) <article-title>High incidence of autonomic dysfunction and postural orthostatic tachycardia syndrome in patients with long COVID: implications for management and health care planning</article-title>. <source>The American Journal of Medicine</source>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.amjmed.2023.06.010</pub-id><pub-id pub-id-type="pmcid">PMC10307671</pub-id><pub-id pub-id-type="pmid">37391116</pub-id></mixed-citation></ref><ref id="cpf70037-bib-0054"><mixed-citation publication-type="journal" id="cpf70037-cit-0054">
+<string-name name-style="western">
+<surname>Ser</surname>, <given-names>M.H.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Çalıkuşu</surname>, <given-names>F.Z.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tanrıverdi</surname>, <given-names>U.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Abbaszade</surname>, <given-names>H.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hakyemez</surname>, <given-names>S.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Balkan</surname>, <given-names>İ.İ.</given-names>
+</string-name> et al. (<year>2022</year>) <article-title>Autonomic and neuropathic complaints of long‐COVID objectified: an investigation from electrophysiological perspective</article-title>. <source>Neurological Science</source>, <volume>43</volume>, <fpage>6167</fpage>–<lpage>6177</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s10072-022-06350-y</pub-id><pub-id pub-id-type="pmcid">PMC9395948</pub-id><pub-id pub-id-type="pmid">35994135</pub-id></mixed-citation></ref><ref id="cpf70037-bib-0055"><mixed-citation publication-type="journal" id="cpf70037-cit-0055">
+<string-name name-style="western">
+<surname>Shouman</surname>, <given-names>K.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Vanichkachorn</surname>, <given-names>G.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cheshire</surname>, <given-names>W.P.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Suarez</surname>, <given-names>M.D.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Shelly</surname>, <given-names>S.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lamotte</surname>, <given-names>G.J.</given-names>
+</string-name> et al. (<year>2021</year>) <article-title>Autonomic dysfunction following COVID‐19 infection: an early experience</article-title>. <source>Clinical Autonomic Research</source>, <volume>31</volume>, <fpage>385</fpage>–<lpage>394</lpage>.<pub-id pub-id-type="pmid">33860871</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s10286-021-00803-8</pub-id><pub-id pub-id-type="pmcid">PMC8050227</pub-id></mixed-citation></ref><ref id="cpf70037-bib-0056"><mixed-citation publication-type="journal" id="cpf70037-cit-0056">
+<string-name name-style="western">
+<surname>Siddique</surname>, <given-names>R.F.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ahmed</surname>, <given-names>O.</given-names>
+</string-name> &amp; <string-name name-style="western">
+<surname>Hossain</surname>, <given-names>K.N.</given-names>
+</string-name> (<year>2021</year>) <article-title>Relationship between the fear of COVID‐19 disease and sleep quality: the mediating role of stress</article-title>. <source>Heliyon</source>, <volume>7</volume>, <elocation-id>e07033</elocation-id>.<pub-id pub-id-type="pmid">34027200</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.heliyon.2021.e07033</pub-id><pub-id pub-id-type="pmcid">PMC8123159</pub-id></mixed-citation></ref><ref id="cpf70037-bib-0057"><mixed-citation publication-type="journal" id="cpf70037-cit-0057">
+<string-name name-style="western">
+<surname>Somers</surname>, <given-names>V.K.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Dyken</surname>, <given-names>M.E.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mark</surname>, <given-names>A.L.</given-names>
+</string-name> &amp; <string-name name-style="western">
+<surname>Abboud</surname>, <given-names>F.M.</given-names>
+</string-name> (<year>1993</year>) <article-title>Sympathetic‐nerve activity during sleep in normal subjects</article-title>. <source>New England Journal of Medicine</source>, <volume>328</volume>, <fpage>303</fpage>–<lpage>307</lpage>.<pub-id pub-id-type="pmid">8419815</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1056/NEJM199302043280502</pub-id></mixed-citation></ref><ref id="cpf70037-bib-0058"><mixed-citation publication-type="journal" id="cpf70037-cit-0058">
+<string-name name-style="western">
+<surname>Stute</surname>, <given-names>N.L.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Szeghy</surname>, <given-names>R.E.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Stickford</surname>, <given-names>J.L.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Provinde</surname>, <given-names>V.P.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Augenreich</surname>, <given-names>M.A.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ratchford</surname>, <given-names>S.M.</given-names>
+</string-name> et al. (<year>2022</year>) <article-title>Longitudinal observations of sympathetic neural activity and hemodynamics during 6 months recovery from <sc>sars‐cov</sc>‐2 infection</article-title>. <source>Physiological Reports</source>, <volume>10</volume>, <elocation-id>e15423</elocation-id>.<pub-id pub-id-type="pmid">36151607</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.14814/phy2.15423</pub-id><pub-id pub-id-type="pmcid">PMC9508384</pub-id></mixed-citation></ref><ref id="cpf70037-bib-0059"><mixed-citation publication-type="journal" id="cpf70037-cit-0059">
+<string-name name-style="western">
+<surname>Szekely</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lichter</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sadon</surname>, <given-names>S.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lupu</surname>, <given-names>L.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Taieb</surname>, <given-names>P.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Banai</surname>, <given-names>A.</given-names>
+</string-name> et al. (<year>2021</year>) <article-title>Cardiorespiratory abnormalities in patients recovering from coronavirus disease 2019</article-title>. <source>Journal of the American Society of Echocardiography</source>, <volume>34</volume>, <fpage>1273</fpage>–<lpage>1284</lpage>.<pub-id pub-id-type="pmid">34508837</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.echo.2021.08.022</pub-id><pub-id pub-id-type="pmcid">PMC8425293</pub-id></mixed-citation></ref><ref id="cpf70037-bib-0060"><mixed-citation publication-type="journal" id="cpf70037-cit-0060">
+<string-name name-style="western">
+<surname>Thulesius</surname>, <given-names>O.</given-names>
+</string-name> (<year>1976</year>) <article-title>Pathophysiological classification and diagnosis of orthostatic hypotension</article-title>. <source>Cardiology</source>, <volume>61</volume>, <fpage>180</fpage>–<lpage>190</lpage>.<pub-id pub-id-type="pmid">788906</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1159/000169809</pub-id></mixed-citation></ref><ref id="cpf70037-bib-0061"><mixed-citation publication-type="book" id="cpf70037-cit-0061">
+<string-name name-style="western">
+<surname>Torniainen</surname>, <given-names>J.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cowley</surname>, <given-names>B.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Henelius</surname>, <given-names>A.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lukander</surname>, <given-names>K.</given-names>
+</string-name> &amp; <string-name name-style="western">
+<surname>Pakarinen</surname>, <given-names>S</given-names>
+</string-name>. (<year>2015</year>) <part-title>Feasibility of an electrodermal activity ring prototype as a research tool</part-title>. In: <source>IEEE Transactions on Medical Imaging</source>, <fpage>6433</fpage>–<lpage>6436</lpage>. <publisher-name>IEEE, Milan</publisher-name>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1109/EMBC.2015.7319865</pub-id><pub-id pub-id-type="pmid">26737765</pub-id></mixed-citation></ref><ref id="cpf70037-bib-0062"><mixed-citation publication-type="book" id="cpf70037-cit-0062">
+<string-name name-style="western">
+<surname>Townsend</surname>, <given-names>L.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Moloney</surname>, <given-names>D.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Finucane</surname>, <given-names>C.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>McCarthy</surname>, <given-names>K.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bergin</surname>, <given-names>C.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bannan</surname>, <given-names>C</given-names>
+</string-name>. et al. (<year>2021</year>) <part-title>Fatigue following COVID‐19 infection is not associated with autonomic dysfunction</part-title>. In: <person-group person-group-type="editor">
+<string-name name-style="western">
+<surname>Palazón‐Bru</surname>, <given-names>A.</given-names>
+</string-name>
+</person-group>, ed. <source>PLOS ONE</source>, <volume>16</volume>. <publisher-name>Public Library of Science (PLoS)</publisher-name>. <elocation-id>e0247280</elocation-id>.<pub-id pub-id-type="pmid">33630906</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1371/journal.pone.0247280</pub-id><pub-id pub-id-type="pmcid">PMC7906457</pub-id></mixed-citation></ref><ref id="cpf70037-bib-0063"><mixed-citation publication-type="journal" id="cpf70037-cit-0063">
+<string-name name-style="western">
+<surname>White</surname>, <given-names>E.C.</given-names>
+</string-name> &amp; <string-name name-style="western">
+<surname>Graham</surname>, <given-names>B.M.</given-names>
+</string-name> (<year>2016</year>) <article-title>Estradiol levels in women predict skin conductance response but not valence and expectancy ratings in conditioned fear extinction</article-title>. <source>Neurobiology of Learning and Memory</source>, <volume>134</volume>, <fpage>339</fpage>–<lpage>348</lpage>.<pub-id pub-id-type="pmid">27544848</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.nlm.2016.08.011</pub-id></mixed-citation></ref><ref id="cpf70037-bib-0064"><mixed-citation publication-type="journal" id="cpf70037-cit-0064">
+<string-name name-style="western">
+<surname>Zanoli</surname>, <given-names>L.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gaudio</surname>, <given-names>A.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mikhailidis</surname>, <given-names>D.P.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Katsiki</surname>, <given-names>N.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Castellino</surname>, <given-names>N.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lo Cicero</surname>, <given-names>L.</given-names>
+</string-name> et al. (<year>2022</year>) <article-title>Vascular Dysfunction of COVID‐19 Is Partially Reverted in the Long‐Term</article-title>. <source>Circulation Research</source>, <volume>130</volume>, <fpage>1276</fpage>–<lpage>1285</lpage>.<pub-id pub-id-type="pmid">35345906</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1161/CIRCRESAHA.121.320460</pub-id></mixed-citation></ref><ref id="cpf70037-bib-0065"><mixed-citation publication-type="journal" id="cpf70037-cit-0065">
+<string-name name-style="western">
+<surname>Zapalac</surname>, <given-names>K.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Miller</surname>, <given-names>M.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Champagne</surname>, <given-names>F.A.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Schnyer</surname>, <given-names>D.M.</given-names>
+</string-name> &amp; <string-name name-style="western">
+<surname>Baird</surname>, <given-names>B.</given-names>
+</string-name> (<year>2024</year>) <article-title>The effects of physical activity on sleep architecture and mood in naturalistic environments</article-title>. <source>Scientific Reports</source>, <volume>14</volume>, <fpage>5637</fpage>.<pub-id pub-id-type="pmid">38454070</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41598-024-56332-7</pub-id><pub-id pub-id-type="pmcid">PMC10920876</pub-id></mixed-citation></ref></ref-list></back></article></pmc-articleset>

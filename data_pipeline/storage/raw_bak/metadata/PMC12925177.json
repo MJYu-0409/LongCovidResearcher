@@ -1,0 +1,33 @@
+{
+  "pmcid": "PMC12925177",
+  "pmid": "41732704",
+  "doi": "10.1016/j.lana.2026.101401",
+  "title": "Mapping spatial and social inequities of long COVID across the United States: a retrospective cohort study.",
+  "abstract": "BACKGROUND: Long COVID affects a substantial portion of the U.S. population. The emergence of the Omicron variant and persistent sociodemographic disparities may contribute to temporal and regional variation in long COVID risk. However, such spatiotemporal variation and related social determinants remain poorly characterized. This study aimed to examine spatiotemporal patterns of county-level long COVID incidence and to identify sociodemographic factors associated with these patterns before and after the emergence of the Omicron variant.\nMETHODS: This retrospective study utilized data from the National COVID Cohort Collaborative (N3C), covering 5,652,474 COVID-19 cases from 2020 to 2024 and 41,694 long COVID cases across 1063 U.S. counties from 2021 to 2024. Temporal patterns of long COVID were analyzed before and after the Omicron variant's emergence, and spatial patterns were assessed using Moran's I and Getis statistics. Bayesian spatial random effect models were employed to evaluate the associations between long COVID incidence and sociodemographic factors such as economic vulnerability, healthcare access, and mobility.\nFINDINGS: Among 4,070,879 COVID-19 cases analyzed, quarterly long COVID incidence ranged from 0.015% to 14.29%. Before the emergence of the Omicron variant, incidence was 204 cases per 10,000 COVID-19 cases, compared with 248 cases per 10,000 COVID-19 cases after Omicron emergence (p < 0.001). Based on the Local Moran's I statistic, 48.8% (328 of 673) of counties showed significant spatial correlation (p < 0.05) after Omicron's emergence, up from 43.5% (293 of 673) prior. High-risk areas became more concentrated in inland regions, while low-risk areas clustered along the East Coast. Long COVID incidence was significantly associated with economic vulnerability, limited healthcare access, and mobility constraints, with these sociodemographic disparities consistently driving its spatial disparities over time. Subregional analyses revealed distinct regional differences in social drivers.\nINTERPRETATION: These findings highlight pronounced spatiotemporal and regional disparities in long COVID incidence across the United States. Targeted public health interventions, particularly in economically and geographically vulnerable regions, are essential to ensure equitable access to diagnosis, care, and resource allocation.\nFUNDING: National Center for Advancing Translational Sciences; National Institutes of Health; National Science Foundation.",
+  "authors": [
+    "Zhetao Chen",
+    "Bingnan Li",
+    "Yewen Chen",
+    "Jialing Liu",
+    "Fangzhi Luo",
+    "Kehinde Olawale Ogunyemi",
+    "Yang Ge",
+    "Yuan Ke",
+    "Yang Yang",
+    "Xianyan Chen",
+    "Ye Shen"
+  ],
+  "journal": "Lancet regional health. Americas",
+  "pub_year": "2026",
+  "pub_month": "Apr",
+  "pub_day": "13",
+  "keywords": [
+    "Long COVID",
+    "Public health",
+    "Spatial and social inequities",
+    "Spatiotemporal disparities"
+  ],
+  "article_types": [
+    "Journal Article"
+  ]
+}

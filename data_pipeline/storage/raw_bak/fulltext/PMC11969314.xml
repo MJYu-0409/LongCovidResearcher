@@ -1,0 +1,1344 @@
+<?xml version="1.0"  ?><!DOCTYPE pmc-articleset PUBLIC "-//NLM//DTD ARTICLE SET 2.0//EN" "https://dtd.nlm.nih.gov/ncbi/pmc/articleset/nlm-articleset-2.0.dtd"><pmc-articleset><article id="all16526" xml:lang="en" article-type="review-article" dtd-version="1.4"><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">Allergy</journal-id><journal-id journal-id-type="iso-abbrev">Allergy</journal-id><journal-id journal-id-type="pmc-domain-id">379</journal-id><journal-id journal-id-type="pmc-domain">blackwellopen</journal-id><journal-id journal-id-type="publisher-id">ALL</journal-id><journal-title-group><journal-title>Allergy</journal-title></journal-title-group><issn pub-type="ppub">0105-4538</issn><issn pub-type="epub">1398-9995</issn><custom-meta-group><custom-meta><meta-name>pmc-is-collection-domain</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-collection-title</meta-name><meta-value>Wiley Open Access Collection</meta-value></custom-meta></custom-meta-group></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC11969314</article-id><article-id pub-id-type="pmcid-ver">PMC11969314.1</article-id><article-id pub-id-type="pmcaid">11969314</article-id><article-id pub-id-type="pmcaiid">11969314</article-id><article-id pub-id-type="pmid">40084919</article-id><article-id pub-id-type="doi">10.1111/all.16526</article-id><article-id pub-id-type="publisher-id">ALL16526</article-id><article-id pub-id-type="other">ALL-2024-00772.R2</article-id><article-version article-version-type="pmc-version">1</article-version><article-categories><subj-group subj-group-type="overline"><subject>Review</subject></subj-group><subj-group subj-group-type="heading"><subject>Review</subject></subj-group></article-categories><title-group><article-title>The Omics Landscape of Long <styled-content style="fixed-case" toggle="no">COVID</styled-content>—A Comprehensive Systematic Review to Advance Biomarker, Target and Drug Discovery</article-title></title-group><contrib-group><contrib id="all16526-cr-0001" contrib-type="author" corresp="yes"><name name-style="western"><surname>Baalbaki</surname><given-names initials="N">Nadia</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-8188-7760</contrib-id><xref rid="all16526-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="all16526-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref><xref rid="all16526-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref><address><email>n.baalbaki@amsterdamumc.nl</email></address></contrib><contrib id="all16526-cr-0002" contrib-type="author"><name name-style="western"><surname>Slob</surname><given-names initials="EMA">Elise M. A.</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-8411-7825</contrib-id><xref rid="all16526-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="all16526-aff-0004" ref-type="aff">
+<sup>4</sup>
+</xref><xref rid="all16526-aff-0005" ref-type="aff">
+<sup>5</sup>
+</xref></contrib><contrib id="all16526-cr-0003" contrib-type="author"><name name-style="western"><surname>Kazer</surname><given-names initials="SW">Samuel W.</given-names></name><xref rid="all16526-aff-0006" ref-type="aff">
+<sup>6</sup>
+</xref><xref rid="all16526-aff-0007" ref-type="aff">
+<sup>7</sup>
+</xref><xref rid="all16526-aff-0008" ref-type="aff">
+<sup>8</sup>
+</xref><xref rid="all16526-aff-0009" ref-type="aff">
+<sup>9</sup>
+</xref></contrib><contrib id="all16526-cr-0004" contrib-type="author"><name name-style="western"><surname>I Abdel‐Aziz</surname><given-names initials="M">Mahmoud</given-names></name><xref rid="all16526-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="all16526-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref><xref rid="all16526-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref><xref rid="all16526-aff-0010" ref-type="aff">
+<sup>10</sup>
+</xref></contrib><contrib id="all16526-cr-0005" contrib-type="author"><name name-style="western"><surname>Bogaard</surname><given-names initials="HJ">Harm Jan</given-names></name><xref rid="all16526-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="all16526-aff-0011" ref-type="aff">
+<sup>11</sup>
+</xref></contrib><contrib id="all16526-cr-0006" contrib-type="author"><name name-style="western"><surname>Golebski</surname><given-names initials="K">Korneliusz</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-4685-4592</contrib-id><xref rid="all16526-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="all16526-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref><xref rid="all16526-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref></contrib><contrib id="all16526-cr-0007" contrib-type="author" corresp="yes"><name name-style="western"><surname>Maitland‐van der Zee</surname><given-names initials="AH">Anke H.</given-names></name><xref rid="all16526-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="all16526-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref><xref rid="all16526-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref><address><email>a.h.maitland@amsterdamumc.nl</email></address></contrib></contrib-group><aff id="all16526-aff-0001">
+<label>
+<sup>1</sup>
+</label>
+<named-content content-type="organisation-division">Department of Pulmonary Medicine</named-content>
+<institution>Amsterdam UMC</institution>
+<city>Amsterdam</city>
+<country country="NL">the Netherlands</country>
+</aff><aff id="all16526-aff-0002">
+<label>
+<sup>2</sup>
+</label>
+<institution>Amsterdam Institute for Infection and Immunity</institution>
+<city>Amsterdam</city>
+<country country="NL">the Netherlands</country>
+</aff><aff id="all16526-aff-0003">
+<label>
+<sup>3</sup>
+</label>
+<institution>Amsterdam Public Health</institution>
+<city>Amsterdam</city>
+<country country="NL">the Netherlands</country>
+</aff><aff id="all16526-aff-0004">
+<label>
+<sup>4</sup>
+</label>
+<named-content content-type="organisation-division">Department of Clinical Pharmacy</named-content>
+<institution>Haaglanden Medical Centre</institution>
+<city>The Hague</city>
+<country country="NL">the Netherlands</country>
+</aff><aff id="all16526-aff-0005">
+<label>
+<sup>5</sup>
+</label>
+<named-content content-type="organisation-division">Department of Clinical Pharmacy and Toxicology</named-content>
+<institution>Leiden University Medical Center</institution>
+<city>Leiden</city>
+<country country="NL">the Netherlands</country>
+</aff><aff id="all16526-aff-0006">
+<label>
+<sup>6</sup>
+</label>
+<named-content content-type="organisation-division">Division of Gastroenterology, Hepatology, and Nutrition</named-content>
+<institution>Boston Children's Hospital</institution>
+<city>Boston</city>
+<named-content content-type="country-part">Massachusetts</named-content>
+<country country="US">USA</country>
+</aff><aff id="all16526-aff-0007">
+<label>
+<sup>7</sup>
+</label>
+<named-content content-type="organisation-division">Department of Immunology</named-content>
+<institution>Blavatnik Institute, Harvard Medical School</institution>
+<city>Boston</city>
+<named-content content-type="country-part">Massachusetts</named-content>
+<country country="US">USA</country>
+</aff><aff id="all16526-aff-0008">
+<label>
+<sup>8</sup>
+</label>
+<institution>Broad Institute of MIT and Harvard</institution>
+<city>Cambridge</city>
+<named-content content-type="country-part">Massachusetts</named-content>
+<country country="US">USA</country>
+</aff><aff id="all16526-aff-0009">
+<label>
+<sup>9</sup>
+</label>
+<institution>Ragon Institute of MGH, MIT and Harvard</institution>
+<city>Cambridge</city>
+<named-content content-type="country-part">Massachusetts</named-content>
+<country country="US">USA</country>
+</aff><aff id="all16526-aff-0010">
+<label>
+<sup>10</sup>
+</label>
+<named-content content-type="organisation-division">Department of Clinical Pharmacy</named-content>
+<institution>Faculty of Pharmacy, Assiut University</institution>
+<city>Assiut</city>
+<country country="EG">Egypt</country>
+</aff><aff id="all16526-aff-0011">
+<label>
+<sup>11</sup>
+</label>
+<named-content content-type="organisation-division">Amsterdam Cardiovascular Sciences Research Institute</named-content>
+<institution>Amsterdam UMC</institution>
+<city>Amsterdam</city>
+<country country="NL">the Netherlands</country>
+</aff><author-notes><corresp id="correspondenceTo">
+<label>*</label>
+<bold>Correspondence:</bold>
+<break/>
+Nadia Baalbaki (<email>n.baalbaki@amsterdamumc.nl</email>)<break/>
+Anke H. Maitland‐van der Zee (<email>a.h.maitland@amsterdamumc.nl</email>)<break/>
+</corresp></author-notes><pub-date pub-type="epub"><day>14</day><month>3</month><year>2025</year></pub-date><pub-date pub-type="ppub"><month>4</month><year>2025</year></pub-date><volume>80</volume><issue seq="60">4</issue><issue-id pub-id-type="pmc-issue-id">485977</issue-id><issue-id pub-id-type="doi">10.1111/all.v80.4</issue-id><fpage>932</fpage><lpage>948</lpage><history><date date-type="rev-recd"><day>17</day><month>2</month><year>2025</year></date><date date-type="received"><day>17</day><month>7</month><year>2024</year></date><date date-type="accepted"><day>06</day><month>3</month><year>2025</year></date></history><pub-history><event event-type="pmc-release"><date><day>04</day><month>04</month><year>2025</year></date></event><event event-type="pmc-live"><date><day>05</day><month>04</month><year>2025</year></date></event><event event-type="pmc-last-change"><date iso-8601-date="2025-04-05 00:25:25.627"><day>05</day><month>04</month><year>2025</year></date></event></pub-history><permissions><copyright-statement content-type="article-copyright">© 2025 The Author(s). <italic toggle="yes">Allergy</italic> published by European Academy of Allergy and Clinical Immunology and John Wiley &amp; Sons Ltd.</copyright-statement><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>This is an open access article under the terms of the <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pmc-pdf" xlink:href="ALL-80-932.pdf"/><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pdf" xlink:href="file:ALL-80-932.pdf"/><abstract><title>ABSTRACT</title><p>An estimated 10% of coronavirus disease (COVID‐19) survivors suffer from persisting symptoms referred to as long COVID (LC), a condition for which approved treatment options are still lacking. This systematic review (PROSPERO: CRD42024499281) aimed to explore the pathophysiological mechanisms underlying LC and potential treatable traits across symptom‐based phenotypes. We included studies with primary data, written in English, focusing on omics analyses of human samples from LC patients with persistent symptoms of at least 3 months. Our search in PubMed and Embase, conducted on January 8, 2024, identified 642 studies, of which 29 met the inclusion criteria after full‐text assessment. The risk of bias was evaluated using the Joanna Briggs Institute appraisal tool. The synthesis of omics data, including genomics, transcriptomics, proteomics, metabolomics, and metagenomics, revealed common findings associated with fatigue, cardiovascular, pulmonary, neurological, and gastrointestinal phenotypes. Key findings included mitochondrial dysfunction, dysregulated microRNAs associated with pulmonary dysfunction, tissue impairment, blood–brain barrier disruption, coagulopathy, vascular dysfunction, microbiome disturbances, microbial‐derived metabolite production and persistent inflammation. Limitations include cross‐study heterogeneity and variability in sampling methods. Our review emphasizes the complexity of LC and the need for further longitudinal omics‐integrated studies to advance the development of biomarkers and targeted treatments.</p></abstract><kwd-group kwd-group-type="author-generated"><kwd id="all16526-kwd-0001">long COVID</kwd><kwd id="all16526-kwd-0002">multi‐omics</kwd><kwd id="all16526-kwd-0003">phenotypes</kwd><kwd id="all16526-kwd-0004">post‐acute sequelae of COVID‐19</kwd><kwd id="all16526-kwd-0005">post‐viral condition</kwd></kwd-group><funding-group><award-group id="funding-0001"><funding-source><institution-wrap><institution>Health~Holland
+</institution><institution-id institution-id-type="doi">10.13039/100016036</institution-id></institution-wrap></funding-source></award-group></funding-group><counts><fig-count count="4"/><table-count count="1"/><page-count count="17"/><word-count count="9300"/></counts><custom-meta-group><custom-meta><meta-name>pmc-status-qastatus</meta-name><meta-value>0</meta-value></custom-meta><custom-meta><meta-name>pmc-status-live</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-status-embargo</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-status-released</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-access</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-legally-suppressed</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-pdf</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-supplement</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-pdf-only</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-suppress-copyright</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-real-version</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-scanned-article</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-in-epmc</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-license-ref</meta-name><meta-value>CC BY</meta-value></custom-meta><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>April 2025</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:6.5.4 mode:remove_FC converted:04.04.2025</meta-value></custom-meta></custom-meta-group></article-meta><notes><fn-group id="all16526-ntgp-0001"><fn fn-type="funding" id="all16526-note-0001"><p>
+<bold>Funding:</bold> This study was funded by Health‐Holland, Top Sector Life Sciences &amp; Health (LSHM20104; LSHM20068).</p></fn></fn-group></notes></front><body id="all16526-body-0001"><sec id="all16526-sec-0001"><label>1</label><title>Introduction</title><p>Coronavirus disease (COVID‐19) caused the most recent pandemic with high incidence and mortality rates. While today the virus seems to cause less severe disease, the long‐term health effects persist [<xref rid="all16526-bib-0001" ref-type="bibr">1</xref>]. Chronic symptoms post‐infection, known as Long COVID (LC), post‐acute sequelae of COVID‐19, or post‐COVID‐19 condition manifest in ~10% of COVID‐19 cases [<xref rid="all16526-bib-0002" ref-type="bibr">2</xref>]. Most LC patients, despite negative polymerase chain reaction (PCR) tests, experience delayed recovery [<xref rid="all16526-bib-0003" ref-type="bibr">3</xref>]. A clear definition of LC is lacking, although the World Health Organization (WHO) describes it as symptoms lasting for &gt; 12 weeks post‐infection, but it is also described as the persistence of at least one symptom for more than 4 weeks after the clearance of SARS‐CoV‐2 without the presence of an alternative diagnosis [<xref rid="all16526-bib-0004" ref-type="bibr">4</xref>, <xref rid="all16526-bib-0005" ref-type="bibr">5</xref>].</p><p>LC is multi‐systemic, affecting multiple organs, resulting in a broad array of symptoms that can be categorized into fatigue, respiratory, neurological, cardiovascular and gastrointestinal complaints [<xref rid="all16526-bib-0006" ref-type="bibr">6</xref>, <xref rid="all16526-bib-0007" ref-type="bibr">7</xref>, <xref rid="all16526-bib-0008" ref-type="bibr">8</xref>]. Globally, observational studies aim to elucidate LC mechanisms and identify treatable traits [<xref rid="all16526-bib-0006" ref-type="bibr">6</xref>, <xref rid="all16526-bib-0007" ref-type="bibr">7</xref>, <xref rid="all16526-bib-0008" ref-type="bibr">8</xref>], but clinical trials and efforts to repurpose drugs remain limited, while treatment options are desperately needed [<xref rid="all16526-bib-0009" ref-type="bibr">9</xref>, <xref rid="all16526-bib-0010" ref-type="bibr">10</xref>].</p><p>LC's complexity and heterogeneity demonstrate the need for precision medicine, requiring an understanding of the interplay of biomolecules. The analysis of various biological molecules in large quantities simultaneously has revolutionized our ability to gain deep knowledge in biological systems on many scales. Combined data from various omics layers, including the (epi)genome, transcriptome, proteome, metabolome, and metagenome, could provide novel insights into the pathophysiology of LC, in association with the reported symptoms or phenotypes. This integrated knowledge holds the potential to drive target and drug discovery efforts that can ultimately be translated to personalized prevention and treatment strategies in LC. However, assessing large‐scale multi‐omics data is challenging and requires multidisciplinary approaches [<xref rid="all16526-bib-0011" ref-type="bibr">11</xref>, <xref rid="all16526-bib-0012" ref-type="bibr">12</xref>, <xref rid="all16526-bib-0013" ref-type="bibr">13</xref>]. The objective of this study was to systematically review the literature to assess how omics‐based analyses across various symptom‐based phenotypes contribute to understanding pathophysiological mechanisms and identifying potential biomarkers and treatable traits relevant to precision medicine in LC patients compared with recovered individuals or healthy controls.</p></sec><sec sec-type="methods" id="all16526-sec-0002"><label>2</label><title>Methods</title><sec id="all16526-sec-0003"><label>2.1</label><title>Protocol and Registration</title><p>Prior to the start of this systematic review, a detailed protocol was developed and registered with the International Prospective Register of Systematic Reviews. (PROSPERO, CRD42024499281). This review was conducted following a protocol in accordance with the PRISMA 2020 statement [<xref rid="all16526-bib-0014" ref-type="bibr">14</xref>].</p></sec><sec id="all16526-sec-0004"><label>2.2</label><title>Search Strategy</title><p>Initial, limited searches were performed in PubMed to identify relevant key words and index terms, which resulted in the final search term (Figure <xref rid="all16526-supitem-0001" ref-type="supplementary-material">S1</xref>). The search syntax was then adapted for Embase (Figure <xref rid="all16526-supitem-0001" ref-type="supplementary-material">S2</xref>). The final search was performed by N.B.</p></sec><sec id="all16526-sec-0005"><label>2.3</label><title>Inclusion and Exclusion Criteria</title><p>The inclusion criteria for papers were: (1) LC defined as the persistence of symptoms post‐COVID for at least 3 months, consistent with the WHO definition [<xref rid="all16526-bib-0015" ref-type="bibr">15</xref>], (2) inclusion of primary data, (3) omics analyses had to be based on human samples, and (4) subjects had to be alive at the time of sample collection.</p><p>Exclusion criteria for papers were: (1) not written in English, (2) abstracts only, (3) preprints, and (4) retracted papers. Studies identified through the systematic search underwent title, abstract screening, and full‐text eligibility assessment, performed by N.B. and EMAS, after which relevant studies were included in this systematic review. There were no restrictions concerning study criteria for group sizes or study design.</p></sec><sec id="all16526-sec-0006"><label>2.4</label><title>Quality and Risk of Bias Assessment</title><p>Following title and abstract screening, a quality and risk of bias assessment was performed independently by two reviewers (N.B. and E.M.A.S.), using the 2020 revised critical appraisal instruments from the Joanna Briggs Institute [<xref rid="all16526-bib-0016" ref-type="bibr">16</xref>]. Disagreements were discussed with a third reviewer (K.G.).</p></sec><sec id="all16526-sec-0007"><label>2.5</label><title>Data Extraction</title><p>Data extraction was conducted systematically by two independent reviewers (N.B. and E.M.A.S.) to ensure consistency and accuracy, with discrepancies resolved through discussion or consultation with a third reviewer (K.G.). For each study, we extracted data on the lead author, publication year, study design, patient characteristics, sample size per group, biological sample type (such as blood, urine etc.), timeframe for LC (in months post‐infection), omics layers, sample collection time points (post‐infection), outcome parameters (omics outcomes such as pathways and other parameters such as cytokine measurements or medical data) and omics analysis platforms. Findings were categorized by the omics layers, such as genomics, transcriptomics, proteomics, metabolomics, or metagenomics. Longitudinal data were extracted where applicable, and we considered whether studies controlled for confounding factors.</p></sec><sec id="all16526-sec-0008"><label>2.6</label><title>Data Analysis, Synthesis and Reporting</title><p>Data analysis, led by N.B. and reviewed with the team, systematically synthesized omics findings on LC. A qualitative synthesis identified recurring themes, patterns, and trends across omics layers, categorized by common LC symptom‐based phenotypes. While the classification of symptom‐based phenotypes may be somewhat arbitrary, we focused on key categories frequently mentioned in relation to LC symptoms, including fatigue, pulmonary, neurological, cardiovascular, and gastrointestinal symptoms [<xref rid="all16526-bib-0006" ref-type="bibr">6</xref>, <xref rid="all16526-bib-0007" ref-type="bibr">7</xref>, <xref rid="all16526-bib-0008" ref-type="bibr">8</xref>, <xref rid="all16526-bib-0017" ref-type="bibr">17</xref>, <xref rid="all16526-bib-0018" ref-type="bibr">18</xref>]. Results were presented in tables, figures, and narrative summaries to provide a comprehensive overview of omics signatures in LC, outlining key findings, implications, and recommendations for future research.</p></sec></sec><sec sec-type="results" id="all16526-sec-0009"><label>3</label><title>Results</title><p>On 8 January 2024, the search yielded 642 results, all of which were screened for eligibility according to the inclusion and exclusion criteria. Figure <xref rid="all16526-fig-0001" ref-type="fig">1</xref> provides an overview of the number of studies that were found to be suitable for further exploration and analysis, following a critical appraisal (Tables <xref rid="all16526-supitem-0001" ref-type="supplementary-material">S1–S3</xref>). Quality assessment across cross‐sectional, cohort, and case–control studies indicated generally high methodological rigor, with all studies meeting key criteria such as reliable outcome measurement and appropriate statistical analysis. Microbiome studies utilized the shotgun metagenomics technique, which includes the totality of the microbial genomes to study the microbiome. Figure <xref rid="all16526-fig-0002" ref-type="fig">2</xref> provides additional clarification on the studied omics layers. Table <xref rid="all16526-tbl-0001" ref-type="table">1</xref> shows a description of the general characteristics of included studies, and Table <xref rid="all16526-supitem-0001" ref-type="supplementary-material">S4</xref> includes additional extracted data on LC sample collection time points, outcome parameters, and omics analysis platforms.</p><fig position="float" fig-type="FIGURE" id="all16526-fig-0001" orientation="portrait"><label>FIGURE 1</label><caption><p>Flow diagram of included studies in this systematic review according to the PRISMA 2020 statement [<xref rid="all16526-bib-0014" ref-type="bibr">14</xref>].</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-1" orientation="portrait" xlink:href="ALL-80-932-g001.jpg"/></fig><fig position="float" fig-type="FIGURE" id="all16526-fig-0002" orientation="portrait"><label>FIGURE 2</label><caption><p>Omics layers included in this systematic review and the totality of biomolecules that they measure in a biological sample. The arrows illustrate how genomics to metabolomics are connected; DNA undergoes epigenetic modifications regulating gene activity, RNA transcription produces RNA transcripts, which are consequently translated into proteins that perform various cellular functions, ultimately driving metabolic processes and resulting in metabolite production.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-3" orientation="portrait" xlink:href="ALL-80-932-g002.jpg"/></fig><table-wrap position="float" id="all16526-tbl-0001" content-type="TABLE" orientation="portrait"><label>TABLE 1</label><caption><p>General characteristics of the included studies.</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><thead valign="bottom"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="bottom" rowspan="1" colspan="1">Study (lead author, year of publication)</th><th align="center" valign="bottom" rowspan="1" colspan="1">Type of study</th><th align="center" valign="bottom" rowspan="1" colspan="1">Long COVID patient characteristics*</th><th align="center" valign="bottom" rowspan="1" colspan="1">Sample size</th><th align="center" valign="bottom" rowspan="1" colspan="1">Biological sample type for omics analysis</th><th align="center" valign="bottom" rowspan="1" colspan="1">LC timeframe</th><th align="center" valign="bottom" rowspan="1" colspan="1">Omics layer(s)</th></tr></thead><tbody valign="top"><tr><td align="left" colspan="7" valign="top" rowspan="1">2021</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Zhao et al. 2021 [<xref rid="all16526-bib-0019" ref-type="bibr">19</xref>]</td><td align="center" valign="top" rowspan="1" colspan="1">Cross‐sectional</td><td align="center" valign="top" rowspan="1" colspan="1">
+<p>Age, years (mean ± SD): 52 ± 13</p>
+<p>Female, <italic toggle="yes">N</italic> (%): 17 (77%)</p>
+<p>AC disease severity: mild 90.1%, moderate 9.1%, severe 4.5%</p>
+</td><td align="center" valign="top" rowspan="1" colspan="1">
+<p>22 LC</p>
+<p>22 PC</p>
+<p>22 HC</p>
+</td><td align="center" valign="top" rowspan="1" colspan="1">Plasma</td><td align="center" valign="top" rowspan="1" colspan="1">3 months</td><td align="center" valign="top" rowspan="1" colspan="1">Proteomics</td></tr><tr><td align="left" colspan="7" valign="top" rowspan="1">2022</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Liu et al. 2022 [<xref rid="all16526-bib-0020" ref-type="bibr">20</xref>]</td><td align="center" valign="top" rowspan="1" colspan="1">Cohort</td><td align="center" valign="top" rowspan="1" colspan="1">
+<p>Age, years (median, IQR): 48.7 (33–62)</p>
+<p>Female, <italic toggle="yes">N</italic> (%): 46 (56.8%)</p>
+<p>AC disease severity: Asymptomatic 4.9%, Mild 28.4%, Moderate 51.9%, Severe 8.6%, Critical 6.2%</p>
+</td><td align="center" valign="top" rowspan="1" colspan="1">
+<p>81 LC</p>
+<p>106 AC</p>
+<p>68 HC</p>
+</td><td align="center" valign="top" rowspan="1" colspan="1">Feces</td><td align="center" valign="top" rowspan="1" colspan="1">6 months</td><td align="center" valign="top" rowspan="1" colspan="1">Metagenomics</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Kruger et al. 2022 [<xref rid="all16526-bib-0021" ref-type="bibr">21</xref>]</td><td align="center" valign="top" rowspan="1" colspan="1">Cross‐sectional</td><td align="center" valign="top" rowspan="1" colspan="1">
+<p>Age, years (median, range): High responder: 51 (40–60)</p>
+<p>Low responder: 45 (31–58)</p>
+<p>Female, <italic toggle="yes">N</italic> (%): 69 (70%)</p>
+<p>AC disease severity: mild 71%, moderate 5%, severe 17%, 7% unknown</p>
+</td><td align="center" valign="top" rowspan="1" colspan="1">
+<p>99 LC (2 groups)</p>
+<p>23 HC</p>
+</td><td align="center" valign="top" rowspan="1" colspan="1">Plasma (platelet‐poor)</td><td align="center" valign="top" rowspan="1" colspan="1">7 months</td><td align="center" valign="top" rowspan="1" colspan="1">Proteomics</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Ryan et al. 2022 [<xref rid="all16526-bib-0022" ref-type="bibr">22</xref>]</td><td align="center" valign="top" rowspan="1" colspan="1">Cohort</td><td align="center" valign="top" rowspan="1" colspan="1">
+<p>Convalescents including LC</p>
+<p>Age, years (median, range) 58 (23–77)</p>
+<p>Female, <italic toggle="yes">N</italic> (%):</p>
+<p>34 (49%)</p>
+<p>AC disease severity: mild 72%, moderate 10%, severe 10%, critical 8%</p>
+</td><td align="center" valign="top" rowspan="1" colspan="1">
+<p>21 LC</p>
+<p>48 PC</p>
+<p>14 HC</p>
+</td><td align="center" valign="top" rowspan="1" colspan="1">Blood</td><td align="center" valign="top" rowspan="1" colspan="1">6 months</td><td align="center" valign="top" rowspan="1" colspan="1">Transcriptomics</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Vijayakumar et al. 2022 [<xref rid="all16526-bib-0023" ref-type="bibr">23</xref>]</td><td align="center" valign="top" rowspan="1" colspan="1">Cohort</td><td align="center" valign="top" rowspan="1" colspan="1">
+<p>Age, years (median, range): 56.5 (51.3–66.0)</p>
+<p>Female, <italic toggle="yes">N</italic> (%): 8 (21.1%)</p>
+<p>AC disease severity: mild 97.8%</p>
+</td><td align="center" valign="top" rowspan="1" colspan="1">
+<p>38 LC</p>
+<p>29 HC</p>
+</td><td align="center" valign="top" rowspan="1" colspan="1">BAL and plasma</td><td align="center" valign="top" rowspan="1" colspan="1">
+<p>3–6 months</p>
+</td><td align="center" valign="top" rowspan="1" colspan="1">Proteomics</td></tr><tr><td align="left" colspan="7" valign="top" rowspan="1">2023</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Aschman et al. 2023 [<xref rid="all16526-bib-0024" ref-type="bibr">24</xref>]</td><td align="center" valign="top" rowspan="1" colspan="1">Case–control</td><td align="center" valign="top" rowspan="1" colspan="1">
+<p>Age, years, (mean ± SD): 45.1 ± 11.5</p>
+<p>Female, <italic toggle="yes">N</italic> (%): 1 (9%)</p>
+<p>AC disease severity: mild 91%, severe 9%</p>
+</td><td align="center" valign="top" rowspan="1" colspan="1">
+<p>11 LC</p>
+<p>8 C</p>
+<p>8 HC</p>
+</td><td align="center" valign="top" rowspan="1" colspan="1">Vastus lateralis muscle biopsy and serum samples</td><td align="center" valign="top" rowspan="1" colspan="1">6 months</td><td align="center" valign="top" rowspan="1" colspan="1">Transcriptomics, proteomics</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Berezhnoy, et al. 2023 [<xref rid="all16526-bib-0025" ref-type="bibr">25</xref>]</td><td align="center" valign="top" rowspan="1" colspan="1">Cross‐sectional</td><td align="center" valign="top" rowspan="1" colspan="1">
+<p>Age, years, (mean ± SD): 56.9 ± 14.9</p>
+<p>Female, <italic toggle="yes">N</italic> (%): 16 (48.5%)</p>
+</td><td align="center" valign="top" rowspan="1" colspan="1">
+<p>7 AC</p>
+<p>33 LC</p>
+<p>12 PC</p>
+<p>73 HC</p>
+</td><td align="center" valign="top" rowspan="1" colspan="1">Plasma, serum</td><td align="center" valign="top" rowspan="1" colspan="1">3 months</td><td align="center" valign="top" rowspan="1" colspan="1">Metabolomics, proteomics</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Dufrusine, et al. 2023 [<xref rid="all16526-bib-0026" ref-type="bibr">26</xref>]</td><td align="center" valign="top" rowspan="1" colspan="1">Cross‐sectional</td><td align="center" valign="top" rowspan="1" colspan="1">
+<p>Age years (mean ± SD): 62.7 ± 13.2</p>
+<p>Female, <italic toggle="yes">N</italic> (%): 5 (50%)</p>
+<p>AC disease severity: mild–severe</p>
+</td><td align="center" valign="top" rowspan="1" colspan="1">
+<p>10 LC</p>
+<p>30 AC</p>
+<p>25 HC</p>
+</td><td align="center" valign="top" rowspan="1" colspan="1">PBMCs</td><td align="center" valign="top" rowspan="1" colspan="1">3–6 months</td><td align="center" valign="top" rowspan="1" colspan="1">Proteomics</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Guo et al. 2023 [<xref rid="all16526-bib-0027" ref-type="bibr">27</xref>]</td><td align="center" valign="top" rowspan="1" colspan="1">Case–control</td><td align="center" valign="top" rowspan="1" colspan="1">
+<p>Age years (median, IQR): 43.00 (28.00, 50.00)</p>
+<p>Female, <italic toggle="yes">N</italic> (%): 7 (77,8%)</p>
+</td><td align="center" valign="top" rowspan="1" colspan="1">
+<p>9 LC</p>
+<p>14 PC</p>
+</td><td align="center" valign="top" rowspan="1" colspan="1">PBMCs</td><td align="center" valign="top" rowspan="1" colspan="1">3 months</td><td align="center" valign="top" rowspan="1" colspan="1">Metabolomics</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Iosef, et al. 2023 [<xref rid="all16526-bib-0028" ref-type="bibr">28</xref>]</td><td align="center" valign="top" rowspan="1" colspan="1">Cross‐sectional</td><td align="center" valign="top" rowspan="1" colspan="1">
+<p>Age, median (IQR): 61.0 (20.5)</p>
+<p>Female, <italic toggle="yes">N</italic> (%): 10 (45,5%)</p>
+</td><td align="center" valign="top" rowspan="1" colspan="1">
+<p>22 LC</p>
+<p>44 AC</p>
+<p>22 HC</p>
+</td><td align="center" valign="top" rowspan="1" colspan="1">Plasma</td><td align="center" valign="top" rowspan="1" colspan="1">3 months</td><td align="center" valign="top" rowspan="1" colspan="1">Proteomics</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Kazantseva et al., 2023 [<xref rid="all16526-bib-0029" ref-type="bibr">29</xref>]</td><td align="center" valign="top" rowspan="1" colspan="1">Case–control</td><td align="center" valign="top" rowspan="1" colspan="1">
+<p>Age, years (range): 18–25</p>
+<p>Female, <italic toggle="yes">N</italic> (%): 64 (79.0%)</p>
+<p>AC disease severity:mild–moderate disease course</p>
+</td><td align="center" valign="top" rowspan="1" colspan="1">
+<p>81 LC</p>
+<p>225 AC</p>
+<p>61 PC</p>
+<p>111 HC</p>
+</td><td align="center" valign="top" rowspan="1" colspan="1">Blood (leuko‐cytes)</td><td align="center" valign="top" rowspan="1" colspan="1">6–12 months</td><td align="center" valign="top" rowspan="1" colspan="1">Genomics</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Kovarik et al., 2023 [<xref rid="all16526-bib-0030" ref-type="bibr">30</xref>]</td><td align="center" valign="top" rowspan="1" colspan="1">Cross‐sectional</td><td align="center" valign="top" rowspan="1" colspan="1">
+<p>Age, years (mean, range): 33 (21–53)</p>
+<p>Female, <italic toggle="yes">N</italic> (%): 9 (69.2%)</p>
+</td><td align="center" valign="top" rowspan="1" colspan="1">
+<p>13 LC</p>
+<p>13 PC</p>
+<p>12 HC</p>
+</td><td align="center" valign="top" rowspan="1" colspan="1">Plasma</td><td align="center" valign="top" rowspan="1" colspan="1">3 months</td><td align="center" valign="top" rowspan="1" colspan="1">Proteomics, metabolomics</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">López‐Hernández et al. 2023 [<xref rid="all16526-bib-0031" ref-type="bibr">31</xref>]</td><td align="center" valign="top" rowspan="1" colspan="1">Cohort</td><td align="center" valign="top" rowspan="1" colspan="1">
+<p>Age, years (median, Q1‐Q3): 51.5 (43.5–60.8)</p>
+<p>Female, <italic toggle="yes">N</italic> (%): 20 (41.7%)</p>
+<p>AC disease severity: Mild 12.5%, moderate/severe 77%, critical disease 10.4%</p>
+</td><td align="center" valign="top" rowspan="1" colspan="1">
+<p>15 AC</p>
+<p>48 LC</p>
+<p>37 HC</p>
+</td><td align="center" valign="top" rowspan="1" colspan="1">Plasma</td><td align="center" valign="top" rowspan="1" colspan="1">24 months</td><td align="center" valign="top" rowspan="1" colspan="1">Metabolomics</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Mahdi et al. 2023 [<xref rid="all16526-bib-0032" ref-type="bibr">32</xref>]</td><td align="center" valign="top" rowspan="1" colspan="1">Cross‐sectional</td><td align="center" valign="top" rowspan="1" colspan="1">
+<p>Age, years (mean ± SD): LC (POTS): 39 ± 11</p>
+<p>LC: 44 ± 11</p>
+<p>Female, <italic toggle="yes">N</italic> (%): LC (POTS): 19 (95%)</p>
+<p>LC: 22 (100%)</p>
+</td><td align="center" valign="top" rowspan="1" colspan="1">
+<p>20 LC (POTS)</p>
+<p>22 LC</p>
+<p>21 HC</p>
+</td><td align="center" valign="top" rowspan="1" colspan="1">Plasma</td><td align="center" valign="top" rowspan="1" colspan="1">6 months</td><td align="center" valign="top" rowspan="1" colspan="1">Proteomics</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Medori et al. 2023 [<xref rid="all16526-bib-0033" ref-type="bibr">33</xref>]</td><td align="center" valign="top" rowspan="1" colspan="1">Case–control</td><td align="center" valign="top" rowspan="1" colspan="1">
+<p>Age, years: &gt; 18</p>
+<p>Female: NA</p>
+</td><td align="center" valign="top" rowspan="1" colspan="1">
+<p>80 LC</p>
+<p>50 HC</p>
+</td><td align="center" valign="top" rowspan="1" colspan="1">Serum</td><td align="center" valign="top" rowspan="1" colspan="1">6 months</td><td align="center" valign="top" rowspan="1" colspan="1">Proteomics</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Peppercorn et al. 2023 [<xref rid="all16526-bib-0034" ref-type="bibr">34</xref>]</td><td align="center" valign="top" rowspan="1" colspan="1">Cross‐sectional</td><td align="center" valign="top" rowspan="1" colspan="1">
+<p>Age, years (median): 39 Female, <italic toggle="yes">N</italic> (%): 5 (83.3%)</p>
+</td><td align="center" valign="top" rowspan="1" colspan="1">
+<p>6 LC</p>
+<p>9 ME/CFS</p>
+<p>5 HC</p>
+</td><td align="center" valign="top" rowspan="1" colspan="1">PBMCs</td><td align="center" valign="top" rowspan="1" colspan="1">
+<p>12 months</p>
+</td><td align="center" valign="top" rowspan="1" colspan="1">Proteomics</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Sanhueza et al. 2023 [<xref rid="all16526-bib-0035" ref-type="bibr">35</xref>]</td><td align="center" valign="top" rowspan="1" colspan="1">Cohort</td><td align="center" valign="top" rowspan="1" colspan="1">
+<p>Age (years), (SD): CT: 48.9 ± 10.3</p>
+<p>DLCOc: 44.8 ± 10.5</p>
+<p>CT ± DLCOc: 56.8 ± 11.9</p>
+<p>Female, <italic toggle="yes">N</italic> (%): CT:</p>
+<p>9 (39.1%)</p>
+<p>DLCOc: 4 (80%)</p>
+<p>CT ± DLCOc: 8 (57.1%)</p>
+<p>AC disease severity: CT:</p>
+<p>mild 13%, moderate 21.7%, severe/critical 65.2%</p>
+<p>DLCOc: mild 60%, moderate 40%</p>
+<p>CT ± DLCOc: mild 7.1%, moderate 42.8%, severe/critical 50%</p>
+</td><td align="center" valign="top" rowspan="1" colspan="1">
+<p>42 LC (3 groups)</p>
+<p>18 PC</p>
+</td><td align="center" valign="top" rowspan="1" colspan="1">Serum</td><td align="center" valign="top" rowspan="1" colspan="1">4 months</td><td align="center" valign="top" rowspan="1" colspan="1">Proteomics</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Sykes et al. 2023 [<xref rid="all16526-bib-0036" ref-type="bibr">36</xref>]</td><td align="center" valign="top" rowspan="1" colspan="1">Cohort</td><td align="center" valign="top" rowspan="1" colspan="1">
+<p>Age years (mean, SD): 57.1 ± 10.2</p>
+<p>Female, <italic toggle="yes">N</italic> (%): 13 (48%)</p>
+<p>AC disease severity (WHO score): Hospitalized, no oxygen therapy 26%</p>
+<p>Oxygen by mask or nasal prongs 44%</p>
+<p>Non‐invasive ventilation 7%</p>
+<p>Mechanical ventilation 22%</p>
+</td><td align="center" valign="top" rowspan="1" colspan="1">
+<p>27 LC</p>
+<p>10 HC</p>
+</td><td align="center" valign="top" rowspan="1" colspan="1">Small resistance arteries isolated from gluteal subcutaneous biopsy</td><td align="center" valign="top" rowspan="1" colspan="1">3 months</td><td align="center" valign="top" rowspan="1" colspan="1">Transcriptomics</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Taenzer et al. 2023 [<xref rid="all16526-bib-0037" ref-type="bibr">37</xref>]</td><td align="center" valign="top" rowspan="1" colspan="1">Cross‐sectional</td><td align="center" valign="top" rowspan="1" colspan="1">
+<p>Age, years (median): 38</p>
+<p>Female, <italic toggle="yes">N</italic> (%): 20, (80%)</p>
+</td><td align="center" valign="top" rowspan="1" colspan="1">
+<p>25 LC</p>
+<p>8 ME/CFS</p>
+<p>8 HC</p>
+</td><td align="center" valign="top" rowspan="1" colspan="1">Urine</td><td align="center" valign="top" rowspan="1" colspan="1">6 months</td><td align="center" valign="top" rowspan="1" colspan="1">Metabolomics</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Taylor et al. 2023 [<xref rid="all16526-bib-0038" ref-type="bibr">38</xref>]</td><td align="center" valign="top" rowspan="1" colspan="1">Case–control</td><td align="center" valign="top" rowspan="1" colspan="1">
+<p>Age, years (median, IQR):</p>
+<p>Severe: 45 (37–54)</p>
+<p>Fatigue: 45 (37–54)</p>
+<p>Female, <italic toggle="yes">N</italic> (%):</p>
+<p>Severe: 329 (71.7%)</p>
+<p>Fatigue: 355 (74.4%)</p>
+</td><td align="center" valign="top" rowspan="1" colspan="1">
+<p>Severe</p>
+<p>459 LC</p>
+<p>864 PC</p>
+<p>Fatigue</p>
+<p>477 LC</p>
+<p>909 PC</p>
+</td><td align="center" valign="top" rowspan="1" colspan="1">Saliva</td><td align="center" valign="top" rowspan="1" colspan="1">3 months</td><td align="center" valign="top" rowspan="1" colspan="1">Genomics</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Visvabharathy et al. 2023 [<xref rid="all16526-bib-0039" ref-type="bibr">39</xref>]</td><td align="center" valign="top" rowspan="1" colspan="1">Cohort</td><td align="center" valign="top" rowspan="1" colspan="1">
+<p>Age, years (mean, range): 46.6 (18–83)</p>
+<p>Female, <italic toggle="yes">N</italic> (%): 62 (66.0%)</p>
+<p>AC disease severity: mild 82.0%</p>
+</td><td align="center" valign="top" rowspan="1" colspan="1">
+<p>94 LC</p>
+<p>44 PC</p>
+<p>34 HC</p>
+</td><td align="center" valign="top" rowspan="1" colspan="1">Plasma</td><td align="center" valign="top" rowspan="1" colspan="1">6 months</td><td align="center" valign="top" rowspan="1" colspan="1">Proteomics</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Wang et al. 2023 [<xref rid="all16526-bib-0040" ref-type="bibr">40</xref>]</td><td align="center" valign="top" rowspan="1" colspan="1">Cohort</td><td align="center" valign="top" rowspan="1" colspan="1">
+<p>Age, years (median, IQR):</p>
+<p>Mild: 62 (44–73)</p>
+<p>Severe: 62 (57–73)</p>
+<p>Female (<italic toggle="yes">N</italic>, %):</p>
+<p>Mild: 12, (37.5%)</p>
+<p>Severe: 28, (50.9%)</p>
+</td><td align="center" valign="top" rowspan="1" colspan="1">
+<p>87 LC (2 groups)</p>
+<p>30 PC</p>
+<p>28 HC</p>
+</td><td align="center" valign="top" rowspan="1" colspan="1">Plasma</td><td align="center" valign="top" rowspan="1" colspan="1">6 months</td><td align="center" valign="top" rowspan="1" colspan="1">Proteomics, Metabolomics</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Zhang et al. 2023 [<xref rid="all16526-bib-0041" ref-type="bibr">41</xref>]</td><td align="center" valign="top" rowspan="1" colspan="1">Cohort</td><td align="center" valign="top" rowspan="1" colspan="1">
+<p>Age, years (mean, range):</p>
+<p>40.5 (23–68)</p>
+<p>Female, <italic toggle="yes">N</italic> (%): 18 (40.0%)</p>
+</td><td align="center" valign="top" rowspan="1" colspan="1">
+<p>45 LC</p>
+<p>8 PC</p>
+<p>25 HC</p>
+</td><td align="center" valign="top" rowspan="1" colspan="1">Oral cavity specimen, feces, serum</td><td align="center" valign="top" rowspan="1" colspan="1">3 months</td><td align="center" valign="top" rowspan="1" colspan="1">Metagenomics, metabolomics</td></tr><tr><td align="left" colspan="7" valign="top" rowspan="1">2024</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Brīvība et al. 2024 [<xref rid="all16526-bib-0042" ref-type="bibr">42</xref>]</td><td align="center" valign="top" rowspan="1" colspan="1">Cohort</td><td align="center" valign="top" rowspan="1" colspan="1">
+<p>Age, years (mean, ± SD): 53.31 ± 15.88</p>
+<p>Female, <italic toggle="yes">N</italic> (%): 80 (41.1%)</p>
+</td><td align="center" valign="top" rowspan="1" colspan="1">
+<p>146 AC</p>
+<p>(78 LC)</p>
+<p>110 HC</p>
+</td><td align="center" valign="top" rowspan="1" colspan="1">Feces</td><td align="center" valign="top" rowspan="1" colspan="1">3 months</td><td align="center" valign="top" rowspan="1" colspan="1">Metagenomics</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Cervia‐Hasler et al. 2024 [<xref rid="all16526-bib-0043" ref-type="bibr">43</xref>]</td><td align="center" valign="top" rowspan="1" colspan="1">Cohort</td><td align="center" valign="top" rowspan="1" colspan="1">
+<p>Age years (median, IQR): 36 (28–59)</p>
+<p>Female, <italic toggle="yes">N</italic> (%): 33 (45.2%)</p>
+<p>AC disease severity: severe 16.4%</p>
+</td><td align="center" valign="top" rowspan="1" colspan="1">
+<p>113 AC</p>
+<p>40 LC</p>
+<p>39 HC</p>
+</td><td align="center" valign="top" rowspan="1" colspan="1">Serum, PBMCs</td><td align="center" valign="top" rowspan="1" colspan="1">6 months</td><td align="center" valign="top" rowspan="1" colspan="1">Proteomics, transcriptomics</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">García‐Hidalgo et al. 2024 [<xref rid="all16526-bib-0044" ref-type="bibr">44</xref>]</td><td align="center" valign="top" rowspan="1" colspan="1">Cohort</td><td align="center" valign="top" rowspan="1" colspan="1">
+<p>Age, year (median, IQR): 63.0 (57.0; 68.0)</p>
+<p>Female, <italic toggle="yes">N</italic> (%): 7 (22.6%)</p>
+</td><td align="center" valign="top" rowspan="1" colspan="1">
+<p>119 AC</p>
+<p>31 LC</p>
+<p>26 PC</p>
+</td><td align="center" valign="top" rowspan="1" colspan="1">Plasma</td><td align="center" valign="top" rowspan="1" colspan="1">3 months</td><td align="center" valign="top" rowspan="1" colspan="1">Transcriptomics, proteomics</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Greene et al. 2024 [<xref rid="all16526-bib-0045" ref-type="bibr">45</xref>]</td><td align="center" valign="top" rowspan="1" colspan="1">Cohort</td><td align="center" valign="top" rowspan="1" colspan="1">
+<p>Age, years (mean):</p>
+<p>LC brain fog(−): 38</p>
+<p>LC brain fog(+): 46</p>
+<p>Female, <italic toggle="yes">N</italic> (%):</p>
+<p>LC brain fog(−): 9 (81.8%)LC brain fog(+): 11 (100%)</p>
+<p>AC disease severity: mild 56.6%</p>
+<p>Moderate: 13.1%</p>
+<p>Severe: 30.3%</p>
+</td><td align="center" valign="top" rowspan="1" colspan="1">
+<p>76 AC</p>
+<p>22 LC (2 groups)</p>
+<p>10 PC</p>
+<p>25 HC</p>
+</td><td align="center" valign="top" rowspan="1" colspan="1">PBMCs</td><td align="center" valign="top" rowspan="1" colspan="1">3 months</td><td align="center" valign="top" rowspan="1" colspan="1">Transcriptomics</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Hamrefors et al. 2024 [<xref rid="all16526-bib-0046" ref-type="bibr">46</xref>]</td><td align="center" valign="top" rowspan="1" colspan="1">Cross‐sectional</td><td align="center" valign="top" rowspan="1" colspan="1">
+<p>Age, years (range): 18–70</p>
+<p>Female, <italic toggle="yes">N</italic> (%): 26 (76.5%)</p>
+</td><td align="center" valign="top" rowspan="1" colspan="1">
+<p>32 LC</p>
+<p>27 POTS</p>
+<p>39 HC</p>
+</td><td align="center" valign="top" rowspan="1" colspan="1">Feces</td><td align="center" valign="top" rowspan="1" colspan="1">3 months</td><td align="center" valign="top" rowspan="1" colspan="1">Metagenomics</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Saito et al. 2024 [<xref rid="all16526-bib-0047" ref-type="bibr">47</xref>]</td><td align="center" valign="top" rowspan="1" colspan="1">Cross‐sectional</td><td align="center" valign="top" rowspan="1" colspan="1">
+<p>Age, years, (mean ± SD): 51.9 ± 12.2</p>
+<p>Female, <italic toggle="yes">N</italic> (%): 6 (18.6%)</p>
+</td><td align="center" valign="top" rowspan="1" colspan="1">
+<p>15 AC</p>
+<p>30 LC</p>
+<p>15 PC</p>
+<p>15 HC</p>
+</td><td align="center" valign="top" rowspan="1" colspan="1">Plasma</td><td align="center" valign="top" rowspan="1" colspan="1">12 months</td><td align="center" valign="top" rowspan="1" colspan="1">Metabolomics</td></tr></tbody></table><table-wrap-foot id="all16526-ntgp-0002"><fn id="all16526-note-0002"><p>Abbreviations: AC, acute COVID‐19; BAL, bronchoalveolar lavage; C, type‐2b atrophy control cohort; CT, computed tomography; DLCO, diffusing capacity of the lungs for carbon monoxide; HC, healthy controls; LC, Long COVID; ME/CFS, myalgic encephalitis/chronic fatigue syndrome; PBMCs, peripheral blood mononuclear cells; PC, post‐COVID; POTS, postural orthostatic tachycardia syndrome.</p></fn></table-wrap-foot></table-wrap><p>While omics results in this review are categorized according to symptom‐based phenotypes, it is important to acknowledge that symptoms in LC typically do not occur in isolation and may affect multiple organ systems simultaneously. This suggests that the underlying mechanisms contributing to LC are complex and interconnected, often manifesting in multiple phenotypes across the body. Figure <xref rid="all16526-fig-0003" ref-type="fig">3</xref> illustrates what efforts of omics studies related to the symptom‐based phenotypes were made and shows that, until now, most studies have focused on proteomics and metabolomics for cardiovascular and fatigue symptoms, respectively.</p><fig position="float" fig-type="FIGURE" id="all16526-fig-0003" orientation="portrait"><label>FIGURE 3</label><caption><p>The frequency of omics findings related to LC symptom‐based phenotypes. The symptom‐based phenotypes and omics layers are each represented with a variety of bright and light colored bands, respectively. Percentages in the outer circle show to what extent studies involving specific omicslayers or phenotypes were included in this systematic review. This figure was created with Circos Table Viewer v0.63–10 from the Genomes Science Centre.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-5" orientation="portrait" xlink:href="ALL-80-932-g003.jpg"/></fig><sec id="all16526-sec-0010"><label>3.1</label><title>Fatigue and Altered Energy Metabolism</title><p>Post‐COVID fatigue is among the most commonly reported symptoms in LC [<xref rid="all16526-bib-0017" ref-type="bibr">17</xref>].</p><sec id="all16526-sec-0011"><label>3.1.1</label><title>Metabolomics and Proteomics</title><p>Saito et al. identified distinct metabolomics profiles in LC patients with myalgic encephalitic/chronic fatigue syndrome (ME/CFS) symptoms a year post‐COVID, compared with controls, showing altered amino acid and energy metabolism pathways [<xref rid="all16526-bib-0047" ref-type="bibr">47</xref>]. López‐Hernández's study revealed 53 and 27 metabolites to be dysregulated compared to acute COVID‐19 (AC) patients and controls, respectively [<xref rid="all16526-bib-0031" ref-type="bibr">31</xref>]. LC patients could be distinguished according to lactic acid, lactate/pyruvate, ornithine/citrulline, and arginine [<xref rid="all16526-bib-0031" ref-type="bibr">31</xref>]. Changes indicated mitochondrial dysfunction and redox imbalances in LC patients 2 years post‐infection [<xref rid="all16526-bib-0031" ref-type="bibr">31</xref>]. Nuclear magnetic resonance (NMR) metabolomics indicated variations in lactate, pyruvate, glucose, and other metabolites between LC and AC patients, suggesting changes in energy metabolism [<xref rid="all16526-bib-0025" ref-type="bibr">25</xref>]. Furthermore, LC patients had higher levels of citrate, histidine, and ornithine compared to AC and healthy controls (HC) [<xref rid="all16526-bib-0025" ref-type="bibr">25</xref>]. The study explored the role of gender and age on their findings and found a strong gender‐age effect on acetate levels in LC [<xref rid="all16526-bib-0025" ref-type="bibr">25</xref>].</p><p>In peripheral blood mononuclear cells (PBMCs), IDO2 or indoleamine 2,3‐dioxygenase‐2 was upregulated in LC patients and associated with mitochondrial dysfunction, resulting from reduced basal and maximal oxygen consumption rates, and with reduced intracellular Krebs cycle‐related compound levels and amino acids. The aryl hydrocarbon receptor was correlated with the induction of IDO2 and was therefore proposed as a possible therapeutic target [<xref rid="all16526-bib-0027" ref-type="bibr">27</xref>]. Iosef et al. also demonstrated the increased levels of IDO2 in plasma proteomic samples [<xref rid="all16526-bib-0028" ref-type="bibr">28</xref>]. The expression of IDO2 is moreover linked to decreased levels of tryptophan and increased kynurenine quantities, which have been proposed to cause fatigue symptoms [<xref rid="all16526-bib-0048" ref-type="bibr">48</xref>]. Taenzer et al. reported a lower kynurenine/tryptophan ratio in LC patients with fatigue, with decreased levels of kynurenine and tryptophan [<xref rid="all16526-bib-0037" ref-type="bibr">37</xref>]. Furthermore, this study also reported reduced levels of other amino acids, including phenylalanine and tyrosine [<xref rid="all16526-bib-0037" ref-type="bibr">37</xref>]. The authors hypothesized the lower kynurenine/tryptophan ratio to be caused by impaired gut function or IDO function [<xref rid="all16526-bib-0037" ref-type="bibr">37</xref>].</p><p>Targeted plasma metabolomics found low levels of amino acids and triglycerides, deregulated acylcarnitines, and defects in lipid oxidation, as well as elevated anti‐inflammatory osmolytes like taurine and hypaphorine [<xref rid="all16526-bib-0030" ref-type="bibr">30</xref>]. The same study found protein alterations related to macrophage‐derived secreted proteins and fewer acute phase proteins [<xref rid="all16526-bib-0030" ref-type="bibr">30</xref>].</p></sec><sec id="all16526-sec-0012"><label>3.1.2</label><title>Transcriptomics and Proteomics</title><p>Gene expression changes in muscle biopsies of LC patients indicated matrix remodeling, angiogenesis, and immune dysregulation linked to interferons (IFN), type I and III, and the complement system, alongside decreased mitochondrial activity and energy production capacity. The study reported no sex‐related influence in their principal component analysis. Moreover, increased serum protein levels related to complement pathways were found in LC patients compared to controls [<xref rid="all16526-bib-0024" ref-type="bibr">24</xref>].</p><p>LC and ME/CFS exhibited similar protein profiles, including B2M, BCL2, CD4, and HLA‐DRB1 [<xref rid="all16526-bib-0034" ref-type="bibr">34</xref>]. Clustering of 162 differentially regulated proteins in LC revealed main clusters related to viral infections (SARS‐CoV‐2, Epstein–Barr) and immune responses (natural killer cell cytotoxicity, Fc epsilon R1 signaling) [<xref rid="all16526-bib-0034" ref-type="bibr">34</xref>]. Mitochondrial dysfunction pathways were also affected, leading to reduced energy production and potential oxidative stress [<xref rid="all16526-bib-0034" ref-type="bibr">34</xref>].</p></sec><sec id="all16526-sec-0013"><label>3.1.3</label><title>Genomics and Transcriptomics</title><p>Genomics linked LC fatigue risk factors to metabolic/JNK signaling and genes shared with ME/CFS, involving insulin and circadian rhythm regulation. Single nucleotide polymorphisms (SNPs) more abundant in LC than ME/CFS were related to <italic toggle="yes">ATP9A</italic>, <italic toggle="yes">CLOCK</italic>, <italic toggle="yes">SLC15A14</italic>, <italic toggle="yes">INSR</italic>, and <italic toggle="yes">GPC5</italic>. <italic toggle="yes">CLOCK</italic> regulates circadian rhythm and mitochondrial function [<xref rid="all16526-bib-0038" ref-type="bibr">38</xref>]. Thrombocytopenia has been linked to post‐viral fatigue complaints. A longitudinal transcriptomics analysis in the blood of COVID‐19 convalescents by Ryan et al. revealed distinct profiles in individuals that developed LC. In the transcriptome of LC patients, downregulation of genes related to platelet factor 4, platelet glycoprotein IX, thrombopoietin receptor, and coagulation in platelet‐related pathways was found at 6 months post‐COVID [<xref rid="all16526-bib-0022" ref-type="bibr">22</xref>].</p></sec><sec id="all16526-sec-0014"><label>3.1.4</label><title>Metagenomics</title><p>From a microbiome perspective, in fecal samples that were collected 6 months post‐COVID, <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">Clostridium innocuum</italic>
+</styled-content> and <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">Actinomyces naeslundii</italic>
+</styled-content> were significantly associated with fatigue symptoms [<xref rid="all16526-bib-0020" ref-type="bibr">20</xref>].</p><p>Together, these studies indicate associations between LC fatigue symptoms and neuroinflammation, mitochondrial dysfunction, alterations in lipid metabolism, thrombocytopenia, and microbiome disturbances.</p></sec></sec><sec id="all16526-sec-0015"><label>3.2</label><title>Pulmonary</title><p>Commonly reported respiratory symptoms in LC include shortness of breath and cough [<xref rid="all16526-bib-0017" ref-type="bibr">17</xref>].</p><sec id="all16526-sec-0016"><label>3.2.1</label><title>Transcriptomics and Proteomics</title><p>Plasma profiling identified microRNAs, miR‐9‐5p and miR‐486‐5p, linked to impaired lung diffusion capacity (&lt; 80%) and involved in inflammation, angiogenesis, tissue repair, and cell senescence pathways. RNA sequencing and proteomics further emphasized these pathways in patients with pulmonary dysfunction, who were mostly older patients with a relatively more severe disease course. As part of the targetome of both miRNAs, key upregulated genes included <italic toggle="yes">PXDN</italic>, <italic toggle="yes">ITGA2</italic>, <italic toggle="yes">MXRA7</italic>, <italic toggle="yes">TMEM200A</italic>, <italic toggle="yes">RNF187</italic>, and <italic toggle="yes">FAT1</italic>, while downregulated genes included <italic toggle="yes">NELL2</italic>, <italic toggle="yes">RAI14</italic>, <italic toggle="yes">SLC24A2</italic>, <italic toggle="yes">PPP1R9A</italic>, and <italic toggle="yes">CHRM3</italic>. Identified proteins, PTN and KIM1, are key players in tissue repair pathways [<xref rid="all16526-bib-0044" ref-type="bibr">44</xref>].</p><p>Proteomics studies on blood and airway samples from LC patients with persistent radiological abnormalities 3–6 months post‐discharge revealed abnormal airway proteomes by the presence of CASP3, EPCAM, KRT19, and TGFA, indicative of epithelial injury and apoptosis. These disruptions in tissue repair pathways were absent in HC [<xref rid="all16526-bib-0023" ref-type="bibr">23</xref>]. Additionally, increased numbers of cytotoxic lymphocytes were associated with epithelial damage and impaired lung function, emphasizing the immune system's role in pulmonary phenotypes [<xref rid="all16526-bib-0023" ref-type="bibr">23</xref>]. From an immunological perspective, proteomics studies found that pulmonary dysfunction in LC at 4 months post‐infection was associated with upregulated pathways of chemotaxis of phagocytes, leukocyte activation, and cardiac dysfunction, and with elevated levels of chemokine CXCL9 during AC [<xref rid="all16526-bib-0035" ref-type="bibr">35</xref>]. Furthermore, correlations were found between serum levels of glucocorticoid receptor and dyspnea in LC patients [<xref rid="all16526-bib-0033" ref-type="bibr">33</xref>].</p></sec><sec id="all16526-sec-0017"><label>3.2.2</label><title>Metagenomics</title><p>Persistent pulmonary symptoms were correlated with increased abundance of opportunistic gut pathogens such as <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">streptococcus anginosus</italic>
+</styled-content>, <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">Streptococcus vestibularis</italic>
+</styled-content>, <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">Streptococcus gordonii</italic>
+</styled-content>, and <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">Clostridium disporicum</italic>
+</styled-content> in fecal samples collected at 6 months post‐COVID [<xref rid="all16526-bib-0020" ref-type="bibr">20</xref>].</p><p>These findings collectively demonstrate that in pulmonary LC, miRNA dysregulation was associated with impaired diffusion capacity. Findings also indicated potential impairments in tissue repair mechanisms and ongoing immune responses, including dysregulated CD8<sup>+</sup> T cell responses associated with pulmonary abnormalities.</p></sec></sec><sec id="all16526-sec-0018"><label>3.3</label><title>Neurological</title><p>Neurological manifestations can include cognitive impairment (brain fog), memory deficits, and also neuropsychiatric symptoms, defining the involvement of the central nervous system in LC [<xref rid="all16526-bib-0007" ref-type="bibr">7</xref>].</p><sec id="all16526-sec-0019"><label>3.3.1</label><title>Proteomics and Genomics</title><p>LC patients with neurologic complaints exhibit a distinctive plasma proteomic profile compared to COVID‐19 convalescents, characterized by reduced pro‐inflammatory and antiviral response proteins, alongside increased immunoregulatory proteins, correlating with neurocognitive dysfunction [<xref rid="all16526-bib-0039" ref-type="bibr">39</xref>]. Genetic associations were identified between SNPs and neurological symptoms, in which <italic toggle="yes">FURIN</italic> and <italic toggle="yes">SLC6A20</italic> were emphasized [<xref rid="all16526-bib-0029" ref-type="bibr">29</xref>]. Taylor et al. identified 73 genes related to severe LC and fatigue‐dominant cohorts, with five genes (<italic toggle="yes">D2HDGH</italic>, <italic toggle="yes">GUCY1A2</italic>, <italic toggle="yes">PCSK2</italic>, <italic toggle="yes">CCDC146</italic>, <italic toggle="yes">PGPEP1</italic>) involved in metabolism and regulatory pathways present in both. Combinatorial analytics highlighted 42 genes as potential therapeutic targets, with 13 already linked to existing drugs. Pathway analysis showed these genes were mostly related to neurological and cardiometabolic diseases. TLR4 was proposed for drug repurposing [<xref rid="all16526-bib-0038" ref-type="bibr">38</xref>].</p></sec><sec id="all16526-sec-0020"><label>3.3.2</label><title>Transcriptomics</title><p>Brain fog, a neurological manifestation of LC, can lead to cognitive impairment. Greene et al. found significantly increased concentrations of S100β, a marker of blood–brain barrier (BBB) dysfunction that was also positively associated with age, in AC patients. A transcriptomics study in LC patients with brain fog revealed differentially expressed genes compared to recovered individuals that showed dysregulated immune responses. Upregulated genes were related to T‐cell activation, angiogenesis (including <italic toggle="yes">HIF1A</italic>, <italic toggle="yes">HES1</italic> and <italic toggle="yes">DLL1</italic>) and TGF‐signaling (including <italic toggle="yes">SMAD3</italic>, <italic toggle="yes">SNAI1</italic>, <italic toggle="yes">SMURF1</italic>), crucial for BBB regulation. Downregulated genes involved platelet activation and hemostasis, suggesting systemic alterations and vascular abnormalities. Compared to LC patients without brain fog, those affected had distinct gene expression profiles related to T‐cell differentiation and activation (including <italic toggle="yes">TNFSF9</italic>, <italic toggle="yes">IFNG</italic> and <italic toggle="yes">RUNX3</italic>), but also the negative regulation of immune responses, pointing to sustained systemic inflammation (including <italic toggle="yes">WASL</italic>, <italic toggle="yes">TNFAIP3</italic> and <italic toggle="yes">ID2</italic>) and BBB disruption [<xref rid="all16526-bib-0045" ref-type="bibr">45</xref>].</p></sec><sec id="all16526-sec-0021"><label>3.3.3</label><title>Metagenomics and Metabolomics</title><p>A higher abundance of <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">Clostridium innocuum</italic>
+</styled-content> and <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">Actinomyces naeslundii</italic>
+</styled-content> in LC patient's fecal samples is linked to neuropsychiatric symptoms, suggesting a microbial component to LC's neurological impact [<xref rid="all16526-bib-0020" ref-type="bibr">20</xref>]. Saito et al. reported an inverse correlation between reduced plasma metabolite sarcosine and LC symptoms, cognitive dysfunction, and depression scores. Similarly, lower serine levels were inversely associated with anxiety and depression in LC patients with ME/CFS [<xref rid="all16526-bib-0047" ref-type="bibr">47</xref>]. Taenzer et al. reported altered concentrations of serotonin, catecholamines, and dopamine in LC [<xref rid="all16526-bib-0037" ref-type="bibr">37</xref>].</p><p>Collectively, these findings illustrate that persistent systemic inflammation, BBB disruption, vascular abnormalities, microbiome imbalances, and metabolic changes are related to the spectrum of neurological symptoms experienced during LC.</p></sec></sec><sec id="all16526-sec-0022"><label>3.4</label><title>Gastrointestinal</title><p>Brīvība et al. stated that while COVID‐19 is a respiratory condition, 20%–50% of LC patients experience gastrointestinal symptoms [<xref rid="all16526-bib-0042" ref-type="bibr">42</xref>]. Nausea, diarrhea, and loss of appetite are common gastrointestinal symptoms linked to LC [<xref rid="all16526-bib-0017" ref-type="bibr">17</xref>].</p><sec id="all16526-sec-0023"><label>3.4.1</label><title>Metagenomics</title><p>Research indicates a decreased alpha and beta diversity of the gut microbiome, as evidenced by data from fecal samples collected 3 months post‐COVID among patients with persistent gastrointestinal symptoms [<xref rid="all16526-bib-0041" ref-type="bibr">41</xref>]. This decreased relative abundance at the phylum level included <italic toggle="yes">Proteobacteria</italic>, <italic toggle="yes">Fusobacteria</italic>, <italic toggle="yes">Spirochaetes</italic>, <italic toggle="yes">Actinobacteria</italic>, and <italic toggle="yes">Uroviricota</italic>. Moreover, based on stool and saliva samples of these LC patients, ectopic colonization of the oral cavity by gut microbes was detected by 27 differentially abundant genera of the <italic toggle="yes">Proteobacteria</italic> phylum. Among these, bacteria such as <italic toggle="yes">Neisseria</italic>, <italic toggle="yes">Lautropia</italic>, and <italic toggle="yes">Agrobacterium</italic> were linked to potentially harmful serum metabolites, including estradiol valerate, 5‐sulfoxymethylfurfural, and 4‐chlorophenylacetic acid [<xref rid="all16526-bib-0041" ref-type="bibr">41</xref>]. At 3 months post‐infection, changes in gut microbiome composition included an increased abundance of butyrate‐producing bacteria like <italic toggle="yes">Roseburia</italic> and <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">Faecalibacterium prausnitzii</italic>
+</styled-content>. This study also emphasized that antibiotic use during AC infection could alter bacterial abundance. Moreover, lower alpha diversities during the acute infection were related to LC compared to recovered individuals. Notably, the recovered group had an increased abundance of <italic toggle="yes">Prevotella</italic> species, potentially revealing a protective effect. However, among the included patients in this study, it remained unclear how many participants experienced gastrointestinal symptoms [<xref rid="all16526-bib-0042" ref-type="bibr">42</xref>].</p><p>So far, microbiome imbalances have been identified, and toxic metabolite production has been associated with gastrointestinal health.</p></sec></sec><sec id="all16526-sec-0024"><label>3.5</label><title>Cardiovascular</title><p>Cardiovascular symptoms such as palpitations and chest pain in LC patients suggest ongoing pathologies [<xref rid="all16526-bib-0049" ref-type="bibr">49</xref>].</p><sec id="all16526-sec-0025"><label>3.5.1</label><title>Transcriptomics and Proteomics</title><p>At 3 months post‐COVID, gene expression analysis revealed that upregulation in pathways related to proteoglycan synthesis, extracellular matrix alteration, and viral mRNA replication was related to vascular smooth muscle cell dysfunction and vascular fibrosis development in LC [<xref rid="all16526-bib-0036" ref-type="bibr">36</xref>]. Rho‐kinase inhibitors, targeting these changes, are proposed as potential therapeutic options for restoring vascular homeostasis [<xref rid="all16526-bib-0036" ref-type="bibr">36</xref>].</p><p>A plasma proteomics study compared LC patients to HC and AC subjects. LC patients showed a shift in natural killer cell phenotype from active to resting and neutrophils forming extracellular traps, linked to vascular alterations mediated by angiopoietin‐1 and VEGF‐A. Activation of TGF‐β, TNF‐α, and HIF‐1 pathways indicated systemic inflammatory responses. This profiling suggests cardiovascular and potential neurologic dysfunction due to protein expression patterns affecting neuronal and cognitive functions [<xref rid="all16526-bib-0028" ref-type="bibr">28</xref>].</p><p>Other proteomic findings suggest changes in iron metabolism proteins including transferrin, hemopexin, lipocalin, superoxide dismutase 1, and ceruloplasmin in LC. Furthermore, it was found that lipoxygenase was activated, possibly through an iron‐dependent post‐translational mechanism. The authors hypothesize that leukotriene (LT) B4 and lipocalin 2 could be explored as novel targets for the treatment and prevention of LC [<xref rid="all16526-bib-0026" ref-type="bibr">26</xref>].</p><p>Longitudinally, Cervia‐Hasler et al. found evidence of increased complement activation during the acute infection phase, which persisted in LC patients. Additionally, proteome analysis identified thrombo‐inflammatory markers in blood samples at 6 months, including elevated levels of von Willebrand factor (VWF), suggesting endothelial activation and red blood cell lysis. In patients where LC symptoms persisted for 12 months, increased monocyte‐platelet aggregates and platelet activation markers were observed at 6 months, indicating a pro‐thrombotic environment [<xref rid="all16526-bib-0043" ref-type="bibr">43</xref>].</p></sec><sec id="all16526-sec-0026"><label>3.5.2</label><title>Proteomics and Metabolomics</title><p>A proteomics study analyzed the content of fibrin amyloid microclots and found dysregulated pro‐inflammatory markers involved in coagulation, cellular function, and lipid metabolism [<xref rid="all16526-bib-0021" ref-type="bibr">21</xref>]. Specifically, elevated levels of von Willebrand factor (VWF) and increased platelet factor 4 activation were observed, while plasma kallikrein levels were reduced in long COVID patients compared to HC [<xref rid="all16526-bib-0021" ref-type="bibr">21</xref>]. Additionally, the authors reported the presence of antibodies within the microclots, suggesting these could elicit an autoimmune response to persistent fibrin amyloid microclots [<xref rid="all16526-bib-0021" ref-type="bibr">21</xref>]. Wang et al. identified increased plasma levels of microbiota‐derived metabolites such as trimethylamine and phenylacetylglutamine that were associated with cardiovascular disease in LC [<xref rid="all16526-bib-0040" ref-type="bibr">40</xref>].</p><p>In LC patients with or without postural orthostatic tachycardia syndrome (POTS), which can also be regarded as a neurological condition, proteomic analysis showed similar protein dysregulation affecting coagulation/hemostasis, immune response, angiogenesis, and metabolism [<xref rid="all16526-bib-0032" ref-type="bibr">32</xref>]. Key proteins included SERPINE, linked to increased clotting susceptibility, and CCL5, associated with hyper‐inflammation and T‐cell involvement, suggesting a shared pathophysiological profile [<xref rid="all16526-bib-0032" ref-type="bibr">32</xref>].</p></sec><sec id="all16526-sec-0027"><label>3.5.3</label><title>Metagenomics</title><p>Moreover, microbiome analyses revealed significant gut flora differences between POTS and LC patients compared to controls, with variations in microbial diversity and specific taxa potentially related to gastrointestinal and fatigue symptoms. LC was associated with alterations in the abundance of phyla <italic toggle="yes">Ascomycota</italic> and <italic toggle="yes">Firmicutes</italic> compared with controls [<xref rid="all16526-bib-0046" ref-type="bibr">46</xref>]. Together, these findings show how cardiovascular symptoms in LC are related to vascular dysfunction, systemic inflammation and coagulation, and microbiome disturbances.</p></sec></sec><sec id="all16526-sec-0028"><label>3.6</label><title>Persistent Involvement of the Immune System</title><p>While the presented results show that the different symptom‐based LC phenotypes are related to specific findings in the studied omics layers, the observed biomolecular signatures suggest significant overlap, such as mitochondrial and vascular dysfunction, and indicate that a dysregulated immune system is a common underlying factor.</p><p>Persistent systemic inflammation, characterized by elevated cytokine levels and T cell activation, affects multiple organ systems in LC. Elevated IL‐17 levels in LC patients' plasma 2 years post‐infection indicate ongoing immune activation [<xref rid="all16526-bib-0031" ref-type="bibr">31</xref>]. IL‐17, primarily produced by T helper cells, is crucial during AC and is linked to chronic inflammatory diseases such as rheumatoid arthritis, psoriasis, and metabolic syndrome [<xref rid="all16526-bib-0050" ref-type="bibr">50</xref>, <xref rid="all16526-bib-0051" ref-type="bibr">51</xref>]. These conditions share common pathologic IL‐17‐related characteristics such as vascular dysfunction and hypertension, increasing the risk of cardiovascular disease [<xref rid="all16526-bib-0052" ref-type="bibr">52</xref>]. This suggests that persistently elevated IL‐17 levels in LC could similarly contribute to cardiovascular complications. In LC, elevated IL‐17 levels have moreover been correlated with pre‐existing hypertension, suggesting a complex interaction between chronic post‐COVID manifestations, including pulmonary fibrosis, and pre‐existing health conditions [<xref rid="all16526-bib-0053" ref-type="bibr">53</xref>, <xref rid="all16526-bib-0054" ref-type="bibr">54</xref>]. Proteomic analysis further supported the role of immune dysregulation, showing significant upregulation of CXCL10 in LC patients relative to COVID‐19 convalescents and HC [<xref rid="all16526-bib-0019" ref-type="bibr">19</xref>]. This finding is corroborated by Green et al. who also report elevated CXCL10 levels in blood samples, demonstrating a sustained IFN‐induced inflammatory response [<xref rid="all16526-bib-0045" ref-type="bibr">45</xref>].</p><p>A proteomic study identified inflammation‐related proteins that could serve as potential biomarkers for LC, including Siruin 1, Natriuretic Peptide B, Hemopexin, and Arachidonate 5‐Lipoxygenase. Multivariate analysis demonstrated significant protein changes from HC. It was notable that findings also varied among LC patients, demonstrating the heterogeneity of the disease [<xref rid="all16526-bib-0033" ref-type="bibr">33</xref>].</p><p>A persistent pro‐inflammatory state was identified in all symptom‐based phenotypes, indicating the importance of the role of the immune system in the development of LC.</p></sec><sec id="all16526-sec-0029"><label>3.7</label><title>Multi‐Omics and Long <styled-content style="fixed-case" toggle="no">COVID</styled-content>
+</title><p>Several of the included studies have employed multi‐omics approaches, referring to the measurement of two or more omics layers from the same samples, to understand the interplay of biomolecules in LC. Serum proteomics identified increased activation of the complement system in the serum of LC patients by increased soluble C5bC6 complexes and decreased levels of C7‐containing terminal complement complexes. Other than innate immune responses, thrombo‐inflammation was seen. In single‐cell transcriptomic signatures of monocytes, <italic toggle="yes">NR4A1</italic> was decreased while interferon‐induced transcripts, including <italic toggle="yes">IFITM3</italic>, were increased, suggesting an inflammatory response [<xref rid="all16526-bib-0043" ref-type="bibr">43</xref>]. Proteomics and metabolomics findings in a study by Wang et al. showed significant alteration in acute phase proteins and platelet degranulation that are indicators of inflammatory and immune responses, but also persistent dysregulation of metabolites of the TCA cycle and glucose metabolism that reflect adjustments to inflammation. Furthermore, both layers reflected metabolic dysregulation [<xref rid="all16526-bib-0040" ref-type="bibr">40</xref>]. Other studies demonstrated overlapping findings on proteomics and metabolomics concerning energy imbalance and inflammatory alterations [<xref rid="all16526-bib-0025" ref-type="bibr">25</xref>, <xref rid="all16526-bib-0030" ref-type="bibr">30</xref>]. Unsupervised clustering identified three distinct disease phenotypes based on the omics profiles, demonstrating the heterogeneity of LC. Cluster B was characterized primarily by a signature of triglycerides and organic acids, while cluster C, which included a higher proportion of women, was associated with molecules enriched in the HIF‐1⍺ pathway, known for gender‐specific differences [<xref rid="all16526-bib-0040" ref-type="bibr">40</xref>]. García‐Hildago et al. found pathways of tissue repair including focal adhesion, MET signaling, and L1CAM interaction, and on a proteomic level, found increased proteins involved in tissue repair in patients with persistent pulmonary abnormalities [<xref rid="all16526-bib-0044" ref-type="bibr">44</xref>]. Among the 73 genes that Taylor et al. identified in their genomics analysis, primarily related to neurological and cardiometabolic disease pathways, 14 were also differentially expressed in a transcriptomic study assessing whole blood from LC patients [<xref rid="all16526-bib-0038" ref-type="bibr">38</xref>]. Zhang et al. correlated the presence of ectopic bacteria in the oral cavity with serum metabolites [<xref rid="all16526-bib-0041" ref-type="bibr">41</xref>]. Together, studies utilizing multiple omics layers have demonstrated that examining various layers can confirm findings or provide additional context.</p></sec></sec><sec sec-type="discussion" id="all16526-sec-0030"><label>4</label><title>Discussion</title><p>To our knowledge, this systematic review is the first to provide a comprehensive omics overview of symptom‐based phenotypes in LC, contributing to our understanding of its pathophysiology and identification of potential biomarkers and treatable traits. Our findings reveal that LC symptoms demonstrate a complex interplay of biomolecules, with inflammation and immune dysregulation as central mechanisms driving multi‐systemic effects across multiple organ systems. Figure <xref rid="all16526-fig-0004" ref-type="fig">4</xref> illustrates treatable traits for LC management; however, further validation is needed to determine the clinical significance of these findings.</p><fig position="float" fig-type="FIGURE" id="all16526-fig-0004" orientation="portrait"><label>FIGURE 4</label><caption><p>Treatable traits in long COVID stratified by phenotype. This figure summarizes the key biological disruptions identified in LC, such as mitochondrial dysfunction, neuroinflammation, and immune dysregulation, organized by symptom category (fatigue, neurological, pulmonary, cardiovascular, and gastrointestinal). Created with <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://biorender.com" ext-link-type="uri">BioRender.com</ext-link>.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-7" orientation="portrait" xlink:href="ALL-80-932-g004.jpg"/></fig><p>Distinct biomolecular patterns are evident in LC symptoms across omics layers. Fatigue was related to neuro‐inflammation, mitochondrial dysfunction, and lipid metabolism imbalances. Mitochondrial dysfunction and inflammation, including the immunomodulatory IDO2, were observed in relation to altered energy metabolism and kynurenine metabolism in LC. Furthermore, altered fatty acid metabolism, including lipid oxidation, may affect overall energy homeostasis. Parallels are often drawn between LC fatigue and ME/CFS [<xref rid="all16526-bib-0055" ref-type="bibr">55</xref>, <xref rid="all16526-bib-0056" ref-type="bibr">56</xref>, <xref rid="all16526-bib-0057" ref-type="bibr">57</xref>]; this condition can also be caused by other viral pathogens like influenza, enteroviruses, cytomegaloviruses, Epstein–Barr virus, and herpesviruses [<xref rid="all16526-bib-0058" ref-type="bibr">58</xref>, <xref rid="all16526-bib-0059" ref-type="bibr">59</xref>, <xref rid="all16526-bib-0060" ref-type="bibr">60</xref>, <xref rid="all16526-bib-0061" ref-type="bibr">61</xref>]. In pulmonary LC, miRNA dysregulation was associated with impaired diffusion capacity, emphasizing the significance of long non‐coding RNA. Pulmonary symptoms were also associated with impaired tissue repair, which could eventually lead to fibrosis similar to that seen in idiopathic pulmonary fibrosis, potentially providing a guideline for its management [<xref rid="all16526-bib-0062" ref-type="bibr">62</xref>]. Moreover, other aspects may play a role in the inflammatory phenotypes seen in pulmonary LC, such as neutrophil extracellular traps that were identified in patients with respiratory LC sequelae at 6 months post‐COVID [<xref rid="all16526-bib-0063" ref-type="bibr">63</xref>]. Furthermore, mast cell activation was associated with immune dysfunction post‐COVID [<xref rid="all16526-bib-0064" ref-type="bibr">64</xref>]. Gastrointestinal symptoms indicated microbiome imbalances and toxic metabolite production that can worsen gastrointestinal health. Targeting toxic metabolites, including estradiol valerate, 5‐sulfoxymethylfurfural, and 4‐chlorophenylacetic acid, could be targets to further investigate in this context. Overall, the scarcity of omics data related to gastrointestinal LC symptoms emphasizes the need for more research to better understand these associations and their implications for affected patients. In cardiovascular symptoms of LC, vascular dysfunction may play a role in changes in endothelial and smooth muscle function in which Rho‐kinase alterations are involved. A pro‐inflammatory state has also been related to cardiovascular phenotypes, including leukotriene B4, lipocalin 2, and the HIF‐1 pathway. Moreover, enhanced clotting tendencies were identified through immune and vascular alterations. Neurological symptoms showed blood–brain barrier disruption, neurotransmitter dysregulation, and persistent neuro‐inflammation through Notch signaling, TGF‐β, TNF‐and IFN pathways. Furthermore, upregulated CXCL10 levels were found in blood, indicating a sustained interferon‐induced response. While the involvement of the immune system is broad, cytokine levels may be altered, and human leukocyte antigen complex alterations (HLA‐DR) and IFN responses may also contribute to symptom persistence and severity. Compared to other viral respiratory infections, coronaviruses inhibit IFNs, causing a delayed type I and III response that can lead to uncontrolled viral replication and severe disease outcomes [<xref rid="all16526-bib-0065" ref-type="bibr">65</xref>]. Severe COVID‐19 and LC are associated with elevated type I IFN‐α responses through cGAS‐STING pathway activation, contributing to sustained inflammation [<xref rid="all16526-bib-0066" ref-type="bibr">66</xref>]. In LC, persistent inflammation has also been associated with autoimmunity, viral persistence, latent viral reactivation, and dysfunctional brainstem signaling [<xref rid="all16526-bib-0017" ref-type="bibr">17</xref>].</p><p>This review has several limitations. Variability in study designs, timing of sample collection, and inconsistent LC definitions and timeframes complicate direct comparisons of data, currently precluding meta‐analysis. Limited omics data collection across various time points post‐infection limits the analyses of consistent LC stages. Additionally, factors like comorbidities such as diabetes or kidney disease, genetic predispositions, nutritional deficiencies, medication use, age, sex, reinfections, and exposure to different viral variants could have influenced findings, such as the levels of metabolites. Furthermore, the search strategy may not have captured all relevant studies.</p><p>The reported findings support the potential of precision medicine in LC management, using biomarkers and targeted treatments. To validate and expand on these findings, future studies should aim to provide longitudinal insights, include a broader range of LC subgroups, and ensure data accessibility for other researchers. Standardized protocols for sample collection and processing, as well as bioinformatics tools to minimize batch effects [<xref rid="all16526-bib-0067" ref-type="bibr">67</xref>], would increase study robustness and facilitate stratified analyses by factors such as age, sex, comorbidities, and disease severity, and meta‐analysis. While the included studies provided valuable insights into LC at different time points, future studies focusing on samples collected at more standardized time points could offer a clearer perspective on the dynamics of omics layers during specific stages of the disease, improving consistency and advancing our understanding of the molecular changes occurring at different phases of LC. Furthermore, future studies may consider the longitudinal measurement of SARS‐CoV‐2‐specific IgG antibodies as a potential indicator of reinfection risk or underlying immune dysfunction. Declining SARS‐CoV‐2‐specific antibody levels were found within months after the initial infection [<xref rid="all16526-bib-0068" ref-type="bibr">68</xref>]. Alterations, such as persistently elevated levels or delayed reduction, could indicate reinfection or persistent antigenic stimulation, both relevant to LC pathology [<xref rid="all16526-bib-0068" ref-type="bibr">68</xref>]. Some of the current included studies measured SARS‐CoV‐2‐specific antibodies (Table <xref rid="all16526-supitem-0001" ref-type="supplementary-material">S5</xref>), but not to assess reinfections. The measurements of PCR and antibodies before LC sample collection could increase the validity of findings in the context of reinfections [<xref rid="all16526-bib-0069" ref-type="bibr">69</xref>]. Also, the impact of viral variants may be assessed to understand long‐term viral effects.</p><p>We focused on LC findings from (epi)genetic, transcriptomic, proteomic, metabolomics, and microbiome perspectives. Additional omics layers such as lipidomics, exposomics, and breathomics could provide further insights [<xref rid="all16526-bib-0032" ref-type="bibr">32</xref>, <xref rid="all16526-bib-0070" ref-type="bibr">70</xref>]. Figure <xref rid="all16526-fig-0002" ref-type="fig">2</xref> outlines areas to improve validity and reveal biomolecule–phenotype associations. The majority of the included studies investigated proteomics and metabolomics, associated with cardiovascular fatigue symptoms, respectively, while epigenomics and metagenomics remain relatively unexplored. Several studies performed multi‐omics studies, showing how studying multiple layers can confirm and contextualize findings. Combining proteomics, metabolomics, and transcriptomics has shown promising results. Metagenomics and metabolomics revealed significant correlations that illustrated the effects of ectopic microbial colonization in the oral cavity. While different omics layers are related, their integration is still lacking in most studies. A published protocol by Wang et al. describes multi‐omics data analysis methods applicable to diseases other than LC, demonstrating efforts to help researchers understand how these data can be used to elucidate disease phenotypes in future studies [<xref rid="all16526-bib-0071" ref-type="bibr">71</xref>].</p><p>While this was not the focus of this review, understanding the relationship between AC and LC from an omics perspective could be another valuable future direction to identify high‐risk individuals for LC development. AC reflects immediate changes in multiple omics layers, while LC is characterized by evolving and persistent alterations in these omics layers. Cai et al. reported that the burden of LC at 3 years post‐COVID is highest among previously hospitalized patients, demonstrating the impact of AC heterogeneity on LC [<xref rid="all16526-bib-0072" ref-type="bibr">72</xref>]. Su et al. employed an integrated multi‐omics approach to identify LC biomarkers, emphasizing latent virus reactivation and autoantibodies as key factors, and classified patients on immune endotypes [<xref rid="all16526-bib-0073" ref-type="bibr">73</xref>]. Stratification by acute disease severity has shown significant differences in the composition of the oral microbiome over time and the circulating proteome, linked to time after infection, as well as gene expression differences [<xref rid="all16526-bib-0022" ref-type="bibr">22</xref>, <xref rid="all16526-bib-0074" ref-type="bibr">74</xref>, <xref rid="all16526-bib-0075" ref-type="bibr">75</xref>]. Furthermore, severe COVID‐19 was related to an increased risk of developing neuropsychiatric disorders, specifically Alzheimer's disease [<xref rid="all16526-bib-0076" ref-type="bibr">76</xref>]. However, it is also suggested that the acute infection phase may not always provide insights into long‐term post‐viral effects [<xref rid="all16526-bib-0077" ref-type="bibr">77</xref>].</p></sec><sec sec-type="conclusions" id="all16526-sec-0031"><label>5</label><title>Conclusion</title><p>This systematic review provided a comprehensive omics overview of LC symptom‐based phenotypes and offered recommendations for potential treatable traits. The findings demonstrate the progress in understanding the biomolecular mechanisms underlying LC and identify the next steps for future research. This will enhance our understanding of this complex condition and aid in developing targeted prevention and treatment strategies for precision medicine in LC.</p></sec><sec id="all16526-sec-0033"><title>Author Contributions</title><p>All authors conceptualized the work, provided a critical review of the manuscript, and approved it for submission. N.B. searched for studies and drafted the review. N.B. and E.M.A.S. screened studies for eligibility and extracted data. N.B., E.M.A.S., K.G., and A.H.M.Z. were responsible for the methods.</p></sec><sec sec-type="COI-statement" id="all16526-sec-0032"><title>Conflicts of Interest</title><p>A.H.M.: She is the PI of a public‐private consortium (P4O2 (Precision Medicine for More Oxygen)) sponsored by Health Holland involving many private partners that contribute in cash and/or in kind (AbbVie. Boehringer Ingelheim, Breathomix, Clear, Fluidda, Ortec Logiqcare, Olive, Philips, Quantib‐U, Smartfish, Clear, SODAQ, Thirona, Roche, TopMD, Novartis, RespiQ). Received unrestricted research grant from GSK and Boehringer Ingelheim. Received Vertex Innovation Award Grant. Honoraria paid to the Institution from Boehringer Ingelheim, Astra Zeneca, and GSK. She is Chair of the DSMB of a study on BPD in neonates. K.G.: received funding from STIMAG, GSK ISS, ZonMw. Payments made to the institution by GSK and ALK. S.W.K.: received salary from the Cancer Research Institute, Postdoctoral Fellowship Grant. N.B., E.M.A.S., M.I.A.‐A., H.J.B.: nothing to declare.</p></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material id="all16526-supitem-0001" position="float" content-type="local-data" orientation="portrait"><caption><p>
+Data S1.
+</p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ALL-80-932-s001.docx" position="float" orientation="portrait"/></supplementary-material></sec></body><back><sec sec-type="data-availability" id="all16526-sec-0035"><title>Data Availability Statement</title><p>Data sharing is not applicable to this article as no new data were created or analyzed in this study.</p></sec><ref-list content-type="cited-references" id="all16526-bibl-0001"><title>References</title><ref id="all16526-bib-0001"><label>1</label><mixed-citation publication-type="miscellaneous" id="all16526-cit-0001">
+<collab collab-type="authors">CDC</collab>
+, <article-title>“The Changing Threat of COVID‐19,”</article-title>
+<year>2024</year>, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.cdc.gov/ncird/whats-new/changing-threat-covid-19.html" ext-link-type="uri">https://www.cdc.gov/ncird/whats‐new/changing‐threat‐covid‐19.html</ext-link>.</mixed-citation></ref><ref id="all16526-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="all16526-cit-0002">
+<string-name name-style="western">
+<given-names>F.</given-names>
+<surname>Di Gennaro</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Belati</surname>
+</string-name>, <string-name name-style="western">
+<given-names>O.</given-names>
+<surname>Tulone</surname>
+</string-name>, et al., “<article-title>Incidence of Long COVID‐19 in People With Previous SARS‐Cov2 Infection: A Systematic Review and Meta‐Analysis of 120,970 Patients</article-title>,” <source>Internal and Emergency Medicine</source>
+<volume>18</volume>, no. <issue>5</issue> (<year>2023</year>): <fpage>1573</fpage>–<lpage>1581</lpage>.<pub-id pub-id-type="pmid">36449260</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s11739-022-03164-w</pub-id><pub-id pub-id-type="pmcid">PMC9709360</pub-id></mixed-citation></ref><ref id="all16526-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="all16526-cit-0003">
+<string-name name-style="western">
+<given-names>A. V.</given-names>
+<surname>Raveendran</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Jayadevan</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Sashidharan</surname>
+</string-name>, “<article-title>Long COVID: An Overview</article-title>,” <source>Diabetes and Metabolic Syndrome: Clinical Research and Reviews</source>
+<volume>15</volume>, no. <issue>3</issue> (<year>2021</year>): <fpage>869</fpage>–<lpage>875</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.dsx.2021.04.007</pub-id><pub-id pub-id-type="pmcid">PMC8056514</pub-id><pub-id pub-id-type="pmid">33892403</pub-id></mixed-citation></ref><ref id="all16526-bib-0004"><label>4</label><mixed-citation publication-type="miscellaneous" id="all16526-cit-0004">
+<collab collab-type="authors">World Health Organization</collab>
+, <article-title>Post COVID‐19 condition (Long COVID)</article-title>, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.who.int/europe/news-room/fact-sheets/item/post-covid-19-condition#:~:text=It%20is%20defined%20as%20the,months%20with%20no%20other%20explanation" ext-link-type="uri">https://www.who.int/europe/news‐room/fact‐sheets/item/post‐covid‐19‐condition#:~:text=It%20is%20defined%20as%20the,months%20with%20no%20other%20explanation</ext-link>.</mixed-citation></ref><ref id="all16526-bib-0005"><label>5</label><mixed-citation publication-type="miscellaneous" id="all16526-cit-0005">
+<collab collab-type="authors">Yale Medicine</collab>
+, <article-title>Long COVID (Post‐COVID Conditions, PCC)</article-title>, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.yalemedicine.org/conditions/long-covid-post-covid-conditions-pcc" ext-link-type="uri">https://www.yalemedicine.org/conditions/long‐covid‐post‐covid‐conditions‐pcc</ext-link>.</mixed-citation></ref><ref id="all16526-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="all16526-cit-0006">
+<string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Carfì</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Bernabei</surname>
+</string-name>, <string-name name-style="western">
+<given-names>F.</given-names>
+<surname>Landi</surname>
+</string-name>, and <collab collab-type="authors">Gemelli Against COVID‐19 Post‐Acute Care Study Group</collab>
+, “<article-title>Persistent Symptoms in Patients After Acute COVID‐19</article-title>,” <source>Journal of the American Medical Association</source>
+<volume>324</volume>, no. <issue>6</issue> (<year>2020</year>): <fpage>603</fpage>.<pub-id pub-id-type="pmid">32644129</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1001/jama.2020.12603</pub-id><pub-id pub-id-type="pmcid">PMC7349096</pub-id></mixed-citation></ref><ref id="all16526-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="all16526-cit-0007">
+<string-name name-style="western">
+<given-names>H. E.</given-names>
+<surname>Davis</surname>
+</string-name>, <string-name name-style="western">
+<given-names>G. S.</given-names>
+<surname>Assaf</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L.</given-names>
+<surname>McCorkell</surname>
+</string-name>, et al., “<article-title>Characterizing Long COVID in an International Cohort: 7 Months of Symptoms and Their Impact</article-title>,” <source>EClinicalMedicine</source>
+<volume>38</volume> (<year>2021</year>): <elocation-id>101019</elocation-id>, <pub-id pub-id-type="doi">10.1016/j.eclinm.2021.101019</pub-id>.<pub-id pub-id-type="pmid">34308300</pub-id>
+<pub-id pub-id-type="pmcid">PMC8280690</pub-id></mixed-citation></ref><ref id="all16526-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="all16526-cit-0008">
+<string-name name-style="western">
+<given-names>N.</given-names>
+<surname>Baalbaki</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J. M.</given-names>
+<surname>Blankestijn</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M. I.</given-names>
+<surname>Abdel‐Aziz</surname>
+</string-name>, et al., “<article-title>Precision Medicine for More Oxygen (P4O2)—Study Design and First Results of the Long COVID‐19 Extension</article-title>,” <source>JPM</source>
+<volume>13</volume>, no. <issue>7</issue> (<year>2023</year>): <fpage>1060</fpage>.<pub-id pub-id-type="pmid">37511673</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3390/jpm13071060</pub-id><pub-id pub-id-type="pmcid">PMC10381397</pub-id></mixed-citation></ref><ref id="all16526-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="all16526-cit-0009">
+<collab collab-type="authors">The Lancet Infectious Diseases</collab>
+, “<article-title>Where Are the Long COVID Trials?</article-title>,” <source>Lancet Infectious Diseases</source>
+<volume>23</volume>, no. <issue>8</issue> (<year>2023</year>): <fpage>879</fpage>.<pub-id pub-id-type="pmid">37507151</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/S1473-3099(23)00440-1</pub-id></mixed-citation></ref><ref id="all16526-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="all16526-cit-0010">
+<string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Fairbank</surname>
+</string-name>, “<article-title>Long COVID Still Has no Cure—So These Patients Are Turning to Research</article-title>,” <source>Nature</source>
+<volume>628</volume>, no. <issue>8006</issue> (<year>2024</year>): <fpage>26</fpage>–<lpage>28</lpage>.<pub-id pub-id-type="pmid">38565658</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/d41586-024-00901-3</pub-id></mixed-citation></ref><ref id="all16526-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="all16526-cit-0011">
+<string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Picard</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M. P.</given-names>
+<surname>Scott‐Boyer</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Bodein</surname>
+</string-name>, <string-name name-style="western">
+<given-names>O.</given-names>
+<surname>Périn</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Droit</surname>
+</string-name>, “<article-title>Integration Strategies of Multi‐Omics Data for Machine Learning Analysis</article-title>,” <source>Computational and Structural Biotechnology Journal</source>
+<volume>19</volume> (<year>2021</year>): <fpage>3735</fpage>–<lpage>3746</lpage>.<pub-id pub-id-type="pmid">34285775</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.csbj.2021.06.030</pub-id><pub-id pub-id-type="pmcid">PMC8258788</pub-id></mixed-citation></ref><ref id="all16526-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="all16526-cit-0012">
+<string-name name-style="western">
+<given-names>B.</given-names>
+<surname>Mirza</surname>
+</string-name>, <string-name name-style="western">
+<given-names>W.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Choi</surname>
+</string-name>, <string-name name-style="western">
+<given-names>N. C.</given-names>
+<surname>Chung</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>P.</given-names>
+<surname>Ping</surname>
+</string-name>, “<article-title>Machine Learning and Integrative Analysis of Biomedical Big Data</article-title>,” <source>Genes</source>
+<volume>10</volume>, no. <issue>2</issue> (<year>2019</year>): <fpage>87</fpage>.<pub-id pub-id-type="pmid">30696086</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3390/genes10020087</pub-id><pub-id pub-id-type="pmcid">PMC6410075</pub-id></mixed-citation></ref><ref id="all16526-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="all16526-cit-0013">
+<string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Kang</surname>
+</string-name>, <string-name name-style="western">
+<given-names>E.</given-names>
+<surname>Ko</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>T. B.</given-names>
+<surname>Mersha</surname>
+</string-name>, “<article-title>A Roadmap for Multi‐Omics Data Integration Using Deep Learning</article-title>,” <source>Briefings in Bioinformatics</source>
+<volume>23</volume>, no. <issue>1</issue> (<year>2022</year>): <elocation-id>bbab454</elocation-id>.<pub-id pub-id-type="pmid">34791014</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/bib/bbab454</pub-id><pub-id pub-id-type="pmcid">PMC8769688</pub-id></mixed-citation></ref><ref id="all16526-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="all16526-cit-0014">
+<string-name name-style="western">
+<given-names>M. J.</given-names>
+<surname>Page</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J. E.</given-names>
+<surname>McKenzie</surname>
+</string-name>, <string-name name-style="western">
+<given-names>P. M.</given-names>
+<surname>Bossuyt</surname>
+</string-name>, et al., “<article-title>The PRISMA 2020 Statement: An Updated Guideline for Reporting Systematic Reviews</article-title>,” <source>BMJ</source>
+<volume>29</volume> (<year>2021</year>): <elocation-id>n71</elocation-id>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1136/bmj.n71</pub-id><pub-id pub-id-type="pmcid">PMC8005924</pub-id><pub-id pub-id-type="pmid">33782057</pub-id></mixed-citation></ref><ref id="all16526-bib-0015"><label>15</label><mixed-citation publication-type="miscellaneous" id="all16526-cit-0015">
+<collab collab-type="authors">World Health Organization</collab>
+, <article-title>Coronavirus disease (COVID‐19): Post COVID‐19 Condition</article-title>, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.who.int/news-room/questions-and-answers/item/coronavirus-disease-(covid-19)-post-covid-19-condition" ext-link-type="uri">https://www.who.int/news‐room/questions‐and‐answers/item/coronavirus‐disease‐(covid‐19)‐post‐covid‐19‐condition</ext-link>.</mixed-citation></ref><ref id="all16526-bib-0016"><label>16</label><mixed-citation publication-type="miscellaneous" id="all16526-cit-0016">
+<collab collab-type="authors">JBI</collab>
+, <article-title>Critical Appraisal Tools</article-title>, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://jbi.global/critical-appraisal-tools" ext-link-type="uri">https://jbi.global/critical‐appraisal‐tools</ext-link>.</mixed-citation></ref><ref id="all16526-bib-0017"><label>17</label><mixed-citation publication-type="journal" id="all16526-cit-0017">
+<string-name name-style="western">
+<given-names>H. E.</given-names>
+<surname>Davis</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L.</given-names>
+<surname>McCorkell</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J. M.</given-names>
+<surname>Vogel</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>E. J.</given-names>
+<surname>Topol</surname>
+</string-name>, “<article-title>Long COVID: Major Findings, Mechanisms and Recommendations</article-title>,” <source>Nature Reviews. Microbiology</source>
+<volume>21</volume>, no. <issue>3</issue> (<year>2023</year>): <fpage>133</fpage>–<lpage>146</lpage>.<pub-id pub-id-type="pmid">36639608</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41579-022-00846-2</pub-id><pub-id pub-id-type="pmcid">PMC9839201</pub-id></mixed-citation></ref><ref id="all16526-bib-0018"><label>18</label><mixed-citation publication-type="journal" id="all16526-cit-0018">
+<string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Nalbandian</surname>
+</string-name>, <string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Sehgal</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Gupta</surname>
+</string-name>, et al., “<article-title>Post‐Acute COVID‐19 Syndrome</article-title>,” <source>Nature Medicine</source>
+<volume>27</volume>, no. <issue>4</issue> (<year>2021</year>): <fpage>601</fpage>–<lpage>615</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41591-021-01283-z</pub-id><pub-id pub-id-type="pmcid">PMC8893149</pub-id><pub-id pub-id-type="pmid">33753937</pub-id></mixed-citation></ref><ref id="all16526-bib-0019"><label>19</label><mixed-citation publication-type="journal" id="all16526-cit-0019">
+<string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Zhao</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Schank</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Wang</surname>
+</string-name>, et al., “<article-title>Plasma Biomarkers for Systemic Inflammation in COVID‐19 Survivors</article-title>,” <source>Proteomics. Clinical Applications</source>
+<volume>16</volume>, no. <issue>5</issue> (<year>2022</year>): <elocation-id>e2200031</elocation-id>.<pub-id pub-id-type="pmid">35929818</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/prca.202200031</pub-id><pub-id pub-id-type="pmcid">PMC9539278</pub-id></mixed-citation></ref><ref id="all16526-bib-0020"><label>20</label><mixed-citation publication-type="journal" id="all16526-cit-0020">
+<string-name name-style="western">
+<given-names>Q.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J. W. Y.</given-names>
+<surname>Mak</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Q.</given-names>
+<surname>Su</surname>
+</string-name>, et al., “<article-title>Gut Microbiota Dynamics in a Prospective Cohort of Patients With Post‐Acute COVID‐19 Syndrome</article-title>,” <source>Gut</source>
+<volume>71</volume>, no. <issue>3</issue> (<year>2022</year>): <fpage>544</fpage>–<lpage>552</lpage>.<pub-id pub-id-type="pmid">35082169</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1136/gutjnl-2021-325989</pub-id></mixed-citation></ref><ref id="all16526-bib-0021"><label>21</label><mixed-citation publication-type="journal" id="all16526-cit-0021">
+<string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Kruger</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Vlok</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Turner</surname>
+</string-name>, et al., “<article-title>Proteomics of Fibrin Amyloid Microclots in Long COVID/Post‐Acute Sequelae of COVID‐19 (PASC) Shows Many Entrapped Pro‐Inflammatory Molecules That May Also Contribute to a Failed Fibrinolytic System</article-title>,” <source>Cardiovascular Diabetology</source>
+<volume>21</volume>, no. <issue>1</issue> (<year>2022</year>): <fpage>190</fpage>.<pub-id pub-id-type="pmid">36131342</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1186/s12933-022-01623-4</pub-id><pub-id pub-id-type="pmcid">PMC9491257</pub-id></mixed-citation></ref><ref id="all16526-bib-0022"><label>22</label><mixed-citation publication-type="journal" id="all16526-cit-0022">
+<string-name name-style="western">
+<given-names>F. J.</given-names>
+<surname>Ryan</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C. M.</given-names>
+<surname>Hope</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M. G.</given-names>
+<surname>Masavuli</surname>
+</string-name>, et al., “<article-title>Long‐Term Perturbation of the Peripheral Immune System Months After SARS‐CoV‐2 Infection</article-title>,” <source>BMC Medicine</source>
+<volume>20</volume>, no. <issue>1</issue> (<year>2022</year>): <fpage>26</fpage>.<pub-id pub-id-type="pmid">35027067</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1186/s12916-021-02228-6</pub-id><pub-id pub-id-type="pmcid">PMC8758383</pub-id></mixed-citation></ref><ref id="all16526-bib-0023"><label>23</label><mixed-citation publication-type="journal" id="all16526-cit-0023">
+<string-name name-style="western">
+<given-names>B.</given-names>
+<surname>Vijayakumar</surname>
+</string-name>, <string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Boustani</surname>
+</string-name>, <string-name name-style="western">
+<given-names>P. P.</given-names>
+<surname>Ogger</surname>
+</string-name>, et al., “<article-title>Immuno‐Proteomic Profiling Reveals Aberrant Immune Cell Regulation in the Airways of Individuals With Ongoing Post‐COVID‐19 Respiratory Disease</article-title>,” <source>Immunity</source>
+<volume>55</volume>, no. <issue>3</issue> (<year>2022</year>): <fpage>542</fpage>–<lpage>556.e5</lpage>.<pub-id pub-id-type="pmid">35151371</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.immuni.2022.01.017</pub-id><pub-id pub-id-type="pmcid">PMC8789571</pub-id></mixed-citation></ref><ref id="all16526-bib-0024"><label>24</label><mixed-citation publication-type="journal" id="all16526-cit-0024">
+<string-name name-style="western">
+<given-names>T.</given-names>
+<surname>Aschman</surname>
+</string-name>, <string-name name-style="western">
+<given-names>E.</given-names>
+<surname>Wyler</surname>
+</string-name>, <string-name name-style="western">
+<given-names>O.</given-names>
+<surname>Baum</surname>
+</string-name>, et al., “<article-title>Post‐COVID Exercise Intolerance Is Associated With Capillary Alterations and Immune Dysregulations in Skeletal Muscles</article-title>,” <source>Acta Neuropathologica Communications</source>
+<volume>11</volume>, no. <issue>1</issue> (<year>2023</year>): <fpage>193</fpage>.<pub-id pub-id-type="pmid">38066589</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1186/s40478-023-01662-2</pub-id><pub-id pub-id-type="pmcid">PMC10704838</pub-id></mixed-citation></ref><ref id="all16526-bib-0025"><label>25</label><mixed-citation publication-type="journal" id="all16526-cit-0025">
+<string-name name-style="western">
+<given-names>G.</given-names>
+<surname>Berezhnoy</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Bissinger</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Liu</surname>
+</string-name>, et al., “<article-title>Maintained Imbalance of Triglycerides, Apolipoproteins, Energy Metabolites and Cytokines in Long‐Term COVID‐19 Syndrome Patients</article-title>,” <source>Frontiers in Immunology</source>
+<volume>14</volume> (<year>2023</year>): <elocation-id>1144224</elocation-id>.<pub-id pub-id-type="pmid">37228606</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3389/fimmu.2023.1144224</pub-id><pub-id pub-id-type="pmcid">PMC10203989</pub-id></mixed-citation></ref><ref id="all16526-bib-0026"><label>26</label><mixed-citation publication-type="journal" id="all16526-cit-0026">
+<string-name name-style="western">
+<given-names>B.</given-names>
+<surname>Dufrusine</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Valentinuzzi</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Bibbò</surname>
+</string-name>, et al., “<article-title>Iron Dyshomeostasis in COVID‐19: Biomarkers Reveal a Functional Link to 5‐Lipoxygenase Activation</article-title>,” <source>International Journal of Molecular Sciences</source>
+<volume>24</volume>, no. <issue>1</issue> (<year>2022</year>): <fpage>15</fpage>.<pub-id pub-id-type="pmid">36613462</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3390/ijms24010015</pub-id><pub-id pub-id-type="pmcid">PMC9819889</pub-id></mixed-citation></ref><ref id="all16526-bib-0027"><label>27</label><mixed-citation publication-type="journal" id="all16526-cit-0027">
+<string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Guo</surname>
+</string-name>, <string-name name-style="western">
+<given-names>B.</given-names>
+<surname>Appelman</surname>
+</string-name>, <string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Mooij‐Kalverda</surname>
+</string-name>, et al., “<article-title>Prolonged Indoleamine 2,3‐Dioxygenase‐2 Activity and Associated Cellular Stress in Post‐Acute Sequelae of SARS‐CoV‐2 Infection</article-title>,” <source>eBioMedicine</source>
+<volume>94</volume> (<year>2023</year>): <elocation-id>104729</elocation-id>.<pub-id pub-id-type="pmid">37506544</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.ebiom.2023.104729</pub-id><pub-id pub-id-type="pmcid">PMC10406961</pub-id></mixed-citation></ref><ref id="all16526-bib-0028"><label>28</label><mixed-citation publication-type="journal" id="all16526-cit-0028">
+<string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Iosef</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M. J.</given-names>
+<surname>Knauer</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Nicholson</surname>
+</string-name>, et al., “<article-title>Plasma Proteome of Long‐COVID Patients Indicates HIF‐Mediated Vasculo‐Proliferative Disease With Impact on Brain and Heart Function</article-title>,” <source>Journal of Translational Medicine</source>
+<volume>21</volume>, no. <issue>1</issue> (<year>2023</year>): <fpage>377</fpage>.<pub-id pub-id-type="pmid">37301958</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1186/s12967-023-04149-9</pub-id><pub-id pub-id-type="pmcid">PMC10257382</pub-id></mixed-citation></ref><ref id="all16526-bib-0029"><label>29</label><mixed-citation publication-type="journal" id="all16526-cit-0029">
+<string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Kazantseva</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Enikeeva</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Z.</given-names>
+<surname>Takhirova</surname>
+</string-name>, et al., “<article-title>Host Genetic Variants Linked to COVID‐19 Neurological Complications and Susceptibility in Young Adults‐A Preliminary Analysis</article-title>,” <source>Journal of Personalized Medicine</source>
+<volume>13</volume>, no. <issue>1</issue> (<year>2023</year>): <elocation-id>123</elocation-id>.<pub-id pub-id-type="pmid">36675784</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3390/jpm13010123</pub-id><pub-id pub-id-type="pmcid">PMC9860613</pub-id></mixed-citation></ref><ref id="all16526-bib-0030"><label>30</label><mixed-citation publication-type="journal" id="all16526-cit-0030">
+<string-name name-style="western">
+<given-names>J. J.</given-names>
+<surname>Kovarik</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Bileck</surname>
+</string-name>, <string-name name-style="western">
+<given-names>G.</given-names>
+<surname>Hagn</surname>
+</string-name>, et al., “<article-title>A Multi‐Omics Based Anti‐Inflammatory Immune Signature Characterizes Long COVID‐19 Syndrome</article-title>,” <source>iScience</source>
+<volume>26</volume>, no. <issue>1</issue> (<year>2023</year>): <elocation-id>105717</elocation-id>.<pub-id pub-id-type="pmid">36507225</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.isci.2022.105717</pub-id><pub-id pub-id-type="pmcid">PMC9719844</pub-id></mixed-citation></ref><ref id="all16526-bib-0031"><label>31</label><mixed-citation publication-type="journal" id="all16526-cit-0031">
+<string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>López‐Hernández</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Monárrez‐Espino</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D. A. G.</given-names>
+<surname>López</surname>
+</string-name>, et al., “<article-title>The Plasma Metabolome of Long COVID Patients Two Years After Infection</article-title>,” <source>Scientific Reports</source>
+<volume>13</volume>, no. <issue>1</issue> (<year>2023</year>): <fpage>12420</fpage>.<pub-id pub-id-type="pmid">37528111</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41598-023-39049-x</pub-id><pub-id pub-id-type="pmcid">PMC10394026</pub-id></mixed-citation></ref><ref id="all16526-bib-0032"><label>32</label><mixed-citation publication-type="journal" id="all16526-cit-0032">
+<string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Mahdi</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Zhao</surname>
+</string-name>, <string-name name-style="western">
+<given-names>E.</given-names>
+<surname>Fredengren</surname>
+</string-name>, et al., “<article-title>Dysregulations in Hemostasis, Metabolism, Immune Response, and Angiogenesis in Post‐Acute COVID‐19 Syndrome With and Without Postural Orthostatic Tachycardia Syndrome: A Multi‐Omic Profiling Study</article-title>,” <source>Scientific Reports</source>
+<volume>13</volume>, no. <issue>1</issue> (<year>2023</year>): <fpage>20230</fpage>.<pub-id pub-id-type="pmid">37981644</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41598-023-47539-1</pub-id><pub-id pub-id-type="pmcid">PMC10658082</pub-id></mixed-citation></ref><ref id="all16526-bib-0033"><label>33</label><mixed-citation publication-type="journal" id="all16526-cit-0033">
+<string-name name-style="western">
+<given-names>M. C.</given-names>
+<surname>Medori</surname>
+</string-name>, <string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Dhuli</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Tezzele</surname>
+</string-name>, et al., “<article-title>Serum Proteomic Profiling Reveals Potential Inflammatory Biomarkers in Long‐COVID Patients: A Comparative Analysis With Healthy Controls</article-title>,” <source>European Review for Medical and Pharmacological Sciences</source>
+<volume>27</volume>, no. <issue>6 Suppl</issue> (<year>2023</year>): <fpage>1</fpage>–<lpage>12</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.26355/eurrev_202312_34684</pub-id><pub-id pub-id-type="pmid">38112943</pub-id></mixed-citation></ref><ref id="all16526-bib-0034"><label>34</label><mixed-citation publication-type="journal" id="all16526-cit-0034">
+<string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Peppercorn</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C. D.</given-names>
+<surname>Edgar</surname>
+</string-name>, <string-name name-style="western">
+<given-names>T.</given-names>
+<surname>Kleffmann</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>W. P.</given-names>
+<surname>Tate</surname>
+</string-name>, “<article-title>A Pilot Study on the Immune Cell Proteome of Long COVID Patients Shows Changes to Physiological Pathways Similar to Those in Myalgic Encephalomyelitis/Chronic Fatigue Syndrome</article-title>,” <source>Scientific Reports</source>
+<volume>13</volume>, no. <issue>1</issue> (<year>2023</year>): <fpage>22068</fpage>.<pub-id pub-id-type="pmid">38086949</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41598-023-49402-9</pub-id><pub-id pub-id-type="pmcid">PMC10716514</pub-id></mixed-citation></ref><ref id="all16526-bib-0035"><label>35</label><mixed-citation publication-type="journal" id="all16526-cit-0035">
+<string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Sanhueza</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M. A.</given-names>
+<surname>Vidal</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M. A.</given-names>
+<surname>Hernandez</surname>
+</string-name>, et al., “<article-title>Clinical and Pulmonary Function Analysis in Long‐COVID Revealed That Long‐Term Pulmonary Dysfunction Is Associated With Vascular Inflammation Pathways and Metabolic Syndrome</article-title>,” <source>Frontiers in Medicine</source>
+<volume>10</volume> (<year>2023</year>): <elocation-id>1271863</elocation-id>.<pub-id pub-id-type="pmid">37869162</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3389/fmed.2023.1271863</pub-id><pub-id pub-id-type="pmcid">PMC10590130</pub-id></mixed-citation></ref><ref id="all16526-bib-0036"><label>36</label><mixed-citation publication-type="journal" id="all16526-cit-0036">
+<string-name name-style="western">
+<given-names>R. A.</given-names>
+<surname>Sykes</surname>
+</string-name>, <string-name name-style="western">
+<given-names>K. B.</given-names>
+<surname>Neves</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Alves‐Lopes</surname>
+</string-name>, et al., “<article-title>Vascular Mechanisms of Post‐COVID‐19 Conditions: Rho‐Kinase Is a Novel Target for Therapy</article-title>,” <source>European Heart Journal–Cardiovascular Pharmacotherapy</source>
+<volume>9</volume> (<year>2023</year>): <elocation-id>pvad025</elocation-id>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/ehjcvp/pvad025</pub-id><pub-id pub-id-type="pmcid">PMC10236521</pub-id><pub-id pub-id-type="pmid">37019821</pub-id></mixed-citation></ref><ref id="all16526-bib-0037"><label>37</label><mixed-citation publication-type="journal" id="all16526-cit-0037">
+<string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Taenzer</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Löffler‐Ragg</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Schroll</surname>
+</string-name>, et al., “<article-title>Urine Metabolite Analysis to Identify Pathomechanisms of Long COVID: A Pilot Study</article-title>,” <source>International Journal of Tryptophan Research</source>
+<volume>16</volume> (<year>2023</year>): <elocation-id>11786469231220781</elocation-id>.<pub-id pub-id-type="pmid">38144169</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1177/11786469231220781</pub-id><pub-id pub-id-type="pmcid">PMC10748708</pub-id></mixed-citation></ref><ref id="all16526-bib-0038"><label>38</label><mixed-citation publication-type="journal" id="all16526-cit-0038">
+<string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Taylor</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Pearson</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Das</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Sardell</surname>
+</string-name>, <string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Chocian</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Gardner</surname>
+</string-name>, “<article-title>Genetic Risk Factors for Severe and Fatigue Dominant Long COVID and Commonalities With ME/CFS Identified by Combinatorial Analysis</article-title>,” <source>Journal of Translational Medicine</source>
+<volume>21</volume>, no. <issue>1</issue> (<year>2023</year>): <fpage>775</fpage>.<pub-id pub-id-type="pmid">37915075</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1186/s12967-023-04588-4</pub-id><pub-id pub-id-type="pmcid">PMC10621206</pub-id></mixed-citation></ref><ref id="all16526-bib-0039"><label>39</label><mixed-citation publication-type="journal" id="all16526-cit-0039">
+<string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Visvabharathy</surname>
+</string-name>, <string-name name-style="western">
+<given-names>B. A.</given-names>
+<surname>Hanson</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Z. S.</given-names>
+<surname>Orban</surname>
+</string-name>, et al., “<article-title>Neuro‐PASC Is Characterized by Enhanced CD4<sup>+</sup> and Diminished CD8+ T Cell Responses to SARS‐CoV‐2 Nucleocapsid Protein</article-title>,” <source>Frontiers in Immunology</source>
+<volume>14</volume> (<year>2023</year>): <elocation-id>1155770</elocation-id>.<pub-id pub-id-type="pmid">37313412</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3389/fimmu.2023.1155770</pub-id><pub-id pub-id-type="pmcid">PMC10258318</pub-id></mixed-citation></ref><ref id="all16526-bib-0040"><label>40</label><mixed-citation publication-type="journal" id="all16526-cit-0040">
+<string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Khoramjoo</surname>
+</string-name>, <string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Srinivasan</surname>
+</string-name>, et al., “<article-title>Sequential Multi‐Omics Analysis Identifies Clinical Phenotypes and Predictive Biomarkers for Long COVID</article-title>,” <source>Cell Reports Medicine</source>
+<volume>4</volume>, no. <issue>11</issue> (<year>2023</year>): <elocation-id>101254</elocation-id>.<pub-id pub-id-type="pmid">37890487</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.xcrm.2023.101254</pub-id><pub-id pub-id-type="pmcid">PMC10694626</pub-id></mixed-citation></ref><ref id="all16526-bib-0041"><label>41</label><mixed-citation publication-type="journal" id="all16526-cit-0041">
+<string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Weng</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Xia</surname>
+</string-name>, et al., “<article-title>Gastrointestinal Symptoms of Long COVID‐19 Related to the Ectopic Colonization of Specific Bacteria That Move Between the Upper and Lower Alimentary Tract and Alterations in Serum Metabolites</article-title>,” <source>BMC Medicine</source>
+<volume>21</volume>, no. <issue>1</issue> (<year>2023</year>): <fpage>264</fpage>.<pub-id pub-id-type="pmid">37468867</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1186/s12916-023-02972-x</pub-id><pub-id pub-id-type="pmcid">PMC10355065</pub-id></mixed-citation></ref><ref id="all16526-bib-0042"><label>42</label><mixed-citation publication-type="journal" id="all16526-cit-0042">
+<string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Briviba</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Silamikele</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Birzniece</surname>
+</string-name>, et al., “<article-title>Gut Microbiome Composition and Dynamics in Hospitalized COVID‐19 Patients and Patients With Post‐Acute COVID‐19 Syndrome</article-title>,” <source>International Journal of Molecular Sciences</source>
+<volume>25</volume>, no. <issue>1</issue> (<year>2024</year>): <elocation-id>567</elocation-id>.<pub-id pub-id-type="pmid">38203738</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3390/ijms25010567</pub-id><pub-id pub-id-type="pmcid">PMC10779053</pub-id></mixed-citation></ref><ref id="all16526-bib-0043"><label>43</label><mixed-citation publication-type="journal" id="all16526-cit-0043">
+<string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Cervia‐Hasler</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S. C.</given-names>
+<surname>Brüningk</surname>
+</string-name>, <string-name name-style="western">
+<given-names>T.</given-names>
+<surname>Hoch</surname>
+</string-name>, et al., “<article-title>Persistent Complement Dysregulation With Signs of Thromboinflammation in Active Long Covid</article-title>,” <source>Science</source>
+<volume>383</volume>, no. <issue>6680</issue> (<year>2024</year>): <fpage>1</fpage>–<lpage>18</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1126/science.adg7942</pub-id><pub-id pub-id-type="pmid">38236961</pub-id></mixed-citation></ref><ref id="all16526-bib-0044"><label>44</label><mixed-citation publication-type="journal" id="all16526-cit-0044">
+<string-name name-style="western">
+<given-names>M. C.</given-names>
+<surname>García‐Hidalgo</surname>
+</string-name>, <string-name name-style="western">
+<given-names>I. D.</given-names>
+<surname>Benítez</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Perez‐Pons</surname>
+</string-name>, et al., “<article-title>MicroRNA‐Guided Drug Discovery for Mitigating Persistent Pulmonary Complications in Critical COVID‐19 Survivors: A Longitudinal Pilot Study</article-title>,” <source>British Journal of Pharmacology</source>
+<volume>182</volume> (<year>2024</year>): <elocation-id>380</elocation-id>.<pub-id pub-id-type="pmid">38359818</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/bph.16330</pub-id></mixed-citation></ref><ref id="all16526-bib-0045"><label>45</label><mixed-citation publication-type="journal" id="all16526-cit-0045">
+<string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Greene</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Connolly</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Brennan</surname>
+</string-name>, et al., “<article-title>Blood‐Brain Barrier Disruption and Sustained Systemic Inflammation in Individuals With Long COVID‐Associated Cognitive Impairment</article-title>,” <source>Nature Neuroscience</source>
+<volume>27</volume> (<year>2024</year>): <fpage>421</fpage>.<pub-id pub-id-type="pmid">38388736</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41593-024-01576-9</pub-id><pub-id pub-id-type="pmcid">PMC10917679</pub-id></mixed-citation></ref><ref id="all16526-bib-0046"><label>46</label><mixed-citation publication-type="journal" id="all16526-cit-0046">
+<string-name name-style="western">
+<given-names>V.</given-names>
+<surname>Hamrefors</surname>
+</string-name>, <string-name name-style="western">
+<given-names>F.</given-names>
+<surname>Kahn</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Holmqvist</surname>
+</string-name>, et al., “<article-title>Gut Microbiota Composition Is Altered in Postural Orthostatic Tachycardia Syndrome and Post‐Acute COVID‐19 Syndrome</article-title>,” <source>Scientific Reports</source>
+<volume>14</volume>, no. <issue>1</issue> (<year>2024</year>): <fpage>3389</fpage>.<pub-id pub-id-type="pmid">38336892</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41598-024-53784-9</pub-id><pub-id pub-id-type="pmcid">PMC10858216</pub-id></mixed-citation></ref><ref id="all16526-bib-0047"><label>47</label><mixed-citation publication-type="journal" id="all16526-cit-0047">
+<string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Saito</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Shahbaz</surname>
+</string-name>, <string-name name-style="western">
+<given-names>X.</given-names>
+<surname>Luo</surname>
+</string-name>, et al., “<article-title>Metabolomic and Immune Alterations in Long COVID Patients With Chronic Fatigue Syndrome</article-title>,” <source>Frontiers in Immunology</source>
+<volume>15</volume> (<year>2024</year>): <elocation-id>1341843</elocation-id>.<pub-id pub-id-type="pmid">38304426</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3389/fimmu.2024.1341843</pub-id><pub-id pub-id-type="pmcid">PMC10830702</pub-id></mixed-citation></ref><ref id="all16526-bib-0048"><label>48</label><mixed-citation publication-type="journal" id="all16526-cit-0048">
+<string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Nemeth</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Toldi</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Vecsei</surname>
+</string-name>, “<article-title>Role of Kynurenines in the Central and Peripherial Nervous Systems</article-title>,” <source>CNR</source>
+<volume>2</volume>, no. <issue>3</issue> (<year>2005</year>): <fpage>249</fpage>–<lpage>260</lpage>.<pub-id pub-id-type="pmid">16181118</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.2174/1567202054368326</pub-id></mixed-citation></ref><ref id="all16526-bib-0049"><label>49</label><mixed-citation publication-type="journal" id="all16526-cit-0049">
+<string-name name-style="western">
+<given-names>V.</given-names>
+<surname>Tsampasian</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Bäck</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Bernardi</surname>
+</string-name>, et al., “<article-title>Cardiovascular Disease as Part of Long COVID: A Systematic Review</article-title>,” <source>European Journal of Preventive Cardiology</source> (<year>2024</year>): <elocation-id>zwae070</elocation-id>.<pub-id pub-id-type="pmid">38381595</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/eurjpc/zwae070</pub-id></mixed-citation></ref><ref id="all16526-bib-0050"><label>50</label><mixed-citation publication-type="journal" id="all16526-cit-0050">
+<string-name name-style="western">
+<given-names>M. J.</given-names>
+<surname>McGeachy</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D. J.</given-names>
+<surname>Cua</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>S. L.</given-names>
+<surname>Gaffen</surname>
+</string-name>, “<article-title>The IL‐17 Family of Cytokines in Health and Disease</article-title>,” <source>Immunity</source>
+<volume>50</volume>, no. <issue>4</issue> (<year>2019</year>): <fpage>892</fpage>–<lpage>906</lpage>.<pub-id pub-id-type="pmid">30995505</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.immuni.2019.03.021</pub-id><pub-id pub-id-type="pmcid">PMC6474359</pub-id></mixed-citation></ref><ref id="all16526-bib-0051"><label>51</label><mixed-citation publication-type="journal" id="all16526-cit-0051">
+<string-name name-style="western">
+<given-names>J. V.</given-names>
+<surname>Garmendia</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A. H.</given-names>
+<surname>García</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C. V.</given-names>
+<surname>De Sanctis</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Hajdúch</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>J. B.</given-names>
+<surname>De Sanctis</surname>
+</string-name>, “<article-title>Autoimmunity and Immunodeficiency in Severe SARS‐CoV‐2 Infection and Prolonged COVID‐19</article-title>,” <source>CIMB</source>
+<volume>45</volume>, no. <issue>1</issue> (<year>2022</year>): <fpage>33</fpage>–<lpage>50</lpage>.<pub-id pub-id-type="pmid">36661489</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3390/cimb45010003</pub-id><pub-id pub-id-type="pmcid">PMC9857622</pub-id></mixed-citation></ref><ref id="all16526-bib-0052"><label>52</label><mixed-citation publication-type="journal" id="all16526-cit-0052">
+<string-name name-style="western">
+<given-names>G. K.</given-names>
+<surname>Davis</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D. J.</given-names>
+<surname>Fehrenbach</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>M. S.</given-names>
+<surname>Madhur</surname>
+</string-name>, “<article-title>Interleukin 17A: Key Player in the Pathogenesis of Hypertension and a Potential Therapeutic Target</article-title>,” <source>Current Hypertension Reports</source>
+<volume>23</volume>, no. <issue>3</issue> (<year>2021</year>): <fpage>13</fpage>.<pub-id pub-id-type="pmid">33666761</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s11906-021-01128-7</pub-id><pub-id pub-id-type="pmcid">PMC8098861</pub-id></mixed-citation></ref><ref id="all16526-bib-0053"><label>53</label><mixed-citation publication-type="journal" id="all16526-cit-0053">
+<string-name name-style="western">
+<given-names>N.</given-names>
+<surname>Stepanova</surname>
+</string-name>, <string-name name-style="western">
+<given-names>V.</given-names>
+<surname>Driianska</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Rysyev</surname>
+</string-name>, <string-name name-style="western">
+<given-names>T.</given-names>
+<surname>Ostapenko</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>N.</given-names>
+<surname>Kalinina</surname>
+</string-name>, “<article-title>IL‐6 and IL‐17 as Potential Links Between Pre‐Existing Hypertension and Long‐Term COVID Sequelae in Patients Undergoing Hemodialysis: A Multicenter Cross‐Sectional Study</article-title>,” <source>Scientific Reports</source>
+<volume>14</volume>, no. <issue>1</issue> (<year>2024</year>): <fpage>4968</fpage>.<pub-id pub-id-type="pmid">38424126</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41598-024-54930-z</pub-id><pub-id pub-id-type="pmcid">PMC10904824</pub-id></mixed-citation></ref><ref id="all16526-bib-0054"><label>54</label><mixed-citation publication-type="journal" id="all16526-cit-0054">
+<string-name name-style="western">
+<given-names>E.</given-names>
+<surname>Bazdyrev</surname>
+</string-name>, <string-name name-style="western">
+<given-names>P.</given-names>
+<surname>Rusina</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Panova</surname>
+</string-name>, <string-name name-style="western">
+<given-names>F.</given-names>
+<surname>Novikov</surname>
+</string-name>, <string-name name-style="western">
+<given-names>I.</given-names>
+<surname>Grishagin</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>V.</given-names>
+<surname>Nebolsin</surname>
+</string-name>, “<article-title>Lung Fibrosis After COVID‐19: Treatment Prospects</article-title>,” <source>Pharmaceuticals</source>
+<volume>14</volume>, no. <issue>8</issue> (<year>2021</year>): <fpage>807</fpage>.<pub-id pub-id-type="pmid">34451904</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3390/ph14080807</pub-id><pub-id pub-id-type="pmcid">PMC8398080</pub-id></mixed-citation></ref><ref id="all16526-bib-0055"><label>55</label><mixed-citation publication-type="journal" id="all16526-cit-0055">
+<string-name name-style="western">
+<given-names>W.</given-names>
+<surname>Tate</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Walker</surname>
+</string-name>, <string-name name-style="western">
+<given-names>E.</given-names>
+<surname>Sweetman</surname>
+</string-name>, et al., “<article-title>Molecular Mechanisms of Neuroinflammation in ME/CFS and Long COVID to Sustain Disease and Promote Relapses</article-title>,” <source>Frontiers in Neurology</source>
+<volume>13</volume> (<year>2022</year>): <elocation-id>877772</elocation-id>.<pub-id pub-id-type="pmid">35693009</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3389/fneur.2022.877772</pub-id><pub-id pub-id-type="pmcid">PMC9174654</pub-id></mixed-citation></ref><ref id="all16526-bib-0056"><label>56</label><mixed-citation publication-type="journal" id="all16526-cit-0056">
+<string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Nkiliza</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Parks</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Cseresznye</surname>
+</string-name>, et al., “<article-title>Sex‐Specific Plasma Lipid Profiles of ME/CFS Patients and Their Association With Pain, Fatigue, and Cognitive Symptoms</article-title>,” <source>Journal of Translational Medicine</source>
+<volume>19</volume>, no. <issue>1</issue> (<year>2021</year>): <fpage>370</fpage>.<pub-id pub-id-type="pmid">34454515</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1186/s12967-021-03035-6</pub-id><pub-id pub-id-type="pmcid">PMC8401202</pub-id></mixed-citation></ref><ref id="all16526-bib-0057"><label>57</label><mixed-citation publication-type="journal" id="all16526-cit-0057">
+<string-name name-style="western">
+<given-names>N. E.</given-names>
+<surname>Booth</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Myhill</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>McLaren‐Howard</surname>
+</string-name>, “<article-title>Mitochondrial Dysfunction and the Pathophysiology of Myalgic Encephalomyelitis/Chronic Fatigue Syndrome (ME/CFS)</article-title>,” <source>International Journal of Clinical and Experimental Medicine</source>
+<volume>5</volume>, no. <issue>3</issue> (<year>2012</year>): <fpage>208</fpage>–<lpage>220</lpage>.<pub-id pub-id-type="pmid">22837795</pub-id>
+<pub-id pub-id-type="pmcid">PMC3403556</pub-id></mixed-citation></ref><ref id="all16526-bib-0058"><label>58</label><mixed-citation publication-type="journal" id="all16526-cit-0058">
+<string-name name-style="western">
+<given-names>J. K. S.</given-names>
+<surname>Chia</surname>
+</string-name> and <string-name name-style="western">
+<given-names>A. Y.</given-names>
+<surname>Chia</surname>
+</string-name>, “<article-title>Chronic Fatigue Syndrome Is Associated With Chronic Enterovirus Infection of the Stomach</article-title>,” <source>Journal of Clinical Pathology</source>
+<volume>61</volume>, no. <issue>1</issue> (<year>2007</year>): <fpage>43</fpage>–<lpage>48</lpage>.<pub-id pub-id-type="pmid">17872383</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1136/jcp.2007.050054</pub-id></mixed-citation></ref><ref id="all16526-bib-0059"><label>59</label><mixed-citation publication-type="journal" id="all16526-cit-0059">
+<string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Chapenko</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Krumina</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Kozireva</surname>
+</string-name>, et al., “<article-title>Activation of Human Herpesviruses 6 and 7 in Patients With Chronic Fatigue Syndrome</article-title>,” <source>Journal of Clinical Virology</source>
+<volume>37</volume>, no. <issue>Suppl 1</issue> (<year>2006</year>): <fpage>S47</fpage>–<lpage>S51</lpage>.<pub-id pub-id-type="pmid">17276369</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/S1386-6532(06)70011-7</pub-id></mixed-citation></ref><ref id="all16526-bib-0060"><label>60</label><mixed-citation publication-type="journal" id="all16526-cit-0060">
+<string-name name-style="western">
+<given-names>A. M.</given-names>
+<surname>Lerner</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S. H.</given-names>
+<surname>Beqaj</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R. G.</given-names>
+<surname>Deeter</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>J. T.</given-names>
+<surname>Fitzgerald</surname>
+</string-name>, “<article-title>IgM Serum Antibodies to Epstein‐Barr Virus Are Uniquely Present in a Subset of Patients With the Chronic Fatigue Syndrome</article-title>,” <source>In Vivo</source>
+<volume>18</volume>, no. <issue>2</issue> (<year>2004</year>): <fpage>101</fpage>–<lpage>106</lpage>.<pub-id pub-id-type="pmid">15113035</pub-id>
+</mixed-citation></ref><ref id="all16526-bib-0061"><label>61</label><mixed-citation publication-type="journal" id="all16526-cit-0061">
+<string-name name-style="western">
+<given-names>X.</given-names>
+<surname>Che</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C. R.</given-names>
+<surname>Brydges</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Yu</surname>
+</string-name>, et al., “<article-title>Metabolomic Evidence for Peroxisomal Dysfunction in Myalgic Encephalomyelitis/Chronic Fatigue Syndrome</article-title>,” <source>International Journal of Molecular Sciences</source>
+<volume>23</volume>, no. <issue>14</issue> (<year>2022</year>): <fpage>7906</fpage>, <pub-id pub-id-type="doi">10.3390/ijms23147906</pub-id>.<pub-id pub-id-type="pmid">35887252</pub-id>
+<pub-id pub-id-type="pmcid">PMC9320121</pub-id></mixed-citation></ref><ref id="all16526-bib-0062"><label>62</label><mixed-citation publication-type="journal" id="all16526-cit-0062">
+<string-name name-style="western">
+<given-names>F.</given-names>
+<surname>Patrucco</surname>
+</string-name>, <string-name name-style="western">
+<given-names>P.</given-names>
+<surname>Solidoro</surname>
+</string-name>, <string-name name-style="western">
+<given-names>F.</given-names>
+<surname>Gavelli</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Apostolo</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Bellan</surname>
+</string-name>, “<article-title>Idiopathic Pulmonary Fibrosis and Post‐COVID‐19 Lung Fibrosis: Links and Risks</article-title>,” <source>Microorganisms</source>
+<volume>11</volume>, no. <issue>4</issue> (<year>2023</year>): <fpage>895</fpage>.<pub-id pub-id-type="pmid">37110318</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3390/microorganisms11040895</pub-id><pub-id pub-id-type="pmcid">PMC10146995</pub-id></mixed-citation></ref><ref id="all16526-bib-0063"><label>63</label><mixed-citation publication-type="journal" id="all16526-cit-0063">
+<string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Valentin</surname>
+</string-name>, <string-name name-style="western">
+<given-names>V.</given-names>
+<surname>Regnault</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Gueant</surname>
+</string-name>, et al., “<article-title>Long‐Term Follow‐Up of Neutrophil Activation After Severe‐To‐Critical SARS‐CoV‐2 Infection: A Longitudinal Study</article-title>,” <source>Allergy</source>
+<volume>79</volume>, no. <issue>8</issue> (<year>2024</year>): <fpage>2270</fpage>–<lpage>2273</lpage>, <pub-id pub-id-type="doi">10.1111/all.16123</pub-id>.<pub-id pub-id-type="pmid">38610102</pub-id>
+</mixed-citation></ref><ref id="all16526-bib-0064"><label>64</label><mixed-citation publication-type="journal" id="all16526-cit-0064">
+<string-name name-style="western">
+<given-names>J. B.</given-names>
+<surname>Wechsler</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Butuci</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Wong</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A. P.</given-names>
+<surname>Kamboj</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>B. A.</given-names>
+<surname>Youngblood</surname>
+</string-name>, “<article-title>Mast Cell Activation Is Associated With Post‐Acute COVID‐19 Syndrome</article-title>,” <source>Allergy</source>
+<volume>77</volume>, no. <issue>4</issue> (<year>2022</year>): <fpage>1288</fpage>–<lpage>1291</lpage>.<pub-id pub-id-type="pmid">34820848</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/all.15188</pub-id><pub-id pub-id-type="pmcid">PMC9299596</pub-id></mixed-citation></ref><ref id="all16526-bib-0065"><label>65</label><mixed-citation publication-type="journal" id="all16526-cit-0065">
+<string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Park</surname>
+</string-name> and <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Iwasaki</surname>
+</string-name>, “<article-title>Type I and Type III Interferons – Induction, Signaling, Evasion, and Application to Combat COVID‐19</article-title>,” <source>Cell Host &amp; Microbe</source>
+<volume>27</volume>, no. <issue>6</issue> (<year>2020</year>): <fpage>870</fpage>–<lpage>878</lpage>.<pub-id pub-id-type="pmid">32464097</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.chom.2020.05.008</pub-id><pub-id pub-id-type="pmcid">PMC7255347</pub-id></mixed-citation></ref><ref id="all16526-bib-0066"><label>66</label><mixed-citation publication-type="journal" id="all16526-cit-0066">
+<string-name name-style="western">
+<given-names>M. A. F.</given-names>
+<surname>Queiroz</surname>
+</string-name>, <string-name name-style="western">
+<given-names>W. R. D. S.</given-names>
+<surname>Brito</surname>
+</string-name>, <string-name name-style="western">
+<given-names>K. A. S.</given-names>
+<surname>Pereira</surname>
+</string-name>, et al., “<article-title>Severe COVID‐19 and Long COVID Are Associated With High Expression of STING, cGAS and IFN‐α</article-title>,” <source>Scientific Reports</source>
+<volume>14</volume>, no. <issue>1</issue> (<year>2024</year>): <fpage>4974</fpage>.<pub-id pub-id-type="pmid">38424312</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41598-024-55696-0</pub-id><pub-id pub-id-type="pmcid">PMC10904751</pub-id></mixed-citation></ref><ref id="all16526-bib-0067"><label>67</label><mixed-citation publication-type="journal" id="all16526-cit-0067">
+<string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Sprang</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M. A.</given-names>
+<surname>Andrade‐Navarro</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>J. F.</given-names>
+<surname>Fontaine</surname>
+</string-name>, “<article-title>Batch Effect Detection and Correction in RNA‐Seq Data Using Machine‐Learning‐Based Automated Assessment of Quality</article-title>,” <source>BMC Bioinformatics</source>
+<volume>23</volume>, no. <issue>S6</issue> (<year>2022</year>): <fpage>279</fpage>.<pub-id pub-id-type="pmid">35836114</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1186/s12859-022-04775-y</pub-id><pub-id pub-id-type="pmcid">PMC9284682</pub-id></mixed-citation></ref><ref id="all16526-bib-0068"><label>68</label><mixed-citation publication-type="journal" id="all16526-cit-0068">
+<string-name name-style="western">
+<given-names>B.</given-names>
+<surname>Kratzer</surname>
+</string-name>, <string-name name-style="western">
+<given-names>P.</given-names>
+<surname>Gattinger</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Trapin</surname>
+</string-name>, et al., “<article-title>Differential Decline of SARS‐CoV‐2‐Specific Antibody Levels, Innate and Adaptive Immune Cells, and Shift of Th1/Inflammatory to Th2 Serum Cytokine Levels Long After First COVID‐19</article-title>,” <source>Allergy</source>
+<volume>79</volume>, no. <issue>9</issue> (<year>2024</year>): <fpage>2482</fpage>–<lpage>2501</lpage>.<pub-id pub-id-type="pmid">39003594</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/all.16210</pub-id></mixed-citation></ref><ref id="all16526-bib-0069"><label>69</label><mixed-citation publication-type="journal" id="all16526-cit-0069">
+<string-name name-style="western">
+<given-names>B.</given-names>
+<surname>Kratzer</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Trapin</surname>
+</string-name>, <string-name name-style="western">
+<given-names>P.</given-names>
+<surname>Ettel</surname>
+</string-name>, et al., “<article-title>Immunological Imprint of COVID‐19 on Human Peripheral Blood Leukocyte Populations</article-title>,” <source>Allergy</source>
+<volume>76</volume>, no. <issue>3</issue> (<year>2021</year>): <fpage>751</fpage>–<lpage>765</lpage>.<pub-id pub-id-type="pmid">33128792</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/all.14647</pub-id><pub-id pub-id-type="pmcid">PMC7984452</pub-id></mixed-citation></ref><ref id="all16526-bib-0070"><label>70</label><mixed-citation publication-type="journal" id="all16526-cit-0070">
+<string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Hu</surname>
+</string-name>, <string-name name-style="western">
+<given-names>V.</given-names>
+<surname>Fokaidis</surname>
+</string-name>, et al., “<article-title>Identifying Environmental Risk Factors for Post‐Acute Sequelae of SARS‐CoV‐2 Infection: An EHR‐Based Cohort Study From the Recover Program</article-title>,” <source>Environmental Advances</source>
+<volume>11</volume> (<year>2023</year>): <elocation-id>100352</elocation-id>, <pub-id pub-id-type="doi">10.1016/j.envadv.2023.100352</pub-id>.<pub-id pub-id-type="pmid">36785842</pub-id>
+<pub-id pub-id-type="pmcid">PMC9907788</pub-id></mixed-citation></ref><ref id="all16526-bib-0071"><label>71</label><mixed-citation publication-type="journal" id="all16526-cit-0071">
+<string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Khoramjoo</surname>
+</string-name>, <string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Srinivasan</surname>
+</string-name>, <string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Wishart</surname>
+</string-name>, <string-name name-style="western">
+<given-names>V.</given-names>
+<surname>Prasad</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>G. Y.</given-names>
+<surname>Oudit</surname>
+</string-name>, “<article-title>Protocol to Identify Biomarkers in Patients With Post‐COVID Condition Using Multi‐Omics and Machine Learning Analysis of Human Plasma</article-title>,” <source>STAR Protocols</source>
+<volume>5</volume>, no. <issue>2</issue> (<year>2024</year>): <elocation-id>103041</elocation-id>.<pub-id pub-id-type="pmid">38678567</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.xpro.2024.103041</pub-id><pub-id pub-id-type="pmcid">PMC11068918</pub-id></mixed-citation></ref><ref id="all16526-bib-0072"><label>72</label><mixed-citation publication-type="journal" id="all16526-cit-0072">
+<string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Cai</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Xie</surname>
+</string-name>, <string-name name-style="western">
+<given-names>E. J.</given-names>
+<surname>Topol</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>Z.</given-names>
+<surname>Al‐Aly</surname>
+</string-name>, “<article-title>Three‐Year Outcomes of Post‐Acute Sequelae of COVID‐19</article-title>,” <source>Nature Medicine</source>
+<volume>30</volume>, no. <issue>6</issue> (<year>2024</year>): <fpage>1564</fpage>–<lpage>1573</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41591-024-02987-8</pub-id><pub-id pub-id-type="pmcid">PMC11186764</pub-id><pub-id pub-id-type="pmid">38816608</pub-id></mixed-citation></ref><ref id="all16526-bib-0073"><label>73</label><mixed-citation publication-type="journal" id="all16526-cit-0073">
+<string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Su</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Yuan</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D. G.</given-names>
+<surname>Chen</surname>
+</string-name>, et al., “<article-title>Multiple Early Factors Anticipate Post‐Acute COVID‐19 Sequelae</article-title>,” <source>Cell</source>
+<volume>185</volume>, no. <issue>5</issue> (<year>2022</year>): <fpage>881</fpage>–<lpage>895.e20</lpage>.<pub-id pub-id-type="pmid">35216672</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.cell.2022.01.014</pub-id><pub-id pub-id-type="pmcid">PMC8786632</pub-id></mixed-citation></ref><ref id="all16526-bib-0074"><label>74</label><mixed-citation publication-type="journal" id="all16526-cit-0074">
+<string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Schult</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Reitmeier</surname>
+</string-name>, <string-name name-style="western">
+<given-names>P.</given-names>
+<surname>Koyumdzhieva</surname>
+</string-name>, et al., “<article-title>Gut Bacterial Dysbiosis and Instability Is Associated With the Onset of Complications and Mortality in COVID‐19</article-title>,” <source>Gut Microbes</source>
+<volume>14</volume>, no. <issue>1</issue> (<year>2022</year>): <elocation-id>2031840</elocation-id>.<pub-id pub-id-type="pmid">35174781</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1080/19490976.2022.2031840</pub-id><pub-id pub-id-type="pmcid">PMC8855857</pub-id></mixed-citation></ref><ref id="all16526-bib-0075"><label>75</label><mixed-citation publication-type="journal" id="all16526-cit-0075">
+<string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Zoodsma</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A. H.</given-names>
+<surname>de Nooijer</surname>
+</string-name>, <string-name name-style="western">
+<given-names>I.</given-names>
+<surname>Grondman</surname>
+</string-name>, et al., “<article-title>Targeted Proteomics Identifies Circulating Biomarkers Associated With Active COVID‐19 and Post‐COVID‐19</article-title>,” <source>Frontiers in Immunology</source>
+<volume>13</volume> (<year>2022</year>): <elocation-id>1027122</elocation-id>.<pub-id pub-id-type="pmid">36405747</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3389/fimmu.2022.1027122</pub-id><pub-id pub-id-type="pmcid">PMC9670186</pub-id></mixed-citation></ref><ref id="all16526-bib-0076"><label>76</label><mixed-citation publication-type="journal" id="all16526-cit-0076">
+<string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Tirozzi</surname>
+</string-name>, <string-name name-style="western">
+<given-names>F.</given-names>
+<surname>Santonastaso</surname>
+</string-name>, <string-name name-style="western">
+<given-names>G.</given-names>
+<surname>de Gaetano</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Iacoviello</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Gialluisi</surname>
+</string-name>, “<article-title>Does COVID‐19 Increase the Risk of Neuropsychiatric Sequelae? Evidence From a Mendelian Randomization Approach</article-title>,” <source>World Journal of Psychiatry</source>
+<volume>12</volume>, no. <issue>3</issue> (<year>2022</year>): <fpage>536</fpage>–<lpage>540</lpage>.<pub-id pub-id-type="pmid">35433322</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.5498/wjp.v12.i3.536</pub-id><pub-id pub-id-type="pmcid">PMC8968503</pub-id></mixed-citation></ref><ref id="all16526-bib-0077"><label>77</label><mixed-citation publication-type="journal" id="all16526-cit-0077">
+<string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Townsend</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Dowds</surname>
+</string-name>, <string-name name-style="western">
+<given-names>K.</given-names>
+<surname>O'Brien</surname>
+</string-name>, et al., “<article-title>Persistent Poor Health After COVID‐19 Is Not Associated With Respiratory Complications or Initial Disease Severity</article-title>,” <source>Annals ATS</source>
+<volume>18</volume>, no. <issue>6</issue> (<year>2021</year>): <fpage>997</fpage>–<lpage>1003</lpage>, <pub-id pub-id-type="doi">10.1513/AnnalsATS.202009-1175OC</pub-id>.<pub-id pub-id-type="pmcid">PMC8456724</pub-id><pub-id pub-id-type="pmid">33413026</pub-id></mixed-citation></ref></ref-list></back></article></pmc-articleset>

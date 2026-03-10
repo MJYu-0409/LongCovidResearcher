@@ -1,0 +1,411 @@
+<?xml version="1.0"  ?><!DOCTYPE pmc-articleset PUBLIC "-//NLM//DTD ARTICLE SET 2.0//EN" "https://dtd.nlm.nih.gov/ncbi/pmc/articleset/nlm-articleset-2.0.dtd"><pmc-articleset><article id="hsr271043" xml:lang="en" article-type="research-article" dtd-version="1.4"><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">Health Sci Rep</journal-id><journal-id journal-id-type="iso-abbrev">Health Sci Rep</journal-id><journal-id journal-id-type="pmc-domain-id">3569</journal-id><journal-id journal-id-type="pmc-domain">hscirep</journal-id><journal-id journal-id-type="publisher-id">HSR2</journal-id><journal-title-group><journal-title>Health Science Reports</journal-title></journal-title-group><issn pub-type="epub">2398-8835</issn><publisher><publisher-name>Wiley</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC12361630</article-id><article-id pub-id-type="pmcid-ver">PMC12361630.1</article-id><article-id pub-id-type="pmcaid">12361630</article-id><article-id pub-id-type="pmcaiid">12361630</article-id><article-id pub-id-type="pmid">40837716</article-id><article-id pub-id-type="doi">10.1002/hsr2.71043</article-id><article-id pub-id-type="publisher-id">HSR271043</article-id><article-version article-version-type="pmc-version">1</article-version><article-categories><subj-group subj-group-type="overline"><subject>Original Research</subject></subj-group><subj-group subj-group-type="heading"><subject>Original Research</subject></subj-group></article-categories><title-group><article-title>Association Between Acute COVID‐19 Infection and Long COVID in a Non‐Hospitalized Population: A Retrospective Case‐Control Study</article-title></title-group><contrib-group><contrib id="hsr271043-cr-0001" contrib-type="author"><name name-style="western"><surname>Escrivá</surname><given-names initials="N">Nicolás</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0003-1953-5737</contrib-id><xref rid="hsr271043-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="hsr271043-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib id="hsr271043-cr-0002" contrib-type="author" corresp="yes"><name name-style="western"><surname>Moreno‐Galarraga</surname><given-names initials="L">Laura</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0003-0293-0749</contrib-id><xref rid="hsr271043-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref><xref rid="hsr271043-aff-0004" ref-type="aff">
+<sup>4</sup>
+</xref><address><email>laura.moreno.galarraga@navarra.es</email></address></contrib><contrib id="hsr271043-cr-0003" contrib-type="author"><name name-style="western"><surname>Barado</surname><given-names initials="E">Elena</given-names></name><xref rid="hsr271043-aff-0005" ref-type="aff">
+<sup>5</sup>
+</xref></contrib><contrib id="hsr271043-cr-0004" contrib-type="author"><name name-style="western"><surname>Torres</surname><given-names initials="MG">María Gabriela</given-names></name><xref rid="hsr271043-aff-0005" ref-type="aff">
+<sup>5</sup>
+</xref></contrib><contrib id="hsr271043-cr-0005" contrib-type="author"><name name-style="western"><surname>Fernandez‐Montero</surname><given-names initials="A">Alejandro</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-8741-7401</contrib-id><xref rid="hsr271043-aff-0004" ref-type="aff">
+<sup>4</sup>
+</xref><xref rid="hsr271043-aff-0005" ref-type="aff">
+<sup>5</sup>
+</xref></contrib></contrib-group><aff id="hsr271043-aff-0001">
+<label>
+<sup>1</sup>
+</label>
+<named-content content-type="organisation-division">Department of Occupational Medicine</named-content>
+<institution>Complejo Hospitalario de Navarra</institution>
+<city>Navarra</city>
+<country country="ES">Spain</country>
+</aff><aff id="hsr271043-aff-0002">
+<label>
+<sup>2</sup>
+</label>
+<institution>Instituto de Salud Pública y Laboral de Navarra</institution>
+<city>Navarra</city>
+<country country="ES">Spain</country>
+</aff><aff id="hsr271043-aff-0003">
+<label>
+<sup>3</sup>
+</label>
+<named-content content-type="organisation-division">Department of Pediatrics, Complejo Hospitalario de Navarra</named-content>
+<institution>Universidad Pública de Navarra</institution>
+<city>Pamplona</city>
+<country country="ES">Spain</country>
+</aff><aff id="hsr271043-aff-0004">
+<label>
+<sup>4</sup>
+</label>
+<institution>Navarra Institute for Health Research (IdiSNA)</institution>
+<city>Pamplona</city>
+<country country="ES">Spain</country>
+</aff><aff id="hsr271043-aff-0005">
+<label>
+<sup>5</sup>
+</label>
+<named-content content-type="organisation-division">Department of Occupational Medicine</named-content>
+<institution>University of Navarra</institution>
+<city>Navarra</city>
+<country country="ES">Spain</country>
+</aff><author-notes><corresp id="correspondenceTo">
+<label>*</label>
+<bold>Correspondence:</bold> Laura Moreno‐Galarraga (<email>laura.moreno.galarraga@navarra.es</email>)<break/>
+</corresp></author-notes><pub-date pub-type="epub"><day>18</day><month>8</month><year>2025</year></pub-date><pub-date pub-type="collection"><month>8</month><year>2025</year></pub-date><volume>8</volume><issue seq="20">8</issue><issue-id pub-id-type="pmc-issue-id">493889</issue-id><issue-id pub-id-type="doi">10.1002/hsr2.v8.8</issue-id><elocation-id>e71043</elocation-id><history><date date-type="rev-recd"><day>30</day><month>4</month><year>2025</year></date><date date-type="received"><day>05</day><month>1</month><year>2025</year></date><date date-type="accepted"><day>17</day><month>6</month><year>2025</year></date></history><pub-history><event event-type="pmc-release"><date><day>18</day><month>08</month><year>2025</year></date></event><event event-type="pmc-live"><date><day>20</day><month>08</month><year>2025</year></date></event><event event-type="pmc-last-change"><date iso-8601-date="2025-08-21 09:25:20.950"><day>21</day><month>08</month><year>2025</year></date></event></pub-history><permissions><copyright-statement content-type="article-copyright">© 2025 The Author(s). <italic toggle="yes">Health Science Reports</italic> published by Wiley Periodicals LLC.</copyright-statement><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>This is an open access article under the terms of the <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pmc-pdf" xlink:href="HSR2-8-e71043.pdf"/><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pdf" xlink:href="file:HSR2-8-e71043.pdf"/><abstract><title>ABSTRACT</title><sec id="hsr271043-sec-0010"><title>Background and Aims</title><p>Long COVID (LC) is a condition characterized by the persistence of physical or psychological symptoms after acute SARS‐CoV‐2 infection. While its pathophysiology remains unclear, it is essential to identify acute‐phase risk factors associated with its development. This study aimed to investigate the association between symptoms during acute COVID‐19 and the risk of developing LC, and to evaluate the impact of LC on functional status in a nonhospitalized population.</p></sec><sec id="hsr271043-sec-0020"><title>Methods</title><p>A retrospective observational case‐control study was conducted between May 2022 and March 2024 including 434 participants with confirmed SARS‐CoV‐2 infection. Participants were classified as cases (those with LC; <italic toggle="yes">n</italic> = 226) or controls (those without LC; <italic toggle="yes">n</italic> = 208). Data were collected using a structured electronic form, including self‐reported sociodemographic, clinical, and lifestyle information. Severity and number of acute symptoms were recorded. Functional status was assessed using the Post‐COVID functional status (PCFS) Scale. Logistic and linear regression analyses were performed to explore associations, adjusted for potential confounders.</p></sec><sec id="hsr271043-sec-0030"><title>Results</title><p>Severe acute COVID‐19 (defined as pneumonia or hospitalization) was associated with a significantly increased risk of LC (adjusted OR = 7.22; 95% CI: 2.79–18.70). Additionally, each additional symptom during the acute phase increased the odds of LC by 52% (adjusted OR = 1.52; 95% CI: 1.35–1.77). Dyspnea and chest pain were the symptoms most strongly associated with LC.</p></sec><sec id="hsr271043-sec-0040"><title>Conclusion</title><p>The severity and symptom burden of acute COVID‐19 are strongly associated with the development of LC and with long‐term functional impairment. These findings highlight the importance of early identification and follow‐up in patients with severe initial COVID‐19 symptoms.</p></sec></abstract><kwd-group><kwd id="hsr271043-kwd-0001">acute COVID‐19</kwd><kwd id="hsr271043-kwd-0002">long covid</kwd><kwd id="hsr271043-kwd-0003">post‐COVID functional status scale</kwd><kwd id="hsr271043-kwd-0004">SARS‐CoV‐2 Sequelae</kwd></kwd-group><funding-group><award-group id="funding-0001"><funding-source>
+<institution-wrap><institution>The authors received no specific funding for this work.</institution></institution-wrap>
+</funding-source></award-group></funding-group><counts><fig-count count="4"/><table-count count="2"/><page-count count="9"/><word-count count="5270"/></counts><custom-meta-group><custom-meta><meta-name>pmc-status-qastatus</meta-name><meta-value>0</meta-value></custom-meta><custom-meta><meta-name>pmc-status-live</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-status-embargo</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-status-released</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-access</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-legally-suppressed</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-pdf</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-supplement</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-pdf-only</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-suppress-copyright</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-real-version</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-scanned-article</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-in-epmc</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-license-ref</meta-name><meta-value>CC BY</meta-value></custom-meta><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>August 2025</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:6.6.0 mode:remove_FC converted:19.08.2025</meta-value></custom-meta></custom-meta-group></article-meta></front><body><sec id="hsr271043-sec-0050"><label>1</label><title>Introduction</title><p>The global understanding of COVID‐19, the disease caused by SARS‐CoV‐2 continues expanding. Beyond the initial impact of this illness, which has resulted in approximately 7 million deaths [<xref rid="hsr271043-bib-0001" ref-type="bibr">1</xref>], new public health challenges are emerging. These challenges arise from the persistence of symptoms in a significant percentage of survivors, estimated to impact 6.2% (2.4%–13.3%) [<xref rid="hsr271043-bib-0002" ref-type="bibr">2</xref>].</p><p>The Centers for Disease Control and Prevention (CDC) and the World Health Organization (WHO) define Long COVID (LC) as: “a broad spectrum of symptoms (physical or mental) that start during or after the acute illness and persist for more than 2 months after the acute process (3 months after the onset of the illness), impact on the patient's life, and are not explained by alternative diagnoses” [<xref rid="hsr271043-bib-0003" ref-type="bibr">3</xref>, <xref rid="hsr271043-bib-0004" ref-type="bibr">4</xref>].</p><p>Despite the heterogeneity in the definition of LC [<xref rid="hsr271043-bib-0005" ref-type="bibr">5</xref>], “there seems to be a consensus on the main symptoms of the acute infection” [<xref rid="hsr271043-bib-0004" ref-type="bibr">4</xref>, <xref rid="hsr271043-bib-0006" ref-type="bibr">6</xref>, <xref rid="hsr271043-bib-0007" ref-type="bibr">7</xref>] as well as “those that most frequently persist over time, such as dyspnea, fatigue, headache, and cardiologic or neurologic symptoms, among others” [<xref rid="hsr271043-bib-0008" ref-type="bibr">8</xref>].</p><p>Due to the increasing number of COVID‐19 survivors requiring follow‐up and aimed to quantify its impact on patients' functional status, the “Post‐COVID‐19 Functional Status Scale (PCFS)” was developed. Klok et al. [<xref rid="hsr271043-bib-0009" ref-type="bibr">9</xref>] proposed a tool to follow symptoms and functional status. Similarly, Sepulveda et al. [<xref rid="hsr271043-bib-0010" ref-type="bibr">10</xref>] concluded that individuals with LC reporting high PCFS scores reported lower quality of life in functional capacity, pain, and social domains, compared to those with fewer limitations. The scale has been widely used, mostly in hospital‐based cohorts [<xref rid="hsr271043-bib-0011" ref-type="bibr">11</xref>, <xref rid="hsr271043-bib-0012" ref-type="bibr">12</xref>, <xref rid="hsr271043-bib-0013" ref-type="bibr">13</xref>, <xref rid="hsr271043-bib-0014" ref-type="bibr">14</xref>].</p><p>The first systematic review and meta‐analysis [<xref rid="hsr271043-bib-0015" ref-type="bibr">15</xref>] found heterogeneity among the studies. Among the 13,340 patients included, two factors were identified: being female and having a severe clinical condition during hospitalization, which increased the risk of LC. However, the authors emphasize that these results should be interpreted with caution, as they were obtained by combining crude estimates. They also report that one of the most common limitations was the absence of a control group. Subsequent studies confirmed these findings and linked the risk of LC to conditions like hypertension, chronic lung disease, obesity, diabetes, and depression [<xref rid="hsr271043-bib-0016" ref-type="bibr">16</xref>, <xref rid="hsr271043-bib-0017" ref-type="bibr">17</xref>, <xref rid="hsr271043-bib-0018" ref-type="bibr">18</xref>, <xref rid="hsr271043-bib-0019" ref-type="bibr">19</xref>].</p><p>In this observational case‐control study, we aimed to determine the likelihood of developing LC and its influence on the “PCFS”. In addition, we aimed to investigate its correlation with symptoms experienced during the acute phase of the infection.</p><p>Based on current evidence, we hypothesize that the presence of certain symptoms during the acute phase of COVID‐19 is associated with a higher probability of developing LC. Furthermore, we hypothesize that individuals who develop LC will present significantly higher levels of functional limitation, as measured by the PCFS Scale, compared to those who do not develop LC. The primary outcomes of the study are: (1) the presence of LC, and (2) the functional status of patients as measured by the PCFS scale. Secondary outcomes include the identification of acute‐phase symptoms most strongly associated with the development of LC.</p></sec><sec sec-type="methods" id="hsr271043-sec-0060"><label>2</label><title>Methodology</title><sec id="hsr271043-sec-0070"><label>2.1</label><title>Study Definition</title><p>The present study is a retrospective, observational, case‐control study that began on May 17, 2022, and remains ongoing. Cases were participants who reported symptoms consistent with a diagnosis of LC. Controls were participants who had experienced acute SARS‐CoV‐2 infection without presenting LC symptoms. Data collection was conducted via an electronic form with self‐reported values, including sociodemographic, clinical, and lifestyle variables. The study design and reporting followed the STROBE (Strengthening the Reporting of Observational Studies in Epidemiology) guidelines to ensure transparency and scientific rigor. Confidentiality and data protection were managed by RedCap® database.</p></sec><sec id="hsr271043-sec-0080"><label>2.2</label><title>Population Definition</title><p>Participants were recruited from the general outpatient population over the age of 5, as well as from members of Long COVID associations. The only requirement for participation was clinical documentation of a prior acute SARS‐CoV‐2 infection. All participants were required to provide laboratory‐confirmed evidence of SARS‐CoV‐2 infection, through either a PCR or antigen test. Cases based solely on clinical diagnosis without a positive test were not included in the study.</p><p>A total of 1,175 participants who had requested information about the study were collected on March 20, 2024. Figure <xref rid="hsr271043-fig-0001" ref-type="fig">1</xref> shows the flow chart. Participants who had not given informed consent, those who had completed the survey but did not have at least one confirmed diagnosis of COVID‐19, or those who did not provide sufficient information to confirm or rule out the presence of LC were excluded. Through this process, a total of 434 participants were finally included in this study.</p><fig position="float" fig-type="Figure" id="hsr271043-fig-0001" orientation="portrait"><label>Figure 1</label><caption><p>Flow‐chart. Flow diagram showing the selection process of participants included in the retrospective case‐control study. From 1,175 initial participants, exclusions were applied for lack of diagnostic confirmation or missing data, resulting in a final sample.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-1" orientation="portrait" xlink:href="HSR2-8-e71043-g003.jpg"/></fig></sec><sec id="hsr271043-sec-0090"><label>2.3</label><title>Main Independent Variables</title><p>The independent variables of the study were the symptoms presented during acute SARS‐CoV‐2 infection, as well as the duration, number of symptoms and severity of infection. This information was collected through a multiple‐choice table, in which participants could select symptoms from a list including cough, sore throat, runny nose, dyspnea, pneumonia, fatigue, myalgia, loss of smell, loss of taste, fever, digestive symptoms (vomiting and diarrhea) and dizziness. If any symptoms were selected, participants were asked to specify their duration. Additionally, participants had the option to report symptoms not included in the list.</p><p>As for the severity of the infection determined by the presence of pneumonia (diagnosed by imaging tests) or hospital admission to the ward or ICU, the same process was followed as with the symptoms; once the option was selected, participants were required to indicate the duration of hospital stay or ICU admission.</p></sec><sec id="hsr271043-sec-0100"><label>2.4</label><title>Outcome Variables</title><p>The definition of the outcome variable is based on the WHO criteria for Long COVID, defined as a condition occurring in individuals with a history of SARS‐CoV‐2 infection, 3 months after diagnosis of COVID‐19, persisting for at least 2 months and not explainable by any alternative diagnosis [<xref rid="hsr271043-bib-0003" ref-type="bibr">3</xref>]. The survey collects the symptoms most frequently associated with LC in published studies on the subject (asthenia, respiratory distress, pneumonia, dizziness, anxiety, depression, sleep disorders, muscle aches, fever, cardiac symptoms, dysgeusia, vomit, headache, chest pain) [<xref rid="hsr271043-bib-0020" ref-type="bibr">20</xref>]. However, a free text field was added so that participants could include other symptoms not listed. This is based on the limitations suffered by the patient in daily life in base to “PCFS” [<xref rid="hsr271043-bib-0012" ref-type="bibr">12</xref>] and is divided into five categories, ranging from grade 0 (no limitations) to grade 4 (severe limitations requiring assistance), based on how symptoms interfere with daily activities.</p></sec><sec id="hsr271043-sec-0110"><label>2.5</label><title>Others</title><p>Variables related to the status before acute SARS‐CoV‐2 infection were also collected. Sociodemographic variables included age, sex, country of origin, ethnicity, educational level, and employment as a healthcare worker. Regarding personal medical history before the acute infection, participants were asked about pre‐existing diseases and treatments. About lifestyle habits before acute infection, participants were asked about tobacco (smoker, former smoker or Nonsmoker) and alcohol consumption (grams/day), exercise/sedentary habits, diet quality measured with Medas Score [<xref rid="hsr271043-bib-0021" ref-type="bibr">21</xref>], sleep hours (MET/h/week), and BMI. In addition, vaccination status at the time of acute illness was recorded (dose, type of vaccine and date), as well as the date of diagnosis and of reinfection if any.</p></sec><sec id="hsr271043-sec-0120"><label>2.6</label><title>Statistical Analysis</title><p>Data were collected using REDCap (Research Electronic Data Capture) hosted at Universidad DE Navarra, a secure, web‐based application designed for research data collection and management, compliant with HIPAA regulations for human subject research data protection.</p><p>Categorical variables were expressed as percentages and continuous variables as means and their standard deviation (SD) and associations with continuous outcomes were described using beta (β) coefficients, representing the average change in the dependent variable per unit increase in the predictor.</p><p>To assess the association between the severity of COVID‐19 infection and the risk of developing LC, a crude, age‐ and sex‐adjusted and multivariable‐adjusted regression was performed. The multivariable model adjusted for race, flu vaccination, university studies, marital status, employment as a health worker, tobacco use, illness before diagnosis, and prior COVID‐19 vaccination. Results were expressed as odds ratios (OR) with corresponding 95% confidence intervals (CI) to indicate the precision of the estimates.</p><p>For missing values of the adjustment variables, a simple imputation was performed using all the adjustment variables, the main independent variable and the outcome variable. The following variables were imputed: flu vaccine (15% of values), university studies (21.4%), illness before COVID‐19 diagnosis (21.9%), pre‐infection vaccine, COVID‐19 vaccination status before infection (4.6%), BMI (27%), alcohol consumption (21.9%), hours of sleep (25.6%), hours of sedentary lifestyle (23%), exercise (23.5%) and smoking status (21.7%).</p><p>To assess the association between COVID‐19 symptoms during acute infection and PCFS scale (in participants who reported having LC) a logistic regression and a linear regression adjusted for the same multiple variables were performed, expressing the result in beta coefficient and 95% CI. To assess the relationship between each of the symptoms of COVID‐19 infection and the risk of presenting LC (in participants who reported having LC), a multi‐adjusted logistic regression was also performed with the same variables.</p><p>All p‐values are two‐tailed. Statistical significance was considered for a <italic toggle="yes">p</italic>‐value &lt; 0.05. Data processing and analysis were performed using the statistical software Stata® 17.0 version.</p><p>During the preparation of this study, the authors used ChatGPT, OpenAI to improve the clarity of the manuscript's language. After using this tool, the authors reviewed and edited the content as needed and takes full responsibility for the content of the publication.</p><p>The study was approved by the Ethics Committee of the University of Navarra (Ref. 2023.042), complies with the 2023 Medical Data Protection Law, and follows the Helsinki Declaration.</p></sec></sec><sec sec-type="results" id="hsr271043-sec-0130"><label>3</label><title>Results</title><p>The study included 434 participants, all of whom had COVID‐19. Of these, 208 (47.93%, 208/434) did not develop LC (controls), while 226 (52.07%, 226/434) did (cases). The mean age was 43.08 (6.42) years for controls and 44.69 (12.20) years for cases. The percentage of women was higher in both groups: 82.2% (171/208) in controls and 89.3% (186/208) in cases. Table <xref rid="hsr271043-tbl-0001" ref-type="table">1</xref> presents the baseline characteristics before acute infection, according to the acute COVID‐19 severity, (severe vs. mild). It can be observed that 17.51% (76/434) of participants had severe COVID‐19 while 82.49% (358/434) had mild COVID‐19. The percentage of women was higher in both groups, although the differences were not significant. However, significant differences were observed in the percentage of participants with university studies, previous influenza vaccination, number of infections and hospital admissions. It is worth noting that the group with severe COVID‐19 presented a lower percentage of participants vaccinated against SARS‐CoV‐2 before infection. This could represent a significant source of bias given the known protective effect of vaccination against severe forms of the disease and potential sequelae. However, this variable was included in the multivariable logistic regression models to control for its confounding effect. Although the severe COVID‐19 group reported fewer daily sedentary hours, they exhibited a significantly higher BMI. This may reflect the presence of underlying metabolic comorbidities or reduced baseline functional capacity, which are not always captured by self‐reported sedentary time alone.</p><table-wrap position="float" id="hsr271043-tbl-0001" content-type="Table" orientation="portrait"><label>Table 1</label><caption><p>Basal characteristics of study participants (<italic toggle="yes">n</italic>: 434) before acute infection, presented according to acute COVID‐19 severity.</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" align="left" span="1"/><col style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" align="center" span="1"/><col style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" align="center" span="1"/><col style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" align="center" span="1"/><thead valign="bottom"><tr valign="bottom" style="border-bottom:solid 1px #000000"><th align="left" valign="bottom" rowspan="1" colspan="1">Variable</th><th align="center" valign="bottom" rowspan="1" colspan="1">Mild COVID‐19</th><th align="center" valign="bottom" rowspan="1" colspan="1">Severe COVID‐19<xref rid="hsr271043-tbl1-note-0003" ref-type="table-fn">
+<sup>a</sup>
+</xref>
+</th><th align="center" valign="bottom" rowspan="1" colspan="1">
+<italic toggle="yes">p</italic>
+</th></tr></thead><tbody valign="top"><tr><td align="left" valign="top" rowspan="1" colspan="1">Number, <italic toggle="yes">n</italic> (%)</td><td align="center" valign="top" rowspan="1" colspan="1">358 (82.49)</td><td align="center" valign="top" rowspan="1" colspan="1">76 (17.51)</td><td align="center" valign="top" rowspan="1" colspan="1"/></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Age, (years), mean (SD)</td><td align="center" valign="top" rowspan="1" colspan="1">42.96 (49.74)</td><td align="center" valign="top" rowspan="1" colspan="1">48.43 (10.09)</td><td align="center" valign="top" rowspan="1" colspan="1">
+<italic toggle="yes">p</italic> = 0.34</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Sex, woman, %</td><td align="center" valign="top" rowspan="1" colspan="1">82.96% (297/358)</td><td align="center" valign="top" rowspan="1" colspan="1">78.95% (60/76)</td><td align="center" valign="top" rowspan="1" colspan="1">
+<italic toggle="yes">p</italic> = 0.41</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Marital status, married or in a domestic partnership, %</td><td align="center" valign="top" rowspan="1" colspan="1">55.31% (198/358)</td><td align="center" valign="top" rowspan="1" colspan="1">55.26% (42/76)</td><td align="center" valign="top" rowspan="1" colspan="1">
+<italic toggle="yes">p</italic> = 0.19</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Race, %</td><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1">
+<italic toggle="yes">p</italic> = 0.23</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">
+<p>
+<list list-type="bullet"><list-item><p>Caucasic</p></list-item></list>
+</p>
+</td><td align="center" valign="top" rowspan="1" colspan="1">90.22% (323/358)</td><td align="center" valign="top" rowspan="1" colspan="1">86.84% (66/76)</td><td align="center" valign="top" rowspan="1" colspan="1"/></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">
+<p>
+<list list-type="bullet"><list-item><p>Latin‐American</p></list-item></list>
+</p>
+</td><td align="center" valign="top" rowspan="1" colspan="1">7.82</td><td align="center" valign="top" rowspan="1" colspan="1">10.53</td><td align="center" valign="top" rowspan="1" colspan="1"/></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">
+<p>
+<list list-type="bullet"><list-item><p>Other</p></list-item></list>
+</p>
+</td><td align="center" valign="top" rowspan="1" colspan="1">1.96</td><td align="center" valign="top" rowspan="1" colspan="1">2.63</td><td align="center" valign="top" rowspan="1" colspan="1"/></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">University studies, %</td><td align="center" valign="top" rowspan="1" colspan="1">82.80% (296/358)</td><td align="center" valign="top" rowspan="1" colspan="1">67.74% (52/76)</td><td align="center" valign="top" rowspan="1" colspan="1">
+<italic toggle="yes">p</italic> = 0.007</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Employment status, %</td><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1">
+<italic toggle="yes">p</italic> = 0.39</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">
+<p>
+<list list-type="bullet"><list-item><p>Worker</p></list-item></list>
+</p>
+</td><td align="center" valign="top" rowspan="1" colspan="1">65.92</td><td align="center" valign="top" rowspan="1" colspan="1">73.68</td><td align="center" valign="top" rowspan="1" colspan="1"/></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">
+<p>
+<list list-type="bullet"><list-item><p>Unemployed</p></list-item></list>
+</p>
+</td><td align="center" valign="top" rowspan="1" colspan="1">12.01</td><td align="center" valign="top" rowspan="1" colspan="1">7.89</td><td align="center" valign="top" rowspan="1" colspan="1"/></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Health care worker, %</td><td align="center" valign="top" rowspan="1" colspan="1">10.89% (39/358)</td><td align="center" valign="top" rowspan="1" colspan="1">10.53% (8/76)</td><td align="center" valign="top" rowspan="1" colspan="1">
+<italic toggle="yes">p</italic> = 0.19</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Previous diseases</td><td align="center" valign="top" rowspan="1" colspan="1">36.46</td><td align="center" valign="top" rowspan="1" colspan="1">51.61</td><td align="center" valign="top" rowspan="1" colspan="1">
+<italic toggle="yes">p</italic> = 0.03</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Tobacco use, %</td><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1">
+<italic toggle="yes">p</italic> = 0.03</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">
+<p>
+<list list-type="bullet"><list-item><p>Smoker</p></list-item></list>
+</p>
+</td><td align="center" valign="top" rowspan="1" colspan="1">14.03% (50/358)</td><td align="center" valign="top" rowspan="1" colspan="1">8.06% (6/76)</td><td align="center" valign="top" rowspan="1" colspan="1"/></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">
+<p>
+<list list-type="bullet"><list-item><p>Former smoker</p></list-item></list>
+</p>
+</td><td align="center" valign="top" rowspan="1" colspan="1">5.76% (21/358)</td><td align="center" valign="top" rowspan="1" colspan="1">14.52% (11/76)</td><td align="center" valign="top" rowspan="1" colspan="1"/></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">
+<p>
+<list list-type="bullet"><list-item><p>Nonsmoker</p></list-item></list>
+</p>
+</td><td align="center" valign="top" rowspan="1" colspan="1">80.22% (287/358)</td><td align="center" valign="top" rowspan="1" colspan="1">77.42% (59/76)</td><td align="center" valign="top" rowspan="1" colspan="1"/></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Previous influenza vaccination, %</td><td align="center" valign="top" rowspan="1" colspan="1">48.36% (173/358)</td><td align="center" valign="top" rowspan="1" colspan="1">43.08% (33/76)</td><td align="center" valign="top" rowspan="1" colspan="1">
+<italic toggle="yes">p</italic> = 0.44</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Previous COVID‐19 vaccination, %</td><td align="center" valign="top" rowspan="1" colspan="1">41.06% (147/358)</td><td align="center" valign="top" rowspan="1" colspan="1">12.33% (10/76)</td><td align="center" valign="top" rowspan="1" colspan="1">
+<italic toggle="yes">p</italic> &lt; 0.001</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">BMI<xref rid="hsr271043-tbl1-note-0004" ref-type="table-fn">
+<sup>b</sup>
+</xref>, mean (SD)</td><td align="center" valign="top" rowspan="1" colspan="1">23.24 (3.90)</td><td align="center" valign="top" rowspan="1" colspan="1">27.47 (5.19)</td><td align="center" valign="top" rowspan="1" colspan="1">
+<italic toggle="yes">p</italic> &lt; 0.001</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Alcohol intake<xref rid="hsr271043-tbl1-note-0005" ref-type="table-fn">
+<sup>c</sup>
+</xref>, mean (SD)</td><td align="center" valign="top" rowspan="1" colspan="1">2.12 (2.89)</td><td align="center" valign="top" rowspan="1" colspan="1">2.37 (3.79)</td><td align="center" valign="top" rowspan="1" colspan="1">
+<italic toggle="yes">p</italic> = 0.57</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Sleep hours per day, mean (SD)</td><td align="center" valign="top" rowspan="1" colspan="1">7.63 (1.07)</td><td align="center" valign="top" rowspan="1" colspan="1">7.54 (1.01)</td><td align="center" valign="top" rowspan="1" colspan="1">
+<italic toggle="yes">p</italic> = 0.58</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Sitting hours per day, mean (SD)</td><td align="center" valign="top" rowspan="1" colspan="1">6.87 (3.05)</td><td align="center" valign="top" rowspan="1" colspan="1">5.99 (2.98)</td><td align="center" valign="top" rowspan="1" colspan="1">
+<italic toggle="yes">p</italic> = 0.04</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Physical activity<xref rid="hsr271043-tbl1-note-0006" ref-type="table-fn">
+<sup>d</sup>
+</xref>
+</td><td align="center" valign="top" rowspan="1" colspan="1">26.33</td><td align="center" valign="top" rowspan="1" colspan="1">32.26</td><td align="center" valign="top" rowspan="1" colspan="1">
+<italic toggle="yes">p</italic> = 0.06</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Adherence to Mediterranean diet<xref rid="hsr271043-tbl1-note-0007" ref-type="table-fn">
+<sup>e</sup>
+</xref>
+</td><td align="center" valign="top" rowspan="1" colspan="1">6.82</td><td align="center" valign="top" rowspan="1" colspan="1">6.58</td><td align="center" valign="top" rowspan="1" colspan="1">
+<italic toggle="yes">p</italic> = 0.44</td></tr></tbody></table><table-wrap-foot><fn id="hsr271043-tbl1-note-0001"><p>
+<italic toggle="yes">Note:</italic> Values have been calculated based on the number of valid responses.</p></fn><fn id="hsr271043-tbl1-note-0002"><p>Abbreviations: BMI, body mass index; ICU, intensive care unit; N, number; SD, standard deviation.</p></fn><fn id="hsr271043-tbl1-note-0003"><label>
+<sup>a</sup>
+</label><p>Severe COVID‐19: pneumonia, UCI or hospitalization.</p></fn><fn id="hsr271043-tbl1-note-0004"><label>
+<sup>b</sup>
+</label><p>Expressed in kg/m<sup>2</sup>.</p></fn><fn id="hsr271043-tbl1-note-0005"><label>
+<sup>c</sup>
+</label><p>Expressed in grams/day.</p></fn><fn id="hsr271043-tbl1-note-0006"><label>
+<sup>d</sup>
+</label><p>Expressed in METs/week.</p></fn><fn id="hsr271043-tbl1-note-0007"><label>
+<sup>e</sup>
+</label><p>Medas Score: mediterranean diet adherence screener.</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &amp; Sons, Ltd.</copyright-holder></permissions></table-wrap><p>Table <xref rid="hsr271043-tbl-0002" ref-type="table">2</xref> shows the association between having severe COVID‐19 infection or not and the risk of LC. Participants who had severe COVID‐19 infection had an OR = 7.22 CI 95% (2.79–18.7) compared to participants who had mild symptoms. When we analyzed the risk for each symptom of having LC for each symptom that the patient added, it was seen that the risk increased 1.52 times CI 95% (1.35–1.77) of having severe COVID‐19.</p><table-wrap position="float" id="hsr271043-tbl-0002" content-type="Table" orientation="portrait"><label>Table 2</label><caption><p>Logistic regression. Risk of developing Long COVID based on vaccination status before COVID‐19 infection.</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" align="left" span="1"/><col style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" align="center" span="1"/><col style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" align="center" span="1"/><col style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" align="center" span="1"/><col style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" align="center" span="1"/><col style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" align="center" span="1"/><thead valign="bottom"><tr valign="bottom" style="border-bottom:solid 1px #000000"><th align="left" valign="bottom" rowspan="1" colspan="1">Variable</th><th align="center" valign="bottom" rowspan="1" colspan="1">Mild symptoms or asymptomatic</th><th align="center" valign="bottom" rowspan="1" colspan="1">Severe symptoms (pneumonia, hospitalization, or ICU)</th><th align="center" valign="bottom" rowspan="1" colspan="1">CI 95%</th><th align="center" valign="bottom" rowspan="1" colspan="1">Per each symptom</th><th align="center" valign="bottom" rowspan="1" colspan="1">CI 95%</th></tr></thead><tbody valign="top"><tr><td align="left" valign="top" rowspan="1" colspan="1">
+<italic toggle="yes">N</italic>
+</td><td align="center" valign="top" rowspan="1" colspan="1">358</td><td align="center" valign="top" rowspan="1" colspan="1">76</td><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1"/></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Case</td><td align="center" valign="top" rowspan="1" colspan="1">158</td><td align="center" valign="top" rowspan="1" colspan="1">68</td><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1"/></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Crude OR</td><td align="center" valign="top" rowspan="1" colspan="1">1 (ref.)</td><td align="center" valign="top" rowspan="1" colspan="1">10.76</td><td align="center" valign="top" rowspan="1" colspan="1">(5.02–23.05)</td><td align="center" valign="top" rowspan="1" colspan="1">1.63</td><td align="center" valign="top" rowspan="1" colspan="1">(1.48–1.80)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Sex, age‐adjusted OR</td><td align="center" valign="top" rowspan="1" colspan="1">1 (ref.)</td><td align="center" valign="top" rowspan="1" colspan="1">10.80</td><td align="center" valign="top" rowspan="1" colspan="1">(5.04–23.15)</td><td align="center" valign="top" rowspan="1" colspan="1">1.64</td><td align="center" valign="top" rowspan="1" colspan="1">(1.48–1.81)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Multivariable‐adjusted OR<xref rid="hsr271043-tbl2-note-0002" ref-type="table-fn">a</xref>
+</td><td align="center" valign="top" rowspan="1" colspan="1">1 (ref.)</td><td align="center" valign="top" rowspan="1" colspan="1">7.22</td><td align="center" valign="top" rowspan="1" colspan="1">(2.79–18.7)</td><td align="center" valign="top" rowspan="1" colspan="1">1.52</td><td align="center" valign="top" rowspan="1" colspan="1">(1.35–1.77)</td></tr></tbody></table><table-wrap-foot><fn id="hsr271043-tbl2-note-0001"><p>Abbreviations: CI, confidence interval; OR, odds ratio.</p></fn><fn id="hsr271043-tbl2-note-0002"><label>
+<sup>a</sup>
+</label><p>Adjusted for sex, age, university studies, body mass index, physical activity, race, tobacco use, alcohol intake, adherence to Mediterranean diet, previous illness, flu vaccination, health care worker, high risk of COVID worker, sleep hours, sedentarism and vaccination status.</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &amp; Sons, Ltd.</copyright-holder></permissions></table-wrap><p>In Figure <xref rid="hsr271043-fig-0002" ref-type="fig">2</xref>, each of the symptoms of COVID‐19 infection is analyzed with respect to the risk of suffering from LC we see that flu, dyspnea, chest pain, dyspnea, are the symptoms with the highest risk of presenting LC.</p><fig position="float" fig-type="Figure" id="hsr271043-fig-0002" orientation="portrait"><label>Figure 2</label><caption><p>COVID‐19 symptoms and Risk of LC. Forest plot showing the association between individual symptoms during acute SARS‐CoV‐2 infection and the odds of developing Long COVID (LC) in the study population (<italic toggle="yes">n</italic> = 434). Odds ratios (OR) and 95% confidence intervals (CI) were derived from multivariable logistic regression adjusted for age, sex, BMI, comorbidities, and vaccination status. Symptoms significantly associated with LC include dyspnea, chest pain, and fatigue.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-3" orientation="portrait" xlink:href="HSR2-8-e71043-g002.jpg"/></fig><p>Figure <xref rid="hsr271043-fig-0003" ref-type="fig">3</xref> shows the relationship between the severity of acute COVID‐19 infection and each of the symptoms of LC. It can be observed that depression, chest tightness and dyspnea are associated in a statistically significant way.</p><fig position="float" fig-type="Figure" id="hsr271043-fig-0003" orientation="portrait"><label>Figure 3</label><caption><p>COVID‐19 severity and risk of LC. Forest plot showing the odds ratios (OR) and 95% confidence intervals (CI) for the association between acute COVID‐19 severity and the presence of persistent symptoms.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-5" orientation="portrait" xlink:href="HSR2-8-e71043-g004.jpg"/></fig><p>Figure <xref rid="hsr271043-fig-0004" ref-type="fig">4</xref> illustrates the relationship between the Post COVID‐19 Functional Status (PCFS) scale and the number of symptoms experienced during acute COVID‐19 infection, with a Beta coefficient (95% CI) of 0.07 (0.01–0.14). The figure shows that as the number of symptoms increases, functional status worsens, indicating greater functional limitations with a higher symptom burden.</p><fig position="float" fig-type="Figure" id="hsr271043-fig-0004" orientation="portrait"><label>Figure 4</label><caption><p>Relationship between Post‐COVID‐19 Functional Status (PCFS) scale and the number of COVID‐19 symptoms during acute infection. (*) PCFS: 0: no functional limitation; 1: nonsignificant functional limitation; 2: mild functional limitation; 3–4: moderate or severe functional limitation.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-7" orientation="portrait" xlink:href="HSR2-8-e71043-g001.jpg"/></fig></sec><sec sec-type="discussion" id="hsr271043-sec-0140"><label>4</label><title>Discussion</title><p>Our study provides key insights into the factors influencing the development of LC and its impact on patients' functional status. We found that the severity of the acute infection, specific symptoms, and the total number of symptoms during the acute infection are significant predictors of LC.</p><p>We analyzed the relationship between acute infection symptoms and the risk of developing LC and the relationship between the severity of acute infection and each LC symptoms. In agreement with previous studies, such as the 2021 meta‐analysis [<xref rid="hsr271043-bib-0015" ref-type="bibr">15</xref>] this study finds a statistically significant association between the severity of acute COVID‐19 and the risk of developing LC, with a higher prevalence of LC in patients who presented severe forms of the disease. As seen in other studies [<xref rid="hsr271043-bib-0007" ref-type="bibr">7</xref>, <xref rid="hsr271043-bib-0008" ref-type="bibr">8</xref>], acute symptoms such as dyspnea and chest pain are associated with the development of LC. This supports the idea that certain symptoms may indicate a more severe inflammatory response or a higher viral load, which could predispose patients to long‐term complications. This inflammatory response may persist after acute infection and could result in immune system dysregulation, leading to prolonged persistent symptoms and complications of COVID‐19 infection [<xref rid="hsr271043-bib-0022" ref-type="bibr">22</xref>, <xref rid="hsr271043-bib-0023" ref-type="bibr">23</xref>]. While p‐values indicated statistical significance, we focused on reporting odds ratios with 95% confidence intervals to reflect the magnitude and precision of the associations. This approach aligns with current recommendations for clinical data reporting.</p><p>The PCFS showed strong associations with health‐related quality of life (HRQoL) and functional limitations, confirming its construct validity among symptomatic COVID‐19 patients [<xref rid="hsr271043-bib-0018" ref-type="bibr">18</xref>]. Our study demonstrates a correlation between the increase in the PCFS and the number of symptoms experienced during acute infection, showing that individuals with more COVID‐19 symptoms tend to have greater functional limitations as measured by the PCFS Scale. In our study, individuals with more severe acute COVID‐19 presented a higher BMI and reported lower levels of sedentary behavior—an apparently contradictory finding. This may reflect the complexity of self‐reported lifestyle data and suggests that metabolic factors, rather than physical inactivity alone, could play a more relevant role in disease severity. Given that greater severity during the acute phase is strongly associated with long COVID, these results underline the importance of considering underlying metabolic health when assessing LC risk. Our findings align with previous reports, such as those by Xie et al. [<xref rid="hsr271043-bib-0007" ref-type="bibr">7</xref>] and Natarajan et al. [<xref rid="hsr271043-bib-0008" ref-type="bibr">8</xref>], which showed similar associations between acute dyspnea and LC development. However, those previous studies primarily included patients admitted to hospitals. It is well known that hospital stays can potentially affect the immune response and the body's ability to recover from infection, potentially increasing the likelihood of developing LC symptoms in these patients [<xref rid="hsr271043-bib-0024" ref-type="bibr">24</xref>]. However, our study is distinguished by focusing on a nonhospital population, allowing for a more representative perspective of the general population.</p><p>One difference observed compared to some studies is that while fatigue is often reported as the most frequent symptom of LC, it did not appear as the most prevalent symptom in this study. This discrepancy could be attributed to differences in data collection methods (self‐reported vs. clinical assessment) or variations in how participants defined their symptoms.</p><p>Another key difference between this study and many previous ones is that earlier research has focused on hospitalized populations, which could have introduced bias due to the inherently more severe nature of those cases. Patients requiring hospitalization often present with more acute and life‐threatening symptoms, leading to a higher likelihood of long‐term complications such as LC. As a result, findings from these studies may overestimate the prevalence and severity of LC by focusing on a subset of the population that experienced more severe infections.</p><p>In contrast, our study focuses on a general nonhospitalized population, which provides a broader and potentially more representative view of LC's impact in the general population. By including individuals with milder or moderate infections who were not hospitalized, our findings may better reflect the true spectrum of LC symptoms and their prevalence in the wider community. This approach allows us to capture cases that might have been underrepresented in studies restricted to hospitalized patients, offering new insights into how LC affects individuals with less severe acute COVID‐19 infections and highlighting the widespread nature of long‐term complications across different levels of disease severity.</p><p>Our study has several strengths and limitations that should be acknowledged. These factors are important to consider when interpreting the findings and their implication. Regarding its strengths, this study stands out for analyzing in detail the relationship between the severity of acute COVID‐19 infection and the subsequent development of LC with a comprehensive approach. Multiple predictor variables are included, such as the number of acute symptoms, disease severity and specific symptoms. We consider this study to make a key contribution, as much of the previous research has focused on hospitalized populations, whereas our study includes a broader and more representative sample. In terms of limitations, despite the robustness of the analysis, the sample size can be considered limited compared to larger studies or previous meta‐analyses. This may affect the ability to generalize the findings to a broader population. A larger sample size could have allowed for greater precision. Regarding the participants, a possible selection bias, since the study focuses on patients from LC associations. In a retrospective case‐control study, sometimes it's difficult to establish a causal relationship because both the exposure and the outcome have already occurred at the time of data collection. Another possible limitation is recall bias: patients who develop LC may be more likely to remember their acute symptoms in a more severe manner, which could influence the reported relationship between initial severity and the presence of LC. On the other hand, although several predictors of LC were analyzed, it is possible that some confounding factors, such as unmeasured comorbidities, were not fully controlled. It is also important to consider that a considerable portion of participants who experienced severe acute COVID‐19 were infected during the early waves of the pandemic, before vaccines became available. This temporal aspect may explain the lower vaccination rates observed in the severe group and helps contextualize this finding. While this could introduce a potential bias, vaccination status was included as an adjustment variable in the multivariable analysis to minimize confounding.</p><p>Given the findings of this study, it would be advisable for healthcare professionals to consider a more proactive approach in monitoring patients who experienced severe symptoms during the acute phase of COVID‐19. The severity of the infection and the number of symptoms appear to be related to a higher risk of developing Long COVID. Careful monitoring after the initial recovery could facilitate the early detection of persistent symptoms, which could potentially help mitigate their long‐term impact. Additionally, in postinfection consultations, it would be prudent for physicians to comprehensively assess the symptom burden, particularly in cases of dyspnea and chest pain, which might be associated with prolonged complications. The use of tools such as the Post‐COVID Functional Status Scale could be helpful in identifying potential functional limitations and guiding decision‐making regarding interventions that may improve patients' quality of life.</p></sec><sec sec-type="conclusions" id="hsr271043-sec-0150"><label>5</label><title>Conclusions</title><p>In conclusion, this study identifies severity of acute illness and symptom burden as key predictors of Long COVID in nonhospitalized individuals, highlighting the need for early follow‐up strategies and the use of tools such as PCFS in primary care. It shows that severe acute COVID‐19 increases the risk of LC, consistent with previous findings, and suggests that specific symptoms like dyspnea and chest pain may indicate a stronger inflammatory response.</p><p>The study also highlights the link between acute symptoms and functional limitations, measured by the PCFS. However, limitations such as the small sample size, potential selection bias, and recall bias should be considered. Further research with larger and more diverse populations is needed to strengthen these findings.</p></sec><sec id="hsr271043-sec-0170"><title>Author Contributions</title><p>
+<bold>Nicolás Escrivá:</bold> writing – review and editing, writing – original draft, investigation, conceptualization, methodology, software. <bold>Laura Moreno‐Galarraga:</bold> conceptualization, investigation, writing – original draft, writing – review and editing, methodology, validation, visualization, supervision, data curation, project administration, software. <bold>Elena Barado:</bold> investigation, methodology. <bold>María Gabriela Torres:</bold> investigation, conceptualization, methodology, validation. <bold>Alejandro Fernandez‐Montero:</bold> conceptualization, investigation, writing – original draft, methodology, validation, visualization, writing – review and editing, project administration, supervision, data curation, software.</p></sec><sec id="hsr271043-sec-0180"><title>Ethics Statement</title><p>the study was approved by the Ethics Committee of the University of Navarra (Ref. 2023.042), complies with the 2023 Medical Data Protection Law, and follows the Helsinki Declaration.</p></sec><sec sec-type="COI-statement" id="hsr271043-sec-0190"><title>Conflicts of Interest</title><p>The authors declare no conflicts of interest.</p></sec><sec id="hsr271043-sec-0220"><title>Transparency Statement</title><p>The corresponding author Dr. Laura Moreno‐Galarraga affirms that this manuscript is an honest, accurate, and transparent account of the study being reported; that no important aspects of the study have been omitted; and that any discrepancies from the study as planned (and, if relevant, registered) have been explained.</p></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material id="hsr271043-suppl-0001" position="float" content-type="local-data" orientation="portrait"><caption><p>
+<bold>Supplementary table 1</bold> represents the data related to the baseline characteristics based on Cases and controls.</p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="HSR2-8-e71043-s001.docx" position="float" orientation="portrait"/></supplementary-material></sec></body><back><ack id="hsr271043-sec-0160"><title>Acknowledgments</title><p>The authors declare that no funding was received for the research, authorship, or publication of this article. The authors declare that the funding sources had no role in the study design; collection, analysis, and interpretation of data; writing of the report; or the decision to submit the report for publication. All authors have read and approved the final version of the manuscript. Laura Moreno‐Galarraga had full access to all the data in this study and takes complete responsibility for the integrity of the data and the accuracy of the data analysis. The authors sincerely thank all the individuals who participated in the study, as well as the valuable support of the Madrid Association of Long COVID (AMACOP).</p></ack><sec sec-type="data-availability" id="hsr271043-sec-0210"><title>Data Availability Statement</title><p>The data that support the findings of this study are available from the corresponding author upon reasonable request. The data and materials supporting the findings of this study are available upon request from the corresponding author (<email>laura.moreno.galarraga@navarra.es</email>). The data will be shared in accordance with applicable regulations, privacy concerns and ethical guidelines.</p></sec><ref-list content-type="cited-references" id="hsr271043-bibl-0001"><title>References</title><ref id="hsr271043-bib-0001"><label>1</label><mixed-citation publication-type="miscellaneous" id="hsr271043-cit-0001">
+<string-name name-style="western">
+<given-names>U.</given-names>
+<surname>Nations</surname>
+</string-name> Las muertes por COVID‐19 sumarían 15 millones entre 2020 y 2021 | Naciones Unidas. United Nations, accessed June 28, 2024, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.un.org/es/desa/las-muertes-por-covid-19-sumar%C3%ADan-15-millones-entre-2020-y-2021" ext-link-type="uri">https://www.un.org/es/desa/las-muertes-por-covid-19-sumar%C3%ADan-15-millones-entre-2020-y-2021</ext-link>.</mixed-citation></ref><ref id="hsr271043-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="hsr271043-cit-0002">
+<string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Wulf Hanson</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Abbafati</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J. G.</given-names>
+<surname>Aerts</surname>
+</string-name>, et al., <collab collab-type="authors">Global Burden of Disease Long COVID Collaborators</collab>
+., “<article-title>Estimated Global Proportions of Individuals With Persistent Fatigue, Cognitive, and Respiratory Symptom Clusters Following Symptomatic COVID‐19 in 2020 and 2021</article-title>,” <source>Journal of the American Medical Association</source>
+<volume>328</volume>, no. <issue>16</issue> (<year>2022</year>): <fpage>1604</fpage>–<lpage>1615</lpage>, <pub-id pub-id-type="doi">10.1001/jama.2022.18931</pub-id>.<pub-id pub-id-type="pmid">36215063</pub-id>
+<pub-id pub-id-type="pmcid">PMC9552043</pub-id></mixed-citation></ref><ref id="hsr271043-bib-0003"><label>3</label><mixed-citation publication-type="miscellaneous" id="hsr271043-cit-0003">Post COVID‐19 condition (Long COVID), accessed June 28, 2024, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.who.int/europe/news-room/fact-sheets/item/post-covid-19-condition" ext-link-type="uri">https://www.who.int/europe/news-room/fact-sheets/item/post-covid-19-condition</ext-link>.</mixed-citation></ref><ref id="hsr271043-bib-0004"><label>4</label><mixed-citation publication-type="miscellaneous" id="hsr271043-cit-0004">CDC. El COVID‐19 y su salud. Centers for Disease Control and Prevention. February 11, 2020, accessed June 29, <year>2024</year>, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://espanol.cdc.gov/coronavirus/2019-ncov/symptoms-testing/symptoms.html" ext-link-type="uri">https://espanol.cdc.gov/coronavirus/2019-ncov/symptoms-testing/symptoms.html</ext-link>.</mixed-citation></ref><ref id="hsr271043-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="hsr271043-cit-0005">
+<string-name name-style="western">
+<given-names>U.</given-names>
+<surname>Chaichana</surname>
+</string-name>, <string-name name-style="western">
+<given-names>K. K. C.</given-names>
+<surname>Man</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Chen</surname>
+</string-name>, et al., “<article-title>Definition of Post–COVID‐19 Condition Among Published Research Studies</article-title>,” <source>JAMA Network Open</source>
+<volume>6</volume>, no. <issue>4</issue> (<year>2023</year>): <elocation-id>e235856</elocation-id>, <pub-id pub-id-type="doi">10.1001/jamanetworkopen.2023.5856</pub-id>.<pub-id pub-id-type="pmid">37017970</pub-id>
+<pub-id pub-id-type="pmcid">PMC10077105</pub-id></mixed-citation></ref><ref id="hsr271043-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="hsr271043-cit-0006">
+<string-name name-style="western">
+<given-names>J. L.</given-names>
+<surname>Harding</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S. A.</given-names>
+<surname>Oviedo</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M. K.</given-names>
+<surname>Ali</surname>
+</string-name>, et al., “<article-title>The Bidirectional Association Between Diabetes and Long‐COVID‐19—A Systematic Review</article-title>,” <source>Diabetes Research and Clinical Practice</source>
+<volume>195</volume> (<year>2023</year>): <elocation-id>110202</elocation-id>, <pub-id pub-id-type="doi">10.1016/j.diabres.2022.110202</pub-id>.<pub-id pub-id-type="pmid">36496030</pub-id>
+<pub-id pub-id-type="pmcid">PMC9727969</pub-id></mixed-citation></ref><ref id="hsr271043-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="hsr271043-cit-0007">
+<string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Xie</surname>
+</string-name>, <string-name name-style="western">
+<given-names>B.</given-names>
+<surname>Bowe</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>Z.</given-names>
+<surname>Al‐Aly</surname>
+</string-name>, “<article-title>Burdens of Post‐Acute Sequelae of COVID‐19 by Severity of Acute Infection, Demographics and Health Status</article-title>,” <source>Nature Communications</source>
+<volume>12</volume>, no. <issue>1</issue> (<year>2021</year>): <elocation-id>6571</elocation-id>, <pub-id pub-id-type="doi">10.1038/s41467-021-26513-3</pub-id>.<pub-id pub-id-type="pmcid">PMC8589966</pub-id><pub-id pub-id-type="pmid">34772922</pub-id></mixed-citation></ref><ref id="hsr271043-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="hsr271043-cit-0008">
+<string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Natarajan</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Shetty</surname>
+</string-name>, <string-name name-style="western">
+<given-names>G.</given-names>
+<surname>Delanerolle</surname>
+</string-name>, et al., “<article-title>A Systematic Review and Meta‐Analysis of Long Covid Symptoms</article-title>,” <source>Systematic Reviews</source>
+<volume>12</volume>, no. <issue>1</issue> (<year>2023</year>): <elocation-id>88</elocation-id>, <pub-id pub-id-type="doi">10.1186/s13643-023-02250-0</pub-id>.<pub-id pub-id-type="pmid">37245047</pub-id>
+<pub-id pub-id-type="pmcid">PMC10220332</pub-id></mixed-citation></ref><ref id="hsr271043-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="hsr271043-cit-0009">
+<string-name name-style="western">
+<given-names>F. A.</given-names>
+<surname>Klok</surname>
+</string-name>, <string-name name-style="western">
+<given-names>G. J. A. M.</given-names>
+<surname>Boon</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Barco</surname>
+</string-name>, et al., “<article-title>The Post‐COVID‐19 Functional Status Scale: A Tool to Measure Functional Status Over Time After COVID‐19</article-title>,” <source>European Respiratory Journal</source>
+<volume>56</volume>, no. <issue>1</issue> (<year>2020</year>): <elocation-id>2001494</elocation-id>, <pub-id pub-id-type="doi">10.1183/13993003.01494-2020</pub-id>.<pub-id pub-id-type="pmid">32398306</pub-id>
+<pub-id pub-id-type="pmcid">PMC7236834</pub-id></mixed-citation></ref><ref id="hsr271043-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="hsr271043-cit-0010">
+<string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Gil Panont</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Cordeiro Maluf</surname>
+</string-name>, <string-name name-style="western">
+<given-names>W.</given-names>
+<surname>Sepúlveda‐Loyola</surname>
+</string-name>, et al., “<article-title>Clinical, Physical, and Psychological Outcomes Among Individuals With Post COVID‐19 Syndrome With Different Functional Status: A Cross‐Sectional Study</article-title>,” <source>Salud, Ciencia y Tecnología</source>
+<volume>4</volume> (<year>2024</year>): <elocation-id>802</elocation-id>, <pub-id pub-id-type="doi">10.56294/saludcyt2024802</pub-id>.</mixed-citation></ref><ref id="hsr271043-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="hsr271043-cit-0011">
+<string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Du</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Fang</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Wu</surname>
+</string-name>, et al., “<article-title>Six‐Month Follow‐up of Functional Status in Discharged Patients With Coronavirus Disease 2019</article-title>,” <source>BMC Infectious Diseases</source>
+<volume>21</volume>, no. <issue>1</issue> (<year>2021</year>): <elocation-id>1271</elocation-id>, <pub-id pub-id-type="doi">10.1186/s12879-021-06970-3</pub-id>.<pub-id pub-id-type="pmid">34930161</pub-id>
+<pub-id pub-id-type="pmcid">PMC8686090</pub-id></mixed-citation></ref><ref id="hsr271043-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="hsr271043-cit-0012">
+<string-name name-style="western">
+<given-names>A. A.</given-names>
+<surname>Mohamed Hussein</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Saad</surname>
+</string-name>, <string-name name-style="western">
+<given-names>H. E.</given-names>
+<surname>Zayan</surname>
+</string-name>, et al., “<article-title>Post‐COVID‐19 Functional Status: Relation to Age, Smoking, Hospitalization, and Previous Comorbidities</article-title>,” <source>Annals of Thoracic Medicine</source>
+<volume>16</volume>, no. <issue>3</issue> (<year>2021</year>): <fpage>260</fpage>–<lpage>265</lpage>, <pub-id pub-id-type="doi">10.4103/atm.atm_606_20</pub-id>.<pub-id pub-id-type="pmid">34484441</pub-id>
+<pub-id pub-id-type="pmcid">PMC8388571</pub-id></mixed-citation></ref><ref id="hsr271043-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="hsr271043-cit-0013">
+<string-name name-style="western">
+<given-names>N.</given-names>
+<surname>Benkalfate</surname>
+</string-name>, <string-name name-style="western">
+<given-names>E.</given-names>
+<surname>Eschapasse</surname>
+</string-name>, <string-name name-style="western">
+<given-names>T.</given-names>
+<surname>Georges</surname>
+</string-name>, et al., “<article-title>Evaluation of the Post‐COVID‐19 Functional Status (PCFS) Scale in a Cohort of Patients Recovering From Hypoxemic SARS‐CoV‐2 Pneumonia</article-title>,” <source>BMJ Open Respiratory Research</source>
+<volume>9</volume>, no. <issue>1</issue> (<year>2022</year>): <elocation-id>e001136</elocation-id>, <pub-id pub-id-type="doi">10.1136/bmjresp-2021-001136</pub-id>.<pub-id pub-id-type="pmcid">PMC8915286</pub-id><pub-id pub-id-type="pmid">35264326</pub-id></mixed-citation></ref><ref id="hsr271043-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="hsr271043-cit-0014">
+<string-name name-style="western">
+<given-names>T. D.</given-names>
+<surname>Dos Santos</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J. A.</given-names>
+<surname>Souza</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D. M.</given-names>
+<surname>Cardoso</surname>
+</string-name>, <string-name name-style="western">
+<given-names>V. B.</given-names>
+<surname>Berni</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A. S.</given-names>
+<surname>Pasqualoto</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>I. M.</given-names>
+<surname>De Albuquerque</surname>
+</string-name>, “<article-title>Predictors of Post–COVID‐19 Functional Status Scale in Hospitalized Patients Recovering From SARS‐CoV‐2 Infection</article-title>,” <source>American Journal of Physical Medicine &amp; Rehabilitation</source>
+<volume>103</volume>, no. <issue>2</issue> (<year>2024</year>): <fpage>143</fpage>–<lpage>148</lpage>, <pub-id pub-id-type="doi">10.1097/PHM.0000000000002325</pub-id>.<pub-id pub-id-type="pmid">37594212</pub-id>
+</mixed-citation></ref><ref id="hsr271043-bib-0015"><label>15</label><mixed-citation publication-type="journal" id="hsr271043-cit-0015">
+<string-name name-style="western">
+<given-names>G.</given-names>
+<surname>Maglietta</surname>
+</string-name>, <string-name name-style="western">
+<given-names>F.</given-names>
+<surname>Diodati</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Puntoni</surname>
+</string-name>, et al., “<article-title>Prognostic Factors for Post‐COVID‐19 Syndrome: A Systematic Review and Meta‐Analysis</article-title>,” <source>Journal of Clinical Medicine</source>
+<volume>11</volume>, no. <issue>6</issue> (<year>2022</year>): <elocation-id>1541</elocation-id>, <pub-id pub-id-type="doi">10.3390/jcm11061541</pub-id>.<pub-id pub-id-type="pmid">35329867</pub-id>
+<pub-id pub-id-type="pmcid">PMC8948827</pub-id></mixed-citation></ref><ref id="hsr271043-bib-0016"><label>16</label><mixed-citation publication-type="journal" id="hsr271043-cit-0016">
+<string-name name-style="western">
+<given-names>V.</given-names>
+<surname>Tsampasian</surname>
+</string-name>, <string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Elghazaly</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Chattopadhyay</surname>
+</string-name>, et al., “<article-title>Risk Factors Associated With Post−COVID‐19 Condition: A Systematic Review and Meta‐Analysis</article-title>,” <source>JAMA Internal Medicine</source>
+<volume>183</volume>, no. <issue>6</issue> (<year>2023</year>): <elocation-id>566</elocation-id>, <pub-id pub-id-type="doi">10.1001/jamainternmed.2023.0750</pub-id>.<pub-id pub-id-type="pmid">36951832</pub-id>
+<pub-id pub-id-type="pmcid">PMC10037203</pub-id></mixed-citation></ref><ref id="hsr271043-bib-0017"><label>17</label><mixed-citation publication-type="journal" id="hsr271043-cit-0017">
+<string-name name-style="western">
+<given-names>Z.</given-names>
+<surname>Song</surname>
+</string-name> and <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Giuriato</surname>
+</string-name>, “<article-title>Demographic and Clinical Factors Associated With Long COVID</article-title>,” <source>Health Affairs</source>
+<volume>42</volume>, no. <issue>3</issue> (<year>2023</year>): <fpage>433</fpage>–<lpage>442</lpage>, <pub-id pub-id-type="doi">10.1377/hlthaff.2022.00991</pub-id>.<pub-id pub-id-type="pmid">36877912</pub-id>
+</mixed-citation></ref><ref id="hsr271043-bib-0018"><label>18</label><mixed-citation publication-type="journal" id="hsr271043-cit-0018">
+<string-name name-style="western">
+<given-names>F. V. C.</given-names>
+<surname>Machado</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Meys</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J. M.</given-names>
+<surname>Delbressine</surname>
+</string-name>, et al., “<article-title>Construct Validity of the Post‐COVID‐19 Functional Status Scale in Adult Subjects With COVID‐19</article-title>,” <source>Health and Quality of Life Outcomes</source>
+<volume>19</volume>, no. <issue>1</issue> (<year>2021</year>): <elocation-id>40</elocation-id>, <pub-id pub-id-type="doi">10.1186/s12955-021-01691-2</pub-id>.<pub-id pub-id-type="pmid">33536042</pub-id>
+<pub-id pub-id-type="pmcid">PMC7856622</pub-id></mixed-citation></ref><ref id="hsr271043-bib-0019"><label>19</label><mixed-citation publication-type="journal" id="hsr271043-cit-0019">
+<string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Crook</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Raza</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Nowell</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Young</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>P.</given-names>
+<surname>Edison</surname>
+</string-name>, “<article-title>Long Covid—Mechanisms, Risk Factors, and Management</article-title>,” <source>BMJ</source>
+<volume>374</volume> (<year>2021</year>): <elocation-id>n1648</elocation-id>, <pub-id pub-id-type="doi">10.1136/bmj.n1648</pub-id>.<pub-id pub-id-type="pmid">34312178</pub-id>
+</mixed-citation></ref><ref id="hsr271043-bib-0020"><label>20</label><mixed-citation publication-type="journal" id="hsr271043-cit-0020">
+<string-name name-style="western">
+<given-names>Q.</given-names>
+<surname>Han</surname>
+</string-name>, <string-name name-style="western">
+<given-names>B.</given-names>
+<surname>Zheng</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Daines</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Sheikh</surname>
+</string-name>, “<article-title>Long‐Term Sequelae of COVID‐19: A Systematic Review and Meta‐Analysis of One‐Year Follow‐up Studies on Post‐COVID Symptoms</article-title>,” <source>Pathogens</source>
+<volume>11</volume>, no. <issue>2</issue> (<year>2022</year>): <elocation-id>269</elocation-id>, <pub-id pub-id-type="doi">10.3390/pathogens11020269</pub-id>.<pub-id pub-id-type="pmid">35215212</pub-id>
+<pub-id pub-id-type="pmcid">PMC8875269</pub-id></mixed-citation></ref><ref id="hsr271043-bib-0021"><label>21</label><mixed-citation publication-type="journal" id="hsr271043-cit-0021">
+<string-name name-style="western">
+<given-names>M. A.</given-names>
+<surname>Martínez‐González</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>García‐Arellano</surname>
+</string-name>, <string-name name-style="western">
+<given-names>E.</given-names>
+<surname>Toledo</surname>
+</string-name>, et al., A 14‐Item Mediterranean Diet Assessment Tool and Obesity Indexes among High‐Risk Subjects: The PREDIMED Trial. Peiró C, ed. <italic toggle="yes">PLoS ONE</italic>. <year>2012</year>;<volume>7</volume>(8):<elocation-id>e43134</elocation-id>, <pub-id pub-id-type="doi">10.1371/journal.pone.0043134</pub-id>.<pub-id pub-id-type="pmcid">PMC3419206</pub-id><pub-id pub-id-type="pmid">22905215</pub-id></mixed-citation></ref><ref id="hsr271043-bib-0022"><label>22</label><mixed-citation publication-type="journal" id="hsr271043-cit-0022">
+<string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Bohmwald</surname>
+</string-name>, <string-name name-style="western">
+<given-names>B.</given-names>
+<surname>Diethelm‐Varela</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Rodríguez‐Guilarte</surname>
+</string-name>, et al., “<article-title>Pathophysiological, Immunological, and Inflammatory Features of Long COVID</article-title>,” <source>Frontiers in Immunology</source>
+<volume>15</volume> (<year>2024</year>): <elocation-id>1341600</elocation-id>, <pub-id pub-id-type="doi">10.3389/fimmu.2024.1341600</pub-id>.<pub-id pub-id-type="pmid">38482000</pub-id>
+<pub-id pub-id-type="pmcid">PMC10932978</pub-id></mixed-citation></ref><ref id="hsr271043-bib-0023"><label>23</label><mixed-citation publication-type="journal" id="hsr271043-cit-0023">
+<string-name name-style="western">
+<given-names>Y. J.</given-names>
+<surname>Cho</surname>
+</string-name> and <string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Kim</surname>
+</string-name>, “<article-title>Long COVID Syndrome: Clinical Presentation, Pathophysiology, Management</article-title>,” <source>Keimyung Medical Journal</source>
+<volume>42</volume>, no. <issue>2</issue> (<year>2023</year>): <fpage>71</fpage>–<lpage>74</lpage>, <pub-id pub-id-type="doi">10.46308/kmj.2023.00269</pub-id>.</mixed-citation></ref><ref id="hsr271043-bib-0024"><label>24</label><mixed-citation publication-type="journal" id="hsr271043-cit-0024">
+<string-name name-style="western">
+<given-names>R. B. D.</given-names>
+<surname>Neto</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L. F. F.</given-names>
+<surname>Reis</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A. S.</given-names>
+<surname>Ferreira</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D. J. A.</given-names>
+<surname>Alexandre</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>R. S.</given-names>
+<surname>Almeida</surname>
+</string-name>, “<article-title>Hospital Admission is Associated With Disability and Late Musculoskeletal Pain in Individuals With Long COVID</article-title>,” <source>Frontiers in Rehabilitation Sciences</source>
+<volume>4</volume> (<year>2023</year>): <elocation-id>1186499</elocation-id>, <pub-id pub-id-type="doi">10.3389/fresc.2023.1186499</pub-id>.<pub-id pub-id-type="pmid">37965093</pub-id>
+<pub-id pub-id-type="pmcid">PMC10641772</pub-id></mixed-citation></ref></ref-list></back></article></pmc-articleset>

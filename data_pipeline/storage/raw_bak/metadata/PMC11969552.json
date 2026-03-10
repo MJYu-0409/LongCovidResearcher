@@ -1,0 +1,33 @@
+{
+  "pmcid": "PMC11969552",
+  "pmid": "40190303",
+  "doi": "10.5114/aoms/187781",
+  "title": "LC risk score - development and evaluation of a scale for assessing the risk of developing long COVID.",
+  "abstract": "INTRODUCTION: The aim of the study was to create a valuable practical tool for evaluating the risk of developing long COVID.\nMATERIAL AND METHODS: 1150 patients from the Polish STOP-COVID registry (PoLoCOV study) were used to develop the risk score. The patients were ill between 03/2020 and 04/2022. To develop a clinically useful scoring model, the LC risk score was generated using the machine learning-based framework AutoScore. Patient data were first randomised into a training (70% of output) and a test (30% of output) cohort. Due to the relatively small study group, cross-validation was used. Model predictive ability was evaluated based on the ROC curve and the AUC value. The result of the risk score for a given patient was the total value of points assigned to selected variables.\nRESULTS: To create the LC risk score, eight variables were ultimately selected due to their significance and clinical value. Female gender significantly contributed to higher final outcome values, with age range 40-49, body mass index < 18.5 kg/m2, hospitalisation during active disease, arthralgia, myalgia as well as loss of taste and smell during infection, COVID-19 symptoms lasting at least 14 days, and unvaccinated status. The final predictive value of the developed LC risk score for a cut-off of 58 points was AUC = 0.630 (95% CI: 0.571-0.688) with sensitivity 39.80%, specificity 85.1%, positive predictive value 80.8%, and negative predictive value 47.3%.\nCONCLUSIONS: The LC risk score may be a practical and undemanding utility that employs basic sociodemographic data, vaccination status, and symptoms during COVID-19 to assess the risk of long COVID.",
+  "authors": [
+    "Mateusz Babicki",
+    "Mateusz Lejawa",
+    "Tadeusz Osadnik",
+    "Joanna Kapusta",
+    "Maciej Banach",
+    "Piotr Jankowski",
+    "Agnieszka Mastalerz-Migas",
+    "Żaneta Kałuzińska-Kołat",
+    "Damian Kołat",
+    "Michal Chudzik"
+  ],
+  "journal": "Archives of medical science : AMS",
+  "pub_year": "2025",
+  "pub_month": "04",
+  "pub_day": "21",
+  "keywords": [
+    "AutoScore",
+    "long COVID",
+    "post-COVID",
+    "risk score",
+    "risk stratification"
+  ],
+  "article_types": [
+    "Journal Article"
+  ]
+}

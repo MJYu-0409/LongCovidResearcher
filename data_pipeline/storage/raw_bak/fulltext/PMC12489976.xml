@@ -1,0 +1,668 @@
+<?xml version="1.0"  ?><!DOCTYPE pmc-articleset PUBLIC "-//NLM//DTD ARTICLE SET 2.0//EN" "https://dtd.nlm.nih.gov/ncbi/pmc/articleset/nlm-articleset-2.0.dtd"><pmc-articleset><article id="jmv70613" xml:lang="en" article-type="research-article" dtd-version="1.4"><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">J Med Virol</journal-id><journal-id journal-id-type="iso-abbrev">J Med Virol</journal-id><journal-id journal-id-type="pmc-domain-id">379</journal-id><journal-id journal-id-type="pmc-domain">blackwellopen</journal-id><journal-id journal-id-type="publisher-id">JMV</journal-id><journal-title-group><journal-title>Journal of Medical Virology</journal-title></journal-title-group><issn pub-type="ppub">0146-6615</issn><issn pub-type="epub">1096-9071</issn><custom-meta-group><custom-meta><meta-name>pmc-is-collection-domain</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-collection-title</meta-name><meta-value>Wiley Open Access Collection</meta-value></custom-meta></custom-meta-group></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC12489976</article-id><article-id pub-id-type="pmcid-ver">PMC12489976.1</article-id><article-id pub-id-type="pmcaid">12489976</article-id><article-id pub-id-type="pmcaiid">12489976</article-id><article-id pub-id-type="pmid">41036702</article-id><article-id pub-id-type="doi">10.1002/jmv.70613</article-id><article-id pub-id-type="publisher-id">JMV70613</article-id><article-version article-version-type="pmc-version">1</article-version><article-categories><subj-group subj-group-type="overline"><subject>Research Article</subject></subj-group><subj-group subj-group-type="heading"><subject>Research Article</subject></subj-group></article-categories><title-group><article-title>Circulating Microclots Are Structurally Associated With Neutrophil Extracellular Traps and Their Amounts Are Elevated in Long COVID Patients</article-title></title-group><contrib-group><contrib id="jmv70613-cr-0001" contrib-type="author" corresp="yes"><name name-style="western"><surname>Thierry</surname><given-names initials="AR">Alain R.</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-4632-5404</contrib-id><xref rid="jmv70613-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="jmv70613-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref><address><email>alain.thierry@inserm.fr</email></address></contrib><contrib id="jmv70613-cr-0002" contrib-type="author"><name name-style="western"><surname>Usher</surname><given-names initials="T">Tom</given-names></name><xref rid="jmv70613-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref></contrib><contrib id="jmv70613-cr-0003" contrib-type="author"><name name-style="western"><surname>Sanchez</surname><given-names initials="C">Cynthia</given-names></name><xref rid="jmv70613-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="jmv70613-cr-0004" contrib-type="author"><name name-style="western"><surname>Turner</surname><given-names initials="S">Simone</given-names></name><xref rid="jmv70613-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref></contrib><contrib id="jmv70613-cr-0005" contrib-type="author"><name name-style="western"><surname>Venter</surname><given-names initials="C">Chantelle</given-names></name><xref rid="jmv70613-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref></contrib><contrib id="jmv70613-cr-0006" contrib-type="author"><name name-style="western"><surname>Pastor</surname><given-names initials="B">Brice</given-names></name><xref rid="jmv70613-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="jmv70613-cr-0007" contrib-type="author"><name name-style="western"><surname>Waters</surname><given-names initials="M">Maxine</given-names></name><xref rid="jmv70613-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref></contrib><contrib id="jmv70613-cr-0008" contrib-type="author"><name name-style="western"><surname>Thompson</surname><given-names initials="A">Anel</given-names></name><xref rid="jmv70613-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref></contrib><contrib id="jmv70613-cr-0009" contrib-type="author"><name name-style="western"><surname>Mirandola</surname><given-names initials="A">Alexia</given-names></name><xref rid="jmv70613-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="jmv70613-cr-0010" contrib-type="author"><name name-style="western"><surname>Pisareva</surname><given-names initials="E">Ekaterina</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-0617-6889</contrib-id><xref rid="jmv70613-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="jmv70613-cr-0011" contrib-type="author"><name name-style="western"><surname>Prevostel</surname><given-names initials="C">Corinne</given-names></name><xref rid="jmv70613-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="jmv70613-cr-0012" contrib-type="author"><name name-style="western"><surname>Laubscher</surname><given-names initials="GJ">Gert J.</given-names></name><xref rid="jmv70613-aff-0004" ref-type="aff">
+<sup>4</sup>
+</xref></contrib><contrib id="jmv70613-cr-0013" contrib-type="author"><name name-style="western"><surname>Kell</surname><given-names initials="DB">Douglas B.</given-names></name><xref rid="jmv70613-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref><xref rid="jmv70613-aff-0005" ref-type="aff">
+<sup>5</sup>
+</xref><xref rid="jmv70613-aff-0006" ref-type="aff">
+<sup>6</sup>
+</xref></contrib><contrib id="jmv70613-cr-0014" contrib-type="author" corresp="yes"><name name-style="western"><surname>Pretorius</surname><given-names initials="E">Etheresia</given-names></name><xref rid="jmv70613-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref><xref rid="jmv70613-aff-0005" ref-type="aff">
+<sup>5</sup>
+</xref><address><email>resiap@sun.ac.za</email></address></contrib></contrib-group><aff id="jmv70613-aff-0001">
+<label>
+<sup>1</sup>
+</label>
+<named-content content-type="organisation-division">IRCM, Montpellier Cancer Research Institute, INSERM U1194</named-content>
+<institution>Montpellier University</institution>
+<city>Montpellier</city>
+<country country="FR">France</country>
+</aff><aff id="jmv70613-aff-0002">
+<label>
+<sup>2</sup>
+</label>
+<institution>ICM, Institut Régional du Cancer de Montpellier</institution>
+<city>Montpellier</city>
+<country country="FR">France</country>
+</aff><aff id="jmv70613-aff-0003">
+<label>
+<sup>3</sup>
+</label>
+<named-content content-type="organisation-division">Department of Physiological Sciences, Faculty of Science</named-content>
+<institution>Stellenbosch University, Stellenbosch Private Bag X1 Matieland</institution>
+<city>Stellenbosch</city>
+<country country="ZA">South Africa</country>
+</aff><aff id="jmv70613-aff-0004">
+<label>
+<sup>4</sup>
+</label>
+<institution>Mediclinic Stellenbosch, Stellenbosch</institution>
+<city>Stellenbosch</city>
+<country country="ZA">South Africa</country>
+</aff><aff id="jmv70613-aff-0005">
+<label>
+<sup>5</sup>
+</label>
+<named-content content-type="organisation-division">Department of Biochemistry, Cell and Systems Biology, Institute of Systems, Molecular and Integrative Biology, Faculty of Health and Life Sciences</named-content>
+<institution>University of Liverpool</institution>
+<city>Liverpool</city>
+<country country="GB">UK</country>
+</aff><aff id="jmv70613-aff-0006">
+<label>
+<sup>6</sup>
+</label>
+<named-content content-type="organisation-division">The Novo Nordisk Foundation Centre for Biosustainability</named-content>
+<institution>Technical University of Denmark</institution>
+<city>Kongens</city>
+<country country="DK">Denmark</country>
+</aff><author-notes><corresp id="correspondenceTo">
+<label>*</label>
+<bold>Correspondence:</bold> Alain R. Thierry (<email>alain.thierry@inserm.fr</email>)<break/>
+Etheresia Pretorius (<email>resiap@sun.ac.za</email>)<break/>
+</corresp></author-notes><pub-date pub-type="epub"><day>02</day><month>10</month><year>2025</year></pub-date><pub-date pub-type="ppub"><month>10</month><year>2025</year></pub-date><volume>97</volume><issue seq="20">10</issue><issue-id pub-id-type="pmc-issue-id">498134</issue-id><issue-id pub-id-type="doi">10.1002/jmv.v97.10</issue-id><elocation-id>e70613</elocation-id><history><date date-type="rev-recd"><day>05</day><month>9</month><year>2025</year></date><date date-type="received"><day>10</day><month>4</month><year>2025</year></date><date date-type="accepted"><day>10</day><month>9</month><year>2025</year></date></history><pub-history><event event-type="pmc-release"><date><day>02</day><month>10</month><year>2025</year></date></event><event event-type="pmc-live"><date><day>03</day><month>10</month><year>2025</year></date></event><event event-type="pmc-last-change"><date iso-8601-date="2025-10-03 10:25:15.040"><day>03</day><month>10</month><year>2025</year></date></event></pub-history><permissions><copyright-statement content-type="article-copyright">© 2025 The Author(s). <italic toggle="yes">Journal of Medical Virology</italic> published by Wiley Periodicals LLC.</copyright-statement><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>This is an open access article under the terms of the <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pmc-pdf" xlink:href="JMV-97-e70613.pdf"/><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pdf" xlink:href="file:JMV-97-e70613.pdf"/><abstract><title>ABSTRACT</title><p>The persistence of vasculo‐thrombotic complications has been put forward as a possible contributing factor in the Long COVID (LC) syndrome. Given the recently reported separate demonstration of the association of LC with elevated levels of heterogenous fibrin(ogen) amyloidogenic particles (microclots) and with those neutrophil extracellular traps (NETs), markers that are linked to thromboinflammation, this study considers the association of microclots with NETs. The results show that NETs markers (Myeloperoxydase, Neutrophil Elastase, and circulating DNA) are quantitatively and structurally associated with the size and number of microclots in patients with LC. These markers showed a strong diagnostic performance, both independently and when combined. Our study revealed that NETs may be a component of circulating microclots. We suggest that higher NETs formation might promote the stabilization of microclots in the circulation, potentially leading to deleterious effects which contribute causally to the LC syndrome.</p></abstract><kwd-group><kwd id="jmv70613-kwd-0001">circulating DNA</kwd><kwd id="jmv70613-kwd-0002">immunothrombosis</kwd><kwd id="jmv70613-kwd-0003">Long COVID</kwd><kwd id="jmv70613-kwd-0004">microclots</kwd><kwd id="jmv70613-kwd-0005">myeloperoxidase</kwd><kwd id="jmv70613-kwd-0006">neutrophil elastase</kwd><kwd id="jmv70613-kwd-0007">neutrophil extracellular traps</kwd></kwd-group><funding-group><award-group id="funding-0001"><funding-source>
+<institution-wrap><institution>The study was partially supported by SIRIC Montpellier Cancer Grant INCa_Inserm_DGOS_12553 (ART); South African National Research Foundation (142142); (EP); and the South African Medical Research Foundation (EP), the Novo Nordisk Foundation grant NNF20CC0035580 (DBK) and the Balvi Foundation grant 18 (DBK).</institution></institution-wrap>
+</funding-source></award-group></funding-group><counts><fig-count count="4"/><table-count count="0"/><page-count count="14"/><word-count count="9486"/></counts><custom-meta-group><custom-meta><meta-name>pmc-status-qastatus</meta-name><meta-value>0</meta-value></custom-meta><custom-meta><meta-name>pmc-status-live</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-status-embargo</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-status-released</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-access</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-legally-suppressed</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-pdf</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-supplement</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-pdf-only</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-suppress-copyright</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-real-version</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-scanned-article</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-in-epmc</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-license-ref</meta-name><meta-value>CC BY</meta-value></custom-meta><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>October 2025</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:6.6.4 mode:remove_FC converted:02.10.2025</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="jmv70613-cit-0046">
+<string-name name-style="western">
+<given-names>A. R.</given-names>
+<surname>Thierry</surname>
+</string-name>, <string-name name-style="western">
+<given-names>T.</given-names>
+<surname>Usher</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Sanchez</surname>
+</string-name>, “<article-title>Circulating Microclots Are Structurally Associated With Neutrophil Extracellular Traps and Their Amounts Are Elevated in Long COVID Patients</article-title>,” <source>Journal of Medical Virology</source>
+<volume>97</volume> (<year>2025</year>): <fpage>1</fpage>‐<lpage>14</lpage>. <pub-id pub-id-type="doi">10.1002/jmv.70613</pub-id>.</mixed-citation>
+</p><fn-group><fn id="jmv70613-note-0001"><p>The manuscript follows J. Med. Virol. ethics and integrity policies.</p></fn></fn-group></notes></front><body><sec id="jmv70613-sec-0050"><label>1</label><title>Introduction</title><p>In the aftermath of the global SARS‐CoV‐2 pandemic, Long COVID (LC) has been recognized as a widespread and challenging condition, with symptoms that impair multiple organ systems and affect millions worldwide. Current estimates indicate that approximately 10%–30% of individuals infected with SARS‐CoV‐2 will experience some form of LC, underscoring the urgent need for effective diagnostic markers and a deeper understanding of its pathophysiology [<xref rid="jmv70613-bib-0001" ref-type="bibr">1</xref>, <xref rid="jmv70613-bib-0002" ref-type="bibr">2</xref>, <xref rid="jmv70613-bib-0003" ref-type="bibr">3</xref>]. Amidst this backdrop, our research details the significant association and potential mechanistic link between microclots [<xref rid="jmv70613-bib-0004" ref-type="bibr">4</xref>, <xref rid="jmv70613-bib-0005" ref-type="bibr">5</xref>] and neutrophil extracellular traps (NETs) [<xref rid="jmv70613-bib-0006" ref-type="bibr">6</xref>, <xref rid="jmv70613-bib-0007" ref-type="bibr">7</xref>]. These findings not only suggest novel diagnostic pathways but also deepen our understanding of the thromboinflammatory processes and autoimmunity underlying LC [<xref rid="jmv70613-bib-0008" ref-type="bibr">8</xref>]. By exploring the synergistic and potentially orthogonal relationships between microclots and NET markers, we argue for their combined diagnostic potential, paving the way for more targeted and personalized management strategies to confront this enduring health issue.</p><p>Increased risks of thrombotic complications such as pulmonary embolism and deep vein thrombosis have been reported more than 6 months after SARS‐CoV2 infection, particularly in patients who have previously suffered severe illness [<xref rid="jmv70613-bib-0002" ref-type="bibr">2</xref>, <xref rid="jmv70613-bib-0003" ref-type="bibr">3</xref>]. This suggests the manner in which hypercoagulation how hypercoagulation may contribute to the varied symptoms experienced by patients with LC, through mechanisms such as capillary blockage, chronic ischaemia‐reperfusion injury, and autoantibody formation. Generally speaking, the state of hypercoagulation can affect multiple organs. Although it is known that LC is associated with factors leading to immune dysregulation and tissue damage [<xref rid="jmv70613-bib-0001" ref-type="bibr">1</xref>, <xref rid="jmv70613-bib-0002" ref-type="bibr">2</xref>, <xref rid="jmv70613-bib-0003" ref-type="bibr">3</xref>], the aetiological relationship between LC and coagulation is still under investigation by various groups.</p><p>The mechanism of healthy blood clotting, culminating in the self‐assembly of soluble fibrinogen molecules cleaved by thrombin to make insoluble fibrin is well‐understood [<xref rid="jmv70613-bib-0009" ref-type="bibr">9</xref>]. The resulting fibrin mesh is made up of long fibers, typically with a diameter in the 50–100 nm range. As early as 2008 we suggested that fibrin ultrastructural changes could be useful in identifying disease patterns [<xref rid="jmv70613-bib-0009" ref-type="bibr">9</xref>], and referred to the anomalous clots observed as ‘dense matted deposits’ [<xref rid="jmv70613-bib-0009" ref-type="bibr">9</xref>]. We also found that these dense matted deposits were resistant to fibrinolysis, and that this anomalous form could be stained with amyloid stains such as Thioflavin T (ThT) [<xref rid="jmv70613-bib-0004" ref-type="bibr">4</xref>]. Whereas our initial focus was on the study of clotting pathology in the presence of thrombin, over the years this has evolved, ultimately leading to the discovery that direct protein‐protein interactions between circulating inflammatory molecules and soluble fibrinogen are the main drivers of clotting pathologies. The discovery of circulating amyloid fibrin(ogen) marked a crucial milestone, not least due to its significant prevalence in acute COVID‐19 cases [<xref rid="jmv70613-bib-0005" ref-type="bibr">5</xref>]. This shifted the focus to the biochemical and structural characteristics of fibrin(ogen), highlighting a conformational change into an amyloidogenic structure triggered by the presence of circulating inflammatory molecules. These initial discoveries illuminated how such molecules could directly influence pathological clotting, as well as erythrocyte and platelet pathology.</p><p>We also showed that these fibrinolytic‐resistant microclots entrap various inflammatory molecules, including proteins that prevent clot breakdown (alpha‐2‐antiplasmin, e.g.) [<xref rid="jmv70613-bib-0010" ref-type="bibr">10</xref>, <xref rid="jmv70613-bib-0011" ref-type="bibr">11</xref>], and that the extent of the microclots, with their trapped inflammatory molecules, is a key influencer in LC pathology. We also showed that the simple presence of the spike protein S1 from SARS‐CoV‐2 is sufficient to induce fibrinolytic ‐resistant microclots. Recognising that a reliable, quantitative method was needed for measuring microclots in platelet‐poor plasma, we developed a cell‐free imaging flow cytometer method for the detection and quantification of microclots [<xref rid="jmv70613-bib-0012" ref-type="bibr">12</xref>]. Microscopy methods are also effective in the analysis of such microclots, as observed in sepsis [<xref rid="jmv70613-bib-0013" ref-type="bibr">13</xref>].</p><p>Although fibrinogen is a central part and scaffold of some of the microclots, the ThT binds to any amyloidogenic and misfolded protein associated/incorporated into the microclot. It is likely that most of the dysregulated inflammatory molecules we found inside the microclots have a significant amyloidogenicity themselves. While the microclots have a diverse/varying content, the term “microclots” was largely used in the litterature. In this study, we use the term “microclots” to refer to small, circulating fibrin amyloidogenic complexes that may form independently of thrombin and are resistant to fibrinolysis.</p><p>NETs [<xref rid="jmv70613-bib-0006" ref-type="bibr">6</xref>, <xref rid="jmv70613-bib-0007" ref-type="bibr">7</xref>, <xref rid="jmv70613-bib-0014" ref-type="bibr">14</xref>] have also been found to be associated with COVID [<xref rid="jmv70613-bib-0015" ref-type="bibr">15</xref>, <xref rid="jmv70613-bib-0016" ref-type="bibr">16</xref>, <xref rid="jmv70613-bib-0017" ref-type="bibr">17</xref>, <xref rid="jmv70613-bib-0018" ref-type="bibr">18</xref>, <xref rid="jmv70613-bib-0019" ref-type="bibr">19</xref>, <xref rid="jmv70613-bib-0020" ref-type="bibr">20</xref>] and LC [<xref rid="jmv70613-bib-0021" ref-type="bibr">21</xref>], and have long been associated with inflammatory diseases [<xref rid="jmv70613-bib-0022" ref-type="bibr">22</xref>]. NETs formation (NETosis) is produced by activated neutrophils and is part of the innate immune response. NETs are composed of chromatin and of several proteins, derived notably from granules (e.g. Neutrophil elastase, Myeloperoxidase, bactericidal peptides, cathepsin G, lactoferrin and matrix metalloproteinase‐9), each contributing to the elimination of bacteria [<xref rid="jmv70613-bib-0022" ref-type="bibr">22</xref>, <xref rid="jmv70613-bib-0023" ref-type="bibr">23</xref>]. This allows NETs to eliminate microbes within the first hours of infection, doing so physically by means of the DNA fibers, and chemically by means of potent enzymes (NE and MPO, for instance). However, uncontrolled and excessive NETs formation may be deleterious, and has been associated with various sterile and non‐sterile disorders, called NETopathies [<xref rid="jmv70613-bib-0023" ref-type="bibr">23</xref>, <xref rid="jmv70613-bib-0024" ref-type="bibr">24</xref>, <xref rid="jmv70613-bib-0025" ref-type="bibr">25</xref>]. These are mainly inflammatory, and include microbial infection, autoimmune diseases, cancer, diabetes, arthritis, and others [<xref rid="jmv70613-bib-0017" ref-type="bibr">17</xref>, <xref rid="jmv70613-bib-0022" ref-type="bibr">22</xref>]. DNA is the main NETs component, and the principal NETs byproducts consist of specifically degraded or fragmented DNA that are shed into the bloodstream (circulating DNA, cirDNA) [<xref rid="jmv70613-bib-0026" ref-type="bibr">26</xref>]. Given that NETs formation has been found to be associated with cirDNA in various inflammatory diseases [<xref rid="jmv70613-bib-0022" ref-type="bibr">22</xref>, <xref rid="jmv70613-bib-0027" ref-type="bibr">27</xref>, <xref rid="jmv70613-bib-0028" ref-type="bibr">28</xref>], and that the production of cirDNA was recently shown to derive directly from NETs degradation [<xref rid="jmv70613-bib-0026" ref-type="bibr">26</xref>], cirDNA may represent a biomarker of NETs formation. The participation of NETs in thrombus formation has previously been suggested, based on the observation of thrombotic events in various NETopathies [<xref rid="jmv70613-bib-0017" ref-type="bibr">17</xref>, <xref rid="jmv70613-bib-0022" ref-type="bibr">22</xref>, <xref rid="jmv70613-bib-0029" ref-type="bibr">29</xref>]. In addition, the <italic toggle="yes">ex vivo</italic> release of intertwined fibrin and NETs scaffolds by isolated, stimulated neutrophils in fibrin clots has been observed. For instance, NETs markers have been detected in a coronary thrombus removed with percutaneous coronary thromboaspiration from a patient with acute myocardial infarction [<xref rid="jmv70613-bib-0030" ref-type="bibr">30</xref>].</p></sec><sec sec-type="materials-and-methods" id="jmv70613-sec-0060"><label>2</label><title>Materials and Methods</title><sec id="jmv70613-sec-0070"><label>2.1</label><title>Objectives and Study Design</title><p>We have separately revealed both the presence of microclots [<xref rid="jmv70613-bib-0001" ref-type="bibr">1</xref>, <xref rid="jmv70613-bib-0004" ref-type="bibr">4</xref>, <xref rid="jmv70613-bib-0007" ref-type="bibr">7</xref>], and elevated cirDNA and NETs in LC, and we here assess the extent to which they are linked/associated. We used the same cohort of healthy individuals (HI) and individuals with LC (HI, Table <xref rid="jmv70613-suppl-0001" ref-type="supplementary-material">S1</xref> and LC, Table <xref rid="jmv70613-suppl-0001" ref-type="supplementary-material">S2</xref>) show the demographics and co‐morbidities of LC and both HI cohorts). We first determined the number of microclots and their size, and simultaneously determined the plasma concentrations of NETs protein markers (MPO, NE) and total cirDNA, and performed correlation tests. We then assessed whether NETs constituents were present within the microclots, seeking to determine a possible structural association between the two entities.</p></sec><sec id="jmv70613-sec-0080"><label>2.2</label><title>Study Cohort and Sample Demographics</title><p>We included two control cohorts and one Long COVID cohort. The control cohorts were as follows: one from South Africa [SA controls, (<italic toggle="yes">n</italic> = 14)] and another from France [EFS controls, (<italic toggle="yes">n</italic> = 24)], both comprising healthy individuals without LC symptoms at blood collection. The inclusion of these geographically and culturally distinct control groups aimed to explore any differences or similarities in inflammatory profiles. The South African control cohort included 14 healthy individuals [seven males, seven females; mean age 28 (26–42)] with no cardiovascular history, coagulation disorders, or pregnancy. Two participants had hypercholesterolemia, and one had hypertension, all effectively managed through diet and treatment. The French control cohort consisted of 24 healthy blood donors [15 males, nine females; median age 45.5 (19–64)] with similar exclusion criteria. Demographic details and co‐morbidities were documented and compared across cohorts.</p><p>For the LC group, 50 patients [18 males, 32 females; mean age 50 ( ± 17)] were recruited through clinical collaborators who identified post‐acute COVID‐19 individuals with persistent LC symptoms. LC patients completed a questionnaire detailing their demographics, comorbidities, medication use, COVID‐19 vaccination history, severity of initial infection, and self‐reported LC symptoms. All participants provided informed consent, and ethical clearance was secured before blood collection. Platelet‐poor plasma samples were cold‐shipped between South Africa and France for analysis. Individuals constituting both HI cohorts (EFS and SA HI), included in this study were selected to not be on any anticoagulant therapy, baby aspirin or on any other medication that might impact their clotting physiology.</p></sec><sec id="jmv70613-sec-0090"><label>2.3</label><title>Ethical Clearance</title><p>The investigation received ethical approval from the Health Research Ethics Committee (HREC) at Stellenbosch University in South Africa, under the references: N19/03/043 and project ID: 9521 with annual re‐approval. The French ethics approval number is EFS‐PM N° 21PLER2018‐0069. We have a data and material sharing agreement between Stellenbosch University and INSERM (S008426). Participants were recruited based on the information they provided to their clinicians in collaboration with the study. Before sample collection, participants were extensively briefed on the study's objectives, potential risks, and details of the entire process to gain their informed consent. Throughout all study procedures there was mandatory adherence to ethical guidelines and principles, as detailed by the Declaration of Helsinki, South African Guidelines for Good Clinical Practice, and Medical Research Council Ethical Guidelines for Research.</p></sec><sec id="jmv70613-sec-0100"><label>2.4</label><title>Blood Sample Collection and Preparation</title><p>Blood samples from South Africa was collected in citrate tubes, either used fresh to study blood cells or platelet‐poor plasma was created and stored at −80°C. A portion of the frozen PPP was cold shipped to the INSERM laboratory in France. Blood samples form the French cohort were obtained from the Etablissement Français du Sang (EFS), which is Montpellier's blood transfusion center (Convention EFS‐PM N° 21PLER2018‐0069). Blood sample from healthy individuals was collected in 5‐mL Streck tubes. No difference in terms of NETs markers and cirDNA was found when comparing EDTA vs Streck tubes. As previously determined, no bias from EDTA was observed in the quantified markers in our study [<xref rid="jmv70613-bib-0017" ref-type="bibr">17</xref>, <xref rid="jmv70613-bib-0022" ref-type="bibr">22</xref>, <xref rid="jmv70613-bib-0027" ref-type="bibr">27</xref>, <xref rid="jmv70613-bib-0029" ref-type="bibr">29</xref>].</p></sec><sec id="jmv70613-sec-0110"><label>2.5</label><title>Fluorescence Microscopy of Platelets Remaining in the Blood Cell Fraction After Centrifugation and Removal of Platelet‐Poor Plasma</title><p>Platelets from the South African controls and LC samples were studied in the cellular fraction that remained after whole blood was centrifuged at 3000×g for 15 min. CD62PE (P‐selectin on platelet surface) (IM1759U, Beckman Coulter, Brea, CA, USA) and to PAC‐1 (activated glycoprotein (GP) IIb/IIIa) (340507, BD Biosciences, San Jose, CA, USA) was added to the hematocrit. P‐selectin is released from the cellular granules during platelet activation and then moves to the surface of the platelet membrane. The antibody PAC‐1 detects the neoepitope of active GPIIb/IIIa. PAC‐1 antibody binding is correlated with platelet activation. After the samples was incubated at room temperature for 30 min, samples were also viewed using the Zeiss Axio Observer 7 fluorescence microscope with a Plan‐Apochromat 63×/1.4 Oil DIC M27 objective (Carl Zeiss Microscopy, Munich, Germany). We used excitation wavelength 450 to 488 nm and the emission at 499 to 529 nm (PAC‐1), and excitation 540 to 570 nm and the emission 577 to 607 nm (CD62PE).</p></sec><sec id="jmv70613-sec-0120"><label>2.6</label><title>Whole Blood Analysis (Platelets, Red Blood Cells and White Blood Cells) Using Imaging Flow Cytometry</title><p>For imaging flow cytometry (using various fractions of the sample to anayse the blood cells), we used the Amnis® FlowSight® Imaging Flow Cytometer (Luminex, Seattle, WA, USA). This method integrates fluorescence microscopy for single‐cell morphology analysis with the capabilities of imaging flow cytometry, enabling precise discrimination of heterogenous cell populations and high flow rate capacity while maintaining data quality.</p><sec id="jmv70613-sec-0130"><label>2.6.1</label><title>Platelets and Red Blood Cell Imaging Flow Cytometer Analysis Using Whole Blood</title><p>To study intact platelets and red blood cells in whole blood, 10 µL of the whole blood was added to a blood preparation tube, followed by the addition of where 4 µL CD62P (PE‐conjugated), 4 µL PAC‐1 (FITC‐conjugated) and 1 µL CD235a (349132, BioLegend, San Diego, CA, USA). The samples were incubated for 30 min, at room temperature (protected from light). After the incubation step, the whole blood was diluted (1:1000) in PBS, followed by analysed with the Amnis® FlowSight® Imaging Flow Cytometer, using the 405 and 488 nm lasers. The PAC‐1 signal were viewed in Channel 2, CD62 signal were viewed in Channel 3 using the 488 nm laser and the CD235a signal were viewed in Channel 7 using the 405 nm laser. All samples were acquired using the same acquisition template for 5 min each and then the data was analysed with IDEAS 6.2 software.</p></sec><sec id="jmv70613-sec-0140"><label>2.6.2</label><title>White Blood Cell Imaging Flow Cytometer Analysis Using the Buffy Coat</title><p>To study white blood cells using the imaging flow cytometer, the buffy coat was used. This buffy coat layer contains the white blood cells after whole blood is centrifuged and platelet‐poor plasma, removed. 50 µL buffy coat was exposed to 5 μL CD45‐PC5 (IM2652U, Beckman Coulter, Brea, CA, USA) and 50 μL of Hoechst 33342 (20 mM) (Thermo Fisher Scientific, Waltham, USA). After the incubation step (at room temperature for 30 min), the buffy coat was diluted (1:1000) in PBS, followed by analysis with the imaing flow cytometer. A template was used, utilising the 405 and 488 nm lasers visualized in channel 5 (CD45) and channel 7 (Hoechst). Sample acquisition was conducted over a 5 min duration, whereafter the data was analysed with IDEAS 6.2 software.</p></sec></sec><sec id="jmv70613-sec-0150"><label>2.7</label><title>Microscopy and Imaging Flow Cytometry Analysis of Platelet‐Poor Plasma</title><p>Microscopy and imaging flow cytometry analyses were conducted on plasma prepared by 3000×g centrifugation for 15 min in LC patients, and by a two‐step centrifugation process (1200 g for 10 min followed by 16000 g for 10 min) in the in both HI SA and EFS control cohorts. As shown in the Supporting Information, both processes yielded similar values and observations for the tested markers, including microscopy, microclots counts, MPO, NE, and cirDNA.</p><sec id="jmv70613-sec-0160"><label>2.7.1</label><title>Fluorescence Microscopy of Microclots in Platelet‐Poor Plasma Samples</title><p>For this analysis, platelet‐poor plasma (PPP) was used from all the 3 cohorts (controls and LC samples from South Africa and controls from France). The PPP was created by a centrifugation step of 3000×g for 15 min. It is well‐known that platelet‐poor plasma that are devoid of intact cells, is created using this centrifugation step and spinning time [<xref rid="jmv70613-bib-0031" ref-type="bibr">31</xref>]. The PPP was stored in 1.5 mL Eppendorf tubes, and then frozen at −80°C until analysis.</p></sec></sec><sec id="jmv70613-sec-0170"><label>2.8</label><title>Analysis and Quantification of cirDNA, Myeloperoxidase and Neutrophil Elastase Assay</title><p>Determination of cirDNA concentration and NETs protein markers (NE and MPO) were performed from exactly the same plasma sample as prepared following a two steps centrifugation process (1200 g for 10 min then 16000 g for 10 min). This preparation was previously chosen to exclude large vesicles that may encapsulate DNA and consequently, contaminate the fraction that should only contains circulating cell‐free DNA (cirDNA). We previously demonstrated the absence of cells and cell debris in published guidelines as well as to set clinical studies towards evaluating cirDNA diagnostic performance in cancer and COVID/Long COVID patients [<xref rid="jmv70613-bib-0017" ref-type="bibr">17</xref>, <xref rid="jmv70613-bib-0022" ref-type="bibr">22</xref>, <xref rid="jmv70613-bib-0029" ref-type="bibr">29</xref>, <xref rid="jmv70613-bib-0032" ref-type="bibr">32</xref>]. Additionally, in several reports, we showed that the combination of the three analytes provides an accurate measure of NETosis [<xref rid="jmv70613-bib-0027" ref-type="bibr">27</xref>, <xref rid="jmv70613-bib-0029" ref-type="bibr">29</xref>].</p><sec id="jmv70613-sec-0180"><label>2.8.1</label><title>Plasma Isolation and cirDNA Extraction</title><p>Blood sample from healthy individuals was centrifuged at 1200 g at 4°C for 10 min, and the plasma supernatants were immediately centrifuged at 16,000 g at 4°C for 10 min. Afterward, the plasma was either immediately used for DNA extraction or stored at −20°C. CirDNA was extracted from 50 µL of plasma using the Maxwell® RSC Blood DNA Kit (Promega) according to the “RSC ccfDNA plasma” in an elution volume of 100 µL. Until they were used, DNA extracts were stored at −20°C. The same extraction procedure was used for the LC‐19 patients and group control.</p></sec><sec id="jmv70613-sec-0190"><label>2.8.2</label><title>Quantification of cirDNA</title><p>Quantitative PCR IntPlex® method was employed to analyze cirDNA following MIQE recommendations (Bustin, 2010; Bustin et al., 2009), as previously described (Mouliere et al., 2014; Thierry et al., 2014). Total cirDNA concentration in each sample was measured using amplification of a 67 bp wild‐type KRAS gene sequence (amplification primers were 5′CCTTGGGTTTCAAGTTATATG3′ sense and 3′CCCTGACATACTCCCAAGGA5′ antisense). Q‐PCR was conducted in a 25 μl reaction volume on a CFX96 instrument with CFX management software 3.0 (Bio‐Rad). The PCR reaction mixture included Bio‐Rad Super mix SYBR Green PCR mix, amplification primers, PCR‐analyzed water, and DNA extract. Thermal cycling involved a 3‐min Hot‐start Polymerase activation denaturation step at 95°C, followed by 40 cycles at 95°C for 10 s and 60°C for 30 s. Melting curves were obtained from 55°C to 90°C with a plate reading every 0.2°C. Quantifications were calibrated using serial dilutions of DIFI cell line genomic DNA, and sample concentrations were extrapolated using the standard curve. All experiments included duplicate samples, and DNA quantification data were validated using an internal control with a known concentration.</p></sec><sec id="jmv70613-sec-0200"><label>2.8.3</label><title>Myeloperoxidase and Neutrophil Elastase Assay</title><p>MPO and NE concentrations were determined using ELISA according to the manufacturer's instructions (Duoset R&amp;D Systems, DY008, DY3174, and DY9167‐05),. Captured antibodies were diluted with Reagent Diluent (RD) from Supporting reagent kits (DY008), coated on 96‐well microplates, and incubated overnight at room temperature. After clearing and washing with Wash Buffer (WB), microplates were blocked with RD for 2 h. After washing, 100 µL of diluted 1/10 plasma samples, standards, and controls were added and incubated for 1 h at room temperature. The standard curve ranged from 0.12 to 8 ng/mL. After removal and washing, detection antibodies diluted in RD were added for 1 h. Following another wash, microplates were incubated for 30 min at room temperature with streptavidin‐HRP. After three washes, substrate solution (100 µL per well) was added, and after a 10‐min incubation, the PHERAstar FS instrument, in conjunction with the PHERAstar control software, promptly read the Optical Density (O.D) at 450 nm for each well.</p></sec><sec id="jmv70613-sec-0210"><label>2.8.4</label><title>Fluorescense Microscopy of Purified Fibrinogen and Platelet‐Poor Plasma</title><p>We optimized a fluorescence microscopy assay to confirm the presence of fibrin(ogen) in microclots. A 4 mg/mL solution of purified soluble fibrinogen (Thermo‐Fisher, Rp43142) was treated with spike protein (final exposure concentration 100 ng/mL) or lipopolysaccharide (final exposure concentration LPS, 50 ng/L), followed by staining with Fibrinogen α‐chain antibody (Alexa Fluor 594, ab216367) and Thioflavin T (ThT). This demonstrated that spike protein or LPS addition induce the formation of insoluble microclots, with fibrin(ogen) binding marked by the α‐chain antibody and amyloid regions highlighted by ThT. To confirm assay reliability, we further tested both healthy and Long COVID samples using MPO (48‐1299‐42, Invitrogen, Waltham, MA, USA), Fibrinogen α‐chain antibody and ThT staining in various combinations using confocal microscopy (Zeiss, LSM 780 confocal microscope).</p><p>For the confocal analysis, PPP samples were exposed to MPO, ThT and fibrinogen α‐chain antibody for 30 min (protected from light). A 5 µL drop of each of the samples were placed on microscope slides. The sample drop was allowed to dry for about 5 min. Thereafter it was viewed with the Zeiss LSM780 confocal microscope with a Plan Apochromat 63x/1.4 Oil DIC M27 objective (Carl Zeiss Microscopy, Munich, Germany). The different antibodies were excited by the 405 nm laser (MPO), 488 nm laser (ThT) and 561 nm laser (fibrinogen α‐chain antibody). When microclots were detected a z‐stack was taken (see Suppl Figure <xref rid="jmv70613-suppl-0001" ref-type="supplementary-material">S6</xref>).</p></sec></sec><sec id="jmv70613-sec-0220"><label>2.9</label><title>AI and Machine Learning Assistance</title><p>Plasma marker data were analyzed using a supervised machine learning framework implemented in R. All features were normalized using Z‐score scaling (mean‐centering and standard deviation scaling) with the preProcess function from the caret package. A Random Forest classifier was trained using the train() function (method = “rf”), applying five‐fold cross‐validation repeated 100 times (repeatedcv) to ensure robust model evaluation. Class probabilities were enabled, and model performance was assessed using the area under the receiver operating characteristic curve (AUC) via the twoClassSummary metric.</p><p>Model predictions were used to compute AUC, sensitivity, and specificity at the optimal ROC point (determined as the maximum distance from the diagonal), and confidence intervals were estimated by bootstrapping with 1,000 iterations using the boot and pROC packages. Accuracy and its 95% confidence interval were also calculated using bootstrap resampling. A confusion matrix was generated and visualized as a heatmap showing classification performance as percentages. Reported confusion matrices represent the average of matrices obtained on the test sets of 100 repeated fivefold CV. In addition to the Random Forest model, k‐nearest neighbors (kNN) and Decision Tree models were also evaluated using the same cross‐validation setup, normalization procedure, performance metrics, and bootstrap‐based statistical analysis. This allowed for consistent comparison across classifier types. Feature importance scores from the Random Forest model were extracted using <italic toggle="yes">varImp()</italic> and visualized in a ranked bar plot of the top 20 contributing protein markers.</p><p>All analyses were performed in R (version 4.3.3), with random seed (123) initialization for reproducibility and the software packages: <italic toggle="yes">randomForest</italic> (v 4.7‐1.2) for RF models, <italic toggle="yes">caret</italic> (v 7.0‐1) for cross‐validation and confusion matrix extraction, <italic toggle="yes">pROC</italic> (v 1.18.5) for AUC calculation, <italic toggle="yes">ggplot2</italic> (3.5.1) for plotting, <italic toggle="yes">boot</italic> (1.3‐31) for bootstrapping.</p><p>To enhance the clarity and detail of the fluorescence microscopy image, we employed a two‐step process utilizing Photoshop and Topaz Gigapixel AI.</p></sec><sec id="jmv70613-sec-0230"><label>2.10</label><title>Statistical Analysis</title><p>The choice of statistical tests was made based on the nature of the data and the specific objectives of the analysis. For comparing groups with non‐parametric data, the Mann‐Whitney U test was selected. This test is appropriate when the data deviate from a Gaussian distribution, as confirmed by the Shapiro‐Wilk test.</p><p>For exploring relationships between variables, correlation analysis was conducted using the Spearman test. The Spearman test evaluates the strength and direction of association between variables without assuming linearity. It is particularly appropriate when the relationship between variables may be monotonic but not necessarily linear, or when outliers are present in the data. This test calculates the Spearman correlation coefficient, which ranges from −1 to 1, with values closer to 1 indicating a strong positive correlation, values closer to −1 indicating a strong negative correlation, and values around 0 indicating no correlation. Significant difference between two groups using Spearman correlation matrices are called when the p value shows statistic difference; the R value being indicative.</p><p>All statistical analyses were performed using Graph Pad Prism 8.3.1 software. A significance level of 0.05 was chosen to determine statistical significance, meaning that results with a <italic toggle="yes">p</italic>‐value less than 0.05 were considered statistically significant. To provide a clear indication of the level of significance, <italic toggle="yes">p</italic>‐values were reported with asterisk notation: *<italic toggle="yes">p</italic> &lt; 0.05, **<italic toggle="yes">p</italic> &lt; 0.01, ***<italic toggle="yes">p</italic> &lt; 0.001, and ****<italic toggle="yes">p</italic> &lt; 0.0001.</p></sec></sec><sec sec-type="discussion" id="jmv70613-sec-0240"><label>3</label><title>Results and Discussion</title><p>Figure <xref rid="jmv70613-fig-0001" ref-type="fig">1</xref> shows microclots in platelet‐poor plasma (Figure <xref rid="jmv70613-fig-0001" ref-type="fig">1A</xref>), and also white blood cells, red blood cells and platelets in whole blood (Figure <xref rid="jmv70613-fig-0001" ref-type="fig">1B–I</xref>). We used red blood cell, white blood cell, and platelet‐specific antibodies to analyze these cell types in whole blood via imaging flow cytometry. This approach allowed us to clearly differentiate the structure and sizes of these cells in whole blood from the microclots observed in platelet‐poor plasma. Additionally, when these cell‐specific markers were applied to platelet‐poor plasma, no red blood cells, white blood cells, or platelets were detected, confirming the absence of these cell types in the plasma samples. (See further discussion about preparation methods in <xref rid="jmv70613-suppl-0001" ref-type="supplementary-material">S10</xref>).</p><fig position="float" fig-type="Figure" id="jmv70613-fig-0001" orientation="portrait"><label>Figure 1</label><caption><p>Comparison of the various blood cells and microclots as determined by flow cytometry: A: microclots (microclots) stained with ThT (Ch07) of healthy and Long COVID patients indicating the different sizes and shapes. B‐E: Red blood cells stained with CD235a antibody (Ch07), where the typical biconcave red blood cell morphology can be seen. F and G: Platelets stained with PAC‐1 (CH02) and CD62PE (Ch03), where F is an activated platelet and G is a typical platelet, not showing activation. H and I<bold>:</bold> White blood cells stained with CD45 (Ch05) and Hoechst (CH07). For all the images the bright flied images are in CH09.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-1" orientation="portrait" xlink:href="JMV-97-e70613-g001.jpg"/></fig><sec id="jmv70613-sec-0250"><label>3.1</label><title>Circulating Microclots and NETs Markers Quantitative Association</title><sec id="jmv70613-sec-0260"><label>3.1.1</label><title>Elevated Microclots Count in LC Patients</title><p>We previously developed an imaging flow cytometry method to quantify microclots in platelet‐poor plasma [<xref rid="jmv70613-bib-0012" ref-type="bibr">12</xref>]. As determined by imaging flow cytometry, the total number of microclots is statistically much higher in patients with LC than in healthy individuals (P = 1.97 × 10<sup>−12</sup>, 19.7‐fold median difference; Figure <xref rid="jmv70613-fig-0001" ref-type="fig">1A</xref> and B, Table <xref rid="jmv70613-suppl-0001" ref-type="supplementary-material">S3</xref>–<xref rid="jmv70613-suppl-0001" ref-type="supplementary-material">11</xref>). For all arbitrarily selected microclot size ranges ( &lt; 100, 100–400, 400–900, 900–1600, and &gt; 1600 µm²), the median number of microclots is statistically and significantly higher in patients with LC than in healthy individuals (Figure <xref rid="jmv70613-fig-0002" ref-type="fig">2A–C</xref>). Note, the number of microclots is greatest within the 100–400 µm² size range and lowest in the size fraction &gt; 1600 µm² (Figure <xref rid="jmv70613-fig-0002" ref-type="fig">2A</xref>). This is in accordance with our previous results on controls and LC [<xref rid="jmv70613-bib-0012" ref-type="bibr">12</xref>]. All patients with LC and almost all HI have some microclots of up to 30 µm (Table <xref rid="jmv70613-suppl-0001" ref-type="supplementary-material">S3</xref>). In contrast, it is notable that 68.4% and 13.1% of healthy individuals have in their plasma microclots in the 900–1600 µm² range and &gt; 1600 µm², respectively (Table <xref rid="jmv70613-suppl-0001" ref-type="supplementary-material">S11</xref>). In individuals with LC, the proportion of patients showing microclots in these two size ranges is much higher: 98% and 60%, respectively (1.4‐ and 4.6‐fold greater, respectively; Table <xref rid="jmv70613-suppl-0001" ref-type="supplementary-material">S11</xref>), indicating that the microclots may be greater in size as well as in numbers in LC patients. The imaging flow cytometry results presented here reveal both a significant microclot presence and an increase in both numbers and sizes in the LC samples (Figures <xref rid="jmv70613-fig-0001" ref-type="fig">1A</xref> and B and <xref rid="jmv70613-fig-0002" ref-type="fig">2A</xref> and suppl Figure <xref rid="jmv70613-suppl-0001" ref-type="supplementary-material">S1A</xref>,<xref rid="jmv70613-suppl-0001" ref-type="supplementary-material">B</xref>). This is in line with previous results [<xref rid="jmv70613-bib-0012" ref-type="bibr">12</xref>].</p><fig position="float" fig-type="Figure" id="jmv70613-fig-0002" orientation="portrait"><label>Figure 2</label><caption><p>Comparison of Healthy Individuals (HI) and LC plasma patients (LC) across various parameters: (A) Number of microclots (microclots) per milliliter (objects/mL) upon increasing size ranges from 0 to 100 um<sup>2</sup> to 1600 + µm<sup>2</sup> as determined by flow cytometry; (B) Concentrations of Cir‐nDNA, MPO, and NE (ng/mL). Median with 95% confidence intervals are represented by lines. Mann‐Whitney tests were employed to compare these parameters between the two groups. A probability of less than 0.05 was considered statistically significant; *<italic toggle="yes">p</italic> &lt; 0.05; **<italic toggle="yes">p</italic> &lt; 0.01; ****<italic toggle="yes">p</italic> &lt; 0.0001. Each dot represents an individual value. (C and D) Correlation matrix of the ir‐nDNA, MPO, and NE concentrations (ng/mL) and the total number of microclots (objects/milliliter) determined in (C) HI (<italic toggle="yes">n</italic> = 38) and (D) LC patients (<italic toggle="yes">n</italic> = 50) plasma. The heatmap illustrates the strength of relationship by Spearman's correlation analysis (red: positive correlation; blue: negative correlation). (E) Scatter plot presentation of values of MPO concentration and microclots amount in 100–400 um<sup>2</sup> range. Each dot represents an individual. Line represents regression analysis. As shown in Fig.S3 and Table <xref rid="jmv70613-suppl-0001" ref-type="supplementary-material">S3–5</xref>, there is no statistical difference in markers values when comparing two independent HI cohorts from South Africa (SA HI) and French (EFS HI) populations. SA and EFS HI composed studied HI cohort. Green, EFS HI; blue, SA HI; and red, LC patients. A probability of less than 0.05 was considered statistically significant; *<italic toggle="yes">p</italic> &lt; 0.05; **<italic toggle="yes">p</italic> &lt; 0.01; ****<italic toggle="yes">p</italic> &lt; 0.0001. Cir‐nDNA, circulating nuclear cell‐free DNA; MPO, myeloperoxidase; NE, neutrophil elastase.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-3" orientation="portrait" xlink:href="JMV-97-e70613-g003.jpg"/></fig></sec><sec id="jmv70613-sec-0270"><label>3.1.2</label><title>NETs Markers and Microclots Counts are Quantitatively Associated and Discriminate LC From HI Individuals</title><p>The plasma concentrations of circulating DNA, MPO and NE are statistically much higher in patients with LC than in healthy patients (5.7‐, 3.5‐ and 14.9‐fold; Figure <xref rid="jmv70613-fig-0002" ref-type="fig">2B</xref> and Fig. <xref rid="jmv70613-suppl-0001" ref-type="supplementary-material">S2</xref> and <xref rid="jmv70613-suppl-0001" ref-type="supplementary-material">S3</xref>). This confirms our previously published results [<xref rid="jmv70613-bib-0021" ref-type="bibr">21</xref>]. The Spearman analysis‐based correlation study shows that in healthy individuals only the concentrations of NE and MPO are statistically associated, as has been demonstrated previously [<xref rid="jmv70613-bib-0016" ref-type="bibr">16</xref>, <xref rid="jmv70613-bib-0021" ref-type="bibr">21</xref>]. On the other hand, the concentrations of NE, MPO, and cirDNA, as well as the total number of microclots, are all clearly associated in the plasma of individuals with LC (Figure <xref rid="jmv70613-fig-0002" ref-type="fig">2C,D</xref>). The number in the 100–400 µm² size range showed the highest discrimination between LC and HI and the highest correlation value with cirDNA, MPO and NE (Figure <xref rid="jmv70613-fig-0002" ref-type="fig">2C</xref> and <xref rid="jmv70613-fig-0002" ref-type="fig">D</xref>). The number of microclots appears to be especially discriminating between LC and HI: a comparison of the cohorts of healthy individuals and individuals with LC shows the area under the ROC curves to be 0.90; 0.95; 0.90; 0.89; 0.88 and 0.74 for the total number of microclots, the number determined within size ranges of 0–100, 100–400, 400–900, 900–1600 and &gt; 1600 µm², respectively (Figure <xref rid="jmv70613-suppl-0001" ref-type="supplementary-material">S4</xref>). Furthermore, the concentrations of cirDNA, MPO, NE and the three combined markers are also very discriminating (AUROC 0.90; 0.94; 0.85 and 0.95; respectively; Figure <xref rid="jmv70613-suppl-0001" ref-type="supplementary-material">S5</xref>), confirming our previous results [<xref rid="jmv70613-bib-0021" ref-type="bibr">21</xref>]. When scatter plotting the markers with the highest AUROC (MPO and the 100‐400 µm² size range microclots count), HI and LC patients are distinguishable (Figure <xref rid="jmv70613-fig-0002" ref-type="fig">2E</xref>).</p></sec></sec><sec id="jmv70613-sec-0280"><label>3.2</label><title>Structural Association of NETs With Circulating Microclots</title><p>The characteristic NETs filaments released by activated neutrophil can be observed using fluorescence microscopy and the Hoechst DNA marker, can be seen as a diffuse light blue fluorescence, showing the chromatin outside cells (see arrows) (Figure <xref rid="jmv70613-fig-0003" ref-type="fig">3A–D</xref>). We utilized staining techniques to visualize the co‐incidence of microclot formation and NETs in acute COVID‐19 and LC, compared to controls. The micrographs in Figure <xref rid="jmv70613-fig-0003" ref-type="fig">3E</xref> and <xref rid="jmv70613-fig-0003" ref-type="fig">F</xref> highlight the use of Thioflavin T (ThT) for microclots, alongside Hoechst or SYTO stains for DNA, indicating NETs presence (Hoechst in blue, SYTO in red, and ThT in green, with a combined overlay in the third column). The bottom row (Figure <xref rid="jmv70613-fig-0003" ref-type="fig">3G</xref>) shows plasma samples treated with ThT, SYTO and myeloperoxidase (MPO) stains (SYTO in red, ThT in green and MPO in blue). MPO, ThT and DNA clearly colocalized within microclots. and may also be observed alone in a few localizations in the microclots image. Arrows highlight DNA localizations, illustrating NETs surrounding or outside microclots, or between two microclots (Figure <xref rid="jmv70613-fig-0003" ref-type="fig">3</xref> bottom right image; enlargement in Figure <xref rid="jmv70613-fig-0004" ref-type="fig">4B</xref>). Note, previous studies showed MPO and DNA only colocalized when neutrophils are activated [<xref rid="jmv70613-bib-0033" ref-type="bibr">33</xref>], or within a coronary thrombus [<xref rid="jmv70613-bib-0030" ref-type="bibr">30</xref>]. In addition, in vitro colocalization of neutrophils, extracellular DNA and coagulation factors such as fibrinogen was reported during NETosis [<xref rid="jmv70613-bib-0034" ref-type="bibr">34</xref>].</p><fig position="float" fig-type="Figure" id="jmv70613-fig-0003" orientation="portrait"><label>Figure 3</label><caption><p>Fluorescence micrographs showing examples of the formation of NETs from resting (A and B) and activated (C and D) neutrophils. Activation of “<italic toggle="yes">ex vivo</italic>” cultured isolated human neutrophils was performed by using PMA treatment for 6 h. Also shown are micrograph examples of microclots detected with Thioflavin T (ThT) and NETs detection using Hoechst stain or SYTO stain of different inflammatory diseases, including acute COVID‐19 and LC compared to the control. The first two columns indicate the Hoechst (blue) or SYTO (red) and ThT (green) stains separately, with the overlay in column three. The area of interest has been enhanced in the last column (E and F). The last row of micrographs (G) are examples of PPP showing myeloperoxidase (MPO) (blue) and SYTO (DNA ‐ red) captured in the microclot (ThT ‐ green) (arrows indicate specific localization of the DNA showing NETs surrounding the microclot, NETs outside the microclot (binding to the apparent two microclots) or (between the apparent two microclots). Experimental conditions for presented here is exposing stored platelet‐poor plasma (PPP) to Thioflavin T and Hoechst or SYTO and MPO to detect microclots.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-5" orientation="portrait" xlink:href="JMV-97-e70613-g002.jpg"/></fig><fig position="float" fig-type="Figure" id="jmv70613-fig-0004" orientation="portrait"><label>Figure 4</label><caption><p>Illustrative co‐localization of NETs and microclots markers in control and LC individual plasma, and performance of LC quantitative detection performance. (A) Microclots from HI plasma and (B) a microclot apparently originating from the combination of two microclots resulting from NETs association. AI improved images from immunofluorescence microscope (Figure <xref rid="jmv70613-fig-0003" ref-type="fig">3G</xref> and Fig. <xref rid="jmv70613-suppl-0001" ref-type="supplementary-material">S7</xref>). Arrows indicate ThT localisation, DNA surrounding/covering microclot, ThT and DNA colocalization, MPO and DNA colocalization and, ThT and MPO and DNA colocalization. A and B images were subjected to a two‐step process utilizing Photoshop and Topaz Gigapixel AI; Figure <xref rid="jmv70613-fig-0004" ref-type="fig">4B</xref> initial image is shown in Figure <xref rid="jmv70613-fig-0003" ref-type="fig">3G</xref> and Figure <xref rid="jmv70613-suppl-0001" ref-type="supplementary-material">S7</xref>. (C) Confusion matrix showing the performance of RF model classifying LC and healthy subjects. (D) Mean feature important scores of the cross‐validation Random Forest model for all markers were calculated. Seven markers showing high importance scores and consistent relevance across analyses were selected for the next round of model training. These markers include MPO, microclots 0–100 µm², microclots 100–400 µm², microclots 400–900 µm<sup>2</sup>, microclot counts, cir‐nDNA, and NE. AUC: Area under the ROC Curve; cir‐nDNA: circulating nuclear‐DNA; nuclear‐DNA; MPO, myeloperoxidase; NE, neutrophil elastase; RF: Random Forest classifier; ROC Curve: a receiver operating characteristic curve.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-7" orientation="portrait" xlink:href="JMV-97-e70613-g004.jpg"/></fig><p>In their structural, biological, physiological, and pathophysiological characteristics, microclots differ from traditional blood clots (or fibrin mesh formation) in several fundamental ways. Structurally, microclots tend to be smaller and are found as free entities in circulation. They also exhibit significant structural heterogeneity. Healthy fiber diameters are more uniform and clot into a gel mesh, typically only induced during a physiological clotting event such as following a cut, and under the action of thrombin and the activation of the clotting cascade. Biologically, clots formed in such ‘physiological’ circumstances are composed largely of platelets and fibrin designed to stop bleeding. By contrast microclots are characterized by an amyloid‐like nature, which can be revealed by staining them with suitable fluorogenic dyes. In addition, we have shown that microclots contain not only fibrinogen molecules, but also entrap various inflammatory molecules and even antibodies [<xref rid="jmv70613-bib-0010" ref-type="bibr">10</xref>, <xref rid="jmv70613-bib-0012" ref-type="bibr">12</xref>]. An important factor initiating platelet activation and the formation of intravascular microclots is endothelial damage triggering widespread endothelial damage (endothelialitis). The presence of intravascular microclots in small blood vessels perpetuates endothelial cell damage (endothelialitis), which consequently adopt the pro‐adhesive phenotype, thus exposing those microclots to microorganisms that favour the elimination and limit the dissemination of the pathogen [<xref rid="jmv70613-bib-0035" ref-type="bibr">35</xref>, <xref rid="jmv70613-bib-0036" ref-type="bibr">36</xref>].</p><p>Our fluorescence microscopy analysis (as shown in the suppl. doc) demonstrated that the addition of spike protein or LPS to purified fibrinogen induced the formation of insoluble microclots (Figure <xref rid="jmv70613-suppl-0001" ref-type="supplementary-material">S6</xref>). Fibrin(ogen) in microclots were confirmed by binding of the Fibrinogen α‐chain antibody (Alexa Fluor 594), with amyloid regions identified by Thioflavin T (ThT) staining. This pattern was consistent across both healthy and Long COVID samples, validating the presence of fibrin(ogen) and amyloidogenic characteristics within the microclots (see Suppl Figure <xref rid="jmv70613-suppl-0001" ref-type="supplementary-material">S6</xref>).</p></sec><sec id="jmv70613-sec-0290"><label>3.3</label><title>Impact of NETs and Microclots Association on LC Complications</title><p>Abnormal blood clotting and microclots formation thus appear as important factors that may explain the development and persistence of symptoms in LC. Indeed, several researchers have signalled the exacerbation by a dysregulated thromboinflammatory response of the interplay between coagulation and innate immunity [<xref rid="jmv70613-bib-0029" ref-type="bibr">29</xref>, <xref rid="jmv70613-bib-0030" ref-type="bibr">30</xref>, <xref rid="jmv70613-bib-0037" ref-type="bibr">37</xref>, <xref rid="jmv70613-bib-0038" ref-type="bibr">38</xref>]. Platelet hyperactivation and endothelial dysfunction would therefore appear to be a unifying pathway underlying the wide range of symptoms seen in LC [<xref rid="jmv70613-bib-0002" ref-type="bibr">2</xref>, <xref rid="jmv70613-bib-0011" ref-type="bibr">11</xref>].</p><p>Mechanistically, cell viral infection and the resulting inflammation leads to the stimulation of neutrophils, which leads in turn to the release of tissue factors and the degradation of anticoagulants by monocytes, promoting coagulation [<xref rid="jmv70613-bib-0025" ref-type="bibr">25</xref>]. As a result, the interplay between the innate immune response and blood coagulation (immunothrombosis) leads to the formation of microthromboses [<xref rid="jmv70613-bib-0029" ref-type="bibr">29</xref>, <xref rid="jmv70613-bib-0037" ref-type="bibr">37</xref>, <xref rid="jmv70613-bib-0039" ref-type="bibr">39</xref>].</p><p>Existing evidence points to a central role played by NETs in immunothrombosis [<xref rid="jmv70613-bib-0027" ref-type="bibr">27</xref>, <xref rid="jmv70613-bib-0029" ref-type="bibr">29</xref>, <xref rid="jmv70613-bib-0035" ref-type="bibr">35</xref>, <xref rid="jmv70613-bib-0039" ref-type="bibr">39</xref>, <xref rid="jmv70613-bib-0040" ref-type="bibr">40</xref>]. Thus, activated platelets are an endogenous stimulus capable of inducing NETs [<xref rid="jmv70613-bib-0022" ref-type="bibr">22</xref>, <xref rid="jmv70613-bib-0025" ref-type="bibr">25</xref>, <xref rid="jmv70613-bib-0041" ref-type="bibr">41</xref>]. NETs interact physically with platelets, both through their binding with the P‐selectin glycoprotein ligand and through the binding of the high mobility group box 1 (HMGB1) nuclear protein to the RAGE or TLR4 receptors [<xref rid="jmv70613-bib-0041" ref-type="bibr">41</xref>]. There is also other evidence of the mechanistic link between NETs and coagulation, such as the binding of: (i) the coagulation factor fibrinogen with DNA‐rich NETs; (ii), the coagulation factors prothrombin, FX and FVIIa with activated neutrophils during NETosis; and (iii), the anticoagulant activated [<xref rid="jmv70613-bib-0042" ref-type="bibr">42</xref>] protein C (APC) with activated neutrophils and DNA‐rich NETs [<xref rid="jmv70613-bib-0029" ref-type="bibr">29</xref>, <xref rid="jmv70613-bib-0043" ref-type="bibr">43</xref>].</p><p>Neutrophils and platelets activate each other mutually, and their physical interaction constitutes a central loop of amplification of immuno‐thrombosis triggering NETs formation, (39). We speculate that the deterioration or activation of the endothelial cells by circulating microclots leads to inflammation which in turn activate neutrophils [<xref rid="jmv70613-bib-0042" ref-type="bibr">42</xref>, <xref rid="jmv70613-bib-0044" ref-type="bibr">44</xref>]. Consequently, exacerbated and deleterious NETs production might be not only maintained by the NETs/thrombosis feedback loop but also by the positive NETs/inflammation feedback loop [<xref rid="jmv70613-bib-0044" ref-type="bibr">44</xref>]. This may cause a persistent stimulation of neutrophils, which may in turn lead to the pathogenic microthrombosis phenomena observed in LC. Recent proteomic analysis showed neutrophil activation as well as neutrophil signatures in LC patients associated with clotting cascade members. Our observations point to the possibility that, in addition to this hypercoagulation state, a persistent imbalance in NETs formation, plausibly caused by viral persistence [<xref rid="jmv70613-bib-0045" ref-type="bibr">45</xref>], may lead to a high structural association of NETs with microclots. We speculate this would impair clot lysis, contributing to microclots higher numbers in the circulation and a lower clearance level. The protective role of NETs in infection, therefore, would come at a high cost in the case of SARS‐CoV2 infection, as well as may be in certain other inflammatory diseases. However, association does not mean causation and further studies are needed to confirm our postulate.</p></sec><sec id="jmv70613-sec-0300"><label>3.4</label><title>Co‐Detection of Microclots and NETs Markers as a Diagnostic Test</title><p>The ability to detect these markers efficiently would pave the way for better disease monitoring, understanding the etiology of inflammation, and personalized treatment strategies. More specifically, a detection strategy that could demonstrate the combined presence of high microclot numbers and elevated levels of both NETs markers and cirDNA (either by microscopy, cytometry or ELISA) would offer an efficient means of tackling the underdiagnosis of LC, thereby improving diagnostic accuracy and appropriate intervention.</p><p>The co‐localization of MPO and DNA observed in Figure <xref rid="jmv70613-fig-0004" ref-type="fig">4B</xref> aligns with their association in LC patient plasma, as shown by Spearman analysis (Figure <xref rid="jmv70613-fig-0003" ref-type="fig">3D</xref>), and supports previous findings of MPO/NE/cirDNA association in COVID‐19, Long COVID, and cancer samples [<xref rid="jmv70613-bib-0017" ref-type="bibr">17</xref>, <xref rid="jmv70613-bib-0018" ref-type="bibr">18</xref>, <xref rid="jmv70613-bib-0022" ref-type="bibr">22</xref>, <xref rid="jmv70613-bib-0029" ref-type="bibr">29</xref>] as well as in PMA‐stimulated neutrophil cultures where NETs formation produces NE, MPO, and cell‐free DNA [<xref rid="jmv70613-bib-0027" ref-type="bibr">27</xref>]. These findings collectively demonstrate that concurrent elevated plasma levels of MPO, NE, and cirDNA indicate NETs formation.</p><p>To further evaluate the performance of an LC detection test which uses markers of both entities, we employed Decision Tree‐Gini, K‐nearest Neighbors Classifier (Figure <xref rid="jmv70613-suppl-0001" ref-type="supplementary-material">S8</xref>), and Random Forests (RF) for training by machine learning. In these models, we utilized all markers for training, and five‐fold cross‐validation with 100 repetitions for each classifier, to ensure robustness, stability, and the generalizability of machine learning model performance estimates. The best performance was achieved with the RF algorithm (Figure <xref rid="jmv70613-fig-0004" ref-type="fig">4C</xref>). This superior performance likely reflects the ensemble nature of RF, which reduces overfitting and improves robustness to noise and irrelevant features, making it well‐suited to moderate‐sized datasets. The mean feature importance in RF model indicates that microclots 100–400 µm², microclots 0–100 µm², MPO, microclots 400–900 µm<sup>2</sup>, microclot objects, microclot counts, and cirDNA all contribute to the discrimination between healthy and LC subjects (Figure <xref rid="jmv70613-fig-0004" ref-type="fig">4D</xref>). RF models provide the highest performance values, with accuracy of 0.91 (95% CI: 0.90; 0.91), AUC of 0.95 (95% CI: 0.98; 0.98), sensitivity of 0.86 (95% CI: 0.86; 0.87), and specificity of 0.99 (95% CI: 0.99; 0.99). The confusion matrices show that 93% of subjects with LC and 88% of healthy individuals were correctly classified by the RF model (Figure <xref rid="jmv70613-fig-0004" ref-type="fig">4C</xref>). By excluding the least important markers one by one, using a RF model we found that the most important markers for achieving the highest specificity are MPO and microclots 100–400 µm², and that these provided accuracy, AUC, sensitivity and specificity of 0.92 (95% CI: 0.91; 0.92), 0.98 (95% CI: 0.98; 0.98), 0.88 (95% CI: 0.88; 0.88) and 0.98 (95% CI: 0.98; 0.98), respectively (Figure <xref rid="jmv70613-suppl-0001" ref-type="supplementary-material">S8</xref>). These data showed that the combination of a NETs marker (MPO) and a microclot numbering marker (100‐400 µm² size) can achieve a very high discriminating/screening power (Figure <xref rid="jmv70613-suppl-0001" ref-type="supplementary-material">S9</xref>), as illustrated by our scatter plot presentation of MPO and 100–400 µm² microclots concentration values (Figure <xref rid="jmv70613-fig-0002" ref-type="fig">2E</xref>). While promising, our preliminary data do not yet validate NETs and microclots as biomarkers for Long COVID in practical clinical settings. Additional studies with larger patient cohorts and comparisons among individuals with similar symptoms are essential for further validation.</p><p>Plasma from healthy individuals contains low numbers of microclots of low sizes as observed here (Figure <xref rid="jmv70613-fig-0001" ref-type="fig">1A,B</xref>, Figure <xref rid="jmv70613-fig-0003" ref-type="fig">3</xref>; and Figure <xref rid="jmv70613-suppl-0001" ref-type="supplementary-material">S2</xref> and <xref rid="jmv70613-suppl-0001" ref-type="supplementary-material">S3</xref>) and previously <italic toggle="yes">(7)</italic>, but this study revealed they may be covered at least partially with NETs. We suggest that microclots are bound/entrapped by floating NET parts in the blood stream, and that physico‐chemical properties of both entities enable close structural association inhibiting their degradation in the circulation. Thus, NET parts may now be conceived as a potential microclot constituent in addition to the insoluble fibrin amyloid and other molecules like cytokines or antibodies [<xref rid="jmv70613-bib-0010" ref-type="bibr">10</xref>, <xref rid="jmv70613-bib-0012" ref-type="bibr">12</xref>].</p><p>Although our study included two independent healthy control cohorts from different geographic regions, it did not include disease‐specific control groups such as individuals with diabetes, sepsis, or autoimmune disorders. As such, we cannot definitively assess the specificity of NETs and microclots elevations to Long COVID. Although co‐localization of ThT and MPO signals within microclot structures was observed by fluorescence microscopy, unfortunately an microscopy technique does not permit reliable quantification of the proportion of microclot that are ThT+ or MPO + ; such analyses would require high‐throughput single‐particle approaches like imaging flow cytometry. Such optimization and analysis will be a future research endeavour. While our findings demonstrate a strong quantitative and structural association between NETs and microclots in Long COVID patients, further comparative studies are needed to establish the discriminatory power of these biomarkers across different disease states. We explicitly recognize this as a limitation of the current study and recommend that future investigations include disease‐matched control cohorts to validate the diagnostic specificity and potential clinical utility of these markers. While our current analysis considers LC patients as a single group, this approach should be regarded only as a starting point. It is necessary to first identify measurable biological signals, such as NET‐associated microclots, which may ultimately enable patient stratification in the future. The rationale of this study is to explore whether a microclot and NETs burden can serve as a distinguishing feature which helps to define biologically distinct subtypes, potentially including a group characterized by heightened thrombo‐inflammatory or immune‐mediated endothelial injury. We therefore recognize the absence of clinical stratification as a limitation, while emphasizing that this study lays the groundwork for developing objective biomarker‐based subgrouping in future research.</p></sec><sec id="jmv70613-sec-0310"><label>3.5</label><title>General Conclusions</title><p>Microclots frequently appear in chronic inflammatory states and are more resistant to fibrinolysis, showing resistance even to powerful proteolytic enzymes such as trypsin [<xref rid="jmv70613-bib-0010" ref-type="bibr">10</xref>]. We hypothesize that imbalanced NETs formation as observed in various inflammatory diseases such as COVID‐19 or LC might lead to higher microclots stability and therefore their elevated number in the circulation. Such resistance to normal breakdown mechanisms and the variability in their formation, even in the absence of typical clotting triggers such as thrombin, would indicate that microclots may have more widespread and clinically deleterious effects.</p><p>This study shows a robust association between biomarkers indicative of thromboinflammatory activity and LC. Since our study revealed that NETs may be a component of circulating microclots, we speculate that higher NETs formation promotes the stabilization of microclots in the circulation, leading to deleterious effects which (in part) may contribute to the symptoms of LC. The discovery of these biomarker linkages not only presents a possible novel diagnostic methodology but also novel therapeutic targets, offering prospects for future markedly improved clinical management. Consequently, our findings present a significant advancement in the understanding of the interactions between NETs and microclots in Long COVID.</p></sec></sec><sec id="jmv70613-sec-0320"><title>Author Contributions</title><p>Conceptualization: A.R.T., E.P. Methodology: C.S., B.P., T.H., A.M., E.E.P., S.T., M.W., A.T., T.U., C.V., C.P. Investigation: A.R.T., E.P., T.U., C.P. Visualization: A.R.T., E.P., C.V., T.U. Funding acquisition: A.R.T., E.P. Project administration: C.V., E.P., A.R.T. Supervision: A.R.T., E.P. Writing – original draft: A.R.T., T.H., E.P., C.V. Writing – review and editing: E.P., A.R.T., C.V., D.B.K., G.J.L.</p></sec><sec sec-type="COI-statement" id="jmv70613-sec-0340"><title>Conflicts of Interest</title><p>A.R.T., E.E.P., and B.P. are author of a patent: NEW METHOD TO DIAGNOSE INFLAMMATORY DISEASES 11194720 PCT application number PCT/EP2022/072147, Date of receipt 05 August 2022. A.R.T., C.V., and E.P. are an author of a patent DIAGNOSTIC METHOD FOR LONG COVID PCT application number GB2105644.5. E.P. is a founding director of Biocode Technologies, a Stellenbosch University start‐up company. S.T. and A.T. are employees of Biocode Technologies, as well as postgraduate students of E.P. All other authors: no competing interests to declare.</p></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material id="jmv70613-suppl-0001" position="float" content-type="local-data" orientation="portrait"><caption><p>
+<bold>Figure S1:</bold> Comparison of microclot numbering in Healthy Individuals (HI) and LC patient (LC) plasma as determined by flow cytometry across various parameters: Images represent micrographs captured from our control (n=38) and LC (n=50) cohorts using imaging flow cytometry. Images are captured using both brightfield (Ch01) and fluorescence (Ch07) imaging.</p><p>
+<bold>Figure S2:</bold> Values and median of cirDNA, MPO, NE concentration and microclots numbering in plasma of the long COVID (LC) patients and the healthy Individual (HI) cohorts. Healthy individuals (HI) from South Africa (SA) and France (EFS).</p><p>
+<bold>Figure S3:</bold> Values and median of cirDNA, MPO, NE concentration and microclots numbering in plasma of Long COVID (LC, in red) participants patients and healthy individuals (HI) from France (EFS, in green) and South Africa (SA, in blue). Overall, no or poor difference in markers values is noted between SA and EFS HI cohorts.</p><p>
+<bold>Figure S4:</bold> ROC analysis of microclots numbering vs HI (n=38).</p><p>
+<bold>Figure S5:</bold> ROC analysis pfcirDNA, MPO, and NE vs Healthy individuals (HI,n=38).</p><p>
+<bold>Figure S6:</bold> (A)Purified fibrinogen (Thermo‐Fisher, Rp43142) at 4 mg/ml exposed to 50ng/L lipopolysaccharide (final exposure concentration) followed by exposing to fibrinogenn α‐chain antibody (Alexa Fluor 594, ab216367) and Thioflavin T (ThT).( B) spike protein (final exposure concentration 100 ng/mL). (C) Platelet‐poor plasma from a Long COVID participant treated with Myeloperoxidase (MPO)(48‐1299‐42, Invitrogen, Waltham, MA, USA), fibrinogenn α‐chain antibody and Thioflavin T (ThT).</p><p>
+<bold>Figure S7:</bold> Original figure of the microclot showed in Fig. 3G and 4B. This figure was obtained as described in Material and Methods.</p><p>
+<bold>Figure S8:</bold> Performances of long COVID classification obtained KNeighbors and Decisiohn Tree.</p><p>
+<bold>Figure S9:</bold> Random Forest performances of long COVID classification depending on diffrent chosen markers.</p><p>
+<bold>Figure S10:</bold> Centrifugation Protocol Validation. Imaging flow cytometry results comparing plasma from a healthy individual prepared by 1200g for 10 minutes (HI_1200g), 3000g for 15 minutes (HI_3000g), or a two‐step process (1200g for 10 minutes followed by 16000g for 10 minutes, HI_16000g). It is established that plasma prepared following the two‐step method is cell‐free. Since HI_3000g and HI_16000g showed similar total counts and size distributions, the plasma derived from the 3000g for 15 minutes process is cell‐free. In contrast, plasma prepared at 1200g alone exhibited higher counts, indicating potential contamination with cells or debris.</p><p>
+<bold>Table S1:</bold> Characteristics of the healthy individuals from France (EFS).</p><p>
+<bold>Table S2:</bold> Demographics and co‐morbidities of our Long COVID (LC) patients and healthy individuals (HI) from both South Africa (SA) and France (EFS).</p><p>
+<bold>Table S3:</bold> Median of microclots parameters using imaging fluorocytometry in Long COVID (LC) patients and healthy individuals from both South Africa (SA) and France (EFS).</p><p>
+<bold>Table S4:</bold> Compiled data from microclot parameters, NETs markers and cirDNA in the full healthy cohort. Healthy individuals from both South Africa (SA) and France (EFS).</p><p>
+<bold>Table S5:</bold> Compiled data from microclot parameters. NETs markers and cirDNA in the healthy individual cohort from France (EFS).</p><p>
+<bold>Table S6:</bold> Compiled data from microclot parameters, NETs markers and cirDNA in the healthy individual cohort from South Africa (SA).</p><p>
+<bold>Table S7:</bold> Compiled data from HFAP (microclot) parameters, NETs markers and cirDNA in the long COVID (LC) patient cohort.</p><p>
+<bold>Table S8:</bold> P value of the differences between Long COVID (LC) patients and healthy individuals (SA + EFS), in respect to microclot numbers (Figure 2A) and NETs markers and cirDNA (Figure 2B).</p><p>
+<bold>Table S9:</bold> P values of the significance of the correlation between NETs markers, cirDNA and microclots in healthy individuals (SA + EFS). 0.00E+00corresponds to Mann‐WithneyP‐value with more than 15 decimals.</p><p>
+<bold>Table S10:</bold> P values of the significance of the correlation between NETs markers, cirDNA and microclots in patients with long COVID (LC). 0.00E+00corresponds to Mann‐Withney P‐value with more than 15 decimals.</p><p>
+<bold>Table S11:</bold> Number of individuals with one or more HFAP (microclots) in Long COVID (LC) patients and healthy individuals.</p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="JMV-97-e70613-s001.docx" position="float" orientation="portrait"/></supplementary-material></sec></body><back><ack id="jmv70613-sec-0330"><title>Acknowledgments</title><p>The authors thank the excellent technical assistance of F. Frayssinoux (IRCM, Institut de Recherche en Cancérologie de Montpellier, INSERM U1194, Université de Montpellier, Institut régional du Cancer de Montpellier, Montpellier, F‐34298, France) and Cormac Mc Carthy (Mc Carthy Consultant, Montpellier) for English editing (financial compensation). We are grateful to Profs. D. Salmon (Institut Fournier, Paris), A. Morand (Hopital Timone enfants, Marseille), M. Ychou (ICM), J.P. Cristol, and K. Klouche (Centre Hospitalier Universitaire de Montpellier) for fruitful discussion. We thank Pauline Oustric and the association #ApresJ20. The study was partially supported by SIRIC Montpellier Cancer Grant INCa_Inserm_DGOS_12553 (ART); South African National Research Foundation (142142) (EP); and the South African Medical Research Foundation (EP); the Novo Nordisk Foundation grant NNF20CC0035580 (DBK) and the Balvi Foundation grant 18 (DBK).</p></ack><sec sec-type="data-availability" id="jmv70613-sec-0360"><title>Data Availability Statement</title><p>The data that support the findings of this study are available on request from the corresponding author. The data are not publicly available due to privacy or ethical restrictions. All data are available in the main text or the Supporting materials. Material and data sharing agreement (signed on the 26th of July 2023, #S008426) between Stellenbosch University (SA) and INSERM (France). All data are available in the main text or the Supporting materials. Material and data sharing agreement (signed on the 26th of July 2023, #S008426) between Stellenbosch University (SA) and INSERM (France).</p></sec><ref-list content-type="cited-references" id="jmv70613-bibl-0001"><title>References</title><ref id="jmv70613-bib-0001"><label>1</label><mixed-citation publication-type="journal" id="jmv70613-cit-0001">
+<string-name name-style="western">
+<given-names>Z.</given-names>
+<surname>Al‐Aly</surname>
+</string-name> and <string-name name-style="western">
+<given-names>E.</given-names>
+<surname>Topol</surname>
+</string-name>, “<article-title>Solving the Puzzle of Long Covid</article-title>,” <source>Science</source>
+<volume>383</volume> (<year>2024</year>): <fpage>830</fpage>–<lpage>832</lpage>.<pub-id pub-id-type="pmid">38386747</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1126/science.adl0867</pub-id></mixed-citation></ref><ref id="jmv70613-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="jmv70613-cit-0002">
+<string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Nalbandian</surname>
+</string-name>, <string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Sehgal</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Gupta</surname>
+</string-name>, et al., “<article-title>Post‐Acute COVID‐19 Syndrome</article-title>,” <source>Nature Medicine</source>
+<volume>27</volume> (<year>2021</year>): <fpage>601</fpage>–<lpage>615</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41591-021-01283-z</pub-id><pub-id pub-id-type="pmcid">PMC8893149</pub-id><pub-id pub-id-type="pmid">33753937</pub-id></mixed-citation></ref><ref id="jmv70613-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="jmv70613-cit-0003">
+<string-name name-style="western">
+<given-names>H. E.</given-names>
+<surname>Davis</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L.</given-names>
+<surname>McCorkell</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J. M.</given-names>
+<surname>Vogel</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>E. J.</given-names>
+<surname>Topol</surname>
+</string-name>, “<article-title>Long COVID: Major Findings, Mechanisms and Recommendations</article-title>,” <source>Nature Reviews Microbiology</source>
+<volume>21</volume> (<year>2023</year>): <fpage>133</fpage>–<lpage>146</lpage>.<pub-id pub-id-type="pmid">36639608</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41579-022-00846-2</pub-id><pub-id pub-id-type="pmcid">PMC9839201</pub-id></mixed-citation></ref><ref id="jmv70613-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="jmv70613-cit-0004">
+<string-name name-style="western">
+<given-names>E.</given-names>
+<surname>Pretorius</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Mbotwe</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Bester</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C. J.</given-names>
+<surname>Robinson</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>D. B.</given-names>
+<surname>Kell</surname>
+</string-name>, “<article-title>Acute Induction of Anomalous and Amyloidogenic Blood Clotting by Molecular Amplification of Highly Substoichiometric Levels of Bacterial Lipopolysaccharide</article-title>,” <source>Journal of the Royal Society Interface</source>
+<volume>13</volume> (<year>2016</year>): <elocation-id>20160539</elocation-id>.<pub-id pub-id-type="pmid">27605168</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1098/rsif.2016.0539</pub-id><pub-id pub-id-type="pmcid">PMC5046953</pub-id></mixed-citation></ref><ref id="jmv70613-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="jmv70613-cit-0005">
+<string-name name-style="western">
+<given-names>E.</given-names>
+<surname>Pretorius</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Venter</surname>
+</string-name>, <string-name name-style="western">
+<given-names>G. J.</given-names>
+<surname>Laubscher</surname>
+</string-name>, <string-name name-style="western">
+<given-names>P. J.</given-names>
+<surname>Lourens</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Steenkamp</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>D. B.</given-names>
+<surname>Kell</surname>
+</string-name>, “<article-title>Prevalence of Readily Detected Amyloid Blood Clots in “Unclotted” Type 2 Diabetes Mellitus and COVID‐19 Plasma: A Preliminary Report</article-title>,” <source>Cardiovascular Diabetology</source>
+<volume>19</volume> (<year>2020</year>): <elocation-id>193</elocation-id>.<pub-id pub-id-type="pmid">33203441</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1186/s12933-020-01165-7</pub-id><pub-id pub-id-type="pmcid">PMC7670290</pub-id></mixed-citation></ref><ref id="jmv70613-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="jmv70613-cit-0006">
+<string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Stiel</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Mayeur‐Rousse</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Helms</surname>
+</string-name>, <string-name name-style="western">
+<given-names>F.</given-names>
+<surname>Meziani</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Mauvieux</surname>
+</string-name>, “<article-title>First Visualization of Circulating Neutrophil Extracellular Traps Using Cell Fluorescence During Human Septic Shock‐Induced Disseminated Intravascular Coagulation</article-title>,” <source>Thrombosis Research</source>
+<volume>183</volume> (<year>2019</year>): <fpage>153</fpage>–<lpage>158</lpage>.<pub-id pub-id-type="pmid">31678710</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.thromres.2019.09.036</pub-id></mixed-citation></ref><ref id="jmv70613-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="jmv70613-cit-0007">
+<string-name name-style="western">
+<given-names>V.</given-names>
+<surname>Brinkmann</surname>
+</string-name>, <string-name name-style="western">
+<given-names>U.</given-names>
+<surname>Reichard</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Goosmann</surname>
+</string-name>, et al., “<article-title>Neutrophil Extracellular Traps Kill Bacteria</article-title>,” <source>Science</source>
+<volume>303</volume> (<year>2004</year>): <fpage>1532</fpage>–<lpage>1535</lpage>.<pub-id pub-id-type="pmid">15001782</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1126/science.1092385</pub-id></mixed-citation></ref><ref id="jmv70613-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="jmv70613-cit-0008">
+<string-name name-style="western">
+<given-names>D. B.</given-names>
+<surname>Kell</surname>
+</string-name> and <string-name name-style="western">
+<given-names>E.</given-names>
+<surname>Pretorius</surname>
+</string-name>, “<article-title>Are Fibrinaloid Microclots a Cause of Autoimmunity in Long Covid and Other Post‐Infection Diseases?</article-title>,” <source>Biochemical Journal</source>
+<volume>480</volume> (<year>2023</year>): <fpage>1217</fpage>–<lpage>1240</lpage>.<pub-id pub-id-type="pmid">37584410</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1042/BCJ20230241</pub-id></mixed-citation></ref><ref id="jmv70613-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="jmv70613-cit-0009">
+<string-name name-style="western">
+<given-names>E.</given-names>
+<surname>Pretorius</surname>
+</string-name> and <string-name name-style="western">
+<given-names>D. B.</given-names>
+<surname>Kell</surname>
+</string-name>, “<article-title>A Perspective on How Fibrinaloid Microclots and Platelet Pathology May be Applied in Clinical Investigations</article-title>,” <source>Seminars in Thrombosis and Hemostasis</source>
+<volume>50</volume> (<year>2023</year>): <fpage>537</fpage>–<lpage>551</lpage>.<pub-id pub-id-type="pmid">37748515</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1055/s-0043-1774796</pub-id><pub-id pub-id-type="pmcid">PMC11105946</pub-id></mixed-citation></ref><ref id="jmv70613-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="jmv70613-cit-0010">
+<string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Kruger</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Vlok</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Turner</surname>
+</string-name>, et al., “<article-title>Proteomics of Fibrin Amyloid Microclots in Long COVID/Post‐Acute Sequelae of COVID‐19 (PASC) Shows Many Entrapped Pro‐Inflammatory Molecules That May Also Contribute to a Failed Fibrinolytic System</article-title>,” <source>Cardiovascular Diabetology</source>
+<volume>21</volume> (<year>2022</year>): <elocation-id>190</elocation-id>.<pub-id pub-id-type="pmid">36131342</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1186/s12933-022-01623-4</pub-id><pub-id pub-id-type="pmcid">PMC9491257</pub-id></mixed-citation></ref><ref id="jmv70613-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="jmv70613-cit-0011">
+<string-name name-style="western">
+<given-names>E.</given-names>
+<surname>Pretorius</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Vlok</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Venter</surname>
+</string-name>, et al., “<article-title>Persistent Clotting Protein Pathology in Long Covid/Post‐Acute Sequelae of COVID‐19 (PASC) Is Accompanied by Increased Levels of Antiplasmin</article-title>,” <source>Cardiovascular Diabetology</source>
+<volume>20</volume> (<year>2021</year>): <elocation-id>172</elocation-id>.<pub-id pub-id-type="pmid">34425843</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1186/s12933-021-01359-7</pub-id><pub-id pub-id-type="pmcid">PMC8381139</pub-id></mixed-citation></ref><ref id="jmv70613-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="jmv70613-cit-0012">
+<string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Turner</surname>
+</string-name>, <string-name name-style="western">
+<given-names>G. J.</given-names>
+<surname>Laubscher</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M. A.</given-names>
+<surname>Khan</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D. B.</given-names>
+<surname>Kell</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>E.</given-names>
+<surname>Pretorius</surname>
+</string-name>, “<article-title>Accelerating Discovery: A Novel Flow Cytometric Method for Detecting Fibrin(Ogen) Amyloid Microclots Using Long Covid as a Model</article-title>,” <source>Heliyon</source>
+<volume>9</volume> (<year>2023</year>): <elocation-id>e19605</elocation-id>.<pub-id pub-id-type="pmid">37809592</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.heliyon.2023.e19605</pub-id><pub-id pub-id-type="pmcid">PMC10558872</pub-id></mixed-citation></ref><ref id="jmv70613-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="jmv70613-cit-0013">
+<string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Schofield</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S. T.</given-names>
+<surname>Abrams</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Jenkins</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Lane</surname>
+</string-name>, <string-name name-style="western">
+<given-names>G.</given-names>
+<surname>Wang</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>C.‐H.</given-names>
+<surname>Toh</surname>
+</string-name>, “<article-title>Microclots, as Defined by Amyloid‐Fibrinogen Aggregates, Predict Risks of Disseminated Intravascular Coagulation and Mortality</article-title>,” <source>Blood Advances</source>
+<volume>8</volume> (<year>2024</year>): <fpage>2499</fpage>–<lpage>2508</lpage>.<pub-id pub-id-type="pmid">38507683</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1182/bloodadvances.2023012473</pub-id><pub-id pub-id-type="pmcid">PMC11131067</pub-id></mixed-citation></ref><ref id="jmv70613-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="jmv70613-cit-0014">
+<string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Yousefi</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Stojkov</surname>
+</string-name>, <string-name name-style="western">
+<given-names>N.</given-names>
+<surname>Germic</surname>
+</string-name>, et al., “<article-title>Untangling “NETosis” From Nets</article-title>,” <source>European Journal of Immunology</source>
+<volume>49</volume> (<year>2019</year>): <fpage>221</fpage>–<lpage>227</lpage>.<pub-id pub-id-type="pmid">30629284</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/eji.201747053</pub-id></mixed-citation></ref><ref id="jmv70613-bib-0015"><label>15</label><mixed-citation publication-type="journal" id="jmv70613-cit-0015">
+<string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Pastorek</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Dúbrava</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>P.</given-names>
+<surname>Celec</surname>
+</string-name>, “<article-title>On the Origin of Neutrophil Extracellular Traps in COVID‐19</article-title>,” <source>Frontiers in Immunology</source>
+<volume>13</volume> (<year>2022</year>): <elocation-id>821007</elocation-id>.<pub-id pub-id-type="pmid">35359960</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3389/fimmu.2022.821007</pub-id><pub-id pub-id-type="pmcid">PMC8961727</pub-id></mixed-citation></ref><ref id="jmv70613-bib-0016"><label>16</label><mixed-citation publication-type="journal" id="jmv70613-cit-0016">
+<string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Kapoor</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Mihalovičová</surname>
+</string-name>, <string-name name-style="western">
+<given-names>E.</given-names>
+<surname>Pisareva</surname>
+</string-name>, et al., “<article-title>Association of Vascular Netosis With COVID‐19 Severity in Asymptomatic and Symptomatic Patients</article-title>,” <source>iScience</source>
+<volume>27</volume> (<year>2024</year>): <elocation-id>109573</elocation-id>.<pub-id pub-id-type="pmid">38660409</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.isci.2024.109573</pub-id><pub-id pub-id-type="pmcid">PMC11039348</pub-id></mixed-citation></ref><ref id="jmv70613-bib-0017"><label>17</label><mixed-citation publication-type="journal" id="jmv70613-cit-0017">
+<string-name name-style="western">
+<given-names>A. R.</given-names>
+<surname>Thierry</surname>
+</string-name> and <string-name name-style="western">
+<given-names>B.</given-names>
+<surname>Roch</surname>
+</string-name>, “<article-title>Neutrophil Extracellular Traps and By‐Products Play a Key Role in COVID‐19: Pathogenesis, Risk Factors, and Therapy</article-title>,” <source>Journal of Clinical Medicine</source>
+<volume>9</volume> (<year>2020</year>): <elocation-id>2942</elocation-id>.<pub-id pub-id-type="pmid">32933031</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3390/jcm9092942</pub-id><pub-id pub-id-type="pmcid">PMC7565044</pub-id></mixed-citation></ref><ref id="jmv70613-bib-0018"><label>18</label><mixed-citation publication-type="journal" id="jmv70613-cit-0018">
+<string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Zuo</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Yalavarthi</surname>
+</string-name>, <string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Shi</surname>
+</string-name>, et al., “<article-title>Neutrophil Extracellular Traps in COVID‐19</article-title>,” <source>JCI Insight</source>
+<volume>1</volume> (<year>2020</year>): <elocation-id>e138999</elocation-id>, <pub-id pub-id-type="doi">10.1172/jci.insight.138999</pub-id>.<pub-id pub-id-type="pmcid">PMC7308057</pub-id><pub-id pub-id-type="pmid">32329756</pub-id></mixed-citation></ref><ref id="jmv70613-bib-0019"><label>19</label><mixed-citation publication-type="journal" id="jmv70613-cit-0019">
+<string-name name-style="western">
+<given-names>E. A.</given-names>
+<surname>Middleton</surname>
+</string-name>, <string-name name-style="western">
+<given-names>X.‐Y.</given-names>
+<surname>He</surname>
+</string-name>, <string-name name-style="western">
+<given-names>F.</given-names>
+<surname>Denorme</surname>
+</string-name>, et al., “<article-title>Neutrophil Extracellular Traps Contribute to Immunothrombosis in COVID‐19 Acute Respiratory Distress Syndrome</article-title>,” <source>Blood</source>
+<volume>136</volume> (<year>2020</year>): <fpage>1169</fpage>–<lpage>1179</lpage>.<pub-id pub-id-type="pmid">32597954</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1182/blood.2020007008</pub-id><pub-id pub-id-type="pmcid">PMC7472714</pub-id></mixed-citation></ref><ref id="jmv70613-bib-0020"><label>20</label><mixed-citation publication-type="journal" id="jmv70613-cit-0020">
+<string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Ng</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Havervall</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Rosell</surname>
+</string-name>, et al., “<article-title>Circulating Markers of Neutrophil Extracellular Traps are of Prognostic Value in Patients With COVID‐19</article-title>,” <source>Arteriosclerosis, Thrombosis, and Vascular Biology</source>
+<volume>41</volume> (<year>2021</year>): <fpage>988</fpage>–<lpage>994</lpage>.<pub-id pub-id-type="pmid">33267662</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1161/ATVBAHA.120.315267</pub-id><pub-id pub-id-type="pmcid">PMC7837697</pub-id></mixed-citation></ref><ref id="jmv70613-bib-0021"><label>21</label><mixed-citation publication-type="journal" id="jmv70613-cit-0021">
+<string-name name-style="western">
+<given-names>E.</given-names>
+<surname>Pisareva</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Badiou</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Mihalovičová</surname>
+</string-name>, et al., “<article-title>Persistence of Neutrophil Extracellular Traps and Anticardiolipin Auto‐Antibodies in Post‐Acute Phase COVID‐19 Patients</article-title>,” <source>Journal of Medical Virology</source>
+<volume>95</volume> (<year>2023</year>): <elocation-id>e28209</elocation-id>.<pub-id pub-id-type="pmid">36226380</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/jmv.28209</pub-id><pub-id pub-id-type="pmcid">PMC9874393</pub-id></mixed-citation></ref><ref id="jmv70613-bib-0022"><label>22</label><mixed-citation publication-type="journal" id="jmv70613-cit-0022">
+<string-name name-style="western">
+<given-names>V.</given-names>
+<surname>Papayannopoulos</surname>
+</string-name>, “<article-title>Neutrophil Extracellular Traps in Immunity and Disease</article-title>,” <source>Nature Reviews Immunology</source>
+<volume>18</volume> (<year>2018</year>): <fpage>134</fpage>–<lpage>147</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/nri.2017.105</pub-id><pub-id pub-id-type="pmid">28990587</pub-id></mixed-citation></ref><ref id="jmv70613-bib-0023"><label>23</label><mixed-citation publication-type="journal" id="jmv70613-cit-0023">
+<string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Van Bruggen</surname>
+</string-name> and <string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Martinod</surname>
+</string-name>, “<article-title>The Coming of Age of Neutrophil Extracellular Traps in Thrombosis: Where Are we Now and Where Are we Headed?</article-title>,” <source>Immunological Reviews</source>
+<volume>314</volume> (<year>2023</year>): <fpage>376</fpage>–<lpage>398</lpage>.<pub-id pub-id-type="pmid">36560865</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/imr.13179</pub-id></mixed-citation></ref><ref id="jmv70613-bib-0024"><label>24</label><mixed-citation publication-type="journal" id="jmv70613-cit-0024">
+<string-name name-style="western">
+<given-names>M. J.</given-names>
+<surname>Kaplan</surname>
+</string-name> and <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Radic</surname>
+</string-name>, “<article-title>Neutrophil Extracellular Traps: Double‐Edged Swords of Innate Immunity</article-title>,” <source>Journal of Immunology</source>
+<volume>189</volume> (<year>2012</year>): <fpage>2689</fpage>–<lpage>2695</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.4049/jimmunol.1201719</pub-id><pub-id pub-id-type="pmcid">PMC3439169</pub-id><pub-id pub-id-type="pmid">22956760</pub-id></mixed-citation></ref><ref id="jmv70613-bib-0025"><label>25</label><mixed-citation publication-type="journal" id="jmv70613-cit-0025">
+<string-name name-style="western">
+<given-names>S. K.</given-names>
+<surname>Jorch</surname>
+</string-name> and <string-name name-style="western">
+<given-names>P.</given-names>
+<surname>Kubes</surname>
+</string-name>, “<article-title>An Emerging Role for Neutrophil Extracellular Traps in Noninfectious Disease</article-title>,” <source>Nature Medicine</source>
+<volume>23</volume> (<year>2017</year>): <fpage>279</fpage>–<lpage>287</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/nm.4294</pub-id><pub-id pub-id-type="pmid">28267716</pub-id></mixed-citation></ref><ref id="jmv70613-bib-0026"><label>26</label><mixed-citation publication-type="journal" id="jmv70613-cit-0026">
+<string-name name-style="western">
+<given-names>E.</given-names>
+<surname>Pisareva</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Mihalovičová</surname>
+</string-name>, <string-name name-style="western">
+<given-names>B.</given-names>
+<surname>Pastor</surname>
+</string-name>, et al., “<article-title>Neutrophil Extracellular Traps Have Auto‐Catabolic Activity and Produce Mononucleosome‐Associated Circulating DNA</article-title>,” <source>Genome Medicine</source>
+<volume>14</volume> (<year>2022</year>): <elocation-id>135</elocation-id>.<pub-id pub-id-type="pmid">36443816</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1186/s13073-022-01125-8</pub-id><pub-id pub-id-type="pmcid">PMC9702877</pub-id></mixed-citation></ref><ref id="jmv70613-bib-0027"><label>27</label><mixed-citation publication-type="journal" id="jmv70613-cit-0027">
+<string-name name-style="western">
+<given-names>S. T.</given-names>
+<surname>Abrams</surname>
+</string-name>, <string-name name-style="western">
+<given-names>B.</given-names>
+<surname>Morton</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Alhamdi</surname>
+</string-name>, et al., “<article-title>A Novel Assay for Neutrophil Extracellular Trap Formation Independently Predicts Disseminated Intravascular Coagulation and Mortality in Critically Ill Patients</article-title>,” <source>American Journal of Respiratory and Critical Care Medicine</source>
+<volume>200</volume> (<year>2019</year>): <fpage>869</fpage>–<lpage>880</lpage>.<pub-id pub-id-type="pmid">31162936</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1164/rccm.201811-2111OC</pub-id><pub-id pub-id-type="pmcid">PMC6812439</pub-id></mixed-citation></ref><ref id="jmv70613-bib-0028"><label>28</label><mixed-citation publication-type="journal" id="jmv70613-cit-0028">
+<string-name name-style="western">
+<given-names>B.</given-names>
+<surname>Pastor</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.‐D.</given-names>
+<surname>Abraham</surname>
+</string-name>, <string-name name-style="western">
+<given-names>E.</given-names>
+<surname>Pisareva</surname>
+</string-name>, et al., “<article-title>Association of Neutrophil Extracellular Traps With the Production of Circulating DNA in Patients With Colorectal Cancer</article-title>,” <source>iScience</source>
+<volume>25</volume> (<year>2022</year>): <elocation-id>103826</elocation-id>.<pub-id pub-id-type="pmid">35198886</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.isci.2022.103826</pub-id><pub-id pub-id-type="pmcid">PMC8844218</pub-id></mixed-citation></ref><ref id="jmv70613-bib-0029"><label>29</label><mixed-citation publication-type="journal" id="jmv70613-cit-0029">
+<string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Thålin</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Hisada</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Lundström</surname>
+</string-name>, <string-name name-style="western">
+<given-names>N.</given-names>
+<surname>Mackman</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Wallén</surname>
+</string-name>, “<article-title>Neutrophil Extracellular Traps: Villains and Targets in Arterial, Venous, and Cancer‐Associated Thrombosis</article-title>,” <source>Arteriosclerosis, Thrombosis, and Vascular Biology</source>
+<volume>39</volume> (<year>2019</year>): <fpage>1724</fpage>–<lpage>1738</lpage>.<pub-id pub-id-type="pmid">31315434</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1161/ATVBAHA.119.312463</pub-id><pub-id pub-id-type="pmcid">PMC6703916</pub-id></mixed-citation></ref><ref id="jmv70613-bib-0030"><label>30</label><mixed-citation publication-type="journal" id="jmv70613-cit-0030">
+<string-name name-style="western">
+<given-names>I.</given-names>
+<surname>Varjú</surname>
+</string-name> and <string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Kolev</surname>
+</string-name>, “<article-title>Networks That Stop the Flow: A Fresh Look at Fibrin and Neutrophil Extracellular Traps</article-title>,” <source>Thrombosis Research</source>
+<volume>182</volume> (<year>2019</year>): <fpage>1</fpage>–<lpage>11</lpage>.<pub-id pub-id-type="pmid">31415922</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.thromres.2019.08.003</pub-id></mixed-citation></ref><ref id="jmv70613-bib-0031"><label>31</label><mixed-citation publication-type="miscellaneous" id="jmv70613-cit-0031">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://brd.nci.nih.gov/brd/paper/biochem-biophys-rep/2016/pre-storage-centrifugation-conditions-have-significant-impact/127470" ext-link-type="uri">https://brd.nci.nih.gov/brd/paper/biochem-biophys-rep/2016/pre-storage-centrifugation-conditions-have-significant-impact/127470</ext-link>.</mixed-citation></ref><ref id="jmv70613-bib-0032"><label>32</label><mixed-citation publication-type="journal" id="jmv70613-cit-0032">
+<string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Meddeb</surname>
+</string-name>, <string-name name-style="western">
+<given-names>E.</given-names>
+<surname>Pisareva</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>A. R.</given-names>
+<surname>Thierry</surname>
+</string-name>, “<article-title>Guidelines for the Preanalytical Conditions for Analyzing Circulating Cell‐Free DNA</article-title>,” <source>Clinical Chemistry</source>
+<volume>65</volume> (<year>2019</year>): <fpage>623</fpage>–<lpage>633</lpage>.<pub-id pub-id-type="pmid">30792266</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1373/clinchem.2018.298323</pub-id></mixed-citation></ref><ref id="jmv70613-bib-0033"><label>33</label><mixed-citation publication-type="journal" id="jmv70613-cit-0033">
+<string-name name-style="western">
+<given-names>W.</given-names>
+<surname>Zhao</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D. K.</given-names>
+<surname>Fogg</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>M. J.</given-names>
+<surname>Kaplan</surname>
+</string-name>, “<article-title>A Novel Image‐Based Quantitative Method for the Characterization of NETosis</article-title>,” <source>Journal of Immunological Methods</source>
+<volume>423</volume> (<year>2015</year>): <fpage>104</fpage>–<lpage>110</lpage>.<pub-id pub-id-type="pmid">26003624</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.jim.2015.04.027</pub-id><pub-id pub-id-type="pmcid">PMC4522197</pub-id></mixed-citation></ref><ref id="jmv70613-bib-0034"><label>34</label><mixed-citation publication-type="journal" id="jmv70613-cit-0034">
+<string-name name-style="western">
+<given-names>L. D.</given-names>
+<surname>Healy</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Puy</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Itakura</surname>
+</string-name>, et al., “<article-title>Colocalization of Neutrophils, Extracellular DNA and Coagulation Factors During Netosis: Development and Utility of an Immunofluorescence‐Based Microscopy Platform</article-title>,” <source>Journal of Immunological Methods</source>
+<volume>435</volume> (<year>2016</year>): <fpage>77</fpage>–<lpage>84</lpage>.<pub-id pub-id-type="pmid">27286714</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.jim.2016.06.002</pub-id><pub-id pub-id-type="pmcid">PMC4935600</pub-id></mixed-citation></ref><ref id="jmv70613-bib-0035"><label>35</label><mixed-citation publication-type="journal" id="jmv70613-cit-0035">
+<string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Bonaventura</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Vecchié</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Abbate</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>F.</given-names>
+<surname>Montecucco</surname>
+</string-name>, “<article-title>Neutrophil Extracellular Traps and Cardiovascular Diseases: An Update</article-title>,” <source>Cells</source>
+<volume>9</volume> (<year>2020</year>): <elocation-id>231</elocation-id>.<pub-id pub-id-type="pmid">31963447</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3390/cells9010231</pub-id><pub-id pub-id-type="pmcid">PMC7016588</pub-id></mixed-citation></ref><ref id="jmv70613-bib-0036"><label>36</label><mixed-citation publication-type="journal" id="jmv70613-cit-0036">
+<string-name name-style="western">
+<given-names>T. A.</given-names>
+<surname>Fuchs</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J. A.</given-names>
+<surname>Kremer Hovinga</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Schatzberg</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D. D.</given-names>
+<surname>Wagner</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>B.</given-names>
+<surname>Lämmle</surname>
+</string-name>, “<article-title>Circulating DNA and Myeloperoxidase Indicate Disease Activity in Patients With Thrombotic Microangiopathies</article-title>,” <source>Blood</source>
+<volume>120</volume> (<year>2012</year>): <fpage>1157</fpage>–<lpage>1164</lpage>.<pub-id pub-id-type="pmid">22611154</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1182/blood-2012-02-412197</pub-id><pub-id pub-id-type="pmcid">PMC3418712</pub-id></mixed-citation></ref><ref id="jmv70613-bib-0037"><label>37</label><mixed-citation publication-type="journal" id="jmv70613-cit-0037">
+<string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Nicolai</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Kaiser</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Stark</surname>
+</string-name>, “<article-title>Thromboinflammation in Long Covid—The Elusive Key to Postinfection Sequelae?</article-title>,” <source>Journal of Thrombosis and Haemostasis</source>
+<volume>21</volume> (<year>2023</year>): <fpage>2020</fpage>–<lpage>2031</lpage>.<pub-id pub-id-type="pmid">37178769</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.jtha.2023.04.039</pub-id><pub-id pub-id-type="pmcid">PMC10174338</pub-id></mixed-citation></ref><ref id="jmv70613-bib-0038"><label>38</label><mixed-citation publication-type="journal" id="jmv70613-cit-0038">
+<string-name name-style="western">
+<given-names>M. C.</given-names>
+<surname>Woodruff</surname>
+</string-name>, <string-name name-style="western">
+<given-names>K. S.</given-names>
+<surname>Bonham</surname>
+</string-name>, <string-name name-style="western">
+<given-names>F. A.</given-names>
+<surname>Anam</surname>
+</string-name>, et al., “<article-title>Chronic Inflammation, Neutrophil Activity, and Autoreactivity Splits Long Covid</article-title>,” <source>Nature Communications</source>
+<volume>14</volume> (<year>2023</year>): <elocation-id>4201</elocation-id>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41467-023-40012-7</pub-id><pub-id pub-id-type="pmcid">PMC10349085</pub-id><pub-id pub-id-type="pmid">37452024</pub-id></mixed-citation></ref><ref id="jmv70613-bib-0039"><label>39</label><mixed-citation publication-type="journal" id="jmv70613-cit-0039">
+<string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Bonaventura</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Vecchié</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Dagna</surname>
+</string-name>, et al., “<article-title>Endothelial Dysfunction and Immunothrombosis as Key Pathogenic Mechanisms in COVID‐19</article-title>,” <source>Nature Reviews Immunology</source>
+<volume>21</volume> (<year>2021</year>): <fpage>319</fpage>–<lpage>329</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41577-021-00536-9</pub-id><pub-id pub-id-type="pmcid">PMC8023349</pub-id><pub-id pub-id-type="pmid">33824483</pub-id></mixed-citation></ref><ref id="jmv70613-bib-0040"><label>40</label><mixed-citation publication-type="journal" id="jmv70613-cit-0040">
+<string-name name-style="western">
+<given-names>F.</given-names>
+<surname>Denorme</surname>
+</string-name>, <string-name name-style="western">
+<given-names>I.</given-names>
+<surname>Portier</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J. L.</given-names>
+<surname>Rustad</surname>
+</string-name>, et al., “<article-title>Neutrophil Extracellular Traps Regulate Ischemic Stroke Brain Injury</article-title>,” <source>Journal of Clinical Investigation</source>
+<volume>132</volume> (<year>2022</year>): <elocation-id>e154225</elocation-id>.<pub-id pub-id-type="pmid">35358095</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1172/JCI154225</pub-id><pub-id pub-id-type="pmcid">PMC9106355</pub-id></mixed-citation></ref><ref id="jmv70613-bib-0041"><label>41</label><mixed-citation publication-type="journal" id="jmv70613-cit-0041">
+<string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Scherlinger</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Richez</surname>
+</string-name>, <string-name name-style="western">
+<given-names>G. C.</given-names>
+<surname>Tsokos</surname>
+</string-name>, <string-name name-style="western">
+<given-names>E.</given-names>
+<surname>Boilard</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>P.</given-names>
+<surname>Blanco</surname>
+</string-name>, “<article-title>The Role of Platelets in Immune‐Mediated Inflammatory Diseases</article-title>,” <source>Nature Reviews Immunology</source>
+<volume>23</volume> (<year>2023</year>): <fpage>495</fpage>–<lpage>510</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41577-023-00834-4</pub-id><pub-id pub-id-type="pmcid">PMC9882748</pub-id><pub-id pub-id-type="pmid">36707719</pub-id></mixed-citation></ref><ref id="jmv70613-bib-0042"><label>42</label><mixed-citation publication-type="journal" id="jmv70613-cit-0042">
+<string-name name-style="western">
+<given-names>D. B.</given-names>
+<surname>Kell</surname>
+</string-name>, <string-name name-style="western">
+<given-names>G. J.</given-names>
+<surname>Laubscher</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>E.</given-names>
+<surname>Pretorius</surname>
+</string-name>, “<article-title>A Central Role for Amyloid Fibrin Microclots in Long COVID/PASC: Origins and Therapeutic Implications</article-title>,” <source>Biochemical Journal</source>
+<volume>479</volume> (<year>2022</year>): <fpage>537</fpage>–<lpage>559</lpage>.<pub-id pub-id-type="pmid">35195253</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1042/BCJ20220016</pub-id><pub-id pub-id-type="pmcid">PMC8883497</pub-id></mixed-citation></ref><ref id="jmv70613-bib-0043"><label>43</label><mixed-citation publication-type="journal" id="jmv70613-cit-0043">
+<string-name name-style="western">
+<given-names>J. H.</given-names>
+<surname>Griffin</surname>
+</string-name> and <string-name name-style="western">
+<given-names>P.</given-names>
+<surname>Lyden</surname>
+</string-name>, “<article-title>COVID‐19 Hypothesis: Activated Protein C for Therapy of Virus‐Induced Pathologic Thromboinflammation</article-title>,” <source>Research and Practice in Thrombosis and Haemostasis</source>
+<volume>4</volume> (<year>2020</year>): <fpage>506</fpage>–<lpage>509</lpage>.<pub-id pub-id-type="pmid">32548551</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/rth2.12362</pub-id><pub-id pub-id-type="pmcid">PMC7292662</pub-id></mixed-citation></ref><ref id="jmv70613-bib-0044"><label>44</label><mixed-citation publication-type="journal" id="jmv70613-cit-0044">
+<string-name name-style="western">
+<given-names>A. R.</given-names>
+<surname>Thierry</surname>
+</string-name> and <string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Salmon</surname>
+</string-name>, “<article-title>Inflammation‐, Immunothrombosis,‐ and Autoimmune‐Feedback Loops May Lead to Persistent Neutrophil Self‐Stimulation in Long COVID</article-title>,” <source>Journal of Medical Virology</source>
+<volume>96</volume> (<year>2024</year>): <elocation-id>e29887</elocation-id>.<pub-id pub-id-type="pmid">39189651</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/jmv.29887</pub-id></mixed-citation></ref><ref id="jmv70613-bib-0045"><label>45</label><mixed-citation publication-type="journal" id="jmv70613-cit-0045">
+<string-name name-style="western">
+<given-names>A. D.</given-names>
+<surname>Proal</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M. B.</given-names>
+<surname>VanElzakker</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Aleman</surname>
+</string-name>, et al., “<article-title>SARS‐CoV‐2 Reservoir in Post‐Acute Sequelae of COVID‐19 (PASC)</article-title>,” <source>Nature Immunology</source>
+<volume>24</volume> (<year>2023</year>): <fpage>1616</fpage>–<lpage>1627</lpage>.<pub-id pub-id-type="pmid">37667052</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41590-023-01601-2</pub-id></mixed-citation></ref></ref-list></back></article></pmc-articleset>

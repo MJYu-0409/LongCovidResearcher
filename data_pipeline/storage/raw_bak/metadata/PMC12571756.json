@@ -1,0 +1,39 @@
+{
+  "pmcid": "PMC12571756",
+  "pmid": "41181095",
+  "doi": "10.3389/fimmu.2025.1613195",
+  "title": "Immune dysregulation and endothelial dysfunction associate with a pro-thrombotic profile in Long COVID.",
+  "abstract": "INTRODUCTION: Long COVID (LC) affects approximately 10% of individuals post-SARS-CoV-2 infection, with symptoms persisting beyond 12 weeks. The underlying mechanisms remain unclear, and current models often focus on pre-existing comorbidities.\nMETHODS: This cohort study aimed to identify robust biomarkers and clarify LC pathogenesis through a comprehensive analysis performed in 32 LC individuals 26 months post-infection compared with 35 fully recovered individuals recruited between March and July 2022. Blood and fecal samples were collected, and multiple parameters associated with immune dysfunction, endothelial damage, bacterial translocation, and coagulation alterations, alongside signs of viral persistence and sociodemographic and clinical features, were analyzed.\nRESULTS: Although viral RNA was undetected on blood or stool, elevated plasma IgG against the nucleocapsid may indicate frequent reinfections, greater infection severity, or delayed immune normalization. Increased levels of prothrombin, thrombin, fibrinogen, sEPCR, and CRP pointed to persistent endothelial dysfunction and coagulation imbalance. Lower levels of the bactericidal protein REG3A suggest potential disruptions in mucosal immune response. We found no major differences in traditional comorbidities, highlighting that LC may stem from distinct pathogenic mechanisms beyond pre-existing conditions. Importantly, our study revealed impaired humoral immunity and identified an association between vaccine heterogeneity and increased LC risk, emphasizing the relevance of consistent vaccination strategies. A Random Forest model using the measured biomarkers achieved 100% accuracy in classifying LC individuals, reinforcing their diagnostic potential.\nDISCUSSION: These findings support a multifactorial model of LC involving immune dysregulation and persistent endothelial damage that led to coagulation abnormalities and a pro-thrombotic profile, supporting that LC is more closely related to a sustained, uncontrolled inflammatory response rather than immunodeficiency, and underscoring the value of multidimensional biomarker profiling for guiding clinical management and prevention strategies.",
+  "authors": [
+    "Alicia Simón-Rueda",
+    "Clara Sánchez-Menéndez",
+    "Guiomar Casado",
+    "Daniel Fuertes",
+    "María Aránzazu Murciano-Antón",
+    "Elena Mateos",
+    "Susana Domínguez-Mateos",
+    "Francisco Pozo",
+    "Javier García-Pérez",
+    "Mayte Pérez-Olmeda",
+    "Miguel Cervero",
+    "Marta Massanella",
+    "Gemma Moncunill",
+    "Montserrat Torres",
+    "Mayte Coiras"
+  ],
+  "journal": "Frontiers in immunology",
+  "pub_year": "2025",
+  "pub_month": "10",
+  "pub_day": "16",
+  "keywords": [
+    "COVID-19 vaccines",
+    "Long COVID",
+    "biomarkers",
+    "blood coagulation disorders",
+    "endothelium",
+    "immunity"
+  ],
+  "article_types": [
+    "Journal Article"
+  ]
+}

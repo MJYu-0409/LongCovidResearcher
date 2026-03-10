@@ -1,0 +1,609 @@
+<?xml version="1.0"  ?><!DOCTYPE pmc-articleset PUBLIC "-//NLM//DTD ARTICLE SET 2.0//EN" "https://dtd.nlm.nih.gov/ncbi/pmc/articleset/nlm-articleset-2.0.dtd"><pmc-articleset><article xml:lang="en" article-type="research-article" dtd-version="1.4"><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">Clin Nephrol</journal-id><journal-id journal-id-type="iso-abbrev">Clin Nephrol</journal-id><journal-id journal-id-type="pmc-domain-id">2574</journal-id><journal-id journal-id-type="pmc-domain">clinneph</journal-id><journal-id journal-id-type="publisher-id">Dustri</journal-id><journal-title-group><journal-title>Clinical Nephrology</journal-title></journal-title-group><issn pub-type="ppub">0301-0430</issn><publisher><publisher-name>Dustri-Verlag</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC12097141</article-id><article-id pub-id-type="pmcid-ver">PMC12097141.1</article-id><article-id pub-id-type="pmcaid">12097141</article-id><article-id pub-id-type="pmcaiid">12097141</article-id><article-id pub-id-type="pmid">40130884</article-id><article-id pub-id-type="doi">10.5414/CN111584</article-id><article-version article-version-type="pmc-version">1</article-version><article-categories><subj-group subj-group-type="heading"><subject>Research Article</subject></subj-group><subj-group><subject>Nephrology</subject></subj-group></article-categories><title-group><article-title>Prediction and phenotyping of long COVID in kidney transplant recipients: A cross-sectional study </article-title></title-group><contrib-group><contrib contrib-type="author"><name name-style="western"><surname>Zahradka</surname><given-names initials="I">Ivan</given-names></name><xref rid="A1" ref-type="aff">1*</xref></contrib><contrib contrib-type="author"><name name-style="western"><surname>Petr</surname><given-names initials="V">Vojtech</given-names></name><xref rid="A1" ref-type="aff">1*</xref></contrib><contrib contrib-type="author"><name name-style="western"><surname>Modos</surname><given-names initials="I">Istvan</given-names></name><xref rid="A2" ref-type="aff">2</xref></contrib><contrib contrib-type="author"><name name-style="western"><surname>Jakubov</surname><given-names initials="K">Katarina</given-names></name><xref rid="A1" ref-type="aff">1</xref></contrib><contrib contrib-type="author"><name name-style="western"><surname>Dolezal</surname><given-names initials="L">Lukas</given-names></name><xref rid="A2" ref-type="aff">2</xref></contrib><contrib contrib-type="author"><name name-style="western"><surname>Kalina</surname><given-names initials="S">Szabolcs</given-names></name><xref rid="A2" ref-type="aff">2</xref></contrib><contrib contrib-type="author"><name name-style="western"><surname>Viklicky</surname><given-names initials="O">Ondrej</given-names></name><xref rid="A1" ref-type="aff">1</xref><xref rid="A3" ref-type="aff">3</xref></contrib></contrib-group><aff id="A1"><label>1</label>Department of Nephrology, </aff><aff id="A2"><label>2</label>Department of Data Science, </aff><aff id="A3"><label>3</label>Transplant Laboratory, Institute for Clinical and Experimental Medicine, Prague, Czech Republic</aff><aff>*These authors have contributed equally to this work and share the first authorship.</aff><author-notes><corresp id="COR1">Correspondence to: Ivan Zahradka, MD, Department of Nephrology, Transplant Center, Institute for Clinical and Experimental Medicine, Videnska 1958/9, Prague, Czech Republic, <email>ivan.zahradka@ikem.cz</email>
+</corresp></author-notes><pub-date pub-type="ppub"><month>6</month><year>2025</year></pub-date><pub-date pub-type="epub"><day>25</day><month>3</month><year>2025</year></pub-date><volume>103</volume><issue>6</issue><issue-id pub-id-type="pmc-issue-id">489078</issue-id><fpage>366</fpage><lpage>376</lpage><history><date date-type="received"><day>2</day><month>9</month><year>2024</year></date><date date-type="accepted"><day>4</day><month>12</month><year>2024</year></date></history><pub-history><event event-type="pmc-release"><date><day>01</day><month>06</month><year>2025</year></date></event><event event-type="pmc-live"><date><day>01</day><month>06</month><year>2025</year></date></event><event event-type="pmc-released-under-embargo"><date><day>23</day><month>05</month><year>2025</year></date></event><event event-type="pmc-last-change"><date iso-8601-date="2025-06-01 00:25:39.977"><day>01</day><month>06</month><year>2025</year></date></event></pub-history><permissions><copyright-statement>© Dustri-Verlag Dr. K. Feistle</copyright-statement><copyright-year>2025 </copyright-year><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/2.5/</ali:license_ref><license-p>This is an open-access article distributed under the terms of the Creative
+Commons Attribution License, which permits unrestricted use, distribution, and
+reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pmc-pdf" xlink:href="clinnephrol-103-366.pdf"/><abstract><p>
+<underline>Aims:</underline> The aim was to describe the epidemiology, phenotyping, and risk factors of long COVID (LC) in a well-defined cohort of kidney transplant recipients (KTRs) using a novel LC diagnostic method based on self-reported symptoms. <underline>Materials and methods:</underline> We conducted a cross-sectional study using an electronic survey to inquire about persisting symptoms following COVID-19. KTRs who survived COVID-19 up to February 8, 2023, were considered for inclusion, and 596 KTRs were enrolled. A brief 35-question screening questionnaire was used. A novel statistical approach based on the factor analysis method was used to make LC diagnosis and identify its clinical phenotypes. <underline>Results:</underline> LC was identified in 33.7% of KTRs who responded to the survey. Male sex (OR 0.69, 95% CI 0.48 – 1.0, p = 0.047), more severe COVID-19 (OR 2.48, 95% CI 1.58 – 3.92, p &lt; 0.001), higher body mass index (OR 1.04, 95% CI 1.0 – 1.08, p = 0.031), and corticosteroids (OR 2.8, 95% CI 1.23 – 7.09, p = 0.02) were independently associated with LC development. Eight LC phenotypes were identified based on symptom clustering: fatigue (32.4% of all KTRs), psychiatric (15.9%), cardiovascular (6%), ophthalmic (13.8%), cognitive (17.8%), fibromyalgia-like (11.1%), integumental (10.6%), and malnutritional (6%). The rate of LC was similar in those who had COVID-19 less/more than a year since responding to the survey. <underline>Conclusion:</underline> A novel method for determining LC diagnosis and its phenotyping was used in a large cohort of KTRs, which showed that a third of KTRs who responded to the survey developed LC after COVID-19. This method may improve diagnosis and future research of LC. </p></abstract><kwd-group><kwd>COVID-19</kwd><kwd>long COVID</kwd><kwd>kidney transplantation</kwd><kwd>phenotypes</kwd><kwd>symptoms</kwd></kwd-group><custom-meta-group><custom-meta><meta-name>pmc-status-qastatus</meta-name><meta-value>0</meta-value></custom-meta><custom-meta><meta-name>pmc-status-live</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-status-embargo</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-status-released</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-access</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-legally-suppressed</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-pdf</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-supplement</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-pdf-only</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-suppress-copyright</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-real-version</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-scanned-article</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-in-epmc</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-license-ref</meta-name><meta-value>CC BY</meta-value></custom-meta></custom-meta-group></article-meta></front><body><sec id="s1"><title>Introduction </title><p>The long-lasting complications of COVID-19 have recently been gaining increasing attention. The various clinical symptoms that affect many COVID-19 survivors are often collectively called long COVID. </p><p>Long COVID is still poorly defined owing to its variable, multisystemic manifestation, and broad and rather vague definition [<xref rid="b1" ref-type="bibr">1</xref>]. There is currently no gold standard test for long COVID, therefore the diagnosis is based mainly on self-reporting of subjective symptoms [<xref rid="b2" ref-type="bibr">2</xref>]. This leads to significant diagnostic uncertainty and risk of misdiagnosis, which complicates both patient management and enrollment of homogenous patient cohorts to clinical studies. Clearly, better and more objective methods of diagnosing long COVID are one of the currently unmet needs. </p><p>Furthermore, the pathogenesis and incidence of long COVID remain equally poorly understood. Multiple hypotheses such as persistent organ damage, post-intensive care syndrome, persistent tissue viral replication, immune dysregulation, reactivation of latent pathogens, autoimmunity or the induction of myalgic encephalomyelitis/chronic fatigue syndrome (ME/CFS) were suggested [<xref rid="b3" ref-type="bibr">3</xref>]. Concurrently, more than 200 different long COVID symptoms have been described, affecting most organs in the body [<xref rid="b2" ref-type="bibr">2</xref>, <xref rid="b4" ref-type="bibr">4</xref>, <xref rid="b5" ref-type="bibr">5</xref>]. Therefore, long COVID likely encompasses several different phenotypes or diseases, rather than being a single entity. </p><p>Kidney transplant recipients (KTRs) represent a well-suited cohort for long COVID research. KTRs are among the most vulnerable populations that share many reported risk factors of long COVID development such as frequent underlying comorbidities and impaired immune response [<xref rid="b3" ref-type="bibr">3</xref>]. It has already been suggested that the occurrence of long COVID might be higher in KTRs [<xref rid="b6" ref-type="bibr">6</xref>, <xref rid="b7" ref-type="bibr">7</xref>] than in the general population [<xref rid="b2" ref-type="bibr">2</xref>, <xref rid="b3" ref-type="bibr">3</xref>, <xref rid="b8" ref-type="bibr">8</xref>]. This makes studying long COVID in KTRs both mechanistically and clinically important. </p><p>In this single-center cross-sectional study, we evaluate long COVID symptoms in a large cohort of KTRs with the aim to describe the frequency of persistent symptoms after COVID-19 infection, risk factors of their development, and evaluate whether distinct disease phenotypes can be identified. </p></sec><sec id="s2"><title>Materials and methods </title><p>This is a cross-sectional study that aimed to explore the extent, severity, and phenotypes of long COVID among a large cohort of KTRs. The presence of long COVID was evaluated using a statistical method based on the unsupervised factor analysis performed on patient responses to the survey (see Statistics section). The primary aim was to describe the spectrum of long COVID symptoms and their prevalence in KTRs. Among the secondary aims was to identify the risk factors of long COVID development and explore and define long COVID phenotypes. This study was approved by the institutional review board under the reference number A-23-16. </p><sec id="sub-s1"><title>Patients </title><p>All KTRs followed at our center who previously survived COVID-19 were considered for inclusion. Patients’ enrollment was based on our prospectively run COVID-19 clinical database where records of all COVID-19 cases in KTRs followed at our center were gathered [<xref rid="b9" ref-type="bibr">9</xref>]. Furthermore, to ensure data completeness, the National Registry for Infectious Diseases, where all SARS-CoV-2 tests were mandatorily reported, was also searched [<xref rid="b10" ref-type="bibr">10</xref>]. </p><p>All previously SARS-CoV-2-infected KTRs who consented to electronic communication with the transplant center were asked to fill in an online questionnaire with a unique identifier which allowed us to directly connect the answers with our medical records. The questionnaires were collected between December 12, 2022, and February 8, 2023. The patients could answer the questionnaire through their computer or a mobile device (<xref rid="s9" ref-type="sec">Supplemental Figure 1</xref>). </p></sec><sec id="sub-s2"><title>Presumed virus variant </title><p>The presumed virus strain causing the COVID-19 infection was assigned to each patient. As viral RNA sequencing was performed only in a minority of cases, the assignment was based on the dominating (expected) virus variant at the time of infection. The wild-type period ranged from March 1, 2020, to January 31, 2021; the alpha period ranged from February 1, 2021, to September 30, 2021; the delta period ranged from October 1, 2021, to December 31, 2021; and the omicron variant was dominant from January 1, 2022, onwards. In the case of reinfections (83 KTRs, 13.9%), only the last infection was considered. </p></sec><sec id="sub-s3"><title>Statistics </title><p>The statistical analysis was done in R language version 4.2.2. For factor analysis, we used packages <italic toggle="yes">parameters</italic> [<xref rid="b11" ref-type="bibr">11</xref>] and <italic toggle="yes">psych</italic> [<xref rid="b12" ref-type="bibr">12</xref>]. For descriptive statistics, we used either Wilcoxon test for ordinal/continuous variables or Fisher’s exact test for categorical variables. </p></sec><sec id="sub-s4"><title>Factor analysis </title><p>Factor analysis reveals latent variables (called factors) in the data. By analyzing the coefficients of the question responses (called factor loadings), we can understand the relation between factors and question responses; larger factor loadings represent the higher strength of the relationship. When a set of question responses has high factor loadings with a specific factor, then this factor represents a category (or phenotype) of long COVID. </p><p>Factor analysis suitability was assessed using Kaiser, Meyer, Olkin measure (0.91) and Bartlett’s test (p ≤ 0.001) with Spearman correlation; both suggesting that factor analysis can be applied. Next, to determine the number of factors we used function n_factors from <italic toggle="yes">parameters</italic> package [<xref rid="b11" ref-type="bibr">11</xref>] to give us the median number of factors from voting among various methods. To ensure the robustness of the selected number of factors to randomness, the optimal number of selected factors was determined by bootstrapping (50 iterations); the number of factors that occurred most frequently among bootstrapped datasets (8 factors) was chosen as the optimal number (<xref rid="s9" ref-type="sec">Supplemental Figure 2</xref>). Eight factors were then extracted from the whole cohort of 596 patients. The total cumulative explained variance of the selected factors is 43%. The factor analysis itself was done using <italic toggle="yes">psych</italic> package (principal axes algorithm, VARIMAX rotation). We then looked at the factor loadings of responses to each question over all factors and assigned that question responses to a factor with the largest loading; question responses with absolute loading values below 0.3 were ignored. The threshold was set such that the selected questions represent a clinically interpretable factor (for a heatmap of loadings see <xref rid="s9" ref-type="sec">Supplemental Figure 3</xref>). This way, we categorized the questions into different groups, and by analyzing what these questions have in common, we assigned the groups a specific name corresponding to a long COVID phenotype (for instance, fatigue phenotype, cardiovascular phenotype, etc.). In short, all long COVID phenotypes were identified solely on the basis of factor analysis, there was no previous clinical definition. Individual phenotypes were then named according to the predominant symptoms for that phenotype. </p></sec><sec id="sub-s5"><title>Long COVID prediction </title><p>First, we computed a factor score for each patient and factor (long COVID type, i.e., fatigue, cardiovascular, etc.). Factor score is obtained by summing the answers to the selected questions within each factor. Next, we trained a multivariable logistic regression model, where the independent variables are the factor scores, and the outcome is the binary answer to the question of significant health deterioration (Question 34; <xref rid="s9" ref-type="sec">Supplemental Material 1</xref>). The whole cohort of 596 patients was used for model training. The area under the curve of the model is 91.95% (<xref rid="s9" ref-type="sec">Supplemental Figure 4</xref>). The threshold for long COVID prediction was found by maximizing the Youden’s Index along the ROC of the model (training accuracy 83.72%, sensitivity 87.86%, specificity 82.46%). Finally, the model was validated on a validation cohort with accuracy 85.56%, sensitivity 73.68%, and specificity 88.73%. The validation cohort consisted of 90 KTRs who filled in the same survey but were part of a different long COVID study, the demographics of this group are shown in <xref rid="s9" ref-type="sec">Supplemental Table 1</xref>. </p></sec><sec id="sub-s6"><title>Long COVID phenotype assignment </title><p>To determine whether a patient has a specific long COVID phenotype, we first applied the long COVID prediction model to all 596 patients to determine which patients have long COVID. For the patients with predicted long COVID, we assigned a patient to a specific long COVID phenotype if he/she responded positively to the majority of questions (&gt; 50%) representing that phenotype (1 patient can be assigned to multiple phenotypes). </p></sec><sec id="sub-s7"><title>Questionnaire </title><p>As no validated screening tool was available at the time, we developed a short questionnaire consisting of 35 questions (the full questionnaire is available in the <xref rid="s9" ref-type="sec">Supplemental Material</xref> in original with an English translation). The questions were aimed to screen the most common symptoms of long COVID, identified by a previous literature search. Patients were asked to identify any newly emerged or aggravated symptoms that occurred following their recovery from COVID-19. The questionnaire could not be submitted with any questions left unanswered. </p></sec></sec><sec id="s3"><title>Results </title><sec id="sub-s8"><title>Questionnaire return rate and sample representativeness </title><p>966 COVID-19 survivors from the start of the pandemic to the start of the survey were identified in total. From these, 88 KTRs did not consent to electronic communication. Out of 878 consenting KTRs, 630 KTRs returned the questionnaire (71.8% return rate), while 248 did not (189 did not return the questionnaire at all, while 59 had returned it late after enrollment finished and data analysis started). 34 KTRs were excluded as they had COVID-19 less than 3 months prior to the survey. Therefore, the final analysis included 596 KTRs (study flow chart is shown in <xref rid="s9" ref-type="sec">Supplemental Figure 5</xref>). Those who did not participate in the survey (for any reason) were older (median 61 vs. 56 years, p &lt; 0.001), but overall no other differences in demographics were found. Furthermore, a subgroup of those who did not participate in the survey due to previously not having signed informed consent with electronic communication were more likely to be on cyclosporin therapy compared to participants (19 vs. 7%, p &lt; 0.001). The demographics of those who did not fill out the questionnaire or did not consent to electronic communication are given in <xref rid="s9" ref-type="sec">Supplemental Table 2</xref>. </p></sec><sec id="sub-s9"><title>
+Patient demographics
+</title><p>In total, 596 patients were included in the final analysis; the demographics are given in <xref rid="Table1" ref-type="table">Table 1</xref>. 61% of analyzed patients were male, the median age was 56 years, and 20.5% experienced moderate or worse course of COVID-19, however, only 1% experienced critical illness as defined by the NIH [<xref rid="b13" ref-type="bibr">13</xref>]. The viral variant causing the initial COVID-19 infection was wild-type in 21%, alpha in 15%, delta in 13%, and omicron in 52% of cases. KTRs were vaccinated with 2 doses of vaccination prior to COVID-19 in 65% of cases, while 51% were vaccinated with three doses. Reinfections occurred in 13.9% of cases. </p></sec><sec id="sub-s10"><title>Survey results </title><p>The survey results are summarized in <xref rid="Figure1" ref-type="fig">Figure 1</xref>. The 10 most commonly reported symptoms were fatigue, exhaustion upon exertion, dyspnea on exertion, joint/muscle pain, disordered sleep, vision impairment, memory impairment/brain fog, decreased hair quality, sexual dysfunction in males or menstrual abnormalities in females of reproductive age. Furthermore, 23.5% of KTRs reported a significant worsening of health and 22% reported a significantly decreased quality of life more than 3 months after COVID-19. </p></sec><sec id="sub-s11"><title>Long COVID and its phenotyping </title><p>Next, we performed an unsupervised analysis to categorize patients into long COVID phenotypes based on symptom clustering. Clustering of symptoms that were often reported together, yielded 8 long COVID phenotypes (<xref rid="s9" ref-type="sec">Supplemental Figure 3</xref>). An overview of the individual phenotypes and the defining symptoms are displayed in <xref rid="Figure2" ref-type="fig">Figure 2</xref>. </p><p>In total, 201 KTRs (33.7%) were designated to have at least 1 long COVID phenotype. The frequencies of individual phenotypes in the cohort were as follows: (1) fatigue (n = 193, 32.4%), (2) psychiatric (n = 95, 15.9%), (3) cardiovascular (n = 36, 6%), (4) ophthalmic (n = 82, 13.8%), (5) cognitive (n = 106, 17.8%), (6) fibromyalgia-like (n = 66, 11.1%), (7) integumental (n = 63, 10.6%), and (8) malnutritional (n = 37, 6%). One patient could have been classified as having more than 1 long COVID phenotype, and indeed many patients developed several long COVID phenotypes, the overlap is depicted in <xref rid="s9" ref-type="sec">Supplemental Figure 6</xref>. Finally, we found no differences in phenotype proportions grouped by COVID-19 periods (<xref rid="s9" ref-type="sec">Supplemental Table 3</xref>), reinfection status (<xref rid="s9" ref-type="sec">Supplemental Table 4</xref>), and vaccination status (<xref rid="s9" ref-type="sec">Supplemental Table 5</xref>). </p></sec><sec id="sub-s12"><title>Risk factors of long COVID development </title><p>Next, we calculated a multivariable binary logistic regression model where the dependent variable was the presence of long COVID (i.e., having 1 or more long COVID phenotypes). The results of univariable associations are given in <xref rid="s9" ref-type="sec">Supplemental Table 6</xref>, the multivariable model is shown in <xref rid="Table2" ref-type="table">Table 2</xref>. We found that more severe course of COVID-19 (OR 2.48, 95% CI 1.58 – 3.92, p &lt; 0.001), male sex (OR 0.69, 95% CI 0.48 – 1.0, p = 0.047), higher body mass index (BMI) (OR 1.04, 95% CI 1.0 – 1.08, p = 0.031), and corticosteroid use (OR 2.8, 95% CI 1.23 – 7.09, p = 0.02) were independently associated with higher risk of long COVID development. Hospitalization was not included in multivariable analysis as it was highly colinear with symptom severity, which provides better information as hospitalizations were not always reflective of the patient’s clinical status. Furthermore, patients during the pandemic could have received specific antiviral treatment, namely monoclonal antibodies, molnupiravir, and remdesivir. Paxlovid was not used due to its interaction with tacrolimus. In our analysis, specific antiviral treatment was not associated with lower odds of developing long COVID. </p></sec><sec id="sub-s13"><title>Long COVID phenotypes demographics </title><p>When patients with and without long COVID were compared, we found that the long COVID group was older (59 vs. 55 years, p = 0.003), had more frequently moderate or worse COVID-19 (30 vs. 15%, p &lt; 0.001), lower estimated glomerular filtration rate (eGFR) before COVID-19 (46 vs. 51 mL/min/1.73m<sup>2</sup>), higher BMI (28.4 vs. 27.6 kg/m<sup>2</sup>, p = 0.016), and had higher Charlson Comorbidity Index (CCI) (4 vs. 3, p = 0.018) (<xref rid="s9" ref-type="sec">Supplemental Table 7</xref>). </p><p>We then compared demographics of individual long COVID phenotypes to patients without long COVID. Patients with most long COVID phenotypes were usually older and had survived a more serious COVID-19 infection. The integumental and psychiatric phenotypes were more common in females (59 vs. 41%, p &lt; 0.001, and 56 vs. 44%, p = 0.002, respectively). Patients who developed the cognitive, fatigue, fibromyalgia-like, and psychiatric phenotypes had higher BMI (29.5 vs. 27.6 kg/m<sup>2</sup>, p = 0.004, 28.4 vs. 27.6 kg/m<sup>2</sup>, p = 0.009, 29.6 vs. 27.6 kg/m<sup>2</sup>, p &lt; 0.001, 28.6 vs. 27.6, p = 0.035, respectively). Worse allograft function before infection (46.2 vs. 51 mL/min/1.73m<sup>2</sup>, p &lt; 0.001) was found in those who developed the fatigue phenotype. Lastly, a longer time from transplantation was found in patients with the cognitive phenotype (71 vs. 56 months, p = 0.034). For a detailed comparison of characteristics see <xref rid="s9" ref-type="sec">Supplemental Tables 8 – 15</xref>, univariable associations with a specific phenotype development are shown in <xref rid="s9" ref-type="sec">Supplemental Figures 7 – 14</xref>. Furthermore, Spearman correlations between factor scores in each phenotype and clinical factors were calculated and can be seen in <xref rid="s9" ref-type="sec">Supplemental Figure 15</xref>. </p></sec><sec id="sub-s14"><title>Changes in frequency of long COVID rate and individual responses with time from symptom onset to survey response </title><p>The change in the pattern of survey responses with time from symptom onset was analyzed. The time from the symptom onset to survey response was split into 6-month periods, a corresponding period was assigned to each KTR, and the frequency of positive answers to each question from the survey was evaluated. Overall, the frequency of positive responses did not change in time except for joint/muscle pain (p = 0.004) and decrease in appetite (p = 0.011) (<xref rid="s9" ref-type="sec">Supplemental Figure 16, Supplemental Table 16</xref>). Finally, there were no significant differences in the overall rate of long COVID nor the individual phenotypes between KTRs who experienced COVID-19 more and less than 1 year prior to taking part in the survey (<xref rid="s9" ref-type="sec">Supplemental Figure 17</xref>). </p></sec></sec><sec id="s4"><title>Discussion </title><p>In this study, we propose a new prediction model that could be used to delineate a threshold for the presence of long COVID as well as long COVID phenotyping based on symptom self-reporting. Using this model, we show that 33.7% of KTRs who survived COVID-19 and responded to the survey report persistent symptoms that can be classified into eight phenotypes using unsupervised statistical analysis. We also describe risk factors of long COVID development in KTRs among which is corticosteroid use in maintenance immunosuppression. </p><p>One of the most problematic aspects of long COVID is its definition. The WHO (World Health Organization) defines long COVID as a continuation of symptoms or a development of new ones within 3 months after the initial SARS-CoV-2 infection; the symptoms must last for at least 2 months and must have no other explanation or cause [<xref rid="b2" ref-type="bibr">2</xref>]. Therefore, the diagnosis of long COVID is based on self-reported symptoms with reasonable exclusion of other causes. No objective diagnostic criteria, specific biomarkers, or imaging methods are, however, currently available. Thus, as any patient with any symptom following COVID-19 that cannot be explained otherwise should be considered as having long COVID, such a definition of long COVID leads to misdiagnosing and overestimation of prevalence. In fact, in one study, almost 10% of COVID-19 negative controls referred at least one of the core long COVID symptoms [<xref rid="b8" ref-type="bibr">8</xref>]. This issue could be at least partly resolved by setting a symptom threshold for long COVID diagnosis. </p><p>Our study sets this threshold using criteria based on two assumptions. First, for a symptom to be considered relevant (as opposed to being just a random reply or a symptom usually not associated with long COVID), it should systematically cluster with other symptoms around an identified cluster/phenotype (for instance cardiovascular or cognitive phenotype identified in this study). Second, the symptoms in question should negatively impact the perception of one’s health. Applying these principles, our statistical model yielded a conservative estimate of long COVID prevalence in KTRs. </p><p>Long COVID is an extremely heterogeneous condition [<xref rid="b14" ref-type="bibr">14</xref>] with more than 200 possible symptoms [<xref rid="b2" ref-type="bibr">2</xref>, <xref rid="b4" ref-type="bibr">4</xref>, <xref rid="b5" ref-type="bibr">5</xref>] and variable causes [<xref rid="b3" ref-type="bibr">3</xref>]. Considering the wide spectrum of possible symptoms, the symptomatologic approach could be a viable option to better define patient subgroups for more focused research and treatment. Several studies have attempted to differentiate long COVID phenotypes, some by utilizing unsupervised methods such as cluster analysis [<xref rid="b15" ref-type="bibr">15</xref>, <xref rid="b16" ref-type="bibr">16</xref>, <xref rid="b17" ref-type="bibr">17</xref>, <xref rid="b18" ref-type="bibr">18</xref>, <xref rid="b19" ref-type="bibr">19</xref>, <xref rid="b20" ref-type="bibr">20</xref>, <xref rid="b21" ref-type="bibr">21</xref>, <xref rid="b22" ref-type="bibr">22</xref>, <xref rid="b23" ref-type="bibr">23</xref>], with varying results. Canas et al. [<xref rid="b21" ref-type="bibr">21</xref>] employed an unsupervised clustering using k-means to identify symptom profiles for vaccinated and unvaccinated individuals from the general population during different COVID-19 periods. In their study, long COVID was defined as symptoms that persisted 84 days after the initial positive test. The authors found that the optimal number of clusters changed with the period, although the cardiorespiratory, central neurological, and multi-organ systemic inflammatory clusters were present across all variants. Furthermore, no link between vaccination and lower prevalence of long COVID was found. Lastly, there was no control group in this study. In contrast, Bowyer et al. [<xref rid="b23" ref-type="bibr">23</xref>] showed only two symptom clusters. One cluster consisted of patients who had common symptoms such as headache or runny nose but in general were feeling well, while the other cluster reflected a high symptom burden. Even though their study had a negative control group, individuals in the negative control group often referred mild to moderate symptoms, which further underlines the problem of false positive cases when self-reporting long COVID symptoms. Taken together, a comparison of our and other studies shows that different statistical methods, type of data collected, and the definition of long COVID itself yield different results. This points to a need to adapt a novel unified approach to self-reporting diagnosis. </p><p>Another question is whether clinically identified phenotypes have any mechanistic or biological foundation. Liew et al. [<xref rid="b17" ref-type="bibr">17</xref>] performed blood proteomics in a large long COVID cohort and described distinct proteomic patterns in clinical long COVID phenotypes similar to those described in this study. Liew et al. [<xref rid="b17" ref-type="bibr">17</xref>] were therefore one of the first to corroborate the idea that symptom-based phenotyping has also biological or mechanistic foundations. Furthermore, another study identified C2 complement component to be associated with fatigue symptom of long COVID [<xref rid="b24" ref-type="bibr">24</xref>]. We believe that these and other studies show that this approach of symptom-based phenotyping is important to navigate future research and therapies of long COVID. </p><p>In our study, we also identified several factors associated with the development of long COVID in KTRs. Most notably, long-term corticosteroid use was associated with an increased risk of developing long COVID in KTRs. Since the majority of KTRs use corticosteroids as part of the maintenance immunosuppression therapy, this could be one of the reasons for the high rate of long COVID in this population. Additionally, corticosteroids are known to prolong viral clearance in influenza and SARS-CoV-2 [<xref rid="b25" ref-type="bibr">25</xref>]. Virus persistence was suggested as causal in long COVID development [<xref rid="b26" ref-type="bibr">26</xref>, <xref rid="b27" ref-type="bibr">27</xref>]. We note that while the effect of corticosteroids in the statistical modelling is strong, it needs to be considered with caution as 93% of all subjects of the study had corticosteroids in maintenance immunosuppression. </p><p>Some have suggested that long COVID shares similarities with ME/CFS, as around half of the patients with long COVID also meet the criteria for ME/CFS in the general population [<xref rid="b3" ref-type="bibr">3</xref>]. In our study, most KTRs who were identified as having long COVID exhibited systematic symptoms consistent with the fatigue phenotype. Surprisingly, some respiratory symptoms including dry cough and dyspnea at exertion were also clustered in this phenotype. </p><p>Importantly, we found no association between SARS-CoV-2 vaccination and risk of long COVID development or a change of its pattern. This is in line with other observations such as the study by Amorim et al. [<xref rid="b28" ref-type="bibr">28</xref>], who also found no link between vaccination and lower long COVID rates. However, it is difficult to discern the protective effects of vaccination in the population of KTRs due to many confounding factors. Furthermore, since KTRs exhibit an impaired immune response to vaccination [<xref rid="b29" ref-type="bibr">29</xref>, <xref rid="b30" ref-type="bibr">30</xref>], the protective effect is expected to be modest as even the data from the general population are inconclusive [<xref rid="b21" ref-type="bibr">21</xref>, <xref rid="b31" ref-type="bibr">31</xref>, <xref rid="b32" ref-type="bibr">32</xref>]. </p><p>The cross-sectional design and use of an unvalidated screening questionnaire are among the limitations. Although validated questionnaires exist, these are more suitable for longitudinal monitoring rather than cross-sectional screening [<xref rid="b33" ref-type="bibr">33</xref>]. The questionnaire we used is rather short by design, which is known to promote higher return rates [<xref rid="b34" ref-type="bibr">34</xref>, <xref rid="b35" ref-type="bibr">35</xref>, <xref rid="b36" ref-type="bibr">36</xref>]. Another limitation is that our approach might lead to underestimation, as some of the cases with borderline symptomatology might have been labeled by the algorithm as long COVID free. Furthermore, there were 83 patients after COVID-19 reinfection in our cohort. Even though every patient was asked to report symptoms after the last infection, reinfected patients might have not been able to decide when their symptoms began in relation to multiple COVID-19 episodes. However, the rates of long COVID were similar in those infected multiple times when compared to those who filled out the survey after being infected only once. Additionally, we do not have a cohort of KTRs who filled in the questionnaire and were not previously infected by SARS-CoV-2 nor a control group from the general population, and any study using online questionnaires can be affected by reporting bias. Lastly, KTRs can have a multitude of other symptoms and conditions that can be confounded with long COVID and even though we have attempted to take all confounders into account, some residual confounding may remain. </p><p>The strengths are that this was a large single-center cohort with the availability of granular patient data and a high survey return rate. Furthermore, SARS-CoV-2 infections were verified using a government-mandated registry of all COVID-19 cases. </p><p>In conclusion, long COVID and its organ-specific symptom-based phenotypes can be differentiated based on methods using symptom self-reporting. KTRs appear to be at an especially high risk of long COVID, and corticosteroid therapy is associated with its development. Furthermore, we propose a novel statistical framework to predict long COVID. This or a similar approach can be used to guide future research as well as to tailor possible therapeutic interventions. As transplant recipients appear especially vulnerable, the study of long COVID is important to the transplant community. </p></sec><sec id="s5"><title>Data availability statement </title><p>Data available on reasonable request from the authors. </p></sec><sec id="s6"><title>Authors’ contributions </title><p>All authors were responsible for the conceptualization of the study, participated in the acquisition of resources, and contributed to the review and editing of the final article. IZ, VP, KJ, IM, LD, and SK took part in data curation. IM, IZ, and VP were responsible for formal analysis and validated the results. OV was responsible for funding acquisition. IZ, VP, and KJ conducted the investigation. IZ, VP, IM, and OV were responsible for the methodology. OV was responsible for project administration and supervision. IM, LD, and SK were responsible for the software support. IM took part in the visualization. IZ, VP, and OV wrote the original draft. IZ and VP contributed equally to this work. </p></sec><sec id="s7"><title>Funding </title><p>Supported by the Ministry of Health of the Czech Republic grant no. NU22-C-126, its conceptual development of research organizations (Institute for Clinical and Experimental Medicine-IKEM, IN 00023001), and by the project National Institute for Research of Metabolic and Cardiovascular Diseases (Program EXCELES, Project No. LX22NPO5104) – Funded by the European Union – Next Generation EU. </p></sec><sec sec-type="COI-statement" id="s8"><title>Conflict of interest </title><p>The authors declare that they have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper. </p><p>
+<table-wrap position="float" id="Table1" orientation="portrait"><label>Table 1.</label><caption><title>Patient demographics. </title></caption><table frame="box" rules="all"><thead><tr><th rowspan="1" colspan="1">Characteristic</th><th rowspan="1" colspan="1">Overall <break/>(n = 596)</th></tr></thead><tbody><tr><td rowspan="1" colspan="1">Time between COVID-19 and response, median months (IQR)</td><td rowspan="1" colspan="1">11 (9, 22)</td></tr><tr><td rowspan="1" colspan="1">Male sex, n (%)</td><td rowspan="1" colspan="1">364 (61%)</td></tr><tr><td rowspan="1" colspan="1">Age, median (IQR)</td><td rowspan="1" colspan="1">56 (47, 67)</td></tr><tr><td colspan="2" rowspan="1">COVID-19 severity based on the NIH Clinical Spectrum of SARS-CoV-2 infection</td></tr><tr><td rowspan="1" colspan="1">   Asymptomatic – 1, n (%)</td><td rowspan="1" colspan="1">30 (5.0%)</td></tr><tr><td rowspan="1" colspan="1">   Mild illness – 2, n (%)</td><td rowspan="1" colspan="1">444 (74%)</td></tr><tr><td rowspan="1" colspan="1">   Moderate illness – 3, n (%)</td><td rowspan="1" colspan="1">109 (18%)</td></tr><tr><td rowspan="1" colspan="1">   Severe illness – 4, n (%)</td><td rowspan="1" colspan="1">7 (1.2%)</td></tr><tr><td rowspan="1" colspan="1">   Critical illness – 5, n (%)</td><td rowspan="1" colspan="1">6 (1.0%)</td></tr><tr><td rowspan="1" colspan="1">Moderate or worse COVID-19, n (%)</td><td rowspan="1" colspan="1">122 (20.5%)</td></tr><tr><td rowspan="1" colspan="1">Presumed virus variant</td><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1">   Wild-type, n (%)</td><td rowspan="1" colspan="1">124 (21%)</td></tr><tr><td rowspan="1" colspan="1">   Alpha, n (%)</td><td rowspan="1" colspan="1">87 (15%)</td></tr><tr><td rowspan="1" colspan="1">   Delta, n (%)</td><td rowspan="1" colspan="1">76 (13%)</td></tr><tr><td rowspan="1" colspan="1">   Omicron, n (%)</td><td rowspan="1" colspan="1">309 (52%)</td></tr><tr><td rowspan="1" colspan="1">Last eGFR before COVID-19 [mL/min/1.73m<sup>2</sup>], median (IQR)</td><td rowspan="1" colspan="1">48.6 (35.4, 61.8)</td></tr><tr><td rowspan="1" colspan="1">Body mass index before COVID-19, median (IQR)</td><td rowspan="1" colspan="1">28.0 (24.8, 30.9)</td></tr><tr><td rowspan="1" colspan="1">Retransplantation, n (%)</td><td rowspan="1" colspan="1">71 (12%)</td></tr><tr><td rowspan="1" colspan="1">Time between last Tx and COVID-19, median months (IQR)</td><td rowspan="1" colspan="1">58 (24, 110)</td></tr><tr><td rowspan="1" colspan="1">More than one COVID-19 infection, n (%)</td><td rowspan="1" colspan="1">83 (13.9%)</td></tr><tr><td rowspan="1" colspan="1">Vaccinated with at least 2 doses before COVID-19, n (%)</td><td rowspan="1" colspan="1">388 (65%)</td></tr><tr><td rowspan="1" colspan="1">Vaccinated with at least 3 doses before COVID-19, n (%)</td><td rowspan="1" colspan="1">305 (51%)</td></tr><tr><td rowspan="1" colspan="1">Charlson Comorbidity Score, median (IQR)</td><td rowspan="1" colspan="1">4.00 (2.00, 6.00)</td></tr><tr><td rowspan="1" colspan="1">Diabetes, n (%)</td><td rowspan="1" colspan="1">139 (23.7%)</td></tr><tr><td colspan="2" rowspan="1">Maintenance immunosuppression, n (%)</td></tr><tr><td rowspan="1" colspan="1">   Standard triple therapy (TAC + MMF/MPA + CS), n (%)</td><td rowspan="1" colspan="1">409 (69%)</td></tr><tr><td rowspan="1" colspan="1">   Tacrolimus, n (%)</td><td rowspan="1" colspan="1">525 (88%)</td></tr><tr><td rowspan="1" colspan="1">   Mycophenolate mofetil or Mycophenolic acid, n (%)</td><td rowspan="1" colspan="1">486 (82%)</td></tr><tr><td rowspan="1" colspan="1">   Corticosteroids, n (%)</td><td rowspan="1" colspan="1">555 (93%)</td></tr><tr><td rowspan="1" colspan="1">   Ciclosporin A, n (%)</td><td rowspan="1" colspan="1">42 (7%)</td></tr><tr><td rowspan="1" colspan="1">   mTOR inhibitor, n (%)</td><td rowspan="1" colspan="1">28 (4.7%)</td></tr><tr><td rowspan="1" colspan="1">History of smoking, n (%)</td><td rowspan="1" colspan="1">116 (19%)</td></tr></tbody></table><table-wrap-foot><fn><p>eGFR = estimated glomerular filtration rate; NIH = National Institutes of Health; MMF = mycophenolate mofetil; MPA = mycophenolic acid; IQR = interquartile range; TAC = tacrolimus; Tx = transplantation.</p></fn></table-wrap-foot></table-wrap>
+</p><p>
+<table-wrap position="float" id="Table2" orientation="portrait"><label>Table 2.</label><caption><title>Determinants of long COVID development in kidney transplant recipients. </title></caption><table frame="box" rules="all"><thead><tr><th rowspan="1" colspan="1"/><th colspan="3" rowspan="1">Univariable regression</th><th colspan="3" rowspan="1">Multivariable regression</th></tr></thead><tbody><tr><td rowspan="1" colspan="1">Characteristic</td><td rowspan="1" colspan="1">OR</td><td rowspan="1" colspan="1">95% CI</td><td rowspan="1" colspan="1">p-value</td><td rowspan="1" colspan="1">OR</td><td rowspan="1" colspan="1">95% CI</td><td rowspan="1" colspan="1">p-value</td></tr><tr><td rowspan="1" colspan="1">Male sex</td><td rowspan="1" colspan="1">0.73</td><td rowspan="1" colspan="1">0.52, 1.04</td><td rowspan="1" colspan="1">0.077</td><td rowspan="1" colspan="1">0.69</td><td rowspan="1" colspan="1">0.48, 1.0</td><td rowspan="1" colspan="1">0.047</td></tr><tr><td rowspan="1" colspan="1">Moderate or worse COVID-19</td><td rowspan="1" colspan="1">2.55</td><td rowspan="1" colspan="1">1.70, 3.83</td><td rowspan="1" colspan="1">&lt; 0.001</td><td rowspan="1" colspan="1">2.49</td><td rowspan="1" colspan="1">1.58, 3.93</td><td rowspan="1" colspan="1">&lt; 0.001</td></tr><tr><td rowspan="1" colspan="1">Age in years</td><td rowspan="1" colspan="1">1.02</td><td rowspan="1" colspan="1">1.01, 1.03</td><td rowspan="1" colspan="1">0.005</td><td rowspan="1" colspan="1">1.01</td><td rowspan="1" colspan="1">1.00, 1.03</td><td rowspan="1" colspan="1">0.072</td></tr><tr><td rowspan="1" colspan="1">Vaccinated with at least 2 doses before COVID-19</td><td rowspan="1" colspan="1">1.06</td><td rowspan="1" colspan="1">0.75, 1.52</td><td rowspan="1" colspan="1">0.7</td><td rowspan="1" colspan="1">1.33</td><td rowspan="1" colspan="1">0.68, 2.65</td><td rowspan="1" colspan="1">0.4</td></tr><tr><td rowspan="1" colspan="1">Body mass index before COVID-19</td><td rowspan="1" colspan="1">1.04</td><td rowspan="1" colspan="1">1.01, 1.08</td><td rowspan="1" colspan="1">0.025</td><td rowspan="1" colspan="1">1.04</td><td rowspan="1" colspan="1">1.00, 1.08</td><td rowspan="1" colspan="1">0.031</td></tr><tr><td rowspan="1" colspan="1">Diabetes mellitus</td><td rowspan="1" colspan="1">1.21</td><td rowspan="1" colspan="1">0.81, 1.79</td><td rowspan="1" colspan="1">0.3</td><td rowspan="1" colspan="1">0.92</td><td rowspan="1" colspan="1">0.58, 1.43</td><td rowspan="1" colspan="1">0.7</td></tr><tr><td rowspan="1" colspan="1">Months between COVID-19 and response</td><td rowspan="1" colspan="1">1.00</td><td rowspan="1" colspan="1">0.98, 1.03</td><td rowspan="1" colspan="1">0.7</td><td rowspan="1" colspan="1">1.00</td><td rowspan="1" colspan="1">0.96, 1.05</td><td rowspan="1" colspan="1">&gt; 0.9</td></tr><tr><td rowspan="1" colspan="1">Reinfection</td><td rowspan="1" colspan="1">0.76</td><td rowspan="1" colspan="1">0.45, 1.25</td><td rowspan="1" colspan="1">0.3</td><td rowspan="1" colspan="1">0.88</td><td rowspan="1" colspan="1">0.49, 1.55</td><td rowspan="1" colspan="1">0.7</td></tr><tr><td rowspan="1" colspan="1">Corticosteroids</td><td rowspan="1" colspan="1">2.23</td><td rowspan="1" colspan="1">1.06, 5.29</td><td rowspan="1" colspan="1">0.047</td><td rowspan="1" colspan="1">2.83</td><td rowspan="1" colspan="1">1.24, 7.16</td><td rowspan="1" colspan="1">0.019</td></tr><tr><td rowspan="1" colspan="1">MMF/MPA</td><td rowspan="1" colspan="1">0.66</td><td rowspan="1" colspan="1">0.44, 1.02</td><td rowspan="1" colspan="1">0.058</td><td rowspan="1" colspan="1">0.82</td><td rowspan="1" colspan="1">0.52, 1.31</td><td rowspan="1" colspan="1">0.4</td></tr><tr><td rowspan="1" colspan="1">Last eGFR before COVID-19 [mL/min/1.73m<sup>2</sup>]</td><td rowspan="1" colspan="1">0.57</td><td rowspan="1" colspan="1">0.32, 0.99</td><td rowspan="1" colspan="1">0.049</td><td rowspan="1" colspan="1">0.86</td><td rowspan="1" colspan="1">0.47, 1.55</td><td rowspan="1" colspan="1">0.6</td></tr><tr><td rowspan="1" colspan="1">Months between transplantation and COVID-19</td><td rowspan="1" colspan="1">1.00</td><td rowspan="1" colspan="1">1.00, 1.00</td><td rowspan="1" colspan="1">0.4</td><td rowspan="1" colspan="1">1.00</td><td rowspan="1" colspan="1">1.00, 1.00</td><td rowspan="1" colspan="1">0.5</td></tr><tr><td rowspan="1" colspan="1">Targeted COVID-19 treatment (antivirals or monoclonal antibodies)</td><td rowspan="1" colspan="1">1.06</td><td rowspan="1" colspan="1">0.75, 1.52</td><td rowspan="1" colspan="1">0.7</td><td rowspan="1" colspan="1">1.11</td><td rowspan="1" colspan="1">0.69, 1,79</td><td rowspan="1" colspan="1">0.7</td></tr></tbody></table><table-wrap-foot><fn><p>Table shows a multivariable logistic binary regression model and univariable association of selected variables. For all univariable associations see <xref rid="s9" ref-type="sec">Supplemental Table 2</xref>. CI = confidence interval; eGFR = estimated glomerular filtration rate; MMF = mycophenolate mofetil; MPA = mycophenolic acid; OR = odds ratio.</p></fn></table-wrap-foot></table-wrap>
+</p><fig position="float" id="Figure1" orientation="portrait"><label>Figure 1.</label><caption><title>Rates of self-reported long COVID symptoms in the study cohort. Most responses were on a scale: 0 = no symptoms, 1 = mild symptoms, 2 = moderate symptoms, and 3 = severe symptoms. Several yes/no questions: 0 = no, 1 = yes. Unintentional change of body weight question: –1 = decrease, +1 = increase, 0 = no change.</title></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="clinnephrol-103-366-01.jpg"/></fig><fig position="float" id="Figure2" orientation="portrait"><label>Figure 2.</label><caption><title>Schematic illustration of long COVID phenotypes. Eight long COVID phenotypes were identified by factor analysis based on clustering of patient self-reported symptoms, defining symptoms for each phenotype are shown.</title></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="clinnephrol-103-366-02.jpg"/></fig></sec><sec sec-type="supplementary-material" id="s9"><title>Supplemental material</title><supplementary-material id="SD1" position="float" content-type="local-data" orientation="portrait"><label>Supplemental material</label><caption><title>Supplemental Text, Tables, and Figures.</title></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="clinnephrol-103-366_S01.pdf" id="d67e951" position="anchor" orientation="portrait"/></supplementary-material></sec></body><back><ref-list><title>References</title><ref id="b1"><label>1</label><mixed-citation publication-type="journal" publication-format="undefined">
+<name name-style="western"><surname>Srikanth</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Boulos</surname><given-names>JR</given-names></name>
+<name name-style="western"><surname>Dover</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Boccuto</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Dean</surname><given-names>D</given-names></name>
+<article-title>Identification and diagnosis of long COVID-19: A scoping review.</article-title>
+<source>Prog Biophys Mol Biol</source>.
+<year>2023</year>;
+<volume>182</volume>:
+<fpage>1</fpage>–<lpage>7</lpage>.
+<pub-id pub-id-type="pmid">37182545</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.pbiomolbio.2023.04.008</pub-id><pub-id pub-id-type="pmcid">PMC10176974</pub-id></mixed-citation></ref><ref id="b2"><label>2</label><mixed-citation publication-type="undefined" publication-format="undefined">
+<source>WHO – Post COVID-19 condition (Long COVID).</source>
+</mixed-citation></ref><ref id="b3"><label>3</label><mixed-citation publication-type="journal" publication-format="undefined">
+<name name-style="western"><surname>Davis</surname><given-names>HE</given-names></name>
+<name name-style="western"><surname>McCorkell</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Vogel</surname><given-names>JM</given-names></name>
+<name name-style="western"><surname>Topol</surname><given-names>EJ</given-names></name>
+<article-title>Long COVID: major findings, mechanisms and recommendations.</article-title>
+<source>Nat Rev Microbiol</source>.
+<year>2023</year>;
+<volume>21</volume>:
+<fpage>133</fpage>–<lpage>146</lpage>.
+<pub-id pub-id-type="pmid">36639608</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41579-022-00846-2</pub-id><pub-id pub-id-type="pmcid">PMC9839201</pub-id></mixed-citation></ref><ref id="b4"><label>4</label><mixed-citation publication-type="journal" publication-format="undefined">
+<name name-style="western"><surname>Davis</surname><given-names>HE</given-names></name>
+<name name-style="western"><surname>Assaf</surname><given-names>GS</given-names></name>
+<name name-style="western"><surname>McCorkell</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Wei</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Low</surname><given-names>RJ</given-names></name>
+<name name-style="western"><surname>Re’em</surname><given-names>Y</given-names></name>
+<name name-style="western"><surname>Redfield</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Austin</surname><given-names>JP</given-names></name>
+<name name-style="western"><surname>Akrami</surname><given-names>A</given-names></name>
+<article-title>Characterizing long COVID in an international cohort: 7 months of symptoms and their impact.</article-title>
+<source>EClinicalMedicine</source>.
+<year>2021</year>;
+<volume>38</volume>: <fpage>101019</fpage>.
+<pub-id pub-id-type="pmid">34308300</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.eclinm.2021.101019</pub-id><pub-id pub-id-type="pmcid">PMC8280690</pub-id></mixed-citation></ref><ref id="b5"><label>5</label><mixed-citation publication-type="journal" publication-format="undefined">
+<name name-style="western"><surname>Aiyegbusi</surname><given-names>OL</given-names></name>
+<name name-style="western"><surname>Hughes</surname><given-names>SE</given-names></name>
+<name name-style="western"><surname>Turner</surname><given-names>G</given-names></name>
+<name name-style="western"><surname>Rivera</surname><given-names>SC</given-names></name>
+<name name-style="western"><surname>McMullan</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Chandan</surname><given-names>JS</given-names></name>
+<name name-style="western"><surname>Haroon</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Price</surname><given-names>G</given-names></name>
+<name name-style="western"><surname>Davies</surname><given-names>EH</given-names></name>
+<name name-style="western"><surname>Nirantharakumar</surname><given-names>K</given-names></name>
+<name name-style="western"><surname>Sapey</surname><given-names>E</given-names></name>
+<name name-style="western"><surname>Calvert</surname><given-names>MJ</given-names></name>
+<article-title>Symptoms, complications and management of long COVID: a review.</article-title>
+<source>J R Soc Med</source>.
+<year>2021</year>;
+<volume>114</volume>:
+<fpage>428</fpage>–<lpage>442</lpage>.
+<pub-id pub-id-type="pmid">34265229</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1177/01410768211032850</pub-id><pub-id pub-id-type="pmcid">PMC8450986</pub-id></mixed-citation></ref><ref id="b6"><label>6</label><mixed-citation publication-type="journal" publication-format="undefined">
+<name name-style="western"><surname>Amorim</surname><given-names>CEN</given-names></name>
+<name name-style="western"><surname>Gomes</surname><given-names>VLT</given-names></name>
+<name name-style="western"><surname>Cristelli</surname><given-names>MP</given-names></name>
+<name name-style="western"><surname>Viana</surname><given-names>LA</given-names></name>
+<name name-style="western"><surname>de Luca Correa</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Lima</surname><given-names>GBB</given-names></name>
+<name name-style="western"><surname>de Sousa Silva</surname><given-names>FS</given-names></name>
+<name name-style="western"><surname>de Castro Lima</surname><given-names>GS</given-names></name>
+<name name-style="western"><surname>Rosa</surname><given-names>TDS</given-names></name>
+<name name-style="western"><surname>Nakamura</surname><given-names>MR</given-names></name>
+<name name-style="western"><surname>Quintino</surname><given-names>PM</given-names></name>
+<name name-style="western"><surname>Tedesco-Silva</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Medina-Pestana</surname><given-names>J</given-names></name>
+<article-title>High Prevalence of Long-COVID Among Kidney Transplant Recipients: A Longitudinal Cohort Study.</article-title>
+<source>Transplantation</source>.
+<year>2022</year>;
+<volume>106</volume>:
+<fpage>2408</fpage>–<lpage>2415</lpage>.
+<pub-id pub-id-type="pmid">36228200</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1097/TP.0000000000004359</pub-id><pub-id pub-id-type="pmcid">PMC9696768</pub-id></mixed-citation></ref><ref id="b7"><label>7</label><mixed-citation publication-type="journal" publication-format="undefined">
+<name name-style="western"><surname>Alasfar</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Chiang</surname><given-names>TP-Y</given-names></name>
+<name name-style="western"><surname>Snyder</surname><given-names>AJ</given-names></name>
+<name name-style="western"><surname>Ou</surname><given-names>MT</given-names></name>
+<name name-style="western"><surname>Boyarsky</surname><given-names>BJ</given-names></name>
+<name name-style="western"><surname>Abedon</surname><given-names>AT</given-names></name>
+<name name-style="western"><surname>Alejo</surname><given-names>JL</given-names></name>
+<name name-style="western"><surname>Cook</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Cochran</surname><given-names>W</given-names></name>
+<name name-style="western"><surname>Brigham</surname><given-names>E</given-names></name>
+<name name-style="western"><surname>Parker</surname><given-names>AM</given-names></name>
+<name name-style="western"><surname>Garonzik-Wang</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Massie</surname><given-names>AB</given-names></name>
+<name name-style="western"><surname>Brennan</surname><given-names>DC</given-names></name>
+<name name-style="western"><surname>Vannorsdall</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Segev</surname><given-names>DL</given-names></name>
+<name name-style="western"><surname>Avery</surname><given-names>RK</given-names></name>
+<article-title>PASC in Solid Organ Transplant Recipients With Self-reported SARS-CoV-2 Infection.</article-title>
+<source>Transplantation</source>.
+<year>2023</year>;
+<volume>107</volume>:
+<fpage>181</fpage>–<lpage>191</lpage>.
+<pub-id pub-id-type="pmid">36117251</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1097/TP.0000000000004340</pub-id><pub-id pub-id-type="pmcid">PMC9746234</pub-id></mixed-citation></ref><ref id="b8"><label>8</label><mixed-citation publication-type="journal" publication-format="undefined">
+<name name-style="western"><surname>Ballering</surname><given-names>AV</given-names></name>
+<name name-style="western"><surname>van Zon</surname><given-names>SKR</given-names></name>
+<name name-style="western"><surname>Olde Hartman</surname><given-names>TC</given-names></name>
+<name name-style="western"><surname>Rosmalen</surname><given-names>JGM</given-names></name>
+<article-title>Persistence of somatic symptoms after COVID-19 in the Netherlands: an observational cohort study.</article-title>
+<source>Lancet</source>.
+<year>2022</year>;
+<volume>400</volume>:
+<fpage>452</fpage>–<lpage>461</lpage>.
+<pub-id pub-id-type="pmid">35934007</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/S0140-6736(22)01214-4</pub-id><pub-id pub-id-type="pmcid">PMC9352274</pub-id></mixed-citation></ref><ref id="b9"><label>9</label><mixed-citation publication-type="journal" publication-format="undefined">
+<name name-style="western"><surname>Zahradka</surname><given-names>I</given-names></name>
+<name name-style="western"><surname>Petr</surname><given-names>V</given-names></name>
+<name name-style="western"><surname>Jakubov</surname><given-names>K</given-names></name>
+<name name-style="western"><surname>Modos</surname><given-names>I</given-names></name>
+<name name-style="western"><surname>Hruby</surname><given-names>F</given-names></name>
+<name name-style="western"><surname>Viklicky</surname><given-names>O</given-names></name>
+<article-title>Early referring saved lives in kidney transplant recipients with COVID-19: a beneficial role of telemedicine.</article-title>
+<source>Front Med (Lausanne)</source>.
+<year>2023</year>;
+<volume>10</volume>: <fpage>1252822</fpage>.
+<pub-id pub-id-type="pmid">37795416</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3389/fmed.2023.1252822</pub-id><pub-id pub-id-type="pmcid">PMC10546052</pub-id></mixed-citation></ref><ref id="b10"><label>10</label><mixed-citation publication-type="journal" publication-format="undefined">
+<name name-style="western"><surname>Komenda</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Bulhart</surname><given-names>V</given-names></name>
+<name name-style="western"><surname>Karolyi</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Jarkovský</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Mužík</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Májek</surname><given-names>O</given-names></name>
+<name name-style="western"><surname>Šnajdrová</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Růžičková</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Rážová</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Prymula</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Macková</surname><given-names>B</given-names></name>
+<name name-style="western"><surname>Březovský</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Marounek</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Černý</surname><given-names>V</given-names></name>
+<name name-style="western"><surname>Dušek</surname><given-names>L</given-names></name>
+<article-title>Complex Reporting of the COVID-19 Epidemic in the Czech Republic: Use of an Interactive Web-Based App in Practice.</article-title>
+<source>J Med Internet Res</source>.
+<year>2020</year>;
+<volume>22</volume>: <fpage>e19367</fpage>.
+<pub-id pub-id-type="pmid">32412422</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.2196/19367</pub-id><pub-id pub-id-type="pmcid">PMC7254961</pub-id></mixed-citation></ref><ref id="b11"><label>11</label><mixed-citation publication-type="journal" publication-format="undefined">
+<name name-style="western"><surname>Lüdecke</surname><given-names>D</given-names></name>
+<name name-style="western"><surname>Ben-Shachar</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Patil</surname><given-names>I</given-names></name>
+<name name-style="western"><surname>Makowski</surname><given-names>D</given-names></name>
+<article-title>Extracting, Computing and Exploring the Parameters of Statistical Models using R.</article-title>
+<source>J Open Source Softw</source>.
+<year>2020</year>;
+<volume>5</volume>: <fpage>2445</fpage>.
+</mixed-citation></ref><ref id="b12"><label>12</label><mixed-citation publication-type="undefined" publication-format="undefined">
+<source>Revelle W. psych: Procedures for Psychological, Psychometric, and Personality Research.</source>
+<year>2023</year>.
+</mixed-citation></ref><ref id="b13"><label>13</label><mixed-citation publication-type="undefined" publication-format="undefined">
+<source>National Institutes of Health. Clinical Spectrum of SARS-CoV-2 Infection.</source>
+<year>2023</year>.
+</mixed-citation></ref><ref id="b14"><label>14</label><mixed-citation publication-type="journal" publication-format="undefined">
+<name name-style="western"><surname>Michelen</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Manoharan</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Elkheir</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Cheng</surname><given-names>V</given-names></name>
+<name name-style="western"><surname>Dagens</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Hastie</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>O’Hara</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Suett</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Dahmash</surname><given-names>D</given-names></name>
+<name name-style="western"><surname>Bugaeva</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Rigby</surname><given-names>I</given-names></name>
+<name name-style="western"><surname>Munblit</surname><given-names>D</given-names></name>
+<name name-style="western"><surname>Harriss</surname><given-names>E</given-names></name>
+<name name-style="western"><surname>Burls</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Foote</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Scott</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Carson</surname><given-names>G</given-names></name>
+<name name-style="western"><surname>Olliaro</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Sigfrid</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Stavropoulou</surname><given-names>C</given-names></name>
+<article-title>Characterising long COVID: a living systematic review.</article-title>
+<source>BMJ Glob Health</source>.
+<year>2021</year>;
+<volume>6</volume>: <fpage>e005427</fpage>.
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1136/bmjgh-2021-005427</pub-id><pub-id pub-id-type="pmcid">PMC8478580</pub-id><pub-id pub-id-type="pmid">34580069</pub-id></mixed-citation></ref><ref id="b15"><label>15</label><mixed-citation publication-type="journal" publication-format="undefined">
+<name name-style="western"><surname>Kenny</surname><given-names>G</given-names></name>
+<name name-style="western"><surname>McCann</surname><given-names>K</given-names></name>
+<name name-style="western"><surname>O’Brien</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Savinelli</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Tinago</surname><given-names>W</given-names></name>
+<name name-style="western"><surname>Yousif</surname><given-names>O</given-names></name>
+<name name-style="western"><surname>Lambert</surname><given-names>JS</given-names></name>
+<name name-style="western"><surname>O’Broin</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Feeney</surname><given-names>ER</given-names></name>
+<name name-style="western"><surname>De Barra</surname><given-names>E</given-names></name>
+<name name-style="western"><surname>Doran</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Mallon</surname><given-names>PWG</given-names></name>
+<name name-style="western"><surname>Cotter</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Muldoon</surname><given-names>E</given-names></name>
+<name name-style="western"><surname>Sheehan</surname><given-names>G</given-names></name>
+<name name-style="western"><surname>McGinty</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Lambert</surname><given-names>JS</given-names></name>
+<name name-style="western"><surname>Green</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Leamy</surname><given-names>K</given-names></name>
+<name name-style="western"><surname>Kenny</surname><given-names>G</given-names></name>
+<article-title>Identification of Distinct Long COVID Clinical Phenotypes Through Cluster Analysis of Self-Reported Symptoms.</article-title>
+<source>Open Forum Infect Dis</source>.
+<year>2022</year>;
+<volume>9</volume>: <fpage>ofac060</fpage>.
+<pub-id pub-id-type="pmid">35265728</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/ofid/ofac060</pub-id><pub-id pub-id-type="pmcid">PMC8900926</pub-id></mixed-citation></ref><ref id="b16"><label>16</label><mixed-citation publication-type="journal" publication-format="undefined">
+<name name-style="western"><surname>Gottlieb</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Spatz</surname><given-names>ES</given-names></name>
+<name name-style="western"><surname>Yu</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Wisk</surname><given-names>LE</given-names></name>
+<name name-style="western"><surname>Elmore</surname><given-names>JG</given-names></name>
+<name name-style="western"><surname>Gentile</surname><given-names>NL</given-names></name>
+<name name-style="western"><surname>Hill</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Huebinger</surname><given-names>RM</given-names></name>
+<name name-style="western"><surname>Idris</surname><given-names>AH</given-names></name>
+<name name-style="western"><surname>Kean</surname><given-names>ER</given-names></name>
+<name name-style="western"><surname>Koo</surname><given-names>K</given-names></name>
+<name name-style="western"><surname>Li</surname><given-names>S-X</given-names></name>
+<name name-style="western"><surname>McDonald</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Montoy</surname><given-names>JCC</given-names></name>
+<name name-style="western"><surname>Nichol</surname><given-names>G</given-names></name>
+<name name-style="western"><surname>O’Laughlin</surname><given-names>KN</given-names></name>
+<name name-style="western"><surname>Plumb</surname><given-names>ID</given-names></name>
+<name name-style="western"><surname>Rising</surname><given-names>KL</given-names></name>
+<name name-style="western"><surname>Santangelo</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Saydah</surname><given-names>S</given-names></name>
+<article-title>Long COVID Clinical Phenotypes up to 6 Months After Infection Identified by Latent Class Analysis of Self-Reported Symptoms.</article-title>
+<source>Open Forum Infect Dis</source>.
+<year>2023</year>;
+<volume>10</volume>: <fpage>ofad277</fpage>.
+<pub-id pub-id-type="pmid">37426952</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/ofid/ofad277</pub-id><pub-id pub-id-type="pmcid">PMC10327879</pub-id></mixed-citation></ref><ref id="b17"><label>17</label><mixed-citation publication-type="journal" publication-format="undefined">
+<name name-style="western"><surname>Liew</surname><given-names>F</given-names></name>
+<name name-style="western"><surname>Efstathiou</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Fontanella</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Richardson</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Saunders</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Swieboda</surname><given-names>D</given-names></name>
+<name name-style="western"><surname>Sidhu</surname><given-names>JK</given-names></name>
+<name name-style="western"><surname>Ascough</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Moore</surname><given-names>SC</given-names></name>
+<name name-style="western"><surname>Mohamed</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Nunag</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>King</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Leavy</surname><given-names>OC</given-names></name>
+<name name-style="western"><surname>Elneima</surname><given-names>O</given-names></name>
+<name name-style="western"><surname>McAuley</surname><given-names>HJC</given-names></name>
+<name name-style="western"><surname>Shikotra</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Singapuri</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Sereno</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Harris</surname><given-names>VC</given-names></name>
+<name name-style="western"><surname>Houchen-Wolloff</surname><given-names>L</given-names></name>
+<article-title>ILarge-scale phenotyping of patients with long COVID post-hospitalization reveals mechanistic subtypes of disease.</article-title>
+<source>Nature Immunology</source>.
+<year>2024</year>;
+<volume>25</volume>:
+<fpage>607-</fpage>–<lpage>621</lpage>.
+<pub-id pub-id-type="pmid">38589621</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41590-024-01778-0</pub-id><pub-id pub-id-type="pmcid">PMC11003868</pub-id></mixed-citation></ref><ref id="b18"><label>18</label><mixed-citation publication-type="journal" publication-format="undefined">
+<name name-style="western"><surname>Zhang</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Zang</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Xu</surname><given-names>Z</given-names></name>
+<name name-style="western"><surname>Zhang</surname><given-names>Y</given-names></name>
+<name name-style="western"><surname>Xu</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Bian</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Morozyuk</surname><given-names>D</given-names></name>
+<name name-style="western"><surname>Khullar</surname><given-names>D</given-names></name>
+<name name-style="western"><surname>Zhang</surname><given-names>Y</given-names></name>
+<name name-style="western"><surname>Nordvig</surname><given-names>AS</given-names></name>
+<name name-style="western"><surname>Schenck</surname><given-names>EJ</given-names></name>
+<name name-style="western"><surname>Shenkman</surname><given-names>EA</given-names></name>
+<name name-style="western"><surname>Rothman</surname><given-names>RL</given-names></name>
+<name name-style="western"><surname>Block</surname><given-names>JP</given-names></name>
+<name name-style="western"><surname>Lyman</surname><given-names>K</given-names></name>
+<name name-style="western"><surname>Weiner</surname><given-names>MG</given-names></name>
+<name name-style="western"><surname>Carton</surname><given-names>TW</given-names></name>
+<name name-style="western"><surname>Wang</surname><given-names>F</given-names></name>
+<name name-style="western"><surname>Kaushal</surname><given-names>R</given-names></name>
+<article-title>Data-driven identification of post-acute SARS-CoV-2 infection subphenotypes.</article-title>
+<source>Nat Med</source>.
+<year>2023</year>;
+<volume>29</volume>:
+<fpage>226</fpage>–<lpage>235</lpage>.
+<pub-id pub-id-type="pmid">36456834</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41591-022-02116-3</pub-id><pub-id pub-id-type="pmcid">PMC9873564</pub-id></mixed-citation></ref><ref id="b19"><label>19</label><mixed-citation publication-type="journal" publication-format="undefined">
+<name name-style="western"><surname>Kisiel</surname><given-names>MA</given-names></name>
+<name name-style="western"><surname>Lee</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Malmquist</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Rykatkin</surname><given-names>O</given-names></name>
+<name name-style="western"><surname>Holgert</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Janols</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Janson</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Zhou</surname><given-names>X</given-names></name>
+<article-title>Clustering Analysis Identified Three Long COVID Phenotypes and Their Association with General Health Status and Working Ability.</article-title>
+<source>J Clin Med</source>.
+<year>2023</year>;
+<volume>12</volume>: <fpage>3617</fpage>.
+<pub-id pub-id-type="pmid">37297812</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3390/jcm12113617</pub-id><pub-id pub-id-type="pmcid">PMC10253616</pub-id></mixed-citation></ref><ref id="b20"><label>20</label><mixed-citation publication-type="journal" publication-format="undefined">
+<name name-style="western"><surname>Frontera</surname><given-names>JA</given-names></name>
+<name name-style="western"><surname>Thorpe</surname><given-names>LE</given-names></name>
+<name name-style="western"><surname>Simon</surname><given-names>NM</given-names></name>
+<name name-style="western"><surname>De Havenon</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Yaghi</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Sabadia</surname><given-names>SB</given-names></name>
+<name name-style="western"><surname>Yang</surname><given-names>D</given-names></name>
+<name name-style="western"><surname>Lewis</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Melmed</surname><given-names>K</given-names></name>
+<name name-style="western"><surname>Balcer</surname><given-names>LJ</given-names></name>
+<name name-style="western"><surname>Wisniewski</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Galetta</surname><given-names>SL</given-names></name>
+<article-title>Post-acute sequelae of COVID-19 symptom phenotypes and therapeutic strategies: A prospective, observational study.</article-title>
+<source>PLoS One</source>.
+<year>2022</year>;
+<volume>17</volume>: <fpage>e0275274</fpage>.
+<pub-id pub-id-type="pmid">36174032</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1371/journal.pone.0275274</pub-id><pub-id pub-id-type="pmcid">PMC9521913</pub-id></mixed-citation></ref><ref id="b21"><label>21</label><mixed-citation publication-type="journal" publication-format="undefined">
+<name name-style="western"><surname>Canas</surname><given-names>LS</given-names></name>
+<name name-style="western"><surname>Molteni</surname><given-names>E</given-names></name>
+<name name-style="western"><surname>Deng</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Sudre</surname><given-names>CH</given-names></name>
+<name name-style="western"><surname>Murray</surname><given-names>B</given-names></name>
+<name name-style="western"><surname>Kerfoot</surname><given-names>E</given-names></name>
+<name name-style="western"><surname>Antonelli</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Rjoob</surname><given-names>K</given-names></name>
+<name name-style="western"><surname>Capdevila Pujol</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Polidori</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>May</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Österdahl</surname><given-names>MF</given-names></name>
+<name name-style="western"><surname>Whiston</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Cheetham</surname><given-names>NJ</given-names></name>
+<name name-style="western"><surname>Bowyer</surname><given-names>V</given-names></name>
+<name name-style="western"><surname>Spector</surname><given-names>TD</given-names></name>
+<name name-style="western"><surname>Hammers</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Duncan</surname><given-names>EL</given-names></name>
+<name name-style="western"><surname>Ourselin</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Steves</surname><given-names>CJ</given-names></name>
+<article-title>Profiling post-COVID-19 condition across different variants of SARS-CoV-2: a prospective longitudinal study in unvaccinated wild-type, unvaccinated alpha-variant, and vaccinated delta-variant populations.</article-title>
+<source>Lancet Digit Health</source>.
+<year>2023</year>;
+<volume>5</volume>:
+<fpage>e421</fpage>–<lpage>e434</lpage>.
+<pub-id pub-id-type="pmid">37202336</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/S2589-7500(23)00056-0</pub-id><pub-id pub-id-type="pmcid">PMC10187990</pub-id></mixed-citation></ref><ref id="b22"><label>22</label><mixed-citation publication-type="journal" publication-format="undefined">
+<name name-style="western"><surname>Al-Aly</surname><given-names>Z</given-names></name>
+<name name-style="western"><surname>Xie</surname><given-names>Y</given-names></name>
+<name name-style="western"><surname>Bowe</surname><given-names>B</given-names></name>
+<article-title>High-dimensional characterization of post-acute sequelae of COVID-19.</article-title>
+<source>Nature</source>.
+<year>2021</year>;
+<volume>594</volume>:
+<fpage>259</fpage>–<lpage>264</lpage>.
+<pub-id pub-id-type="pmid">33887749</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41586-021-03553-9</pub-id></mixed-citation></ref><ref id="b23"><label>23</label><mixed-citation publication-type="journal" publication-format="undefined">
+<name name-style="western"><surname>Bowyer</surname><given-names>RCE</given-names></name>
+<name name-style="western"><surname>Huggins</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Toms</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Shaw</surname><given-names>RJ</given-names></name>
+<name name-style="western"><surname>Hou</surname><given-names>B</given-names></name>
+<name name-style="western"><surname>Thompson</surname><given-names>EJ</given-names></name>
+<name name-style="western"><surname>Kwong</surname><given-names>ASF</given-names></name>
+<name name-style="western"><surname>Williams</surname><given-names>DM</given-names></name>
+<name name-style="western"><surname>Kibble</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Ploubidis</surname><given-names>GB</given-names></name>
+<name name-style="western"><surname>Timpson</surname><given-names>NJ</given-names></name>
+<name name-style="western"><surname>Sterne</surname><given-names>JAC</given-names></name>
+<name name-style="western"><surname>Chaturvedi</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Steves</surname><given-names>CJ</given-names></name>
+<name name-style="western"><surname>Tilling</surname><given-names>K</given-names></name>
+<name name-style="western"><surname>Silverwood</surname><given-names>RJ</given-names></name>
+<article-title>Characterising patterns of COVID-19 and long COVID symptoms: evidence from nine UK longitudinal studies.</article-title>
+<source>Eur J Epidemiol</source>.
+<year>2023</year>;
+<volume>38</volume>:
+<fpage>199</fpage>–<lpage>210</lpage>.
+<pub-id pub-id-type="pmid">36680646</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s10654-022-00962-6</pub-id><pub-id pub-id-type="pmcid">PMC9860244</pub-id></mixed-citation></ref><ref id="b24"><label>24</label><mixed-citation publication-type="journal" publication-format="undefined">
+<name name-style="western"><surname>Cervia-Hasler</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Brüningk</surname><given-names>SC</given-names></name>
+<name name-style="western"><surname>Hoch</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Fan</surname><given-names>B</given-names></name>
+<name name-style="western"><surname>Muzio</surname><given-names>G</given-names></name>
+<name name-style="western"><surname>Thompson</surname><given-names>RC</given-names></name>
+<name name-style="western"><surname>Ceglarek</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Meledin</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Westermann</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Emmenegger</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Taeschler</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Zurbuchen</surname><given-names>Y</given-names></name>
+<name name-style="western"><surname>Pons</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Menges</surname><given-names>D</given-names></name>
+<name name-style="western"><surname>Ballouz</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Cervia-Hasler</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Adamo</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Merad</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Charney</surname><given-names>AW</given-names></name>
+<name name-style="western"><surname>Puhan</surname><given-names>M</given-names></name>
+<article-title>Persistent complement dysregulation with signs of thromboinflammation in active Long Covid.</article-title>
+<source>Science</source>.
+<year>2024</year>;
+<volume>383</volume>: <fpage>eadg7942</fpage>.
+<pub-id pub-id-type="pmid">38236961</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1126/science.adg7942</pub-id></mixed-citation></ref><ref id="b25"><label>25</label><mixed-citation publication-type="journal" publication-format="undefined">
+<name name-style="western"><surname>Lee</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Chan</surname><given-names>PKS</given-names></name>
+<name name-style="western"><surname>Hui</surname><given-names>DSC</given-names></name>
+<name name-style="western"><surname>Rainer</surname><given-names>TH</given-names></name>
+<name name-style="western"><surname>Wong</surname><given-names>E</given-names></name>
+<name name-style="western"><surname>Choi</surname><given-names>KW</given-names></name>
+<name name-style="western"><surname>Lui</surname><given-names>GCY</given-names></name>
+<name name-style="western"><surname>Wong</surname><given-names>BCK</given-names></name>
+<name name-style="western"><surname>Wong</surname><given-names>RYK</given-names></name>
+<name name-style="western"><surname>Lam</surname><given-names>WY</given-names></name>
+<name name-style="western"><surname>Chu</surname><given-names>IMT</given-names></name>
+<name name-style="western"><surname>Lai</surname><given-names>RWM</given-names></name>
+<name name-style="western"><surname>Cockram</surname><given-names>CS</given-names></name>
+<name name-style="western"><surname>Sung</surname><given-names>JJ</given-names></name>
+<article-title>Viral loads and duration of viral shedding in adult patients hospitalized with influenza.</article-title>
+<source>J Infect Dis</source>.
+<year>2009</year>;
+<volume>200</volume>:
+<fpage>492</fpage>–<lpage>500</lpage>.
+<pub-id pub-id-type="pmid">19591575</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1086/600383</pub-id><pub-id pub-id-type="pmcid">PMC7110250</pub-id></mixed-citation></ref><ref id="b26"><label>26</label><mixed-citation publication-type="journal" publication-format="undefined">
+<name name-style="western"><surname>Li</surname><given-names>Q</given-names></name>
+<name name-style="western"><surname>Li</surname><given-names>W</given-names></name>
+<name name-style="western"><surname>Jin</surname><given-names>Y</given-names></name>
+<name name-style="western"><surname>Xu</surname><given-names>W</given-names></name>
+<name name-style="western"><surname>Huang</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Li</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Huang</surname><given-names>Y</given-names></name>
+<name name-style="western"><surname>Fu</surname><given-names>Q</given-names></name>
+<name name-style="western"><surname>Chen</surname><given-names>L</given-names></name>
+<article-title>Efficacy Evaluation of Early, Low-Dose, Short-Term Corticosteroids in Adults Hospitalized with Non-Severe COVID-19 Pneumonia: A Retrospective Cohort Study.</article-title>
+<source>Infect Dis Ther</source>.
+<year>2020</year>;
+<volume>9</volume>:
+<fpage>823</fpage>–<lpage>836</lpage>.
+<pub-id pub-id-type="pmid">32880102</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s40121-020-00332-3</pub-id><pub-id pub-id-type="pmcid">PMC7467137</pub-id></mixed-citation></ref><ref id="b27"><label>27</label><mixed-citation publication-type="journal" publication-format="undefined">
+<name name-style="western"><surname>Cogliati Dezza</surname><given-names>F</given-names></name>
+<name name-style="western"><surname>Oliva</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Cancelli</surname><given-names>F</given-names></name>
+<name name-style="western"><surname>Savelloni</surname><given-names>G</given-names></name>
+<name name-style="western"><surname>Valeri</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Mauro</surname><given-names>V</given-names></name>
+<name name-style="western"><surname>Calabretto</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Russo</surname><given-names>G</given-names></name>
+<name name-style="western"><surname>Venditti</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Turriziani</surname><given-names>O</given-names></name>
+<name name-style="western"><surname>Mastroianni</surname><given-names>CM</given-names></name>
+<article-title>Determinants of prolonged viral RNA shedding in hospitalized patients with SARS-CoV-2 infection.</article-title>
+<source>Diagn Microbiol Infect Dis</source>.
+<year>2021</year>;
+<volume>100</volume>: <fpage>115347</fpage>.
+<pub-id pub-id-type="pmid">33639375</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.diagmicrobio.2021.115347</pub-id><pub-id pub-id-type="pmcid">PMC7879029</pub-id></mixed-citation></ref><ref id="b28"><label>28</label><mixed-citation publication-type="journal" publication-format="undefined">
+<name name-style="western"><surname>Amorim</surname><given-names>CEN</given-names></name>
+<name name-style="western"><surname>Cazetta</surname><given-names>GS</given-names></name>
+<name name-style="western"><surname>Cristelli</surname><given-names>MP</given-names></name>
+<name name-style="western"><surname>Requião-Moura</surname><given-names>LR</given-names></name>
+<name name-style="western"><surname>da Silva</surname><given-names>ER</given-names></name>
+<name name-style="western"><surname>Pinheiro Vale</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Brito</surname><given-names>MMP</given-names></name>
+<name name-style="western"><surname>Bronzo</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Nakamura</surname><given-names>MR</given-names></name>
+<name name-style="western"><surname>Tedesco-Silva</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Medina-Pestana</surname><given-names>J</given-names></name>
+<article-title>Long COVID Among Kidney Transplant Recipients Appears to Be Attenuated During the Omicron Predominance.</article-title>
+<source>Transplantation</source>.
+<year>2024</year>;
+<volume>108</volume>:
+<fpage>963</fpage>–<lpage>969</lpage>.
+<pub-id pub-id-type="pmid">37953468</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1097/TP.0000000000004858</pub-id></mixed-citation></ref><ref id="b29"><label>29</label><mixed-citation publication-type="journal" publication-format="undefined">
+<name name-style="western"><surname>Magicova</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Zahradka</surname><given-names>I</given-names></name>
+<name name-style="western"><surname>Fialova</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Neskudla</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Gurka</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Modos</surname><given-names>I</given-names></name>
+<name name-style="western"><surname>Hojny</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Raska</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Smejkal</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Striz</surname><given-names>I</given-names></name>
+<name name-style="western"><surname>Viklicky</surname><given-names>O</given-names></name>
+<article-title>Determinants of Immune Response to Anti-SARS-CoV-2 mRNA Vaccines in Kidney Transplant Recipients: A Prospective Cohort Study.</article-title>
+<source>Transplantation</source>.
+<year>2022</year>;
+<volume>106</volume>:
+<fpage>842</fpage>–<lpage>852</lpage>.
+<pub-id pub-id-type="pmid">34999659</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1097/TP.0000000000004044</pub-id><pub-id pub-id-type="pmcid">PMC8942601</pub-id></mixed-citation></ref><ref id="b30"><label>30</label><mixed-citation publication-type="journal" publication-format="undefined">
+<name name-style="western"><surname>Zahradka</surname><given-names>I</given-names></name>
+<name name-style="western"><surname>Petr</surname><given-names>V</given-names></name>
+<name name-style="western"><surname>Modos</surname><given-names>I</given-names></name>
+<name name-style="western"><surname>Magicova</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Dusek</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Viklicky</surname><given-names>O</given-names></name>
+<article-title>Association Between SARS-CoV-2 Messenger RNA Vaccines and Lower Infection Rates in Kidney Transplant Recipients: A Registry-Based Report.</article-title>
+<source>Ann Intern Med</source>.
+<year>2022</year>;
+<volume>175</volume>:
+<fpage>961</fpage>–<lpage>968</lpage>.
+<pub-id pub-id-type="pmid">35500256</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.7326/M21-2973</pub-id><pub-id pub-id-type="pmcid">PMC9083501</pub-id></mixed-citation></ref><ref id="b31"><label>31</label><mixed-citation publication-type="journal" publication-format="undefined">
+<name name-style="western"><surname>Antonelli</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Penfold</surname><given-names>RS</given-names></name>
+<name name-style="western"><surname>Merino</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Sudre</surname><given-names>CH</given-names></name>
+<name name-style="western"><surname>Molteni</surname><given-names>E</given-names></name>
+<name name-style="western"><surname>Berry</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Canas</surname><given-names>LS</given-names></name>
+<name name-style="western"><surname>Graham</surname><given-names>MS</given-names></name>
+<name name-style="western"><surname>Klaser</surname><given-names>K</given-names></name>
+<name name-style="western"><surname>Modat</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Murray</surname><given-names>B</given-names></name>
+<name name-style="western"><surname>Kerfoot</surname><given-names>E</given-names></name>
+<name name-style="western"><surname>Chen</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Deng</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Österdahl</surname><given-names>MF</given-names></name>
+<name name-style="western"><surname>Cheetham</surname><given-names>NJ</given-names></name>
+<name name-style="western"><surname>Drew</surname><given-names>DA</given-names></name>
+<name name-style="western"><surname>Nguyen</surname><given-names>LH</given-names></name>
+<name name-style="western"><surname>Pujol</surname><given-names>JC</given-names></name>
+<name name-style="western"><surname>Hu</surname><given-names>C</given-names></name>
+<article-title>Risk factors and disease profile of post-vaccination SARS-CoV-2 infection in UK users of the COVID Symptom Study app: a prospective, community-based, nested, case-control study.</article-title>
+<source>Lancet Infect Dis</source>.
+<year>2022</year>;
+<volume>22</volume>:
+<fpage>43</fpage>–<lpage>55</lpage>.
+<pub-id pub-id-type="pmid">34480857</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/S1473-3099(21)00460-6</pub-id><pub-id pub-id-type="pmcid">PMC8409907</pub-id></mixed-citation></ref><ref id="b32"><label>32</label><mixed-citation publication-type="journal" publication-format="undefined">
+<name name-style="western"><surname>Venkatesan</surname><given-names>P</given-names></name>
+<article-title>Do vaccines protect from long COVID?</article-title>
+<source>Lancet Respir Med</source>.
+<year>2022</year>;
+<volume>10</volume>: <fpage>e30</fpage>.
+<pub-id pub-id-type="pmid">35065716</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/S2213-2600(22)00020-0</pub-id><pub-id pub-id-type="pmcid">PMC8776281</pub-id></mixed-citation></ref><ref id="b33"><label>33</label><mixed-citation publication-type="journal" publication-format="undefined">
+<name name-style="western"><surname>Hughes</surname><given-names>SE</given-names></name>
+<name name-style="western"><surname>Haroon</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Subramanian</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>McMullan</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Aiyegbusi</surname><given-names>OL</given-names></name>
+<name name-style="western"><surname>Turner</surname><given-names>GM</given-names></name>
+<name name-style="western"><surname>Jackson</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Davies</surname><given-names>EH</given-names></name>
+<name name-style="western"><surname>Frost</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>McNamara</surname><given-names>G</given-names></name>
+<name name-style="western"><surname>Price</surname><given-names>G</given-names></name>
+<name name-style="western"><surname>Matthews</surname><given-names>K</given-names></name>
+<name name-style="western"><surname>Camaradou</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Ormerod</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Walker</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Calvert</surname><given-names>MJ</given-names></name>
+<article-title>Development and validation of the symptom burden questionnaire for long covid (SBQ-LC): Rasch analysis.</article-title>
+<source>BMJ</source>.
+<year>2022</year>;
+<volume>377</volume>: <fpage>e070230</fpage>.
+<pub-id pub-id-type="pmid">35477524</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1136/bmj-2022-070230</pub-id><pub-id pub-id-type="pmcid">PMC9043395</pub-id></mixed-citation></ref><ref id="b34"><label>34</label><mixed-citation publication-type="journal" publication-format="undefined">
+<name name-style="western"><surname>Sahlqvist</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Song</surname><given-names>Y</given-names></name>
+<name name-style="western"><surname>Bull</surname><given-names>F</given-names></name>
+<name name-style="western"><surname>Adams</surname><given-names>E</given-names></name>
+<name name-style="western"><surname>Preston</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Ogilvie</surname><given-names>D</given-names></name>
+<article-title>Effect of questionnaire length, personalisation and reminder type on response rate to a complex postal survey: randomised controlled trial.</article-title>
+<source>BMC Med Res Methodol</source>.
+<year>2011</year>;
+<volume>11</volume>: <fpage>62</fpage>.
+<pub-id pub-id-type="pmid">21548947</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1186/1471-2288-11-62</pub-id><pub-id pub-id-type="pmcid">PMC3110121</pub-id></mixed-citation></ref><ref id="b35"><label>35</label><mixed-citation publication-type="journal" publication-format="undefined">
+<name name-style="western"><surname>Kost</surname><given-names>RG</given-names></name>
+<name name-style="western"><surname>de Rosa</surname><given-names>JC</given-names></name>
+<article-title>Impact of survey length and compensation on validity, reliability, and sample characteristics for Ultrashort-, Short-, and Long-Research Participant Perception Surveys.</article-title>
+<source>J Clin Transl Sci</source>.
+<year>2018</year>;
+<volume>2</volume>:
+<fpage>31</fpage>–<lpage>37</lpage>.
+<pub-id pub-id-type="pmid">30393572</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1017/cts.2018.18</pub-id><pub-id pub-id-type="pmcid">PMC6208327</pub-id></mixed-citation></ref><ref id="b36"><label>36</label><mixed-citation publication-type="journal" publication-format="undefined">
+<name name-style="western"><surname>Sharma</surname><given-names>H</given-names></name>
+<article-title>How short or long should be a questionnaire for any research? Researchers dilemma in deciding the appropriate questionnaire length.</article-title>
+<source>Saudi J Anaesth</source>.
+<year>2022</year>;
+<volume>16</volume>:
+<fpage>65</fpage>–<lpage>68</lpage>.
+<pub-id pub-id-type="pmid">35261591</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.4103/sja.sja_163_21</pub-id><pub-id pub-id-type="pmcid">PMC8846243</pub-id></mixed-citation></ref></ref-list></back></article></pmc-articleset>

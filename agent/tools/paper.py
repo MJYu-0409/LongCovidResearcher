@@ -12,7 +12,7 @@ import logging
 
 from langchain_core.tools import tool
 
-from data_pipeline.storage.postgres.db import fetch_paper_by_pmcid
+from storage.postgres.papers import fetch_paper_by_pmcid
 
 logger = logging.getLogger(__name__)
 

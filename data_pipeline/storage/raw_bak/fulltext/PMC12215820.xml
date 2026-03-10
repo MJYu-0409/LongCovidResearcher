@@ -1,0 +1,584 @@
+<?xml version="1.0"  ?><!DOCTYPE pmc-articleset PUBLIC "-//NLM//DTD ARTICLE SET 2.0//EN" "https://dtd.nlm.nih.gov/ncbi/pmc/articleset/nlm-articleset-2.0.dtd"><pmc-articleset><article id="hex70336" xml:lang="en" article-type="research-article" dtd-version="1.4"><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">Health Expect</journal-id><journal-id journal-id-type="iso-abbrev">Health Expect</journal-id><journal-id journal-id-type="pmc-domain-id">2997</journal-id><journal-id journal-id-type="pmc-domain">hex</journal-id><journal-id journal-id-type="publisher-id">HEX</journal-id><journal-title-group><journal-title>Health Expectations : An International Journal of Public Participation in Health Care and Health Policy</journal-title></journal-title-group><issn pub-type="ppub">1369-6513</issn><issn pub-type="epub">1369-7625</issn><publisher><publisher-name>Wiley</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC12215820</article-id><article-id pub-id-type="pmcid-ver">PMC12215820.1</article-id><article-id pub-id-type="pmcaid">12215820</article-id><article-id pub-id-type="pmcaiid">12215820</article-id><article-id pub-id-type="pmid">40600494</article-id><article-id pub-id-type="doi">10.1111/hex.70336</article-id><article-id pub-id-type="publisher-id">HEX70336</article-id><article-version article-version-type="pmc-version">1</article-version><article-categories><subj-group subj-group-type="overline"><subject>Original Article</subject></subj-group><subj-group subj-group-type="heading"><subject>Original Article</subject></subj-group></article-categories><title-group><article-title>Addressing Inequalities in Long Covid Healthcare: A Mixed‐Methods Study on Building Inclusive Services</article-title></title-group><contrib-group><contrib id="hex70336-cr-0001" contrib-type="author" corresp="yes"><name name-style="western"><surname>Mir</surname><given-names initials="G">Ghazala</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-5277-6885</contrib-id><xref rid="hex70336-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><address><email>g.mir@leeds.ac.uk</email></address></contrib><contrib id="hex70336-cr-0002" contrib-type="author"><name name-style="western"><surname>Mullard</surname><given-names initials="J">Jordan</given-names></name><xref rid="hex70336-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib id="hex70336-cr-0003" contrib-type="author"><name name-style="western"><surname>Parkin</surname><given-names initials="A">Amy</given-names></name><xref rid="hex70336-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref><xref rid="hex70336-aff-0004" ref-type="aff">
+<sup>4</sup>
+</xref></contrib><contrib id="hex70336-cr-0004" contrib-type="author"><name name-style="western"><surname>Lee</surname><given-names initials="C">Cassie</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0009-0004-9449-0932</contrib-id><xref rid="hex70336-aff-0005" ref-type="aff">
+<sup>5</sup>
+</xref></contrib><contrib id="hex70336-cr-0005" contrib-type="author"><name name-style="western"><surname>Clarke</surname><given-names initials="J">Jonathan</given-names></name><xref rid="hex70336-aff-0006" ref-type="aff">
+<sup>6</sup>
+</xref></contrib><contrib id="hex70336-cr-0006" contrib-type="author"><name name-style="western"><surname>De Kock</surname><given-names initials="JH">Johannes H.</given-names></name><xref rid="hex70336-aff-0007" ref-type="aff">
+<sup>7</sup>
+</xref><xref rid="hex70336-aff-0008" ref-type="aff">
+<sup>8</sup>
+</xref></contrib><contrib id="hex70336-cr-0007" contrib-type="author"><name name-style="western"><surname>Prociuk</surname><given-names initials="D">Denys</given-names></name><xref rid="hex70336-aff-0009" ref-type="aff">
+<sup>9</sup>
+</xref></contrib><contrib id="hex70336-cr-0008" contrib-type="author"><name name-style="western"><surname>Darbyshire</surname><given-names initials="JL">Julie L.</given-names></name><xref rid="hex70336-aff-0010" ref-type="aff">
+<sup>10</sup>
+</xref></contrib><contrib id="hex70336-cr-0009" contrib-type="author"><name name-style="western"><surname>Evans</surname><given-names initials="S">Sophie</given-names></name><xref rid="hex70336-aff-0011" ref-type="aff">
+<sup>11</sup>
+</xref></contrib><contrib id="hex70336-cr-0010" contrib-type="author"><name name-style="western"><surname>Sivan</surname><given-names initials="M">Manoj</given-names></name><xref rid="hex70336-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref><xref rid="hex70336-aff-0004" ref-type="aff">
+<sup>4</sup>
+</xref><xref rid="hex70336-aff-0012" ref-type="aff">
+<sup>12</sup>
+</xref></contrib><contrib id="hex70336-cr-0011" contrib-type="author"><collab collab-type="authors">LOCOMOTION Consortium</collab><xref rid="hex70336-aff-0013" ref-type="aff">
+<sup>13</sup>
+</xref></contrib></contrib-group><aff id="hex70336-aff-0001">
+<label>
+<sup>1</sup>
+</label>
+<institution>Leeds Institute of Health Sciences</institution>
+<institution>University of Leeds</institution>
+<city>Leeds</city>
+<country country="GB">UK</country>
+</aff><aff id="hex70336-aff-0002">
+<label>
+<sup>2</sup>
+</label>
+<institution>Population Health Sciences Institute, Newcastle University, Newcastle, UK; Gateshead HDRC, Gateshead Council, Gateshead, UK; University of Johannesburg</institution>
+<city>Johannesburg</city>
+<country country="ZA">South Africa</country>
+</aff><aff id="hex70336-aff-0003">
+<label>
+<sup>3</sup>
+</label>
+<named-content content-type="organisation-division">Academic Department of Rehabilitation Medicine</named-content>
+<institution>University of Leeds</institution>
+<city>Leeds</city>
+<country country="GB">UK</country>
+</aff><aff id="hex70336-aff-0004">
+<label>
+<sup>4</sup>
+</label>
+<institution>National Demonstration Centre in Rehabilitation, Leeds Teaching Hospitals NHS Trust</institution>
+<city>Leeds</city>
+<country country="GB">UK</country>
+</aff><aff id="hex70336-aff-0005">
+<label>
+<sup>5</sup>
+</label>
+<institution>Imperial College Healthcare NHS Trust</institution>
+<city>London</city>
+<country country="GB">UK</country>
+</aff><aff id="hex70336-aff-0006">
+<label>
+<sup>6</sup>
+</label>
+<named-content content-type="organisation-division">Department of Mathematics</named-content>
+<institution>Imperial College London</institution>
+<city>London</city>
+<country country="GB">UK</country>
+</aff><aff id="hex70336-aff-0007">
+<label>
+<sup>7</sup>
+</label>
+<institution>NHS Highland; COVID recovery Service</institution>
+<city>Inverness</city>
+<country country="GB">UK</country>
+</aff><aff id="hex70336-aff-0008">
+<label>
+<sup>8</sup>
+</label>
+<institution>Community Psychosocial Research (COMPRES)</institution>
+<institution>North West University</institution>
+<city>Potchefstroom</city>
+<country country="ZA">South Africa</country>
+</aff><aff id="hex70336-aff-0009">
+<label>
+<sup>9</sup>
+</label>
+<named-content content-type="organisation-division">Department of Computing</named-content>
+<institution>Imperial College London</institution>
+<city>London</city>
+<country country="GB">UK</country>
+</aff><aff id="hex70336-aff-0010">
+<label>
+<sup>10</sup>
+</label>
+<named-content content-type="organisation-division">Nuffield Department of Primary Care Health Sciences</named-content>
+<institution>University of Oxford</institution>
+<city>Oxford</city>
+<country country="GB">UK</country>
+</aff><aff id="hex70336-aff-0011">
+<label>
+<sup>11</sup>
+</label>
+<institution>LOCOMOTION Long Covid Patient Advisory Group member</institution>
+<city>Leeds</city>
+<country country="GB">UK</country>
+</aff><aff id="hex70336-aff-0012">
+<label>
+<sup>12</sup>
+</label>
+<named-content content-type="organisation-division">Institute of Rheumatology &amp; Musculoskeletal Medicine</named-content>
+<institution>University of Leeds</institution>
+<city>Leeds</city>
+<country country="GB">UK</country>
+</aff><aff id="hex70336-aff-0013">
+<label>
+<sup>13</sup>
+</label>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://locomotion.leeds.ac.uk/wp-content/uploads/sites/74/2024/05/LOCOMOTION-Consortium-List.pdf" ext-link-type="uri">https://locomotion.leeds.ac.uk/wp-content/uploads/sites/74/2024/05/LOCOMOTION-Consortium-List.pdf</ext-link>
+</aff><author-notes><corresp id="correspondenceTo">
+<label>*</label>
+<bold>Correspondence:</bold> Ghazala Mir (<email>g.mir@leeds.ac.uk</email>)<break/>
+</corresp></author-notes><pub-date pub-type="epub"><day>02</day><month>7</month><year>2025</year></pub-date><pub-date pub-type="collection"><month>8</month><year>2025</year></pub-date><volume>28</volume><issue seq="24">4</issue><issue-id pub-id-type="pmc-issue-id">491792</issue-id><issue-id pub-id-type="doi">10.1111/hex.v28.4</issue-id><elocation-id>e70336</elocation-id><history><date date-type="rev-recd"><day>04</day><month>5</month><year>2025</year></date><date date-type="received"><day>12</day><month>2</month><year>2025</year></date><date date-type="accepted"><day>08</day><month>6</month><year>2025</year></date></history><pub-history><event event-type="pmc-release"><date><day>02</day><month>07</month><year>2025</year></date></event><event event-type="pmc-live"><date><day>02</day><month>07</month><year>2025</year></date></event><event event-type="pmc-last-change"><date iso-8601-date="2026-01-17 13:25:15.167"><day>17</day><month>01</month><year>2026</year></date></event></pub-history><permissions><copyright-statement content-type="article-copyright">© 2025 The Author(s). <italic toggle="yes">Health Expectations</italic> published by John Wiley &amp; Sons Ltd.</copyright-statement><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>This is an open access article under the terms of the <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pmc-pdf" xlink:href="HEX-28-e70336.pdf"/><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pdf" xlink:href="file:HEX-28-e70336.pdf"/><abstract><title>ABSTRACT</title><sec id="hex70336-sec-0010"><title>Background</title><p>Long Covid (LC) significantly impacts health, economic and social activities. Women, deprived, learning disability, homeless and some minority ethnic populations have high prevalence rates but low access to support, indicating health inequities in LC care.</p></sec><sec id="hex70336-sec-0020"><title>Aim</title><p>To identify health inequities in LC care and inclusion strategies that align with the priorities of people with LC.</p></sec><sec id="hex70336-sec-0030"><title>Design and Setting</title><p>Mixed‐methods study employing qualitative data from people with LC, professional experts, LC clinic staff and primary care data from North West (NW) London GPs.</p></sec><sec id="hex70336-sec-0040"><title>Method</title><p>Qualitative interviews with 23 people with LC and 18 professional experts explored the experience of diagnosis and support for people from disadvantaged groups. Framework analysis identified themes that informed the subsequent collection of clinic and primary care data. Staff from 10 LC clinics across England provided survey and qualitative data describing their initiatives to identify and reduce inequalities. Descriptive quantitative analysis of NW London adult primary care records (<italic toggle="yes">n</italic> = 6078), linked to hospital use across England, explored LC diagnosis and care pathways for diverse groups of people with LC.</p></sec><sec id="hex70336-sec-0050"><title>Results</title><p>Study participants from disadvantaged groups reported delays in formal diagnosis and specialist referrals being initated and had low trust in healthcare services. They described difficulties in obtaining information, advice and support as barriers to access specialist referrals. LC clinics confirmed the under‐referral of those from the most disadvantaged groups compared to the general population. Primary care data confirmed under‐referral of people with LC to specialist clinics; however, incomplete data across the LC clinical pathway prevented an analysis of equity in referral patterns between population groups.</p><p>Clinics used various strategies to improve access and increase the flow of disadvantaged groups from primary care to LC services. Interventions included data collection to identify underserved groups, targeting outreach to primary care and community providers, adapting clinic provision and developing care pathways involving multidisciplinary teams (MDTs), primary and secondary care practitioners and third sector organisations. These activities were not widespread, however, and were particular to a few clinics.</p></sec><sec id="hex70336-sec-0060"><title>Conclusion</title><p>Strategies to improve access to LC healthcare provide a starting point to explore inclusive care pathways for people with LC from disadvantaged social groups. Future research should focus on the effectiveness of initiatives to increase access to specialist LC provision among disadvantaged groups and establish greater trust in healthcare providers.</p></sec><sec id="hex70336-sec-0070"><title>Priorities of People With LC for Healthcare Practice</title><p>This study highlights the need for health system practitioners to identify under‐represented groups and target inclusion initiatives at these populations in sensitive and appropriate ways. Improved diagnosis and support for such populations would be helped by training health and social care practitioners to recognise and accept the accounts of people with LC about their symptoms. Protocols that support consistent practice in referrals for specialist care are also needed. People with LC from disadvantaged groups often lack access to evidence‐based sources of advice and information. Practitioners should provide information on LC while individuals are waiting to receive specialist care and should advocate for support from employers, including work modifications.</p></sec><sec id="hex70336-sec-0080"><title>Patient and Public Contribution</title><p>People with lived experience of LC were involved in the study as members of the research team and LOCOMOTION Patient Advisory Group (PAG). The PAG was involved in the wider study design, including the initial grant application, attending proposal planning meetings and helping to develop the research aim, objectives and questions. During the course of the study, the PAG met quarterly with each other and at least monthly with other research team members to review progress and feed into data collection and analysis processes. PAG members also attended a Quality Improvement Collaborative meeting involving academics and LC practitioners, which discussed initial findings from data analysis of qualitative interviews on LC inequalities. Through these meetings, the group supported and oversaw the study as a whole in terms of how data was collected, recruitment of participants, involvement in data analysis and interpretation, as well as providing more specific advice to all the individual workstreams within the study. A PPI facilitator within the study team provided training and support to PAG members in these areas and was available to respond to other needs expressed by the group. PAG members have also been involved in organising and contributing to a wide range of study dissemination events. PAG involvement throughout the study has ensured that the research is aligned with the key research priorities of people diagnosed with LC as well as those with LC symptoms but no formal diagnosis. PAG members were recruited through and linked to the LC clinics involved in the study and have helped disseminate study findings to local clinical practice, the lay public and other LC centres with which they are involved. S.E. is a PAG member from a minority ethnic background and a co‐author on the paper. She has been involved in overseeing and supporting data collection and interpretation relating to inequalities affecting people with LC and has contributed to the preparation of this manuscript from an early draft to production of the final version.</p></sec></abstract><kwd-group><kwd id="hex70336-kwd-0001">care pathways</kwd><kwd id="hex70336-kwd-0002">general practice</kwd><kwd id="hex70336-kwd-0003">inequalities</kwd><kwd id="hex70336-kwd-0004">long Covid</kwd></kwd-group><funding-group><award-group id="funding-0001"><funding-source>
+<institution-wrap><institution>This study is independent research funded by the National Institute for Health and Care Research (NIHR) (long Covid grant, Ref: COV‐LT2‐0016).</institution></institution-wrap>
+</funding-source></award-group></funding-group><counts><fig-count count="2"/><table-count count="0"/><page-count count="11"/><word-count count="7992"/></counts><custom-meta-group><custom-meta><meta-name>pmc-status-qastatus</meta-name><meta-value>0</meta-value></custom-meta><custom-meta><meta-name>pmc-status-live</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-status-embargo</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-status-released</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-access</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-legally-suppressed</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-pdf</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-supplement</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-pdf-only</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-suppress-copyright</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-real-version</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-scanned-article</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-in-epmc</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-license-ref</meta-name><meta-value>CC BY</meta-value></custom-meta><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>August 2025</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:6.5.8 mode:remove_FC converted:02.07.2025</meta-value></custom-meta></custom-meta-group></article-meta><notes><fn-group><fn id="hex70336-note-0003"><p>This study highlights the need for health system practitioners to identify under‐represented groups and target inclusion initiatives at these populations in sensitive and appropriate ways.</p></fn><fn id="hex70336-note-0004"><p>Improved diagnosis and support for such populations would be helped by training health and social care practitioners to recognise and accept the accounts of people LC about their symptoms. Protocols that support consistent practice in referrals for specialist care are also needed.</p></fn><fn id="hex70336-note-0005"><p>People with LC from disadvantaged groups often lack access to evidence‐based sources of advice and information. Practitioners should provide information on LC while individuals are waiting to receive specialist care and should advocate for support from employers, including work modifications.</p></fn></fn-group></notes></front><body><sec id="hex70336-sec-0090"><label>1</label><title>Introduction</title><p>Long Covid (LC) is defined as persistent COVID‐19 symptoms more than 4 weeks after acute infection and is a growing global problem [<xref rid="hex70336-bib-0001" ref-type="bibr">1</xref>]. Commonly reported symptoms can adversely affect day‐to‐day activities significantly [<xref rid="hex70336-bib-0002" ref-type="bibr">2</xref>] and include fatigue, cognitive dysfunction, shortness of breath, pain and mood problems [<xref rid="hex70336-bib-0003" ref-type="bibr">3</xref>, <xref rid="hex70336-bib-0004" ref-type="bibr">4</xref>]. LC also impacts economic, social and caring activities [<xref rid="hex70336-bib-0005" ref-type="bibr">5</xref>].</p><p>LC affects around 200 million people worldwide [<xref rid="hex70336-bib-0006" ref-type="bibr">6</xref>], including almost 2 million in the United Kingdom [<xref rid="hex70336-bib-0003" ref-type="bibr">3</xref>]. A recent meta‐analysis indicated that 45% of COVID‐19 survivors experienced unresolved symptoms at around 4 months [<xref rid="hex70336-bib-0007" ref-type="bibr">7</xref>]. Among working‐age people, the likelihood of economic inactivity after a confirmed COVID‐19 infection was significantly higher than before infection [<xref rid="hex70336-bib-0008" ref-type="bibr">8</xref>, <xref rid="hex70336-bib-0009" ref-type="bibr">9</xref>].</p><p>Large studies on the prevalence of LC show higher rates in economically deprived, learning disability, homeless and some minority ethnic populations [<xref rid="hex70336-bib-0004" ref-type="bibr">4</xref>, <xref rid="hex70336-bib-0010" ref-type="bibr">10</xref>], who are also more likely to have underlying health conditions and experience social isolation [<xref rid="hex70336-bib-0011" ref-type="bibr">11</xref>]. A significant body of evidence links health inequalities in these groups to reduced access to support or involvement in decision‐making about their health and poorer quality healthcare compared to the general population [<xref rid="hex70336-bib-0012" ref-type="bibr">12</xref>, <xref rid="hex70336-bib-0013" ref-type="bibr">13</xref>, <xref rid="hex70336-bib-0014" ref-type="bibr">14</xref>]. Similar barriers have been reported by people with LC from such groups, including unresponsive services, inadequate support and mistrust or fear linked to negative interactions with healthcare providers [<xref rid="hex70336-bib-0015" ref-type="bibr">15</xref>, <xref rid="hex70336-bib-0016" ref-type="bibr">16</xref>, <xref rid="hex70336-bib-0017" ref-type="bibr">17</xref>].</p><p>Reducing health inequalities for people with LC is a key aim of the National Health Service (NHS) LC Plan 2021/22 [<xref rid="hex70336-bib-0018" ref-type="bibr">18</xref>] which promotes the use of clinical data, engagement with communities, culturally competent services and multiagency collaboration (Figure <xref rid="hex70336-fig-0001" ref-type="fig">1</xref>).</p><fig position="float" fig-type="Figure" id="hex70336-fig-0001" orientation="portrait"><label>Figure 1</label><caption><p>NHS LC Plan for reducing inequality.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-1" orientation="portrait" xlink:href="HEX-28-e70336-g001.jpg"/></fig><p>We aimed to explore the experience of access to LC healthcare for people from socially excluded populations and identify inclusion strategies that address inequities in LC care. We examined whether these strategies aligned with the priorities of people with LC and identified examples of good practice from clinics within the LOCOMOTION research consortium [<xref rid="hex70336-bib-0019" ref-type="bibr">19</xref>] that could inform current practice and future research.</p></sec><sec sec-type="methods" id="hex70336-sec-0100"><label>2</label><title>Methods</title><p>Using a mixed‐methods approach, we explored diverse stakeholder perspectives on inclusive LC support for members of socially marginalised groups. In 2021–3, qualitative interviews were conducted with individuals from across the United Kingdom. In 2023, data were collected from primary care records and LC clinics.</p><sec id="hex70336-sec-0110"><label>2.1</label><title>Study Participants and Design</title><p>Semi‐structured interviews were used to gather qualitative data from individuals in populations identified as underserved [<xref rid="hex70336-bib-0020" ref-type="bibr">20</xref>]. We focused on people with LC who could recall their COVID‐19 infections and subsequent LC symptoms, aged 18 or over and from a range of disadvantaged populations: people from deprived and minority ethnic backgrounds, women, homeless people and people with disabilities; we did not prioritise specific participants within or between these groups. We purposefully recruited through community organisations, posters in GP surgeries, researchers' personal networks and snowballing, particularly targeting individuals who did not attend LC clinics. Participants received a study information sheet, gave informed consent for interviews and received an involvement fee for participation. Interviews explored experiences of LC and any support received in relation to diagnosis, treatment and management (see Supporting Information<xref rid="hex70336-note-0006" ref-type="fn">1</xref>). Academic, policy and practice experts in LC and inequalities (‘Key Informants’) were also recruited using purposive sampling. These interviews explored issues relating to healthcare access and other issues relevant to inequalities, such as the impact of multiple forms of disadvantage (see Supporting Information<xref rid="hex70336-note-0007" ref-type="fn">2</xref>).</p><p>NVivo 14 software was used to code data and help develop themes using the framework analysis tools of familiarisation, identifying themes and codes, charting, mapping and interpretation [<xref rid="hex70336-bib-0021" ref-type="bibr">21</xref>]. J.M. and G.M. double coded 10% of transcripts and compared themes and codes to agree on a coding framework. We discussed the themes with our PAG and lived experience advisers, after which J.M. coded the remaining transcripts and charted the coded data. J.M. and G.M. then used data charts to map participant experiences and views, interpret the data as a whole and develop findings. Quotations were selected to highlight common and specific experiences that had implications for LC policy or practice development. All interviews were conducted by J.M.; joint coding and interpretation of data by J.M. and G.M. aimed to ensure rigour in data analysis processes and our final interpretations [ibid].</p><p>This analysis informed a survey of 10 LC specialist clinics to identify initiatives for addressing inequalities in terms of demographic data collection and analysis and use of such data (see Supporting Information<xref rid="hex70336-note-0008" ref-type="fn">3</xref>). A description of how these clinics operated is provided elsewhere [<xref rid="hex70336-bib-0022" ref-type="bibr">22</xref>]. Healthcare staff in these clinics, along with people with lived experience of LC, were involved in a Quality Improvement Collaborative at which findings from our qualitative interviews were discussed [<xref rid="hex70336-bib-0022" ref-type="bibr">22</xref>]. A questionnaire was designed to identify the extent to which clinics were aware of inequalities in access to specialist healthcare, challenges to data collection and examples of inclusion initiatives being undertaken to help reduce inequalities.</p><p>Primary care data were obtained from the Whole Systems Integrated Care (WSIC) dataset, which comprises individual records of over 2.7 million patients from GP practices in North West (NW) London. These data were linked, using a unique pseudonymised patient identifier from the NHS number to hospital Secondary Uses Service data containing records of appointments, accident and emergency attendances and inpatient admissions to hospitals across England. Patients were identified as having a recorded diagnosis of LC if their primary care record contained one of four LC Systematized Nomenclature of Medicine (SNOMED) clinical terms between 1 January 2020 and 30 September 2023.</p><p>Our qualitative findings also informed the analysis of primary care data, which focused on LC care pathways for diverse populations. Demographic variables (sex, ethnicity and socioeconomic status based on the Index of Multiple Deprivation ranks) were compared between patients with and without an LC diagnosis. Descriptive statistics were generated, and the concordance between a primary care diagnosis of LC, LC clinic referrals and attendance at appointments was evaluated. For each patient, the frequency with which one, two or three of an LC diagnosis, LC clinic referral or LC clinic attendance were present was identified and used to construct a Venn diagram. Data extraction was performed using Microsoft SQL Server Management Studio 2018, while data processing and analysis were conducted in Python (v3.7.9) using the Pandas (v1.3.2) and numpy (v1.19.5) libraries.</p><p>Findings from the survey and primary care data were combined with qualitative data findings to identify common themes across the three data sources and explain, confirm or enhance findings from each source [<xref rid="hex70336-bib-0023" ref-type="bibr">23</xref>]. We then drew on this triangulation of findings to suggest potential ways forward for how inequities could be addressed. Oversight was provided by the LOCOMOTION Data Management Group, with additional input from the LOCOMOTION Patient Advisory Group, of which S.E. is a member.</p></sec></sec><sec sec-type="results" id="hex70336-sec-0120"><label>3</label><title>Results</title><sec id="hex70336-sec-0130"><label>3.1</label><title>Qualitative Findings</title><p>Qualitative interview data were obtained from 23 people living with LC (PWLC) from underserved groups and 18 academic or healthcare experts in LC and inequalities (Key Informants—KIs). Demographic details of these participants and more details of their experience of diagnosis have been published elsewhere [<xref rid="hex70336-bib-0015" ref-type="bibr">15</xref>]. The recruitment process encountered challenges in engaging homeless individuals. Specialist general practitioners (GPs) and voluntary sector organisations indicated that homeless individuals were less likely to associate LC symptoms with COVID‐19, due in part to symptom overlap with drug and alcohol addiction and a lack of diagnostic testing. Additionally, immediate financial, housing and social concerns were reported to take precedence over participation in research, even though involvement fees were offered to all people with LC.</p></sec><sec id="hex70336-sec-0140"><label>3.2</label><title>Barriers to LC Support</title><p>People with LC identified several barriers to accessing support for LC, including unresponsive services in which they were not believed or supported by GPs or referred for specialist care. There was also a general deficiency in LC‐related knowledge among both patients and primary care providers, and some people with LC expressed mistrust towards healthcare professionals, based on personal or previous community experiences of discrimination. The lack of diagnosis was a cause of considerable emotional distress for people with LC [<xref rid="hex70336-bib-0015" ref-type="bibr">15</xref>] and further complicated interactions with employers, who often did not acknowledge ‘invisible’ symptoms such as fatigue, pain and cognitive dysfunction [<xref rid="hex70336-bib-0008" ref-type="bibr">8</xref>] (see Box <xref rid="hex70336-fea-0001" ref-type="boxed-text">1</xref>: Barriers to LC support).</p><boxed-text position="float" content-type="Box" id="hex70336-fea-0001" orientation="portrait"><label>Box 1</label><caption><title>Perspectives of people with LC (PWLC) on healthcare support.</title></caption><p>
+<italic toggle="yes">Unresponsive services</italic>
+</p><p>As the GP said, ‘there's no such thing as long Covid’ so!</p><p>(PWLC11 Mixed‐Black British Female, self‐employed, low SES, 35–45)</p><p>It's very difficult! I feel that I have little faith in speaking to the GP because I'm not getting anywhere since November 2020. It's now May 2022 and I've not got anywhere! I haven't had a referral to the long Covid clinic. I haven't had any treatment plan put in place in terms of my breathing … it's just, it's frustrating!</p><p>(PWLC01 South Asian Female, mid‐SES, 25–35 years)</p><p>If I didn't work at the hospital, I would have just been in limbo</p><p>(PWLC22 Black British Female, mid‐high SES)</p><p>I had one [GP] who used to say ‘it doesn't really matter what it is! You just need to rest and work less!’ […] I say ‘well can you write me a letter to say this, so I can give it to work?’ ‘Oh no, no, no. If, if they want it, occupational health can ask’</p><p>(LC06 Southern European Female, unemployed following sick leave, mid‐SES, 35–45)</p><p>According to our survey and what we see anecdotally in the group, it's still terrible. People are waiting months and months and months to be seen.</p><p>(KI/PWLC09, White Female/LC Activist, unemployed, low SES, 45–55 years)</p><p>
+<italic toggle="yes">Lack of information</italic>
+</p><p>I now know that there is support for long Covid. But I haven't been informed of that by either the medical surgery that I go to or by the doctors that I saw in hospital either.</p><p>(PWLC05 South Asian Male, retired, mid SES, 65–75 years)</p><p>I only knew about the long Covid clinic because my sister had been referred. And she probably only knew about the long Covid clinic from work because she works in the NHS … a lot of people are not aware of Covid clinics. And that's a huge barrier. In my own experience, I find that a GP wouldn't refer you to a long Covid clinic unless you personally asked them to do it.</p><p>(PWLC01 South Asian Female, mid SES 25–35 years)</p><p>
+<italic toggle="yes">Fear of discrimination, lack of trust</italic>
+</p><p>There's been a lot of, you know, mistakes … things that have been done! People have been treated in not great ways! I just think, you know, that's what's brought the mistrust really.</p><p>(PWLC12 Black British Female, low‐SES, 45–55)</p><p>
+<italic toggle="yes">Inappropriate care pathways</italic>
+</p><p>The medical team have managed me by splitting my symptoms up into their specialities. So, I'm under two specialities: infectious diseases for the ongoing fever, which they can't rectify; and I'm under a neurologist/chronic headache consultant because I have a chronic headache. In correspondence rarely do they say this is long Covid.</p><p>(PWLC02 Black British Female, mid‐SES, 25–35 years)</p></boxed-text><p>KI participants working in LC healthcare and academia confirmed these dynamics:<disp-quote content-type="quotation"><p>‘the attitudes of health professionals affect access as well. So if I see you and pigeonhole you as a woman of a certain age and likely to be more on the functional disease spectrum ‐ and there are people who have these views ‐ then I'm less likely, even if there is a LC clinic, then I'm less likely to refer you to it.[…] we know from the first wave that people from certain ethnic minority backgrounds didn't trust the health system […] in terms of vaccination strategy, in terms of the acute waves of the pandemic. They don't trust what the hospitals are doing, what the government is doing, what the GP is doing. And they're going to be difficult to get to the LC clinic’.</p><attrib>KI06, clinical academic and cardiologist</attrib></disp-quote>
+<disp-quote content-type="quotation"><p>There's a lot of knowledge that's missing. I think that is probably one of the big drivers about who is self‐reporting […] and who can advocate for it</p><attrib>KI10, Community Health Practitioner</attrib></disp-quote>
+</p></sec><sec id="hex70336-sec-0160"><label>3.3</label><title>Referral to Specialist Care</title><p>Where referrals were made to secondary care, this was often to a range of separate clinics dealing with individual symptoms rather than to specialist care for LC. Various tests might be organised through these referrals; however, if these returned normal results, care would end without an overview of the combination of symptoms that an individual experienced (see Box <xref rid="hex70336-fea-0001" ref-type="boxed-text">1</xref>: Inappropriate care pathways).</p><p>Ten of our participants with LC, mostly healthcare professionals, did manage to organise a referral for specialist care after considerable persistence, using knowledge of NHS provision from within their own networks. What was clear from people with LC (PWLC), however, was that most respondents did not have the necessary energy or resources for such engagement [<xref rid="hex70336-bib-0015" ref-type="bibr">15</xref>] and were left feeling frustrated and neglected (Box <xref rid="hex70336-fea-0001" ref-type="boxed-text">1</xref> PWLC01).</p></sec><sec id="hex70336-sec-0170"><label>3.4</label><title>LC Clinic Data</title><p>Feedback from professionals working in specialist LC clinics revealed that there was a lack of demographic data in their records of people with LC. Only two of the ten sites were able to provide details of data collection on age, gender, ethnicity, deprivation, disability or homelessness. At one of these clinics, data on the first three categories and possibly a disability flag were recorded on the main record system, with other data recorded via free text that would be difficult to extract.</p><p>This context made it difficult to assess the extent of inequities in access to clinics and the impact of operational policies on disadvantaged groups. Only a minority of clinics, however, appeared to be taking steps to address this issue. In a clinic that did collect comprehensive demographic data, under‐representation of people with LC from deprived, ethnic minority and learning disability groups was noted, along with poor referral of these groups from primary care practitioners. No clinic in our sample had any coded record of people with LC with a learning disability, despite the known higher prevalence in this population [<xref rid="hex70336-bib-0024" ref-type="bibr">24</xref>].</p></sec><sec id="hex70336-sec-0180"><label>3.5</label><title>Findings From Primary Care Data</title><p>Analysis of the larger dataset from primary care practices in NW London indicated better data collection for most excluded groups. Homeless people were identified using a collection of SNOMED codes that encompass homelessness, rough sleeping and temporary lodging circumstances. People were identified by the presence of any of the related codes in the period of 3 years before LC diagnosis. In total, 35 homeless people with LC were identified (0.75% of all people with LC). Despite the existence of clinical codes for learning disability and the higher prevalence of LC associated with both these groups [<xref rid="hex70336-bib-0003" ref-type="bibr">3</xref>, <xref rid="hex70336-bib-0024" ref-type="bibr">24</xref>], it was not possible to identify sufficient people to include these groups in our analysis.</p><p>The socio‐demographic profile of this overall population and those with a recorded diagnosis of LC is published elsewhere [<xref rid="hex70336-bib-0025" ref-type="bibr">25</xref>]. This earlier analysis found that a diagnosis was more likely to be recorded in primary care for women and people from Asian backgrounds or mixed ethnicity than for people from white backgrounds. Surprisingly, a higher risk of LC was found for those in our sample who lived in the third and fourth most deprived quintiles than for those in the most deprived quintile [<xref rid="hex70336-bib-0025" ref-type="bibr">25</xref>].</p><p>Further analysis of the dataset for this paper found low overlap between data on people with an LC diagnosis in primary care, referral to an LC clinic and LC clinic attendance. There were 7060 individuals with a record of either an LC diagnosis, LC clinic referral or LC clinic attendance; however, only 4.4% had records of all three. Over half (54.8%) had only a record of LC in their primary care without a record of LC clinic referral or attendance, while 68.1% of those either referred to or seen in an LC clinic did not have an LC diagnosis in their primary care record. This lack of overlap is visually represented in Figure <xref rid="hex70336-fig-0002" ref-type="fig">2</xref>.</p><fig position="float" fig-type="Figure" id="hex70336-fig-0002" orientation="portrait"><label>Figure 2</label><caption><p>Overlap between recording of LC diagnoses, referral to LC clinics and LC clinic attendance.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-3" orientation="portrait" xlink:href="HEX-28-e70336-g002.jpg"/></fig><p>While not all people with LC may require onward specialist referral, Figure <xref rid="hex70336-fig-0002" ref-type="fig">2</xref> indicates there is low referral in general for specialist LC care and probable incompleteness of LC data across different clinical pathways. A broader issue is also raised in terms of the general population of those with LC who are referred to clinics but do not subsequently attend. The lack of data for LC clinics prevented further demographic analysis of these groups. Feedback from our LC clinic leads, however, suggested this pattern of under‐referral particularly impacted those from disadvantaged groups, and our qualitative data highlighted problems with access to specialist care for these populations. The findings from primary care data indicate a lack of overall alignment of data sources across the LC care pathway, which limits opportunities to understand the equity of provision for LC healthcare using administrative health record data alone.</p></sec><sec id="hex70336-sec-0190"><label>3.6</label><title>What Good Practice Exists?</title><p>We found examples of inclusive practice from some clinics that had self‐assessed for inequities in access and were actively seeking to address these (Box <xref rid="hex70336-fea-0002" ref-type="boxed-text">2</xref>). Two case studies (Boxes <xref rid="hex70336-fea-0003" ref-type="boxed-text">3</xref> and <xref rid="hex70336-fea-0004" ref-type="boxed-text">4</xref>) provide an overview of inclusive approaches used within clinics adopting a strategic approach. Although formal evaluation of these initiatives by clinics was limited, there is considerable existing evidence that the approaches described can help reduce inequalities in healthcare and other public services [<xref rid="hex70336-bib-0013" ref-type="bibr">13</xref>].</p><boxed-text position="float" content-type="Box" id="hex70336-fea-0002" orientation="portrait"><label>Box 2</label><caption><title>Good practice initiatives in LC healthcare.</title></caption><p>Making inequities visible
+<list list-type="bullet"><list-item><p>
+<bold>Gathering and analysing local data</bold> on clinic populations to inform initiatives that target under‐represented groups and areas (Leeds—see Box <xref rid="hex70336-fea-0003" ref-type="boxed-text">3</xref> case study for further details)</p></list-item><list-item><p>
+<bold>Monitoring outcomes</bold> across different groups of people with LC to identify inequities in referrals and health outcomes (Leeds)</p></list-item></list>
+</p><p>Improving referral to specialist care</p><p>Feedback from clinics suggested that the largest barrier to inclusive practice was reliance solely on GPs for referral. Referral processes were expanded in a number of ways to overcome this:
+<list list-type="bullet"><list-item><p>
+<bold>A decision‐making protocol and triage system</bold> to improve collaboration and reduce inconsistencies between practitioners in the LC care pathway. This has led to better representation of different demographic groups in the LC clinic (NW London—see Box <xref rid="hex70336-fea-0004" ref-type="boxed-text">4</xref> case study)</p></list-item><list-item><p>
+<bold>Working with third sector partners</bold> to improve understanding of LC and encourage presentation of symptoms at primary care (Leeds, Birmingham, Salford and Wales):
+<list list-type="simple"><list-item><label>○</label><p>Designing a third sector referral system to enable referral recommendations directly from community groups rather than only via the GP gateway (Leeds)</p></list-item><list-item><label>○</label><p>Working with a Gypsy and Traveller advocacy group to plan social media and face‐to‐face information sessions and visits. Oversight of activity by a local authority network for minority ethnic communities (Leeds).</p></list-item></list>
+</p></list-item></list>
+<list list-type="bullet"><list-item><p>
+<bold>Working with GPs</bold> to raise awareness about groups underrepresented in referrals for specialist care (Leeds, NW London); adding LC to the annual learning disability checklist and having a GP link worker supporting the local pathway supported uptake and information flow (Leeds)</p></list-item></list>
+</p><p>Making LC services accessible
+<list list-type="bullet"><list-item><p>
+<bold>Offering multiple clinical sites</bold> across urban centres (Leeds, NW London and Birmingham) to reduce travel time and financial burden.</p></list-item><list-item><p>
+<bold>Offering home visits, face‐to‐face appointments</bold> and language support to tailor services to the needs of people with LC (Leeds).</p></list-item><list-item><p>
+<bold>Tackling Digital Literacy</bold>—offering telephone assessments to people with LC who do not wish to use the C19‐YRS app to complete their assessments (Leeds and Salford).</p></list-item><list-item><p>
+<bold>Offering both virtual and face‐to‐face</bold> peer support services to people living with LC (Birmingham, Leeds and NW London)</p></list-item></list>
+</p><p>Co‐ordinated care
+<list list-type="bullet"><list-item><p>
+<bold>An integrated LC care pathway</bold> has been developed to improve referrals and access by linking the community health teams with LC clinical teams (NW London—see Box <xref rid="hex70336-fea-0004" ref-type="boxed-text">4</xref> case study).</p></list-item></list>
+</p></boxed-text><boxed-text position="float" content-type="Box" id="hex70336-fea-0003" orientation="portrait"><label>Box 3</label><caption><title>Case study 1—leeds LC community rehabilitation service.</title></caption><p>
+<bold>Using the data</bold>: A deep dive into referral data aligned the postcodes of people with LC with indices of multiple deprivation (IMD) deciles. This highlighted that those from more deprived areas were under‐represented by 13%, while the least deprived deciles were over‐represented by 13%. A targeted approach to supporting GP referrals in more deprived areas has closed this gap to 4%. In contrast with most other LOCOMOTION LC clinics, referrals for ethnic minority groups are currently over‐represented compared to local population data. Targeted strategies to include these groups have increased the number of ethnic minority referrals, and current numbers may be a more accurate reflection of LC in these communities, which are known to have had higher rates of Covid‐19.</p><p>
+<bold>Outreach and signposting:</bold> To address inequalities in referral rates for deprived communities, homeless people, refugees and those from Gypsy Roma and Traveller (GTR) communities, clinic staff have reached out to specific GP practices that work with these populations. A third sector referral form to support direct referral to the service is being piloted. Working with a local GTR advocacy group has also led to the production of a social media video. Health promotion activities have been organised at drop‐in centres used by GTR communities as well as homeless people, refugees and asylum seekers.</p><p>A leaflet to raise awareness of LC has been distributed to third sector, health and local authority groups, including a minority ethnic network, and translated into the seven most common languages in Leeds. The network provides oversight of activities to engage minority ethnic communities. An easy‐read booklet with LC information has been designed for people with learning disabilities and presented to GPs. Referral criteria have been reduced from 12 to 6 weeks for people with learning disabilities to address the absence of any people with LC from this group. Posters highlighting the similarity between symptoms of ageing and those of LC have been targeted at care homes and neighbourhood health teams.</p><p>Digital exclusion is addressed through training for clinic staff and by signposting individuals to support for accessing equipment and improving digital literacy. Standard pathways are adapted to accommodate those who lack technology skills or require additional assistance.</p><p>
+<bold>Monitoring Outcomes:</bold> Measures such as EQ5D (a standardised measure to record quality of life) are used to monitor treatment outcomes for any inequalities between diverse groups of people with LC. Comparison of these outcomes for those from minority ethnic backgrounds and those from the most deprived backgrounds against ‘all people with LC’ has shown no significant differences in quality of life.</p></boxed-text><boxed-text position="float" content-type="Box" id="hex70336-fea-0004" orientation="portrait"><label>Box 4</label><caption><title>Case study 2—NW london post‐covid integrated care board.</title></caption><p>NW London Post‐Covid Integrated Care Board included three secondary care clinic providers and six LC community teams covering eight boroughs. Collaboration between these teams over approximately 2–3 years aimed to overcome some of the barriers to support identified by people with LC and specialist clinics</p><p>
+<bold>An integrated pathway</bold> has been developed to improve consistency in referrals and access across the area by linking the community multidisciplinary teams (MDTs) with the acute teams. Patients are referred to a central Single Point of Access, hosted by one of the community services with GP support. This means that all referrals are triaged (i.e., sorted according to symptoms presented and clinical needs) and sent to either:
+<list list-type="simple"><list-item><label>1.</label><p>A Post‐Covid Assessment Clinic (PCAC) which is secondary care‐based and delivered predominantly face‐to‐face, with a respiratory or infectious diseases consultant, physiotherapist, psychologist and occupational therapist or</p></list-item><list-item><label>2.</label><p>An LC Community team—Allied Health Professional rehabilitation services with a GP lead for support. Community teams are supported by the PCAC</p></list-item></list>
+</p><p>
+<bold>Triage of referrals with a protocol to support decision‐making</bold> is supported by all Community MDTs across NW London. This has led to better representation of different demographic groups within the LC clinic. A data dashboard has been used to help understand where there is a need to reach out to under‐represented groups and develop initiatives. For example, GP practices that have less than 5% referrals are being targeted by LC teams, using an animation video to educate GPs and encourage referrals [<xref rid="hex70336-bib-0034" ref-type="bibr">34</xref>]</p></boxed-text></sec></sec><sec sec-type="discussion" id="hex70336-sec-0210"><label>4</label><title>Discussion</title><sec id="hex70336-sec-0220"><label>4.1</label><title>Summary</title><p>A growing body of evidence highlights health inequalities in the prevalence and experience of LC in socially excluded groups, but evidence about practice initiatives to reduce inequalities is lacking. Our findings triangulate data from diverse sources to provide insight into patterns of LC diagnosis and referral in primary care, along with practical initiatives to address inequalities in access to specialist healthcare. We provide initial evidence that these initiatives could improve access for deprived and minority ethnic groups, but there is a substantial need for more detailed evaluation.</p></sec><sec id="hex70336-sec-0240"><label>4.2</label><title>Strengths and Limitations</title><p>Involvement of people with LC in the research design and evaluation of LC services is a key strength of the study. Our mixed‐methods approach brings together multiple data sources to triangulate and explore diverse perspectives on LC inequalities.</p><p>Quantitative data collection and analysis were informed by qualitative findings; however, this analysis was limited by the incomplete and patchy data on excluded groups from clinical pathways. In primary care, the small number of people from specific disadvantaged groups was a further barrier to analysing inequities between population groups. We were unable to recruit homeless people, but gained some insights into why LC is difficult to identify in this group of people with LC. As an exploratory study, we had very limited evidence of the success of inclusion initiatives, and further research to evaluate these interventions is needed.</p></sec><sec id="hex70336-sec-0250"><label>4.3</label><title>Comparison With Existing Literature</title><p>Accessing healthcare support for LC is reported as a problem for many people with LC [<xref rid="hex70336-bib-0016" ref-type="bibr">16</xref>, <xref rid="hex70336-bib-0026" ref-type="bibr">26</xref>]; however, our findings reflect the additional disadvantage for socially excluded groups highlighted in the wider literature on Covid‐19: being accorded low credibility by healthcare practitioners, inadequate information about LC and available support, and mistrust of the healthcare system [<xref rid="hex70336-bib-0027" ref-type="bibr">27</xref>, <xref rid="hex70336-bib-0028" ref-type="bibr">28</xref>].</p><p>Some LC studies have utilised the concept of epistemic injustice to better understand the process through which individuals' explanations of their symptoms are ignored and the harms caused by misrecognition [<xref rid="hex70336-bib-0015" ref-type="bibr">15</xref>, <xref rid="hex70336-bib-0029" ref-type="bibr">29</xref>, <xref rid="hex70336-bib-0030" ref-type="bibr">30</xref>]. Such injustice includes a racialised and gendered element for minority ethnic and female people with LC, who can feel both ignored in terms of inadequate information and care and also worried that they are being neglected because of their ethnic background or sex. This uncertainty is an important consideration for ethnic minorities and women navigating healthcare, creating doubt about the basis on which healthcare professionals respond or provide treatment [<xref rid="hex70336-bib-0031" ref-type="bibr">31</xref>]. KIs described how discrimination and inadequate information were linked to systemic injustice, mistrust and under‐representation in LC specialist care. This dimension of social exclusion goes beyond the usual power imbalance between those receiving care and healthcare practitioners, adding concerns about how much service users can trust practitioners [<xref rid="hex70336-bib-0015" ref-type="bibr">15</xref>]. Involving community advocacy groups in the referral pathway for LC care seems a promising good practice initiative, given that expertise in engaging marginalised groups is most likely to be found in third sector organisations [<xref rid="hex70336-bib-0017" ref-type="bibr">17</xref>, <xref rid="hex70336-bib-0032" ref-type="bibr">32</xref>].</p><p>Failure to refer from primary care to specialist support is a further key issue for people with LC from underserved groups, exacerbating the potential mistrust in practitioners and creating further downstream consequences for health‐seeking behaviour in these populations [<xref rid="hex70336-bib-0015" ref-type="bibr">15</xref>, <xref rid="hex70336-bib-0028" ref-type="bibr">28</xref>]. Our findings on barriers to LC support may help explain the lower rate of LC diagnosis found in primary care records for the most deprived quintile [<xref rid="hex70336-bib-0025" ref-type="bibr">25</xref>]. The lack of overlap between primary care and LC clinic data aligns with other recent work highlighting the probable under‐reporting of LC diagnosis in primary care, particularly for minority ethnic groups [<xref rid="hex70336-bib-0033" ref-type="bibr">33</xref>].</p><p>The good practice initiative to improve consistency in LC healthcare decision‐making (Box <xref rid="hex70336-fea-0004" ref-type="boxed-text">4</xref>) is likely to be helpful in addressing the higher prevalence of LC among deprived and some minority ethnic populations found in studies with large samples [<xref rid="hex70336-bib-0004" ref-type="bibr">4</xref>, <xref rid="hex70336-bib-0025" ref-type="bibr">25</xref>, <xref rid="hex70336-bib-0035" ref-type="bibr">35</xref>]. One study suggests that a focus on symptoms rather than self‐report could better expose inequalities [<xref rid="hex70336-bib-0004" ref-type="bibr">4</xref>], and this approach could potentially add to evidence that LC symptoms may differ between ethnic groups [<xref rid="hex70336-bib-0036" ref-type="bibr">36</xref>, <xref rid="hex70336-bib-0037" ref-type="bibr">37</xref>].</p><p>Being able to access support for LC involves navigating the healthcare system; this requires high levels of social capital and what Janet Shim [<xref rid="hex70336-bib-0038" ref-type="bibr">38</xref>] has termed ‘cultural health capital’. Shim defined this as:<disp-quote content-type="quotation"><p>‘the repertoire of cultural skills, verbal and nonverbal competencies, attitudes and behaviours, and interactional styles, cultivated by patients and clinicians alike, that, when deployed, may result in more optimal health care relationships. I consider cultural health capital alongside existing frameworks for understanding clinical interactions, and I argue that the concept of cultural health capital offers theoretical traction to help account for several dynamics of unequal treatment’.</p><attrib>(Shim, 2010: 1)</attrib></disp-quote>
+</p><p>This definition is useful for better understanding the experiences of underserved communities living with LC, not least because it describes the kind of confidence, attributes and networks needed to navigate healthcare encounters with clinicians to receive appropriate care [<xref rid="hex70336-bib-0015" ref-type="bibr">15</xref>]. It also highlights the role of the clinician in shaping equitable encounters. If practitioners deploy attitudes and behaviours that discriminate rather than ensure optimal care, the encounter could reduce the confidence of health service users and negatively affect their interactions, restricting their cultural health capital in the process.</p></sec></sec><sec id="hex70336-sec-0270"><sec disp-level="2" id="hex70336-sec-0280"><label>1</label><title>Implications for Research and/or Practice</title><p>Our triangulated findings, which include the perspective of those least likely to shape healthcare services, demonstrate that access to specialist support is a key issue for equitable provision in LC healthcare. The higher likelihood of being diagnosed with LC for minority ethnic and deprived people with LC does not translate to higher rates of referral to specialist LC care, according to those with lived experience of LC and clinic staff in our sample. A single point of entry to LC care pathways via GPs was, consequently, inadequate, and involving community advocacy groups in referrals showed positive impacts on access.</p><p>The use of a protocol focused on symptoms reported by people with LC to aid referral decisions is also promising in terms of existing research as well as our qualitative findings [<xref rid="hex70336-bib-0039" ref-type="bibr">39</xref>]. This approach reduces practitioner inconsistency and accords with effective methods for removing discriminatory practice which may affect excluded populations [<xref rid="hex70336-bib-0013" ref-type="bibr">13</xref>] as well as reducing an over‐reliance on self‐report. Our findings suggest that self‐report is less likely for populations that experience mistrust in healthcare providers and barriers to accessing knowledge and information about LC symptoms.</p><p>Evaluation of inclusion initiatives requires good‐quality data and resources for analysis [<xref rid="hex70336-bib-0012" ref-type="bibr">12</xref>]. Data quality, particularly in LC specialist care, is currently a stumbling block to assessing health outcomes, as there is no way of linking data from specialist centres to Electronic Health Records. The low numbers of people with an LC diagnosis being referred to specialist clinics, and even lower numbers attending appointments, make it even more difficult to assess the effectiveness of access initiatives by specialist centres. The paucity of qualitative or clinical data on homeless people with LC further highlights the invisibility of this population and signals an urgent need to identify such individuals and specifically target their care.</p></sec></sec><sec sec-type="conclusions" id="hex70336-sec-0290"><label>5</label><title>Conclusions and Recommendations</title><p>A key recommendation arising from our research is increased collaboration between LC clinics, third sector organisations and GPs to increase awareness and validation of LC, trust in healthcare and consistency of access to LC support, all of which could improve access to specialist LC care. Such initiatives are particularly important for those with low levels of health literacy and least capacity to persevere with requests for support.</p><p>In terms of care pathways, evidence from qualitative interviews and clinical data highlights the fragmented nature of the care people with LC could receive. This suggests that the integrated and multidisciplinary care pathway operated in NW London is an appropriate approach to diagnosis, referral and treatment of LC. Qualitative findings suggest that such collaboration across clinical teams could particularly benefit those who experience a range of symptoms, particularly if these fluctuate over time.</p><p>Some of the inclusive practice initiatives we identified within LC clinics such as Leeds are currently promoted within NHS LC policy [<xref rid="hex70336-bib-0018" ref-type="bibr">18</xref>]; however, our findings suggest there is a need for more implementation support, as these initiatives were not often utilised in practice. The LC policy should also more clearly promote collaboration between diverse specialities and sectors <italic toggle="yes">within</italic> the NHS as well as work to create links across sectors.</p></sec><sec id="hex70336-sec-0300"><title>Author Contributions</title><p>
+<bold>Ghazala Mir:</bold> conceptualisation, methodology, data curation, formal analysis, supervision, funding acquisition, writing – original draft, writing – review and editing, project administration, visualisation. <bold>Jordan Mullard:</bold> investigation, validation, formal analysis, project administration, writing – original draft, writing – review and editing, visualisation. <bold>Amy Parkin:</bold> writing – review and editing, investigation. <bold>Cassie Lee:</bold> writing – review and editing, investigation, validation, formal analysis. <bold>Jonathan Clarke:</bold> data curation, formal analysis, investigation project administration, writing – review and editing, writing – original draft, funding acquisition, methodology, visualisation. <bold>Johannes H. De Kock:</bold> writing – review and editing. <bold>Denys Prociuk:</bold> formal analysis, writing – original draft, writing – review and editing, data curation, investigation, visualisation. <bold>Julie L. Darbyshire:</bold> writing – review and editing. <bold>Sophie Evans:</bold> writing – review and editing, supervision, validation. <bold>Manoj Sivan:</bold> conceptualisation, methodology, data curation, supervision, funding acquisition, project administration, writing – review and editing.</p></sec><sec id="hex70336-sec-0320"><title>Disclosure</title><p>The views expressed in this publication are those of the authors and not necessarily those of NIHR or the Department of Health and Social Care.</p></sec><sec id="hex70336-sec-0330"><title>Ethics Statement</title><p>Bradford Leeds Research Ethics Committee (reference: 21/YH/0276) and the Health Research Authority Confidentiality Advisory Group under reference: 303623.</p></sec><sec id="hex70336-sec-0340"><title>Consent</title><p>Patient consent was obtained for all qualitative data interviews. All necessary permissions were obtained from the HRA and Whole Systems Integrated Care Data Access Group for anonymised primary care data use.</p></sec><sec sec-type="COI-statement" id="hex70336-sec-0350"><title>Conflicts of Interest</title><p>The authors declare no conflicts of interest.</p></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material id="hex70336-suppl-0001" position="float" content-type="local-data" orientation="portrait"><caption><p>Supp material 1‐ LC Interview Schedule.</p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="HEX-28-e70336-s002.docx" position="float" orientation="portrait"/></supplementary-material><supplementary-material id="hex70336-suppl-0002" position="float" content-type="local-data" orientation="portrait"><caption><p>Supp material 2 ‐ KI Interview Schedule.</p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="HEX-28-e70336-s003.docx" position="float" orientation="portrait"/></supplementary-material><supplementary-material id="hex70336-suppl-0003" position="float" content-type="local-data" orientation="portrait"><caption><p>Supp material 3 ‐ LC clinic survey.</p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="HEX-28-e70336-s001.docx" position="float" orientation="portrait"/></supplementary-material></sec></body><back><ack id="hex70336-sec-0310"><title>Acknowledgements</title><p>The authors thank patient research participants for the descriptions of their experience and LOCOMOTION colleagues who contributed details of the work they were doing to improve equity in LC clinics. In particular, we would like to acknowledge LOCOMOTION clinics for their contributions to the research findings. The authors gratefully acknowledge infrastructure support from the National Institute for Health and Care Research (NIHR) Imperial Patient Safety Translational Research Centre, the NIHR Imperial Biomedical Research Centre, NIHR Leeds Biomedical Research Centre and the NIHR Oxford Biomedical Research Centre. This study was in part enabled by the Imperial Clinical Analytics Research and Evaluation (iCARE) environment and Whole System Integrated Care and used the iCARE and WSIC team and data resources. This study is independent research funded by the National Institute for Health and Care Research (NIHR) (long Covid grant, Ref: COV‐LT2‐0016).</p></ack><fn-group><title>Endnotes</title><fn id="hex70336-note-0006"><label>1</label><p>Supplementary material: Interview schedule for people with LC.</p></fn><fn id="hex70336-note-0007"><label>2</label><p>Supplementary material: Interview schedule for KIs.</p></fn><fn id="hex70336-note-0008"><label>3</label><p>Supplementary material: LC clinic survey questions.</p></fn></fn-group><sec sec-type="data-availability" id="hex70336-sec-0370"><title>Data Availability Statement</title><p>Aggregate datasets used for this publication are available upon reasonable request from the LOCOMOTION Chief Investigator, Professor Manoj Sivan.</p></sec><ref-list content-type="cited-references" id="hex70336-bibl-0001"><title>References</title><ref id="hex70336-bib-0001"><label>1</label><mixed-citation publication-type="miscellaneous" id="hex70336-cit-0001">
+<collab collab-type="authors">National Institute for Health and Care Excellence (NICE)</collab>
+. Clinical Knowledge Summaries—Long Term Effects of Coronavirus [Long COVID] 2022, accessed July 6, 2024, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://cks.nice.org.uk/topics/long-term-effects-of-coronavirus-long-covid/background-information/definition/" ext-link-type="uri">https://cks.nice.org.uk/topics/long-term-effects-of-coronavirus-long-covid/background-information/definition/</ext-link>.</mixed-citation></ref><ref id="hex70336-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="hex70336-cit-0002">
+<string-name name-style="western">
+<given-names>J. B.</given-names>
+<surname>Soriano</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Murthy</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J. C.</given-names>
+<surname>Marshall</surname>
+</string-name>, <string-name name-style="western">
+<given-names>P.</given-names>
+<surname>Relan</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>J. V.</given-names>
+<surname>Diaz</surname>
+</string-name>, “<article-title>A Clinical Case Definition of Post‐COVID‐19 Condition by a Delphi Consensus</article-title>,” <source>Lancet Infectious Diseases</source>
+<volume>22</volume>, no. <issue>4</issue> (<year>2022</year>): <elocation-id>e102–e07</elocation-id>, <pub-id pub-id-type="doi">10.1016/s1473-3099(21)00703-9</pub-id>.<pub-id pub-id-type="pmid">34951953</pub-id>
+<pub-id pub-id-type="pmcid">PMC8691845</pub-id></mixed-citation></ref><ref id="hex70336-bib-0003"><label>3</label><mixed-citation publication-type="miscellaneous" id="hex70336-cit-0003">
+<collab collab-type="authors">Office For National Statistics (ONS)</collab>
+. Prevalence of Ongoing Symptoms Following Coronavirus (COVID‐19) Infection in the UK: 30 March 2023, accessed February 26, 2024, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/bulletins/prevalenceofongoingsymptomsfollowingcoronaviruscovid19infectionintheuk/30march2023" ext-link-type="uri">https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/bulletins/prevalenceofongoingsymptomsfollowingcoronaviruscovid19infectionintheuk/30march2023</ext-link>.</mixed-citation></ref><ref id="hex70336-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="hex70336-cit-0004">
+<string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Subramanian</surname>
+</string-name>, <string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Nirantharakumar</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Hughes</surname>
+</string-name>, et al., “<article-title>Symptoms and Risk Factors for Long Covid in Non‐Hospitalized Adults</article-title>,” <source>Nature Medicine</source>
+<volume>28</volume>, no. <issue>8</issue> (<year>2022</year>): <fpage>1706</fpage>–<lpage>1714</lpage>, <pub-id pub-id-type="doi">10.1038/s41591-022-01909-w</pub-id>.<pub-id pub-id-type="pmcid">PMC9388369</pub-id><pub-id pub-id-type="pmid">35879616</pub-id></mixed-citation></ref><ref id="hex70336-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="hex70336-cit-0005">
+<string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Kwon</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Milne</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Rayner</surname>
+</string-name>, et al., “<article-title>Impact of Long COVID on Productivity and Informal Caregiving</article-title>,” <source>European Journal of Health Economics</source>, no. <issue>7</issue> (<year>2023</year>): <fpage>1095</fpage>–<lpage>1115</lpage>, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://pubmed.ncbi.nlm.nih.gov/38146040/" ext-link-type="uri">https://pubmed.ncbi.nlm.nih.gov/38146040/</ext-link>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s10198-023-01653-z</pub-id><pub-id pub-id-type="pmcid">PMC11377524</pub-id><pub-id pub-id-type="pmid">38146040</pub-id></mixed-citation></ref><ref id="hex70336-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="hex70336-cit-0006">
+<string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S. R.</given-names>
+<surname>Haupert</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Zimmermann</surname>
+</string-name>, <string-name name-style="western">
+<given-names>X.</given-names>
+<surname>Shi</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L. G.</given-names>
+<surname>Fritsche</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>B.</given-names>
+<surname>Mukherjee</surname>
+</string-name>, “<article-title>Global Prevalence of Post‐Coronavirus Disease 2019 (COVID‐19) Condition or Long Covid: A Meta‐Analysis and Systematic Review</article-title>,” <source>Journal of Infectious Diseases</source>
+<volume>226</volume>, no. <issue>9</issue> (November 1, <year>2022</year>): <fpage>1593</fpage>–<lpage>1607</lpage>.<pub-id pub-id-type="pmid">35429399</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/infdis/jiac136</pub-id><pub-id pub-id-type="pmcid">PMC9047189</pub-id></mixed-citation></ref><ref id="hex70336-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="hex70336-cit-0007">
+<string-name name-style="western">
+<given-names>L. L.</given-names>
+<surname>O'Mahoney</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Routen</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Gillies</surname>
+</string-name>, et al., “<article-title>The Prevalence and Long‐Term Health Effects of Long Covid Among Hospitalised and Non‐Hospitalised Populations: A Systematic Review and Meta‐Analysis</article-title>,” <source>EClinicalMedicine</source>
+<volume>55</volume> (<year>2023</year>), <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.thelancet.com/journals/eclinm/article/PIIS2589-5370(22)00491-6/fulltext" ext-link-type="uri">https://www.thelancet.com/journals/eclinm/article/PIIS2589-5370(22)00491-6/fulltext</ext-link>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.eclinm.2022.101762</pub-id><pub-id pub-id-type="pmcid">PMC9714474</pub-id><pub-id pub-id-type="pmid">36474804</pub-id></mixed-citation></ref><ref id="hex70336-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="hex70336-cit-0008">
+<string-name name-style="western">
+<given-names>R. J.</given-names>
+<surname>O'Connor</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Parkin</surname>
+</string-name>, <string-name name-style="western">
+<given-names>G.</given-names>
+<surname>Mir</surname>
+</string-name>, et al., “<article-title>Work and Vocational Rehabilitation for People Living With Long Covid</article-title>,” <source>BMJ</source>
+<volume>385</volume> (<year>2024</year>): <fpage>385</fpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1136/bmj-2023-076508</pub-id><pub-id pub-id-type="pmid">38729647</pub-id></mixed-citation></ref><ref id="hex70336-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="hex70336-cit-0009">
+<string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Ayoubkhani</surname>
+</string-name>, <string-name name-style="western">
+<given-names>F.</given-names>
+<surname>Zaccardi</surname>
+</string-name>, <string-name name-style="western">
+<given-names>K. B.</given-names>
+<surname>Pouwels</surname>
+</string-name>, et al., “<article-title>Employment Outcomes of People With Long Covid Symptoms: Community‐Based Cohort Study</article-title>,” <source>European Journal of Public Health</source>
+<volume>34</volume>, no. <issue>3</issue> (<year>2024</year>): <fpage>489</fpage>–<lpage>496</lpage>, <pub-id pub-id-type="doi">10.1093/eurpub/ckae034</pub-id>.<pub-id pub-id-type="pmid">38423541</pub-id>
+<pub-id pub-id-type="pmcid">PMC11161149</pub-id></mixed-citation></ref><ref id="hex70336-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="hex70336-cit-0010">
+<string-name name-style="western">
+<given-names>K. L.</given-names>
+<surname>Bentley‐Edwards</surname>
+</string-name>, <string-name name-style="western">
+<given-names>O.</given-names>
+<surname>Adisa</surname>
+</string-name>, <string-name name-style="western">
+<given-names>K. E.</given-names>
+<surname>Ruff</surname>
+</string-name>, <string-name name-style="western">
+<given-names>E. S.</given-names>
+<surname>McClure</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>W. R.</given-names>
+<surname>Robinson</surname>
+</string-name>, “<article-title>Race, Racism, and Covid‐19 in the US: Lessons Not Learnt</article-title>,” <source>BMJ</source>
+<volume>384</volume> (<year>2024</year>): <elocation-id>e076106</elocation-id>, <pub-id pub-id-type="doi">10.1136/bmj-2023-076106</pub-id>.<pub-id pub-id-type="pmid">38408791</pub-id>
+</mixed-citation></ref><ref id="hex70336-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="hex70336-cit-0011">
+<string-name name-style="western">
+<given-names>E.</given-names>
+<surname>Ladds</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Rushforth</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Wieringa</surname>
+</string-name>, et al., “<article-title>Persistent Symptoms After Covid‐19: Qualitative Study of 114 ‘Long Covid’ Patients and Draft Quality Principles for Services</article-title>,” <source>BMC Health Services Research</source>
+<volume>20</volume>, no. <issue>1</issue> (<year>2020</year>): <fpage>1144</fpage>, <pub-id pub-id-type="doi">10.1186/s12913-020-06001-y</pub-id>.<pub-id pub-id-type="pmid">33342437</pub-id>
+<pub-id pub-id-type="pmcid">PMC7750006</pub-id></mixed-citation></ref><ref id="hex70336-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="hex70336-cit-0012">
+<string-name name-style="western">
+<given-names>G.</given-names>
+<surname>Mir</surname>
+</string-name>, <string-name name-style="western">
+<given-names>N.</given-names>
+<surname>Durrani</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Julian</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Kimei</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Mashreky</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>T. T. D.</given-names>
+<surname>Doan</surname>
+</string-name>, “<article-title>Social Inclusion and Sustainable Development: Findings From Seven African and Asian Contexts</article-title>,” <source>Sustainability</source>
+<volume>16</volume>, no. <issue>11</issue> (<year>2024</year>): <fpage>4859</fpage>.</mixed-citation></ref><ref id="hex70336-bib-0013"><label>13</label><mixed-citation publication-type="miscellaneous" id="hex70336-cit-0013">
+<string-name name-style="western">
+<given-names>G.</given-names>
+<surname>Mir</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Karlsen</surname>
+</string-name>, <string-name name-style="western">
+<given-names>W. V.</given-names>
+<surname>Mitullah</surname>
+</string-name>, et al., <year>2020</year>. Achieving SDG 10: A Global Review of Public Service Inclusion Strategies for Ethnic and Religious Minorities. UNRISD Occasional Paper‐Overcoming Inequalities in a Fractured World.</mixed-citation></ref><ref id="hex70336-bib-0014"><label>14</label><mixed-citation publication-type="miscellaneous" id="hex70336-cit-0014">United Nations (UN). World Social Situation 2016: Leaving No One Behind—The Imperative of Inclusive Development 2016, accessed September 3, 2024, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.un.org/development/desa/socialperspectiveondevelopment/2016/09/06/world-social-situation-2016-leaving-no-one-behind-the-imperative-of-inclusive-development/#:~:text=A%20central%20pledge%20of%20the%202030%20Agenda%20is,to%20endeavour%20to%20reach%20the%20furthest%20behind%20first" ext-link-type="uri">https://www.un.org/development/desa/socialperspectiveondevelopment/2016/09/06/world-social-situation-2016-leaving-no-one-behind-the-imperative-of-inclusive-development/#:~:text=A%20central%20pledge%20of%20the%202030%20Agenda%20is,to%20endeavour%20to%20reach%20the%20furthest%20behind%20first</ext-link>.</mixed-citation></ref><ref id="hex70336-bib-0015"><label>15</label><mixed-citation publication-type="journal" id="hex70336-cit-0015">
+<string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Mullard</surname>
+</string-name>, <string-name name-style="western">
+<given-names>G.</given-names>
+<surname>Mir</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Herbert</surname>
+</string-name>, et al., “<article-title>‘You're Just a Guinea Pig’: Exploring the Barriers and Impacts of Living With Long COVID‐19: A View From the Undiagnosed</article-title>,” <source>Sociology of Health &amp; Illness</source>
+<volume>46</volume>, no. <issue>8</issue> (<year>2024</year>): <fpage>1602</fpage>–<lpage>1625</lpage>, <pub-id pub-id-type="doi">10.1111/1467-9566.13795</pub-id>.<pub-id pub-id-type="pmid">38850204</pub-id>
+</mixed-citation></ref><ref id="hex70336-bib-0016"><label>16</label><mixed-citation publication-type="journal" id="hex70336-cit-0016">
+<string-name name-style="western">
+<given-names>S. A.</given-names>
+<surname>Baz</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Fang</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J. D.</given-names>
+<surname>Carpentieri</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Sheard</surname>
+</string-name>, “<article-title>‘I Don't Know What to Do or Where to Go’. Experiences of Accessing Healthcare Support From the Perspectives of People Living With Long Covid and Healthcare Professionals: A Qualitative Study in Bradford, UK</article-title>,” <source>Health Expectations</source>
+<volume>26</volume>, no. <issue>1</issue> (<year>2023</year>): <fpage>542</fpage>–<lpage>554</lpage>.<pub-id pub-id-type="pmid">36512382</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/hex.13687</pub-id><pub-id pub-id-type="pmcid">PMC10124541</pub-id></mixed-citation></ref><ref id="hex70336-bib-0017"><label>17</label><mixed-citation publication-type="journal" id="hex70336-cit-0017">
+<string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Mullard</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Kawalek</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Parkin</surname>
+</string-name>, et al., “<article-title>Towards Evidence‐Based and Inclusive Models of Peer Support for Long Covid: A Hermeneutic Systematic Review</article-title>,” <source>Social Science &amp; Medicine</source>
+<volume>320</volume> (<year>2023</year>): <elocation-id>115669</elocation-id>.<pub-id pub-id-type="pmid">36708608</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.socscimed.2023.115669</pub-id><pub-id pub-id-type="pmcid">PMC9840228</pub-id></mixed-citation></ref><ref id="hex70336-bib-0018"><label>18</label><mixed-citation publication-type="miscellaneous" id="hex70336-cit-0018">
+<collab collab-type="authors">National Health Service (NHS)</collab>
+. Long COVID: The NHS Plan for 2021/22, accessed September 3, 2024, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.england.nhs.uk/coronavirus/publication/long-covid-the-nhs-plan-for-2021-22/" ext-link-type="uri">https://www.england.nhs.uk/coronavirus/publication/long-covid-the-nhs-plan-for-2021-22/</ext-link>.</mixed-citation></ref><ref id="hex70336-bib-0019"><label>19</label><mixed-citation publication-type="journal" id="hex70336-cit-0019">
+<string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Sivan</surname>
+</string-name>, <string-name name-style="western">
+<given-names>T.</given-names>
+<surname>Greenhalgh</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J. L.</given-names>
+<surname>Darbyshire</surname>
+</string-name>, et al., “<article-title>LOng COvid Multidisciplinary Consortium Optimising Treatments and Services AcrOss the NHS (LOCOMOTION): Protocol for a Mixed‐Methods Study in the UK</article-title>,” <source>BMJ Open</source>
+<volume>12</volume>, no. <issue>5</issue> (<year>2022</year>): <elocation-id>e063505</elocation-id>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1136/bmjopen-2022-063505</pub-id><pub-id pub-id-type="pmcid">PMC9114312</pub-id><pub-id pub-id-type="pmid">35580970</pub-id></mixed-citation></ref><ref id="hex70336-bib-0020"><label>20</label><mixed-citation publication-type="miscellaneous" id="hex70336-cit-0020">
+<collab collab-type="authors">National Institute for Health and Care Research (NIHR)</collab>
+. <article-title>Improving Inclusion of Under‐Served Groups in Clinical Research: Guidance From INCLUDE Project</article-title>. <year>2020</year>, accessed January 14, 2025, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://www.nihr.ac.uk/documents/improving-inclusion-of-under-served-groups-in-clinical-research-guidance-from-include-project/25435" ext-link-type="uri">www.nihr.ac.uk/documents/improving-inclusion-of-under-served-groups-in-clinical-research-guidance-from-include-project/25435</ext-link>.</mixed-citation></ref><ref id="hex70336-bib-0021"><label>21</label><mixed-citation publication-type="book" id="hex70336-cit-0021">
+<string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Ritchie</surname>
+</string-name> and <string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Spencer</surname>
+</string-name>, “<part-title>Qualitative Data Analysis for Applied Policy Research</part-title>.” <source>Analyzing Qualitative Data</source> (<publisher-name>Routledge</publisher-name>, <year>2002</year>), <fpage>173</fpage>–<lpage>194</lpage>.</mixed-citation></ref><ref id="hex70336-bib-0022"><label>22</label><mixed-citation publication-type="journal" id="hex70336-cit-0022">
+<string-name name-style="western">
+<given-names>T.</given-names>
+<surname>Greenhalgh</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J. L.</given-names>
+<surname>Darbyshire</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Lee</surname>
+</string-name>, <string-name name-style="western">
+<given-names>E.</given-names>
+<surname>Ladds</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Ceolta‐Smith</surname>
+</string-name>, “<article-title>What Is Quality in Long Covid Care? Lessons From a National Quality Improvement Collaborative and Multi‐Site Ethnography</article-title>,” <source>BMC Medicine</source>
+<volume>22</volume>, no. <issue>1</issue> (<year>2024</year>): <fpage>159</fpage>, <pub-id pub-id-type="doi">10.1186/s12916-024-03371-6</pub-id>.<pub-id pub-id-type="pmid">38616276</pub-id>
+<pub-id pub-id-type="pmcid">PMC11017565</pub-id></mixed-citation></ref><ref id="hex70336-bib-0023"><label>23</label><mixed-citation publication-type="journal" id="hex70336-cit-0023">
+<string-name name-style="western">
+<given-names>L. A.</given-names>
+<surname>Curry</surname>
+</string-name>, <string-name name-style="western">
+<given-names>H. M.</given-names>
+<surname>Krumholz</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>O'cathain</surname>
+</string-name>, <string-name name-style="western">
+<given-names>V. L.</given-names>
+<surname>Plano Clark</surname>
+</string-name>, <string-name name-style="western">
+<given-names>E.</given-names>
+<surname>Cherlin</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>E. H.</given-names>
+<surname>Bradley</surname>
+</string-name>, “<article-title>Mixed Methods in Biomedical and Health Services Research</article-title>,” <source>Circulation. Cardiovascular Quality and Outcomes</source>
+<volume>6</volume>, no. <issue>1</issue> (January <year>2013</year>): <fpage>119</fpage>–<lpage>123</lpage>.<pub-id pub-id-type="pmid">23322807</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1161/CIRCOUTCOMES.112.967885</pub-id><pub-id pub-id-type="pmcid">PMC3569711</pub-id></mixed-citation></ref><ref id="hex70336-bib-0024"><label>24</label><mixed-citation publication-type="journal" id="hex70336-cit-0024">
+<string-name name-style="western">
+<given-names>T. H.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name name-style="western">
+<given-names>P. Y.</given-names>
+<surname>Huang</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J. Y.</given-names>
+<surname>Wu</surname>
+</string-name>, et al., “<article-title>Post‐COVID‐19 Condition Risk in Patients With Intellectual and Developmental Disabilities: A Retrospective Cohort Study Involving 36,308 Patients</article-title>,” <source>BMC Medicine</source>
+<volume>21</volume>, no. <issue>1</issue> (December <year>2023</year>): <fpage>505</fpage>.<pub-id pub-id-type="pmid">38114989</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1186/s12916-023-03216-8</pub-id><pub-id pub-id-type="pmcid">PMC10731815</pub-id></mixed-citation></ref><ref id="hex70336-bib-0025"><label>25</label><mixed-citation publication-type="miscellaneous" id="hex70336-cit-0025">
+<string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Prociuk</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Clarke</surname>
+</string-name>, <string-name name-style="western">
+<given-names>N.</given-names>
+<surname>Smith</surname>
+</string-name>, et al., <article-title>LOCOMOTION Consortium, “Understanding the Clinical Characteristics and Timeliness of Diagnosis for Patients Diagnosed With Long COVID: A Retrospective Observational Cohort Study From North West London</article-title>,” <italic toggle="yes">medRxiv</italic>, August, 2024.</mixed-citation></ref><ref id="hex70336-bib-0026"><label>26</label><mixed-citation publication-type="miscellaneous" id="hex70336-cit-0026">Healthtalk.org Seeking Help From the GP. The Dipex Charity 2024, accessed 9 September 2024, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://healthtalk.org/experiences/long-covid-in-adults/seeking-help-gp/" ext-link-type="uri">https://healthtalk.org/experiences/long-covid-in-adults/seeking-help-gp/</ext-link>.</mixed-citation></ref><ref id="hex70336-bib-0027"><label>27</label><mixed-citation publication-type="book" id="hex70336-cit-0027">
+<string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Nazroo</surname>
+</string-name>, <string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Murray</surname>
+</string-name>, <string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Taylor</surname>
+</string-name>, et al., <source>Rapid Evidence Review: Inequalities in Relation to COVID‐19 and Their Effects on London</source> (<publisher-name>University of Manchester, The Ubele Initiative, University of Sussex</publisher-name>, <year>2020</year>).</mixed-citation></ref><ref id="hex70336-bib-0028"><label>28</label><mixed-citation publication-type="book" id="hex70336-cit-0028">
+<string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Fenton</surname>
+</string-name>, <string-name name-style="western">
+<given-names>E.</given-names>
+<surname>Pawson</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>L.</given-names>
+<surname>de Souza‐Thomas</surname>
+</string-name>, <source>Beyond the Data: Understanding the Impact of COVID‐19 on BAME Groups</source> (<publisher-name>Public Health England</publisher-name>, <year>2020</year>).</mixed-citation></ref><ref id="hex70336-bib-0029"><label>29</label><mixed-citation publication-type="book" id="hex70336-cit-0029">
+<string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Fricker</surname>
+</string-name>, <source>Epistemic Injustice: Power and the Ethics of Knowing</source> (<publisher-name>Oxford University Press</publisher-name>, <year>2007</year>).</mixed-citation></ref><ref id="hex70336-bib-0030"><label>30</label><mixed-citation publication-type="journal" id="hex70336-cit-0030">
+<string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Ireson</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Taylor</surname>
+</string-name>, <string-name name-style="western">
+<given-names>E.</given-names>
+<surname>Richardson</surname>
+</string-name>, et al., “<article-title>Exploring Invisibility and Epistemic Injustice in Long Covid—A Citizen Science Qualitative Analysis of Patient Stories From an Online Covid Community</article-title>,” <source>Health Expectations</source>
+<volume>25</volume>, no. <issue>4</issue> (<year>2022</year>): <fpage>1753</fpage>–<lpage>1765</lpage>.<pub-id pub-id-type="pmid">35557480</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/hex.13518</pub-id><pub-id pub-id-type="pmcid">PMC9327841</pub-id></mixed-citation></ref><ref id="hex70336-bib-0031"><label>31</label><mixed-citation publication-type="book" id="hex70336-cit-0031">
+<string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Craig‐Henderson</surname>
+</string-name>, <source>Navigating the Inequitable US Healthcare System: In Search of Critical Care</source> (<publisher-name>Anthem Press</publisher-name>, <year>2024</year>).</mixed-citation></ref><ref id="hex70336-bib-0032"><label>32</label><mixed-citation publication-type="journal" id="hex70336-cit-0032">
+<string-name name-style="western">
+<given-names>G.</given-names>
+<surname>Mir</surname>
+</string-name> and <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Sheikh</surname>
+</string-name>, “‘<article-title>Fasting and Prayer Don't Concern the Doctors… They Don't Even Know What It Is’: Communication, Decision‐Making and Perceived Social Relations of Pakistani Muslim Patients With Long‐Term Illnesses</article-title>,” <source>Ethnicity &amp; Health</source>
+<volume>15</volume>, no. <issue>4</issue> (<year>2010</year>): <fpage>327</fpage>–<lpage>342</lpage>.<pub-id pub-id-type="pmid">20544446</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1080/13557851003624273</pub-id></mixed-citation></ref><ref id="hex70336-bib-0033"><label>33</label><mixed-citation publication-type="journal" id="hex70336-cit-0033">
+<string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Knuppel</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Boyd</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Macleod</surname>
+</string-name>, <string-name name-style="western">
+<given-names>N.</given-names>
+<surname>Chaturvedi</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>D. M.</given-names>
+<surname>Williams</surname>
+</string-name>, “<article-title>The Long COVID Evidence Gap in England</article-title>,” <source>Lancet</source>
+<volume>403</volume>, no. <issue>10440</issue> (May 18, <year>2024</year>): <fpage>1981</fpage>–<lpage>1982</lpage>.<pub-id pub-id-type="pmid">38729195</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/S0140-6736(24)00744-X</pub-id></mixed-citation></ref><ref id="hex70336-bib-0034"><label>34</label><mixed-citation publication-type="miscellaneous" id="hex70336-cit-0034">
+<collab collab-type="authors">North‐West London</collab>
+. <article-title>Long Covid Animation for Professionals: NHS North West London</article-title>, <year>2024</year>.</mixed-citation></ref><ref id="hex70336-bib-0035"><label>35</label><mixed-citation publication-type="journal" id="hex70336-cit-0035">
+<string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Shabnam</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Razieh</surname>
+</string-name>, <string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Dambha‐Miller</surname>
+</string-name>, et al., “<article-title>Socioeconomic Inequalities of Long COVID: A Retrospective Population‐Based Cohort Study in the United Kingdom</article-title>,” <source>Journal of the Royal Society of Medicine</source>
+<volume>116</volume>, no. <issue>8</issue> (<year>2023</year>): <fpage>263</fpage>–<lpage>273</lpage>.<pub-id pub-id-type="pmid">37164035</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1177/01410768231168377</pub-id><pub-id pub-id-type="pmcid">PMC10469969</pub-id></mixed-citation></ref><ref id="hex70336-bib-0036"><label>36</label><mixed-citation publication-type="journal" id="hex70336-cit-0036">
+<string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Khullar</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Zang</surname>
+</string-name>, et al., “<article-title>Racial/Ethnic Disparities in Post‐Acute Sequelae of SARS‐CoV‐2 Infection in New York: An EHR‐Based Cohort Study From the RECOVER Program</article-title>,” <source>Journal of General Internal Medicine</source>
+<volume>38</volume>, no. <issue>5</issue> (April <year>2023</year>): <fpage>1127</fpage>–<lpage>1136</lpage>.<pub-id pub-id-type="pmid">36795327</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s11606-022-07997-1</pub-id><pub-id pub-id-type="pmcid">PMC9933823</pub-id></mixed-citation></ref><ref id="hex70336-bib-0037"><label>37</label><mixed-citation publication-type="journal" id="hex70336-cit-0037">
+<string-name name-style="western">
+<given-names>M. M.</given-names>
+<surname>Jacobs</surname>
+</string-name>, <string-name name-style="western">
+<given-names>E.</given-names>
+<surname>Evans</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Ellis</surname>
+</string-name>, “<article-title>Racial, Ethnic, and Sex Disparities in the Incidence and Cognitive Symptomology of Long COVID‐19</article-title>,” <source>Journal of the National Medical Association</source>
+<volume>115</volume>, no. <issue>2</issue> (April <year>2023</year>): <fpage>233</fpage>–<lpage>243</lpage>.<pub-id pub-id-type="pmid">36792456</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.jnma.2023.01.016</pub-id><pub-id pub-id-type="pmcid">PMC9923441</pub-id></mixed-citation></ref><ref id="hex70336-bib-0038"><label>38</label><mixed-citation publication-type="journal" id="hex70336-cit-0038">
+<string-name name-style="western">
+<given-names>J. K.</given-names>
+<surname>Shim</surname>
+</string-name>, “<article-title>Cultural Health Capital: A Theoretical Approach to Understanding Health Care Interactions and the Dynamics of Unequal Treatment</article-title>,” <source>Journal of Health and Social Behavior</source>
+<volume>51</volume>, no. <issue>1</issue> (<year>2010</year>): <fpage>1</fpage>–<lpage>15</lpage>, <pub-id pub-id-type="doi">10.1177/0022146509361185</pub-id>.<pub-id pub-id-type="pmid">20420291</pub-id>
+<pub-id pub-id-type="pmcid">PMC10658877</pub-id></mixed-citation></ref><ref id="hex70336-bib-0039"><label>39</label><mixed-citation publication-type="journal" id="hex70336-cit-0039">
+<string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Sivan</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Halpin</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Hollingworth</surname>
+</string-name>, <string-name name-style="western">
+<given-names>N.</given-names>
+<surname>Snook</surname>
+</string-name>, <string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Hickman</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>I. J.</given-names>
+<surname>Clifton</surname>
+</string-name>, “<article-title>Development of an Integrated Rehabilitation Pathway for Individuals Recovering From COVID‐19 in the Community</article-title>,” <source>Journal of Rehabilitation Medicine</source>
+<volume>52</volume>, no. <issue>8</issue> (August <year>2020</year>): <elocation-id>jrm00089</elocation-id>.<pub-id pub-id-type="pmid">32830284</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.2340/16501977-2727</pub-id></mixed-citation></ref></ref-list></back></article></pmc-articleset>

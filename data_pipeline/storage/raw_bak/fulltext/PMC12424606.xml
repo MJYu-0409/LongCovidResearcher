@@ -1,0 +1,455 @@
+<?xml version="1.0"  ?><!DOCTYPE pmc-articleset PUBLIC "-//NLM//DTD ARTICLE SET 2.0//EN" "https://dtd.nlm.nih.gov/ncbi/pmc/articleset/nlm-articleset-2.0.dtd"><pmc-articleset><article id="hex70428" xml:lang="en" article-type="research-article" dtd-version="1.4"><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">Health Expect</journal-id><journal-id journal-id-type="iso-abbrev">Health Expect</journal-id><journal-id journal-id-type="pmc-domain-id">2997</journal-id><journal-id journal-id-type="pmc-domain">hex</journal-id><journal-id journal-id-type="publisher-id">HEX</journal-id><journal-title-group><journal-title>Health Expectations : An International Journal of Public Participation in Health Care and Health Policy</journal-title></journal-title-group><issn pub-type="ppub">1369-6513</issn><issn pub-type="epub">1369-7625</issn><publisher><publisher-name>Wiley</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC12424606</article-id><article-id pub-id-type="pmcid-ver">PMC12424606.1</article-id><article-id pub-id-type="pmcaid">12424606</article-id><article-id pub-id-type="pmcaiid">12424606</article-id><article-id pub-id-type="pmid">40932810</article-id><article-id pub-id-type="doi">10.1111/hex.70428</article-id><article-id pub-id-type="publisher-id">HEX70428</article-id><article-version article-version-type="pmc-version">1</article-version><article-categories><subj-group subj-group-type="overline"><subject>Original Article</subject></subj-group><subj-group subj-group-type="heading"><subject>Original Article</subject></subj-group></article-categories><title-group><article-title>Challenges of Inclusion: A Population‐Based Interview Study of Long Covid</article-title></title-group><contrib-group><contrib id="hex70428-cr-0001" contrib-type="author"><name name-style="western"><surname>Cooper</surname><given-names initials="E">Emily</given-names></name><xref rid="hex70428-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="hex70428-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib id="hex70428-cr-0002" contrib-type="author"><name name-style="western"><surname>Lound</surname><given-names initials="A">Adam</given-names></name><xref rid="hex70428-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="hex70428-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib id="hex70428-cr-0003" contrib-type="author"><name name-style="western"><surname>Jones</surname><given-names initials="K">Kathryn</given-names></name><xref rid="hex70428-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="hex70428-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib id="hex70428-cr-0004" contrib-type="author"><name name-style="western"><surname>Bruton</surname><given-names initials="J">Jane</given-names></name><xref rid="hex70428-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="hex70428-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib id="hex70428-cr-0005" contrib-type="author"><name name-style="western"><surname>Day</surname><given-names initials="S">Sophie</given-names></name><xref rid="hex70428-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="hex70428-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib id="hex70428-cr-0006" contrib-type="author"><name name-style="western"><surname>Atchison</surname><given-names initials="CJ">Christina J.</given-names></name><xref rid="hex70428-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="hex70428-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib id="hex70428-cr-0007" contrib-type="author"><name name-style="western"><surname>Eccles</surname><given-names initials="C">Caroline</given-names></name><xref rid="hex70428-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref></contrib><contrib id="hex70428-cr-0008" contrib-type="author"><name name-style="western"><surname>Piper</surname><given-names initials="A">Alex</given-names></name><xref rid="hex70428-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref></contrib><contrib id="hex70428-cr-0009" contrib-type="author"><name name-style="western"><surname>Cooke</surname><given-names initials="GS">Graham S.</given-names></name><xref rid="hex70428-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref><xref rid="hex70428-aff-0004" ref-type="aff">
+<sup>4</sup>
+</xref></contrib><contrib id="hex70428-cr-0010" contrib-type="author"><name name-style="western"><surname>Chadeau‐Hyam</surname><given-names initials="M">Marc</given-names></name><xref rid="hex70428-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref><xref rid="hex70428-aff-0005" ref-type="aff">
+<sup>5</sup>
+</xref></contrib><contrib id="hex70428-cr-0011" contrib-type="author"><name name-style="western"><surname>Elliott</surname><given-names initials="P">Paul</given-names></name><xref rid="hex70428-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref><xref rid="hex70428-aff-0005" ref-type="aff">
+<sup>5</sup>
+</xref></contrib><contrib id="hex70428-cr-0012" contrib-type="author" corresp="yes"><name name-style="western"><surname>Ward</surname><given-names initials="H">Helen</given-names></name><xref rid="hex70428-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="hex70428-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref><address><email>h.ward@imperial.ac.uk</email></address></contrib></contrib-group><aff id="hex70428-aff-0001">
+<label>
+<sup>1</sup>
+</label>
+<named-content content-type="organisation-division">Patient Experience Research Centre</named-content>
+<institution>School of Public Health, Imperial College London</institution>
+<city>London</city>
+<country country="GB">UK</country>
+</aff><aff id="hex70428-aff-0002">
+<label>
+<sup>2</sup>
+</label>
+<institution>National Institute for Health Research (NIHR) Imperial Biomedical Research Centre</institution>
+<city>London</city>
+<country country="GB">UK</country>
+</aff><aff id="hex70428-aff-0003">
+<label>
+<sup>3</sup>
+</label>
+<institution>Public Advisory Group member</institution>
+<city>London</city>
+<country country="GB">UK</country>
+</aff><aff id="hex70428-aff-0004">
+<label>
+<sup>4</sup>
+</label>
+<named-content content-type="organisation-division">Department of Infectious Disease</named-content>
+<institution>Imperial College London</institution>
+<city>London</city>
+<country country="GB">UK</country>
+</aff><aff id="hex70428-aff-0005">
+<label>
+<sup>5</sup>
+</label>
+<institution>MRC Centre for Environment and Health, Imperial College London</institution>
+<city>London</city>
+<country country="GB">UK</country>
+</aff><author-notes><corresp id="correspondenceTo">
+<label>*</label>
+<bold>Correspondence:</bold> Helen Ward (<email>h.ward@imperial.ac.uk</email>)<break/>
+</corresp></author-notes><pub-date pub-type="epub"><day>11</day><month>9</month><year>2025</year></pub-date><pub-date pub-type="collection"><month>10</month><year>2025</year></pub-date><volume>28</volume><issue seq="49">5</issue><issue-id pub-id-type="pmc-issue-id">495738</issue-id><issue-id pub-id-type="doi">10.1111/hex.v28.5</issue-id><elocation-id>e70428</elocation-id><history><date date-type="rev-recd"><day>20</day><month>8</month><year>2025</year></date><date date-type="received"><day>04</day><month>4</month><year>2025</year></date><date date-type="accepted"><day>25</day><month>8</month><year>2025</year></date></history><pub-history><event event-type="pmc-release"><date><day>11</day><month>09</month><year>2025</year></date></event><event event-type="pmc-live"><date><day>12</day><month>09</month><year>2025</year></date></event><event event-type="pmc-last-change"><date iso-8601-date="2025-09-13 06:25:19.167"><day>13</day><month>09</month><year>2025</year></date></event></pub-history><permissions><copyright-statement content-type="article-copyright">© 2025 The Author(s). <italic toggle="yes">Health Expectations</italic> published by John Wiley &amp; Sons Ltd.</copyright-statement><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>This is an open access article under the terms of the <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pmc-pdf" xlink:href="HEX-28-e70428.pdf"/><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pdf" xlink:href="file:HEX-28-e70428.pdf"/><abstract><title>ABSTRACT</title><sec id="hex70428-sec-0010"><title>Introduction</title><p>People with long Covid report a wide range of symptoms and inconsistent responses when seeking clinical diagnosis and support. Much of the qualitative research on long Covid has been based on people attending specialist clinical services or who have accessed support groups. We aimed to understand the varied experiences of persistent symptoms following Covid‐19 and the impact on the lives of people affected.</p></sec><sec id="hex70428-sec-0020"><title>Methods</title><p>Qualitative interview study nested within the large, community‐based REal‐time Assessment of Community Transmission (REACT) study in England. Participants reporting persistent symptoms following Covid‐19 were asked for consent to be contacted about a follow‐up interview. We then purposively sampled by age, gender, ethnicity and symptom severity and conducted 60 interviews. Analysis was carried out using a reflexive thematic analysis approach.</p></sec><sec id="hex70428-sec-0030"><title>Results</title><p>Participants were an ethnically diverse group aged between 18 and 80 years who reported symptoms following Covid‐19 for between a few months and more than 2 years. Many had not accessed clinical care or specific long Covid support, and some did not identify with the category of long Covid, rendering their experiences largely invisible. Participants highlighted the ways in which they self‐manage symptoms within this context, and the varied burden of coping with ongoing health problems.</p></sec><sec id="hex70428-sec-0040"><title>Conclusion</title><p>This diverse sample of people with long Covid report a range of challenges managing this emerging and contested condition, with uncertainty affecting their own understanding and the validation they receive from professionals, family and friends. These challenges intersect with others, such as racism, and are compounded by a lack of specific resources for long Covid as well as over‐stretched health services in the United Kingdom. Nevertheless, people report a variety of strategies in managing their symptoms, seeking information and support from a range of sources.</p></sec><sec id="hex70428-sec-0050"><title>Patient or Public Contribution</title><p>Study design, analysis and drafting of paper informed by Patient Advisory Group.</p></sec></abstract><kwd-group><kwd id="hex70428-kwd-0001">diversity</kwd><kwd id="hex70428-kwd-0002">healthcare</kwd><kwd id="hex70428-kwd-0003">long Covid</kwd><kwd id="hex70428-kwd-0004">qualitative research</kwd><kwd id="hex70428-kwd-0005">recovery</kwd><kwd id="hex70428-kwd-0006">support services</kwd><kwd id="hex70428-kwd-0007">symptom management</kwd></kwd-group><funding-group><award-group id="funding-0001"><funding-source>
+<institution-wrap><institution>This study is independent research funded by the National Institute for Health and Care Research (NIHR) and UK Research and Innovation (UKRI): REACT‐GE (Genomics England) (UKRI MC_PC_20049) and REACT‐LC (Long Covid) (COV‐LT‐0040). The REACT‐1 and REACT‐2 studies were funded by the Department of Health and Social Care in England (DHSC). We also acknowledge support from the NIHR Imperial Biomedical Research Centre. The views expressed in this publication are those of the authors and not necessarily those of DHSC, NIHR or UKRI.</institution></institution-wrap>
+</funding-source></award-group></funding-group><counts><fig-count count="0"/><table-count count="0"/><page-count count="9"/><word-count count="7564"/></counts><custom-meta-group><custom-meta><meta-name>pmc-status-qastatus</meta-name><meta-value>0</meta-value></custom-meta><custom-meta><meta-name>pmc-status-live</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-status-embargo</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-status-released</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-access</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-legally-suppressed</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-pdf</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-supplement</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-pdf-only</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-suppress-copyright</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-real-version</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-scanned-article</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-in-epmc</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-license-ref</meta-name><meta-value>CC BY</meta-value></custom-meta><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>October 2025</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:6.6.2 mode:remove_FC converted:11.09.2025</meta-value></custom-meta></custom-meta-group></article-meta></front><body><sec id="hex70428-sec-0060"><label>1</label><title>Introduction</title><p>Long Covid (also known as post‐Covid condition or post‐Covid syndrome) is a significant public health challenge [<xref rid="hex70428-bib-0001" ref-type="bibr">1</xref>, <xref rid="hex70428-bib-0002" ref-type="bibr">2</xref>] with diagnostic uncertainty and gaps in knowledge. While biomedical research and clinical trials into potential mechanisms and treatments are ongoing, patients and clinicians are left with inadequate guidance and support [<xref rid="hex70428-bib-0003" ref-type="bibr">3</xref>, <xref rid="hex70428-bib-0004" ref-type="bibr">4</xref>].</p><p>In 2020, long Covid support groups were established to bring people together to share experiences, provide support and advocate for research and treatment. These groups continue to play a critical role in helping patients, carrying out research and informing clinical services that have been developed in a number of countries [<xref rid="hex70428-bib-0005" ref-type="bibr">5</xref>, <xref rid="hex70428-bib-0006" ref-type="bibr">6</xref>]. However, 5 years later, people with persistent symptoms following Covid‐19 are often still unable to access clinical care or support [<xref rid="hex70428-bib-0007" ref-type="bibr">7</xref>].</p><p>Most published evidence on the experiences of people with long Covid comes from studies recruiting from support groups or clinical services [<xref rid="hex70428-bib-0007" ref-type="bibr">7</xref>, <xref rid="hex70428-bib-0008" ref-type="bibr">8</xref>]. These studies, therefore, reflect experiences of those who have already navigated their way to some kind of support, including a predominance of women and people of white ethnicity. It is unclear whether their experiences are shared with a more demographically diverse group of participants who may be managing their symptoms outside of long Covid support groups or clinical services. These latter groups are likely to be relatively hidden from routine data and research accounts of long Covid.</p><p>In this paper, we report on interviews from a diverse sample of people who reported persistent symptoms following Covid‐19 as part of the follow‐up of people from the REal‐time Assessment of Community Transmission (REACT) population‐based study [<xref rid="hex70428-bib-0009" ref-type="bibr">9</xref>, <xref rid="hex70428-bib-0010" ref-type="bibr">10</xref>]. In a pilot study, we identified significant variation in symptom experience and differences in awareness or perceived applicability of the term ‘Long Covid’ and highlighted how a lack of recognition could prevent people from seeking care [<xref rid="hex70428-bib-0011" ref-type="bibr">11</xref>]. Other studies have focused on barriers to accessing treatment and care [<xref rid="hex70428-bib-0012" ref-type="bibr">12</xref>]. We aim to understand the varied experiences of persistent symptoms following Covid‐19 and the impact on the lives of people affected, exploring the varied ways in which people experience, recognise and manage persistent symptoms following Covid‐19.</p></sec><sec sec-type="materials-and-methods" id="hex70428-sec-0070"><label>2</label><title>Materials and Methods</title><sec id="hex70428-sec-0080"><label>2.1</label><title>Sample and Recruitment</title><p>This interview study is nested within the large REACT‐Long Covid project (REACT‐LC), itself based on follow‐up of participants in REACT (for detailed methods of the REACT studies see [<xref rid="hex70428-bib-0009" ref-type="bibr">9</xref>, <xref rid="hex70428-bib-0010" ref-type="bibr">10</xref>, <xref rid="hex70428-bib-0013" ref-type="bibr">13</xref>]). Briefly, between 2020 and 2022, we invited random samples of the population of England to perform nose and throat swabs (REACT‐1) or finger‐prick blood tests (REACT‐2) to estimate the prevalence of the SARS‐CoV‐2 virus and IgG antibodies, respectively; over 3 million adults took part, a majority of whom consented to being contacted for further research. In 2022, over 270,000 people completed a follow‐up questionnaire on health and well‐being as part of the REACT‐LC study [<xref rid="hex70428-bib-0013" ref-type="bibr">13</xref>]: a subsample of 10,500 adults with a history of SARS‐CoV‐2 infection had a clinical examination and biological samples taken at a REACT‐LC assessment clinic.</p><p>Eligibility for this interview study was being a REACT participant who had reported persistent symptoms for 12 or more weeks following symptomatic Covid‐19, and who either (a) attended one of the REACT LC assessment clinics or (b) completed the REACT‐LC Health and Wellbeing survey and consented to be approached for interview. We purposively sampled by age, gender, ethnicity and symptom severity. We aimed for 60 interviews to ensure an inclusive sample with a range of experiences.</p><p>For those recruited via the REACT‐LC assessment clinics, invitation emails with a participant information sheet and link to an online consent form were sent out to 188 people who met our inclusion criteria, interviews were arranged at mutually convenient times until we had completed 27 interviews.</p><p>Further participants were recruited following the first two waves of the survey fieldwork; 18,827 people met our inclusion criteria, of whom 15,634 (83.0%) indicated willingness to be recontacted for an interview. These were grouped by our sampling criteria, and 91 were contacted; interviews were arranged at mutually convenient times until 33 were completed. A total of 60 participants were recruited and interviewed across both routes, and no participants dropped out.</p></sec><sec id="hex70428-sec-0090"><label>2.2</label><title>Topic Guide</title><p>The topic guide was initially developed for a pilot interview study [<xref rid="hex70428-bib-0011" ref-type="bibr">11</xref>], which was informed by existing literature, together with the REACT public advisory committee. It focused on the experience of acute and persistent symptoms, the impact of those symptoms, plus diagnosis and management. After the pilot study, the topic guide was reviewed, and additional sections were added on pre‐pandemic life, symptom management and recovery. The semi‐structured style of the guide provided questions on broad topics for discussion using prompts and probes to elucidate more detail from participants. The topic guide is available in S1 Appendix <xref rid="hex70428-suppl-0001" ref-type="supplementary-material">1</xref>.</p></sec><sec id="hex70428-sec-0100"><label>2.3</label><title>Data Collection</title><p>Interviews were conducted online using MS Teams or Zoom or by telephone by one of two interviewers (E.C. and A.L.) and audio recorded with permission. Interviews lasted around an hour. Notes were also taken to aid recall during analysis. Recordings were transcribed verbatim by a transcription service. All data were encrypted and stored in a secure folder on Imperial College servers, which could only be accessed by members of the research team. The data were managed using NVivo 13 R1 (released 2020). Interview responses were linked to survey responses by a unique study number. Contact details were made available to interviewers via a secure data enclave for the purposes of arranging the interview only. Demographic and interview data were kept separate from recruitment data and linked only by a study number.</p></sec><sec id="hex70428-sec-0110"><label>2.4</label><title>Analysis</title><p>Analysis was carried out using a reflexive thematic analysis. While an initial review of the literature situated the study in a theoretical context, the interviews were inductively coded without a predefined analytical framework. After familiarising ourselves with the transcripts, a first wave of inductive coding was carried out by E.C., K.J., J.B. and A.L. We tagged segments of data that were of interest as they linked to (a) the research question, (b) literature or (c) researcher's positionality (see ‘Reflexivity’ section). These tags or codes in the data comprised short, meaningful ideas, for example, those related to recognition around LC included ‘what is normal’, ‘this is how it is now’ and ‘who counts’. Codes were reviewed and compared by E.C. and A.L., and a second wave of coding was conducted to confirm or clarify existing codes, allowing them to evolve and capture any new ideas or descriptions that had been missed. A mix of semantic and latent codes was used, allowing for an exploration of both the participants' explicit understandings and the possible underlying meaning behind their narratives. Once the codes were agreed, the research team began to look for patterns in the codes and ‘central organising concepts’ that brought codes together to shape categories [<xref rid="hex70428-bib-0014" ref-type="bibr">14</xref>]. Themes were then explored and developed as either descriptive themes, reflecting topics explored in the interview guide, such as ‘severity of symptoms’, or analytic themes which expressed new or emergent ideas, for example, uncertainty around the boundaries of ‘Long Covid’, which acts as a barrier to care. The ‘Results’ section includes both descriptive and analytic themes.</p></sec><sec id="hex70428-sec-0120"><label>2.5</label><title>Reflexivity Statement</title><p>E.C. is a white female qualitative researcher with a background in anthropology and health research. A.L. is a white male physiotherapist and qualitative researcher. While neither E.C. or A.L. have experienced long Covid first hand, E.C. has lived with a person with a disabling post‐viral condition, and A.L. has worked as a clinician specialising in chronic respiratory conditions. A.L. has a specific interest in breathing pattern disorders, which are challenging to diagnose and treat. A.L. also has experience as a patient with a degenerative neurological condition. Both E.C. and A.L. are familiar with the challenges around navigating treatment and wider support, especially when there is no formal diagnosis or clear clinical pathway in place; these experiences will have influenced their interpretation. H.W. is a white female clinical public health doctor and researcher leading the REACT programme and works closely with patient advocates and long Covid charities.</p></sec><sec id="hex70428-sec-0130"><label>2.6</label><title>Public Involvement</title><p>The REACT‐LC advisory group were involved throughout the pilot and main study. This included input into the topic guide and study materials, discussion of preliminary findings and development of outputs. The group were pivotal in the development of the research questions for this interview study [<xref rid="hex70428-bib-0015" ref-type="bibr">15</xref>]. Their insights were central in shaping the scope of the paper and interpreting findings, with two advisory group members working on the drafting and editing of the manuscript.</p></sec><sec id="hex70428-sec-0140"><label>2.7</label><title>Governance</title><p>This study received ethical approval from the South‐Central Berkshire B Research Ethics Committee (IRAS ID: 298404, REC Ref 21/SC/0134) and all participants provided informed consent to be interviewed.</p></sec></sec><sec sec-type="results" id="hex70428-sec-0150"><label>3</label><title>Results</title><sec id="hex70428-sec-0160"><label>3.1</label><title>Characteristics of the Sample</title><p>The 60 participants were aged between 19 and 80; 23 identified as men, including one transgender man, and 37 as women. By broad categories of ethnicity, 29 participants were white, 10 Black, 9 Asian and 12 Mixed or other. A majority (<italic toggle="yes">n =</italic> 33) lived in London or the Southeast, with others from across England. Most reported symptomatic Covid‐19 in 2020 (<italic toggle="yes">n</italic> = 46), 3 in late 2019 (IgG antibody positive in REACT‐2), 10 in 2021 or 2022. One person described symptoms of Covid‐19 on multiple dates.</p><p>Most (<italic toggle="yes">n</italic> = 53) felt that they had not yet recovered from Covid‐19 symptoms, while seven reported feeling recovered (one between 4 and 6 months, three between 6 months and 1 year, and three between 1 and 2 years). For those who were still experiencing symptoms, the duration varied from 3 to 5 months (<italic toggle="yes">n</italic> = 3), 6 to 11 months (<italic toggle="yes">n</italic> = 5), 12 to 23 months (<italic toggle="yes">n</italic> = 24) and 2 or more years (<italic toggle="yes">n</italic> = 21). Almost all reported some degree of improvement, either over time or during phases between flare‐ups; the fluctuating nature of symptoms made recovery status hard to quantify. In terms of recovery trajectories, 41 described their recovery as gradual, and 7 reported fluctuating improvements. Three reported sudden improvement; one after having a Covid‐19 vaccine, one after another episode of Covid‐19 and one with no specific trigger. Two reported recovering after receiving treatment.</p><p>Fatigue was the most common persistent symptom, mentioned by 42 of the 60, with breathing issues and cognitive symptoms mentioned by 23 and 24 participants, respectively. Loss of taste and/or smell were reported by 16 participants.</p></sec><sec id="hex70428-sec-0170"><label>3.2</label><title>Severity and Impact of Symptoms</title><p>Based on the interviews, we broadly categorised the severity of people's symptoms in relation to their impact on usual activities (including work, family and household responsibilities, self‐care, and social life) with 17 being ‘severe’, meaning they were unable to participate in usual activities and 43 ‘less severe’ as they were able to do usual activities, but with exertion often leading to worsening symptoms. When asked directly, two‐thirds of the participants (<italic toggle="yes">n</italic> = 39) described themselves as having long Covid, 12 did not, and 9 reported being ambivalent about using the term. All but one of those who did not use, or were ambivalent, about the term fell into the less severe category. Of the seven participants who had recovered at the time of interview, four had considered themselves to have had long Covid and three did not.</p></sec><sec id="hex70428-sec-0180"><label>3.3</label><title>Experience of Healthcare</title><p>Almost half of our participants (<italic toggle="yes">n</italic> = 27) had not consulted a clinician about their persistent symptoms, and of those who did, some only mentioned their symptoms during an appointment for a different or pre‐existing health issue. This healthcare seeking was associated with severity, with all of those categorised as severe and under half of those who were less severe seeking care from clinical services. Reasons for not seeking help varied. Some did not attribute their ongoing symptoms to Covid‐19, despite describing them as persisting since initial infection, preferring alternative explanations such as ageing, menopause or deconditioning. Others felt that their symptoms were manageable without treatment, did not want to burden the health service, and some suggested that seeking treatment was futile since there was no available treatment.</p><p>‘<italic toggle="yes">It's something that I've got to live with now and it's not going to get better. It's not disabling me and it's clearly not curable. I'm not going to go to the doctor because I can't taste’</italic> (AL3, White, F, 50–64, Less Severe, 4–5 months, Recovered). This participant considered themselves fully recovered despite still having ageusia (loss of taste).</p><p>Those who sought treatment reported different experiences. While some felt supported, others described frustrating attempts to access care, a lack of continuity and long waiting times for specialist review or therapy. This led some to seek private clinical care. Several described being met with disbelief and a lack of sympathy from clinicians; while they had hoped to receive clarity, they were met with uncertainty. Some participants described feeling <italic toggle="yes">‘let down’</italic> by General Practitioners (GPs, family doctors in the United Kingdom) who did not take symptoms seriously or who dismissed the idea that the symptoms were related to Covid‐19. Treatment suggestions were often felt to be inappropriate, such as recommending exercise or homoeopathy. However, others reported sympathetic GPs who provided advice or who were open to referring patients for specialist review or investigations related to specific symptoms.</p><p>Experiences of specialist long Covid clinics also varied. Participants who were positive appreciated the <italic toggle="yes">‘holistic’</italic> and <italic toggle="yes">‘multidisciplinary’</italic> approach. The participants' representation (present in quotes) was taken to mean they were interested in all symptoms, not just a specific area, for example, respiratory symptoms, and included both physical and mental well‐being. Specialists provided specific strategies for managing fatigue or breathlessness and recommended online courses and groups, which allowed the sharing of experiences with others. Some people described receiving personalised treatment, indicating they had learnt new skills in relation to managing fatigue, for example. Others did not feel that their existing symptom management approach and strategies had been enhanced, and one participant described their care as <italic toggle="yes">‘appalling’</italic> and said that they ‘<italic toggle="yes">…haven't heard of anyone saying that they've got professional help for long Covid and it's helpful and a game changer’</italic> (AL22, Asian F, 50–64, Less Severe, 2+ years, Not fully recovered)<italic toggle="yes">.</italic>
+</p><p>People from ethnic minority groups reported barriers to accessing and navigating healthcare services for long Covid, with some perceiving the healthcare system as <italic toggle="yes">‘institutionally racist’</italic>, leading to disengagement and resentment:<disp-quote content-type="quotation"><p>
+<italic toggle="yes">‘…because of my slightly darker complexion, there's just this…. I don't know, a perception that we are tougher and able to cope with pain more than what white people’.</italic>
+</p><attrib>AL17, Black—Other, F 30–49, Less Severe, 1+ year, Not fully recovered</attrib></disp-quote>
+</p><p>There were also concerns about the disproportionate impact of Covid‐19 on ethnic minority groups:<disp-quote content-type="quotation"><p>
+<italic toggle="yes">‘…on the TV every day, you just see all these photos of all these people, ethnic minority groups, sort of, dark skin, have died’.</italic>
+</p><attrib>EC15, Black—Caribbean, F, 65+, Less Severe, 1+ year, Not fully recovered</attrib></disp-quote>
+</p><p>Despite awareness of the increased risks, participants were disappointed that ethnicity and comorbidities did not appear to influence how they were treated when seeking help. <italic toggle="yes">‘Nobody considered the ethnic profile, they considered the clinical profile’</italic> and were concerned that the healthcare system tended to <italic toggle="yes">‘focus on the majority to the huge detriment of the minority’</italic> (AL27, Mixed (White and Asian), M, 50–64, Less Severe, 1+ year, Not fully recovered).</p><p>The general lack of recognition of long Covid by clinicians was seen to be exacerbated by a wider invisibility related to gender and ethnicity:<disp-quote content-type="quotation"><p>
+<italic toggle="yes">‘I have felt that, as an Asian woman going to doctors and things, I don't feel heard always. And I do find, sometimes when I take my husband with me places, I get heard more’.</italic>
+</p><attrib>AL18, Asian, F, 50–64, Severe, 1+ year, Not fully recovered</attrib></disp-quote>
+</p></sec><sec id="hex70428-sec-0190"><label>3.4</label><title>Support Groups for Long Covid</title><p>A small number of participants had joined online long Covid support groups and found opportunities to share experiences, validate symptoms and obtain advice on managing symptoms and navigating clinical pathways. Engagement with support groups was influenced by various factors, including symptom severity, age and gender. Some people felt they did not require support, while others did not consider the groups catered to people like them:<disp-quote content-type="quotation"><p>
+<italic toggle="yes">‘Because everything I've come across feels very geared for people who I feel are more poorly than I am. I feel as if there isn't a sort of, “not extreme” support group’.</italic>
+</p><attrib>EC25, Black—African, F, 30–49, Less Severe, 2+ years, Not fully recovered</attrib></disp-quote>
+</p><p>There were clearly mixed feelings about support groups from those who had joined, with some finding repeated exposure to other people's challenging experiences <italic toggle="yes">‘depressing’</italic>, and others found online interactions <italic toggle="yes">‘exhausting’</italic>. Another described frustration <italic toggle="yes">‘because they were getting treatments, people were seeing neurologists, they were seeing cardiologists, I was thinking, “How did you get access to that?”’</italic> (AL18, Asian, Female, 50–64, Severe, 1+ year, Not fully recovered). Some did not use social media or were unaware that groups had been established.</p><p>Others felt they had enough existing support describing friends, family, employers and spiritual communities who were listening, <italic toggle="yes">‘checking in’</italic> and attempting to understand what they were going through.</p></sec><sec id="hex70428-sec-0200"><label>3.5</label><title>Strategies for Managing and Coping With Symptoms</title><p>Participants reported a variety of approaches to managing symptoms and sources of advice. Those with fatigue and breathlessness described a range of complex strategies to avoid ‘<italic toggle="yes">running out of energy’</italic> and to <italic toggle="yes">‘get things done’</italic>. Some parcelled activities into chunks, rationing how many times to go up and down the stairs in a day, for example, to avoid ‘<italic toggle="yes">waste</italic>’. They took a proactive approach to planning rest and activity with consequences in mind. ‘<italic toggle="yes">If I know I've got something on then I won't do anything the day before, even if that's just meeting a friend or going to see somebody or something</italic>’ (EC10, White British, F, 50–64, Severe, 2+ years, Not fully recovered).</p><p>People carefully managed their rest, for example, planning daytime sleep following a particular activity:<disp-quote content-type="quotation"><p>
+<italic toggle="yes">‘I couldn't do a day's work on a laptop…. I taught a 30‐minute lesson in the morning. I'd go and have a 2‐hour sleep, 3‐hour sleep sometimes, come back and just check that the kids had done their work and then that would be it, log off for the</italic> day’.</p><attrib>EC13, White British, F, 30–49, Severe, 1+ year, Fully recovered</attrib></disp-quote>
+</p><p>Where participants reported pushing themselves, it was a process of trial and error, and it was evident that there were contradictory consequences. While some were able to achieve their goals, this was not the case for all. Others reported negative consequences, describing how they would ‘<italic toggle="yes">pay for it’</italic> later. Some found themselves in a pattern of pushing through daily activities to the point of exhaustion or developing new or worsening symptoms.</p><p>Some participants reported needing to stop virtually everything, including work, to reduce stress, stimulations and other demands to take time to focus their energies on their recovery. A common reflection was the need to ‘<italic toggle="yes">allow’</italic> themselves time and space to be ill and respond to their own needs. Others tried to push through their symptoms to get back to normal or have ‘<italic toggle="yes">some sort of life’</italic>. For some, this meant putting in additional effort to compensate for the deficits caused by their symptoms. Attempts to push themselves provided participants with a learning experience as they came to understand how their energy levels responded to activity.</p><p>Cognitive symptoms also had to be actively managed by using lists and notes, or setting alarms to remind them to do things. Others made plans and set targets to get through daily tasks.</p><sec id="hex70428-sec-0210"><label>3.5.1</label><title>Finding Ways to Improve and Treat Symptoms</title><p>Beyond responding to symptoms through managing their capacity, participants sought out a range of ways to improve or treat symptoms, depending on the resources and networks available to them. Making improvements to general health and well‐being was one way participants saw they could potentially help or mitigate symptoms or prevent more appearing and facilitate own recovery. One participant described how getting fit could produce a positive effect:<disp-quote content-type="quotation"><p>
+<italic toggle="yes">‘Sometimes I struggle in the gym and whatever, but I'm determined to, I don't know, not let it win. (Laughter) But I know that this is massively minor compared to a lot of people who wouldn't even be able to dream of getting on a bike’</italic>.</p><attrib>EC12 White, F, 30–49, Less severe, 2+ years, Not fully recovered</attrib></disp-quote>
+</p><p>In the context of incomplete medical understanding of long Covid, participants demonstrated a magpie‐like approach, seeking answers from a multitude of sources, including family, friends, social media and charities. While some displayed trepidation about trying remedies that may not have been ‘<italic toggle="yes">proven</italic>’ or without knowing <italic toggle="yes">‘what's actually in it’</italic>, others were influenced by people they met outside a clinical setting, but who they perceived to have specialist knowledge. Others sought advice from anyone ‘<italic toggle="yes">who knows more than they do</italic>’, including ‘<italic toggle="yes">someone in Holland and Barrett’ [a health shop]</italic>.</p><p>Several participants sought the help of complimentary practitioners including chiropractors, acupuncturists, massage therapists, reiki instructors, emotional freedom therapists and naturopaths. These complimentary approaches were valued for the relative ease of access, empathy and continuity of care, and considered useful for general well‐being, as well as specific symptoms such as headaches and mental health.</p></sec></sec><sec id="hex70428-sec-0220"><label>3.6</label><title>Wider Support and New Models of Care</title><p>Participants were acutely aware of the pressures on the healthcare system and in particular primary care. Many suggested that there needed to be a wider menu of options to guide ongoing self‐management that could be accessed without having to further burden these services. Some suggested services outside of a clinical pathway such as helplines.</p><p>Participants wanted to gain the knowledge and skills for self‐management but, in the absence of clear clinical direction, they were concerned that there was <italic toggle="yes">‘so much disinformation, misinformation‘</italic> (EC31, Mixed, M, 30–49, Severe, 1+ year, Not fully recovered) around long Covid and suggested the development of a <italic toggle="yes">‘central information basket’</italic> (AL19) from a trusted source. Current online NHS resources were seen as insufficient and perceived to offer only generic lifestyle advice. Although some described finding forums useful for sharing their experiences, they wanted up‐to‐date, evidence‐based information on Long Covid.</p><p>In addition, participants felt there needed to be significant changes to ensure the NHS better served those living with long Covid. Some felt the condition could not be managed through the current primary care model and that it should be broadened to include <italic toggle="yes">‘an expanded GP service that can actually handle this’</italic> (EC3, Any other White Background, M, 30–49, Less Severe, 6 months to 1 year, Fully recovered).</p><p>Some participants specifically sought out mental health support as they felt the medical care they received lacked empathy and focused predominantly on physical symptoms. Therapy was used to help manage anxiety (generalised or specifically related to fear of re‐infection and progression) or to help them cope.</p><p>Some described the need for support from those around them and spoke positively of support such as partners taking on the <italic toggle="yes">‘lion's share’</italic> of housework or childcare or shifting into a caring role—<italic toggle="yes">‘my partner is the only reason I eat’</italic>. Some employers actively supported participants to manage work around symptoms, for example, flexible hours, working from home or adapting the work environment. One participant suggested their employer's supportive ethos made a <italic toggle="yes">‘huge difference’</italic> to their ability to continue working despite living with persistent symptoms.</p><p>Most participants recognised the need for greater awareness of long Covid amongst the public, employers and clinicians and suggested TV, radio and social media campaigns as well as information in healthcare settings such as posters in GP practices. A key part of awareness raising would be to provide a more nuanced understanding of the many ways in which long Covid presents and impacts people to provide validation and counteract the doubt and dismissal faced in relation to symptoms: ‘<italic toggle="yes">This is a definite thing. It's not just something that's made up’</italic> (E31, Mixed, M, 30–49, Severe, 1+ year, Not fully recovered).</p><p>Several identified the need for more clinical and general awareness of those with less severe symptoms, who were less likely to seek help, but who could be made aware of long Covid and the support available to them.</p></sec></sec><sec sec-type="discussion" id="hex70428-sec-0230"><label>4</label><title>Discussion</title><p>This qualitative study of long Covid addresses a gap identified by a systematic review and meta‐synthesis in 2023, which noted that ‘more representative research is needed to understand long Covid‐related experiences from diverse communities and populations’ [<xref rid="hex70428-bib-0008" ref-type="bibr">8</xref>]. By using this community‐derived sample and applying a broad definition of long Covid, namely symptoms for 12 or more weeks after Covid‐19 [<xref rid="hex70428-bib-0016" ref-type="bibr">16</xref>], we include the experiences of a diverse group.</p><sec id="hex70428-sec-0240"><label>4.1</label><title>Recognition and Access to Care</title><p>Of the 60 people we interviewed, only half had accessed clinical services for their persistent symptoms, and few had engaged with long Covid support groups. They often had less severe, but still challenging, symptoms, and their experiences remain largely hidden both from routine data and from research on clinical experiences of the emerging category of long Covid. One‐third did not apply the term to themselves, rendering them invisible [<xref rid="hex70428-bib-0017" ref-type="bibr">17</xref>, <xref rid="hex70428-bib-0018" ref-type="bibr">18</xref>]. This lack of identification with the label and gaps in diagnosis of the condition reflect the ongoing uncertainty about symptom attribution, where many symptoms are non‐specific and common, leading some people, including clinicians, to offer alternative causal explanations [<xref rid="hex70428-bib-0011" ref-type="bibr">11</xref>].</p><p>Participants described validation of their symptom experience as a starting point for receiving care and support, but many found that long Covid was not recognised or accepted by families, employers or clinicians. In this respect, long Covid aligns with contested conditions such as myalgic encephalomyelitis or chronic fatigue syndrome (ME/CFS) and fibromyalgia, in which the lack of a diagnostic test and multiple uncertainties associated with the condition undermine its legitimacy [<xref rid="hex70428-bib-0019" ref-type="bibr">19</xref>]. Dumit characterises contested conditions as ‘illnesses you have to fight to get’, highlighting the stigma and struggle for legitimacy patients face in addition to managing persistent symptoms [<xref rid="hex70428-bib-0020" ref-type="bibr">20</xref>].</p><p>Those who sought support described many difficulties in accessing appropriate treatments and care. Some reported the need for more empathetic care that considered the challenges of managing fatigue and the psychological effects of symptoms. Others felt clinicians saw symptoms as <italic toggle="yes">only</italic> psychological, leading them to discount physiological causes and fail to further investigate symptoms.</p><p>The uncertainty about long Covid felt by some participants and their clinicians clearly limits access to healthcare and support, as does the perception that the definition only applies to people with significant disability. Many participants did not feel that their symptoms were severe enough to warrant engagement with support groups or clinical services. Some suggested they would feel like an imposter among people with more severe symptoms. We also identified negative perceptions relating to the current state of the healthcare system and pessimism about treatment options for long Covid.</p><p>We found that demographic factors, including ethnicity and gender, influenced treatment‐seeking behaviour and healthcare experiences in common with a well‐established picture of health inequalities in the United Kingdom (further exacerbated by the Covid‐19 pandemic), as well as under‐representation of vulnerable groups in research [<xref rid="hex70428-bib-0007" ref-type="bibr">7</xref>, <xref rid="hex70428-bib-0021" ref-type="bibr">21</xref>, <xref rid="hex70428-bib-0022" ref-type="bibr">22</xref>, <xref rid="hex70428-bib-0023" ref-type="bibr">23</xref>]. There is a need to improve representation in long Covid research to help understand the challenges faced by those from different demographic backgrounds.</p></sec><sec id="hex70428-sec-0250"><label>4.2</label><title>The Work of Managing and Coping With Symptoms</title><p>Participants reported significant and long‐term impacts of symptoms on their lives. We show that these challenges are not confined to people accessing online support groups or clinical services. We describe the extent of the work patients undertake to cope with symptoms. We identified how people used trial and error to find solutions and do what they could to improve their health and well‐being through diet, exercise or supplements. The responses of participants appeared to be attempts to claim power and autonomy by finding their own solutions. Participants sought additional input through using networks and community‐based knowledge to treat themselves. This echoes the work of Leggat et al., who describe the ‘personal strategies to manage everyday life’ with ‘self‐generated solutions’ [<xref rid="hex70428-bib-0024" ref-type="bibr">24</xref>]. This self‐guided work of participants contrasts with the widely used concept of ‘self‐management’ under clinical guidance following diagnosis and treatment of a condition.</p><p>These actions are akin to the burden of ‘patient work’ described in many long‐term conditions. Corbin and Straus have identified three main categories of patient work which are often invisible to others described as ‘illness work’, which includes the daily activities such as managing symptoms and taking medication; ‘everyday life work’, which relates to interactions with family and health professionals, as well as activities of daily living; and ‘biography work’, referring to coming to terms with illness [<xref rid="hex70428-bib-0025" ref-type="bibr">25</xref>, <xref rid="hex70428-bib-0026" ref-type="bibr">26</xref>]. Our findings provide an insight into the often‐invisible patient work required to manage long Covid.</p><p>The ongoing labour of navigating a new way of being when managing an illness has also been identified by Bury's theory of biographical disruption. He states, ‘The realisation that medical knowledge is incomplete, and that treatment is based on practical trial and error, throws individuals back on their own stock of knowledge and biographical experience. The search for a more comprehensive level of explanation, a more certain basis of coping with the illness is often a long and profound one’ [<xref rid="hex70428-bib-0027" ref-type="bibr">27</xref>]. Our findings show that in the context of long Covid work, participants rely heavily on their own knowledge and are engaged in a prolonged search for answers.</p></sec><sec id="hex70428-sec-0260"><label>4.3</label><title>The Spectrum of Long Covid Support: From Validation to Specialist Care</title><p>Participants suggested multiple avenues of support that might help them manage persistent symptoms. In the face of multiple uncertainties and overwhelming symptoms, many described the fundamental need to have their experience validated and for those around them to treat them with empathy. This kind of social support can be encouraged by providing information for family and friends on what it is like to live with long Covid and what people need. In their review of the impact of family behaviours and communication patterns on chronic illness outcomes, Rosland et al. [<xref rid="hex70428-bib-0028" ref-type="bibr">28</xref>] found that family encouragement of self‐reliance, autonomy and personal achievement for the person with illness was associated with improved illness outcomes in a number of chronic conditions. Viewing these results in the context of our findings on long Covid reinforces the call for nuanced support that helps individuals and their families. A recent trial of a guided and personalised self‐management intervention for people with long Covid had mixed results, and clearly further research is needed on how to provide optimal support [<xref rid="hex70428-bib-0029" ref-type="bibr">29</xref>].</p><p>Participants also suggested that employers make appropriate adjustments to enable people with Long Covid to continue working, maintaining autonomy and self‐reliance. Long Covid is now recognised as a disabling illness, although not all who experience symptoms meet the criteria of disability as defined by the Equality Act 2010, due to differing severity and fluctuating nature of symptoms. As a result, some individuals with persistent symptoms experience stigma and discrimination at work.</p><p>Participants in our sample shared experiences of being dismissed, quitting their jobs or retiring early. While some participants were able to continue to work, they often faced debilitating consequences in the evenings or at weekends. Participants whose employers actively supported them in managing workdays around symptoms found this enabled them to continue working, showing the value of improved sickness policies and flexible working arrangements. Given the varying attribution of persistent symptoms to Covid‐19, the provision of these arrangements needs to be considered regardless of whether someone has an official diagnosis of long Covid.</p><p>Participants in the study articulated a need for robust information and clarity around appropriate and effective strategies for coping with symptoms. For some, this could be delivered through a wider menu of options accessed outside, but ideally alongside, clinical pathways. Participants wanted the knowledge and skills to be made available from a trusted source to help them self‐manage their condition as activated patients [<xref rid="hex70428-bib-0030" ref-type="bibr">30</xref>].</p><p>However, simply providing information is not enough. Clinicians need to work with patients to identify appropriate strategies for shared decision‐making and goal setting [<xref rid="hex70428-bib-0031" ref-type="bibr">31</xref>]. The King's Fund 2018 report on ‘shared responsibility for health’ [<xref rid="hex70428-bib-0021" ref-type="bibr">21</xref>] highlights the need for support to be individually tailored to meet patient need, preferences, capability and level of activation. This requires patients and clinicians to develop a shared understanding of the nature and impact of persistent symptoms and to adapt management strategies based on patient capacity. However, it is important to recognise that many people lack the resources or capacity to navigate such strategies, and wider support and advocacy are needed to avoid further marginalisation and deepening inequities.</p><p>Our findings echo those from qualitative research from early in the pandemic which highlight that services are still not adequately meeting the needs of those living with long Covid. We add to this an awareness of the expertise that long Covid patients have in coping with, and seeking treatments for, their symptoms and the need for wider support to help them manage more effectively.</p></sec></sec><sec id="hex70428-sec-0270"><label>5</label><title>Strengths and Limitations</title><p>We worked closely with our REACT Long Covid public advisory group to ensure that the study was underpinned by lived experience and answered questions relevant to those with long Covid. The study was informed by our pilot study, which led to changes in our sampling approach, topic guide and analysis. We recruited via the representative REACT‐LC study sample, so we were able to explore the views of those who had not joined Long Covid support groups or accessed clinical services. We purposively sampled to ensure diversity of experience and demographic background, oversampling for under‐represented groups. This enabled us to include a wider variety of perspectives. Our analysis was strengthened by carrying out multiple waves of coding. We took a pragmatic approach to analysis to develop both descriptive themes, which captured the variation in experience and explanatory themes, which identified common patterns across experiences [<xref rid="hex70428-bib-0014" ref-type="bibr">14</xref>].</p><p>We carried out interviews online, which meant those with persistent symptoms were able to participate more easily than those who had to travel or meet face to face. We acknowledge that the sample does not contain those who are digitally excluded or those with the most severe symptoms, who would be unable to participate in an interview. The study is not longitudinal, so it was not able to map change over time. We did not interview the networks of those with long Covid, such as families, clinicians, carers or employers, so we have not been able to triangulate the data.</p></sec><sec sec-type="conclusions" id="hex70428-sec-0280"><label>6</label><title>Conclusion</title><p>Our study provides insights from a diverse sample on the experiences of managing long Covid. We have identified the challenges around self‐identification and inclusion which prevent participants from accessing long Covid treatment and support. We have highlighted the significant amount of work that participants do to self‐manage their symptoms. Finally, we have elucidated the spectrum of help and support that participants called for to help them manage their symptoms.</p><p>While research into the biological causes and possible treatments of long Covid is ongoing, there is still a lot that can be done to help patients manage in the absence of a treatment or cure. Crucially, the extensive patient work undertaken to self‐manage symptoms needs to be made visible and should be a key consideration for those making decisions about support and symptom management provisions for people with long Covid. We hope these findings will serve as a useful reference to help patients communicate their needs and enable employers, carers and clinicians to better target support and clinical services.</p></sec><sec id="hex70428-sec-0290"><title>Author Contributions</title><p>Conceptualisation: Emily Cooper, Adam Lound, Christina J. Atchison, Paul Elliott and Helen Ward. Data curation: Emily Cooper and Adam Lound. Formal analysis: Emily Cooper and Adam Lound. Funding acquisition: Paul Elliott, Helen Ward and Graham S. Cooke. Investigation: Emily Cooper and Adam Lound. Methodology: Emily Cooper, Adam Lound, Paul Elliott and Helen Ward. Project administration: Emily Cooper, Adam Lound, Paul Elliott and Helen Ward. Resources: Paul Elliott and Helen Ward. Supervision: Christina J. Atchison and Helen Ward. Validation: Christina J. Atchison and Helen Ward. Writing – original draft preparation: Emily Cooper, Adam Lound and Helen Ward. Writing – review and editing: Emily Cooper, Adam Lound, Kathryn Jones, Christina J. Atchison, Jane Bruton, Graham S. Cooke, Paul Elliott and Helen Ward.</p></sec><sec id="hex70428-sec-0310"><title>Consent</title><p>The authors have nothing to report.</p></sec><sec sec-type="COI-statement" id="hex70428-sec-0320"><title>Conflicts of Interest</title><p>The authors declare no conflicts of interest.</p></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material id="hex70428-suppl-0001" position="float" content-type="local-data" orientation="portrait"><caption><p>Appendix 1. Topic Guide.</p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="HEX-28-e70428-s001.docx" position="float" orientation="portrait"/></supplementary-material></sec></body><back><ack id="hex70428-sec-0300"><title>Acknowledgements</title><p>Thank you to all the participants who agreed to share their experiences with us. We gratefully acknowledge the support provided by our PAG members and advisers. This study is independent research funded by the National Institute for Health and Care Research (NIHR) and UK Research and Innovation (UKRI): REACT‐GE (Genomics England) (UKRI MC_PC_20049) and REACT‐LC (Long Covid) (COV‐LT‐0040). The REACT‐1 and REACT‐2 studies were funded by the Department of Health and Social Care in England (DHSC). We also acknowledge support from the NIHR Imperial Biomedical Research Centre. The views expressed in this publication are those of the authors and not necessarily those of DHSC, NIHR or UKRI.</p></ack><sec sec-type="data-availability" id="hex70428-sec-0340"><title>Data Availability Statement</title><p>All relevant data are included in the manuscript of this qualitative study. Full transcripts/data cannot be shared publicly because of the sensitive and potentially identifiable nature of the qualitative data we collected, and the nature of the consent obtained from participants, which ensured confidentiality and anonymity. Data access requests for elements of raw data may be sent to the REACT Data Access Committee (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.imperial.ac.uk/medicine/research-and-impact/groups/react-study/data-access-requests/" ext-link-type="uri" specific-use="software is-supplemented-by">https://www.imperial.ac.uk/medicine/research-and-impact/groups/react-study/data-access-requests/</ext-link>).</p></sec><ref-list content-type="cited-references" id="hex70428-bibl-0001"><title>References</title><ref id="hex70428-bib-0001"><label>1</label><mixed-citation publication-type="journal" id="hex70428-cit-0001">
+<string-name name-style="western">
+<given-names>F.</given-names>
+<surname>Callard</surname>
+</string-name> and <string-name name-style="western">
+<given-names>E.</given-names>
+<surname>Perego</surname>
+</string-name>, “<article-title>How and Why Patients Made Long Covid</article-title>,” <source>Social Science &amp; Medicine</source>
+<volume>268</volume> (January <year>2021</year>): <elocation-id>113426</elocation-id>.<pub-id pub-id-type="pmid">33199035</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.socscimed.2020.113426</pub-id><pub-id pub-id-type="pmcid">PMC7539940</pub-id></mixed-citation></ref><ref id="hex70428-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="hex70428-cit-0002">
+<string-name name-style="western">
+<given-names>W.</given-names>
+<surname>Shah</surname>
+</string-name>, <string-name name-style="western">
+<given-names>T.</given-names>
+<surname>Hillman</surname>
+</string-name>, <string-name name-style="western">
+<given-names>E. D.</given-names>
+<surname>Playford</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Hishmeh</surname>
+</string-name>, “<article-title>Managing the Long Term Effects of covid‐19: Summary of NICE, SIGN, and RCGP Rapid Guideline</article-title>,” <source>BMJ</source>
+<volume>372</volume> (January <year>2021</year>): <elocation-id>n136</elocation-id>, <pub-id pub-id-type="doi">10.1136/bmj.n136</pub-id>.<pub-id pub-id-type="pmid">33483331</pub-id>
+</mixed-citation></ref><ref id="hex70428-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="hex70428-cit-0003">
+<string-name name-style="western">
+<given-names>C. E.</given-names>
+<surname>Brightling</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R. A.</given-names>
+<surname>Evans</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Singapuri</surname>
+</string-name>, et al., “<article-title>Long COVID Research: An Update From the PHOSP‐COVID Scientific Summit</article-title>,” <source>Lancet Respiratory Medicine</source>
+<volume>11</volume>, no. <issue>11</issue> (November <year>2023</year>): <fpage>e93</fpage>–<lpage>e94</lpage>.<pub-id pub-id-type="pmid">37858329</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/S2213-2600(23)00341-7</pub-id></mixed-citation></ref><ref id="hex70428-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="hex70428-cit-0004">
+<string-name name-style="western">
+<given-names>L. I.</given-names>
+<surname>Horwitz</surname>
+</string-name>, <string-name name-style="western">
+<given-names>T.</given-names>
+<surname>Thaweethai</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S. B.</given-names>
+<surname>Brosnahan</surname>
+</string-name>, et al., “<article-title>Researching COVID to Enhance Recovery (RECOVER) Adult Study Protocol: Rationale, Objectives, and Design</article-title>,” <source>PLoS One</source>
+<volume>18</volume>, no. <issue>6</issue> (June <year>2023</year>): <elocation-id>e0286297</elocation-id>.<pub-id pub-id-type="pmid">37352211</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1371/journal.pone.0286297</pub-id><pub-id pub-id-type="pmcid">PMC10289397</pub-id></mixed-citation></ref><ref id="hex70428-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="hex70428-cit-0005">
+<string-name name-style="western">
+<given-names>E.</given-names>
+<surname>Ladds</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Rushforth</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Wieringa</surname>
+</string-name>, et al., “<article-title>Developing Services for Long COVID: Lessons From a Study of Wounded Healers</article-title>,” <source>Clinical Medicine</source>
+<volume>21</volume>, no. <issue>1</issue> (January <year>2021</year>): <fpage>59</fpage>–<lpage>65</lpage>.<pub-id pub-id-type="pmid">33479069</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.7861/clinmed.2020-0962</pub-id><pub-id pub-id-type="pmcid">PMC7850205</pub-id></mixed-citation></ref><ref id="hex70428-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="hex70428-cit-0006">
+<string-name name-style="western">
+<given-names>T.</given-names>
+<surname>Kingstone</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A. K.</given-names>
+<surname>Taylor</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C. A.</given-names>
+<surname>O'Donnell</surname>
+</string-name>, <string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Atherton</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D. N.</given-names>
+<surname>Blane</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>C. A.</given-names>
+<surname>Chew‐Graham</surname>
+</string-name>, “<article-title>Finding the ‘Right’ GP: A Qualitative Study of the Experiences of People With Long‐COVID</article-title>,” <source>BJGP Open</source>
+<volume>4</volume>, no. <issue>5</issue> (December <year>2020</year>): <elocation-id>bjgpopen20X101143</elocation-id>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.3399/bjgpopen20X101143</pub-id><pub-id pub-id-type="pmcid">PMC7880173</pub-id><pub-id pub-id-type="pmid">33051223</pub-id></mixed-citation></ref><ref id="hex70428-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="hex70428-cit-0007">
+<string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Macpherson</surname>
+</string-name>, <string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Cooper</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Harbour</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Mahal</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Miller</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Nairn</surname>
+</string-name>, “<article-title>Experiences of Living With Long COVID and of Accessing Healthcare Services: A Qualitative Systematic Review</article-title>,” <source>BMJ Open</source>
+<volume>12</volume>, no. <issue>1</issue> (January <year>2022</year>): <elocation-id>e050979</elocation-id>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1136/bmjopen-2021-050979</pub-id><pub-id pub-id-type="pmcid">PMC8753091</pub-id><pub-id pub-id-type="pmid">35017239</pub-id></mixed-citation></ref><ref id="hex70428-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="hex70428-cit-0008">
+<string-name name-style="western">
+<given-names>M. M.</given-names>
+<surname>Hossain</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Das</surname>
+</string-name>, <string-name name-style="western">
+<given-names>F.</given-names>
+<surname>Rahman</surname>
+</string-name>, et al., “<article-title>Living With ‘Long COVID’: A Systematic Review and Meta‐Synthesis of Qualitative Evidence</article-title>,” <source>PLoS One</source>
+<volume>18</volume>, no. <issue>2</issue> (February <year>2023</year>): <elocation-id>e0281884</elocation-id>.<pub-id pub-id-type="pmid">36795701</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1371/journal.pone.0281884</pub-id><pub-id pub-id-type="pmcid">PMC9934341</pub-id></mixed-citation></ref><ref id="hex70428-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="hex70428-cit-0009">
+<string-name name-style="western">
+<given-names>P.</given-names>
+<surname>Elliott</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Whitaker</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Tang</surname>
+</string-name>, et al., “<article-title>Design and Implementation of a National SARS‐CoV‐2 Monitoring Program in England: REACT‐1 Study</article-title>,” <source>American Journal of Public Health</source>
+<volume>113</volume>, no. <issue>5</issue> (May <year>2023</year>): <fpage>545</fpage>–<lpage>554</lpage>.<pub-id pub-id-type="pmid">36893367</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.2105/AJPH.2023.307230</pub-id><pub-id pub-id-type="pmcid">PMC10088956</pub-id></mixed-citation></ref><ref id="hex70428-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="hex70428-cit-0010">
+<string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Ward</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Atchison</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Whitaker</surname>
+</string-name>, et al., “<article-title>Design and Implementation of a National Program to Monitor the Prevalence of SARS‐CoV‐2 IgG Antibodies in England Using Self‐Testing: The REACT‐2 Study</article-title>,” <source>American Journal of Public Health</source>
+<volume>113</volume>, no. <issue>11</issue> (November <year>2023</year>): <fpage>1201</fpage>–<lpage>1209</lpage>.<pub-id pub-id-type="pmid">37733993</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.2105/AJPH.2023.307381</pub-id><pub-id pub-id-type="pmcid">PMC10568505</pub-id></mixed-citation></ref><ref id="hex70428-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="hex70428-cit-0011">
+<string-name name-style="western">
+<given-names>E.</given-names>
+<surname>Cooper</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Lound</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C. J.</given-names>
+<surname>Atchison</surname>
+</string-name>, et al., “Awareness and Perceptions of Long COVID Among People in the REACT Programme: Early Insights From a Pilot Interview Study,” <article-title>PLoS One</article-title>
+<volume>18</volume>, no. <issue>1</issue> (January 2023): <elocation-id>e0280943</elocation-id>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1371/journal.pone.0280943</pub-id><pub-id pub-id-type="pmcid">PMC9879384</pub-id><pub-id pub-id-type="pmid">36701357</pub-id></mixed-citation></ref><ref id="hex70428-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="hex70428-cit-0012">
+<string-name name-style="western">
+<given-names>S. A.</given-names>
+<surname>Baz</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Fang</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J. D.</given-names>
+<surname>Carpentieri</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Sheard</surname>
+</string-name>, “<article-title>‘I Don't Know What to Do or Where to Go’. Experiences of Accessing Healthcare Support From the Perspectives of People Living With Long Covid and Healthcare Professionals: A Qualitative Study in Bradford, UK</article-title>,” <source>Health Expectations</source>
+<volume>26</volume>, no. <issue>1</issue> (February <year>2023</year>): <fpage>542</fpage>–<lpage>554</lpage>.<pub-id pub-id-type="pmid">36512382</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/hex.13687</pub-id><pub-id pub-id-type="pmcid">PMC10124541</pub-id></mixed-citation></ref><ref id="hex70428-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="hex70428-cit-0013">
+<string-name name-style="western">
+<given-names>C. J.</given-names>
+<surname>Atchison</surname>
+</string-name>, <string-name name-style="western">
+<given-names>B.</given-names>
+<surname>Davies</surname>
+</string-name>, <string-name name-style="western">
+<given-names>E.</given-names>
+<surname>Cooper</surname>
+</string-name>, et al., “<article-title>Long‐Term Health Impacts of COVID‐19 Among 242,712 Adults in England</article-title>,” <source>Nature Communications</source>
+<volume>14</volume> (October <year>2023</year>): <fpage>6588</fpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41467-023-41879-2</pub-id><pub-id pub-id-type="pmcid">PMC10598213</pub-id><pub-id pub-id-type="pmid">37875536</pub-id></mixed-citation></ref><ref id="hex70428-bib-0014"><label>14</label><mixed-citation publication-type="book" id="hex70428-cit-0014">
+<string-name name-style="western">
+<given-names>V.</given-names>
+<surname>Braun</surname>
+</string-name> and <string-name name-style="western">
+<given-names>V.</given-names>
+<surname>Clarke</surname>
+</string-name>, <source>Thematic Analysis: A Practical Guide</source> (<publisher-name>SAGE</publisher-name>, <year>2021</year>), <fpage>377</fpage>.</mixed-citation></ref><ref id="hex70428-bib-0015"><label>15</label><mixed-citation publication-type="miscellaneous" id="hex70428-cit-0015">
+<collab collab-type="authors">“How Public Involvement Changed Our Research Question Exploring Experiences of People With Long Covid—Patient Experience Research Centre</collab>
+,” published February 14, 2024, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://blogs.imperial.ac.uk/perc/2024/02/13/how-public-involvement-changed-our-research-question-exploring-experiences-of-people-with-long-covid/" ext-link-type="uri">https://blogs.imperial.ac.uk/perc/2024/02/13/how-public-involvement-changed-our-research-question-exploring-experiences-of-people-with-long-covid/</ext-link>.</mixed-citation></ref><ref id="hex70428-bib-0016"><label>16</label><mixed-citation publication-type="journal" id="hex70428-cit-0016">
+<string-name name-style="western">
+<given-names>J. B.</given-names>
+<surname>Soriano</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Murthy</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J. C.</given-names>
+<surname>Marshall</surname>
+</string-name>, <string-name name-style="western">
+<given-names>P.</given-names>
+<surname>Relan</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>J. V.</given-names>
+<surname>Diaz</surname>
+</string-name>, “<article-title>A Clinical Case Definition of Post‐COVID‐19 Condition by a Delphi Consensus</article-title>,” <source>Lancet Infectious Diseases</source>
+<volume>22</volume>, no. <issue>4</issue> (December <year>2021</year>): <fpage>e102</fpage>–<lpage>e107</lpage>, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.sciencedirect.com/science/article/pii/S1473309921007039" ext-link-type="uri">https://www.sciencedirect.com/science/article/pii/S1473309921007039</ext-link>.<pub-id pub-id-type="pmid">34951953</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/S1473-3099(21)00703-9</pub-id><pub-id pub-id-type="pmcid">PMC8691845</pub-id></mixed-citation></ref><ref id="hex70428-bib-0017"><label>17</label><mixed-citation publication-type="journal" id="hex70428-cit-0017">
+<string-name name-style="western">
+<given-names>P. H.</given-names>
+<surname>Roth</surname>
+</string-name> and <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Gadebusch‐Bondio</surname>
+</string-name>, “<article-title>The Contested Meaning of ‘Long Covid’—Patients, Doctors, and the Politics of Subjective Evidence</article-title>,” <source>Social Science &amp; Medicine</source>
+<volume>292</volume> (January <year>2022</year>): <elocation-id>114619</elocation-id>.<pub-id pub-id-type="pmid">34906823</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.socscimed.2021.114619</pub-id><pub-id pub-id-type="pmcid">PMC8629766</pub-id></mixed-citation></ref><ref id="hex70428-bib-0018"><label>18</label><mixed-citation publication-type="journal" id="hex70428-cit-0018">
+<string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Ireson</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Taylor</surname>
+</string-name>, <string-name name-style="western">
+<given-names>E.</given-names>
+<surname>Richardson</surname>
+</string-name>, <string-name name-style="western">
+<given-names>B.</given-names>
+<surname>Greenfield</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>G.</given-names>
+<surname>Jones</surname>
+</string-name>, “<article-title>Exploring Invisibility and Epistemic Injustice in Long Covid—A Citizen Science Qualitative Analysis of Patient Stories From an Online Covid Community</article-title>,” <source>Health Expectations</source>
+<volume>25</volume>, no. <issue>4</issue> (<year>2022</year>): <fpage>1753</fpage>–<lpage>1765</lpage>.<pub-id pub-id-type="pmid">35557480</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/hex.13518</pub-id><pub-id pub-id-type="pmcid">PMC9327841</pub-id></mixed-citation></ref><ref id="hex70428-bib-0019"><label>19</label><mixed-citation publication-type="journal" id="hex70428-cit-0019">
+<string-name name-style="western">
+<given-names>A. M.</given-names>
+<surname>Mengshoel</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Å.</given-names>
+<surname>Skarbø</surname>
+</string-name>, <string-name name-style="western">
+<given-names>E.</given-names>
+<surname>Hasselknippe</surname>
+</string-name>, et al., “<article-title>Enabling Personal Recovery From Fibromyalgia—Theoretical Rationale, Content and Meaning of a Person‐Centred, Recovery‐Oriented Programme</article-title>,” <source>BMC Health Services Research</source>
+<volume>21</volume>, no. <issue>1</issue> (December <year>2021</year>): <fpage>339</fpage>.<pub-id pub-id-type="pmid">33853607</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1186/s12913-021-06295-6</pub-id><pub-id pub-id-type="pmcid">PMC8045361</pub-id></mixed-citation></ref><ref id="hex70428-bib-0020"><label>20</label><mixed-citation publication-type="journal" id="hex70428-cit-0020">
+<string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Dumit</surname>
+</string-name>, “<article-title>Illnesses You Have to Fight to Get: Facts as Forces in Uncertain, Emergent Illnesses</article-title>,” <source>Social Science &amp; Medicine</source>
+<volume>62</volume>, no. <issue>3</issue> (February <year>2006</year>): <fpage>577</fpage>–<lpage>590</lpage>.<pub-id pub-id-type="pmid">16085344</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.socscimed.2005.06.018</pub-id></mixed-citation></ref><ref id="hex70428-bib-0021"><label>21</label><mixed-citation publication-type="journal" id="hex70428-cit-0021">
+<string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Marmot</surname>
+</string-name>, “<article-title>Health Equity in England: The Marmot Review 10 Years on</article-title>,” <source>BMJ</source>
+<volume>368</volume> (February <year>2020</year>): <fpage>m693</fpage>.<pub-id pub-id-type="pmid">32094110</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1136/bmj.m693</pub-id></mixed-citation></ref><ref id="hex70428-bib-0022"><label>22</label><mixed-citation publication-type="journal" id="hex70428-cit-0022">
+<string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Siddiq</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Ahmed</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>I.</given-names>
+<surname>Akram</surname>
+</string-name>, “<article-title>Clinical Outcomes Following COVID‐19 Infection in Ethnic Minority Groups in the UK: A Systematic Review and Meta‐Analysis</article-title>,” <source>Public Health</source>
+<volume>222</volume> (September <year>2023</year>): <fpage>205</fpage>–<lpage>214</lpage>.<pub-id pub-id-type="pmid">35970621</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.puhe.2022.05.019</pub-id><pub-id pub-id-type="pmcid">PMC9181265</pub-id></mixed-citation></ref><ref id="hex70428-bib-0023"><label>23</label><mixed-citation publication-type="journal" id="hex70428-cit-0023">
+<string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Murali</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Gumber</surname>
+</string-name>, <string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Jethwa</surname>
+</string-name>, et al., “<article-title>Ethnic Minority Representation in UK COVID‐19 Trials: Systematic Review and Meta‐Analysis</article-title>,” <source>BMC Medicine</source>
+<volume>21</volume>, no. <issue>1</issue> (March <year>2023</year>): <fpage>111</fpage>.<pub-id pub-id-type="pmid">36978166</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1186/s12916-023-02809-7</pub-id><pub-id pub-id-type="pmcid">PMC10049782</pub-id></mixed-citation></ref><ref id="hex70428-bib-0024"><label>24</label><mixed-citation publication-type="journal" id="hex70428-cit-0024">
+<string-name name-style="western">
+<given-names>F. J.</given-names>
+<surname>Leggat</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Heaton‐Shrestha</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Fish</surname>
+</string-name>, et al., “<article-title>An Exploration of the Experiences and Self‐Generated Strategies Used When Navigating Everyday Life With Long Covid</article-title>,” <source>BMC Public Health</source>
+<volume>24</volume> (<year>2024</year>): <fpage>789</fpage>.<pub-id pub-id-type="pmid">38481230</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1186/s12889-024-18267-6</pub-id><pub-id pub-id-type="pmcid">PMC10938753</pub-id></mixed-citation></ref><ref id="hex70428-bib-0025"><label>25</label><mixed-citation publication-type="journal" id="hex70428-cit-0025">
+<string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Corbin</surname>
+</string-name> and <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Strauss</surname>
+</string-name>, “<article-title>Managing Chronic Illness at Home: Three Lines of Work</article-title>,” <source>Qualitative Sociology</source>
+<volume>8</volume>, no. <issue>3</issue> (<year>1985</year>): <fpage>224</fpage>–<lpage>247</lpage>.</mixed-citation></ref><ref id="hex70428-bib-0026"><label>26</label><mixed-citation publication-type="journal" id="hex70428-cit-0026">
+<string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Cooper</surname>
+</string-name>, <string-name name-style="western">
+<given-names>F.</given-names>
+<surname>Poland</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Kale</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>T.</given-names>
+<surname>Shakespeare</surname>
+</string-name>, “<article-title>Can a Disability Studies‐Medical Sociology Rapprochement Help Re‐Value the Work Disabled People Do Within Their Rehabilitation?</article-title>,” <source>Sociology of Health &amp; Illness</source>
+<volume>45</volume>, no. <issue>6</issue> (July <year>2023</year>): <fpage>1300</fpage>–<lpage>1316</lpage>.<pub-id pub-id-type="pmid">36917517</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/1467-9566.13627</pub-id></mixed-citation></ref><ref id="hex70428-bib-0027"><label>27</label><mixed-citation publication-type="journal" id="hex70428-cit-0027">
+<string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Bury</surname>
+</string-name>, “<article-title>Chronic Illness as Biographical Disruption</article-title>,” <source>Sociology of Health &amp; Illness</source>
+<volume>4</volume>, no. <issue>2</issue> (<year>1982</year>): <fpage>167</fpage>–<lpage>182</lpage>.<pub-id pub-id-type="pmid">10260456</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/1467-9566.ep11339939</pub-id></mixed-citation></ref><ref id="hex70428-bib-0028"><label>28</label><mixed-citation publication-type="journal" id="hex70428-cit-0028">
+<string-name name-style="western">
+<given-names>A. M.</given-names>
+<surname>Rosland</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Heisler</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>J. D.</given-names>
+<surname>Piette</surname>
+</string-name>, “<article-title>The Impact of Family Behaviors and Communication Patterns on Chronic Illness Outcomes: A Systematic Review</article-title>,” <source>Journal of Behavioral Medicine</source>
+<volume>35</volume>, no. <issue>2</issue> (April <year>2012</year>): <fpage>221</fpage>–<lpage>239</lpage>.<pub-id pub-id-type="pmid">21691845</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s10865-011-9354-4</pub-id><pub-id pub-id-type="pmcid">PMC3785075</pub-id></mixed-citation></ref><ref id="hex70428-bib-0029"><label>29</label><mixed-citation publication-type="journal" id="hex70428-cit-0029">
+<string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Busse</surname>
+</string-name>, <string-name name-style="western">
+<given-names>P.</given-names>
+<surname>Pallmann</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Riaz</surname>
+</string-name>, et al., “<article-title>Effectiveness of a Personalised Self‐Management Intervention for People Living With Long Covid (Listen Trial): Pragmatic, Multicentre, Parallel Group, Randomised Controlled Trial</article-title>,” <source>BMJ Medicine</source>
+<volume>4</volume>, no. <issue>1</issue> (January <year>2025</year>): <elocation-id>e001068</elocation-id>.<pub-id pub-id-type="pmid">40046291</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1136/bmjmed-2024-001068</pub-id><pub-id pub-id-type="pmcid">PMC11881025</pub-id></mixed-citation></ref><ref id="hex70428-bib-0030"><label>30</label><mixed-citation publication-type="journal" id="hex70428-cit-0030">
+<string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Greene</surname>
+</string-name> and <string-name name-style="western">
+<given-names>J. H.</given-names>
+<surname>Hibbard</surname>
+</string-name>, “<article-title>Why Does Patient Activation Matter? An Examination of the Relationships Between Patient Activation and Health‐Related Outcomes</article-title>,” <source>Journal of General Internal Medicine</source>
+<volume>27</volume>, no. <issue>5</issue> (May <year>2012</year>): <fpage>520</fpage>–<lpage>526</lpage>.<pub-id pub-id-type="pmid">22127797</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s11606-011-1931-2</pub-id><pub-id pub-id-type="pmcid">PMC3326094</pub-id></mixed-citation></ref><ref id="hex70428-bib-0031"><label>31</label><mixed-citation publication-type="miscellaneous" id="hex70428-cit-0031">
+<collab collab-type="authors">SAGE Publications Inc</collab>
+. July 11, <year>2023</year>. Thematic Analysis, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://us.sagepub.com/en-us/nam/thematic-analysis/book248481" ext-link-type="uri">https://us.sagepub.com/en-us/nam/thematic-analysis/book248481</ext-link>.</mixed-citation></ref></ref-list></back></article></pmc-articleset>

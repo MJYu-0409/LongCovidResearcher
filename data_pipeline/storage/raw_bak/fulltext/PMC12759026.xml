@@ -1,0 +1,2017 @@
+<?xml version="1.0"  ?><!DOCTYPE pmc-articleset PUBLIC "-//NLM//DTD ARTICLE SET 2.0//EN" "https://dtd.nlm.nih.gov/ncbi/pmc/articleset/nlm-articleset-2.0.dtd"><pmc-articleset><article xml:lang="en" article-type="research-article" dtd-version="1.4"><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">Cureus</journal-id><journal-id journal-id-type="iso-abbrev">Cureus</journal-id><journal-id journal-id-type="pmc-domain-id">2757</journal-id><journal-id journal-id-type="pmc-domain">cureus</journal-id><journal-title-group><journal-title>Cureus</journal-title></journal-title-group><issn pub-type="epub">2168-8184</issn><publisher><publisher-name>Cureus Inc.</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC12759026</article-id><article-id pub-id-type="pmcid-ver">PMC12759026.1</article-id><article-id pub-id-type="pmcaid">12759026</article-id><article-id pub-id-type="pmcaiid">12759026</article-id><article-id pub-id-type="pmid">41487856</article-id><article-id pub-id-type="doi">10.7759/cureus.98410</article-id><article-version article-version-type="pmc-version">1</article-version><article-categories><subj-group subj-group-type="heading"><subject>Emergency Medicine</subject></subj-group><subj-group><subject>Health Policy</subject></subj-group><subj-group><subject>Infectious Disease</subject></subj-group></article-categories><title-group><article-title>Elevated Risk of an Emergency Department Admission Associated With Long COVID Diagnosis Within the US Veteran Population</article-title></title-group><contrib-group><contrib contrib-type="editor"><name name-style="western"><surname>Muacevic</surname><given-names initials="A">Alexander</given-names></name></contrib><contrib contrib-type="editor"><name name-style="western"><surname>Adler</surname><given-names initials="JR">John R</given-names></name></contrib></contrib-group><contrib-group><contrib contrib-type="author" corresp="yes"><name name-style="western"><surname>Van Cleve</surname><given-names initials="R">Raymond</given-names></name><xref rid="aff-1" ref-type="aff">1</xref></contrib><contrib contrib-type="author"><name name-style="western"><surname>Lienau</surname><given-names initials="A">Amanda</given-names></name><xref rid="aff-2" ref-type="aff">2</xref></contrib><contrib contrib-type="author"><name name-style="western"><surname>Sanchez Garcia</surname><given-names initials="J">Jonathan</given-names></name><xref rid="aff-3" ref-type="aff">3</xref></contrib></contrib-group><aff id="aff-1">
+<label>1</label>
+Medicine, Stanford University, Palo Alto, USA </aff><aff id="aff-2">
+<label>2</label>
+Innovation Ecosystem, Veterans Affairs, St. Louis, USA </aff><aff id="aff-3">
+<label>3</label>
+Data Analysis, MDClone Inc., Beer Sheba, ISR </aff><author-notes><corresp id="cor1">
+Raymond Van Cleve <email>vancleve.raymond@gmail.com</email>
+</corresp></author-notes><pub-date date-type="pub" publication-format="electronic"><day>3</day><month>12</month><year>2025</year></pub-date><pub-date date-type="collection" publication-format="electronic"><month>12</month><year>2025</year></pub-date><volume>17</volume><issue>12</issue><issue-id pub-id-type="pmc-issue-id">501569</issue-id><elocation-id>e98410</elocation-id><history><date date-type="accepted"><day>3</day><month>12</month><year>2025</year></date></history><pub-history><event event-type="pmc-release"><date><day>03</day><month>12</month><year>2025</year></date></event><event event-type="pmc-live"><date><day>04</day><month>01</month><year>2026</year></date></event><event event-type="pmc-last-change"><date iso-8601-date="2026-01-05 09:25:15.180"><day>05</day><month>01</month><year>2026</year></date></event></pub-history><permissions><copyright-statement>Copyright © 2025, Van Cleve et al.</copyright-statement><copyright-year>2025</copyright-year><copyright-holder>Van Cleve et al.</copyright-holder><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License CC-BY 4.0., which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p></license></permissions><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pmc-pdf" xlink:href="cureus-0017-00000098410.pdf"/><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://cureus.com/articles/414995-elevated-risk-of-an-emergency-department-admission-associated-with-long-covid-diagnosis-within-the-us-veteran-population">This article is available from https://cureus.com/articles/414995-elevated-risk-of-an-emergency-department-admission-associated-with-long-covid-diagnosis-within-the-us-veteran-population</self-uri><abstract><p>Long COVID has emerged as a significant public health concern, potentially affecting millions of people over the next decade. By examining the risk of an emergency department (ED) visit associated with long COVID across a population, we can see the population-level severity of long COVID. This study aims to quantify the change in risk for ED visits in the six months following COVID-19 infection for people diagnosed with long COVID compared to those who are only infected with COVID-19 but not diagnosed with long COVID.</p><p>The study compared the risk of an ED visit between veterans with long COVID and those with only COVID-19 infection. We examined the risk of an ED visit for these two groups in the six months before and the six months after being infected with COVID-19. Data came from the Veterans Health Administration (VHA) electronic medical records, specifically veterans who used the Veterans Affairs (VA) healthcare system and had an initial case of COVID-19 between March 1, 2021, and December 21, 2021. We examined ER visits six months before and after testing positive for COVID-19. The outcome of interest was the risk of an ED visit for people diagnosed with long COVID compared to people who only contracted COVID-19 and were not diagnosed with long COVID.</p><p>In the six months after contracting long COVID, veterans eventually diagnosed with long COVID had a 34% higher risk of ED visits compared to those who contracted COVID-19 but never developed long COVID. Between three and six months post-infection, the risk of ED visits was 21% higher in the long COVID group. Long COVID can be a severe condition whose effects can last months after infection and diagnosis. Certain policies need to be implemented to manage the symptoms of this disease and reduce the need for emergency department services.</p></abstract><kwd-group kwd-group-type="author"><kwd>emergency medical service</kwd><kwd>long covid</kwd><kwd>long-term outcome</kwd><kwd>management of long covid</kwd><kwd>veterans health</kwd></kwd-group><custom-meta-group><custom-meta><meta-name>pmc-status-qastatus</meta-name><meta-value>0</meta-value></custom-meta><custom-meta><meta-name>pmc-status-live</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-status-embargo</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-status-released</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-access</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-legally-suppressed</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-pdf</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-supplement</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-pdf-only</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-suppress-copyright</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-real-version</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-scanned-article</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-in-epmc</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-license-ref</meta-name><meta-value>CC BY</meta-value></custom-meta></custom-meta-group></article-meta></front><body><sec sec-type="intro"><title>Introduction</title><p>Morbidity and mortality associated with acute COVID-19 infection have declined considerably over the past three years due to increased vaccination and less dangerous variants of the virus circulating [<xref rid="REF1" ref-type="bibr">1</xref>,<xref rid="REF2" ref-type="bibr">2</xref>]. Unfortunately, a threat from COVID-19 infection that has persisted is post-acute sequelae of SARS-CoV-2 (PASC), also known as long-haul COVID-19 or long COVID. Long COVID is defined by the Centers for Disease Control and Prevention as persistent COVID-related symptoms three or more months after infection [<xref rid="REF3" ref-type="bibr">3</xref>]. Previous research has found that long COVID symptoms can range in severity from mild to debilitating, and previous surveillance has identified over 200 different symptoms experienced by patients with long COVID [<xref rid="REF4" ref-type="bibr">4</xref>-<xref rid="REF6" ref-type="bibr">6</xref>]. Long COVID has been observed to last anywhere from several weeks to multiple months and, in some cases, multiple years [<xref rid="REF7" ref-type="bibr">7</xref>]. While long COVID rates overall have decreased as less virulent COVID variants have begun circulating, the risk of developing long COVID from the Omicron family of COVID variants is estimated to be about 16% globally, although this estimate may differ depending on the criteria used to define and diagnose long COVID [<xref rid="REF4" ref-type="bibr">4</xref>,<xref rid="REF8" ref-type="bibr">8</xref>]. In the United States, most populations face a uniform risk of developing long COVID [<xref rid="REF9" ref-type="bibr">9</xref>]. With the acute disease associated with COVID-19 entering into an endemic phase and each person facing a risk of developing long COVID, the size of the public health burden and the extent to which long COVID will affect the overall healthcare system are just beginning to be understood [<xref rid="REF10" ref-type="bibr">10</xref>]. This paper examines the nature and size of the public health burden of long COVID, specifically within the US veteran population. This paper seeks to determine if veterans with long COVID face an increased risk of an emergency department (ED) visit compared to those who contract COVID-19 but do not develop long COVID.</p><p>A report from the Centers for Disease Control and Prevention estimates that 6.9% of all adults in the United States have ever had long COVID in some form [<xref rid="REF11" ref-type="bibr">11</xref>]. Recent studies of the Veterans Affairs (VA) administration estimate that approximately 13.5% of the VA population has had long COVID since the onset of the pandemic [<xref rid="REF12" ref-type="bibr">12</xref>]. Estimating the prevalence of severe or debilitating long COVID, however, is much more challenging given the lack of standardization of the disease and the myriad of ways long COVID can present itself [<xref rid="REF13" ref-type="bibr">13</xref>]. There is still no definitive physiological explanation for long COVID, no definitive biomarker or test that can identify long COVID (aside from the presentation of symptoms) and the duration of the disease, and no formal measurement of disease severity [<xref rid="REF14" ref-type="bibr">14</xref>,<xref rid="REF15" ref-type="bibr">15</xref>]. While long COVID can affect every organ system, some studies have found that people with long COVID face a higher risk of pulmonary complications while they are experiencing long COVID. This research, however, has not derived the specific risk of pulmonary complications or any other complications associated with long COVID and has not been able to estimate the size of the public health burden created by long COVID [<xref rid="REF16" ref-type="bibr">16</xref>]. Overall, there is limited and inconclusive research on how large of an impact long COVID will have on any population or the overall health consequences of long COVID that will be seen throughout society in the coming years [<xref rid="REF17" ref-type="bibr">17</xref>,<xref rid="REF18" ref-type="bibr">18</xref>].</p><p>Adjacent to public health, one economic estimate of one of the burdens created by long COVID examines the reduction in labor force participation as a result of long COVID. Previous research found that, as of 2022, approximately 4.5 million people have either dropped out of the workforce altogether or significantly reduced their working hours due to complications from long COVID [<xref rid="REF19" ref-type="bibr">19</xref>]. This estimate illustrates both how problematic long COVID may be on a population level and that the problems associated with long COVID may be more complex than just extended COVID symptoms. Given this drop in the labor force as a result of long COVID, the burden created by long COVID to public health and the healthcare system may also be considerably large and unwieldy. One potential public health concern related to long COVID is an increased risk of visiting an emergency department (ED). ED visits on their own are clear markers of poor health and misery, but they may also signal greater underlying distress within a population. Individuals with long COVID frequently present to EDs due to exacerbation of symptoms such as fatigue, dyspnea, and chest pain, which are not easily managed in primary care settings [<xref rid="REF20" ref-type="bibr">20</xref>]. Long COVID ED admissions involve problems spanning the entire body, including neurological, cardiovascular, and respiratory symptoms, which contribute to the severity of patients' conditions and their need for acute medical care [<xref rid="REF21" ref-type="bibr">21</xref>]. These ED visits underscore the complex and often debilitating nature of long COVID and signal the larger burden of disease facing this population.</p><p>This paper seeks to better understand long COVID on a population level, specifically examining the additional risk of an emergency department visit faced by patients in the Veterans Affairs healthcare system with long COVID. The metric of emergency department visits has been used in the past to gain insight into the complexities and nature of various public health problems, including, but not limited to, mental health, violence, child abuse, drug overdoses, and acute COVID-19 infection [<xref rid="REF22" ref-type="bibr">22</xref>-<xref rid="REF24" ref-type="bibr">24</xref>]. This paper seeks to examine whether veterans using the VA healthcare system who have been diagnosed with long COVID face a higher risk of going to the emergency department compared to veterans who contracted COVID-19 but were not diagnosed with long COVID.</p></sec><sec sec-type="materials|methods"><title>Materials and methods</title><p>Data</p><p>The data for this study came from the Veterans Health Administration (VHA) corporate data warehouse (CDW). The VHA CDW comprised operational and health-related data for each patient seen at a VA healthcare center. We accessed the VA's CDW using MDClone, a third-party analytics tool capable of querying and analyzing VA data. The data queried for this project was initially part of an operational initiative examining long COVID trends. This project was conducted under a Cooperative Research and Development Agreement (CRADA) and followed the ethical guidelines outlined under VHA Directive 1206.</p><p>The population we examined were individuals enrolled in VA care and had tested positive for COVID-19 at a VA facility or had a case of COVID-19 confirmed by a VA clinician. The outcome variable we were interested in was an emergency department visit. Given the breadth of symptoms associated with long COVID, we analyzed all ED visits and did not limit the ED visits by cause. We examined ED visits six months prior to testing positive for COVID-19 and six months after testing positive for COVID-19. The independent variable was whether the person would eventually be diagnosed with long COVID. We classified people as being diagnosed with long COVID if they had a diagnostic code of U0.09. We also included health history information, demographic data, and data on social determinants of health as covariates. The covariates we included had initially been analyzed in prior VA long COVID analyses [<xref rid="REF12" ref-type="bibr">12</xref>].</p><p>In order to be included in our population, the person had to test positive for COVID-19 between March 1, 2021, and December 31, 2021. We chose the starting point of this timeline because it coincided with when the VA had put together formal diagnostic criteria for post-acute sequelae of COVID-19 (also known as long COVID) and allowed time for these criteria to be disseminated throughout the VA system. The latest date for which we could reliably obtain ED visit data for the entire VA population was June 30, 2022, which determined the December 31 end date for our time frame, since we examined ED visits six months before and six months after a person tested positive for COVID-19.</p><p>To ensure precision within our population, we only included people for whom the COVID-19 case we were examining was their first case of COVID-19. If a person had a COVID-19 infection prior to our time frame, that person was not included in the study population.</p><p>Analysis</p><p>The first analysis conducted was descriptive and examined the demographic, social, and healthcare-related qualities between those who were eventually diagnosed with long COVID and those who were infected with COVID-19 but were never diagnosed with long COVID. The computational analysis was done using MDClone ADAMS (2024) [<xref rid="REF25" ref-type="bibr">25</xref>].</p><p>The second analysis sought to examine whether a person diagnosed with long COVID faced a higher risk of going to the emergency department after being infected with COVID-19. When comparing the risk of an ED visit among people diagnosed with long COVID and those not diagnosed, there is an inherent possible bias. People diagnosed with long COVID may have poorer overall health and/or a weaker immune system. Given this, these individuals may already have an elevated risk of an ED visit, separate from having long COVID. While this bias cannot completely be overcome, some approaches can partially isolate the elevated risk of an ED visit associated with being diagnosed with long COVID.</p><p>To manage this bias, we compared a person's risk of an ED visit before and after contracting COVID-19 and then examined the difference in the risk of an ED visit between those who eventually would be diagnosed with long COVID and those who would only be infected with COVID-19 and would not be diagnosed with long COVID. In effect, we are asking what is the increase in risk for an ED visit that a person faces before and after becoming infected with COVID-19, and is that increase in risk the same if a person eventually develops long COVID? We examined the risk of an ED visit within the six months prior to becoming infected with COVID-19 and sought to observe the difference in risk between those only infected with COVID-19 and those who were infected with COVID-19 and subsequently diagnosed with long COVID. We then conducted the same analysis, except we examined the risk of an ED visit for those two groups in the six months after being infected with COVID-19. Figure <xref rid="FIG1" ref-type="fig">1</xref> graphically explains this analytical plan using epidemiological 2x2 tables. This analysis was inspired by difference-in-difference models, although the model that was eventually employed was not a difference-in-difference model.</p><fig position="anchor" fig-type="figure" id="FIG1" orientation="portrait"><label>Figure 1</label><caption><title>Conceptual design of our study</title><p>ED: emergency department</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="cureus-0017-00000098410-i01.jpg"/></fig><p>We also examined the increased risk in an ED visit for people with and without a long COVID diagnosis between three and six months after they tested positive for COVID-19, attempting to see if the elevated risk in ED visits is experienced beyond the initial infection period. Long COVID is generally classified as experiencing COVID-19-related symptoms at least three months after being infected with COVID-19 [<xref rid="REF26" ref-type="bibr">26</xref>]. By examining the difference in risk for an ED visit between three and six months after testing positive for COVID-19, we can understand if an elevated risk of an ED visit is experienced in the long COVID period or if it is experienced closer to the time of infection.</p><p>The elevated risk of an ED visit associated with long COVID was analyzed using logistic regression. The outcome variable was whether or not a person experienced an ED visit during the specified time period (either 0-6 months or 3-6 months after infection). The independent variable was whether or not a person was (or would eventually be) diagnosed with long COVID. Other demographic, social, and health-related variables were included as covariates. This analysis included three logistic regression models; the first model examined the risk of experiencing an ED visit in the six months before a person was infected with COVID, the second model examined the risk of experiencing an ED visit in the six months after a person was infected with COVID, and the third model examined the risk of experiencing an ED visit 3-6 months after a person was infected with COVID.</p></sec><sec sec-type="results"><title>Results</title><p>Our population consisted of 172,945 VHA patients who tested positive for COVID-19 or had a confirmed case of COVID-19, 9,338 of whom eventually were diagnosed with long COVID (Table <xref rid="TAB1" ref-type="table">1</xref>). The average age of our population was between 58 and 59 years old, while the average age of people who were diagnosed with long COVID was between 61 and 62 years old. Our population was composed of 85% male and 15% female patients; 67% were white, 19% black, 13% identified as other when asked about their racial category, and 1% Asian. In terms of urban or rural status, 69% lived in urban areas, 29% in rural areas, and 1% in very rural areas (Table <xref rid="TAB1" ref-type="table">1</xref>). People diagnosed with long COVID had a chi-squared value of less than 0.001 for every demographic, social, and health-related category (Table <xref rid="TAB1" ref-type="table">1</xref>). Of those diagnosed with long COVID, the average (mean) number of days a long COVID diagnosis was made after initially testing positive for COVID-19 was 108 days (standard deviation (SD): 98.7 days) (Figure <xref rid="FIG2" ref-type="fig">2</xref>).</p><table-wrap position="float" id="TAB1" orientation="portrait"><label>Table 1</label><caption><title>Demographic and health-related information</title><p>SD: standard deviation, COPD: chronic obstructive pulmonary disease, PTSD: post-traumatic stress disorder</p></caption><table frame="hsides" rules="groups"><tbody><tr style="background-color:#ccc"><td rowspan="2" colspan="1">Characteristics</td><td colspan="2" rowspan="1">Overall</td><td colspan="2" rowspan="1">Only infected with COVID-19</td><td colspan="2" rowspan="1">Infected with COVID-19 and developed long COVID</td><td rowspan="2" colspan="1">Chi-squared</td><td rowspan="2" colspan="1">P-value</td></tr><tr><td rowspan="1" colspan="1">Number</td><td rowspan="1" colspan="1">SD or %</td><td rowspan="1" colspan="1">Number</td><td rowspan="1" colspan="1">SD or % </td><td rowspan="1" colspan="1">Number</td><td rowspan="1" colspan="1">SD or %</td></tr><tr style="background-color:#ccc"><td rowspan="1" colspan="1">Total population</td><td rowspan="1" colspan="1">172,945</td><td rowspan="1" colspan="1">-</td><td rowspan="1" colspan="1">163,607</td><td rowspan="1" colspan="1">-</td><td rowspan="1" colspan="1">9,338</td><td rowspan="1" colspan="1">-</td><td rowspan="1" colspan="1">-</td><td rowspan="1" colspan="1">-</td></tr><tr><td rowspan="1" colspan="1">Diagnosed with long COVID</td><td rowspan="1" colspan="1">9,338</td><td rowspan="1" colspan="1">5%</td><td rowspan="1" colspan="1">0</td><td rowspan="1" colspan="1">0</td><td rowspan="1" colspan="1">9,338</td><td rowspan="1" colspan="1">100%</td><td rowspan="1" colspan="1">-</td><td rowspan="1" colspan="1">-</td></tr><tr style="background-color:#ccc"><td rowspan="1" colspan="1">Age</td><td rowspan="1" colspan="1">58.81</td><td rowspan="1" colspan="1">16.54</td><td rowspan="1" colspan="1">58.67</td><td rowspan="1" colspan="1">16.63</td><td rowspan="1" colspan="1">61.32</td><td rowspan="1" colspan="1">14.73</td><td rowspan="1" colspan="1">&lt;0.001</td><td rowspan="1" colspan="1">&lt;0.001</td></tr><tr><td rowspan="1" colspan="1">Gender</td><td rowspan="1" colspan="1"> </td><td rowspan="1" colspan="1"> </td><td rowspan="1" colspan="1"> </td><td rowspan="1" colspan="1"> </td><td rowspan="1" colspan="1"> </td><td rowspan="1" colspan="1"> </td><td rowspan="1" colspan="1">&lt;0.001</td><td rowspan="1" colspan="1">&lt;0.001</td></tr><tr style="background-color:#ccc"><td rowspan="1" colspan="1">   Male</td><td rowspan="1" colspan="1">146,284</td><td rowspan="1" colspan="1">85%</td><td rowspan="1" colspan="1">138,233</td><td rowspan="1" colspan="1">84%</td><td rowspan="1" colspan="1">8,051</td><td rowspan="1" colspan="1">86%</td><td rowspan="1" colspan="1">-</td><td rowspan="1" colspan="1">-</td></tr><tr><td rowspan="1" colspan="1">   Female</td><td rowspan="1" colspan="1">26,661</td><td rowspan="1" colspan="1">15%</td><td rowspan="1" colspan="1">25,374</td><td rowspan="1" colspan="1">16%</td><td rowspan="1" colspan="1">1,287</td><td rowspan="1" colspan="1">14%</td><td rowspan="1" colspan="1">-</td><td rowspan="1" colspan="1">-</td></tr><tr style="background-color:#ccc"><td rowspan="1" colspan="1">Race</td><td rowspan="1" colspan="1"> </td><td rowspan="1" colspan="1"> </td><td rowspan="1" colspan="1"> </td><td rowspan="1" colspan="1"> </td><td rowspan="1" colspan="1"> </td><td rowspan="1" colspan="1"> </td><td rowspan="1" colspan="1">&lt;0.001</td><td rowspan="1" colspan="1">&lt;0.001</td></tr><tr><td rowspan="1" colspan="1">   Asian</td><td rowspan="1" colspan="1">1,670</td><td rowspan="1" colspan="1">1%</td><td rowspan="1" colspan="1">1,565</td><td rowspan="1" colspan="1">1%</td><td rowspan="1" colspan="1">105</td><td rowspan="1" colspan="1">1%</td><td rowspan="1" colspan="1">-</td><td rowspan="1" colspan="1">-</td></tr><tr style="background-color:#ccc"><td rowspan="1" colspan="1">   Black</td><td rowspan="1" colspan="1">32,565</td><td rowspan="1" colspan="1">19%</td><td rowspan="1" colspan="1">31,044</td><td rowspan="1" colspan="1">19%</td><td rowspan="1" colspan="1">1,521</td><td rowspan="1" colspan="1">16%</td><td rowspan="1" colspan="1">-</td><td rowspan="1" colspan="1">-</td></tr><tr><td rowspan="1" colspan="1">   Other</td><td rowspan="1" colspan="1">23,103</td><td rowspan="1" colspan="1">13%</td><td rowspan="1" colspan="1">22,180</td><td rowspan="1" colspan="1">14%</td><td rowspan="1" colspan="1">923</td><td rowspan="1" colspan="1">10%</td><td rowspan="1" colspan="1">-</td><td rowspan="1" colspan="1">-</td></tr><tr style="background-color:#ccc"><td rowspan="1" colspan="1">   White</td><td rowspan="1" colspan="1">115,607</td><td rowspan="1" colspan="1">67%</td><td rowspan="1" colspan="1">108,818</td><td rowspan="1" colspan="1">67%</td><td rowspan="1" colspan="1">6,789</td><td rowspan="1" colspan="1">73%</td><td rowspan="1" colspan="1">-</td><td rowspan="1" colspan="1">-</td></tr><tr><td rowspan="1" colspan="1">Ethnicity</td><td rowspan="1" colspan="1"> </td><td rowspan="1" colspan="1"> </td><td rowspan="1" colspan="1"> </td><td rowspan="1" colspan="1"> </td><td rowspan="1" colspan="1"> </td><td rowspan="1" colspan="1"> </td><td rowspan="1" colspan="1">&lt;0.001</td><td rowspan="1" colspan="1">0.03</td></tr><tr style="background-color:#ccc"><td rowspan="1" colspan="1">   Declined to answer</td><td rowspan="1" colspan="1">2,205</td><td rowspan="1" colspan="1">1%</td><td rowspan="1" colspan="1">2,081</td><td rowspan="1" colspan="1">1%</td><td rowspan="1" colspan="1">124</td><td rowspan="1" colspan="1">1%</td><td rowspan="1" colspan="1">-</td><td rowspan="1" colspan="1">-</td></tr><tr><td rowspan="1" colspan="1">   Hispanic or Latino</td><td rowspan="1" colspan="1">13,978</td><td rowspan="1" colspan="1">8%</td><td rowspan="1" colspan="1">12,808</td><td rowspan="1" colspan="1">8%</td><td rowspan="1" colspan="1">1,170</td><td rowspan="1" colspan="1">13%</td><td rowspan="1" colspan="1">-</td><td rowspan="1" colspan="1">-</td></tr><tr style="background-color:#ccc"><td rowspan="1" colspan="1">   Not Hispanic or Latino</td><td rowspan="1" colspan="1">134,459</td><td rowspan="1" colspan="1">78%</td><td rowspan="1" colspan="1">127,146</td><td rowspan="1" colspan="1">78%</td><td rowspan="1" colspan="1">7,313</td><td rowspan="1" colspan="1">78%</td><td rowspan="1" colspan="1">-</td><td rowspan="1" colspan="1">-</td></tr><tr><td rowspan="1" colspan="1">   Unknown to the patient</td><td rowspan="1" colspan="1">2,502</td><td rowspan="1" colspan="1">1%</td><td rowspan="1" colspan="1">2,369</td><td rowspan="1" colspan="1">1%</td><td rowspan="1" colspan="1">133</td><td rowspan="1" colspan="1">1%</td><td rowspan="1" colspan="1">-</td><td rowspan="1" colspan="1">-</td></tr><tr style="background-color:#ccc"><td rowspan="1" colspan="1">Marital status</td><td rowspan="1" colspan="1"> </td><td rowspan="1" colspan="1"> </td><td rowspan="1" colspan="1"> </td><td rowspan="1" colspan="1"> </td><td rowspan="1" colspan="1"> </td><td rowspan="1" colspan="1"> </td><td rowspan="1" colspan="1">&lt;0.001</td><td rowspan="1" colspan="1">&lt;0.001</td></tr><tr><td rowspan="1" colspan="1">   Divorced</td><td rowspan="1" colspan="1">37,561</td><td rowspan="1" colspan="1">22%</td><td rowspan="1" colspan="1">35,402</td><td rowspan="1" colspan="1">22%</td><td rowspan="1" colspan="1">2,159</td><td rowspan="1" colspan="1">23%</td><td rowspan="1" colspan="1">-</td><td rowspan="1" colspan="1">-</td></tr><tr style="background-color:#ccc"><td rowspan="1" colspan="1">   Married</td><td rowspan="1" colspan="1">87,095</td><td rowspan="1" colspan="1">50%</td><td rowspan="1" colspan="1">81,811</td><td rowspan="1" colspan="1">50%</td><td rowspan="1" colspan="1">5,284</td><td rowspan="1" colspan="1">57%</td><td rowspan="1" colspan="1">-</td><td rowspan="1" colspan="1">-</td></tr><tr><td rowspan="1" colspan="1">   Never married</td><td rowspan="1" colspan="1">26,480</td><td rowspan="1" colspan="1">15%</td><td rowspan="1" colspan="1">25,343</td><td rowspan="1" colspan="1">15%</td><td rowspan="1" colspan="1">1,137</td><td rowspan="1" colspan="1">12%</td><td rowspan="1" colspan="1">-</td><td rowspan="1" colspan="1">-</td></tr><tr style="background-color:#ccc"><td rowspan="1" colspan="1">   Separated</td><td rowspan="1" colspan="1">6,157</td><td rowspan="1" colspan="1">4%</td><td rowspan="1" colspan="1">5,858</td><td rowspan="1" colspan="1">4%</td><td rowspan="1" colspan="1">299</td><td rowspan="1" colspan="1">3%</td><td rowspan="1" colspan="1">-</td><td rowspan="1" colspan="1">-</td></tr><tr><td rowspan="1" colspan="1">   Single</td><td rowspan="1" colspan="1">350</td><td rowspan="1" colspan="1">0%</td><td rowspan="1" colspan="1">339</td><td rowspan="1" colspan="1">0%</td><td rowspan="1" colspan="1">11</td><td rowspan="1" colspan="1">0%</td><td rowspan="1" colspan="1">-</td><td rowspan="1" colspan="1">-</td></tr><tr style="background-color:#ccc"><td rowspan="1" colspan="1">   Unknown</td><td rowspan="1" colspan="1">6,928</td><td rowspan="1" colspan="1">4%</td><td rowspan="1" colspan="1">6,840</td><td rowspan="1" colspan="1">4%</td><td rowspan="1" colspan="1">88</td><td rowspan="1" colspan="1">1%</td><td rowspan="1" colspan="1">-</td><td rowspan="1" colspan="1">-</td></tr><tr><td rowspan="1" colspan="1">   Widowed</td><td rowspan="1" colspan="1">6,559</td><td rowspan="1" colspan="1">4%</td><td rowspan="1" colspan="1">6,218</td><td rowspan="1" colspan="1">4%</td><td rowspan="1" colspan="1">341</td><td rowspan="1" colspan="1">4%</td><td rowspan="1" colspan="1">-</td><td rowspan="1" colspan="1">-</td></tr><tr style="background-color:#ccc"><td rowspan="1" colspan="1">Urban or rural status</td><td rowspan="1" colspan="1"> </td><td rowspan="1" colspan="1"> </td><td rowspan="1" colspan="1"> </td><td rowspan="1" colspan="1"> </td><td rowspan="1" colspan="1"> </td><td rowspan="1" colspan="1"> </td><td rowspan="1" colspan="1">&lt;0.001</td><td rowspan="1" colspan="1">&lt;0.001</td></tr><tr><td rowspan="1" colspan="1">   Highly rural</td><td rowspan="1" colspan="1">1,563</td><td rowspan="1" colspan="1">1%</td><td rowspan="1" colspan="1">1,457</td><td rowspan="1" colspan="1">1%</td><td rowspan="1" colspan="1">106</td><td rowspan="1" colspan="1">1%</td><td rowspan="1" colspan="1">-</td><td rowspan="1" colspan="1">-</td></tr><tr style="background-color:#ccc"><td rowspan="1" colspan="1">   Rural</td><td rowspan="1" colspan="1">49,842</td><td rowspan="1" colspan="1">29%</td><td rowspan="1" colspan="1">46,878</td><td rowspan="1" colspan="1">29%</td><td rowspan="1" colspan="1">2,964</td><td rowspan="1" colspan="1">32%</td><td rowspan="1" colspan="1">-</td><td rowspan="1" colspan="1">-</td></tr><tr><td rowspan="1" colspan="1">   Urban</td><td rowspan="1" colspan="1">120,155</td><td rowspan="1" colspan="1">69%</td><td rowspan="1" colspan="1">113,954</td><td rowspan="1" colspan="1">70%</td><td rowspan="1" colspan="1">6,201</td><td rowspan="1" colspan="1">66%</td><td rowspan="1" colspan="1">-</td><td rowspan="1" colspan="1">-</td></tr><tr style="background-color:#ccc"><td rowspan="1" colspan="1">Health-related conditions</td><td rowspan="1" colspan="1"> </td><td rowspan="1" colspan="1"> </td><td rowspan="1" colspan="1"> </td><td rowspan="1" colspan="1"> </td><td rowspan="1" colspan="1"> </td><td rowspan="1" colspan="1"> </td><td rowspan="1" colspan="1"> </td><td rowspan="1" colspan="1"> </td></tr><tr><td rowspan="1" colspan="1">   Diabetes at the time of infection</td><td rowspan="1" colspan="1">73,452</td><td rowspan="1" colspan="1">42%</td><td rowspan="1" colspan="1">68,738</td><td rowspan="1" colspan="1">42%</td><td rowspan="1" colspan="1">4,714</td><td rowspan="1" colspan="1">50%</td><td rowspan="1" colspan="1">&lt;0.001</td><td rowspan="1" colspan="1">&lt;0.001</td></tr><tr style="background-color:#ccc"><td rowspan="1" colspan="1">   Myocardial infarction at the time of infection</td><td rowspan="1" colspan="1">10,733</td><td rowspan="1" colspan="1">6%</td><td rowspan="1" colspan="1">9,975</td><td rowspan="1" colspan="1">6%</td><td rowspan="1" colspan="1">758</td><td rowspan="1" colspan="1">8%</td><td rowspan="1" colspan="1">&lt;0.001</td><td rowspan="1" colspan="1">&lt;0.001</td></tr><tr><td rowspan="1" colspan="1">   COPD at the time of infection</td><td rowspan="1" colspan="1">39,158</td><td rowspan="1" colspan="1">23%</td><td rowspan="1" colspan="1">36,231</td><td rowspan="1" colspan="1">22%</td><td rowspan="1" colspan="1">2,927</td><td rowspan="1" colspan="1">31%</td><td rowspan="1" colspan="1">&lt;0.001</td><td rowspan="1" colspan="1">&lt;0.001</td></tr><tr style="background-color:#ccc"><td rowspan="1" colspan="1">   PTSD at the time of infection</td><td rowspan="1" colspan="1">57,418</td><td rowspan="1" colspan="1">33%</td><td rowspan="1" colspan="1">53,859</td><td rowspan="1" colspan="1">33%</td><td rowspan="1" colspan="1">3,559</td><td rowspan="1" colspan="1">38%</td><td rowspan="1" colspan="1">&lt;0.001</td><td rowspan="1" colspan="1">&lt;0.001</td></tr><tr><td rowspan="1" colspan="1">   Opioid prescription at the time of infection</td><td rowspan="1" colspan="1">51,567</td><td rowspan="1" colspan="1">30%</td><td rowspan="1" colspan="1">48,135</td><td rowspan="1" colspan="1">29%</td><td rowspan="1" colspan="1">3,432</td><td rowspan="1" colspan="1">37%</td><td rowspan="1" colspan="1">&lt;0.001</td><td rowspan="1" colspan="1">&lt;0.001</td></tr><tr style="background-color:#ccc"><td rowspan="1" colspan="1">   Congestive heart failure at the time of infection</td><td rowspan="1" colspan="1">22,373</td><td rowspan="1" colspan="1">13%</td><td rowspan="1" colspan="1">20,727</td><td rowspan="1" colspan="1">13%</td><td rowspan="1" colspan="1">1,646</td><td rowspan="1" colspan="1">18%</td><td rowspan="1" colspan="1">&lt;0.001</td><td rowspan="1" colspan="1">&lt;0.001</td></tr><tr><td rowspan="1" colspan="1">   Chronic kidney disease at the time of infection</td><td rowspan="1" colspan="1">28,745</td><td rowspan="1" colspan="1">17%</td><td rowspan="1" colspan="1">26,835</td><td rowspan="1" colspan="1">16%</td><td rowspan="1" colspan="1">1,910</td><td rowspan="1" colspan="1">20%</td><td rowspan="1" colspan="1">&lt;0.001</td><td rowspan="1" colspan="1">0.01</td></tr><tr style="background-color:#ccc"><td rowspan="1" colspan="1">   Cardiovascular disease at the time of infection</td><td rowspan="1" colspan="1">19,873</td><td rowspan="1" colspan="1">11%</td><td rowspan="1" colspan="1">18,546</td><td rowspan="1" colspan="1">11%</td><td rowspan="1" colspan="1">1,327</td><td rowspan="1" colspan="1">14%</td><td rowspan="1" colspan="1">&lt;0.001</td><td rowspan="1" colspan="1">&lt;0.001</td></tr><tr><td rowspan="1" colspan="1">   Peripheral artery disease at the time of infection</td><td rowspan="1" colspan="1">13,311</td><td rowspan="1" colspan="1">8%</td><td rowspan="1" colspan="1">12,378</td><td rowspan="1" colspan="1">8%</td><td rowspan="1" colspan="1">933</td><td rowspan="1" colspan="1">10%</td><td rowspan="1" colspan="1">&lt;0.001</td><td rowspan="1" colspan="1">&lt;0.001</td></tr><tr style="background-color:#ccc"><td rowspan="1" colspan="1">   Ventricular tachycardia at the time of infection</td><td rowspan="1" colspan="1">9,199</td><td rowspan="1" colspan="1">5%</td><td rowspan="1" colspan="1">8,317</td><td rowspan="1" colspan="1">5%</td><td rowspan="1" colspan="1">882</td><td rowspan="1" colspan="1">9%</td><td rowspan="1" colspan="1">&lt;0.001</td><td rowspan="1" colspan="1">&lt;0.001</td></tr><tr><td rowspan="1" colspan="1">   Obstructive sleep apnea at the time of infection</td><td rowspan="1" colspan="1">62,079</td><td rowspan="1" colspan="1">36%</td><td rowspan="1" colspan="1">57,670</td><td rowspan="1" colspan="1">35%</td><td rowspan="1" colspan="1">4,409</td><td rowspan="1" colspan="1">47%</td><td rowspan="1" colspan="1">&lt;0.001</td><td rowspan="1" colspan="1">&lt;0.001</td></tr><tr style="background-color:#ccc"><td rowspan="1" colspan="1">   Depression at the time of infection</td><td rowspan="1" colspan="1">58,967</td><td rowspan="1" colspan="1">34%</td><td rowspan="1" colspan="1">55,047</td><td rowspan="1" colspan="1">34%</td><td rowspan="1" colspan="1">3,920</td><td rowspan="1" colspan="1">42%</td><td rowspan="1" colspan="1">&lt;0.001</td><td rowspan="1" colspan="1">&lt;0.001</td></tr><tr><td rowspan="1" colspan="1">   Bipolar at the time of infection</td><td rowspan="1" colspan="1">8,731</td><td rowspan="1" colspan="1">5%</td><td rowspan="1" colspan="1">8,284</td><td rowspan="1" colspan="1">5%</td><td rowspan="1" colspan="1">447</td><td rowspan="1" colspan="1">5%</td><td rowspan="1" colspan="1">0.245</td><td rowspan="1" colspan="1">0.4</td></tr><tr style="background-color:#ccc"><td rowspan="1" colspan="1">   Schizophrenia at the time of infection</td><td rowspan="1" colspan="1">2,874</td><td rowspan="1" colspan="1">2%</td><td rowspan="1" colspan="1">2,748</td><td rowspan="1" colspan="1">2%</td><td rowspan="1" colspan="1">126</td><td rowspan="1" colspan="1">1%</td><td rowspan="1" colspan="1">0.017</td><td rowspan="1" colspan="1">0.02</td></tr><tr><td rowspan="1" colspan="1">   Obesity hypoventilation syndrome at the time of infection</td><td rowspan="1" colspan="1">1,665</td><td rowspan="1" colspan="1">1%</td><td rowspan="1" colspan="1">1,518</td><td rowspan="1" colspan="1">1%</td><td rowspan="1" colspan="1">147</td><td rowspan="1" colspan="1">2%</td><td rowspan="1" colspan="1">&lt;0.001</td><td rowspan="1" colspan="1">&lt;0.001</td></tr><tr style="background-color:#ccc"><td rowspan="1" colspan="1">Healthcare-related Interactions</td><td rowspan="1" colspan="1"> </td><td rowspan="1" colspan="1"> </td><td rowspan="1" colspan="1"> </td><td rowspan="1" colspan="1"> </td><td rowspan="1" colspan="1"> </td><td rowspan="1" colspan="1"> </td><td rowspan="1" colspan="1"> </td><td rowspan="1" colspan="1"> </td></tr><tr><td rowspan="1" colspan="1">   Average number of emergency department encounters before COVID infection</td><td rowspan="1" colspan="1">0.41</td><td rowspan="1" colspan="1">1.08</td><td rowspan="1" colspan="1">0.41</td><td rowspan="1" colspan="1">1.08</td><td rowspan="1" colspan="1">0.48</td><td rowspan="1" colspan="1">1.12</td><td rowspan="1" colspan="1">&lt;0.001</td><td rowspan="1" colspan="1">&lt;0.001</td></tr><tr style="background-color:#ccc"><td rowspan="1" colspan="1">   Average number of emergency department encounters after COVID infection</td><td rowspan="1" colspan="1">0.37</td><td rowspan="1" colspan="1">1.13</td><td rowspan="1" colspan="1">0.36</td><td rowspan="1" colspan="1">1.13</td><td rowspan="1" colspan="1">0.52</td><td rowspan="1" colspan="1">1.2</td><td rowspan="1" colspan="1">&lt;0.001</td><td rowspan="1" colspan="1">0.01</td></tr><tr><td rowspan="1" colspan="1">   Average number of any patient encounters pre-COVID</td><td rowspan="1" colspan="1">37.48</td><td rowspan="1" colspan="1">82.28</td><td rowspan="1" colspan="1">37.14</td><td rowspan="1" colspan="1">77.14</td><td rowspan="1" colspan="1">43.47</td><td rowspan="1" colspan="1">75.85</td><td rowspan="1" colspan="1">&lt;0.001</td><td rowspan="1" colspan="1">&lt;0.001</td></tr><tr style="background-color:#ccc"><td rowspan="1" colspan="1">   Average number of any patient encounters post-COVID</td><td rowspan="1" colspan="1">36.1</td><td rowspan="1" colspan="1">79.91</td><td rowspan="1" colspan="1">34.95</td><td rowspan="1" colspan="1">77.14</td><td rowspan="1" colspan="1">63.48</td><td rowspan="1" colspan="1">114.86</td><td rowspan="1" colspan="1">&lt;0.001</td><td rowspan="1" colspan="1">&lt;0.001</td></tr></tbody></table></table-wrap><fig position="anchor" fig-type="figure" id="FIG2" orientation="portrait"><label>Figure 2</label><caption><title>Average number of days from the first positive COVID test to a diagnosis of long COVID</title></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="cureus-0017-00000098410-i02.jpg"/></fig><p>When examining people's risk of an emergency department visit in the six months prior to being infected with COVID-19, people who were infected with COVID-19 and would eventually develop long COVID were not more or less likely (p=0.22) to experience an emergency department visit compared to those who were only infected with COVID-19 and would not develop long COVID (Table <xref rid="TAB2" ref-type="table">2</xref>). In the six months after a person was infected with COVID-19, people who developed long COVID were 34% more likely (p&lt;0.001) to experience an ED visit compared with those infected with COVID-19 but who never developed long COVID. When examining the risk of an ED visit 3-6 months after a person is infected with COVID-19, people with long COVID are still 21% (p&lt;0.001) more likely to have an ED visit compared to those who were only infected with COVID-19 (Table <xref rid="TAB3" ref-type="table">3</xref>).</p><table-wrap position="float" id="TAB2" orientation="portrait"><label>Table 2</label><caption><title>Regressions examining risk of an ED visit 1-6 months before and 1-6 months after being infected with COVID-19</title><p>ED: emergency department, CI: confidence interval, COPD: chronic obstructive pulmonary disease</p></caption><table frame="hsides" rules="groups"><tbody><tr style="background-color:#ccc"><td rowspan="2" colspan="1">
+Characteristics
+</td><td colspan="6" rowspan="1">
+1-6 months before being infected with COVID-19
+</td><td colspan="6" rowspan="1">
+1-6 months after being infected with COVID-19
+</td></tr><tr><td rowspan="1" colspan="1">
+Odds ratio
+</td><td rowspan="1" colspan="1">
+Standard error
+</td><td rowspan="1" colspan="1">
+Lower 95% CI
+</td><td rowspan="1" colspan="1">
+Upper 95% CI
+</td><td rowspan="1" colspan="1">
+P-value
+</td><td rowspan="1" colspan="1">
+Chi-squared
+</td><td rowspan="1" colspan="1">
+Odds ratio
+</td><td rowspan="1" colspan="1">
+Standard error
+</td><td rowspan="1" colspan="1">
+Lower 95% CI
+</td><td rowspan="1" colspan="1">
+Upper 95% CI
+</td><td rowspan="1" colspan="1">
+P-value
+</td><td rowspan="1" colspan="1">
+Chi-squared
+</td></tr><tr style="background-color:#ccc"><td rowspan="1" colspan="1">
+Long COVID status (did the person eventually develop long COVID)
+</td><td rowspan="1" colspan="1">
+-
+</td><td rowspan="1" colspan="1">
+-
+</td><td rowspan="1" colspan="1">
+-
+</td><td rowspan="1" colspan="1">
+-
+</td><td rowspan="1" colspan="1">
+-
+</td><td rowspan="1" colspan="1">
+-
+</td><td rowspan="1" colspan="1">
+-
+</td><td rowspan="1" colspan="1">
+-
+</td><td rowspan="1" colspan="1">
+-
+</td><td rowspan="1" colspan="1">
+-
+</td><td rowspan="1" colspan="1">
+-
+</td><td rowspan="1" colspan="1">
+-
+</td></tr><tr><td rowspan="1" colspan="1">
+Eventually develop long COVID
+</td><td rowspan="1" colspan="1">
+1.03
+</td><td rowspan="1" colspan="1">
+0.03
+</td><td rowspan="1" colspan="1">
+0.98
+</td><td rowspan="1" colspan="1">
+1.09
+</td><td rowspan="1" colspan="1">
+0.22
+</td><td rowspan="1" colspan="1">
+-
+</td><td rowspan="1" colspan="1">
+1.34
+</td><td rowspan="1" colspan="1">
+0.04
+</td><td rowspan="1" colspan="1">
+1.27
+</td><td rowspan="1" colspan="1">
+1.41
+</td><td rowspan="1" colspan="1">
+&lt;0.001
+</td><td rowspan="1" colspan="1">
+-
+</td></tr><tr style="background-color:#ccc"><td rowspan="1" colspan="1">
+Conditions at the time of infection or within a year of infection
+</td><td rowspan="1" colspan="1">
+-
+</td><td rowspan="1" colspan="1">
+-
+</td><td rowspan="1" colspan="1">
+-
+</td><td rowspan="1" colspan="1">
+-
+</td><td rowspan="1" colspan="1">
+-
+</td><td rowspan="1" colspan="1">
+-
+</td><td rowspan="1" colspan="1">
+-
+</td><td rowspan="1" colspan="1">
+-
+</td><td rowspan="1" colspan="1">
+-
+</td><td rowspan="1" colspan="1">
+-
+</td><td rowspan="1" colspan="1">
+-
+</td><td rowspan="1" colspan="1">
+-
+</td></tr><tr><td rowspan="1" colspan="1">
+Opioid prescription
+</td><td rowspan="1" colspan="1">
+1.74
+</td><td rowspan="1" colspan="1">
+0.01
+</td><td rowspan="1" colspan="1">
+1.69
+</td><td rowspan="1" colspan="1">
+1.79
+</td><td rowspan="1" colspan="1">
+&lt;0.001
+</td><td rowspan="1" colspan="1">
+10 200.73
+</td><td rowspan="1" colspan="1">
+1.67
+</td><td rowspan="1" colspan="1">
+0.02
+</td><td rowspan="1" colspan="1">
+1.62
+</td><td rowspan="1" colspan="1">
+1.72
+</td><td rowspan="1" colspan="1">
+&lt;0.001
+</td><td rowspan="1" colspan="1">
+8118.68
+</td></tr><tr style="background-color:#ccc"><td rowspan="1" colspan="1">
+Diabetes
+</td><td rowspan="1" colspan="1">
+0.94
+</td><td rowspan="1" colspan="1">
+0.01
+</td><td rowspan="1" colspan="1">
+0.92
+</td><td rowspan="1" colspan="1">
+0.97
+</td><td rowspan="1" colspan="1">
+&lt;0.001
+</td><td rowspan="1" colspan="1">
+1 296.68
+</td><td rowspan="1" colspan="1">
+0.94
+</td><td rowspan="1" colspan="1">
+0.01
+</td><td rowspan="1" colspan="1">
+0.91
+</td><td rowspan="1" colspan="1">
+0.96
+</td><td rowspan="1" colspan="1">
+&lt;0.001
+</td><td rowspan="1" colspan="1">
+939.68
+</td></tr><tr><td rowspan="1" colspan="1">
+Congestive heart failure
+</td><td rowspan="1" colspan="1">
+1.26
+</td><td rowspan="1" colspan="1">
+0.02
+</td><td rowspan="1" colspan="1">
+1.22
+</td><td rowspan="1" colspan="1">
+1.31
+</td><td rowspan="1" colspan="1">
+&lt;0.001
+</td><td rowspan="1" colspan="1">
+4 390.24
+</td><td rowspan="1" colspan="1">
+1.24
+</td><td rowspan="1" colspan="1">
+0.02
+</td><td rowspan="1" colspan="1">
+1.19
+</td><td rowspan="1" colspan="1">
+1.29
+</td><td rowspan="1" colspan="1">
+&lt;0.001
+</td><td rowspan="1" colspan="1">
+3306.81
+</td></tr><tr style="background-color:#ccc"><td rowspan="1" colspan="1">
+Chronic kidney disease
+</td><td rowspan="1" colspan="1">
+1.13
+</td><td rowspan="1" colspan="1">
+0.02
+</td><td rowspan="1" colspan="1">
+1.10
+</td><td rowspan="1" colspan="1">
+1.17
+</td><td rowspan="1" colspan="1">
+&lt;0.001
+</td><td rowspan="1" colspan="1">
+2 697.93
+</td><td rowspan="1" colspan="1">
+1.07
+</td><td rowspan="1" colspan="1">
+0.02
+</td><td rowspan="1" colspan="1">
+1.03
+</td><td rowspan="1" colspan="1">
+1.11
+</td><td rowspan="1" colspan="1">
+&lt;0.001
+</td><td rowspan="1" colspan="1">
+1804.14
+</td></tr><tr><td rowspan="1" colspan="1">
+Other cardiovascular disease
+</td><td rowspan="1" colspan="1">
+1.08
+</td><td rowspan="1" colspan="1">
+0.02
+</td><td rowspan="1" colspan="1">
+1.04
+</td><td rowspan="1" colspan="1">
+1.12
+</td><td rowspan="1" colspan="1">
+&lt;0.001
+</td><td rowspan="1" colspan="1">
+2 008.92
+</td><td rowspan="1" colspan="1">
+1.05
+</td><td rowspan="1" colspan="1">
+0.02
+</td><td rowspan="1" colspan="1">
+1.01
+</td><td rowspan="1" colspan="1">
+1.09
+</td><td rowspan="1" colspan="1">
+0.01
+</td><td rowspan="1" colspan="1">
+1461.13
+</td></tr><tr style="background-color:#ccc"><td rowspan="1" colspan="1">
+Peripheral arterial disease
+</td><td rowspan="1" colspan="1">
+1.08
+</td><td rowspan="1" colspan="1">
+0.02
+</td><td rowspan="1" colspan="1">
+1.04
+</td><td rowspan="1" colspan="1">
+1.13
+</td><td rowspan="1" colspan="1">
+&lt;0.001
+</td><td rowspan="1" colspan="1">
+1 800.70
+</td><td rowspan="1" colspan="1">
+1.04
+</td><td rowspan="1" colspan="1">
+0.02
+</td><td rowspan="1" colspan="1">
+0.99
+</td><td rowspan="1" colspan="1">
+1.09
+</td><td rowspan="1" colspan="1">
+0.09
+</td><td rowspan="1" colspan="1">
+1232.45
+</td></tr><tr><td rowspan="1" colspan="1">
+Ventricular tachycardia
+</td><td rowspan="1" colspan="1">
+1.29
+</td><td rowspan="1" colspan="1">
+0.02
+</td><td rowspan="1" colspan="1">
+1.23
+</td><td rowspan="1" colspan="1">
+1.36
+</td><td rowspan="1" colspan="1">
+&lt;0.001
+</td><td rowspan="1" colspan="1">
+1 460.09
+</td><td rowspan="1" colspan="1">
+1.21
+</td><td rowspan="1" colspan="1">
+0.03
+</td><td rowspan="1" colspan="1">
+1.15
+</td><td rowspan="1" colspan="1">
+1.27
+</td><td rowspan="1" colspan="1">
+&lt;0.001
+</td><td rowspan="1" colspan="1">
+1067.54
+</td></tr><tr style="background-color:#ccc"><td rowspan="1" colspan="1">
+Obstructive sleep apnea
+</td><td rowspan="1" colspan="1">
+1.12
+</td><td rowspan="1" colspan="1">
+0.01
+</td><td rowspan="1" colspan="1">
+1.10
+</td><td rowspan="1" colspan="1">
+1.15
+</td><td rowspan="1" colspan="1">
+&lt;0.001
+</td><td rowspan="1" colspan="1">
+1 268.70
+</td><td rowspan="1" colspan="1">
+1.13
+</td><td rowspan="1" colspan="1">
+0.01
+</td><td rowspan="1" colspan="1">
+1.11
+</td><td rowspan="1" colspan="1">
+1.17
+</td><td rowspan="1" colspan="1">
+&lt;0.001
+</td><td rowspan="1" colspan="1">
+1118.64
+</td></tr><tr><td rowspan="1" colspan="1">
+Depression
+</td><td rowspan="1" colspan="1">
+1.36
+</td><td rowspan="1" colspan="1">
+0.01
+</td><td rowspan="1" colspan="1">
+1.33
+</td><td rowspan="1" colspan="1">
+1.40
+</td><td rowspan="1" colspan="1">
+&lt;0.001
+</td><td rowspan="1" colspan="1">
+3 723.28
+</td><td rowspan="1" colspan="1">
+1.37
+</td><td rowspan="1" colspan="1">
+0.01
+</td><td rowspan="1" colspan="1">
+1.34
+</td><td rowspan="1" colspan="1">
+1.41
+</td><td rowspan="1" colspan="1">
+&lt;0.001
+</td><td rowspan="1" colspan="1">
+3463.34
+</td></tr><tr style="background-color:#ccc"><td rowspan="1" colspan="1">
+Bipolar
+</td><td rowspan="1" colspan="1">
+1.36
+</td><td rowspan="1" colspan="1">
+0.03
+</td><td rowspan="1" colspan="1">
+1.29
+</td><td rowspan="1" colspan="1">
+1.43
+</td><td rowspan="1" colspan="1">
+&lt;0.001
+</td><td rowspan="1" colspan="1">
+1 084.30
+</td><td rowspan="1" colspan="1">
+1.47
+</td><td rowspan="1" colspan="1">
+0.03
+</td><td rowspan="1" colspan="1">
+1.40
+</td><td rowspan="1" colspan="1">
+1.54
+</td><td rowspan="1" colspan="1">
+&lt;0.001
+</td><td rowspan="1" colspan="1">
+1222.01
+</td></tr><tr><td rowspan="1" colspan="1">
+Schizophrenia
+</td><td rowspan="1" colspan="1">
+1.17
+</td><td rowspan="1" colspan="1">
+0.04
+</td><td rowspan="1" colspan="1">
+1.08
+</td><td rowspan="1" colspan="1">
+1.27
+</td><td rowspan="1" colspan="1">
+&lt;0.001
+</td><td rowspan="1" colspan="1">
+633.93
+</td><td rowspan="1" colspan="1">
+1.18
+</td><td rowspan="1" colspan="1">
+0.04
+</td><td rowspan="1" colspan="1">
+1.09
+</td><td rowspan="1" colspan="1">
+1.28
+</td><td rowspan="1" colspan="1">
+&lt;0.001
+</td><td rowspan="1" colspan="1">
+616.21
+</td></tr><tr style="background-color:#ccc"><td rowspan="1" colspan="1">
+Obesity hypoventilation syndrome
+</td><td rowspan="1" colspan="1">
+1.23
+</td><td rowspan="1" colspan="1">
+0.05
+</td><td rowspan="1" colspan="1">
+1.11
+</td><td rowspan="1" colspan="1">
+1.37
+</td><td rowspan="1" colspan="1">
+&lt;0.001
+</td><td rowspan="1" colspan="1">
+437.35
+</td><td rowspan="1" colspan="1">
+1.15
+</td><td rowspan="1" colspan="1">
+0.06
+</td><td rowspan="1" colspan="1">
+1.03
+</td><td rowspan="1" colspan="1">
+1.28
+</td><td rowspan="1" colspan="1">
+0.01
+</td><td rowspan="1" colspan="1">
+320.83
+</td></tr><tr><td rowspan="1" colspan="1">
+Myocardial infarction
+</td><td rowspan="1" colspan="1">
+1.31
+</td><td rowspan="1" colspan="1">
+0.02
+</td><td rowspan="1" colspan="1">
+1.25
+</td><td rowspan="1" colspan="1">
+1.37
+</td><td rowspan="1" colspan="1">
+&lt;0.001
+</td><td rowspan="1" colspan="1">
+2 865.32
+</td><td rowspan="1" colspan="1">
+1.26
+</td><td rowspan="1" colspan="1">
+0.02
+</td><td rowspan="1" colspan="1">
+1.20
+</td><td rowspan="1" colspan="1">
+1.32
+</td><td rowspan="1" colspan="1">
+&lt;0.001
+</td><td rowspan="1" colspan="1">
+2125.64
+</td></tr><tr style="background-color:#ccc"><td rowspan="1" colspan="1">
+COPD
+</td><td rowspan="1" colspan="1">
+1.13
+</td><td rowspan="1" colspan="1">
+0.02
+</td><td rowspan="1" colspan="1">
+1.09
+</td><td rowspan="1" colspan="1">
+1.16
+</td><td rowspan="1" colspan="1">
+&lt;0.001
+</td><td rowspan="1" colspan="1">
+3 137.38
+</td><td rowspan="1" colspan="1">
+1.10
+</td><td rowspan="1" colspan="1">
+0.02
+</td><td rowspan="1" colspan="1">
+1.07
+</td><td rowspan="1" colspan="1">
+1.14
+</td><td rowspan="1" colspan="1">
+&lt;0.001
+</td><td rowspan="1" colspan="1">
+2339.87
+</td></tr><tr><td rowspan="1" colspan="1">
+Antidepressant prescription
+</td><td rowspan="1" colspan="1">
+1.50
+</td><td rowspan="1" colspan="1">
+0.02
+</td><td rowspan="1" colspan="1">
+1.45
+</td><td rowspan="1" colspan="1">
+1.55
+</td><td rowspan="1" colspan="1">
+&lt;0.001
+</td><td rowspan="1" colspan="1">
+10 030.68
+</td><td rowspan="1" colspan="1">
+1.44
+</td><td rowspan="1" colspan="1">
+0.02
+</td><td rowspan="1" colspan="1">
+1.40
+</td><td rowspan="1" colspan="1">
+1.49
+</td><td rowspan="1" colspan="1">
+&lt;0.001
+</td><td rowspan="1" colspan="1">
+8300.16
+</td></tr><tr style="background-color:#ccc"><td rowspan="1" colspan="1">
+Statins
+</td><td rowspan="1" colspan="1">
+1.54
+</td><td rowspan="1" colspan="1">
+0.02
+</td><td rowspan="1" colspan="1">
+1.49
+</td><td rowspan="1" colspan="1">
+1.59
+</td><td rowspan="1" colspan="1">
+&lt;0.001
+</td><td rowspan="1" colspan="1">
+9 781.28
+</td><td rowspan="1" colspan="1">
+1.49
+</td><td rowspan="1" colspan="1">
+0.02
+</td><td rowspan="1" colspan="1">
+1.44
+</td><td rowspan="1" colspan="1">
+1.54
+</td><td rowspan="1" colspan="1">
+&lt;0.001
+</td><td rowspan="1" colspan="1">
+7585.54
+</td></tr><tr><td rowspan="1" colspan="1">
+Race
+</td><td rowspan="1" colspan="1">
+-
+</td><td rowspan="1" colspan="1">
+-
+</td><td rowspan="1" colspan="1">
+-
+</td><td rowspan="1" colspan="1">
+-
+</td><td rowspan="1" colspan="1">
+-
+</td><td rowspan="1" colspan="1">
+2 447.05
+</td><td rowspan="1" colspan="1">
+-
+</td><td rowspan="1" colspan="1">
+-
+</td><td rowspan="1" colspan="1">
+-
+</td><td rowspan="1" colspan="1">
+-
+</td><td rowspan="1" colspan="1">
+-
+</td><td rowspan="1" colspan="1">
+2228.13
+</td></tr><tr style="background-color:#ccc"><td rowspan="1" colspan="1">
+Black
+</td><td rowspan="1" colspan="1">
+1.43
+</td><td rowspan="1" colspan="1">
+0.07
+</td><td rowspan="1" colspan="1">
+1.26
+</td><td rowspan="1" colspan="1">
+1.64
+</td><td rowspan="1" colspan="1">
+&lt;0.001
+</td><td rowspan="1" colspan="1">
+-
+</td><td rowspan="1" colspan="1">
+1.57
+</td><td rowspan="1" colspan="1">
+0.07
+</td><td rowspan="1" colspan="1">
+1.36
+</td><td rowspan="1" colspan="1">
+1.81
+</td><td rowspan="1" colspan="1">
+&lt;0.001
+</td><td rowspan="1" colspan="1">
+-
+</td></tr><tr><td rowspan="1" colspan="1">
+Other
+</td><td rowspan="1" colspan="1">
+0.98
+</td><td rowspan="1" colspan="1">
+0.07
+</td><td rowspan="1" colspan="1">
+0.86
+</td><td rowspan="1" colspan="1">
+1.13
+</td><td rowspan="1" colspan="1">
+0.80
+</td><td rowspan="1" colspan="1">
+-
+</td><td rowspan="1" colspan="1">
+1.05
+</td><td rowspan="1" colspan="1">
+0.07
+</td><td rowspan="1" colspan="1">
+0.91
+</td><td rowspan="1" colspan="1">
+1.21
+</td><td rowspan="1" colspan="1">
+0.52
+</td><td rowspan="1" colspan="1">
+-
+</td></tr><tr style="background-color:#ccc"><td rowspan="1" colspan="1">
+White
+</td><td rowspan="1" colspan="1">
+1.00
+</td><td rowspan="1" colspan="1">
+0.07
+</td><td rowspan="1" colspan="1">
+0.88
+</td><td rowspan="1" colspan="1">
+1.15
+</td><td rowspan="1" colspan="1">
+0.95
+</td><td rowspan="1" colspan="1">
+-
+</td><td rowspan="1" colspan="1">
+1.12
+</td><td rowspan="1" colspan="1">
+0.07
+</td><td rowspan="1" colspan="1">
+0.97
+</td><td rowspan="1" colspan="1">
+1.29
+</td><td rowspan="1" colspan="1">
+0.12
+</td><td rowspan="1" colspan="1">
+-
+</td></tr><tr><td rowspan="1" colspan="1">
+Urban or rural
+</td><td rowspan="1" colspan="1">
+-
+</td><td rowspan="1" colspan="1">
+-
+</td><td rowspan="1" colspan="1">
+-
+</td><td rowspan="1" colspan="1">
+-
+</td><td rowspan="1" colspan="1">
+-
+</td><td rowspan="1" colspan="1">
+942.86
+</td><td rowspan="1" colspan="1">
+-
+</td><td rowspan="1" colspan="1">
+-
+</td><td rowspan="1" colspan="1">
+-
+</td><td rowspan="1" colspan="1">
+-
+</td><td rowspan="1" colspan="1">
+-
+</td><td rowspan="1" colspan="1">
+966.43
+</td></tr><tr style="background-color:#ccc"><td rowspan="1" colspan="1">
+Rural
+</td><td rowspan="1" colspan="1">
+1.46
+</td><td rowspan="1" colspan="1">
+0.08
+</td><td rowspan="1" colspan="1">
+1.25
+</td><td rowspan="1" colspan="1">
+1.71
+</td><td rowspan="1" colspan="1">
+&lt;0.001
+</td><td rowspan="1" colspan="1">
+-
+</td><td rowspan="1" colspan="1">
+1.48
+</td><td rowspan="1" colspan="1">
+0.08
+</td><td rowspan="1" colspan="1">
+1.26
+</td><td rowspan="1" colspan="1">
+1.74
+</td><td rowspan="1" colspan="1">
+&lt;0.001
+</td><td rowspan="1" colspan="1">
+-
+</td></tr><tr><td rowspan="1" colspan="1">
+Urban
+</td><td rowspan="1" colspan="1">
+2.08
+</td><td rowspan="1" colspan="1">
+0.08
+</td><td rowspan="1" colspan="1">
+1.78
+</td><td rowspan="1" colspan="1">
+2.42
+</td><td rowspan="1" colspan="1">
+&lt;0.001
+</td><td rowspan="1" colspan="1">
+-
+</td><td rowspan="1" colspan="1">
+2.12
+</td><td rowspan="1" colspan="1">
+0.08
+</td><td rowspan="1" colspan="1">
+1.81
+</td><td rowspan="1" colspan="1">
+2.50
+</td><td rowspan="1" colspan="1">
+&lt;0.001
+</td><td rowspan="1" colspan="1">
+-
+</td></tr><tr style="background-color:#ccc"><td rowspan="1" colspan="1">
+Marital status
+</td><td rowspan="1" colspan="1">
+-
+</td><td rowspan="1" colspan="1">
+-
+</td><td rowspan="1" colspan="1">
+-
+</td><td rowspan="1" colspan="1">
+-
+</td><td rowspan="1" colspan="1">
+-
+</td><td rowspan="1" colspan="1">
+2 427.20
+</td><td rowspan="1" colspan="1">
+-
+</td><td rowspan="1" colspan="1">
+-
+</td><td rowspan="1" colspan="1">
+-
+</td><td rowspan="1" colspan="1">
+-
+</td><td rowspan="1" colspan="1">
+-
+</td><td rowspan="1" colspan="1">
+2074.94
+</td></tr><tr><td rowspan="1" colspan="1">
+Married 
+</td><td rowspan="1" colspan="1">
+0.81
+</td><td rowspan="1" colspan="1">
+0.02
+</td><td rowspan="1" colspan="1">
+0.78
+</td><td rowspan="1" colspan="1">
+0.83
+</td><td rowspan="1" colspan="1">
+&lt;0.001
+</td><td rowspan="1" colspan="1">
+-
+</td><td rowspan="1" colspan="1">
+0.81
+</td><td rowspan="1" colspan="1">
+0.02
+</td><td rowspan="1" colspan="1">
+0.79
+</td><td rowspan="1" colspan="1">
+0.84
+</td><td rowspan="1" colspan="1">
+&lt;0.001
+</td><td rowspan="1" colspan="1">
+-
+</td></tr><tr style="background-color:#ccc"><td rowspan="1" colspan="1">
+Never married
+</td><td rowspan="1" colspan="1">
+1.12
+</td><td rowspan="1" colspan="1">
+0.02
+</td><td rowspan="1" colspan="1">
+1.07
+</td><td rowspan="1" colspan="1">
+1.16
+</td><td rowspan="1" colspan="1">
+&lt;0.001
+</td><td rowspan="1" colspan="1">
+-
+</td><td rowspan="1" colspan="1">
+1.14
+</td><td rowspan="1" colspan="1">
+0.02
+</td><td rowspan="1" colspan="1">
+1.09
+</td><td rowspan="1" colspan="1">
+1.18
+</td><td rowspan="1" colspan="1">
+&lt;0.001
+</td><td rowspan="1" colspan="1">
+-
+</td></tr><tr><td rowspan="1" colspan="1">
+Separated
+</td><td rowspan="1" colspan="1">
+1.10
+</td><td rowspan="1" colspan="1">
+0.03
+</td><td rowspan="1" colspan="1">
+1.03
+</td><td rowspan="1" colspan="1">
+1.17
+</td><td rowspan="1" colspan="1">
+0.005
+</td><td rowspan="1" colspan="1">
+-
+</td><td rowspan="1" colspan="1">
+1.12
+</td><td rowspan="1" colspan="1">
+0.03
+</td><td rowspan="1" colspan="1">
+1.05
+</td><td rowspan="1" colspan="1">
+1.19
+</td><td rowspan="1" colspan="1">
+&lt;0.001
+</td><td rowspan="1" colspan="1">
+-
+</td></tr><tr style="background-color:#ccc"><td rowspan="1" colspan="1">
+Single
+</td><td rowspan="1" colspan="1">
+0.78
+</td><td rowspan="1" colspan="1">
+0.15
+</td><td rowspan="1" colspan="1">
+0.58
+</td><td rowspan="1" colspan="1">
+1.04
+</td><td rowspan="1" colspan="1">
+0.09
+</td><td rowspan="1" colspan="1">
+-
+</td><td rowspan="1" colspan="1">
+0.97
+</td><td rowspan="1" colspan="1">
+0.14
+</td><td rowspan="1" colspan="1">
+0.73
+</td><td rowspan="1" colspan="1">
+1.28
+</td><td rowspan="1" colspan="1">
+0.81
+</td><td rowspan="1" colspan="1">
+-
+</td></tr><tr><td rowspan="1" colspan="1">
+Unknown
+</td><td rowspan="1" colspan="1">
+0.33
+</td><td rowspan="1" colspan="1">
+0.06
+</td><td rowspan="1" colspan="1">
+0.30
+</td><td rowspan="1" colspan="1">
+0.37
+</td><td rowspan="1" colspan="1">
+&lt;0.001
+</td><td rowspan="1" colspan="1">
+-
+</td><td rowspan="1" colspan="1">
+0.39
+</td><td rowspan="1" colspan="1">
+0.06
+</td><td rowspan="1" colspan="1">
+0.35
+</td><td rowspan="1" colspan="1">
+0.44
+</td><td rowspan="1" colspan="1">
+&lt;0.001
+</td><td rowspan="1" colspan="1">
+-
+</td></tr><tr style="background-color:#ccc"><td rowspan="1" colspan="1">
+Widowed
+</td><td rowspan="1" colspan="1">
+0.94
+</td><td rowspan="1" colspan="1">
+0.03
+</td><td rowspan="1" colspan="1">
+0.89
+</td><td rowspan="1" colspan="1">
+1.01
+</td><td rowspan="1" colspan="1">
+0.07
+</td><td rowspan="1" colspan="1">
+-
+</td><td rowspan="1" colspan="1">
+0.92
+</td><td rowspan="1" colspan="1">
+0.03
+</td><td rowspan="1" colspan="1">
+0.86
+</td><td rowspan="1" colspan="1">
+0.98
+</td><td rowspan="1" colspan="1">
+0.01
+</td><td rowspan="1" colspan="1">
+-
+</td></tr><tr><td rowspan="1" colspan="1">
+Female gender (male for reference category)
+</td><td rowspan="1" colspan="1">
+1.02
+</td><td rowspan="1" colspan="1">
+0.02
+</td><td rowspan="1" colspan="1">
+0.98
+</td><td rowspan="1" colspan="1">
+1.06
+</td><td rowspan="1" colspan="1">
+0.32
+</td><td rowspan="1" colspan="1">
+329.02
+</td><td rowspan="1" colspan="1">
+1.00
+</td><td rowspan="1" colspan="1">
+0.02
+</td><td rowspan="1" colspan="1">
+0.96
+</td><td rowspan="1" colspan="1">
+1.04
+</td><td rowspan="1" colspan="1">
+0.98
+</td><td rowspan="1" colspan="1">
+202.64
+</td></tr><tr style="background-color:#ccc"><td rowspan="1" colspan="1">
+Intercept
+</td><td rowspan="1" colspan="1">
+0.07
+</td><td rowspan="1" colspan="1"> </td><td rowspan="1" colspan="1">
+0.06
+</td><td rowspan="1" colspan="1">
+0.09
+</td><td rowspan="1" colspan="1">
+&lt;0.001
+</td><td rowspan="1" colspan="1">
+-
+</td><td rowspan="1" colspan="1">
+0.06
+</td><td rowspan="1" colspan="1">
+0.11
+</td><td rowspan="1" colspan="1">
+0.05
+</td><td rowspan="1" colspan="1">
+0.07
+</td><td rowspan="1" colspan="1">
+&lt;0.001
+</td><td rowspan="1" colspan="1">
+-
+</td></tr></tbody></table></table-wrap><table-wrap position="float" id="TAB3" orientation="portrait"><label>Table 3</label><caption><title>Regressions examining the risk of an ED visit 1-6 months before and 3-6 months after being infected with COVID-19</title><p>ED: emergency department, CI: confidence interval, COPD: chronic obstructive pulmonary disease</p></caption><table frame="hsides" rules="groups"><tbody><tr style="background-color:#ccc"><td rowspan="2" colspan="1">
+Characteristics
+</td><td colspan="6" rowspan="1">
+1-6 months before being infected with COVID-19
+</td><td colspan="6" rowspan="1">
+3-6 months after being infected with COVID-19
+</td></tr><tr><td rowspan="1" colspan="1">
+Odds ratio
+</td><td rowspan="1" colspan="1">
+Standard error
+</td><td rowspan="1" colspan="1">
+Lower 95% CI
+</td><td rowspan="1" colspan="1">
+Upper 95% CI
+</td><td rowspan="1" colspan="1">
+P-value
+</td><td rowspan="1" colspan="1">
+Chi-squared
+</td><td rowspan="1" colspan="1">
+Odds ratio
+</td><td rowspan="1" colspan="1">
+Standard error
+</td><td rowspan="1" colspan="1">
+Lower 95% CI
+</td><td rowspan="1" colspan="1">
+Upper 95% CI
+</td><td rowspan="1" colspan="1">
+P-value
+</td><td rowspan="1" colspan="1">
+Chi-squared
+</td></tr><tr style="background-color:#ccc"><td rowspan="1" colspan="1">
+Long COVID status (did the person eventually develop long COVID)
+</td><td rowspan="1" colspan="1">
+-
+</td><td rowspan="1" colspan="1">
+-
+</td><td rowspan="1" colspan="1">
+-
+</td><td rowspan="1" colspan="1">
+-
+</td><td rowspan="1" colspan="1">
+-
+</td><td rowspan="1" colspan="1">
+-
+</td><td rowspan="1" colspan="1">
+-
+</td><td rowspan="1" colspan="1">
+-
+</td><td rowspan="1" colspan="1">
+-
+</td><td rowspan="1" colspan="1">
+-
+</td><td rowspan="1" colspan="1">
+-
+</td><td rowspan="1" colspan="1">
+-
+</td></tr><tr><td rowspan="1" colspan="1">
+Eventually develop long COVID
+</td><td rowspan="1" colspan="1">
+1.03
+</td><td rowspan="1" colspan="1">
+0.03
+</td><td rowspan="1" colspan="1">
+0.98
+</td><td rowspan="1" colspan="1">
+1.09
+</td><td rowspan="1" colspan="1">
+0.22
+</td><td rowspan="1" colspan="1">
+-
+</td><td rowspan="1" colspan="1">
+1.21
+</td><td rowspan="1" colspan="1">
+0.04
+</td><td rowspan="1" colspan="1">
+1.14
+</td><td rowspan="1" colspan="1">
+1.28
+</td><td rowspan="1" colspan="1">
+&lt;0.001
+</td><td rowspan="1" colspan="1">
+-
+</td></tr><tr style="background-color:#ccc"><td rowspan="1" colspan="1">
+Conditions at the time of infection or within a year of infection
+</td><td rowspan="1" colspan="1">
+-
+</td><td rowspan="1" colspan="1">
+-
+</td><td rowspan="1" colspan="1">
+-
+</td><td rowspan="1" colspan="1">
+-
+</td><td rowspan="1" colspan="1">
+-
+</td><td rowspan="1" colspan="1">
+-
+</td><td rowspan="1" colspan="1">
+-
+</td><td rowspan="1" colspan="1">
+-
+</td><td rowspan="1" colspan="1">
+-
+</td><td rowspan="1" colspan="1">
+-
+</td><td rowspan="1" colspan="1">
+-
+</td><td rowspan="1" colspan="1">
+-
+</td></tr><tr><td rowspan="1" colspan="1">
+Opioid prescription
+</td><td rowspan="1" colspan="1">
+1.74
+</td><td rowspan="1" colspan="1">
+0.01
+</td><td rowspan="1" colspan="1">
+1.69
+</td><td rowspan="1" colspan="1">
+1.79
+</td><td rowspan="1" colspan="1">
+&lt;0.001
+</td><td rowspan="1" colspan="1">
+10 200.73
+</td><td rowspan="1" colspan="1">
+1.62
+</td><td rowspan="1" colspan="1">
+0.02
+</td><td rowspan="1" colspan="1">
+1.57
+</td><td rowspan="1" colspan="1">
+1.68
+</td><td rowspan="1" colspan="1">
+&lt;0.001
+</td><td rowspan="1" colspan="1">
+5582.98
+</td></tr><tr style="background-color:#ccc"><td rowspan="1" colspan="1">
+Diabetes
+</td><td rowspan="1" colspan="1">
+0.94
+</td><td rowspan="1" colspan="1">
+0.00
+</td><td rowspan="1" colspan="1">
+0.92
+</td><td rowspan="1" colspan="1">
+0.97
+</td><td rowspan="1" colspan="1">
+&lt;0.001
+</td><td rowspan="1" colspan="1">
+1 296.68
+</td><td rowspan="1" colspan="1">
+0.94
+</td><td rowspan="1" colspan="1">
+0.02
+</td><td rowspan="1" colspan="1">
+0.91
+</td><td rowspan="1" colspan="1">
+0.97
+</td><td rowspan="1" colspan="1">
+&lt;0.001
+</td><td rowspan="1" colspan="1">
+638.19
+</td></tr><tr><td rowspan="1" colspan="1">
+Congestive heart failure
+</td><td rowspan="1" colspan="1">
+1.26
+</td><td rowspan="1" colspan="1">
+0.00
+</td><td rowspan="1" colspan="1">
+1.22
+</td><td rowspan="1" colspan="1">
+1.31
+</td><td rowspan="1" colspan="1">
+&lt;0.001
+</td><td rowspan="1" colspan="1">
+4 390.24
+</td><td rowspan="1" colspan="1">
+1.21
+</td><td rowspan="1" colspan="1">
+0.02
+</td><td rowspan="1" colspan="1">
+1.16
+</td><td rowspan="1" colspan="1">
+1.27
+</td><td rowspan="1" colspan="1">
+&lt;0.001
+</td><td rowspan="1" colspan="1">
+2292.86
+</td></tr><tr style="background-color:#ccc"><td rowspan="1" colspan="1">
+Chronic kidney disease
+</td><td rowspan="1" colspan="1">
+1.13
+</td><td rowspan="1" colspan="1">
+0.00
+</td><td rowspan="1" colspan="1">
+1.10
+</td><td rowspan="1" colspan="1">
+1.17
+</td><td rowspan="1" colspan="1">
+&lt;0.001
+</td><td rowspan="1" colspan="1">
+2 697.93
+</td><td rowspan="1" colspan="1">
+1.05
+</td><td rowspan="1" colspan="1">
+0.02
+</td><td rowspan="1" colspan="1">
+1.01
+</td><td rowspan="1" colspan="1">
+1.09
+</td><td rowspan="1" colspan="1">
+0.01
+</td><td rowspan="1" colspan="1">
+1210.28
+</td></tr><tr><td rowspan="1" colspan="1">
+Other cardiovascular disease
+</td><td rowspan="1" colspan="1">
+1.08
+</td><td rowspan="1" colspan="1">
+0.00
+</td><td rowspan="1" colspan="1">
+1.04
+</td><td rowspan="1" colspan="1">
+1.12
+</td><td rowspan="1" colspan="1">
+&lt;0.001
+</td><td rowspan="1" colspan="1">
+2 008.92
+</td><td rowspan="1" colspan="1">
+1.06
+</td><td rowspan="1" colspan="1">
+0.02
+</td><td rowspan="1" colspan="1">
+1.02
+</td><td rowspan="1" colspan="1">
+1.11
+</td><td rowspan="1" colspan="1">
+0.004
+</td><td rowspan="1" colspan="1">
+1042.56
+</td></tr><tr style="background-color:#ccc"><td rowspan="1" colspan="1">
+Peripheral arterial disease
+</td><td rowspan="1" colspan="1">
+1.08
+</td><td rowspan="1" colspan="1">
+0.00
+</td><td rowspan="1" colspan="1">
+1.04
+</td><td rowspan="1" colspan="1">
+1.13
+</td><td rowspan="1" colspan="1">
+&lt;0.001
+</td><td rowspan="1" colspan="1">
+1 800.70
+</td><td rowspan="1" colspan="1">
+1.05
+</td><td rowspan="1" colspan="1">
+0.03
+</td><td rowspan="1" colspan="1">
+1.00
+</td><td rowspan="1" colspan="1">
+1.11
+</td><td rowspan="1" colspan="1">
+0.04
+</td><td rowspan="1" colspan="1">
+855.73
+</td></tr><tr><td rowspan="1" colspan="1">
+Ventricular tachycardia
+</td><td rowspan="1" colspan="1">
+1.29
+</td><td rowspan="1" colspan="1">
+0.01
+</td><td rowspan="1" colspan="1">
+1.23
+</td><td rowspan="1" colspan="1">
+1.36
+</td><td rowspan="1" colspan="1">
+&lt;0.001
+</td><td rowspan="1" colspan="1">
+1 460.09
+</td><td rowspan="1" colspan="1">
+1.19
+</td><td rowspan="1" colspan="1">
+0.03
+</td><td rowspan="1" colspan="1">
+1.13
+</td><td rowspan="1" colspan="1">
+1.25
+</td><td rowspan="1" colspan="1">
+&lt;0.001
+</td><td rowspan="1" colspan="1">
+761.75
+</td></tr><tr style="background-color:#ccc"><td rowspan="1" colspan="1">
+Obstructive sleep apnea
+</td><td rowspan="1" colspan="1">
+1.12
+</td><td rowspan="1" colspan="1">
+0.00
+</td><td rowspan="1" colspan="1">
+1.10
+</td><td rowspan="1" colspan="1">
+1.15
+</td><td rowspan="1" colspan="1">
+&lt;0.001
+</td><td rowspan="1" colspan="1">
+1 268.70
+</td><td rowspan="1" colspan="1">
+1.15
+</td><td rowspan="1" colspan="1">
+0.02
+</td><td rowspan="1" colspan="1">
+1.12
+</td><td rowspan="1" colspan="1">
+1.19
+</td><td rowspan="1" colspan="1">
+&lt;0.001
+</td><td rowspan="1" colspan="1">
+825.09
+</td></tr><tr><td rowspan="1" colspan="1">
+Depression
+</td><td rowspan="1" colspan="1">
+1.36
+</td><td rowspan="1" colspan="1">
+0.01
+</td><td rowspan="1" colspan="1">
+1.33
+</td><td rowspan="1" colspan="1">
+1.40
+</td><td rowspan="1" colspan="1">
+&lt;0.001
+</td><td rowspan="1" colspan="1">
+3 723.28
+</td><td rowspan="1" colspan="1">
+1.35
+</td><td rowspan="1" colspan="1">
+0.02
+</td><td rowspan="1" colspan="1">
+1.30
+</td><td rowspan="1" colspan="1">
+1.39
+</td><td rowspan="1" colspan="1">
+&lt;0.001
+</td><td rowspan="1" colspan="1">
+2487.74
+</td></tr><tr style="background-color:#ccc"><td rowspan="1" colspan="1">
+Bipolar
+</td><td rowspan="1" colspan="1">
+1.36
+</td><td rowspan="1" colspan="1">
+0.01
+</td><td rowspan="1" colspan="1">
+1.29
+</td><td rowspan="1" colspan="1">
+1.43
+</td><td rowspan="1" colspan="1">
+&lt;0.001
+</td><td rowspan="1" colspan="1">
+1 084.30
+</td><td rowspan="1" colspan="1">
+1.46
+</td><td rowspan="1" colspan="1">
+0.03
+</td><td rowspan="1" colspan="1">
+1.39
+</td><td rowspan="1" colspan="1">
+1.55
+</td><td rowspan="1" colspan="1">
+&lt;0.001
+</td><td rowspan="1" colspan="1">
+996.48
+</td></tr><tr><td rowspan="1" colspan="1">
+Schizophrenia
+</td><td rowspan="1" colspan="1">
+1.17
+</td><td rowspan="1" colspan="1">
+0.01
+</td><td rowspan="1" colspan="1">
+1.08
+</td><td rowspan="1" colspan="1">
+1.27
+</td><td rowspan="1" colspan="1">
+&lt;0.001
+</td><td rowspan="1" colspan="1">
+633.93
+</td><td rowspan="1" colspan="1">
+1.19
+</td><td rowspan="1" colspan="1">
+0.05
+</td><td rowspan="1" colspan="1">
+1.09
+</td><td rowspan="1" colspan="1">
+1.30
+</td><td rowspan="1" colspan="1">
+&lt;0.001
+</td><td rowspan="1" colspan="1">
+498.39
+</td></tr><tr style="background-color:#ccc"><td rowspan="1" colspan="1">
+Obesity hypoventilation syndrome
+</td><td rowspan="1" colspan="1">
+1.23
+</td><td rowspan="1" colspan="1">
+0.01
+</td><td rowspan="1" colspan="1">
+1.11
+</td><td rowspan="1" colspan="1">
+1.37
+</td><td rowspan="1" colspan="1">
+&lt;0.001
+</td><td rowspan="1" colspan="1">
+437.35
+</td><td rowspan="1" colspan="1">
+1.11
+</td><td rowspan="1" colspan="1">
+0.06
+</td><td rowspan="1" colspan="1">
+0.98
+</td><td rowspan="1" colspan="1">
+1.24
+</td><td rowspan="1" colspan="1">
+0.09
+</td><td rowspan="1" colspan="1">
+214.66
+</td></tr><tr><td rowspan="1" colspan="1">
+Myocardial infarction
+</td><td rowspan="1" colspan="1">
+1.31
+</td><td rowspan="1" colspan="1">
+0.01
+</td><td rowspan="1" colspan="1">
+1.25
+</td><td rowspan="1" colspan="1">
+1.37
+</td><td rowspan="1" colspan="1">
+&lt;0.001
+</td><td rowspan="1" colspan="1">
+2 865.32
+</td><td rowspan="1" colspan="1">
+1.25
+</td><td rowspan="1" colspan="1">
+0.03
+</td><td rowspan="1" colspan="1">
+1.19
+</td><td rowspan="1" colspan="1">
+1.31
+</td><td rowspan="1" colspan="1">
+&lt;0.001
+</td><td rowspan="1" colspan="1">
+1520.2
+</td></tr><tr style="background-color:#ccc"><td rowspan="1" colspan="1">
+COPD
+</td><td rowspan="1" colspan="1">
+1.13
+</td><td rowspan="1" colspan="1">
+0.00
+</td><td rowspan="1" colspan="1">
+1.09
+</td><td rowspan="1" colspan="1">
+1.16
+</td><td rowspan="1" colspan="1">
+&lt;0.001
+</td><td rowspan="1" colspan="1">
+3 137.38
+</td><td rowspan="1" colspan="1">
+1.10
+</td><td rowspan="1" colspan="1">
+0.02
+</td><td rowspan="1" colspan="1">
+1.07
+</td><td rowspan="1" colspan="1">
+1.14
+</td><td rowspan="1" colspan="1">
+&lt;0.001
+</td><td rowspan="1" colspan="1">
+1630.48
+</td></tr><tr><td rowspan="1" colspan="1">
+Antidepressant prescription
+</td><td rowspan="1" colspan="1">
+1.50
+</td><td rowspan="1" colspan="1">
+0.00
+</td><td rowspan="1" colspan="1">
+1.45
+</td><td rowspan="1" colspan="1">
+1.55
+</td><td rowspan="1" colspan="1">
+&lt;0.001
+</td><td rowspan="1" colspan="1">
+10 030.68
+</td><td rowspan="1" colspan="1">
+1.41
+</td><td rowspan="1" colspan="1">
+0.02
+</td><td rowspan="1" colspan="1">
+1.36
+</td><td rowspan="1" colspan="1">
+1.46
+</td><td rowspan="1" colspan="1">
+&lt;0.001
+</td><td rowspan="1" colspan="1">
+5870.99
+</td></tr><tr style="background-color:#ccc"><td rowspan="1" colspan="1">
+Statins
+</td><td rowspan="1" colspan="1">
+1.54
+</td><td rowspan="1" colspan="1">
+0.00
+</td><td rowspan="1" colspan="1">
+1.49
+</td><td rowspan="1" colspan="1">
+1.59
+</td><td rowspan="1" colspan="1">
+&lt;0.001
+</td><td rowspan="1" colspan="1">
+9 781.28
+</td><td rowspan="1" colspan="1">
+1.41
+</td><td rowspan="1" colspan="1">
+0.02
+</td><td rowspan="1" colspan="1">
+1.35
+</td><td rowspan="1" colspan="1">
+1.46
+</td><td rowspan="1" colspan="1">
+&lt;0.001
+</td><td rowspan="1" colspan="1">
+5034.63
+</td></tr><tr><td rowspan="1" colspan="1">
+Race
+</td><td rowspan="1" colspan="1">
+-
+</td><td rowspan="1" colspan="1">
+0.00
+</td><td rowspan="1" colspan="1">
+-
+</td><td rowspan="1" colspan="1">
+-
+</td><td rowspan="1" colspan="1">
+-
+</td><td rowspan="1" colspan="1">
+2 447.05
+</td><td rowspan="1" colspan="1">
+-
+</td><td rowspan="1" colspan="1">
+-
+</td><td rowspan="1" colspan="1">
+-
+</td><td rowspan="1" colspan="1">
+-
+</td><td rowspan="1" colspan="1">
+-
+</td><td rowspan="1" colspan="1">
+1650.81
+</td></tr><tr style="background-color:#ccc"><td rowspan="1" colspan="1">
+Black
+</td><td rowspan="1" colspan="1">
+1.43
+</td><td rowspan="1" colspan="1">
+0.01
+</td><td rowspan="1" colspan="1">
+1.26
+</td><td rowspan="1" colspan="1">
+1.64
+</td><td rowspan="1" colspan="1">
+&lt;0.001
+</td><td rowspan="1" colspan="1">
+-
+</td><td rowspan="1" colspan="1">
+1.49
+</td><td rowspan="1" colspan="1">
+0.08
+</td><td rowspan="1" colspan="1">
+1.27
+</td><td rowspan="1" colspan="1">
+1.76
+</td><td rowspan="1" colspan="1">
+&lt;0.001
+</td><td rowspan="1" colspan="1">
+-
+</td></tr><tr><td rowspan="1" colspan="1">
+Other
+</td><td rowspan="1" colspan="1">
+0.98
+</td><td rowspan="1" colspan="1">
+0.00
+</td><td rowspan="1" colspan="1">
+0.86
+</td><td rowspan="1" colspan="1">
+1.13
+</td><td rowspan="1" colspan="1">
+0.80
+</td><td rowspan="1" colspan="1">
+-
+</td><td rowspan="1" colspan="1">
+1.00
+</td><td rowspan="1" colspan="1">
+0.09
+</td><td rowspan="1" colspan="1">
+0.84
+</td><td rowspan="1" colspan="1">
+1.18
+</td><td rowspan="1" colspan="1">
+0.99
+</td><td rowspan="1" colspan="1">
+-
+</td></tr><tr style="background-color:#ccc"><td rowspan="1" colspan="1">
+White
+</td><td rowspan="1" colspan="1">
+1.00
+</td><td rowspan="1" colspan="1">
+0.00
+</td><td rowspan="1" colspan="1">
+0.88
+</td><td rowspan="1" colspan="1">
+1.15
+</td><td rowspan="1" colspan="1">
+0.95
+</td><td rowspan="1" colspan="1">
+-
+</td><td rowspan="1" colspan="1">
+1.06
+</td><td rowspan="1" colspan="1">
+0.08
+</td><td rowspan="1" colspan="1">
+0.90
+</td><td rowspan="1" colspan="1">
+1.24
+</td><td rowspan="1" colspan="1">
+0.50
+</td><td rowspan="1" colspan="1">
+-
+</td></tr><tr><td rowspan="1" colspan="1">
+Urban or rural
+</td><td rowspan="1" colspan="1">
+-
+</td><td rowspan="1" colspan="1">
+0.00
+</td><td rowspan="1" colspan="1">
+-
+</td><td rowspan="1" colspan="1">
+-
+</td><td rowspan="1" colspan="1">
+-
+</td><td rowspan="1" colspan="1">
+942.86
+</td><td rowspan="1" colspan="1">
+-
+</td><td rowspan="1" colspan="1">
+-
+</td><td rowspan="1" colspan="1">
+-
+</td><td rowspan="1" colspan="1">
+-
+</td><td rowspan="1" colspan="1">
+-
+</td><td rowspan="1" colspan="1">
+699.34
+</td></tr><tr style="background-color:#ccc"><td rowspan="1" colspan="1">
+Rural
+</td><td rowspan="1" colspan="1">
+1.46
+</td><td rowspan="1" colspan="1">
+0.01
+</td><td rowspan="1" colspan="1">
+1.25
+</td><td rowspan="1" colspan="1">
+1.71
+</td><td rowspan="1" colspan="1">
+&lt;0.001
+</td><td rowspan="1" colspan="1">
+-
+</td><td rowspan="1" colspan="1">
+1.55
+</td><td rowspan="1" colspan="1">
+0.10
+</td><td rowspan="1" colspan="1">
+1.27
+</td><td rowspan="1" colspan="1">
+1.89
+</td><td rowspan="1" colspan="1">
+&lt;0.001
+</td><td rowspan="1" colspan="1">
+-
+</td></tr><tr><td rowspan="1" colspan="1">
+Urban
+</td><td rowspan="1" colspan="1">
+2.08
+</td><td rowspan="1" colspan="1">
+0.02
+</td><td rowspan="1" colspan="1">
+1.78
+</td><td rowspan="1" colspan="1">
+2.42
+</td><td rowspan="1" colspan="1">
+&lt;0.001
+</td><td rowspan="1" colspan="1">
+-
+</td><td rowspan="1" colspan="1">
+2.19
+</td><td rowspan="1" colspan="1">
+0.10
+</td><td rowspan="1" colspan="1">
+1.80
+</td><td rowspan="1" colspan="1">
+2.67
+</td><td rowspan="1" colspan="1">
+&lt;0.001
+</td><td rowspan="1" colspan="1">
+-
+</td></tr><tr style="background-color:#ccc"><td rowspan="1" colspan="1">
+Marital status
+</td><td rowspan="1" colspan="1">
+-
+</td><td rowspan="1" colspan="1">
+0.00
+</td><td rowspan="1" colspan="1">
+-
+</td><td rowspan="1" colspan="1">
+-
+</td><td rowspan="1" colspan="1">
+-
+</td><td rowspan="1" colspan="1">
+2 427.20
+</td><td rowspan="1" colspan="1">
+-
+</td><td rowspan="1" colspan="1">
+-
+</td><td rowspan="1" colspan="1">
+-
+</td><td rowspan="1" colspan="1">
+-
+</td><td rowspan="1" colspan="1">
+-
+</td><td rowspan="1" colspan="1">
+1498.01
+</td></tr><tr><td rowspan="1" colspan="1">
+Married
+</td><td rowspan="1" colspan="1">
+0.81
+</td><td rowspan="1" colspan="1">
+0.00
+</td><td rowspan="1" colspan="1">
+0.78
+</td><td rowspan="1" colspan="1">
+0.83
+</td><td rowspan="1" colspan="1">
+&lt;0.001
+</td><td rowspan="1" colspan="1">
+-
+</td><td rowspan="1" colspan="1">
+0.81
+</td><td rowspan="1" colspan="1">
+0.02
+</td><td rowspan="1" colspan="1">
+0.78
+</td><td rowspan="1" colspan="1">
+0.84
+</td><td rowspan="1" colspan="1">
+&lt;0.001
+</td><td rowspan="1" colspan="1">
+-
+</td></tr><tr style="background-color:#ccc"><td rowspan="1" colspan="1">
+Never married
+</td><td rowspan="1" colspan="1">
+1.12
+</td><td rowspan="1" colspan="1">
+0.00
+</td><td rowspan="1" colspan="1">
+1.07
+</td><td rowspan="1" colspan="1">
+1.16
+</td><td rowspan="1" colspan="1">
+&lt;0.001
+</td><td rowspan="1" colspan="1">
+-
+</td><td rowspan="1" colspan="1">
+1.12
+</td><td rowspan="1" colspan="1">
+0.02
+</td><td rowspan="1" colspan="1">
+1.07
+</td><td rowspan="1" colspan="1">
+1.17
+</td><td rowspan="1" colspan="1">
+&lt;0.001
+</td><td rowspan="1" colspan="1">
+-
+</td></tr><tr><td rowspan="1" colspan="1">
+Separated
+</td><td rowspan="1" colspan="1">
+1.10
+</td><td rowspan="1" colspan="1">
+0.00
+</td><td rowspan="1" colspan="1">
+1.03
+</td><td rowspan="1" colspan="1">
+1.17
+</td><td rowspan="1" colspan="1">
+0.005
+</td><td rowspan="1" colspan="1">
+-
+</td><td rowspan="1" colspan="1">
+1.10
+</td><td rowspan="1" colspan="1">
+0.04
+</td><td rowspan="1" colspan="1">
+1.02
+</td><td rowspan="1" colspan="1">
+1.18
+</td><td rowspan="1" colspan="1">
+0.01
+</td><td rowspan="1" colspan="1">
+-
+</td></tr><tr style="background-color:#ccc"><td rowspan="1" colspan="1">
+Single
+</td><td rowspan="1" colspan="1">
+0.78
+</td><td rowspan="1" colspan="1">
+0.01
+</td><td rowspan="1" colspan="1">
+0.58
+</td><td rowspan="1" colspan="1">
+1.04
+</td><td rowspan="1" colspan="1">
+0.09
+</td><td rowspan="1" colspan="1">
+-
+</td><td rowspan="1" colspan="1">
+0.86
+</td><td rowspan="1" colspan="1">
+0.17
+</td><td rowspan="1" colspan="1">
+0.61
+</td><td rowspan="1" colspan="1">
+1.20
+</td><td rowspan="1" colspan="1">
+0.37
+</td><td rowspan="1" colspan="1">
+-
+</td></tr><tr><td rowspan="1" colspan="1">
+Unknown
+</td><td rowspan="1" colspan="1">
+0.33
+</td><td rowspan="1" colspan="1">
+0.02
+</td><td rowspan="1" colspan="1">
+0.30
+</td><td rowspan="1" colspan="1">
+0.37
+</td><td rowspan="1" colspan="1">
+&lt;0.001
+</td><td rowspan="1" colspan="1">
+-
+</td><td rowspan="1" colspan="1">
+0.35
+</td><td rowspan="1" colspan="1">
+0.07
+</td><td rowspan="1" colspan="1">
+0.31
+</td><td rowspan="1" colspan="1">
+0.41
+</td><td rowspan="1" colspan="1">
+&lt;0.001
+</td><td rowspan="1" colspan="1">
+-
+</td></tr><tr style="background-color:#ccc"><td rowspan="1" colspan="1">
+Widowed
+</td><td rowspan="1" colspan="1">
+0.94
+</td><td rowspan="1" colspan="1">
+0.00
+</td><td rowspan="1" colspan="1">
+0.89
+</td><td rowspan="1" colspan="1">
+1.01
+</td><td rowspan="1" colspan="1">
+0.07
+</td><td rowspan="1" colspan="1">
+-
+</td><td rowspan="1" colspan="1">
+0.91
+</td><td rowspan="1" colspan="1">
+0.04
+</td><td rowspan="1" colspan="1">
+0.84
+</td><td rowspan="1" colspan="1">
+0.98
+</td><td rowspan="1" colspan="1">
+0.01
+</td><td rowspan="1" colspan="1">
+-
+</td></tr><tr><td rowspan="1" colspan="1">
+Female gender (male for reference category)
+</td><td rowspan="1" colspan="1">
+1.02
+</td><td rowspan="1" colspan="1">
+0.00
+</td><td rowspan="1" colspan="1">
+0.98
+</td><td rowspan="1" colspan="1">
+1.06
+</td><td rowspan="1" colspan="1">
+0.32
+</td><td rowspan="1" colspan="1">
+329.02
+</td><td rowspan="1" colspan="1">
+0.98
+</td><td rowspan="1" colspan="1">
+0.02
+</td><td rowspan="1" colspan="1">
+0.94
+</td><td rowspan="1" colspan="1">
+1.02
+</td><td rowspan="1" colspan="1">
+0.33
+</td><td rowspan="1" colspan="1">
+109.22
+</td></tr><tr style="background-color:#ccc"><td rowspan="1" colspan="1">
+Intercept
+</td><td rowspan="1" colspan="1">
+0.07
+</td><td rowspan="1" colspan="1">
+-
+</td><td rowspan="1" colspan="1">
+0.06
+</td><td rowspan="1" colspan="1">
+0.09
+</td><td rowspan="1" colspan="1">
+&lt;0.001
+</td><td rowspan="1" colspan="1">
+-
+</td><td rowspan="1" colspan="1">
+0.04
+</td><td rowspan="1" colspan="1">
+-
+</td><td rowspan="1" colspan="1">
+0.03
+</td><td rowspan="1" colspan="1">
+0.05
+</td><td rowspan="1" colspan="1">
+&lt;0.001
+</td><td rowspan="1" colspan="1">
+-
+</td></tr></tbody></table></table-wrap></sec><sec sec-type="discussion"><title>Discussion</title><p>Our paper finds that people with long COVID are notably more likely to have an ED visit in the six months after being infected with COVID-19 compared with those who were infected with COVID-19 but were never diagnosed with long COVID. This increased risk for an emergency department visit also persists at least three months after initially being infected with COVID-19. This increase in risk for an ED visit is concerning in and of itself (going to the emergency department results from a decent amount of pain and distress), but it is also a signal of the overall poorer health and greater level of discomfort and misery experienced by patients with long COVID. For every person who goes to the emergency department, there are many more at home experiencing symptoms that are quite limiting but do not merit hospitalization. Our findings show that the symptoms from long COVID are notably persistent and burdensome, and underscore the previous findings on the severity of long COVID.</p><p>One important insight into the nature of long COVID presented by this research is the duration of the disease. We see that, even three months after being infected with COVID-19 and generally after having been diagnosed with long COVID, people with this condition still face a 21% increased risk of an ED visit. These ED visits could be a result of continued stress on specific organs or organ systems; this could also be the result of a change in symptoms severity. People with long COVID can face non-linear changes in symptom severity over time [<xref rid="REF26" ref-type="bibr">26</xref>], with symptoms getting worse after improving. These findings suggest that, for a fraction of the long COVID population, this may be the case. Future research tracking the nature and severity of symptoms is needed to further understand this progression and the specific kind of damage long COVID can do.</p><p>There is no definitive explanation of long COVID, nor is there a specific treatment that has been found to support all cases of long COVID [<xref rid="REF27" ref-type="bibr">27</xref>]. Some previous research, however, has found that targeted rehabilitation for the affected organ systems can offer some support, as well as repurposed medication and other treatments [<xref rid="REF16" ref-type="bibr">16</xref>,<xref rid="REF28" ref-type="bibr">28</xref>]. This paper's findings on the longevity of severe symptoms suggest that continued monitoring of symptoms and support for the various organ systems affected may be an important treatment regardless of the physiological causes underlying long COVID.</p><p>These findings identify a need for future long COVID research. Given the increased risk for an ED visit, understanding how long COVID progresses, the different types of symptoms, and the changes in severity is paramount to alleviating the public health burden associated with long COVID. Future research also needs to examine possible interventions, specifically what kinds of primary care and outpatient care can support people with long COVID so they can avoid going to the hospital and ideally alleviate the distress from their symptoms. This paper also identifies the need to understand possible long-term damage to different organs and organ systems in the body that can be caused by long COVID.</p><p>Limitations</p><p>This paper has some limitations. The most notable limitation is that this is an observational study. While we improved the precision of this study by comparing the risk of an ED visit between people with long COVID and those who were only infected with COVID-19, there still could be variables that were not identified, and we can only say that we see an increased associated risk of an ED visit; this is not definitely causal. Another limitation is that some studies of long COVID suggest that it may cause an onset of other conditions [<xref rid="REF29" ref-type="bibr">29</xref>]. This study did not look at the cause behind the ED visit, and therefore, we cannot say how much of a factor long COVID was overall compared to other conditions. The final limitation is that we examined people enrolled in VA healthcare, which is different from the general public.</p></sec><sec sec-type="conclusions"><title>Conclusions</title><p>While long COVID has received less attention recently, it poses a considerable threat to public health for the US veteran and the general US population. These findings identify a signal that people with long COVID face a much higher risk of going to the emergency department, and that risk continues even months after being infected with COVID-19. This increased risk of ED visits signals that people with long COVID are continuing to struggle with the weighty burden of long COVID symptoms and are at risk for potential long-term health problems. This paper demonstrates the need for continued medical care for people with long COVID. As future long COVID policy is developed, ideally, recommendations will be made so that people can utilize primary and outpatient care to manage their symptoms and support their health, and do not need to turn to the emergency department.</p></sec></body><back><fn-group content-type="conflict"><title>Disclosures</title><fn fn-type="COI-statement"><p><bold>Human subjects:</bold> All authors have confirmed that this study did not involve human participants or tissue.</p><p><bold>Animal subjects:</bold> All authors have confirmed that this study did not involve animal subjects or tissue.</p><p><bold>Conflicts of interest:</bold> In compliance with the ICMJE uniform disclosure form, all authors declare the following:</p><p><bold>Payment/services info:</bold> All authors have declared that no financial support was received from any organization for the submitted work.</p><p><bold>Financial relationships:</bold> All authors have declared that they have no financial relationships at present or within the previous three years with any organizations that might have an interest in the submitted work.</p><p><bold>Other relationships:</bold> All authors have declared that there are no other relationships or activities that could appear to have influenced the submitted work.</p></fn></fn-group><fn-group content-type="other"><title>Author Contributions</title><fn fn-type="other"><p><bold>Concept and design:</bold>  Raymond Van Cleve, Amanda Lienau</p><p><bold>Acquisition, analysis, or interpretation of data:</bold>  Raymond Van Cleve, Jonathan Sanchez Garcia</p><p><bold>Drafting of the manuscript:</bold>  Raymond Van Cleve, Amanda Lienau</p><p><bold>Critical review of the manuscript for important intellectual content:</bold>  Raymond Van Cleve, Jonathan Sanchez Garcia</p><p><bold>Supervision:</bold>  Raymond Van Cleve, Amanda Lienau</p></fn></fn-group><ref-list><title>References</title><ref id="REF1"><label>1</label><element-citation publication-type="journal"><article-title>Global case fatality rate from COVID-19 has decreased by 96.8% during 2.5 years of the pandemic</article-title><source>J Med Virol</source><person-group>
+<name name-style="western"><surname>Horita</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Fukumoto</surname><given-names>T</given-names></name>
+</person-group><fpage>0</fpage><volume>95</volume><year>2023</year><pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/jmv.28231</pub-id><pub-id pub-id-type="pmcid">PMC9874414</pub-id><pub-id pub-id-type="pmid">36253938</pub-id></element-citation></ref><ref id="REF2"><label>2</label><element-citation publication-type="journal"><article-title>Interim effectiveness of updated 2023-2024 (Monovalent XBB.1.5) COVID-19 vaccines against COVID-19-associated emergency department and urgent care encounters and hospitalization among immunocompetent adults aged ≥18 years - VISION and IVY Networks, September 2023-January 2024</article-title><source>MMWR Morb Mortal Wkly Rep</source><person-group>
+<name name-style="western"><surname>DeCuir</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Payne</surname><given-names>AB</given-names></name>
+<name name-style="western"><surname>Self</surname><given-names>WH</given-names></name>
+<etal/>
+</person-group><fpage>180</fpage><lpage>188</lpage><volume>73</volume><year>2024</year><uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://pubmed.ncbi.nlm.nih.gov/38421945/">https://pubmed.ncbi.nlm.nih.gov/38421945/</uri><pub-id pub-id-type="pmid">38421945</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.15585/mmwr.mm7308a5</pub-id><pub-id pub-id-type="pmcid">PMC10907041</pub-id></element-citation></ref><ref id="REF3"><label>3</label><element-citation publication-type="webpage"><article-title>Long COVID basics</article-title><date-in-citation content-type="access-date">
+<month>12</month>
+<year>2025</year>
+</date-in-citation><year>2025</year><uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.cdc.gov/long-covid/about/index.html?CDC_AA_refVal=https%3A%2F%2Fwww.cdc.gov%2Fcovid%2Flong-term-effects%2Findex.html">https://www.cdc.gov/long-covid/about/index.html?CDC_AA_refVal=https%3A%2F%2Fwww.cdc.gov%2Fcovid%2Flong-term-effects%2Findex.html</uri></element-citation></ref><ref id="REF4"><label>4</label><element-citation publication-type="journal"><article-title>Risk of long COVID main symptoms after SARS-CoV-2 infection: a systematic review and meta-analysis</article-title><source>Sci Rep</source><person-group>
+<name name-style="western"><surname>Marjenberg</surname><given-names>Z</given-names></name>
+<name name-style="western"><surname>Leng</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Tascini</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Garg</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Misso</surname><given-names>K</given-names></name>
+<name name-style="western"><surname>El Guerche Seblain</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Shaikh</surname><given-names>N</given-names></name>
+</person-group><fpage>15332</fpage><volume>13</volume><year>2023</year><pub-id pub-id-type="pmid">37714919</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41598-023-42321-9</pub-id><pub-id pub-id-type="pmcid">PMC10504382</pub-id></element-citation></ref><ref id="REF5"><label>5</label><element-citation publication-type="journal"><article-title>Long COVID: a review and proposed visualization of the complexity of long COVID</article-title><source>Front Immunol</source><person-group>
+<name name-style="western"><surname>Perumal</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Shunmugam</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Naidoo</surname><given-names>K</given-names></name>
+<etal/>
+</person-group><fpage>1117464</fpage><volume>14</volume><year>2023</year><pub-id pub-id-type="pmid">37153597</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.3389/fimmu.2023.1117464</pub-id><pub-id pub-id-type="pmcid">PMC10157068</pub-id></element-citation></ref><ref id="REF6"><label>6</label><element-citation publication-type="journal"><article-title>Symptoms and management of long COVID: a scoping review</article-title><source>J Clin Nurs</source><person-group>
+<name name-style="western"><surname>Cha</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Baek</surname><given-names>G</given-names></name>
+</person-group><fpage>11</fpage><lpage>28</lpage><volume>33</volume><year>2024</year><pub-id pub-id-type="pmid">34913540</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/jocn.16150</pub-id></element-citation></ref><ref id="REF7"><label>7</label><element-citation publication-type="journal"><article-title>Long COVID: current definition</article-title><source>Infection</source><person-group>
+<name name-style="western"><surname>Fernández-de-Las-Peñas</surname><given-names>C</given-names></name>
+</person-group><fpage>285</fpage><lpage>286</lpage><volume>50</volume><year>2022</year><pub-id pub-id-type="pmid">34519974</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s15010-021-01696-5</pub-id><pub-id pub-id-type="pmcid">PMC8438555</pub-id></element-citation></ref><ref id="REF8"><label>8</label><element-citation publication-type="journal"><article-title>Long-term consequences of asymptomatic SARS-CoV-2 infection: a systematic review and meta-analysis</article-title><source>Int J Environ Res Public Health</source><person-group>
+<name name-style="western"><surname>Ma</surname><given-names>Y</given-names></name>
+<name name-style="western"><surname>Deng</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Liu</surname><given-names>Q</given-names></name>
+<name name-style="western"><surname>Du</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Liu</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Liu</surname><given-names>J</given-names></name>
+</person-group><volume>20</volume><year>2023</year><pub-id pub-id-type="doi" assigning-authority="pmc">10.3390/ijerph20021613</pub-id><pub-id pub-id-type="pmcid">PMC9863678</pub-id><pub-id pub-id-type="pmid">36674367</pub-id></element-citation></ref><ref id="REF9"><label>9</label><element-citation publication-type="journal"><article-title>Long COVID: what is known and what gaps need to be addressed</article-title><source>Br Med Bull</source><person-group>
+<name name-style="western"><surname>Krishna</surname><given-names>B</given-names></name>
+<name name-style="western"><surname>Wills</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Sithole</surname><given-names>N</given-names></name>
+</person-group><fpage>6</fpage><lpage>19</lpage><volume>147</volume><year>2023</year><pub-id pub-id-type="pmid">37434326</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/bmb/ldad016</pub-id><pub-id pub-id-type="pmcid">PMC10502447</pub-id></element-citation></ref><ref id="REF10"><label>10</label><element-citation publication-type="journal"><article-title>Epidemiology, symptomatology, and risk factors for long COVID symptoms: population-based, multicenter study</article-title><source>JMIR Public Health Surveill</source><person-group>
+<name name-style="western"><surname>Wong</surname><given-names>MC</given-names></name>
+<name name-style="western"><surname>Huang</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Wong</surname><given-names>YY</given-names></name>
+<etal/>
+</person-group><fpage>0</fpage><volume>9</volume><year>2023</year><pub-id pub-id-type="doi" assigning-authority="pmc">10.2196/42315</pub-id><pub-id pub-id-type="pmcid">PMC9994465</pub-id><pub-id pub-id-type="pmid">36645453</pub-id></element-citation></ref><ref id="REF11"><label>11</label><element-citation publication-type="journal"><article-title>Long COVID in adults: United States, 2022</article-title><source>NCHS Data Brief</source><person-group>
+<name name-style="western"><surname>Adjaye-Gbewonyo</surname><given-names>D</given-names></name>
+<name name-style="western"><surname>Vahratian</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Perrine</surname><given-names>CG</given-names></name>
+<name name-style="western"><surname>Bertolli</surname><given-names>J</given-names></name>
+</person-group><fpage>1</fpage><lpage>8</lpage><year>2023</year><uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://pubmed.ncbi.nlm.nih.gov/37756137/">https://pubmed.ncbi.nlm.nih.gov/37756137/</uri><pub-id pub-id-type="pmid">37756137</pub-id></element-citation></ref><ref id="REF12"><label>12</label><element-citation publication-type="journal"><article-title>Rates and factors associated with documentation of diagnostic codes for long COVID in the National Veterans Affairs health care system</article-title><source>JAMA Netw Open</source><person-group>
+<name name-style="western"><surname>Ioannou</surname><given-names>GN</given-names></name>
+<name name-style="western"><surname>Baraff</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Fox</surname><given-names>A</given-names></name>
+<etal/>
+</person-group><fpage>0</fpage><volume>5</volume><year>2022</year><pub-id pub-id-type="doi" assigning-authority="pmc">10.1001/jamanetworkopen.2022.24359</pub-id><pub-id pub-id-type="pmcid">PMC9338411</pub-id><pub-id pub-id-type="pmid">35904783</pub-id></element-citation></ref><ref id="REF13"><label>13</label><element-citation publication-type="journal"><article-title>Systematic review of the prevalence of long COVID</article-title><source>Open Forum Infect Dis</source><person-group>
+<name name-style="western"><surname>Woodrow</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Carey</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Ziauddeen</surname><given-names>N</given-names></name>
+<etal/>
+</person-group><fpage>0</fpage><volume>10</volume><year>2023</year><pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/ofid/ofad233</pub-id><pub-id pub-id-type="pmcid">PMC10316694</pub-id><pub-id pub-id-type="pmid">37404951</pub-id></element-citation></ref><ref id="REF14"><label>14</label><element-citation publication-type="journal"><article-title>Why we need a deeper understanding of the pathophysiology of long COVID</article-title><source>Lancet Infect Dis</source><person-group>
+<name name-style="western"><surname>Iwasaki</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Putrino</surname><given-names>D</given-names></name>
+</person-group><fpage>393</fpage><lpage>395</lpage><volume>23</volume><year>2023</year><pub-id pub-id-type="pmid">36967698</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/S1473-3099(23)00053-1</pub-id><pub-id pub-id-type="pmcid">PMC9928485</pub-id></element-citation></ref><ref id="REF15"><label>15</label><element-citation publication-type="journal"><article-title>Beyond the acute illness: exploring long COVID and its impact on multiple organ systems</article-title><source>Physiol Int</source><person-group>
+<name name-style="western"><surname>Bhattacharjee</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Sarkar</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Sarkar</surname><given-names>T</given-names></name>
+</person-group><fpage>291</fpage><lpage>310</lpage><volume>110</volume><year>2023</year><pub-id pub-id-type="pmid">37943302</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1556/2060.2023.00256</pub-id></element-citation></ref><ref id="REF16"><label>16</label><element-citation publication-type="journal"><article-title>Post-COVID-19 symptom burden: what is long-COVID and how should we manage it?</article-title><source>Lung</source><person-group>
+<name name-style="western"><surname>Sykes</surname><given-names>DL</given-names></name>
+<name name-style="western"><surname>Holdsworth</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Jawad</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Gunasekera</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Morice</surname><given-names>AH</given-names></name>
+<name name-style="western"><surname>Crooks</surname><given-names>MG</given-names></name>
+</person-group><fpage>113</fpage><lpage>119</lpage><volume>199</volume><year>2021</year><pub-id pub-id-type="pmid">33569660</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s00408-021-00423-z</pub-id><pub-id pub-id-type="pmcid">PMC7875681</pub-id></element-citation></ref><ref id="REF17"><label>17</label><element-citation publication-type="journal"><article-title>Long COVID: the next public health crisis is already on its way</article-title><source>Lancet Reg Health Eur</source><person-group>
+<name name-style="western"><surname>Yang</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Tebbutt</surname><given-names>SJ</given-names></name>
+</person-group><fpage>100612</fpage><volume>28</volume><year>2023</year><pub-id pub-id-type="pmid">37131860</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.lanepe.2023.100612</pub-id><pub-id pub-id-type="pmcid">PMC10006728</pub-id></element-citation></ref><ref id="REF18"><label>18</label><element-citation publication-type="journal"><article-title>Long COVID through a public health lens: an umbrella review</article-title><source>Public Health Rev</source><person-group>
+<name name-style="western"><surname>Nittas</surname><given-names>V</given-names></name>
+<name name-style="western"><surname>Gao</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>West</surname><given-names>EA</given-names></name>
+<name name-style="western"><surname>Ballouz</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Menges</surname><given-names>D</given-names></name>
+<name name-style="western"><surname>Wulf Hanson</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Puhan</surname><given-names>MA</given-names></name>
+</person-group><fpage>1604501</fpage><volume>43</volume><year>2022</year><pub-id pub-id-type="pmid">35359614</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.3389/phrs.2022.1604501</pub-id><pub-id pub-id-type="pmcid">PMC8963488</pub-id></element-citation></ref><ref id="REF19"><label>19</label><element-citation publication-type="webpage"><article-title>Is ‘long Covid’ worsening the labor shortage?</article-title><year>2022</year><uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.brookings.edu/articles/is-long-covid-worsening-the-labor-shortage/">https://www.brookings.edu/articles/is-long-covid-worsening-the-labor-shortage/</uri></element-citation></ref><ref id="REF20"><label>20</label><element-citation publication-type="journal"><article-title>Attributes and predictors of long COVID</article-title><source>Nat Med</source><person-group>
+<name name-style="western"><surname>Sudre</surname><given-names>CH</given-names></name>
+<name name-style="western"><surname>Murray</surname><given-names>B</given-names></name>
+<name name-style="western"><surname>Varsavsky</surname><given-names>T</given-names></name>
+<etal/>
+</person-group><fpage>626</fpage><lpage>631</lpage><volume>27</volume><year>2021</year><pub-id pub-id-type="pmid">33692530</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41591-021-01292-y</pub-id><pub-id pub-id-type="pmcid">PMC7611399</pub-id></element-citation></ref><ref id="REF21"><label>21</label><element-citation publication-type="journal"><article-title>Post-acute COVID-19 syndrome</article-title><source>Nat Med</source><person-group>
+<name name-style="western"><surname>Nalbandian</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Sehgal</surname><given-names>K</given-names></name>
+<name name-style="western"><surname>Gupta</surname><given-names>A</given-names></name>
+<etal/>
+</person-group><fpage>601</fpage><lpage>615</lpage><volume>27</volume><year>2021</year><pub-id pub-id-type="pmid">33753937</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41591-021-01283-z</pub-id><pub-id pub-id-type="pmcid">PMC8893149</pub-id></element-citation></ref><ref id="REF22"><label>22</label><element-citation publication-type="journal"><article-title>Trends in US emergency department visits for mental health, overdose, and violence outcomes before and during the COVID-19 pandemic</article-title><source>JAMA Psychiatry</source><person-group>
+<name name-style="western"><surname>Holland</surname><given-names>KM</given-names></name>
+<name name-style="western"><surname>Jones</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Vivolo-Kantor</surname><given-names>AM</given-names></name>
+<etal/>
+</person-group><fpage>372</fpage><lpage>379</lpage><volume>78</volume><year>2021</year><pub-id pub-id-type="pmid">33533876</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1001/jamapsychiatry.2020.4402</pub-id><pub-id pub-id-type="pmcid">PMC7859873</pub-id></element-citation></ref><ref id="REF23"><label>23</label><element-citation publication-type="journal"><article-title>Impact of the COVID-19 pandemic on emergency department visits - United States, January 1, 2019-May 30, 2020</article-title><source>MMWR Morb Mortal Wkly Rep</source><person-group>
+<name name-style="western"><surname>Hartnett</surname><given-names>KP</given-names></name>
+<name name-style="western"><surname>Kite-Powell</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>DeVies</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Coletta</surname><given-names>MA</given-names></name>
+<name name-style="western"><surname>Boehmer</surname><given-names>TK</given-names></name>
+<name name-style="western"><surname>Adjemian</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Gundlapalli</surname><given-names>AV</given-names></name>
+</person-group><fpage>699</fpage><lpage>704</lpage><volume>69</volume><year>2020</year><pub-id pub-id-type="pmid">32525856</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.15585/mmwr.mm6923e1</pub-id><pub-id pub-id-type="pmcid">PMC7315789</pub-id></element-citation></ref><ref id="REF24"><label>24</label><element-citation publication-type="journal"><article-title>Trends in COVID-19 cases, emergency department visits, and hospital admissions among children and adolescents aged 0-17 years - United States, August 2020-August 2021</article-title><source>MMWR Morb Mortal Wkly Rep</source><person-group>
+<name name-style="western"><surname>Siegel</surname><given-names>DA</given-names></name>
+<name name-style="western"><surname>Reses</surname><given-names>HE</given-names></name>
+<name name-style="western"><surname>Cool</surname><given-names>AJ</given-names></name>
+<etal/>
+</person-group><fpage>1249</fpage><lpage>1254</lpage><volume>70</volume><year>2021</year><pub-id pub-id-type="pmid">34499628</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.15585/mmwr.mm7036e1</pub-id><pub-id pub-id-type="pmcid">PMC8437056</pub-id></element-citation></ref><ref id="REF25"><label>25</label><element-citation publication-type="webpage"><article-title>MDClone</article-title><year>2024</year><uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.mdclone.com/"> https://www.mdclone.com/</uri></element-citation></ref><ref id="REF26"><label>26</label><element-citation publication-type="journal"><article-title>Characterizing long COVID in an international cohort: 7 months of symptoms and their impact</article-title><source>EClinicalMedicine</source><person-group>
+<name name-style="western"><surname>Davis</surname><given-names>HE</given-names></name>
+<name name-style="western"><surname>Assaf</surname><given-names>GS</given-names></name>
+<name name-style="western"><surname>McCorkell</surname><given-names>L</given-names></name>
+<etal/>
+</person-group><fpage>101019</fpage><volume>38</volume><year>2021</year><pub-id pub-id-type="pmid">34308300</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.eclinm.2021.101019</pub-id><pub-id pub-id-type="pmcid">PMC8280690</pub-id></element-citation></ref><ref id="REF27"><label>27</label><element-citation publication-type="journal"><article-title>Severe clinical worsening in COVID-19 and potential mechanisms of immune-enhanced disease</article-title><source>Front Med (Lausanne)</source><person-group>
+<name name-style="western"><surname>Hussman</surname><given-names>JP</given-names></name>
+</person-group><fpage>637642</fpage><volume>8</volume><year>2021</year><pub-id pub-id-type="pmid">34239884</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.3389/fmed.2021.637642</pub-id><pub-id pub-id-type="pmcid">PMC8258105</pub-id></element-citation></ref><ref id="REF28"><label>28</label><element-citation publication-type="journal"><article-title>Efficacy and safety of Paxlovid for COVID-19:a meta-analysis</article-title><source>J Infect</source><person-group>
+<name name-style="western"><surname>Zheng</surname><given-names>Q</given-names></name>
+<name name-style="western"><surname>Ma</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Wang</surname><given-names>M</given-names></name>
+<etal/>
+</person-group><fpage>66</fpage><lpage>117</lpage><volume>86</volume><year>2023</year><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.jinf.2022.09.027</pub-id><pub-id pub-id-type="pmcid">PMC9523907</pub-id><pub-id pub-id-type="pmid">36191676</pub-id></element-citation></ref><ref id="REF29"><label>29</label><element-citation publication-type="journal"><article-title>Myalgic encephalomyelitis/chronic fatigue syndrome is common in post-acute sequelae of SARS-CoV-2 infection (PASC): results from a post-COVID-19 multidisciplinary clinic</article-title><source>Front Neurol</source><person-group>
+<name name-style="western"><surname>Bonilla</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Quach</surname><given-names>TC</given-names></name>
+<name name-style="western"><surname>Tiwari</surname><given-names>A</given-names></name>
+<etal/>
+</person-group><fpage>1090747</fpage><volume>14</volume><year>2023</year><pub-id pub-id-type="pmid">36908615</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.3389/fneur.2023.1090747</pub-id><pub-id pub-id-type="pmcid">PMC9998690</pub-id></element-citation></ref></ref-list></back></article></pmc-articleset>

@@ -1,0 +1,31 @@
+{
+  "pmcid": "PMC12830216",
+  "pmid": "41585473",
+  "doi": "10.1016/j.isci.2025.114574",
+  "title": "Interpretable machine learning for predicting low-dose methylprednisolone effectiveness in long COVID.",
+  "abstract": "Long COVID is a chronic, multisystem disease with limited response to conventional treatments. While low-dose methylprednisolone has shown effectiveness in some patients, individual responses vary, and accurate predictive tools are lacking. This retrospective study included 330 long COVID patients who received low-dose methylprednisolone treatment across three hospitals. Patients were divided into training (n = 202), test (n = 33), and external validation sets (n = 53, n = 42). Using least absolute shrinkage and selection operator (LASSO) regression, 38 variables were analyzed to develop six machine learning models. The logistic regression (LR) model showed stable performance across all datasets (AUCs: 0.8715, 0.7198, 0.8419, and 0.8676), making it the final model selected. SHapley Additive exPlanations (SHAP) analysis identified seven key variables, which were used to construct a nomogram for predicting treatment efficacy. The LR model and nomogram demonstrated strong predictive performance and clinical interpretability, offering a valuable decision-support tool for individualized treatment of long COVID with low-dose methylprednisolone.",
+  "authors": [
+    "Jisheng Zhang",
+    "Yang Chen",
+    "Aijun Zhang",
+    "Yi Yang",
+    "Liqian Ma",
+    "Kewei Yu",
+    "Weitao Zhang",
+    "Xiaojing Ye",
+    "Jiangsong Zhang",
+    "Ke Lin",
+    "Xianming Lin"
+  ],
+  "journal": "iScience",
+  "pub_year": "2026",
+  "pub_month": "Feb",
+  "pub_day": "20",
+  "keywords": [
+    "Artificial intelligence applications",
+    "Therapeutics"
+  ],
+  "article_types": [
+    "Journal Article"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "pmcid": "PMC12133859",
+  "pmid": "40469928",
+  "doi": "10.3389/fresc.2025.1568291",
+  "title": "12-Month trajectories of physical and mental symptom scores after COVID-19 hospitalization and their role in predicting \"very long\" COVID.",
+  "abstract": "BACKGROUND: Long COVID syndrome (LCS) represents a significant global health challenge due to its wide-ranging physical and cognitive symptoms that persist beyond 12 months in a substantial proportion of individuals recovering from SARS-CoV-2 infection. Developing tools for predicting long-term LCS persistence can improve patient management and resource allocation.\nOBJECTIVE: To evaluate the natural dynamics of symptoms over 12 months following hospitalization for COVID-19 and to establish the utility of survey-based symptoms assessment for predicting LCS at one year.\nMETHODS: This prospective observational study included 166 hospitalized COVID-19 survivors who were evaluated pre-discharge and followed up at 1, 3, and 12 months. Assessments included surveys including physical and mental symptom scales (e.g., EFTER-COVID, SBQ-LC, PCFS, MRC Dyspnea, CAT, CCQ, and HADS) and machine learning modeling to predict LCS persistence at 12 months.\nRESULTS: LCS symptoms were reported by 76% of patients at three months and 43% at 12 months. Physical symptom scores, particularly EFTER-COVID and PCFS, consistently differentiated LCS and LCS-free cohorts. CAT outperformed other respiratory scales in its discriminatory ability, while HADS subscales showed limited predictive value. Younger patients (<40 years) demonstrated faster recovery, whereas older patients (>60 years) exhibited persistent symptoms across respiratory and cognitive domains. A machine learning model combining EFTER-COVID, SBQ-LC, CAT, and MRC Dyspnea scores achieved 91% predictive accuracy for LCS persistence at 12 months.\nCONCLUSION: Comprehensive survey-based symptoms assessment at three months post-discharge provides a practical and cost-effective tool for prediction of the long COVID persistence at 12 months, supporting targeted rehabilitation strategies.",
+  "authors": [
+    "Oleksii Honchar",
+    "Tetiana Ashcheulova",
+    "Alla Bobeiko",
+    "Viktor Blazhko",
+    "Eduard Khodosh",
+    "Nataliia Matiash",
+    "Vladyslav Syrota"
+  ],
+  "journal": "Frontiers in rehabilitation sciences",
+  "pub_year": "2025",
+  "pub_month": "05",
+  "pub_day": "21",
+  "keywords": [
+    "long COVID",
+    "machine learning",
+    "post-COVID syndrome",
+    "recovery trajectories",
+    "rehabilitation",
+    "survey-based assessment"
+  ],
+  "article_types": [
+    "Journal Article"
+  ]
+}

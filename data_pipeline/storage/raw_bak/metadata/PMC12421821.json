@@ -1,0 +1,37 @@
+{
+  "pmcid": "PMC12421821",
+  "pmid": "40802282",
+  "doi": "10.1128/mbio.02012-25",
+  "title": "COVID-19-associated neuroinflammation and astrocyte death in the brain linked to ORF3a-induced activation of Sur1-mediated ion channels.",
+  "abstract": "The coronavirus disease 2019 (COVID-19) pandemic has disproportionately affected individuals with pre-existing medical conditions, such as neurocognitive disorders. Premorbid neurocognitive conditions compounded by COVID-19 can escalate into COVID-associated neurological complications, leading to severe illness or even death. As COVID-19 continues to persist and vaccines lose efficacy against emerging variants, individuals with neurocognitive disorders often experience prolonged symptoms that are further exacerbated by repeated breakthrough infections of highly diversified viral variants due to emergence of new viral mutations. Despite the significance of neurocognitive disorders as risk factors for COVID-19-related mortality and long COVID, the underlying causes remain largely unknown. In this study, we report a link between ORF3a expression and COVID-associated neuroinflammation and neurocytotoxicity in postmortem brain tissues from COVID-19 patients. These findings were further verified through neural cell-based in vitro and in vivo animal studies introducing ORF3a either alone or in the context of viral infection. As a membrane-associated protein, ORF3a induces upregulation of Sur1-regulated ion channels, resulting in intracellular Ca2+ influx, apoptosis, and necrosis through both NF-kB-dependent and independent proinflammatory responses in astrocytes. These findings reveal a novel clinical and mechanistic link between ORF3a and Sur1-regulated ion channels, which are highly responsive to neuroinflammatory conditions causing neurodegeneration. Additionally, we have identified a Food and Drug Administration-approved drug, glibenclamide, and a natural antiviral compound glycyrrhizin that effectively mitigates the neuropathological effects of ORF3a, underscoring the therapeutic potential and clinical significance of these findings.IMPORTANCECoronavirus disease 2019 (COVID-19) disproportionately affects individuals with pre-existing neurocognitive conditions primarily due to COVID-19-associated neuroinflammation and neurotoxicity (CNN), which can progress to COVID-associated neurological disorders (CANDs), leading to severe illness and mortality. Despite CNN's significant contribution to CANDs and related morbidity and mortality, its underlying causes remain poorly understood. Our study identifies ORF3a as a key driver of CNN, establishing a direct clinical and functional link between ORF3a and CNN linking to CANDs. Mechanistically, ORF3a disrupts ion homeostasis in astrocytes by promoting Ca²+ influx through Sur1-regulated ion channels, contributing to CNN. Notably, the Food and Drug Administration-approved drug glibenclamide, a Sur1-specific inhibitor, and the natural compound glycyrrhizin effectively mitigate ORF3a-induced neuropathology, highlighting ORF3a as a promising therapeutic target. These findings present a potential strategy to eliminate CNN and prevent CANDs.",
+  "authors": [
+    "Volodymyr Gerzanich",
+    "Chenyu Zhang",
+    "Jiantao Zhang",
+    "Bhargava Teja Sallapalli",
+    "Shaokai Pei",
+    "Mohamed Nasr",
+    "Cigdem Tosun",
+    "Yanjin Zhang",
+    "Qiyi Tang",
+    "J Marc Simard",
+    "Richard Y Zhao"
+  ],
+  "journal": "mBio",
+  "pub_year": "2025",
+  "pub_month": "Sep",
+  "pub_day": "10",
+  "keywords": [
+    "COVID-19",
+    "ORF3a",
+    "SARS-CoV-2",
+    "Sur1-regulated ion channels",
+    "glibenclamide",
+    "glycyrrhizin",
+    "neuroinflammation and neurotoxicity",
+    "reactive astrocytes"
+  ],
+  "article_types": [
+    "Journal Article"
+  ]
+}

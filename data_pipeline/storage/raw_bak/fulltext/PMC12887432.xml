@@ -1,0 +1,789 @@
+<?xml version="1.0"  ?><!DOCTYPE pmc-articleset PUBLIC "-//NLM//DTD ARTICLE SET 2.0//EN" "https://dtd.nlm.nih.gov/ncbi/pmc/articleset/nlm-articleset-2.0.dtd"><pmc-articleset><article id="joa370278" xml:lang="en" article-type="research-article" dtd-version="1.4"><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">J Arrhythm</journal-id><journal-id journal-id-type="iso-abbrev">J Arrhythm</journal-id><journal-id journal-id-type="pmc-domain-id">2797</journal-id><journal-id journal-id-type="pmc-domain">joa</journal-id><journal-id journal-id-type="publisher-id">JOA3</journal-id><journal-title-group><journal-title>Journal of Arrhythmia</journal-title></journal-title-group><issn pub-type="ppub">1880-4276</issn><issn pub-type="epub">1883-2148</issn><publisher><publisher-name>Wiley</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC12887432</article-id><article-id pub-id-type="pmcid-ver">PMC12887432.1</article-id><article-id pub-id-type="pmcaid">12887432</article-id><article-id pub-id-type="pmcaiid">12887432</article-id><article-id pub-id-type="pmid">41675585</article-id><article-id pub-id-type="doi">10.1002/joa3.70278</article-id><article-id pub-id-type="publisher-id">JOA370278</article-id><article-id pub-id-type="other">JOA-2025-0392</article-id><article-version article-version-type="pmc-version">1</article-version><article-categories><subj-group subj-group-type="overline"><subject>Original Article</subject></subj-group><subj-group subj-group-type="heading"><subject>Original Article</subject></subj-group></article-categories><title-group><article-title>Increased Arrhythmia Risk in Long <styled-content style="fixed-case" toggle="no">COVID</styled-content>: A Systematic Review and Meta‐Analysis</article-title></title-group><contrib-group><contrib id="joa370278-cr-0001" contrib-type="author" corresp="yes"><name name-style="western"><surname>Boskabadi</surname><given-names initials="AR">Amir Reza</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0009-0006-4900-6464</contrib-id><xref rid="joa370278-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><address><email>amirrezaboskabady@gmail.com</email></address></contrib><contrib id="joa370278-cr-0002" contrib-type="author"><name name-style="western"><surname>Poorzand</surname><given-names initials="H">Hoorak</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-0764-6563</contrib-id><address><email>poorzandh@mums.ac.ir</email><email>hpoorzand@yahoo.com</email></address><xref rid="joa370278-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib id="joa370278-cr-0003" contrib-type="author"><name name-style="western"><surname>Vaezi</surname><given-names initials="A">Ali</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0001-9827-9617</contrib-id><address><email>alivaezi800@gmail.com</email></address><xref rid="joa370278-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref></contrib><contrib id="joa370278-cr-0004" contrib-type="author"><name name-style="western"><surname>Afshar</surname><given-names initials="S">Sara</given-names></name><address><email>afshars@mums.ac.ir</email></address><xref rid="joa370278-aff-0004" ref-type="aff">
+<sup>4</sup>
+</xref></contrib><contrib id="joa370278-cr-0005" contrib-type="author"><name name-style="western"><surname>Tayyebi</surname><given-names initials="M">Mohammad</given-names></name><address><email>Tayyebim@mums.ac.ir</email></address><xref rid="joa370278-aff-0004" ref-type="aff">
+<sup>4</sup>
+</xref></contrib><contrib id="joa370278-cr-0006" contrib-type="author" corresp="yes"><name name-style="western"><surname>Morovatdar</surname><given-names initials="N">Negar</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0003-4308-1931</contrib-id><xref rid="joa370278-aff-0005" ref-type="aff">
+<sup>5</sup>
+</xref><address><email>morovatdarn@mums.ac.ir</email><email>negarmorovat@gmail.com</email></address></contrib></contrib-group><aff id="joa370278-aff-0001">
+<label>
+<sup>1</sup>
+</label>
+<named-content content-type="organisation-division">Faculty of Medicine</named-content>
+<institution>Mashhad University of Medical Science</institution>
+<city>Mashhad</city>
+<country country="IR">Iran</country>
+</aff><aff id="joa370278-aff-0002">
+<label>
+<sup>2</sup>
+</label>
+<named-content content-type="organisation-division">Vascular and Endovascular Surgery Research Center</named-content>
+<institution>Mashhad University of Medical Sciences</institution>
+<city>Mashhad</city>
+<country country="IR">Iran</country>
+</aff><aff id="joa370278-aff-0003">
+<label>
+<sup>3</sup>
+</label>
+<named-content content-type="organisation-division">Student Research Committee, School of Medicine</named-content>
+<institution>Tehran University of Medical Sciences</institution>
+<city>Tehran</city>
+<country country="IR">Iran</country>
+</aff><aff id="joa370278-aff-0004">
+<label>
+<sup>4</sup>
+</label>
+<named-content content-type="organisation-division">Department of Cardiovascular Disease, Faculty of Medicine</named-content>
+<institution>Mashhad University of Medical Science</institution>
+<city>Mashhad</city>
+<country country="IR">Iran</country>
+</aff><aff id="joa370278-aff-0005">
+<label>
+<sup>5</sup>
+</label>
+<named-content content-type="organisation-division">Clinical Research Unit, Imam Reza Hospital</named-content>
+<institution>Mashhad University of Medical Sciences</institution>
+<city>Mashhad</city>
+<country country="IR">Iran</country>
+</aff><author-notes><corresp id="correspondenceTo">
+<label>*</label>
+<bold>Correspondence:</bold>
+<break/>
+Negar Morovatdar (<email>morovatdarn@mums.ac.ir</email>; <email>negarmorovat@gmail.com</email>)<break/>
+Amir Reza Boskabadi (<email>amirrezaboskabady@gmail.com</email>)<break/>
+</corresp></author-notes><pub-date pub-type="epub"><day>09</day><month>2</month><year>2026</year></pub-date><pub-date pub-type="collection"><month>2</month><year>2026</year></pub-date><volume>42</volume><issue seq="481">1</issue><issue-id pub-id-type="pmc-issue-id">503382</issue-id><issue-id pub-id-type="doi">10.1002/joa3.v42.1</issue-id><elocation-id>e70278</elocation-id><history><date date-type="rev-recd"><day>29</day><month>12</month><year>2025</year></date><date date-type="received"><day>06</day><month>7</month><year>2025</year></date><date date-type="accepted"><day>19</day><month>1</month><year>2026</year></date></history><pub-history><event event-type="pmc-release"><date><day>09</day><month>02</month><year>2026</year></date></event><event event-type="pmc-live"><date><day>11</day><month>02</month><year>2026</year></date></event><event event-type="pmc-last-change"><date iso-8601-date="2026-02-12 09:25:12.830"><day>12</day><month>02</month><year>2026</year></date></event></pub-history><permissions><copyright-statement content-type="article-copyright">© 2026 The Author(s). <italic toggle="yes">Journal of Arrhythmia</italic> published by John Wiley &amp; Sons Australia, Ltd on behalf of Japanese Heart Rhythm Society.</copyright-statement><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>This is an open access article under the terms of the <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pmc-pdf" xlink:href="JOA3-42-e70278.pdf"/><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pdf" xlink:href="file:JOA3-42-e70278.pdf"/><abstract><title>ABSTRACT</title><sec id="joa370278-sec-0001"><title>Background</title><p>COVID‐19 infection can cause significant long‐term health problems for patients. While there is no universally accepted definition for long COVID, it is usually identified by persistent symptoms that extend past 4 weeks after the initial SARS‐CoV‐2 infection with no other explanation. The cardiovascular system is one of the most important systems involved in long COVID, and even asymptomatic patients have evidence of cardiovascular injury after COVID‐19. This study aims to determine the long‐term risk of developing cardiac arrhythmias after SARS‐CoV‐2 infection.</p></sec><sec id="joa370278-sec-0002"><title>Methods</title><p>A comprehensive systematic search on Scopus, PubMed, Science Direct, and Web of Science databases was performed on August 24th, 2025. Cohort articles consisting of a healthy control group with no history of COVID‐19 infection and individuals who recovered from COVID‐19 for at least 30 days were included. Hazard Ratio (HR) and 95% confidence intervals (CI) were estimated using random‐effect models.</p></sec><sec id="joa370278-sec-0003"><title>Results</title><p>Fourteen studies were eligible for the meta‐analysis. The overall arrhythmia risk was higher in patients with long COVID (HR: 1.74, 95% CI [1.39, 2.10], <italic toggle="no">I</italic>
+<sup>2</sup> = 99.65%). Specific arrhythmias examined included atrial fibrillation (HR: 1.49, 95% CI [1.24, 1.73], <italic toggle="no">I</italic>
+<sup>2</sup> = 98.57%), sinus tachycardia (HR: 1.69, 95% CI [1.21, 2.18], <italic toggle="no">I</italic>
+<sup>2</sup> = 99.51%), sinus bradycardia (HR: 1.58, 95% CI [1.50, 1.66], <italic toggle="no">I</italic>
+<sup>2</sup> = 65.80%), and ventricular arrhythmias (HR: 1.72, 95% CI [1.48, 1.95], <italic toggle="no">I</italic>
+<sup>2</sup> = 96.89%). Patients with a more severe initial infection were at a higher risk of developing arrhythmias.</p></sec><sec id="joa370278-sec-0004"><title>Conclusions</title><p>The risk of developing cardiac arrhythmias is increased after COVID‐19 infection in the long term.</p></sec></abstract><abstract abstract-type="graphical"><p>This meta‐analysis included 14 studies. Long COVID was associated with a higher risk of atrial fibrillation, sinus tachycardia, sinus bradycardia, and ventricular arrhythmias. Patients with more severe COVID‐19 infection were at a higher risk of developing arrhythmias in the long term.<boxed-text position="anchor" content-type="graphic" id="joa370278-blkfxd-0001" orientation="portrait"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-1" orientation="portrait" xlink:href="JOA3-42-e70278-g002.jpg"/></boxed-text>
+</p></abstract><kwd-group kwd-group-type="author-generated"><kwd id="joa370278-kwd-0001">arrhythmias</kwd><kwd id="joa370278-kwd-0002">COVID‐19</kwd><kwd id="joa370278-kwd-0003">Long COVID</kwd><kwd id="joa370278-kwd-0004">post‐acute COVID‐19 syndrome</kwd><kwd id="joa370278-kwd-0005">systematic review</kwd></kwd-group><funding-group><award-group id="funding-0001"><funding-source>
+<institution-wrap><institution>Mashhad University of Medical Sciences</institution><institution-id institution-id-type="doi">10.13039/501100004748</institution-id></institution-wrap>
+</funding-source></award-group></funding-group><counts><fig-count count="7"/><table-count count="1"/><page-count count="11"/><word-count count="6300"/></counts><custom-meta-group><custom-meta><meta-name>pmc-status-qastatus</meta-name><meta-value>0</meta-value></custom-meta><custom-meta><meta-name>pmc-status-live</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-status-embargo</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-status-released</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-access</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-legally-suppressed</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-pdf</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-supplement</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-pdf-only</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-suppress-copyright</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-real-version</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-scanned-article</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-in-epmc</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-license-ref</meta-name><meta-value>CC BY</meta-value></custom-meta><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>February 2026</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:6.6.8 mode:remove_FC converted:10.02.2026</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="joa370278-cit-1001">
+<string-name name-style="western">
+<given-names>A. R.</given-names>
+<surname>Boskabadi</surname>
+</string-name>, <string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Poorzand</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Vaezi</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Afshar</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Tayyebi</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>N.</given-names>
+<surname>Morovatdar</surname>
+</string-name>, “<article-title>Increased Arrhythmia Risk in Long <styled-content style="fixed-case" toggle="no">COVID</styled-content>: A Systematic Review and Meta‐Analysis</article-title>,” <source>Journal of Arrhythmia</source>
+<volume>42</volume>, no. <issue>1</issue> (<year>2026</year>): <elocation-id>e70278</elocation-id>, <pub-id pub-id-type="doi">10.1002/joa3.70278</pub-id>.</mixed-citation>
+</p></notes></front><body id="joa370278-body-0001"><sec id="joa370278-sec-0005"><label>1</label><title>Introduction</title><p>COVID‐19 is an infection caused by the SARS‐CoV‐2 virus that primarily affects the respiratory system and thus can manifest as viral pneumonia and present with fever, malaise, shortness of breath, and cough. However, this virus can involve different organ systems such as the musculoskeletal, gastrointestinal, endocrine, and renal systems, causing different manifestations [<xref rid="joa370278-bib-0001" ref-type="bibr">1</xref>]. The cardiovascular system is particularly susceptible to complications arising from COVID‐19 infection, making it an area of concern. These complications include myocarditis, cardiac arrhythmias, myocardial infarction, heart failure, and thromboembolic events [<xref rid="joa370278-bib-0002" ref-type="bibr">2</xref>, <xref rid="joa370278-bib-0003" ref-type="bibr">3</xref>, <xref rid="joa370278-bib-0004" ref-type="bibr">4</xref>, <xref rid="joa370278-bib-0005" ref-type="bibr">5</xref>]. They can contribute to the morbidity and mortality of the disease [<xref rid="joa370278-bib-0006" ref-type="bibr">6</xref>]. Several mechanisms have been proposed for cardiovascular injury in COVID‐19 disease. SARS‐CoV‐2 gains entry into the cells through angiotensin‐converting enzyme 2 (ACE2) and can disrupt the normal signaling pathways mediated by ACE2 in both heart and endothelial cells, thus causing myocardial injury [<xref rid="joa370278-bib-0007" ref-type="bibr">7</xref>, <xref rid="joa370278-bib-0008" ref-type="bibr">8</xref>]. Also, infection with SARS‐CoV‐2 can be a trigger for systemic inflammation and cytokine release storm, which can lead to cardiac injury and cardiomyopathy, plaque destabilization, and coagulopathy [<xref rid="joa370278-bib-0003" ref-type="bibr">3</xref>, <xref rid="joa370278-bib-0007" ref-type="bibr">7</xref>, <xref rid="joa370278-bib-0008" ref-type="bibr">8</xref>].</p><p>The phrase “Long COVID” was first introduced by Elisa Perego, a COVID‐19 survivor, to describe lingering symptoms after acute infection, and later the term “long haulers” was employed by Watson and Yong [<xref rid="joa370278-bib-0009" ref-type="bibr">9</xref>]. Although there is currently no universally accepted definition, the National Health Service of the UK defines long COVID as the “presence of lingering symptoms lasting beyond four weeks beyond the initial SARS‐CoV‐2 infection without other explanation”, divided into two phases: ongoing symptomatic phase (4 to 12 weeks) and post‐COVID‐19 syndrome (PCS) (more than 12 weeks), based on symptom duration. It is not a single condition, but rather a set of overlapping entities with different etiologies, risk factors, and outcomes. Additionally, other terms have been used to describe long COVID, including post‐acute sequelae of COVID‐19 syndrome (PASC), post‐acute COVID‐19, and long‐haul COVID‐19 [<xref rid="joa370278-bib-0010" ref-type="bibr">10</xref>, <xref rid="joa370278-bib-0011" ref-type="bibr">11</xref>].</p><p>Individuals with long COVID often report a variety of symptoms, including fatigue, arthralgia, myalgia, gustatory and olfactory dysfunction, dizziness, insomnia, memory loss, difficulty concentrating, headaches, palpitations, dyspnea, and chest pain [<xref rid="joa370278-bib-0011" ref-type="bibr">11</xref>, <xref rid="joa370278-bib-0012" ref-type="bibr">12</xref>, <xref rid="joa370278-bib-0013" ref-type="bibr">13</xref>]. While the exact pathophysiology underlying long COVID is not yet fully elucidated, researchers have proposed several mechanisms, including oxidative stress, immunologic abnormalities, inflammatory damage, and viral‐specific variations [<xref rid="joa370278-bib-0014" ref-type="bibr">14</xref>]. Emerging evidence suggests that SARS‐CoV‐2 infections can have a lasting impact on various organ systems, including fibrosis‐like changes and ground‐glass opacities in the lungs [<xref rid="joa370278-bib-0015" ref-type="bibr">15</xref>], an increased risk of new‐onset diabetes [<xref rid="joa370278-bib-0015" ref-type="bibr">15</xref>], renal function impairment [<xref rid="joa370278-bib-0016" ref-type="bibr">16</xref>], peripheral neuropathy, and myopathy [<xref rid="joa370278-bib-0017" ref-type="bibr">17</xref>, <xref rid="joa370278-bib-0018" ref-type="bibr">18</xref>].</p><p>The cardiovascular system is one of the most important systems involved in long COVID. Cardiovascular symptoms including chest pain, palpitations, and dyspnea are prevalent among patients. Even asymptomatic patients show evidence of cardiovascular injury, such as myocardial inflammation, systolic and diastolic dysfunction, and ischemic changes in cardiac MRI and echocardiography [<xref rid="joa370278-bib-0010" ref-type="bibr">10</xref>]. The American College of Cardiology classifies PASC into two distinct groups based on the absence or presence of objectively confirmed cardiovascular disease. The term PASC‐cardiovascular disease (PASC‐CVD) is used to describe patients with a discernible myocardial, pericardial, arrhythmic, or vascular condition that appears 4 weeks after the initial SARS‐CoV‐2 infection. On the other hand, the term PASC‐cardiovascular syndrome (PASC‐CVS) is characterized by the persistence of cardio‐pulmonary syndromes in the absence of cardiovascular disease [<xref rid="joa370278-bib-0019" ref-type="bibr">19</xref>]. This study aims to investigate the risk of cardiac arrhythmia development as a long‐term consequence of COVID‐19.</p></sec><sec sec-type="methods" id="joa370278-sec-0006"><label>2</label><title>Method</title><sec id="joa370278-sec-0007"><label>2.1</label><title>Study Protocol</title><p>We conducted this meta‐analysis according to the latest version of Preferred Reporting Items for Systematic Reviews and Meta‐analyses (PRISMA) guidelines and checklists [<xref rid="joa370278-bib-0020" ref-type="bibr">20</xref>]. This study was also registered and approved by the research board and the medical ethics committee at Mashhad University of Medical Sciences (code of ethics: IR.MUMS.IRH.REC.1402.014). Also, the study protocol was registered in PROSPERO (ID: CRD42024587028).</p></sec><sec id="joa370278-sec-0008"><label>2.2</label><title>Search Strategy</title><p>Two independent authors (A.R.B. and A.V.) conducted a systematic literature search in four scientific databases (Scopus, PubMed, Science Direct, and Web of Science) from inception to August 24th, 2025. We used keywords combined with Medical Subject Headings (MeSH) terms such as “arrhythmia,” “tachycardia,” “Post‐Acute COVID‐19 Syndromes,” “Long Haul COVID‐19,” and “Post‐Acute Sequelae of SARS‐CoV‐2 Infection” in combination with Boolean operators in the advanced search engine. No language or country restrictions were applied (any non‐English record was translated). The search strategy details are provided in the Table <xref rid="joa370278-supitem-0001" ref-type="supplementary-material">S1</xref>.</p></sec><sec id="joa370278-sec-0009"><label>2.3</label><title>Study Selection and Eligibility Criteria</title><p>For this review, Long COVID was defined in line with the included studies as patients who had documented positive results for COVID‐19 diagnostics and had recovered from the acute COVID‐19 for at least 30 days. The inclusion criteria consisted of observational cohort studies that enrolled long COVID patients, without documented cardiac disease before COVID‐19 infection, with controls that had a negative COVID‐19 diagnostic test and/or no history of COVID‐19 infection. Studies without a control group, reviews, case reports, case series, conference abstracts, and editorials were excluded.</p><p>The same two authors (A.R.B. and A.V.) investigated the retrieved reports for relevant articles. After manually removing duplicate records, the title and abstract of the remaining references were screened. In the next step, we reviewed the full texts of the documents to assess their eligibility for inclusion. To increase the power of the search, we also searched the references of the included papers to obtain any missed reports. Finally, the two authors (A.R.B. and A.V.) compared their results, and disagreements were addressed through discussion or consultation with a third author (N.M.).</p></sec><sec id="joa370278-sec-0010"><label>2.4</label><title>Data Extraction and Quality Assessment</title><p>Two independent authors (A.R.B. and A.V.) conducted the data extraction based on the following format: First author's name, publication year, region, study period, type of the cohort—follow‐up (the mean time each patient was under observation), number of patients and controls, days past COVID diagnosis, and type of arrhythmias. The Joanna Briggs Institute (JBI) checklist for cohort studies [<xref rid="joa370278-bib-0021" ref-type="bibr">21</xref>] was utilized for critical appraisal. The same two authors carried out the quality assessment and a third author (N.M.) was consulted in case of discrepancy in results, both in data extraction and critical appraisal sections.</p></sec><sec id="joa370278-sec-0011"><label>2.5</label><title>Statistical Analysis</title><p>The pooled effect estimates are shown as pooled hazard ratios (HRs) with 95% confidence intervals (CIs) and corresponding <italic toggle="yes">p</italic>‐values. The <italic toggle="yes">I</italic>
+<sup>2</sup> statistic was utilized to measure heterogeneity among the studies. The value of more than 50% was regarded as moderate heterogeneity. The selection of a fixed‐effect or a random‐effect model was determined by the degree of heterogeneity among the studies. The potential influence of publication bias was investigated by generating funnel plots. Sensitivity analysis was conducted to assess the robustness of the pooled estimates. Statistical analysis was carried out using STATA version 17 (College State, TX, USA).</p></sec></sec><sec sec-type="results" id="joa370278-sec-0012"><label>3</label><title>Results</title><sec id="joa370278-sec-0013"><label>3.1</label><title>Literature Search</title><p>In total, the primary literature search was conducted on August 24th, 2025 in four databases and yielded 4144 records, including preprints. After removing 1113 duplicates, two independent authors (A.R.B. and A.V.) performed the first screening stage by reviewing the title and abstract of the 3031 results. Papers without a healthy control group and cohort design and papers without reporting the arrhythmia risk were excluded. In the next step, the full‐text copies of the remaining 17 reports were acquired and carefully read to select articles meeting our inclusion criteria. Four additional studies were found through citation searching and were added to the list. Two of the articles (by Lam et al. [<xref rid="joa370278-bib-0022" ref-type="bibr">22</xref>] and Ojeda‐Fernández et al. [<xref rid="joa370278-bib-0023" ref-type="bibr">23</xref>]) provided two different datasets and therefore, each dataset was counted as a separate effect size. Finally, 14 studies were included in this systematic review. The PRISMA diagram of the review is shown in Figure <xref rid="joa370278-fig-0001" ref-type="fig">1</xref>.</p><fig position="float" fig-type="FIGURE" id="joa370278-fig-0001" orientation="portrait"><label>FIGURE 1</label><caption><p>The PRISMA flow diagram of the systematic review.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-3" orientation="portrait" xlink:href="JOA3-42-e70278-g005.jpg"/></fig></sec><sec id="joa370278-sec-0014"><label>3.2</label><title>Studies' Characteristics</title><p>Fourteen included studies were published between 2022 and 2024, and originated in the USA [<xref rid="joa370278-bib-0024" ref-type="bibr">24</xref>, <xref rid="joa370278-bib-0025" ref-type="bibr">25</xref>, <xref rid="joa370278-bib-0026" ref-type="bibr">26</xref>, <xref rid="joa370278-bib-0027" ref-type="bibr">27</xref>], UK [<xref rid="joa370278-bib-0022" ref-type="bibr">22</xref>, <xref rid="joa370278-bib-0028" ref-type="bibr">28</xref>, <xref rid="joa370278-bib-0029" ref-type="bibr">29</xref>], Hong Kong [<xref rid="joa370278-bib-0022" ref-type="bibr">22</xref>], Singapore [<xref rid="joa370278-bib-0030" ref-type="bibr">30</xref>, <xref rid="joa370278-bib-0031" ref-type="bibr">31</xref>], Spain [<xref rid="joa370278-bib-0032" ref-type="bibr">32</xref>, <xref rid="joa370278-bib-0033" ref-type="bibr">33</xref>], and Italy [<xref rid="joa370278-bib-0023" ref-type="bibr">23</xref>, <xref rid="joa370278-bib-0032" ref-type="bibr">32</xref>]. Four studies [<xref rid="joa370278-bib-0027" ref-type="bibr">27</xref>, <xref rid="joa370278-bib-0028" ref-type="bibr">28</xref>, <xref rid="joa370278-bib-0029" ref-type="bibr">29</xref>, <xref rid="joa370278-bib-0033" ref-type="bibr">33</xref>] had a prospective design while the other 10 [<xref rid="joa370278-bib-0022" ref-type="bibr">22</xref>, <xref rid="joa370278-bib-0023" ref-type="bibr">23</xref>, <xref rid="joa370278-bib-0024" ref-type="bibr">24</xref>, <xref rid="joa370278-bib-0025" ref-type="bibr">25</xref>, <xref rid="joa370278-bib-0026" ref-type="bibr">26</xref>, <xref rid="joa370278-bib-0030" ref-type="bibr">30</xref>, <xref rid="joa370278-bib-0031" ref-type="bibr">31</xref>, <xref rid="joa370278-bib-0032" ref-type="bibr">32</xref>] were retrospective cohorts. The mean follow‐up period among the studies varied from 84 days to 20 months. The number of patients and controls ranged from 3578 to 3 849 967 and 849 to 8 980 919, respectively. Male to female ratio and mean age ranged widely from 9.3 to 0.71 and 35 to 68 years for both the patient and control groups. Studies defined their control groups mainly as having no COVID‐19 symptoms and/or negative PCR tests. The time of COVID‐19 diagnosis was at least 30 days before enrollment. All studies defined arrhythmias according to the International Classification of Diseases (ICD) [<xref rid="joa370278-bib-0034" ref-type="bibr">34</xref>]. All studies accounted for key demographic and cardiovascular risk factors (e.g., age, hypertension, smoking, etc.) through adjustment methods such as propensity score matching, inverse probability matching, or multivariable analysis. The study characteristics are summarized in Table <xref rid="joa370278-tbl-0001" ref-type="table">1</xref>.</p><table-wrap position="float" id="joa370278-tbl-0001" content-type="TABLE" orientation="portrait"><label>TABLE 1</label><caption><p>Characteristics of the studies exploring the risk of arrhythmias in long COVID patients.</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><thead valign="bottom"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="bottom" rowspan="1" colspan="1">First author (year of publication)</th><th align="center" valign="bottom" rowspan="1" colspan="1">Study period</th><th align="center" valign="bottom" rowspan="1" colspan="1">Country</th><th align="center" valign="bottom" rowspan="1" colspan="1">Type of study</th><th align="center" valign="bottom" rowspan="1" colspan="1">Follow‐up</th><th align="center" valign="bottom" rowspan="1" colspan="1">Number of patients (% female)</th><th align="center" valign="bottom" rowspan="1" colspan="1">Mean age patients</th><th align="center" valign="bottom" rowspan="1" colspan="1">Control group</th><th align="center" valign="bottom" rowspan="1" colspan="1">Number of controls (% female)</th><th align="center" valign="bottom" rowspan="1" colspan="1">Mean age controls</th></tr></thead><tbody valign="top"><tr><td align="left" valign="top" rowspan="1" colspan="1">Xie Y. (2022) [<xref rid="joa370278-bib-0001" ref-type="bibr">1</xref>]</td><td align="center" valign="top" rowspan="1" colspan="1">March 2020–January 2021</td><td align="center" valign="top" rowspan="1" colspan="1">USA</td><td align="center" valign="top" rowspan="1" colspan="1">Prospective cohort</td><td align="center" valign="top" rowspan="1" colspan="1">347 days</td><td align="center" valign="top" rowspan="1" colspan="1">153 760 (11%)</td><td align="center" valign="top" rowspan="1" colspan="1">61.42 ± 15.64</td><td align="center" valign="top" rowspan="1" colspan="1">Contemporary control: no evidence of SARS‐COV infection</td><td align="center" valign="top" rowspan="1" colspan="1">5 637 647 (9.7%)</td><td align="center" valign="top" rowspan="1" colspan="1">63.46 ± 16.23</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Wang W. (2022) [<xref rid="joa370278-bib-0002" ref-type="bibr">2</xref>]</td><td align="center" valign="top" rowspan="1" colspan="1">January 2019–March 2022</td><td align="center" valign="top" rowspan="1" colspan="1">USA</td><td align="center" valign="top" rowspan="1" colspan="1">Retrospective cohort</td><td align="center" valign="top" rowspan="1" colspan="1">1 year</td><td align="center" valign="top" rowspan="1" colspan="1">690 892 (56.9%)</td><td align="center" valign="top" rowspan="1" colspan="1">43.2 ± 16.2</td><td align="center" valign="top" rowspan="1" colspan="1">People with no symptoms and a negative COVID‐19 test (Vaccinated people were excluded)</td><td align="center" valign="top" rowspan="1" colspan="1">690 892 (56.9%)</td><td align="center" valign="top" rowspan="1" colspan="1">43.1 ± 16.1</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Ortega‐Paz L. (2022) [<xref rid="joa370278-bib-0003" ref-type="bibr">3</xref>]</td><td align="center" valign="top" rowspan="1" colspan="1">February 2020–December 2020</td><td align="center" valign="top" rowspan="1" colspan="1">Spain and Italy</td><td align="center" valign="top" rowspan="1" colspan="1">Retrospective cohort</td><td align="center" valign="top" rowspan="1" colspan="1">1 year</td><td align="center" valign="top" rowspan="1" colspan="1">3578 (43.3%)</td><td align="center" valign="top" rowspan="1" colspan="1">63.1 ± 17.3</td><td align="center" valign="top" rowspan="1" colspan="1">Patients with no symptoms and a negative PCR test</td><td align="center" valign="top" rowspan="1" colspan="1">849 (58.4%)</td><td align="center" valign="top" rowspan="1" colspan="1">48.8 ± 19.1</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Mabila S. (2023) [<xref rid="joa370278-bib-0004" ref-type="bibr">4</xref>]</td><td align="center" valign="top" rowspan="1" colspan="1">March 2020–November 2021</td><td align="center" valign="top" rowspan="1" colspan="1">USA</td><td align="center" valign="top" rowspan="1" colspan="1">Retrospective cohort</td><td align="center" valign="top" rowspan="1" colspan="1">20 months</td><td align="center" valign="top" rowspan="1" colspan="1">122 424 (19%)</td><td align="center" valign="top" rowspan="1" colspan="1">Not Reported</td><td align="center" valign="top" rowspan="1" colspan="1">Negative PCR test</td><td align="center" valign="top" rowspan="1" colspan="1">875 361 (20%)</td><td align="center" valign="top" rowspan="1" colspan="1">Not Reported</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Wan E. (2022) [<xref rid="joa370278-bib-0005" ref-type="bibr">5</xref>]</td><td align="center" valign="top" rowspan="1" colspan="1">March 2020–November 2020</td><td align="center" valign="top" rowspan="1" colspan="1">UK</td><td align="center" valign="top" rowspan="1" colspan="1">Prospective cohort</td><td align="center" valign="top" rowspan="1" colspan="1">18 months</td><td align="center" valign="top" rowspan="1" colspan="1">7584 (50.4%)</td><td align="center" valign="top" rowspan="1" colspan="1">66.1 ± 8.6</td><td align="center" valign="top" rowspan="1" colspan="1">Patients without a COVID‐19 diagnosis for the whole duration of the study</td><td align="center" valign="top" rowspan="1" colspan="1">75 790 (50.9%)</td><td align="center" valign="top" rowspan="1" colspan="1">66.3 ± 8.3</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Lim J. (2024) [<xref rid="joa370278-bib-0006" ref-type="bibr">6</xref>]</td><td align="center" valign="top" rowspan="1" colspan="1">September 2021–November 2021</td><td align="center" valign="top" rowspan="1" colspan="1">Singapore</td><td align="center" valign="top" rowspan="1" colspan="1">Retrospective cohort</td><td align="center" valign="top" rowspan="1" colspan="1">300 days</td><td align="center" valign="top" rowspan="1" colspan="1">106 012 (44.2%)</td><td align="center" valign="top" rowspan="1" colspan="1">51 ± 17.25</td><td align="center" valign="top" rowspan="1" colspan="1">Patients with negative PCR tests and no reports of COVID‐19 infection within 300 days</td><td align="center" valign="top" rowspan="1" colspan="1">1 684 085 (51.9%)</td><td align="center" valign="top" rowspan="1" colspan="1">48 ± 17.7</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Tintore C. (2024) [<xref rid="joa370278-bib-0007" ref-type="bibr">7</xref>]</td><td align="center" valign="top" rowspan="1" colspan="1">March 2020–May 2020</td><td align="center" valign="top" rowspan="1" colspan="1">Spain</td><td align="center" valign="top" rowspan="1" colspan="1">Prospective cohort</td><td align="center" valign="top" rowspan="1" colspan="1">317 days</td><td align="center" valign="top" rowspan="1" colspan="1">33 674 (59.3%)</td><td align="center" valign="top" rowspan="1" colspan="1">66</td><td align="center" valign="top" rowspan="1" colspan="1">Patients without a positive Covid test match the patients' group</td><td align="center" valign="top" rowspan="1" colspan="1">130 672 (59.7%)</td><td align="center" valign="top" rowspan="1" colspan="1">66</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Lam I. (2024) [<xref rid="joa370278-bib-0008" ref-type="bibr">8</xref>]</td><td align="center" valign="top" rowspan="1" colspan="1">April 2020–May 2022</td><td align="center" valign="top" rowspan="1" colspan="1">Hong Kong</td><td align="center" valign="top" rowspan="1" colspan="1">Retrospective cohort</td><td align="center" valign="top" rowspan="1" colspan="1">146 days</td><td align="center" valign="top" rowspan="1" colspan="1">3 849 967 (56%)</td><td align="center" valign="top" rowspan="1" colspan="1">54.1 ± 17.4</td><td align="center" valign="top" rowspan="1" colspan="1">Patients without a positive Covid test match the patients' group</td><td align="center" valign="top" rowspan="1" colspan="1">3 850 839 (55.9%)</td><td align="center" valign="top" rowspan="1" colspan="1">54.2 ± 18.2</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Lam I. (2024) [<xref rid="joa370278-bib-0008" ref-type="bibr">8</xref>]</td><td align="center" valign="top" rowspan="1" colspan="1">March 2020–May 2021</td><td align="center" valign="top" rowspan="1" colspan="1">UK</td><td align="center" valign="top" rowspan="1" colspan="1">Retrospective cohort</td><td align="center" valign="top" rowspan="1" colspan="1">243 days</td><td align="center" valign="top" rowspan="1" colspan="1">183 091 (55%)</td><td align="center" valign="top" rowspan="1" colspan="1">68.1 ± 8.5</td><td align="center" valign="top" rowspan="1" colspan="1">Patients without a positive Covid test match the patients' group</td><td align="center" valign="top" rowspan="1" colspan="1">409 176 (55.3%)</td><td align="center" valign="top" rowspan="1" colspan="1">68.1 ± 8.1</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Ojeda‐Fernandez L. (2023) [<xref rid="joa370278-bib-0009" ref-type="bibr">9</xref>]</td><td align="center" valign="top" rowspan="1" colspan="1">February 2020–June 2020</td><td align="center" valign="top" rowspan="1" colspan="1">Italy</td><td align="center" valign="top" rowspan="1" colspan="1">Retrospective cohort</td><td align="center" valign="top" rowspan="1" colspan="1">222 days</td><td align="center" valign="top" rowspan="1" colspan="1">59 545 (53.8%)</td><td align="center" valign="top" rowspan="1" colspan="1">64.97 ± 14.97</td><td align="center" valign="top" rowspan="1" colspan="1">Patients without a COVID‐19 diagnosis during the follow‐up</td><td align="center" valign="top" rowspan="1" colspan="1">196 091 (49.95%)</td><td align="center" valign="top" rowspan="1" colspan="1">66.65 ± 14.73</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Ojeda‐Fernandez L. (2023) [<xref rid="joa370278-bib-0009" ref-type="bibr">9</xref>]</td><td align="center" valign="top" rowspan="1" colspan="1">October 2020–May 2021</td><td align="center" valign="top" rowspan="1" colspan="1">Italy</td><td align="center" valign="top" rowspan="1" colspan="1">Retrospective cohort</td><td align="center" valign="top" rowspan="1" colspan="1">237 days</td><td align="center" valign="top" rowspan="1" colspan="1">425 600 (52.6%)</td><td align="center" valign="top" rowspan="1" colspan="1">59.26 ± 13.48</td><td align="center" valign="top" rowspan="1" colspan="1">Patients without a COVID‐19 diagnosis during the follow‐up</td><td align="center" valign="top" rowspan="1" colspan="1">1 316 933 (51.78%)</td><td align="center" valign="top" rowspan="1" colspan="1">60.12 ± 13.87</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Wee L. (2024) [<xref rid="joa370278-bib-0010" ref-type="bibr">10</xref>]</td><td align="center" valign="top" rowspan="1" colspan="1">December 2021—March 2022</td><td align="center" valign="top" rowspan="1" colspan="1">Singapore</td><td align="center" valign="top" rowspan="1" colspan="1">Retrospective cohort</td><td align="center" valign="top" rowspan="1" colspan="1">300 days</td><td align="center" valign="top" rowspan="1" colspan="1">375 903 (50.92%)</td><td align="center" valign="top" rowspan="1" colspan="1">48 ± 17.66</td><td align="center" valign="top" rowspan="1" colspan="1">Patients with a negative test from the same population and time period</td><td align="center" valign="top" rowspan="1" colspan="1">619 379 (52.55%)</td><td align="center" valign="top" rowspan="1" colspan="1">47 ± 13.35</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Daugherty S. (2021) [<xref rid="joa370278-bib-0011" ref-type="bibr">11</xref>]</td><td align="center" valign="top" rowspan="1" colspan="1">January 2020—October 2020</td><td align="center" valign="top" rowspan="1" colspan="1">USA</td><td align="center" valign="top" rowspan="1" colspan="1">Retrospective cohort</td><td align="center" valign="top" rowspan="1" colspan="1">87 days</td><td align="center" valign="top" rowspan="1" colspan="1">266 586 (52.4%)</td><td align="center" valign="top" rowspan="1" colspan="1">41.7 ± 13.9</td><td align="center" valign="top" rowspan="1" colspan="1">A comparator group with no clinical diagnosis related to COVID‐19</td><td align="center" valign="top" rowspan="1" colspan="1">8 980 919 (49.7%)</td><td align="center" valign="top" rowspan="1" colspan="1">42.4 ± 13.6</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Rezel‐Potts E. (2022) [<xref rid="joa370278-bib-0012" ref-type="bibr">12</xref>]</td><td align="center" valign="top" rowspan="1" colspan="1">February 2021—January 2022</td><td align="center" valign="top" rowspan="1" colspan="1">UK</td><td align="center" valign="top" rowspan="1" colspan="1">Prospective cohort</td><td align="center" valign="top" rowspan="1" colspan="1">12 weeks</td><td align="center" valign="top" rowspan="1" colspan="1">428 650 (55.58%)</td><td align="center" valign="top" rowspan="1" colspan="1">35 (22–50)</td><td align="center" valign="top" rowspan="1" colspan="1">A matched control group from the same population with no history of COVID‐19</td><td align="center" valign="top" rowspan="1" colspan="1">428 650 (55.58%)</td><td align="center" valign="top" rowspan="1" colspan="1">35 (22–50)</td></tr></tbody></table></table-wrap><p>Regarding the critical appraisal, using the JBI checklist [<xref rid="joa370278-bib-0021" ref-type="bibr">21</xref>] to assess the quality of the selected studies, one study received a score of 10, and the others were given the maximum score of 11 (Table <xref rid="joa370278-supitem-0001" ref-type="supplementary-material">S2</xref>).</p></sec><sec id="joa370278-sec-0015"><label>3.3</label><title>Overall Arrhythmia Risk</title><p>Seven studies evaluated the overall risk of developing arrhythmias. (Figure <xref rid="joa370278-fig-0002" ref-type="fig">2</xref>). Patients with long COVID had a 74% higher risk of developing arrhythmias compared to control groups as determined by a random‐effects model (HR: 1.74, 95% CI [1.39, 2.10]; <italic toggle="yes">I</italic>
+<sup>2</sup> = 99.65%). The funnel plot demonstrated some asymmetry (Figure <xref rid="joa370278-supitem-0001" ref-type="supplementary-material">S1</xref>). Results remained similar after sensitivity analysis (Figure <xref rid="joa370278-supitem-0001" ref-type="supplementary-material">S2</xref>).</p><fig position="float" fig-type="FIGURE" id="joa370278-fig-0002" orientation="portrait"><label>FIGURE 2</label><caption><p>Forest plot for the risk of overall arrhythmias in long COVID.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-5" orientation="portrait" xlink:href="JOA3-42-e70278-g007.jpg"/></fig></sec><sec id="joa370278-sec-0016"><label>3.4</label><title>Atrial Fibrillation</title><p>Twelve studies calculated the incidence of atrial fibrillation (AF). AF risk increased by 49% in long COVID patients compared to controls (HR: 1.49, 95% CI [1.24, 1.73], <italic toggle="yes">I</italic>
+<sup>2</sup> = 98.57%), using a random‐effects model (Figure <xref rid="joa370278-fig-0003" ref-type="fig">3</xref>). Although the funnel plot showed mild asymmetry (Figure <xref rid="joa370278-supitem-0001" ref-type="supplementary-material">S3</xref>), both Egger's and Beggs' tests indicated no statistically significant publication bias (<italic toggle="yes">p =</italic> 0.95 and 0.24, respectively). No substantial changes were observed when sensitivity analysis was conducted (Figure <xref rid="joa370278-supitem-0001" ref-type="supplementary-material">S4</xref>).</p><fig position="float" fig-type="FIGURE" id="joa370278-fig-0003" orientation="portrait"><label>FIGURE 3</label><caption><p>Forest plot for the risk of atrial fibrillation in long COVID.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-7" orientation="portrait" xlink:href="JOA3-42-e70278-g001.jpg"/></fig></sec><sec id="joa370278-sec-0017"><label>3.5</label><title>Sinus Tachycardia</title><p>Six articles calculated the risk of developing sinus tachycardia after COVID‐19 infection in the long term. The pooled HR was 1.69, 95% CI [1.21, 2.18] (<italic toggle="yes">I</italic>
+<sup>2</sup> = 99.51%), which showed a meaningful difference between the COVID‐19 and the healthy group (Figure <xref rid="joa370278-fig-0004" ref-type="fig">4</xref>). The funnel plot showed some asymmetry (Figure <xref rid="joa370278-supitem-0001" ref-type="supplementary-material">S5</xref>). Sensitivity analysis yielded results consistent with the main analysis (Figure <xref rid="joa370278-supitem-0001" ref-type="supplementary-material">S6</xref>).</p><fig position="float" fig-type="FIGURE" id="joa370278-fig-0004" orientation="portrait"><label>FIGURE 4</label><caption><p>Forest plot for the risk of sinus tachycardia in long COVID.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-9" orientation="portrait" xlink:href="JOA3-42-e70278-g006.jpg"/></fig></sec><sec id="joa370278-sec-0018"><label>3.6</label><title>Sinus Bradycardia</title><p>Five studies reported the burden of sinus bradycardia in the long COVID group. Our analysis showed an HR of 1.58, 95% CI:[1.50, 1.66] (<italic toggle="yes">I</italic>
+<sup>2</sup> = 65.80%) using a random‐effects model, which demonstrates a notable increase (Figure <xref rid="joa370278-fig-0005" ref-type="fig">5</xref>). The funnel plot did not show any significant publication bias (Figure <xref rid="joa370278-supitem-0001" ref-type="supplementary-material">S7</xref>). The sensitivity analysis confirmed the robustness of the findings, with minimal variations in effect sizes (Figure <xref rid="joa370278-supitem-0001" ref-type="supplementary-material">S8</xref>).</p><fig position="float" fig-type="FIGURE" id="joa370278-fig-0005" orientation="portrait"><label>FIGURE 5</label><caption><p>Forest plot for the risk of sinus bradycardia in long COVID.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-11" orientation="portrait" xlink:href="JOA3-42-e70278-g003.jpg"/></fig></sec><sec id="joa370278-sec-0019"><label>3.7</label><title>Ventricular Arrhythmias</title><p>Only two studies reported the burden of ventricular arrhythmias between the long COVID and the control group. Both articles showed that the incidence of ventricular arrhythmias was significantly increased in the long COVID group. Using the random‐effects model, the overall HR was 1.72, 95% CI [1.48, 1.95] (<italic toggle="yes">I</italic>
+<sup>2</sup> = 96.89%) (Figure <xref rid="joa370278-fig-0006" ref-type="fig">6</xref>).</p><fig position="float" fig-type="FIGURE" id="joa370278-fig-0006" orientation="portrait"><label>FIGURE 6</label><caption><p>Forest plot for the risk of ventricular arrhythmias in long COVID.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-13" orientation="portrait" xlink:href="JOA3-42-e70278-g004.jpg"/></fig></sec><sec id="joa370278-sec-0020"><label>3.8</label><title>The Severity of the Initial <styled-content style="fixed-case" toggle="no">COVID</styled-content>‐19 Infection and the Risk of Arrhythmia</title><p>The studies by Lim et al. [<xref rid="joa370278-bib-0030" ref-type="bibr">30</xref>], Wee et al. [<xref rid="joa370278-bib-0031" ref-type="bibr">31</xref>] and Xie et al. [<xref rid="joa370278-bib-0027" ref-type="bibr">27</xref>] divided the patients into three groups based on the severity of the initial infection: outpatient (mild), inpatient, and intensive care unit (ICU). In the study by Lim et al. [<xref rid="joa370278-bib-0030" ref-type="bibr">30</xref>], the overall arrhythmia risk for mild cases was not significantly different from the control group (HR: 1.11, 95% CI [0.94, 1.30]). However, both inpatient and ICU groups had a significantly higher risk of developing arrhythmias (HR: 2.95, 95% CI [1.80, 4.85] for inpatient, and HR: 4.65, 95% CI [2.53, 8.55]). The research by Wee et al. [<xref rid="joa370278-bib-0031" ref-type="bibr">31</xref>] also found similar results (HR: 0.99, 95% CI [0.91, 1.09] for the mild group, HR: 3.30, 95% CI [2.30, 4.74] for the inpatient group, and HR: 4.54, 95% CI [2.65, 7.77] for the ICU group). Meanwhile, in the Xie et al. study [<xref rid="joa370278-bib-0027" ref-type="bibr">27</xref>], all three patient groups were at higher risk of cardiac arrhythmias in the long term (HR: 1.33, 95% CI [1.29–1.38] for the outpatient group, HR: 3.89, 95% CI [3.55–4.27] for the inpatient group, and HR: 7.93, 95% CI [7.00–8.98] for the ICU group). Wang et al. [<xref rid="joa370278-bib-0026" ref-type="bibr">26</xref>], divided the patients into two groups (inpatient and outpatient) and exhibited an increased risk for all of the studied arrhythmias (AF, tachycardia, bradycardia, ventricular arrhythmias) in the inpatient group, while the outpatient group only showed an increased risk for tachycardia and bradycardia. The reviewed studies suggest a relationship between the severity of COVID‐19 and arrhythmia risk. The ICU patients exhibited a higher risk of arrhythmia compared to outpatients and inpatient groups, with varying HRs reported across studies. Since studies used different adjustment methods for potential confounders, the results are not directly comparable due to variability in methodologies, and thus, a meta‐analysis was not performed.</p></sec></sec><sec sec-type="discussion" id="joa370278-sec-0021"><label>4</label><title>Discussion</title><p>Our meta‐analysis shows that patients with post‐acute COVID‐19 have a higher risk of AF, sinus tachycardia, sinus bradycardia, and ventricular arrhythmias compared to controls. The studies showed high heterogeneity, which may be due to differences in patient populations, follow‐up lengths, study designs (retrospective vs. prospective), surveillance approaches (continuous versus episodic electrocardiographic recording), and geographical differences, including the predominance of viral variants across regions. These results highlight the long‐term cardiovascular effects of SARS‐CoV‐2 infection.</p><p>The most observed arrhythmia in the acute SARS‐CoV‐2 cases is AF. Individuals with advanced age, critical illness, male sex, uncontrolled hypertension, and diabetes are more prone to developing AF [<xref rid="joa370278-bib-0035" ref-type="bibr">35</xref>]. The presence of AF in patients experiencing acute COVID‐19 infection was linked to a higher chance of all‐cause mortality [<xref rid="joa370278-bib-0035" ref-type="bibr">35</xref>], but its relevance in post‐COVID is not well investigated. Our meta‐analysis showed a significant increase in AF occurrence in post‐acute COVID‐19 patients in comparison to the control groups. A previous meta‐analysis by Zuin et al. [<xref rid="joa370278-bib-0036" ref-type="bibr">36</xref>], which included five studies, also showed that post‐acute COVID patients are at a higher risk of developing AF. A nested case–control study by Rosh et al. [<xref rid="joa370278-bib-0037" ref-type="bibr">37</xref>], demonstrated that a previous SARS‐CoV‐2 infection can predispose patients to new‐onset AF. The association was meaningful in the lag‐time analysis, but this connection was weakened as the time interval increased and stabilized around a lag‐time of 20 days. A cohort study by Wang et al. [<xref rid="joa370278-bib-0026" ref-type="bibr">26</xref>], demonstrated that patients with a previous COVID‐19 infection were more likely to experience atrial flutter and fibrillation (HR: 2.407, 95% CI [2.296, 2.523]) relative to the healthy control group. These findings emphasize the importance of evaluating patients with long COVID and identifying high‐risk patients for developing AF.</p><p>Sinus tachycardia is frequently observed in post‐acute COVID‐19 patients and can be responsible for some of the symptoms they experience. In a study by Aranyo et al. [<xref rid="joa370278-bib-0038" ref-type="bibr">38</xref>], patients with post‐COVID syndrome who had sinus tachycardia had more common complaints of palpitations, dyspnea, headache, and dizziness. Another article by Llach et al. [<xref rid="joa370278-bib-0039" ref-type="bibr">39</xref>] showed similar results in patients with inappropriate sinus tachycardia. These results align with our study, highlighting the frequent occurrence of tachycardia in post‐acute COVID‐19 patients.</p><p>Bradycardia can also be a manifestation of acute COVID‐19 infection. It is a common occurrence in COVID‐19 cases, but its significance is controversial. Some studies found that bradycardia was associated with higher ICU admissions, hospital stays, and mortality [<xref rid="joa370278-bib-0040" ref-type="bibr">40</xref>], while in others, there was no correlation between the severity of bradycardia and poor outcomes [<xref rid="joa370278-bib-0041" ref-type="bibr">41</xref>]. In our study, post‐acute COVID‐19 patients had an increased risk of developing sinus bradycardia in the long term as well. In a study by Zhou et al. [<xref rid="joa370278-bib-0042" ref-type="bibr">42</xref>], the incidence of bradycardia in post‐acute COVID‐19 patients was 29.9%, with 7.2% of COVID survivors having significant sinus bradycardia (heart rate &lt; 50). The bradycardia appeared to be self‐limiting. In another study by Afroze et al. [<xref rid="joa370278-bib-0043" ref-type="bibr">43</xref>], 5% of outpatient and 2% of inpatient COVID survivors showed sinus bradycardia on their ECG after one‐month follow‐up, which was significantly less than sinus tachycardia (28% outpatient and 11% inpatient). The moderate heterogeneity observed in our sinus bradycardia analysis may reflect differences across studies in patient population, follow‐up duration, methods of outcome ascertainment, variations in age distribution, and baseline cardiovascular risk. Further studies are warranted to clarify the clinical relevance of sinus bradycardia and its association with symptoms and long‐term outcomes in COVID‐19 survivors.</p><p>Interestingly, both sinus tachycardia and sinus bradycardia were observed in post‐COVID patients. This apparent paradox can be explained by autonomic dysfunction, where some individuals develop postural orthostatic tachycardia syndrome (POTS)‐like syndromes, while others manifest vagally‐mediated bradyarrhythmias. Inflammatory or fibrotic injury to the sinus node may further contribute to these divergent phenotypes. Such differences likely reflect heterogeneity in patient age, comorbidities, and underlying cardiac autonomic balance [<xref rid="joa370278-bib-0044" ref-type="bibr">44</xref>]. Several other studies have also mentioned autonomic dysfunction as a potential mechanism responsible for arrhythmias after COVID‐19. A systematic review by Hyo‐Weon Suh et al. [<xref rid="joa370278-bib-0045" ref-type="bibr">45</xref>], showed that patients with long COVID had changes in heart rate variability (HRV) parameters, including a reduction in the standard deviation of normal‐to‐normal RR intervals (SDNN), which indicates parasympathetic inhibition.</p><p>Ventricular arrhythmias are common among patients who are hospitalized with acute COVID‐19. According to a meta‐analysis by Tan et al. [<xref rid="joa370278-bib-0046" ref-type="bibr">46</xref>], the incidence of ventricular arrhythmias in hospitalized patients was 5%, with 95% CI [4%, 6%]. It was significantly associated with mortality and sudden cardiac death. Unlike acute COVID, there is not much evidence on the post‐acute COVID patients. In our meta‐analysis, we found that patients with a history of previous COVID‐19 infection were more likely to experience ventricular arrhythmias. In a study by Ingul et al. [<xref rid="joa370278-bib-0047" ref-type="bibr">47</xref>], which performed Holter monitoring on 200 patients with long COVID, 18% of patients had a significant number of premature ventricular contractions (PVCs) (more than 200 beats per 24 h), and 5% had non‐sustained ventricular tachycardias, but the study lacked a control group for arrhythmias. There have also been several case reports regarding the development of ventricular arrhythmias in post‐COVID patients. A study by Rosca et al. [<xref rid="joa370278-bib-0048" ref-type="bibr">48</xref>] described three young males without prior cardiovascular disease who experienced non‐sustained ventricular tachycardia (NSVT) approximately 4 weeks after recovering from COVID‐19. A similar case report was published by El Hajjar et al. [<xref rid="joa370278-bib-0049" ref-type="bibr">49</xref>] describing a young patient who developed ventricular tachycardia after the resolution of COVID‐19. Several mechanisms can contribute to the development of ventricular arrhythmias in post‐COVID patients. A paper by Hamdy et al. [<xref rid="joa370278-bib-0050" ref-type="bibr">50</xref>] reported that post‐COVID patients with ventricular arrhythmias had significantly lower functional status and showed subclinical myocardial damage in echocardiography. In addition, patients with ventricular arrhythmias had higher levels of inflammatory biomarkers. More research is needed on ventricular arrhythmias since they are associated with mortality and adverse outcomes.</p><p>The severity of the COVID‐19 infection is a key factor contributing to the long‐term consequences. Several studies have shown that even patients with absent to mild symptoms can suffer from long COVID symptoms like cough, dyspnea, headaches, anosmia, and ageusia [<xref rid="joa370278-bib-0051" ref-type="bibr">51</xref>, <xref rid="joa370278-bib-0052" ref-type="bibr">52</xref>, <xref rid="joa370278-bib-0053" ref-type="bibr">53</xref>]. However, patients with more severe COVID‐19 disease are more likely to develop PASC in the future [<xref rid="joa370278-bib-0054" ref-type="bibr">54</xref>]. In a paper by Wiemken et al. [<xref rid="joa370278-bib-0055" ref-type="bibr">55</xref>], patients who were hospitalized and patients requiring intensive care unit (ICU) were more likely to experience cardiovascular events in the long run. ICU‐admitted patients exhibited a heightened risk for cardiac arrhythmias compared with non‐ICU hospitalized patients and non‐hospitalized patients (HR: 1.22, 95% CI [1.17–1.27] for ICU vs. hospital‐admitted patients, HR: 1.75, 95% CI [1.65–1.87] for ICU vs. non‐hospitalized patients). In our systematic review, three articles confirm these findings by showing an increased risk of cardiac arrhythmias in hospital‐admitted and ICU patients. These studies indicate that the intensity of the initial COVID‐19 infection directly impacts the risk of PASC‐CVD, including arrhythmias. However, it is essential to note that ICU patients often have more severe comorbidities and receive distinct treatments. These factors may introduce confounding, which could affect the interpretation of the results. While the included studies employed multivariable adjustment, the heterogeneity in study methodologies and the presence of confounding factors limit the ability to directly compare or combine the results.</p></sec><sec id="joa370278-sec-0022"><label>5</label><title>Strengths and Limitations</title><p>To our knowledge, this is the first systematic review and meta‐analysis on the incidence of different cardiac arrhythmias in post‐acute COVID‐19 patients. Also, this meta‐analysis included studies of high methodological quality and a large number of patients. The included studies encompassed a large number of patients, which increased the precision of the estimates.</p><p>The main limitation of this meta‐analysis is the limited number of studies for some of the analyses. In addition, we could not perform a meta‐analysis to assess the relationship between the risk of arrhythmias and initial COVID severity, due to the limited number of studies and different methodologies used to evaluate these relationships.</p></sec><sec sec-type="conclusions" id="joa370278-sec-0023"><label>6</label><title>Conclusion</title><p>COVID‐19 infection can potentially increase the risk of developing different cardiac arrhythmias in the long term. Necessary measures need to be taken to manage patients with long COVID, thereby increasing the quality of life and preventing adverse health events. Early diagnosis may help prevent adverse outcomes in patients.</p></sec><sec id="joa370278-sec-0024"><title>Author Contributions</title><p>N.M. developed the original idea. A.R.B. and A.V. conducted the literature search and title/abstract screening, consulting N.M. in cases of discrepancy. S.A. and M.T. explored additional sources to find relevant articles and contributed to the study planning. A.R.B., A.V., N.M., and H.P. reviewed the full texts of relevant papers. A.R.B., A.V., and H.P. handled data extraction and quality assessment of the studies. N.M. and A.R.B. performed the meta‐analysis. A.R.B. and A.V. drafted the initial draft. S.A. and M.T. reviewed and improved the draft. All authors read and approved the final version of the manuscript.</p></sec><sec id="joa370278-sec-0026"><title>Funding</title><p>This study was funded by the Mashhad University of Medical Sciences.</p></sec><sec sec-type="COI-statement" id="joa370278-sec-0027"><title>Disclosure</title><p>No human participant was involved in this study. The study protocol was registered in PROSPERO (ID: CRD42024587028).</p></sec><sec sec-type="COI-statement" id="joa370278-sec-0028"><title>Conflicts of Interest</title><p>The authors declare no conflicts of interest.</p></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material id="joa370278-supitem-0001" position="float" content-type="local-data" orientation="portrait"><caption><p>
+<bold>Data S1:</bold> joa370278‐sup‐0001‐supinfo.docx.</p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="JOA3-42-e70278-s001.docx" position="float" orientation="portrait"/></supplementary-material></sec></body><back><ack id="joa370278-sec-0025"><title>Acknowledgments</title><p>We would like to thank Mashhad University of Medical Sciences for its support.</p></ack><sec sec-type="data-availability" id="joa370278-sec-0030"><title>Data Availability Statement</title><p>The data that supports the findings of this study are available in the <xref rid="joa370278-supitem-0001" ref-type="supplementary-material">Supporting Information</xref> of this article.</p></sec><ref-list content-type="cited-references" id="joa370278-bibl-0001"><title>References</title><ref id="joa370278-bib-0001"><label>1</label><mixed-citation publication-type="journal" id="joa370278-cit-0001">
+<string-name name-style="western">
+<given-names>O. P.</given-names>
+<surname>Mehta</surname>
+</string-name>, <string-name name-style="western">
+<given-names>P.</given-names>
+<surname>Bhandari</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Raut</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S. E. O.</given-names>
+<surname>Kacimi</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>N. T.</given-names>
+<surname>Huy</surname>
+</string-name>, “<article-title>Coronavirus Disease (COVID‐19): Comprehensive Review of Clinical Presentation</article-title>,” <source>Frontiers in Public Health</source>
+<volume>8</volume> (<year>2021</year>): <elocation-id>582932</elocation-id>.<pub-id pub-id-type="pmid">33520910</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3389/fpubh.2020.582932</pub-id><pub-id pub-id-type="pmcid">PMC7844320</pub-id></mixed-citation></ref><ref id="joa370278-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="joa370278-cit-0002">
+<string-name name-style="western">
+<given-names>F.</given-names>
+<surname>Farshidfar</surname>
+</string-name>, <string-name name-style="western">
+<given-names>N.</given-names>
+<surname>Koleini</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Ardehali</surname>
+</string-name>, “<article-title>Cardiovascular Complications of COVID‐19</article-title>,” <source>JCI Insight</source>
+<volume>6</volume>, no. <issue>13</issue> (<year>2021</year>): <fpage>1</fpage>–<lpage>15</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1172/jci.insight.148980</pub-id><pub-id pub-id-type="pmcid">PMC8410051</pub-id><pub-id pub-id-type="pmid">34061779</pub-id></mixed-citation></ref><ref id="joa370278-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="joa370278-cit-0003">
+<string-name name-style="western">
+<given-names>T.</given-names>
+<surname>Iba</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J. H.</given-names>
+<surname>Levy</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J. M.</given-names>
+<surname>Connors</surname>
+</string-name>, <string-name name-style="western">
+<given-names>T. E.</given-names>
+<surname>Warkentin</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Thachil</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Levi</surname>
+</string-name>, “<article-title>The Unique Characteristics of COVID‐19 Coagulopathy</article-title>,” <source>Critical Care</source>
+<volume>24</volume>, no. <issue>1</issue> (<year>2020</year>): <elocation-id>360</elocation-id>.<pub-id pub-id-type="pmid">32552865</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1186/s13054-020-03077-0</pub-id><pub-id pub-id-type="pmcid">PMC7301352</pub-id></mixed-citation></ref><ref id="joa370278-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="joa370278-cit-0004">
+<string-name name-style="western">
+<given-names>S. K.</given-names>
+<surname>Kunutsor</surname>
+</string-name> and <string-name name-style="western">
+<given-names>J. A.</given-names>
+<surname>Laukkanen</surname>
+</string-name>, “<article-title>Cardiovascular Complications in COVID‐19: A Systematic Review and Meta‐Analysis</article-title>,” <source>Journal of Infection</source>
+<volume>81</volume>, no. <issue>2</issue> (<year>2020</year>): <fpage>e139</fpage>–<lpage>e141</lpage>.<pub-id pub-id-type="pmid">32504747</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.jinf.2020.05.068</pub-id><pub-id pub-id-type="pmcid">PMC7832225</pub-id></mixed-citation></ref><ref id="joa370278-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="joa370278-cit-0005">
+<string-name name-style="western">
+<given-names>B.</given-names>
+<surname>Long</surname>
+</string-name>, <string-name name-style="western">
+<given-names>W. J.</given-names>
+<surname>Brady</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Koyfman</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Gottlieb</surname>
+</string-name>, “<article-title>Cardiovascular Complications in COVID‐19</article-title>,” <source>American Journal of Emergency Medicine</source>
+<volume>38</volume>, no. <issue>7</issue> (<year>2020</year>): <fpage>1504</fpage>–<lpage>1507</lpage>.<pub-id pub-id-type="pmid">32317203</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.ajem.2020.04.048</pub-id><pub-id pub-id-type="pmcid">PMC7165109</pub-id></mixed-citation></ref><ref id="joa370278-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="joa370278-cit-0006">
+<string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Bandyopadhyay</surname>
+</string-name>, <string-name name-style="western">
+<given-names>T.</given-names>
+<surname>Akhtar</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Hajra</surname>
+</string-name>, et al., “<article-title>COVID‐19 Pandemic: Cardiovascular Complications and Future Implications</article-title>,” <source>American Journal of Cardiovascular Drugs</source>
+<volume>20</volume> (<year>2020</year>): <fpage>311</fpage>–<lpage>324</lpage>.<pub-id pub-id-type="pmid">32578167</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s40256-020-00420-2</pub-id><pub-id pub-id-type="pmcid">PMC7310596</pub-id></mixed-citation></ref><ref id="joa370278-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="joa370278-cit-0007">
+<string-name name-style="western">
+<given-names>V.</given-names>
+<surname>Petrovic</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Radenkovic</surname>
+</string-name>, <string-name name-style="western">
+<given-names>G.</given-names>
+<surname>Radenkovic</surname>
+</string-name>, <string-name name-style="western">
+<given-names>V.</given-names>
+<surname>Djordjevic</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Banach</surname>
+</string-name>, “<article-title>Pathophysiology of Cardiovascular Complications in COVID‐19</article-title>,” <source>Frontiers in Physiology</source>
+<volume>11</volume> (<year>2020</year>): <elocation-id>575600</elocation-id>.<pub-id pub-id-type="pmid">33162899</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3389/fphys.2020.575600</pub-id><pub-id pub-id-type="pmcid">PMC7583694</pub-id></mixed-citation></ref><ref id="joa370278-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="joa370278-cit-0008">
+<string-name name-style="western">
+<given-names>Y.‐H.</given-names>
+<surname>Zhao</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Zhao</surname>
+</string-name>, <string-name name-style="western">
+<given-names>X.‐C.</given-names>
+<surname>Yang</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>P.</given-names>
+<surname>Wang</surname>
+</string-name>, “<article-title>Cardiovascular Complications of SARS‐CoV‐2 Infection (COVID‐19): A Systematic Review and Meta‐Analysis</article-title>,” <source>Reviews in Cardiovascular Medicine</source>
+<volume>22</volume>, no. <issue>1</issue> (<year>2021</year>): <fpage>159</fpage>–<lpage>165</lpage>.<pub-id pub-id-type="pmid">33792257</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.31083/j.rcm.2021.01.238</pub-id></mixed-citation></ref><ref id="joa370278-bib-0009"><label>9</label><mixed-citation publication-type="miscellaneous" id="joa370278-cit-0009">
+<string-name name-style="western">
+<given-names>E.</given-names>
+<surname>Perego</surname>
+</string-name>, <string-name name-style="western">
+<given-names>F.</given-names>
+<surname>Callard</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Stras</surname>
+</string-name>, <string-name name-style="western">
+<given-names>B.</given-names>
+<surname>Melville‐Johannesson</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Pope</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>N.</given-names>
+<surname>Alwan</surname>
+</string-name>, <article-title>“Why We Need to Keep Using the Patient Made Term ‘Long Covid’,”</article-title> (<year>2020</year>).</mixed-citation></ref><ref id="joa370278-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="joa370278-cit-0010">
+<string-name name-style="western">
+<given-names>B.</given-names>
+<surname>Raman</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D. A.</given-names>
+<surname>Bluemke</surname>
+</string-name>, <string-name name-style="western">
+<given-names>T. F.</given-names>
+<surname>Lüscher</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Neubauer</surname>
+</string-name>, “<article-title>Long COVID: Post‐Acute Sequelae of COVID‐19 With a Cardiovascular Focus</article-title>,” <source>European Heart Journal</source>
+<volume>43</volume>, no. <issue>11</issue> (<year>2022</year>): <fpage>1157</fpage>–<lpage>1172</lpage>.<pub-id pub-id-type="pmid">35176758</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/eurheartj/ehac031</pub-id><pub-id pub-id-type="pmcid">PMC8903393</pub-id></mixed-citation></ref><ref id="joa370278-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="joa370278-cit-0011">
+<string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Debski</surname>
+</string-name>, <string-name name-style="western">
+<given-names>V.</given-names>
+<surname>Tsampasian</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Haney</surname>
+</string-name>, et al., “<article-title>Post‐COVID‐19 Syndrome Risk Factors and Further Use of Health Services in East England</article-title>,” <source>PLOS Global Public Health</source>
+<volume>2</volume>, no. <issue>11</issue> (<year>2022</year>): <elocation-id>e0001188</elocation-id>.<pub-id pub-id-type="pmid">36962824</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1371/journal.pgph.0001188</pub-id><pub-id pub-id-type="pmcid">PMC10022108</pub-id></mixed-citation></ref><ref id="joa370278-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="joa370278-cit-0012">
+<string-name name-style="western">
+<given-names>Q.</given-names>
+<surname>Han</surname>
+</string-name>, <string-name name-style="western">
+<given-names>B.</given-names>
+<surname>Zheng</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Daines</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Sheikh</surname>
+</string-name>, “<article-title>Long‐Term Sequelae of COVID‐19: A Systematic Review and Meta‐Analysis of One‐Year Follow‐Up Studies on Post‐COVID Symptoms</article-title>,” <source>Pathogens</source>
+<volume>11</volume>, no. <issue>2</issue> (<year>2022</year>): <elocation-id>269</elocation-id>.<pub-id pub-id-type="pmid">35215212</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3390/pathogens11020269</pub-id><pub-id pub-id-type="pmcid">PMC8875269</pub-id></mixed-citation></ref><ref id="joa370278-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="joa370278-cit-0013">
+<string-name name-style="western">
+<given-names>A. D.</given-names>
+<surname>Proal</surname>
+</string-name> and <string-name name-style="western">
+<given-names>M. B.</given-names>
+<surname>VanElzakker</surname>
+</string-name>, “<article-title>Long COVID or Post‐Acute Sequelae of COVID‐19 (PASC): An Overview of Biological Factors That May Contribute to Persistent Symptoms</article-title>,” <source>Frontiers in Microbiology</source>
+<volume>12</volume> (<year>2021</year>): <elocation-id>1494</elocation-id>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.3389/fmicb.2021.698169</pub-id><pub-id pub-id-type="pmcid">PMC8260991</pub-id><pub-id pub-id-type="pmid">34248921</pub-id></mixed-citation></ref><ref id="joa370278-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="joa370278-cit-0014">
+<string-name name-style="western">
+<given-names>J. D.</given-names>
+<surname>Pierce</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Q.</given-names>
+<surname>Shen</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S. A.</given-names>
+<surname>Cintron</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>J. B.</given-names>
+<surname>Hiebert</surname>
+</string-name>, “<article-title>Post‐COVID‐19 Syndrome</article-title>,” <source>Nursing Research</source>
+<volume>71</volume>, no. <issue>2</issue> (<year>2022</year>): <fpage>164</fpage>–<lpage>174</lpage>.<pub-id pub-id-type="pmid">34653099</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1097/NNR.0000000000000565</pub-id></mixed-citation></ref><ref id="joa370278-bib-0015"><label>15</label><mixed-citation publication-type="journal" id="joa370278-cit-0015">
+<string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Bellia</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Andreadi</surname>
+</string-name>, <string-name name-style="western">
+<given-names>I.</given-names>
+<surname>D'Ippolito</surname>
+</string-name>, et al., “<article-title>Prevalence and Risk of New‐Onset Diabetes Mellitus After COVID‐19: A Systematic Review and Meta‐Analysis</article-title>,” <source>Frontiers in Endocrinology</source>
+<volume>14</volume> (<year>2023</year>): <elocation-id>1215879</elocation-id>.<pub-id pub-id-type="pmid">37732118</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3389/fendo.2023.1215879</pub-id><pub-id pub-id-type="pmcid">PMC10507325</pub-id></mixed-citation></ref><ref id="joa370278-bib-0016"><label>16</label><mixed-citation publication-type="journal" id="joa370278-cit-0016">
+<string-name name-style="western">
+<given-names>V.</given-names>
+<surname>Rai</surname>
+</string-name>, “<article-title>COVID‐19 and Kidney: The Importance of Follow‐Up and Long‐Term Screening</article-title>,” <source>Life</source>
+<volume>13</volume>, no. <issue>11</issue> (<year>2023</year>): <elocation-id>2137</elocation-id>.<pub-id pub-id-type="pmid">38004277</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3390/life13112137</pub-id><pub-id pub-id-type="pmcid">PMC10672056</pub-id></mixed-citation></ref><ref id="joa370278-bib-0017"><label>17</label><mixed-citation publication-type="journal" id="joa370278-cit-0017">
+<string-name name-style="western">
+<given-names>A. L.</given-names>
+<surname>Oaklander</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A. J.</given-names>
+<surname>Mills</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Kelley</surname>
+</string-name>, et al., “<article-title>Peripheral Neuropathy Evaluations of Patients With Prolonged Long COVID</article-title>,” <source>Neurology Neuroimmunology &amp; Neuroinflammation</source>
+<volume>9</volume>, no. <issue>3</issue> (<year>2022</year>): <elocation-id>e1146</elocation-id>.<pub-id pub-id-type="pmid">35232750</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1212/NXI.0000000000001146</pub-id><pub-id pub-id-type="pmcid">PMC8889896</pub-id></mixed-citation></ref><ref id="joa370278-bib-0018"><label>18</label><mixed-citation publication-type="journal" id="joa370278-cit-0018">
+<string-name name-style="western">
+<given-names>D. S.</given-names>
+<surname>Saif</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R. A.</given-names>
+<surname>Ibrahem</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>M. A.</given-names>
+<surname>Eltabl</surname>
+</string-name>, “<article-title>Prevalence of Peripheral Neuropathy and Myopathy in Patients Post‐COVID‐19 Infection</article-title>,” <source>International Journal of Rheumatic Diseases</source>
+<volume>25</volume>, no. <issue>11</issue> (<year>2022</year>): <fpage>1246</fpage>–<lpage>1253</lpage>.<pub-id pub-id-type="pmid">35915515</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/1756-185X.14409</pub-id><pub-id pub-id-type="pmcid">PMC9538868</pub-id></mixed-citation></ref><ref id="joa370278-bib-0019"><label>19</label><mixed-citation publication-type="journal" id="joa370278-cit-0019">
+<string-name name-style="western">
+<given-names>T. J.</given-names>
+<surname>Gluckman</surname>
+</string-name>, <string-name name-style="western">
+<given-names>N. M.</given-names>
+<surname>Bhave</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L. A.</given-names>
+<surname>Allen</surname>
+</string-name>, et al., “<article-title>2022 ACC Expert Consensus Decision Pathway on Cardiovascular Sequelae of COVID‐19 in Adults: Myocarditis and Other Myocardial Involvement, Post‐Acute Sequelae of SARS‐CoV‐2 Infection, and Return to Play: A Report of the American College of Cardiology Solution Set Oversight Committee</article-title>,” <source>Journal of the American College of Cardiology</source>
+<volume>79</volume>, no. <issue>17</issue> (<year>2022</year>): <fpage>1717</fpage>–<lpage>1756</lpage>.<pub-id pub-id-type="pmid">35307156</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.jacc.2022.02.003</pub-id><pub-id pub-id-type="pmcid">PMC8926109</pub-id></mixed-citation></ref><ref id="joa370278-bib-0020"><label>20</label><mixed-citation publication-type="journal" id="joa370278-cit-0020">
+<string-name name-style="western">
+<given-names>M. J.</given-names>
+<surname>Page</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J. E.</given-names>
+<surname>McKenzie</surname>
+</string-name>, <string-name name-style="western">
+<given-names>P. M.</given-names>
+<surname>Bossuyt</surname>
+</string-name>, et al., “<article-title>The PRISMA 2020 Statement: An Updated Guideline for Reporting Systematic Reviews</article-title>,” <source>BMJ</source>
+<volume>372</volume> (<year>2021</year>): <elocation-id>n71</elocation-id>.<pub-id pub-id-type="pmid">33782057</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1136/bmj.n71</pub-id><pub-id pub-id-type="pmcid">PMC8005924</pub-id></mixed-citation></ref><ref id="joa370278-bib-0021"><label>21</label><mixed-citation publication-type="miscellaneous" id="joa370278-cit-0021">
+<collab collab-type="authors">Institute JB</collab>
+, <article-title>“Checklist for Cohort Studies 2020,”</article-title> (<year>2020</year>), <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://jbi.global/critical-appraisal-tools" ext-link-type="uri">https://jbi.global/critical‐appraisal‐tools</ext-link>.</mixed-citation></ref><ref id="joa370278-bib-0022"><label>22</label><mixed-citation publication-type="journal" id="joa370278-cit-0022">
+<string-name name-style="western">
+<given-names>I. C. H.</given-names>
+<surname>Lam</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C. K. H.</given-names>
+<surname>Wong</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Zhang</surname>
+</string-name>, et al., “<article-title>Long‐Term Post‐Acute Sequelae of COVID‐19 Infection: A Retrospective, Multi‐Database Cohort Study in Hong Kong and the UK</article-title>,” <source>EClinicalMedicine</source>
+<volume>60</volume> (<year>2023</year>): <fpage>1</fpage>–<lpage>10</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.eclinm.2023.102000</pub-id><pub-id pub-id-type="pmcid">PMC10173760</pub-id><pub-id pub-id-type="pmid">37197226</pub-id></mixed-citation></ref><ref id="joa370278-bib-0023"><label>23</label><mixed-citation publication-type="journal" id="joa370278-cit-0023">
+<string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Ojeda‐Fernández</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Baviera</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Foresta</surname>
+</string-name>, et al., “<article-title>Impact of First and Second/Third Wave of COVID‐19 Pandemic on Post‐Acute Cardiovascular Outcomes in Lombardy</article-title>,” <source>Frontiers in Cardiovascular Medicine</source>
+<volume>10</volume> (<year>2023</year>): <elocation-id>1244002</elocation-id>.<pub-id pub-id-type="pmid">37781303</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3389/fcvm.2023.1244002</pub-id><pub-id pub-id-type="pmcid">PMC10536134</pub-id></mixed-citation></ref><ref id="joa370278-bib-0024"><label>24</label><mixed-citation publication-type="journal" id="joa370278-cit-0024">
+<string-name name-style="western">
+<given-names>S. E.</given-names>
+<surname>Daugherty</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Guo</surname>
+</string-name>, <string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Heath</surname>
+</string-name>, et al., “<article-title>Risk of Clinical Sequelae After the Acute Phase of SARS‐CoV‐2 Infection: Retrospective Cohort Study</article-title>,” <source>BMJ</source>
+<volume>373</volume> (<year>2021</year>): <elocation-id>n1098</elocation-id>.<pub-id pub-id-type="pmid">34011492</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1136/bmj.n1098</pub-id><pub-id pub-id-type="pmcid">PMC8132065</pub-id></mixed-citation></ref><ref id="joa370278-bib-0025"><label>25</label><mixed-citation publication-type="journal" id="joa370278-cit-0025">
+<string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Mabila</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Patel</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Fan</surname>
+</string-name>, et al., “<article-title>Post‐Acute Sequalae of COVID‐19 and Cardiac Outcomes in US Military Members</article-title>,” <source>International Journal of Cardiology Cardiovascular Risk and Prevention</source>
+<volume>17</volume> (<year>2023</year>): <elocation-id>200183</elocation-id>.<pub-id pub-id-type="pmid">36936859</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.ijcrp.2023.200183</pub-id><pub-id pub-id-type="pmcid">PMC10014478</pub-id></mixed-citation></ref><ref id="joa370278-bib-0026"><label>26</label><mixed-citation publication-type="journal" id="joa370278-cit-0026">
+<string-name name-style="western">
+<given-names>W.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C.‐Y.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.‐I.</given-names>
+<surname>Wang</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>J. C.‐C.</given-names>
+<surname>Wei</surname>
+</string-name>, “<article-title>Long‐Term Cardiovascular Outcomes in COVID‐19 Survivors Among Non‐Vaccinated Population: A Retrospective Cohort Study From the TriNetX US Collaborative Networks</article-title>,” <source>EClinicalMedicine</source>
+<volume>53</volume> (<year>2022</year>): <fpage>1</fpage>–<lpage>11</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.eclinm.2022.101619</pub-id><pub-id pub-id-type="pmcid">PMC9366236</pub-id><pub-id pub-id-type="pmid">35971425</pub-id></mixed-citation></ref><ref id="joa370278-bib-0027"><label>27</label><mixed-citation publication-type="journal" id="joa370278-cit-0027">
+<string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Xie</surname>
+</string-name>, <string-name name-style="western">
+<given-names>E.</given-names>
+<surname>Xu</surname>
+</string-name>, <string-name name-style="western">
+<given-names>B.</given-names>
+<surname>Bowe</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>Z.</given-names>
+<surname>Al‐Aly</surname>
+</string-name>, “<article-title>Long‐Term Cardiovascular Outcomes of COVID‐19</article-title>,” <source>Nature Medicine</source>
+<volume>28</volume>, no. <issue>3</issue> (<year>2022</year>): <fpage>583</fpage>–<lpage>590</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41591-022-01689-3</pub-id><pub-id pub-id-type="pmcid">PMC8938267</pub-id><pub-id pub-id-type="pmid">35132265</pub-id></mixed-citation></ref><ref id="joa370278-bib-0028"><label>28</label><mixed-citation publication-type="journal" id="joa370278-cit-0028">
+<string-name name-style="western">
+<given-names>E.</given-names>
+<surname>Rezel‐Potts</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Douiri</surname>
+</string-name>, <string-name name-style="western">
+<given-names>X.</given-names>
+<surname>Sun</surname>
+</string-name>, <string-name name-style="western">
+<given-names>P. J.</given-names>
+<surname>Chowienczyk</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A. M.</given-names>
+<surname>Shah</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>M. C.</given-names>
+<surname>Gulliford</surname>
+</string-name>, “<article-title>Cardiometabolic Outcomes up to 12 Months After COVID‐19 Infection. A Matched Cohort Study in the UK</article-title>,” <source>PLoS Medicine</source>
+<volume>19</volume>, no. <issue>7</issue> (<year>2022</year>): <elocation-id>e1004052</elocation-id>.<pub-id pub-id-type="pmid">35853019</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1371/journal.pmed.1004052</pub-id><pub-id pub-id-type="pmcid">PMC9295991</pub-id></mixed-citation></ref><ref id="joa370278-bib-0029"><label>29</label><mixed-citation publication-type="journal" id="joa370278-cit-0029">
+<string-name name-style="western">
+<given-names>E. Y. F.</given-names>
+<surname>Wan</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Mathur</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Zhang</surname>
+</string-name>, et al., “<article-title>Association of COVID‐19 With Short‐ and Long‐Term Risk of Cardiovascular Disease and Mortality: A Prospective Cohort in UK Biobank</article-title>,” <source>Cardiovascular Research</source>
+<volume>119</volume>, no. <issue>8</issue> (<year>2023</year>): <fpage>1718</fpage>–<lpage>1727</lpage>.<pub-id pub-id-type="pmid">36652991</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/cvr/cvac195</pub-id></mixed-citation></ref><ref id="joa370278-bib-0030"><label>30</label><mixed-citation publication-type="journal" id="joa370278-cit-0030">
+<string-name name-style="western">
+<given-names>J. T.</given-names>
+<surname>Lim</surname>
+</string-name>, <string-name name-style="western">
+<given-names>W.</given-names>
+<surname>Liang En</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A. T.</given-names>
+<surname>Tay</surname>
+</string-name>, et al., “<article-title>Long‐Term Cardiovascular, Cerebrovascular, and Other Thrombotic Complications in COVID‐19 Survivors: A Retrospective Cohort Study</article-title>,” <source>Clinical Infectious Diseases</source>
+<volume>78</volume>, no. <issue>1</issue> (<year>2024</year>): <fpage>70</fpage>–<lpage>79</lpage>.<pub-id pub-id-type="pmid">37746872</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/cid/ciad469</pub-id><pub-id pub-id-type="pmcid">PMC10810710</pub-id></mixed-citation></ref><ref id="joa370278-bib-0031"><label>31</label><mixed-citation publication-type="journal" id="joa370278-cit-0031">
+<string-name name-style="western">
+<given-names>L. E.</given-names>
+<surname>Wee</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J. T.</given-names>
+<surname>Lim</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A. T.</given-names>
+<surname>Tay</surname>
+</string-name>, et al., “<article-title>Long‐Term Cardiovascular, Cerebrovascular, and Thrombotic Complications After SARS‐CoV‐2‐Omicron Infection: A Retrospective Cohort Study</article-title>,” <source>Clinical Microbiology and Infection</source>
+<volume>30</volume>, no. <issue>10</issue> (<year>2024</year>): <fpage>1319</fpage>–<lpage>1326</lpage>.<pub-id pub-id-type="pmid">38908748</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.cmi.2024.06.011</pub-id></mixed-citation></ref><ref id="joa370278-bib-0032"><label>32</label><mixed-citation publication-type="journal" id="joa370278-cit-0032">
+<string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Ortega‐Paz</surname>
+</string-name>, <string-name name-style="western">
+<given-names>V.</given-names>
+<surname>Arévalos</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Fernández‐Rodríguez</surname>
+</string-name>, et al., “<article-title>One‐Year Cardiovascular Outcomes After Coronavirus Disease 2019: The Cardiovascular COVID‐19 Registry</article-title>,” <source>PLoS One</source>
+<volume>17</volume>, no. <issue>12</issue> (<year>2022</year>): <elocation-id>e0279333</elocation-id>.<pub-id pub-id-type="pmid">36583998</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1371/journal.pone.0279333</pub-id><pub-id pub-id-type="pmcid">PMC9803130</pub-id></mixed-citation></ref><ref id="joa370278-bib-0033"><label>33</label><mixed-citation publication-type="journal" id="joa370278-cit-0033">
+<string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Tintore</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Cuartero</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Camps‐Vilaró</surname>
+</string-name>, et al., “<article-title>Increased Risk of Arrhythmias, Heart Failure, and Thrombosis in SARS‐CoV‐2 Positive Individuals Persists at One Year Post‐Infection</article-title>,” <source>Computational and Structural Biotechnology Journal</source>
+<volume>24</volume> (<year>2024</year>): <fpage>476</fpage>.<pub-id pub-id-type="pmid">39050244</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.csbj.2024.06.024</pub-id><pub-id pub-id-type="pmcid">PMC11266869</pub-id></mixed-citation></ref><ref id="joa370278-bib-0034"><label>34</label><mixed-citation publication-type="book" id="joa370278-cit-0034">
+<collab collab-type="authors">Organization WH</collab>
+, <source>International Statistical Classification of Diseases and Related Health Problems</source>, <edition designator="11">11th ed.</edition> Geneva: World Health Organization (<year>2024</year>).</mixed-citation></ref><ref id="joa370278-bib-0035"><label>35</label><mixed-citation publication-type="journal" id="joa370278-cit-0035">
+<string-name name-style="western">
+<given-names>G. F.</given-names>
+<surname>Romiti</surname>
+</string-name>, <string-name name-style="western">
+<given-names>B.</given-names>
+<surname>Corica</surname>
+</string-name>, <string-name name-style="western">
+<given-names>G. Y.</given-names>
+<surname>Lip</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Proietti</surname>
+</string-name>, “<article-title>Prevalence and Impact of Atrial Fibrillation in Hospitalized Patients With COVID‐19: A Systematic Review and Meta‐Analysis</article-title>,” <source>Journal of Clinical Medicine</source>
+<volume>10</volume>, no. <issue>11</issue> (<year>2021</year>): <elocation-id>2490</elocation-id>.<pub-id pub-id-type="pmid">34199857</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3390/jcm10112490</pub-id><pub-id pub-id-type="pmcid">PMC8200114</pub-id></mixed-citation></ref><ref id="joa370278-bib-0036"><label>36</label><mixed-citation publication-type="journal" id="joa370278-cit-0036">
+<string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Zuin</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Ojeda‐Fernández</surname>
+</string-name>, <string-name name-style="western">
+<given-names>G.</given-names>
+<surname>Torrigiani</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Bertini</surname>
+</string-name>, “<article-title>Risk of Incident Atrial Fibrillation After COVID‐19 Infection: A Systematic Review and Meta‐Analysis</article-title>,” <source>Heart Rhythm</source>
+<volume>21</volume> (<year>2024</year>): <fpage>1613</fpage>–<lpage>1620</lpage>.<pub-id pub-id-type="pmid">38636931</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.hrthm.2024.04.064</pub-id></mixed-citation></ref><ref id="joa370278-bib-0037"><label>37</label><mixed-citation publication-type="journal" id="joa370278-cit-0037">
+<string-name name-style="western">
+<given-names>B.</given-names>
+<surname>Rosh</surname>
+</string-name>, <string-name name-style="western">
+<given-names>I.</given-names>
+<surname>Naoum</surname>
+</string-name>, <string-name name-style="western">
+<given-names>O.</given-names>
+<surname>Barnett‐Griness</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Najjar‐Debbiny</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>W.</given-names>
+<surname>Saliba</surname>
+</string-name>, “<article-title>Association Between SARS‐CoV‐2 Infection and New‐Onset Atrial Fibrillation</article-title>,” <source>International Journal of Cardiology</source>
+<volume>392</volume> (<year>2023</year>): <elocation-id>131298</elocation-id>.<pub-id pub-id-type="pmid">37652274</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.ijcard.2023.131298</pub-id></mixed-citation></ref><ref id="joa370278-bib-0038"><label>38</label><mixed-citation publication-type="journal" id="joa370278-cit-0038">
+<string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Aranyó</surname>
+</string-name>, <string-name name-style="western">
+<given-names>V.</given-names>
+<surname>Bazan</surname>
+</string-name>, <string-name name-style="western">
+<given-names>G.</given-names>
+<surname>Lladós</surname>
+</string-name>, et al., “<article-title>Inappropriate Sinus Tachycardia in Post‐COVID‐19 Syndrome</article-title>,” <source>Scientific Reports</source>
+<volume>12</volume>, no. <issue>1</issue> (<year>2022</year>): <fpage>298</fpage>.<pub-id pub-id-type="pmid">34996973</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41598-021-03831-6</pub-id><pub-id pub-id-type="pmcid">PMC8741896</pub-id></mixed-citation></ref><ref id="joa370278-bib-0039"><label>39</label><mixed-citation publication-type="journal" id="joa370278-cit-0039">
+<string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Arano Llach</surname>
+</string-name>, <string-name name-style="western">
+<given-names>V.</given-names>
+<surname>Victor Bazan</surname>
+</string-name>, <string-name name-style="western">
+<given-names>G.</given-names>
+<surname>Gemma Llados</surname>
+</string-name>, et al., “<article-title>Inappropriate Sinus Tachycardia in Post‐Covid‐19 Syndrome</article-title>,” <source>EP Europace</source>
+<volume>23</volume> (<year>2021</year>): <fpage>23</fpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41598-021-03831-6</pub-id><pub-id pub-id-type="pmcid">PMC8741896</pub-id><pub-id pub-id-type="pmid">34996973</pub-id></mixed-citation></ref><ref id="joa370278-bib-0040"><label>40</label><mixed-citation publication-type="journal" id="joa370278-cit-0040">
+<string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Umeh</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Giberson</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Kumar</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Aseri</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>P.</given-names>
+<surname>Barve</surname>
+</string-name>, “<article-title>A Multicenter Retrospective Analysis on the Etiology of Bradycardia in COVID‐19 Patients</article-title>,” <source>Cureus</source>
+<volume>14</volume>, no. <issue>1</issue> (<year>2022</year>): <fpage>1</fpage>–<lpage>8</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.7759/cureus.21294</pub-id><pub-id pub-id-type="pmcid">PMC8846448</pub-id><pub-id pub-id-type="pmid">35186556</pub-id></mixed-citation></ref><ref id="joa370278-bib-0041"><label>41</label><mixed-citation publication-type="journal" id="joa370278-cit-0041">
+<string-name name-style="western">
+<given-names>F.</given-names>
+<surname>Stancampiano</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Omer</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Harris</surname>
+</string-name>, et al., “<article-title>Clinical Characteristics and Outcomes of Patients Hospitalized for COVID‐19 Pneumonia Who Developed Bradycardia</article-title>,” <source>Southern Medical Journal</source>
+<volume>114</volume>, no. <issue>7</issue> (<year>2021</year>): <fpage>432</fpage>–<lpage>437</lpage>.<pub-id pub-id-type="pmid">34215897</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.14423/SMJ.0000000000001269</pub-id><pub-id pub-id-type="pmcid">PMC8231014</pub-id></mixed-citation></ref><ref id="joa370278-bib-0042"><label>42</label><mixed-citation publication-type="journal" id="joa370278-cit-0042">
+<string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Zhou</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C.‐K.</given-names>
+<surname>Wong</surname>
+</string-name>, <string-name name-style="western">
+<given-names>K.‐C.</given-names>
+<surname>Un</surname>
+</string-name>, et al., “<article-title>Cardiovascular Sequalae in Uncomplicated COVID‐19 Survivors</article-title>,” <source>PLoS One</source>
+<volume>16</volume>, no. <issue>2</issue> (<year>2021</year>): <elocation-id>e0246732</elocation-id>.<pub-id pub-id-type="pmid">33571321</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1371/journal.pone.0246732</pub-id><pub-id pub-id-type="pmcid">PMC7877588</pub-id></mixed-citation></ref><ref id="joa370278-bib-0043"><label>43</label><mixed-citation publication-type="journal" id="joa370278-cit-0043">
+<string-name name-style="western">
+<given-names>F.</given-names>
+<surname>Afroze</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S. M.</given-names>
+<surname>Arafat</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C. M.</given-names>
+<surname>Ahmed</surname>
+</string-name>, et al., “<article-title>Features and Risk Factors of Post‐COVID‐19 Syndrome: Findings From a Longitudinal Study in Bangladesh</article-title>,” <source>Lancet Regional Health‐Southeast Asia</source>
+<volume>11</volume> (<year>2023</year>): <elocation-id>100134</elocation-id>.<pub-id pub-id-type="pmid">36575774</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.lansea.2022.100134</pub-id><pub-id pub-id-type="pmcid">PMC9780633</pub-id></mixed-citation></ref><ref id="joa370278-bib-0044"><label>44</label><mixed-citation publication-type="journal" id="joa370278-cit-0044">
+<string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Gopinathannair</surname>
+</string-name>, <string-name name-style="western">
+<given-names>B.</given-names>
+<surname>Olshansky</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M. K.</given-names>
+<surname>Chung</surname>
+</string-name>, et al., “<article-title>Cardiac Arrhythmias and Autonomic Dysfunction Associated With COVID‐19: A Scientific Statement From the American Heart Association</article-title>,” <source>Circulation</source>
+<volume>150</volume>, no. <issue>21</issue> (<year>2024</year>): <fpage>e449</fpage>–<lpage>e465</lpage>.<pub-id pub-id-type="pmid">39397661</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1161/CIR.0000000000001290</pub-id><pub-id pub-id-type="pmcid">PMC11734731</pub-id></mixed-citation></ref><ref id="joa370278-bib-0045"><label>45</label><mixed-citation publication-type="journal" id="joa370278-cit-0045">
+<string-name name-style="western">
+<given-names>H.‐W.</given-names>
+<surname>Suh</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C.‐Y.</given-names>
+<surname>Kwon</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>B.</given-names>
+<surname>Lee</surname>
+</string-name>, “<article-title>Long‐Term Impact of COVID‐19 on Heart Rate Variability: A Systematic Review of Observational Studies</article-title>,” <source>Health</source>
+<volume>11</volume>, no. <issue>8</issue> (<year>2023</year>): <elocation-id>1095</elocation-id>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.3390/healthcare11081095</pub-id><pub-id pub-id-type="pmcid">PMC10137929</pub-id><pub-id pub-id-type="pmid">37107929</pub-id></mixed-citation></ref><ref id="joa370278-bib-0046"><label>46</label><mixed-citation publication-type="journal" id="joa370278-cit-0046">
+<string-name name-style="western">
+<given-names>Z.</given-names>
+<surname>Tan</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Huang</surname>
+</string-name>, <string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Mei</surname>
+</string-name>, et al., “<article-title>The Prevalence and Associated Death of Ventricular Arrhythmia and Sudden Cardiac Death in Hospitalized Patients With COVID‐19: A Systematic Review and Meta‐Analysis</article-title>,” <source>Frontiers in Cardiovascular Medicine</source>
+<volume>8</volume> (<year>2022</year>): <fpage>8</fpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.3389/fcvm.2021.795750</pub-id><pub-id pub-id-type="pmcid">PMC8814312</pub-id><pub-id pub-id-type="pmid">35127861</pub-id></mixed-citation></ref><ref id="joa370278-bib-0047"><label>47</label><mixed-citation publication-type="journal" id="joa370278-cit-0047">
+<string-name name-style="western">
+<given-names>C. B.</given-names>
+<surname>Ingul</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Grimsmo</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Mecinaj</surname>
+</string-name>, et al., “<article-title>Cardiac Dysfunction and Arrhythmias 3 Months After Hospitalization for COVID‐19</article-title>,” <source>Journal of the American Heart Association</source>
+<volume>11</volume>, no. <issue>3</issue> (<year>2022</year>): <elocation-id>e023473</elocation-id>.<pub-id pub-id-type="pmid">35048715</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1161/JAHA.121.023473</pub-id><pub-id pub-id-type="pmcid">PMC9238505</pub-id></mixed-citation></ref><ref id="joa370278-bib-0048"><label>48</label><mixed-citation publication-type="journal" id="joa370278-cit-0048">
+<string-name name-style="western">
+<given-names>C. I.</given-names>
+<surname>Rosca</surname>
+</string-name>, <string-name name-style="western">
+<given-names>H. S.</given-names>
+<surname>Branea</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Sharma</surname>
+</string-name>, et al., “<article-title>Rhythm Disturbances in Post‐Acute COVID‐19 Syndrome in Young Men Without Pre‐Existing Known Cardiovascular Disease—A Case Series</article-title>,” <source>Biomedicine</source>
+<volume>11</volume>, no. <issue>4</issue> (<year>2023</year>): <elocation-id>1146</elocation-id>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.3390/biomedicines11041146</pub-id><pub-id pub-id-type="pmcid">PMC10136152</pub-id><pub-id pub-id-type="pmid">37189764</pub-id></mixed-citation></ref><ref id="joa370278-bib-0049"><label>49</label><mixed-citation publication-type="journal" id="joa370278-cit-0049">
+<string-name name-style="western">
+<given-names>A. H.</given-names>
+<surname>El Hajjar</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M. C.</given-names>
+<surname>El Helou</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Bayat</surname>
+</string-name>, et al., “<article-title>Ventricular Tachycardia as a Late Complication of COVID‐19 in a Young Patient With No History of Cardiovascular Disease</article-title>,” <source>CJC Open</source>
+<volume>6</volume>, no. <issue>5</issue> (<year>2024</year>): <fpage>721</fpage>–<lpage>724</lpage>.<pub-id pub-id-type="pmid">38846438</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.cjco.2024.01.010</pub-id><pub-id pub-id-type="pmcid">PMC11150940</pub-id></mixed-citation></ref><ref id="joa370278-bib-0050"><label>50</label><mixed-citation publication-type="journal" id="joa370278-cit-0050">
+<string-name name-style="western">
+<given-names>R. M.</given-names>
+<surname>Hamdy</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Samy</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>H. S.</given-names>
+<surname>Mohamed</surname>
+</string-name>, “<article-title>Clinical Utility of Ambulatory ECG Monitoring and 2D‐Ventricular Strain for Evaluation of Post‐COVID‐19 Ventricular Arrhythmia</article-title>,” <source>BMC Cardiovascular Disorders</source>
+<volume>24</volume>, no. <issue>1</issue> (<year>2024</year>): <elocation-id>429</elocation-id>.<pub-id pub-id-type="pmid">39148011</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1186/s12872-024-03982-0</pub-id><pub-id pub-id-type="pmcid">PMC11328462</pub-id></mixed-citation></ref><ref id="joa370278-bib-0051"><label>51</label><mixed-citation publication-type="journal" id="joa370278-cit-0051">
+<string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Augustin</surname>
+</string-name>, <string-name name-style="western">
+<given-names>P.</given-names>
+<surname>Schommers</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Stecher</surname>
+</string-name>, et al., “<article-title>Post‐COVID Syndrome in Non‐Hospitalised Patients With COVID‐19: A Longitudinal Prospective Cohort Study</article-title>,” <source>Lancet Regional Health</source>
+<volume>6</volume> (<year>2021</year>): <fpage>1</fpage>–<lpage>8</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.lanepe.2021.100122</pub-id><pub-id pub-id-type="pmcid">PMC8129613</pub-id><pub-id pub-id-type="pmid">34027514</pub-id></mixed-citation></ref><ref id="joa370278-bib-0052"><label>52</label><mixed-citation publication-type="journal" id="joa370278-cit-0052">
+<string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Fernández‐de‐las‐Peñas</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Palacios‐Ceña</surname>
+</string-name>, <string-name name-style="western">
+<given-names>V.</given-names>
+<surname>Gómez‐Mayordomo</surname>
+</string-name>, et al., “<article-title>Prevalence of Post‐COVID‐19 Symptoms in Hospitalized and Non‐Hospitalized COVID‐19 Survivors: A Systematic Review and Meta‐Analysis</article-title>,” <source>European Journal of Internal Medicine</source>
+<volume>92</volume> (<year>2021</year>): <fpage>55</fpage>–<lpage>70</lpage>.<pub-id pub-id-type="pmid">34167876</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.ejim.2021.06.009</pub-id><pub-id pub-id-type="pmcid">PMC8206636</pub-id></mixed-citation></ref><ref id="joa370278-bib-0053"><label>53</label><mixed-citation publication-type="journal" id="joa370278-cit-0053">
+<string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Fernández‐de‐las‐Peñas</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Rodríguez‐Jiménez</surname>
+</string-name>, <string-name name-style="western">
+<given-names>I.</given-names>
+<surname>Cancela‐Cilleruelo</surname>
+</string-name>, et al., “<article-title>Post–COVID‐19 Symptoms 2 Years After SARS‐CoV‐2 Infection Among Hospitalized vs Nonhospitalized Patients</article-title>,” <source>JAMA Network Open</source>
+<volume>5</volume>, no. <issue>11</issue> (<year>2022</year>): <elocation-id>e2242106</elocation-id>.<pub-id pub-id-type="pmid">36378309</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1001/jamanetworkopen.2022.42106</pub-id><pub-id pub-id-type="pmcid">PMC9667330</pub-id></mixed-citation></ref><ref id="joa370278-bib-0054"><label>54</label><mixed-citation publication-type="journal" id="joa370278-cit-0054">
+<string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Peghin</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Palese</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Venturini</surname>
+</string-name>, et al., “<article-title>Post‐COVID‐19 Symptoms 6 Months After Acute Infection Among Hospitalized and Non‐Hospitalized Patients</article-title>,” <source>Clinical Microbiology and Infection</source>
+<volume>27</volume>, no. <issue>10</issue> (<year>2021</year>): <fpage>1507</fpage>–<lpage>1513</lpage>.<pub-id pub-id-type="pmid">34111579</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.cmi.2021.05.033</pub-id><pub-id pub-id-type="pmcid">PMC8180450</pub-id></mixed-citation></ref><ref id="joa370278-bib-0055"><label>55</label><mixed-citation publication-type="journal" id="joa370278-cit-0055">
+<string-name name-style="western">
+<given-names>T. L.</given-names>
+<surname>Wiemken</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L. J.</given-names>
+<surname>McGrath</surname>
+</string-name>, <string-name name-style="western">
+<given-names>K. M.</given-names>
+<surname>Andersen</surname>
+</string-name>, et al., “<article-title>Coronavirus Disease 2019 Severity and Risk of Subsequent Cardiovascular Events</article-title>,” <source>Clinical Infectious Diseases</source>
+<volume>76</volume>, no. <issue>3</issue> (<year>2023</year>): <fpage>e42</fpage>–<lpage>e50</lpage>.<pub-id pub-id-type="pmid">35984816</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/cid/ciac661</pub-id><pub-id pub-id-type="pmcid">PMC9907540</pub-id></mixed-citation></ref></ref-list></back></article></pmc-articleset>

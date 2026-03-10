@@ -1,0 +1,30 @@
+{
+  "pmcid": "PMC12585964",
+  "pmid": "41200182",
+  "doi": "10.3389/fimmu.2025.1689507",
+  "title": "Immune cell communication networks and memory CD8+ T cell signatures sustaining chronic inflammation in COVID-19 and Long COVID.",
+  "abstract": "BACKGROUND: COVID-19, including its post-acute sequelae (Long COVID), is increasingly recognized as involving persistent immune dysregulation and chronic inflammation. Severe and prolonged disease states are often accompanied by sustained cytokine release, immune cell exhaustion, and ongoing cell-cell communication that shapes the inflammatory milieu. Among immune subsets, CD8+ T cells play a central role in antiviral defense, yet the molecular mechanisms linking their dysfunction to prolonged inflammation remain incompletely understood.\nMETHODS: We analyzed 73,110 peripheral blood mononuclear cells (PBMCs) from individuals across four disease states (Healthy, Exposed, Infected, and Hospitalized) using single-cell RNA sequencing. Immune cell subsets were annotated, and T cell heterogeneity was profiled. Cytokine and inflammatory scores were calculated to assess immune activation. Differentially expressed genes (DEGs) underwent Gene Ontology (GO) and Kyoto Encyclopedia of Genes and Genomes (KEGG) enrichment analysis. Cell-cell communication was evaluated to map ligand-receptor networks. Additionally, nine machine learning models were trained on a bulk RNA-seq cohort, and the SHapley Additive exPlanations (SHAP) framework was applied to interpret key predictive genes.\nRESULTS: Progressive disease severity was associated with a decline in T cell proportions, enrichment of pro-inflammatory myeloid cells, and elevated cytokine expression, particularly IL-32. Memory CD8+ T cells showed increased exhaustion and inflammatory scores while maintaining a central position in MHC-I-mediated communication networks. Persistent activation of immune and metabolic pathways, including antigen presentation and oxidative phosphorylation, was observed in prolonged disease states. Seven genes (RPS26, RPS29, RPL36, RPL39, RPS28, RPS21, and CD3E) were identified as strong predictors of chronic immune dysregulation, with the XGBoost model achieving the highest AUC. SHAP analysis confirmed their contributions to disease classification.\nCONCLUSION: This study maps the immune landscape of COVID-19 and Long COVID at single-cell resolution, revealing that persistent immune cell communication, particularly involving memory CD8+ T cells, may sustain chronic inflammation beyond the acute phase. The identified molecular signatures offer potential biomarkers and therapeutic targets for mitigating post-viral inflammatory syndromes.",
+  "authors": [
+    "Hengrui Liu",
+    "Zewen Xu",
+    "Ilayda Karsidag",
+    "Panpan Wang",
+    "Jieling Weng"
+  ],
+  "journal": "Frontiers in immunology",
+  "pub_year": "2025",
+  "pub_month": "10",
+  "pub_day": "22",
+  "keywords": [
+    "COVID-19",
+    "SHAP model",
+    "chronicinflammation",
+    "immune cell communication",
+    "long covid",
+    "machine learning",
+    "single-cell RNA sequencing"
+  ],
+  "article_types": [
+    "Journal Article"
+  ]
+}

@@ -1,0 +1,572 @@
+<?xml version="1.0"  ?><!DOCTYPE pmc-articleset PUBLIC "-//NLM//DTD ARTICLE SET 2.0//EN" "https://dtd.nlm.nih.gov/ncbi/pmc/articleset/nlm-articleset-2.0.dtd"><pmc-articleset><article xml:lang="en" article-type="research-article" dtd-version="1.4"><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">Antimicrob Steward Healthc Epidemiol</journal-id><journal-id journal-id-type="iso-abbrev">Antimicrob Steward Healthc Epidemiol</journal-id><journal-id journal-id-type="pmc-domain-id">4266</journal-id><journal-id journal-id-type="pmc-domain">ashe</journal-id><journal-id journal-id-type="publisher-id">ASH</journal-id><journal-title-group><journal-title>Antimicrobial Stewardship &amp; Healthcare Epidemiology : ASHE</journal-title></journal-title-group><issn pub-type="epub">2732-494X</issn><publisher><publisher-name>Cambridge University Press</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC12345059</article-id><article-id pub-id-type="pmcid-ver">PMC12345059.1</article-id><article-id pub-id-type="pmcaid">12345059</article-id><article-id pub-id-type="pmcaiid">12345059</article-id><article-id pub-id-type="pmid">40808898</article-id><article-id pub-id-type="doi">10.1017/ash.2025.10094</article-id><article-id pub-id-type="publisher-id">S2732494X25100946</article-id><article-version article-version-type="pmc-version">1</article-version><article-categories><subj-group subj-group-type="heading"><subject>Original Article</subject></subj-group></article-categories><title-group><article-title>Factors influencing healthcare worker symptomatic respiratory infection and vaccine uptake during the post-COVID-19 pandemic period</article-title></title-group><contrib-group><contrib contrib-type="author" corresp="yes"><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-7089-0665</contrib-id><name name-style="western"><surname>Townsend</surname><given-names initials="L">Liam</given-names></name><degrees>PhD</degrees><xref rid="a1" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="a2" ref-type="aff">
+<sup>2</sup>
+</xref><xref rid="cor1" ref-type="corresp"/></contrib><contrib contrib-type="author"><name name-style="western"><surname>Domegan</surname><given-names initials="L">Lisa</given-names></name><degrees>PhD</degrees><xref rid="a3" ref-type="aff">
+<sup>3</sup>
+</xref></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0009-0005-8333-3429</contrib-id><name name-style="western"><surname>Wang</surname><given-names initials="W">Wenzhou</given-names></name><degrees>BSc</degrees><xref rid="a4" ref-type="aff">
+<sup>4</sup>
+</xref></contrib><contrib contrib-type="author"><name name-style="western"><surname>Quirke</surname><given-names initials="S">Siobhan</given-names></name><degrees>MB</degrees><xref rid="a1" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib contrib-type="author"><collab>PRECISE Steering Group</collab></contrib><contrib contrib-type="author"><name name-style="western"><surname>Bergin</surname><given-names initials="C">Colm</given-names></name><degrees>MD</degrees><xref rid="a1" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="a2" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0009-0004-0548-6430</contrib-id><name name-style="western"><surname>Fleming</surname><given-names initials="C">Catherine</given-names></name><degrees>MD</degrees><xref rid="a5" ref-type="aff">
+<sup>5</sup>
+</xref><xref rid="a6" ref-type="aff">
+<sup>6</sup>
+</xref></contrib></contrib-group><aff id="a1"><label>1</label>Department of Infectious Diseases, <institution>St James’s Hospital</institution>, <city>Dublin</city>, <country>Ireland</country></aff><aff id="a2"><label>2</label>Department of Clinical Medicine, <institution>Trinity College Dublin</institution>, <city>Dublin</city>, <country>Ireland</country></aff><aff id="a3"><label>3</label><institution>Health Protection Surveillance Centre Dublin</institution>, <city>Dublin</city>, <country>Ireland</country></aff><aff id="a4"><label>4</label><institution>Royal College of Surgeons Ireland</institution>, <city>Dublin</city>, <country>Ireland</country></aff><aff id="a5"><label>5</label>Department of Infectious Diseases, <institution>University Hospital Galway</institution>, <city>Galway</city>, <country>Ireland</country></aff><aff id="a6"><label>6</label>School of Medicine, <institution>University of Galway</institution>, <city>Galway</city>, <country>Ireland</country></aff><author-notes><corresp id="cor1"><bold>Corresponding author:</bold> Liam Townsend; Email: <email>townsenl@tcd.ie</email></corresp></author-notes><pub-date date-type="collection" publication-format="electronic" iso-8601-date="2025"><year>2025</year></pub-date><pub-date pub-type="epub"><day>13</day><month>8</month><year>2025</year></pub-date><volume>5</volume><issue seq="183">1</issue><issue-id pub-id-type="pmc-issue-id">478799</issue-id><elocation-id>e183</elocation-id><history><date date-type="received"><day>20</day><month>5</month><year>2025</year></date><date date-type="rev-recd"><day>25</day><month>6</month><year>2025</year></date><date date-type="accepted"><day>27</day><month>6</month><year>2025</year></date></history><pub-history><event event-type="pmc-release"><date><day>13</day><month>08</month><year>2025</year></date></event><event event-type="pmc-live"><date><day>13</day><month>08</month><year>2025</year></date></event><event event-type="pmc-last-change"><date iso-8601-date="2025-08-14 13:25:14.383"><day>14</day><month>08</month><year>2025</year></date></event></pub-history><permissions><copyright-statement>© The Author(s) 2025</copyright-statement><copyright-year>2025</copyright-year><copyright-holder>The Author(s)</copyright-holder><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>This is an Open Access article, distributed under the terms of the Creative Commons Attribution licence (<uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://creativecommons.org/licenses/by/4.0/">https://creativecommons.org/licenses/by/4.0/</uri>), which permits unrestricted re-use, distribution and reproduction, provided the original article is properly cited.</license-p></license></permissions><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pmc-pdf" xlink:href="S2732494X25100946a.pdf"/><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:title="pdf" xlink:href="S2732494X25100946a.pdf"/><abstract><sec id="as1"><title>Objective:</title><p>Investigate the factors associated with symptomatic respiratory infection and uptake of seasonal SARS-CoV-2 and influenza vaccine amongst healthcare workers (HCWs).</p></sec><sec id="as2"><title>Design:</title><p>Longitudinal prospective multi-center study.</p></sec><sec id="as3"><title>Setting:</title><p>Two tertiary healthcare centers in Ireland.</p></sec><sec id="as4"><title>Participants:</title><p>N = 893 self-selected HCWs across all disciplines.</p></sec><sec id="as5"><title>Methods:</title><p>Monthly self-reported questionnaires from September 2024 to February 2025 completed by all participants, providing infection symptoms, self-testing for COVID-19 and receipt of vaccination against SARS-CoV-2 or influenza in the preceding 30 days. Additional data collected included comorbidities, known diagnosis of Long COVID, demographic data, prior infection and vaccination status, and healthcare role. Multivariable logistic regression models assessed the factors associated with symptom development, self-testing, and vaccine uptake.</p></sec><sec id="as6"><title>Results:</title><p>Symptomatic respiratory illness was reported by n = 321 (36%) of participants during the study period, with a preexisting diagnosis of Long COVID associated with developing symptoms. Testing for COVID-19 was performed by 63% (n = 202) of symptomatic individuals, with a shorter duration since prior infection the only significant predictor of self-testing. Vaccine uptake was variable, with 37% receiving influenza and 22% receiving SARS-CoV-2 vaccination for that period. Older age and shorter interval since previous vaccine were associated with increased uptake of both vaccines, while men were more likely to be vaccinated against COVID-19.</p></sec><sec id="as7"><title>Conclusions:</title><p>In the postpandemic period, self-reported symptomatic respiratory infections remain common amongst HCWs. The legacy of the pandemic influences this, with a preexisting diagnosis of Long COVID associated with increased symptom burden, while low vaccination rates and understanding the factors associated with this present a challenge to ongoing risk mitigation.</p></sec></abstract><counts><fig-count count="2"/><table-count count="5"/><ref-count count="40"/><page-count count="8"/></counts><custom-meta-group><custom-meta><meta-name>pmc-status-qastatus</meta-name><meta-value>0</meta-value></custom-meta><custom-meta><meta-name>pmc-status-live</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-status-embargo</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-status-released</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-access</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-legally-suppressed</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-pdf</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-supplement</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-pdf-only</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-suppress-copyright</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-real-version</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-scanned-article</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-in-epmc</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-license-ref</meta-name><meta-value>CC BY</meta-value></custom-meta></custom-meta-group></article-meta></front><body><sec sec-type="intro" id="s1"><title>Introduction</title><p>The COVID-19 pandemic had a large impact on healthcare systems worldwide and disproportionately affected healthcare workers (HCWs). This lead to reconfiguration of normal workplace practices and the widespread use of personal protective equipment.<sup><xref rid="ref1" ref-type="bibr">1</xref>,<xref rid="ref2" ref-type="bibr">2</xref></sup> The impact on healthcare systems was compounded by HCW illness and associated workdays lost.<sup><xref rid="ref3" ref-type="bibr">3</xref></sup> As the pandemic evolved, the burden of acute COVID-19 on healthcare systems and HCWs lessened, and a gradual return to prepandemic workplace practices took place. HCWs still remain at increased risk of communicable infections, particularly viral upper respiratory tract infections.<sup><xref rid="ref4" ref-type="bibr">4</xref></sup> In addition to the risks these infections pose to the infected HCWs, there are also associated risks of nosocomial outbreaks amongst vulnerable patient groups.<sup><xref rid="ref5" ref-type="bibr">5</xref></sup></p><p>HCW respiratory illness has been mitigated by the availability of seasonal influenza vaccination and, more recently, COVID-19 booster vaccines. However, vaccine uptake amongst HCWs is highly variable, with reduced vaccine uptake seen in younger, female, and non-clinical HCWs.<sup><xref rid="ref6" ref-type="bibr">6</xref>,<xref rid="ref7" ref-type="bibr">7</xref></sup> This is particularly relevant for COVID-19 booster vaccination, as public perception toward COVID-19 vaccination has evolved over the course of the pandemic and vaccine hesitancy is a growing issue.<sup><xref rid="ref8" ref-type="bibr">8</xref></sup> In this postpandemic period, healthcare systems continue to be challenged by circulating viral infections on a seasonal basis. The Prevalence of Antibodies to SARS-CoV-2 and other Viral Infections in Irish HCWs (PRECISE Plus) study is a multicentre longitudinal study of viral respiratory tract infections, vaccine uptake and immune responses in HCWs.<sup><xref rid="ref9" ref-type="bibr">9</xref>–<xref rid="ref11" ref-type="bibr">11</xref></sup> We utilized this cohort to evaluate the frequency and predictors of symptomatic upper respiratory infections in HCWs during the six-month period from September 2024 to February 2025, capturing the seasonal winter surge. We also evaluated the factors associated with undertaking self-taken point of care COVID-19 tests, and factors associated with uptake of both seasonal influenza and COVID-19 booster vaccination. These results will be used to inform practice and policy for prevention and early detection of transmissible infections in HCWs.</p></sec><sec sec-type="methods" id="s2"><title>Methods</title><sec sec-type="other" id="s2-1"><title>Study setting and participants</title><p>This was a multisite prospective study at two hospital sites in Ireland: St James’s Hospital (SJH), Dublin, and University Hospital Galway (UHG). These sites were chosen at the start of the COVID-19 pandemic due to the contrasting COVID-19 seroprevalence in their catchment areas.<sup><xref rid="ref12" ref-type="bibr">12</xref></sup> All HCWs, defined as any person employed to work at the hospital sites, were invited to take part. Vaccination was conducted on-site for both SARS-CoV-2 and seasonal influenza, and was promoted via hospital communications and peer leaders.</p><p>Irish HCWs were not subjected to a COVID-19 vaccine mandate during the pandemic, nor were they obliged to disclose their vaccination status to their employer. There has also never been an influenza vaccine mandate for HCWs in Ireland. There were wider societal restrictions on citizens who did not receive COVID-19 vaccination, such as limitations on entry to pubs, restaurants and cafes.</p><p>Ethical approval for the study was obtained from the local ethics committees at SJH and UHG (application No. TUH/SJH REC 2022—Nov—23002300 and GCREC 15/09/2022 C.A. 2860, respectively). Electronic informed consent was obtained from all participants.</p></sec><sec sec-type="other" id="s2-2"><title>Data collection and variables</title><p>Data collection was paperless, with participants providing electronic consent at time of enrollment. Electronic questionnaires were emailed to participants every month, in addition to an enrollment questionnaire. The enrollment questionnaire collected demographic data including age, sex, ethnicity, education level and HCW role, as well as medical history and prior COVID-19 infection status. HCW role was further characterized as clinical or non-clinical. Participants were specifically asked if they had a preexisting diagnosis of Long COVID, which was defined as any current or previous unexplained symptom following SARS-CoV-2 infection lasting more than 3 months.<sup><xref rid="ref13" ref-type="bibr">13</xref></sup> Monthly questionnaires recorded episodes of symptomatic illness during the preceding month, and duration of these symptoms. Number of tests conducted for COVID-19 and influenza and their results in the preceding month were self-reported by participants, as were the indications for each test and the type of test used (antigen test or polymerase chain reaction (PCR) test). Point of care tests were available at both workplaces to HCWs, free of charge. Receipt of COVID-19 and influenza vaccines in the preceding month was also self-reported. Vaccine records were confirmed by cross-referencing with COVAX, the Irish national immunization system, which is a mandatory reporting system and records all immunizations received by individuals in Ireland. Participants who did not complete their monthly questionnaire received a reminder email after two weeks.</p></sec><sec sec-type="other" id="s2-3"><title>Statistical analysis</title><p>Descriptive statistics are reported as means with standard deviations (SD) and medians with interquartile ranges (IQR), as appropriate. Univariate analysis was used to analyze differences between HCWs who had incident infection and those who did not, as well as those who received vaccination and those who did not. Multivariable linear regression was used to analyze factors associated with incident infection and vaccine uptake. Variables known to be associated with the outcomes (age and sex) were chosen for inclusion <italic toggle="yes">a priori</italic>, while any significant variables on univariate analysis were also included. Any HCW role that represented &lt;1% of the total cohort were grouped together for analysis. Statistical significance was considered at the .05 level. All analysis was performed using Stata version 18.0 (Stata Statistical Software).</p></sec></sec><sec sec-type="results" id="s3"><title>Results</title><p>Data was collected from n = 893 HCWs over the study period, with n = 584 (65%) from SJH and n = 309 from UHG, representing 11% of all HCWs across both sites. The average response rate per month was 73%, with all participants providing responses for a minimum of four of the study months. SJH participants were younger than those in UHG, while UHG participants were more likely to co-habit with another HCW and had higher educational attainment. Ethnicity, sex, comorbidities and seasonal vaccine uptake were similar across both sites. Long COVID was reported by n = 36 (4%) of the cohort. All participants received a primary COVID-19 vaccine course; n = 228 (26%) received one booster, n = 197 (22%) received two boosters, and 315 (35%) received three booster doses. A complete description of the cohort is shown in Table <xref rid="tbl1" ref-type="table">1</xref>.</p><p>
+<table-wrap position="float" id="tbl1" orientation="portrait"><label>Table 1.</label><caption><p>Cohort characteristics by study site</p></caption><alternatives><table frame="hsides" rules="groups"><colgroup span="1"><col span="1"/><col span="1"/><col span="1"/><col span="1"/><col span="1"/></colgroup><thead><tr><th colspan="1" rowspan="1"/><th colspan="1" rowspan="1">Total cohort<break/>n = 893</th><th colspan="1" rowspan="1">SJH<break/>n = 584</th><th colspan="1" rowspan="1">UHG<break/>n = 309</th><th colspan="1" rowspan="1"/></tr></thead><tbody><tr><td colspan="1" rowspan="1">Age, years; median (IQR)</td><td colspan="1" rowspan="1">45 (37–53)</td><td colspan="1" rowspan="1">44 (35–53)</td><td colspan="1" rowspan="1">48 (40–55)</td><td colspan="1" rowspan="1">z = −4.30, <italic toggle="yes">P</italic> &lt; .0001</td></tr><tr><td colspan="1" rowspan="1">Sex, female; n (%)</td><td colspan="1" rowspan="1">720 (81)</td><td colspan="1" rowspan="1">460 (79)</td><td colspan="1" rowspan="1">260 (84)</td><td colspan="1" rowspan="1">χ<sup>2</sup> = 3.74, <italic toggle="yes">P</italic> = .053</td></tr><tr><td colspan="1" rowspan="1">Ethnicity; n (%)<list list-type="bullet"><list-item><p>White Irish</p></list-item><list-item><p>Asian/Chinese</p></list-item><list-item><p>Asian/Other</p></list-item><list-item><p>Black/African</p></list-item><list-item><p>White/Other</p></list-item><list-item><p>Other</p></list-item><list-item><p>No data</p></list-item></list>
+</td><td colspan="1" rowspan="1">735 (82)<break/>11 (1)<break/>41 (5)<break/>9 (1)<break/>76 (9)<break/>8 (&lt;1)<break/>13 (1)</td><td colspan="1" rowspan="1">483 (83)<break/>6 (1)<break/>32 (5)<break/>7 (1)<break/>44 (8)<break/>5 (&lt;1)<break/>7 (1)</td><td colspan="1" rowspan="1">252 (82)<break/>5 (2)<break/>9 (3)<break/>2 (&lt;1)<break/>32 (10)<break/>3 (&lt;1)<break/>6 (2)</td><td colspan="1" rowspan="1">r<sup>2</sup> = .01, <italic toggle="yes">P</italic> = .34</td></tr><tr><td colspan="1" rowspan="1">Education level; n (%)<list list-type="bullet"><list-item><p>Secondary</p></list-item><list-item><p>Third level</p></list-item><list-item><p>Post graduate</p></list-item></list>
+</td><td colspan="1" rowspan="1">108 (12)<break/>379 (42)<break/>406 (45)</td><td colspan="1" rowspan="1">85 (15)<break/>246 (42)<break/>253 (43)</td><td colspan="1" rowspan="1">23 (7)<break/>133 (43)<break/>153 (50)</td><td colspan="1" rowspan="1">r<sup>2</sup> = .01, <italic toggle="yes">P</italic> = .01</td></tr><tr><td colspan="1" rowspan="1">Clinical, yes; n (%)</td><td colspan="1" rowspan="1">488 (55)</td><td colspan="1" rowspan="1">317 (54)</td><td colspan="1" rowspan="1">171 (55)</td><td colspan="1" rowspan="1">χ<sup>2</sup> = .21, <italic toggle="yes">P</italic> = .65</td></tr><tr><td colspan="1" rowspan="1">Role; n (%)<list list-type="bullet"><list-item><p>Nursing</p></list-item><list-item><p>Doctor</p></list-item><list-item><p>HCA</p></list-item><list-item><p>AHP</p></list-item><list-item><p>Administration</p></list-item><list-item><p>Catering</p></list-item><list-item><p>Laboratory</p></list-item><list-item><p>Technician</p></list-item><list-item><p>Other</p></list-item></list>
+</td><td colspan="1" rowspan="1">268 (30)<break/>123 (14)<break/>38 (4)<break/>122 (14)<break/>174 (19)<break/>12 (1)<break/>57 (6)<break/>11 (1)<break/>88 (10)</td><td colspan="1" rowspan="1">161 (28)<break/>82 (14)<break/>28 (5)<break/>77 (13)<break/>128 (22)<break/>11 (2)<break/>36 (6)<break/>5 (&lt;1)<break/>56 (10)</td><td colspan="1" rowspan="1">107 (35)<break/>41 (13)<break/>10 (3)<break/>45 (15)<break/>46 (15)<break/>1 (&lt;1)<break/>21 (7)<break/>6 (2)<break/>32 (10)</td><td colspan="1" rowspan="1">r<sup>2</sup> = .02, <italic toggle="yes">P</italic> = .04</td></tr><tr><td colspan="1" rowspan="1">Underlying risk factor, yes; n (%)</td><td colspan="1" rowspan="1">112 (13)</td><td colspan="1" rowspan="1">80 (14)</td><td colspan="1" rowspan="1">32 (10)</td><td colspan="1" rowspan="1">χ<sup>2</sup> = 1.51, <italic toggle="yes">P</italic> = .22</td></tr><tr><td colspan="1" rowspan="1">Live with HCWs; yes (%)</td><td colspan="1" rowspan="1">136 (15)</td><td colspan="1" rowspan="1">85 (15)</td><td colspan="1" rowspan="1">51 (17)</td><td colspan="1" rowspan="1">χ<sup>2</sup> = .0003, <italic toggle="yes">P</italic> = .99</td></tr><tr><td colspan="1" rowspan="1">Time since last COVID vaccine, days; median (IQR)</td><td colspan="1" rowspan="1">726 (481–1 029)</td><td colspan="1" rowspan="1">724 (335–1 026)</td><td colspan="1" rowspan="1">835 (584–1 029)</td><td colspan="1" rowspan="1">z = −1.52, <italic toggle="yes">P</italic> = .13</td></tr><tr><td colspan="1" rowspan="1">COVID booster uptake; n (%)</td><td colspan="1" rowspan="1">199 (22)</td><td colspan="1" rowspan="1">129 (22)</td><td colspan="1" rowspan="1">70 (23)</td><td colspan="1" rowspan="1">χ<sup>2</sup> = .04, <italic toggle="yes">P</italic> = .85</td></tr><tr><td colspan="1" rowspan="1">Influenza vaccine uptake; n (%)</td><td colspan="1" rowspan="1">334 (37)</td><td colspan="1" rowspan="1">209 (36)</td><td colspan="1" rowspan="1">125 (40)</td><td colspan="1" rowspan="1">χ<sup>2</sup> = 1.88, <italic toggle="yes">P</italic> = .17</td></tr></tbody></table><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="S2732494X25100946_tab1.jpg"/></alternatives><table-wrap-foot><p>Between-group differences assessed using χ<sup>2</sup>, Wilcoxon rank-sum and ANOVA, as appropriate. SJH, St James’s Hospital; UHG, University Hospital Galway; HCA, healthcare assistant. AHP, Allied Healthcare Professional.</p></table-wrap-foot></table-wrap>
+</p><sec sec-type="other" id="s3-1"><title>Symptomatic illness and factors associated with same</title><p>The majority of participants (n = 681, 76%) reported COVID-19 infection prior to September 2024. The total number of prior infections reported was 1,107 (median 1, IQR 1–2), with median time from last confirmed COVID-19 infection to enrollment of 366 days (IQR 122–615). Testing practices changed over time, with the majority of index infections being diagnosed via PCR test, while the majority of subsequent infections were diagnosed by antigen testing.</p><p>There were 574 episodes of symptomatic illness during the six-month study period, reported by n = 321 (36%) participants. The most common symptoms reported were sore throat, cough, runny nose, and headache (Figure <xref rid="f1" ref-type="fig">1</xref>A). The median number of days spent symptomatic was 5 (IQR 4–7).</p><p>
+<fig position="float" id="f1" orientation="portrait"><label>Figure 1.</label><caption><p>Frequency and variety of symptoms reported during study period (A), testing rates among symptomatic healthcare workers (HCWs) in the context of national SARS-CoV-2 infection rates (B), and reasons provided for undertaking point-of-care SARS-CoV-2 antigen testing (C).</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="S2732494X25100946_fig1.jpg"/></fig>
+</p><p>Symptomatic illness was associated with having a prior COVID infection and having a preexisting diagnosis of Long COVID. Higher educational attainment was also associated with increased likelihood of developing a symptomatic case, however receipt of COVID-19 booster within the preceding year and time since most recent COVID-19 infection were not associated with symptom development (Table <xref rid="tbl2" ref-type="table">2</xref>). The factors associated with developing upper respiratory tract infection symptoms were further investigated using a multivariable logistic regression model, including the significant univariate variables as well as those identified <italic toggle="yes">a priori</italic>, namely age, receipt of COVID-19 vaccine in the preceding year, and being in a clinical role. Having a diagnosis of Long COVID remained significantly associated with the development of viral URTI symptoms (Table <xref rid="tbl3" ref-type="table">3</xref>).</p><p>
+<table-wrap position="float" id="tbl2" orientation="portrait"><label>Table 2.</label><caption><p>Comparison between HCWs with a symptomatic case versus those without</p></caption><alternatives><table frame="hsides" rules="groups"><colgroup span="1"><col span="1"/><col span="1"/><col span="1"/><col span="1"/></colgroup><thead><tr><th colspan="1" rowspan="1"/><th colspan="1" rowspan="1">Symptomatic (n = 321)</th><th colspan="1" rowspan="1">No symptoms (n = 572)</th><th colspan="1" rowspan="1"/></tr></thead><tbody><tr><td colspan="1" rowspan="1">Site, SJH; n (%)</td><td colspan="1" rowspan="1">206 (64)</td><td colspan="1" rowspan="1">378 (66)</td><td colspan="1" rowspan="1">χ<sup>2</sup> = .33,<break/><italic toggle="yes">P</italic> = .57</td></tr><tr><td colspan="1" rowspan="1">Age</td><td colspan="1" rowspan="1">45 (37–53)</td><td colspan="1" rowspan="1">46 (37–54)</td><td colspan="1" rowspan="1">z = .75,<break/><italic toggle="yes">P</italic> = .46</td></tr><tr><td colspan="1" rowspan="1">Sex, female; n (%)</td><td colspan="1" rowspan="1">259 (81)</td><td colspan="1" rowspan="1">464 (81)</td><td colspan="1" rowspan="1">χ<sup>2</sup> = .001,<break/><italic toggle="yes">P</italic> = .97</td></tr><tr><td colspan="1" rowspan="1">Education level<list list-type="bullet"><list-item><p>Secondary</p></list-item><list-item><p>Third level</p></list-item><list-item><p>Post graduate</p></list-item></list>
+</td><td colspan="1" rowspan="1">29 (9)<break/>120 (37)<break/>172 (54)</td><td colspan="1" rowspan="1">79 (14)<break/>259 (45)<break/>234 (41)</td><td colspan="1" rowspan="1">r<sup>2</sup> = .02,<break/><italic toggle="yes">P</italic> = .001</td></tr><tr><td colspan="1" rowspan="1">Known risk factor; n (%)</td><td colspan="1" rowspan="1">35 (11)</td><td colspan="1" rowspan="1">77 (13)</td><td colspan="1" rowspan="1">χ<sup>2</sup> = 2.42,<break/><italic toggle="yes">P</italic> = .12</td></tr><tr><td colspan="1" rowspan="1">Live with HCW, yes</td><td colspan="1" rowspan="1">63 (20)</td><td colspan="1" rowspan="1">73 (13)</td><td colspan="1" rowspan="1">χ<sup>2</sup> = .19,<break/><italic toggle="yes">P</italic> = .67</td></tr><tr><td colspan="1" rowspan="1">Clinical role, yes; n (%)</td><td colspan="1" rowspan="1">178 (55)</td><td colspan="1" rowspan="1">310 (54)</td><td colspan="1" rowspan="1">χ<sup>2</sup> = .01,<break/><italic toggle="yes">P</italic> = .91</td></tr><tr><td colspan="1" rowspan="1">Long COVID, yes; n (%)</td><td colspan="1" rowspan="1">22 (7)</td><td colspan="1" rowspan="1">14 (2)</td><td colspan="1" rowspan="1">χ<sup>2</sup> = 10.32,<break/><italic toggle="yes">P</italic> = .001</td></tr><tr><td colspan="1" rowspan="1">COVID booster/flu vaccine prior to symptoms, yes; n (%)</td><td colspan="1" rowspan="1">110 (34)</td><td colspan="1" rowspan="1">172 (30)</td><td colspan="1" rowspan="1">χ<sup>2</sup> = 1.63,<break/><italic toggle="yes">P</italic> = .20</td></tr><tr><td colspan="1" rowspan="1">Previous COVID infection, yes; n (%)</td><td colspan="1" rowspan="1">271 (84)</td><td colspan="1" rowspan="1">410 (72)</td><td colspan="1" rowspan="1">χ<sup>2</sup> = 6.77,<break/><italic toggle="yes">P</italic> = .009</td></tr><tr><td colspan="1" rowspan="1">Time since last COVID infection, days; median (IQR)</td><td colspan="1" rowspan="1">387 (121–624)</td><td colspan="1" rowspan="1">355 (127–598)</td><td colspan="1" rowspan="1">z = -.86,<break/><italic toggle="yes">P</italic> = .39</td></tr><tr><td colspan="1" rowspan="1">Time since last COVID vaccine, days; median (IQR)</td><td colspan="1" rowspan="1">720 (584–1 028)</td><td colspan="1" rowspan="1">729 (334–1 037)</td><td colspan="1" rowspan="1">z = .45,<break/><italic toggle="yes">P</italic> = .66</td></tr><tr><td colspan="1" rowspan="1">COVID boosters in last 365 days, yes; n (%)</td><td colspan="1" rowspan="1">56 (17)</td><td colspan="1" rowspan="1">116 (20)</td><td colspan="1" rowspan="1">χ<sup>2</sup> = 1.53,<break/><italic toggle="yes">P</italic> = .22</td></tr></tbody></table><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="S2732494X25100946_tab2.jpg"/></alternatives><table-wrap-foot><p>Between-group differences assessed using χ<sup>2</sup>, Wilcoxon rank-sum and ANOVA, as appropriate.</p></table-wrap-foot></table-wrap>
+</p><p>
+<table-wrap position="float" id="tbl3" orientation="portrait"><label>Table 3.</label><caption><p>Multivariable logistic regression model to identify features associated with symptomatic illness and self-testing</p></caption><alternatives><table frame="hsides" rules="groups"><colgroup span="1"><col span="1"/><col span="1"/><col span="1"/></colgroup><thead><tr><th colspan="3" rowspan="1">Factors associated with symptomatic disease</th></tr></thead><tbody><tr><td colspan="1" rowspan="1"/><td colspan="1" rowspan="1">Odds ratio (95% CI)</td><td colspan="1" rowspan="1">P value</td></tr><tr><td colspan="1" rowspan="1">Education level<list list-type="bullet"><list-item><p>Secondary</p></list-item><list-item><p>Third level</p></list-item><list-item><p>Postgraduate</p></list-item></list>
+</td><td colspan="1" rowspan="1">.63 (.35–1.12)<break/>Reference<break/>1.41 (.99–1.98)</td><td colspan="1" rowspan="1">.11<break/>Reference<break/>.051</td></tr><tr><td colspan="1" rowspan="1">Age</td><td colspan="1" rowspan="1">.99 (.98–1.01)</td><td colspan="1" rowspan="1">.29</td></tr><tr><td colspan="1" rowspan="1">COVID-19 booster in last 365 days</td><td colspan="1" rowspan="1">.72 (.50–1.04)</td><td colspan="1" rowspan="1">.08</td></tr><tr><td colspan="1" rowspan="1">Clinical role</td><td colspan="1" rowspan="1">.79 (.55–1.10)</td><td colspan="1" rowspan="1">.15</td></tr><tr><td colspan="1" rowspan="1">Previous COVID infection</td><td colspan="1" rowspan="1">1.53 (1.98–2.41)</td><td colspan="1" rowspan="1">.06</td></tr><tr><td colspan="1" rowspan="1">Prior diagnosis of Long COVID</td><td colspan="1" rowspan="1">2.62 (1.22–5.64)</td><td colspan="1" rowspan="1">.01</td></tr><tr><td colspan="3" rowspan="1">Factors associated with self-testing for COVID-19 in symptomatic HCWs</td></tr><tr><td colspan="1" rowspan="1"/><td colspan="1" rowspan="1">Odds ratio (95% CI)</td><td colspan="1" rowspan="1">P value</td></tr><tr><td colspan="1" rowspan="1">Sex, male</td><td colspan="1" rowspan="1">.58 (.27–1.25)</td><td colspan="1" rowspan="1">.16</td></tr><tr><td colspan="1" rowspan="1">Preexisting factor</td><td colspan="1" rowspan="1">2.49 (.79–7.92)</td><td colspan="1" rowspan="1">.12</td></tr><tr><td colspan="1" rowspan="1">Time since last infection</td><td colspan="1" rowspan="1">.70 (.51–.96)</td><td colspan="1" rowspan="1">.03</td></tr></tbody></table><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="S2732494X25100946_tab3.jpg"/></alternatives><table-wrap-foot><p>Multivariable logistic regression, with all variables included in the model shown in the table. Time since last vaccine was z-scored prior to analysis.</p></table-wrap-foot></table-wrap>
+</p></sec><sec sec-type="other" id="s3-2"><title>Self-testing for COVID-19 in symptomatic HCWs</title><p>Of the n = 321 individuals with symptoms, there were 474 self-administered antigen tests for COVID-19 performed by n = 202 (63%) participants. Testing frequency was in line with national rates of COVID-19 cases (Figure <xref rid="f1" ref-type="fig">1</xref>B). The majority of tests performed (n = 400, 84%) were due to symptomatic illness, while other indications for testing included being a close contact of a known case and being in contact with vulnerable individuals (Figure <xref rid="f1" ref-type="fig">1</xref>C). The only factor associated with performing more than one COVID-19 test during the study period was having a preexisting risk factor for COVID-19 acquisition.</p><p>Factors associated with self-testing were investigated. Self-testing was associated with female sex, those with a preexisting risk factor for COVID-19, and those with a shorter interval since prior infection (Supplemental Table <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://doi.org/10.1017/ash.2025.10094">1</uri>). Following adjustment in a multivariable logistic regression model, only shorter duration since last confirmed COVID-19 infection was associated with undertaking a self-taken COVID-19 test (Table <xref rid="tbl3" ref-type="table">3</xref>).</p><p>There were 34 positive COVID-19 results, representing 17% (34/202) of the population who undertook a test and 4% (34/893) of the total study population. There were no variables identified with an increased likelihood of having a positive COVID-19 test, with no relationship between incident COVID-19 infection with time since most recent infection or time since last vaccination (Supplemental Table <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://doi.org/10.1017/ash.2025.10094">2</uri>).</p></sec><sec sec-type="other" id="s3-3"><title>Uptake of seasonal influenza and SARS-CoV-2 booster vaccination</title><p>All participants had access to the seasonal influenza and SARS-CoV-2 booster vaccines in their workplace. N = 344 (38%) received at least one booster vaccine; n = 145 (16%) received the influenza vaccine alone, n = 10 (1%) received the SARS-CoV-2 booster alone, and n = 189 (21%) received both (Figure <xref rid="f2" ref-type="fig">2</xref>). HCWs who received any vaccine during the winter period were older, had higher educational attainment, and had a shorter time since their prior vaccine compared to those who did not receive a seasonal vaccine. There were no differences in vaccine uptake comparing clinical and non-clinical HCWs, but Allied Health Professionals were more likely to have received a vaccine. Increasing age, shorter interval since last vaccination, and being an Allied Health Professional remained associated with increased vaccine uptake following multivariable logistic regression.</p><p>
+<fig position="float" id="f2" orientation="portrait"><label>Figure 2.</label><caption><p>Uptake of influenza and SARS-CoV-2 vaccines.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="S2732494X25100946_fig2.jpg"/></fig>
+</p><p>The associations with each individual vaccine were then explored. Similar to receipt of any vaccine, increased age, higher educational attainment, and shorter interval since most recent vaccination were all associated with receipt of both COVID-19 and influenza vaccination (Table <xref rid="tbl4" ref-type="table">4</xref>). However, males were significantly more likely to receive a COVID-19 vaccine, while no sex differences were seen in influenza vaccination uptake. Following multivariable regression, age, sex, and time since last vaccination were all significantly associated with COVID-19 vaccine receipt, while age and time since last vaccination were associated with influenza vaccine uptake (Table <xref rid="tbl5" ref-type="table">5</xref>). The sex differences seen in COVID-19 vaccine uptake were investigated further. Females aged &lt; 50 years of age had significantly lower uptake than females older than 50 years of age (<italic toggle="yes">P</italic> = .01), while females older than 50 had similar rates of vaccine uptake to men (<italic toggle="yes">P</italic> = .44).</p><p>
+<table-wrap position="float" id="tbl4" orientation="portrait"><label>Table 4.</label><caption><p>Factors associated with uptake of SARS-CoV-2 booster and seasonal influenza vaccine</p></caption><alternatives><table frame="hsides" rules="groups"><colgroup span="1"><col span="1"/><col span="1"/><col span="1"/><col span="1"/><col span="1"/><col span="1"/><col span="1"/></colgroup><thead><tr><th colspan="1" rowspan="1"/><th colspan="3" rowspan="1">SARS-CoV-2 booster</th><th colspan="3" rowspan="1">Seasonal Influenza vaccine</th></tr></thead><tbody><tr><td colspan="1" rowspan="1"/><td colspan="1" rowspan="1">No booster<break/>n = 694</td><td colspan="1" rowspan="1">Booster<break/>n = 199</td><td colspan="1" rowspan="1"/><td colspan="1" rowspan="1">No vaccine<break/>n = 559</td><td colspan="1" rowspan="1">Vaccine<break/>n = 334</td><td colspan="1" rowspan="1"/></tr><tr><td colspan="1" rowspan="1">Site, SJH; n (%)</td><td colspan="1" rowspan="1">455 (66)</td><td colspan="1" rowspan="1">129 (65)</td><td colspan="1" rowspan="1">χ<sup>2</sup> = .04,<break/><italic toggle="yes">P</italic> = .85</td><td colspan="1" rowspan="1">375 (67)</td><td colspan="1" rowspan="1">209 (63)</td><td colspan="1" rowspan="1">χ<sup>2</sup> = 1.88, <italic toggle="yes">P</italic> = .17</td></tr><tr><td colspan="1" rowspan="1">Age</td><td colspan="1" rowspan="1">44 (36–52)</td><td colspan="1" rowspan="1">49 (41–56)</td><td colspan="1" rowspan="1">z = −4.99, <italic toggle="yes">P</italic> &lt; .0001</td><td colspan="1" rowspan="1">44 (35–51)</td><td colspan="1" rowspan="1">48 (40–56)</td><td colspan="1" rowspan="1">z = −5.57, <italic toggle="yes">P</italic> &lt; .0001</td></tr><tr><td colspan="1" rowspan="1">Sex, female; n (%)</td><td colspan="1" rowspan="1">571 (82)</td><td colspan="1" rowspan="1">149 (75)</td><td colspan="1" rowspan="1">χ<sup>2</sup> = 5.43,<break/><italic toggle="yes">P</italic> = .02</td><td colspan="1" rowspan="1">452 (79)</td><td colspan="1" rowspan="1">268 (80)</td><td colspan="1" rowspan="1">χ<sup>2</sup> = .05, <italic toggle="yes">P</italic> = .82</td></tr><tr><td colspan="1" rowspan="1">Education<list list-type="bullet"><list-item><p>Secondary</p></list-item><list-item><p>Third level</p></list-item><list-item><p>Postgraduate</p></list-item></list>
+</td><td colspan="1" rowspan="1">92 (13)<break/>310 (45)<break/>292 (42)</td><td colspan="1" rowspan="1">16 (8)<break/>69 (35)<break/>114 (57)</td><td colspan="1" rowspan="1">r<sup>2</sup> = .02,<break/>
+<italic toggle="yes">P</italic> = .001</td><td colspan="1" rowspan="1">76 (14)<break/>254 (45)<break/>229 (41)</td><td colspan="1" rowspan="1">32 (10)<break/>125 (37)<break/>177 (53)</td><td colspan="1" rowspan="1">r<sup>2</sup> = .01, <italic toggle="yes">P</italic> = .002</td></tr><tr><td colspan="1" rowspan="1">Clinical role, yes; n (%)</td><td colspan="1" rowspan="1">374 (54)</td><td colspan="1" rowspan="1">114 (57)</td><td colspan="1" rowspan="1">χ<sup>2</sup> = .45,<break/>
+<italic toggle="yes">P</italic> = .50</td><td colspan="1" rowspan="1">296 (53)</td><td colspan="1" rowspan="1">192 (57)</td><td colspan="1" rowspan="1">χ<sup>2</sup> = 1.30, <italic toggle="yes">P</italic> = .25</td></tr><tr><td colspan="1" rowspan="1">Role; n (%)<list list-type="bullet"><list-item><p>Nursing</p></list-item><list-item><p>Doctor</p></list-item><list-item><p>HCA</p></list-item><list-item><p>AHP</p></list-item><list-item><p>Administration</p></list-item><list-item><p>Catering</p></list-item><list-item><p>Laboratory</p></list-item><list-item><p>Technician</p></list-item><list-item><p>Other</p></list-item></list></td><td colspan="1" rowspan="1">216 (31)<break/>81 (12)<break/>34 (5)<break/>87 (13)<break/>147 (21)<break/>11 (2)<break/>36 (5)<break/>10 (1)<break/>72 (10)</td><td colspan="1" rowspan="1">52 (26)<break/>42 (21)<break/>4 (2)<break/>35 (18)<break/>27 (14)<break/>1 (&lt;1)<break/>21 (11)<break/>1 (&lt;1)<break/>16 (8)</td><td colspan="1" rowspan="1">r<sup>2</sup> = .04,<break/>
+<italic toggle="yes">P</italic> = .0001</td><td colspan="1" rowspan="1">170 (30)<break/>68 (12)<break/>28 (5)<break/>60 (11)<break/>124 (22)<break/>10 (2)<break/>32 (6)<break/>9 (2)<break/>58 (10)</td><td colspan="1" rowspan="1">98 (29)<break/>55 (16)<break/>10 (3)<break/>62 (19)<break/>50 (15)<break/>2 (&lt;1)<break/>25 (7)<break/>2 (&lt;1)<break/>30 (9)</td><td colspan="1" rowspan="1">r<sup>2</sup> = .03,<break/>
+<italic toggle="yes">P</italic> = .001</td></tr><tr><td colspan="1" rowspan="1">Risk factor, yes; n (%)</td><td colspan="1" rowspan="1">87 (13)</td><td colspan="1" rowspan="1">25 (13)</td><td colspan="1" rowspan="1">χ<sup>2</sup> = .13,<break/>
+<italic toggle="yes">P</italic> = .72</td><td colspan="1" rowspan="1">69 (12)</td><td colspan="1" rowspan="1">43 (13)</td><td colspan="1" rowspan="1">χ<sup>2</sup> = .02, <italic toggle="yes">P</italic> = .89</td></tr><tr><td colspan="1" rowspan="1">Previous COVID infection</td><td colspan="1" rowspan="1">522 (75)</td><td colspan="1" rowspan="1">159 (80)</td><td colspan="1" rowspan="1">χ<sup>2</sup> = .36,<break/>
+<italic toggle="yes">P</italic> = .55</td><td colspan="1" rowspan="1">432 (77)</td><td colspan="1" rowspan="1">265 (79)</td><td colspan="1" rowspan="1">χ<sup>2</sup> = .11, <italic toggle="yes">P</italic> = .74</td></tr><tr><td colspan="1" rowspan="1">Time since last COVID infection</td><td colspan="1" rowspan="1">353 (125–616)</td><td colspan="1" rowspan="1">404 (115–614)</td><td colspan="1" rowspan="1">z = −.45,<break/>
+<italic toggle="yes">P</italic> = .65</td><td colspan="1" rowspan="1">353 (128–631)</td><td colspan="1" rowspan="1">387 (121–588)</td><td colspan="1" rowspan="1">z = .10, <italic toggle="yes">P</italic> = .92</td></tr><tr><td colspan="1" rowspan="1">Time since last vaccine, days; median (IQR)</td><td colspan="1" rowspan="1">898 (612–1 096)</td><td colspan="1" rowspan="1">674 (333–737)</td><td colspan="1" rowspan="1">z = 5.10, <italic toggle="yes">P</italic> &lt; .0001</td><td colspan="1" rowspan="1">946 (612–1 171)</td><td colspan="1" rowspan="1">682 (334–946)</td><td colspan="1" rowspan="1">z = 4.90, <italic toggle="yes">P</italic> &lt; .0001</td></tr></tbody></table><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="S2732494X25100946_tab4.jpg"/></alternatives><table-wrap-foot><p>Between-group differences assessed using χ<sup>2</sup>, Wilcoxon rank-sum and ANOVA, as appropriate. HCA, healthcare assistant; AHP, Allied Healthcare Professional.</p></table-wrap-foot></table-wrap>
+</p><p>
+<table-wrap position="float" id="tbl5" orientation="portrait"><label>Table 5.</label><caption><p>Multivariable logistic regression model to identify features associated with SARS-CoV-2 booster and seasonal influenza vaccination</p></caption><alternatives><table frame="hsides" rules="groups"><colgroup span="1"><col span="1"/><col span="1"/><col span="1"/><col span="1"/><col span="1"/></colgroup><thead><tr><th colspan="1" rowspan="1"/><th colspan="2" rowspan="1">SARS-CoV-2 booster</th><th colspan="2" rowspan="1">Seasonal Influenza</th></tr></thead><tbody><tr><td colspan="1" rowspan="1"/><td colspan="1" rowspan="1">Odds ratio (95% CI)</td><td colspan="1" rowspan="1">P value</td><td colspan="1" rowspan="1">Odds ratio (95% CI)</td><td colspan="1" rowspan="1">P value</td></tr><tr><td colspan="1" rowspan="1">Age</td><td colspan="1" rowspan="1">1.05 (1.03–1.07)</td><td colspan="1" rowspan="1">&lt;.0001</td><td colspan="1" rowspan="1">1.05 (1.03–1.07)</td><td colspan="1" rowspan="1">&lt;.0001</td></tr><tr><td colspan="1" rowspan="1">Education level<list list-type="bullet"><list-item><p>Secondary</p></list-item><list-item><p>Third level</p></list-item><list-item><p>Postgraduate</p></list-item></list>
+</td><td colspan="1" rowspan="1">.79 (.37–1.70)<break/>Reference<break/>1.05 (.68–1.62)</td><td colspan="1" rowspan="1">.55<break/>Reference<break/>.83</td><td colspan="1" rowspan="1">.80 (.42–1.51)<break/>Reference<break/>1.22 (.84–1.78)</td><td colspan="1" rowspan="1">.49<break/>Reference<break/>.30</td></tr><tr><td colspan="1" rowspan="1">Time since last vaccine</td><td colspan="1" rowspan="1">.64 (.52–.77)</td><td colspan="1" rowspan="1">&lt;.0001</td><td colspan="1" rowspan="1">.70 (.60–.83)</td><td colspan="1" rowspan="1">&lt;.0001</td></tr><tr><td colspan="1" rowspan="1">Sex, male</td><td colspan="1" rowspan="1">1.83 (1.12–2.97)</td><td colspan="1" rowspan="1">.02</td><td colspan="1" rowspan="1">1.07 (.68–1.68)</td><td colspan="1" rowspan="1">.76</td></tr><tr><td colspan="1" rowspan="1">Role; n (%)<list list-type="bullet"><list-item><p>Nursing</p></list-item><list-item><p>Doctor</p></list-item><list-item><p>HCA</p></list-item><list-item><p>AHP</p></list-item><list-item><p>Administration</p></list-item><list-item><p>Catering</p></list-item><list-item><p>Laboratory</p></list-item><list-item><p>Technician</p></list-item><list-item><p>Other</p></list-item></list></td><td colspan="1" rowspan="1">Reference<break/>1.79 (.98–3.26)<break/>.66 (.20–2.16)<break/>1.55 (.86–2.78)<break/>.65 (.35–1.21)<break/>.61 (.05–6.92)<break/>2.29 (1.10–4.77)<break/>–<break/>.76 (.33–1.74)</td><td colspan="1" rowspan="1">Reference<break/>.06<break/>.49<break/>.14<break/>.17<break/>.69<break/>.03<break/>–<break/>.52</td><td colspan="1" rowspan="1">Reference<break/>1.48 (.87–2.54)<break/>.70 (.27–1.84)<break/>2.13 (1.26–3.58)<break/>.70 (.41–1.18)<break/>.82 (.11–5.84)<break/>1.34 (.68–2.66)<break/>.29 (.03–2.88)<break/>1.04 (.52–2.04)</td><td colspan="1" rowspan="1">Reference<break/>.15<break/>.47<break/>.005<break/>.18<break/>.84<break/>.40<break/>.29<break/>.92</td></tr></tbody></table><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="S2732494X25100946_tab5.jpg"/></alternatives><table-wrap-foot><p>All variables shown were included in the model. Time since last vaccine was z scored prior to analysis. HCA, healthcare assistant; AHP, Allied Healthcare Professional.</p></table-wrap-foot></table-wrap>
+</p></sec></sec><sec sec-type="discussion" id="s4"><title>Discussion</title><p>HCWs are at increased risk of transmissible infections compared to the general population.<sup><xref rid="ref14" ref-type="bibr">14</xref>,<xref rid="ref15" ref-type="bibr">15</xref></sup> While in recent years SARS-CoV-2 has been the pathogen of concern in all populations, as reflected by more than three-quarters of our study population reporting prior COVID-19 infection, other seasonal respiratory viruses remain a significant threat to HCW health. This study demonstrates the high burden of such infections, with 36% of participants experiencing symptoms of viral respiratory tract infection from September 2024 to February 2025. The approach to testing by symptomatic HCWs is variable, with one-third not undertaking any point of care test. The rate of positive SARS-CoV-2 tests in symptomatic individuals was 17%, demonstrating the burden of disease in HCWs caused by pathogens other than SARS-CoV-2. It may also reflect the reduced sensitivity of antigen tests compared to PCR. Vaccination is an important tool in the prevention of both COVID-19 and influenza infection in HCWs. However, vaccination rates were low, with 37% availing of seasonal influenza vaccine and only 22% receiving a COVID-19 booster. We identify several important factors associated with symptomatic disease and vaccine uptake that should prospectively inform risk reduction strategies in HCWs to prevent clinical disease and onward nosocomial transmission.</p><p>Symptomatic illness was more likely in individuals with a preexisting diagnosis of Long COVID. The role of Long COVID is striking. Despite only representing 4% of the total cohort, it is the strongest predictor of developing symptomatic upper respiratory tract infection. The pathogenesis of Long COVID remains poorly-understood, with several possible disease pathways proposed.<sup><xref rid="ref16" ref-type="bibr">16</xref>,<xref rid="ref17" ref-type="bibr">17</xref></sup> However, investigations of ongoing immune defects predisposing to recurrent infections have not demonstrated any conclusive proof of increased infection susceptibility.<sup><xref rid="ref18" ref-type="bibr">18</xref>,<xref rid="ref19" ref-type="bibr">19</xref></sup> Given the lack of a biological cause for Long COVID to be associated with symptomatic episodes, it may reflect differing HCW behaviors. There is a well-established culture of presenteeism among HCWs despite ill-health, leading to under-reporting of symptoms.<sup><xref rid="ref20" ref-type="bibr">20</xref>,<xref rid="ref21" ref-type="bibr">21</xref></sup> In contrast, individuals with Long COVID have increased utilization of healthcare resources, in particular ambulatory care.<sup><xref rid="ref22" ref-type="bibr">22</xref>,<xref rid="ref23" ref-type="bibr">23</xref></sup> There is growing evidence that recurrent COVID-19 infection, rather than Long COVID, may increase susceptibility to repeated COVID-19 infection.<sup><xref rid="ref24" ref-type="bibr">24</xref></sup> This emphasizes the importance of infection prevention. We also observed monthly heterogeneity in the frequency of symptom episodes, with November having the highest rate of symptomatic illness. National surveillance data for that period suggests that COVID-19 was the most common circulating viral pathogen at that time, with the influenza surge commencing in two weeks later.<sup><xref rid="ref25" ref-type="bibr">25</xref></sup> This may reflect HCWs acting as disease sentinels of the impending influenza peak.</p><p>The influence of health behaviors on self-reporting symptoms likely also influences self-testing for COVID-19. There are significant costs associated with HCW absences due to infection, and presenteeism may influence decisions to test.<sup><xref rid="ref26" ref-type="bibr">26</xref></sup> A shorter time since most recent infection was the only significant predictor of undertaking a point of care antigen test for COVID-19. The use of self-taken antigen tests is in line with national guidance for HCWs, with closure of on-site PCR testing facilities for staff.<sup><xref rid="ref27" ref-type="bibr">27</xref></sup> Point of care tests are not provided in the workplace, with the onus on the individual HCW to source a test kit. Additionally, point of care antigen tests are less sensitive than viral PCR tests, which may result in false-negative tests.<sup><xref rid="ref28" ref-type="bibr">28</xref>,<xref rid="ref29" ref-type="bibr">29</xref></sup></p><p>There were low rates of vaccine uptake in our cohort, in particular against SARS-CoV-2, with less than a quarter of HCWs receiving a COVID-19 booster. Our influenza vaccine uptake rate of 37% is markedly lower than the national prepandemic vaccination rate of 53%.<sup><xref rid="ref30" ref-type="bibr">30</xref></sup> Older age and shorter interval since most recent vaccination were associated with increased uptake of both COVID-19 and influenza vaccination. Age is well-recognized as a factor associated with vaccine uptake, even in cohorts such as ours, where most participants are below the threshold for age-based vaccine recommendations.<sup><xref rid="ref31" ref-type="bibr">31</xref></sup> A shorter time interval since previous vaccine likely again reflects health behaviors, with individuals who have previously been engaged in a vaccine program more likely to accept subsequent vaccines.<sup><xref rid="ref32" ref-type="bibr">32</xref></sup> Interestingly, males were more likely to receive the COVID-19 booster, whereas there were no sex differences in influenza vaccine uptake. Concerns regarding reproductive health have previously been associated with reduced SARS-CoV-2 vaccination in females, despite large studies demonstrating no increased rates of adverse outcomes.<sup><xref rid="ref33" ref-type="bibr">33</xref>,<xref rid="ref34" ref-type="bibr">34</xref></sup> Our data would support the ongoing legacy of these concerns, with the sex differences only seen in premenopausal (&lt;50 yr of age) HCWs. It is also notable that laboratory staff have significantly higher COVID-19 vaccine uptake than nurses. Nurses and healthcare assistants had the highest rates of COVID-19 seropositivity early in the pandemic due to their high patient-facing time.<sup><xref rid="ref35" ref-type="bibr">35</xref></sup> The low COVID-19 vaccine rate is particularly concerning given the association we observe between Long COVID and symptomatic viral infections. Receipt of COVID-19 vaccine is linked with reduced rates of Long COVID, and can therefore be used as a tool to not only prevent acute infection but to mitigate the risk of postinfectious ill-health, recurrent symptomatic episodes, and missed workdays.<sup><xref rid="ref36" ref-type="bibr">36</xref>–<xref rid="ref38" ref-type="bibr">38</xref></sup> Concomitant administration of influenza and SARS-CoV-2 vaccines appear efficacious, and there are multicomponent vaccines in development.<sup><xref rid="ref39" ref-type="bibr">39</xref>,<xref rid="ref40" ref-type="bibr">40</xref></sup> However, our observed significant differences in vaccine uptake against these pathogens suggest that vaccine education and promotion would be required to mitigate a decline in uptake.</p><p>There are several limitations to this study worth noting. Symptoms and tests were self-reported, and are open to recall bias. Given the study design, the cohort may not be wholly representative of the overall HCW population, with 11% of the total eligible HCW population included. However, there is representation across all HCW disciplines in this study. The absence of point of care tests for infections other than COVID-19 prevented us from capturing infections due to influenza, Respiratory Syncytial Virus, and other seasonal respiratory pathogens. We were unable to identify reported COVID-19 infections were acquired within the workplace or in the community.</p><p>This study characterizes the burden of symptomatic upper respiratory tract infections in HCWs during the winter season, and identifies predictors of same, namely a preexisting diagnosis of Long COVID. This is a novel finding. We note the highest burden of symptomatic disease in HCWs is within two weeks of influenza becoming the dominant respiratory viral pathogen in the general population. This may provide a rationale to perform multiplex respiratory viral screening on HCWs during the winter periods to identify impending disease surges. We also characterize self-testing behavior, as well as factors associated with vaccine uptake. We identify young female HCWs as a cohort with low COVID-19 vaccine uptake, which is not seen with influenza vaccine uptake. These findings should inform vaccine strategies for HCWs, particularly given the development of combined SARS-CoV-2 and influenza vaccines. Collectively, our self-testing data, vaccine rates and the association with symptomatic disease and Long COVID highlight the need to study health behaviors in HCWs, and the influence this has on HCW attitudes toward respiratory infections.</p></sec><sec sec-type="supplementary-material" id="secNaN"><title>Supporting information</title><supplementary-material id="sm01" position="float" content-type="local-data" orientation="portrait"><object-id pub-id-type="doi">10.1017/ash.2025.10094.sm001</object-id><caption><title>Townsend et al. supplementary material</title><p>Townsend et al. supplementary material</p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="S2732494X25100946sup001.docx" id="d67e1814" position="anchor" orientation="portrait"/></supplementary-material></sec></body><back><ack><title>Acknowledgements</title><p>This work was supported financially by the Irish Health Service Executive (HSE) COVID-19 budget. The funder had no role in the design of the study, the data analysis, or the decision to publish. The authors declare no relevant conflicts of interest.</p><p>
+<bold>PRECISE Steering Group</bold>
+</p><p>Cliona O’Farrelly, Department of Immunology, Trinity Biomedical Sciences Institute, Trinity College Dublin, Dublin; Niall Conlon, Consultant Immunologist, Department of Immunology, St James’s Hospital, Dublin; Lorraine Doherty, Health Protection Surveillance Centre, Dublin; Cillian de Gascun, UCD National Virus Reference Laboratory, University College Dublin, Dublin; Mary Keogan, Consultant Immunologist, Beaumont Hospital; Noirin Noonan, Consultant in Occupational Medicine, St James’s Hospital, Dublin; David Byrne, St James’s Hospital, Dublin</p></ack><sec sec-type="supplementary-material" id="s5"><title>Supplementary material</title><p>The supplementary material for this article can be found at <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://doi.org/10.1017/ash.2025.10094">https://doi.org/10.1017/ash.2025.10094</uri>
+</p></sec><ref-list id="reflist1" content-type="normal"><title>References</title><ref id="ref1"><label>1.</label><mixed-citation publication-type="journal" id="r1">
+<string-name name-style="western">
+<surname>Gholami</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Fawad</surname>
+<given-names>I</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Shadan</surname>
+<given-names>S</given-names>
+</string-name>, <etal>et al.</etal>
+<article-title>COVID-19 and healthcare workers: a systematic review and meta-analysis</article-title>. <source>Int J Infect Dis</source>
+<year>2021</year>;<volume>104</volume>:<fpage>335</fpage>–<lpage>346</lpage>.<pub-id pub-id-type="pmid">33444754</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.ijid.2021.01.013</pub-id><pub-id pub-id-type="pmcid">PMC7798435</pub-id></mixed-citation></ref><ref id="ref2"><label>2.</label><mixed-citation publication-type="journal" id="r2">
+<string-name name-style="western">
+<surname>Ingram</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Downey</surname>
+<given-names>V</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Roe</surname>
+<given-names>M</given-names>
+</string-name>, <etal>et al.</etal>
+<article-title>COVID-19 prevention and control measures in workplace settings: a rapid review and meta-analysis</article-title>. <source>Int J Environ Res Public Health</source>
+<year>2021</year>;<volume>18</volume>:<fpage>7847</fpage>.<pub-id pub-id-type="pmid">34360142</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3390/ijerph18157847</pub-id><pub-id pub-id-type="pmcid">PMC8345343</pub-id></mixed-citation></ref><ref id="ref3"><label>3.</label><mixed-citation publication-type="journal" id="r3">
+<string-name name-style="western">
+<surname>Maltezou</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Giannouchos</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Pavli</surname>
+<given-names>A</given-names>
+</string-name>, <etal>et al.</etal>
+<article-title>Costs associated with COVID-19 in healthcare personnel in Greece: a cost-of-illness analysis</article-title>. <source>J Hospital Infect</source>
+<year>2021</year>;<volume>114</volume>:<fpage>126</fpage>–<lpage>133</lpage>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.jhin.2021.04.018</pub-id><pub-id pub-id-type="pmcid">PMC8061082</pub-id><pub-id pub-id-type="pmid">33894306</pub-id></mixed-citation></ref><ref id="ref4"><label>4.</label><mixed-citation publication-type="journal" id="r4">
+<string-name name-style="western">
+<surname>Scantling-Birch</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Newton</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Naveed</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rajak</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bhutta</surname>
+<given-names>MF.</given-names>
+</string-name>
+<article-title>Healthcare worker protection against epidemic viral respiratory disease</article-title>. <source>Postgrad Med J</source>
+<year>2022</year>;<volume>98</volume>:<fpage>131</fpage>–<lpage>137</lpage>.<pub-id pub-id-type="pmid">33637641</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1136/postgradmedj-2020-139555</pub-id></mixed-citation></ref><ref id="ref5"><label>5.</label><mixed-citation publication-type="journal" id="r5">
+<string-name name-style="western">
+<surname>Takayama</surname>
+<given-names>N</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sakaki</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Shirai</surname>
+<given-names>M</given-names>
+</string-name>, <etal>et al.</etal>
+<article-title>Healthcare workers’ presenteeism causing an outbreak of respiratory infections in a facility for patients with severe motor and intellectual disabilities</article-title>. <source>Am J Infect Control</source>
+<year>2023</year>;<volume>51</volume>:<fpage>420</fpage>–<lpage>425</lpage>.<pub-id pub-id-type="pmid">36031037</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.ajic.2022.07.016</pub-id></mixed-citation></ref><ref id="ref6"><label>6.</label><mixed-citation publication-type="journal" id="r6">
+<string-name name-style="western">
+<surname>Townsend</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kelly</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kenny</surname>
+<given-names>C</given-names>
+</string-name>, <etal>et al.</etal>
+<article-title>Healthcare worker characteristics associated with SARS-CoV-2 vaccine uptake in Ireland; a multicentre cross-sectional study</article-title>. <source>Vaccines</source>
+<year>2023</year>;<volume>11</volume>:<fpage>1529</fpage>.<pub-id pub-id-type="pmid">37896933</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3390/vaccines11101529</pub-id><pub-id pub-id-type="pmcid">PMC10610998</pub-id></mixed-citation></ref><ref id="ref7"><label>7.</label><mixed-citation publication-type="journal" id="r7">
+<string-name name-style="western">
+<surname>Sitaras</surname>
+<given-names>I</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jacobsen</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Higdon</surname>
+<given-names>MM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Dowling</surname>
+<given-names>WE</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bar-Zeev</surname>
+<given-names>N</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Deloria Knoll</surname>
+<given-names>M.</given-names>
+</string-name>
+<article-title>Systematic review of primary and booster COVID-19 sera neutralizing ability against SARS-CoV-2 omicron variant</article-title>. <source>npj Vaccines</source>
+<year>2022</year>;<volume>7</volume>:<fpage>147</fpage>.<pub-id pub-id-type="pmid">36379935</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41541-022-00565-y</pub-id><pub-id pub-id-type="pmcid">PMC9665011</pub-id></mixed-citation></ref><ref id="ref8"><label>8.</label><mixed-citation publication-type="journal" id="r8">
+<string-name name-style="western">
+<surname>Hyland</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Vallières</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Shevlin</surname>
+<given-names>M</given-names>
+</string-name>, <etal>et al.</etal>
+<article-title>Resistance to COVID-19 vaccination has increased in Ireland and the United Kingdom during the pandemic</article-title>. <source>Public Health</source>
+<year>2021</year>;<volume>195</volume>:<fpage>54</fpage>–<lpage>56</lpage>.<pub-id pub-id-type="pmid">34052508</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.puhe.2021.04.009</pub-id><pub-id pub-id-type="pmcid">PMC8075808</pub-id></mixed-citation></ref><ref id="ref9"><label>9.</label><mixed-citation publication-type="other" id="r9">
+<string-name name-style="western">
+<surname>Townsend</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Marron</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>O’Brien</surname>
+<given-names>K</given-names>
+</string-name>, <etal>et al.</etal> Investigating incidence of and factors associated with SARS-CoV-2 infection over a nine-month period in a highly-vaccinated healthcare worker cohort. <italic toggle="yes">QJM: An Int J Med</italic>
+<year>2024</year>:<fpage>hcae093</fpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/qjmed/hcae093</pub-id><pub-id pub-id-type="pmid">38759112</pub-id></mixed-citation></ref><ref id="ref10"><label>10.</label><mixed-citation publication-type="journal" id="r10">
+<string-name name-style="western">
+<surname>Allen</surname>
+<given-names>N</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Brady</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ni Riain</surname>
+<given-names>U</given-names>
+</string-name>, <etal>et al.</etal>
+<article-title>Prevalence of antibodies to SARS-CoV-2 following natural infection and vaccination in Irish hospital healthcare workers: changing epidemiology as the pandemic progresses</article-title>. <source>Front Med</source>
+<year>2022</year>;<volume>8</volume>:<fpage>758118</fpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.3389/fmed.2021.758118</pub-id><pub-id pub-id-type="pmcid">PMC8854655</pub-id><pub-id pub-id-type="pmid">35186963</pub-id></mixed-citation></ref><ref id="ref11"><label>11.</label><mixed-citation publication-type="journal" id="r11">
+<string-name name-style="western">
+<surname>McGrath</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kenny</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Nielsen</surname>
+<given-names>CS</given-names>
+</string-name>, <etal>et al.</etal>
+<article-title>SARS-CoV-2 epidemiology, antibody dynamics, and neutralisation capacity in Irish healthcare workers in the era of booster COVID-19 vaccinations</article-title>. <source>Front Med</source>
+<year>2023</year>;<volume>10</volume>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.3389/fmed.2023.1078022</pub-id><pub-id pub-id-type="pmcid">PMC9909389</pub-id><pub-id pub-id-type="pmid">36778745</pub-id></mixed-citation></ref><ref id="ref12"><label>12.</label><mixed-citation publication-type="journal" id="r12">
+<string-name name-style="western">
+<surname>Heavey</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Garvey</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Colgan</surname>
+<given-names>AM</given-names>
+</string-name>, <etal>et al.</etal>
+<article-title>The study to investigate COVID-19 infection in people living in Ireland (SCOPI): a seroprevalence study, June to July 2020, 2020</article-title>. <source>Eurosurveillance</source>
+<year>2021</year>;<volume>26</volume>:<fpage>2001741</fpage>.<pub-id pub-id-type="pmid">34857067</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.2807/1560-7917.ES.2021.26.48.2001741</pub-id><pub-id pub-id-type="pmcid">PMC8641066</pub-id></mixed-citation></ref><ref id="ref13"><label>13.</label><mixed-citation publication-type="journal" id="r13">
+<string-name name-style="western">
+<surname>Ely</surname>
+<given-names>EW</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Brown</surname>
+<given-names>LM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Fineberg</surname>
+<given-names>HV.</given-names>
+</string-name>
+<article-title>Long Covid defined</article-title>. <source>Mass Medical Soc</source>
+<volume>391</volume>: <year>2024</year>:<fpage>1746</fpage>–<lpage>1753</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1056/NEJMsb2408466</pub-id><pub-id pub-id-type="pmcid">PMC11687645</pub-id><pub-id pub-id-type="pmid">39083764</pub-id></mixed-citation></ref><ref id="ref14"><label>14.</label><mixed-citation publication-type="journal" id="r14">
+<string-name name-style="western">
+<surname>Bansal</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Trieu</surname>
+<given-names>M-C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Eriksson</surname>
+<given-names>EM</given-names>
+</string-name>, <etal>et al.</etal>
+<article-title>SARS-CoV-2 infection rates and associated risk factors in healthcare workers: systematic review and meta-analysis</article-title>. <source>Sci Rep</source>
+<year>2025</year>;<volume>15</volume>:<fpage>4705</fpage>.<pub-id pub-id-type="pmid">39922967</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41598-025-89472-5</pub-id><pub-id pub-id-type="pmcid">PMC11807171</pub-id></mixed-citation></ref><ref id="ref15"><label>15.</label><mixed-citation publication-type="journal" id="r15">
+<string-name name-style="western">
+<surname>Sepkowitz</surname>
+<given-names>KA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Eisenberg</surname>
+<given-names>L.</given-names>
+</string-name>
+<article-title>Occupational deaths among healthcare workers</article-title>. <source>Emerg Infect Dis</source>
+<year>2005</year>;<volume>11</volume>:<fpage>1003</fpage>.<pub-id pub-id-type="pmid">16022771</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3201/eid1107.041038</pub-id><pub-id pub-id-type="pmcid">PMC3371777</pub-id></mixed-citation></ref><ref id="ref16"><label>16.</label><mixed-citation publication-type="journal" id="r16">
+<string-name name-style="western">
+<surname>Kenny</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Townsend</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Savinelli</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mallon</surname>
+<given-names>PW.</given-names>
+</string-name>
+<article-title>Long COVID: clinical characteristics, proposed pathogenesis and potential therapeutic targets</article-title>. <source>Front Mol Biosci</source>
+<year>2023</year>;<volume>10</volume>:<fpage>1157651</fpage>.<pub-id pub-id-type="pmid">37179568</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3389/fmolb.2023.1157651</pub-id><pub-id pub-id-type="pmcid">PMC10171433</pub-id></mixed-citation></ref><ref id="ref17"><label>17.</label><mixed-citation publication-type="journal" id="r17">
+<string-name name-style="western">
+<surname>Brodin</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Casari</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Townsend</surname>
+<given-names>L</given-names>
+</string-name>, <etal>et al.</etal>
+<article-title>Studying severe long COVID to understand post-infectious disorders beyond COVID-19</article-title>. <source>Nat Med</source>
+<year>2022</year>;<volume>28</volume>:<fpage>879</fpage>–<lpage>882</lpage>.<pub-id pub-id-type="pmid">35383311</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41591-022-01766-7</pub-id></mixed-citation></ref><ref id="ref18"><label>18.</label><mixed-citation publication-type="journal" id="r18">
+<string-name name-style="western">
+<surname>Davis</surname>
+<given-names>HE</given-names>
+</string-name>, <string-name name-style="western">
+<surname>McCorkell</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Vogel</surname>
+<given-names>JM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Topol</surname>
+<given-names>EJ.</given-names>
+</string-name>
+<article-title>Long COVID: major findings, mechanisms and recommendations</article-title>. <source>Nat Rev Microbiol</source>
+<year>2023</year>:<fpage>1</fpage>–<lpage>14</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41579-022-00846-2</pub-id><pub-id pub-id-type="pmcid">PMC9839201</pub-id><pub-id pub-id-type="pmid">36639608</pub-id></mixed-citation></ref><ref id="ref19"><label>19.</label><mixed-citation publication-type="journal" id="r19">
+<string-name name-style="western">
+<surname>Townsend</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Dyer</surname>
+<given-names>AH</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Naughton</surname>
+<given-names>A</given-names>
+</string-name>, <etal>et al.</etal>
+<article-title>Longitudinal analysis of COVID-19 patients shows age-associated T cell changes independent of ongoing ill-health</article-title>. <source>Front Immunol</source>
+<year>2021</year>;<volume>12</volume>:<fpage>1593</fpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.3389/fimmu.2021.676932</pub-id><pub-id pub-id-type="pmcid">PMC8138306</pub-id><pub-id pub-id-type="pmid">34025675</pub-id></mixed-citation></ref><ref id="ref20"><label>20.</label><mixed-citation publication-type="journal" id="r20">
+<string-name name-style="western">
+<surname>Linsenmeyer</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mohr</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gupta</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Doshi</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gifford</surname>
+<given-names>AL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Charness</surname>
+<given-names>ME.</given-names>
+</string-name>
+<article-title>Sickness presenteeism in healthcare workers during the coronavirus disease 2019 (COVID-19) pandemic: an observational cohort study</article-title>. <source>Infect Control Hospital Epidemiol</source>
+<year>2023</year>;<volume>44</volume>:<fpage>1693</fpage>–<lpage>1696</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1017/ice.2023.47</pub-id><pub-id pub-id-type="pmcid">PMC10587373</pub-id><pub-id pub-id-type="pmid">37039605</pub-id></mixed-citation></ref><ref id="ref21"><label>21.</label><mixed-citation publication-type="journal" id="r21">
+<string-name name-style="western">
+<surname>Kuster</surname>
+<given-names>SP</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Böni</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kouyos</surname>
+<given-names>RD</given-names>
+</string-name>, <etal>et al.</etal>
+<article-title>Absenteeism and presenteeism in healthcare workers due to respiratory illness</article-title>. <source>Infect Control Hospital Epidemiol</source>
+<year>2021</year>;<volume>42</volume>:<fpage>268</fpage>–<lpage>273</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1017/ice.2020.444</pub-id><pub-id pub-id-type="pmid">33239124</pub-id></mixed-citation></ref><ref id="ref22"><label>22.</label><mixed-citation publication-type="journal" id="r22">
+<string-name name-style="western">
+<surname>Lin</surname>
+<given-names>L-Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Henderson</surname>
+<given-names>AD</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Carlile</surname>
+<given-names>O</given-names>
+</string-name>, <etal>et al.</etal>
+<article-title>Healthcare utilisation in people with long COVID: an OpenSAFELY cohort study</article-title>. <source>BMC Med</source>
+<year>2024</year>;<volume>22</volume>:<fpage>255</fpage>.<pub-id pub-id-type="pmid">38902726</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1186/s12916-024-03477-x</pub-id><pub-id pub-id-type="pmcid">PMC11188519</pub-id></mixed-citation></ref><ref id="ref23"><label>23.</label><mixed-citation publication-type="journal" id="r23">
+<string-name name-style="western">
+<surname>Mu</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Dashtban</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mizani</surname>
+<given-names>MA</given-names>
+</string-name>, <etal>et al.</etal>
+<article-title>Healthcare utilisation of 282,080 individuals with long COVID over two years: a multiple matched control, longitudinal cohort analysis</article-title>. <source>J Royal Soc Med</source>
+<year>2024</year>;<volume>117</volume>:<fpage>369</fpage>–<lpage>381</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1177/01410768241288345</pub-id><pub-id pub-id-type="pmcid">PMC11603423</pub-id><pub-id pub-id-type="pmid">39603265</pub-id></mixed-citation></ref><ref id="ref24"><label>24.</label><mixed-citation publication-type="journal" id="r24">
+<string-name name-style="western">
+<surname>Townsend</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Dunne</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sui</surname>
+<given-names>J</given-names>
+</string-name>, <etal>et al.</etal>
+<article-title>Immune response in vaccinated healthcare workers with frequent COVID-19 infections is characterised by blunted IFNγ and IL-2 responses to SARS-CoV-2 variants</article-title>. <source>Clin Immunol</source>
+<year>2024</year>:<fpage>110371</fpage>.<pub-id pub-id-type="pmid">39343286</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.clim.2024.110371</pub-id></mixed-citation></ref><ref id="ref25"><label>25.</label><mixed-citation publication-type="other" id="r25">
+<collab>Centre HPS</collab>. Integrated Respiratory Virus Bulletin, <year>2025</year>. <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.hpsc.ie/a-z/respiratory/acuterespiratoryinfection/surveillance/integratedreports/">https://www.hpsc.ie/a-z/respiratory/acuterespiratoryinfection/surveillance/integratedreports/</uri>. Accessed May 02, 2025.</mixed-citation></ref><ref id="ref26"><label>26.</label><mixed-citation publication-type="journal" id="r26">
+<string-name name-style="western">
+<surname>Gianino</surname>
+<given-names>MM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Politano</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Scarmozzino</surname>
+<given-names>A</given-names>
+</string-name>, <etal>et al.</etal>
+<article-title>Cost of sickness absenteeism during seasonal influenza outbreaks of medium intensity among health care workers</article-title>. <source>Int J Environ Res Public Health</source>
+<year>2019</year>;<volume>16</volume>:<fpage>747</fpage>.<pub-id pub-id-type="pmid">30832264</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3390/ijerph16050747</pub-id><pub-id pub-id-type="pmcid">PMC6427598</pub-id></mixed-citation></ref><ref id="ref27"><label>27.</label><mixed-citation publication-type="other" id="r27">
+<collab>Health Service Executive I</collab>. Antigen testing in healthcare workers, <year>2023</year>. <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://healthservice.hse.ie/staff/covid-19-staff-support/testing-for-healthcare-workers/#:~:text=Health%20and%20care%20workers%20(HCWs,well%20enough%20to%20attend%20work">https://healthservice.hse.ie/staff/covid-19-staff-support/testing-for-healthcare-workers/#:~:text=Health%20and%20care%20workers%20(HCWs,well%20enough%20to%20attend%20work</uri>. Accessed February 07, 2024.</mixed-citation></ref><ref id="ref28"><label>28.</label><mixed-citation publication-type="journal" id="r28">
+<string-name name-style="western">
+<surname>Wells</surname>
+<given-names>CR</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Pandey</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Moghadas</surname>
+<given-names>SM</given-names>
+</string-name>, <etal>et al.</etal>
+<article-title>Comparative analyses of eighteen rapid antigen tests and RT-PCR for COVID-19 quarantine and surveillance-based isolation</article-title>. <source>Commun Med</source>
+<year>2022</year>;<volume>2</volume>:<fpage>84</fpage>.<pub-id pub-id-type="pmid">35822105</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s43856-022-00147-y</pub-id><pub-id pub-id-type="pmcid">PMC9271059</pub-id></mixed-citation></ref><ref id="ref29"><label>29.</label><mixed-citation publication-type="journal" id="r29">
+<string-name name-style="western">
+<surname>Lau</surname>
+<given-names>JJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cheng</surname>
+<given-names>SM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Leung</surname>
+<given-names>K</given-names>
+</string-name>, <etal>et al.</etal>
+<article-title>Real-world COVID-19 vaccine effectiveness against the Omicron BA. 2 variant in a SARS-CoV-2 infection-naive population</article-title>. <source>Nat Med</source>
+<year>2023</year>;<volume>29</volume>:<fpage>348</fpage>–<lpage>357</lpage>.<pub-id pub-id-type="pmid">36652990</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41591-023-02219-5</pub-id><pub-id pub-id-type="pmcid">PMC9941049</pub-id></mixed-citation></ref><ref id="ref30"><label>30.</label><mixed-citation publication-type="other" id="r30">
+<collab>Centre HPS</collab>. Uptake of the seasonal influenza vaccine in acute hospitals and long term/Residential care facilities in Ireland in 2018-2019, <year>2019</year>. <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.hpsc.ie/a-z/respiratory/influenza/seasonalinfluenza/vaccination/vaccineuptakeinhcwsandresidentsofltcfs/Seasonal%20Influenza%20Vaccine%20Uptake-2018-2019.pdf">https://www.hpsc.ie/a-z/respiratory/influenza/seasonalinfluenza/vaccination/vaccineuptakeinhcwsandresidentsofltcfs/Seasonal%20Influenza%20Vaccine%20Uptake-2018-2019.pdf</uri>. Accessed May, 2025</mixed-citation></ref><ref id="ref31"><label>31.</label><mixed-citation publication-type="journal" id="r31">
+<string-name name-style="western">
+<surname>Haviari</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bénet</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Saadatian-Elahi</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>André</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Loulergue</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Vanhems</surname>
+<given-names>P.</given-names>
+</string-name>
+<article-title>Vaccination of healthcare workers: a review</article-title>. <source>Hum Vaccines Immunother</source>
+<year>2015</year>;<volume>11</volume>:<fpage>2522</fpage>–<lpage>2537</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1080/21645515.2015.1082014</pub-id><pub-id pub-id-type="pmcid">PMC4685699</pub-id><pub-id pub-id-type="pmid">26291642</pub-id></mixed-citation></ref><ref id="ref32"><label>32.</label><mixed-citation publication-type="journal" id="r32">
+<string-name name-style="western">
+<surname>Fernández-Villa</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Molina</surname>
+<given-names>AJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Torner</surname>
+<given-names>N</given-names>
+</string-name>, <etal>et al.</etal>
+<article-title>Factors associated with acceptance of pandemic flu vaccine by healthcare professionals in Spain</article-title>. <source>Research in Nursing &amp; Health</source>
+<year>2017</year>;<volume>40</volume>:<fpage>435</fpage>–<lpage>443</lpage>.<pub-id pub-id-type="pmid">28805243</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/nur.21815</pub-id></mixed-citation></ref><ref id="ref33"><label>33.</label><mixed-citation publication-type="journal" id="r33">
+<string-name name-style="western">
+<surname>Hillson</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Clemens</surname>
+<given-names>SC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Madhi</surname>
+<given-names>SA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Voysey</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Pollard</surname>
+<given-names>AJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Minassian</surname>
+<given-names>AM.</given-names>
+</string-name>
+<article-title>Fertility rates and birth outcomes after ChAdOx1 nCoV-19 (AZD1222) vaccination</article-title>. <source>Lancet</source>
+<year>2021</year>;<volume>398</volume>:<fpage>1683</fpage>–<lpage>1684</lpage>.<pub-id pub-id-type="pmid">34688353</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/S0140-6736(21)02282-0</pub-id><pub-id pub-id-type="pmcid">PMC8530465</pub-id></mixed-citation></ref><ref id="ref34"><label>34.</label><mixed-citation publication-type="journal" id="r34">
+<string-name name-style="western">
+<surname>Aharon</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lederman</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ghofranian</surname>
+<given-names>A</given-names>
+</string-name>, <etal>et al.</etal>
+<article-title>In vitro fertilization and early pregnancy outcomes after coronavirus disease 2019 (COVID-19) vaccination</article-title>. <source>Obstet Gynecol</source>
+<year>2022</year>;<volume>139</volume>:<fpage>490</fpage>–<lpage>497</lpage>.<pub-id pub-id-type="pmid">35080199</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1097/AOG.0000000000004713</pub-id></mixed-citation></ref><ref id="ref35"><label>35.</label><mixed-citation publication-type="journal" id="r35">
+<string-name name-style="western">
+<surname>Allen</surname>
+<given-names>N</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Riain</surname>
+<given-names>UN</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Conlon</surname>
+<given-names>N</given-names>
+</string-name>, <etal>et al.</etal>
+<article-title>Prevalence of antibodies to SARS-CoV-2 in Irish hospital healthcare workers</article-title>. <source>Epidemiol Infect</source>
+<year>2021</year>;<volume>149</volume>:<fpage>e157</fpage>.<pub-id pub-id-type="pmid">33902786</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1017/S0950268821000984</pub-id><pub-id pub-id-type="pmcid">PMC8314060</pub-id></mixed-citation></ref><ref id="ref36"><label>36.</label><mixed-citation publication-type="journal" id="r36">
+<string-name name-style="western">
+<surname>Ceban</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kulzhabayeva</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rodrigues</surname>
+<given-names>NB</given-names>
+</string-name>, <etal>et al.</etal>
+<article-title>COVID-19 vaccination for the prevention and treatment of long COVID: a systematic review and meta-analysis</article-title>. <source>Brain Behav Immun</source>
+<year>2023</year>;<volume>111</volume>:<fpage>211</fpage>–<lpage>229</lpage>.<pub-id pub-id-type="pmid">36990297</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.bbi.2023.03.022</pub-id><pub-id pub-id-type="pmcid">PMC10067136</pub-id></mixed-citation></ref><ref id="ref37"><label>37.</label><mixed-citation publication-type="journal" id="r37">
+<string-name name-style="western">
+<surname>Watanabe</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Iwagami</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Yasuhara</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Takagi</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kuno</surname>
+<given-names>T.</given-names>
+</string-name>
+<article-title>Protective effect of COVID-19 vaccination against long COVID syndrome: a systematic review and meta-analysis</article-title>. <source>Vaccine</source>
+<year>2023</year>;<volume>41</volume>:<fpage>1783</fpage>–<lpage>1790</lpage>.<pub-id pub-id-type="pmid">36774332</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.vaccine.2023.02.008</pub-id><pub-id pub-id-type="pmcid">PMC9905096</pub-id></mixed-citation></ref><ref id="ref38"><label>38.</label><mixed-citation publication-type="journal" id="r38">
+<string-name name-style="western">
+<surname>Townsend</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gillespie</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>McGrath</surname>
+<given-names>J</given-names>
+</string-name>, <etal>et al.</etal>
+<article-title>Health care personnel workdays lost and direct health care salary costs incurred due to COVID-19 infection in the age of widespread vaccine availability</article-title>. <source>J Infect Dis</source>
+<year>2024</year>:<fpage>jiae223</fpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/infdis/jiae223</pub-id><pub-id pub-id-type="pmcid">PMC11481310</pub-id><pub-id pub-id-type="pmid">38771075</pub-id></mixed-citation></ref><ref id="ref39"><label>39.</label><mixed-citation publication-type="journal" id="r39">
+<string-name name-style="western">
+<surname>Aydillo</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Balsera-Manzanero</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rojo-Fernandez</surname>
+<given-names>A</given-names>
+</string-name>, <etal>et al.</etal>
+<article-title>Concomitant administration of seasonal influenza and COVID-19 mRNA vaccines</article-title>. <source>Emerg Micro Infect</source>
+<year>2024</year>;<volume>13</volume>:<fpage>2292068</fpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1080/22221751.2023.2292068</pub-id><pub-id pub-id-type="pmcid">PMC10798284</pub-id><pub-id pub-id-type="pmid">38054302</pub-id></mixed-citation></ref><ref id="ref40"><label>40.</label><mixed-citation publication-type="journal" id="r40">
+<string-name name-style="western">
+<surname>Spergel</surname>
+<given-names>AKR</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wu</surname>
+<given-names>I</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Deng</surname>
+<given-names>W</given-names>
+</string-name>, <etal>et al.</etal>
+<article-title>Immunogenicity and safety of influenza and COVID-19 multicomponent vaccine in adults≥ 50 years: a randomized clinical trial</article-title>. <source>JAMA</source>
+<year>2025</year>;<volume>333</volume>(<issue>22</issue>):<fpage>1977</fpage>–<lpage>1987</lpage>.<pub-id pub-id-type="pmid">40332892</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1001/jama.2025.5646</pub-id><pub-id pub-id-type="pmcid">PMC12060023</pub-id></mixed-citation></ref></ref-list></back></article></pmc-articleset>

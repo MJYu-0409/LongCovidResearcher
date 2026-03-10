@@ -1,0 +1,41 @@
+{
+  "pmcid": "PMC11957433",
+  "pmid": "39964227",
+  "doi": "10.1097/PSY.0000000000001380",
+  "title": "Unmasking the Psychological Landscape of Long COVID: A Cluster-analytical Approach.",
+  "abstract": "OBJECTIVE: Since the emergence of SARS-CoV-2, an increasing number of people report long-term physical and psychological impairments. Research on the immunological sequalae of long COVID (LC) is growing, though its relationship with mental health remains underexplored. We investigated the psychological impairments associated with LC, identified related psychological symptom clusters, and their relationship with physical symptoms and pandemic-related variables.\nMETHODS: This is a cross-sectional descriptive study using an online questionnaire (September 2020 to December 2022) in German and French to assess depression, anxiety, fatigue, stress, and somatic symptoms. Clusters were identified using hierarchical and machine learning techniques (Kmeans and AffinityPropagation) and compared based on LC symptoms, past physical and mental health, substance use, COVID-19 variants, and family dynamics.\nRESULTS: Among 1218 LC participants (78.7% female), 4 clusters were identified using AffinityPropagation: (1) low anxiety, depression, and somatoform symptoms, (2) low anxiety and depression but moderate somatoform symptoms, (3) high anxiety and depression with high somatoform symptoms, and (4) high anxiety and depression with moderate somatoform symptoms. Cluster 3 reported the most severe physical and neurological symptoms, the largest life impact (including relationship deterioration and professional difficulties), and the highest prevalence of past mental disorders (depression and post-traumatic stress disorder). Cluster 1 reported the least symptoms.\nCONCLUSIONS: LC significantly impacts mental health, particularly through increased anxiety, depression, and somatoform symptoms, especially in patients with severe LC physical symptoms. Psychological interventions targeting distinct symptom clusters may improve both mental and physical outcomes. Early mental health screening and tailored interventions are recommended for LC assessment and treatment.",
+  "authors": [
+    "Raquel Gómez Bravo",
+    "Alexandre Infanti",
+    "Joël Billieux",
+    "Mark Ritzen",
+    "Sandra Nischwitz",
+    "Angelika Erhardt",
+    "Thérèse Staub",
+    "Christian G Huber",
+    "Undine Lang",
+    "Steffi Weidt",
+    "Kira Wolff",
+    "Juliane Müller",
+    "Claus Vögele",
+    "Charles Benoy"
+  ],
+  "journal": "Biopsychosocial science and medicine",
+  "pub_year": "2025",
+  "pub_month": "Apr",
+  "pub_day": "01",
+  "keywords": [
+    "AffinityPropagation",
+    "cluster analysis",
+    "long COVID (LC)",
+    "mental health",
+    "post-COVID syndrome PCC",
+    "post-acute sequelae of SARS-CoV-2 infection (PASC)",
+    "psychological distress",
+    "psychological impact",
+    "psychological symptoms"
+  ],
+  "article_types": [
+    "Journal Article"
+  ]
+}

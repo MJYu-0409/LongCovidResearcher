@@ -1,0 +1,35 @@
+{
+  "pmcid": "PMC12355292",
+  "pmid": "40810942",
+  "doi": "10.1001/jamanetworkopen.2025.26901",
+  "title": "Digital Biometric Measures in Long COVID: A Secondary Analysis of the STOP-PASC Randomized Clinical Trial.",
+  "abstract": "IMPORTANCE: Digital biometrics can be used to monitor disease, but there is limited research on their applications for assessing postacute sequelae of SARS-CoV-2 (PASC) or long COVID.\nOBJECTIVE: To better understand digital biometric patterns in long COVID using wearable device technology and whether there are any differences between the nirmatrelvir-ritonavir and placebo-ritonavir intervention arms.\nDESIGN, SETTING, AND PARTICIPANTS: This secondary analysis is an exploratory substudy of a placebo-controlled randomized clinical trial (Selective Trial of Paxlovid for PASC [STOP-PASC]) that was conducted from November 2022 to September 2023 at Stanford University. Trial participants were randomized, and a subset enrolled into the prespecified substudy.\nINTERVENTION: Participants were randomized 2:1 to receive oral nirmatrelvir (300 mg) and ritonavir (100 mg) or placebo-ritonavir twice daily for 15 days. Substudy participants were provided with a smartwatch and asked to wear it for 24 hours a day, 7 days a week for the 15-week study.\nMAIN OUTCOMES AND MEASURES: Mean changes in digital biometric measures in physical activity, heart rate, and oxygen saturation tracked by a smartwatch. Biometric measures were summarized by treatment arm for each of 5 different time frames: baseline, treatment period, and 3 subsequent time intervals. Summary measure trajectories were clustered and demographics and clinical characteristics were compared among clusters using absolute standardized differences expressed in units of SDs.\nRESULTS: Of the 94 participants enrolled in the substudy, 50 (37 in nirmatrelvir-ritonavir and 13 in placebo-ritonavir) met the analysis eligibility criteria based on wear time and data completeness. These participants had a mean (SD) age of 42.7 (13.2) years and included 29 females (58.0%). Using mixed models for repeated measures, no significant differences were detected between the intervention arms in the change in biometric measures over time, consistent with the patient-reported outcomes in the STOP-PASC trial. In the overall substudy cohort, latent class mixed models and cluster analysis identified distinct longitudinal trajectories of long COVID over the 15-week study that tracked with different symptoms. Participants with lower daytime physical activity reported more severe fatigue (9 of 9 [100%] vs 21 of 23 [91.3%]; absolute standardized difference [ASD], 0.30), shortness of breath (9 of 9 [100%] vs 7 of 23 [30.4%]; ASD, 1.31), and cardiovascular symptoms (8 of 9 [88.9%] vs 12 of 23 [52.2%]; ASD, 0.70). Those with higher nighttime physical activity reported more gastrointestinal symptoms (2 of 3 [66.7%] vs 11 of 35 [31.4%]; ASD, 0.50). Additionally, participants with higher median daytime heart rates reported less fatigue (7 of 9 [77.8%] vs 39 of 40 [97.5%]; ASD, 0.63) and shortness of breath (3 of 9 [33.3%] vs 23 of 40 [57.5%]; ASD, 0.50) compared with those with lower heart rates.\nCONCLUSIONS AND RELEVANCE: This secondary analysis identified distinct longitudinal trajectories of physiological and behavioral digital biometric measures captured from wearable devices that reflect the heterogeneity and track with different symptoms of long COVID. Digital biometric measures from wearable devices have promising utility for long COVID research.\nTRIAL REGISTRATION: ClinicalTrials.gov Identifier: NCT05576662.",
+  "authors": [
+    "Fatma Gunturkun",
+    "Haley Hedlin",
+    "Bren Botzheim",
+    "Yaowei Deng",
+    "Hector Bonilla",
+    "Prasanna Jagannathan",
+    "Tom C Quach",
+    "Sungbin Kim",
+    "Michelle Lin",
+    "Gerri O'Riordan",
+    "Henry Tzeng",
+    "Lukas Adamowicz",
+    "Charmaine Demanuele",
+    "Xuemei Cai",
+    "Phillip C Yang",
+    "Upinder Singh",
+    "Linda N Geng"
+  ],
+  "journal": "JAMA network open",
+  "pub_year": "2025",
+  "pub_month": "Aug",
+  "pub_day": "01",
+  "keywords": [],
+  "article_types": [
+    "Journal Article",
+    "Randomized Controlled Trial"
+  ]
+}

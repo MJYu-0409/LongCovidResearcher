@@ -1,0 +1,475 @@
+<?xml version="1.0"  ?><!DOCTYPE pmc-articleset PUBLIC "-//NLM//DTD ARTICLE SET 2.0//EN" "https://dtd.nlm.nih.gov/ncbi/pmc/articleset/nlm-articleset-2.0.dtd"><pmc-articleset><article xml:lang="en" article-type="research-article" dtd-version="1.4"><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">Mem Inst Oswaldo Cruz</journal-id><journal-id journal-id-type="iso-abbrev">Mem Inst Oswaldo Cruz</journal-id><journal-id journal-id-type="pmc-domain-id">2285</journal-id><journal-id journal-id-type="pmc-domain">mioc</journal-id><journal-id journal-id-type="publisher-id">mioc</journal-id><journal-title-group><journal-title>Memórias do Instituto Oswaldo Cruz</journal-title></journal-title-group><issn pub-type="ppub">0074-0276</issn><issn pub-type="epub">1678-8060</issn><publisher><publisher-name>Instituto Oswaldo Cruz</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC11984962</article-id><article-id pub-id-type="pmcid-ver">PMC11984962.1</article-id><article-id pub-id-type="pmcaid">11984962</article-id><article-id pub-id-type="pmcaiid">11984962</article-id><article-id pub-id-type="pmid">40243865</article-id><article-id pub-id-type="doi">10.1590/0074-02760240129</article-id><article-id pub-id-type="other">01117</article-id><article-version article-version-type="pmc-version">1</article-version><article-categories><subj-group subj-group-type="heading"><subject>Research Article</subject></subj-group></article-categories><title-group><article-title>Leukocyte telomere length and telomerase activity in Long COVID patients from Rio de Janeiro, Brazil</article-title></title-group><contrib-group><contrib contrib-type="author"><name name-style="western"><surname>dos Reis</surname><given-names initials="GG">Giane Gonçalves</given-names></name><role>Doctor visit</role><role>patients’ data collection</role><role>blood collection</role><role>LTL</role><role>telomerase assays</role><xref rid="aff1" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="aff2" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib contrib-type="author"><name name-style="western"><surname>Silvestre</surname><given-names initials="RT">Rafaele Tavares</given-names></name><role>LTL</role><role>telomerase activity assays</role><xref rid="aff1" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="aff2" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0003-2246-719X</contrib-id><name name-style="western"><surname>Alves</surname><given-names initials="G">Gilda</given-names></name><role>wrote the manuscript</role><role>experimental design</role><role>supervision</role><xref rid="aff1" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="aff3" ref-type="aff">
+<sup>3</sup>
+</xref><xref rid="c" ref-type="corresp">
+<sup>+</sup>
+</xref></contrib><contrib contrib-type="author"><name name-style="western"><surname>Delmonico</surname><given-names initials="L">Lucas</given-names></name><role>statistical analysis</role><xref rid="aff1" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib contrib-type="author"><name name-style="western"><surname>Chantre-Justino</surname><given-names initials="M">Mariana</given-names></name><role>data analysis</role><xref rid="aff1" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="aff4" ref-type="aff">
+<sup>4</sup>
+</xref></contrib><contrib contrib-type="author"><name name-style="western"><surname>Moreira</surname><given-names initials="ADS">Aline dos Santos</given-names></name><role>data analysis</role><xref rid="aff5" ref-type="aff">
+<sup>5</sup>
+</xref><xref rid="aff6" ref-type="aff">
+<sup>6</sup>
+</xref></contrib><contrib contrib-type="author"><name name-style="western"><surname>Müller</surname><given-names initials="BDLA">Beatriz de Lima Alessio</given-names></name><role>data analysis</role><xref rid="aff5" ref-type="aff">
+<sup>5</sup>
+</xref><xref rid="aff6" ref-type="aff">
+<sup>6</sup>
+</xref></contrib><contrib contrib-type="author"><name name-style="western"><surname>do Nascimento</surname><given-names initials="CR">Carolina Ramos</given-names></name><role>patients’ data collection</role><role>blood collection</role><xref rid="aff1" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib contrib-type="author"><name name-style="western"><surname>da Silva</surname><given-names initials="DLP">Denzel Luis Pereira</given-names></name><role>patients’ data collection</role><role>blood collection</role><xref rid="aff1" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib contrib-type="author"><name name-style="western"><surname>dos Santos</surname><given-names initials="LS">Louisy Sanches</given-names></name><role>criticism of the manuscript</role><role>supervision</role><xref rid="aff3" ref-type="aff">
+<sup>3</sup>
+</xref></contrib><contrib contrib-type="author"><name name-style="western"><surname>de Mattos-Guaraldi</surname><given-names initials="AL">Ana Luíza</given-names></name><role>criticism of the manuscript</role><role>supervision</role><xref rid="aff3" ref-type="aff">
+<sup>3</sup>
+</xref></contrib><contrib contrib-type="author"><name name-style="western"><surname>Ornellas</surname><given-names initials="MH">Maria Helena</given-names></name><role>criticism of the manuscript</role><role>supervision</role><xref rid="aff1" ref-type="aff">
+<sup>1</sup>
+</xref></contrib></contrib-group><aff id="aff1">
+<label>1</label>Universidade do Estado do Rio de Janeiro, Faculdade de Ciências Médicas, Laboratório de Marcadores Circulantes, Rio de Janeiro, RJ, Brasil</aff><aff id="aff2">
+<label>2</label>Universidade do Estado do Rio de Janeiro, Faculdade de Ciências Médicas, Pós-Graduação em Ciências Médicas, Rio de Janeiro, RJ, Brasil</aff><aff id="aff3">
+<label>3</label>Universidade do Estado do Rio de Janeiro, Faculdade de Ciências Médicas, Departamento de Microbiologia, Imunologia e Parasitologia, Rio de Janeiro, RJ, Brasil</aff><aff id="aff4">
+<label>4</label>Instituto Nacional de Traumatologia e Ortopedia, Rio de Janeiro, RJ, Brasil</aff><aff id="aff5">
+<label>5</label>Fundação Oswaldo Cruz-Fiocruz, Instituto Oswaldo Cruz, Laboratório de Genômica Aplicada e Bioinovações, Rio de Janeiro, RJ, Brasil</aff><aff id="aff6">
+<label>6</label>Fundação Oswaldo Cruz-Fiocruz, Instituto Oswaldo Cruz, Rede de Plataformas Tecnológicas Fiocruz, Plataforma de Sequenciamento de Nova Geração, Rio de Janeiro, RJ, Brasil</aff><author-notes><corresp id="c">+ Corresponding author: <email>galvesbrown@gmail.com</email>
+</corresp></author-notes><pub-date date-type="pub" publication-format="electronic"><day>11</day><month>4</month><year>2025</year></pub-date><pub-date date-type="collection" publication-format="electronic"><year>2025</year></pub-date><volume>120</volume><issue-id pub-id-type="pmc-issue-id">480235</issue-id><elocation-id>e240129</elocation-id><history><date date-type="received"><day>20</day><month>6</month><year>2024</year></date><date date-type="accepted"><day>03</day><month>12</month><year>2024</year></date></history><pub-history><event event-type="pmc-release"><date><day>11</day><month>04</month><year>2025</year></date></event><event event-type="pmc-live"><date><day>11</day><month>04</month><year>2025</year></date></event><event event-type="pmc-last-change"><date iso-8601-date="2025-04-19 07:25:54.297"><day>19</day><month>04</month><year>2025</year></date></event></pub-history><permissions><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>This is an open-access article distributed under the terms of the Creative Commons Attribution License</license-p></license></permissions><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pmc-pdf" xlink:href="1678-8060-mioc-120-e240129.pdf"/><abstract><sec><title>BACKGROUND</title><p> Coronavirus disease 2019 (COVID-19) is caused by the new coronavirus 2 (severe acute respiratory syndrome coronavirus 2 - SARS-CoV-2). Long COVID is a new condition associated with persistent COVID-19 symptoms and/or new emerging symptoms. Telomeres are specialised structures for genome protection at the end of chromosomes and telomerase is the enzyme that synthesises telomere DNA.</p></sec><sec><title>OBJECTIVES</title><p> Patients with Long COVID symptoms were recruited at the Pedro Ernesto University Hospital (HUPE) in Rio de Janeiro, Brazil, with the main purpose of investigating the association between telomere length and Long COVID.</p></sec><sec><title>METHODS</title><p> Leukocyte telomere length (LTL) was determined by quantitative real-time polymerase chain reaction (qPCR) in 34 Long COVID patients compared to a control group (n = 122). Telomerase activity was determined by qPCR assays using the commercial kit from ScienCell. A questionnaire on symptoms, vaccine doses and blood count was completed.</p></sec><sec><title>FINDINGS</title><p> The Long COVID patients were found to have an increase in LTL. Telomerase activity was also examined in a smaller number of patients and found to be reactivated in the blood.</p></sec><sec><title>MAIN CONCLUSIONS</title><p> It will be necessary to conduct further studies and monitor Long COVID patients to determine if future health issues could be linked to telomerase activity and elongated telomeres.</p></sec></abstract><kwd-group><title>Key words:</title><kwd>post-acute COVID-19 syndrome</kwd><kwd>post-acute sequelae of SARS-CoV-2 infection</kwd><kwd>telomere elongation</kwd><kwd>telomerase</kwd><kwd>SARS-CoV2</kwd></kwd-group><funding-group><award-group award-type="contract"><funding-source>FAPERJ</funding-source><award-id>E-26/211.120/2021</award-id><award-id>E-26/210.668/2021</award-id></award-group><funding-statement>FAPERJ (E-26/211.120/2021 and E-26/210.668/2021</funding-statement></funding-group><counts><fig-count count="3"/><table-count count="1"/><ref-count count="45"/></counts><custom-meta-group><custom-meta><meta-name>pmc-status-qastatus</meta-name><meta-value>0</meta-value></custom-meta><custom-meta><meta-name>pmc-status-live</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-status-embargo</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-status-released</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-access</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-legally-suppressed</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-pdf</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-supplement</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-pdf-only</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-suppress-copyright</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-real-version</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-scanned-article</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-in-epmc</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-license-ref</meta-name><meta-value>CC BY</meta-value></custom-meta></custom-meta-group></article-meta></front><body><p>In March 2020, the World Health Organization (WHO) declared the coronavirus disease 2019 (COVID-19) pandemic caused by the new coronavirus 2 (severe acute respiratory syndrome coronavirus 2 - SARS-CoV-2).<xref rid="B1" ref-type="bibr">
+<sup>1</sup>
+</xref> SARS-CoV-2 belongs to the family Coronaviridae. This family is part of the order Nidovirales and includes viruses that are enveloped and have a single-stranded RNA genome with positive polarity. Within the Coronaviridae family, SARS-CoV-2 is classified under the genus Betacoronavirus.<xref rid="B2" ref-type="bibr">
+<sup>2</sup>
+</xref>
+<sup>,</sup>
+<xref rid="B3" ref-type="bibr">
+<sup>3</sup>
+</xref> In Brazil alone, COVID-19 was the cause of death of over 700,000 people.<xref rid="B3" ref-type="bibr">
+<sup>3</sup>
+</xref> The main risk factor for death was age, although not exclusively. Although the COVID emergency phase lasted until May 2023, 594,036 new cases were reported to the Brazilian Ministry of Health from January to April 2024, posing a serious public health issue.<xref rid="B4" ref-type="bibr">
+<sup>4</sup>
+</xref>
+<sup>,</sup>
+<xref rid="B5" ref-type="bibr">
+<sup>5</sup>
+</xref>
+</p><p>After the acute phase of COVID-19, millions of patients around the world reported that COVID-19 symptoms persisted when the virus was no longer detectable, and that new symptoms were appearing. This wide combination of symptoms corresponds to a new condition, Long COVID, also known as post-COVID or post-acute sequelae of COVID-19/SARS-CoV-2 infection (PASC). The symptoms of Long COVID are complex and variable.<xref rid="B6" ref-type="bibr">
+<sup>6</sup>
+</xref>
+<sup>,</sup>
+<xref rid="B7" ref-type="bibr">
+<sup>7</sup>
+</xref> Symptoms may alternate over time with the co-occurrence of other illnesses, and their duration is also variable.<xref rid="B6" ref-type="bibr">
+<sup>6</sup>
+</xref>
+<sup>,</sup>
+<xref rid="B7" ref-type="bibr">
+<sup>7</sup>
+</xref>
+<sup>,</sup>
+<xref rid="B8" ref-type="bibr">
+<sup>8</sup>
+</xref>
+</p><p>Telomeres are specialised protective structures at the end of chromosomes that contain short repetitive sequences and proteins. Telomere length (TL) is shortened naturally by aging processes and in age-related diseases and can be influenced by lifestyle.<xref rid="B9" ref-type="bibr">
+<sup>9</sup>
+</xref>
+<sup>,</sup>
+<xref rid="B10" ref-type="bibr">
+<sup>10</sup>
+</xref>
+<sup>,</sup>
+<xref rid="B11" ref-type="bibr">
+<sup>11</sup>
+</xref> Nevertheless, telomere dysfunction can also lead to telomere elongation.<xref rid="B9" ref-type="bibr">
+<sup>9</sup>
+</xref> Telomerase is the complex enzyme that synthesises telomeric DNA based on an RNA template and the catalytic subunit hTERT.<xref rid="B12" ref-type="bibr">
+<sup>12</sup>
+</xref> It is active in rapidly growing cells and is therefore associated with stem cells and cancer.<xref rid="B13" ref-type="bibr">
+<sup>13</sup>
+</xref>
+<sup>,</sup>
+<xref rid="B14" ref-type="bibr">
+<sup>14</sup>
+</xref>
+</p><p>TL has been studied in patients diagnosed with acute COVID-19 disease. Shortening and aging of telomeres was related to disease severity.<xref rid="B15" ref-type="bibr">
+<sup>15</sup>
+</xref>
+<sup>,</sup>
+<xref rid="B16" ref-type="bibr">
+<sup>16</sup>
+</xref>
+<sup>,</sup>
+<xref rid="B17" ref-type="bibr">
+<sup>17</sup>
+</xref>
+<sup>,</sup>
+<xref rid="B18" ref-type="bibr">
+<sup>18</sup>
+</xref> By contrast, the association between TL and complex Long COVID syndrome has not been fully demonstrated. In this article, we report on LTL examined in 34 Long COVID patients compared to a control group (n = 122). Telomerase activity was also examined in a smaller number of patients (n = 4) to confirm the data.</p><sec sec-type="materials|methods"><title>SUBJECTS AND METHODS</title><p>
+<italic toggle="yes">Patients and controls</italic> - Patients with Long COVID symptoms were recruited from the outpatient clinic at the Pedro Ernesto University Hospital (HUPE) in Rio de Janeiro, Brazil, from 2021 to 2022. Peripheral blood samples were collected during the same period for regular blood tests and to establish the LTL protocol. Patients were asked about their acute COVID-19 symptoms, hospitalisations and treatments, Long COVID symptoms, COVID-19 vaccine doses administered and previous chronic medical conditions. The 42 symptoms [<inline-supplementary-material xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="1678-8060-mioc-120-e240129-s.pdf" id="d67e415" content-type="local-data">supplementary data</inline-supplementary-material> (Table I)] evaluated in this study are consistent with those reported by the WHO and other publications on the subject.<xref rid="B6" ref-type="bibr">
+<sup>6</sup>
+</xref>
+<sup>,</sup>
+<xref rid="B7" ref-type="bibr">
+<sup>7</sup>
+</xref>
+<sup>,</sup>
+<xref rid="B19" ref-type="bibr">
+<sup>19</sup>
+</xref>
+<sup>,</sup>
+<xref rid="B20" ref-type="bibr">
+<sup>20</sup>
+</xref>
+<sup>,</sup>
+<xref rid="B21" ref-type="bibr">
+<sup>21</sup>
+</xref>
+<sup>,</sup>
+<xref rid="B22" ref-type="bibr">
+<sup>22</sup>
+</xref> The criteria for determining the severity of COVID-19 were based on whether or not the patients were hospitalised. The cases that were hospitalised were classified as severe, while the outpatients were classified as less severe. A total of 30 women and four men (n = 34) with a mean age of 50.6 years [standard deviation (SD) ± 10.7] were recruited.</p><p>The control group for the LTL test consisted of 97 women and 25 men (n = 122) with a mean age of 50.9 years (SD ± 10.5). The age range of the patients and the control group was between 40 and 60 years. This age range was applied, as aging may not be a linear process, with dysregulations in the immune system and metabolism were detected at around 44 years and 60 years, respectively.<xref rid="B23" ref-type="bibr">
+<sup>23</sup>
+</xref> The DNA of the control group was prepared in our laboratory before the COVID-19 pandemic and stored at -20ºC. In this way, any influence of the SARS-CoV-2 infection on genome/telomere instability was excluded. The participants in the control group were recruited in Rio de Janeiro and stated that they had no serious or metabolic diseases. <xref rid="f1" ref-type="fig">Fig. 1</xref> shows the schedule of blood collection and LTL and telomerase assays, which were performed as follows.</p><p>
+<fig position="float" id="f1" orientation="portrait"><label>Fig. 1:</label><caption><title>timeline of the leukocyte telomere length (LTL) and telomerase assays. The timeline is not in scale.</title></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="1678-8060-mioc-120-e240129-gf1.jpg"/></fig>
+</p><p>
+<italic toggle="yes">Leukocytes telomere length</italic> - DNA was extracted from peripheral blood mononuclear cells (PBMCs) using the conventional phenol-chloroform method and quantified using the Qubit dsDNA HS Assay Kit (Invitrogen, Waltham, MA, USA) according to the manufacturer’s protocol. LTL was measured using the Cawthon-developed quantitative real-time polymerase chain reaction (qPCR) method, which uses 20 ng of DNA and determines the ratio of telomere repeat copy number (T) to single copy gene (S), T/S.<xref rid="B24" ref-type="bibr">
+<sup>24</sup>
+</xref> The single copy gene used in this study was human β-globin (Hbg). The cycling conditions, primers, and reagents used in this study have been previously described.<xref rid="B25" ref-type="bibr">
+<sup>25</sup>
+</xref> The PCR runs were duplicated on a StepOnePlus Real-Time PCR System (Applied Biosystems). An example of amplification curves can be seen in <inline-supplementary-material xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="1678-8060-mioc-120-e240129-s.pdf" id="d67e492" content-type="local-data">Supplementary data</inline-supplementary-material> (Fig. 1). After each reaction, the melting curves of the products were observed and in all cases the curves (T and S) were in the correct position, indicating that no secondary product was present due to DNA decomposition [<inline-supplementary-material xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="1678-8060-mioc-120-e240129-s.pdf" id="d67e495" content-type="local-data">Supplementary data</inline-supplementary-material> (Fig. 2)].</p><p>
+<italic toggle="yes">Telomerase activity</italic> - ScienCell Telomerase Activity Quantification qPCR Assay Kit (catalogue no. 8928) was used according to the manufacturer’s instructions. PBMCs were isolated from 5 mL of a small number of participants: patients (n = 4) and controls (n = 4) who matched for age and sex (all women). Controls were selected from healthy volunteers, as the telomerase assay requires fresh preparation. Two of the control subjects reported no COVID symptoms and tested negative for COVID; one of the control subjects tested positive for COVID but was asymptomatic (over a year ago), and another tested positive but had mild COVID symptoms (over a year ago). According to the protocol, a cycle threshold (Ct) &gt; 33 is considered undetectable for telomerase activity, while Ct &lt; 33 corresponds to positive telomerase activity.</p><p>
+<italic toggle="yes">Statistical analysis</italic> - Contingency tables were used to assess the association between telomere shortening and age, symptom severity, and the distribution of various related symptoms. The statistical significance of the association between these variables was evaluated using the χ2 test and the Fisher exact test. The statistical significance of the association when comparing two or more variables, e.g. different types of symptoms and hospitalisations by severity, was evaluated using the t-test and the Mann-Whitney test.</p><p>The non-parametric Kruskal-Wallis test was used to evaluate the significance of the difference between telomere lengths of the studied groups. Linear regression was used to assess the correlation between age and telomere length between the groups studied. The survey data were processed in GraphPad version 9.4.1. A significance level of 5% was considered for all statistical tests. Thus, statistically significant relationships were considered to be those whose p-value was &lt; 0.05.</p><p>
+<italic toggle="yes">Ethics</italic> - This work was approved by the Pedro Ernesto Ethics Committee under number CAAE 50511821.8.0000.5259.</p></sec><sec sec-type="results"><title>RESULTS</title><p>
+<italic toggle="yes">Clinical characteristics of the patients</italic> - During the acute phase of infection, 10 patients (29.4%) were hospitalised due to the severity of their condition. Hospitalisation occurred between November 2021 and December 2022. The average length of hospitalisation was 15 days. Based on diagnostic data, patients were infected with either the Delta, Gamma or Omicron variant.<xref rid="B26" ref-type="bibr">
+<sup>26</sup>
+</xref>
+<sup>,</sup>
+<xref rid="B27" ref-type="bibr">
+<sup>27</sup>
+</xref> COVID symptoms appeared to be the consequence of the acute infection (runny nose, sore throat, back pain, fatigue, etc.). On the other hand, the most frequent long-term COVID symptoms reported by patients were fatigue (58.8%), shortness of breath (52.9%) and body aches (50%) [Supplementary data (Table I)]. Regarding chronic conditions before COVID-19, hypertension was the most common (15/34), followed by respiratory conditions (asthma, rhinitis, sinusitis, bronchitis) (11/34) and diabetes mellitus (8/34).</p><p>A follow-up examination was carried out by April 2024 (on average 34.5 months later). Twenty patients (58.8%) remained symptomatic, four (11.8%) were asymptomatic and 10 (29.4%) did not respond to our contact attempts. Fatigue (54.16%) and shortness of breath (54.16%) remained the most common symptoms, along with memory disorders (37.5%). Patients with symptoms continue to be treated by physiotherapy, psychology and various medical specialties (pulmonologists, cardiologists and neurologists). Bronchodilators and antidepressants were the most commonly prescribed medications. Regarding COVID-19 vaccination, 31 patients reported having received at least two doses of vaccine. The number of booster vaccinations decreased over time, with only 10 patients reporting that they had received five doses.</p><p>Lymphopenia and an elevated neutrophil/lymphocyte ratio (NLR) have been described as predictors of the severity of COVID-19 infection.<xref rid="B28" ref-type="bibr">
+<sup>28</sup>
+</xref>
+<sup>,</sup>
+<xref rid="B29" ref-type="bibr">
+<sup>29</sup>
+</xref>
+<sup>,</sup>
+<xref rid="B30" ref-type="bibr">
+<sup>30</sup>
+</xref> Among the Long COVID patients, NLR was observed in only 3/34 [<inline-supplementary-material xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="1678-8060-mioc-120-e240129-s.pdf" id="d67e552" content-type="local-data">Supplementary data</inline-supplementary-material> (Table II)]. Only one patient had absolute lymphopenia. Therefore, no association could be established between Long COVID and NLR or lymphopenia. Neutrophilia was observed in four patients.</p><p>
+<italic toggle="yes">Telomere and telomerase</italic> - In the statistical comparison, it was found that the LTL of Long COVID patients was prolonged compared to the control group (p &lt; 0.0001) (<xref rid="f2" ref-type="fig">Fig. 2</xref>). To confirm that telomeres were longer in the Long COVID group, the LTL test was repeated 15 months later in nine patients. The telomere length (T/S) of the 9-patient subgroup was 1.09 (average) in the first round and 1.07 (average) in the second round. The shortening of telomeres observed between the first and second rounds was expected due to aging; however, in the second round, telomeres were still longer on average than those of the control group, confirming the results of the first round. Since Long COVID telomeres were certainly elongated, one hypothesis that could explain this result could be that telomerase was active and continuously adding DNA sequences. Subsequently, telomerase activity was examined in the blood of four female patients and four matching control subjects. Telomerase activity was positive (Ct &lt; 33) in the Long COVID patients and negative (Ct &gt; 33) in the controls, as shown in <xref rid="t" ref-type="table">Table</xref>. Using the formula of the ∆∆Ct method, telomerase was 9.85 times more active in the Long COVID patient group than in the control groups.</p><p>
+<fig position="float" id="f2" orientation="portrait"><label>Fig. 2:</label><caption><title>telomere length (T/S) of Long COVID patients x controls in the first round. T/S ratio: ratio of telomere repeat copy number (T) to single copy gene (S); patients n = 34; controls n = 122; p &lt; 0.05 is significant.</title></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="1678-8060-mioc-120-e240129-gf2.jpg"/></fig>
+</p><p>
+<table-wrap position="float" id="t" orientation="portrait"><label>TABLE</label><caption><title>Telomerase activity and telomere length (T/S)</title></caption><table frame="hsides" rules="groups"><colgroup span="1"><col span="1"/><col span="1"/><col span="1"/><col span="1"/></colgroup><tbody><tr><td align="left" rowspan="1" colspan="1">Long COVID</td><td align="center" rowspan="1" colspan="1">Ct</td><td align="center" rowspan="1" colspan="1">Controls</td><td align="center" rowspan="1" colspan="1">Ct</td></tr><tr><td align="left" rowspan="1" colspan="1">1</td><td align="center" rowspan="1" colspan="1">28.38</td><td align="center" rowspan="1" colspan="1">1</td><td align="center" rowspan="1" colspan="1">31.03</td></tr><tr><td align="left" rowspan="1" colspan="1">2</td><td align="center" rowspan="1" colspan="1">30.71</td><td align="center" rowspan="1" colspan="1">2</td><td align="center" rowspan="1" colspan="1">34.62</td></tr><tr><td align="left" rowspan="1" colspan="1">3</td><td align="center" rowspan="1" colspan="1">28.59</td><td align="center" rowspan="1" colspan="1">3</td><td align="center" rowspan="1" colspan="1">32.98</td></tr><tr><td align="left" rowspan="1" colspan="1">4</td><td align="center" rowspan="1" colspan="1">29.94</td><td align="center" rowspan="1" colspan="1">4</td><td align="center" rowspan="1" colspan="1">32.22</td></tr><tr><td align="left" rowspan="1" colspan="1">Ct average</td><td align="center" rowspan="1" colspan="1">29.41</td><td align="center" rowspan="1" colspan="1">Ct average</td><td align="center" rowspan="1" colspan="1">32.7</td></tr><tr><td align="left" rowspan="1" colspan="1">Age average</td><td align="center" rowspan="1" colspan="1">46.3</td><td align="center" rowspan="1" colspan="1">Age average</td><td align="center" rowspan="1" colspan="1">46.1</td></tr><tr><td align="left" rowspan="1" colspan="1">T/S average</td><td align="center" rowspan="1" colspan="1">1.07</td><td align="center" rowspan="1" colspan="1">T/S average</td><td align="center" rowspan="1" colspan="1">1.01</td></tr></tbody></table><table-wrap-foot><fn id="TFN"><p>T/S ratio: ratio of telomere repeat copy number (T) to single copy gene (S); Ct: cycle threshold.</p></fn></table-wrap-foot></table-wrap>
+</p><p>The significant telomere elongation observed in Long COVID patients could not be linked to the severity of COVID-19, <italic toggle="yes">i.e.</italic>, the need for hospitalisation. In both the hospitalised and non-hospitalised subgroups, telomeres were found to be significantly elongated, p = 0.0287 and p = 0.036, respectively (<xref rid="f3" ref-type="fig">Fig. 3</xref>).</p><p>
+<fig position="float" id="f3" orientation="portrait"><label>Fig. 3:</label><caption><title>telomere length (T/S) of Long COVID patients according to hospitalisation x controls. T/S ratio: ratio of telomere repeat copy number (T) to single copy gene (S); hospitalised patients n = 10; no severity patients n = 24; p &lt; 0.05 is significant.</title></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="1678-8060-mioc-120-e240129-gf3.jpg"/></fig>
+</p></sec><sec sec-type="discussion"><title>DISCUSSION</title><p>The diagnosis of COVID-19 was made quickly through a combination of clinical evaluation, testing for the presence of the virus (RT-PCR, antigen or serological), and imaging (chest X-rays and CT scans). By contrast, the diagnosis of Long COVID is in a grey area. So far, no Long COVID biomarker has been discovered in the blood that could help with a quick and accurate diagnosis, making this condition a medical challenge.<xref rid="B31" ref-type="bibr">
+<sup>31</sup>
+</xref> Currently, diagnosis is based on a combination of a wide range of clinical symptoms.<xref rid="B20" ref-type="bibr">
+<sup>20</sup>
+</xref> One possible explanation for Long COVID could be the remaining SARS-CoV-2 antigens, including the S1 subunit of spike, full-length spike and nucleocapsid, in plasma and serum samples collected months after the end of the acute phase.<xref rid="B32" ref-type="bibr">
+<sup>32</sup>
+</xref> These virus particles could stimulate the enhanced expression of inflammatory cytokines.</p><p>In this study, 42 persistent symptoms of Long COVID were described [<inline-supplementary-material xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="1678-8060-mioc-120-e240129-s.pdf" id="d67e698" content-type="local-data">Supplementary data</inline-supplementary-material> (Table I)], with fatigue, breathlessness and memory problems being the most common at present. These symptoms have been reported previously.<xref rid="B6" ref-type="bibr">
+<sup>6</sup>
+</xref>
+<sup>,</sup>
+<xref rid="B7" ref-type="bibr">
+<sup>7</sup>
+</xref>
+<sup>,</sup>
+<xref rid="B19" ref-type="bibr">
+<sup>19</sup>
+</xref>
+<sup>-</sup>
+<xref rid="B22" ref-type="bibr">
+<sup>22</sup>
+</xref> A limitation of this study is that the variants causing Long COVID are unknown. In most cases, the COVID-19 diagnosis was made in other public health facility without sequencing the virus genome, and then the patients were referred to the HUPE outpatient clinic.</p><p>Along with the difficulties in determining a clear-cut test for the diagnosis of Long COVID, there is also debate about who is more susceptible to Long COVID. In this study, developing Long COVID was not associated with the severity of COVID-19 in the cohort comprised of middle-aged individuals. It is possible that the risk factors for Long COVID are related to female gender, previous medical co-morbidities and the virus genome variants.<xref rid="B33" ref-type="bibr">
+<sup>33</sup>
+</xref>
+<sup>,</sup>
+<xref rid="B34" ref-type="bibr">
+<sup>34</sup>
+</xref> There was no gender bias in the recruitment phase of this work; however, it is clear that females were in the majority (31/34). One possible explanation is that female hormones played a role in maintaining the over-inflammation seen in the acute phase of Long COVID.<xref rid="B35" ref-type="bibr">
+<sup>35</sup>
+</xref>
+</p><p>In the majority of patients, blood counts return to normal parameters within a few days after the acute phase has ended.<xref rid="B35" ref-type="bibr">
+<sup>35</sup>
+</xref> However, a minority of patients may experience changes in their leukograms. In this study, six out of 34 patients had changes in their white blood cell counts. Four of them had leucocytosis at the expense of neutrophils and one had leukopenia due to a decrease in neutrophils. One patient had an increased N/L ratio without any previous report of chronic illness. One possible explanation is that Long COVID triggered these changes or that the patients could be carriers of another underlying infectious disease.</p><p>In Brazil, the vaccination campaign against SARS-COV-2 began in January 2021. The Brazilian health regulatory agency (ANVISA) initially approved four vaccines: CoronaVac, Pfizer-BioNTech, Oxford-AstraZeneca, and Janssen. Moderna was also recently approved by ANVISA.<xref rid="B36" ref-type="bibr">
+<sup>36</sup>
+</xref> The vaccination schedule was initially homologous and then became heterologous. The aim of the vaccination was to reduce the risk of developing severe COVID-19 symptoms. However, the vaccination may partially protect against the effects of Long COVID or mitigate symptoms.<xref rid="B37" ref-type="bibr">
+<sup>37</sup>
+</xref> After vaccination, especially during the Omicron variant period, the risk of developing Long COVID was reduced but still exists.<xref rid="B38" ref-type="bibr">
+<sup>38</sup>
+</xref> However, in this study, most (31/34) of the Long COVID patients surveyed reported having received at least two doses but still continue to suffer from Long COVID symptoms.</p><p>An Italian study reported a significant shortening of LTL, along with other age-related changes, in post-COVID-19 patients, as determined by pyrosequencing of defined CpG islands.<xref rid="B39" ref-type="bibr">
+<sup>39</sup>
+</xref> In contrast, in this study it was demonstrated that telomeres (LTL) are longer in the Long COVID patient group in comparison to the controls. This observation was confirmed by the re-evaluation of LTL in a subgroup of nine patients 15 months later. Differences (genetic, clinical, and environmental) in the study populations and in the methods of analysis could explain these contradictory results. Another possible explanation is that the successive emergence of SARS-CoV-2 variants, along with vaccination, has altered the severity of COVID-19 and the resulting Long COVID.</p><p>Even taking into account the small number of Long COVID patients and controls recruited for the telomerase activity assay, the finding of telomerase activity in this group of Long COVID patients was surprising. Reactivation of telomerase is the most likely explanation for the elongation of telomeres in Long COVID patients. In normal blood cells, telomerase activity is low and consequently insufficient to prevent telomere shortening throughout life.<xref rid="B14" ref-type="bibr">
+<sup>14</sup>
+</xref> The regulation of telomerase activity/hTERT expression involves genetic and epigenetic factors.<xref rid="B40" ref-type="bibr">
+<sup>40</sup>
+</xref>
+<sup>,</sup>
+<xref rid="B41" ref-type="bibr">
+<sup>41</sup>
+</xref>
+<sup>,</sup>
+<xref rid="B42" ref-type="bibr">
+<sup>42</sup>
+</xref> In the Long COVID scenario, it is quite possible that the persistently high concentration of cytokines plays a role in the reactivation of telomerase, since cytokines can promote the expression of hTERT, the catalytic unit of telomerase.<xref rid="B14" ref-type="bibr">
+<sup>14</sup>
+</xref>
+<sup>,</sup>
+<xref rid="B43" ref-type="bibr">
+<sup>43</sup>
+</xref>
+<sup>,</sup>
+<xref rid="B44" ref-type="bibr">
+<sup>44</sup>
+</xref> It is worth noting that higher cytokine levels and longer telomeres were observed in ageing elite athletes.<xref rid="B45" ref-type="bibr">
+<sup>45</sup>
+</xref>
+</p><p>Another limitation of this work is that there are no data on LTL and telomerase activity before and during acute COVID-19 symptoms in the Long COVID patients. It cannot be ruled out that the telomeres of these patients were already elongated before COVID-19. Furthermore, it is not known whether the medications administered or the study participants’ previous chronic illnesses triggered changes in LTL.</p><p>The health consequences caused by the elongation of telomeres and telomerase activity observed in Long COVID patients are completely unknown. It will be necessary to conduct further studies and monitor Long COVID patients to determine if future health problems are due to telomerase activity and elongated telomeres. In conclusion, the full underlying biology of Long COVID needs to be uncovered and the role of TL should be considered. Telomerase reactivation could be part of this complex scenario and likely caused extended telomeres.</p></sec></body><back><fn-group><fn fn-type="financial-disclosure" id="fn1"><p>Financial support: FAPERJ (E-26/211.120/2021 and E-26/210.668/2021).</p></fn></fn-group><fn-group><fn fn-type="other" id="fn2"><label>2</label><p>How to cite: dos Reis GG, Silvestre RT, Alves G, Delmonico L, Chantre-Justino M, Moreira AS, et al. Leukocyte telomere length and telomerase activity in Long COVID patients from Rio de Janeiro, Brazil. Mem Inst Oswaldo Cruz. 2025; 120: e240129.</p></fn></fn-group><ref-list><title>REFERENCES</title><ref id="B1"><label>1</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Cucinotta</surname><given-names>D</given-names></name>
+<name name-style="western"><surname>Vanelli</surname><given-names>M</given-names></name>
+</person-group><article-title>WHO declares COVID-19 a pandemic</article-title><source>Acta Biomed</source><year>2020</year><volume>91</volume><issue>1</issue><fpage>157</fpage><lpage>160</lpage><pub-id pub-id-type="pmid">32191675</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.23750/abm.v91i1.9397</pub-id><pub-id pub-id-type="pmcid">PMC7569573</pub-id></element-citation></ref><ref id="B2"><label>2</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Santacroce</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Charitos</surname><given-names>IA</given-names></name>
+<name name-style="western"><surname>Carretta</surname><given-names>DM</given-names></name>
+<name name-style="western"><surname>De Nitto</surname><given-names>E</given-names></name>
+<name name-style="western"><surname>Lovero</surname><given-names>R</given-names></name>
+</person-group><article-title>The human coronaviruses (HCoVs) and the molecular mechanisms of SARS-CoV-2 infection</article-title><source>J Mol Med (Berl)</source><year>2021</year><volume>99</volume><issue>1</issue><fpage>93</fpage><lpage>106</lpage><pub-id pub-id-type="pmid">33269412</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s00109-020-02012-8</pub-id><pub-id pub-id-type="pmcid">PMC7710368</pub-id></element-citation></ref><ref id="B3"><label>3</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<collab>Coronaviridae Study Group of the International Committee on Taxonomy of Viruses</collab>
+</person-group><article-title>The species severe acute respiratory syndrome-related coronavirus classifying 2019-nCoV and naming it SARS-CoV-2</article-title><source>Nat Microbiol</source><year>2020</year><volume>5</volume><issue>4</issue><fpage>536</fpage><lpage>544</lpage><pub-id pub-id-type="pmid">32123347</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41564-020-0695-z</pub-id><pub-id pub-id-type="pmcid">PMC7095448</pub-id></element-citation></ref><ref id="B4"><label>4</label><element-citation publication-type="webpage"><person-group person-group-type="author">
+<collab>MS</collab>
+</person-group><article-title>Coronavirus Brasil</article-title><year>2024</year><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://covid.saude.gov.br" ext-link-type="uri">https://covid.saude.gov.br</ext-link></element-citation></ref><ref id="B5"><label>5</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Sarker</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Roknuzzaman</surname><given-names>ASM</given-names></name>
+<name name-style="western"><surname>Hossain</surname><given-names>MJ</given-names></name>
+<name name-style="western"><surname>Bhuiyan</surname><given-names>MA</given-names></name>
+<name name-style="western"><surname>Islam</surname><given-names>MR</given-names></name>
+</person-group><article-title>The WHO declares COVID-19 is no longer a public health emergency of international concern benefits, challenges, and necessary precautions to come back to normal life</article-title><source>Int J Surg</source><year>2023</year><volume>109</volume><issue>9</issue><fpage>2851</fpage><lpage>2852</lpage><pub-id pub-id-type="pmid">37222700</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1097/JS9.0000000000000513</pub-id><pub-id pub-id-type="pmcid">PMC10498846</pub-id></element-citation></ref><ref id="B6"><label>6</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Thaweethai</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Jolley</surname><given-names>SE</given-names></name>
+<name name-style="western"><surname>Karlson</surname><given-names>EW</given-names></name>
+<name name-style="western"><surname>Levitan</surname><given-names>EB</given-names></name>
+<name name-style="western"><surname>Levy</surname><given-names>B</given-names></name>
+<name name-style="western"><surname>McComsey</surname><given-names>GA</given-names></name>
+</person-group><article-title>Development of definition of postacute sequelae of SARS-CoV-2 infection</article-title><source>JAMA</source><year>2023</year><volume>329</volume><issue>22</issue><fpage>1934</fpage><lpage>1946</lpage><pub-id pub-id-type="pmid">37278994</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1001/jama.2023.8823</pub-id><pub-id pub-id-type="pmcid">PMC10214179</pub-id></element-citation></ref><ref id="B7"><label>7</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Davis</surname><given-names>HE</given-names></name>
+<name name-style="western"><surname>McCorkell</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Vogel</surname><given-names>JM</given-names></name>
+<name name-style="western"><surname>Topol</surname><given-names>EJ</given-names></name>
+</person-group><article-title>Long COVID major findings, mechanisms and recommendations</article-title><source>Nat Rev Microbiol</source><year>2023</year><volume>21</volume><issue>3</issue><fpage>133</fpage><lpage>146</lpage><pub-id pub-id-type="pmid">36639608</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41579-022-00846-2</pub-id><pub-id pub-id-type="pmcid">PMC9839201</pub-id></element-citation></ref><ref id="B8"><label>8</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Sivan</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Smith</surname><given-names>AB</given-names></name>
+<name name-style="western"><surname>Osborne</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Goodwin</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Lawrence</surname><given-names>RR</given-names></name>
+<name name-style="western"><surname>Baley</surname><given-names>S</given-names></name>
+</person-group><article-title>Long COVID clinical severity types based on symptoms and functional disability a longitudinal evaluation</article-title><source>J Clin Med</source><year>2024</year><volume>13</volume><issue>7</issue><fpage>1908</fpage><lpage>1908</lpage><pub-id pub-id-type="pmid">38610673</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.3390/jcm13071908</pub-id><pub-id pub-id-type="pmcid">PMC11012375</pub-id></element-citation></ref><ref id="B9"><label>9</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Gruber</surname><given-names>HJ</given-names></name>
+<name name-style="western"><surname>Semeraro</surname><given-names>MD</given-names></name>
+<name name-style="western"><surname>Renner</surname><given-names>W</given-names></name>
+<name name-style="western"><surname>Herrmann</surname><given-names>M</given-names></name>
+</person-group><article-title>Telomeres and age-related diseases</article-title><source>Biomedicines</source><year>2021</year><volume>9</volume><issue>10</issue><fpage>1335</fpage><lpage>1335</lpage><pub-id pub-id-type="pmid">34680452</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.3390/biomedicines9101335</pub-id><pub-id pub-id-type="pmcid">PMC8533433</pub-id></element-citation></ref><ref id="B10"><label>10</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Rossiello</surname><given-names>F</given-names></name>
+<name name-style="western"><surname>Jurk</surname><given-names>D</given-names></name>
+<name name-style="western"><surname>Passos</surname><given-names>JF</given-names></name>
+<name name-style="western"><surname>di Fagagna</surname><given-names>FA</given-names></name>
+</person-group><article-title>Telomere dysfunction in ageing and age-related diseases</article-title><source>Nat Cell Biol</source><year>2022</year><volume>24</volume><issue>2</issue><fpage>135</fpage><lpage>147</lpage><pub-id pub-id-type="pmid">35165420</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41556-022-00842-x</pub-id><pub-id pub-id-type="pmcid">PMC8985209</pub-id></element-citation></ref><ref id="B11"><label>11</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Allaire</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>He</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Mayer</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Moat</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Gerstenberger</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Wilhorn</surname><given-names>R</given-names></name>
+</person-group><article-title>Genetic and clinical determinants of telomere length</article-title><source>HGG Adv</source><year>2023</year><volume>4</volume><issue>3</issue><fpage>100201</fpage><lpage>100201</lpage><pub-id pub-id-type="pmid">37216007</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.xhgg.2023.100201</pub-id><pub-id pub-id-type="pmcid">PMC10199259</pub-id></element-citation></ref><ref id="B12"><label>12</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Greider</surname><given-names>CW</given-names></name>
+<name name-style="western"><surname>Blackburn</surname><given-names>EH</given-names></name>
+</person-group><article-title>Identification of a specific telomere terminal transferase activity in tetrahymena extracts</article-title><source>Cell</source><year>1985</year><volume>43</volume><issue>2</issue><issue-part>Pt 1</issue-part><fpage>405</fpage><lpage>413</lpage><pub-id pub-id-type="pmid">3907856</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/0092-8674(85)90170-9</pub-id></element-citation></ref><ref id="B13"><label>13</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Khattar</surname><given-names>E</given-names></name>
+<name name-style="western"><surname>Salvati</surname><given-names>E</given-names></name>
+</person-group><article-title>Editorial Novel insights connecting telomere biology to cancer development and progression</article-title><source>Front Oncol</source><year>2024</year><volume>14</volume><fpage>1405618</fpage><lpage>1405618</lpage><pub-id pub-id-type="pmid">38690161</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.3389/fonc.2024.1405618</pub-id><pub-id pub-id-type="pmcid">PMC11059067</pub-id></element-citation></ref><ref id="B14"><label>14</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Lupatov</surname><given-names>AY</given-names></name>
+<name name-style="western"><surname>Yarygin</surname><given-names>KN</given-names></name>
+</person-group><article-title>Telomeres and telomerase in the control of stem cells</article-title><source>Biomedicines</source><year>2022</year><volume>10</volume><issue>10</issue><fpage>2335</fpage><lpage>2335</lpage><pub-id pub-id-type="pmid">36289597</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.3390/biomedicines10102335</pub-id><pub-id pub-id-type="pmcid">PMC9598777</pub-id></element-citation></ref><ref id="B15"><label>15</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Froidure</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Mahieu</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Hoton</surname><given-names>D</given-names></name>
+<name name-style="western"><surname>Laterre</surname><given-names>PF</given-names></name>
+<name name-style="western"><surname>Yombi</surname><given-names>JC</given-names></name>
+<name name-style="western"><surname>Koenig</surname><given-names>S</given-names></name>
+</person-group><article-title>Short telomeres increase the risk of severe COVID-19</article-title><source>Aging (Albany NY)</source><year>2020</year><volume>12</volume><issue>20</issue><fpage>19911</fpage><lpage>19922</lpage><pub-id pub-id-type="pmid">33104521</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.18632/aging.104097</pub-id><pub-id pub-id-type="pmcid">PMC7655194</pub-id></element-citation></ref><ref id="B16"><label>16</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Sanchez-Vazquez</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Guío-Carrión</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Zapatero-Gaviria</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Martínez</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Blasco</surname><given-names>MA</given-names></name>
+</person-group><article-title>Shorter telomere lengths in patients with severe COVID-19 disease</article-title><source>Aging (Albany NY)</source><year>2021</year><volume>13</volume><issue>1</issue><fpage>1</fpage><lpage>15</lpage><pub-id pub-id-type="pmid">33428591</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.18632/aging.202463</pub-id><pub-id pub-id-type="pmcid">PMC7835063</pub-id></element-citation></ref><ref id="B17"><label>17</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Wang</surname><given-names>Q</given-names></name>
+<name name-style="western"><surname>Codd</surname><given-names>V</given-names></name>
+<name name-style="western"><surname>Raisi-Estabragh</surname><given-names>Z</given-names></name>
+<name name-style="western"><surname>Musicha</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Bountziouka</surname><given-names>V</given-names></name>
+<name name-style="western"><surname>Kaptoge</surname><given-names>S</given-names></name>
+</person-group><article-title>Shorter leukocyte telomere length is associated with adverse COVID-19 outcomes a cohort study in UK Biobank</article-title><source>EBioMedicine</source><year>2021</year><volume>70</volume><fpage>103485</fpage><lpage>103485</lpage><pub-id pub-id-type="pmid">34304048</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.ebiom.2021.103485</pub-id><pub-id pub-id-type="pmcid">PMC8299112</pub-id></element-citation></ref><ref id="B18"><label>18</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Mahmoodpoor</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Sanaie</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Eskandari</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Behrouzi</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Taghizadeh</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Roudbari</surname><given-names>F</given-names></name>
+</person-group><article-title>Association between leukocyte telomere length and COVID-19 severity</article-title><source>Egypt J Med Hum Genet</source><year>2023</year><volume>24</volume><issue>1</issue><fpage>37</fpage><lpage>37</lpage><pub-id pub-id-type="pmid">37273887</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1186/s43042-023-00415-z</pub-id><pub-id pub-id-type="pmcid">PMC10225776</pub-id></element-citation></ref><ref id="B19"><label>19</label><element-citation publication-type="webpage"><person-group person-group-type="author">
+<collab>WHO</collab>
+</person-group><article-title>Coronavirus disease (COVID-19): post COVID-19 condition</article-title><year>2023</year><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.who.int/news-room/questions-and-answers/item/coronavirus-disease-(covid-19)-post-covid-19-condition" ext-link-type="uri">https://www.who.int/news-room/questions-and-answers/item/coronavirus-disease-(covid-19)-post-covid-19-condition</ext-link></element-citation></ref><ref id="B20"><label>20</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Ely</surname><given-names>EW</given-names></name>
+<name name-style="western"><surname>Brown</surname><given-names>LM</given-names></name>
+<name name-style="western"><surname>Fineberg</surname><given-names>HV</given-names></name>
+</person-group><person-group person-group-type="author">
+<collab>National Academies of Sciences.Engineering.and Medicine Committee on Examining the Working Definition for Long Covid</collab>
+</person-group><article-title>Long Covid defined</article-title><source>N Engl J Med</source><year>2024</year><volume>391</volume><issue>18</issue><fpage>1746</fpage><lpage>1753</lpage><pub-id pub-id-type="pmid">39083764</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1056/NEJMsb2408466</pub-id><pub-id pub-id-type="pmcid">PMC11687645</pub-id></element-citation></ref><ref id="B21"><label>21</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Ramakrishnan</surname><given-names>RK</given-names></name>
+<name name-style="western"><surname>Kashour</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Hamid</surname><given-names>Q</given-names></name>
+<name name-style="western"><surname>Halwani</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Tleyjeh</surname><given-names>IM</given-names></name>
+</person-group><article-title>Unraveling the mystery surrounding post-acute sequelae of COVID-19</article-title><source>Front Immunol</source><year>2021</year><volume>12</volume><fpage>686029</fpage><lpage>686029</lpage><pub-id pub-id-type="pmid">34276671</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.3389/fimmu.2021.686029</pub-id><pub-id pub-id-type="pmcid">PMC8278217</pub-id></element-citation></ref><ref id="B22"><label>22</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Bell</surname><given-names>ML</given-names></name>
+<name name-style="western"><surname>Catalfamo</surname><given-names>CJ</given-names></name>
+<name name-style="western"><surname>Farland</surname><given-names>LV</given-names></name>
+<name name-style="western"><surname>Ernst</surname><given-names>KC</given-names></name>
+<name name-style="western"><surname>Jacobs</surname><given-names>ET</given-names></name>
+<name name-style="western"><surname>Klimentidis</surname><given-names>YC</given-names></name>
+</person-group><article-title>Post-acute sequelae of COVID-19 in a non-hospitalized cohort results from the Arizona CoVHORT</article-title><source>PLoS One</source><year>2021</year><volume>16</volume><issue>8</issue><elocation-id>e0254347</elocation-id><pub-id pub-id-type="pmid">34347785</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1371/journal.pone.0254347</pub-id><pub-id pub-id-type="pmcid">PMC8336814</pub-id></element-citation></ref><ref id="B23"><label>23</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Shen</surname><given-names>X</given-names></name>
+<name name-style="western"><surname>Wang</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Zhou</surname><given-names>X</given-names></name>
+<name name-style="western"><surname>Zhou</surname><given-names>W</given-names></name>
+<name name-style="western"><surname>Hornburg</surname><given-names>D</given-names></name>
+<name name-style="western"><surname>Wu</surname><given-names>S</given-names></name>
+</person-group><article-title>Nonlinear dynamics of multi-omics profiles during human aging</article-title><source>Nat Aging</source><year>2024</year><volume>4</volume><issue>11</issue><fpage>1619</fpage><lpage>1634</lpage><pub-id pub-id-type="pmid">39143318</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s43587-024-00692-2</pub-id><pub-id pub-id-type="pmcid">PMC11564093</pub-id></element-citation></ref><ref id="B24"><label>24</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Cawthon</surname><given-names>RM</given-names></name>
+</person-group><article-title>Telomere measurement by quantitative PCR</article-title><source>Nucleic Acids Res</source><year>2002</year><volume>30</volume><issue>10</issue><elocation-id>e47</elocation-id><pub-id pub-id-type="pmid">12000852</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/nar/30.10.e47</pub-id><pub-id pub-id-type="pmcid">PMC115301</pub-id></element-citation></ref><ref id="B25"><label>25</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Joglekar</surname><given-names>MV</given-names></name>
+<name name-style="western"><surname>Satoor</surname><given-names>SN</given-names></name>
+<name name-style="western"><surname>Wong</surname><given-names>WKM</given-names></name>
+<name name-style="western"><surname>Cheng</surname><given-names>F</given-names></name>
+<name name-style="western"><surname>Ma</surname><given-names>RCW</given-names></name>
+<name name-style="western"><surname>Hardikar</surname><given-names>AA</given-names></name>
+</person-group><article-title>An optimised step-by-step protocol for measuring relative telomere length</article-title><source>Methods Protoc</source><year>2020</year><volume>3</volume><fpage>27</fpage><lpage>27</lpage><pub-id pub-id-type="pmid">32260112</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.3390/mps3020027</pub-id><pub-id pub-id-type="pmcid">PMC7359711</pub-id></element-citation></ref><ref id="B26"><label>26</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Moura</surname><given-names>EC</given-names></name>
+<name name-style="western"><surname>Cortez-Escalante</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Cavalcante</surname><given-names>FV</given-names></name>
+<name name-style="western"><surname>Barreto</surname><given-names>ICHC</given-names></name>
+<name name-style="western"><surname>Sanchez</surname><given-names>MN</given-names></name>
+<name name-style="western"><surname>Santos</surname><given-names>LMP</given-names></name>
+</person-group><article-title>Covid-19 temporal evolution and immunization in the three epidemiological waves, Brazil, 2020-2022</article-title><source>Rev Saude Publica</source><year>2022</year><volume>56</volume><fpage>105</fpage><lpage>105</lpage><pub-id pub-id-type="pmid">36515307</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.11606/s1518-8787.2022056004907</pub-id><pub-id pub-id-type="pmcid">PMC9749655</pub-id></element-citation></ref><ref id="B27"><label>27</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Michelon</surname><given-names>CM</given-names></name>
+</person-group><article-title>Principais variantes do SARS-CoV-2 notificadas no Brasil [Main SARS-CoV-2 variants notified in</article-title><source>Brazil]. RBAC</source><year>2021</year><volume>53</volume><issue>2</issue><fpage>109</fpage><lpage>116</lpage></element-citation></ref><ref id="B28"><label>28</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Fathi</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Rezaei</surname><given-names>N</given-names></name>
+</person-group><article-title>Lymphopenia in COVID-19 therapeutic opportunities</article-title><source>Cell Biol Int</source><year>2020</year><volume>44</volume><issue>9</issue><fpage>1792</fpage><lpage>1797</lpage><pub-id pub-id-type="pmid">32458561</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/cbin.11403</pub-id><pub-id pub-id-type="pmcid">PMC7283672</pub-id></element-citation></ref><ref id="B29"><label>29</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Kilic</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Ebik</surname><given-names>B</given-names></name>
+<name name-style="western"><surname>Bacaksiz</surname><given-names>F</given-names></name>
+<name name-style="western"><surname>Ekin</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Kalin</surname><given-names>BS</given-names></name>
+</person-group><article-title>Is Lymphopenia a predictor of mortality in patients with COVID-19</article-title><source>Acta Clin Croat</source><year>2023</year><volume>62</volume><issue>1</issue><fpage>82</fpage><lpage>87</lpage><pub-id pub-id-type="pmid">38304379</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.20471/acc.2023.62.01.10</pub-id><pub-id pub-id-type="pmcid">PMC10829944</pub-id></element-citation></ref><ref id="B30"><label>30</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Xia</surname><given-names>W</given-names></name>
+<name name-style="western"><surname>Tan</surname><given-names>Y</given-names></name>
+<name name-style="western"><surname>Hu</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Li</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Jiang</surname><given-names>T</given-names></name>
+</person-group><article-title>Predictive value of systemic immune-inflammation index and neutrophil-to-lymphocyte ratio in patients with severe COVID-19</article-title><source>Clin Appl Thromb Hemost</source><year>2022</year><volume>28</volume><fpage>10760296221111391</fpage><lpage>10760296221111391</lpage><pub-id pub-id-type="pmid">35765218</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1177/10760296221111391</pub-id><pub-id pub-id-type="pmcid">PMC9247370</pub-id></element-citation></ref><ref id="B31"><label>31</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Erlandson</surname><given-names>KM</given-names></name>
+<name name-style="western"><surname>Geng</surname><given-names>LN</given-names></name>
+<name name-style="western"><surname>Selvaggi</surname><given-names>CA</given-names></name>
+<name name-style="western"><surname>Thaweethai</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Chen</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Erdmann</surname><given-names>NB</given-names></name>
+</person-group><article-title>Differentiation of prior SARS-CoV-2 infection and postacute sequelae by standard clinical laboratory measurements in the RECOVER cohort</article-title><source>Ann Intern Med</source><year>2024</year><volume>177</volume><issue>9</issue><fpage>1209</fpage><lpage>1221</lpage><pub-id pub-id-type="pmid">39133923</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.7326/M24-0737</pub-id><pub-id pub-id-type="pmcid">PMC11408082</pub-id></element-citation></ref><ref id="B32"><label>32</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Swank</surname><given-names>Z</given-names></name>
+<name name-style="western"><surname>Borberg</surname><given-names>E</given-names></name>
+<name name-style="western"><surname>Chen</surname><given-names>Y</given-names></name>
+<name name-style="western"><surname>Senussi</surname><given-names>Y</given-names></name>
+<name name-style="western"><surname>Chalise</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Manickas-Hill</surname><given-names>Z</given-names></name>
+</person-group><article-title>Measurement of circulating viral antigens post-SARS-CoV-2 infection in a multicohort study</article-title><source>Clin Microbiol Infect</source><year>2024</year><volume>30</volume><issue>12</issue><fpage>1599</fpage><lpage>1605</lpage><pub-id pub-id-type="pmid">39389851</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.cmi.2024.09.001</pub-id><pub-id pub-id-type="pmcid">PMC11578795</pub-id></element-citation></ref><ref id="B33"><label>33</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Notarte</surname><given-names>KI</given-names></name>
+<name name-style="western"><surname>de Oliveira</surname><given-names>MHS</given-names></name>
+<name name-style="western"><surname>Peligro</surname><given-names>PJ</given-names></name>
+<name name-style="western"><surname>Velasco</surname><given-names>JV</given-names></name>
+<name name-style="western"><surname>Macaranas</surname><given-names>I</given-names></name>
+<name name-style="western"><surname>Ver</surname><given-names>AT</given-names></name>
+</person-group><article-title>Age, sex and previous comorbidities as risk factors not associated with SARS-CoV-2 infection for long COVID-19 a systematic review and meta-analysis</article-title><source>J Clin Med</source><year>2022</year><volume>11</volume><issue>24</issue><fpage>7314</fpage><lpage>7314</lpage><pub-id pub-id-type="pmid">36555931</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.3390/jcm11247314</pub-id><pub-id pub-id-type="pmcid">PMC9787827</pub-id></element-citation></ref><ref id="B34"><label>34</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Bai</surname><given-names>F</given-names></name>
+<name name-style="western"><surname>Tomasoni</surname><given-names>D</given-names></name>
+<name name-style="western"><surname>Falcinella</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Barbanotti</surname><given-names>D</given-names></name>
+<name name-style="western"><surname>Castoldi</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Mulè</surname><given-names>G</given-names></name>
+<etal/>
+</person-group><article-title>Female gender is associated with long COVID syndrome: a prospective cohort study</article-title><source>Clin Microbiol Infect</source><year>2022</year><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.cmi.2021.11.002</pub-id><pub-id pub-id-type="pmcid">PMC8575536</pub-id><pub-id pub-id-type="pmid">34763058</pub-id></element-citation></ref><ref id="B35"><label>35</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Lechuga</surname><given-names>GC</given-names></name>
+<name name-style="western"><surname>Morel</surname><given-names>CM</given-names></name>
+<name name-style="western"><surname>De-Simone</surname><given-names>SG</given-names></name>
+</person-group><article-title>Hematological alterations associated with long COVID-19</article-title><source>Front Physiol</source><year>2023</year><volume>14</volume><fpage>1203472</fpage><lpage>1203472</lpage><pub-id pub-id-type="pmid">37565145</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.3389/fphys.2023.1203472</pub-id><pub-id pub-id-type="pmcid">PMC10411895</pub-id></element-citation></ref><ref id="B36"><label>36</label><element-citation publication-type="webpage"><person-group person-group-type="author">
+<collab>MS/ANVISA</collab>
+</person-group><article-title>Vacinas - Covid-19</article-title><year>2024</year><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.gov.br/anvisa/pt-br/assuntos/paf/coronavirus/vacinas" ext-link-type="uri">https://www.gov.br/anvisa/pt-br/assuntos/paf/coronavirus/vacinas</ext-link></element-citation></ref><ref id="B37"><label>37</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Oelsner</surname><given-names>EC</given-names></name>
+<name name-style="western"><surname>Sun</surname><given-names>Y</given-names></name>
+<name name-style="western"><surname>Balte</surname><given-names>PP</given-names></name>
+<name name-style="western"><surname>Allen</surname><given-names>NB</given-names></name>
+<name name-style="western"><surname>Andrews</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Carson</surname><given-names>A</given-names></name>
+</person-group><article-title>Epidemiologic features of recovery from SARS-CoV-2 infection</article-title><source>JAMA Netw Open</source><year>2024</year><volume>7</volume><issue>6</issue><elocation-id>e2417440</elocation-id><pub-id pub-id-type="pmid">38884994</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1001/jamanetworkopen.2024.17440</pub-id><pub-id pub-id-type="pmcid">PMC11184459</pub-id></element-citation></ref><ref id="B38"><label>38</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Xie</surname><given-names>Y</given-names></name>
+<name name-style="western"><surname>Choi</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Al-Aly</surname><given-names>Z</given-names></name>
+</person-group><article-title>Postacute sequelae of SARS-CoV-2 infection in the pre-Delta, Delta, and Omicron Eras</article-title><source>N Engl J Med</source><year>2024</year><volume>391</volume><issue>6</issue><fpage>515</fpage><lpage>525</lpage><pub-id pub-id-type="pmid">39018527</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1056/NEJMoa2403211</pub-id><pub-id pub-id-type="pmcid">PMC11687648</pub-id></element-citation></ref><ref id="B39"><label>39</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Mongelli</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Barbi</surname><given-names>V</given-names></name>
+<name name-style="western"><surname>Zamperla</surname><given-names>MG</given-names></name>
+<name name-style="western"><surname>Atlante</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Forleo</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Nesta</surname><given-names>M</given-names></name>
+</person-group><article-title>Evidence for biological age acceleration and telomere shortening in COVID-19 survivors</article-title><source>Int J Mol Sci</source><year>2021</year><volume>22</volume><issue>11</issue><fpage>6151</fpage><lpage>6151</lpage><pub-id pub-id-type="pmid">34200325</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.3390/ijms22116151</pub-id><pub-id pub-id-type="pmcid">PMC8201243</pub-id></element-citation></ref><ref id="B40"><label>40</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Wojtyla</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Gladych</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Rubis</surname><given-names>B</given-names></name>
+</person-group><article-title>Human telomerase activity regulation</article-title><source>Mol Biol Rep</source><year>2011</year><volume>38</volume><issue>5</issue><fpage>3339</fpage><lpage>3349</lpage><pub-id pub-id-type="pmid">21086176</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s11033-010-0439-x</pub-id><pub-id pub-id-type="pmcid">PMC3085100</pub-id></element-citation></ref><ref id="B41"><label>41</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Cifuentes-Rojas</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Shippen</surname><given-names>DE</given-names></name>
+</person-group><article-title>Telomerase regulation</article-title><source>Mutat Res</source><year>2012</year><volume>730</volume><issue>1-2</issue><fpage>20</fpage><lpage>27</lpage><pub-id pub-id-type="pmid">22032831</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.mrfmmm.2011.10.003</pub-id><pub-id pub-id-type="pmcid">PMC3256259</pub-id></element-citation></ref><ref id="B42"><label>42</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Avin</surname><given-names>BA</given-names></name>
+<name name-style="western"><surname>Umbricht</surname><given-names>CB</given-names></name>
+<name name-style="western"><surname>Zeiger</surname><given-names>MA</given-names></name>
+</person-group><article-title>Human telomerase reverse transcriptase regulation by DNA methylation, transcription factor binding and alternative splicing (Review)</article-title><source>Int J Oncol</source><year>2016</year><volume>49</volume><issue>6</issue><fpage>2199</fpage><lpage>2205</lpage><pub-id pub-id-type="pmid">27779655</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.3892/ijo.2016.3743</pub-id><pub-id pub-id-type="pmcid">PMC6903903</pub-id></element-citation></ref><ref id="B43"><label>43</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Krishna</surname><given-names>BA</given-names></name>
+<name name-style="western"><surname>Lim</surname><given-names>EY</given-names></name>
+<name name-style="western"><surname>Metaxaki</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Jackson</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Mactavous</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>BioResource</surname><given-names>NIHR</given-names></name>
+</person-group><article-title>Spontaneous, persistent, T cell-dependent IFN- release in patients who progress to Long Covid</article-title><source>Sci Adv</source><year>2024</year><volume>10</volume><issue>8</issue><pub-id pub-id-type="doi" assigning-authority="pmc">10.1126/sciadv.adi9379</pub-id><pub-id pub-id-type="pmcid">PMC10881041</pub-id><pub-id pub-id-type="pmid">38381822</pub-id></element-citation></ref><ref id="B44"><label>44</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Brazvan</surname><given-names>B</given-names></name>
+<name name-style="western"><surname>Ebrahimi-Kalan</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Velaei</surname><given-names>K</given-names></name>
+<name name-style="western"><surname>Mehdipour</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Serej</surname><given-names>ZA</given-names></name>
+<name name-style="western"><surname>Ebrahimi</surname><given-names>A</given-names></name>
+</person-group><article-title>Telomerase activity and telomere on stem progeny senescence</article-title><source>Biomed Pharmacother</source><year>2018</year><volume>102</volume><fpage>9</fpage><lpage>17</lpage><pub-id pub-id-type="pmid">29547744</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.biopha.2018.02.073</pub-id></element-citation></ref><ref id="B45"><label>45</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Sellami</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Al-Muraikhy</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Al-Jaber</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Al-Amri</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Al-Mansoori</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Mazloum</surname><given-names>NA</given-names></name>
+</person-group><article-title>Age and sport intensity-dependent changes in cytokines and telomere length in elite athletes</article-title><source>Antioxidants (Basel)</source><year>2021</year><volume>10</volume><issue>7</issue><fpage>1035</fpage><lpage>1035</lpage><pub-id pub-id-type="pmid">34203235</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.3390/antiox10071035</pub-id><pub-id pub-id-type="pmcid">PMC8300746</pub-id></element-citation></ref></ref-list></back></article></pmc-articleset>

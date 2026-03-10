@@ -1,0 +1,42 @@
+{
+  "pmcid": "PMC12007038",
+  "pmid": "40256447",
+  "doi": "10.1136/bmjph-2024-001166",
+  "title": "Social determinants of recovery from ongoing symptoms following COVID-19 in two UK longitudinal studies: a prospective cohort study.",
+  "abstract": "INTRODUCTION: Social gradients in COVID-19 exposure and severity have been observed internationally. Whether combinations of pre-existing social factors, particularly those that confer cumulative advantage and disadvantage, affect recovery from ongoing symptoms following COVID-19 and long COVID is less well understood.\nMETHODS: We analysed data on self-perceived recovery following self-reported COVID-19 illness in two UK community-based cohorts, COVID Symptom Study Biobank (CSSB) (N=2548) and TwinsUK (N=1334). Causal effects of sociodemographic variables reflecting status prior to the COVID-19 pandemic on recovery were estimated with multivariable Poisson regression models, weighted for inverse probability of questionnaire participation and COVID-19 infection and adjusted for potential confounders. Associations between recovery and social strata comprising combinations of sex, education level and local area deprivation were estimated using the intersectional multilevel analysis of individual heterogeneity and discriminatory accuracy (MAIHDA) approach. Further analyses estimated associations with variables reflecting experiences during the pandemic.\nRESULTS: Gradients in recovery from COVID-19 along the lines of social advantage were observed in intersectional MAIHDA models, with predicted probability of recovery lowest in female strata with lowest education and highest deprivation levels (CSSB: 55.1% (95% CI 44.0% to 65.1%); TwinsUK: 73.9% (95% CI 61.1% to 83.0%)) and highest in male strata with highest education and lowest deprivation levels (CSSB: 79.1% (95% CI 71.8% to 85.1%); TwinsUK: 89.7% (95% CI 82.5% to 94.1%)). Associations were not explained by differences in prepandemic health. Adverse employment, financial, healthcare access and personal experiences during the pandemic were also negatively associated with recovery.\nCONCLUSIONS: Inequalities in likelihood of recovery from COVID-19 were observed, with ongoing symptoms several months after coronavirus infection more likely for individuals with greater social disadvantage prior to the pandemic.",
+  "authors": [
+    "Nathan J Cheetham",
+    "Vicky Bowyer",
+    "María Paz García",
+    "Ruth C E Bowyer",
+    "J D Carpentieri",
+    "Andy Guise",
+    "Ellen J Thompson",
+    "Carole H Sudre",
+    "Erika Molteni",
+    "Michela Antonelli",
+    "Rose S Penfold",
+    "Nicholas R Harvey",
+    "Liane S Canas",
+    "Khaled Rjoob",
+    "Benjamin Murray",
+    "Eric Kerfoot",
+    "Alexander Hammers",
+    "Sebastien Ourselin",
+    "Emma L Duncan",
+    "Claire J Steves"
+  ],
+  "journal": "BMJ public health",
+  "pub_year": "2025",
+  "pub_month": "03",
+  "pub_day": "20",
+  "keywords": [
+    "COVID-19",
+    "SARS-CoV-2",
+    "Social Medicine",
+    "Sociodemographic Factors"
+  ],
+  "article_types": [
+    "Journal Article"
+  ]
+}

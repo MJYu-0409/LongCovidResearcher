@@ -1,0 +1,634 @@
+<?xml version="1.0"  ?><!DOCTYPE pmc-articleset PUBLIC "-//NLM//DTD ARTICLE SET 2.0//EN" "https://dtd.nlm.nih.gov/ncbi/pmc/articleset/nlm-articleset-2.0.dtd"><pmc-articleset><article xml:lang="en" article-type="review-article" dtd-version="1.4"><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">Front Immunol</journal-id><journal-id journal-id-type="iso-abbrev">Front Immunol</journal-id><journal-id journal-id-type="pmc-domain-id">1754</journal-id><journal-id journal-id-type="pmc-domain">frontimmu</journal-id><journal-id journal-id-type="publisher-id">Front. Immunol.</journal-id><journal-title-group><journal-title>Frontiers in Immunology</journal-title></journal-title-group><issn pub-type="epub">1664-3224</issn><publisher><publisher-name>Frontiers Media SA</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC12698589</article-id><article-id pub-id-type="pmcid-ver">PMC12698589.1</article-id><article-id pub-id-type="pmcaid">12698589</article-id><article-id pub-id-type="pmcaiid">12698589</article-id><article-id pub-id-type="pmid">41394849</article-id><article-id pub-id-type="doi">10.3389/fimmu.2025.1708364</article-id><article-version-alternatives><article-version article-version-type="pmc-version">1</article-version><article-version article-version-type="Version of Record" vocab="NISO-RP-8-2008"/></article-version-alternatives><article-categories><subj-group subj-group-type="heading"><subject>Mini Review</subject></subj-group></article-categories><title-group><article-title>Dysregulated TFEB–autophagy-lysosome pathway links acute COVID-19 immunopathology to Long COVID sequelae</article-title></title-group><contrib-group><contrib contrib-type="author" corresp="yes"><name name-style="western"><surname>Gabig-Cimińska</surname><given-names initials="M">Magdalena</given-names></name><xref rid="c001" ref-type="corresp">
+<sup>*</sup>
+</xref><uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://loop.frontiersin.org/people/1814881/overview"/><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Writing – review &amp; editing" vocab-term-identifier="https://credit.niso.org/contributor-roles/writing-review-editing/">Writing – review &amp; editing</role><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Writing – original draft" vocab-term-identifier="https://credit.niso.org/contributor-roles/writing-original-draft/">Writing – original draft</role></contrib></contrib-group><aff id="aff1"><institution>Department of Medical Biology and Genetics, Faculty of Biology, University of Gdańsk</institution>, <city>Gdańsk</city>, <country country="pl">Poland</country></aff><author-notes><corresp id="c001"><label>*</label>Correspondence: Magdalena Gabig-Cimińska, <email xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="mailto:magdalena.gabig-ciminska@ug.edu.pl">magdalena.gabig-ciminska@ug.edu.pl</email></corresp></author-notes><pub-date publication-format="electronic" date-type="pub" iso-8601-date="2025-11-28"><day>28</day><month>11</month><year>2025</year></pub-date><pub-date publication-format="electronic" date-type="collection"><year>2025</year></pub-date><volume>16</volume><issue-id pub-id-type="pmc-issue-id">480569</issue-id><elocation-id>1708364</elocation-id><history><date date-type="received"><day>29</day><month>9</month><year>2025</year></date><date date-type="accepted"><day>13</day><month>11</month><year>2025</year></date><date date-type="rev-recd"><day>12</day><month>11</month><year>2025</year></date></history><pub-history><event event-type="pmc-release"><date><day>28</day><month>11</month><year>2025</year></date></event><event event-type="pmc-live"><date><day>13</day><month>12</month><year>2025</year></date></event><event event-type="pmc-last-change"><date iso-8601-date="2025-12-15 15:25:13.207"><day>15</day><month>12</month><year>2025</year></date></event></pub-history><permissions><copyright-statement>Copyright © 2025 Gabig-Cimińska.</copyright-statement><copyright-year>2025</copyright-year><copyright-holder>Gabig-Cimińska</copyright-holder><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense" start_date="2025-11-28">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>This is an open-access article distributed under the terms of the <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License (CC BY)</ext-link>. The use, distribution or reproduction in other forums is permitted, provided the original author(s) and the copyright owner(s) are credited and that the original publication in this journal is cited, in accordance with accepted academic practice. No use, distribution or reproduction is permitted which does not comply with these terms.</license-p></license></permissions><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pmc-pdf" xlink:href="fimmu-16-1708364.pdf"/><abstract><p>SARS-CoV-2 disrupts cellular homeostasis, including the autophagy-lysosome pathway (ALP), a critical component of innate immunity and viral clearance. By subverting autophagy, SARS-CoV-2 proteins such as ORF3a, ORF7a, and NSP6 inhibit autophagosome-lysosome (APG-L) fusion, generating “incomplete autophagy” that permits viral persistence and drives hyperinflammation. Transcription factor EB (TFEB), a master regulator of lysosomal biogenesis and autophagy, has emerged as a central player in the host response to coronavirus infection. TFEB orchestrates the expression of genes required for lysosomal function and autophagic flux while also shaping immune processes, including cytokine production, interferon-stimulated gene expression, and inflammasome clearance. This mini review synthesizes current knowledge on the TFEB-ALP axis in COVID-19 pathogenesis, highlighting its influence on acute immunopathology and its potential contribution to post-acute sequelae (Long COVID). Restoring TFEB activity and autophagic flux may counteract SARS-CoV-2 evasion strategies and restrain aberrant inflammatory responses. Harnessing the TFEB-autophagy pathway as a host-directed therapeutic strategy could help rebalance immune homeostasis, limit tissue damage during acute infection, and mitigate persistent inflammatory sequelae in Long COVID.</p></abstract><kwd-group><kwd>SARS-CoV-2</kwd><kwd>COVID-19</kwd><kwd>Long COVID</kwd><kwd>autophagy-lysosome pathway (ALP)</kwd><kwd>lysosomal organelle</kwd><kwd>transcription factor EB (TFEB)</kwd><kwd>host-directed therapy</kwd></kwd-group><funding-group><funding-statement>The author(s) declare financial support was received for the research and/or publication of this article. The author acknowledges support from the University of Gdańsk (Department of Medical Biology and Genetics task grant no. 531-D130-D693-25 and UG Publication Program grant no. 533-DXXX-S477-25-S0, both awarded to MG-C).</funding-statement></funding-group><counts><fig-count count="1"/><table-count count="1"/><equation-count count="0"/><ref-count count="64"/><page-count count="8"/><word-count count="3547"/></counts><custom-meta-group><custom-meta><meta-name>pmc-status-qastatus</meta-name><meta-value>0</meta-value></custom-meta><custom-meta><meta-name>pmc-status-live</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-status-embargo</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-status-released</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-access</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-legally-suppressed</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-pdf</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-supplement</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-pdf-only</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-suppress-copyright</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-real-version</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-scanned-article</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-in-epmc</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-license-ref</meta-name><meta-value>CC BY</meta-value></custom-meta><custom-meta><meta-name>section-at-acceptance</meta-name><meta-value>Viral Immunology</meta-value></custom-meta></custom-meta-group></article-meta></front><body><sec sec-type="intro" id="s1"><title>Introduction</title><p>The coronavirus disease 2019 (COrona VIrus Disease 2019; COVID-19), caused by Severe Acute Respiratory Syndrome-CoronaVirus-2 (SARS-CoV-2), represents the third major human outbreak of coronaviruses, following Severe Acute Respiratory Syndrome, caused by SARS-CoV (SARS, caused by SARS-CoV) in 2002–2003 and Middle East Respiratory Syndrome (MERS, caused by MERS-CoV) in 2013 (<xref rid="B1" ref-type="bibr">1</xref>–<xref rid="B3" ref-type="bibr">3</xref>). Unlike the earlier epidemics, COVID-19 rapidly escalated into a global pandemic, challenging healthcare systems worldwide and leaving long-lasting consequences for public health. Despite the deployment of vaccines and several antiviral or immunomodulatory drugs, the disease continues to pose threats due to viral evolution, heterogeneous host responses, and the emergence of persistent post-acute sequelae known as Long COVID.</p><p>The autophagy-lysosome pathway (ALP) has emerged as a critical host process targeted by coronaviruses. ALP orchestrates cellular homeostasis by regulating degradation, recycling, and innate immune defense. Recent studies consolidate how SARS-CoV-2 rewires the ALP to favor replication and persistence (<xref rid="B4" ref-type="bibr">4</xref>). SARS-CoV-2 proteins actively interfere with autophagic flux, blocking autophagosome-lysosome (APG-L) fusion and remodeling endomembranes to favor viral replication. Such viral hijacking leads to “incomplete autophagy,” which not only sustains intracellular persistence of viral components but also amplifies pro-inflammatory cascades.</p><p>Central to ALP control is transcription factor EB (TFEB), a master regulator of lysosomal biogenesis and autophagy genes (<xref rid="B5" ref-type="bibr">5</xref>–<xref rid="B7" ref-type="bibr">7</xref>). TFEB integrates nutrient and stress signals to maintain homeostasis and immune responses. Recent evidence indicates that TFEB contributes to interferon-stimulated gene expression, cytokine secretion, inflammasome clearance, and antigen presentation (<xref rid="B8" ref-type="bibr">8</xref>–<xref rid="B12" ref-type="bibr">12</xref>). These functions position TFEB as a pivotal node at the intersection of viral replication and host defense. A schematic overview of these processes, SARS-CoV-2 endolysosomal entry, TFEB gating at the lysosomal surface, and their consequences for autophagic flux is shown in <xref rid="f1" ref-type="fig"><bold>Figure 1</bold></xref>.</p><fig position="float" id="f1" orientation="portrait"><label>Figure 1</label><caption><p>Transcription factor EB-centered control of the autophagy-lysosome pathway (TFEB-ALP axis) during SARS-CoV-2 replication and viral hijacking. Efficient infection proceeds via endocytic entry and low-pH–dependent uncoating in Ls, after which viral RNA replicates and progeny virions can exit by lysosome-dependent exocytosis. At the core of this interface is TFEB, the master transcriptional regulator that determines whether Ls function as degradative organelles or are diverted toward secretion. Because Ls represent the terminal compartment of autophagy, TFEB control extends beyond degradative fate to the entire autophagy-lysosome pathway (ALP). This regulatory hub, referred to as the TFEB-ALP axis, integrates nutrient and stress signals to coordinate autophagic flux and lysosomal biogenesis, thereby shaping both cellular clearance and immune responses. Nutrient sufficiency recruits mTORC1 to the lysosomal surface to phosphorylate TFEB and retain it in the cytoplasm, limiting CLEAR-program transcription. Conversely, under nutrient deprivation or stress, opening of the lysosomal Ca²<sup>+</sup> mucolipin 1 (MCOLN1) channel triggers calcineurin (CaN) activation, dephosphorylating TFEB and driving its nuclear translocation. Nuclear TFEB restores lysosomal competence – boosting L biogenesis, re-acidification, hydrolase maturation, and terminal autophagic flux (APG-L fusion) – thereby favoring degradation of viral components. SARS-CoV-2 proteins (e.g., ORF3a/ORF7a/NSP6) antagonize this TFEB-directed axis by stalling fusion and dampening cathepsin activity, tilting trafficking toward exocytosis. The schematic highlights this tug-of-war centered on TFEB, whose activation must reestablish degradative dominance without inadvertently enhancing lysosomal egress. <italic toggle="yes">Figure created partially using SERVIER MEDICAL ART (</italic><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://smart.servier.com/" ext-link-type="uri"><italic toggle="yes">https://smart.servier.com/</italic></ext-link><italic toggle="yes">), licensed under a Creative Commons Attribution 3.0 Unported License, and BioRender (</italic><uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://app.biorender.com">https://app.biorender.com
+</uri><italic toggle="yes">).</italic> ALP, autophagy-lysosome pathway; APG, autophagosome; APG-L, autophagosome-lysosome; Ca<sup>2+</sup>, calcium ion; CaN, calcineurin; CLEAR, Coordinated Lysosomal Expression and Regulation; L, lysosome; MCOLN1, mucolipin-1 channel; mTORC1, mechanistic target of rapamycin complex 1; NSP6, non-structural protein 6; N, nucleus; ORF3a, open reading frame 3a; ORF7a, open reading frame 7a; SARS-CoV-2, Severe Acute Respiratory Syndrome-CoronaVirus-2; TFEB, transcription factor EB.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="fimmu-16-1708364-g001.jpg"><alt-text content-type="machine-generated">Diagram showing the cellular mechanism of SARS-CoV-2 inside a host cell. Virus particles enter via fusion at pH 4.5. The diagram includes the TFEB-ALP axis, TFEB phosphorylation, and involvement of pathways like mTORC1 and CaN. Components labeled include ORF3a, ORF7a, NSP6, and MCOLN1. The RNA genome and CLEAR network are also depicted.</alt-text></graphic></fig><p>This mini review synthesizes current insights into the viral manipulation of ALP and the immunological role of TFEB in COVID-19. Special emphasis is placed on how disruption of this axis shapes acute immunopathology and may contribute to the persistence of inflammatory signals in Long COVID, highlighting the therapeutic potential of host-directed interventions.</p></sec><sec id="s2"><title>Viral modulation of the autophagy-lysosome pathway</title><p>Coronaviruses have evolved sophisticated mechanisms to exploit the autophagy-lysosome system. In SARS-CoV-2, several accessory proteins subvert ALP at distinct steps, impairing autophagic degradation while preserving structures that support viral replication (<xref rid="T1" ref-type="table"><bold>Table 1</bold></xref>).</p><table-wrap position="float" id="T1" orientation="portrait"><label>Table 1</label><caption><p>SARS−CoV−2 proteins modulating the autophagy-lysosome pathway and their effects.</p></caption><table frame="hsides" rules="groups"><thead><tr><th valign="top" align="left" rowspan="1" colspan="1">Viral protein</th><th valign="top" align="left" rowspan="1" colspan="1">Primary ALP/lysosome effect (mechanism)</th><th valign="top" align="left" rowspan="1" colspan="1">Representative readouts</th><th valign="top" align="left" rowspan="1" colspan="1">Implications for pathogenesis/therapy</th><th valign="top" align="left" rowspan="1" colspan="1">Key refs</th></tr></thead><tbody><tr><td valign="top" align="left" rowspan="1" colspan="1">Spike (S)</td><td valign="top" align="left" rowspan="1" colspan="1">Entry via endo/lysosomal route under low pH; cathepsin B/L cleavage of S enabling fusion (not an ALP antagonist per se, but places early steps under lysosomal control)</td><td valign="top" align="left" rowspan="1" colspan="1">Endosomal entry assays; cathepsin inhibition; low−pH dependence</td><td valign="top" align="left" rowspan="1" colspan="1">Rationale for targeting lysosomal pH/trafficking at entry stage; interpret lysosomotropic probe effects cautiously</td><td valign="top" align="left" rowspan="1" colspan="1">(<xref rid="B22" ref-type="bibr">22</xref>)</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">ORF3a</td><td valign="top" align="left" rowspan="1" colspan="1">Blocks APG-L fusion via interference with HOPS/VPS39; lysosomal dysfunction → “incomplete autophagy”</td><td valign="top" align="left" rowspan="1" colspan="1">Accumulation of LC3−II+/p62+ autophagosomes; reduced LAMP1 colocalization; lysosomal alkalinization; inflammasome activation</td><td valign="top" align="left" rowspan="1" colspan="1">Maintains viral components outside autolysosomal degradation; exacerbates inflammatory signaling</td><td valign="top" align="left" rowspan="1" colspan="1">(<xref rid="B13" ref-type="bibr">13</xref>)</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">NSP6</td><td valign="top" align="left" rowspan="1" colspan="1">Restricts autophagosome expansion and remodels ER−derived membranes; modulates autophagy and supports replication organelles</td><td valign="top" align="left" rowspan="1" colspan="1">Smaller autophagosomes; altered autophagy flux markers; dependence of replication on NSP6−mediated remodeling</td><td valign="top" align="left" rowspan="1" colspan="1">Facilitates replication while blunting degradative autophagy; host−directed strategies could restore flux</td><td valign="top" align="left" rowspan="1" colspan="1">(<xref rid="B15" ref-type="bibr">15</xref>)</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">ORF7a</td><td valign="top" align="left" rowspan="1" colspan="1">Initiates autophagy yet blocks APG-L fusion via SNAP29 degradation (caspase−3 dependent)</td><td valign="top" align="left" rowspan="1" colspan="1">↑LC3 puncta with impaired flux; ↓SNAP29; reduced fusion readouts</td><td valign="top" align="left" rowspan="1" colspan="1">Promotes persistence by preventing autolysosomal clearance</td><td valign="top" align="left" rowspan="1" colspan="1">(<xref rid="B14" ref-type="bibr">14</xref>)</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">ORF8b (SARS−CoV; homologous context)</td><td valign="top" align="left" rowspan="1" colspan="1">Triggers lysosomal stress and TFEB nuclear translocation (evidence from SARS−CoV; informs TFEB axis relevance)</td><td valign="top" align="left" rowspan="1" colspan="1">TFEB nuclear localization; lysosomal stress markers</td><td valign="top" align="left" rowspan="1" colspan="1">Illustrates that CoV proteins can engage TFEB/ALP signaling directly</td><td valign="top" align="left" rowspan="1" colspan="1">(<xref rid="B23" ref-type="bibr">23</xref>)</td></tr></tbody></table></table-wrap><sec id="s2_1"><title>ORF3a</title><p>Open reading frame 3a localizes to lysosomes and interferes with the homotypic fusion and protein sorting complex (HOPS) complex by binding vacuolar protein sorting 39 homolog (VPS39), preventing its association with Ras-related protein Rab-7 (RAB7). The result is a blockade of APG-L fusion and accumulation of unfused autophagosomes. ORF3a-mediated lysosomal dysfunction promotes incomplete autophagy, persistence of viral material, and enhanced inflammasome activity, amplifying inflammatory signaling (<xref rid="B13" ref-type="bibr">13</xref>).</p></sec><sec id="s2_2"><title>ORF7a</title><p>By promoting caspase-3-dependent degradation of SNAP29, Open reading frame 7a limits APG-L fusion. Although autophagy is initiated, the blockade at the fusion step results in impaired clearance of viral components and sustains infection (<xref rid="B14" ref-type="bibr">14</xref>).</p></sec><sec id="s2_3"><title>NSP6</title><p>Non-structural protein 6 restricts the expansion of autophagosomes and remodels endoplasmic reticulum membranes, thereby generating replication organelles. Recent findings indicate interactions between NSP6 and host sigma-1 receptor, implicating this protein in controlling both autophagy and viral replication. NSP6 activity thus supports viral replication while constraining degradative autophagy. Mechanistic updates and phenotypes were summarized in 2023 and extended with cell-biological detail in late-2023 (<xref rid="B15" ref-type="bibr">15</xref>).</p></sec><sec id="s2_4"><title>Other coronavirus proteins</title><p>Evidence from SARS-CoV ORF8b demonstrates induction of lysosomal stress and nuclear translocation of TFEB, linking viral proteins directly to TFEB activation (<xref rid="B16" ref-type="bibr">16</xref>). Similar effects have been described for SARS-CoV ORF3a, which promotes lysosomal membrane permeabilization and exclusive nuclear localization of TFEB. These observations suggest that coronaviruses not only inhibit autophagic degradation but may also manipulate TFEB-dependent transcription to alter host defense pathways. In the context of SARS-CoV-2, ORF8 shares partial homology with SARS-CoV ORF8b, and several studies have shown that SARS-CoV-2 ORF8 exploits the autophagy–lysosome system for immune evasion, most notably by promoting autophagy-dependent degradation of MHC-I molecules. However, direct evidence that ORF8 itself triggers lysosomal stress or TFEB activation to the same extent as ORF8b is still lacking; any mechanistic parallels should therefore be regarded as a plausible but unconfirmed hypothesis. More recent work further indicates that ORF8 modulates ER-phagy and endoplasmic-reticulum stress, thereby indirectly shaping autophagy-related pathways (<xref rid="B17" ref-type="bibr">17</xref>–<xref rid="B19" ref-type="bibr">19</xref>).</p><p>Host factors also gate this axis. RAB5 was only recently identified as a host dependency factor for building replication organelles, with NSP6 involved; conversely, Syntaxin-6 (STX6) emerged as a restriction factor that diverts incoming virus toward autophagy-lysosomal degradation – both studies highlight actionable host nodes of ALP trafficking (<xref rid="B20" ref-type="bibr">20</xref>, <xref rid="B21" ref-type="bibr">21</xref>). These findings reinforce the centrality of lysosome signaling/biogenesis (TFEB-ALP axis) in CoV-host conflict and motivate host-directed strategies that restore autolysosomal fusion rather than broadly suppressing ALP (<xref rid="B13" ref-type="bibr">13</xref>).</p><p>The cumulative impact of these viral strategies is the creation of a cellular environment favoring replication and persistence while preventing efficient autophagic clearance. Importantly, such interference also alters immune regulation, as defective autophagy can dysregulate cytokine production and antigen presentation.</p></sec></sec><sec id="s3"><title>TFEB as a central regulator of ALP and immune responses</title><p>Multiple cellular processes are modulated by signaling pathways originating from the lysosomal surface, changing the “old fashioned” view of lysosomes as the degradative endpoint of the endosomal route (<xref rid="B24" ref-type="bibr">24</xref>). Lysosome properties, and the role of this organellum as a pivotal signaling hub for cellular metabolism, depend greatly on the mechanistic Target of Rapamycin Complex 1 (mTORC1) activity which is fulfilled through the coordinated interaction of many proteins with mTORC1 at the lysosome surface. When mTORC1 activity is turned on due to the availability of various nutrients, it promotes translation and lipogenesis, while suppressing autophagy. At that point, TFEB, the master regulator of lysosomal biogenesis and autophagy is phosphorylated by mTORC1 at the lysosomal surface and retains in the cytoplasm. When nutrients are scarce or cells are exposed to stress, mTORC1 activity decreases and calcium (Ca) release through the mucolipin 1 (MCOLN1) channel activates phosphatase calcineurin (CaN) which results in TFEB dephosphorylation and, in turn, its nuclear translocation (<xref rid="B25" ref-type="bibr">25</xref>). Once in the nucleus, TFEB drives the expression of genes that enhance autophagic flux, lysosomal biogenesis, and metabolic adaptation. On the other hand, when a shortage of metabolic signals occurs the anabolic activities are halted, but autophagy is launched (<xref rid="B24" ref-type="bibr">24</xref>, <xref rid="B26" ref-type="bibr">26</xref>). These two mechanisms of induction of autophagy and lysosomal biogenesis, involving mTORC1 and CaN, strongly support the fundamental role of lysosomes in the adaptive response and in the regulation of cellular homeostasis (<xref rid="B6" ref-type="bibr">6</xref>, <xref rid="B27" ref-type="bibr">27</xref>, <xref rid="B28" ref-type="bibr">28</xref>). This cautious control of cellular homeostasis, with an important role in cellular defense as, in compromised situations, contributes to the proteolytic degradation of components of invading pathogens and other types of biological cell aggressors (<xref rid="B29" ref-type="bibr">29</xref>, <xref rid="B30" ref-type="bibr">30</xref>).</p><p>Beyond its canonical role in cellular clearance, TFEB and the lysosomal system also participate in immune regulation (<xref rid="B8" ref-type="bibr">8</xref>, <xref rid="B9" ref-type="bibr">9</xref>, <xref rid="B11" ref-type="bibr">11</xref>, <xref rid="B12" ref-type="bibr">12</xref>, <xref rid="B31" ref-type="bibr">31</xref>, <xref rid="B32" ref-type="bibr">32</xref>). Nowadays, the intensively developing field of biology called lysosomics provides a range of important information about the role of TFEB-lysosomes in the inflammatory response and autoimmune conditions (<xref rid="B28" ref-type="bibr">28</xref>, <xref rid="B33" ref-type="bibr">33</xref>, <xref rid="B34" ref-type="bibr">34</xref>), among others, though the first signs of lysosomal involvement in inflammatory response were identified decades ago (<xref rid="B35" ref-type="bibr">35</xref>). These observations have become increasingly widespread, as multiple studies report on how the disruption of normal lysosomal function leads to abnormalities in inflammation and immunity (<xref rid="B31" ref-type="bibr">31</xref>, <xref rid="B32" ref-type="bibr">32</xref>, <xref rid="B34" ref-type="bibr">34</xref>, <xref rid="B36" ref-type="bibr">36</xref>). The adaptative and innate arms of the immune system, both using autophagy and the endolysosomal system in a variety of capacities to mediate immunity, work together to protect host organisms from foreign pathogen invasion. Essential components of the immune response are cellular processes attributed to TFEB activation/overexpression status, similar to its pivotal role in cellular clearance and autophagic flux (<xref rid="B8" ref-type="bibr">8</xref>, <xref rid="B29" ref-type="bibr">29</xref>, <xref rid="B37" ref-type="bibr">37</xref>). TFEB, along with microphthalmia-associated transcription factor (MITF), transcription factor E3 (TFE3) and transcription factor EC (TFEC) constitutes a microphthalmia subfamily of basic helix-loop-helix-leucine zipper (bHLH-zip) elements, belonging to the MiT family transcription factors responsible for the regulation of the endolysosomal pathway and the maintenance of autophagic flux controlling cellular metabolism (<xref rid="B7" ref-type="bibr">7</xref>). The identification of TFEB as a global modulator of intracellular clearance and energy metabolism, through the regulation of genes involved in the ALPs, has provided new insights into the mechanism by which the cell responds to environmental cues such as malnutrition (<xref rid="B5" ref-type="bibr">5</xref>). It has been shown to induce interferon-stimulated genes and to promote the expression of cytokines and chemokines necessary for antimicrobial defense (<xref rid="B10" ref-type="bibr">10</xref>). TFEB activity contributes to the autophagy-dependent secretion of cytokines and to the clearance of inflammasomes, thereby modulating innate immune tone. In macrophages, TFEB activation is essential for the rapid transcription of proinflammatory mediators following pathogen exposure (<xref rid="B8" ref-type="bibr">8</xref>). Similar links between autophagy-related pathways, cytokine regulation and chronic inflammation have been reported in psoriasis (<xref rid="B38" ref-type="bibr">38</xref>). Evolutionarily, its role in host defense is conserved, as demonstrated by HLH-30, the TFEB ortholog in <italic toggle="yes">Caenorhabditis elegans</italic>, which orchestrates antimicrobial gene expression during infection. HLH-30 becomes activated during infection and shuttles from the cytosol to the nucleus of most cells in the <italic toggle="yes">C. elegans</italic> organism (<xref rid="B8" ref-type="bibr">8</xref>).</p><p>TFEB also impacts adaptive immunity through its influence on antigen presentation (<xref rid="B8" ref-type="bibr">8</xref>, <xref rid="B9" ref-type="bibr">9</xref>, <xref rid="B11" ref-type="bibr">11</xref>). By controlling lysosomal activity, TFEB regulates the processing of exogenous antigens and their presentation on MHC class II molecules. Proper regulation of this pathway ensures efficient activation of T cells while preventing aberrant immune activation. Dysregulated TFEB activity, in contrast, can impair antigen presentation and contribute to immune imbalance, indirectly promoting immune activation. In this way, the pH increase inside the lysosome negatively influences antigen-presenting cells (APCs), such as plasmacytoid dendritic cells (pDCs) and B cells (<xref rid="B39" ref-type="bibr">39</xref>).</p><p>As a master regulator of autophagy, TFEB may also modulate virus replication, promoting virophagy (the degradation of cytoplasmic viral components). On the other hand, the positive-strand RNA viruses such as SARS-CoV-2 use autophagy to facilitate viral replication, since the maturation of autophagosomes is needed for their cycle (<xref rid="B40" ref-type="bibr">40</xref>). Interestingly, it has been demonstrated that human immunodeficiency virus (HIV) can regulate activity of TFEB and, in consequence, autophagy in order to promote its own replication and cell survival. To this end, HIV has established a productive infection and the use of negative regulatory factor (NEF) to inhibit autophagy by binding with beclin-1 (BECN1), promoting TFEB phosphorylation via mTOR activation and cytosolic sequestration, resulting in inactivation of TFEB transcription activity and promotion of viral replication (<xref rid="B41" ref-type="bibr">41</xref>).</p><p>Recent observations extend the importance of TFEB to coronavirus infection. Viral proteins that induce lysosomal stress, such as SARS-CoV ORF3a or SARS-CoV-2 ORF8b, trigger TFEB nuclear translocation, linking viral pathogenesis with host transcriptional reprogramming (<xref rid="B16" ref-type="bibr">16</xref>, <xref rid="B23" ref-type="bibr">23</xref>). This may reflect a dual role: TFEB activation can support antiviral immunity by enhancing autophagic clearance and cytokine signaling, but excessive or dysregulated activation may fuel inflammation. Thus, TFEB functions at a critical intersection of antiviral defense, cellular stress adaptation, and immune regulation, making it a promising target for therapeutic modulation in COVID-19.</p></sec><sec id="s4"><title>TFEB-ALP axis in COVID-19 immunopathology and Long COVID</title><p>Reinforcing TFEB’s role beyond cell−autonomous defense, recent studies place TFEB-ALP at the nexus of endosomal-lysosomal trafficking and host restriction [7,8]. In parallel, clinical and experimental data increasingly connect disruption of the ALP with the immunopathology of COVID-19 (<xref rid="B42" ref-type="bibr">42</xref>). This view is consistent with recent reviews that specifically discuss dysregulated autophagy in acute COVID-19 and Long COVID (<xref rid="B43" ref-type="bibr">43</xref>, <xref rid="B44" ref-type="bibr">44</xref>), highlighting persistent alterations in TFEB-lysosome signaling as a potential driver of chronic immune activation. In severe cases, impaired autophagic flux coincides with uncontrolled inflammation, complement activation, and tissue injury. The clinical worsening of individuals with COVID-19 may be related to immunopathological damage, reflected by increased concentrations of proinflammatory cytokines such as tumor necrosis factor alpha (TNF-α) and interleukin 6 (IL-6) (<xref rid="B45" ref-type="bibr">45</xref>). Post-mortem and transplant analyses of lungs from patients with nonresolving COVID-19 revealed simultaneous abnormalities in autophagy markers and complement activity, supporting the concept of ALP-complement crosstalk in disease progression (<xref rid="B46" ref-type="bibr">46</xref>). A serious and devastating deterioration depends on the cytokine release syndrome (CRS), or “cytokine storm”, which is a consequence of the overproduction of cytokines and leads to rapid multi-organ system failure and damage of tissues in patients suffering from virus infection (<xref rid="B47" ref-type="bibr">47</xref>–<xref rid="B49" ref-type="bibr">49</xref>).</p><p>Circulating biomarkers further support this connection. In hospitalized patients, dynamic alterations of sequestosome 1 (p62/SQSTM1) and microtubule-associated proteins 1A/1B light chain 3B/autophagy-related 5 (LC3/ATG5) have been observed alongside cytokine signatures, consistent with systemic perturbation of autophagy in severe COVID-19 (<xref rid="B50" ref-type="bibr">50</xref>). Persistent complement activation, including elevated membrane attack complex (MAC) and iC3b fragments, has been documented for months after acute infection, suggesting that unresolved immune activation contributes to post-acute sequelae. Such chronic dysregulation is aligned with the clinical picture of Long COVID, which encompasses fatigue, cognitive dysfunction, and multi-organ involvement (<xref rid="B51" ref-type="bibr">51</xref>).</p><p>Recent studies further implicate mitochondrial dysfunction and metabolic exhaustion in immune cells as part of the TFEB-ALP axis dysregulation in Long COVID (<xref rid="B52" ref-type="bibr">52</xref>–<xref rid="B56" ref-type="bibr">56</xref>). Persistent TFEB activation in T lymphocytes and monocytes may reflect a compensatory attempt to restore lysosomal clearance, but paradoxically contributes to chronic inflammation and impaired cellular energetics. Autophagy-related impairment in mitophagy was associated with reduced adenosine triphosphate (ATP) availability and sustained reactive oxygen species (ROS) production, fueling neuroinflammation and fatigue. Clinical data from multiple cohorts confirm impaired mitochondrial respiration and elevated oxidative stress in Long COVID patients (<xref rid="B53" ref-type="bibr">53</xref>–<xref rid="B55" ref-type="bibr">55</xref>), while mechanistic studies show diminished mitophagy and altered expression of E3 ubiquitin-protein ligase Parkin/PTEN-induced kinase 1 related pathways (<xref rid="B56" ref-type="bibr">56</xref>, <xref rid="B57" ref-type="bibr">57</xref>). These findings align with reports linking disrupted lysosomal-mitochondrial crosstalk to long-term sequelae of viral infections. Incorporating TFEB-ALP biomarkers into clinical monitoring may therefore provide diagnostic and therapeutic value in managing Long COVID.</p><p>The TFEB-ALP axis provides a mechanistic link between viral replication and host inflammatory responses. By restoring lysosomal biogenesis and autophagic flux, TFEB activity may counteract viral strategies that block degradation pathways. At the same time, TFEB-mediated regulation of cytokine production, inflammasome clearance, and antigen presentation positions this transcription factor as a gatekeeper of immune homeostasis. Dysregulated TFEB signaling, however, could exacerbate hyperinflammatory states and contribute to persistent pathology.</p><p>Integrating these findings, a model emerges in which TFEB-governed autophagy intersects with complement activity and systemic inflammation – strengthening the rationale for host-directed interventions that normalize autolysosomal flux rather than relying on lysosomotropic agents (<xref rid="B13" ref-type="bibr">13</xref>). In acute disease, this imbalance promotes tissue damage and cytokine storm; in Long COVID, it sustains low-grade inflammation and immune dysregulation. This framework highlights the importance of targeting host pathways, such as TFEB-ALP, not only for immediate antiviral defense but also for mitigating long-term sequelae of coronavirus infection.</p></sec><sec id="s5"><title>Therapeutic implications</title><p>Since 2019, multiple vaccines and evidence−based antivirals/biologics for COVID−19 have been authorized; nevertheless, host−directed mechanisms remain relevant. Lastly, targeting the ALP has attracted considerable interest as a host-directed strategy against COVID-19 (<xref rid="B58" ref-type="bibr">58</xref>). Early in the pandemic, lysosomotropic agents such as chloroquine and hydroxychloroquine were investigated for their ability to alkalinize endosomes and block viral entry (<xref rid="B59" ref-type="bibr">59</xref>, <xref rid="B60" ref-type="bibr">60</xref>). Although these drugs proved ineffective and are no longer recommended for clinical use, they remain valuable as mechanistic probes highlighting the importance of lysosomal pH and trafficking in SARS-CoV-2 infection (<xref rid="B61" ref-type="bibr">61</xref>–<xref rid="B64" ref-type="bibr">64</xref>).</p><p>A more promising direction is the modulation of TFEB activity (<xref rid="B10" ref-type="bibr">10</xref>, <xref rid="B25" ref-type="bibr">25</xref>, <xref rid="B26" ref-type="bibr">26</xref>). Pharmacological interventions that restore TFEB nuclear translocation and autophagic flux could counteract viral blockade of APG-L fusion. By enhancing lysosomal clearance, such strategies may reduce viral persistence, normalize antigen presentation, and dampen excessive inflammatory responses. In addition, TFEB’s role in cytokine regulation and inflammasome clearance suggests that its activation might mitigate hyperinflammation and cytokine storm, both of which are drivers of severe COVID-19.</p><p>The therapeutic relevance of TFEB-ALP modulation extends beyond acute infection. Persistent complement activation and autophagy dysregulation are increasingly recognized in Long COVID, where chronic inflammation underlies multi-system symptoms. Restoring balance within the TFEB-ALP axis could therefore serve not only as an antiviral strategy but also as an approach to alleviate long-term sequelae. Biomarkers of autophagy and complement activation may assist in identifying patients most likely to benefit from such therapies (<xref rid="B46" ref-type="bibr">46</xref>, <xref rid="B50" ref-type="bibr">50</xref>, <xref rid="B51" ref-type="bibr">51</xref>).</p><p>Future directions include the exploration of small molecules or biologics that specifically enhance TFEB activity without broad lysosomotropic effects, as well as the integration of TFEB-ALP markers into clinical studies of Long COVID. Developing host-targeted interventions that recalibrate autophagy and immune homeostasis may ultimately improve both acute outcomes and post-acute recovery in COVID-19.</p></sec><sec sec-type="conclusions" id="s6"><title>Conclusion</title><p>SARS-CoV-2 infection profoundly disrupts the ALP, impairing host defense and fueling inflammation. At the center of this process lies TFEB, a master regulator of autophagy and lysosomal biogenesis that also governs key immune processes. Viral proteins block autophagic flux and alter TFEB signaling, tipping the balance toward viral persistence and immunopathology. Evidence from clinical and experimental studies indicates that TFEB-ALP dysfunction contributes not only to severe acute disease but also to the persistence of immune dysregulation in Long COVID. Therapeutic strategies aimed at restoring TFEB activity and autophagic flux hold promise for limiting viral replication, preventing tissue damage, and alleviating long-term sequelae. By integrating mechanistic insights with clinical observations, the TFEB-ALP axis emerges as a critical target for host-directed therapy. Modulating this pathway may provide a means to rebalance immune homeostasis, offering benefits across the spectrum of COVID-19, from acute infection to chronic post-viral syndromes.</p></sec></body><back><ack><title>Acknowledgments</title><p>The author thanks Dr Joanna Jakóbkiewicz-Banecka for her critical comments and suggestions.</p></ack><fn-group><fn id="n1" fn-type="edited-by"><p>Edited by: <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://loop.frontiersin.org/people/1868303" ext-link-type="uri">Zhong-Min Ma</ext-link>, University of California, Davis, United States</p></fn><fn id="n2" fn-type="reviewed-by"><p>Reviewed by: <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://loop.frontiersin.org/people/2569625" ext-link-type="uri">Krzysztof Piotr Michalak</ext-link>, Adam Mickiewicz University, Poland</p></fn></fn-group><sec sec-type="author-contributions" id="s7"><title>Author contributions</title><p>MG-C: Writing – review &amp; editing, Writing – original draft.</p></sec><sec sec-type="COI-statement" id="s9"><title>Conflict of interest</title><p>The authors declares that the research was conducted in the absence of any commercial or financial relationships that could be construed as a potential conflict of interest.</p></sec><sec sec-type="ai-statement" id="s10"><title>Generative AI statement</title><p>The author(s) declare that no Generative AI was used in the creation of this manuscript.</p><p>Any alternative text (alt text) provided alongside figures in this article has been generated by Frontiers with the support of artificial intelligence and reasonable efforts have been made to ensure accuracy, including review by the authors wherever possible. If you identify any issues, please contact us.</p></sec><sec sec-type="disclaimer" id="s11"><title>Publisher’s note</title><p>All claims expressed in this article are solely those of the authors and do not necessarily represent those of their affiliated organizations, or those of the publisher, the editors and the reviewers. Any product that may be evaluated in this article, or claim that may be made by its manufacturer, is not guaranteed or endorsed by the publisher.</p></sec><ref-list><title>References</title><ref id="B1"><label>1</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Khan</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Siddique</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Shereen</surname><given-names>MA</given-names></name>
+<name name-style="western"><surname>Ali</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Liu</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Bai</surname><given-names>Q</given-names></name>
+<etal/>
+</person-group>. 
+<article-title>The emergence of a novel coronavirus (SARS-CoV-2), their biology and therapeutic options</article-title>. <source>J Clin Microbiol</source>. (<year>2020</year>) <volume>58</volume>(<issue>5</issue>):<fpage>e00187-20</fpage>. doi: <pub-id pub-id-type="doi">10.1128/JCM.00187-20</pub-id>, PMID: 
+<pub-id pub-id-type="pmid">32161092</pub-id>
+<pub-id pub-id-type="pmcid">PMC7180238</pub-id></mixed-citation></ref><ref id="B2"><label>2</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Munster</surname><given-names>VJ</given-names></name>
+<name name-style="western"><surname>Koopmans</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>van Doremalen</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>van Riel</surname><given-names>D</given-names></name>
+<name name-style="western"><surname>de Wit</surname><given-names>E</given-names></name>
+</person-group>. 
+<article-title>A novel coronavirus emerging in China – Key questions for impact assessment</article-title>. <source>New Engl J Med</source>. (<year>2020</year>) <volume>382</volume>:<page-range>692–4</page-range>. doi: <pub-id pub-id-type="doi">10.1056/NEJMp2000929</pub-id>, PMID: 
+<pub-id pub-id-type="pmid">31978293</pub-id>
+</mixed-citation></ref><ref id="B3"><label>3</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Zhu</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Zhang</surname><given-names>D</given-names></name>
+<name name-style="western"><surname>Wang</surname><given-names>W</given-names></name>
+<name name-style="western"><surname>Li</surname><given-names>X</given-names></name>
+<name name-style="western"><surname>Yang</surname><given-names>B</given-names></name>
+<name name-style="western"><surname>Song</surname><given-names>J</given-names></name>
+<etal/>
+</person-group>. 
+<article-title>A novel coronavirus from patients with pneumonia in China, 2019</article-title>. <source>New Engl J Med</source>. (<year>2020</year>) <volume>382</volume>:<page-range>727–33</page-range>. doi: <pub-id pub-id-type="doi">10.1056/NEJMoa2001017</pub-id>, PMID: 
+<pub-id pub-id-type="pmid">31978945</pub-id>
+<pub-id pub-id-type="pmcid">PMC7092803</pub-id></mixed-citation></ref><ref id="B4"><label>4</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Miao</surname><given-names>G</given-names></name>
+<name name-style="western"><surname>Zhao</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Li</surname><given-names>Y</given-names></name>
+<name name-style="western"><surname>Ji</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Chen</surname><given-names>Y</given-names></name>
+<name name-style="western"><surname>Shi</surname><given-names>Y</given-names></name>
+<etal/>
+</person-group>. 
+<article-title>ORF3a of the COVID-19 virus SARS-CoV-2 blocks HOPS complex-mediated assembly of the SNARE complex required for autolysosome formation</article-title>. <source>Dev Cell</source>. (<year>2021</year>) <volume>56</volume>:<fpage>427</fpage>–<lpage>442.e5</lpage>. doi: <pub-id pub-id-type="doi">10.1016/j.devcel.2020.12.010</pub-id>, PMID: 
+<pub-id pub-id-type="pmid">33422265</pub-id>
+<pub-id pub-id-type="pmcid">PMC7832235</pub-id></mixed-citation></ref><ref id="B5"><label>5</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Settembre</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Polito</surname><given-names>VA</given-names></name>
+<name name-style="western"><surname>Garcia</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Vetrini</surname><given-names>F</given-names></name>
+<name name-style="western"><surname>Erdin</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Erdin</surname><given-names>SU</given-names></name>
+<etal/>
+</person-group>. 
+<article-title>TFEB links autophagy to lysosomal biogenesis</article-title>. <source>Science</source>. (<year>2011</year>) <volume>332</volume>:<page-range>1429–33</page-range>. doi: <pub-id pub-id-type="doi">10.1126/science.1204592</pub-id>, PMID: 
+<pub-id pub-id-type="pmid">21617040</pub-id>
+<pub-id pub-id-type="pmcid">PMC3638014</pub-id></mixed-citation></ref><ref id="B6"><label>6</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Settembre</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Fraldi</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Medina</surname><given-names>DL</given-names></name>
+<name name-style="western"><surname>Ballabio</surname><given-names>A</given-names></name>
+</person-group>. 
+<article-title>Signals for the lysosome: a control center for cellular clearance and energy metabolism</article-title>. <source>Nat Rev Mol Cell Biol</source>. (<year>2015</year>) <volume>14</volume>:<page-range>283–96</page-range>. doi: <pub-id pub-id-type="doi">10.1038/nrm3565</pub-id>, PMID: 
+<pub-id pub-id-type="pmid">23609508</pub-id>
+<pub-id pub-id-type="pmcid">PMC4387238</pub-id></mixed-citation></ref><ref id="B7"><label>7</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Sardiello</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Palmieri</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Di Ronza</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Medina</surname><given-names>DL</given-names></name>
+<name name-style="western"><surname>Valenza</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Gennarino</surname><given-names>VA</given-names></name>
+<etal/>
+</person-group>. 
+<article-title>A gene network regulating lysosomal biogenesis and function</article-title>. <source>Science</source>. (<year>2009</year>) <volume>325</volume>(<issue>5939</issue>):<page-range>473–7</page-range>. doi: <pub-id pub-id-type="doi">10.1126/science.1174447</pub-id>, PMID: 
+<pub-id pub-id-type="pmid">19556463</pub-id>
+</mixed-citation></ref><ref id="B8"><label>8</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Visvikis</surname><given-names>O</given-names></name>
+<name name-style="western"><surname>Ihuegbu</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Labed</surname><given-names>SA</given-names></name>
+<name name-style="western"><surname>Luhachack</surname><given-names>LG</given-names></name>
+<name name-style="western"><surname>Alves</surname><given-names>AMF</given-names></name>
+<name name-style="western"><surname>Wollenberg</surname><given-names>AC</given-names></name>
+<etal/>
+</person-group>. 
+<article-title>Innate host defense requires TFEB-mediated transcription of cytoprotective and antimicrobial genes</article-title>. <source>Immunity</source>. (<year>2014</year>) <volume>40</volume>:<fpage>896</fpage>–<lpage>909</lpage>. doi: <pub-id pub-id-type="doi">10.1016/j.immuni.2014.05.002</pub-id>, PMID: 
+<pub-id pub-id-type="pmid">24882217</pub-id>
+<pub-id pub-id-type="pmcid">PMC4104614</pub-id></mixed-citation></ref><ref id="B9"><label>9</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Pastore</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Brady</surname><given-names>OA</given-names></name>
+<name name-style="western"><surname>Diab</surname><given-names>HI</given-names></name>
+<name name-style="western"><surname>Martina</surname><given-names>JA</given-names></name>
+<name name-style="western"><surname>Sun</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Huynh</surname><given-names>T</given-names></name>
+<etal/>
+</person-group>. 
+<article-title>TFEB and TFE3 cooperate in the regulation of the innate immune response in activated macrophages</article-title>. <source>Autophagy</source>. (<year>2016</year>) <volume>12</volume>:<page-range>1240–58</page-range>. doi: <pub-id pub-id-type="doi">10.1080/15548627.2016.1179405</pub-id>, PMID: 
+<pub-id pub-id-type="pmid">27171064</pub-id>
+<pub-id pub-id-type="pmcid">PMC4968228</pub-id></mixed-citation></ref><ref id="B10"><label>10</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Brady</surname><given-names>OA</given-names></name>
+<name name-style="western"><surname>Martina</surname><given-names>JA</given-names></name>
+<name name-style="western"><surname>Puertollano</surname><given-names>R</given-names></name>
+</person-group>. 
+<article-title>Emerging roles for TFEB in the immune response and inflammation</article-title>. <source>Autophagy</source>. (<year>2018</year>) <volume>14</volume>:<page-range>181–9</page-range>. doi: <pub-id pub-id-type="doi">10.1080/15548627.2017.1313943</pub-id>, PMID: 
+<pub-id pub-id-type="pmid">28738171</pub-id>
+<pub-id pub-id-type="pmcid">PMC5902167</pub-id></mixed-citation></ref><ref id="B11"><label>11</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Samie</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Cresswell</surname><given-names>P</given-names></name>
+</person-group>. 
+<article-title>The transcription factor TFEB acts as a molecular switch that regulates exogenous antigen-presentation pathways</article-title>. <source>Nat Immunol</source>. (<year>2015</year>) <volume>16</volume>:<page-range>729–36</page-range>. doi: <pub-id pub-id-type="doi">10.1038/ni.3196</pub-id>, PMID: 
+<pub-id pub-id-type="pmid">26030023</pub-id>
+<pub-id pub-id-type="pmcid">PMC5609676</pub-id></mixed-citation></ref><ref id="B12"><label>12</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Irazoqui</surname><given-names>JE</given-names></name>
+</person-group>. 
+<article-title>Key roles of miT transcription factors in innate immunity and inflammation</article-title>. <source>Trends Immunol</source>. (<year>2020</year>) <volume>41</volume>:<page-range>157–71</page-range>. doi: <pub-id pub-id-type="doi">10.1016/j.it.2019.12.003</pub-id>, PMID: 
+<pub-id pub-id-type="pmid">31959514</pub-id>
+<pub-id pub-id-type="pmcid">PMC6995440</pub-id></mixed-citation></ref><ref id="B13"><label>13</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Zhou</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Hu</surname><given-names>Z</given-names></name>
+<name name-style="western"><surname>Castro-Gonzalez</surname><given-names>S</given-names></name>
+</person-group>. 
+<article-title>Bidirectional interplay between SARS-CoV-2 and autophagy</article-title>. <source>mBio</source>. (<year>2023</year>) <volume>14</volume>:<fpage>e0102023</fpage>. doi: <pub-id pub-id-type="doi">10.1128/mbio.01020-23</pub-id>, PMID: 
+<pub-id pub-id-type="pmid">37436071</pub-id>
+<pub-id pub-id-type="pmcid">PMC10470609</pub-id></mixed-citation></ref><ref id="B14"><label>14</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Hou</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Wang</surname><given-names>X</given-names></name>
+<name name-style="western"><surname>Wang</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Wang</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Yu</surname><given-names>Z</given-names></name>
+<name name-style="western"><surname>Xu</surname><given-names>C</given-names></name>
+<etal/>
+</person-group>. 
+<article-title>SARS-CoV-2 ORF7a initiates autophagy and limits autophagosome–lysosome fusion via SNAP29 degradation to promote virus replication</article-title>. <source>Autophagy</source>. (<year>2023</year>) <volume>19</volume>:<page-range>551–69</page-range>. doi: <pub-id pub-id-type="doi">10.1080/15548627.2022.2084686</pub-id>, PMID: 
+<pub-id pub-id-type="pmid">35670302</pub-id>
+<pub-id pub-id-type="pmcid">PMC9851267</pub-id></mixed-citation></ref><ref id="B15"><label>15</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Zhang</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Jiang</surname><given-names>Q</given-names></name>
+<name name-style="western"><surname>Liu</surname><given-names>Z</given-names></name>
+<name name-style="western"><surname>Li</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Hao</surname><given-names>Z</given-names></name>
+<name name-style="western"><surname>Song</surname><given-names>G</given-names></name>
+<etal/>
+</person-group>. 
+<article-title>SARS-CoV-2 NSP6 reduces autophagosome size and affects viral replication via sigma-1 receptor</article-title>. <source>J Virol</source>. (<year>2024</year>) <volume>98</volume>:<page-range>e00754–24</page-range>. doi: <pub-id pub-id-type="doi">10.1128/jvi.00754-24</pub-id>, PMID: 
+<pub-id pub-id-type="pmid">39445785</pub-id>
+<pub-id pub-id-type="pmcid">PMC11575221</pub-id></mixed-citation></ref><ref id="B16"><label>16</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Shi</surname><given-names>CS</given-names></name>
+<name name-style="western"><surname>Nabar</surname><given-names>NR</given-names></name>
+<name name-style="western"><surname>Huang</surname><given-names>NN</given-names></name>
+<name name-style="western"><surname>Kehrl</surname><given-names>JH</given-names></name>
+</person-group>. 
+<article-title>SARS-Coronavirus Open Reading Frame-8b triggers intracellular stress pathways and activates NLRP3 inflammasomes</article-title>. <source>Cell Death Discov</source>. (<year>2019</year>) <volume>5</volume>:<fpage>101</fpage>. doi: <pub-id pub-id-type="doi">10.1038/s41420-019-0181-7</pub-id>, PMID: 
+<pub-id pub-id-type="pmid">31231549</pub-id>
+<pub-id pub-id-type="pmcid">PMC6549181</pub-id></mixed-citation></ref><ref id="B17"><label>17</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Tan</surname><given-names>X</given-names></name>
+<name name-style="western"><surname>Cai</surname><given-names>K</given-names></name>
+<name name-style="western"><surname>Li</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Yuan</surname><given-names>Z</given-names></name>
+<name name-style="western"><surname>Chen</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Xiao</surname><given-names>H</given-names></name>
+<etal/>
+</person-group>. 
+<article-title>Coronavirus subverts ER-phagy by hijacking FAM134B and ATL3 into p62 condensates to facilitate viral replication</article-title>. <source>Cell Rep</source>. (<year>2023</year>) <volume>42</volume>:<elocation-id>112286</elocation-id>. doi: <pub-id pub-id-type="doi">10.1016/j.celrep.2023.112286</pub-id>, PMID: 
+<pub-id pub-id-type="pmid">36952345</pub-id>
+<pub-id pub-id-type="pmcid">PMC9998290</pub-id></mixed-citation></ref><ref id="B18"><label>18</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Liu</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Wang</surname><given-names>X</given-names></name>
+<name name-style="western"><surname>Sun</surname><given-names>Y</given-names></name>
+<name name-style="western"><surname>Zhao</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Cheng</surname><given-names>F</given-names></name>
+<name name-style="western"><surname>Wang</surname><given-names>J</given-names></name>
+<etal/>
+</person-group>. 
+<article-title>SARS-CoV-2 ORF8 reshapes the ER through forming mixed disulfides with ER oxidoreductases</article-title>. <source>Redox Biol</source>. (<year>2022</year>) <volume>54</volume>:<elocation-id>102388</elocation-id>. doi: <pub-id pub-id-type="doi">10.1016/j.redox.2022.102388</pub-id>, PMID: 
+<pub-id pub-id-type="pmid">35792438</pub-id>
+<pub-id pub-id-type="pmcid">PMC9239706</pub-id></mixed-citation></ref><ref id="B19"><label>19</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Wang</surname><given-names>X</given-names></name>
+<name name-style="western"><surname>Wang</surname><given-names>W</given-names></name>
+<name name-style="western"><surname>Wang</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Wang</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Jiang</surname><given-names>Y</given-names></name>
+<name name-style="western"><surname>Wang</surname><given-names>X</given-names></name>
+<etal/>
+</person-group>. 
+<article-title>SARS-coV-2 ORF8 protein induces endoplasmic reticulum stress-like responses and facilitates virus replication by triggering calnexin: an unbiased study</article-title>. <source>J Virol</source>. (<year>2023</year>) <volume>97</volume>(<issue>3</issue>):<elocation-id>e0001123</elocation-id>. doi: <pub-id pub-id-type="doi">10.1128/jvi.00011-23</pub-id>, PMID: 
+<pub-id pub-id-type="pmid">36877072</pub-id>
+<pub-id pub-id-type="pmcid">PMC10062165</pub-id></mixed-citation></ref><ref id="B20"><label>20</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Chen</surname><given-names>Y</given-names></name>
+<name name-style="western"><surname>Klute</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Sparrer</surname><given-names>KMJ</given-names></name>
+<name name-style="western"><surname>Serra-Moreno</surname><given-names>R</given-names></name>
+</person-group>. 
+<article-title>RAB5 is a host dependency factor for the generation of SARS-CoV-2 replication organelles</article-title>. <source>mBio</source>. (<year>2025</year>) <volume>16</volume>:<page-range>e03314–24</page-range>. doi: <pub-id pub-id-type="doi">10.1128/mbio.03314-24</pub-id>, PMID: 
+<pub-id pub-id-type="pmid">40167317</pub-id>
+<pub-id pub-id-type="pmcid">PMC12077180</pub-id></mixed-citation></ref><ref id="B21"><label>21</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Sun</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Yang</surname><given-names>Q</given-names></name>
+<name name-style="western"><surname>Zhang</surname><given-names>Y</given-names></name>
+<name name-style="western"><surname>Cui</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Zhou</surname><given-names>Z</given-names></name>
+<name name-style="western"><surname>Zhang</surname><given-names>P</given-names></name>
+<etal/>
+</person-group>. 
+<article-title>Syntaxin-6 restricts SARS-CoV-2 infection by facilitating virus trafficking to the autophagy-lysosomal degradation pathway</article-title>. <source>J Virol</source>. (<year>2025</year>) <volume>99</volume>(<issue>5</issue>):<page-range>e0000225</page-range>. doi: <pub-id pub-id-type="doi">10.1128/jvi.00002-25</pub-id>, PMID: 
+<pub-id pub-id-type="pmid">40277356</pub-id>
+<pub-id pub-id-type="pmcid">PMC12090716</pub-id></mixed-citation></ref><ref id="B22"><label>22</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Burkard</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Verheije</surname><given-names>MH</given-names></name>
+<name name-style="western"><surname>Wicht</surname><given-names>O</given-names></name>
+<name name-style="western"><surname>van Kasteren</surname><given-names>SI</given-names></name>
+<name name-style="western"><surname>van Kuppeveld</surname><given-names>FJ</given-names></name>
+<name name-style="western"><surname>Haagmans</surname><given-names>BL</given-names></name>
+<etal/>
+</person-group>. 
+<article-title>Coronavirus cell entry occurs through the endo-/lysosomal pathway in a proteolysis-dependent manner</article-title>. <source>PloS Pathog</source>. (<year>2014</year>) <volume>10</volume>(<issue>11</issue>):<elocation-id>e1004502</elocation-id>. doi: <pub-id pub-id-type="doi">10.1371/journal.ppat.1004502</pub-id>, PMID: 
+<pub-id pub-id-type="pmid">25375324</pub-id>
+<pub-id pub-id-type="pmcid">PMC4223067</pub-id></mixed-citation></ref><ref id="B23"><label>23</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Yue</surname><given-names>Y</given-names></name>
+<name name-style="western"><surname>Nabar</surname><given-names>NR</given-names></name>
+<name name-style="western"><surname>Shi</surname><given-names>CS</given-names></name>
+<name name-style="western"><surname>Kamenyeva</surname><given-names>O</given-names></name>
+<name name-style="western"><surname>Xiao</surname><given-names>X</given-names></name>
+<name name-style="western"><surname>Hwang</surname><given-names>IY</given-names></name>
+<etal/>
+</person-group>. 
+<article-title>SARS-Coronavirus Open Reading Frame-3a drives multimodal necrotic cell death</article-title>. <source>Cell Death Dis</source>. (<year>2018</year>) <volume>9</volume>:<fpage>904</fpage>. doi: <pub-id pub-id-type="doi">10.1038/s41419-018-0917-y</pub-id>, PMID: 
+<pub-id pub-id-type="pmid">30185776</pub-id>
+<pub-id pub-id-type="pmcid">PMC6125346</pub-id></mixed-citation></ref><ref id="B24"><label>24</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Lamming</surname><given-names>DW</given-names></name>
+<name name-style="western"><surname>Bar-Peled</surname><given-names>L</given-names></name>
+</person-group>. 
+<article-title>Lysosome: The metabolic signaling hub</article-title>. <source>Traffic</source>. (<year>2019</year>) <volume>20</volume>:<fpage>27</fpage>–<lpage>38</lpage>. doi: <pub-id pub-id-type="doi">10.1111/tra.12617</pub-id>, PMID: 
+<pub-id pub-id-type="pmid">30306667</pub-id>
+<pub-id pub-id-type="pmcid">PMC6294686</pub-id></mixed-citation></ref><ref id="B25"><label>25</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Medina</surname><given-names>DL</given-names></name>
+<name name-style="western"><surname>Di Paola</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Peluso</surname><given-names>I</given-names></name>
+<name name-style="western"><surname>Armani</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>De Stefani</surname><given-names>D</given-names></name>
+<name name-style="western"><surname>Venditti</surname><given-names>R</given-names></name>
+<etal/>
+</person-group>. 
+<article-title>Lysosomal calcium signaling regulates autophagy via calcineurin and TFEB</article-title>. <source>Nat Cell Biol</source>. (<year>2016</year>) <volume>17</volume>:<page-range>288–99</page-range>. doi: <pub-id pub-id-type="doi">10.1038/ncb3114</pub-id>, PMID: 
+<pub-id pub-id-type="pmid">25720963</pub-id>
+<pub-id pub-id-type="pmcid">PMC4801004</pub-id></mixed-citation></ref><ref id="B26"><label>26</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Napolitano</surname><given-names>G</given-names></name>
+<name name-style="western"><surname>Esposito</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Choi</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Matarese</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Benedetti</surname><given-names>V</given-names></name>
+<name name-style="western"><surname>Di Malta</surname><given-names>C</given-names></name>
+<etal/>
+</person-group>. 
+<article-title>mTOR-dependent phosphorylation controls TFEB nuclear export</article-title>. <source>Nat Commun</source>. (<year>2018</year>) <volume>9</volume>(<issue>1</issue>):<fpage>3312</fpage>. doi: <pub-id pub-id-type="doi">10.1038/s41467-018-05862-6</pub-id>, PMID: 
+<pub-id pub-id-type="pmid">30120233</pub-id>
+<pub-id pub-id-type="pmcid">PMC6098152</pub-id></mixed-citation></ref><ref id="B27"><label>27</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Settembre</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Zoncu</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Medina</surname><given-names>DL</given-names></name>
+<name name-style="western"><surname>Vetrini</surname><given-names>F</given-names></name>
+<name name-style="western"><surname>Erdin</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Erdin</surname><given-names>SU</given-names></name>
+<etal/>
+</person-group>. 
+<article-title>A lysosome-to-nucleus signalling mechanism senses and regulates the lysosome via mTOR and TFEB</article-title>. <source>EMBO J</source>. (<year>2012</year>) <volume>31</volume>:<page-range>1095–108</page-range>. doi: <pub-id pub-id-type="doi">10.1038/emboj.2012.32</pub-id>, PMID: 
+<pub-id pub-id-type="pmid">22343943</pub-id>
+<pub-id pub-id-type="pmcid">PMC3298007</pub-id></mixed-citation></ref><ref id="B28"><label>28</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Ballabio</surname><given-names>A</given-names></name>
+</person-group>. 
+<article-title>The awesome lysosome</article-title>. <source>EMBO Mol Med</source>. (<year>2016</year>) <volume>8</volume>:<page-range>73–6</page-range>. doi: <pub-id pub-id-type="doi">10.15252/emmm.201505966</pub-id>, PMID: 
+<pub-id pub-id-type="pmid">26787653</pub-id>
+<pub-id pub-id-type="pmcid">PMC4734841</pub-id></mixed-citation></ref><ref id="B29"><label>29</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Deretic</surname><given-names>V</given-names></name>
+<name name-style="western"><surname>Saitoh</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Akira</surname><given-names>S</given-names></name>
+</person-group>. 
+<article-title>Autophagy in infection, inflammation and immunity</article-title>. <source>Nat Rev Immunol</source>. (<year>2013</year>) <volume>13</volume>:<page-range>722–37</page-range>. doi: <pub-id pub-id-type="doi">10.1038/nri3532</pub-id>, PMID: 
+<pub-id pub-id-type="pmid">24064518</pub-id>
+<pub-id pub-id-type="pmcid">PMC5340150</pub-id></mixed-citation></ref><ref id="B30"><label>30</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Yim</surname><given-names>WWY</given-names></name>
+<name name-style="western"><surname>Mizushima</surname><given-names>N</given-names></name>
+</person-group>. 
+<article-title>Lysosome biology in autophagy</article-title>. <source>Cell Discov</source>. (<year>2020</year>) <volume>6</volume>:<fpage>6</fpage>. doi: <pub-id pub-id-type="doi">10.1038/s41421-020-0141-7</pub-id>, PMID: 
+<pub-id pub-id-type="pmid">32047650</pub-id>
+<pub-id pub-id-type="pmcid">PMC7010707</pub-id></mixed-citation></ref><ref id="B31"><label>31</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Ge</surname><given-names>W</given-names></name>
+<name name-style="western"><surname>Li</surname><given-names>D</given-names></name>
+<name name-style="western"><surname>Gao</surname><given-names>Y</given-names></name>
+<name name-style="western"><surname>Cao</surname><given-names>X</given-names></name>
+</person-group>. 
+<article-title>The roles of lysosomes in inflammation and autoimmune diseases</article-title>. <source>Int Rev Immunol</source>. (<year>2015</year>) <volume>34</volume>:<page-range>415–31</page-range>. doi: <pub-id pub-id-type="doi">10.3109/08830185.2014.936587</pub-id>, PMID: 
+<pub-id pub-id-type="pmid">25075736</pub-id>
+</mixed-citation></ref><ref id="B32"><label>32</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Simonaro</surname><given-names>CM</given-names></name>
+</person-group>. 
+<article-title>Lysosomes, lysosomal storage diseases, and inflammation</article-title>. <source>J Inborn Errors Metab Screen</source>. (<year>2016</year>) <volume>4</volume>:<fpage>1</fpage>–<lpage>8</lpage>. doi: <pub-id pub-id-type="doi">10.1177/2326409816650465</pub-id>
+</mixed-citation></ref><ref id="B33"><label>33</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Bordon</surname><given-names>Y</given-names></name>
+</person-group>. 
+<article-title>Immune regulation: Lysosomes at the heart of inflammation</article-title>. <source>Nat Rev Immunol</source>. (<year>2011</year>) <volume>11</volume>:<page-range>502–3</page-range>. doi: <pub-id pub-id-type="doi">10.1038/nri3035</pub-id>, PMID: 
+<pub-id pub-id-type="pmid">21779035</pub-id>
+</mixed-citation></ref><ref id="B34"><label>34</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>He</surname><given-names>Y</given-names></name>
+<name name-style="western"><surname>Xu</surname><given-names>Y</given-names></name>
+<name name-style="western"><surname>Zhang</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Gao</surname><given-names>X</given-names></name>
+<name name-style="western"><surname>Dykema</surname><given-names>KJ</given-names></name>
+<name name-style="western"><surname>Katie</surname><given-names>R</given-names></name>
+<etal/>
+</person-group>. 
+<article-title>Identification of a lysosomal pathway that modulates glucocorticoid signaling and the inflammatory response</article-title>. <source>Sci Signal</source>. (<year>2013</year>) <volume>4</volume>(<issue>180</issue>):<fpage>ra44</fpage>. doi: <pub-id pub-id-type="doi">10.1126/scisignal.2001450</pub-id>, PMID: 
+<pub-id pub-id-type="pmid">21730326</pub-id>
+<pub-id pub-id-type="pmcid">PMC3684214</pub-id></mixed-citation></ref><ref id="B35"><label>35</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Weissmann</surname><given-names>G</given-names></name>
+</person-group>. 
+<article-title>The role of lysosomes in inflammation and disease</article-title>. <source>Annu Rev Med</source>. (<year>1967</year>) <volume>18</volume>:<fpage>97</fpage>–<lpage>112</lpage>. doi: <pub-id pub-id-type="doi">10.1146/annurev.me.18.020167.000525</pub-id>, PMID: 
+<pub-id pub-id-type="pmid">5337539</pub-id>
+</mixed-citation></ref><ref id="B36"><label>36</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Piruzian</surname><given-names>ES</given-names></name>
+<name name-style="western"><surname>Sobolev</surname><given-names>VV</given-names></name>
+<name name-style="western"><surname>Abdeev</surname><given-names>RM</given-names></name>
+<name name-style="western"><surname>Zolotarenko</surname><given-names>AD</given-names></name>
+<name name-style="western"><surname>Nikolaev</surname><given-names>AA</given-names></name>
+</person-group>. 
+<article-title>Study of molecular mechanisms involved in the pathogenesis of immune-mediated inflammatory diseases, using psoriasis as a model</article-title>. <source>Acta Naturae</source>. (<year>2009</year>) <volume>1</volume>:<page-range>125–35</page-range>. doi: <pub-id pub-id-type="doi">10.32607/20758251-2009-1-3-125-135</pub-id>, PMID: 
+<pub-id pub-id-type="pmid">22649625</pub-id>
+<pub-id pub-id-type="pmcid">PMC3347524</pub-id></mixed-citation></ref><ref id="B37"><label>37</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Najibi</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Labed</surname><given-names>SA</given-names></name>
+<name name-style="western"><surname>Visvikis</surname><given-names>O</given-names></name>
+<name name-style="western"><surname>Irazoqui</surname><given-names>JE</given-names></name>
+</person-group>. 
+<article-title>An evolutionarily conserved PLC-PKD-TFEB pathway for host defense</article-title>. <source>Cell Rep</source>. (<year>2016</year>) <volume>15</volume>:<page-range>1728–42</page-range>. doi: <pub-id pub-id-type="doi">10.1016/j.celrep.2016.04.052</pub-id>, PMID: 
+<pub-id pub-id-type="pmid">27184844</pub-id>
+<pub-id pub-id-type="pmcid">PMC4880541</pub-id></mixed-citation></ref><ref id="B38"><label>38</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Gabig-Cimińska</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Moskot</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Malinowska</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Jakóbkiewicz-Banecka</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Szczerkowska-Dobosz</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Purzycka-Bohdan</surname><given-names>D</given-names></name>
+<etal/>
+</person-group>. 
+<article-title>Autophagy-related pathways in psoriasis and chronic inflammation: implications for systemic immune responses</article-title>. <source>Int J Mol Sci</source>. (<year>2020</year>) <volume>21</volume>:<elocation-id>5434</elocation-id>. doi: <pub-id pub-id-type="doi">10.3390/ijms21155434</pub-id>, PMID: 
+<pub-id pub-id-type="pmid">32751703</pub-id>
+<pub-id pub-id-type="pmcid">PMC7432366</pub-id></mixed-citation></ref><ref id="B39"><label>39</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Crotzer</surname><given-names>VL</given-names></name>
+<name name-style="western"><surname>Blum</surname><given-names>JS</given-names></name>
+</person-group>. 
+<article-title>Autophagy and its role in MHC-mediated antigen presentation</article-title>. <source>J Immunol</source>. (<year>2009</year>) <volume>182</volume>:<page-range>3335–41</page-range>. doi: <pub-id pub-id-type="doi">10.4049/jimmunol.0803458</pub-id>, PMID: 
+<pub-id pub-id-type="pmid">19265109</pub-id>
+<pub-id pub-id-type="pmcid">PMC2730830</pub-id></mixed-citation></ref><ref id="B40"><label>40</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Richards</surname><given-names>AL</given-names></name>
+<name name-style="western"><surname>Jackson</surname><given-names>WT</given-names></name>
+</person-group>. 
+<article-title>How positive-strand RNA viruses benefit from autophagosome maturation</article-title>. <source>J Virol</source>. (<year>2013</year>) <volume>87</volume>:<page-range>9966–72</page-range>. doi: <pub-id pub-id-type="doi">10.1128/JVI.00460-13</pub-id>, PMID: 
+<pub-id pub-id-type="pmid">23760248</pub-id>
+<pub-id pub-id-type="pmcid">PMC3754026</pub-id></mixed-citation></ref><ref id="B41"><label>41</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Campbell</surname><given-names>GR</given-names></name>
+<name name-style="western"><surname>Rawat</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Bruckman</surname><given-names>RS</given-names></name>
+<name name-style="western"><surname>Spector</surname><given-names>SA</given-names></name>
+</person-group>. 
+<article-title>Human immunodeficiency virus type 1 nef inhibits autophagy through transcription factor EB sequestration</article-title>. <source>PloS Pathog</source>. (<year>2015</year>) <volume>11</volume>:<fpage>e1005018</fpage>. doi: <pub-id pub-id-type="doi">10.1371/journal.ppat.1005018</pub-id>, PMID: 
+<pub-id pub-id-type="pmid">26115100</pub-id>
+<pub-id pub-id-type="pmcid">PMC4482621</pub-id></mixed-citation></ref><ref id="B42"><label>42</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Barbati</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Celia</surname><given-names>AI</given-names></name>
+<name name-style="western"><surname>Colasanti</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Vomero</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Speziali</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Putro</surname><given-names>E</given-names></name>
+<etal/>
+</person-group>. 
+<article-title>Autophagy hijacking in PBMC from COVID-19 patients results in lymphopenia</article-title>. <source>Front Immunol</source>. (<year>2022</year>) <volume>13</volume>:<elocation-id>903498</elocation-id>. doi: <pub-id pub-id-type="doi">10.3389/fimmu.2022.903498</pub-id>, PMID: 
+<pub-id pub-id-type="pmid">35711451</pub-id>
+<pub-id pub-id-type="pmcid">PMC9196331</pub-id></mixed-citation></ref><ref id="B43"><label>43</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Chen</surname><given-names>D</given-names></name>
+<name name-style="western"><surname>Zhang</surname><given-names>H</given-names></name>
+</person-group>. 
+<article-title>Autophagy in severe acute respiratory syndrome coronavirus 2 infection</article-title>. <source>Curr Opin Physiol</source>. (<year>2022</year>) <volume>29</volume>:<elocation-id>100596</elocation-id>. doi: <pub-id pub-id-type="doi">10.1016/j.cophys.2022.100596</pub-id>, PMID: 
+<pub-id pub-id-type="pmid">36187896</pub-id>
+<pub-id pub-id-type="pmcid">PMC9514017</pub-id></mixed-citation></ref><ref id="B44"><label>44</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Michalak</surname><given-names>KP</given-names></name>
+<name name-style="western"><surname>Michalak</surname><given-names>AZ</given-names></name>
+<name name-style="western"><surname>Brenk-Krakowska</surname><given-names>A</given-names></name>
+</person-group>. 
+<article-title>Acute COVID-19 and LongCOVID syndrome – molecular implications for therapeutic strategies - review</article-title>. <source>Front Immunol</source>. (<year>2025</year>) <volume>16</volume>:<elocation-id>1582783</elocation-id>. doi: <pub-id pub-id-type="doi">10.3389/fimmu.2025.1582783</pub-id>, PMID: 
+<pub-id pub-id-type="pmid">40313948</pub-id>
+<pub-id pub-id-type="pmcid">PMC12043656</pub-id></mixed-citation></ref><ref id="B45"><label>45</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Peiris</surname><given-names>JSM</given-names></name>
+<name name-style="western"><surname>Chu</surname><given-names>CM</given-names></name>
+<name name-style="western"><surname>Cheng</surname><given-names>VCC</given-names></name>
+<name name-style="western"><surname>Chan</surname><given-names>KS</given-names></name>
+<name name-style="western"><surname>Hung</surname><given-names>IFN</given-names></name>
+<name name-style="western"><surname>Poon</surname><given-names>LLM</given-names></name>
+<etal/>
+</person-group>. 
+<article-title>Clinical progression and viral load in a community outbreak of coronavirus-associated SARS pneumonia: a prospective study</article-title>. <source>Lancet</source>. (<year>2003</year>) <volume>361</volume>:<page-range>1767–72</page-range>. doi: <pub-id pub-id-type="doi">10.1016/S0140-6736(03)13412-5</pub-id>, PMID: 
+<pub-id pub-id-type="pmid">12781535</pub-id>
+<pub-id pub-id-type="pmcid">PMC7112410</pub-id></mixed-citation></ref><ref id="B46"><label>46</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Shivshankar</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Mueller-Ortiz</surname><given-names>SL</given-names></name>
+<name name-style="western"><surname>Domozhirov</surname><given-names>AY</given-names></name>
+<name name-style="western"><surname>Bi</surname><given-names>W</given-names></name>
+<name name-style="western"><surname>Collum</surname><given-names>SD</given-names></name>
+<name name-style="western"><surname>Doursout</surname><given-names>MF</given-names></name>
+<etal/>
+</person-group>. 
+<article-title>Complement activity and autophagy are dysregulated in the lungs of patients with nonresolvable COVID-19 requiring lung transplantation</article-title>. <source>Respir Res</source>. (<year>2025</year>) <volume>26</volume>:<fpage>198</fpage>. doi: <pub-id pub-id-type="doi">10.1186/s12931-025-03258-x</pub-id>, PMID: 
+<pub-id pub-id-type="pmid">40016722</pub-id>
+<pub-id pub-id-type="pmcid">PMC11866606</pub-id></mixed-citation></ref><ref id="B47"><label>47</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Shimabukuro-Vornhagen</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Gödel</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Subklewe</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Stemmler</surname><given-names>HJ</given-names></name>
+<name name-style="western"><surname>Schlößer</surname><given-names>HA</given-names></name>
+<name name-style="western"><surname>Schlaak</surname><given-names>M</given-names></name>
+<etal/>
+</person-group>. 
+<article-title>Cytokine release syndrome</article-title>. <source>J Immunother Cancer</source>. (<year>2018</year>) <volume>6</volume>:<fpage>56</fpage>. doi: <pub-id pub-id-type="doi">10.1186/s40425-018-0343-9</pub-id>, PMID: 
+<pub-id pub-id-type="pmid">29907163</pub-id>
+<pub-id pub-id-type="pmcid">PMC6003181</pub-id></mixed-citation></ref><ref id="B48"><label>48</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Huang</surname><given-names>K</given-names></name>
+<name name-style="western"><surname>Su</surname><given-names>I</given-names></name>
+<name name-style="western"><surname>Theron</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Wu</surname><given-names>Y</given-names></name>
+<name name-style="western"><surname>Lai</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Liu</surname><given-names>C</given-names></name>
+<etal/>
+</person-group>. 
+<article-title>An interferon-gamma-related cytokine storm in SARS patients</article-title>. <source>J Med Virol</source>. (<year>2005</year>) <volume>75</volume>:<page-range>185–94</page-range>. doi: <pub-id pub-id-type="doi">10.1002/jmv.20255</pub-id>, PMID: 
+<pub-id pub-id-type="pmid">15602737</pub-id>
+<pub-id pub-id-type="pmcid">PMC7166886</pub-id></mixed-citation></ref><ref id="B49"><label>49</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>He</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Ding</surname><given-names>Y</given-names></name>
+<name name-style="western"><surname>Zhang</surname><given-names>Q</given-names></name>
+<name name-style="western"><surname>Che</surname><given-names>X</given-names></name>
+<name name-style="western"><surname>He</surname><given-names>Y</given-names></name>
+<name name-style="western"><surname>Shen</surname><given-names>H</given-names></name>
+<etal/>
+</person-group>. 
+<article-title>Expression of elevated levels of pro-inflammatory cytokines in SARS-CoV-infected ACE2+ cells in SARS patients: relation to the acute lung injury and pathogenesis of SARS</article-title>. <source>J Pathol</source>. (<year>2006</year>) <volume>210</volume>:<page-range>288–97</page-range>. doi: <pub-id pub-id-type="doi">10.1002/path.2067</pub-id>, PMID: 
+<pub-id pub-id-type="pmid">17031779</pub-id>
+<pub-id pub-id-type="pmcid">PMC7167655</pub-id></mixed-citation></ref><ref id="B50"><label>50</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Paunovic</surname><given-names>V</given-names></name>
+<name name-style="western"><surname>Vucicevic</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Misirkic Marjanovic</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Perovic</surname><given-names>V</given-names></name>
+<name name-style="western"><surname>Ristic</surname><given-names>B</given-names></name>
+<name name-style="western"><surname>Bosnjak</surname><given-names>M</given-names></name>
+<etal/>
+</person-group>. 
+<article-title>Autophagy receptor p62 regulates SARS-coV-2-induced inflammation in COVID-19</article-title>. <source>Cells</source>. (<year>2023</year>) <volume>12</volume>:<elocation-id>1282</elocation-id>. doi: <pub-id pub-id-type="doi">10.3390/cells12091282</pub-id>, PMID: 
+<pub-id pub-id-type="pmid">37174682</pub-id>
+<pub-id pub-id-type="pmcid">PMC10177105</pub-id></mixed-citation></ref><ref id="B51"><label>51</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Cervia-Hasler</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Brüningk</surname><given-names>SC</given-names></name>
+<name name-style="western"><surname>Hoch</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Fan</surname><given-names>B</given-names></name>
+<name name-style="western"><surname>Muzio</surname><given-names>G</given-names></name>
+<name name-style="western"><surname>Thompson</surname><given-names>RC</given-names></name>
+<etal/>
+</person-group>. 
+<article-title>Persistent complement dysregulation with signs of thromboinflammation in active Long Covid</article-title>. <source>Science</source>. (<year>2024</year>) <volume>383</volume>:<fpage>eadg7942</fpage>. doi: <pub-id pub-id-type="doi">10.1126/science.adg7942</pub-id>, PMID: 
+<pub-id pub-id-type="pmid">38236961</pub-id>
+</mixed-citation></ref><ref id="B52"><label>52</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Su</surname><given-names>Y</given-names></name>
+<name name-style="western"><surname>Yuan</surname><given-names>D</given-names></name>
+<name name-style="western"><surname>Chen</surname><given-names>DG</given-names></name>
+<name name-style="western"><surname>Ng</surname><given-names>RH</given-names></name>
+<name name-style="western"><surname>Wang</surname><given-names>K</given-names></name>
+<name name-style="western"><surname>Choi</surname><given-names>J</given-names></name>
+<etal/>
+</person-group>. 
+<article-title>Multiple early factors anticipate post-acute COVID-19 sequelae</article-title>. <source>Cell</source>. (<year>2022</year>) <volume>185</volume>:<fpage>881</fpage>–<lpage>895.e20</lpage>. doi: <pub-id pub-id-type="doi">10.1016/j.cell.2022.01.014</pub-id>, PMID: 
+<pub-id pub-id-type="pmid">35216672</pub-id>
+<pub-id pub-id-type="pmcid">PMC8786632</pub-id></mixed-citation></ref><ref id="B53"><label>53</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Madsen</surname><given-names>HB</given-names></name>
+<name name-style="western"><surname>Durhuus</surname><given-names>JA</given-names></name>
+<name name-style="western"><surname>Andersen</surname><given-names>O</given-names></name>
+<name name-style="western"><surname>Straten</surname><given-names>PT</given-names></name>
+<name name-style="western"><surname>Rahbech</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Desler</surname><given-names>C</given-names></name>
+</person-group>. 
+<article-title>Mitochondrial dysfunction in acute and post-acute phases of COVID-19 and risk of non-communicable diseases</article-title>. <source>NPJ Metab Health Dis</source>. (<year>2024</year>) <volume>2</volume>:<fpage>36</fpage>. doi: <pub-id pub-id-type="doi">10.1038/s44324-024-00038-x</pub-id>, PMID: 
+<pub-id pub-id-type="pmid">40603504</pub-id>
+<pub-id pub-id-type="pmcid">PMC12118677</pub-id></mixed-citation></ref><ref id="B54"><label>54</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Molnar</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Lehoczki</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Fekete</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Varnai</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Zavori</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Erdo-Bonyar</surname><given-names>S</given-names></name>
+<etal/>
+</person-group>. 
+<article-title>Mitochondrial dysfunction in long COVID: mechanisms, consequences, and potential therapeutic approaches</article-title>. <source>Geroscience</source>. (<year>2024</year>) <volume>46</volume>:<page-range>5267–86</page-range>. doi: <pub-id pub-id-type="doi">10.1007/s11357-024-01165-5</pub-id>, PMID: 
+<pub-id pub-id-type="pmid">38668888</pub-id>
+<pub-id pub-id-type="pmcid">PMC11336094</pub-id></mixed-citation></ref><ref id="B55"><label>55</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Macnaughtan</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Chau</surname><given-names>KY</given-names></name>
+<name name-style="western"><surname>Brennan</surname><given-names>E</given-names></name>
+<name name-style="western"><surname>Toffoli</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Spinazzola</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Hillman</surname><given-names>T</given-names></name>
+<etal/>
+</person-group>. 
+<article-title>Mitochondrial function is impaired in long COVID patients</article-title>. <source>Ann Med</source>. (<year>2025</year>) <volume>57</volume>:<elocation-id>2528167</elocation-id>. doi: <pub-id pub-id-type="doi">10.1080/07853890.2025.2528167</pub-id>, PMID: 
+<pub-id pub-id-type="pmid">40792393</pub-id>
+<pub-id pub-id-type="pmcid">PMC12344680</pub-id></mixed-citation></ref><ref id="B56"><label>56</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Rurek</surname><given-names>M</given-names></name>
+</person-group>. 
+<article-title>Mitochondria in COVID-19: from cellular and molecular mechanisms to pathophysiological implications</article-title>. <source>Front Physiol</source>. (<year>2024</year>) <volume>15</volume>:<elocation-id>1406635</elocation-id>. doi: <pub-id pub-id-type="doi">10.3389/fphys.2024.1406635</pub-id>, PMID: 
+<pub-id pub-id-type="pmid">38974521</pub-id>
+<pub-id pub-id-type="pmcid">PMC11224649</pub-id></mixed-citation></ref><ref id="B57"><label>57</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Chen</surname><given-names>L-Z</given-names></name>
+<name name-style="western"><surname>Cai</surname><given-names>Q</given-names></name>
+<name name-style="western"><surname>Zheng</surname><given-names>P-F</given-names></name>
+</person-group>. 
+<article-title>Mitochondrial metabolic rescue in post-COVID-19 syndrome: MR spectroscopy insights and precision nutritional therapeutics</article-title>. <source>Front Immunol</source>. (<year>2025</year>) <volume>16</volume>:<elocation-id>1597370</elocation-id>. doi: <pub-id pub-id-type="doi">10.3389/fimmu.2025.1597370</pub-id>, PMID: 
+<pub-id pub-id-type="pmid">40486513</pub-id>
+<pub-id pub-id-type="pmcid">PMC12141278</pub-id></mixed-citation></ref><ref id="B58"><label>58</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Khan</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Ling</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Li</surname><given-names>J</given-names></name>
+</person-group>. 
+<article-title>Is autophagy a friend or foe in SARS-coV-2 infection</article-title>? <source>Viruses</source>. (<year>2024</year>) <volume>16</volume>:<elocation-id>1491</elocation-id>. doi: <pub-id pub-id-type="doi">10.3390/v16091491</pub-id>, PMID: 
+<pub-id pub-id-type="pmid">39339967</pub-id>
+<pub-id pub-id-type="pmcid">PMC11437447</pub-id></mixed-citation></ref><ref id="B59"><label>59</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Wang</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Cao</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Zhang</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Yang</surname><given-names>X</given-names></name>
+<name name-style="western"><surname>Liu</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Xu</surname><given-names>M</given-names></name>
+<etal/>
+</person-group>. 
+<article-title>Remdesivir and chloroquine effectively inhibit the recently emerged novel coronavirus (2019-nCoV) in <italic toggle="yes">vitro</italic></article-title>. <source>Cell Res</source>. (<year>2020</year>) <volume>30</volume>:<page-range>269–71</page-range>. doi: <pub-id pub-id-type="doi">10.1038/s41422-020-0282-0</pub-id>, PMID: 
+<pub-id pub-id-type="pmid">32020029</pub-id>
+<pub-id pub-id-type="pmcid">PMC7054408</pub-id></mixed-citation></ref><ref id="B60"><label>60</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Liu</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Cao</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Xu</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Wang</surname><given-names>X</given-names></name>
+<name name-style="western"><surname>Zhang</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Hu</surname><given-names>H</given-names></name>
+<etal/>
+</person-group>. 
+<article-title>Hydroxychloroquine, a less toxic derivative of chloroquine, is effective in inhibiting SARS-CoV-2 infection in <italic toggle="yes">vitro</italic></article-title>. <source>Cell Discov</source>. (<year>2020</year>) <volume>6</volume>:<fpage>16</fpage>. doi: <pub-id pub-id-type="doi">10.1038/s41421-020-0156-0</pub-id>, PMID: 
+<pub-id pub-id-type="pmid">32194981</pub-id>
+<pub-id pub-id-type="pmcid">PMC7078228</pub-id></mixed-citation></ref><ref id="B61"><label>61</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><collab>Infectious Diseases Society of America</collab>
+</person-group>. 
+<article-title>COVID-19 Treatment and Management Guidelines. Recommendation against hydroxychloroquine (with or without azithromycin)</article-title>. (<year>2025</year>).
+</mixed-citation></ref><ref id="B62"><label>62</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><collab>World Health Organization</collab>
+</person-group>. 
+<article-title>Drugs to prevent COVID-19: living guideline. Strong recommendation against hydroxychloroquine for prophylaxis</article-title>. (<year>2023</year>).
+</mixed-citation></ref><ref id="B63"><label>63</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><collab>National Institutes of Health</collab>
+</person-group>. 
+<article-title>COVID-19 treatment guidelines (final archived PDF, feb 2024)</article-title>. (<year>2024</year>).
+<pub-id pub-id-type="pmid">34003615</pub-id></mixed-citation></ref><ref id="B64"><label>64</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Schilling</surname><given-names>WHK</given-names></name>
+<name name-style="western"><surname>Mukaka</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Callery</surname><given-names>JJ</given-names></name>
+<name name-style="western"><surname>Llewelyn</surname><given-names>MJ</given-names></name>
+<name name-style="western"><surname>Cruz</surname><given-names>CV</given-names></name>
+<name name-style="western"><surname>Dhorda</surname><given-names>M</given-names></name>
+<etal/>
+</person-group>. 
+<article-title>Evaluation of hydroxychloroquine or chloroquine for the prevention of COVID-19 (COPCOV): A double-blind, randomized, placebo-controlled trial</article-title>. <source>PloS Med</source>. (<year>2024</year>) <volume>21</volume>:<fpage>e1004428</fpage>. doi: <pub-id pub-id-type="doi">10.1371/journal.pmed.1004428</pub-id>, PMID: 
+<pub-id pub-id-type="pmid">39264960</pub-id>
+<pub-id pub-id-type="pmcid">PMC11392261</pub-id></mixed-citation></ref></ref-list></back></article></pmc-articleset>

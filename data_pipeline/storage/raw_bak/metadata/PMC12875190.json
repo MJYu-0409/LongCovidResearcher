@@ -1,0 +1,25 @@
+{
+  "pmcid": "PMC12875190",
+  "pmid": "41641915",
+  "doi": "10.1002/sim.70404",
+  "title": "Robust Distribution-Free Tests for the Linear Model.",
+  "abstract": "Recently, there has been growing concern about heavy-tailed and skewed noise in biological data. We introduce RobustPALMRT, a flexible permutation framework for testing the association of a covariate of interest adjusted for control covariates. RobustPALMRT controls type I error rate for finite-samples, even in the presence of heavy-tailed or skewed noise. The new framework expands the scope of state-of-the-art tests in three directions. First, our method applies to robust and quantile regressions, even with the necessary hyper-parameter tuning. Second, by separating model-fitting and model-evaluation, we discover that performance improves when using a robust loss function in the model-evaluation step, regardless of how the model is fit. Third, we allow fitting multiple models to detect specialized features of interest in a distribution. To demonstrate this, we introduce DispersionPALMRT, which tests for differences in dispersion between treatment and control groups. We establish theoretical guarantees, identify settings where our method has greater power than existing methods, and analyze existing immunological data on Long-COVID patients. Using RobustPALMRT, we unveil novel differences between Long-COVID patients and others even in the presence of highly skewed noise.",
+  "authors": [
+    "Torey Hilbert",
+    "Steven N MacEachern",
+    "Yuan Zhang"
+  ],
+  "journal": "Statistics in medicine",
+  "pub_year": "2026",
+  "pub_month": "Feb",
+  "pub_day": "",
+  "keywords": [
+    "partial correlation",
+    "permutation test",
+    "quantile regression",
+    "robust regression"
+  ],
+  "article_types": [
+    "Journal Article"
+  ]
+}

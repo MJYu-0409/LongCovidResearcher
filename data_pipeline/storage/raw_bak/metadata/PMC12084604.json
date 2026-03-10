@@ -1,0 +1,22 @@
+{
+  "pmcid": "PMC12084604",
+  "pmid": "40379782",
+  "doi": "10.1038/s43856-025-00896-6",
+  "title": "Utilizing Google Trends data to enhance forecasts and monitor long COVID prevalence.",
+  "abstract": "BACKGROUND: Long COVID, the persistent illness following COVID-19 infection, has emerged as a major public health concern since the outbreak of the pandemic. Effective disease surveillance is crucial for policymaking and resource allocation.\nMETHODS: We investigated the potential of utilizing Google Trends data to enhance long COVID symptoms surveillance. Though Google Trends provides freely available search popularity data, limitations in data normalization and retrieval restrictions have hindered its predictive capabilities. In our study, we carefully selected 33 search terms and 20 related topics from the long COVID symptoms list provided by the Centers for Disease Control and Prevention and the database \"scite\", and calculated their merged search volumes from Google Trends data using our developed statistical method for analysis.\nRESULTS: We identify four related topics (ageusia, anosmia, chest pain, and headaches) that consistently exhibit increased search popularity before that of \"long COVID.\" Additionally, nine related topics (aching muscle pain, anxiety, chest pain, clouding of consciousness, dizziness, fatigue, myalgia, shortness of breath, and hypochondriasis) show increased search popularity following that of \"long COVID.\" We demonstrate that the merged search volume (MSV), derived from the relative search volume data downloaded from Google, can be used to forecast the prevalence of long COVID in a prediction study, supporting the use of the methodology in risk management regarding the prevalence of long COVID.\nCONCLUSIONS: By utilizing a comprehensive list of search terms and sophisticated statistical analytics, our study contributes to exploring the potential of Google Trends data for forecasting and monitoring long COVID prevalence. These findings and methodologies can be used as prior knowledge to inform future infodemiological and epidemiological investigations.\nLong COVID is a persistent illness that follows COVID-19 infection. It has emerged as a significant public health concern since the outbreak of the pandemic. Effective disease surveillance is crucial for policy making and resource allocation. We investigate the potential of using the number of searches of long COVID symptoms in Google to enhance surveillance and improve the predictability of long COVID prevalence. We found searches for several specific symptoms increased both before and after searches for long COVID, demonstrating that numbers of searches can predict long COVID prevalence. Google search results could therefore be used to monitor disease prevalence.",
+  "authors": [
+    "Amanda M Y Chu",
+    "Jenny T Y Tsang",
+    "Sophia S C Chan",
+    "Lupe S H Chan",
+    "Mike K P So"
+  ],
+  "journal": "Communications medicine",
+  "pub_year": "2025",
+  "pub_month": "May",
+  "pub_day": "16",
+  "keywords": [],
+  "article_types": [
+    "Journal Article"
+  ]
+}

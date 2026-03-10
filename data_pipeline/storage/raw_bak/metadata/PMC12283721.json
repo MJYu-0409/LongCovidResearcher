@@ -1,0 +1,36 @@
+{
+  "pmcid": "PMC12283721",
+  "pmid": "40703523",
+  "doi": "10.3389/fimmu.2025.1607619",
+  "title": "Aberrant T-cell phenotypes in a cohort of patients with post-treatment Lyme disease.",
+  "abstract": "Post-treatment Lyme Disease (PTLD) is a poorly understood complication of Borrelia burgdorferi infection with significant patient morbidity. Characterized by fatigue, generalized myalgias, and cognitive impairment, PTLD symptomatology closely resembles long COVID and other post-acute infection syndromes. While prior studies suggest immune dysregulation as a factor in PTLD pathogenesis, the mechanisms underlying its heterogeneous presentation and severity remain unclear. To associate symptom burden with discrete immune phenotypes, we applied factor analysis to self-reported symptom data from 272 PTLD patients to generate patient subgroups. We then immunophenotyped peripheral blood cells of these individuals and 28 healthy controls through 19-parameter flow cytometry and cytokine profiling to associate PTLD status and the newly defined subgroups with specific immune states. Our PTLD cohort had fewer circulating CXCR5+ CD4+ naïve T cells relative to healthy controls (5.2% vs. 8.3%, Padj < 0.001). These cells were positively associated with musculoskeletal pain in PTLD participants, but not healthy controls. This and additional immunophenotypic alterations, including an increased prevalence of CXCR3+ CCR4- CCR6- CD8 T cells (43.1% vs. 25.7%, Padj < 0.01), permitted the creation of an elastic net classifier which identified PTLD with moderate efficacy (AUC 0.83). Measurement of cytokines did not reveal associations with PTLD and did not improve the performance of the model. While we could not identify immune features which distinguished all patient subgroups, we did observe a female-specific increase in central memory CD8 T cells restricted to one high-fatigue patient subgroup. Additionally, factor analysis revealed multiple associations between immune cell frequency and the severity of specific symptoms. Collectively, our findings add to growing evidence of immune dysfunction as a prominent feature of PTLD.",
+  "authors": [
+    "Alexander A Girgis",
+    "Raffaello Cimbro",
+    "Ting Yang",
+    "Alison W Rebman",
+    "Thelio Sewell",
+    "Daniela Villegas de Flores",
+    "Aarti Vadalia",
+    "William H Robinson",
+    "Andrea L Cox",
+    "Erika Darrah",
+    "Mark J Soloski",
+    "John Aucott"
+  ],
+  "journal": "Frontiers in immunology",
+  "pub_year": "2025",
+  "pub_month": "07",
+  "pub_day": "09",
+  "keywords": [
+    "T cells",
+    "cytokine profiling",
+    "flow cytometry",
+    "immune phenotyping",
+    "post-acute infection syndromes (PAIS)",
+    "post-treatment Lyme disease (PTLD)"
+  ],
+  "article_types": [
+    "Journal Article"
+  ]
+}

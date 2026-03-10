@@ -1,0 +1,39 @@
+{
+  "pmcid": "PMC12552067",
+  "pmid": "41135584",
+  "doi": "10.1055/a-2702-1574",
+  "title": "Identifying Pediatric Long COVID: Comparing an EHR Algorithm to Manual Review.",
+  "abstract": "Long COVID, characterized by persistent or recurring symptoms post-COVID-19 infection, poses challenges for pediatric care and research due to the lack of a standardized clinical definition. Adult-focused phenotypes do not translate well to children, given developmental and physiological differences, and pediatric-specific phenotypes have not been compared with chart review.This study introduces and evaluates a pediatric-specific rule-based computable phenotype (CP) to identify long COVID using electronic health record data. We compare its performance to manual chart review.We applied the CP, composed of diagnostic codes empirically associated with long COVID, to 339,467 pediatric patients with SARS-CoV-2 infection in the RECOVER PCORnet EHR database. The CP identified 31,781 patients with long COVID. Clinicians conducted chart reviews on a subset of patients across 16 hospital systems to assess performance. We qualitatively reviewed discordant cases to understand differences between CP and clinician identification.Among the 651 reviewed patients (339 females, M age = 10.10 years), the CP showed moderate agreement with clinician identification (accuracy = 0.62, positive predictive value [PPV] = 0.49, negative predictive value [NPV] = 0.75, sensitivity = 0.52, specificity = 0.84). Performance was largely consistent across age and dominant variant but varied by symptom cluster count. Most discrepancies between the CP and chart review occurred when the CP identified a case, but the clinician did not, often because clinicians attributed symptoms to preexisting conditions (73%). When clinicians identified cases missed by the CP, they often used broader symptom or timing criteria (69%). Model performance improved when the CP accounted for preexisting conditions (accuracy = 0.71, PPV = 0.65, NPV = 0.74, sensitivity = 0.59, specificity = 0.79).This study presents a CP for pediatric long COVID. While agreement with manual review was moderate, most discrepancies were explained by differences in interpreting symptoms when patients had preexisting conditions. Accounting for these conditions improved accuracy and highlights the need for a consensus definition. These findings support the development of reliable, scalable tools for pediatric long COVID research.",
+  "authors": [
+    "Morgan Botdorf",
+    "Kimberley Dickinson",
+    "Vitaly Lorman",
+    "Hanieh Razzaghi",
+    "Nicole Marchesani",
+    "Suchitra Rao",
+    "Colin Rogerson",
+    "Miranda Higginbotham",
+    "Asuncion Mejias",
+    "Daria Salyakina",
+    "Deepika Thacker",
+    "Dima Dandachi",
+    "Dimitri A Christakis",
+    "Emily Taylor",
+    "Hayden T Schwenk",
+    "Hiroki Morizono",
+    "Jonathan D Cogen",
+    "Nathan M Pajor",
+    "Ravi Jhaveri",
+    "Christopher B Forrest",
+    "L Charles Bailey"
+  ],
+  "journal": "Applied clinical informatics",
+  "pub_year": "2025",
+  "pub_month": "Oct",
+  "pub_day": "24",
+  "keywords": [],
+  "article_types": [
+    "Journal Article",
+    "Comparative Study"
+  ]
+}

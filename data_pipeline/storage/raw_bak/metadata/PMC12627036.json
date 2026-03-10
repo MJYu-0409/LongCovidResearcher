@@ -1,0 +1,33 @@
+{
+  "pmcid": "PMC12627036",
+  "pmid": "41268552",
+  "doi": "10.3389/fimmu.2025.1701728",
+  "title": "Hookworm infection modulates lung and intestinal transcriptomic responses to SARS-CoV-2 in Syrian hamsters.",
+  "abstract": "BACKGROUND: Helminth infections are widespread in resource-limited settings, and modulate host immune responses, with potential implications for viral coinfections. Intestinal helminths can alter susceptibility to respiratory viruses, but the mechanisms influencing SARS-CoV-2 infection outcomes remain poorly understood.\nMETHODS: Using the Syrian hamster model, we investigated the impact of prior infection with the human hookworm Ancylostoma ceylanicum on host responses to SARS-CoV-2. Tissue-specific transcriptional responses were compared among four groups: naive, hookworm-only, SARS-CoV-2-only, and coinfected with both pathogens, 3 and 6 days post-viral infection. Viral titers and weight loss were assessed, and RNA-seq transcriptome profiles from lung and intestinal tissues were interrogated to identify differentially expressed genes and cellular pathways.\nRESULTS: Prior hookworm infection did not significantly alter viral titers or weight loss compared to SARS-CoV-2 infection alone, but distinct transcriptional signatures compared were identified compared to either single infection. Coinfection uniquely differentially regulated hematopoiesis and B cell-associated genes (e.g., ATF5, IGHM, JCHAIN) in the lungs, and immune and stress response pathways and inflammation-associated genes (e.g. FOLR2, PLA2GF, FABP3) in the intestine. Genes and pathways differentially regulated by SARS-CoV-2 alone, but with attenuated transcriptional responses in the lungs of coinfected hamsters were observed, including the loss of upregulation of toll-like receptor signaling and previously proposed host biomarkers for COVID-19 severity (CHI3L1, HMOX1), Long COVID (FCG4/FCGR3A and FST) and mortality (FST). In the intestine, hookworm-associated suppression of type I interferon-related genes (TAP1, IRF7) was reversed with SARS-CoV-2 coinfection, highlighting pathogen-specific modulation of innate antiviral signaling. Genes and pathways consistently differentially regulated by with SARS-CoV-2 were consistent with expectations, and many hemoglobin pathways were differentially regulated with hookworm in the intestine. CIBERSORT analysis was estimated relative leukocyte abundances in each sample cohort.\nCONCLUSION: Our findings demonstrate that A. ceylanicum infection reshapes host transcriptional responses to SARS-CoV-2 in a tissue-specific manner, enhancing B cell immunity in the lung while driving intestinal inflammation. Hookworm-induced immune modulation attenuated key SARS-CoV-2-responsive genes and pathways, suggesting potential mechanisms for reduced disease severity observed in helminth-endemic regions. These findings establish a molecular framework to better understand helminth, SARS-CoV-2 and host immune interactions, with relevance for other respiratory viral infections.",
+  "authors": [
+    "Bruce A Rosa",
+    "Mahdiyeh Bigham",
+    "Tamarand L Darling",
+    "Ashutosh Arun",
+    "Kumar Sachin Singh",
+    "John Martin",
+    "Adrianus C M Boon",
+    "Makedonka Mitreva"
+  ],
+  "journal": "Frontiers in immunology",
+  "pub_year": "2025",
+  "pub_month": "11",
+  "pub_day": "05",
+  "keywords": [
+    "SARS-CoV-2",
+    "coinfection",
+    "helminth-virus interaction",
+    "hookworm",
+    "host response",
+    "immune modulation",
+    "transcriptomics"
+  ],
+  "article_types": [
+    "Journal Article"
+  ]
+}

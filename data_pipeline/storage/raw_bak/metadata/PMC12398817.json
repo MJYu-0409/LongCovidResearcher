@@ -1,0 +1,26 @@
+{
+  "pmcid": "PMC12398817",
+  "pmid": "40893436",
+  "doi": "10.1016/j.jpha.2025.101342",
+  "title": "Quantifying compatibility mechanisms in traditional Chinese medicine with interpretable graph neural networks.",
+  "abstract": "Traditional Chinese medicine (TCM) features complex compatibility mechanisms involving multi-component, multi-target, and multi-pathway interactions. This study presents an interpretable graph artificial intelligence (GraphAI) framework to quantify such mechanisms in Chinese herbal formulas (CHFs). A multidimensional TCM knowledge graph (TCM-MKG; https://zenodo.org/records/13763953) was constructed, integrating seven standardized modules: TCM terminology, Chinese patent medicines (CPMs), Chinese herbal pieces (CHPs), pharmacognostic origins (POs), chemical compounds, biological targets, and diseases. A neighbor-diffusion strategy was used to address the sparsity of compound-target associations, increasing target coverage from 12.0% to 98.7%. Graph neural networks (GNNs) with attention mechanisms were applied to 6,080 CHFs, modeled as graphs with CHPs as nodes. To embed domain-specific semantics, virtual nodes medicinal properties, i.e., therapeutic nature, flavor, and meridian tropism, were introduced, enabling interpretable modeling of inter-CHP relationships. The model quantitatively captured classical compatibility roles such as \"monarch-minister-assistant-guide,\" and uncovered TCM etiological types derived from diagnostic and efficacy patterns. Model validation using 215 CHFs used for coronavirus disease 2019 (COVID-19) management highlighted Radix Astragali-Rhizoma Phragmitis as a high-attention herb pair. Mass spectrometry (MS) and target prediction identified three active compounds, i.e., methylinissolin-3-O-glucoside, corydalin, and pingbeinine, which converge on pathways such as neuroactive ligand-receptor interaction, xenobiotic response, and neuronal function, supporting their neuroimmune and detoxification potential. Given their high safety and dietary compatibility, this herb pair may offer therapeutic value for managing long COVID-19. All data and code are openly available (https://github.com/ZENGJingqi/GraphAI-for-TCM), providing a scalable and interpretable platform for TCM mechanism research and discovery of bioactive herbal constituents.",
+  "authors": [
+    "Jingqi Zeng",
+    "Xiaobin Jia"
+  ],
+  "journal": "Journal of pharmaceutical analysis",
+  "pub_year": "2025",
+  "pub_month": "Aug",
+  "pub_day": "12",
+  "keywords": [
+    "Artificial intelligence",
+    "Compatibility mechanism",
+    "Coronavirus disease 2019",
+    "Graph neural networks",
+    "Knowledge graph",
+    "Traditional Chinese medicine"
+  ],
+  "article_types": [
+    "Journal Article"
+  ]
+}

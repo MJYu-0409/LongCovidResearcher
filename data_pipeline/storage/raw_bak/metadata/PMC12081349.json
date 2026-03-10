@@ -1,0 +1,26 @@
+{
+  "pmcid": "PMC12081349",
+  "pmid": "40385629",
+  "doi": "10.3389/fpubh.2025.1573783",
+  "title": "Dynamic causal models in infectious disease epidemiology-an assessment of their predictive validity based on the COVID-19 epidemic in the UK 2020 to 2024.",
+  "abstract": "This technical report addresses the predictive validity of long-term epidemiological forecasting based upon dynamic causal modeling. It uses complementary prospective and retrospective analyses. The prospective analysis completes a series of (annual) reports comparing predictions with subsequent outcomes (i.e., cases, deaths, hospital admissions and Long COVID) reported a year later. Predictive validity is then addressed retrospectively by examining predictions at various points during the pandemic, in relation to actual outcomes at three, six and 12 months after the predictions were evaluated. This analysis suggests that-with a sufficiently expressive dynamic causal model-three, six and 12 month projections can be remarkably accurate (to within 10% or less of observed outcomes) at certain phases of the epidemic: namely, the initial phase-before the emergence of highly transmissible variants-and toward the end of the pandemic, when slow fluctuations in transmissibility and virulence can be estimated more precisely. However, the predictive accuracy in the intervening periods are compromised, to the extent that some forecasts only remain within their Bayesian credible intervals for 3 months. We provide a quantitative analysis of predictive accuracy for future reference and discuss the implications for epidemiological modeling, and forecasting, of this sort.",
+  "authors": [
+    "Cam Bowie",
+    "Karl Friston"
+  ],
+  "journal": "Frontiers in public health",
+  "pub_year": "2025",
+  "pub_month": "05",
+  "pub_day": "02",
+  "keywords": [
+    "compartmental models",
+    "coronavirus",
+    "dynamic causal modeling",
+    "epidemiology-descriptive",
+    "incidence",
+    "public health methodology"
+  ],
+  "article_types": [
+    "Journal Article"
+  ]
+}

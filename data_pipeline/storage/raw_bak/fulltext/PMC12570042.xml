@@ -1,0 +1,759 @@
+<?xml version="1.0"  ?><!DOCTYPE pmc-articleset PUBLIC "-//NLM//DTD ARTICLE SET 2.0//EN" "https://dtd.nlm.nih.gov/ncbi/pmc/articleset/nlm-articleset-2.0.dtd"><pmc-articleset><article id="hex70476" xml:lang="en" article-type="research-article" dtd-version="1.4"><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">Health Expect</journal-id><journal-id journal-id-type="iso-abbrev">Health Expect</journal-id><journal-id journal-id-type="pmc-domain-id">2997</journal-id><journal-id journal-id-type="pmc-domain">hex</journal-id><journal-id journal-id-type="publisher-id">HEX</journal-id><journal-title-group><journal-title>Health Expectations : An International Journal of Public Participation in Health Care and Health Policy</journal-title></journal-title-group><issn pub-type="ppub">1369-6513</issn><issn pub-type="epub">1369-7625</issn><publisher><publisher-name>Wiley</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC12570042</article-id><article-id pub-id-type="pmcid-ver">PMC12570042.1</article-id><article-id pub-id-type="pmcaid">12570042</article-id><article-id pub-id-type="pmcaiid">12570042</article-id><article-id pub-id-type="pmid">41159539</article-id><article-id pub-id-type="doi">10.1111/hex.70476</article-id><article-id pub-id-type="publisher-id">HEX70476</article-id><article-version article-version-type="pmc-version">1</article-version><article-categories><subj-group subj-group-type="overline"><subject>Original Article</subject></subj-group><subj-group subj-group-type="heading"><subject>Original Article</subject></subj-group></article-categories><title-group><article-title>“I Put a Lot of Emphasis on Work Because I Want to Keep My Job”: A Population‐Based Interview Study of Long Covid and Employment Changes in England</article-title></title-group><contrib-group><contrib id="hex70476-cr-0001" contrib-type="author" corresp="yes"><name name-style="western"><surname>Guzmán</surname><given-names initials="V">Viveka</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0001-9574-0308</contrib-id><xref rid="hex70476-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="hex70476-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref><xref rid="hex70476-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref><address><email>vguzman@imperial.ac.uk</email></address></contrib><contrib id="hex70476-cr-0002" contrib-type="author"><name name-style="western"><surname>Di Gravio</surname><given-names initials="C">Chiara</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-0532-267X</contrib-id><xref rid="hex70476-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="hex70476-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref></contrib><contrib id="hex70476-cr-0003" contrib-type="author"><name name-style="western"><surname>Cooper</surname><given-names initials="E">Emily</given-names></name><xref rid="hex70476-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="hex70476-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref><xref rid="hex70476-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref></contrib><contrib id="hex70476-cr-0004" contrib-type="author"><name name-style="western"><surname>Lound</surname><given-names initials="A">Adam</given-names></name><xref rid="hex70476-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib id="hex70476-cr-0005" contrib-type="author"><name name-style="western"><surname>Smith</surname><given-names initials="N">Nikki</given-names></name><xref rid="hex70476-aff-0004" ref-type="aff">
+<sup>4</sup>
+</xref></contrib><contrib id="hex70476-cr-0006" contrib-type="author"><name name-style="western"><surname>O'Hara</surname><given-names initials="M">Margaret</given-names></name><xref rid="hex70476-aff-0004" ref-type="aff">
+<sup>4</sup>
+</xref></contrib><contrib id="hex70476-cr-0007" contrib-type="author"><name name-style="western"><surname>Atchison</surname><given-names initials="CJ">Christina J.</given-names></name><xref rid="hex70476-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref><xref rid="hex70476-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref></contrib><contrib id="hex70476-cr-0008" contrib-type="author"><name name-style="western"><surname>Cooke</surname><given-names initials="G">Graham</given-names></name><xref rid="hex70476-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref><xref rid="hex70476-aff-0005" ref-type="aff">
+<sup>5</sup>
+</xref></contrib><contrib id="hex70476-cr-0009" contrib-type="author"><name name-style="western"><surname>Chadeau</surname><given-names initials="M">Marc</given-names></name><xref rid="hex70476-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="hex70476-aff-0006" ref-type="aff">
+<sup>6</sup>
+</xref></contrib><contrib id="hex70476-cr-0010" contrib-type="author"><name name-style="western"><surname>Elliott</surname><given-names initials="P">Paul</given-names></name><xref rid="hex70476-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="hex70476-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref><xref rid="hex70476-aff-0006" ref-type="aff">
+<sup>6</sup>
+</xref></contrib><contrib id="hex70476-cr-0011" contrib-type="author"><name name-style="western"><surname>Ward</surname><given-names initials="H">Helen</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0001-8238-5036</contrib-id><xref rid="hex70476-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="hex70476-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref><xref rid="hex70476-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref></contrib></contrib-group><aff id="hex70476-aff-0001">
+<label>
+<sup>1</sup>
+</label>
+<named-content content-type="organisation-division">Department of Epidemiology and Biostatistics, School of Public Health</named-content>
+<institution>Imperial College London</institution>
+<city>London</city>
+<country country="GB">UK</country>
+</aff><aff id="hex70476-aff-0002">
+<label>
+<sup>2</sup>
+</label>
+<named-content content-type="organisation-division">Patient Experience Research Centre, School of Public Health</named-content>
+<institution>Imperial College London</institution>
+<city>London</city>
+<country country="GB">UK</country>
+</aff><aff id="hex70476-aff-0003">
+<label>
+<sup>3</sup>
+</label>
+<named-content content-type="organisation-division">National Institute for Health Research</named-content>
+<institution>Imperial Biomedical Research Centre</institution>
+<city>London</city>
+<country country="GB">UK</country>
+</aff><aff id="hex70476-aff-0004">
+<label>
+<sup>4</sup>
+</label>
+<named-content content-type="organisation-division">REACT‐LC Public Advisory Group, School of Public Health</named-content>
+<institution>Imperial College London</institution>
+<city>London</city>
+<country country="GB">UK</country>
+</aff><aff id="hex70476-aff-0005">
+<label>
+<sup>5</sup>
+</label>
+<named-content content-type="organisation-division">Department of Infectious Disease</named-content>
+<institution>Imperial College London</institution>
+<city>London</city>
+<country country="GB">UK</country>
+</aff><aff id="hex70476-aff-0006">
+<label>
+<sup>6</sup>
+</label>
+<named-content content-type="organisation-division">MRC Centre for Environment and Health</named-content>
+<institution>Imperial College London</institution>
+<city>London</city>
+<country country="GB">UK</country>
+</aff><author-notes><corresp id="correspondenceTo">
+<label>*</label>
+<bold>Correspondence:</bold> Viveka Guzmán (<email>vguzman@imperial.ac.uk</email>)<break/>
+</corresp></author-notes><pub-date pub-type="epub"><day>29</day><month>10</month><year>2025</year></pub-date><pub-date pub-type="collection"><month>12</month><year>2025</year></pub-date><volume>28</volume><issue seq="23">6</issue><issue-id pub-id-type="pmc-issue-id">499657</issue-id><issue-id pub-id-type="doi">10.1111/hex.v28.6</issue-id><elocation-id>e70476</elocation-id><history><date date-type="rev-recd"><day>29</day><month>9</month><year>2025</year></date><date date-type="received"><day>03</day><month>4</month><year>2025</year></date><date date-type="accepted"><day>10</day><month>10</month><year>2025</year></date></history><pub-history><event event-type="pmc-release"><date><day>29</day><month>10</month><year>2025</year></date></event><event event-type="pmc-live"><date><day>30</day><month>10</month><year>2025</year></date></event><event event-type="pmc-last-change"><date iso-8601-date="2025-10-30 17:25:24.880"><day>30</day><month>10</month><year>2025</year></date></event></pub-history><permissions><copyright-statement content-type="article-copyright">© 2025 The Author(s). <italic toggle="yes">Health Expectations</italic> published by John Wiley &amp; Sons Ltd.</copyright-statement><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>This is an open access article under the terms of the <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pmc-pdf" xlink:href="HEX-28-e70476.pdf"/><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pdf" xlink:href="file:HEX-28-e70476.pdf"/><abstract><title>ABSTRACT</title><sec id="hex70476-sec-0010"><title>Background</title><p>Long Covid is a complex condition characterised by persistent multisystemic symptoms following a Covid‐19 infection, which can influence an individual's capability to sustain employment. However, there is limited evidence of how diverse presentations of long Covid can shape employment and what support strategies might be useful for different groups.</p></sec><sec id="hex70476-sec-0020"><title>Aim</title><p>To address this, we aimed to explore the experiences of employment changes among people living with long Covid in England and to identify the perceived barriers and enablers they face to cope with work.</p></sec><sec id="hex70476-sec-0030"><title>Design and Methods</title><p>We conducted a qualitative analysis of data from the Real‐time Assessment of Community Transmission (REACT) Study. Using a framework analysis approach, we analysed 60 semi‐structured interviews with people who experienced persistent Covid‐19 symptoms for 12 weeks or more.</p></sec><sec id="hex70476-sec-0040"><title>Results</title><p>We identified three key themes: (1) Persistent Covid‐19 symptoms at work; (2) Ripple effects of balancing work, identity and well‐being with persistent Covid‐19 symptoms; and (3) Employment changes to cope with and manage persistent Covid‐19 symptoms. Participants identified multiple employment changes, including reduction of working hours, restructuring of roles and modification of responsibilities, and adapted ways of working. Drivers of employment changes included disruptive and fluctuating symptoms but also broader pandemic circumstances and the opportunities available for accessing organizational support and putting in place appropriate management strategies.</p></sec><sec id="hex70476-sec-0050"><title>Conclusion</title><p>Our results provide a thorough understanding of the work changes experienced by people living with long Covid and highlight the need for intersectional, adaptable work accommodations to support their sustainable employment and overall well‐being.</p></sec><sec id="hex70476-sec-0060"><title>Patient and Public Contribution</title><p>Members of the public who are part of a Public Advisory Group (PAG) have provided ongoing input into various aspects of the umbrella cohort study, the Real‐time Assessment of Community Transmission (REACT) Study, including the study design, data collection instruments and dissemination of findings. For this qualitative study, which draws on interview data from REACT Long COVID (REACT‐LC), preliminary findings were presented to the PAG for feedback and suggestions, which helped refine the discussion. Additionally, two Public Advisors with lived experience of long Covid contributed to the writing and editing of this manuscript. In accordance with these contributions, they are included as authors.</p></sec></abstract><kwd-group><kwd id="hex70476-kwd-0001">employment</kwd><kwd id="hex70476-kwd-0002">England</kwd><kwd id="hex70476-kwd-0003">health inequalities</kwd><kwd id="hex70476-kwd-0004">lived experiences</kwd><kwd id="hex70476-kwd-0005">long Covid</kwd><kwd id="hex70476-kwd-0006">REACT study</kwd></kwd-group><funding-group><award-group id="funding-0001"><funding-source>
+<institution-wrap><institution>This study is an independent research funded by the National Institute for Health and Care Research (NIHR) and UK Research and Innovation (UKRI): REACT‐GE (UKRI MC_PC_20049) and REACT‐LC (COV‐LT‐0040). The REACT‐1 and REACT‐2 studies were funded by the Department of Health and Social Care in England (DHSC). We also acknowledge support from the NIHR Imperial Biomedical Research Centre.</institution></institution-wrap>
+</funding-source></award-group></funding-group><counts><fig-count count="2"/><table-count count="1"/><page-count count="11"/><word-count count="7871"/></counts><custom-meta-group><custom-meta><meta-name>pmc-status-qastatus</meta-name><meta-value>0</meta-value></custom-meta><custom-meta><meta-name>pmc-status-live</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-status-embargo</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-status-released</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-access</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-legally-suppressed</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-pdf</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-supplement</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-pdf-only</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-suppress-copyright</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-real-version</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-scanned-article</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-in-epmc</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-license-ref</meta-name><meta-value>CC BY</meta-value></custom-meta><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>December 2025</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:6.6.4 mode:remove_FC converted:29.10.2025</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="hex70476-cit-0059">
+<string-name name-style="western">
+<given-names>V.</given-names>
+<surname>Guzmán</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Di Gravio</surname>
+</string-name>, <string-name name-style="western">
+<given-names>E.</given-names>
+<surname>Cooper</surname>
+</string-name>, et al., “<article-title>‘I Put a lot of Emphasis on Work Because I Want to Keep My Job’: A Population‐Based Interview Study of Long COVID and Employment Changes in England</article-title>,” <source>Health Expectations</source> 0 (<year>2025</year>
+<volume>28</volume>:): <fpage>1</fpage>–<lpage>11</lpage>. <pub-id pub-id-type="doi">10.1111/hex.70476</pub-id>.<pub-id pub-id-type="pmid">41159539</pub-id></mixed-citation>
+</p></notes></front><body><sec sec-type="background" id="hex70476-sec-0070"><label>1</label><title>Background</title><p>For millions of people worldwide, SARS‐CoV‐2 infection has led to a variety of chronic, systemic and often disabling symptoms, collectively known as long Covid [<xref rid="hex70476-bib-0001" ref-type="bibr">1</xref>]. The 2024 National Academies of Science, Engineering, and Medicine (NASEM), building on an earlier definition by the World Health Organisation [<xref rid="hex70476-bib-0002" ref-type="bibr">2</xref>], defines long Covid as ‘an infection‐associated chronic condition that occurs after SARS‐CoV‐2 infection and is present for at least 3 months as a continuous, relapsing‐remitting, or progressive disease state that affects one or more organ systems’ [<xref rid="hex70476-bib-0001" ref-type="bibr">1</xref>]. The risk of persistent symptoms following an episode of Covid‐19 has been estimated to be around 6% [<xref rid="hex70476-bib-0003" ref-type="bibr">3</xref>], with 400 million people affected worldwide by 2024 [<xref rid="hex70476-bib-0004" ref-type="bibr">4</xref>]. In the United Kingdom, 4.8% of nearly 760,000 surveyed participants aged 16 and over reported long Covid in 2024, while an additional 9.1% experienced persistent Covid‐19 symptoms but were unsure of their diagnosis [<xref rid="hex70476-bib-0005" ref-type="bibr">5</xref>]. Individuals living with long Covid may face substantial limitations in their daily activities, with one UK study reporting that 31.7% experienced severe limitations, compared to 12.2% of those without Covid [<xref rid="hex70476-bib-0006" ref-type="bibr">6</xref>].</p><p>Long Covid has also been shown to have a substantial impact on employment, as symptoms like fatigue, cognitive dysfunction and post‐exertional malaise can preclude individuals from working or limit the amount and type of work they can undertake [<xref rid="hex70476-bib-0007" ref-type="bibr">7</xref>, <xref rid="hex70476-bib-0008" ref-type="bibr">8</xref>, <xref rid="hex70476-bib-0009" ref-type="bibr">9</xref>]. The European Commission estimated that in 2022, long Covid reduced the EU labour supply by 0.3%–0.5%, leading to a 0.2%–0.3% decline in economic output [<xref rid="hex70476-bib-0010" ref-type="bibr">10</xref>]. Similarly, evidence from the United Kingdom suggests that since the start of the pandemic around 80,000 people have left employment for causes directly attributable to long Covid [<xref rid="hex70476-bib-0011" ref-type="bibr">11</xref>]. Previous evidence suggests that reduced working hours among people with long Covid in the United Kingdom have resulted in a mean income decline of 24.5%, equivalent to £5.7 billion in national losses [<xref rid="hex70476-bib-0012" ref-type="bibr">12</xref>].</p><p>Recognition of the devastating financial, personal and social consequences of long Covid has prompted attention to employees lived experiences, particularly the barriers and facilitators they face to return to work [<xref rid="hex70476-bib-0013" ref-type="bibr">13</xref>, <xref rid="hex70476-bib-0014" ref-type="bibr">14</xref>, <xref rid="hex70476-bib-0015" ref-type="bibr">15</xref>]. This body of work suggests that individuals strive to remain in employment despite work‐disrupting symptoms, not only due to financial need but also the desire to maintain a sense of purpose and their personal or group identity [<xref rid="hex70476-bib-0013" ref-type="bibr">13</xref>, <xref rid="hex70476-bib-0014" ref-type="bibr">14</xref>]. Barriers identified to sustaining employment with long Covid include disbelief and stigma about the condition, difficulties in accessing diagnostic tests for acute Covid‐19 (which can hinder recognition of persistent symptoms as long Covid), limited services and supportive networks at the organizational level, and lack of appropriate legislative and policy protections, such as anti‐discrimination laws, sick leave and disability benefits, and flexible work regulations [<xref rid="hex70476-bib-0015" ref-type="bibr">15</xref>, <xref rid="hex70476-bib-0016" ref-type="bibr">16</xref>].</p><p>Although existing evidence highlights promising strategies to support individuals facing challenges to return‐to‐work due to ongoing long Covid, there is limited guidance for supporting workers undergoing other employment changes. These include employees experiencing severe or chronic disabilities that impair their capacity to perform job functions, or those transitioning to medical or early retirement. Additionally, most previous studies recruited participants from long Covid support groups or clinical services. Thus, the experiences of workers managing their symptoms outside formal support remain underexplored. Addressing these knowledge gaps will contribute to identify interventions that provide adequate support for workers facing health‐related employment changes, enabling their sustainable employment or transition to alternative pathways when needed.</p><p>In this paper, we use population‐based interview data from the REACT Long COVID (REACT‐LC) Study [<xref rid="hex70476-bib-0006" ref-type="bibr">6</xref>, <xref rid="hex70476-bib-0017" ref-type="bibr">17</xref>] to provide insights related to the experiences of employment among people in England with persistent Covid‐19 symptoms, consistent with established definitions of long Covid [<xref rid="hex70476-bib-0001" ref-type="bibr">1</xref>, <xref rid="hex70476-bib-0002" ref-type="bibr">2</xref>]. The specific objectives of this analysis are to explore the influence of long Covid on individual's employment changes and to identify the perceived barriers and enablers related to their symptom management and capability to sustain employment.</p></sec><sec sec-type="materials-and-methods" id="hex70476-sec-0080"><label>2</label><title>Materials and Methods</title><sec id="hex70476-sec-0090"><label>2.1</label><title>Study Design</title><p>This study is a secondary analysis of pre‐existing interview data collected within the REACT Study, a broader population‐based cohort described elsewhere [<xref rid="hex70476-bib-0018" ref-type="bibr">18</xref>, <xref rid="hex70476-bib-0019" ref-type="bibr">19</xref>, <xref rid="hex70476-bib-0020" ref-type="bibr">20</xref>]. Figure <xref rid="hex70476-fig-0001" ref-type="fig">1</xref> presents an overview of REACT components and the process by which the final sample was derived (<italic toggle="yes">N</italic> = 60). A comprehensive account of the interview study methodology has been reported previously [<xref rid="hex70476-bib-0021" ref-type="bibr">21</xref>]. Briefly, interview participants were drawn from the REACT‐LC sample based on eligibility criteria. To be considered, individuals must have experienced persistent symptoms lasting 12 weeks or more following symptomatic Covid‐19 (regardless of diagnosis status), attended an assessment clinic and provided biological samples and/or completed a Health and Wellbeing survey, and consented to be recontacted for an interview. To capture a wide range of experiences, the sampling approach purposively selected individuals to reflect diversity in age, gender, ethnicity and symptom severity. For the present analysis, no additional sampling was conducted, and data saturation did not guide participant selection. This approach aligns with established guidance for secondary analyses, where the analytic focus is on re‐examining existing data rather than generating new data [<xref rid="hex70476-bib-0022" ref-type="bibr">22</xref>, <xref rid="hex70476-bib-0023" ref-type="bibr">23</xref>].</p><fig position="float" fig-type="Figure" id="hex70476-fig-0001" orientation="portrait"><label>Figure 1</label><caption><p>Overview of the REACT Study and flow chart from the broader cohort to the interview study sample (<italic toggle="yes">N</italic> = 60). *Purposively selected to represent diversity in age, gender, ethnicity and severity of symptoms. <bold>REACT‐LC:</bold> REACT Long COVID; <bold>REACT‐GE:</bold> REACT Genomics England.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-1" orientation="portrait" xlink:href="HEX-28-e70476-g001.jpg"/></fig><p>Interviews used a semi‐structured topic guide that was developed in line with previous literature, a pilot interview study [<xref rid="hex70476-bib-0024" ref-type="bibr">24</xref>], and feedback from the REACT Public Advisory Group (PAG). It comprised questions related to participants' history of Covid‐19, pre‐pandemic and pandemic life experiences, persistent Covid‐19 symptoms, perceived trajectories of these and management strategies [<xref rid="hex70476-bib-0025" ref-type="bibr">25</xref>]. Interviews were conducted online either via MS Teams or Zoom, between January 2022 and January 2023. Each interview lasted around an hour and was recorded for professional transcription.</p></sec><sec id="hex70476-sec-0100"><label>2.2</label><title>Analysis</title><p>We selected framework analysis as our analytical approach due to its suitability to manage a relatively large dataset and its allowance to incorporate both a priori and emerging codes [<xref rid="hex70476-bib-0026" ref-type="bibr">26</xref>]. NVivo 14 software [<xref rid="hex70476-bib-0026" ref-type="bibr">26</xref>] was used to organise the data, assist coding and document our analytic decisions. We followed the five stages of framework analysis outlined by Ritchie and Spencer [<xref rid="hex70476-bib-0027" ref-type="bibr">27</xref>]: (1) Familiarised with all transcripts and field notes; (2) Developed initial codes using a combined deductive‐inductive approach shaped by our research question and prior literature, while allowing new codes to emerge [<xref rid="hex70476-bib-0028" ref-type="bibr">28</xref>]; (3) Iteratively refined our codebook by consolidating codes into broader thematic categories and then applied it to the remaining transcripts; (4) Developed a framework matrix to summarise each participant's employment experiences; and (5) Finalised themes by identifying patterns within and across participants.</p><p>Coding was primarily conducted independently by the lead author, with co‐authors providing input on the final themes. Interrater reliability was not formally assessed; instead, rigour was supported through regular presentation of preliminary analyses and interpretations to the wider research team for discussion and critical feedback [<xref rid="hex70476-bib-0028" ref-type="bibr">28</xref>]. Illustrative quotes were selected based on representativeness of patterns and themes, clarity of expression, and diversity of perspectives, including negative or minority cases [<xref rid="hex70476-bib-0029" ref-type="bibr">29</xref>, <xref rid="hex70476-bib-0030" ref-type="bibr">30</xref>, <xref rid="hex70476-bib-0031" ref-type="bibr">31</xref>]. The lead author carried out the initial quote selection, with feedback from PAG co‐authors prompting some alternative choices to ensure better alignment with the criteria.</p><p>We reflected on our positionality as researchers and the potential impact of our own experiences, assumptions and biases in the data collection, analysis and interpretation. Individual reflections and group discussions were recorded in our research log and allowed us to consider our insider/outsider perspectives, track our analytic decisions and iteratively adapt our methods.</p></sec></sec><sec sec-type="results" id="hex70476-sec-0110"><label>3</label><title>Results</title><p>The 60 people who were interviewed included 37 women and 23 men (including 1 transgender man), aged between 18 and 80 years (median 46). At the time of the interview, 48 participants were working (26 full‐time, 13 part‐time and 9 self‐employed) across diverse sectors, with 25 in non‐public facing roles. Table <xref rid="hex70476-tbl-0001" ref-type="table">1</xref> presents additional socio‐demographic and health characteristics [<xref rid="hex70476-bib-0032" ref-type="bibr">32</xref>].</p><table-wrap position="float" id="hex70476-tbl-0001" content-type="Table" orientation="portrait"><label>Table 1</label><caption><p>Summary of participants socio‐demographic and health characteristics.</p></caption><table frame="hsides" rules="groups"><col align="left" style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" span="1"/><col align="center" style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" span="1"/><thead valign="bottom"><tr style="border-bottom:solid 1px #000000" valign="bottom"><th align="left" valign="bottom" rowspan="1" colspan="1"/><th align="center" valign="bottom" rowspan="1" colspan="1">
+<italic toggle="yes">N</italic> (%) or Median (IQR)</th></tr></thead><tbody valign="top"><tr><td align="left" valign="top" rowspan="1" colspan="1">Employment nature at recruitment in REACT</td><td align="center" valign="top" rowspan="1" colspan="1"/></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Full‐time</td><td align="center" valign="top" rowspan="1" colspan="1">26 (43%)</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Part‐time</td><td align="center" valign="top" rowspan="1" colspan="1">13 (22%)</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Self‐employed</td><td align="center" valign="top" rowspan="1" colspan="1">9 (15%)</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Unemployed, studying or retired</td><td align="center" valign="top" rowspan="1" colspan="1">12 (20%)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Employment type at recruitment in REACT<xref rid="hex70476-tbl1-note-0003" ref-type="table-fn">**</xref>
+</td><td align="center" valign="top" rowspan="1" colspan="1"/></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Service, logistics and security</td><td align="center" valign="top" rowspan="1" colspan="1">3 (5%)</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Child‐related</td><td align="center" valign="top" rowspan="1" colspan="1">4 (7%)</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Healthcare worker</td><td align="center" valign="top" rowspan="1" colspan="1">6 (10%)</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Other essential worker/public facing</td><td align="center" valign="top" rowspan="1" colspan="1">9 (15%)</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Work at home/not public facing</td><td align="center" valign="top" rowspan="1" colspan="1">25 (41%)</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Not in full‐time, part‐time nor self‐employed</td><td align="center" valign="top" rowspan="1" colspan="1">12 (20%)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Gender</td><td align="center" valign="top" rowspan="1" colspan="1"/></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Male</td><td align="center" valign="top" rowspan="1" colspan="1">23 (38%)</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Female</td><td align="center" valign="top" rowspan="1" colspan="1">37 (62%)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Age (years)</td><td align="center" valign="top" rowspan="1" colspan="1">46 (33, 56)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Ethnicity</td><td align="center" valign="top" rowspan="1" colspan="1"/></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Asian</td><td align="center" valign="top" rowspan="1" colspan="1">9 (15%)</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Black</td><td align="center" valign="top" rowspan="1" colspan="1">8 (13%)</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Mixed</td><td align="center" valign="top" rowspan="1" colspan="1">12 (20%)</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Other</td><td align="center" valign="top" rowspan="1" colspan="1">6 (10%)</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">White</td><td align="center" valign="top" rowspan="1" colspan="1">25 (42%)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">IMD Quintile</td><td align="center" valign="top" rowspan="1" colspan="1"/></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Q1—most deprived</td><td align="center" valign="top" rowspan="1" colspan="1">7 (13%)</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Q2</td><td align="center" valign="top" rowspan="1" colspan="1">10 (18%)</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Q3</td><td align="center" valign="top" rowspan="1" colspan="1">13 (24%)</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Q4</td><td align="center" valign="top" rowspan="1" colspan="1">12 (22%)</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Q5—least deprived</td><td align="center" valign="top" rowspan="1" colspan="1">13 (24%)</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Missing</td><td align="center" valign="top" rowspan="1" colspan="1">5</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Covid‐19 infection severity</td><td align="center" valign="top" rowspan="1" colspan="1"/></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Mild‐moderate symptoms</td><td align="center" valign="top" rowspan="1" colspan="1">26 (43%)</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Severe symptoms</td><td align="center" valign="top" rowspan="1" colspan="1">34 (57%)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Number of comorbidities</td><td align="center" valign="top" rowspan="1" colspan="1"/></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">0–1</td><td align="center" valign="top" rowspan="1" colspan="1">40 (50%)</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">2+</td><td align="center" valign="top" rowspan="1" colspan="1">17 (30%)</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Missing</td><td align="center" valign="top" rowspan="1" colspan="1">3</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Symptom duration since acute Covid‐19 infection<xref rid="hex70476-tbl1-note-0002" ref-type="table-fn">¤</xref>
+</td><td align="center" valign="top" rowspan="1" colspan="1"/></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Among participants who identify as recovered (<italic toggle="yes">n</italic> = 7)</td><td align="center" valign="top" rowspan="1" colspan="1"/></tr><tr><td style="padding-left:15%" align="left" valign="top" rowspan="1" colspan="1">≥ 12 weeks to &lt; 1 year (52 weeks)</td><td align="center" valign="top" rowspan="1" colspan="1">4 (7%)</td></tr><tr><td style="padding-left:15%" align="left" valign="top" rowspan="1" colspan="1">≥ 1 year &lt; 2 years</td><td align="center" valign="top" rowspan="1" colspan="1">3 (5%)</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Among participants with ongoing symptoms (<italic toggle="yes">n</italic> = 53)</td><td align="center" valign="top" rowspan="1" colspan="1"/></tr><tr><td style="padding-left:15%" align="left" valign="top" rowspan="1" colspan="1">≥ 12 weeks to &lt; 1 year</td><td align="center" valign="top" rowspan="1" colspan="1">8 (13%)</td></tr><tr><td style="padding-left:15%" align="left" valign="top" rowspan="1" colspan="1">≥ 1 year &lt; 2 years</td><td align="center" valign="top" rowspan="1" colspan="1">24 (40%)</td></tr><tr><td style="padding-left:15%" align="left" valign="top" rowspan="1" colspan="1">≥ 2 years</td><td align="center" valign="top" rowspan="1" colspan="1">21 (35%)</td></tr></tbody></table><table-wrap-foot><fn id="hex70476-tbl1-note-0001"><label>*</label><p>Except for symptom duration since acute COVID‐19 infection<sup>
+<bold>¤</bold>
+</sup>, participant's characteristics were summarized from their answers to the REACT‐LC questionnaire, except for three participants who did not complete the questionnaire and for whom we considered their interview responses.</p></fn><fn id="hex70476-tbl1-note-0002"><label>
+<sup>¤</sup>
+</label><p>Extracted from interview responses.</p></fn><fn id="hex70476-tbl1-note-0003"><label>**</label><p>Business and service includes individuals working in food retail, hospitality and personal care. Child‐related includes individuals working in schools, nurseries, childcare centers or providing childcare services. Logistic and security includes individuals working in home deliveries, public transit, police, prison, fire and rescue, coastguard, and armed forces. Healthcare workers and care home workers include both workers with and without contact with the public. Other essential workers/public facing roles include all other essential workers that were not included in the other groups based on government guidelines (32).</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &amp; Sons, Ltd.</copyright-holder></permissions></table-wrap><p>Participants described diverse employment changes since the start of the Covid‐19 pandemic and recognized their persistent symptoms as important drivers of these. Figure <xref rid="hex70476-fig-0002" ref-type="fig">2</xref> shows the thematic map of our analysis, which identified three overarching themes: (1) Persistent Covid‐19 symptoms at work; (2) Ripple effects of balancing work, identity and wellbeing with persistent Covid‐19 symptoms; and (3) Employment changes to cope with and manage persistent Covid‐19 symptoms. Themes are described below and illustrated with quotes from participants. Quotes are presented with pseudonyms, age range at the time of data collection, and employment nature before the pandemic (FT = full‐time employment; PT = part‐time employment).</p><fig position="float" fig-type="Figure" id="hex70476-fig-0002" orientation="portrait"><label>Figure 2</label><caption><p>Thematic map of participants' employment experiences with persistent Covid‐19 symptoms.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-3" orientation="portrait" xlink:href="HEX-28-e70476-g002.jpg"/></fig><sec id="hex70476-sec-0120"><label>3.1</label><title>Persistent Covid Symptoms at Work</title><p>This theme captures participants' perspectives about how their persistent Covid‐19 symptoms intersected with their ability to meet work expectations. The symptoms most commonly described as disrupting work were physical fatigue, diminished cognitive capacities (e.g., brain fog, poor memory and mental fatigue), breathlessness and pain. Symptoms manifested in diverse combinations, severities and timelines, shaping participants' capabilities to carry out work to varying degrees. Some participants reported they felt unable to deliver outputs to their previous standard, as Vivian (46–55 years, FT) illustrated: ‘I'm not functioning at the same levels as I used to. Stuff that I used to knock off in a couple of hours is now taking me weeks’. A sense of diminished capacity to meet work demands was echoed by others, not only in terms of time taken to complete tasks but also in the need to repeatedly revisit and relearn material long familiar to them. Elaine (46–55 years, FT), who worked as an exhibition's curator, described:<disp-quote content-type="quotation"><p>I've done my job for 30 years and I'm very competent at it, but I couldn't understand what some of the words were meaning. I had to reread about stuff. I was thinking I'd forgotten about things. It was more than just being out of touch […] It's almost having to recognise things again and relearn things which I struggled with a lot.</p></disp-quote>
+</p><p>Others reported that the severity of their symptoms, combined with the demands of their roles, made it impossible altogether to sustain their previous employment. Jasleen (56–65 years, FT), who worked teaching vulnerable people, illustrated: ‘I couldn't entertain work now, at all, because it would just be‐ especially the kind of work I do. The work I do, it gives out a lot of energy’. Several other participants also used ‘energy’ to describe finite functional reserves necessary to meet work demands, which were often depleted by their symptoms.</p><p>Beyond cognitively demanding roles, work disruptions were also pronounced among participants employed in public‐facing positions, where physical demands, immediacy of response and greater reinfection risks exacerbated challenges to continue working. This was often reported among healthcare workers and those in retail or service positions. Vinay (46–55 years, FT), who worked in a hospital, reflected on this, noting that ‘it was frightening because being on a ward is not something that you could just think of not doing, moving around and being active’.</p><p>Additionally, participants described work disruptions related to fluctuations of their symptoms through time, non‐linear recovery trajectories, and uncertainty on the overall course of the condition. Some of the participants also perceived that work had sometimes caused a relapse or exacerbation of their symptoms, which was often associated with a quick return to work or ‘overdoing it’. For instance, Tasha (46–55 years, FT) who held a position within a charity organization, described each time she would try to return to work as ‘things were getting better’, her symptoms would ‘go backwards’ and she had to take additional time off, which affected her emotionally and financially:<disp-quote content-type="quotation"><p>I was trying to work. So, I would work and I'd be off, I'd work and I'd be off, and I'd just be going through this yoyo existence. I'd manage a couple of months of work and then I'd have to be off again for a month […] so income was still really sporadic.</p></disp-quote>
+</p></sec><sec id="hex70476-sec-0130"><label>3.2</label><title>Ripple Effects of Balancing Work, Identity and Well‐Being With Persistent Covid Symptoms</title><p>This theme details the consequences of participants' ‘struggles to get through’ work, including the emotional, physical and social tolls involved in balancing job demands with persistent symptoms. Some participants reported losing self‐confidence in their abilities to perform previous work tasks, which led to feelings of frustration, low mood and anxiety. As Dolores (36–45 years, PT) illustrated: ‘I'm a bit of a person who doesn't want to be seen as not doing something correctly, I like to do a job to the best of my ability. And feeling that you're not necessarily doing that to the best of your ability is frustrating’. Similarly, participants reported facing or fearing an increase in their work mistakes, so some verified their outputs multiple times which often led to additional stress and more time needed to complete a task. Sabina (46–55 years, FT), who's work involved dealing with numbers, explained:<disp-quote content-type="quotation"><p>I could not concentrate, I had to keep on doing things over and over again, just to make sure that I was doing it right. Which kind of stressed you out, because you think, “Oh my God, I've got such a responsibility here”.</p></disp-quote>
+</p><p>Changes in participants' capabilities challenged their established roles within their work teams. Colleen (36–45 years, FT), a project manager operating at the interface of environmental policy and science, remarked:<disp-quote content-type="quotation"><p>It was noticeable to my peers as well that I wasn't quite as sharp as I usually am. You know, I'm the one that never says anything inappropriate at a meeting, but it wasn't that I was inappropriate. I'm the people person. I'm the communicator. I'm the one that will explain this policy, you know, in simple terms, and I just … yes, it was difficult. It was hard work.</p></disp-quote>
+</p><p>In the face of these challenges, several participants felt that leaving their employment was not an option for them, mostly due to a combination of financial circumstances, and wishing to maintain their professional identity and sense of purpose. This resulted in participants attempting to reconcile work expectations with their symptoms and daily life, which required them to plan, prioritize and iteratively appraise their activities. Danielle (46–55 years, FT) explained:<disp-quote content-type="quotation"><p>I put a lot of emphasis on work because I want to keep my job, and I want to be able to at least have some income, but work means […] there's no energy left, at the end of the day, to do that [<italic toggle="yes">laundry and other home chores</italic>].</p></disp-quote>
+</p><p>Limited energy and prioritization of work reduced participants' opportunities to engage in other valued activities, such as recreation and leisure, which previous research suggests may contribute to long‐term decline in physical and mental well‐being [<xref rid="hex70476-bib-0033" ref-type="bibr">33</xref>] and in work ability [<xref rid="hex70476-bib-0034" ref-type="bibr">34</xref>]. This also increased reliance on social networks for instrumental support with home and caregiving tasks, potentially generating additional challenges for women and migrant individuals, who are more often expected to assume primary responsibility for these roles [<xref rid="hex70476-bib-0035" ref-type="bibr">35</xref>, <xref rid="hex70476-bib-0036" ref-type="bibr">36</xref>].</p><p>Taken together, challenges in balancing employment with fluctuating symptoms and non‐linear trajectories placed participants, such as Elaine (46–55 years, FT), in a state of uncertainty regarding their identity and career prospects:<disp-quote content-type="quotation"><p>What are we now, 6 months into returning and I'm still only doing 2 days a week. I wondered will I ever get back up? Hopefully I can get back up to things, but I don't think I'll probably return to be, maybe I will, I don't know, the person I was before.</p></disp-quote>
+</p></sec><sec id="hex70476-sec-0140"><label>3.3</label><title>Employment Changes to Cope and Manage Persistent Symptoms</title><p>This theme describes participants' perspectives of individual and organizational strategies for managing persistent symptoms at work, as well as perceived barriers or enablers influencing their implementation.</p><sec id="hex70476-sec-0150"><label>3.3.1</label><title>Individual Strategies and Flexible Ways of Working</title><p>Participants used diverse strategies to sustain employment, including adaptive approaches that helped them manage challenges constructively, and maladaptive strategies that provided short‐term relief but ultimately lead to negative outcomes [<xref rid="hex70476-bib-0037" ref-type="bibr">37</xref>, <xref rid="hex70476-bib-0038" ref-type="bibr">38</xref>]. Examples of maladaptive practices included ‘pushing through’ symptoms, avoiding communication about health needs, and working longer hours to compensate for reduced efficiency. Liam (46–55 years, FT) explained: ‘What I was doing was just working harder and later and trying to hide the fact of what was going on’. In contrast, other participants, including Colleen (36–45 years, FT), sought to manage expectations and communicated their need for accommodations to employers and colleagues: ‘I allowed myself a bit more time where possible, and generally just prefaced meetings with, “Sorry, I've got COVID brain. Bear with me whilst I figure out what I'm trying to say”’. Consistent with prior research on workplace disclosures [<xref rid="hex70476-bib-0039" ref-type="bibr">39</xref>, <xref rid="hex70476-bib-0040" ref-type="bibr">40</xref>], participants noted disclosure was complex and involved weighing potential risks (e.g., stigma and career disadvantages) against benefits (e.g., accommodations and support).</p><p>Participants also reported that awareness of factors influencing their symptoms developed over time, prompting them to tinker with their management strategies. Commonly reported enablers included scheduled breaks and pacing activities over multiple days. Rita (46–55 years, FT), whose role involved occasional travel, illustrated:<disp-quote content-type="quotation"><p>If I put a couple of things back‐to‐back, I'm knocked out for a couple of days. So, my boss, again super‐understanding, is sparing about when they use me for a meeting in London. It doesn't tend to be an internal thing, it's usually for something external‐facing where I can be a value‐add.</p></disp-quote>
+</p><p>Online and remote working conditions often provided improved opportunities for sustaining employment. Yet, participants also described limitations, such as screen fatigue, which prompted compensatory strategies. Naomi (46–55 years, FT), for instance, shared she found Zoom meetings exhausting, ‘especially if there are lots of people’ and indicated that rather than attending these, she kept track of team developments through email and meeting minutes. Other barriers for remote working included lack of physical resources, such as reliable electronic devices or a stable internet connection, which Jim (46–55 years, FT) illustrated:<disp-quote content-type="quotation"><p>I was quite happy to work from home, if you like, so I wasn't on the sick but I'd be working from home. They couldn't find me anything, they couldn't get me a laptop out […] In the end, I just had to stay on the sick because I couldn't come in. It's a shame really because I was quite happy to go back to work.</p></disp-quote>
+</p></sec><sec id="hex70476-sec-0160"><label>3.3.2</label><title>Medical Leave of Absence</title><p>For several participants stopping work for some time, ranging from a few days to months, was necessary to focus on their recovery. David (46–55 years, FT), a sales professional, illustrated:<disp-quote content-type="quotation"><p>There was just no way I could carry on. When it happened and I rang my boss and said, “I now need to go sick, I can't see the wood for the trees at the moment.” It was a massive relief actually, it was really quite an enlightening thing to do once you've made the decision that you can't do it.</p></disp-quote>
+</p><p>However, access to medical leave varied, with self‐employed and precariously employed participants facing structural barriers previously documented in the literature [<xref rid="hex70476-bib-0041" ref-type="bibr">41</xref>], which Joy (26–35 years, FT) illustrated: ‘The company I work for don't offer any sick pay, and I was more worried about earning money and paying my bills than taking the proper time off, to look after myself’. Additionally, participants reported that deciding to take leave often required a consultation with an occupational therapist or physician, which were often contingent on access to these services and receiving a long Covid diagnosis. This highlights how systemic structures may intersect with health to create precarious contexts [<xref rid="hex70476-bib-0021" ref-type="bibr">21</xref>, <xref rid="hex70476-bib-0042" ref-type="bibr">42</xref>].</p><p>Participants frequently reported that taking medical leave was accompanied by feelings of guilt over burdening already strained co‐workers with additional duties, concerns about career impact, and navigating cultural or organizational barriers to discussing their symptoms. Sarah (26–35 years, FT), who worked as a teacher, explained:<disp-quote content-type="quotation"><p>I didn't feel comfortable, to be honest, to phone school and say that I'm too tired to teach, even though, generally, this was a physical symptom […] Again, probably having that Long COVID diagnosis would allow you to do that. Right now, it's very difficult to phone school and say, “I'm too tired to work”.</p></disp-quote>
+</p><p>Similarly, Debbie (56–65 years, FT), a Health Service employee described how the prevailing culture at her workplace—‘You've just got to brush yourself off and get on with things’—pressured her to return to full‐time before she felt ready. These accounts illustrate how pervasive social stigma against invisible diseases and a lack of recognition of long Covid as a potentially long‐term, disabling condition hindered access to appropriate support. Moreover, participants such as Clara (36–45 years, FT) highlighted these challenges created a looping effect which contributed to further health issues and employment disruptions:<disp-quote content-type="quotation"><p>I cannot remember a time since COVID where I didn't have either a migraine or a really bad headache every single week. It just got so bad where I was starting to get palpitations and other cardiac symptoms that I just decided it was enough. I mentioned it to my manager, and they then said that the COVID policy had changed, and if you went off with COVID, it was just normal illness that could trigger sickness that would then affect your job.</p></disp-quote>
+</p><p>In contrast, other participants, such as Eunice (56–65 years, FT) reported their ‘employers were quite understanding’ and allowed them to rebuild working stamina and confidence gradually. However, some participants perceived that although their managers and co‐workers seemed keen to support them, they had limited guidance and knowledge about the best strategies to do so.</p></sec><sec id="hex70476-sec-0170"><label>3.3.3</label><title>Change of Roles, Hours and Retirement</title><p>Several participants reported that due to their persistent Covid‐19 symptoms they had made job transitions or changed their hours of work, including internal transfers within the same organization, switching employers, and retiring. Some participants considered their symptoms as the main driver of these changes, while others viewed them as the tipping point that accelerated circumstances already set in that direction. For instance, Clara (36–45 years, FT), who moved from a job in a hospital to a new position based in a community setting, said:<disp-quote content-type="quotation"><p>The main driver for me leaving was because of my COVID symptoms and how I wasn't able to properly manage it in my old role, to a point, like I said, [<italic toggle="yes">I took</italic>] a substantial pay cut, just to try and balance things off. Because I knew it would have taken an awful toll on my long‐term health if I wasn't to change something, and I knew it wouldn't happen in the hospital.</p></disp-quote>
+</p><p>Since starting her new job in a community setting, Clara's working circumstances had dramatically improved:<disp-quote content-type="quotation"><p>In the short time I've worked there, they've been a lot more sympathetic, without me even having to explain what I'm going through. They've been very accommodating with regard to how to manage my caseload, how to adjust my work hours to accommodate times when I may not necessarily be at my best, and how to ensure that I cover everything I need to.</p></disp-quote>
+</p><p>Similarly, other participants reported a prioritization of their physical health over employment continuation although this sometimes led to mixed feelings. For instance, James (46–55 years, FT) who went into early retirement, shared: ‘It was disappointing I couldn't go in and finish my career in the right way but, at the same time, what I did think about was, “I've done 29 years for you, I'm going to look after me”’. Decisions to retire or diminish working hours were often balanced with regard to personal finances, social networks (e.g., dependents and life partners) and medium‐ to long‐term life plans. Participants, such as Laila (56–65, F, FT), also highlighted the value of having the opportunity to decide how or when to reduce their working hours:<disp-quote content-type="quotation"><p>Because I had a choice, I was able to negotiate retiring, but I said, “But I still want to work and I want to work 2 days a week,” so they gave me a 2‐days‐a‐week contract.</p></disp-quote>
+</p><p>Similarly, other participants reported that having agency over their roles and working hours allowed them to continue to benefit from employment ‘in their own terms’, which some perceived as an opportunity to ‘take their mind off’ their symptoms (Jim, 46–55 years, FT) or to ease into more permanent transitions. Others recognized that indefinite leave was the more appropriate decision and that their employers could help them to ‘leave work well’. Tom (56–65 years, FT) began considering retirement following critical disruptions to his work capabilities due to severe cognitive symptoms and tiredness, with little improvement despite a period of medical leave and phased return to work. In response, his manager supported him with personalized follow‐ups and space to consider his options:<disp-quote content-type="quotation"><p>He didn't believe I should be making those types of decisions feeling the way that I did, so he encouraged me to stay. I think September came along and I rang him up again and said, “No, I'm definitely not coming back, I need to stop.” He said, “I'll help you with that.” […] I'd been in the company for 23 years. He managed to get me a golden handshake so December 31st of 2021 I left. I'm not working now […] And things have definitely picked up since then.</p></disp-quote>
+</p></sec></sec></sec><sec sec-type="discussion" id="hex70476-sec-0180"><label>4</label><title>Discussion</title><p>This study provides insights into employment changes experienced by people living with persistent Covid‐19 symptoms, highlighting enablers and barriers they face in managing symptoms at work. Heterogeneous symptom presentations meant that some participants were completely unable to sustain employment, while others faced increased work instability as fluctuating symptoms misaligned with job demands. Beyond this interplay, employment changes were shaped by access to formal supports and opportunities to leverage social capital and informal resources. Interactions between these factors influenced the coping strategies participants deployed, while simultaneously creating additional burdens or respite opportunities as they navigated symptom management and sought support. The study further emphasizes how work environments shape the employment trajectories of people with persistent Covid‐19 symptoms, particularly in public‐facing roles and sectors such as healthcare and education, which are associated with intense workloads, understaffing and higher Covid‐19 exposure [<xref rid="hex70476-bib-0043" ref-type="bibr">43</xref>, <xref rid="hex70476-bib-0044" ref-type="bibr">44</xref>, <xref rid="hex70476-bib-0045" ref-type="bibr">45</xref>]. Precarious working conditions can compound these challenges, especially when support systems are lacking [<xref rid="hex70476-bib-0046" ref-type="bibr">46</xref>]. This is consistent with previous evidence, indicating that self‐employed individuals were less able to take days off to recover due to limited social benefits and concerns about losing their clients or income [<xref rid="hex70476-bib-0015" ref-type="bibr">15</xref>].</p><p>By highlighting the challenges faced by workers with persistent Covid‐19 symptoms, our findings contribute to the broader evidence‐base on chronic diseases, disability and employment [<xref rid="hex70476-bib-0047" ref-type="bibr">47</xref>, <xref rid="hex70476-bib-0048" ref-type="bibr">48</xref>]. Specifically, findings underscore the importance of flexible work accommodations and the official recognition of potentially disabling effects [<xref rid="hex70476-bib-0049" ref-type="bibr">49</xref>]. These needs overlap with those from other health conditions characterised by fluctuating symptoms and stigmatisation, such as chronic fatigue syndrome and fibromyalgia [<xref rid="hex70476-bib-0050" ref-type="bibr">50</xref>, <xref rid="hex70476-bib-0051" ref-type="bibr">51</xref>]. These conditions require distinct approaches from other chronic illnesses due to their episodic, multisystemic nature which may produce unpredictable challenges to sustain employment [<xref rid="hex70476-bib-0050" ref-type="bibr">50</xref>, <xref rid="hex70476-bib-0052" ref-type="bibr">52</xref>]. Thus, resources for iteratively tailoring accommodations and flexible management strategies should be readily accessible to employers and occupational health professionals, enabling them to support affected individuals effectively and to provide guidance for their social and professional networks [<xref rid="hex70476-bib-0049" ref-type="bibr">49</xref>]. However, access to organizational supports often depends on formal recognition of disability, which can place additional burdens on affected individuals [<xref rid="hex70476-bib-0052" ref-type="bibr">52</xref>].</p><p>In the United Kingdom, recognition of long Covid as a potential disability under the Equality Act represents a crucial step towards enabling such support. Yet, the case‐by‐case approach requires individuals to provide medical evidence and disclose their condition to employers [<xref rid="hex70476-bib-0053" ref-type="bibr">53</xref>]. Findings from our study indicate that this additional burden, on top of managing symptoms, may exacerbate health problems and workplace challenges. Nonetheless, participants' accounts suggest that proactive workplace measures, including dynamic workload planning, regular check‐ins and efforts to reduce stigma, can bridge the gap between legal recognition of disability and meaningful, day‐to‐day support, enabling individuals to sustain employment while managing health challenges.</p><p>Based on these results, we suggest an intersectional approach is needed to identify workers with long Covid who might face unique challenges. This approach should consider potential interactions between relational and contextual characteristics to develop work accommodations and tailored supports based on iterative appraisals of individual's needs [<xref rid="hex70476-bib-0054" ref-type="bibr">54</xref>]. Interventions should expand beyond return‐to‐work support since many individuals continue to experience fluctuating symptoms and challenges to manage their symptoms, which can also interfere with life–work balance and long‐term well‐being [<xref rid="hex70476-bib-0049" ref-type="bibr">49</xref>, <xref rid="hex70476-bib-0054" ref-type="bibr">54</xref>]. According to participants' perspectives, useful strategies include flexible ways of working, such as task scheduling responsive to day‐to‐day symptoms, multi‐day pacing of activities, hybrid working opportunities, and agency in setting productivity expectations. These strategies should be part of a broader toolkit of workplace accommodations [<xref rid="hex70476-bib-0049" ref-type="bibr">49</xref>] that should be accompanied by wider employment policies and access to holistic support services, including within the NHS [<xref rid="hex70476-bib-0055" ref-type="bibr">55</xref>].</p><sec id="hex70476-sec-0190"><label>4.1</label><title>Strengths and Limitations</title><p>The purposive sampling approach used to recruit participants to the REACT interview study enabled us to explore a wide variety of employment experiences among people with persistent Covid‐19 symptoms, including individuals with heterogeneous demographic backgrounds, diverse employment types, and varying access to long Covid support groups and clinical services.</p><p>The cross‐sectional study design of our study provides limited scope to explore the long‐term effect of long Covid in employment. This should be addressed in future studies as the condition is characterized by potential relapses and knowledge about the condition continues to emerge in the face of changing socio‐economic conditions that may affect opportunities for sustainable employment. Although our sampling approach allowed us to recruit participants from several regions of England and yielded a substantial sample by qualitative standards [<xref rid="hex70476-bib-0056" ref-type="bibr">56</xref>, <xref rid="hex70476-bib-0057" ref-type="bibr">57</xref>], the purposive and self‐selective nature of recruitment may have introduced selection bias and constrained representativeness [<xref rid="hex70476-bib-0058" ref-type="bibr">58</xref>]. As such, our findings should be considered with caution and triangulated with longitudinal evidence and studies from different political and economic contexts. Moreover, we consider that understanding the employment experiences of people with long Covid also requires the consideration of the perspectives from other relevant stakeholders not included in this analysis, such as carers and family members, line managers, co‐workers, occupational therapists and clinicians.</p></sec></sec><sec sec-type="conclusions" id="hex70476-sec-0200"><label>5</label><title>Conclusion</title><p>Findings from our qualitative analysis provide an in‐depth characterization of people's experiences navigating their work alongside persistent Covid‐19 symptoms, as well as the barriers and enablers they have experienced to put in place adaptive strategies. These results offer valuable insights for developing workplace accommodations that support sustainable employment and well‐being of working‐aged adults living with long Covid. We propose that an intersectional approach, which considers symptom presentation, job responsibilities, healthcare access and social networks, is essential for developing effective, tailored work support and policies for persistent Covid‐19 symptoms. Given the changing landscape related to long Covid, it is crucial that workplace support and policies remain adaptable to meet the evolving needs of workers with persistent symptoms and that they collaborate with those with lived experience in their development and implementation.</p></sec><sec id="hex70476-sec-0210"><title>Author Contributions</title><p>Conceptualization: V.G., C.D.G. and H.W. Methodology: V.G. Formal analysis: V.G. Investigation: V.G. and C.D.G. Resources: E.C. and A.L. Data curation: V.G., E.C. and A.L. Writing – original draft: V.G., C.D.G., N.S., M.O'.H. and H.W. Writing – review and editing: V.G., C.D.G., E.C., A.L., N.S., M.O'.H., C.J.A., G.C., M.C., P.E. and H.W. Project administration: V.G. and C.D.G. Funding acquisition: G.C., M.C., P.E. and H.W.</p></sec><sec id="hex70476-sec-0230"><title>Disclosure</title><p>The views expressed in this publication are those of the authors and not necessarily those of DHSC, NIHR or UKRI.</p></sec><sec id="hex70476-sec-0240"><title>Ethics Statement</title><p>The REACT and REACT‐LC Studies hold ethical approval from South‐Central Berkshire B Research Ethics Committee (IRAS IDs: 298404, 259978, 283787 and 298724).</p></sec><sec id="hex70476-sec-0250"><title>Consent</title><p>All participants provided informed consent to take part in the study.</p></sec><sec sec-type="COI-statement" id="hex70476-sec-0260"><title>Conflicts of Interest</title><p>The authors declare no conflicts of interest.</p></sec></body><back><ack id="hex70476-sec-0220"><title>Acknowledgements</title><p>We thank all the REACT Study participants who have shared their experiences with us. We deeply appreciate the support of members of the REACT‐LC PAG who contributed their time and expertise to shape our study design and findings. This study is an independent research funded by the National Institute for Health and Care Research (NIHR) and UK Research and Innovation (UKRI): REACT‐GE (UKRI MC_PC_20049) and REACT‐LC (COV‐LT‐0040). The REACT‐1 and REACT‐2 studies were funded by the Department of Health and Social Care in England (DHSC). We also acknowledge support from the NIHR Imperial Biomedical Research Centre.</p></ack><sec sec-type="data-availability" id="hex70476-sec-0280"><title>Data Availability Statement</title><p>The data that support the findings of this study are not publicly available. De‐identified data can be made available upon reasonable request and in line with the consent agreed with participants, by submitting a methodologically sound research proposal to <email>react.lc.study@imperial.ac.uk</email>.</p></sec><ref-list content-type="cited-references" id="hex70476-bibl-0001"><title>References</title><ref id="hex70476-bib-0001"><label>1</label><mixed-citation publication-type="journal" id="hex70476-cit-0001">
+<string-name name-style="western">
+<given-names>E. W.</given-names>
+<surname>Ely</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L. M.</given-names>
+<surname>Brown</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>H. V.</given-names>
+<surname>Fineberg</surname>
+</string-name>, “<article-title>Long Covid Defined</article-title>,” <source>New England Journal of Medicine</source>
+<volume>391</volume>, no. <issue>18</issue> (<year>2024</year>): <fpage>1746</fpage>–<lpage>1753</lpage>, <pub-id pub-id-type="doi">10.1056/NEJMsb2408466</pub-id>.<pub-id pub-id-type="pmid">39083764</pub-id>
+<pub-id pub-id-type="pmcid">PMC11687645</pub-id></mixed-citation></ref><ref id="hex70476-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="hex70476-cit-0002">
+<string-name name-style="western">
+<given-names>J. B.</given-names>
+<surname>Soriano</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Murthy</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J. C.</given-names>
+<surname>Marshall</surname>
+</string-name>, <string-name name-style="western">
+<given-names>P.</given-names>
+<surname>Relan</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>J. V.</given-names>
+<surname>Diaz</surname>
+</string-name>, “<article-title>A Clinical Case Definition of post‐COVID‐19 Condition by a Delphi Consensus</article-title>,” <source>Lancet Infectious Diseases</source>
+<volume>22</volume>, no. <issue>4</issue> (<year>2022</year>): <fpage>e102</fpage>–<lpage>e107</lpage>, <pub-id pub-id-type="doi">10.1016/S1473-3099(21)00703-9</pub-id>.<pub-id pub-id-type="pmid">34951953</pub-id>
+<pub-id pub-id-type="pmcid">PMC8691845</pub-id></mixed-citation></ref><ref id="hex70476-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="hex70476-cit-0003">
+<string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Wulf Hanson</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Abbafati</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J. G.</given-names>
+<surname>Aerts</surname>
+</string-name>, et al., “<article-title>Estimated Global Proportions of Individuals With Persistent Fatigue, Cognitive, and Respiratory Symptom Clusters Following Symptomatic COVID‐19 in 2020 and 2021</article-title>,” <source>Journal of the American Medical Association</source>
+<volume>328</volume>, no. <issue>16</issue> (<year>2022</year>): <fpage>1604</fpage>, <pub-id pub-id-type="doi">10.1001/jama.2022.18931</pub-id>.<pub-id pub-id-type="pmid">36215063</pub-id>
+<pub-id pub-id-type="pmcid">PMC9552043</pub-id></mixed-citation></ref><ref id="hex70476-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="hex70476-cit-0004">
+<string-name name-style="western">
+<given-names>Z.</given-names>
+<surname>Al‐Aly</surname>
+</string-name>, <string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Davis</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L.</given-names>
+<surname>McCorkell</surname>
+</string-name>, et al., “<article-title>Long COVID Science, Research and Policy</article-title>,” <source>Nature Medicine</source>
+<volume>30</volume>, no. <issue>8</issue> (<year>2024</year>): <fpage>2148</fpage>–<lpage>2164</lpage>, <pub-id pub-id-type="doi">10.1038/s41591-024-03173-6</pub-id>.<pub-id pub-id-type="pmid">39122965</pub-id></mixed-citation></ref><ref id="hex70476-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="hex70476-cit-0005">
+<string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Woodrow</surname>
+</string-name>, <string-name name-style="western">
+<given-names>N.</given-names>
+<surname>Ziauddeen</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Smith</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>N. A.</given-names>
+<surname>Alwan</surname>
+</string-name>, “<article-title>Exploring Long Covid Prevalence and Patient Uncertainty by Sociodemographic Characteristics Using GP Patient Survey Data</article-title>,” <source>Health Expectations</source>
+<volume>28</volume>, no. <issue>2</issue> (<year>2025</year>): <elocation-id>e70202</elocation-id>, <pub-id pub-id-type="doi">10.1111/hex.70202</pub-id>.<pub-id pub-id-type="pmid">40097195</pub-id>
+<pub-id pub-id-type="pmcid">PMC11913530</pub-id></mixed-citation></ref><ref id="hex70476-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="hex70476-cit-0006">
+<string-name name-style="western">
+<given-names>C. J.</given-names>
+<surname>Atchison</surname>
+</string-name>, <string-name name-style="western">
+<given-names>B.</given-names>
+<surname>Davies</surname>
+</string-name>, <string-name name-style="western">
+<given-names>E.</given-names>
+<surname>Cooper</surname>
+</string-name>, et al., “<article-title>Long‐Term Health Impacts of COVID‐19 Among 242,712 Adults in England</article-title>,” <source>Nature Communications</source>
+<volume>14</volume>, no. <issue>1</issue> (<year>2023</year>): <fpage>6588</fpage>, <pub-id pub-id-type="doi">10.1038/s41467-023-41879-2</pub-id>.<pub-id pub-id-type="pmcid">PMC10598213</pub-id><pub-id pub-id-type="pmid">37875536</pub-id></mixed-citation></ref><ref id="hex70476-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="hex70476-cit-0007">
+<string-name name-style="western">
+<given-names>H. E.</given-names>
+<surname>Davis</surname>
+</string-name>, <string-name name-style="western">
+<given-names>G. S.</given-names>
+<surname>Assaf</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L.</given-names>
+<surname>McCorkell</surname>
+</string-name>, et al., “<article-title>Characterizing Long COVID in an International Cohort: 7 Months of Symptoms and Their Impact</article-title>,” <source>eClinicalMedicine</source>
+<volume>38</volume> (<year>2021</year>): <elocation-id>101019</elocation-id>, <pub-id pub-id-type="doi">10.1016/j.eclinm.2021.101019</pub-id>.<pub-id pub-id-type="pmid">34308300</pub-id>
+<pub-id pub-id-type="pmcid">PMC8280690</pub-id></mixed-citation></ref><ref id="hex70476-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="hex70476-cit-0008">
+<string-name name-style="western">
+<given-names>R. H.</given-names>
+<surname>Perlis</surname>
+</string-name>, <string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Lunz Trujillo</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Safarpour</surname>
+</string-name>, et al., “<article-title>Association of Post–COVID‐19 Condition Symptoms and Employment Status</article-title>,” <source>JAMA Network Open</source>
+<volume>6</volume>, no. <issue>2</issue> (<year>2023</year>): <elocation-id>e2256152</elocation-id>, <pub-id pub-id-type="doi">10.1001/jamanetworkopen.2022.56152</pub-id>.<pub-id pub-id-type="pmid">36790806</pub-id>
+<pub-id pub-id-type="pmcid">PMC9932847</pub-id></mixed-citation></ref><ref id="hex70476-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="hex70476-cit-0009">
+<string-name name-style="western">
+<given-names>N.</given-names>
+<surname>Ziauddeen</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Gurdasani</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M. E.</given-names>
+<surname>O'Hara</surname>
+</string-name>, et al., “<article-title>Characteristics and Impact of Long Covid: Findings From an Online Survey</article-title>,” <source>PLoS One</source>
+<volume>17</volume>, no. <issue>3</issue> (<year>2022</year>): <elocation-id>e0264331</elocation-id>, <pub-id pub-id-type="doi">10.1371/journal.pone.0264331</pub-id>.<pub-id pub-id-type="pmid">35259179</pub-id>
+<pub-id pub-id-type="pmcid">PMC8903286</pub-id></mixed-citation></ref><ref id="hex70476-bib-0010"><label>10</label><mixed-citation publication-type="miscellaneous" id="hex70476-cit-0010">
+<string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Calvo Ramos</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J. E.</given-names>
+<surname>Maldonado</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Vandeplas</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>I.</given-names>
+<surname>Vanyolos</surname>
+</string-name>. <italic toggle="yes">Long COVID: A Tentative Assessment of Its Impact on Labour Market Participation &amp; Potential Economic Effects in the EU</italic>. European Comission, <year>2024</year>. <pub-id pub-id-type="doi">10.2765/245526</pub-id>.</mixed-citation></ref><ref id="hex70476-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="hex70476-cit-0011">
+<string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Reuschke</surname>
+</string-name> and <string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Houston</surname>
+</string-name>, “<article-title>The Impact of Long COVID on the UK Workforce</article-title>,” <source>Applied Economics Letters</source>
+<volume>30</volume>, no. <issue>18</issue> (<year>2023</year>): <fpage>2510</fpage>–<lpage>2514</lpage>, <pub-id pub-id-type="doi">10.1080/13504851.2022.2098239</pub-id>.</mixed-citation></ref><ref id="hex70476-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="hex70476-cit-0012">
+<string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Kwon</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Milne</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Rayner</surname>
+</string-name>, et al., “<article-title>Impact of Long COVID on Productivity and Informal Caregiving</article-title>,” <source>European Journal of Health Economics</source>
+<volume>25</volume> (December <year>2024</year>): <fpage>1095</fpage>–<lpage>1115</lpage>, <pub-id pub-id-type="doi">10.1007/s10198-023-01653-z</pub-id>.<pub-id pub-id-type="pmcid">PMC11377524</pub-id><pub-id pub-id-type="pmid">38146040</pub-id></mixed-citation></ref><ref id="hex70476-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="hex70476-cit-0013">
+<string-name name-style="western">
+<given-names>E. A.</given-names>
+<surname>Stelson</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Dash</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L.</given-names>
+<surname>McCorkell</surname>
+</string-name>, et al., “<article-title>Return‐to‐Work With Long Covid: An Episodic Disability and Total Worker Health® Analysis</article-title>,” <source>Social Science &amp; Medicine</source>
+<volume>338</volume> (<year>2023</year>): <elocation-id>116336</elocation-id>, <pub-id pub-id-type="doi">10.1016/j.socscimed.2023.116336</pub-id>.<pub-id pub-id-type="pmid">37918226</pub-id>
+</mixed-citation></ref><ref id="hex70476-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="hex70476-cit-0014">
+<string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Nielsen</surname>
+</string-name> and <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Yarker</surname>
+</string-name>, “<article-title>‘It's a Rollercoaster’: The Recovery and Return to Work Experiences of Workers With Long COVID</article-title>,” <source>Work &amp; Stress</source>
+<volume>38</volume>, no. <issue>2</issue> (<year>2024</year>): <fpage>202</fpage>–<lpage>230</lpage>, <pub-id pub-id-type="doi">10.1080/02678373.2023.2286654</pub-id>.</mixed-citation></ref><ref id="hex70476-bib-0015"><label>15</label><mixed-citation publication-type="journal" id="hex70476-cit-0015">
+<string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Kohn</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Dauvrin</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Detollenaere</surname>
+</string-name>, et al., “<article-title>Long COVID and Return to Work: A Qualitative Study</article-title>,” <source>Occupational Medicine</source>
+<volume>74</volume>, no. <issue>1</issue> (<year>2024</year>): <fpage>29</fpage>–<lpage>36</lpage>, <pub-id pub-id-type="doi">10.1093/occmed/kqac119</pub-id>.<pub-id pub-id-type="pmid">36480262</pub-id>
+</mixed-citation></ref><ref id="hex70476-bib-0016"><label>16</label><mixed-citation publication-type="journal" id="hex70476-cit-0016">
+<string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Lunt</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Hemming</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Elander</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Baraniak</surname>
+</string-name>, <string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Burton</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Ellington</surname>
+</string-name>, “<article-title>Experiences of Workers With Post‐COVID‐19 Symptoms Can Signpost Suitable Workplace Accommodations</article-title>,” <source>International Journal of Workplace Health Management</source>
+<volume>15</volume>, no. <issue>3</issue> (<year>2022</year>): <fpage>359</fpage>–<lpage>374</lpage>, <pub-id pub-id-type="doi">10.1108/IJWHM-03-2021-0075</pub-id>.</mixed-citation></ref><ref id="hex70476-bib-0017"><label>17</label><mixed-citation publication-type="miscellaneous" id="hex70476-cit-0017">Real‐Time Assessment of Community Transmission (REACT) Study. REACT Long COVID. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.imperial.ac.uk/medicine/research-and-impact/groups/react-study/studies/react-long-covid/" ext-link-type="uri">https://www.imperial.ac.uk/medicine/research-and-impact/groups/react-study/studies/react-long-covid/</ext-link>.</mixed-citation></ref><ref id="hex70476-bib-0018"><label>18</label><mixed-citation publication-type="journal" id="hex70476-cit-0018">
+<string-name name-style="western">
+<given-names>P.</given-names>
+<surname>Elliott</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Whitaker</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Tang</surname>
+</string-name>, et al., “<article-title>Design and Implementation of a National SARS‐CoV‐2 Monitoring Program in England: REACT‐1 Study</article-title>,” <source>American Journal of Public Health</source>
+<volume>113</volume>, no. <issue>5</issue> (<year>2023</year>): <fpage>545</fpage>–<lpage>554</lpage>, <pub-id pub-id-type="doi">10.2105/AJPH.2023.307230</pub-id>.<pub-id pub-id-type="pmid">36893367</pub-id>
+<pub-id pub-id-type="pmcid">PMC10088956</pub-id></mixed-citation></ref><ref id="hex70476-bib-0019"><label>19</label><mixed-citation publication-type="journal" id="hex70476-cit-0019">
+<string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Riley</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Atchison</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Ashby</surname>
+</string-name>, et al., “<article-title>REal‐Time Assessment of Community Transmission (REACT) of SARS‐CoV‐2 Virus: Study Protocol</article-title>,” <source>Wellcome Open Research</source>
+<volume>5</volume> (<year>2021</year>): <fpage>200</fpage>, <pub-id pub-id-type="doi">10.12688/wellcomeopenres.16228.2</pub-id>.<pub-id pub-id-type="pmid">33997297</pub-id>
+<pub-id pub-id-type="pmcid">PMC8095190</pub-id></mixed-citation></ref><ref id="hex70476-bib-0020"><label>20</label><mixed-citation publication-type="journal" id="hex70476-cit-0020">
+<string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Ward</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Atchison</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Whitaker</surname>
+</string-name>, et al., “<article-title>Design and Implementation of a National Program to Monitor the Prevalence of SARS‐CoV‐2 IgG Antibodies in England Using Self‐Testing: The REACT‐2 Study</article-title>,” <source>American Journal of Public Health</source>
+<volume>113</volume>, no. <issue>11</issue> (<year>2023</year>): <fpage>1201</fpage>–<lpage>1209</lpage>, <pub-id pub-id-type="doi">10.2105/AJPH.2023.307381</pub-id>.<pub-id pub-id-type="pmid">37733993</pub-id>
+<pub-id pub-id-type="pmcid">PMC10568505</pub-id></mixed-citation></ref><ref id="hex70476-bib-0021"><label>21</label><mixed-citation publication-type="journal" id="hex70476-cit-0021">
+<string-name name-style="western">
+<given-names>E.</given-names>
+<surname>Cooper</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Lound</surname>
+</string-name>, <string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Jones</surname>
+</string-name>, et al., “<article-title>Challenges of Inclusion: A Population‐Based Interview Study of Long Covid</article-title>,” <source>Health Expectations</source>
+<volume>28</volume>, no. <issue>5</issue> (<year>2025</year>): <elocation-id>e70428</elocation-id>, <pub-id pub-id-type="doi">10.1111/hex.70428</pub-id>.<pub-id pub-id-type="pmid">40932810</pub-id>
+<pub-id pub-id-type="pmcid">PMC12424606</pub-id></mixed-citation></ref><ref id="hex70476-bib-0022"><label>22</label><mixed-citation publication-type="journal" id="hex70476-cit-0022">
+<string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Thorne</surname>
+</string-name>, “Secondary Analysis in Qualitative Research: Issues and Implications,” <volume>4</volume>, no. <issue>2</issue> (1994): <fpage>233</fpage>–<lpage>245</lpage>.</mixed-citation></ref><ref id="hex70476-bib-0023"><label>23</label><mixed-citation publication-type="book" id="hex70476-cit-0023">
+<string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Heaton</surname>
+</string-name>, <source>Secondary Analysis of Qualitative Data: An Overview</source> (<publisher-name>Sage</publisher-name>, <year>2004</year>).</mixed-citation></ref><ref id="hex70476-bib-0024"><label>24</label><mixed-citation publication-type="journal" id="hex70476-cit-0024">
+<string-name name-style="western">
+<given-names>E.</given-names>
+<surname>Cooper</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Lound</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C. J.</given-names>
+<surname>Atchison</surname>
+</string-name>, et al., “<article-title>Awareness and Perceptions of Long COVID Among People in the REACT Programme: Early Insights From a Pilot Interview Study</article-title>,” <source>PLoS One</source>
+<volume>18</volume>, no. <issue>1</issue> (<year>2023</year>): <elocation-id>e0280943</elocation-id>, <pub-id pub-id-type="doi">10.1371/journal.pone.0280943</pub-id>.<pub-id pub-id-type="pmid">36701357</pub-id>
+<pub-id pub-id-type="pmcid">PMC9879384</pub-id></mixed-citation></ref><ref id="hex70476-bib-0025"><label>25</label><mixed-citation publication-type="miscellaneous" id="hex70476-cit-0025">REACT‐LCS. Interview Topic Guide v2.1: Experiences of Covid. <year>2022</year>. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.imperial.ac.uk/media/imperial-college/medicine/perc/IRAS-298404-REACT-LC-Main-Qual_Topic-Guide_WEBSITE.pdf" ext-link-type="uri">https://www.imperial.ac.uk/media/imperial-college/medicine/perc/IRAS-298404-REACT-LC-Main-Qual_Topic-Guide_WEBSITE.pdf</ext-link>.</mixed-citation></ref><ref id="hex70476-bib-0026"><label>26</label><mixed-citation publication-type="miscellaneous" id="hex70476-cit-0026">NVivo (Version 14). <year>2023</year>.</mixed-citation></ref><ref id="hex70476-bib-0027"><label>27</label><mixed-citation publication-type="book" id="hex70476-cit-0027">
+<string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Richie</surname>
+</string-name> and <string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Spencer</surname>
+</string-name>, “<part-title>Qualitative Data Analysis for Applied Policy Research</part-title>,” in <source>Analyzing Qualitative Data</source>, ed. <person-group person-group-type="editor">
+<string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Bryman</surname>
+</string-name>
+</person-group> and <person-group person-group-type="editor">
+<string-name name-style="western">
+<given-names>R. G.</given-names>
+<surname>Burgess</surname>
+</string-name>
+</person-group> (<year>1994</year>).</mixed-citation></ref><ref id="hex70476-bib-0028"><label>28</label><mixed-citation publication-type="journal" id="hex70476-cit-0028">
+<string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Fereday</surname>
+</string-name> and <string-name name-style="western">
+<given-names>E.</given-names>
+<surname>Muir‐Cochrane</surname>
+</string-name>, “<article-title>Demonstrating Rigor Using Thematic Analysis: A Hybrid Approach of Inductive and Deductive Coding and Theme Development</article-title>,” <source>International Journal of Qualitative Methods</source>
+<volume>5</volume>, no. <issue>1</issue> (<year>2006</year>): <fpage>80</fpage>–<lpage>92</lpage>, <pub-id pub-id-type="doi">10.1177/160940690600500107</pub-id>.</mixed-citation></ref><ref id="hex70476-bib-0029"><label>29</label><mixed-citation publication-type="book" id="hex70476-cit-0029">
+<string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Marshall</surname>
+</string-name> and <string-name name-style="western">
+<given-names>G.</given-names>
+<surname>Rossman</surname>
+</string-name>, <source>Designing Qualitative Research</source>, 6th ed. (<publisher-name>Sage</publisher-name>, <year>2016</year>).</mixed-citation></ref><ref id="hex70476-bib-0030"><label>30</label><mixed-citation publication-type="journal" id="hex70476-cit-0030">
+<string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Sandelowski</surname>
+</string-name>, “<article-title>Focus on Qualitative Methods. The Use of Quotes in Qualitative Research</article-title>,” <source>Research in Nursing &amp; Health</source>
+<volume>17</volume>, no. <issue>6</issue> (<year>1994</year>): <fpage>479</fpage>–<lpage>482</lpage>, <pub-id pub-id-type="doi">10.1002/nur.4770170611</pub-id>.<pub-id pub-id-type="pmid">7972926</pub-id>
+</mixed-citation></ref><ref id="hex70476-bib-0031"><label>31</label><mixed-citation publication-type="journal" id="hex70476-cit-0031">
+<string-name name-style="western">
+<given-names>A. C.</given-names>
+<surname>Eldh</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Årestedt</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Berterö</surname>
+</string-name>, “<article-title>Quotations in Qualitative Studies: Reflections on Constituents, Custom, and Purpose</article-title>,” <source>International Journal of Qualitative Methods</source>
+<volume>19</volume> (<year>2020</year>): <elocation-id>1609406920969268</elocation-id>, <pub-id pub-id-type="doi">10.1177/1609406920969268</pub-id>.</mixed-citation></ref><ref id="hex70476-bib-0032"><label>32</label><mixed-citation publication-type="miscellaneous" id="hex70476-cit-0032">Office for National Statistics. <italic toggle="yes">Coronavirus and Key Workers in the UK</italic>. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/earningsandworkinghours/articles/coronavirusandkeyworkersintheuk/2020-05-15" ext-link-type="uri">https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/earningsandworkinghours/articles/coronavirusandkeyworkersintheuk/2020-05-15</ext-link>.</mixed-citation></ref><ref id="hex70476-bib-0033"><label>33</label><mixed-citation publication-type="journal" id="hex70476-cit-0033">
+<string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Sonnentag</surname>
+</string-name>, “<article-title>Work, Recovery Activities, and Individual Well‐Being: A Diary Study</article-title>,” <source>Journal of Occupational Health Psychology</source>
+<volume>6</volume>, no. <issue>3</issue> (<year>2001</year>): <fpage>196</fpage>–<lpage>210</lpage>, <pub-id pub-id-type="doi">10.1037/1076-8998.6.3.196</pub-id>.<pub-id pub-id-type="pmid">11482632</pub-id>
+</mixed-citation></ref><ref id="hex70476-bib-0034"><label>34</label><mixed-citation publication-type="journal" id="hex70476-cit-0034">
+<string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Lahti</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Salmela</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Kouvonen</surname>
+</string-name>, <string-name name-style="western">
+<given-names>O.</given-names>
+<surname>Rahkonen</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>T.</given-names>
+<surname>Lallukka</surname>
+</string-name>, “<article-title>Joint Associations of Leisure‐Time Physical Activity and Sitting Time With Emotional Wellbeing, Physical Functioning and Work Ability: An Occupational Study Among Young and Early Midlife Finnish Municipal Employees</article-title>,” <source>Journal of Activity, Sedentary and Sleep Behaviors</source>
+<volume>2</volume>, no. <issue>1</issue> (<year>2023</year>): <fpage>24</fpage>, <pub-id pub-id-type="doi">10.1186/s44167-023-00034-4</pub-id>.<pub-id pub-id-type="pmid">40217419</pub-id>
+<pub-id pub-id-type="pmcid">PMC11960224</pub-id></mixed-citation></ref><ref id="hex70476-bib-0035"><label>35</label><mixed-citation publication-type="journal" id="hex70476-cit-0035">
+<string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Lutz</surname>
+</string-name>, “<article-title>Care Migration: The Connectivity Between Care Chains, Care Circulation and Transnational Social Inequality</article-title>,” <source>Current Sociology</source>
+<volume>66</volume>, no. <issue>4</issue> (<year>2018</year>): <fpage>577</fpage>–<lpage>589</lpage>, <pub-id pub-id-type="doi">10.1177/0011392118765213</pub-id>.</mixed-citation></ref><ref id="hex70476-bib-0036"><label>36</label><mixed-citation publication-type="book" id="hex70476-cit-0036">
+<string-name name-style="western">
+<given-names>A. R.</given-names>
+<surname>Hochschild</surname>
+</string-name> and <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Machung</surname>
+</string-name>, <source>The Second Shift: Working Parents and the Revolution at Home</source> (<publisher-name>Viking</publisher-name>, <year>1989</year>).</mixed-citation></ref><ref id="hex70476-bib-0037"><label>37</label><mixed-citation publication-type="book" id="hex70476-cit-0037">
+<string-name name-style="western">
+<given-names>R. S.</given-names>
+<surname>Lazarus</surname>
+</string-name> and <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Folkman</surname>
+</string-name>, <source>Stress, Appraisal, and Coping</source> (<publisher-name>Springer</publisher-name>, <year>1984</year>).</mixed-citation></ref><ref id="hex70476-bib-0038"><label>38</label><mixed-citation publication-type="journal" id="hex70476-cit-0038">
+<string-name name-style="western">
+<given-names>H. M.</given-names>
+<surname>Hendy</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S. H.</given-names>
+<surname>Can</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>P.</given-names>
+<surname>Black</surname>
+</string-name>, “<article-title>Workplace Deviance as a Possible ‘Maladaptive Coping’ Behavior Displayed in Association With Workplace Stressors</article-title>,” <source>Deviant Behavior</source>
+<volume>40</volume>, no. <issue>7</issue> (<year>2019</year>): <fpage>791</fpage>–<lpage>798</lpage>, <pub-id pub-id-type="doi">10.1080/01639625.2018.1441684</pub-id>.</mixed-citation></ref><ref id="hex70476-bib-0039"><label>39</label><mixed-citation publication-type="journal" id="hex70476-cit-0039">
+<string-name name-style="western">
+<given-names>M. A. M.</given-names>
+<surname>Gignac</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Jetha</surname>
+</string-name>, <string-name name-style="western">
+<given-names>K. A. M.</given-names>
+<surname>Ginis</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Ibrahim</surname>
+</string-name>, “<article-title>Does It Matter What Your Reasons Are When Deciding to Disclose (or Not Disclose) a Disability at Work? The Association of Workers' Approach and Avoidance Goals With Perceived Positive and Negative Workplace Outcomes</article-title>,” <source>Journal of Occupational Rehabilitation</source>
+<volume>31</volume>, no. <issue>3</issue> (<year>2021</year>): <fpage>638</fpage>–<lpage>651</lpage>, <pub-id pub-id-type="doi">10.1007/s10926-020-09956-1</pub-id>.<pub-id pub-id-type="pmid">33523376</pub-id>
+<pub-id pub-id-type="pmcid">PMC8298367</pub-id></mixed-citation></ref><ref id="hex70476-bib-0040"><label>40</label><mixed-citation publication-type="journal" id="hex70476-cit-0040">
+<string-name name-style="western">
+<given-names>M. A. M.</given-names>
+<surname>Gignac</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Bowring</surname>
+</string-name>, <string-name name-style="western">
+<given-names>F. V.</given-names>
+<surname>Shahidi</surname>
+</string-name>, <string-name name-style="western">
+<given-names>V.</given-names>
+<surname>Kristman</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J. I.</given-names>
+<surname>Cameron</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Jetha</surname>
+</string-name>, “<article-title>Workplace Disclosure Decisions of Older Workers Wanting to Remain Employed: A Qualitative Study of Factors Considered When Contemplating Revealing or Concealing Support Needs</article-title>,” <source>Work, Aging and Retirement</source>
+<volume>10</volume>, no. <issue>2</issue> (<year>2024</year>): <fpage>174</fpage>–<lpage>187</lpage>, <pub-id pub-id-type="doi">10.1093/workar/waac029</pub-id>.</mixed-citation></ref><ref id="hex70476-bib-0041"><label>41</label><mixed-citation publication-type="journal" id="hex70476-cit-0041">
+<string-name name-style="western">
+<given-names>T. H.</given-names>
+<surname>Khan</surname>
+</string-name>, <string-name name-style="western">
+<given-names>E.</given-names>
+<surname>MacEachen</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Dunstan</surname>
+</string-name>, “<article-title>What Social Supports Are Available to Self‐Employed People When Ill or Injured? A Comparative Policy Analysis of Canada and Australia</article-title>,” <source>International Journal of Environmental Research and Public Health</source>
+<volume>19</volume>, no. <issue>9</issue> (<year>2022</year>): <elocation-id>5310</elocation-id>, <pub-id pub-id-type="doi">10.3390/ijerph19095310</pub-id>.<pub-id pub-id-type="pmid">35564702</pub-id>
+<pub-id pub-id-type="pmcid">PMC9099523</pub-id></mixed-citation></ref><ref id="hex70476-bib-0042"><label>42</label><mixed-citation publication-type="journal" id="hex70476-cit-0042">
+<string-name name-style="western">
+<given-names>V.</given-names>
+<surname>Guzman</surname>
+</string-name>, <string-name name-style="western">
+<given-names>F.</given-names>
+<surname>Doyle</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Foley</surname>
+</string-name>, et al., “<article-title>Socio‐Ecological Determinants of Older People's Mental Health and Wellbeing During the COVID‐19 Pandemic: A Qualitative Analysis Within the Irish Context</article-title>,” <source>Frontiers in Public Health</source>
+<volume>11</volume> (<year>2023</year>): <elocation-id>1148758</elocation-id>, <pub-id pub-id-type="doi">10.3389/fpubh.2023.1148758</pub-id>.<pub-id pub-id-type="pmid">37033060</pub-id>
+<pub-id pub-id-type="pmcid">PMC10077967</pub-id></mixed-citation></ref><ref id="hex70476-bib-0043"><label>43</label><mixed-citation publication-type="journal" id="hex70476-cit-0043">
+<string-name name-style="western">
+<given-names>N.</given-names>
+<surname>Torrance</surname>
+</string-name>, <string-name name-style="western">
+<given-names>E.</given-names>
+<surname>MacIver</surname>
+</string-name>, <string-name name-style="western">
+<given-names>N. N.</given-names>
+<surname>Adams</surname>
+</string-name>, et al., “<article-title>Lived Experience of Work and Long COVID in Healthcare Staff</article-title>,” <source>Occupational Medicine</source>
+<volume>74</volume>, no. <issue>1</issue> (<year>2024</year>): <fpage>78</fpage>–<lpage>85</lpage>, <pub-id pub-id-type="doi">10.1093/occmed/kqad117</pub-id>.<pub-id pub-id-type="pmid">38071754</pub-id>
+<pub-id pub-id-type="pmcid">PMC10875925</pub-id></mixed-citation></ref><ref id="hex70476-bib-0044"><label>44</label><mixed-citation publication-type="journal" id="hex70476-cit-0044">
+<string-name name-style="western">
+<given-names>A. K.</given-names>
+<surname>Taylor</surname>
+</string-name>, <string-name name-style="western">
+<given-names>T.</given-names>
+<surname>Kingstone</surname>
+</string-name>, <string-name name-style="western">
+<given-names>T. A.</given-names>
+<surname>Briggs</surname>
+</string-name>, et al., “‘<article-title>Reluctant Pioneer’: A Qualitative Study of Doctors' Experiences as Patients With Long COVID</article-title>,” <source>Health Expectations</source>
+<volume>24</volume>, no. <issue>3</issue> (<year>2021</year>): <fpage>833</fpage>–<lpage>842</lpage>, <pub-id pub-id-type="doi">10.1111/hex.13223</pub-id>.<pub-id pub-id-type="pmid">33749957</pub-id>
+<pub-id pub-id-type="pmcid">PMC8235894</pub-id></mixed-citation></ref><ref id="hex70476-bib-0045"><label>45</label><mixed-citation publication-type="miscellaneous" id="hex70476-cit-0045">Eurofound. <italic toggle="yes">Job Quality of COVID‐19 Pandemic Essential Workers</italic>. Publications Office of the European Union, <year>2023</year>.</mixed-citation></ref><ref id="hex70476-bib-0046"><label>46</label><mixed-citation publication-type="miscellaneous" id="hex70476-cit-0046">
+<string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Posch</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Scott</surname>
+</string-name>, <string-name name-style="western">
+<given-names>E.</given-names>
+<surname>Cockbain</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>B.</given-names>
+<surname>Bradford</surname>
+</string-name>, <italic toggle="yes">Scale and Nature of Precarious Work in the UK</italic>. <year>2020</year>.</mixed-citation></ref><ref id="hex70476-bib-0047"><label>47</label><mixed-citation publication-type="journal" id="hex70476-cit-0047">
+<string-name name-style="western">
+<given-names>A. R.</given-names>
+<surname>Bosma</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C. R. L.</given-names>
+<surname>Boot</surname>
+</string-name>, <string-name name-style="western">
+<given-names>N. C.</given-names>
+<surname>Snippen</surname>
+</string-name>, <string-name name-style="western">
+<given-names>F. G.</given-names>
+<surname>Schaafsma</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>J. R.</given-names>
+<surname>Anema</surname>
+</string-name>, “<article-title>Supporting Employees With Chronic Conditions to Stay at Work: Perspectives of Occupational Health Professionals and Organizational Representatives</article-title>,” <source>BMC Public Health</source>
+<volume>21</volume>, no. <issue>1</issue> (<year>2021</year>): <fpage>592</fpage>, <pub-id pub-id-type="doi">10.1186/s12889-021-10633-y</pub-id>.<pub-id pub-id-type="pmid">33765993</pub-id>
+<pub-id pub-id-type="pmcid">PMC7992826</pub-id></mixed-citation></ref><ref id="hex70476-bib-0048"><label>48</label><mixed-citation publication-type="journal" id="hex70476-cit-0048">
+<string-name name-style="western">
+<given-names>I.</given-names>
+<surname>Varekamp</surname>
+</string-name> and <string-name name-style="western">
+<given-names>F. J. H.</given-names>
+<surname>Van Dijk</surname>
+</string-name>, “<article-title>Workplace Problems and Solutions for Employees With Chronic Diseases</article-title>,” <source>Occupational Medicine</source>
+<volume>60</volume>, no. <issue>4</issue> (<year>2010</year>): <fpage>287</fpage>–<lpage>293</lpage>, <pub-id pub-id-type="doi">10.1093/occmed/kqq078</pub-id>.<pub-id pub-id-type="pmid">20511269</pub-id>
+</mixed-citation></ref><ref id="hex70476-bib-0049"><label>49</label><mixed-citation publication-type="journal" id="hex70476-cit-0049">
+<string-name name-style="western">
+<given-names>R. J.</given-names>
+<surname>O'Connor</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Parkin</surname>
+</string-name>, <string-name name-style="western">
+<given-names>G.</given-names>
+<surname>Mir</surname>
+</string-name>, et al., “<article-title>Work and Vocational Rehabilitation for People Living With Long Covid</article-title>,” <source>BMJ</source>
+<volume>385</volume> (<year>2024</year>): <elocation-id>e076508</elocation-id>. <pub-id pub-id-type="doi">10.1136/bmj-2023-076508</pub-id>.<pub-id pub-id-type="pmid">38729647</pub-id>
+</mixed-citation></ref><ref id="hex70476-bib-0050"><label>50</label><mixed-citation publication-type="journal" id="hex70476-cit-0050">
+<string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Castro‐Marrero</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Faro</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M. C.</given-names>
+<surname>Zaragozá</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Aliste</surname>
+</string-name>, <string-name name-style="western">
+<given-names>T. F.</given-names>
+<surname>De Sevilla</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Alegre</surname>
+</string-name>, “<article-title>Unemployment and Work Disability in Individuals With Chronic Fatigue Syndrome/Myalgic Encephalomyelitis: A Community‐Based Cross‐Sectional Study From Spain</article-title>,” <source>BMC Public Health</source>
+<volume>19</volume>, no. <issue>1</issue> (<year>2019</year>): <fpage>840</fpage>, <pub-id pub-id-type="doi">10.1186/s12889-019-7225-z</pub-id>.<pub-id pub-id-type="pmid">31253111</pub-id>
+<pub-id pub-id-type="pmcid">PMC6599355</pub-id></mixed-citation></ref><ref id="hex70476-bib-0051"><label>51</label><mixed-citation publication-type="journal" id="hex70476-cit-0051">
+<string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Mukhida</surname>
+</string-name>, <string-name name-style="western">
+<given-names>W.</given-names>
+<surname>Carroll</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Arseneault</surname>
+</string-name>, “<article-title>Does Work Have To Be so Painful? A Review of the Literature Examining the Effects of Fibromyalgia on the Working Experience From the Patient Perspective</article-title>,” <source>Canadian Journal of Pain</source>
+<volume>4</volume>, no. <issue>1</issue> (<year>2020</year>): <fpage>268</fpage>–<lpage>286</lpage>, <pub-id pub-id-type="doi">10.1080/24740527.2020.1820858</pub-id>.<pub-id pub-id-type="pmid">33987505</pub-id>
+<pub-id pub-id-type="pmcid">PMC7951172</pub-id></mixed-citation></ref><ref id="hex70476-bib-0052"><label>52</label><mixed-citation publication-type="journal" id="hex70476-cit-0052">
+<string-name name-style="western">
+<given-names>E.</given-names>
+<surname>Anderson</surname>
+</string-name>, <string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Hunt</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Wild</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Nettleton</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Ziebland</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>MacLean</surname>
+</string-name>, “<article-title>Episodic Disability and Adjustments for Work: The ‘Rehabilitative Work’ of Returning to Employment With Long Covid</article-title>,” <source>Disability &amp; Society</source>
+<volume>40</volume>, no. <issue>5</issue> (<year>2025</year>): <fpage>1239</fpage>–<lpage>1261</lpage>, <pub-id pub-id-type="doi">10.1080/09687599.2024.2331722</pub-id>.</mixed-citation></ref><ref id="hex70476-bib-0053"><label>53</label><mixed-citation publication-type="miscellaneous" id="hex70476-cit-0053">
+<string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Morrison</surname>
+</string-name>, Employment: Long COVID as a Disability. August, <year>2022</year>. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.lawscot.org.uk/members/journal/issues/vol-67-issue-08/employment-long-covid-as-a-disability/" ext-link-type="uri">https://www.lawscot.org.uk/members/journal/issues/vol-67-issue-08/employment-long-covid-as-a-disability/</ext-link>.</mixed-citation></ref><ref id="hex70476-bib-0054"><label>54</label><mixed-citation publication-type="journal" id="hex70476-cit-0054">
+<string-name name-style="western">
+<given-names>T.</given-names>
+<surname>Schmachtenberg</surname>
+</string-name>, <string-name name-style="western">
+<given-names>F.</given-names>
+<surname>Müller</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Kranz</surname>
+</string-name>, et al., “<article-title>How Do Long Covid Patients Perceive Their Current Life Situation and Occupational Perspective? Results of a Qualitative Interview Study in Germany</article-title>,” <source>Frontiers in Public Health</source>
+<volume>11</volume> (<year>2023</year>): <elocation-id>1155193</elocation-id>, <pub-id pub-id-type="doi">10.3389/fpubh.2023.1155193</pub-id>.<pub-id pub-id-type="pmid">36969629</pub-id>
+<pub-id pub-id-type="pmcid">PMC10034079</pub-id></mixed-citation></ref><ref id="hex70476-bib-0055"><label>55</label><mixed-citation publication-type="miscellaneous" id="hex70476-cit-0055">
+<string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Parkin</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R.</given-names>
+<surname>O'Connor</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>T.</given-names>
+<surname>Osborne</surname>
+</string-name>, <italic toggle="yes">Return to Work With Long COVID: A Process for Delivering Vocational Rehabilitation</italic>. LOCOMOTION, NIHR, <year>2023</year>.</mixed-citation></ref><ref id="hex70476-bib-0056"><label>56</label><mixed-citation publication-type="journal" id="hex70476-cit-0056">
+<string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Vasileiou</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Barnett</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Thorpe</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>T.</given-names>
+<surname>Young</surname>
+</string-name>, “<article-title>Characterising and Justifying Sample Size Sufficiency in Interview‐Based Studies: Systematic Analysis of Qualitative Health Research Over a 15‐Year Period</article-title>,” <source>BMC Medical Research Methodology</source>
+<volume>18</volume>, no. <issue>1</issue> (<year>2018</year>): <fpage>148</fpage>, <pub-id pub-id-type="doi">10.1186/s12874-018-0594-7</pub-id>.<pub-id pub-id-type="pmid">30463515</pub-id>
+<pub-id pub-id-type="pmcid">PMC6249736</pub-id></mixed-citation></ref><ref id="hex70476-bib-0057"><label>57</label><mixed-citation publication-type="journal" id="hex70476-cit-0057">
+<string-name name-style="western">
+<given-names>S. K.</given-names>
+<surname>Sharma</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S. K.</given-names>
+<surname>Mudgal</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Gaur</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Chaturvedi</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Rulaniya</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>P.</given-names>
+<surname>Sharma</surname>
+</string-name>, “<article-title>Navigating Sample Size Estimation for Qualitative Research</article-title>,” <source>Journal of Medical Evidence</source>
+<volume>5</volume>, no. <issue>2</issue> (<year>2024</year>): <fpage>133</fpage>–<lpage>139</lpage>, <pub-id pub-id-type="doi">10.4103/JME.JME_59_24</pub-id>.</mixed-citation></ref><ref id="hex70476-bib-0058"><label>58</label><mixed-citation publication-type="journal" id="hex70476-cit-0058">
+<string-name name-style="western">
+<given-names>G. M. A.</given-names>
+<surname>Higginbottom</surname>
+</string-name>, “<article-title>Sampling Issues in Qualitative Research</article-title>,” <source>Nurse Researcher</source>
+<volume>12</volume>, no. <issue>1</issue> (<year>2004</year>): <fpage>7</fpage>–<lpage>19</lpage>, <pub-id pub-id-type="doi">10.7748/nr2004.07.12.1.7.c5927</pub-id>.<pub-id pub-id-type="pmid">15493211</pub-id></mixed-citation></ref></ref-list></back></article></pmc-articleset>

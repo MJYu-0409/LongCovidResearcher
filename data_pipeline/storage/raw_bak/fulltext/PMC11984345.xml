@@ -1,0 +1,687 @@
+<?xml version="1.0"  ?><!DOCTYPE pmc-articleset PUBLIC "-//NLM//DTD ARTICLE SET 2.0//EN" "https://dtd.nlm.nih.gov/ncbi/pmc/articleset/nlm-articleset-2.0.dtd"><pmc-articleset><article id="jmv70203" xml:lang="en" article-type="research-article" dtd-version="1.4"><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">J Med Virol</journal-id><journal-id journal-id-type="iso-abbrev">J Med Virol</journal-id><journal-id journal-id-type="pmc-domain-id">379</journal-id><journal-id journal-id-type="pmc-domain">blackwellopen</journal-id><journal-id journal-id-type="publisher-id">JMV</journal-id><journal-title-group><journal-title>Journal of Medical Virology</journal-title></journal-title-group><issn pub-type="ppub">0146-6615</issn><issn pub-type="epub">1096-9071</issn><custom-meta-group><custom-meta><meta-name>pmc-is-collection-domain</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-collection-title</meta-name><meta-value>Wiley Open Access Collection</meta-value></custom-meta></custom-meta-group></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC11984345</article-id><article-id pub-id-type="pmcid-ver">PMC11984345.1</article-id><article-id pub-id-type="pmcaid">11984345</article-id><article-id pub-id-type="pmcaiid">11984345</article-id><article-id pub-id-type="pmid">40207927</article-id><article-id pub-id-type="doi">10.1002/jmv.70203</article-id><article-id pub-id-type="publisher-id">JMV70203</article-id><article-version article-version-type="pmc-version">1</article-version><article-categories><subj-group subj-group-type="overline"><subject>Research Article</subject></subj-group><subj-group subj-group-type="heading"><subject>Research Article</subject></subj-group></article-categories><title-group><article-title>Proteomic Analysis of 442 Clinical Plasma Samples From Individuals With Symptom Records Revealed Subtypes of Convalescent Patients Who Had COVID‐19</article-title></title-group><contrib-group><contrib id="jmv70203-cr-0001" contrib-type="author" corresp="yes"><name name-style="western"><surname>Liu</surname><given-names initials="J">Jiangfeng</given-names></name><xref rid="jmv70203-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="jmv70203-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref><xref rid="jmv70203-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref><address><email>ljf@pumc.edu.cn</email></address></contrib><contrib id="jmv70203-cr-0002" contrib-type="author"><name name-style="western"><surname>Guo</surname><given-names initials="L">Li</given-names></name><xref rid="jmv70203-aff-0004" ref-type="aff">
+<sup>4</sup>
+</xref></contrib><contrib id="jmv70203-cr-0003" contrib-type="author"><name name-style="western"><surname>Zhong</surname><given-names initials="J">Jingchuan</given-names></name><xref rid="jmv70203-aff-0004" ref-type="aff">
+<sup>4</sup>
+</xref></contrib><contrib id="jmv70203-cr-0004" contrib-type="author"><name name-style="western"><surname>Wu</surname><given-names initials="Y">Yue</given-names></name><xref rid="jmv70203-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib id="jmv70203-cr-0005" contrib-type="author"><name name-style="western"><surname>Wang</surname><given-names initials="X">Xinming</given-names></name><xref rid="jmv70203-aff-0004" ref-type="aff">
+<sup>4</sup>
+</xref></contrib><contrib id="jmv70203-cr-0006" contrib-type="author"><name name-style="western"><surname>Tang</surname><given-names initials="X">Xiaoyue</given-names></name><xref rid="jmv70203-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib id="jmv70203-cr-0007" contrib-type="author"><name name-style="western"><surname>Min</surname><given-names initials="K">Kaiyuan</given-names></name><xref rid="jmv70203-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib id="jmv70203-cr-0008" contrib-type="author"><name name-style="western"><surname>Yang</surname><given-names initials="Y">Yehong</given-names></name><xref rid="jmv70203-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib id="jmv70203-cr-0009" contrib-type="author"><name name-style="western"><surname>Peng</surname><given-names initials="W">Wanjun</given-names></name><xref rid="jmv70203-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib id="jmv70203-cr-0010" contrib-type="author"><name name-style="western"><surname>Wang</surname><given-names initials="Q">Qiaochu</given-names></name><xref rid="jmv70203-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib id="jmv70203-cr-0011" contrib-type="author"><name name-style="western"><surname>Ding</surname><given-names initials="T">Tao</given-names></name><xref rid="jmv70203-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib id="jmv70203-cr-0012" contrib-type="author"><name name-style="western"><surname>Gu</surname><given-names initials="X">Xiaoying</given-names></name><xref rid="jmv70203-aff-0005" ref-type="aff">
+<sup>5</sup>
+</xref><xref rid="jmv70203-aff-0006" ref-type="aff">
+<sup>6</sup>
+</xref><xref rid="jmv70203-aff-0007" ref-type="aff">
+<sup>7</sup>
+</xref><xref rid="jmv70203-aff-0008" ref-type="aff">
+<sup>8</sup>
+</xref></contrib><contrib id="jmv70203-cr-0013" contrib-type="author"><name name-style="western"><surname>Zhang</surname><given-names initials="H">Hui</given-names></name><xref rid="jmv70203-aff-0005" ref-type="aff">
+<sup>5</sup>
+</xref><xref rid="jmv70203-aff-0006" ref-type="aff">
+<sup>6</sup>
+</xref><xref rid="jmv70203-aff-0007" ref-type="aff">
+<sup>7</sup>
+</xref><xref rid="jmv70203-aff-0008" ref-type="aff">
+<sup>8</sup>
+</xref></contrib><contrib id="jmv70203-cr-0014" contrib-type="author"><name name-style="western"><surname>Liu</surname><given-names initials="Y">Ying</given-names></name><xref rid="jmv70203-aff-0009" ref-type="aff">
+<sup>9</sup>
+</xref><xref rid="jmv70203-aff-0010" ref-type="aff">
+<sup>10</sup>
+</xref></contrib><contrib id="jmv70203-cr-0015" contrib-type="author"><name name-style="western"><surname>Huang</surname><given-names initials="C">Chaolin</given-names></name><xref rid="jmv70203-aff-0009" ref-type="aff">
+<sup>9</sup>
+</xref><xref rid="jmv70203-aff-0010" ref-type="aff">
+<sup>10</sup>
+</xref></contrib><contrib id="jmv70203-cr-0016" contrib-type="author"><name name-style="western"><surname>Cao</surname><given-names initials="B">Bin</given-names></name><xref rid="jmv70203-aff-0005" ref-type="aff">
+<sup>5</sup>
+</xref><xref rid="jmv70203-aff-0006" ref-type="aff">
+<sup>6</sup>
+</xref><xref rid="jmv70203-aff-0007" ref-type="aff">
+<sup>7</sup>
+</xref><xref rid="jmv70203-aff-0008" ref-type="aff">
+<sup>8</sup>
+</xref></contrib><contrib id="jmv70203-cr-0017" contrib-type="author"><name name-style="western"><surname>Wang</surname><given-names initials="J">Jianwei</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">http://orcid.org/0000-0002-1116-4559</contrib-id><xref rid="jmv70203-aff-0004" ref-type="aff">
+<sup>4</sup>
+</xref><xref rid="jmv70203-aff-0011" ref-type="aff">
+<sup>11</sup>
+</xref></contrib><contrib id="jmv70203-cr-0018" contrib-type="author" corresp="yes"><name name-style="western"><surname>Ren</surname><given-names initials="L">Lili</given-names></name><xref rid="jmv70203-aff-0004" ref-type="aff">
+<sup>4</sup>
+</xref><xref rid="jmv70203-aff-0011" ref-type="aff">
+<sup>11</sup>
+</xref><address><email>renliliipb@163.com</email></address></contrib><contrib id="jmv70203-cr-0019" contrib-type="author" corresp="yes"><name name-style="western"><surname>Yang</surname><given-names initials="J">Juntao</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">http://orcid.org/0000-0003-1180-391X</contrib-id><xref rid="jmv70203-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="jmv70203-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref><xref rid="jmv70203-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref><address><email>yangjt@pumc.edu.cn</email></address></contrib></contrib-group><aff id="jmv70203-aff-0001">
+<label>
+<sup>1</sup>
+</label>
+<institution>Haihe Laboratory of Cell Ecosystem</institution>
+<city>Tianjin</city>
+<country country="CN">China</country>
+</aff><aff id="jmv70203-aff-0002">
+<label>
+<sup>2</sup>
+</label>
+<named-content content-type="organisation-division">State Key Laboratory of Common Mechanism Research for Major Diseases, Department of Biochemistry and Molecular Biology</named-content>
+<institution>School of Basic Medicine, Institute of Basic Medical Sciences Chinese Academy of Medical Sciences, Peking Union Medical College</institution>
+<city>Beijing</city>
+<country country="CN">China</country>
+</aff><aff id="jmv70203-aff-0003">
+<label>
+<sup>3</sup>
+</label>
+<institution>Plastic Surgery Hospital, Chinese Academy of Medical Sciences and Peking Union Medical College</institution>
+<city>Beijing</city>
+<country country="CN">China</country>
+</aff><aff id="jmv70203-aff-0004">
+<label>
+<sup>4</sup>
+</label>
+<named-content content-type="organisation-division">NHC Key Laboratory of Systems Biology of Pathogens and Christophe Merieux Laboratory</named-content>
+<institution>Institute of Pathogen Biology, Chinese Academy of Medical Sciences</institution>
+<city>Beijing</city>
+<country country="CN">China</country>
+</aff><aff id="jmv70203-aff-0005">
+<label>
+<sup>5</sup>
+</label>
+<institution>Tsinghua University‐Peking University Joint Center for Life Sciences</institution>
+<city>Beijing</city>
+<country country="CN">China</country>
+</aff><aff id="jmv70203-aff-0006">
+<label>
+<sup>6</sup>
+</label>
+<named-content content-type="organisation-division">Department of Pulmonary and Critical Care Medicine</named-content>
+<institution>National Center for Respiratory Medicine, Center of Respiratory Medicine, National Clinical Research Center for Respiratory Diseases</institution>
+<city>Beijing</city>
+<country country="CN">China</country>
+</aff><aff id="jmv70203-aff-0007">
+<label>
+<sup>7</sup>
+</label>
+<institution>Institute of Respiratory Medicine, Chinese Academy of Medical Sciences and Peking Union Medical College</institution>
+<city>Beijing</city>
+<country country="CN">China</country>
+</aff><aff id="jmv70203-aff-0008">
+<label>
+<sup>8</sup>
+</label>
+<named-content content-type="organisation-division">Department of Pulmonary and Critical Care Medicine</named-content>
+<institution>Capital Medical University</institution>
+<city>Beijing</city>
+<country country="CN">China</country>
+</aff><aff id="jmv70203-aff-0009">
+<label>
+<sup>9</sup>
+</label>
+<named-content content-type="organisation-division">Medical Department</named-content>
+<institution>Jin Yin‐Tan Hospital</institution>
+<city>Wuhan</city>
+<named-content content-type="country-part">Hubei</named-content>
+<country country="CN">China</country>
+</aff><aff id="jmv70203-aff-0010">
+<label>
+<sup>10</sup>
+</label>
+<institution>Wuhan Research Center for Communicable Disease Diagnosis and Treatment, Chinese Academy of Medical Sciences</institution>
+<city>Wuhan</city>
+<named-content content-type="country-part">Hubei</named-content>
+<country country="CN">China</country>
+</aff><aff id="jmv70203-aff-0011">
+<label>
+<sup>11</sup>
+</label>
+<named-content content-type="organisation-division">Key Laboratory of Respiratory Disease Pathogenomics</named-content>
+<institution>Chinese Academy of Medical Sciences and Peking Union Medical College</institution>
+<city>Beijing</city>
+<country country="CN">China</country>
+</aff><author-notes><corresp id="correspondenceTo">
+<label>*</label>
+<bold>Correspondence:</bold> Jiangfeng Liu (<email>ljf@pumc.edu.cn</email>)<break/>
+Lili Ren (<email>renliliipb@163.com</email>)<break/>
+Juntao Yang (<email>yangjt@pumc.edu.cn</email>)<break/>
+</corresp></author-notes><pub-date pub-type="epub"><day>10</day><month>4</month><year>2025</year></pub-date><pub-date pub-type="ppub"><month>4</month><year>2025</year></pub-date><volume>97</volume><issue seq="20">4</issue><issue-id pub-id-type="pmc-issue-id">486344</issue-id><issue-id pub-id-type="doi">10.1002/jmv.v97.4</issue-id><elocation-id>e70203</elocation-id><history><date date-type="rev-recd"><day>11</day><month>1</month><year>2025</year></date><date date-type="received"><day>30</day><month>9</month><year>2024</year></date><date date-type="accepted"><day>21</day><month>1</month><year>2025</year></date></history><pub-history><event event-type="pmc-release"><date><day>10</day><month>04</month><year>2025</year></date></event><event event-type="pmc-live"><date><day>11</day><month>04</month><year>2025</year></date></event><event event-type="pmc-last-change"><date iso-8601-date="2025-04-11 11:25:58.097"><day>11</day><month>04</month><year>2025</year></date></event></pub-history><permissions><copyright-statement content-type="article-copyright">
+<italic toggle="yes">Journal of Medical Virology</italic>© 2025 The Author(s). Journal of Medical Virology published by Wiley Periodicals LLC.</copyright-statement><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbyncndlicense">https://creativecommons.org/licenses/by-nc-nd/4.0/</ali:license_ref><license-p>This is an open access article under the terms of the <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/">http://creativecommons.org/licenses/by-nc-nd/4.0/</ext-link> License, which permits use and distribution in any medium, provided the original work is properly cited, the use is non‐commercial and no modifications or adaptations are made.</license-p></license></permissions><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pmc-pdf" xlink:href="JMV-97-e70203.pdf"/><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pdf" xlink:href="file:JMV-97-e70203.pdf"/><abstract><title>ABSTRACT</title><p>After the coronavirus disease 2019 (COVID‐19) pandemic, the postacute effects of severe acute respiratory syndrome coronavirus 2 (SARS‐CoV‐2) infection have gradually attracted attention. To precisely evaluate the health status of convalescent patients with COVID‐19, we analyzed symptom and proteome data of 442 plasma samples from healthy controls, hospitalized patients, and convalescent patients 6 or 12 months after SARS‐CoV‐2 infection. Symptoms analysis revealed distinct relationships in convalescent patients. Results of plasma protein expression levels showed that C1QA, C1QB, C2, CFH, CFHR1, and F10, which regulate the complement system and coagulation, remained highly expressed even at the 12‐month follow‐up compared with their levels in healthy individuals. By combining symptom and proteome data, 442 plasma samples were categorized into three subtypes: S1 (metabolism‐healthy), S2 (COVID‐19 retention), and S3 (long COVID). We speculated that convalescent patients reporting hair loss could have a better health status than those experiencing headaches and dyspnea. Compared to other convalescent patients, those reporting sleep disorders, appetite decrease, and muscle weakness may need more attention because they were classified into the S2 subtype, which had the most samples from hospitalized patients with COVID‐19. Subtyping convalescent patients with COVID‐19 may enable personalized treatments tailored to individual needs. This study provides valuable plasma proteomic datasets for further studies associated with long COVID.</p></abstract><kwd-group><kwd id="jmv70203-kwd-0001">COVID‐19 convalescents</kwd><kwd id="jmv70203-kwd-0002">plasma</kwd><kwd id="jmv70203-kwd-0003">proteomics</kwd><kwd id="jmv70203-kwd-0004">subtype</kwd><kwd id="jmv70203-kwd-0005">symptoms</kwd></kwd-group><funding-group><award-group id="funding-0001"><funding-source>This work was supported by grants from the National Key R&amp;D Program of China (2023YFC2507102), the Chinese Academy of Medical Sciences Innovation Fund for Medical Sciences, China (CIFMS2022‐I2M‐1‐011, CIFMS2022‐I2M‐2‐001, CIFMS2021‐I2M‐1‐057, CIFMS2021‐I2M‐1‐049, CIFMS2021‐I2M‐1‐044, CIFMS2021‐I2M‐1‐016, CIFMS2021‐I2M‐1‐001, 2022‐I2M‐CoV19‐003, and CIFMS2022‐I2M‐JB‐003), the National Natural Science Foundation of China (82341064), the Haihe Laboratory of Cell Ecosystem Innovation Fund (22HHXBSS00008 and 22HHKYZX0034), and State Key Laboratory Special Fund 2060204.</funding-source></award-group></funding-group><counts><fig-count count="6"/><table-count count="1"/><page-count count="13"/><word-count count="6732"/></counts><custom-meta-group><custom-meta><meta-name>pmc-status-qastatus</meta-name><meta-value>0</meta-value></custom-meta><custom-meta><meta-name>pmc-status-live</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-status-embargo</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-status-released</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-access</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-legally-suppressed</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-pdf</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-supplement</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-pdf-only</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-suppress-copyright</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-real-version</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-scanned-article</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-in-epmc</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-license-ref</meta-name><meta-value>CC BY-NC-ND</meta-value></custom-meta><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>April 2025</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:6.5.4 mode:remove_FC converted:10.04.2025</meta-value></custom-meta></custom-meta-group></article-meta><notes><fn-group><fn id="jmv70203-note-0001"><p>Jiangfeng Liu, Li Guo, Jingchuan Zhong, and Yue Wu contributed equally to this study.</p></fn></fn-group></notes></front><body><def-list list-content="abbreviations"><title>Abbreviations</title><def-item><term>COVID‐19</term><def><p>coronavirus disease 2019</p></def></def-item><def-item><term>CV</term><def><p>coefficient of variation</p></def></def-item><def-item><term>DDA</term><def><p>data‐dependent analysis</p></def></def-item><def-item><term>DIA</term><def><p>data‐independent analysis</p></def></def-item><def-item><term>FC</term><def><p>fold change</p></def></def-item><def-item><term>FDR</term><def><p>false discovery rate</p></def></def-item><def-item><term>HPLC</term><def><p>high efficiency liquid chromatography</p></def></def-item><def-item><term>KEGG</term><def><p>Kyoto Encyclopedia of Genes and Genomes</p></def></def-item><def-item><term>LC‐MS/MS</term><def><p>liquid chromatography tandem mass spectrometry</p></def></def-item><def-item><term>mMRC</term><def><p>modified British Medical Research Council</p></def></def-item><def-item><term>NMF</term><def><p>non‐negative matrix factorization</p></def></def-item><def-item><term>PCA</term><def><p>principal component analysis</p></def></def-item><def-item><term>SARS‐CoV‐2</term><def><p>severe acute respiratory syndrome coronavirus 2</p></def></def-item><def-item><term>UPLC</term><def><p>ultra performance liquid chromatography</p></def></def-item></def-list><sec id="jmv70203-sec-0010"><label>1</label><title>Introduction</title><p>Several years have passed since the outbreak of coronavirus disease 2019 (COVID‐19). The concept of “long COVID,” a postacute syndrome of severe acute respiratory syndrome coronavirus 2 (SARS‐CoV‐2), has gradually attracted attention. Convalescent patients with COVID‐19 often report multiple symptoms, including postexertional malaise, fatigue, muscle weakness, dizziness, sleep difficulties, anxiety, depression, gastrointestinal symptoms, palpitations, loss of smell or taste, thirst, chronic cough, chest pain, and abnormal movements [<xref rid="jmv70203-bib-0001" ref-type="bibr">1</xref>, <xref rid="jmv70203-bib-0002" ref-type="bibr">2</xref>, <xref rid="jmv70203-bib-0003" ref-type="bibr">3</xref>]. These persistent symptoms suggest that convalescent patients with COVID‐19 potentially require ongoing medical support.</p><p>Symptoms are defined as reports from patients, whereas signs are defined as metrics measured by medical professionals. Similar signs or clinical test results may be described differently for various reasons. Therefore, symptoms are not the only reference for clinical decisions. As technology develops, broad and unbiased proteomic data have been applied to distinguish therapeutic methods in patients with similar clinical manifestations. Using proteomic subtyping, Jiang et al. [<xref rid="jmv70203-bib-0004" ref-type="bibr">4</xref>] identified hepatocellular carcinoma with poor prognosis at an early stage and suggested SOAT1 as a novel therapeutic target. Since 2011, the National Cancer Institute's Clinical Proteomic Tumor Analysis Consortium has generated genomic, transcriptomic, proteomic, and clinical data for over 1000 tumors [<xref rid="jmv70203-bib-0005" ref-type="bibr">5</xref>]. Proteomics often identifies molecular tumor phenotypes that cannot be distinguished using conventional clinical detection methods, providing novel diagnostic and therapeutic perspectives [<xref rid="jmv70203-bib-0005" ref-type="bibr">5</xref>]. Proteome‐based investigations have also been used for many other diseases, including COVID‐19 [<xref rid="jmv70203-bib-0006" ref-type="bibr">6</xref>, <xref rid="jmv70203-bib-0007" ref-type="bibr">7</xref>, <xref rid="jmv70203-bib-0008" ref-type="bibr">8</xref>, <xref rid="jmv70203-bib-0009" ref-type="bibr">9</xref>, <xref rid="jmv70203-bib-0010" ref-type="bibr">10</xref>]. In the early days of COVID‐19, proteomics combined with machine learning was used to detect SARS‐CoV‐2 [<xref rid="jmv70203-bib-0011" ref-type="bibr">11</xref>, <xref rid="jmv70203-bib-0012" ref-type="bibr">12</xref>], explore infection mechanisms [<xref rid="jmv70203-bib-0009" ref-type="bibr">9</xref>, <xref rid="jmv70203-bib-0013" ref-type="bibr">13</xref>, <xref rid="jmv70203-bib-0014" ref-type="bibr">14</xref>, <xref rid="jmv70203-bib-0015" ref-type="bibr">15</xref>, <xref rid="jmv70203-bib-0016" ref-type="bibr">16</xref>], evaluate disease severity in just‐infected patients [<xref rid="jmv70203-bib-0006" ref-type="bibr">6</xref>, <xref rid="jmv70203-bib-0017" ref-type="bibr">17</xref>, <xref rid="jmv70203-bib-0018" ref-type="bibr">18</xref>, <xref rid="jmv70203-bib-0019" ref-type="bibr">19</xref>, <xref rid="jmv70203-bib-0020" ref-type="bibr">20</xref>, <xref rid="jmv70203-bib-0021" ref-type="bibr">21</xref>, <xref rid="jmv70203-bib-0022" ref-type="bibr">22</xref>], and identify potential therapeutic targets [<xref rid="jmv70203-bib-0023" ref-type="bibr">23</xref>, <xref rid="jmv70203-bib-0024" ref-type="bibr">24</xref>, <xref rid="jmv70203-bib-0025" ref-type="bibr">25</xref>].</p><p>Proteomics and other omic technologies are gradually applied to study post‐COVID‐19 manifestation, including long COVID studies [<xref rid="jmv70203-bib-0026" ref-type="bibr">26</xref>, <xref rid="jmv70203-bib-0027" ref-type="bibr">27</xref>, <xref rid="jmv70203-bib-0028" ref-type="bibr">28</xref>, <xref rid="jmv70203-bib-0029" ref-type="bibr">29</xref>, <xref rid="jmv70203-bib-0030" ref-type="bibr">30</xref>]. Gu et al. [<xref rid="jmv70203-bib-0031" ref-type="bibr">31</xref>] compared plasma protein profiling between healthy individuals and convalescent patients with COVID‐19, introducing proteins related to each symptom. Klein et al. [<xref rid="jmv70203-bib-0032" ref-type="bibr">32</xref>] separated individuals with or without long COVID symptoms, reporting different circulating myeloid and lymphocyte populations and exaggerated humoral responses against SARS‐CoV‐2 among participants with long COVID. Liew et al. [<xref rid="jmv70203-bib-0033" ref-type="bibr">33</xref>] distinguished individuals with at least one long COVID symptom and those fully recovered, identifying plasma proteins associated with long COVID, especially those linked to cardiorespiratory symptoms, fatigue, anxiety/depression, gastrointestinal symptoms, and cognitive impairment. Combined with machine learning, plasma proteins were used to study different phenotypes and predict the severity of long COVID [<xref rid="jmv70203-bib-0034" ref-type="bibr">34</xref>, <xref rid="jmv70203-bib-0035" ref-type="bibr">35</xref>]. However, studies rarely used both clinical symptom and plasma protein data to distinguish subtypes of convalescent patients with COVID‐19. Using reported symptoms alone to define long COVID, Bodansky et al. [<xref rid="jmv70203-bib-0036" ref-type="bibr">36</xref>] identified a distinct autoreactive signature that separated individuals with prior SARS‐CoV‐2 infection from those never exposed to the virus. Regardless, autoreactivity patterns that separated individuals with long COVID from those who fully recovered were not detected. The inconsistencies between patient‐reported symptoms and detected autoreactive signatures underscore the need for additional metrics to evaluate long COVID.</p><p>We hypothesized that combining subjective symptoms with liquid chromatography‐mass spectrometry (LC‐MS)‐measured plasma protein expression levels offer independent objective metrics that contribute to the selection of suitable treatments for different convalescent patients. Therefore, to test this hypothesis, COVID‐19‐associated clinical plasma samples were collected for proteome analysis, which supplements postinfection symptom and long COVID studies.</p></sec><sec sec-type="methods" id="jmv70203-sec-0020"><label>2</label><title>Methods</title><sec id="jmv70203-sec-0030"><label>2.1</label><title>Questionnaire Investigation, Sample Collection, and Ethics</title><p>The plasma samples used in this study were obtained from reported cohorts at Jin Yin‐tan Hospital (Wuhan, China) [<xref rid="jmv70203-bib-0001" ref-type="bibr">1</xref>, <xref rid="jmv70203-bib-0003" ref-type="bibr">3</xref>]. The participants included healthy individuals (healthy controls, HC group), hospitalized patients (HO group), convalescent patients at the 6‐month follow‐up (first follow‐up, F1 group), and convalescent patients at the 12‐month follow‐up (second follow‐up, F2 group). Healthy individuals were selected from among those who had never been infected with SARS‐CoV‐2 and had normal health status. Convalescent patients were interviewed using a series of questionnaires to evaluate their symptoms and health status. Plasma samples were collected during blood tests. All collected plasma samples were heated at 56°C for 30 min for virus inactivation, then stored at −80°C until use. This study was approved by the Research Ethics Commission of Jin Yin‐tan Hospital (KY‐2020‐78.01, KY‐2020‐78.03). Written informed consent was obtained from all participants.</p></sec><sec id="jmv70203-sec-0040"><label>2.2</label><title>Evaluation of Relationship Among Symptoms</title><p>COVID‐19 symptoms were recorded using graded numbers. At the 6‐ or 12‐month follow‐up, Spearman's correlation coefficients were calculated for symptom grade, disease level, and age, and the threshold was set at <italic toggle="yes">p</italic> &lt; 0.01 with a correlation coefficient &gt; 0.3. Significantly correlated symptoms were classified into single symptom clusters. For each patient, the symptom grades in a cluster were summed. Summed symptom grades were then used to evaluate the relationships between protein expression values, using Spearman's correlation coefficient, setting a significant threshold at <italic toggle="yes">p</italic> &lt; 0.05.</p></sec><sec id="jmv70203-sec-0050"><label>2.3</label><title>LC‐MS‐Based Serum Proteome</title><sec id="jmv70203-sec-0060"><label>2.3.1</label><title>Protein Extraction</title><p>Frozen plasma samples were melted on ice and centrifuged at 12 000×<italic toggle="yes">g</italic> at 4°C for 10 min. The supernatant of each sample was collected, and protein concentration was determined using a BCA kit (Beyotime) according to the manufacturer's instructions.</p><p>To prepare a spectral library, equal amounts of protein were extracted from each sample and mixed. Highly abundant proteins in mixed samples were removed using a Pierce Top 14 Abundant Protein Depletion Spin Column. Other samples did not undergo this high‐abundance protein depletion process.</p></sec><sec id="jmv70203-sec-0070"><label>2.3.2</label><title>Trypsin Digestion</title><p>Equal amounts of protein were extracted from each sample and diluted with 8M urea solution (Sigma‐Aldrich). Proteins in the mixed samples prepared for spectral library construction were subjected to trypsin digestion. Protein solution was reduced with 5 mM dithiothreitol (Sigma‐Aldrich) at 56°C for 30 min and alkylated with 11 mM iodoacetamide (Sigma‐Aldrich) at room temperature in darkness for 15 min. The alkylated samples were transferred to ultrafiltration tubes for filter‐aided sample preparation. Samples were replaced with 8 M urea solution using centrifugation at 12 000 × <italic toggle="yes">g</italic> for 20 min at room temperature three times and then replaced with 200 mM triethylammonium bicarbonate three times. Trypsin (Promega) was added at 1:50 trypsin‐to‐protein mass ratio for digestion overnight. The peptides were recovered using centrifugation at 12 000 × <italic toggle="yes">g</italic> for 10 min at room temperature, which was repeated twice. The combined peptides were desalted using a Strata X SPE column.</p></sec><sec id="jmv70203-sec-0080"><label>2.3.3</label><title>High‐Performance Liquid Chromatography (HPLC) Fractionation</title><p>Peptides in the mixed sample for spectral library construction were fractionated using high pH reverse‐phase HPLC with an Agilent 300Extend C18 column (5 μm particles, 4.6 mm ID, 250 mm length). The chromatographic column was pretreated with 95% buffer A (0.1% formic acid and 2% acetonitrile in water) for 30 min at 35°C. Peptides in the mixed samples were loaded onto the HPLC system, and the separated samples were collected every 1 min. Fractions 11 to 46 were combined into 12 fractions and dried using vacuum centrifugation.</p></sec><sec id="jmv70203-sec-0090"><label>2.3.4</label><title>LC‐MS/MS Analysis</title><p>Construction of the spectral library: Fractionated peptides in the mixed sample were dissolved in solvent A (0.1% formic acid and 2% acetonitrile in water) and then loaded onto a homemade reverse‐phase analytical column (100 μm ID, 250 mm length) equipped with an EASY‐nLC 1200 ultra performance liquid chromatography (UPLC) system (ThermoFisher Scientific). The mobile phase consisted of solvents A and B (0.1% formic acid and 90% acetonitrile in water). Peptides were separated using the following gradient: 0–60 min, 4%–24% B; 60–69 min, 24%–32% B; 69–72 min, 32%–80% B; 72%–75 min, 80% B. A constant flow rate of 500 nL/min was used. Separated peptides were analyzed using an Orbitrap Exploris 480 mass spectrometer (ThermoFisher Scientific) equipped with a nanoelectrospray ion source. Data‐dependent analysis (DDA) mode was used for data acquisition.</p><p>Data‐independent analysis (DIA): Peptides from each sample were separated using the EASY‐nLC 1200 UPLC system under the same separation conditions as the peptides in the mixed sample. The separated peptides were analyzed using the same Orbitrap Exploris 480 mass spectrometer, and the precursors and fragments were analyzed using the Orbitrap detector. The full MS scan was performed with a resolution set to 60 000 for a scan range of 400–1200 <italic toggle="yes">m/z</italic>. The MS/MS scan resolution was set to 15 000. The DIA mode was used for data acquisition. After the primary scan, peptide segment ions with 20 <italic toggle="yes">m/z</italic> windows were transferred to the high energy collision dissociation collision pool for fragmentation with 28% fragmentation energy, and secondary mass spectrometry was performed. The automatic gain control of the secondary spectrum was set to 1000%.</p></sec><sec id="jmv70203-sec-0100"><label>2.3.5</label><title>Database Search</title><p>The 12 raw files obtained in the DDA mode were imported into the Spectronaut 16 software for spectral library construction. <italic toggle="yes">Homo Sapiens</italic> protein sequences were downloaded from UniProt (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.uniprot.org/" ext-link-type="uri">https://www.uniprot.org/</ext-link>), and 20 407 sequences were downloaded on March 7, 2023. Trypsin was used as the digestion enzyme. The maximum number of missed cleavages was set to one. Carbamidomethyl (C) was used as a fixed modification. Oxidation (M) and acetylation (Protein N‐term) were used as variable modifications. False discovery rate (FDR) of the peptides and proteins was set at &lt; 0.01.</p><p>The 442 raw files obtained in DIA mode were imported into Spectronaut 16, using the same protein sequences employed for spectral library construction. Retention time prediction type was set to dynamic indexed retention time. Interference of the MS2 level correction was enabled. Cross‐run normalization was performed as required. The <italic toggle="yes">Q</italic>‐value cutoff was set at &lt; 0.01.</p></sec></sec><sec id="jmv70203-sec-0110"><label>2.4</label><title>Proteomic Data Management</title><p>Proteins with an intensity of &lt; 1 in any sample were excluded. Proteins present in all samples were selected, and the median intensities of these proteins in each sample were calculated. The normalization of protein intensity in each sample was calculated as ([intensity of each protein]/[median intensity of shared proteins]) × (maximum median intensity among all samples). Shared proteins indicate proteins identified in all samples. After log2 transformation, proteins with missing values in &gt; 50% of the samples were excluded. Missing values for the remaining proteins were imputed using the lowest matrix values.</p></sec><sec id="jmv70203-sec-0120"><label>2.5</label><title>Functional Enrichment Analysis</title><p>The Kyoto Encyclopedia of Genes and Genomes (KEGG) database was used to annotate proteins. Functional enrichment analysis was performed using over‐representation analysis, which is a statistical significance test based on a hypergeometric distribution.
+<disp-formula id="jmv70203-disp-0001">
+<mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="jats-math-1" display="block"><mml:mrow><mml:mrow><mml:mrow><mml:mi>P</mml:mi><mml:mo>=</mml:mo><mml:mo>∑</mml:mo><mml:mtable columnalign="left"><mml:mtr><mml:mtd><mml:mi>M</mml:mi></mml:mtd></mml:mtr><mml:mtr><mml:mtd><mml:mi>i</mml:mi><mml:mo>=</mml:mo><mml:mi>m</mml:mi></mml:mtd></mml:mtr></mml:mtable><mml:mstyle displaystyle="false"><mml:mfrac><mml:mrow><mml:mfenced separators=""><mml:mstyle displaystyle="true"><mml:mtable columnalign="left"><mml:mtr><mml:mtd><mml:mi>M</mml:mi></mml:mtd></mml:mtr><mml:mtr><mml:mtd><mml:mi>i</mml:mi></mml:mtd></mml:mtr></mml:mtable></mml:mstyle></mml:mfenced><mml:mfenced separators=""><mml:mstyle displaystyle="true"><mml:mtable columnalign="left"><mml:mtr><mml:mtd><mml:mi>N</mml:mi><mml:mo>−</mml:mo><mml:mi>M</mml:mi></mml:mtd></mml:mtr><mml:mtr><mml:mtd><mml:mi>n</mml:mi><mml:mo>−</mml:mo><mml:mi>i</mml:mi></mml:mtd></mml:mtr></mml:mtable></mml:mstyle></mml:mfenced></mml:mrow><mml:mfenced separators=""><mml:mstyle displaystyle="true"><mml:mtable columnalign="left"><mml:mtr><mml:mtd><mml:mi>N</mml:mi></mml:mtd></mml:mtr><mml:mtr><mml:mtd><mml:mi>n</mml:mi></mml:mtd></mml:mtr></mml:mtable></mml:mstyle></mml:mfenced></mml:mfrac></mml:mstyle><mml:mo>=</mml:mo><mml:mn>1</mml:mn><mml:mo>−</mml:mo><mml:mo>∑</mml:mo><mml:mtable columnalign="left"><mml:mtr><mml:mtd><mml:mi>m</mml:mi><mml:mo>−</mml:mo><mml:mn>1</mml:mn></mml:mtd></mml:mtr><mml:mtr><mml:mtd><mml:mi>i</mml:mi><mml:mo>=</mml:mo><mml:mn>0</mml:mn></mml:mtd></mml:mtr></mml:mtable><mml:mstyle displaystyle="false"><mml:mfrac><mml:mrow><mml:mfenced separators=""><mml:mstyle displaystyle="true"><mml:mtable columnalign="left"><mml:mtr><mml:mtd><mml:mi>M</mml:mi></mml:mtd></mml:mtr><mml:mtr><mml:mtd><mml:mi>i</mml:mi></mml:mtd></mml:mtr></mml:mtable></mml:mstyle></mml:mfenced><mml:mfenced separators=""><mml:mstyle displaystyle="true"><mml:mtable columnalign="left"><mml:mtr><mml:mtd><mml:mi>N</mml:mi><mml:mo>−</mml:mo><mml:mi>M</mml:mi></mml:mtd></mml:mtr><mml:mtr><mml:mtd><mml:mi>n</mml:mi><mml:mo>−</mml:mo><mml:mi>i</mml:mi></mml:mtd></mml:mtr></mml:mtable></mml:mstyle></mml:mfenced></mml:mrow><mml:mfenced separators=""><mml:mstyle displaystyle="true"><mml:mtable columnalign="left"><mml:mtr><mml:mtd><mml:mi>N</mml:mi></mml:mtd></mml:mtr><mml:mtr><mml:mtd><mml:mi>n</mml:mi></mml:mtd></mml:mtr></mml:mtable></mml:mstyle></mml:mfenced></mml:mfrac></mml:mstyle><mml:mo>.</mml:mo></mml:mrow></mml:mrow></mml:mrow></mml:math>
+</disp-formula>
+</p><p>In the above formula: “<italic toggle="yes">N</italic>” indicates the count of all annotated genes in KEGG database, “<italic toggle="yes">M</italic>” indicates the count of annotated genes in a specific pathway in KEGG database, “<italic toggle="yes">n</italic>” indicates the count of all annotated genes in the input protein data set, and “<italic toggle="yes">m</italic>” indicates the count of annotated genes in the specific pathway in the input protein data set. Enrichment threshold was set at <italic toggle="yes">p</italic> &lt; 0.05. Pathways with fewer than two proteins were excluded from the analysis.</p></sec><sec id="jmv70203-sec-0130"><label>2.6</label><title>Trends in Protein Alteration Relative to COVID‐19 Severity</title><p>Samples from the HC and HO groups were exclusively used to study the correlation between protein expression levels and COVID‐19 severity. Median value of each protein was calculated for HC, moderate, severe, and critical individuals. Fuzzy c‐means algorithm was used to classify the proteins [<xref rid="jmv70203-bib-0037" ref-type="bibr">37</xref>]. The fuzzy c‐means algorithm was invoked from the Mfuzz module integrated into <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.bioladder.cn/" ext-link-type="uri">https://www.bioladder.cn/</ext-link>. Proteins that had a coefficient of variation (CV) ≤ 0.1 among HC, moderate, severe, and critical samples were excluded, and the other parameters were set as default. Subsequently, 177 proteins remained, which were classified into 12 clusters. Based on the protein expression alteration trends, the proteins in clusters 3, 11, and 12 were defined as ascending, whereas those in clusters 2, 4, and 9 were defined as descending.</p></sec><sec id="jmv70203-sec-0140"><label>2.7</label><title>Trends in Protein Alterations Over Time Following COVID‐19</title><p>All samples were used to study the correlation between protein expression levels since COVID‐19 infection. Student's <italic toggle="yes">t</italic>‐test was used to compare protein expression levels between the HO and HC groups. By setting an FDR threshold of &lt; 0.05 along with fold change (FC) &gt; 1.5 (log<sub>2</sub>FC &gt; 0.585) or FC &lt; 0.67 (log<sub>2</sub>FC &lt; −0.585), 62 proteins were identified. The median expression value of each remaining protein was then calculated for HC, HO, F1, and F2 groups. Without filtering CV, the fuzzy c‐means algorithm was used to classify the proteins. The parameters were set to default values, and the 62 proteins were classified into 12 clusters. According to the protein alteration trends, proteins in clusters 2, 9, and 11 were defined as reversibly upregulated; proteins in cluster 8 were defined as reversibly downregulated; proteins in clusters 3 and 5 were defined as irreversibly upregulated; and proteins in clusters 1, 4, 6, 7, 10, and 12 were defined as irreversibly downregulated.</p></sec><sec id="jmv70203-sec-0150"><label>2.8</label><title>Non‐Negative Matrix Factorization (NMF)‐Based Subtyping of Plasma Samples Using Protein Expression Values</title><p>Proteins with the top 30% CV among the samples were imported into the NMF R package (V0.26, method: brunet) for NMF subtyping [<xref rid="jmv70203-bib-0038" ref-type="bibr">38</xref>].</p></sec><sec id="jmv70203-sec-0160"><label>2.9</label><title>Selection of Subtype Signature Proteins</title><p>Subtype signature proteins were selected based on two criteria: the protein was expressed in &gt; 70% of samples in at least one subtype, and the protein was differentially expressed between one subtype and the others. Differential analysis was performed using a simple linear model and moderated <italic toggle="yes">t</italic>‐statistics implemented in the R/Bioconductor limma package (V3.50.0). Proteins with <italic toggle="yes">p</italic> &lt; 0.05 and FC &gt; 1.2 (log<sub>2</sub>FC &gt; 0.263) were defined as upregulated subtype signature proteins, while proteins with <italic toggle="yes">p</italic> &lt; 0.05 and FC &lt; 0.83 (log<sub>2</sub>FC &lt; −0.263) were defined as downregulated subtype signature proteins.</p></sec><sec id="jmv70203-sec-0170"><label>2.10</label><title>Other Statistical Analysis</title><p>R software (V4.1.2) was used for multiple statistical analyses. To evaluate symptom differences among the subtypes, Fisher's exact test was used to analyze modified British Medical Research Council (mMRC) scale, appetite, anxiety, myalgia, nausea, pain, and taste scores, while the Chi‐square test was used for other symptoms. The threshold for significance was set at <italic toggle="yes">p</italic> &lt; 0.05. The Chi‐squared test was invoked using the chisq.test function, and Fisher's exact test was invoked using the fisher.test function, both from the stats package in R. A Circos plot was constructed using the circlize (V0.4.14) R package, and heatmaps were generated using the pheatmap (V1.0.12) R package.</p></sec></sec><sec sec-type="results" id="jmv70203-sec-0180"><label>3</label><title>Results</title><sec id="jmv70203-sec-0190"><label>3.1</label><title>Participant Information and Their Symptom Records</title><p>Plasma samples were collected from 22 healthy controls (HC group), 43 hospitalized patients (HO group), 196 convalescent patients 6 months after COVID‐19 infection (first follow‐up, F1 group), and 181 convalescent patients 12 months after COVID‐19 infection (second follow‐up, F2 group). Healthy controls were selected from people who had never been infected with SARS‐CoV‐2 and had a normal health status. The convalescent patients completed a questionnaire‐based survey of their clinical symptoms. For convalescent patients, 19 symptoms, including fatigue, headache, myalgia, sore throat, palpitations, dizziness, skin rash, nausea, smell loss, taste loss, appetite decrease, sleep, hair loss, dyspnea (measured using the mMRC scale), and anxiety, were recorded using graded numbers (Supporting Information S4: Table <xref rid="jmv70203-suppl-0005" ref-type="supplementary-material">S1</xref>). At the first follow‐up, hair loss, fatigue, dyspnea, sleep disorders, muscle weakness, and anxiety were recorded. At the second follow‐up, hair loss, fatigue, appetite decrease, joint pain, and dyspnea were the most commonly reported symptoms (Table <xref rid="jmv70203-tbl-0001" ref-type="table">1</xref>). Compared to those at the first follow‐up, reports of hair loss decreased at the second follow‐up, whereas complaints of headache, myalgia, chest pain, sore throat, palpitations, dizziness, skin rash, and joint pain increased among individuals (Table <xref rid="jmv70203-tbl-0001" ref-type="table">1</xref>). A Circos plot directly presents the complexity of symptom transformation from the first to the second follow‐up (Figure <xref rid="jmv70203-fig-0001" ref-type="fig">1</xref> and Supporting Information S5: Table <xref rid="jmv70203-suppl-0006" ref-type="supplementary-material">S2</xref>). We determined minimal overlap in convalescent patients who reported hair loss between the first and second follow‐ups (Figure <xref rid="jmv70203-fig-0001" ref-type="fig">1</xref>). After preliminary symptom analysis, plasma samples from all participants were processed for proteomic detection to collect objective metrics for convalescent patients with COVID‐19 (Figure <xref rid="jmv70203-fig-0002" ref-type="fig">2</xref>).</p><table-wrap position="float" id="jmv70203-tbl-0001" content-type="Table" orientation="portrait"><label>Table 1</label><caption><p>Statistical analysis results of symptoms from clinical records.</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" align="left" span="1"/><col style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" align="center" span="1"/><col style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" align="center" span="1"/><col style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" align="center" span="1"/><col style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" align="center" span="1"/><thead valign="bottom"><tr valign="bottom" style="border-bottom:solid 1px #000000"><th align="left" valign="bottom" rowspan="1" colspan="1">Variables</th><th align="center" valign="bottom" rowspan="1" colspan="1">Healthy Control (<italic toggle="yes">n</italic> = 22)</th><th align="center" valign="bottom" rowspan="1" colspan="1">Hospitalized (<italic toggle="yes">n</italic> = 43)</th><th align="center" valign="bottom" rowspan="1" colspan="1">F1 (<italic toggle="yes">n</italic> = 196)</th><th align="center" valign="bottom" rowspan="1" colspan="1">F2 (<italic toggle="yes">n</italic> = 181)</th></tr></thead><tbody valign="top"><tr><td align="left" colspan="5" valign="top" rowspan="1">Sex, <italic toggle="yes">n</italic> (%)</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Male</td><td align="center" valign="top" rowspan="1" colspan="1">9 (40.9)</td><td align="center" valign="top" rowspan="1" colspan="1">20 (46.5)</td><td align="center" valign="top" rowspan="1" colspan="1">104 (53.1)</td><td align="center" valign="top" rowspan="1" colspan="1">96 (53.0)</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Female</td><td align="center" valign="top" rowspan="1" colspan="1">13 (59.1)</td><td align="center" valign="top" rowspan="1" colspan="1">23 (53.5)</td><td align="center" valign="top" rowspan="1" colspan="1">92 (46.9)</td><td align="center" valign="top" rowspan="1" colspan="1">85 (47.0)</td></tr><tr><td align="left" colspan="5" valign="top" rowspan="1">Age (year)</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">
+<italic toggle="yes">M</italic> + SD</td><td align="center" valign="top" rowspan="1" colspan="1">36.5 ± 14.9</td><td align="center" valign="top" rowspan="1" colspan="1">52.0 ± 12.3</td><td align="center" valign="top" rowspan="1" colspan="1">52.9 ± 12.6</td><td align="center" valign="top" rowspan="1" colspan="1">53.2 ± 12.3</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Median (IQR)</td><td align="center" valign="top" rowspan="1" colspan="1">32.0 (26.0–41.0)</td><td align="center" valign="top" rowspan="1" colspan="1">52.0 (44.0–61.0)</td><td align="center" valign="top" rowspan="1" colspan="1">53.5 (44.0–62.0)</td><td align="center" valign="top" rowspan="1" colspan="1">54.0 (44.0–62.0)</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Range</td><td align="center" valign="top" rowspan="1" colspan="1">23.0–80.0</td><td align="center" valign="top" rowspan="1" colspan="1">20.0–80.0</td><td align="center" valign="top" rowspan="1" colspan="1">20.0–84.0</td><td align="center" valign="top" rowspan="1" colspan="1">23.0–84.0</td></tr><tr><td align="left" colspan="5" valign="top" rowspan="1">Days from symptoms onset</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">
+<italic toggle="yes">M</italic> + SD</td><td align="center" valign="top" rowspan="1" colspan="1">—</td><td align="center" valign="top" rowspan="1" colspan="1">47.4 ± 12.6</td><td align="center" valign="top" rowspan="1" colspan="1">172.2 ± 10.7</td><td align="center" valign="top" rowspan="1" colspan="1">339.5 ± 12.5</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Median (IQR)</td><td align="center" valign="top" rowspan="1" colspan="1">—</td><td align="center" valign="top" rowspan="1" colspan="1">50.0 (42.0–55.0)</td><td align="center" valign="top" rowspan="1" colspan="1">172.0 (166.0–178.0)</td><td align="center" valign="top" rowspan="1" colspan="1">337.0 (332.0–347.5)</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Range</td><td align="center" valign="top" rowspan="1" colspan="1">—</td><td align="center" valign="top" rowspan="1" colspan="1">15.0–71.0</td><td align="center" valign="top" rowspan="1" colspan="1">128.0–206.0</td><td align="center" valign="top" rowspan="1" colspan="1">296.0–372.0</td></tr><tr><td align="left" colspan="5" valign="top" rowspan="1">Symptom, <italic toggle="yes">n</italic> (%)</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Fatigue</td><td align="center" valign="top" rowspan="1" colspan="1">—</td><td align="center" valign="top" rowspan="1" colspan="1">—</td><td align="center" valign="top" rowspan="1" colspan="1">61 (31.1)</td><td align="center" valign="top" rowspan="1" colspan="1">51 (28.2)</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Headache</td><td align="center" valign="top" rowspan="1" colspan="1">—</td><td align="center" valign="top" rowspan="1" colspan="1">—</td><td align="center" valign="top" rowspan="1" colspan="1">3 (1.5)</td><td align="center" valign="top" rowspan="1" colspan="1">20 (11.0)</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Myalgia</td><td align="center" valign="top" rowspan="1" colspan="1">—</td><td align="center" valign="top" rowspan="1" colspan="1">—</td><td align="center" valign="top" rowspan="1" colspan="1">2 (1.0)</td><td align="center" valign="top" rowspan="1" colspan="1">18 (9.9)</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Chest_pain</td><td align="center" valign="top" rowspan="1" colspan="1">—</td><td align="center" valign="top" rowspan="1" colspan="1">—</td><td align="center" valign="top" rowspan="1" colspan="1">5 (2.6)</td><td align="center" valign="top" rowspan="1" colspan="1">25 (13.8)</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Sore_throat</td><td align="center" valign="top" rowspan="1" colspan="1">—</td><td align="center" valign="top" rowspan="1" colspan="1">—</td><td align="center" valign="top" rowspan="1" colspan="1">6 (3.1)</td><td align="center" valign="top" rowspan="1" colspan="1">17 (9.4)</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Palpitation</td><td align="center" valign="top" rowspan="1" colspan="1">—</td><td align="center" valign="top" rowspan="1" colspan="1">—</td><td align="center" valign="top" rowspan="1" colspan="1">8 (4.1)</td><td align="center" valign="top" rowspan="1" colspan="1">31 (17.1)</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Dizziness</td><td align="center" valign="top" rowspan="1" colspan="1">—</td><td align="center" valign="top" rowspan="1" colspan="1">—</td><td align="center" valign="top" rowspan="1" colspan="1">7 (3.6)</td><td align="center" valign="top" rowspan="1" colspan="1">23 (12.7)</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Skin_rash</td><td align="center" valign="top" rowspan="1" colspan="1">—</td><td align="center" valign="top" rowspan="1" colspan="1">—</td><td align="center" valign="top" rowspan="1" colspan="1">4 (2.0)</td><td align="center" valign="top" rowspan="1" colspan="1">21 (11.6)</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Nausea</td><td align="center" valign="top" rowspan="1" colspan="1">—</td><td align="center" valign="top" rowspan="1" colspan="1">—</td><td align="center" valign="top" rowspan="1" colspan="1">0 (0.0)</td><td align="center" valign="top" rowspan="1" colspan="1">2 (1.1)</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Smell</td><td align="center" valign="top" rowspan="1" colspan="1">—</td><td align="center" valign="top" rowspan="1" colspan="1">—</td><td align="center" valign="top" rowspan="1" colspan="1">17 (8.7)</td><td align="center" valign="top" rowspan="1" colspan="1">12 (6.6)</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Taste</td><td align="center" valign="top" rowspan="1" colspan="1">—</td><td align="center" valign="top" rowspan="1" colspan="1">—</td><td align="center" valign="top" rowspan="1" colspan="1">12 (6.1)</td><td align="center" valign="top" rowspan="1" colspan="1">8 (4.4)</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Appetite</td><td align="center" valign="top" rowspan="1" colspan="1">—</td><td align="center" valign="top" rowspan="1" colspan="1">—</td><td align="center" valign="top" rowspan="1" colspan="1">11 (5.6)</td><td align="center" valign="top" rowspan="1" colspan="1">8 (4.4)</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Sleep</td><td align="center" valign="top" rowspan="1" colspan="1">—</td><td align="center" valign="top" rowspan="1" colspan="1">—</td><td align="center" valign="top" rowspan="1" colspan="1">40 (20.4)</td><td align="center" valign="top" rowspan="1" colspan="1">51 (28.2)</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Muscle</td><td align="center" valign="top" rowspan="1" colspan="1">—</td><td align="center" valign="top" rowspan="1" colspan="1">—</td><td align="center" valign="top" rowspan="1" colspan="1">35 (17.9)</td><td align="center" valign="top" rowspan="1" colspan="1">34 (18.8)</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Joint_pain</td><td align="center" valign="top" rowspan="1" colspan="1">—</td><td align="center" valign="top" rowspan="1" colspan="1">—</td><td align="center" valign="top" rowspan="1" colspan="1">13 (6.6)</td><td align="center" valign="top" rowspan="1" colspan="1">48 (26.5)</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Hair</td><td align="center" valign="top" rowspan="1" colspan="1">—</td><td align="center" valign="top" rowspan="1" colspan="1">—</td><td align="center" valign="top" rowspan="1" colspan="1">129 (65.8)</td><td align="center" valign="top" rowspan="1" colspan="1">58 (32.0)</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">mMRC</td><td align="center" valign="top" rowspan="1" colspan="1">—</td><td align="center" valign="top" rowspan="1" colspan="1">—</td><td align="center" valign="top" rowspan="1" colspan="1">42 (21.4)</td><td align="center" valign="top" rowspan="1" colspan="1">48 (26.5)</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Pain</td><td align="center" valign="top" rowspan="1" colspan="1">—</td><td align="center" valign="top" rowspan="1" colspan="1">—</td><td align="center" valign="top" rowspan="1" colspan="1">42 (21.4)</td><td align="center" valign="top" rowspan="1" colspan="1">46 (25.4)</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Anxiety</td><td align="center" valign="top" rowspan="1" colspan="1">—</td><td align="center" valign="top" rowspan="1" colspan="1">—</td><td align="center" valign="top" rowspan="1" colspan="1">34 (17.3)</td><td align="center" valign="top" rowspan="1" colspan="1">38 (21.0)</td></tr></tbody></table><permissions><copyright-holder>John Wiley &amp; Sons, Ltd.</copyright-holder></permissions></table-wrap><fig position="float" fig-type="Figure" id="jmv70203-fig-0001" orientation="portrait"><label>Figure 1</label><caption><p>Symptom transformation during coronavirus disease 2019 (COVID‐19) recovery. Transformation of symptoms from the 6‐month follow‐up (F1, first follow‐up) to the 12‐month follow‐up (F2, second follow‐up) during COVID‐19 recovery. Further details are provided in Supporting Information S5: Table <xref rid="jmv70203-suppl-0006" ref-type="supplementary-material">S2</xref>.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-1" orientation="portrait" xlink:href="JMV-97-e70203-g005.jpg"/></fig><fig position="float" fig-type="Figure" id="jmv70203-fig-0002" orientation="portrait"><label>Figure 2</label><caption><p>Workflow chart. Workflow showing the grouping of participants, questionnaire‐based symptom records, and plasma proteome detection using liquid chromatography‐mass spectrometry (LC‐MS).</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-3" orientation="portrait" xlink:href="JMV-97-e70203-g006.jpg"/></fig></sec><sec id="jmv70203-sec-0200"><label>3.2</label><title>Plasma Proteome Profiling of 442 Participants</title><p>A total of 1285 plasma proteins were identified (Supporting Information S1: Figure <xref rid="jmv70203-suppl-0002" ref-type="supplementary-material">S1A</xref> and Supporting Information S6: Table <xref rid="jmv70203-suppl-0007" ref-type="supplementary-material">S3</xref>). The distribution of protein intensity was consistent among the samples (Supporting Information S1: Figure <xref rid="jmv70203-suppl-0002" ref-type="supplementary-material">S1B</xref>), revealing reliable quality for subsequent analyses. For preliminary distinction, principal component analysis (PCA) was used to perform unsupervised clustering of the identified proteins. Using all 1285 proteins in the calculation, the PCA plots of the samples from the HC, HO, F1, and F2 groups overlapped. However, each group exhibited a different distribution pattern. For example, the proteomic features of patients in the HC, HO, F1, and F2 groups were increasingly discrete (Supporting Information S1: Figure <xref rid="jmv70203-suppl-0002" ref-type="supplementary-material">S1C</xref>).</p><p>Building on studies that link plasma proteins and COVID‐19 severity, this study explored protein expression trends corresponding to COVID‐19 severity in hospitalized patients. For samples from the HC and HO groups, COVID‐19 severity was classified into four levels: healthy, moderate, severe, and critical. Using the fuzzy c‐means algorithm, we identified 12 clusters of protein expression trends corresponding to COVID‐19 severity (Supporting Information S2: Figure <xref rid="jmv70203-suppl-0003" ref-type="supplementary-material">S2A</xref> and Supporting Information S7: Table <xref rid="jmv70203-suppl-0008" ref-type="supplementary-material">S4</xref>). The protein expression levels of the three clusters increased (defined as ascending and indicated by red frames) as COVID‐19 severity worsened, whereas the expression levels of another three clusters decreased (defined as descending and indicated by blue frames). Proteins in the ascending clusters were merged for KEGG pathway enrichment analysis, as were proteins in the descending clusters. Ascending proteins were mainly associated with the complement and coagulation cascades (Supporting Information S2: Figure <xref rid="jmv70203-suppl-0003" ref-type="supplementary-material">S2B</xref> and Supporting Information S7: Table <xref rid="jmv70203-suppl-0008" ref-type="supplementary-material">S4</xref>), whereas descending proteins were associated with cell adhesion pathways (Supporting Information S2: Figure <xref rid="jmv70203-suppl-0003" ref-type="supplementary-material">S2C</xref> and Supporting Information S7: Table <xref rid="jmv70203-suppl-0008" ref-type="supplementary-material">S4</xref>).</p></sec><sec id="jmv70203-sec-0210"><label>3.3</label><title>Relationships Between Plasma Proteins, Symptoms, and Recovery Time</title><p>The potential relationships between proteins and questionnaire‐recorded symptoms were explored. Some convalescent patients reported multiple symptoms at one follow‐up (Supporting Information S4: Table <xref rid="jmv70203-suppl-0005" ref-type="supplementary-material">S1</xref>), indicating a relationship between the symptoms. We used graded numbers to represent sex (female: 1, male: 2) and COVID‐19 severity (moderate: 1, severe: 2, critical: 3). Spearman's correlation coefficients between symptoms, age, sex, and disease level (COVID‐19 severity) were calculated, and the cutoff value was set at <italic toggle="yes">p</italic> &lt; 0.01. Symptoms with Spearman's correlation coefficients &gt; 0.3 were classified into one cluster. At the first follow‐up, pain and anxiety were positively correlated (symptom cluster 1), whereas fatigue, smell loss, taste loss, decreased appetite, sleep disorders, and muscle weakness tended to occur simultaneously (symptom cluster 2; Figure <xref rid="jmv70203-fig-0003" ref-type="fig">3</xref> and Supporting Information S8: Table <xref rid="jmv70203-suppl-0009" ref-type="supplementary-material">S5</xref>). At the second follow‐up, a syndrome containing 12 positively correlated elements (age, fatigue, myalgia, chest pain, palpitations, taste loss, appetite decrease, sleep disorders, muscle weakness, joint pain, dyspnea, pain, and anxiety) was identified (symptom cluster 3; Figure <xref rid="jmv70203-fig-0003" ref-type="fig">3</xref> and Supporting Information S9: Table <xref rid="jmv70203-suppl-0010" ref-type="supplementary-material">S6</xref>). In each symptom cluster, the graded numbers of each symptom were summed for each patient, and the collective results were used to calculate Spearman's correlation coefficients between the symptom cluster and plasma protein expression levels. The symptom cluster‐related proteins were filtered for KEGG enrichment analysis. In significantly enriched KEGG pathways (<italic toggle="yes">p</italic> &lt; 0.05), 14 proteins, including PRKACA, MEGF8, PPM1A, FLT4, DUSP3, TAOK3, SERPINA7, GPX1, CTSD, CLTC, FUCA2, GNPTG, ACE, and KRT16 were positively related to anxiety and pain (symptom cluster 1); PRNP, LAMC1, STIP1, and PRKCD were positively correlated with symptom cluster 2, whereas HLA‐A, MADCAM1, ITGB1, ATP2A2, UBB, and ANPEP were negatively related with this cluster (Figure <xref rid="jmv70203-fig-0003" ref-type="fig">3</xref>); and STX7, STX11, EGFR, GNAI2, CACNA2D1, and PPP1CA were negatively correlated with symptom cluster 3 (Figure <xref rid="jmv70203-fig-0003" ref-type="fig">3</xref>).</p><fig position="float" fig-type="Figure" id="jmv70203-fig-0003" orientation="portrait"><label>Figure 3</label><caption><p>Significantly correlated symptoms and proteins at the first follow‐up (F1 group) or the second follow‐up (F2 group). The left panel shows the significantly correlated symptoms. Spearman's correlation coefficients were calculated for symptom grade, disease level, and age, and the threshold was set at <italic toggle="yes">p</italic> &lt; 0.01. Red lines represent positive correlations, and blue lines represent negative correlations. The thicker the lines, the higher the absolute values of the correlation coefficients. At least one correlation coefficient between symptoms was &gt; 0.3 in the red dotted circles (symptom clusters 1, 2, and 3). The right panel shows proteins that were significantly correlated with symptom clusters 1, 2, or 3. The symptom grades of one patient in each symptom cluster were summed. Spearman's correlation coefficients were calculated between summed symptom grades and protein expression values, and proteins with <italic toggle="yes">p</italic> &lt; 0.05 were used for functional enrichment analysis. Further details are provided in Supporting Information S8: Table <xref rid="jmv70203-suppl-0009" ref-type="supplementary-material">S5</xref> and Supporting Information S9: Table <xref rid="jmv70203-suppl-0010" ref-type="supplementary-material">S6</xref>.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-5" orientation="portrait" xlink:href="JMV-97-e70203-g001.jpg"/></fig><p>Recovery time‐related protein expression trends were identified. Among the differentially expressed proteins between the HC and HO groups, 12 clusters of expression trends containing 62 proteins were identified in the HC, HO, F1, and F2 samples (Figure <xref rid="jmv70203-fig-0004" ref-type="fig">4</xref> and Supporting Information S10: Table <xref rid="jmv70203-suppl-0011" ref-type="supplementary-material">S7</xref>). We classified protein expression trends into four types: reversibly upregulated, reversibly downregulated, irreversibly upregulated, and irreversibly downregulated. Reversibly upregulated (clusters 2, 9, and 11; Figure <xref rid="jmv70203-fig-0004" ref-type="fig">4</xref>) proteins were increasingly expressed during hospitalization but had similar expression levels between HC and follow‐up samples. Irreversibly upregulated (clusters 3 and 5; Figure <xref rid="jmv70203-fig-0004" ref-type="fig">4</xref>) proteins showed increased expression levels in all HO, F1, and F2 samples compared with those in HC samples. Reversibly downregulated proteins (cluster 8; Figure <xref rid="jmv70203-fig-0004" ref-type="fig">4</xref>) and irreversibly downregulated proteins (clusters 1, 4, 6, 7, 10, and 12; Figure <xref rid="jmv70203-fig-0004" ref-type="fig">4</xref>) were defined as reversibly and irreversibly upregulated proteins, respectively. Among the irreversibly upregulated proteins, we identified IGLV8‐61 and IGLV3‐27, which are immunoglobulins; AGT, an angiotensinogen; C1QA, C1QB, C2, CFH, CFHR1, and F10, which regulate the complement system and coagulation; SERPINF1, which inhibits angiogenesis; AMBP, APOH, HPX, and A1BG, which are glycoproteins; and EFEMP1 and COL18A1, which are extracellular matrix proteins (Figure <xref rid="jmv70203-fig-0004" ref-type="fig">4</xref>).</p><fig position="float" fig-type="Figure" id="jmv70203-fig-0004" orientation="portrait"><label>Figure 4</label><caption><p>Plasma protein expression trends considering recovery time after coronavirus disease 2019 (COVID‐19). In total, 442 samples were used in this study. Differentially expressed proteins (Student's <italic toggle="yes">t</italic>‐test, <italic toggle="yes">p</italic> &lt; 0.05 with FC<sub>HO/HC</sub> &gt; 1.5 or FC<sub>HO/HC</sub> &lt; 0.67) between the HC and HO groups were kept. These differentially expressed proteins were then separated into 12 clusters using the fuzzy c‐means algorithm, based on protein expression trends among the HC, HO, F1, and F2 groups. Reversibly upregulated clusters are indicated with red frames. The reversibly downregulated cluster is indicated with a blue frame. Irreversibly upregulated clusters are indicated with red dotted frames. Irreversibly downregulated clusters are indicated with blue dotted frames. Further details are provided in Supporting Information S10: Table <xref rid="jmv70203-suppl-0011" ref-type="supplementary-material">S7</xref>. F1, first follow‐up group; F2, second follow‐up group; HC, healthy control group; HO, hospitalized patient group.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-7" orientation="portrait" xlink:href="JMV-97-e70203-g004.jpg"/></fig></sec><sec id="jmv70203-sec-0220"><label>3.4</label><title>Plasma Protein Expression Modes Categorized Convalescent Patients Into Three Subtypes</title><p>Based on the protein expression levels, we used NMF, an unsupervised clustering method, and separated all 442 plasma samples into three subtypes (S1, S2, and S3; Supporting Information S3: Figure <xref rid="jmv70203-suppl-0004" ref-type="supplementary-material">S3</xref> and Supporting Information S11: Table <xref rid="jmv70203-suppl-0012" ref-type="supplementary-material">S8</xref>). The signature proteins of each subtype were calculated (Supporting Information S12: Table <xref rid="jmv70203-suppl-0013" ref-type="supplementary-material">S9</xref>) and presented as a heat map. The plasma sample groups and all recorded symptoms are marked above the signature proteins (Figure <xref rid="jmv70203-fig-0005" ref-type="fig">5</xref>). Between the plasma sample groups and NMF subtypes, we found that S1 subtype contained mainly HC samples, S2 subtype contained mainly HO samples, and S3 subtype contained only F1 and F2 samples. Annotation of the signature proteins (Supporting Information S12: Table <xref rid="jmv70203-suppl-0013" ref-type="supplementary-material">S9</xref>) showed that the S1 subtype upregulated metabolism‐associated proteins, S2 subtype upregulated surfactant metabolism‐associated proteins (including SFTPB), and S3 subtype downregulated neuronal function‐associated proteins (including NRGN). To evaluate symptom differences among the subtypes, Fisher's exact test was used for mMRC, appetite, anxiety, myalgia, nausea, pain, and taste scores, while the Chi‐square test was used for other symptoms. The threshold was set at <italic toggle="yes">p</italic> &lt; 0.05. Six symptoms, including dyspnea (mMRC), headache, muscle weakness, decreased appetite, sleep disorders, and hair loss, were significantly different among subtypes S1, S2, and S3 (Figure <xref rid="jmv70203-fig-0006" ref-type="fig">6</xref> and Supporting Information S13: Table <xref rid="jmv70203-suppl-0014" ref-type="supplementary-material">S10</xref>). The S1 subtype had the highest incidence of hair loss; S2 subtype had the highest incidence of sleep disorders, appetite decrease, and muscle weakness; and S3 subtype had the highest incidence of headache and dyspnea (mMRC). Downregulated neuronal function‐associated proteins may explain why convalescent patients with the S3 subtype frequently had headaches.</p><fig position="float" fig-type="Figure" id="jmv70203-fig-0005" orientation="portrait"><label>Figure 5</label><caption><p>Subtypes of convalescent patients with coronavirus disease 2019 (COVID‐19) based on plasma proteome data. The plasma samples were classified into three subtypes (S1, S2, and S3) using the NMF algorithm. Sample groups, symptoms (upper panel), and expression values of subtype signature proteins (lower panel; see Supporting Information S12: Table <xref rid="jmv70203-suppl-0013" ref-type="supplementary-material">S9</xref>) are presented as heat maps. NMF, non‐negative matrix factorization.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-9" orientation="portrait" xlink:href="JMV-97-e70203-g002.jpg"/></fig><fig position="float" fig-type="Figure" id="jmv70203-fig-0006" orientation="portrait"><label>Figure 6</label><caption><p>Different symptom characteristics of convalescent patients with coronavirus disease 2019 (COVID‐19) in each subtype. Six symptoms were significantly different among subtypes S1, S2, and S3. Fisher's exact test was used to compare the incidence of mMRC and appetite in subtypes S1, S2, and S3, and the Chi‐square test was used to compare the other symptoms. The thresholds was set at <italic toggle="yes">p</italic> &lt; 0.05. Further details are provided in Supporting Information S13: Table <xref rid="jmv70203-suppl-0014" ref-type="supplementary-material">S10</xref>. mMRC, modified British Medical Research Council scale.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-11" orientation="portrait" xlink:href="JMV-97-e70203-g003.jpg"/></fig><p>Collectively, we propose naming the S1 subtype as a metabolism‐healthy subtype (containing upregulated metabolism‐associated proteins, significant hair loss symptoms, and most HC samples), S2 subtype as a COVID‐19 retention subtype (containing upregulated surfactant metabolism‐associated proteins, most HO samples, significant sleep disorders, decreased appetite, and muscle weakness symptoms), and S3 subtype as a long COVID subtype (containing plasma samples exclusively from convalescent patients, significant headache and dyspnea symptoms, and downregulated neuronal function‐associated proteins).</p></sec></sec><sec sec-type="discussion" id="jmv70203-sec-0230"><label>4</label><title>Discussion</title><p>In this study, we combined the subjective symptoms and objective plasma protein expression levels to explore the postacute effects of SARS‐CoV‐2 infection. Plasma samples from healthy individuals, hospitalized patients with COVID‐19, and convalescent patients with COVID‐19 were separated into S1 (metabolism‐healthy), S2 (COVID‐19 retention), and S3 (long COVID) subtypes. We speculated that general nursing or psychological interventions were suitable for convalescent patients with S1 subtype, whereas convalescent patients with subtypes S2 and S3 required more medical surveillance and interventions. Convalescent patients who reported hair loss may have a better health status than those who reported headaches and dyspnea. Compared to other convalescent patients, those who reported sleep disorders, appetite decrease, and muscle weakness may require more attention because they were classified into the S2 subtype, which had the most samples from hospitalized patients with COVID‐19.</p><p>The key highlights of this study include: (1) inclusion of participants who had a single SARS‐CoV‐2 infection; (2) analysis of two‐time points (6 and 12 months) postinfection; (3) identification of symptom clusters; and (4) combination of plasma proteins and symptoms to identify convalescent patient subtypes.</p><p>The estimated prevalence of long COVID varies across statistical reports. Besides the duration and population, Brightling and Evans [<xref rid="jmv70203-bib-0039" ref-type="bibr">39</xref>] commented that the confusion of long COVID symptoms and pre‐existent disease symptoms could contribute to biased long COVID prevalence. Captur et al. [<xref rid="jmv70203-bib-0029" ref-type="bibr">29</xref>] indicated that people who would get long COVID have characteristic plasma proteomic signatures even early after SARS‐CoV‐2 infection. Using plasma samples collected within 6 weeks after SARS‐CoV‐2 infection and a targeted proteome analysis including 91 proteins, HSCB, HSP90ABI, APP, PLD3, CST3, and S100‐A9 at seroconversion were predicted to be strongly associated with persistent symptoms lasting up to 12 months [<xref rid="jmv70203-bib-0029" ref-type="bibr">29</xref>]. Our study collected plasma samples up to 12 months after SARS‐CoV‐2 infection and identified over 1000 proteins, providing datasets for long COVID studies. Furthermore, we identified notable roles for the complement system in COVID‐19. Previous reports have shown that complements are hyperactive during SARS‐CoV‐2 infection [<xref rid="jmv70203-bib-0040" ref-type="bibr">40</xref>, <xref rid="jmv70203-bib-0041" ref-type="bibr">41</xref>], may distinguish COVID‐19 severity [<xref rid="jmv70203-bib-0006" ref-type="bibr">6</xref>, <xref rid="jmv70203-bib-0019" ref-type="bibr">19</xref>, <xref rid="jmv70203-bib-0022" ref-type="bibr">22</xref>, <xref rid="jmv70203-bib-0042" ref-type="bibr">42</xref>], and contribute to prolonged COVID‐associated gastrointestinal symptoms and cognitive impairment [<xref rid="jmv70203-bib-0033" ref-type="bibr">33</xref>]. Similar to a previous report [<xref rid="jmv70203-bib-0043" ref-type="bibr">43</xref>], our study identified that complements remain highly expressed 12 months after SARS‐CoV2 infection (Figure <xref rid="jmv70203-fig-0004" ref-type="fig">4</xref>).</p><p>A limitation of this study is the small participant size, with the HC group including only 22 individuals. Although the age difference was not significant between hospitalized and convalescent patients, HC participants were slightly younger than other groups. Nevertheless, as bioinformatics analyses did not identify aging‐associated processes among the participant groups, this study provided valuable results regarding long COVID. We hope that our convalescent patient subtyping using both symptoms and the plasma proteome data will be validated in further studies.</p></sec><sec sec-type="conclusions" id="jmv70203-sec-0240"><label>5</label><title>Conclusion</title><p>This study provided a plasma proteomic data set and identified symptom clusters in convalescent patients who had COVID‐19. Considering both symptoms and plasma protein expression levels, subtyping of convalescent patients with COVID‐19 may help each individual obtain suitable treatments. Since the patients were infected with SARS‐CoV‐2 only once, the results of this study avoided the interference of multiple infections and provided valuable data into long COVID. In future studies, we aim to recruit more participants to validate plasma protein expression patterns and subtypes of convalescent patients with COVID‐19.</p></sec><sec id="jmv70203-sec-0250"><title>Author Contributions</title><p>J.Y., L.R., and J.W. conceived and supervised the project. C.H., B.C., L.G., J.Z., X.W., L.R., and J.W. collected all the human plasma samples and clinical records. J.Y., J.L., Y.W., X.T., W.P., Q.W., T.D., X.G., H.Z., and Y.L. performed proteomic detection. J.Y., J.L., X.T., K.M., and Y.Y. performed bioinformatics analysis. J.Y. and J.L. wrote the manuscript with the input of all authors.</p></sec><sec sec-type="COI-statement" id="jmv70203-sec-0270"><title>Conflicts of Interest</title><p>The authors declare no conflicts of interest.</p></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material id="jmv70203-suppl-0001" position="float" content-type="local-data" orientation="portrait"><caption><p>Supporting information.</p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="JMV-97-e70203-s005.docx" position="float" orientation="portrait"/></supplementary-material><supplementary-material id="jmv70203-suppl-0002" position="float" content-type="local-data" orientation="portrait"><caption><p>Supporting information.</p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="JMV-97-e70203-s002.tif" position="float" orientation="portrait"/></supplementary-material><supplementary-material id="jmv70203-suppl-0003" position="float" content-type="local-data" orientation="portrait"><caption><p>Supporting information.</p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="JMV-97-e70203-s012.tif" position="float" orientation="portrait"/></supplementary-material><supplementary-material id="jmv70203-suppl-0004" position="float" content-type="local-data" orientation="portrait"><caption><p>Supporting information.</p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="JMV-97-e70203-s003.tif" position="float" orientation="portrait"/></supplementary-material><supplementary-material id="jmv70203-suppl-0005" position="float" content-type="local-data" orientation="portrait"><caption><p>Supporting information.</p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="JMV-97-e70203-s013.xlsx" position="float" orientation="portrait"/></supplementary-material><supplementary-material id="jmv70203-suppl-0006" position="float" content-type="local-data" orientation="portrait"><caption><p>Supporting information.</p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="JMV-97-e70203-s009.xlsx" position="float" orientation="portrait"/></supplementary-material><supplementary-material id="jmv70203-suppl-0007" position="float" content-type="local-data" orientation="portrait"><caption><p>Supporting information.</p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="JMV-97-e70203-s010.xlsx" position="float" orientation="portrait"/></supplementary-material><supplementary-material id="jmv70203-suppl-0008" position="float" content-type="local-data" orientation="portrait"><caption><p>Supporting information.</p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="JMV-97-e70203-s006.xlsx" position="float" orientation="portrait"/></supplementary-material><supplementary-material id="jmv70203-suppl-0009" position="float" content-type="local-data" orientation="portrait"><caption><p>Supporting information.</p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="JMV-97-e70203-s001.xlsx" position="float" orientation="portrait"/></supplementary-material><supplementary-material id="jmv70203-suppl-0010" position="float" content-type="local-data" orientation="portrait"><caption><p>Supporting information.</p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="JMV-97-e70203-s007.xlsx" position="float" orientation="portrait"/></supplementary-material><supplementary-material id="jmv70203-suppl-0011" position="float" content-type="local-data" orientation="portrait"><caption><p>Supporting information.</p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="JMV-97-e70203-s008.xlsx" position="float" orientation="portrait"/></supplementary-material><supplementary-material id="jmv70203-suppl-0012" position="float" content-type="local-data" orientation="portrait"><caption><p>Supporting information.</p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="JMV-97-e70203-s014.xlsx" position="float" orientation="portrait"/></supplementary-material><supplementary-material id="jmv70203-suppl-0013" position="float" content-type="local-data" orientation="portrait"><caption><p>Supporting information.</p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="JMV-97-e70203-s011.xlsx" position="float" orientation="portrait"/></supplementary-material><supplementary-material id="jmv70203-suppl-0014" position="float" content-type="local-data" orientation="portrait"><caption><p>Supporting information.</p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="JMV-97-e70203-s004.xlsx" position="float" orientation="portrait"/></supplementary-material></sec></body><back><ack id="jmv70203-sec-0260"><title>Acknowledgments</title><p>This work was supported by grants from the National Key R&amp;D Program of China (2023YFC2507102), the Chinese Academy of Medical Sciences Innovation Fund for Medical Sciences, China (CIFMS2022‐I2M‐1‐011, CIFMS2022‐I2M‐2‐001, CIFMS2021‐I2M‐1‐057, CIFMS2021‐I2M‐1‐049, CIFMS2021‐I2M‐1‐044, CIFMS2021‐I2M‐1‐016, CIFMS2021‐I2M‐1‐001, 2022‐I2M‐CoV19‐003, and CIFMS2022‐I2M‐JB‐003), the National Natural Science Foundation of China (82341064), the Haihe Laboratory of Cell Ecosystem Innovation Fund (22HHXBSS00008 and 22HHKYZX0034), and State Key Laboratory Special Fund 2060204.</p></ack><sec sec-type="data-availability" id="jmv70203-sec-0290"><title>Data Availability Statement</title><p>The mass spectrometry proteomics data have been deposited to the ProteomeXchange Consortium (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://proteomecentral.proteomexchange.org" ext-link-type="uri" specific-use="software is-supplemented-by">https://proteomecentral.proteomexchange.org</ext-link>) via the iProX partner repository with the data set identifier PXD054533 [<xref rid="jmv70203-bib-0044" ref-type="bibr">44</xref>, <xref rid="jmv70203-bib-0045" ref-type="bibr">45</xref>].</p></sec><ref-list content-type="cited-references" id="jmv70203-bibl-0001"><title>References</title><ref id="jmv70203-bib-0001"><label>1</label><mixed-citation publication-type="journal" id="jmv70203-cit-0001">
+<string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Huang</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Q.</given-names>
+<surname>Yao</surname>
+</string-name>, <string-name name-style="western">
+<given-names>X.</given-names>
+<surname>Gu</surname>
+</string-name>, et al., “<article-title>1‐Year Outcomes in Hospital Survivors With COVID‐19: A Longitudinal Cohort Study</article-title>,” <source>Lancet</source>
+<volume>398</volume> (<year>2021</year>): <fpage>747</fpage>–<lpage>758</lpage>.<pub-id pub-id-type="pmid">34454673</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/S0140-6736(21)01755-4</pub-id><pub-id pub-id-type="pmcid">PMC8389999</pub-id></mixed-citation></ref><ref id="jmv70203-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="jmv70203-cit-0002">
+<string-name name-style="western">
+<given-names>T.</given-names>
+<surname>Thaweethai</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S. E.</given-names>
+<surname>Jolley</surname>
+</string-name>, <string-name name-style="western">
+<given-names>E. W.</given-names>
+<surname>Karlson</surname>
+</string-name>, et al., “<article-title>Development of a Definition of Postacute Sequelae of SARS‐CoV‐2 Infection</article-title>,” <source>Journal of the American Medical Association</source>
+<volume>329</volume> (<year>2023</year>): <fpage>1934</fpage>.<pub-id pub-id-type="pmid">37278994</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1001/jama.2023.8823</pub-id><pub-id pub-id-type="pmcid">PMC10214179</pub-id></mixed-citation></ref><ref id="jmv70203-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="jmv70203-cit-0003">
+<string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Huang</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Huang</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Wang</surname>
+</string-name>, et al., “<article-title>6‐Month Consequences of COVID‐19 in Patients Discharged From Hospital: A Cohort Study</article-title>,” <source>Lancet</source>
+<volume>401</volume> (<year>2023</year>): <fpage>e21</fpage>–<lpage>e33</lpage>.<pub-id pub-id-type="pmid">37321233</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/S0140-6736(23)00810-3</pub-id><pub-id pub-id-type="pmcid">PMC10258565</pub-id></mixed-citation></ref><ref id="jmv70203-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="jmv70203-cit-0004">
+<string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Jiang</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Sun</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Zhao</surname>
+</string-name>, et al., “<article-title>Proteomics Identifies New Therapeutic Targets of Early‐Stage Hepatocellular Carcinoma</article-title>,” <source>Nature</source>
+<volume>567</volume> (<year>2019</year>): <fpage>257</fpage>–<lpage>261</lpage>.<pub-id pub-id-type="pmid">30814741</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41586-019-0987-8</pub-id></mixed-citation></ref><ref id="jmv70203-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="jmv70203-cit-0005">
+<string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Dou</surname>
+</string-name>, <string-name name-style="western">
+<given-names>F.</given-names>
+<surname>Da Veiga Leprevost</surname>
+</string-name>, et al., “<article-title>Proteogenomic Data and Resources for Pan‐Cancer Analysis</article-title>,” <source>Cancer Cell</source>
+<volume>41</volume> (<year>2023</year>): <fpage>1397</fpage>–<lpage>1406</lpage>.<pub-id pub-id-type="pmid">37582339</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.ccell.2023.06.009</pub-id><pub-id pub-id-type="pmcid">PMC10506762</pub-id></mixed-citation></ref><ref id="jmv70203-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="jmv70203-cit-0006">
+<string-name name-style="western">
+<given-names>B.</given-names>
+<surname>Shen</surname>
+</string-name>, <string-name name-style="western">
+<given-names>X.</given-names>
+<surname>Yi</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Sun</surname>
+</string-name>, et al., “<article-title>Proteomic and Metabolomic Characterization of COVID‐19 Patient Sera</article-title>,” <source>Cell</source>
+<volume>182</volume> (<year>2020</year>): <fpage>59</fpage>–<lpage>72.e15</lpage>.<pub-id pub-id-type="pmid">32492406</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.cell.2020.05.032</pub-id><pub-id pub-id-type="pmcid">PMC7254001</pub-id></mixed-citation></ref><ref id="jmv70203-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="jmv70203-cit-0007">
+<string-name name-style="western">
+<given-names>X.</given-names>
+<surname>Nie</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Qian</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Sun</surname>
+</string-name>, et al., “<article-title>Multi‐Organ Proteomic Landscape of COVID‐19 Autopsies</article-title>,” <source>Cell</source>
+<volume>184</volume> (<year>2021</year>): <fpage>775</fpage>–<lpage>791.e14</lpage>.<pub-id pub-id-type="pmid">33503446</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.cell.2021.01.004</pub-id><pub-id pub-id-type="pmcid">PMC7794601</pub-id></mixed-citation></ref><ref id="jmv70203-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="jmv70203-cit-0008">
+<string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Stukalov</surname>
+</string-name>, <string-name name-style="western">
+<given-names>V.</given-names>
+<surname>Girault</surname>
+</string-name>, <string-name name-style="western">
+<given-names>V.</given-names>
+<surname>Grass</surname>
+</string-name>, et al., “<article-title>Multilevel Proteomics Reveals Host Perturbations by SARS‐CoV‐2 and SARS‐CoV</article-title>,” <source>Nature</source>
+<volume>594</volume> (<year>2021</year>): <fpage>246</fpage>–<lpage>252</lpage>.<pub-id pub-id-type="pmid">33845483</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41586-021-03493-4</pub-id></mixed-citation></ref><ref id="jmv70203-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="jmv70203-cit-0009">
+<string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Bouhaddou</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Memon</surname>
+</string-name>, <string-name name-style="western">
+<given-names>B.</given-names>
+<surname>Meyer</surname>
+</string-name>, et al., “<article-title>The Global Phosphorylation Landscape of SARS‐CoV‐2 Infection</article-title>,” <source>Cell</source>
+<volume>182</volume> (<year>2020</year>): <fpage>685</fpage>–<lpage>712.e19</lpage>.<pub-id pub-id-type="pmid">32645325</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.cell.2020.06.034</pub-id><pub-id pub-id-type="pmcid">PMC7321036</pub-id></mixed-citation></ref><ref id="jmv70203-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="jmv70203-cit-0010">
+<string-name name-style="western">
+<given-names>T.</given-names>
+<surname>Lu</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Wang</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>T.</given-names>
+<surname>Guo</surname>
+</string-name>, “<article-title>Multi‐Omics in COVID‐19: Seeing the Unseen but Overlooked in the Clinic</article-title>,” <source>Cell Reports Medicine</source>
+<volume>3</volume> (<year>2022</year>): <elocation-id>100580</elocation-id>.<pub-id pub-id-type="pmid">35474745</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.xcrm.2022.100580</pub-id><pub-id pub-id-type="pmcid">PMC8922556</pub-id></mixed-citation></ref><ref id="jmv70203-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="jmv70203-cit-0011">
+<string-name name-style="western">
+<given-names>K. H. M.</given-names>
+<surname>Cardozo</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Lebkuchen</surname>
+</string-name>, <string-name name-style="western">
+<given-names>G. G.</given-names>
+<surname>Okai</surname>
+</string-name>, et al., “<article-title>Establishing a Mass Spectrometry‐Based System for Rapid Detection of SARS‐CoV‐2 in Large Clinical Sample Cohorts</article-title>,” <source>Nature Communications</source>
+<volume>11</volume> (<year>2020</year>): <fpage>6201</fpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41467-020-19925-0</pub-id><pub-id pub-id-type="pmcid">PMC7713649</pub-id><pub-id pub-id-type="pmid">33273458</pub-id></mixed-citation></ref><ref id="jmv70203-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="jmv70203-cit-0012">
+<string-name name-style="western">
+<given-names>B.</given-names>
+<surname>Van Puyvelde</surname>
+</string-name> and <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Dhaenens</surname>
+</string-name>, “<article-title>Add Mass Spectrometry to the Pandemic Toolbox</article-title>,” <source>eLife</source>
+<volume>10</volume> (<year>2021</year>): <elocation-id>e75471</elocation-id>, <pub-id pub-id-type="doi">10.7554/elife.75471</pub-id>.<pub-id pub-id-type="pmid">34889738</pub-id>
+<pub-id pub-id-type="pmcid">PMC8664293</pub-id></mixed-citation></ref><ref id="jmv70203-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="jmv70203-cit-0013">
+<string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Schulte‐Schrepping</surname>
+</string-name>, <string-name name-style="western">
+<given-names>N.</given-names>
+<surname>Reusch</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Paclik</surname>
+</string-name>, et al., “<article-title>Severe COVID‐19 Is Marked by a Dysregulated Myeloid Cell Compartment</article-title>,” <source>Cell</source>
+<volume>182</volume> (<year>2020</year>): <fpage>1419</fpage>–<lpage>1440.e23</lpage>.<pub-id pub-id-type="pmid">32810438</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.cell.2020.08.001</pub-id><pub-id pub-id-type="pmcid">PMC7405822</pub-id></mixed-citation></ref><ref id="jmv70203-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="jmv70203-cit-0014">
+<string-name name-style="western">
+<given-names>W.</given-names>
+<surname>Tian</surname>
+</string-name>, <string-name name-style="western">
+<given-names>N.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Jin</surname>
+</string-name>, et al., “<article-title>Immune Suppression in the Early Stage of COVID‐19 Disease</article-title>,” <source>Nature Communications</source>
+<volume>11</volume> (<year>2020</year>): <fpage>5859</fpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41467-020-19706-9</pub-id><pub-id pub-id-type="pmcid">PMC7673112</pub-id><pub-id pub-id-type="pmid">33203833</pub-id></mixed-citation></ref><ref id="jmv70203-bib-0015"><label>15</label><mixed-citation publication-type="journal" id="jmv70203-cit-0015">
+<string-name name-style="western">
+<given-names>E.</given-names>
+<surname>Stephenson</surname>
+</string-name>, <string-name name-style="western">
+<given-names>G.</given-names>
+<surname>Reynolds</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R. A.</given-names>
+<surname>Botting</surname>
+</string-name>, et al., “<article-title>Single‐Cell Multi‐Omics Analysis of the Immune Response in COVID‐19</article-title>,” <source>Nature Medicine</source>
+<volume>27</volume> (<year>2021</year>): <fpage>904</fpage>–<lpage>916</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41591-021-01329-2</pub-id><pub-id pub-id-type="pmcid">PMC8121667</pub-id><pub-id pub-id-type="pmid">33879890</pub-id></mixed-citation></ref><ref id="jmv70203-bib-0016"><label>16</label><mixed-citation publication-type="journal" id="jmv70203-cit-0016">
+<string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Leng</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Ma</surname>
+</string-name>, <string-name name-style="western">
+<given-names>P. P.</given-names>
+<surname>Zhang</surname>
+</string-name>, et al., “<article-title>Spatial Region‐Resolved Proteome Map Reveals Mechanism of COVID‐19‐Associated Heart Injury</article-title>,” <source>Cell Reports</source>
+<volume>39</volume> (<year>2022</year>): <elocation-id>110955</elocation-id>.<pub-id pub-id-type="pmid">35679865</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.celrep.2022.110955</pub-id><pub-id pub-id-type="pmcid">PMC9135696</pub-id></mixed-citation></ref><ref id="jmv70203-bib-0017"><label>17</label><mixed-citation publication-type="journal" id="jmv70203-cit-0017">
+<string-name name-style="western">
+<given-names>Y. M.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Zheng</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Yu</surname>
+</string-name>, et al., “<article-title>Blood Molecular Markers Associated With COVID‐19 Immunopathology and Multi‐Organ Damage</article-title>,” <source>EMBO Journal</source>
+<volume>39</volume> (<year>2020</year>): <elocation-id>e105896</elocation-id>.<pub-id pub-id-type="pmid">33140861</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.15252/embj.2020105896</pub-id><pub-id pub-id-type="pmcid">PMC7737620</pub-id></mixed-citation></ref><ref id="jmv70203-bib-0018"><label>18</label><mixed-citation publication-type="journal" id="jmv70203-cit-0018">
+<string-name name-style="western">
+<given-names>T.</given-names>
+<surname>Shu</surname>
+</string-name>, <string-name name-style="western">
+<given-names>W.</given-names>
+<surname>Ning</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Wu</surname>
+</string-name>, et al., “<article-title>Plasma Proteomics Identify Biomarkers and Pathogenesis of COVID‐19</article-title>,” <source>Immunity</source>
+<volume>53</volume> (<year>2020</year>): <fpage>1108</fpage>–<lpage>1122.e5</lpage>.<pub-id pub-id-type="pmid">33128875</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.immuni.2020.10.008</pub-id><pub-id pub-id-type="pmcid">PMC7574896</pub-id></mixed-citation></ref><ref id="jmv70203-bib-0019"><label>19</label><mixed-citation publication-type="journal" id="jmv70203-cit-0019">
+<string-name name-style="western">
+<given-names>B.</given-names>
+<surname>Di</surname>
+</string-name>, <string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Jia</surname>
+</string-name>, <string-name name-style="western">
+<given-names>O. J.</given-names>
+<surname>Luo</surname>
+</string-name>, et al., “<article-title>Identification and Validation of Predictive Factors for Progression to Severe COVID‐19 Pneumonia by Proteomics</article-title>,” <source>Signal Transduction and Targeted Therapy</source>
+<volume>5</volume> (<year>2020</year>): <fpage>217</fpage>.<pub-id pub-id-type="pmid">33011738</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41392-020-00333-1</pub-id><pub-id pub-id-type="pmcid">PMC7532335</pub-id></mixed-citation></ref><ref id="jmv70203-bib-0020"><label>20</label><mixed-citation publication-type="journal" id="jmv70203-cit-0020">
+<string-name name-style="western">
+<given-names>V.</given-names>
+<surname>Demichev</surname>
+</string-name>, <string-name name-style="western">
+<given-names>P.</given-names>
+<surname>Tober‐Lau</surname>
+</string-name>, <string-name name-style="western">
+<given-names>O.</given-names>
+<surname>Lemke</surname>
+</string-name>, et al., “<article-title>A Time‐Resolved Proteomic and Prognostic Map of COVID‐19</article-title>,” <source>Cell Systems</source>
+<volume>12</volume> (<year>2021</year>): <fpage>780</fpage>–<lpage>794.e7</lpage>.<pub-id pub-id-type="pmid">34139154</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.cels.2021.05.005</pub-id><pub-id pub-id-type="pmcid">PMC8201874</pub-id></mixed-citation></ref><ref id="jmv70203-bib-0021"><label>21</label><mixed-citation publication-type="journal" id="jmv70203-cit-0021">
+<string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Gutmann</surname>
+</string-name>, <string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Takov</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S. A.</given-names>
+<surname>Burnap</surname>
+</string-name>, et al., “<article-title>SARS‐CoV‐2 RNAemia and Proteomic Trajectories Inform Prognostication in COVID‐19 Patients Admitted to Intensive Care</article-title>,” <source>Nature Communications</source>
+<volume>12</volume> (<year>2021</year>): <fpage>3406</fpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41467-021-23494-1</pub-id><pub-id pub-id-type="pmcid">PMC8184784</pub-id><pub-id pub-id-type="pmid">34099652</pub-id></mixed-citation></ref><ref id="jmv70203-bib-0022"><label>22</label><mixed-citation publication-type="journal" id="jmv70203-cit-0022">
+<string-name name-style="western">
+<given-names>D. J.</given-names>
+<surname>Ahern</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Z.</given-names>
+<surname>Ai</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Ainsworth</surname>
+</string-name>, et al., “<article-title>A Blood Atlas of COVID‐19 Defines Hallmarks of Disease Severity and Specificity</article-title>,” <source>Cell</source>
+<volume>185</volume> (<year>2022</year>): <fpage>916</fpage>–<lpage>938.e58</lpage>.<pub-id pub-id-type="pmid">35216673</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.cell.2022.01.012</pub-id><pub-id pub-id-type="pmcid">PMC8776501</pub-id></mixed-citation></ref><ref id="jmv70203-bib-0023"><label>23</label><mixed-citation publication-type="journal" id="jmv70203-cit-0023">
+<string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Zhou</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Gupta</surname>
+</string-name>, et al., “<article-title>A Comprehensive SARS‐CoV‐2‐Human Protein‐Protein Interactome Reveals COVID‐19 Pathobiology and Potential Host Therapeutic Targets</article-title>,” <source>Nature Biotechnology</source>
+<volume>41</volume> (<year>2023</year>): <fpage>128</fpage>–<lpage>139</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41587-022-01474-0</pub-id><pub-id pub-id-type="pmcid">PMC9851973</pub-id><pub-id pub-id-type="pmid">36217030</pub-id></mixed-citation></ref><ref id="jmv70203-bib-0024"><label>24</label><mixed-citation publication-type="journal" id="jmv70203-cit-0024">
+<string-name name-style="western">
+<given-names>D. E.</given-names>
+<surname>Gordon</surname>
+</string-name>, <string-name name-style="western">
+<given-names>G. M.</given-names>
+<surname>Jang</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Bouhaddou</surname>
+</string-name>, et al., “<article-title>A SARS‐CoV‐2 Protein Interaction Map Reveals Targets for Drug Repurposing</article-title>,” <source>Nature</source>
+<volume>583</volume> (<year>2020</year>): <fpage>459</fpage>–<lpage>468</lpage>.<pub-id pub-id-type="pmid">32353859</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41586-020-2286-9</pub-id><pub-id pub-id-type="pmcid">PMC7431030</pub-id></mixed-citation></ref><ref id="jmv70203-bib-0025"><label>25</label><mixed-citation publication-type="journal" id="jmv70203-cit-0025">
+<string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Bojkova</surname>
+</string-name>, <string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Klann</surname>
+</string-name>, <string-name name-style="western">
+<given-names>B.</given-names>
+<surname>Koch</surname>
+</string-name>, et al., “<article-title>Proteomics of SARS‐CoV‐2‐Infected Host Cells Reveals Therapy Targets</article-title>,” <source>Nature</source>
+<volume>583</volume> (<year>2020</year>): <fpage>469</fpage>–<lpage>472</lpage>.<pub-id pub-id-type="pmid">32408336</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41586-020-2332-7</pub-id><pub-id pub-id-type="pmcid">PMC7616921</pub-id></mixed-citation></ref><ref id="jmv70203-bib-0026"><label>26</label><mixed-citation publication-type="journal" id="jmv70203-cit-0026">
+<string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Iosef</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M. J.</given-names>
+<surname>Knauer</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Nicholson</surname>
+</string-name>, et al., “<article-title>Plasma Proteome of Long‐COVID Patients Indicates HIF‐Mediated Vasculo‐Proliferative Disease With Impact on Brain and Heart Function</article-title>,” <source>Journal of Translational Medicine</source>
+<volume>21</volume> (<year>2023</year>): <fpage>377</fpage>.<pub-id pub-id-type="pmid">37301958</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1186/s12967-023-04149-9</pub-id><pub-id pub-id-type="pmcid">PMC10257382</pub-id></mixed-citation></ref><ref id="jmv70203-bib-0027"><label>27</label><mixed-citation publication-type="journal" id="jmv70203-cit-0027">
+<string-name name-style="western">
+<given-names>B.</given-names>
+<surname>Vijayakumar</surname>
+</string-name>, <string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Boustani</surname>
+</string-name>, <string-name name-style="western">
+<given-names>P. P.</given-names>
+<surname>Ogger</surname>
+</string-name>, et al., “<article-title>Immuno‐Proteomic Profiling Reveals Aberrant Immune Cell Regulation in the Airways of Individuals With Ongoing Post‐COVID‐19 Respiratory Disease</article-title>,” <source>Immunity</source>
+<volume>55</volume> (<year>2022</year>): <fpage>542</fpage>–<lpage>556.e5</lpage>.<pub-id pub-id-type="pmid">35151371</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.immuni.2022.01.017</pub-id><pub-id pub-id-type="pmcid">PMC8789571</pub-id></mixed-citation></ref><ref id="jmv70203-bib-0028"><label>28</label><mixed-citation publication-type="journal" id="jmv70203-cit-0028">
+<string-name name-style="western">
+<given-names>M. C.</given-names>
+<surname>Garcia‐Hidalgo</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>González</surname>
+</string-name>, <string-name name-style="western">
+<given-names>I. D.</given-names>
+<surname>Benítez</surname>
+</string-name>, et al., “<article-title>Proteomic Profiling of Lung Diffusion Impairment in the Recovery Stage of SARS‐CoV‐2‐Induced ARDS</article-title>,” <source>Clinical and Translational Medicine</source>
+<volume>12</volume> (<year>2022</year>): <elocation-id>e838</elocation-id>.<pub-id pub-id-type="pmid">35538880</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/ctm2.838</pub-id><pub-id pub-id-type="pmcid">PMC9091985</pub-id></mixed-citation></ref><ref id="jmv70203-bib-0029"><label>29</label><mixed-citation publication-type="journal" id="jmv70203-cit-0029">
+<string-name name-style="western">
+<given-names>G.</given-names>
+<surname>Captur</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J. C.</given-names>
+<surname>Moon</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C. C.</given-names>
+<surname>Topriceanu</surname>
+</string-name>, et al., “<article-title>Plasma Proteomic Signature Predicts Who Will Get Persistent Symptoms Following SARS‐CoV‐2 Infection</article-title>,” <source>EBioMedicine</source>
+<volume>85</volume> (<year>2022</year>): <elocation-id>104293</elocation-id>.<pub-id pub-id-type="pmid">36182629</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.ebiom.2022.104293</pub-id><pub-id pub-id-type="pmcid">PMC9515404</pub-id></mixed-citation></ref><ref id="jmv70203-bib-0030"><label>30</label><mixed-citation publication-type="journal" id="jmv70203-cit-0030">
+<string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Lopez‐Hernandez</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Monárrez‐Espino</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D. A. G.</given-names>
+<surname>López</surname>
+</string-name>, et al., “<article-title>The Plasma Metabolome of Long COVID Patients Two Years After Infection</article-title>,” <source>Scientific Reports</source>
+<volume>13</volume> (<year>2023</year>): <elocation-id>12420</elocation-id>.<pub-id pub-id-type="pmid">37528111</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41598-023-39049-x</pub-id><pub-id pub-id-type="pmcid">PMC10394026</pub-id></mixed-citation></ref><ref id="jmv70203-bib-0031"><label>31</label><mixed-citation publication-type="journal" id="jmv70203-cit-0031">
+<string-name name-style="western">
+<given-names>X.</given-names>
+<surname>Gu</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name name-style="western">
+<given-names>W.</given-names>
+<surname>Zhang</surname>
+</string-name>, et al., “<article-title>Probing Long COVID Through a Proteomic Lens: A Comprehensive Two‐Year Longitudinal Cohort Study of Hospitalised Survivors</article-title>,” <source>EBioMedicine</source>
+<volume>98</volume> (<year>2023</year>): <elocation-id>104851</elocation-id>.<pub-id pub-id-type="pmid">37924708</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.ebiom.2023.104851</pub-id><pub-id pub-id-type="pmcid">PMC10660018</pub-id></mixed-citation></ref><ref id="jmv70203-bib-0032"><label>32</label><mixed-citation publication-type="journal" id="jmv70203-cit-0032">
+<string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Klein</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Wood</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J. R.</given-names>
+<surname>Jaycox</surname>
+</string-name>, et al., “<article-title>Distinguishing Features of Long COVID Identified Through Immune Profiling</article-title>,” <source>Nature</source>
+<volume>623</volume> (<year>2023</year>): <fpage>139</fpage>–<lpage>148</lpage>.<pub-id pub-id-type="pmid">37748514</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41586-023-06651-y</pub-id><pub-id pub-id-type="pmcid">PMC10620090</pub-id></mixed-citation></ref><ref id="jmv70203-bib-0033"><label>33</label><mixed-citation publication-type="journal" id="jmv70203-cit-0033">
+<string-name name-style="western">
+<given-names>F.</given-names>
+<surname>Liew</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Efstathiou</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Fontanella</surname>
+</string-name>, et al., “<article-title>Large‐Scale Phenotyping of Patients With Long COVID Post‐Hospitalization Reveals Mechanistic Subtypes of Disease</article-title>,” <source>Nature Immunology</source>
+<volume>25</volume> (<year>2024</year>): <fpage>607</fpage>–<lpage>621</lpage>.<pub-id pub-id-type="pmid">38589621</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41590-024-01778-0</pub-id><pub-id pub-id-type="pmcid">PMC11003868</pub-id></mixed-citation></ref><ref id="jmv70203-bib-0034"><label>34</label><mixed-citation publication-type="journal" id="jmv70203-cit-0034">
+<string-name name-style="western">
+<given-names>P.</given-names>
+<surname>Rzymski</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Niedziela</surname>
+</string-name>, <string-name name-style="western">
+<given-names>B.</given-names>
+<surname>Poniedziałek</surname>
+</string-name>, et al., “<article-title>Humoral Anti‐SARS‐CoV‐2 Response in Patients With Different Long COVID Phenotypes</article-title>,” <source>Virology</source>
+<volume>596</volume> (<year>2024</year>): <elocation-id>110118</elocation-id>.<pub-id pub-id-type="pmid">38805803</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.virol.2024.110118</pub-id></mixed-citation></ref><ref id="jmv70203-bib-0035"><label>35</label><mixed-citation publication-type="journal" id="jmv70203-cit-0035">
+<string-name name-style="western">
+<given-names>T.</given-names>
+<surname>Schmitz</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Freuer</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Goßlau</surname>
+</string-name>, et al., “<article-title>Can Inflammatory Plasma Proteins Predict Long COVID or Fatigue Severity After SARS‐CoV‐2 Infection?</article-title>,” <source>Virus Research</source>
+<volume>344</volume> (<year>2024</year>): <elocation-id>199363</elocation-id>.<pub-id pub-id-type="pmid">38508399</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.virusres.2024.199363</pub-id><pub-id pub-id-type="pmcid">PMC10979265</pub-id></mixed-citation></ref><ref id="jmv70203-bib-0036"><label>36</label><mixed-citation publication-type="journal" id="jmv70203-cit-0036">
+<string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Bodansky</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C. Y.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Saxena</surname>
+</string-name>, et al., “<article-title>Autoantigen Profiling Reveals a Shared Post‐COVID Signature in Fully Recovered and Long COVID Patients</article-title>,” <source>JCI Insight</source>
+<volume>8</volume>, no. <issue>11</issue> (<year>2023</year>): <elocation-id>e169515</elocation-id>, <pub-id pub-id-type="doi">10.1172/jci.insight.169515</pub-id>.<pub-id pub-id-type="pmid">37288661</pub-id>
+<pub-id pub-id-type="pmcid">PMC10393220</pub-id></mixed-citation></ref><ref id="jmv70203-bib-0037"><label>37</label><mixed-citation publication-type="journal" id="jmv70203-cit-0037">
+<string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Zhang</surname>
+</string-name> and <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Han</surname>
+</string-name>, “<article-title>Differential Privacy Fuzzy C‐Means Clustering Algorithm Based on Gaussian Kernel Function</article-title>,” <source>PLoS One</source>
+<volume>16</volume> (<year>2021</year>): <elocation-id>e248737</elocation-id>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1371/journal.pone.0248737</pub-id><pub-id pub-id-type="pmcid">PMC7987176</pub-id><pub-id pub-id-type="pmid">33755689</pub-id></mixed-citation></ref><ref id="jmv70203-bib-0038"><label>38</label><mixed-citation publication-type="journal" id="jmv70203-cit-0038">
+<string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Devarajan</surname>
+</string-name>, “<article-title>Nonnegative Matrix Factorization: An Analytical and Interpretive Tool in Computational Biology</article-title>,” <source>PLoS Computational Biology</source>
+<volume>4</volume> (<year>2008</year>): <elocation-id>e1000029</elocation-id>.<pub-id pub-id-type="pmid">18654623</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1371/journal.pcbi.1000029</pub-id><pub-id pub-id-type="pmcid">PMC2447881</pub-id></mixed-citation></ref><ref id="jmv70203-bib-0039"><label>39</label><mixed-citation publication-type="journal" id="jmv70203-cit-0039">
+<string-name name-style="western">
+<given-names>C. E.</given-names>
+<surname>Brightling</surname>
+</string-name> and <string-name name-style="western">
+<given-names>R. A.</given-names>
+<surname>Evans</surname>
+</string-name>, “<article-title>Long COVID: Which Symptoms Can Be Attributed to SARS‐CoV‐2 Infection?</article-title>,” <source>Lancet</source>
+<volume>400</volume> (<year>2022</year>): <fpage>411</fpage>–<lpage>413</lpage>.<pub-id pub-id-type="pmid">35933996</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/S0140-6736(22)01385-X</pub-id><pub-id pub-id-type="pmcid">PMC9352303</pub-id></mixed-citation></ref><ref id="jmv70203-bib-0040"><label>40</label><mixed-citation publication-type="journal" id="jmv70203-cit-0040">
+<string-name name-style="western">
+<given-names>B.</given-names>
+<surname>Yan</surname>
+</string-name>, <string-name name-style="western">
+<given-names>T.</given-names>
+<surname>Freiwald</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Chauss</surname>
+</string-name>, et al., “<article-title>SARS‐CoV‐2 Drives JAK1/2‐Dependent Local Complement Hyperactivation</article-title>,” <source>Science Immunology</source>
+<volume>6</volume> (<year>2021</year>), <pub-id pub-id-type="doi">10.1126/sciimmunol.abg0833</pub-id>.<pub-id pub-id-type="pmcid">PMC8139422</pub-id><pub-id pub-id-type="pmid">33827897</pub-id></mixed-citation></ref><ref id="jmv70203-bib-0041"><label>41</label><mixed-citation publication-type="journal" id="jmv70203-cit-0041">
+<string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Carvelli</surname>
+</string-name>, <string-name name-style="western">
+<given-names>O.</given-names>
+<surname>Demaria</surname>
+</string-name>, <string-name name-style="western">
+<given-names>F.</given-names>
+<surname>Vély</surname>
+</string-name>, et al., “<article-title>Association of COVID‐19 Inflammation With Activation of the C5a‐C5aR1 Axis</article-title>,” <source>Nature</source>
+<volume>588</volume> (<year>2020</year>): <fpage>146</fpage>–<lpage>150</lpage>.<pub-id pub-id-type="pmid">32726800</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41586-020-2600-6</pub-id><pub-id pub-id-type="pmcid">PMC7116884</pub-id></mixed-citation></ref><ref id="jmv70203-bib-0042"><label>42</label><mixed-citation publication-type="journal" id="jmv70203-cit-0042">
+<string-name name-style="western">
+<given-names>T.</given-names>
+<surname>Shu</surname>
+</string-name>, <string-name name-style="western">
+<given-names>W.</given-names>
+<surname>Ning</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Wu</surname>
+</string-name>, et al., “<article-title>Plasma Proteomics Identify Biomarkers and Pathogenesis of COVID‐19</article-title>,” <source>Immunity</source>
+<volume>53</volume> (<year>2020</year>): <fpage>1108</fpage>–<lpage>1122.e5</lpage>.<pub-id pub-id-type="pmid">33128875</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.immuni.2020.10.008</pub-id><pub-id pub-id-type="pmcid">PMC7574896</pub-id></mixed-citation></ref><ref id="jmv70203-bib-0043"><label>43</label><mixed-citation publication-type="journal" id="jmv70203-cit-0043">
+<string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Cervia‐Hasler</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S. C.</given-names>
+<surname>Brüningk</surname>
+</string-name>, <string-name name-style="western">
+<given-names>T.</given-names>
+<surname>Hoch</surname>
+</string-name>, et al., “<article-title>Persistent Complement Dysregulation With Signs of Thromboinflammation in Active Long Covid</article-title>,” <source>Science</source>
+<volume>383</volume> (<year>2024</year>): <fpage>g7942</fpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1126/science.adg7942</pub-id><pub-id pub-id-type="pmid">38236961</pub-id></mixed-citation></ref><ref id="jmv70203-bib-0044"><label>44</label><mixed-citation publication-type="journal" id="jmv70203-cit-0044">
+<string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Ma</surname>
+</string-name>, <string-name name-style="western">
+<given-names>T.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Wu</surname>
+</string-name>, et al., “<article-title>iProX: An Integrated Proteome Resource</article-title>,” <source>Nucleic Acids Research</source>
+<volume>47</volume> (<year>2019</year>): <fpage>D1211</fpage>–<lpage>D1217</lpage>.<pub-id pub-id-type="pmid">30252093</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/nar/gky869</pub-id><pub-id pub-id-type="pmcid">PMC6323926</pub-id></mixed-citation></ref><ref id="jmv70203-bib-0045"><label>45</label><mixed-citation publication-type="journal" id="jmv70203-cit-0045">
+<string-name name-style="western">
+<given-names>T.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Ma</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Liu</surname>
+</string-name>, et al., “<article-title>iProX in 2021: Connecting Proteomics Data Sharing With Big Data</article-title>,” <source>Nucleic Acids Research</source>
+<volume>50</volume> (<year>2022</year>): <fpage>D1522</fpage>–<lpage>D1527</lpage>.<pub-id pub-id-type="pmid">34871441</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/nar/gkab1081</pub-id><pub-id pub-id-type="pmcid">PMC8728291</pub-id></mixed-citation></ref></ref-list></back></article></pmc-articleset>

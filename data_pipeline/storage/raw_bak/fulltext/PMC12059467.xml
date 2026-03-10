@@ -1,0 +1,759 @@
+<?xml version="1.0"  ?><!DOCTYPE pmc-articleset PUBLIC "-//NLM//DTD ARTICLE SET 2.0//EN" "https://dtd.nlm.nih.gov/ncbi/pmc/articleset/nlm-articleset-2.0.dtd"><pmc-articleset><article id="hex70273" xml:lang="en" article-type="research-article" dtd-version="1.4"><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">Health Expect</journal-id><journal-id journal-id-type="iso-abbrev">Health Expect</journal-id><journal-id journal-id-type="pmc-domain-id">2997</journal-id><journal-id journal-id-type="pmc-domain">hex</journal-id><journal-id journal-id-type="publisher-id">HEX</journal-id><journal-title-group><journal-title>Health Expectations : An International Journal of Public Participation in Health Care and Health Policy</journal-title></journal-title-group><issn pub-type="ppub">1369-6513</issn><issn pub-type="epub">1369-7625</issn><publisher><publisher-name>Wiley</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC12059467</article-id><article-id pub-id-type="pmcid-ver">PMC12059467.1</article-id><article-id pub-id-type="pmcaid">12059467</article-id><article-id pub-id-type="pmcaiid">12059467</article-id><article-id pub-id-type="pmid">40342248</article-id><article-id pub-id-type="doi">10.1111/hex.70273</article-id><article-id pub-id-type="publisher-id">HEX70273</article-id><article-version article-version-type="pmc-version">1</article-version><article-categories><subj-group subj-group-type="overline"><subject>Original Article</subject></subj-group><subj-group subj-group-type="heading"><subject>Original Article</subject></subj-group></article-categories><title-group><article-title>Long Covid Symptom Clusters, Correlates and Predictors in a Highly Vaccinated Australian Population in 2023</article-title></title-group><contrib-group><contrib id="hex70273-cr-0001" contrib-type="author"><name name-style="western"><surname>Tawfiq</surname><given-names initials="E">Essa</given-names></name><xref rid="hex70273-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="hex70273-cr-0002" contrib-type="author"><name name-style="western"><surname>Chen</surname><given-names initials="R">Rosalie</given-names></name><xref rid="hex70273-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="hex70273-cr-0003" contrib-type="author"><name name-style="western"><surname>Honeyman</surname><given-names initials="DA">Damian Alexander</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-4339-1801</contrib-id><xref rid="hex70273-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="hex70273-cr-0004" contrib-type="author"><name name-style="western"><surname>Dawson</surname><given-names initials="R">Rebecca</given-names></name><xref rid="hex70273-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="hex70273-cr-0005" contrib-type="author"><name name-style="western"><surname>Kunasekaran</surname><given-names initials="M">Mohana</given-names></name><xref rid="hex70273-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="hex70273-cr-0006" contrib-type="author"><name name-style="western"><surname>Notaras</surname><given-names initials="A">Adriana</given-names></name><xref rid="hex70273-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="hex70273-cr-0007" contrib-type="author" corresp="yes"><name name-style="western"><surname>Gurdasani</surname><given-names initials="D">Deepti</given-names></name><xref rid="hex70273-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="hex70273-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref><xref rid="hex70273-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref><address><email>dgurdasani@protonmail.com</email></address></contrib><contrib id="hex70273-cr-0008" contrib-type="author"><name name-style="western"><surname>Skouteris</surname><given-names initials="H">Helen</given-names></name><xref rid="hex70273-aff-0004" ref-type="aff">
+<sup>4</sup>
+</xref></contrib><contrib id="hex70273-cr-0009" contrib-type="author"><name name-style="western"><surname>Ayton</surname><given-names initials="D">Darshini</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">http://orcid.org/0000-0002-2754-2024</contrib-id><xref rid="hex70273-aff-0004" ref-type="aff">
+<sup>4</sup>
+</xref></contrib><contrib id="hex70273-cr-0010" contrib-type="author" corresp="yes"><name name-style="western"><surname>MacIntyre</surname><given-names initials="CR">Chandini Raina</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-3060-0555</contrib-id><xref rid="hex70273-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="hex70273-aff-0005" ref-type="aff">
+<sup>5</sup>
+</xref><address><email>r.macintyre@unsw.edu.au</email></address></contrib></contrib-group><aff id="hex70273-aff-0001">
+<label>
+<sup>1</sup>
+</label>
+<named-content content-type="organisation-division">Biosecurity Program</named-content>
+<institution>The Kirby Institute, Faculty of Medicine and Health</institution>
+<institution>The University of New South Wales</institution>
+<city>Sydney</city>
+<country country="AU">Australia</country>
+</aff><aff id="hex70273-aff-0002">
+<label>
+<sup>2</sup>
+</label>
+<institution>University of Western Australia Medical School</institution>
+<institution>University of Western Australia</institution>
+<city>Perth</city>
+<country country="AU">Australia</country>
+</aff><aff id="hex70273-aff-0003">
+<label>
+<sup>3</sup>
+</label>
+<named-content content-type="organisation-division">William Harvey Research Institute</named-content>
+<institution>Queen Mary University of London</institution>
+<city>London</city>
+<country country="GB">UK</country>
+</aff><aff id="hex70273-aff-0004">
+<label>
+<sup>4</sup>
+</label>
+<named-content content-type="organisation-division">Health and Social Care Unit</named-content>
+<institution>School of Public Health and Preventive Medicine, Monash University in collaboration with Monash Health</institution>
+<city>Melbourne</city>
+<country country="AU">Australia</country>
+</aff><aff id="hex70273-aff-0005">
+<label>
+<sup>5</sup>
+</label>
+<named-content content-type="organisation-division">College of Public Service &amp; Community Solutions, and College of Health Solutions</named-content>
+<institution>Arizona State University</institution>
+<city>Tempe</city>
+<named-content content-type="country-part">Arizona</named-content>
+<country country="US">USA</country>
+</aff><author-notes><corresp id="correspondenceTo">
+<label>*</label>
+<bold>Correspondence:</bold> Deepti Gurdasani (<email>dgurdasani@protonmail.com</email>)<break/>
+Chandini Raina MacIntyre (<email>r.macintyre@unsw.edu.au</email>)<break/>
+</corresp></author-notes><pub-date pub-type="epub"><day>08</day><month>5</month><year>2025</year></pub-date><pub-date pub-type="collection"><month>6</month><year>2025</year></pub-date><volume>28</volume><issue seq="29">3</issue><issue-id pub-id-type="pmc-issue-id">487080</issue-id><issue-id pub-id-type="doi">10.1111/hex.v28.3</issue-id><elocation-id>e70273</elocation-id><history><date date-type="rev-recd"><day>10</day><month>4</month><year>2025</year></date><date date-type="received"><day>05</day><month>7</month><year>2024</year></date><date date-type="accepted"><day>11</day><month>4</month><year>2025</year></date></history><pub-history><event event-type="pmc-release"><date><day>08</day><month>05</month><year>2025</year></date></event><event event-type="pmc-live"><date><day>08</day><month>05</month><year>2025</year></date></event><event event-type="pmc-last-change"><date iso-8601-date="2025-05-23 03:25:16.153"><day>23</day><month>05</month><year>2025</year></date></event></pub-history><permissions><copyright-statement content-type="article-copyright">© 2025 The Author(s). <italic toggle="yes">Health Expectations</italic> published by John Wiley &amp; Sons Ltd.</copyright-statement><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>This is an open access article under the terms of the <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pmc-pdf" xlink:href="HEX-28-e70273.pdf"/><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pdf" xlink:href="file:HEX-28-e70273.pdf"/><abstract><title>ABSTRACT</title><sec id="hex70273-sec-0010"><title>Background</title><p>Limited data exists regarding long Covid burden following Omicron infection in highly vaccinated populations.</p></sec><sec id="hex70273-sec-0020"><title>Objective</title><p>To (1) characterise long Covid prevalence and predictors and (2) identify key symptom clusters and their correlates among long Covid patients, during an Omicron‐predominant period in a highly vaccinated population.</p></sec><sec id="hex70273-sec-0030"><title>Design</title><p>Anonymous, online, cross‐sectional survey.</p></sec><sec id="hex70273-sec-0040"><title>Setting</title><p>January 2023, Australia.</p></sec><sec id="hex70273-sec-0050"><title>Participants</title><p>Residents aged ≥ 18 years with self‐reported history of test‐positive Covid‐19.</p><p>The main variables studied were socio‐demographic characteristics, Covid‐19 risk factors, vaccination, infection history and experiences with long Covid.</p></sec><sec id="hex70273-sec-0060"><title>Main Outcome Measures</title><p>Long Covid symptoms. Symptom‐based clustering was used to identify long Covid symptom clusters and their functional correlates. Predictors of long Covid occurrence and severity were assessed using multivariable logistic regression.</p></sec><sec id="hex70273-sec-0070"><title>Results</title><p>Overall, 240/1205 participants (19.9%) reported long Covid. Long Covid risk was significantly higher for women OR 1.71 (95% CI: 1.17–2.51), people with comorbidities 2.19 (95% CI: 1.56–3.08) and those using steroid inhalers for Covid‐19 treatment (2.34 [95% CI: 1.29–4.24]). Long‐Covid risk increased with increasing Covid‐19 infection severity (moderately severe symptoms: 2.23 [95% CI: 1.50–3.30], extremely severe symptoms: 5.80 [95% CI: 3.48–9.66], presented to ED/hospitalised: 7.22 [95% CI: 3.06–17.03]). We found no significant difference in the likelihood of long Covid between the Omicron and pre‐Omicron periods, vaccination status and participant age.</p><p>We identified two long Covid clusters (pauci‐symptomatic, <italic toggle="yes">n</italic> = 170, vs. polysymptomatic, <italic toggle="yes">n</italic> = 66). Polysymptomatic cluster membership was associated with worse functioning (impacts on work, moderate activity, emotions and energy). Severity acute infection was strongly predictive of polysymptomatic cluster membership (5.72 [2.04–17.58]). Monoclonal antibody treatment was strongly associated with pauci‐symptomatic cluster membership (0.02 [0.00–0.13]).</p></sec><sec id="hex70273-sec-0080"><title>Discussion</title><p>Our study shows that long Covid is an important health burden in Australia, including during the Omicron era, and identifies several risk factors. We found a subgroup of patients characterised by more symptoms and worse functional outcomes. Our findings can inform policies for protecting vulnerable populations and frameworks for long Covid risk assessment and management.</p></sec><sec id="hex70273-sec-0090"><title>Conclusions</title><p>One‐in‐five people may suffer long Covid after acute Covid‐19 infection, with similar risk across age groups. Omicron variants appear not to have a lower risk compared to earlier variants in our study. A cumulative number of symptoms can help triage long Covid patients.</p></sec><sec id="hex70273-sec-0100"><title>Patient or Public Contribution</title><p>We did not involve patients or the public in the design of the questionnaire. However, after a soft launch, we revised some survey questions by reviewing early responses from patients and the public.</p></sec></abstract><kwd-group><kwd id="hex70273-kwd-0001">Australia</kwd><kwd id="hex70273-kwd-0002">Covid‐19</kwd><kwd id="hex70273-kwd-0003">long Covid</kwd><kwd id="hex70273-kwd-0004">Omicron</kwd><kwd id="hex70273-kwd-0005">SARS‐CoV‐2</kwd></kwd-group><funding-group><award-group id="funding-0001"><funding-source>E.T., R.C., D.A.H., R.D., M.K., A.N. and D.G. are supported by the Balvi Filantropic Fund. C.R.M. is funded by NHMRC Investigator Grant 2016907. D.A.H. and A.N. are funded through MRFF (grant ID 2017048). The funding sources had no role in the study design, data collection, analysis or interpretation, reporting or publication of this work.</funding-source></award-group></funding-group><counts><fig-count count="5"/><table-count count="1"/><page-count count="12"/><word-count count="8256"/></counts><custom-meta-group><custom-meta><meta-name>pmc-status-qastatus</meta-name><meta-value>0</meta-value></custom-meta><custom-meta><meta-name>pmc-status-live</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-status-embargo</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-status-released</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-access</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-legally-suppressed</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-pdf</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-supplement</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-pdf-only</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-suppress-copyright</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-real-version</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-scanned-article</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-in-epmc</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-license-ref</meta-name><meta-value>CC BY</meta-value></custom-meta><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>June 2025</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:6.5.6 mode:remove_FC converted:22.05.2025</meta-value></custom-meta></custom-meta-group></article-meta><notes><fn-group><fn id="hex70273-note-0001"><p>Essa Tawfiq, Rosalie Chen and Damian Alexander Honeyman are co‐first authors.</p></fn></fn-group></notes></front><body><sec id="hex70273-sec-0110"><label>1</label><title>Introduction</title><p>Australia experienced one of the largest SARS‐CoV‐2 epidemics in the Asia‐Pacific region between November 2021 and January 2023, largely caused by Omicron [<xref rid="hex70273-bib-0001" ref-type="bibr">1</xref>]. Symptoms that continue after acute SARS‐CoV‐2 infection are referred to as ‘long‐COVID’, defined by the World Health Organization (WHO) as the continuation or development of new symptoms 3 months after SARS‐CoV‐2 infection, lasting at least 2 months without other explanation [<xref rid="hex70273-bib-0002" ref-type="bibr">2</xref>]. However, the lack of a global consensus definition and the differences in study designs, including measured symptoms, context (community/hospital), age distribution and vaccination coverage [<xref rid="hex70273-bib-0003" ref-type="bibr">3</xref>], have complicated the estimation of long Covid prevalence. Wide‐ranging estimates between 4.7% and 80% have been published between 2021 and 2022 [<xref rid="hex70273-bib-0004" ref-type="bibr">4</xref>], while more recent studies have reported point prevalence estimates of 6%–7% in adults and ~1% in children [<xref rid="hex70273-bib-0005" ref-type="bibr">5</xref>, <xref rid="hex70273-bib-0006" ref-type="bibr">6</xref>, <xref rid="hex70273-bib-0007" ref-type="bibr">7</xref>, <xref rid="hex70273-bib-0008" ref-type="bibr">8</xref>, <xref rid="hex70273-bib-0009" ref-type="bibr">9</xref>]. The global estimated cumulative incidence of long Covid by the end of 2023 was approximately 400 million [<xref rid="hex70273-bib-0010" ref-type="bibr">10</xref>].</p><p>Long Covid is a heterogeneous condition with a broad range of symptoms and multisystemic pathology [<xref rid="hex70273-bib-0010" ref-type="bibr">10</xref>, <xref rid="hex70273-bib-0011" ref-type="bibr">11</xref>]. Over 100 long Covid symptoms have been described [<xref rid="hex70273-bib-0012" ref-type="bibr">12</xref>]. A recent systematic review and meta‐analyses found that fatigue, disturbed sleep and breathlessness were highly prevalent among hospitalised, non‐hospitalised and mixed cohorts [<xref rid="hex70273-bib-0013" ref-type="bibr">13</xref>]. Clinical diagnosis and management are challenging, due to the variable symptom profile, potentially lengthy symptom duration and lack of diagnostic and referral protocols [<xref rid="hex70273-bib-0010" ref-type="bibr">10</xref>, <xref rid="hex70273-bib-0014" ref-type="bibr">14</xref>]. Factors, such as hospitalisation, severe acute illness, female gender, older age, lower socioeconomic status and the presence of comorbidities, have been associated with long Covid [<xref rid="hex70273-bib-0015" ref-type="bibr">15</xref>, <xref rid="hex70273-bib-0016" ref-type="bibr">16</xref>, <xref rid="hex70273-bib-0017" ref-type="bibr">17</xref>, <xref rid="hex70273-bib-0018" ref-type="bibr">18</xref>, <xref rid="hex70273-bib-0019" ref-type="bibr">19</xref>, <xref rid="hex70273-bib-0020" ref-type="bibr">20</xref>]. Whilst symptomatic infection is more likely to cause long Covid, so can asymptomatic infection [<xref rid="hex70273-bib-0021" ref-type="bibr">21</xref>, <xref rid="hex70273-bib-0022" ref-type="bibr">22</xref>]. Given the association between severe acute illness and long Covid, treatments that reduce the severity of acute Covid‐19 infection, such as antivirals, inhaled corticosteroids and monoclonal antibodies [<xref rid="hex70273-bib-0023" ref-type="bibr">23</xref>, <xref rid="hex70273-bib-0024" ref-type="bibr">24</xref>, <xref rid="hex70273-bib-0025" ref-type="bibr">25</xref>], may modulate long‐Covid risk, with one systematic review reporting a protective effect with antivirals, but not monoclonal antibodies [<xref rid="hex70273-bib-0026" ref-type="bibr">26</xref>].</p><p>A recent Australian survey found 18.2% of respondents from a highly vaccinated population had ongoing symptoms 90 days after a Covid‐19 infection; however, this study was restricted to Western Australian residents [<xref rid="hex70273-bib-0027" ref-type="bibr">27</xref>]. Reduced clinical severity and risk of hospitalisation have been assumed for the Omicron variant compared to the Delta variant, although much of the data are confounded by vaccination rates, which were higher globally by the end of 2021 when Omicron emerged [<xref rid="hex70273-bib-0028" ref-type="bibr">28</xref>]. Some studies suggest Omicron is less likely to cause long Covid compared to prior variants [<xref rid="hex70273-bib-0029" ref-type="bibr">29</xref>, <xref rid="hex70273-bib-0030" ref-type="bibr">30</xref>]. The Australian context presents a unique opportunity to characterise long Covid during the Omicron era, as there was relatively low community SARS‐CoV‐2 transmission before Omicron's emergence, due to border closures and other public health orders [<xref rid="hex70273-bib-0031" ref-type="bibr">31</xref>]. Two‐dose vaccination rates in Australians aged 16 years and over were 95% by the end of 2021, when the Omicron wave commenced [<xref rid="hex70273-bib-0032" ref-type="bibr">32</xref>]. We therefore aimed to identify the prevalence of long Covid during an Omicron‐dominant period in a highly vaccinated population in Australia and assess the predictors of long‐Covid risk. We also aimed to assess if any long Covid symptom‐based patient subgroups appeared in the data and to characterise them by phenotypic clusters and functional outcomes.</p></sec><sec sec-type="methods" id="hex70273-sec-0120"><label>2</label><title>Methods</title><sec id="hex70273-sec-0130"><label>2.1</label><title>Study Design and Participants</title><p>An anonymous, online, cross‐sectional survey of Australian residents aged ≥ 18 years was conducted between 9 and 25 January 2023. Eligible subjects were initially identified using a global market research company (Dynata) [<xref rid="hex70273-bib-0033" ref-type="bibr">33</xref>]. Data on socio‐demographic characteristics, Covid‐19 risk factors, pre‐existing health status, vaccination and infection history were collected using the web‐based survey platform Qualtrics (for further details, see <xref rid="hex70273-suppl-0001" ref-type="supplementary-material">Supporting Information</xref>, Methods—Additional Information). Participants were included in this study if they reported testing positive for SARS‐CoV‐2 using a polymerase chain reaction (PCR) test and/or rapid antigen test (RAT) (Figure <xref rid="hex70273-fig-0001" ref-type="fig">1</xref>).</p><fig position="float" fig-type="Figure" id="hex70273-fig-0001" orientation="portrait"><label>Figure 1</label><caption><p>Study population and inclusion and exclusion criteria.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-1" orientation="portrait" xlink:href="HEX-28-e70273-g001.jpg"/></fig></sec><sec id="hex70273-sec-0140"><label>2.2</label><title>Outcomes</title><p>The outcome of ‘long COVID’ was based on the WHO Delphi definition [<xref rid="hex70273-bib-0002" ref-type="bibr">2</xref>]. Respondents were asked whether they had ‘symptoms that occurred <italic toggle="yes">within</italic> 3 months of the onset of Covid‐19 and lasted for at least 2 months’. This differs from the WHO definition in that, theoretically, this may include participants who had continuous symptoms for 2 months post‐Covid that resolved within 3 months (i.e., participants who did not have symptoms at 3 months). For those who answered ‘yes’, data on the type and duration of a list of pre‐specified long‐Covid symptoms was collected, with a textbox field for other symptoms. We also asked about changes in self‐reported health status (Excellent, Very good, Good, Fair and Poor) pre‐ and post‐acute Covid‐19 infection based on participant recall at the time of survey. The percentage change in health rating was calculated as the difference in number of patients in each rating category pre‐ and post‐Covid‐19, divided by the number of patients in the pre‐Covid‐19 rating category.</p></sec><sec id="hex70273-sec-0150"><label>2.3</label><title>Predictors</title><p>We examined a pre‐specified list of predictors based on evidence from the literature from studies examining predictors for long Covid and/or acute Covid‐19 severity (as many studies have shown that acute Covid‐19 severity correlates with risk of long Covid) [<xref rid="hex70273-bib-0014" ref-type="bibr">14</xref>, <xref rid="hex70273-bib-0034" ref-type="bibr">34</xref>] (Figure <xref rid="hex70273-suppl-0001" ref-type="supplementary-material">S1</xref>). We considered age, gender, socio‐economic status, pre‐existing health status, comorbidities, dominant variant at the time of first infection, severity of acute infection, number of infections and vaccination as predictors, given these had been associated with long Covid risk in previous studies [<xref rid="hex70273-bib-0035" ref-type="bibr">35</xref>, <xref rid="hex70273-bib-0036" ref-type="bibr">36</xref>, <xref rid="hex70273-bib-0037" ref-type="bibr">37</xref>, <xref rid="hex70273-bib-0038" ref-type="bibr">38</xref>, <xref rid="hex70273-bib-0039" ref-type="bibr">39</xref>]. We also included treatments (oral antivirals, monoclonal antibodies, steroid inhalers and other medications) for acute‐Covid‐19, as acute Covid‐19 severity is known to be associated with long Covid [<xref rid="hex70273-bib-0040" ref-type="bibr">40</xref>]. We also examined the association of mask use with long Covid, given viral dosage has been hypothesised to be associated with acute Covid‐19 severity (Figure <xref rid="hex70273-suppl-0001" ref-type="supplementary-material">S1</xref>) [<xref rid="hex70273-bib-0041" ref-type="bibr">41</xref>]. We used employment status, house ownership, whether the participant was born in Australia, education level, type of accommodation and family size as possible socio‐economic indicators (see <xref rid="hex70273-suppl-0001" ref-type="supplementary-material">Supporting Information</xref> for details). We note that all exposures collected through the questionnaire were based on participant recall at the point of survey, and characteristics such as employment would reflect participant status at the point of survey rather than infection. For information on re‐infection, we only collected the total number of infections at the point of survey, which may not reflect the number of infections before the development of long Covid, leading to misclassification, and conservative estimates of results. We classified the variant causing infection based on the first infection, which may or may not have been the cause of long Covid, which may again lead to misclassification, and conservative estimates.</p><sec id="hex70273-sec-0160"><label>2.3.1</label><title>Statistical Analysis</title><p>We first conducted a descriptive analysis of the baseline characteristics of participants who reported infection, with and without long Covid. We used the <italic toggle="yes">χ</italic>
+<sup>2</sup> test to evaluate the statistical significance of differences in baseline characteristics (excluding cells with counts of &lt; 5) (<xref rid="hex70273-suppl-0001" ref-type="supplementary-material">Supporting Information</xref>, Methods—Additional Information). To examine the change in health following the development of long Covid, we first calculated the proportion of participants who had worsening health, or improving health, or whose health was stable, post‐long Covid. We then carried out a one‐sample test for difference in proportion from 0 for the proportion with worsening health. This assesses whether the proportion of those with worsening health was statistically significantly different from zero.</p><p>To examine predictors of long COVID, we used multivariate logistic regression. We first examined the pre‐specified list of predictors based on the literature (Figure <xref rid="hex70273-suppl-0001" ref-type="supplementary-material">S1</xref>), as outlined above (Model 1). To avoid multicollinearity and overfitting, we also carried out backwards selection, iteratively removing the variable with the highest <italic toggle="yes">p</italic> value, until all variables included had a <italic toggle="yes">p</italic> value of &lt; 0.10, and presented these in a second model (Model 2).</p><p>Variables included in the full model were age (continuous), gender (male/female), employment status at the time of survey (employed/unemployed), home ownership (yes/no), being born in Australia (yes/no), education level (primary school, high school, TAFE or higher education), type of accommodation (house vs. unit/townhouse/other), self‐reported health status before Covid‐19 infection (poor vs. good), mask use (yes/no), vaccination status (0–2 doses vs. ≥ 3 doses), presence of comorbidities (at least one comorbidity vs. no comorbidity), infection with pre‐Omicron versus Omicron variant (first positive Covid‐19 test before December 2021 vs. from December 2021 onwards) [<xref rid="hex70273-bib-0030" ref-type="bibr">30</xref>], number of Covid‐19 infections (ordinal), severity of acute Covid‐19 infection (mild, moderately severe symptoms, extremely severe symptoms and presented to emergency department) (Table <xref rid="hex70273-suppl-0001" ref-type="supplementary-material">S1</xref>), and Covid‐19 treatment with antivirals (yes/no), steroid inhalers (yes/no), monoclonal antibodies (yes/no) and other drugs taken for Covid‐19 treatment (no treatment with these drugs/treated with hydroxychloroquine, ivermectin, fluvoxamine or fluoxetine). When assessing steroid inhalers as a treatment for Covid‐19, patients with pre‐existing respiratory illness (asthma, chronic bronchitis or COPD) were not considered as having received this specifically as treatment for acute COVID, as we were interested in evaluating these as a treatment specifically for acute Covid‐19 infection. We note that considering this group as not having received these specifically for long Covid may lead to more conservative results, biasing our effect estimates towards the null, as some in this group may have received these specifically for acute infection. Categories with small cell counts were excluded from regression analysis (see <xref rid="hex70273-suppl-0001" ref-type="supplementary-material">Supporting Information</xref>, Methods—Additional Information).</p><p>We examined the assumption of linearity on the logit scale of continuous or ordinal variables using the Box–Tidwell test [<xref rid="hex70273-bib-0042" ref-type="bibr">42</xref>] and found that this was violated for the number of pre‐existing comorbidities when coded as an ordinal variable. This was not violated for any of the other continuous or ordinal variables. We recoded pre‐existing comorbidities as a binary category, as detailed above, with no comorbidity as the reference. Given the multiple predictors tested for, we used a Bonferroni‐corrected threshold for <italic toggle="yes">α</italic>. To maintain an <italic toggle="yes">α</italic> of 0.05, we used a two‐way <italic toggle="yes">p</italic> value threshold of &lt; 0.003 for statistical significance (corrected for 18 tests). We note that, given the conservative nature of Bonferroni correction, our results are likely to be conservative, strictly controlling the false discovery rate at the cost of reduced statistical power. To provide a less conservative comparator, we also present the Benjamini–Hochberg correction [<xref rid="hex70273-bib-0043" ref-type="bibr">43</xref>] using FDR of 5% to calculate adjusted Benjamini–Hochberg <italic toggle="yes">p</italic> values based on ranked <italic toggle="yes">p</italic> values for 18 predictors of long Covid. Those below 0.05 were considered statistically significant in this exploratory analysis.</p><p>We also conducted sensitivity analyses to examine the effect of re‐categorising variables differently: vaccination status (unvaccinated, 1–2 doses and ≥ 3 doses), number of COVID‐19 infections (once, twice and three or more times) and age as a categorical variable (18–50, 51–64 and ≥ 65 years).</p><p>Given that the severity of acute Covid‐19 and the presence of comorbidities are strongly associated both with long Covid severity (Figure <xref rid="hex70273-suppl-0001" ref-type="supplementary-material">S1</xref>), and treatment eligibility, we assessed the potential for residual confounding of the association between treatments and long Covid by these variables. To better assess potential residual confounding of the association between treatments and long Covid by acute Covid severity, and pre‐existing co‐morbidities, we first examined the distribution of Covid‐19 treatments across strata of acute Covid‐19 severity and comorbidities. We then conducted subgroup analyses, examining the relationship between Covid‐19 treatments and long Covid within strata of acute Covid‐19 severity (mild, moderately severe, and extremely severe or presented to ED/hospitalised) and comorbidities (no comorbidity, 1 comorbidity and ≥ 2 comorbidities).</p><p>We also examined whether symptoms of long Covid varied between the participants who reported first infections during the pre‐omicron and omicron period. We used the <italic toggle="yes">χ</italic>
+<sup>2</sup> test to examine differences in cell counts for those with and without each symptom.</p><p>Our sample of 1205 participants with reported SARS‐CoV‐2 infection allows estimation of long Covid prevalence at a true prevalence of 10% with 2% precision. Our sample of 240 and 965 participants, with and without long Covid, respectively, provides 80% power to detect a proportional difference of 3.4% for exposures present at 20% prevalence in the non‐long‐Covid group with an <italic toggle="yes">α</italic> error of 0.05.</p></sec></sec><sec id="hex70273-sec-0170"><label>2.4</label><title>Clustering Analysis</title><p>To identify subgroups of participants by symptoms, we carried out clustering analysis across all symptoms, excluding those with low counts ( &lt; 5 participants). As different methods of clustering can result in different subgroups, and there is no single method that is the gold standard, we first conducted an exploratory analysis of two clustering algorithms, Partitioning Around Medoids (PAM) and Agglomerative Hierarchical clustering, both widely used approaches for unsupervised clustering of clinical data [<xref rid="hex70273-bib-0044" ref-type="bibr">44</xref>]. Clustering was performed in ‘R’ (version 2023.03.1+446), using the ‘cluster’ and ‘stats’ packages [<xref rid="hex70273-bib-0045" ref-type="bibr">45</xref>, <xref rid="hex70273-bib-0046" ref-type="bibr">46</xref>]. Participants were clustered on 19 unique long Covid symptoms recorded, each coded as a binary variable. A Manhattan distance matrix was used to quantify dissimilarity between participants based on symptoms and assign them to clusters. We note that for binary data, the Manhattan distance is equivalent to Hamming distance, an effective measure for comparing two equal‐length binary strings [<xref rid="hex70273-bib-0047" ref-type="bibr">47</xref>].</p><p>Average Silhouette coefficient score, a measure of intra‐cluster cohesion and inter‐cluster separation [<xref rid="hex70273-bib-0048" ref-type="bibr">48</xref>] with a range from −1 to +1, was calculated to identify the optimal number of clusters for both methods. A greater positive score indicates that a datapoint is similar to datapoints in the same cluster and different to datapoints in another cluster; a greater negative score indicates likely misclassification. Cluster stability for each method was assessed with Jaccard's coefficient using bootstrapping with 100 resamples to evaluate the extent to which random resampling altered cluster membership. We also assessed the similarity of clusters between the two methods with Jaccard's coefficient. This compares the similarity of clusters identified by calculating a ratio of their intersection to the union size. A value of 0 indicates completely different sets, and 1 indicates completely identical sets.</p><p>Participant characteristics, including demographic and socio‐economic variables, vaccination status, severity of Covid‐19 infection and treatment types, were summarised for each cluster, with statistical differences evaluated using Pearson's <italic toggle="yes">χ</italic>
+<sup>2</sup> test for categorical data (excluding cell counts &lt; 5) and Kruskal–Wallis test for ordinal and continuous data.</p><p>To examine the functional and clinical significance of symptom clusters, we also examined functional correlates of cluster membership, including physical limitation, emotional status, social impacts, occupational consequences and self‐ratings of health post‐COVID. Pearson's <italic toggle="yes">χ</italic>
+<sup>2</sup> test for categorical data (excluding cell counts &lt; 5) and Kruskal–Wallis test for ordinal and continuous data were used to compare baseline characteristics and functional correlates between clusters. A multiple logistic regression model was fit using the same predictors as used in the multivariate model for long Covid risk, using cluster membership as the dependent variable, to identify predictors of cluster membership. Consistent with our statistical analysis of predictors of long Covid, we present two models for the prediction of cluster membership, one with all pre‐specified potential predictors included, and one using backwards regression, using a threshold of <italic toggle="yes">p</italic> &lt; 0.10. Results are presented in tables, butterfly charts, forest and alluvial plots, created using R (‘plotrix’, ‘metafor’ and ‘ggalluvial’ packages) and MATLAB [<xref rid="hex70273-bib-0049" ref-type="bibr">49</xref>].</p></sec><sec id="hex70273-sec-0180"><label>2.5</label><title>Ethical Considerations</title><p>This study was approved by the UNSW Human Research Ethics Committee (approval number <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmc:entrez-nucleotide" xlink:href="HC220737">HC220737</ext-link>).</p></sec></sec><sec sec-type="results" id="hex70273-sec-0190"><label>3</label><title>Results</title><p>One in five (240/1205 [19.9%]) participants in our study reported long Covid symptoms. Statistically significant differences in baseline characteristics (Table <xref rid="hex70273-tbl-0001" ref-type="table">1</xref>) were observed between those with and without self‐reported long Covid, with long‐Covid patients being younger adults of working age (<italic toggle="yes">χ</italic>
+<sup>2</sup> = 13.98, <italic toggle="yes">p</italic> = 0.001), disproportionately female (<italic toggle="yes">χ</italic>
+<sup>2</sup> = 17.60, <italic toggle="yes">p</italic> = 0.001) and more likely to report reinfection (<italic toggle="yes">χ</italic>
+<sup>2</sup> = 20.65, <italic toggle="yes">p</italic> &lt; 0.001) and pre‐existing comorbidities (<italic toggle="yes">χ</italic>
+<sup>2</sup> = 18.17, <italic toggle="yes">p</italic> &lt; 0.001). However, there was no statistically significant difference by vaccination status and whether first infection occurred during or before the Omicron‐dominant era (Table <xref rid="hex70273-tbl-0001" ref-type="table">1</xref>). Consistent with pre‐existing conditions, and severe acute COVID‐19 being overrepresented among those with self‐reported long COVID, this group were also more likely to report molnupiravir (<italic toggle="yes">χ</italic>
+<sup>2</sup> = 11.39, <italic toggle="yes">p</italic> = 0.001), steroid inhaler (<italic toggle="yes">χ</italic>
+<sup>2</sup> = 32.13, <italic toggle="yes">p</italic> &lt; 0.001) and monoclonal antibody (<italic toggle="yes">χ</italic>
+<sup>2</sup> = 50.56, <italic toggle="yes">p</italic> &lt; 0.001) use compared to those without long Covid.</p><table-wrap position="float" id="hex70273-tbl-0001" content-type="Table" orientation="portrait"><label>Table 1</label><caption><p>Characteristics of participants who had Covid‐19 at time of survey.</p></caption><table frame="hsides" rules="groups"><col align="left" style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" span="1"/><col align="center" style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" span="1"/><col align="center" style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" span="1"/><col align="center" style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" span="1"/><col align="center" style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" span="1"/><col align="center" style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" span="1"/><thead valign="bottom"><tr valign="bottom"><th rowspan="2" colspan="2" align="left" valign="bottom"/><th align="center" valign="bottom" rowspan="1" colspan="1">Patients with long Covid</th><th align="center" valign="bottom" rowspan="1" colspan="1">Patients without long Covid</th><th align="center" valign="bottom" rowspan="1" colspan="1">Total number of patients</th><th rowspan="2" align="center" valign="bottom" colspan="1">
+<italic toggle="yes">p</italic> value</th></tr><tr style="border-bottom:solid 1px #000000" valign="bottom"><th align="center" valign="bottom" rowspan="1" colspan="1">
+<italic toggle="yes">n</italic> = 240 (19.9%)</th><th align="center" valign="bottom" rowspan="1" colspan="1">
+<italic toggle="yes">n</italic> = 965 (80.1%)</th><th align="center" valign="bottom" rowspan="1" colspan="1">
+<italic toggle="yes">n</italic> = 1205 (100%)</th></tr></thead><tbody valign="top"><tr><td align="left" colspan="2" valign="top" rowspan="1">Age</td><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1">0.001</td></tr><tr><td align="left" style="padding-left:10%" colspan="2" valign="top" rowspan="1">18–50 years</td><td align="center" valign="top" rowspan="1" colspan="1">179 (22.7%)</td><td align="center" valign="top" rowspan="1" colspan="1">611 (77.3%)</td><td align="center" valign="top" rowspan="1" colspan="1">790 (100%)</td><td align="center" valign="top" rowspan="1" colspan="1"/></tr><tr><td align="left" style="padding-left:10%" colspan="2" valign="top" rowspan="1">51–64 years</td><td align="center" valign="top" rowspan="1" colspan="1">40 (17.9%)</td><td align="center" valign="top" rowspan="1" colspan="1">183 (82.1%)</td><td align="center" valign="top" rowspan="1" colspan="1">223 (100%)</td><td align="center" valign="top" rowspan="1" colspan="1"/></tr><tr><td align="left" style="padding-left:10%" colspan="2" valign="top" rowspan="1">≥ 65 years</td><td align="center" valign="top" rowspan="1" colspan="1">21 (10.9%)</td><td align="center" valign="top" rowspan="1" colspan="1">171 (89.1%)</td><td align="center" valign="top" rowspan="1" colspan="1">192 (100%)</td><td align="center" valign="top" rowspan="1" colspan="1"/></tr><tr><td align="left" colspan="2" valign="top" rowspan="1">Gender</td><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1">0.001</td></tr><tr><td align="left" style="padding-left:10%" colspan="2" valign="top" rowspan="1">Male</td><td align="center" valign="top" rowspan="1" colspan="1">65 (15.0%)</td><td align="center" valign="top" rowspan="1" colspan="1">367 (85.0%)</td><td align="center" valign="top" rowspan="1" colspan="1">432 (100%)</td><td align="center" valign="top" rowspan="1" colspan="1"/></tr><tr><td align="left" style="padding-left:10%" colspan="2" valign="top" rowspan="1">Female</td><td align="center" valign="top" rowspan="1" colspan="1">170 (22.3%)</td><td align="center" valign="top" rowspan="1" colspan="1">594 (77.7%)</td><td align="center" valign="top" rowspan="1" colspan="1">764 (100%)</td><td align="center" valign="top" rowspan="1" colspan="1"/></tr><tr><td align="left" style="padding-left:10%" colspan="2" valign="top" rowspan="1">Non‐binary</td><td align="center" valign="top" rowspan="1" colspan="1">&lt; 5</td><td align="center" valign="top" rowspan="1" colspan="1">&lt; 5</td><td align="center" valign="top" rowspan="1" colspan="1">6 (100%)</td><td align="center" valign="top" rowspan="1" colspan="1"/></tr><tr><td align="left" style="padding-left:10%" colspan="2" valign="top" rowspan="1">Did not state</td><td align="center" valign="top" rowspan="1" colspan="1">&lt; 5</td><td align="center" valign="top" rowspan="1" colspan="1">&lt; 5</td><td align="center" valign="top" rowspan="1" colspan="1">&lt; 5</td><td align="center" valign="top" rowspan="1" colspan="1"/></tr><tr><td align="left" colspan="2" valign="top" rowspan="1">Employment</td><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1">0.006</td></tr><tr><td align="left" style="padding-left:10%" colspan="2" valign="top" rowspan="1">Employed</td><td align="center" valign="top" rowspan="1" colspan="1">178 (22.1%)</td><td align="center" valign="top" rowspan="1" colspan="1">626 (77.9%)</td><td align="center" valign="top" rowspan="1" colspan="1">804 (100%)</td><td align="center" valign="top" rowspan="1" colspan="1"/></tr><tr><td align="left" style="padding-left:10%" colspan="2" valign="top" rowspan="1">Unemployed</td><td align="center" valign="top" rowspan="1" colspan="1">62 (15.5%)</td><td align="center" valign="top" rowspan="1" colspan="1">339 (84.5%)</td><td align="center" valign="top" rowspan="1" colspan="1">401 (100%)</td><td align="center" valign="top" rowspan="1" colspan="1"/></tr><tr><td align="left" colspan="2" valign="top" rowspan="1">State/Territory</td><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1">0.20</td></tr><tr><td align="left" style="padding-left:10%" colspan="2" valign="top" rowspan="1">Australian Capital Territory</td><td align="center" valign="top" rowspan="1" colspan="1">38 (20.7%)</td><td align="center" valign="top" rowspan="1" colspan="1">146 (79.3%)</td><td align="center" valign="top" rowspan="1" colspan="1">184 (100%)</td><td align="center" valign="top" rowspan="1" colspan="1"/></tr><tr><td align="left" style="padding-left:10%" colspan="2" valign="top" rowspan="1">New South Wales</td><td align="center" valign="top" rowspan="1" colspan="1">30 (20.5%)</td><td align="center" valign="top" rowspan="1" colspan="1">116 (79.5%)</td><td align="center" valign="top" rowspan="1" colspan="1">146 (100%)</td><td align="center" valign="top" rowspan="1" colspan="1"/></tr><tr><td align="left" style="padding-left:10%" colspan="2" valign="top" rowspan="1">Northern Territory</td><td align="center" valign="top" rowspan="1" colspan="1">15 (22.7%)</td><td align="center" valign="top" rowspan="1" colspan="1">51 (77.3%)</td><td align="center" valign="top" rowspan="1" colspan="1">66 (100%)</td><td align="center" valign="top" rowspan="1" colspan="1"/></tr><tr><td align="left" style="padding-left:10%" colspan="2" valign="top" rowspan="1">Queensland</td><td align="center" valign="top" rowspan="1" colspan="1">29 (18.2%)</td><td align="center" valign="top" rowspan="1" colspan="1">130 (81.8%)</td><td align="center" valign="top" rowspan="1" colspan="1">159 (100%)</td><td align="center" valign="top" rowspan="1" colspan="1"/></tr><tr><td align="left" style="padding-left:10%" colspan="2" valign="top" rowspan="1">South Australia</td><td align="center" valign="top" rowspan="1" colspan="1">28 (17.3%)</td><td align="center" valign="top" rowspan="1" colspan="1">134 (82.7%)</td><td align="center" valign="top" rowspan="1" colspan="1">162 (100%)</td><td align="center" valign="top" rowspan="1" colspan="1"/></tr><tr><td align="left" style="padding-left:10%" colspan="2" valign="top" rowspan="1">Tasmania</td><td align="center" valign="top" rowspan="1" colspan="1">28 (23.7%)</td><td align="center" valign="top" rowspan="1" colspan="1">90 (76.3%)</td><td align="center" valign="top" rowspan="1" colspan="1">118 (100%)</td><td align="center" valign="top" rowspan="1" colspan="1"/></tr><tr><td align="left" style="padding-left:10%" colspan="2" valign="top" rowspan="1">Victoria</td><td align="center" valign="top" rowspan="1" colspan="1">35 (20.2%)</td><td align="center" valign="top" rowspan="1" colspan="1">138 (79.8%)</td><td align="center" valign="top" rowspan="1" colspan="1">173 (100%)</td><td align="center" valign="top" rowspan="1" colspan="1"/></tr><tr><td align="left" style="padding-left:10%" colspan="2" valign="top" rowspan="1">Western Australia</td><td align="center" valign="top" rowspan="1" colspan="1">37 (18.8%)</td><td align="center" valign="top" rowspan="1" colspan="1">160 (81.2%)</td><td align="center" valign="top" rowspan="1" colspan="1">197 (100%)</td><td align="center" valign="top" rowspan="1" colspan="1"/></tr><tr><td align="left" colspan="2" valign="top" rowspan="1">Vaccination status</td><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1">0.19</td></tr><tr><td align="left" style="padding-left:10%" colspan="2" valign="top" rowspan="1">Unvaccinated</td><td align="center" valign="top" rowspan="1" colspan="1">9 (14.1%)</td><td align="center" valign="top" rowspan="1" colspan="1">55 (85.9%)</td><td align="center" valign="top" rowspan="1" colspan="1">64 (100%)</td><td align="center" valign="top" rowspan="1" colspan="1"/></tr><tr><td align="left" style="padding-left:10%" colspan="2" valign="top" rowspan="1">1–2 dose(s)</td><td align="center" valign="top" rowspan="1" colspan="1">58 (24.2%)</td><td align="center" valign="top" rowspan="1" colspan="1">182 (75.8%)</td><td align="center" valign="top" rowspan="1" colspan="1">240 (100%)</td><td align="center" valign="top" rowspan="1" colspan="1"/></tr><tr><td align="left" style="padding-left:10%" colspan="2" valign="top" rowspan="1">3+ doses</td><td align="center" valign="top" rowspan="1" colspan="1">172 (19.3%)</td><td align="center" valign="top" rowspan="1" colspan="1">720 (80.7%)</td><td align="center" valign="top" rowspan="1" colspan="1">892 (100%)</td><td align="center" valign="top" rowspan="1" colspan="1"/></tr><tr><td align="left" style="padding-left:10%" colspan="2" valign="top" rowspan="1">Unsure whether received vaccines</td><td align="center" valign="top" rowspan="1" colspan="1">1 (11.1%)</td><td align="center" valign="top" rowspan="1" colspan="1">8 (88.9%)</td><td align="center" valign="top" rowspan="1" colspan="1">9 (100%)</td><td align="center" valign="top" rowspan="1" colspan="1"/></tr><tr><td align="left" colspan="2" valign="top" rowspan="1">Pre‐existing comorbidity<xref rid="hex70273-tbl1-note-0002" ref-type="table-fn">*</xref>
+</td><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1">&lt; 0.001</td></tr><tr><td align="left" style="padding-left:10%" colspan="2" valign="top" rowspan="1">Yes</td><td align="center" valign="top" rowspan="1" colspan="1">168 (24.1%)</td><td align="center" valign="top" rowspan="1" colspan="1">529 (75.9%)</td><td align="center" valign="top" rowspan="1" colspan="1">697 (100%)</td><td align="center" valign="top" rowspan="1" colspan="1"/></tr><tr><td align="left" style="padding-left:10%" colspan="2" valign="top" rowspan="1">No</td><td align="center" valign="top" rowspan="1" colspan="1">72 (14.2%)</td><td align="center" valign="top" rowspan="1" colspan="1">436 (85.8%)</td><td align="center" valign="top" rowspan="1" colspan="1">508 (100%)</td><td align="center" valign="top" rowspan="1" colspan="1"/></tr><tr><td align="left" colspan="2" valign="top" rowspan="1">Omicron as the cause of illness</td><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1">0.38</td></tr><tr><td align="left" style="padding-left:10%" colspan="2" valign="top" rowspan="1">Yes</td><td align="center" valign="top" rowspan="1" colspan="1">188 (19.4%)</td><td align="center" valign="top" rowspan="1" colspan="1">780 (80.6%)</td><td align="center" valign="top" rowspan="1" colspan="1">968 (100%)</td><td align="center" valign="top" rowspan="1" colspan="1"/></tr><tr><td align="left" style="padding-left:10%" colspan="2" valign="top" rowspan="1">No</td><td align="center" valign="top" rowspan="1" colspan="1">52 (21.9%)</td><td align="center" valign="top" rowspan="1" colspan="1">185 (78.1%)</td><td align="center" valign="top" rowspan="1" colspan="1">237 (100%)</td><td align="center" valign="top" rowspan="1" colspan="1"/></tr><tr><td align="left" colspan="2" valign="top" rowspan="1">Number of times with Covid‐19</td><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1">&lt; 0.001</td></tr><tr><td align="left" style="padding-left:10%" colspan="2" valign="top" rowspan="1">1 time</td><td align="center" valign="top" rowspan="1" colspan="1">180 (17.9%)</td><td align="center" valign="top" rowspan="1" colspan="1">828 (82.1%)</td><td align="center" valign="top" rowspan="1" colspan="1">1008 (100%)</td><td align="center" valign="top" rowspan="1" colspan="1"/></tr><tr><td align="left" style="padding-left:10%" colspan="2" valign="top" rowspan="1">2 times</td><td align="center" valign="top" rowspan="1" colspan="1">45 (27.8%)</td><td align="center" valign="top" rowspan="1" colspan="1">117 (72.2%)</td><td align="center" valign="top" rowspan="1" colspan="1">162 (100%)</td><td align="center" valign="top" rowspan="1" colspan="1"/></tr><tr><td align="left" style="padding-left:10%" colspan="2" valign="top" rowspan="1">≥ 3 times</td><td align="center" valign="top" rowspan="1" colspan="1">15 (42.9%)</td><td align="center" valign="top" rowspan="1" colspan="1">20 (57.1%)</td><td align="center" valign="top" rowspan="1" colspan="1">35 (100%)</td><td align="center" valign="top" rowspan="1" colspan="1"/></tr><tr><td align="left" colspan="2" valign="top" rowspan="1">Severity of acute Covid‐19</td><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1">&lt; 0.001</td></tr><tr><td align="left" style="padding-left:10%" colspan="2" valign="top" rowspan="1">Mild</td><td align="center" valign="top" rowspan="1" colspan="1">39 (9.2%)</td><td align="center" valign="top" rowspan="1" colspan="1">385 (90.8%)</td><td align="center" valign="top" rowspan="1" colspan="1">424 (100%)</td><td align="center" valign="top" rowspan="1" colspan="1"/></tr><tr><td align="left" style="padding-left:10%" colspan="2" valign="top" rowspan="1">Moderately severe</td><td align="center" valign="top" rowspan="1" colspan="1">131 (20.9%)</td><td align="center" valign="top" rowspan="1" colspan="1">497 (79.1%)</td><td align="center" valign="top" rowspan="1" colspan="1">628 (100%)</td><td align="center" valign="top" rowspan="1" colspan="1"/></tr><tr><td align="left" style="padding-left:10%" colspan="2" valign="top" rowspan="1">Extremely severe</td><td align="center" valign="top" rowspan="1" colspan="1">52 (42.6%)</td><td align="center" valign="top" rowspan="1" colspan="1">70 (57.4%)</td><td align="center" valign="top" rowspan="1" colspan="1">122 (100%)</td><td align="center" valign="top" rowspan="1" colspan="1"/></tr><tr><td align="left" style="padding-left:10%" colspan="2" valign="top" rowspan="1">Presented to ED/hospitalised</td><td align="center" valign="top" rowspan="1" colspan="1">18 (58.1%)</td><td align="center" valign="top" rowspan="1" colspan="1">13 (41.9%)</td><td align="center" valign="top" rowspan="1" colspan="1">31 (100%)</td><td align="center" valign="top" rowspan="1" colspan="1"/></tr><tr><td align="left" colspan="2" valign="top" rowspan="1">Antiviral medications</td><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1"/></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Molnupiravir used</td><td align="center" valign="top" rowspan="1" colspan="1">Yes</td><td align="center" valign="top" rowspan="1" colspan="1">19 (38.8%)</td><td align="center" valign="top" rowspan="1" colspan="1">30 (61.2%)</td><td align="center" valign="top" rowspan="1" colspan="1">49 (100%)</td><td align="center" valign="top" rowspan="1" colspan="1">0.001</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1"/><td style="padding-left:10%" align="center" valign="top" rowspan="1" colspan="1">No</td><td align="center" valign="top" rowspan="1" colspan="1">221 (19.1%)</td><td align="center" valign="top" rowspan="1" colspan="1">935 (80.9%)</td><td align="center" valign="top" rowspan="1" colspan="1">1156 (100%)</td><td align="center" valign="top" rowspan="1" colspan="1"/></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Paxlovid used</td><td align="center" valign="top" rowspan="1" colspan="1">Yes</td><td align="center" valign="top" rowspan="1" colspan="1">22 (28.2%)</td><td align="center" valign="top" rowspan="1" colspan="1">56 (71.8%)</td><td align="center" valign="top" rowspan="1" colspan="1">78 (100%)</td><td align="center" valign="top" rowspan="1" colspan="1">0.06</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1"/><td style="padding-left:10%" align="center" valign="top" rowspan="1" colspan="1">No</td><td align="center" valign="top" rowspan="1" colspan="1">218 (19.3%)</td><td align="center" valign="top" rowspan="1" colspan="1">909 (80.7%)</td><td align="center" valign="top" rowspan="1" colspan="1">1127 (100%)</td><td align="center" valign="top" rowspan="1" colspan="1"/></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Remdesivir used</td><td align="center" valign="top" rowspan="1" colspan="1">Yes</td><td align="center" valign="top" rowspan="1" colspan="1">7 (29.2%)</td><td align="center" valign="top" rowspan="1" colspan="1">17 (70.8%)</td><td align="center" valign="top" rowspan="1" colspan="1">24 (100%)</td><td align="center" valign="top" rowspan="1" colspan="1">0.25</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1"/><td style="padding-left:10%" align="center" valign="top" rowspan="1" colspan="1">No</td><td align="center" valign="top" rowspan="1" colspan="1">233 (19.7%)</td><td align="center" valign="top" rowspan="1" colspan="1">948 (80.3%)</td><td align="center" valign="top" rowspan="1" colspan="1">1181 (100%)</td><td align="center" valign="top" rowspan="1" colspan="1"/></tr><tr><td align="left" colspan="2" valign="top" rowspan="1">Steroid inhalers for Covid‐19 treatment</td><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1">&lt; 0.001</td></tr><tr><td align="left" style="padding-left:10%" colspan="2" valign="top" rowspan="1">Yes</td><td align="center" valign="top" rowspan="1" colspan="1">32 (46.4%)</td><td align="center" valign="top" rowspan="1" colspan="1">37 (53.6%)</td><td align="center" valign="top" rowspan="1" colspan="1">69 (100%)</td><td align="center" valign="top" rowspan="1" colspan="1"/></tr><tr><td align="left" style="padding-left:10%" colspan="2" valign="top" rowspan="1">No</td><td align="center" valign="top" rowspan="1" colspan="1">208 (18.3%)</td><td align="center" valign="top" rowspan="1" colspan="1">928 (81.7%)</td><td align="center" valign="top" rowspan="1" colspan="1">1136 (100%)</td><td align="center" valign="top" rowspan="1" colspan="1"/></tr><tr><td align="left" colspan="2" valign="top" rowspan="1">Monoclonal antibodies for Covid‐19 treatment</td><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1">&lt; 0.001</td></tr><tr><td align="left" style="padding-left:10%" colspan="2" valign="top" rowspan="1">Yes</td><td align="center" valign="top" rowspan="1" colspan="1">37 (52.9%)</td><td align="center" valign="top" rowspan="1" colspan="1">33 (47.1%)</td><td align="center" valign="top" rowspan="1" colspan="1">70 (100%)</td><td align="center" valign="top" rowspan="1" colspan="1"/></tr><tr><td align="left" style="padding-left:10%" colspan="2" valign="top" rowspan="1">No</td><td align="center" valign="top" rowspan="1" colspan="1">203 (17.9%)</td><td align="center" valign="top" rowspan="1" colspan="1">932 (82.1%)</td><td align="center" valign="top" rowspan="1" colspan="1">1135 (100%)</td><td align="center" valign="top" rowspan="1" colspan="1"/></tr></tbody></table><table-wrap-foot><fn id="hex70273-tbl1-note-0001"><p>
+<italic toggle="yes">Note:</italic> The Bonferroni corrected <italic toggle="yes">p</italic> value was 0.003, based on a 0.05 <italic toggle="yes">α</italic> level and 18 predictors.</p></fn><fn id="hex70273-tbl1-note-0002"><label>*</label><p>See Figure <xref rid="hex70273-suppl-0001" ref-type="supplementary-material">S2</xref> for a detailed breakdown of comorbidities.</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &amp; Sons, Ltd.</copyright-holder></permissions></table-wrap><p>Of the 240 participants with long Covid, a decline in health status was seen post‐Covid (Figure <xref rid="hex70273-suppl-0001" ref-type="supplementary-material">S3</xref> and Table <xref rid="hex70273-suppl-0001" ref-type="supplementary-material">S2</xref>), with a statistically significant proportion (52%) reporting a decline in health (<italic toggle="yes">p</italic> value &lt; 0.0001), only 1% reporting an improvement and 47% stable health post‐Covid (Figure <xref rid="hex70273-suppl-0001" ref-type="supplementary-material">S3</xref>). Tiredness was the most reported long Covid symptom (18.5%) followed by shortness of breath (12.0%) (Figure <xref rid="hex70273-suppl-0001" ref-type="supplementary-material">S4</xref>).</p><p>On multivariate regression (Figure <xref rid="hex70273-fig-0002" ref-type="fig">2</xref> and Tables <xref rid="hex70273-suppl-0001" ref-type="supplementary-material">S3</xref> and <xref rid="hex70273-suppl-0001" ref-type="supplementary-material">S4</xref>), severe acute Covid‐19 infection was a strong predictor of long Covid, with double the risk (2.23 [95% CI: 1.50–3.30], <italic toggle="yes">p</italic> = 0.0001) for moderately severe symptoms, nearly six times for extremely severe symptoms (5.80 [95% CI: 3.48–9.66], <italic toggle="yes">p</italic> = 0.0001), and seven times for presenting to ED (7.22 [95% CI: 3.06–17.03], <italic toggle="yes">p</italic> = 0.0001), compared to mild illness. Having at least one pre‐existing comorbidity was associated with twice the odds of long Covid (2.19 [95% CI: 1.56–3.08], <italic toggle="yes">p</italic> = 0.0001). Steroid inhaler and monoclonal antibody use for the treatment of Covid‐19 were associated with higher risk (2.34 [95% CI: 1.29–4.24], <italic toggle="yes">p</italic> = 0.005 and 3.24 [95% CI: 1.74–6.02], <italic toggle="yes">p</italic> = 0.001, respectively). Age, female gender and steroid inhaler use were nominally associated with higher risk of long Covid. However, these differences were not statistically significant after Bonferroni multiple correction. However, female gender and steroid inhaler use were statistically significant when using the less conservative Benjamini–Hochberg correction (Table <xref rid="hex70273-suppl-0001" ref-type="supplementary-material">S3</xref>). Model 1 (the full model with all pre‐specified variables) and Model 2 (limited model following backwards stepwise regression) both showed consistent effect estimates (Tables <xref rid="hex70273-suppl-0001" ref-type="supplementary-material">S3</xref> and <xref rid="hex70273-suppl-0001" ref-type="supplementary-material">S4</xref>). Sensitivity analyses with re‐categorised variables (vaccination status, number of times with Covid‐19 infection and age) produced similar results as Model 1 (Tables <xref rid="hex70273-suppl-0001" ref-type="supplementary-material">S5</xref>, <xref rid="hex70273-suppl-0001" ref-type="supplementary-material">S6</xref> and <xref rid="hex70273-suppl-0001" ref-type="supplementary-material">S7</xref>
+<italic toggle="yes">)</italic>.</p><fig position="float" fig-type="Figure" id="hex70273-fig-0002" orientation="portrait"><label>Figure 2</label><caption><p>Predictors of long Covid—multivariable regression model (Model 2).</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-3" orientation="portrait" xlink:href="HEX-28-e70273-g003.jpg"/></fig><p>Exploratory analyses examining the role of confounding between the association between monoclonal antibody use and long Covid risk showed that monoclonal antibody use was disproportionately overrepresented in those with severe symptoms, or emergency department attendance or hospitalisation, compared to those with mild or moderate symptoms (Table <xref rid="hex70273-suppl-0001" ref-type="supplementary-material">S8</xref>). Similarly, monoclonal antibody use was also overrepresented among those with one or more comorbidities (Table <xref rid="hex70273-suppl-0001" ref-type="supplementary-material">S9</xref>). Sensitivity analyses within strata of severity showed a statistically significant strong positive association between monoclonal antibody use and long Covid within the mild strata of acute Covid‐19 severity (<italic toggle="yes">p</italic> = 0.001) (Table <xref rid="hex70273-suppl-0001" ref-type="supplementary-material">S10</xref>). However, within strata of comorbidities, no statistically significant association was observed between monoclonal antibody use and long Covid (Table <xref rid="hex70273-suppl-0001" ref-type="supplementary-material">S11</xref>), although the association was nominally significant (not attaining the threshold for Bonferroni correction) among participants with two or more comorbidities.</p><p>We found no material difference between long‐Covid symptoms for participants reporting their first infection in the pre‐Omicron versus Omicron era, except for palpitations, which were more common in those reporting infection in the pre‐Omicron period (6.3%) compared to those in the Omicron period (1.7%), where the difference was statistically significant (<italic toggle="yes">p</italic> &lt; 0.003) (Table <xref rid="hex70273-suppl-0001" ref-type="supplementary-material">S12</xref>).</p><sec id="hex70273-sec-0200"><label>3.1</label><title>Clustering Analysis</title><p>Both clustering methods identified two clusters as the optimal number of clusters (Figures <xref rid="hex70273-suppl-0001" ref-type="supplementary-material">S1</xref> and <xref rid="hex70273-suppl-0001" ref-type="supplementary-material">S5</xref>), with a Jaccard's coefficient of 0.86 between methods, suggesting high concordance between the two methods (Figure <xref rid="hex70273-suppl-0001" ref-type="supplementary-material">S6</xref>). The Jaccard's coefficient for the clusters within each method was 1.00. As the representation of clusters and functional correlates of these clusters was similar across the two methods, we primarily present results from PAM clustering here (Tables <xref rid="hex70273-suppl-0001" ref-type="supplementary-material">S13–S14</xref> and Figure <xref rid="hex70273-suppl-0001" ref-type="supplementary-material">S7</xref>). Results from hierarchical clustering were consistent with this and can be found in <xref rid="hex70273-suppl-0001" ref-type="supplementary-material">Supporting Information</xref> (Figures <xref rid="hex70273-suppl-0001" ref-type="supplementary-material">S8–S11</xref> and Tables <xref rid="hex70273-suppl-0001" ref-type="supplementary-material">S15–S17</xref>).</p><p>For PAM clustering, 236 participants with long Covid were included, with 170 participants assigned to one cluster and 66 to another cluster, with an average silhouette width of 0.39 (Figure <xref rid="hex70273-suppl-0001" ref-type="supplementary-material">S5</xref>). We designate these clusters broadly as pauci‐symptomatic and polysymptomatic, as the primary difference between them appears to be number of symptoms reported by participants (median [IQR] symptom count: 3 [1–4] vs. 9 [7–11], <italic toggle="yes">H</italic> = 137.13, <italic toggle="yes">p</italic> = 0.001) (Figure <xref rid="hex70273-suppl-0001" ref-type="supplementary-material">S7</xref>). Both clusters had a median (IQR) symptom duration of 3 [2–5] months.</p><p>On comparing baseline characteristics, the polysymptomatic cluster had a higher proportion of female participants (<italic toggle="yes">χ</italic>
+<sup>2</sup> = 4.91, <italic toggle="yes">p</italic> = 0.03), although this was only nominally significant, and did not attain statistical significance after multiple testing correction. The polysymptomatic cluster also had more participants with severe acute infection (<italic toggle="yes">χ</italic>
+<sup>2</sup> = 22.73, <italic toggle="yes">p</italic> = 0.001) and were less likely to have received monoclonal antibody treatment (<italic toggle="yes">χ</italic>
+<sup>2</sup> = 15.43, <italic toggle="yes">p</italic> = 0.001) (Figure <xref rid="hex70273-fig-0003" ref-type="fig">3</xref>).</p><fig position="float" fig-type="Figure" id="hex70273-fig-0003" orientation="portrait"><label>Figure 3</label><caption><p>Characteristics of long Covid participants belonging to the pauci‐symptomatic and polysymptomatic clusters at the time of survey. Kruskal–Wallis test was applied to non‐normally distributed continuous variables and ordinal variables. Pearson's <italic toggle="yes">χ</italic>
+<sup>2</sup> was applied to categorical predictor variables. Categories with cell counts less than 5 were excluded from analysis, which included ‘Gender: Non‐binary’. For a detailed frequency table, see Table <xref rid="hex70273-suppl-0001" ref-type="supplementary-material">S13</xref>. *<italic toggle="yes">p</italic> value &lt; 0.05, **<italic toggle="yes">p</italic> value &lt; 0.001.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-5" orientation="portrait" xlink:href="HEX-28-e70273-g002.jpg"/></fig><p>In multivariate analysis of predictors of polysymptomatic cluster membership, having Severity of acute infection (extremely severe symptoms in acute infection) was significantly associated with cluster membership (OR = 5.72, 95% CI: 2.04–17.58, <italic toggle="yes">p</italic> = 0.001), and monoclonal antibody treatment was significantly associated with pauci‐symptomatic cluster membership (OR = 0.02, 95% CI: 0.00–0.13, <italic toggle="yes">p</italic> = 0.0001) (Figure <xref rid="hex70273-fig-0004" ref-type="fig">4</xref>). Female gender became non‐significant in multivariate analysis.</p><fig position="float" fig-type="Figure" id="hex70273-fig-0004" orientation="portrait"><label>Figure 4</label><caption><p>Forest plot showing adjusted odds ratios and 95% confidence interval for predictors of polysymptomatic cluster membership (PAM method). Blue squares indicate the odds ratio, and horizontal lines depict the 95% confidence interval.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-7" orientation="portrait" xlink:href="HEX-28-e70273-g005.jpg"/></fig><p>Regarding functional outcomes, polysymptomatic cluster membership was associated with significantly poorer physical outcomes (limitations with moderate activities [<italic toggle="yes">χ</italic>
+<sup>2</sup> = 14.12, <italic toggle="yes">p</italic> = 0.001] and climbing stairs [<italic toggle="yes">χ</italic>
+<sup>2</sup> = 9.59, <italic toggle="yes">p</italic> = 0.002]), work‐related impacts (more likely to work less carefully [<italic toggle="yes">χ</italic>
+<sup>2</sup> = 9.03, <italic toggle="yes">p</italic> = 0.003], accomplish less work [<italic toggle="yes">χ</italic>
+<sup>2</sup> = 13.0, <italic toggle="yes">p</italic> = 0.001] and report pain interfering with work [<italic toggle="yes">χ</italic>
+<sup>2</sup> = 7.53, <italic toggle="yes">p</italic> = 0.006]) (Figure <xref rid="hex70273-fig-0005" ref-type="fig">5A</xref>), emotional status (less likely to feel calm, peaceful [<italic toggle="yes">χ</italic>
+<sup>2</sup> = 12.66, <italic toggle="yes">p</italic> = 0.001] or energetic [<italic toggle="yes">χ</italic>
+<sup>2</sup> = 21, <italic toggle="yes">p</italic> = 0.001] during the last 4 weeks) and social impacts (more likely to report physical or emotional problems interfering with social activities [<italic toggle="yes">χ</italic>
+<sup>2</sup> = 4.99, <italic toggle="yes">p</italic> = 0.03]) (Figure <xref rid="hex70273-fig-0005" ref-type="fig">5B</xref>), although this was nominally significant and did not attain statistical significance after multiple testing correction.</p><fig position="float" fig-type="Figure" id="hex70273-fig-0005" orientation="portrait"><label>Figure 5</label><caption><p>(A–D) Functional correlates and post‐COVID outcomes of long COVID participants belonging to the pauci‐symptomatic and polysymptomatic clusters. Kruskal–Wallis test was applied to non‐normally distributed continuous variables and ordinal variables. Pearson's <italic toggle="yes">χ</italic>
+<sup>2</sup> was applied to categorical predictor variables. Categories with cell counts less than 5 were excluded from analysis, which included ‘Change in health self‐rating post‐COVID: Improved’. For a detailed frequency table, see Table <xref rid="hex70273-suppl-0001" ref-type="supplementary-material">S14</xref>. *<italic toggle="yes">p</italic> value &lt; 0.05, **<italic toggle="yes">p</italic> value &lt; 0.001.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-9" orientation="portrait" xlink:href="HEX-28-e70273-g004.jpg"/></fig><p>Polysymptomatic cluster membership was associated with poor reported health at baseline, with a higher proportion of participants reporting their pre‐infection health status as ‘Poor’ (18/66 [27.27%]), compared to those in the pauci‐symptomatic cluster (23/170 [13.53%]) (Table <xref rid="hex70273-suppl-0001" ref-type="supplementary-material">S13</xref>). Those in the polysymptomatic cluster were also more likely to report worsening in health post‐infection compared to baseline (<italic toggle="yes">χ</italic>
+<sup>2</sup> = 5.50, <italic toggle="yes">p</italic> = 0.02) (Figure <xref rid="hex70273-fig-0005" ref-type="fig">5C</xref>) and self‐report poorer health status post‐infection (<italic toggle="yes">χ</italic>
+<sup>2</sup> = 25.28, <italic toggle="yes">p</italic> = 0.001) (Figure <xref rid="hex70273-fig-0005" ref-type="fig">5D</xref>).</p></sec></sec><sec sec-type="discussion" id="hex70273-sec-0210"><label>4</label><title>Discussion</title><p>Long Covid was found to impact adults of all age groups in our survey, with a prevalence of nearly 20% in a highly vaccinated population. These findings are consistent with other studies [<xref rid="hex70273-bib-0017" ref-type="bibr">17</xref>, <xref rid="hex70273-bib-0031" ref-type="bibr">31</xref>], adding to a growing evidence base that suggests the prevalence of long Covid post‐Omicron infection is higher than previously thought and affects all age groups. We found that the Omicron variant was not significantly different to prior variants in causing long Covid, despite previous studies suggesting that the Omicron variant is associated with a decreased long‐Covid risk compared to the Delta variant, even at 6 months post‐vaccination [<xref rid="hex70273-bib-0030" ref-type="bibr">30</xref>]. Although Omicron is believed to be associated with less severe acute infection [<xref rid="hex70273-bib-0029" ref-type="bibr">29</xref>], our findings support evidence that its health impacts may still be substantial, particularly in the form of long Covid, and should not be neglected, even as countries downgrade their severity ratings of SARS‐CoV‐2 infection.</p><p>Consistent with previous studies, we also found that female gender, re‐infection, pre‐existing conditions and more severe acute infection were associated with developing long Covid [<xref rid="hex70273-bib-0016" ref-type="bibr">16</xref>, <xref rid="hex70273-bib-0050" ref-type="bibr">50</xref>, <xref rid="hex70273-bib-0051" ref-type="bibr">51</xref>]. Women have a fast‐acting, innate and adaptive immune system, which usually protects from initial disease but also increases the risk of chronic immune‐related disorders [<xref rid="hex70273-bib-0052" ref-type="bibr">52</xref>], and they may also have higher exposure to the virus due to caring roles. While abundant research supports that vaccination is associated with reduced long Covid severity and social, personal and work impacts, we did not find an association with vaccination. This may be due to very few participants being unvaccinated, the likely lengthy delays since last booster/vaccination, or residual confounding (e.g., those with pre‐existing conditions are more likely to be vaccinated and to also get long Covid). Most people who reported three vaccination doses would likely have received their last dose at least 6 months before the survey, and a further booster was not yet available at the time of the survey. Immunity to boosters wanes rapidly, even after a third or fourth dose [<xref rid="hex70273-bib-0053" ref-type="bibr">53</xref>]. More research is therefore required to ascertain the relationship between the recency of vaccination and matching of boosters to circulating variants and long‐Covid risk. This is relevant to Australia, where in September 2023, further boosters were only recommended for people aged 75 years and older. For people aged 65–74 years, a booster can be considered 6 months after the last dose or infection, and for people &lt; 65 years, if they are severely immunosuppressed [<xref rid="hex70273-bib-0054" ref-type="bibr">54</xref>]. Our research suggests adults of any age are at risk of long Covid, which should be considered in vaccination policy for all ages.</p><p>Antiviral medication has also been found to reduce long Covid risk in unvaccinated and vaccinated cases [<xref rid="hex70273-bib-0055" ref-type="bibr">55</xref>, <xref rid="hex70273-bib-0056" ref-type="bibr">56</xref>]. However, we found that antivirals were not associated with lower long‐Covid risk, possibly because few participants received antivirals, thus rendering the study underpowered for this predictor, or possibly due to residual confounding, as we discuss subsequently. Monoclonal antibodies were found to be associated with an increased risk of long Covid. This is likely due to residual confounding by the presence of health conditions and acute Covid‐19 severity, which was associated both with antiviral use, monoclonal antibody use and a higher probability of long Covid. Stratifying by the number of comorbidities rendered the association between monoclonal antibodies and long Covid non‐significant (with effect size reduced), although this may also be partly due to reduced statistical power due to smaller numbers within strata.</p><p>The exploratory clustering analysis in this study is novel as it assesses phenotypic differences in long Covid patients and their associated baseline characteristics and functional outcomes in a highly vaccinated Australian cohort predominantly infected with Omicron. We identified robust, reproducible and clinically significant clusters of long Covid symptoms. The strong association of the polysymptomatic cluster with more long Covid symptoms and poorer functional outcomes suggests a more severe and multisystemic symptom profile in a smaller subgroup of long Covid patients, consistent with other studies [<xref rid="hex70273-bib-0057" ref-type="bibr">57</xref>]. We show that monoclonal antibody use predicts pauci‐symptomatic cluster membership, suggesting a potentially moderating impact on long Covid symptoms, while more severe acute Covid‐19 disease predicts polysymptomatic cluster membership, which is also associated with poorer physical, emotional, social and occupational impacts. Whichever subgroup one belongs to, therefore, may be determined by a combination of factors, including the severity of acute infection and access to treatment. Understanding these subgroups and their predictors may help clinicians to prioritise patients for diagnostics, specialist referral and more aggressive management.</p><p>Our study has several limitations. Our survey may not be generally representative of the Australian population, particularly in terms of geographical location and gender. Most respondents (<italic toggle="yes">n</italic> = 197 [16.3%]) were from Western Australia (the fourth‐most populous state/territory), and New South Wales had 146 respondents (12.1%), despite accounting for 31.4% of Australia's population [<xref rid="hex70273-bib-0058" ref-type="bibr">58</xref>]. Participants were mostly female (<italic toggle="yes">n</italic> = 764 [63.4%]). However, the age distribution and median age of participants (41.0 vs. 38.5 years) and proportion of participants working in healthcare (15.9%) were similar to the general population [<xref rid="hex70273-bib-0058" ref-type="bibr">58</xref>, <xref rid="hex70273-bib-0059" ref-type="bibr">59</xref>]. Participants were also asked to describe their gender; thus, we could not assess the relationship between sex and long Covid. However, many studies have also reported on the relationship between gender and long Covid [<xref rid="hex70273-bib-0017" ref-type="bibr">17</xref>, <xref rid="hex70273-bib-0028" ref-type="bibr">28</xref>]. This likely reflects known differences in immunological responses between males and females, with stronger innate immune responses and greater autoimmunity reported in females, influencing the variability in the incidence of autoimmune diseases between sexes [<xref rid="hex70273-bib-0052" ref-type="bibr">52</xref>]. Next, our long Covid definition differs from the Delphi consensus definition, due to the slightly different phrasing of the question, which may lead to inclusion of participants who had continuous symptoms for 2 months post‐Covid that resolved within 3 months (i.e., participants who did not have symptoms at 3 months). While symptoms lasting for 2 months are likely functionally significant to the individual, this may have inflated our estimate of long Covid prevalence relative to the Delphi definition, which requires symptoms to be present at the 3‐month point. Additionally, questions relating to long Covid were asked only of patients who reported testing positive for SARS‐CoV‐2, thus, baseline rates of symptoms could not be determined for those who did not test positive. Non‐response rates also could not be calculated, as Dynata does not provide the total number of survey recipients. Furthermore, recall bias may be present, as patients' SARS‐CoV‐2 infections and symptoms may have happened many months ago. Although we used logistic regression and sensitivity analyses to adjust and assess for confounding, our results could have been affected by residual confounding due to unmeasured confounders, such as time since last Covid‐19 vaccination and acute infection and measurement error in measured confounders. Some data (e.g., median duration of symptoms) were only collected for those who reported having persistent symptoms, so we could not conduct comparisons for such variables between those with and without long Covid. As patient characteristics (e.g., employment) were collected at the point of survey, this may lead to reverse association bias, as characteristics may have been measured following the development of long Covid and may be caused by long Covid, rather than the reverse. We did not collect the dates of each repeat infection, thus, the total number of infections may not indicate the cumulative number of infections before developing long Covid, as long Covid could have developed before the most recent infection. It is also possible that a patient's first and any subsequent infection(s) were caused by different SARS‐CoV‐2 variants. These limitations are expected to have led to misclassification bias, which would have biased results towards the null. There is also a possibility of recall bias for exposures, given that exposures and health status were recalled following infection and/or development of long Covid, which may potentially bias results away from the null. Regarding the clustering analysis based on long Covid symptoms experienced, it is possible that the milder symptom profile in the pauci‐symptomatic cluster may be a result of treatment received, as we found a strong association with monoclonal antibody treatment. We note that while the pauci‐symptomatic cluster is strongly associated with treatment, causality cannot be inferred, given the cross‐sectional and observational nature of our survey. Further research is required to elucidate the effect of multiple infections, possibly due to multiple variants, on long Covid risk and severity, such as investigating whether multiple infections impede recovery from long Covid caused by an earlier infection or if subsequent infections indeed increase long Covid risk. Lastly, as the study is observational, causality between the predictors and the outcome of long Covid cannot be examined.</p><p>Overall, our study shows that long Covid is an important health burden in Australia and identifies several potential risk factors for its occurrence and severity. Our findings can inform diagnosis, referral and management of patients based on the cumulative number of symptoms, particularly if combined with better organ system‐based pathological and diagnostic protocols [<xref rid="hex70273-bib-0060" ref-type="bibr">60</xref>]. These findings could also inform policies to protect vulnerable populations, including minimising community transmission, ensuring adequate vaccination coverage and treatment access, particularly for severe acute Covid‐19 infection, producing decision‐support tools for assessing individual long Covid risk and guidelines for long Covid management. Further research is warranted to examine the impact of more recent vaccination, particularly in adults of working age, and multiple SARS‐CoV‐2 infections on long Covid outcomes.</p></sec><sec sec-type="conclusions" id="hex70273-sec-0220"><label>5</label><title>Conclusion</title><p>This study provides further evidence that long Covid presents an important health burden for Australian Covid‐19 survivors of all ages. The Omicron variant appears as likely to cause long Covid as prior variants. We identified several risk factors for long Covid occurrence and severity and found a smaller subgroup of patients who appear to experience a more severe, polysymptomatic profile. Public health policy should support diagnostic, preventive and therapeutic measures for reducing long Covid risk and severity.</p></sec><sec id="hex70273-sec-0230"><title>Author Contributions</title><p>
+<bold>Essa Tawfiq:</bold> methodology, writing – original draft, writing – review and editing, formal analysis, investigation, data curation, visualization. <bold>Rosalie Chen:</bold> methodology, investigation, visualization, formal analysis, writing – review and editing, writing – original draft, data curation. <bold>Damian Alexander Honeyman:</bold> writing – original draft, writing – review and editing, methodology, formal analysis, investigation, visualization, data curation. <bold>Rebecca Dawson:</bold> methodology, formal analysis, investigation. <bold>Mohana Kunasekaran:</bold> writing – review and editing, methodology. <bold>Adriana Notaras:</bold> writing – review and editing, methodology. <bold>Deepti Gurdasani:</bold> methodology, supervision, writing – review and editing, data curation, investigation, writing – original draft. <bold>Helen Skouteris:</bold> conceptualization, writing – review and editing. <bold>Darshini Ayton:</bold> conceptualization, writing – review and editing. <bold>Chandini Raina MacIntyre:</bold> conceptualization, methodology, resources, funding acquisition, writing – review and editing, supervision, data curation, investigation, writing – original draft.</p></sec><sec id="hex70273-sec-0250"><title>Ethics Statement</title><p>This study was approved by the UNSW Human Research Ethics Committee (approval number <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmc:entrez-nucleotide" xlink:href="HC220737">HC220737</ext-link>).</p></sec><sec sec-type="COI-statement" id="hex70273-sec-0260"><title>Conflicts of Interest</title><p>E.T., R.C., D.A.H., R.D., M.K., A.N., H.S. and D.A. authors declare no conflicts of interest. D.G. is a member of OzSAGE. C.R.M. is on the WHO COVID‐19 Vaccine Composition Technical Advisory Group and the WHO SAGE Working Group on Smallpox and Monkeypox. She receives funding from Sanofi for influenza and pertussis research and from NHMRC and MRFF.</p></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material id="hex70273-suppl-0001" position="float" content-type="local-data" orientation="portrait"><caption><p>Supporting Materials‐29Mar2025.</p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="HEX-28-e70273-s001.docx" position="float" orientation="portrait"/></supplementary-material></sec></body><back><ack id="hex70273-sec-0240"><title>Acknowledgements</title><p>E.T., R.C., D.A.H., R.D., M.K., A.N. and D.G. are supported by the Balvi Filantropic Fund. C.R.M. is funded by NHMRC Investigator Grant 2016907. D.A.H. and A.N. are funded through MRFF (grant ID 2017048). The funding sources had no role in the study design, data collection, analysis or interpretation, reporting or publication of this study. Open access publishing facilitated by University of New South Wales, as part of the Wiley ‐ University of New South Wales agreement via the Council of Australian University Librarians.</p></ack><sec sec-type="data-availability" id="hex70273-sec-0280"><title>Data Availability Statement</title><p>The authors have nothing to report.</p></sec><ref-list content-type="cited-references" id="hex70273-bibl-0001"><title>References</title><ref id="hex70273-bib-0001"><label>1</label><mixed-citation publication-type="journal" id="hex70273-cit-0001">
+<string-name name-style="western">
+<given-names>S. L.</given-names>
+<surname>Chang</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Q. D.</given-names>
+<surname>Nguyen</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Martiniuk</surname>
+</string-name>, <string-name name-style="western">
+<given-names>V.</given-names>
+<surname>Sintchenko</surname>
+</string-name>, <string-name name-style="western">
+<given-names>T. C.</given-names>
+<surname>Sorrell</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Prokopenko</surname>
+</string-name>, “<article-title>Persistence of the Omicron Variant of SARS‐CoV‐2 in Australia: The Impact of Fluctuating Social Distancing. PLOS Glob</article-title>,” <source>PLOS Global Public Health</source>
+<volume>3</volume>, no. <issue>4</issue> (<year>2023</year>): <elocation-id>e0001427</elocation-id>.<pub-id pub-id-type="pmid">37068078</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1371/journal.pgph.0001427</pub-id><pub-id pub-id-type="pmcid">PMC10109475</pub-id></mixed-citation></ref><ref id="hex70273-bib-0002"><label>2</label><mixed-citation publication-type="miscellaneous" id="hex70273-cit-0002">
+<collab collab-type="authors">World Health Organization</collab>
+. “A Clinical Case Definition of Post COVID‐19 Condition by a Delphi Consensus,” retrieved November 6, 2022, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.who.int/publications/i/item/WHO-2019-nCoV-Post_COVID-19_condition-Clinical_case_definition-2021.1" ext-link-type="uri">https://www.who.int/publications/i/item/WHO-2019-nCoV-Post_COVID-19_condition-Clinical_case_definition-2021.1</ext-link>.</mixed-citation></ref><ref id="hex70273-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="hex70273-cit-0003">
+<string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Munblit</surname>
+</string-name>, <string-name name-style="western">
+<given-names>T. R.</given-names>
+<surname>Nicholson</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D. M.</given-names>
+<surname>Needham</surname>
+</string-name>, et al., “<article-title>Studying the Post‐COVID‐19 Condition: Research Challenges, Strategies, and Importance of Core Outcome Set Development</article-title>,” <source>BMC Medicine</source>
+<volume>20</volume>, no. <issue>1</issue> (<year>2022</year>): <fpage>50</fpage>.<pub-id pub-id-type="pmid">35114994</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1186/s12916-021-02222-y</pub-id><pub-id pub-id-type="pmcid">PMC8813480</pub-id></mixed-citation></ref><ref id="hex70273-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="hex70273-cit-0004">
+<string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S. R.</given-names>
+<surname>Haupert</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Zimmermann</surname>
+</string-name>, <string-name name-style="western">
+<given-names>X.</given-names>
+<surname>Shi</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L. G.</given-names>
+<surname>Fritsche</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>B.</given-names>
+<surname>Mukherjee</surname>
+</string-name>, “<article-title>Global Prevalence of Post‐Coronavirus Disease 2019 (COVID‐19) Condition or Long Covid: A Meta‐Analysis and Systematic Review</article-title>,” <source>Journal of Infectious Diseases</source>
+<volume>226</volume>, no. <issue>9</issue> (<year>2022</year>): <fpage>1593</fpage>–<lpage>1607</lpage>.<pub-id pub-id-type="pmid">35429399</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/infdis/jiac136</pub-id><pub-id pub-id-type="pmcid">PMC9047189</pub-id></mixed-citation></ref><ref id="hex70273-bib-0005"><label>5</label><mixed-citation publication-type="miscellaneous" id="hex70273-cit-0005">
+<string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Adjaye‐Gbewonyo</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Vahratian</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C. G.</given-names>
+<surname>Perrine</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Bertolli</surname>
+</string-name>, “Long COVID in Adults: United States, 2022,” NCHS Data Brief, no 480 (National Center for Health Statistics, <year>2023</year>), <pub-id pub-id-type="doi">10.15620/cdc:132417</pub-id>.<pub-id pub-id-type="pmid">37756137</pub-id></mixed-citation></ref><ref id="hex70273-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="hex70273-cit-0006">
+<string-name name-style="western">
+<given-names>Z.</given-names>
+<surname>Fang</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Ahrnsbrak</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Rekito</surname>
+</string-name>, “<article-title>Evidence Mounts That About 7% of US Adults Have Had Long COVID</article-title>,” <source>Journal of the American Medical Association</source>
+<volume>332</volume>, no. <issue>1</issue> (<year>2024</year>): <fpage>5</fpage>–<lpage>6</lpage>.<pub-id pub-id-type="pmid">38848092</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1001/jama.2024.11370</pub-id></mixed-citation></ref><ref id="hex70273-bib-0007"><label>7</label><mixed-citation publication-type="miscellaneous" id="hex70273-cit-0007">
+<collab collab-type="authors">National Center for Health Statistics</collab>
+. U.S. Census Bureau, Household Pulse Survey, 2022–2024. Long COVID. <year>2024</year>, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.cdc.gov/nchs/covid19/pulse/long-covid.htm" ext-link-type="uri">https://www.cdc.gov/nchs/covid19/pulse/long-covid.htm</ext-link>.</mixed-citation></ref><ref id="hex70273-bib-0008"><label>8</label><mixed-citation publication-type="miscellaneous" id="hex70273-cit-0008">
+<collab collab-type="authors">Office for National Statistics</collab>
+. Prevalence of Ongoing Symptoms Following Coronavirus (COVID‐19) Infection in the UK: 30 March 2023, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/bulletins/prevalenceofongoingsymptomsfollowingcoronaviruscovid19infectionintheuk/30march2023" ext-link-type="uri">https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/bulletins/prevalenceofongoingsymptomsfollowingcoronaviruscovid19infectionintheuk/30march2023</ext-link>.</mixed-citation></ref><ref id="hex70273-bib-0009"><label>9</label><mixed-citation publication-type="book" id="hex70273-cit-0009">
+<string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Vahratian</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Adjaye‐Gbewonyo</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J. S.</given-names>
+<surname>Lin</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Saydah</surname>
+</string-name>, “<part-title>Long COVID in Children: United States, 2022</part-title>,“ <article-title>NCHS Data Brief, no 479</article-title> (<publisher-name>National Center for Health Statistics</publisher-name>, <year>2023</year>), <pub-id pub-id-type="doi">10.15620/cdc:132416</pub-id>.<pub-id pub-id-type="pmid">37756128</pub-id></mixed-citation></ref><ref id="hex70273-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="hex70273-cit-0010">
+<string-name name-style="western">
+<given-names>Z.</given-names>
+<surname>Al‐Aly</surname>
+</string-name>, <string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Davis</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L.</given-names>
+<surname>McCorkell</surname>
+</string-name>, et al., “<article-title>Long COVID Science, Research and Policy</article-title>,” <source>Nature Medicine</source>
+<volume>30</volume>, no. <issue>8</issue> (<year>2024</year>): <fpage>2148</fpage>–<lpage>2164</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41591-024-03173-6</pub-id><pub-id pub-id-type="pmid">39122965</pub-id></mixed-citation></ref><ref id="hex70273-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="hex70273-cit-0011">
+<string-name name-style="western">
+<given-names>S. R.</given-names>
+<surname>Stein</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S. C.</given-names>
+<surname>Ramelli</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Grazioli</surname>
+</string-name>, et al., “<article-title>SARS‐CoV‐2 Infection and Persistence in the Human Body and Brain at Autopsy</article-title>,” <source>Nature</source>
+<volume>612</volume> (<year>2022</year>): <fpage>758</fpage>–<lpage>763</lpage>.<pub-id pub-id-type="pmid">36517603</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41586-022-05542-y</pub-id><pub-id pub-id-type="pmcid">PMC9749650</pub-id></mixed-citation></ref><ref id="hex70273-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="hex70273-cit-0012">
+<string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Fernández‐de‐las‐Peñas</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A. V.</given-names>
+<surname>Raveendran</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Giordano</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Arendt‐Nielsen</surname>
+</string-name>, “<article-title>Long COVID or post‐COVID‐19 Condition: Past, Present and Future Research Directions</article-title>,” <source>Microorganisms</source>
+<volume>11</volume>, no. <issue>12</issue> (<year>2023</year>): <fpage>2959</fpage>.<pub-id pub-id-type="pmid">38138102</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3390/microorganisms11122959</pub-id><pub-id pub-id-type="pmcid">PMC10745830</pub-id></mixed-citation></ref><ref id="hex70273-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="hex70273-cit-0013">
+<string-name name-style="western">
+<given-names>L. L.</given-names>
+<surname>O'Mahoney</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Routen</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Gillies</surname>
+</string-name>, et al., “<article-title>The Prevalence and Long‐Term Health Effects of Long Covid Among Hospitalised and Non‐Hospitalised Populations: A Systematic Review and Meta‐Analysis</article-title>,” <source>eClinicalMedicine</source>
+<volume>55</volume> (<year>2023</year>): <elocation-id>101762</elocation-id>.<pub-id pub-id-type="pmid">36474804</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.eclinm.2022.101762</pub-id><pub-id pub-id-type="pmcid">PMC9714474</pub-id></mixed-citation></ref><ref id="hex70273-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="hex70273-cit-0014">
+<string-name name-style="western">
+<given-names>H. E.</given-names>
+<surname>Davis</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L.</given-names>
+<surname>McCorkell</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J. M.</given-names>
+<surname>Vogel</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>E. J.</given-names>
+<surname>Topol</surname>
+</string-name>, “<article-title>Long COVID: Major Findings, Mechanisms and Recommendations</article-title>,” <source>Nature Reviews Microbiology</source>
+<volume>21</volume>, no. <issue>3</issue> (<year>2023</year>): <fpage>133</fpage>–<lpage>146</lpage>.<pub-id pub-id-type="pmid">36639608</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41579-022-00846-2</pub-id><pub-id pub-id-type="pmcid">PMC9839201</pub-id></mixed-citation></ref><ref id="hex70273-bib-0015"><label>15</label><mixed-citation publication-type="journal" id="hex70273-cit-0015">
+<string-name name-style="western">
+<given-names>C. E.</given-names>
+<surname>Hastie</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D. J.</given-names>
+<surname>Lowe</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>McAuley</surname>
+</string-name>, et al., “<article-title>Outcomes Among Confirmed Cases and a Matched Comparison Group in the Long‐COVID in Scotland Study</article-title>,” <source>Nature Communications</source>
+<volume>13</volume>, no. <issue>1</issue> (<year>2022</year>): <fpage>5663</fpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41467-022-33415-5</pub-id><pub-id pub-id-type="pmcid">PMC9556711</pub-id><pub-id pub-id-type="pmid">36224173</pub-id></mixed-citation></ref><ref id="hex70273-bib-0016"><label>16</label><mixed-citation publication-type="journal" id="hex70273-cit-0016">
+<string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Luo</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name name-style="western">
+<given-names>H. T.</given-names>
+<surname>Tang</surname>
+</string-name>, et al., “<article-title>Prevalence and Risk Factors of Long COVID 6–12 Months After Infection With the Omicron Variant Among Nonhospitalized Patients in Hong Kong</article-title>,” <source>Journal of Medical Virology</source>
+<volume>95</volume>, no. <issue>6</issue> (<year>2023</year>): <elocation-id>e28862</elocation-id>.<pub-id pub-id-type="pmid">37334978</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/jmv.28862</pub-id></mixed-citation></ref><ref id="hex70273-bib-0017"><label>17</label><mixed-citation publication-type="journal" id="hex70273-cit-0017">
+<string-name name-style="western">
+<given-names>M. S.</given-names>
+<surname>Durstenfeld</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M. J.</given-names>
+<surname>Peluso</surname>
+</string-name>, <string-name name-style="western">
+<given-names>N. D.</given-names>
+<surname>Peyser</surname>
+</string-name>, et al., “<article-title>Factors Associated With Long COVID Symptoms in an Online Cohort Study</article-title>,” <source>Open Forum Infectious Diseases</source>
+<volume>10</volume>, no. <issue>2</issue> (<year>2023</year>): <fpage>ofad047</fpage>.<pub-id pub-id-type="pmid">36846611</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/ofid/ofad047</pub-id><pub-id pub-id-type="pmcid">PMC9945931</pub-id></mixed-citation></ref><ref id="hex70273-bib-0018"><label>18</label><mixed-citation publication-type="journal" id="hex70273-cit-0018">
+<string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Woodrow</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Carey</surname>
+</string-name>, <string-name name-style="western">
+<given-names>N.</given-names>
+<surname>Ziauddeen</surname>
+</string-name>, et al., “<article-title>Systematic Review of the Prevalence of Long COVID</article-title>,” <source>Open Forum Infectious Diseases</source>
+<volume>10</volume>, no. <issue>7</issue> (<year>2023</year>): <fpage>ofad233</fpage>.<pub-id pub-id-type="pmid">37404951</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/ofid/ofad233</pub-id><pub-id pub-id-type="pmcid">PMC10316694</pub-id></mixed-citation></ref><ref id="hex70273-bib-0019"><label>19</label><mixed-citation publication-type="journal" id="hex70273-cit-0019">
+<string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Subramanian</surname>
+</string-name>, <string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Nirantharakumar</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Hughes</surname>
+</string-name>, et al., “<article-title>Symptoms and Risk Factors for Long COVID in Non‐Hospitalized Adults</article-title>,” <source>Nature Medicine</source>
+<volume>28</volume>, no. <issue>8</issue> (<year>2022</year>): <fpage>1706</fpage>–<lpage>1714</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41591-022-01909-w</pub-id><pub-id pub-id-type="pmcid">PMC9388369</pub-id><pub-id pub-id-type="pmid">35879616</pub-id></mixed-citation></ref><ref id="hex70273-bib-0020"><label>20</label><mixed-citation publication-type="journal" id="hex70273-cit-0020">
+<string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Sunata</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Miyata</surname>
+</string-name>, <string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Terai</surname>
+</string-name>, et al., “<article-title>Asthma Is a Risk Factor for General Fatigue of Long COVID in Japanese Nation‐Wide Cohort Study</article-title>,” <source>Allergology International</source>
+<volume>73</volume>, no. <issue>2</issue> (<year>2024</year>): <fpage>206</fpage>–<lpage>213</lpage>.<pub-id pub-id-type="pmid">37996384</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.alit.2023.11.003</pub-id></mixed-citation></ref><ref id="hex70273-bib-0021"><label>21</label><mixed-citation publication-type="journal" id="hex70273-cit-0021">
+<string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Adler</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Gazit</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Pinto</surname>
+</string-name>, et al., “<article-title>Long‐COVID in Patients With a History of Mild or Asymptomatic SARS‐CoV‐2 Infection: A Nationwide Cohort Study</article-title>,” <source>Scandinavian Journal of Primary Health Care</source>
+<volume>40</volume>, no. <issue>3</issue> (<year>2022</year>): <fpage>342</fpage>–<lpage>349</lpage>.<pub-id pub-id-type="pmid">36314555</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1080/02813432.2022.2139480</pub-id><pub-id pub-id-type="pmcid">PMC9848375</pub-id></mixed-citation></ref><ref id="hex70273-bib-0022"><label>22</label><mixed-citation publication-type="journal" id="hex70273-cit-0022">
+<string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Bostanci</surname>
+</string-name>, <string-name name-style="western">
+<given-names>U.</given-names>
+<surname>Gazi</surname>
+</string-name>, <string-name name-style="western">
+<given-names>O.</given-names>
+<surname>Tosun</surname>
+</string-name>, et al., “<article-title>Long‐COVID‐19 in Asymptomatic, Non‐Hospitalized, and Hospitalized Populations: A Cross‐Sectional Study</article-title>,” <source>Journal of Clinical Medicine</source>
+<volume>12</volume>, no. <issue>7</issue> (<year>2023</year>): <fpage>2613</fpage>.<pub-id pub-id-type="pmid">37048697</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3390/jcm12072613</pub-id><pub-id pub-id-type="pmcid">PMC10095523</pub-id></mixed-citation></ref><ref id="hex70273-bib-0023"><label>23</label><mixed-citation publication-type="journal" id="hex70273-cit-0023">
+<string-name name-style="western">
+<given-names>K. E.</given-names>
+<surname>Kip</surname>
+</string-name>, <string-name name-style="western">
+<given-names>E. K.</given-names>
+<surname>McCreary</surname>
+</string-name>, <string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Collins</surname>
+</string-name>, et al., “<article-title>Evolving Real‐World Effectiveness of Monoclonal Antibodies for Treatment of COVID‐19: A Cohort Study</article-title>,” <source>Annals of Internal Medicine</source>
+<volume>176</volume>, no. <issue>4</issue> (<year>2023</year>): <fpage>496</fpage>–<lpage>504</lpage>.<pub-id pub-id-type="pmid">37011399</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.7326/M22-1286</pub-id><pub-id pub-id-type="pmcid">PMC10074437</pub-id></mixed-citation></ref><ref id="hex70273-bib-0024"><label>24</label><mixed-citation publication-type="journal" id="hex70273-cit-0024">
+<string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Griesel</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Wagner</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Mikolajewska</surname>
+</string-name>, et al., “<article-title>Inhaled Corticosteroids for the Treatment of COVID‐19</article-title>,” <source>Cochrane Database of Systematic Reviews</source>
+<volume>3</volume>, no. <issue>3</issue> (<year>2022</year>): <elocation-id>015125</elocation-id>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/14651858.CD015125</pub-id><pub-id pub-id-type="pmcid">PMC8905579</pub-id><pub-id pub-id-type="pmid">35262185</pub-id></mixed-citation></ref><ref id="hex70273-bib-0025"><label>25</label><mixed-citation publication-type="journal" id="hex70273-cit-0025">
+<string-name name-style="western">
+<given-names>C. T. R.</given-names>
+<surname>Vegivinti</surname>
+</string-name>, <string-name name-style="western">
+<given-names>K. W.</given-names>
+<surname>Evanson</surname>
+</string-name>, <string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Lyons</surname>
+</string-name>, et al., “<article-title>Efficacy of Antiviral Therapies for COVID‐19: A Systematic Review of Randomized Controlled Trials</article-title>,” <source>BMC Infectious Diseases</source>
+<volume>22</volume>, no. <issue>1</issue> (<year>2022</year>): <fpage>107</fpage>.<pub-id pub-id-type="pmid">35100985</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1186/s12879-022-07068-0</pub-id><pub-id pub-id-type="pmcid">PMC8802260</pub-id></mixed-citation></ref><ref id="hex70273-bib-0026"><label>26</label><mixed-citation publication-type="journal" id="hex70273-cit-0026">
+<string-name name-style="western">
+<given-names>G.</given-names>
+<surname>Sun</surname>
+</string-name>, <string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Lin</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Ai</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>W.</given-names>
+<surname>Zhang</surname>
+</string-name>, “<article-title>The Efficacy of Antivirals, Corticosteroids, and Monoclonal Antibodies as Acute COVID‐19 Treatments in Reducing the Incidence of Long COVID: A Systematic Review and Meta‐Analysis</article-title>,” <source>Clinical Microbiology and Infection</source>
+<volume>30</volume> (<year>2024</year>): <fpage>1505–1513</fpage>.<pub-id pub-id-type="pmid">39002665</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.cmi.2024.07.006</pub-id></mixed-citation></ref><ref id="hex70273-bib-0027"><label>27</label><mixed-citation publication-type="journal" id="hex70273-cit-0027">
+<string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Woldegiorgis</surname>
+</string-name>, <string-name name-style="western">
+<given-names>G.</given-names>
+<surname>Cadby</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Ngeh</surname>
+</string-name>, et al., “<article-title>Long COVID in a Highly Vaccinated but Largely Unexposed Australian Population Following the 2022 SARS‐CoV‐2 Omicron Wave: A Cross‐Sectional Survey</article-title>,” <source>Medical Journal of Australia</source>
+<volume>220</volume>, no. <issue>6</issue> (<year>2024</year>): <fpage>323</fpage>–<lpage>330</lpage>.<pub-id pub-id-type="pmid">38508863</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.5694/mja2.52256</pub-id></mixed-citation></ref><ref id="hex70273-bib-0028"><label>28</label><mixed-citation publication-type="journal" id="hex70273-cit-0028">
+<string-name name-style="western">
+<given-names>P.</given-names>
+<surname>Bager</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Wohlfahrt</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Bhatt</surname>
+</string-name>, et al., “<article-title>Risk of Hospitalisation Associated With Infection With SARS‐CoV‐2 Omicron Variant Versus Delta Variant in Denmark: An Observational Cohort Study</article-title>,” <source>Lancet Infectious Diseases</source>
+<volume>22</volume>, no. <issue>7</issue> (<year>2022</year>): <fpage>967</fpage>–<lpage>976</lpage>.<pub-id pub-id-type="pmid">35468331</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/S1473-3099(22)00154-2</pub-id><pub-id pub-id-type="pmcid">PMC9033212</pub-id></mixed-citation></ref><ref id="hex70273-bib-0029"><label>29</label><mixed-citation publication-type="journal" id="hex70273-cit-0029">
+<string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Antonelli</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J. C.</given-names>
+<surname>Pujol</surname>
+</string-name>, <string-name name-style="western">
+<given-names>T. D.</given-names>
+<surname>Spector</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Ourselin</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>C. J.</given-names>
+<surname>Steves</surname>
+</string-name>, “<article-title>Risk of Long COVID Associated With Delta Versus Omicron Variants of SARS‐CoV‐2</article-title>,” <source>Lancet.</source>
+<volume>399</volume>, no. <issue>10343</issue> (<year>2022</year>): <fpage>2263</fpage>–<lpage>2264</lpage>.<pub-id pub-id-type="pmid">35717982</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/S0140-6736(22)00941-2</pub-id><pub-id pub-id-type="pmcid">PMC9212672</pub-id></mixed-citation></ref><ref id="hex70273-bib-0030"><label>30</label><mixed-citation publication-type="journal" id="hex70273-cit-0030">
+<string-name name-style="western">
+<given-names>S. M.</given-names>
+<surname>Pinto Pereira</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Mensah</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M. D.</given-names>
+<surname>Nugawela</surname>
+</string-name>, et al., “<article-title>Long COVID in Children and Young After Infection or Reinfection With the Omicron Variant: A Prospective Observational Study</article-title>,” <source>Journal of Pediatrics</source>
+<volume>259</volume> (<year>2023</year>): <elocation-id>113463</elocation-id>.<pub-id pub-id-type="pmid">37172813</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.jpeds.2023.113463</pub-id><pub-id pub-id-type="pmcid">PMC10171900</pub-id></mixed-citation></ref><ref id="hex70273-bib-0031"><label>31</label><mixed-citation publication-type="journal" id="hex70273-cit-0031">
+<string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Adekunle</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Meehan</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Rojas‐Alvarez</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Trauer</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>E.</given-names>
+<surname>McBryde</surname>
+</string-name>, “<article-title>Delaying the COVID‐19 Epidemic in Australia: Evaluating the Effectiveness of International Travel Bans</article-title>,” <source>Australian and New Zealand Journal of Public Health</source>
+<volume>44</volume>, no. <issue>4</issue> (<year>2020</year>): <fpage>257</fpage>–<lpage>259</lpage>.<pub-id pub-id-type="pmid">32697418</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/1753-6405.13016</pub-id><pub-id pub-id-type="pmcid">PMC7405030</pub-id></mixed-citation></ref><ref id="hex70273-bib-0032"><label>32</label><mixed-citation publication-type="miscellaneous" id="hex70273-cit-0032">
+<collab collab-type="authors">Australian Government Department of Health and Aged Care</collab>
+. COVID‐19 Vaccination Rollout Update. <year>2021</year>, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.health.gov.au/resources/collections/covid-19-vaccination-rollout-update#december-2022" ext-link-type="uri">https://www.health.gov.au/resources/collections/covid-19-vaccination-rollout-update#december-2022</ext-link>.</mixed-citation></ref><ref id="hex70273-bib-0033"><label>33</label><mixed-citation publication-type="miscellaneous" id="hex70273-cit-0033">
+<collab collab-type="authors">Dynata</collab>
+. Dynata: World's Largest First Party Data Platform <year>2023</year>, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.dynata.com/" ext-link-type="uri">https://www.dynata.com/</ext-link>.</mixed-citation></ref><ref id="hex70273-bib-0034"><label>34</label><mixed-citation publication-type="journal" id="hex70273-cit-0034">
+<string-name name-style="western">
+<given-names>R. C. S.</given-names>
+<surname>Danielle</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D. M.</given-names>
+<surname>Débora</surname>
+</string-name>, <string-name name-style="western">
+<given-names>N. L. P.</given-names>
+<surname>Alessandra</surname>
+</string-name>, et al., “<article-title>Correlating COVID‐19 Severity With Biomarker Profiles and Patient Prognosis</article-title>,” <source>Scientific Reports</source>
+<volume>14</volume>, no. <issue>1</issue> (<year>2024</year>): <elocation-id>22353</elocation-id>.<pub-id pub-id-type="pmid">39333538</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41598-024-71951-w</pub-id><pub-id pub-id-type="pmcid">PMC11436624</pub-id></mixed-citation></ref><ref id="hex70273-bib-0035"><label>35</label><mixed-citation publication-type="journal" id="hex70273-cit-0035">
+<string-name name-style="western">
+<given-names>A. L.</given-names>
+<surname>Cabrera Martimbianco</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R. L.</given-names>
+<surname>Pacheco</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A. M.</given-names>
+<surname>Bagattini</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Riera</surname>
+</string-name>, “<article-title>Frequency, Signs and Symptoms, and Criteria Adopted for Long COVID‐19: A Systematic Review</article-title>,” <source>International Journal of Clinical Practice</source>
+<volume>75</volume>, no. <issue>10</issue> (<year>2021</year>): <elocation-id>e14357</elocation-id>.<pub-id pub-id-type="pmid">33977626</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/ijcp.14357</pub-id><pub-id pub-id-type="pmcid">PMC8236920</pub-id></mixed-citation></ref><ref id="hex70273-bib-0036"><label>36</label><mixed-citation publication-type="journal" id="hex70273-cit-0036">
+<string-name name-style="western">
+<given-names>O.</given-names>
+<surname>Byambasuren</surname>
+</string-name>, <string-name name-style="western">
+<given-names>P.</given-names>
+<surname>Stehlik</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Clark</surname>
+</string-name>, <string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Alcorn</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>P.</given-names>
+<surname>Glasziou</surname>
+</string-name>, “<article-title>Effect of Covid‐19 Vaccination on Long Covid: Systematic Review</article-title>,” <source>BMJ Medicine</source>
+<volume>2</volume>, no. <issue>1</issue> (<year>2023</year>): <elocation-id>e000385</elocation-id>.<pub-id pub-id-type="pmid">36936268</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1136/bmjmed-2022-000385</pub-id><pub-id pub-id-type="pmcid">PMC9978692</pub-id></mixed-citation></ref><ref id="hex70273-bib-0037"><label>37</label><mixed-citation publication-type="journal" id="hex70273-cit-0037">
+<string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Xie</surname>
+</string-name>, <string-name name-style="western">
+<given-names>B.</given-names>
+<surname>Bowe</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>Z.</given-names>
+<surname>Al‐Aly</surname>
+</string-name>, “<article-title>Molnupiravir and Risk of Hospital Admission or Death in Adults With Covid‐19: Emulation of a Randomized Target Trial Using Electronic Health Records</article-title>,” <source>BMJ</source>
+<volume>380</volume> (<year>2023</year>): <elocation-id>e072705</elocation-id>.<pub-id pub-id-type="pmid">36882199</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1136/bmj-2022-072705</pub-id><pub-id pub-id-type="pmcid">PMC9989554</pub-id></mixed-citation></ref><ref id="hex70273-bib-0038"><label>38</label><mixed-citation publication-type="journal" id="hex70273-cit-0038">
+<string-name name-style="western">
+<given-names>T. C.</given-names>
+<surname>Lee</surname>
+</string-name>, <string-name name-style="western">
+<given-names>É.</given-names>
+<surname>Bortolussi‐Courval</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Belga</surname>
+</string-name>, et al., “<article-title>Inhaled Corticosteroids for Outpatients With COVID‐19: A Meta‐Analysis</article-title>,” <source>European Respiratory Journal</source>
+<volume>59</volume>, no. <issue>5</issue> (<year>2022</year>): <elocation-id>2102921</elocation-id>.<pub-id pub-id-type="pmid">35144994</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1183/13993003.02921-2021</pub-id><pub-id pub-id-type="pmcid">PMC9068973</pub-id></mixed-citation></ref><ref id="hex70273-bib-0039"><label>39</label><mixed-citation publication-type="book" id="hex70273-cit-0039">
+<collab collab-type="authors">Australian Institute of Health and Welfare</collab>
+, <source>Long COVID in Australia—a Review of the Literature, Catalogue Number PHE 318</source> (<publisher-name>AIHW, Australian Government</publisher-name>, <year>2022</year>).</mixed-citation></ref><ref id="hex70273-bib-0040"><label>40</label><mixed-citation publication-type="journal" id="hex70273-cit-0040">
+<string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Xie</surname>
+</string-name>, <string-name name-style="western">
+<given-names>B.</given-names>
+<surname>Bowe</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>Z.</given-names>
+<surname>Al‐Aly</surname>
+</string-name>, “<article-title>Burdens of Post‐Acute Sequelae of COVID‐19 by Severity of Acute Infection, Demographics and Health Status</article-title>,” <source>Nature Communications</source>
+<volume>12</volume>, no. <issue>1</issue> (<year>2021</year>): <fpage>6571</fpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41467-021-26513-3</pub-id><pub-id pub-id-type="pmcid">PMC8589966</pub-id><pub-id pub-id-type="pmid">34772922</pub-id></mixed-citation></ref><ref id="hex70273-bib-0041"><label>41</label><mixed-citation publication-type="journal" id="hex70273-cit-0041">
+<string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Mølbak</surname>
+</string-name>, <string-name name-style="western">
+<given-names>T. I. A.</given-names>
+<surname>Sørensen</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Bhatt</surname>
+</string-name>, <string-name name-style="western">
+<given-names>F. P.</given-names>
+<surname>Lyngse</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Simonsen</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>P.</given-names>
+<surname>Aaby</surname>
+</string-name>, “<article-title>Severity of Respiratory Tract Infections Depends on the Infectious Dose. Perspectives for the Next Pandemic</article-title>,” <source>Front Public Health</source>
+<volume>12</volume> (<year>2024</year>): <elocation-id>1391719</elocation-id>.<pub-id pub-id-type="pmid">38746005</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3389/fpubh.2024.1391719</pub-id><pub-id pub-id-type="pmcid">PMC11091249</pub-id></mixed-citation></ref><ref id="hex70273-bib-0042"><label>42</label><mixed-citation publication-type="journal" id="hex70273-cit-0042">
+<string-name name-style="western">
+<given-names>J. C.</given-names>
+<surname>Stoltzfus</surname>
+</string-name>, “<article-title>Logistic Regression: A Brief Primer</article-title>,” <source>Academic Emergency Medicine</source>
+<volume>18</volume>, no. <issue>10</issue> (<year>2011</year>): <fpage>1099</fpage>–<lpage>1104</lpage>.<pub-id pub-id-type="pmid">21996075</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/j.1553-2712.2011.01185.x</pub-id></mixed-citation></ref><ref id="hex70273-bib-0043"><label>43</label><mixed-citation publication-type="journal" id="hex70273-cit-0043">
+<string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Benjamini</surname>
+</string-name> and <string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Hochberg</surname>
+</string-name>, “<article-title>Controlling the False Discovery Rate: A Practical and Powerful Approach to Multiple Testing</article-title>,” <source>Journal of the Royal Statistical Society Series B: Statistical Methodology</source>
+<volume>57</volume>, no. <issue>1</issue> (<year>1995</year>): <fpage>289</fpage>–<lpage>300</lpage>.</mixed-citation></ref><ref id="hex70273-bib-0044"><label>44</label><mixed-citation publication-type="journal" id="hex70273-cit-0044">
+<string-name name-style="western">
+<given-names>T. J.</given-names>
+<surname>Loftus</surname>
+</string-name>, <string-name name-style="western">
+<given-names>B.</given-names>
+<surname>Shickel</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J. A.</given-names>
+<surname>Balch</surname>
+</string-name>, et al., “<article-title>Phenotype Clustering in Health Care: A Narrative Review for Clinicians</article-title>,” <source>Frontiers in Artificial Intelligence</source>
+<volume>5</volume> (<year>2022</year>): <elocation-id>842306</elocation-id>.<pub-id pub-id-type="pmid">36034597</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3389/frai.2022.842306</pub-id><pub-id pub-id-type="pmcid">PMC9411746</pub-id></mixed-citation></ref><ref id="hex70273-bib-0045"><label>45</label><mixed-citation publication-type="book" id="hex70273-cit-0045">
+<collab collab-type="authors">R Core Team</collab>
+, <source>R: A Language and Environment for Statistical Computing</source> (<publisher-name>R Foundation for Statistical Computing</publisher-name>, <year>2024</year>).</mixed-citation></ref><ref id="hex70273-bib-0046"><label>46</label><mixed-citation publication-type="miscellaneous" id="hex70273-cit-0046">
+<string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Maechler</surname>
+</string-name>, <string-name name-style="western">
+<given-names>P.</given-names>
+<surname>Rousseeuw</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Struyf</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Hubert</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Hornik</surname>
+</string-name>, Cluster Analysis Basics and Extensions. R Package Version 2.1.6. <year>2023</year>.</mixed-citation></ref><ref id="hex70273-bib-0047"><label>47</label><mixed-citation publication-type="book" id="hex70273-cit-0047">
+<collab collab-type="authors">Hamming Distance</collab>
+, <source>Encyclopedia of Biometrics</source>, ed. <person-group person-group-type="editor">
+<string-name name-style="western">
+<given-names>S. Z.</given-names>
+<surname>Li</surname>
+</string-name>
+</person-group> and <person-group person-group-type="editor">
+<string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Jain</surname>
+</string-name>
+</person-group> (<publisher-name>Springer US</publisher-name>, <year>2009</year>), <fpage>668</fpage>.</mixed-citation></ref><ref id="hex70273-bib-0048"><label>48</label><mixed-citation publication-type="journal" id="hex70273-cit-0048">
+<string-name name-style="western">
+<given-names>P. J.</given-names>
+<surname>Rousseeuw</surname>
+</string-name>, “<article-title>Silhouettes: A Graphical Aid to the Interpretation and Validation of Cluster Analysis</article-title>,” <source>Journal of Computational and Applied Mathematics</source>
+<volume>20</volume> (<year>1987</year>): <fpage>53</fpage>–<lpage>65</lpage>.</mixed-citation></ref><ref id="hex70273-bib-0049"><label>49</label><mixed-citation publication-type="miscellaneous" id="hex70273-cit-0049">
+<collab collab-type="authors">The Mathworks Inc</collab>
+. MATLAB version: 9.14.0.2337262 (R2023a). <year>2022</year>, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.mathworks.com" ext-link-type="uri">https://www.mathworks.com</ext-link>.</mixed-citation></ref><ref id="hex70273-bib-0050"><label>50</label><mixed-citation publication-type="journal" id="hex70273-cit-0050">
+<string-name name-style="western">
+<given-names>T.</given-names>
+<surname>Bahmer</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Borzikowsky</surname>
+</string-name>, <string-name name-style="western">
+<given-names>W.</given-names>
+<surname>Lieb</surname>
+</string-name>, et al., “<article-title>Severity, Predictors and Clinical Correlates of Post‐COVID Syndrome (PCS) in Germany: A Prospective, Multi‐Centre, Population‐Based Cohort Study</article-title>,” <source>eClinicalMedicine</source>
+<volume>51</volume> (<year>2022</year>): <elocation-id>101549</elocation-id>.<pub-id pub-id-type="pmid">35875815</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.eclinm.2022.101549</pub-id><pub-id pub-id-type="pmcid">PMC9289961</pub-id></mixed-citation></ref><ref id="hex70273-bib-0051"><label>51</label><mixed-citation publication-type="journal" id="hex70273-cit-0051">
+<string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Whitaker</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Elliott</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Chadeau‐Hyam</surname>
+</string-name>, et al., “<article-title>Persistent COVID‐19 Symptoms in a Community Study of 606,434 People in England</article-title>,” <source>Nature Communications</source>
+<volume>13</volume>, no. <issue>1</issue> (<year>2022</year>): <fpage>1957</fpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41467-022-29521-z</pub-id><pub-id pub-id-type="pmcid">PMC9005552</pub-id><pub-id pub-id-type="pmid">35413949</pub-id></mixed-citation></ref><ref id="hex70273-bib-0052"><label>52</label><mixed-citation publication-type="journal" id="hex70273-cit-0052">
+<string-name name-style="western">
+<given-names>S. L.</given-names>
+<surname>Klein</surname>
+</string-name> and <string-name name-style="western">
+<given-names>K. L.</given-names>
+<surname>Flanagan</surname>
+</string-name>, “<article-title>Sex Differences in Immune Responses</article-title>,” <source>Nature Reviews Immunology</source>
+<volume>16</volume>, no. <issue>10</issue> (<year>2016</year>): <fpage>626</fpage>–<lpage>638</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/nri.2016.90</pub-id><pub-id pub-id-type="pmid">27546235</pub-id></mixed-citation></ref><ref id="hex70273-bib-0053"><label>53</label><mixed-citation publication-type="journal" id="hex70273-cit-0053">
+<string-name name-style="western">
+<given-names>O.</given-names>
+<surname>Magen</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J. G.</given-names>
+<surname>Waxman</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Makov‐Assif</surname>
+</string-name>, et al., “<article-title>Fourth Dose of BNT162b2 mRNA Covid‐19 Vaccine in a Nationwide Setting</article-title>,” <source>New England Journal of Medicine</source>
+<volume>386</volume>, no. <issue>17</issue> (<year>2022</year>): <fpage>1603</fpage>–<lpage>1614</lpage>.<pub-id pub-id-type="pmid">35417631</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1056/NEJMoa2201688</pub-id><pub-id pub-id-type="pmcid">PMC9020581</pub-id></mixed-citation></ref><ref id="hex70273-bib-0054"><label>54</label><mixed-citation publication-type="miscellaneous" id="hex70273-cit-0054">
+<collab collab-type="authors">Australian Government Department of Health and Aged Care</collab>
+. “ATAGI Update on the COVID‐19 Vaccination Program,” retrieved October 6, 2023, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.health.gov.au/news/atagi-update-on-the-covid-19-vaccination-program?language=en" ext-link-type="uri">https://www.health.gov.au/news/atagi-update-on-the-covid-19-vaccination-program?language=en</ext-link>.</mixed-citation></ref><ref id="hex70273-bib-0055"><label>55</label><mixed-citation publication-type="journal" id="hex70273-cit-0055">
+<string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Xie</surname>
+</string-name>, <string-name name-style="western">
+<given-names>T.</given-names>
+<surname>Choi</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>Z.</given-names>
+<surname>Al‐Aly</surname>
+</string-name>, “<article-title>Nirmatrelvir and the Risk of Post‐Acute Sequelae of COVID‐19</article-title>,” preprint, <source>MedRxiv</source>, <year>2022</year>, <pub-id pub-id-type="doi">10.1101/2022.11.03.22281783</pub-id>.</mixed-citation></ref><ref id="hex70273-bib-0056"><label>56</label><mixed-citation publication-type="journal" id="hex70273-cit-0056">
+<string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Xie</surname>
+</string-name>, <string-name name-style="western">
+<given-names>T.</given-names>
+<surname>Choi</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>Z.</given-names>
+<surname>Al‐Aly</surname>
+</string-name>, “<article-title>Molnupiravir and Risk of Post‐Acute Sequelae of Covid‐19: Cohort Study</article-title>,” <source>BMJ</source>
+<volume>381</volume> (<year>2023</year>): <elocation-id>074572</elocation-id>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1136/bmj-2022-074572</pub-id><pub-id pub-id-type="pmcid">PMC10126525</pub-id><pub-id pub-id-type="pmid">37161995</pub-id></mixed-citation></ref><ref id="hex70273-bib-0057"><label>57</label><mixed-citation publication-type="journal" id="hex70273-cit-0057">
+<string-name name-style="western">
+<given-names>G.</given-names>
+<surname>Kenny</surname>
+</string-name>, <string-name name-style="western">
+<given-names>K.</given-names>
+<surname>McCann</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C.</given-names>
+<surname>O'Brien</surname>
+</string-name>, et al., “<article-title>Identification of Distinct Long Covid Clinical Phenotypes Through Cluster Analysis of Self‐Reported Symptoms</article-title>,” <source>Open Forum Infectious Diseases</source>
+<volume>9</volume>, no. <issue>4</issue> (<year>2022</year>): <elocation-id>ofac060</elocation-id>, <pub-id pub-id-type="doi">10.1093/ofid/ofac060</pub-id>.<pub-id pub-id-type="pmid">35265728</pub-id>
+<pub-id pub-id-type="pmcid">PMC8900926</pub-id></mixed-citation></ref><ref id="hex70273-bib-0058"><label>58</label><mixed-citation publication-type="miscellaneous" id="hex70273-cit-0058">
+<collab collab-type="authors">Australian Bureau of Statistics</collab>
+. National, State and Territory Population. <year>2023</year>, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.abs.gov.au/statistics/people/population/national-state-and-territory-population/latest-release#states-and-territories" ext-link-type="uri">https://www.abs.gov.au/statistics/people/population/national-state-and-territory-population/latest-release#states-and-territories</ext-link>.</mixed-citation></ref><ref id="hex70273-bib-0059"><label>59</label><mixed-citation publication-type="miscellaneous" id="hex70273-cit-0059">
+<collab collab-type="authors">Australian Bureau of Statistics</collab>
+. A Caring Nation—15 Per Cent of Australia's Workforce in Health Care and Social Assistance Industry. <year>2022</year>, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.abs.gov.au/media-centre/media-releases/caring-nation-15-cent-australias-workforce-health-care-and-social-assistance-industry" ext-link-type="uri">https://www.abs.gov.au/media-centre/media-releases/caring-nation-15-cent-australias-workforce-health-care-and-social-assistance-industry</ext-link>.</mixed-citation></ref><ref id="hex70273-bib-0060"><label>60</label><mixed-citation publication-type="journal" id="hex70273-cit-0060">
+<string-name name-style="western">
+<given-names>Z.</given-names>
+<surname>Akhtar</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Trent</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Moa</surname>
+</string-name>, <string-name name-style="western">
+<given-names>T. C.</given-names>
+<surname>Tan</surname>
+</string-name>, <string-name name-style="western">
+<given-names>O.</given-names>
+<surname>Fröbert</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>C. R.</given-names>
+<surname>MacIntyre</surname>
+</string-name>, “<article-title>The Impact of COVID‐19 and COVID Vaccination on Cardiovascular Outcomes</article-title>,” supplement, <source>European Heart Journal Supplements</source>
+<volume>25</volume>, no. <issue>Suppl A</issue> (<year>2023</year>): <fpage>A42</fpage>–<lpage>A49</lpage>.<pub-id pub-id-type="pmid">36937372</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/eurheartjsupp/suac123</pub-id><pub-id pub-id-type="pmcid">PMC10021497</pub-id></mixed-citation></ref></ref-list></back></article></pmc-articleset>

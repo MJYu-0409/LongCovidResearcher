@@ -1,0 +1,35 @@
+{
+  "pmcid": "PMC12063436",
+  "pmid": "40340717",
+  "doi": "10.1186/s12967-025-06535-x",
+  "title": "Reproducibility of genetic risk factors identified for long COVID using combinatorial analysis across US and UK patient cohorts with diverse ancestries.",
+  "abstract": "BACKGROUND: Long COVID is a major public health burden causing a diverse array of debilitating symptoms in tens of millions of patients globally. In spite of this overwhelming disease prevalence, staggering cost, severe impact on patients' lives and intense global research efforts, study of the disease has proved challenging due to its complexity. Genome-wide association studies (GWAS) have identified only four loci potentially associated with the disease, although these results did not statistically replicate between studies. A previous combinatorial analysis study identified a total of 73 genes that were highly associated with two long COVID cohorts in the predominantly (> 91%) white European ancestry Sano GOLD population, and we sought to reproduce these findings in the independent and ancestrally more diverse All of Us (AoU) population.\nMETHODS: We assessed the reproducibility of the 5343 long COVID disease signatures from the original study in the AoU population. Because the very small population sizes provide very limited power to replicate findings, we initially tested whether we observed a statistically significant enrichment of the Sano GOLD disease signatures that are also positively correlated with long COVID in the AoU cohort after controlling for population substructure.\nRESULTS: For the Sano GOLD disease signatures that have a case frequency greater than 5% in AoU, we consistently observed a significant enrichment (77-83%, p < 0.01) of signatures that are also positively associated with long COVID in the AoU cohort. These encompassed 92% of the genes identified in the original study. At least five of the disease signatures found in Sano GOLD were also shown to be individually significantly associated with increased long COVID prevalence in the AoU population. Rates of signature reproducibility are strongest among self-identified white patients, but we also observe significant enrichment of reproducing disease associations in self-identified black/African-American and Hispanic/Latino cohorts. Signatures associated with 11 out of the 13 drug repurposing candidates identified in the original Sano GOLD study were reproduced in this study.\nCONCLUSION: These results demonstrate the reproducibility of long COVID disease signal found by combinatorial analysis, broadly validating the results of the original analysis. They provide compelling evidence for a much broader array of genetic associations with long COVID than previously identified through traditional GWAS studies. This strongly supports the hypothesis that genetic factors play a critical role in determining an individual's susceptibility to long COVID following recovery from acute SARS-CoV-2 infection. It also lends weight to the drug repurposing candidates identified in the original analysis. Together these results may help to stimulate much needed new precision medicine approaches to more effectively diagnose and treat the disease. This is also the first reproduction of long COVID genetic associations across multiple populations with substantially different ancestry distributions. Given the high reproducibility rate across diverse populations, these findings may have broader clinical application and promote better health equity. We hope that this will provide confidence to explore some of these mechanisms and drug targets and help advance research into novel ways to diagnose the disease and accelerate the discovery and selection of better therapeutic options, both in the form of newly discovered drugs and/or the immediate prioritization of coordinated investigations into the efficacy of repurposed drug candidates.",
+  "authors": [
+    "J Sardell",
+    "M Pearson",
+    "K Chocian",
+    "S Das",
+    "K Taylor",
+    "M Strivens",
+    "R Gupta",
+    "A Rochlin",
+    "S Gardner"
+  ],
+  "journal": "Journal of translational medicine",
+  "pub_year": "2025",
+  "pub_month": "May",
+  "pub_day": "08",
+  "keywords": [
+    "Combinatorial analytics",
+    "Genetics",
+    "Long COVID",
+    "PASC",
+    "Post COVID-19 condition",
+    "Post-acute COVID-19",
+    "Reproducibility",
+    "SARS-CoV-2"
+  ],
+  "article_types": [
+    "Journal Article"
+  ]
+}

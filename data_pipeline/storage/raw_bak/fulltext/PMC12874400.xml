@@ -1,0 +1,504 @@
+<?xml version="1.0"  ?><!DOCTYPE pmc-articleset PUBLIC "-//NLM//DTD ARTICLE SET 2.0//EN" "https://dtd.nlm.nih.gov/ncbi/pmc/articleset/nlm-articleset-2.0.dtd"><pmc-articleset><article xml:lang="en" article-type="research-article" dtd-version="1.4"><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">MSMR</journal-id><journal-id journal-id-type="iso-abbrev">MSMR</journal-id><journal-id journal-id-type="pmc-domain-id">4537</journal-id><journal-id journal-id-type="pmc-domain">msmr</journal-id><journal-id journal-id-type="publisher-id">MSMR</journal-id><journal-id journal-id-type="publisher-id">MSMR</journal-id><journal-title-group><journal-title>Medical Surveillance Monthly Report</journal-title></journal-title-group><issn pub-type="ppub">2158-0111</issn><issn pub-type="epub">2152-8217</issn><publisher><publisher-name>Armed Forces Health Surveillance Division</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC12874400</article-id><article-id pub-id-type="pmcid-ver">PMC12874400.1</article-id><article-id pub-id-type="pmcaid">12874400</article-id><article-id pub-id-type="pmcaiid">12874400</article-id><article-id pub-id-type="pmid">41505721</article-id><article-version article-version-type="pmc-version">1</article-version><article-categories><subj-group subj-group-type="heading"><subject>Article</subject></subj-group></article-categories><title-group><article-title>Strategies for Forecasting Long COVID in the Active Component U.S. Military</article-title></title-group><contrib-group><contrib contrib-type="author"><name name-style="western"><surname>Bova</surname><given-names initials="ML">Mark L.</given-names></name><degrees>PhD, MPH</degrees><xref rid="aff1" ref-type="aff"/></contrib><contrib contrib-type="author"><name name-style="western"><surname>Palmore</surname><given-names initials="TN">Tara N.</given-names></name><degrees>MD</degrees><xref rid="aff3" ref-type="aff"/></contrib><contrib contrib-type="author"><name name-style="western"><surname>Diao</surname><given-names initials="G">Guoqing</given-names></name><degrees>PhD, MS</degrees><xref rid="aff4" ref-type="aff"/></contrib><contrib contrib-type="author"><name name-style="western"><surname>Russell</surname><given-names initials="JA">Jamaal A.</given-names></name><degrees>DrPH, MPH</degrees><xref rid="aff1" ref-type="aff"/></contrib><contrib contrib-type="author"><name name-style="western"><surname>Magnus</surname><given-names initials="M">Manya</given-names></name><degrees>PhD, MPH</degrees><xref rid="aff2" ref-type="aff"/></contrib><aff id="aff1">Integrated Biosurveillance Branch, Armed Forces Health Surveillance Division, Silver Spring, MD: Dr. Bova, Dr. Russell</aff><aff id="aff2">Department of Epidemiology, Milken Institute School of Public Health, George Washington University, Washington, DC: Dr. Bova, Dr. Magnus</aff><aff id="aff3">Department of Medicine, School of Medicine and Health Sciences, George Washington University: Dr. Palmore</aff><aff id="aff4">Department of Biostatistics and Bioinformatics, Milken Institute School of Public Health, George Washington University: Dr. Diao</aff></contrib-group><pub-date date-type="collection" publication-format="electronic"><month>10</month><year>2025</year></pub-date><pub-date date-type="pub" publication-format="electronic"><day>1</day><month>10</month><year>2025</year></pub-date><volume>32</volume><issue>10</issue><issue-id pub-id-type="pmc-issue-id">506966</issue-id><fpage>29</fpage><lpage>38</lpage><pub-history><event event-type="pmc-release"><date><day>01</day><month>10</month><year>2025</year></date></event><event event-type="pmc-live"><date><day>06</day><month>02</month><year>2026</year></date></event><event event-type="pmc-last-change"><date iso-8601-date="2026-02-11 13:25:13.573"><day>11</day><month>02</month><year>2026</year></date></event></pub-history><permissions><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="cc0license">https://creativecommons.org/publicdomain/zero/1.0/</ali:license_ref><license-p>
+All material in the
+<italic toggle="yes">MSMR</italic>
+is in the public domain and may be used and reprinted without permission.
+</license-p></license></permissions><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pmc-pdf" xlink:href="msmr-32-10-29.pdf"/><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pdf" xlink:href="msmr-32-10-29.pdf"/><abstract><p>Long COVID, or post-acute coronavirus disease syndrome, represents a potentially serious threat to military readiness. Forecasts of future long COVID diagnoses could help prepare senior leaders for disruptions. Few studies predicting the incidence of long COVID have been published to date, however. Using existing COVID-19 and long COVID diagnoses, as well as demographic and outpatient encounter data, 1- to 6-month ahead and full 6-month forecasts were generated using time series and machine learning models trained on various covariate data. Forecasting models generated accurate predictions of long COVID diagnoses up to 6 months ahead of the forecasted date. Several model and covariate combinations were within 5% of the observed number of diagnoses over the full 6-month testing period, while monthly forecasts of long COVID diagnoses had median absolute percentage errors ranging from 3% to 10% for the best performing model combinations. Simple forecasting models and distribution-based forecasts that utilize existing clinical databases can provide accurate predictions of incident long COVID up to 6 months in advance and can be used to prepare for the burden of new long COVID diagnoses.</p></abstract><counts><page-count count="10"/></counts><custom-meta-group><custom-meta><meta-name>pmc-status-qastatus</meta-name><meta-value>0</meta-value></custom-meta><custom-meta><meta-name>pmc-status-live</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-status-embargo</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-status-released</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-access</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-legally-suppressed</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-pdf</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-supplement</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-pdf-only</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-suppress-copyright</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-real-version</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-scanned-article</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-in-epmc</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-license-ref</meta-name><meta-value>CC0</meta-value></custom-meta></custom-meta-group></article-meta></front><body><p>
+Long COVID, or post-acute coronavirus disease syndrome, has been well studied in the general population, although it has not been well established in the U.S. military. Internal, not yet published Defense Medical Surveillance System (DMSS) data from active component U.S. service members diagnosed with coronavirus disease 2019 (COVID-19) from January 2020 through December 2022 indicate that symptoms of long COVID may be present in up to 20% of service members, with cardiac symptoms in approximately 8% and respiratory symptoms in approximately 5% of service members (unpublished). Another study of active duty service members with COVID-19 diagnoses from March 2020 to November 2021 found cardiac symptoms in nearly 2% of service members more than 30 days after COVID-19 diagnosis.
+<sup>
+<xref rid="B1" ref-type="bibr">1</xref>
+</sup>
+At best, mild symptoms of long COVID could disrupt force readiness by causing unplanned training limitations and absences, while more severe symptoms could result in long-term disability or even death. It is, therefore, critical for senior U.S. Department of Defense (DOD) leaders to anticipate the burden of long COVID in advance to prepare for potential disruptions and to anticipate impacts on the military health care system resources.
+</p><p>
+Infectious disease forecasting, especially for influenza, has been conducted for decades. Various mechanistic, statistical, and time series models have been used for forecasting, as well as combined ensemble models. The U.S. Centers for Disease Control and Prevention (CDC) hosts annual forecasting challenges for influenza and COVID-19 aimed at predicting short-term incidence of cases and hospitalizations.
+<sup>
+<xref rid="B2" ref-type="bibr">2</xref>
+</sup>
+The CDC has found that ensemble models tend to be more stable and accurate for multiple forecasting locations and targets than individual models, including COVID-19 forecasting.
+<sup>
+<xref rid="B3" ref-type="bibr">3</xref>
+-
+<xref rid="B4" ref-type="bibr">4</xref>
+</sup>
+</p><boxed-text position="float" orientation="portrait"><sec><title>What are the new findings?</title><p>Accurate predictions of long COVID cases over a 6-month period were achieved by utilizing existing COVID-19 case and out-patient encounter data from January 1, 2020, through December 31, 2022.</p></sec><sec><title>What is the impact on readiness and force health protection?</title><p>Long COVID symptoms can cause disruptions to military readiness and prevent a healthy force, especially after surges in COVID-19 cases. The ability to use existing data sources to accurately predict future cases of long COVID allows senior leaders to anticipate and prepare for potential changes in the availability of service members.</p></sec></boxed-text><p>
+Long COVID is a long-term, post-infectious process of COVID-19, however, that is not contagious and requires a person to both be infected with COVID-19 and develop symptoms of long COVID after a specified period. Traditional time series methods for forecasting short-term COVID-19 and other respiratory disease activity may not be useful for forecasting long COVID cases, and little research has been published to date on efforts to predict the incident number of long COVID diagnoses utilizing existing case data, especially within the military population. Studies using clinical data in civilian populations found various models to be reasonably accurate, with AUROC (area under a receiver operating characteristic) values between 0.74 and 0.895.
+<sup>
+<xref rid="B5" ref-type="bibr">5</xref>
+-
+<xref rid="B7" ref-type="bibr">7</xref>
+</sup>
+Attempts have been made to use time series models to forecast incident cases of other diseases with long follow-up periods, such as Lyme disease, using clinical data, with mean absolute percentage errors around 8%.
+<sup>
+<xref rid="B8" ref-type="bibr">8</xref>
+</sup>
+</p><p>The purpose of this study was to develop predictive models to forecast future long COVID diagnoses and to compare the predictions of each model against observed long COVID diagnoses. To achieve this aim, this study utilized a cohort of COVID-19 cases, linked demographic and medical records, and longitudinal health encounter data.</p><sec sec-type="methods"><title>Methods</title><p>The protocol for this study was approved by both the George Washington University Committee on Human Research Institutional Review Board and the Component Office for Human Research Protections of the Defense Health Agency Office of Research Protections.</p><sec><title>Study population</title><p>The study population included a cohort of 464,356 active component U.S. service members with a confirmed case of COVID-19 at a U.S. military hospital or clinic, from January 1, 2020 through December 31, 2022. The U.S. active component includes full-time, active duty service members but excludes reservists or National Guard members.</p><p>Data were obtained from a master list of COVID-19 cases, defined as having either a positive SARS-CoV-2 (severe acute respiratory syndrome coronavirus 2) nucleic acid or antigen test or a COVID-19 reportable medical event (RME) in the Disease Reporting System Internet (DRSi) maintained by the Armed Forces Health Surveillance Division (AFHSD). The master list includes information relevant to a service member's COVID-19 event, including vaccinations, re-infection status, and hospitalization.</p></sec><sec><title>Exposures and covariates</title><p>Covariates of interest in this study focused on measures of COVID-19 activity, including COVID-specific, COVID-like illness (CLI), and post-acute sequelae of COVID-19 (PASC) outpatient encounters, as well as risk factors for long COVID. Risk factors included sex, age, race and ethnicity, rank, COVID-19 hospitalization status, COVID-19 re-infection status, and COVID-19 vaccination status.</p><p>
+Demographic information for each COVID-19 case in the master positive list was taken from the Defense Medical Surveillance System (DMSS), a DOD-maintained database of health information that includes personnel, medical, immunization, pharmacy, health assessment, laboratory, and deployment data.
+<sup>
+<xref rid="B9" ref-type="bibr">9</xref>
+</sup>
+Monthly aggregated outpatient encounters by military hospital or clinic were downloaded from the DOD Electronic Surveillance System for the Early Notification of Community-based Epidemics (ESSENCE).
+</p><p>
+COVID-specific encounters were defined as any outpatient encounter with a discharge diagnosis containing the ICD-10 codes U07.1 or J12.81, while PASC encounters were defined as those containing the ICD-10 code U09.9. The CLI encounter definition is provided in
+<xref rid="T1" ref-type="table">
+<bold>Supplementary Table 1</bold>
+</xref>
+.
+</p><table-wrap position="float" id="T1" orientation="portrait"><label>SUPPLEMENTARY TABLE 1.</label><caption><p>PASC Diagnostic Categories and ICD-10 Diagnosis Codes</p></caption><table frame="border" rules="all" width="100%"><tbody valign="top"><tr><td align="left" scope="row" rowspan="1" colspan="2">Mental Health</td></tr><tr><td align="left" scope="row" rowspan="1" colspan="1"> Anxiety</td><td align="left" rowspan="1" colspan="1">F4323, F419, F411, F418, F4322</td></tr><tr><td align="left" scope="row" rowspan="1" colspan="1"> Insomnia</td><td align="left" rowspan="1" colspan="1">G4700, F51</td></tr><tr><td align="left" scope="row" rowspan="1" colspan="1"> PTSD</td><td align="left" rowspan="1" colspan="1">F4312</td></tr><tr><td align="left" scope="row" rowspan="1" colspan="1"> Major depression</td><td align="left" rowspan="1" colspan="1">F321, F329, F331, F332, F339, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmc:entrez-nucleotide" xlink:href="R45851">R45851</ext-link></td></tr><tr><td align="left" scope="row" rowspan="1" colspan="2">Neurological</td></tr><tr><td align="left" scope="row" rowspan="1" colspan="1"> Headache</td><td align="left" rowspan="1" colspan="1">R51</td></tr><tr><td align="left" scope="row" rowspan="1" colspan="1"> Taste loss</td><td align="left" rowspan="1" colspan="1">R430, R431, R432, R438, R439</td></tr><tr><td align="left" scope="row" rowspan="1" colspan="1"> Seizure</td><td align="left" rowspan="1" colspan="1">R5600, R5601, R569, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmc:entrez-nucleotide" xlink:href="G40001">G40001</ext-link>, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmc:entrez-nucleotide" xlink:href="G40009">G40009</ext-link>, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmc:entrez-nucleotide" xlink:href="G40011">G40011</ext-link>, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmc:entrez-nucleotide" xlink:href="G40019">G40019</ext-link>, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmc:entrez-nucleotide" xlink:href="G40101">G40101</ext-link>, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmc:entrez-nucleotide" xlink:href="G40109">G40109</ext-link>, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmc:entrez-nucleotide" xlink:href="G40111">G40111</ext-link>, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmc:entrez-nucleotide" xlink:href="G40119">G40119</ext-link>, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmc:entrez-nucleotide" xlink:href="G40201">G40201</ext-link>, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmc:entrez-nucleotide" xlink:href="G40209">G40209</ext-link>, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmc:entrez-nucleotide" xlink:href="G40211">G40211</ext-link>, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmc:entrez-nucleotide" xlink:href="G40219">G40219</ext-link>, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmc:entrez-nucleotide" xlink:href="G40301">G40301</ext-link>, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmc:entrez-nucleotide" xlink:href="G40309">G40309</ext-link>, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmc:entrez-nucleotide" xlink:href="G40311">G40311</ext-link>, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmc:entrez-nucleotide" xlink:href="G40319">G40319</ext-link>, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmc:entrez-nucleotide" xlink:href="G40401">G40401</ext-link>, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmc:entrez-nucleotide" xlink:href="G40409">G40409</ext-link>, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmc:entrez-nucleotide" xlink:href="G40411">G40411</ext-link>, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmc:entrez-nucleotide" xlink:href="G40419">G40419</ext-link>, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmc:entrez-nucleotide" xlink:href="G40501">G40501</ext-link>, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmc:entrez-nucleotide" xlink:href="G40509">G40509</ext-link>, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmc:entrez-nucleotide" xlink:href="G40801">G40801</ext-link>, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmc:entrez-nucleotide" xlink:href="G40802">G40802</ext-link>, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmc:entrez-nucleotide" xlink:href="G40803">G40803</ext-link>, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmc:entrez-nucleotide" xlink:href="G40804">G40804</ext-link>, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmc:entrez-nucleotide" xlink:href="G40811">G40811</ext-link>, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmc:entrez-nucleotide" xlink:href="G40812">G40812</ext-link>, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmc:entrez-nucleotide" xlink:href="G40813">G40813</ext-link>, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmc:entrez-nucleotide" xlink:href="G40814">G40814</ext-link>, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmc:entrez-nucleotide" xlink:href="G40821">G40821</ext-link>, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmc:entrez-nucleotide" xlink:href="G40822">G40822</ext-link>, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmc:entrez-nucleotide" xlink:href="G40823">G40823</ext-link>, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmc:entrez-nucleotide" xlink:href="G40824">G40824</ext-link>, G4089, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmc:entrez-nucleotide" xlink:href="G40901">G40901</ext-link>, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmc:entrez-nucleotide" xlink:href="G40909">G40909</ext-link>, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmc:entrez-nucleotide" xlink:href="G40911">G40911</ext-link>, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmc:entrez-nucleotide" xlink:href="G40919">G40919</ext-link>, G40A01, G40A09, G40A11, G40A19, G40B01, G40B09, G40B11, G40B19</td></tr><tr><td align="left" scope="row" rowspan="1" colspan="1"> Blurred vision</td><td align="left" rowspan="1" colspan="1">H53</td></tr><tr><td align="left" scope="row" rowspan="1" colspan="1"> Fatigue</td><td align="left" rowspan="1" colspan="1">R53</td></tr><tr><td align="left" scope="row" rowspan="1" colspan="1"> Memory loss</td><td align="left" rowspan="1" colspan="1">R413</td></tr><tr><td align="left" scope="row" rowspan="1" colspan="1"> Cognitive dysfunction</td><td align="left" rowspan="1" colspan="1">R410, R411, R412</td></tr><tr><td align="left" scope="row" rowspan="1" colspan="1"> Vertigo</td><td align="left" rowspan="1" colspan="1">H8110, H8111, H8112, H8113, H8141, H8142, H8143, H8149</td></tr><tr><td align="left" scope="row" rowspan="1" colspan="2">Respiratory</td></tr><tr><td align="left" scope="row" rowspan="1" colspan="1"> Cough</td><td align="left" rowspan="1" colspan="1">R05</td></tr><tr><td align="left" scope="row" rowspan="1" colspan="1"> Short of breath</td><td align="left" rowspan="1" colspan="1">R0602, R0600, R0609</td></tr><tr><td align="left" scope="row" rowspan="1" colspan="1"> Pulmonary embolism</td><td align="left" rowspan="1" colspan="1">I2699</td></tr><tr><td align="left" scope="row" rowspan="1" colspan="1"> Asthma</td><td align="left" rowspan="1" colspan="1">J45909, J4520, J45901, J4530, R062</td></tr><tr><td align="left" scope="row" rowspan="1" colspan="2">Cardiac</td></tr><tr><td align="left" scope="row" rowspan="1" colspan="1"> Chest pain</td><td align="left" rowspan="1" colspan="1">R079, R0789, R072</td></tr><tr><td align="left" scope="row" rowspan="1" colspan="1"> Palpitations</td><td align="left" rowspan="1" colspan="1">R002</td></tr><tr><td align="left" scope="row" rowspan="1" colspan="1"> Atrial fibrillation</td><td align="left" rowspan="1" colspan="1">I4891, I480</td></tr><tr><td align="left" scope="row" rowspan="1" colspan="1"> Syncope</td><td align="left" rowspan="1" colspan="1">R55</td></tr><tr><td align="left" scope="row" rowspan="1" colspan="1"> Tachycardia</td><td align="left" rowspan="1" colspan="1">R000</td></tr><tr><td align="left" scope="row" rowspan="1" colspan="1"> Heart failure</td><td align="left" rowspan="1" colspan="1">I509, I517</td></tr><tr><td align="left" scope="row" rowspan="1" colspan="1"> Bradycardia</td><td align="left" rowspan="1" colspan="1">R001</td></tr><tr><td align="left" scope="row" rowspan="1" colspan="1"> Myocardial infarction</td><td align="left" rowspan="1" colspan="1">I21, I22</td></tr><tr><td align="left" scope="row" rowspan="1" colspan="1"> Cerebral infarction, stroke</td><td align="left" rowspan="1" colspan="1">I63</td></tr><tr><td align="left" scope="row" rowspan="1" colspan="1"> Post-exertional malaise</td><td align="left" rowspan="1" colspan="1">T733</td></tr><tr><td align="left" scope="row" rowspan="1" colspan="1"> Myocarditis</td><td align="left" rowspan="1" colspan="1">I40, I41, I514, B3322</td></tr><tr><td align="left" scope="row" rowspan="1" colspan="1"> Pericarditis</td><td align="left" rowspan="1" colspan="1">I30, I32, B3323</td></tr></tbody></table><table-wrap-foot><fn fn-type="abbr"><p>Abbreviations: PASC, Post Acute Sequelae of COVID-19; ICD-10, International Classsification of Diseases, 10th Revision; PTSD, post-traumatic stress disorder.</p></fn></table-wrap-foot></table-wrap></sec><sec sec-type="cases"><title>Case definition</title><p>
+The outcome of interest, long COVID, was assessed using the PASC definition developed and validated by the Defense Centers for Public Health–Portsmouth (DCPHP). Briefly, the definition requires a service member to have a positive SARS-CoV-2 nucleic acid test or a confirmed COVID-19 RME, and an International Classification of Diseases, 10th Revision (ICD-10) code from 1 of the mental health, neurological, cardiac, or respiratory diagnostic groups from 4 to 52 weeks after the COVID-19 event. Diagnostic groups and their ICD-10 codes are shown in
+<xref rid="T2" ref-type="table">
+<bold>Supplementary Table 2</bold>
+</xref>
+. A service member must not have the same diagnosis within that specific diagnosis group within 1 year prior to the COVID-19 event. Inpatient and outpatient datasets from DMSS were used to identify incidence of long COVID in this population.
+</p><table-wrap position="float" id="T2" orientation="portrait"><label>SUPPLEMENTARY TABLE 2.</label><caption><p>ESSENCE COVID-like Illness (CLI) Definition</p></caption><table frame="border" rules="all" width="100%"><thead valign="middle"><tr><th align="left" scope="col" rowspan="1" colspan="1">Diagnosis Description</th><th align="center" scope="col" rowspan="1" colspan="1">ICD-10 Code</th></tr></thead><tbody valign="top"><tr><td align="left" scope="row" rowspan="1" colspan="1">Coronavirus, unspecified</td><td align="left" rowspan="1" colspan="1">B34.2</td></tr><tr><td align="left" scope="row" rowspan="1" colspan="1">SARS-associated coronavirus as cause of disease classified elsewhere</td><td align="left" rowspan="1" colspan="1">B97.21</td></tr><tr><td align="left" scope="row" rowspan="1" colspan="1">Other coronavirus as cause of disease classified elsewhere</td><td align="left" rowspan="1" colspan="1">B97.29</td></tr><tr><td align="left" scope="row" rowspan="1" colspan="1">Acute nasopharyngitis, common cold</td><td align="left" rowspan="1" colspan="1">J00</td></tr><tr><td align="left" scope="row" rowspan="1" colspan="1">Acute upper respiratory infection, unspecified</td><td align="left" rowspan="1" colspan="1">J06.9</td></tr><tr><td align="left" scope="row" rowspan="1" colspan="1">Pneumonia due to SARS-associated coronavirus</td><td align="left" rowspan="1" colspan="1">J12.81</td></tr><tr><td align="left" scope="row" rowspan="1" colspan="1">Other viral pneumonia</td><td align="left" rowspan="1" colspan="1">J12.89</td></tr><tr><td align="left" scope="row" rowspan="1" colspan="1">Viral pneumonia unspecified</td><td align="left" rowspan="1" colspan="1">J16.8</td></tr><tr><td align="left" scope="row" rowspan="1" colspan="1">Pneumonia in diseases classified elsewhere</td><td align="left" rowspan="1" colspan="1">J17</td></tr><tr><td align="left" scope="row" rowspan="1" colspan="1">Bronchopneumonia, unspecified organism</td><td align="left" rowspan="1" colspan="1">J18.0</td></tr><tr><td align="left" scope="row" rowspan="1" colspan="1">Lobar pneumonia, unspecified organism</td><td align="left" rowspan="1" colspan="1">J18.1</td></tr><tr><td align="left" scope="row" rowspan="1" colspan="1">Other pneumonia, unspecified organism</td><td align="left" rowspan="1" colspan="1">J18.8</td></tr><tr><td align="left" scope="row" rowspan="1" colspan="1">Pneumonia, unspecified organism</td><td align="left" rowspan="1" colspan="1">J18.9</td></tr><tr><td align="left" scope="row" rowspan="1" colspan="1">Acute bronchitis due to other specified organisms</td><td align="left" rowspan="1" colspan="1">J20.8</td></tr><tr><td align="left" scope="row" rowspan="1" colspan="1">Acute bronchitis, unspecified</td><td align="left" rowspan="1" colspan="1">J20.9</td></tr><tr><td align="left" scope="row" rowspan="1" colspan="1">Unspecified acute lower respiratory infection</td><td align="left" rowspan="1" colspan="1">J22</td></tr><tr><td align="left" scope="row" rowspan="1" colspan="1">Bronchitis, not specified as acute or chronic</td><td align="left" rowspan="1" colspan="1">J40</td></tr><tr><td align="left" scope="row" rowspan="1" colspan="1">Acute respiratory distress syndrome</td><td align="left" rowspan="1" colspan="1">J80</td></tr><tr><td align="left" scope="row" rowspan="1" colspan="1">Idiopathic interstitial pneumonia not otherwise specified</td><td align="left" rowspan="1" colspan="1">J84.111</td></tr><tr><td align="left" scope="row" rowspan="1" colspan="1">Cough</td><td align="left" rowspan="1" colspan="1">R05</td></tr><tr><td align="left" scope="row" rowspan="1" colspan="1">Dyspnea</td><td align="left" rowspan="1" colspan="1">R06.0</td></tr><tr><td align="left" scope="row" rowspan="1" colspan="1">Dyspnea, unspecified</td><td align="left" rowspan="1" colspan="1">R06.00</td></tr><tr><td align="left" scope="row" rowspan="1" colspan="1">Shortness of breath</td><td align="left" rowspan="1" colspan="1">R06.02</td></tr><tr><td align="left" scope="row" rowspan="1" colspan="1">Acute respiratory distress</td><td align="left" rowspan="1" colspan="1">R06.03</td></tr><tr><td align="left" scope="row" rowspan="1" colspan="1">Other forms of dyspnea</td><td align="left" rowspan="1" colspan="1">R06.09</td></tr><tr><td align="left" scope="row" rowspan="1" colspan="1">Anosmia</td><td align="left" rowspan="1" colspan="1">R43.0</td></tr><tr><td align="left" scope="row" rowspan="1" colspan="1">Ageusia</td><td align="left" rowspan="1" colspan="1">R43.2</td></tr><tr><td align="left" scope="row" rowspan="1" colspan="1">Fever, unspecified</td><td align="left" rowspan="1" colspan="1">R50.9</td></tr><tr><td align="left" scope="row" rowspan="1" colspan="1">2019-nCoV acute respiratory disease, COVID-19, virus identified</td><td align="left" rowspan="1" colspan="1">U07.1</td></tr></tbody></table><table-wrap-foot><fn fn-type="abbr"><p>Abbreviations: ESSENCE, Electronic Surveillance System for the Early Notification of Community-based Epidemics; SARS, severe acute respiratory syndrome; 2019-nCov, 2019 novel coronavirus; COVID-19, coronavirus disease 2019.</p></fn></table-wrap-foot></table-wrap></sec><sec><title>Analyses</title><p>This study focused on longitudinal forecasts of long COVID in the U.S. active component population. To facilitate time series forecasting, long COVID, COVID-19, and outpatient encounter data sets were converted into time series by aggregating the monthly numbers of cases and encounters. COVID-19 cases were additionally stratified by risk factor. The number of monthly cases and encounters were plotted together to visualize the relationship between each metric and the outcome of long COVID.</p><p>
+The data were divided into training and testing datasets. The training data-set included data from January 1, 2020 through June 30, 2022, and the testing data-set included data from July 1, 2022 through December 31, 2022. Using the training data, 3 models were fit with long COVID diagnoses as the outcome: autoregressive integrated moving average (ARIMA), neural network, and vector autoregressive (VAR), in addition to an ensemble model that represented the average of the other 3 models. Different versions of each model were fit, with 21 in total that featured different data lags (unlagged, 3-month lag, and 6-month lag) and covariate data including PASC encounters, COVID-19 cases, COVID-specific encounters, CLI encounters, and demographics (age, sex, race and ethnicity, rank, re-infection status, hospitalization status, and vaccination status). All model and covariate combinations are shown in
+<xref rid="T3" ref-type="table">
+<bold>Table 1</bold>
+</xref>
+. Model fit statistics were assessed for the training period, including Akaike information criterion (AIC), sigma
+<sup>
+<xref rid="B2" ref-type="bibr">2</xref>
+</sup>
+(variance of forecast errors), root mean squared error (RMSE), and median absolute percent error (MAPE).
+</p><table-wrap position="float" id="T3" orientation="portrait"><label>TABLE 1.</label><caption><p>Median Ensemble Model Fit Statistics, by Training Covariates and Lagging</p></caption><table frame="border" rules="all" width="100%"><thead valign="middle"><tr><th align="left" scope="col" rowspan="1" colspan="1">Combination</th><th align="center" scope="col" rowspan="1" colspan="1">
+AIC
+<sup>
+<xref rid="TF1-1" ref-type="table-fn">a</xref>
+</sup>
+</th><th align="center" scope="col" rowspan="1" colspan="1">
+Sigma
+<sup>
+<xref rid="B2" ref-type="bibr">2</xref>
+<xref rid="TF1-2" ref-type="table-fn">b</xref>
+</sup>
+</th><th align="center" scope="col" rowspan="1" colspan="1">RMSE</th><th align="center" scope="col" rowspan="1" colspan="1">MAPE</th></tr></thead><tbody valign="top"><tr><td align="left" scope="row" rowspan="1" colspan="1"> Base (no covariates)</td><td align="center" rowspan="1" colspan="1">331.5</td><td align="center" rowspan="1" colspan="1">250,962.5</td><td align="center" rowspan="1" colspan="1">491.2</td><td align="center" rowspan="1" colspan="1">10.1</td></tr><tr><td align="left" scope="row" rowspan="1" colspan="5">PASC encounters</td></tr><tr><td align="left" scope="row" rowspan="1" colspan="1"/><td align="right" rowspan="1" colspan="1">427.9</td><td align="right" rowspan="1" colspan="1">267,422.6</td><td align="right" rowspan="1" colspan="1">525.4</td><td align="right" rowspan="1" colspan="1">18.0</td></tr><tr><td align="left" scope="row" rowspan="1" colspan="5">COVID-19 cases</td></tr><tr><td align="left" scope="row" rowspan="1" colspan="1"> No lag</td><td align="right" rowspan="1" colspan="1">327.7</td><td align="right" rowspan="1" colspan="1">124,189.8</td><td align="right" rowspan="1" colspan="1">313.6</td><td align="right" rowspan="1" colspan="1">8.8</td></tr><tr><td align="left" scope="row" rowspan="1" colspan="1"> 3-month lag</td><td align="right" rowspan="1" colspan="1">421.9</td><td align="right" rowspan="1" colspan="1">250,262.5</td><td align="right" rowspan="1" colspan="1">645.6</td><td align="right" rowspan="1" colspan="1">19.6</td></tr><tr><td align="left" scope="row" rowspan="1" colspan="1"> 6-month lag</td><td align="right" rowspan="1" colspan="1">331.5</td><td align="right" rowspan="1" colspan="1">271,967.1</td><td align="right" rowspan="1" colspan="1">528.5</td><td align="right" rowspan="1" colspan="1">11.5</td></tr><tr><td align="left" scope="row" rowspan="1" colspan="5">COVID-19 encounters</td></tr><tr><td align="left" scope="row" rowspan="1" colspan="1"> No lag</td><td align="right" rowspan="1" colspan="1">331.4</td><td align="right" rowspan="1" colspan="1">211,062.8</td><td align="right" rowspan="1" colspan="1">445.8</td><td align="right" rowspan="1" colspan="1">11.0</td></tr><tr><td align="left" scope="row" rowspan="1" colspan="1"> 3-month lag</td><td align="right" rowspan="1" colspan="1">422.7</td><td align="right" rowspan="1" colspan="1">277,948.1</td><td align="right" rowspan="1" colspan="1">643.0</td><td align="right" rowspan="1" colspan="1">20.1</td></tr><tr><td align="left" scope="row" rowspan="1" colspan="1"> 6-month lag</td><td align="right" rowspan="1" colspan="1">331.6</td><td align="right" rowspan="1" colspan="1">202,544.6</td><td align="right" rowspan="1" colspan="1">441.7</td><td align="right" rowspan="1" colspan="1">9.8</td></tr><tr><td align="left" scope="row" rowspan="1" colspan="5">CLI encounters</td></tr><tr><td align="left" scope="row" rowspan="1" colspan="1"> No lag</td><td align="right" rowspan="1" colspan="1">331.6</td><td align="right" rowspan="1" colspan="1">217,329.0</td><td align="right" rowspan="1" colspan="1">455.5</td><td align="right" rowspan="1" colspan="1">10.5</td></tr><tr><td align="left" scope="row" rowspan="1" colspan="1"> 3-month lag</td><td align="right" rowspan="1" colspan="1">421.4</td><td align="right" rowspan="1" colspan="1">258,492.6</td><td align="right" rowspan="1" colspan="1">630.0</td><td align="right" rowspan="1" colspan="1">17.9</td></tr><tr><td align="left" scope="row" rowspan="1" colspan="1"> 6-month lag</td><td align="right" rowspan="1" colspan="1">420.5</td><td align="right" rowspan="1" colspan="1">254,913.9</td><td align="right" rowspan="1" colspan="1">621.4</td><td align="right" rowspan="1" colspan="1">17.3</td></tr><tr><td align="left" scope="row" rowspan="1" colspan="5">COVID-19 cases, COVID-19 encounters and CLI encounters</td></tr><tr><td align="left" scope="row" rowspan="1" colspan="1"> No lag</td><td align="right" rowspan="1" colspan="1">327.9</td><td align="right" rowspan="1" colspan="1">156,411.2</td><td align="right" rowspan="1" colspan="1">392.1</td><td align="right" rowspan="1" colspan="1">8.3</td></tr><tr><td align="left" scope="row" rowspan="1" colspan="1"> 3-month lag</td><td align="right" rowspan="1" colspan="1">425.3</td><td align="right" rowspan="1" colspan="1">284,716.0</td><td align="right" rowspan="1" colspan="1">610.4</td><td align="right" rowspan="1" colspan="1">16.3</td></tr><tr><td align="left" scope="row" rowspan="1" colspan="1"> 6-month lag</td><td align="right" rowspan="1" colspan="1">326.4</td><td align="right" rowspan="1" colspan="1">201,484.5</td><td align="right" rowspan="1" colspan="1">431.9</td><td align="right" rowspan="1" colspan="1">9.9</td></tr><tr><td align="left" scope="row" rowspan="1" colspan="5">Demographics: age, sex, race and ethnicity, rank, re-infection status, hospitalization status</td></tr><tr><td align="left" scope="row" rowspan="1" colspan="1"/><td align="right" rowspan="1" colspan="1">463.8</td><td align="right" rowspan="1" colspan="1">223,839.5</td><td align="right" rowspan="1" colspan="1">210.1</td><td align="right" rowspan="1" colspan="1">14.9</td></tr><tr><td align="left" scope="row" rowspan="1" colspan="5">COVID-19 cases, COVID-19 encounters, CLI encounters and demographics</td></tr><tr><td align="left" scope="row" rowspan="1" colspan="1"> No lag</td><td align="right" rowspan="1" colspan="1">470.2</td><td align="right" rowspan="1" colspan="1">350,118.4</td><td align="right" rowspan="1" colspan="1">262.6</td><td align="right" rowspan="1" colspan="1">75.8</td></tr><tr><td align="left" scope="row" rowspan="1" colspan="1"> 3-month lag</td><td align="right" rowspan="1" colspan="1">494.5</td><td align="right" rowspan="1" colspan="1">856,769.3</td><td align="right" rowspan="1" colspan="1">391.9</td><td align="right" rowspan="1" colspan="1">93.3</td></tr><tr><td align="left" scope="row" rowspan="1" colspan="1"> 6-month lag</td><td align="right" rowspan="1" colspan="1">485.7</td><td align="right" rowspan="1" colspan="1">623,760.2</td><td align="right" rowspan="1" colspan="1">334.1</td><td align="right" rowspan="1" colspan="1">112.3</td></tr><tr><td align="left" scope="row" rowspan="1" colspan="5">All: PASC encounters, COVID-19 cases, COVID-19 encounters, CLI encounters and demographics</td></tr><tr><td align="left" scope="row" rowspan="1" colspan="1"> No lag</td><td align="right" rowspan="1" colspan="1">465.1</td><td align="right" rowspan="1" colspan="1">299,529.7</td><td align="right" rowspan="1" colspan="1">231.8</td><td align="right" rowspan="1" colspan="1">56.6</td></tr><tr><td align="left" scope="row" rowspan="1" colspan="1"> 3-month lag</td><td align="right" rowspan="1" colspan="1">-103.8</td><td align="right" rowspan="1" colspan="1">0.0</td><td align="right" rowspan="1" colspan="1">0.4</td><td align="right" rowspan="1" colspan="1">0.05</td></tr><tr><td align="left" scope="row" rowspan="1" colspan="1"> 6-month lag</td><td align="right" rowspan="1" colspan="1">422.1</td><td align="right" rowspan="1" colspan="1">64,483.4</td><td align="right" rowspan="1" colspan="1">108.0</td><td align="right" rowspan="1" colspan="1">85.7</td></tr></tbody></table><table-wrap-foot><fn fn-type="abbr"><p>Abbreviations: AIC, Akaike information criterion; RMSE, root mean squared error; MAPE, median absolute percent error; PASC, post-acute sequelae of COVID-19; COVID-19, coronavirus disease 2019; CLI, COVID-like illness.</p></fn><fn fn-type="other" id="TF1-1"><label>a</label><p>Not available for neural network (NNET) model.</p></fn><fn fn-type="other" id="TF1-2"><label>b</label><p>Not available for vector autoregressive (VAR) model.</p></fn></table-wrap-foot></table-wrap><p>Models showing the best fit with the training data were selected for forecasting, including the models with all COVID-19 metrics and those with all metrics. The models using PASC encounters were also included for forecasting. Several baseline models were also created for comparison.</p><p>First, a seasonal NAÏVE was calculated using a 5-month lag of COVID-19 cases and 22% of COVID-19 cases diagnosed with long COVID in the cohort. The lag parameter represented the average time in months from the COVID-19 event date to the long COVID diagnosis date in the cohort, and the long COVID incidence parameter represented the percentage of COVID-19 cases diagnosed with long COVID in the sample.</p><p>Second, the distribution of the time from the COVID-19 event date to the long COVID diagnosis date in the cohort was estimated to be a Weibull distribution with a shape parameter of 1.56 and scale parameter of 5.81. A distribution of diagnosis times was calculated using the Weibull parameters, the long COVID incidence parameter described, and a minimum diagnosis time of 1 month and maximum of 12 months. The calculated distribution was applied to the time series of COVID-19 cases to create an estimate of expected long COVID diagnoses by month.</p><p>Similarly, an adjusted Weibull prediction was created using a long COVID incidence parameter that varied by risk factor. Based on factor-specific incidence of long COVID in the cohort, the parameter was estimated for sex (32% for females, 20% for males), race and ethnicity (21% for Asian, 22% for Hispanic, 27% for non-Hispanic Black, 21% for non-Hispanic White, 22% for ‘other’), age group (19% for &lt;20, 21% for 20-34, 27% for 35-39, 30% for 40-44, 31% for 45+), rank (23% for enlisted, 19% for officers), COVID-19 reinfection status (22% for first infection, 26% for re-infection), and COVID-19 hospitalization status (22% for not hospitalized, 43% for hospitalized). The average calculated distribution was applied to the time series of COVID-19 cases to create an estimate of expected long COVID diagnoses by month.</p><p>Lastly, an ensemble model was calculated as the average of all models for each covariate and lag combination as well as overall.</p><p>Two sets of forecasts were generated for each model combination. First, the number of long COVID diagnoses during the entire 6-month testing period was forecasted using the training dataset. Second, for each month during the testing period (July–December), forecasts were generated for each remaining month in the testing period (through December 2022). Models used data through the end of the previous month for training. For example, data through July 31, 2022, were used to generate forecasts for August, September, October, November, and December 2022. Data through August 31, 2022 were used to generate forecasts for September, October, November, and December 2022. This continued through the end of the testing period. Seasonal naïve and ensemble forecasts were generated in both quantile and point formats to facilitate evaluation of the complete distribution of the forecasts. Forecasts using the Weibull distribution were only generated as a point forecast.</p><p>
+Forecasts were scored by comparing the predicted number of long COVID diagnoses in a period to the observed number. Monthly point forecasts were scored using a MAPE, and quantile forecasts were scored using a weighted interval score (WIS). Full 6-month point forecasts were scored using percentage error. WIS has been used previously by the CDC for scoring COVID-19 forecasting hub entries.
+<sup>
+<xref rid="B10" ref-type="bibr">10</xref>
+</sup>
+All statistical analyses were conducted using R (version 4.1, R Foundation for Statistical Computing, Vienna, Austria), and an alpha (α) level of 0.05 was considered statistically significant.
+</p></sec></sec><sec sec-type="results"><title>Results</title><p>
+<xref rid="T4" ref-type="table">
+<bold>Table 2</bold>
+</xref>
+shows demographic characteristics of COVID-19 cases in the training and testing datasets. Datasets were similar by age, race and ethnicity, rank, and COVID-19 hospitalization, although a larger proportion of the testing dataset was female (24.3% vs. 20.4%). COVID-19 re-infections were much more prominent in the testing dataset (19.2% vs. 5.5%), although this was expected, as the testing data were generated nearly 2 years into the COVID-19 pandemic.
+<xref rid="F1" ref-type="fig">
+<bold>Figure 1</bold>
+</xref>
+shows the time series of observed data used for training and prediction in this study. As expected, incidence of COVID-19 was higher than PASC, with COVID-19 cases peaking between 10,000 and 20,000 monthly cases each summer, and between 25,000 and 100,000 monthly cases each winter, while PASC cases peaked between 2,500 and 6,000 monthly cases. PASC peaks tended to follow peaks in COVID-19 activity by 2 to 3 months.
+</p><table-wrap position="float" id="T4" orientation="portrait"><label>TABLE 2.</label><caption><p>Demographic Characteristics of COVID-19 Cases During Training and Testing Periods</p></caption><table frame="border" rules="all" width="100%"><thead valign="middle"><tr><th align="left" scope="col" rowspan="3" colspan="1">Variable</th><th align="center" scope="col" rowspan="1" colspan="4">Cases</th></tr><tr><th align="center" scope="col" rowspan="1" colspan="2">Training</th><th align="center" scope="col" rowspan="1" colspan="2">Testing</th></tr><tr><th align="center" scope="col" rowspan="1" colspan="1">No.</th><th align="center" scope="col" rowspan="1" colspan="1">%</th><th align="center" scope="col" rowspan="1" colspan="1">No.</th><th align="center" scope="col" rowspan="1" colspan="1">%</th></tr></thead><tbody valign="top"><tr><td align="left" scope="row" rowspan="1" colspan="1"> Total</td><td align="center" rowspan="1" colspan="1">402,352</td><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1">62,004</td><td align="center" rowspan="1" colspan="1"/></tr><tr><td align="left" scope="row" rowspan="1" colspan="5">
+Age,
+<italic toggle="yes">y</italic>
+</td></tr><tr><td align="left" scope="row" rowspan="1" colspan="1"> &lt;20</td><td align="right" rowspan="1" colspan="1">27,950</td><td align="right" rowspan="1" colspan="1">6.9</td><td align="right" rowspan="1" colspan="1">3,276</td><td align="right" rowspan="1" colspan="1">5.3</td></tr><tr><td align="left" scope="row" rowspan="1" colspan="1"> 20–24</td><td align="right" rowspan="1" colspan="1">138,332</td><td align="right" rowspan="1" colspan="1">34.4</td><td align="right" rowspan="1" colspan="1">19,323</td><td align="right" rowspan="1" colspan="1">31.2</td></tr><tr><td align="left" scope="row" rowspan="1" colspan="1"> 25–29</td><td align="right" rowspan="1" colspan="1">96,233</td><td align="right" rowspan="1" colspan="1">23.9</td><td align="right" rowspan="1" colspan="1">15,117</td><td align="right" rowspan="1" colspan="1">24.4</td></tr><tr><td align="left" scope="row" rowspan="1" colspan="1"> 30–34</td><td align="right" rowspan="1" colspan="1">62,144</td><td align="right" rowspan="1" colspan="1">15.4</td><td align="right" rowspan="1" colspan="1">10,366</td><td align="right" rowspan="1" colspan="1">16.7</td></tr><tr><td align="left" scope="row" rowspan="1" colspan="1"> 35–39</td><td align="right" rowspan="1" colspan="1">45,198</td><td align="right" rowspan="1" colspan="1">11.2</td><td align="right" rowspan="1" colspan="1">7,766</td><td align="right" rowspan="1" colspan="1">12.5</td></tr><tr><td align="left" scope="row" rowspan="1" colspan="1"> 40–44</td><td align="right" rowspan="1" colspan="1">21,242</td><td align="right" rowspan="1" colspan="1">5.3</td><td align="right" rowspan="1" colspan="1">3,870</td><td align="right" rowspan="1" colspan="1">6.2</td></tr><tr><td align="left" scope="row" rowspan="1" colspan="1"> 45+</td><td align="right" rowspan="1" colspan="1">11,251</td><td align="right" rowspan="1" colspan="1">2.8</td><td align="right" rowspan="1" colspan="1">2,286</td><td align="right" rowspan="1" colspan="1">3.7</td></tr><tr><td align="left" scope="row" rowspan="1" colspan="5">Sex</td></tr><tr><td align="left" scope="row" rowspan="1" colspan="1"> Female</td><td align="right" rowspan="1" colspan="1">82,064</td><td align="right" rowspan="1" colspan="1">20.4</td><td align="right" rowspan="1" colspan="1">15,050</td><td align="right" rowspan="1" colspan="1">24.3</td></tr><tr><td align="left" scope="row" rowspan="1" colspan="1"> Male</td><td align="right" rowspan="1" colspan="1">320,288</td><td align="right" rowspan="1" colspan="1">79.6</td><td align="right" rowspan="1" colspan="1">46,954</td><td align="right" rowspan="1" colspan="1">75.7</td></tr><tr><td align="left" scope="row" rowspan="1" colspan="5">Race and ethnicity</td></tr><tr><td align="left" scope="row" rowspan="1" colspan="1"> White, non-Hispanic</td><td align="right" rowspan="1" colspan="1">203,674</td><td align="right" rowspan="1" colspan="1">50.6</td><td align="right" rowspan="1" colspan="1">30,678</td><td align="right" rowspan="1" colspan="1">49.5</td></tr><tr><td align="left" scope="row" rowspan="1" colspan="1"> Black, non-Hispanic</td><td align="right" rowspan="1" colspan="1">70,954</td><td align="right" rowspan="1" colspan="1">17.6</td><td align="right" rowspan="1" colspan="1">10,547</td><td align="right" rowspan="1" colspan="1">17.0</td></tr><tr><td align="left" scope="row" rowspan="1" colspan="1"> Hispanic</td><td align="right" rowspan="1" colspan="1">80,899</td><td align="right" rowspan="1" colspan="1">20.1</td><td align="right" rowspan="1" colspan="1">12,305</td><td align="right" rowspan="1" colspan="1">19.8</td></tr><tr><td align="left" scope="row" rowspan="1" colspan="1"> Asian</td><td align="right" rowspan="1" colspan="1">15,462</td><td align="right" rowspan="1" colspan="1">3.8</td><td align="right" rowspan="1" colspan="1">2,772</td><td align="right" rowspan="1" colspan="1">4.5</td></tr><tr><td align="left" scope="row" rowspan="1" colspan="1"> Other</td><td align="right" rowspan="1" colspan="1">25,311</td><td align="right" rowspan="1" colspan="1">6.3</td><td align="right" rowspan="1" colspan="1">4,845</td><td align="right" rowspan="1" colspan="1">7.8</td></tr><tr><td align="left" scope="row" rowspan="1" colspan="1"> Unknown</td><td align="right" rowspan="1" colspan="1">6,052</td><td align="right" rowspan="1" colspan="1">1.5</td><td align="right" rowspan="1" colspan="1">857</td><td align="right" rowspan="1" colspan="1">1.4</td></tr><tr><td align="left" scope="row" rowspan="1" colspan="5">Rank</td></tr><tr><td align="left" scope="row" rowspan="1" colspan="1"> Enlisted</td><td align="right" rowspan="1" colspan="1">344,510</td><td align="right" rowspan="1" colspan="1">85.6</td><td align="right" rowspan="1" colspan="1">53,362</td><td align="right" rowspan="1" colspan="1">86.1</td></tr><tr><td align="left" scope="row" rowspan="1" colspan="1"> Officer</td><td align="right" rowspan="1" colspan="1">57,842</td><td align="right" rowspan="1" colspan="1">14.4</td><td align="right" rowspan="1" colspan="1">8,642</td><td align="right" rowspan="1" colspan="1">13.9</td></tr><tr><td align="left" scope="row" rowspan="1" colspan="5">Re-infection of COVID-19</td></tr><tr><td align="left" scope="row" rowspan="1" colspan="1"> First infection</td><td align="right" rowspan="1" colspan="1">380,256</td><td align="right" rowspan="1" colspan="1">94.5</td><td align="right" rowspan="1" colspan="1">50,121</td><td align="right" rowspan="1" colspan="1">80.8</td></tr><tr><td align="left" scope="row" rowspan="1" colspan="1"> Re-infection</td><td align="right" rowspan="1" colspan="1">22,096</td><td align="right" rowspan="1" colspan="1">5.5</td><td align="right" rowspan="1" colspan="1">11,883</td><td align="right" rowspan="1" colspan="1">19.2</td></tr><tr><td align="left" scope="row" rowspan="1" colspan="5">Hospitalization for COVID-19</td></tr><tr><td align="left" scope="row" rowspan="1" colspan="1"> Not hospitalized</td><td align="right" rowspan="1" colspan="1">399,367</td><td align="right" rowspan="1" colspan="1">99.3</td><td align="right" rowspan="1" colspan="1">61,611</td><td align="right" rowspan="1" colspan="1">99.4</td></tr><tr><td align="left" scope="row" rowspan="1" colspan="1"> Hospitalized</td><td align="right" rowspan="1" colspan="1">2,985</td><td align="right" rowspan="1" colspan="1">0.7</td><td align="right" rowspan="1" colspan="1">393</td><td align="right" rowspan="1" colspan="1">0.6</td></tr></tbody></table><table-wrap-foot><fn fn-type="abbr"><p>
+Abbreviations: COVID-19, coronavirus disease 2019; No., number;
+<italic toggle="yes">y</italic>
+, year.
+</p></fn></table-wrap-foot></table-wrap><fig position="float" id="F1" orientation="portrait"><label>FIGURE 1.</label><caption><p>Observed Monthly Numbers of Cases and Encounters, by Metric, 2020–2022</p></caption><long-desc>This graph presents five distinct lines on the x-, or horizontal, axis that represent counts for cases as well as health care encounters for COVID-19 and post-acute sequelae of COVID-19, and health care encounters only for COVD-19-like illnesses. The left y-, or vertical, axis indicates the counts of COVID-19 cases and health care encounters and COVID-19-like illness health care encounters, in units of 25,000, from zero to 100,000. The right y-axis indicates the counts of post-acute sequelae of COVID-19 cases and health care encounters, in units of 2,500, from zero to 10,000. The 17 points on the horizontal, or x-, axis each represent a specific month during the three year period, from January 2020 through December 2022, with only two-month intervals denoted on the axis. Four of the five lines spiked to their highest points in January 2022, with COVID-19 cases exceeding 100,000, COVID-19-like illness health care encounters at approximately 62,500, COVID-19 health care encounters at just over 37,500, and post-acute sequelae of COVID-19 health care encounters at around 1,000; prior to October 2021, there had been no health care encounters for post-acute sequelae of COVID-19. Increases in cases of post-acute sequelae of COVID-19 lagged behind the other indicators by a few months, peaking in February and March 2022, at approximately 5,500 and 6,000 cases, respectively. Although COVID-19 cases and health care encounters as well as COVID-19-like illness health care encounters returned to their pre-January 2022 numbers by March 2022, both cases and health care encounters for post-acute sequelae of COVID-19 remained elevated until the end of the surveillance period, with cases of post-acute sequelae of COVID-19 gradually declining to just under 3,000 and health care encounters to just under 300.</long-desc><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="msmr-32-10-29-f01.jpg"/></fig><p>
+<xref rid="T3" ref-type="table">
+<bold>Table 1</bold>
+</xref>
+shows model fit statistics for each combination of trained models during the training period. The lowest AIC was seen for the 3-month lag model containing all covariates (-103.8). This model combination also had the lowest sigma
+<sup>
+<xref rid="B2" ref-type="bibr">2</xref>
+</sup>
+(0.0), RMSE (0.4), and MAPE (0.05%) compared to other combinations. Other model combinations with a MAPE below 10% were the unlagged COVID-19 case model (8.8%), 6-month lagged COVID-19 encounter model (9.8%), unlagged all COVID-19 metric model (8.3%), and the 6-month lag all-COVID-19 metric model (9.9%). Graphs of the median fitted predicted values for each model combination and lag compared to observed data are shown in
+<xref rid="F2" ref-type="fig">
+<bold>Supplementary Figure 1</bold>
+</xref>
+. All models appeared to fit the observed data visually, although the models with all covariates and those with only demographic covariates appeared to fit the data best.
+</p><fig position="float" id="F2" orientation="portrait"><label>SUPPLEMENTARY FIGURE 1.</label><caption><p>Observed Versus Median Fitted Prediction, by Training Covariates and Data Lag</p></caption><long-desc>This compendium of six graphs depicts the observed versus predicted values for six forecasting models. Each graph provides results from a discrete forecast operation for the latter half of 2022: one month in advance, with six months of comparison data; two months in advance, with five months of comparison data; three months in advance, with four months of comparison data; four months in advance, with three months of comparison data; five months in advance, with two months of comparison data; and six months in advance, with one month of comparison data. The vertical, or y-, axis on each graph indicates the number of post-acute sequelae of COVID-19 cases, in units of 5,000, from zero to 15,000. The horizontal, or x-, axis on each graph is segmented into quarter, or four-month, intervals for the year 2022, with January 2022, April 2022, July 2022 and October 2022 denoted on the axis. The results revealed no consistent pattern, with some models predicting cases of post-acute sequelae of COVID-19 better with shorter horizons and other models predicting case numbers better with longer horizons.</long-desc><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="msmr-32-10-29-f02.jpg"/></fig><p>
+<xref rid="T5" ref-type="table">
+<bold>Table 3</bold>
+</xref>
+shows model scoring metrics for each ensemble and baseline model and forecasting horizons. For all forecasting horizons, the ensemble model using PASC encounters had the lowest median MAPE (9.2%) and weighted interval score (WIS) (206.6), followed by the 3-month lag ensemble model using all covariates (11.3% MAPE, 291.0 WIS), and the unadjusted Weibull model (MAPE 11.5%). Model performance varied between the 1-month ahead and 6-month ahead horizons.
+<xref rid="F3" ref-type="fig">
+<bold>Figure 2</bold>
+</xref>
+shows the observed compared to predicted values for each model and horizon. Ensemble models tended to predict a later peak than what was observed for the 1-month ahead through 3-month ahead forecasts, although this was less severe for the ensemble model using PASC encounters at the 2-month and 3-month ahead horizons. Weibull forecasts were more stable than ensemble model forecasts.
+</p><table-wrap position="float" id="T5" orientation="portrait"><label>TABLE 3.</label><caption><p>Median Model Scores, by Selected Ensemble and Baseline Models</p></caption><table frame="border" rules="all" width="100%"><thead valign="middle"><tr><th align="left" scope="col" rowspan="1" colspan="1">Combination</th><th align="center" scope="col" rowspan="1" colspan="1">MAPE</th><th align="center" scope="col" rowspan="1" colspan="1">WIS</th></tr></thead><tbody valign="top"><tr><td align="left" scope="row" rowspan="1" colspan="1"> Ensemble</td><td align="right" rowspan="1" colspan="1">15.3</td><td align="right" rowspan="1" colspan="1">322.8</td></tr><tr><td align="left" scope="row" rowspan="1" colspan="1"> Ensemble (all covariates)</td><td align="right" rowspan="1" colspan="1">13.9</td><td align="right" rowspan="1" colspan="1">265.9</td></tr><tr><td align="left" scope="row" rowspan="1" colspan="1"> Ensemble (all covariates, 3-month lag)</td><td align="right" rowspan="1" colspan="1">11.3</td><td align="right" rowspan="1" colspan="1">291.0</td></tr><tr><td align="left" scope="row" rowspan="1" colspan="1"> Ensemble (all covariates, 6-month lag)</td><td align="right" rowspan="1" colspan="1">16.2</td><td align="right" rowspan="1" colspan="1">363.8</td></tr><tr><td align="left" scope="row" rowspan="1" colspan="1"> Ensemble (PASC encounters)</td><td align="right" rowspan="1" colspan="1">9.2</td><td align="right" rowspan="1" colspan="1">206.6</td></tr><tr><td align="left" scope="row" rowspan="1" colspan="1"> SNaïve</td><td align="right" rowspan="1" colspan="1">23.2</td><td align="right" rowspan="1" colspan="1">1,098.3</td></tr><tr><td align="left" scope="row" rowspan="1" colspan="1"> Weibull 1</td><td align="right" rowspan="1" colspan="1">11.5</td><td align="right" rowspan="1" colspan="1">N/A</td></tr><tr><td align="left" scope="row" rowspan="1" colspan="1"> Weibull 2</td><td align="right" rowspan="1" colspan="1">9.7</td><td align="right" rowspan="1" colspan="1">N/A</td></tr><tr><td align="left" scope="row" rowspan="1" colspan="3">1 month ahead</td></tr><tr><td align="left" scope="row" rowspan="1" colspan="1"> Ensemble</td><td align="right" rowspan="1" colspan="1">13.6</td><td align="right" rowspan="1" colspan="1">263.9</td></tr><tr><td align="left" scope="row" rowspan="1" colspan="1"> Ensemble (all covariates)</td><td align="right" rowspan="1" colspan="1">8.8</td><td align="right" rowspan="1" colspan="1">155.6</td></tr><tr><td align="left" scope="row" rowspan="1" colspan="1"> Ensemble (all covariates, 3-month lag)</td><td align="right" rowspan="1" colspan="1">6.9</td><td align="right" rowspan="1" colspan="1">132.9</td></tr><tr><td align="left" scope="row" rowspan="1" colspan="1"> Ensemble (all covariates, 6-month lag)</td><td align="right" rowspan="1" colspan="1">15.0</td><td align="right" rowspan="1" colspan="1">319.6</td></tr><tr><td align="left" scope="row" rowspan="1" colspan="1"> Ensemble (PASC encounters)</td><td align="right" rowspan="1" colspan="1">8.8</td><td align="right" rowspan="1" colspan="1">180.3</td></tr><tr><td align="left" scope="row" rowspan="1" colspan="1"> SNaïve</td><td align="right" rowspan="1" colspan="1">28.0</td><td align="right" rowspan="1" colspan="1">1,082.2</td></tr><tr><td align="left" scope="row" rowspan="1" colspan="1"> Weibull 1</td><td align="right" rowspan="1" colspan="1">11.7</td><td align="right" rowspan="1" colspan="1">N/A</td></tr><tr><td align="left" scope="row" rowspan="1" colspan="1"> Weibull 2</td><td align="right" rowspan="1" colspan="1">10.0</td><td align="right" rowspan="1" colspan="1">N/A</td></tr><tr><td align="left" scope="row" rowspan="1" colspan="3">2 months ahead</td></tr><tr><td align="left" scope="row" rowspan="1" colspan="1"> Ensemble</td><td align="right" rowspan="1" colspan="1">18.1</td><td align="right" rowspan="1" colspan="1">332.9</td></tr><tr><td align="left" scope="row" rowspan="1" colspan="1"> Ensemble (all covariates)</td><td align="right" rowspan="1" colspan="1">15.5</td><td align="right" rowspan="1" colspan="1">378.1</td></tr><tr><td align="left" scope="row" rowspan="1" colspan="1"> Ensemble (all covariates, 3-month lag)</td><td align="right" rowspan="1" colspan="1">18.6</td><td align="right" rowspan="1" colspan="1">438.2</td></tr><tr><td align="left" scope="row" rowspan="1" colspan="1"> Ensemble (all covariates, 6-month lag)</td><td align="right" rowspan="1" colspan="1">14.0</td><td align="right" rowspan="1" colspan="1">326.7</td></tr><tr><td align="left" scope="row" rowspan="1" colspan="1"> Ensemble (PASC encounters)</td><td align="right" rowspan="1" colspan="1">12.0</td><td align="right" rowspan="1" colspan="1">217.3</td></tr><tr><td align="left" scope="row" rowspan="1" colspan="1"> SNaïve</td><td align="right" rowspan="1" colspan="1">23.2</td><td align="right" rowspan="1" colspan="1">1,077.4</td></tr><tr><td align="left" scope="row" rowspan="1" colspan="1"> Weibull 1</td><td align="right" rowspan="1" colspan="1">11.5</td><td align="right" rowspan="1" colspan="1">N/A</td></tr><tr><td align="left" scope="row" rowspan="1" colspan="1"> Weibull 2</td><td align="right" rowspan="1" colspan="1">9.7</td><td align="right" rowspan="1" colspan="1">N/A</td></tr><tr><td align="left" scope="row" rowspan="1" colspan="3">3 months ahead</td></tr><tr><td align="left" scope="row" rowspan="1" colspan="1"> Ensemble</td><td align="right" rowspan="1" colspan="1">22.4</td><td align="right" rowspan="1" colspan="1">410.2</td></tr><tr><td align="left" scope="row" rowspan="1" colspan="1"> Ensemble (all covariates)</td><td align="right" rowspan="1" colspan="1">12.7</td><td align="right" rowspan="1" colspan="1">231.2</td></tr><tr><td align="left" scope="row" rowspan="1" colspan="1"> Ensemble (all covariates, 3-month lag)</td><td align="right" rowspan="1" colspan="1">15.1</td><td align="right" rowspan="1" colspan="1">364.8</td></tr><tr><td align="left" scope="row" rowspan="1" colspan="1"> Ensemble (all covariates, 6-month lag)</td><td align="right" rowspan="1" colspan="1">20.4</td><td align="right" rowspan="1" colspan="1">472.3</td></tr><tr><td align="left" scope="row" rowspan="1" colspan="1"> Ensemble (PASC encounters)</td><td align="right" rowspan="1" colspan="1">14.0</td><td align="right" rowspan="1" colspan="1">277.9</td></tr><tr><td align="left" scope="row" rowspan="1" colspan="1"> SNaïve</td><td align="right" rowspan="1" colspan="1">21.4</td><td align="right" rowspan="1" colspan="1">1,087.8</td></tr><tr><td align="left" scope="row" rowspan="1" colspan="1"> Weibull 1</td><td align="right" rowspan="1" colspan="1">11.1</td><td align="right" rowspan="1" colspan="1">N/A</td></tr><tr><td align="left" scope="row" rowspan="1" colspan="1"> Weibull 2</td><td align="right" rowspan="1" colspan="1">9.3</td><td align="right" rowspan="1" colspan="1">N/A</td></tr><tr><td align="left" scope="row" rowspan="1" colspan="3">4 months ahead</td></tr><tr><td align="left" scope="row" rowspan="1" colspan="1"> Ensemble</td><td align="right" rowspan="1" colspan="1">15.2</td><td align="right" rowspan="1" colspan="1">289.3</td></tr><tr><td align="left" scope="row" rowspan="1" colspan="1"> Ensemble (all covariates)</td><td align="right" rowspan="1" colspan="1">4.9</td><td align="right" rowspan="1" colspan="1">118.4</td></tr><tr><td align="left" scope="row" rowspan="1" colspan="1"> Ensemble (all covariates, 3-month lag)</td><td align="right" rowspan="1" colspan="1">12.6</td><td align="right" rowspan="1" colspan="1">327.5</td></tr><tr><td align="left" scope="row" rowspan="1" colspan="1"> Ensemble (all covariates, 6-month lag)</td><td align="right" rowspan="1" colspan="1">45.5</td><td align="right" rowspan="1" colspan="1">1,488.2</td></tr><tr><td align="left" scope="row" rowspan="1" colspan="1"> Ensemble (PASC encounters)</td><td align="right" rowspan="1" colspan="1">5.8</td><td align="right" rowspan="1" colspan="1">206.6</td></tr><tr><td align="left" scope="row" rowspan="1" colspan="1"> SNaïve</td><td align="right" rowspan="1" colspan="1">19.5</td><td align="right" rowspan="1" colspan="1">1,101.5</td></tr><tr><td align="left" scope="row" rowspan="1" colspan="1"> Weibull 1</td><td align="right" rowspan="1" colspan="1">11.5</td><td align="right" rowspan="1" colspan="1">N/A</td></tr><tr><td align="left" scope="row" rowspan="1" colspan="1"> Weibull 2</td><td align="right" rowspan="1" colspan="1">9.7</td><td align="right" rowspan="1" colspan="1">N/A</td></tr><tr><td align="left" scope="row" rowspan="1" colspan="3">5 months ahead</td></tr><tr><td align="left" scope="row" rowspan="1" colspan="1"> Ensemble</td><td align="right" rowspan="1" colspan="1">10.2</td><td align="right" rowspan="1" colspan="1">227.9</td></tr><tr><td align="left" scope="row" rowspan="1" colspan="1"> Ensemble (all covariates)</td><td align="right" rowspan="1" colspan="1">13.7</td><td align="right" rowspan="1" colspan="1">249.4</td></tr><tr><td align="left" scope="row" rowspan="1" colspan="1"> Ensemble (all covariates, 3-month lag)</td><td align="right" rowspan="1" colspan="1">9.2</td><td align="right" rowspan="1" colspan="1">220.4</td></tr><tr><td align="left" scope="row" rowspan="1" colspan="1"> Ensemble (all covariates, 6-month lag)</td><td align="right" rowspan="1" colspan="1">19.2</td><td align="right" rowspan="1" colspan="1">505.8</td></tr><tr><td align="left" scope="row" rowspan="1" colspan="1"> Ensemble (PASC encounters)</td><td align="right" rowspan="1" colspan="1">4.7</td><td align="right" rowspan="1" colspan="1">200.0</td></tr><tr><td align="left" scope="row" rowspan="1" colspan="1"> SNaïve</td><td align="right" rowspan="1" colspan="1">13.7</td><td align="right" rowspan="1" colspan="1">1,113.7</td></tr><tr><td align="left" scope="row" rowspan="1" colspan="1"> Weibull 1</td><td align="right" rowspan="1" colspan="1">12.2</td><td align="right" rowspan="1" colspan="1">N/A</td></tr><tr><td align="left" scope="row" rowspan="1" colspan="1"> Weibull 2</td><td align="right" rowspan="1" colspan="1">10.4</td><td align="right" rowspan="1" colspan="1">N/A</td></tr><tr><td align="left" scope="row" rowspan="1" colspan="3">6 months ahead</td></tr><tr><td align="left" scope="row" rowspan="1" colspan="1"> Ensemble</td><td align="right" rowspan="1" colspan="1">23.9</td><td align="right" rowspan="1" colspan="1">368.8</td></tr><tr><td align="left" scope="row" rowspan="1" colspan="1"> Ensemble (all covariates)</td><td align="right" rowspan="1" colspan="1">30.5</td><td align="right" rowspan="1" colspan="1">632.3</td></tr><tr><td align="left" scope="row" rowspan="1" colspan="1"> Ensemble (all covariates, 3-month lag)</td><td align="right" rowspan="1" colspan="1">11.3</td><td align="right" rowspan="1" colspan="1">202.2</td></tr><tr><td align="left" scope="row" rowspan="1" colspan="1"> Ensemble (all covariates, 6-month lag)</td><td align="right" rowspan="1" colspan="1">32.8</td><td align="right" rowspan="1" colspan="1">797.0</td></tr><tr><td align="left" scope="row" rowspan="1" colspan="1"> Ensemble (PASC encounters)</td><td align="right" rowspan="1" colspan="1">2.9</td><td align="right" rowspan="1" colspan="1">191.7</td></tr><tr><td align="left" scope="row" rowspan="1" colspan="1"> SNaïve</td><td align="right" rowspan="1" colspan="1">18.7</td><td align="right" rowspan="1" colspan="1">1,326.7</td></tr><tr><td align="left" scope="row" rowspan="1" colspan="1"> Weibull 1</td><td align="right" rowspan="1" colspan="1">11.5</td><td align="right" rowspan="1" colspan="1">N/A</td></tr><tr><td align="left" scope="row" rowspan="1" colspan="1"> Weibull 2</td><td align="right" rowspan="1" colspan="1">9.7</td><td align="right" rowspan="1" colspan="1">N/A</td></tr></tbody></table><table-wrap-foot><fn fn-type="abbr"><p>Abbreviations: MAPE, median absolute percent error; WIS, weighted interval score; PASC, post-acute sequelae of COVID-19; SNaïve, seasonal naïve; N/A, not applicable.</p></fn></table-wrap-foot></table-wrap><fig position="float" id="F3" orientation="portrait"><label>FIGURE 2.</label><caption><p>Observed Versus Predicted Value, by Selected Ensemble and Baseline Models and Forecasting Horizon</p></caption><long-desc>This compendium of six graphs depicts the observed versus predicted values for six forecasting models. Each graph provides results from a discrete forecast operation for the latter half of 2022: one month in advance, with six months of comparison data; two months in advance, with five months of comparison data; three months in advance, with four months of comparison data; four months in advance, with three months of comparison data; five months in advance, with two months of comparison data; and six months in advance, with one month of comparison data. The vertical, or y-, axis on each graph indicates the number of post-acute sequelae of COVID-19 cases, in units of 5,000, from zero to 15,000. The horizontal, or x-, axis on each graph is segmented into quarter, or four-month, intervals for the year 2022, with January 2022, April 2022, July 2022 and October 2022 denoted on the axis. The results revealed no consistent pattern, with some models predicting cases of post-acute sequelae of COVID-19 better with shorter horizons and other models predicting case numbers better with longer horizons.</long-desc><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="msmr-32-10-29-f03.jpg"/></fig><p>
+<xref rid="T6" ref-type="table">
+<bold>Table 4</bold>
+</xref>
+shows the results of the full 6-month forecasts. During the forecasting period, from July through December 2022, 23,132 incident cases of PASC were observed. The 6-month lag ensemble model using all covariates had the lowest percent error over the 6-month period at -0.8% (22,960 predicted cases), followed by the unlagged ensemble model using all covariates (+4.3%, 24,174 predicted cases), adjusted Weibull model (-4.7%, 22,093 predicted cases), and the ensemble model using PASC encounters (+5%, 24,353 predicted cases). The seasonal naïve model had the highest percentage error, -71.6%, predicting only 13,479 cases during the 6-month period.
+</p><table-wrap position="float" id="T6" orientation="portrait"><label>TABLE 4.</label><caption><p>Observed Versus Predicted Six-Month PASC Cases, by Selected Ensemble and Baseline Models</p></caption><table frame="border" rules="all" width="100%"><thead valign="middle"><tr><th align="left" scope="col" rowspan="3" colspan="1">Model</th><th align="center" scope="col" rowspan="1" colspan="14">Predicted Cases</th></tr><tr><th align="center" scope="col" rowspan="1" colspan="2">July 2022</th><th align="center" scope="col" rowspan="1" colspan="2">August 2022</th><th align="center" scope="col" rowspan="1" colspan="2">September 2022</th><th align="center" scope="col" rowspan="1" colspan="2">October 2022</th><th align="center" scope="col" rowspan="1" colspan="2">November 2022</th><th align="center" scope="col" rowspan="1" colspan="2">December 2022</th><th align="center" scope="col" rowspan="1" colspan="2">July-December 2022</th></tr><tr><th align="center" scope="col" rowspan="1" colspan="1">No.</th><th align="center" scope="col" rowspan="1" colspan="1">% Error</th><th align="center" scope="col" rowspan="1" colspan="1">No.</th><th align="center" scope="col" rowspan="1" colspan="1">% Error</th><th align="center" scope="col" rowspan="1" colspan="1">No.</th><th align="center" scope="col" rowspan="1" colspan="1">% Error</th><th align="center" scope="col" rowspan="1" colspan="1">No.</th><th align="center" scope="col" rowspan="1" colspan="1">% Error</th><th align="center" scope="col" rowspan="1" colspan="1">No.</th><th align="center" scope="col" rowspan="1" colspan="1">% Error</th><th align="center" scope="col" rowspan="1" colspan="1">No.</th><th align="center" scope="col" rowspan="1" colspan="1">% Error</th><th align="center" scope="col" rowspan="1" colspan="1">No.</th><th align="center" scope="col" rowspan="1" colspan="1">% Error</th></tr></thead><tbody valign="top"><tr><td align="left" scope="row" rowspan="1" colspan="1">Observed</td><td align="right" rowspan="1" colspan="1">3,702</td><td align="right" rowspan="1" colspan="1">—</td><td align="right" rowspan="1" colspan="1">4,712</td><td align="right" rowspan="1" colspan="1">—</td><td align="right" rowspan="1" colspan="1">4,163</td><td align="right" rowspan="1" colspan="1">—</td><td align="right" rowspan="1" colspan="1">3,938</td><td align="right" rowspan="1" colspan="1">—</td><td align="right" rowspan="1" colspan="1">3,553</td><td align="right" rowspan="1" colspan="1">—</td><td align="right" rowspan="1" colspan="1">3,064</td><td align="right" rowspan="1" colspan="1">—</td><td align="right" rowspan="1" colspan="1">23,132</td><td align="right" rowspan="1" colspan="1">—</td></tr><tr><td align="left" scope="row" rowspan="1" colspan="1">Ensemble</td><td align="right" rowspan="1" colspan="1">4,368</td><td align="right" rowspan="1" colspan="1">+15.2</td><td align="right" rowspan="1" colspan="1">5,567</td><td align="right" rowspan="1" colspan="1">15.4</td><td align="right" rowspan="1" colspan="1">5,191</td><td align="right" rowspan="1" colspan="1">+19.8</td><td align="right" rowspan="1" colspan="1">4,537</td><td align="right" rowspan="1" colspan="1">+13.2</td><td align="right" rowspan="1" colspan="1">3,777</td><td align="right" rowspan="1" colspan="1">+5.9</td><td align="right" rowspan="1" colspan="1">3,797</td><td align="right" rowspan="1" colspan="1">+19.3</td><td align="right" rowspan="1" colspan="1">27,237</td><td align="right" rowspan="1" colspan="1">+15.1</td></tr><tr><td align="left" scope="row" rowspan="1" colspan="1">Ensemble (all covariates)</td><td align="right" rowspan="1" colspan="1">3,884</td><td align="right" rowspan="1" colspan="1">+4.7</td><td align="right" rowspan="1" colspan="1">3,980</td><td align="right" rowspan="1" colspan="1">-18.4</td><td align="right" rowspan="1" colspan="1">4,097</td><td align="right" rowspan="1" colspan="1">-1.6</td><td align="right" rowspan="1" colspan="1">4,132</td><td align="right" rowspan="1" colspan="1">+4.7</td><td align="right" rowspan="1" colspan="1">4,082</td><td align="right" rowspan="1" colspan="1">+13.0</td><td align="right" rowspan="1" colspan="1">4,000</td><td align="right" rowspan="1" colspan="1">+23.4</td><td align="right" rowspan="1" colspan="1">24,174</td><td align="right" rowspan="1" colspan="1">+4.3</td></tr><tr><td align="left" scope="row" rowspan="1" colspan="1">Ensemble (all covariates, 3 month lag)</td><td align="right" rowspan="1" colspan="1">3,510</td><td align="right" rowspan="1" colspan="1">-5.5</td><td align="right" rowspan="1" colspan="1">3,352</td><td align="right" rowspan="1" colspan="1">-40.6</td><td align="right" rowspan="1" colspan="1">3,710</td><td align="right" rowspan="1" colspan="1">-12.2</td><td align="right" rowspan="1" colspan="1">3,444</td><td align="right" rowspan="1" colspan="1">-14.4</td><td align="right" rowspan="1" colspan="1">3,557</td><td align="right" rowspan="1" colspan="1">+0.1</td><td align="right" rowspan="1" colspan="1">3,409</td><td align="right" rowspan="1" colspan="1">+10.1</td><td align="right" rowspan="1" colspan="1">20,982</td><td align="right" rowspan="1" colspan="1">-10.2</td></tr><tr><td align="left" scope="row" rowspan="1" colspan="1">Ensemble (all covariates, 6 month lag)</td><td align="right" rowspan="1" colspan="1">2,553</td><td align="right" rowspan="1" colspan="1">-45.0</td><td align="right" rowspan="1" colspan="1">4,328</td><td align="right" rowspan="1" colspan="1">-8.9</td><td align="right" rowspan="1" colspan="1">4,307</td><td align="right" rowspan="1" colspan="1">+3.3</td><td align="right" rowspan="1" colspan="1">4,012</td><td align="right" rowspan="1" colspan="1">+1.8</td><td align="right" rowspan="1" colspan="1">3,692</td><td align="right" rowspan="1" colspan="1">+3.8</td><td align="right" rowspan="1" colspan="1">4,068</td><td align="right" rowspan="1" colspan="1">+24.7</td><td align="right" rowspan="1" colspan="1">22,960</td><td align="right" rowspan="1" colspan="1">-0.8</td></tr><tr><td align="left" scope="row" rowspan="1" colspan="1">Ensemble (PASC encounters)</td><td align="right" rowspan="1" colspan="1">3,359</td><td align="right" rowspan="1" colspan="1">-10.2</td><td align="right" rowspan="1" colspan="1">4,874</td><td align="right" rowspan="1" colspan="1">+3.3</td><td align="right" rowspan="1" colspan="1">5,509</td><td align="right" rowspan="1" colspan="1">+24.4</td><td align="right" rowspan="1" colspan="1">4,168</td><td align="right" rowspan="1" colspan="1">+5.5</td><td align="right" rowspan="1" colspan="1">3,466</td><td align="right" rowspan="1" colspan="1">-2.5</td><td align="right" rowspan="1" colspan="1">2,976</td><td align="right" rowspan="1" colspan="1">-2.9</td><td align="right" rowspan="1" colspan="1">24,353</td><td align="right" rowspan="1" colspan="1">+5.0</td></tr><tr><td align="left" scope="row" rowspan="1" colspan="1">SNaïve</td><td align="right" rowspan="1" colspan="1">2,491</td><td align="right" rowspan="1" colspan="1">-48.6</td><td align="right" rowspan="1" colspan="1">599</td><td align="right" rowspan="1" colspan="1">-686.3</td><td align="right" rowspan="1" colspan="1">1,029</td><td align="right" rowspan="1" colspan="1">-304.6</td><td align="right" rowspan="1" colspan="1">3,172</td><td align="right" rowspan="1" colspan="1">-24.2</td><td align="right" rowspan="1" colspan="1">3,697</td><td align="right" rowspan="1" colspan="1">+3.9</td><td align="right" rowspan="1" colspan="1">2,491</td><td align="right" rowspan="1" colspan="1">-23.0</td><td align="right" rowspan="1" colspan="1">13,479</td><td align="right" rowspan="1" colspan="1">-71.6</td></tr><tr><td align="left" scope="row" rowspan="1" colspan="1">Weibull 1</td><td align="right" rowspan="1" colspan="1">4,311</td><td align="right" rowspan="1" colspan="1">+14.1</td><td align="right" rowspan="1" colspan="1">4,152</td><td align="right" rowspan="1" colspan="1">-13.5</td><td align="right" rowspan="1" colspan="1">3,889</td><td align="right" rowspan="1" colspan="1">-7.0</td><td align="right" rowspan="1" colspan="1">3,516</td><td align="right" rowspan="1" colspan="1">-12.0</td><td align="right" rowspan="1" colspan="1">3,096</td><td align="right" rowspan="1" colspan="1">-14.8</td><td align="right" rowspan="1" colspan="1">2,711</td><td align="right" rowspan="1" colspan="1">-13.0</td><td align="right" rowspan="1" colspan="1">21,675</td><td align="right" rowspan="1" colspan="1">-6.7</td></tr><tr><td align="left" scope="row" rowspan="1" colspan="1">Weibull 2</td><td align="right" rowspan="1" colspan="1">4,387</td><td align="right" rowspan="1" colspan="1">+15.6</td><td align="right" rowspan="1" colspan="1">4,229</td><td align="right" rowspan="1" colspan="1">-11.4</td><td align="right" rowspan="1" colspan="1">3,964</td><td align="right" rowspan="1" colspan="1">-5.0</td><td align="right" rowspan="1" colspan="1">3,586</td><td align="right" rowspan="1" colspan="1">-9.8</td><td align="right" rowspan="1" colspan="1">3,159</td><td align="right" rowspan="1" colspan="1">-12.5</td><td align="right" rowspan="1" colspan="1">2,768</td><td align="right" rowspan="1" colspan="1">-10.7</td><td align="right" rowspan="1" colspan="1">22,093</td><td align="right" rowspan="1" colspan="1">-4.7</td></tr></tbody></table><table-wrap-foot><fn fn-type="abbr"><p>Abbreviations: PASC, post-acute sequelae of COVID-19; No., number; SNaïve, seasonal naïve.</p></fn></table-wrap-foot></table-wrap></sec><sec sec-type="discussion"><title>Discussion</title><p>
+This study aimed to use various forecasting models, including time series and machine learning models, as well as simple time-based distributions, to predict the number of incident long COVID diagnoses over a 6-month period utilizing various case, outpatient encounter, and demographic data. Forecasts were generated at the beginning of the study period for the entire 6-month period, and 1- to 6-month forecasts were generated for each month in the study period. Monthly forecasts ranged in accuracy, with the PASC encounter ensemble model having the lowest WIS for all forecasting horizons and a MAPE below 10%, as did the adjusted Weibull forecasts, which can be seen in
+<xref rid="T6" ref-type="table">
+<bold>Table 4</bold>
+</xref>
+and
+<xref rid="F4" ref-type="fig">
+<bold>Supplementary Figure 2</bold>
+</xref>
+. No pattern was seen for the 1- to 6-month ahead horizons, with some models performing better at earlier horizons and some performing better at later horizons. This contrasts with COVID-19 forecasts, which tend to perform worse as horizons increase.
+<sup>
+<xref rid="B11" ref-type="bibr">11</xref>
+</sup>
+</p><fig position="float" id="F4" orientation="portrait"><label>SUPPLEMENTARY FIGURE 2.</label><caption><p>Observed Versus Median Fitted Prediction, by Training Covariates and Data Lag</p></caption><long-desc>This graph compendium displays two columns of seven paired boxplot panels. The first column shows the median absolute percent error, or MAPE metric, and the second shows weighted interval score, or WIS metric. Each panel contains seven boxplots representing different forecasting models. The vertical, or y-, axis of each panel represents the metric value, while the horizontal, or x-, axis of each panel represents the forecast horizon from one to six months ahead in addition to all horizons combined. In each boxplot, the box shows the interquartile range, the line inside the box indicates the median, and whiskers show variability outside the interquartile range, outliers are plotted as points. Monthly forecasts appear to range in accuracy, with the post-acute sequelae of COVID encounter ensemble model having the lowest WIS for all forecasting horizons and a MAPE below 10 percent, as did the adjusted Weibull forecasts. No pattern seen for the one to six month ahead horizons, with some models performing better at earlier horizons and some performing better at later horizons.</long-desc><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="msmr-32-10-29-f04.jpg"/></fig><p>
+Because long COVID is not an infectious process, it may not be useful to generate monthly forecasts of long COVID diagnoses, but instead generate forecasts for a specified period, to assist senior leaders and public health practitioners with planning for expected case burdens. To this end, forecasts of the entire 6-month period may be most useful. The ensemble model using all covariates and a 6-month lag was the most accurate, with a percent error of just -0.8% (-172 cases) over the study period. This is not unexpected, as the average time to a long COVID diagnosis was 5 months, so lagging covariate data by 6 months is a reasonable choice. Other models also had a percentage error within 5%, however, including the unlagged ensemble model using all covariates (+4.3%), the adjusted Weibull model (-4.7%), and the ensemble model using PASC encounters (+5.0%). These results are similar to estimates in a previous study of Lyme disease, another slow-developing disease.
+<sup>
+<xref rid="B8" ref-type="bibr">8</xref>
+</sup>
+Despite having the best model fit using the training data, the 3-month lag all-covariate ensemble model had a percentage error of -10.2%, ranking only sixth best of the 8 models tested. This was not unexpected, as the lag in the full cohort was 5 months, which is closer to the 6-month lag model. It does not explain why the model performed worse than the unlagged ensemble model, however.
+</p><p>This study serves as a ‘proof of concept’ for long COVID forecasting, demonstrating how forecasting models can be used to predict incident long COVID cases up to 6 months in advance, utilizing clinical and demographic data. The study employed existing datasets and surveillance databases to accurately predict the numbers of long COVID diagnoses over a 6-month period.</p><p>This study has several limitations. First, models were only trained on COVID-19 cases from January 1, 2020 through June 30, 2022 and, therefore, do not reflect trends in long COVID in later years. Second, the study included the entire U.S., which may not be as useful as regional or single installation forecasts, a possible goal of future studies. Lastly, longer-term horizons, such as the 5- and 6-month forecasts, were limited to just 1 or 2 data points for each model, potentially limiting assessment of those horizons. Future research could focus on the utility of longer-term forecasts by expanding the study period to allow additional forecasts. Additional lag periods, such as the 5-month lag used for the baseline models, can be explored for the ensemble model forecasts.</p><p>This study demonstrates that accurate forecasting of long COVID incidence is possible, utilizing clinical, laboratory, and demographic data. Further research needs to determine if results are consistent in more recent time periods, and whether additional or more complex models improve accuracy.</p></sec></body><back><ack><title>Acknowledgments</title><p>Shauna L. Stahlman, PhD, MPH, Alexis A. McQuistan, MPH, Epidemiology and Analysis Branch, Armed Forces Health Surveillance Division, Silver Spring, MD</p></ack><fn-group><title>Disclaimer</title><fn fn-type="other"><p>The views expressed in this manuscript are those of the authors and do not reflect official policy nor position of the Defense Health Agency, Department of Defense, or the U.S. Government.</p></fn></fn-group><ref-list><title>References</title><ref id="B1"><label>1.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Mabila</surname>
+<given-names>S</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Patel</surname>
+<given-names>D</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Fan</surname>
+<given-names>M</given-names>
+</string-name>
+,
+<etal>et al</etal>
+</person-group>
+.
+<article-title>Post-acute sequalae of COVID-19 and cardiac outcomes in U. S. military members</article-title>
+.
+<source>Int J Cardiol Cardiovasc Risk Prev</source>
+.
+<year>2023</year>
+;
+<volume>17</volume>
+:
+<fpage>200183</fpage>
+. doi:
+<pub-id pub-id-type="doi">10.1016/j.ijcrp.2023.200183</pub-id>
+<pub-id pub-id-type="pmid">36936859</pub-id>
+<pub-id pub-id-type="pmcid">PMC10014478</pub-id></mixed-citation></ref><ref id="B2"><label>2.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Biggerstaff</surname>
+<given-names>M</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Alper</surname>
+<given-names>D</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Dredze</surname>
+<given-names>M</given-names>
+</string-name>
+,
+<etal>et al</etal>
+</person-group>
+.
+<article-title>Results from the Centers for Disease Control and Prevention's predict the 2013-2014 influenza season challenge</article-title>
+.
+<source>BMC Infect Dis</source>
+.
+<year>2016</year>
+;
+<volume>16</volume>
+(
+<issue>1</issue>
+). doi:
+<pub-id pub-id-type="doi">10.1186/s12879-016-1669-x</pub-id>
+</mixed-citation></ref><ref id="B3"><label>3.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>McGowan</surname>
+<given-names>CJ</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Biggerstaff</surname>
+<given-names>M</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Johansson</surname>
+<given-names>M</given-names>
+</string-name>
+,
+<etal>et al</etal>
+</person-group>
+.
+<article-title>Collaborative efforts to forecast seasonal influenza in the United States, 2015-2016</article-title>
+.
+<source>Sci Rep</source>
+.
+<year>2019</year>
+;
+<volume>9</volume>
+(
+<issue>1</issue>
+):
+<fpage>2015</fpage>
+-
+<lpage>2016</lpage>
+. doi:
+<pub-id pub-id-type="doi">10.1038/s41598-018-36361-9</pub-id>
+<pub-id pub-id-type="pmid">30765761</pub-id>
+<pub-id pub-id-type="pmcid">PMC6376059</pub-id></mixed-citation></ref><ref id="B4"><label>4.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Cramer</surname>
+<given-names>EY</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Ray</surname>
+<given-names>EL</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Lopez</surname>
+<given-names>VK</given-names>
+</string-name>
+,
+<etal>et al</etal>
+</person-group>
+.
+<article-title>Evaluation of individual and ensemble probabilistic forecasts of COVID-19 mortality in the United States</article-title>
+.
+<source>Proc Natl Acad Sci USA</source>
+.
+<year>2022</year>
+;
+<volume>119</volume>
+(
+<issue>15</issue>
+):
+<fpage>e2113561119</fpage>
+. doi:
+<pub-id pub-id-type="doi">10.1073/pnas.2113561119</pub-id>
+<pub-id pub-id-type="pmid">35394862</pub-id>
+<pub-id pub-id-type="pmcid">PMC9169655</pub-id></mixed-citation></ref><ref id="B5"><label>5.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Antony</surname>
+<given-names>B</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Blau</surname>
+<given-names>H</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Casiraghi</surname>
+<given-names>E</given-names>
+</string-name>
+,
+<etal>et al</etal>
+</person-group>
+.
+<article-title>Predictive models of long COVID</article-title>
+.
+<source>EBioMedicine</source>
+.
+<year>2023</year>
+;
+<volume>96</volume>
+:
+<fpage>104777</fpage>
+. doi:
+<pub-id pub-id-type="doi">10.1016/j.ebiom.2023.104777</pub-id>
+<pub-id pub-id-type="pmid">37672869</pub-id>
+<pub-id pub-id-type="pmcid">PMC10494314</pub-id></mixed-citation></ref><ref id="B6"><label>6.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Bergquist</surname>
+<given-names>T</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Loomba</surname>
+<given-names>J</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Pfaff</surname>
+<given-names>E</given-names>
+</string-name>
+,
+<etal>et al</etal>
+</person-group>
+.
+<article-title>Crowd-sourced machine learning prediction of long COVID using data from the national COVID cohort collaborative</article-title>
+.
+<source>EBioMedicine</source>
+.
+<year>2024</year>
+;
+<volume>108</volume>
+:
+<fpage>105333</fpage>
+. doi:
+<pub-id pub-id-type="doi">10.1016/j.ebiom.2024.105333</pub-id>
+<pub-id pub-id-type="pmid">39321500</pub-id>
+<pub-id pub-id-type="pmcid">PMC11462169</pub-id></mixed-citation></ref><ref id="B7"><label>7.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Wang</surname>
+<given-names>WK</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Jeong</surname>
+<given-names>H</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Hershkovich</surname>
+<given-names>L</given-names>
+</string-name>
+,
+<etal>et al</etal>
+</person-group>
+.
+<article-title>Tree-based classification model for long-COVID infection prediction with age stratification using data from the national COVID cohort collaborative</article-title>
+.
+<source>JAMA Open</source>
+.
+<year>2024</year>
+;
+<volume>7</volume>
+(
+<issue>4</issue>
+):
+<fpage>ooae111</fpage>
+. doi:
+<pub-id pub-id-type="doi">10.1093/jamiaopen/ooae111</pub-id>
+</mixed-citation></ref><ref id="B8"><label>8.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Kapitány-Fövény</surname>
+<given-names>M</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Ferenci</surname>
+<given-names>T</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Sulyok</surname>
+<given-names>Z</given-names>
+</string-name>
+,
+<etal>et al</etal>
+</person-group>
+.
+<article-title>Can Google trends data improve forecasting of Lyme disease incidence?</article-title>
+<source>Zoonoses Public Health</source>
+.
+<year>2019</year>
+;
+<volume>66</volume>
+(
+<issue>1</issue>
+):
+<fpage>101</fpage>
+-
+<lpage>107</lpage>
+. doi:
+<pub-id pub-id-type="doi">10.1111/zph.12539</pub-id>
+<pub-id pub-id-type="pmid">30447056</pub-id>
+</mixed-citation></ref><ref id="B9"><label>9.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Rubertone</surname>
+<given-names>MV</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Brundage</surname>
+<given-names>JF</given-names>
+</string-name>
+.
+</person-group>
+<article-title>The Defense Medical Surveillance System and the Department of Defense serum repository: glimpses of the future of public health surveillance</article-title>
+.
+<source>Am J Public Health</source>
+.
+<year>2002</year>
+;
+<volume>92</volume>
+(
+<issue>12</issue>
+):
+<fpage>1900</fpage>
+-
+<lpage>1904</lpage>
+. doi:
+<pub-id pub-id-type="doi">10.2105/ajph.92.12.1900</pub-id>
+<pub-id pub-id-type="pmid">12453804</pub-id>
+<pub-id pub-id-type="pmcid">PMC1447349</pub-id></mixed-citation></ref><ref id="B10"><label>10.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Bracher</surname>
+<given-names>J</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Ray</surname>
+<given-names>EL</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Gneiting</surname>
+<given-names>T</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Reich</surname>
+<given-names>NG</given-names>
+</string-name>
+.
+</person-group>
+<article-title>Evaluating epidemic forecasts in an interval format</article-title>
+.
+<source>PLoS Comput Biol</source>
+.
+<year>2021</year>
+;
+<volume>17</volume>
+(
+<issue>2</issue>
+):
+<fpage>e1008618</fpage>
+. doi:
+<pub-id pub-id-type="doi">10.1371/journal.pcbi.1008618</pub-id>
+[published correction in PLoS Comput Biol. 2022;18(10):e1010592. doi:10.1371/journal.pcbi.1010592].
+<pub-id pub-id-type="pmid">33577550</pub-id>
+<pub-id pub-id-type="pmcid">PMC7880475</pub-id></mixed-citation></ref><ref id="B11"><label>11.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Chharia</surname>
+<given-names>A</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Jeevan</surname>
+<given-names>G</given-names>
+</string-name>
+,
+<string-name name-style="western">
+<surname>Jha</surname>
+<given-names>RA</given-names>
+</string-name>
+,
+<etal>et al</etal>
+</person-group>
+.
+<article-title>Accuracy of US CDC COVID-19 forecasting models</article-title>
+.
+<source>Front Public Health</source>
+.
+<year>2024</year>
+;
+<volume>12</volume>
+:
+<fpage>1359368</fpage>
+. doi:
+<pub-id pub-id-type="doi">10.3389/fpubh.2024.1359368</pub-id>
+<pub-id pub-id-type="pmid">38989122</pub-id>
+<pub-id pub-id-type="pmcid">PMC11233691</pub-id></mixed-citation></ref></ref-list></back></article></pmc-articleset>

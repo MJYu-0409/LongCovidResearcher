@@ -24,9 +24,9 @@ from config import FULLTEXT_DIR, PROGRESS_FILE
 from data_pipeline.processor.xml_parser import parse_fulltext_xml
 from data_pipeline.processor.chunker import chunk_fulltext
 from data_pipeline.processor.embedder import embed_chunks
-from data_pipeline.storage.postgres.db import fetch_meta_by_pmcids
-from data_pipeline.storage.qdrant.db import upsert_chunks
-from data_pipeline.storage.raw.progress import ProgressTracker
+from storage.postgres.papers import fetch_meta_by_pmcids
+from storage.qdrant.chunks import upsert_chunks
+from data_pipeline.raw.progress import ProgressTracker
 
 
 logging.basicConfig(

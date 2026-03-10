@@ -1,0 +1,729 @@
+<?xml version="1.0"  ?><!DOCTYPE pmc-articleset PUBLIC "-//NLM//DTD ARTICLE SET 2.0//EN" "https://dtd.nlm.nih.gov/ncbi/pmc/articleset/nlm-articleset-2.0.dtd"><pmc-articleset><article id="sji70088" xml:lang="en" article-type="research-article" dtd-version="1.4"><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">Scand J Immunol</journal-id><journal-id journal-id-type="iso-abbrev">Scand J Immunol</journal-id><journal-id journal-id-type="pmc-domain-id">379</journal-id><journal-id journal-id-type="pmc-domain">blackwellopen</journal-id><journal-id journal-id-type="publisher-id">SJI</journal-id><journal-title-group><journal-title>Scandinavian Journal of Immunology</journal-title></journal-title-group><issn pub-type="ppub">0300-9475</issn><issn pub-type="epub">1365-3083</issn><custom-meta-group><custom-meta><meta-name>pmc-is-collection-domain</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-collection-title</meta-name><meta-value>Wiley Open Access Collection</meta-value></custom-meta></custom-meta-group></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC12789987</article-id><article-id pub-id-type="pmcid-ver">PMC12789987.1</article-id><article-id pub-id-type="pmcaid">12789987</article-id><article-id pub-id-type="pmcaiid">12789987</article-id><article-id pub-id-type="pmid">41518079</article-id><article-id pub-id-type="doi">10.1111/sji.70088</article-id><article-id pub-id-type="publisher-id">SJI70088</article-id><article-id pub-id-type="other">2924482</article-id><article-version article-version-type="pmc-version">1</article-version><article-categories><subj-group subj-group-type="overline"><subject>Original Article</subject></subj-group><subj-group subj-group-type="heading"><subject>Original Article</subject></subj-group></article-categories><title-group><article-title>Patients Suffering From Post‐<styled-content style="fixed-case" toggle="no">COVID</styled-content>‐19 Syndrome Feature Enhanced Antibody Reactivity Towards Specific Linear Epitopes Within <styled-content style="fixed-case" toggle="no">EBV EBNA1</styled-content>
+</article-title></title-group><contrib-group><contrib id="sji70088-cr-0001" contrib-type="author" corresp="yes"><name name-style="western"><surname>Lorenz</surname><given-names initials="P">Peter</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0001-7925-1002</contrib-id><xref rid="sji70088-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><address><email>peter.lorenz@med.uni-rostock.de</email></address></contrib><contrib id="sji70088-cr-0002" contrib-type="author"><name name-style="western"><surname>Steinbeck</surname><given-names initials="F">Felix</given-names></name><xref rid="sji70088-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="sji70088-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib id="sji70088-cr-0003" contrib-type="author"><name name-style="western"><surname>Fricke</surname><given-names initials="F">Florian</given-names></name><xref rid="sji70088-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib id="sji70088-cr-0004" contrib-type="author"><name name-style="western"><surname>Mai</surname><given-names initials="F">Franz</given-names></name><xref rid="sji70088-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib id="sji70088-cr-0005" contrib-type="author"><name name-style="western"><surname>Bergmann‐Ewert</surname><given-names initials="W">Wendy</given-names></name><xref rid="sji70088-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib id="sji70088-cr-0006" contrib-type="author"><name name-style="western"><surname>Wossidlo</surname><given-names initials="C">Christine</given-names></name><xref rid="sji70088-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref></contrib><contrib id="sji70088-cr-0007" contrib-type="author"><name name-style="western"><surname>Reisinger</surname><given-names initials="EC">Emil C.</given-names></name><xref rid="sji70088-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref></contrib><contrib id="sji70088-cr-0008" contrib-type="author"><name name-style="western"><surname>Müller‐Hilke</surname><given-names initials="B">Brigitte</given-names></name><xref rid="sji70088-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref></contrib></contrib-group><aff id="sji70088-aff-0001">
+<label>
+<sup>1</sup>
+</label>
+<named-content content-type="organisation-division">Institute of Immunology</named-content>
+<institution>Rostock University Medical Center</institution>
+<city>Rostock</city>
+<country country="DE">Germany</country>
+</aff><aff id="sji70088-aff-0002">
+<label>
+<sup>2</sup>
+</label>
+<named-content content-type="organisation-division">Core Facility for Cell Sorting and Cell Analysis</named-content>
+<institution>Rostock University Medical Center</institution>
+<city>Rostock</city>
+<country country="DE">Germany</country>
+</aff><aff id="sji70088-aff-0003">
+<label>
+<sup>3</sup>
+</label>
+<named-content content-type="organisation-division">Division of Tropical Medicine and Infectious Diseases, Center of Internal Medicine II</named-content>
+<institution>Rostock University Medical Center</institution>
+<city>Rostock</city>
+<country country="DE">Germany</country>
+</aff><author-notes><corresp id="correspondenceTo">
+<label>*</label>
+<bold>Correspondence:</bold>
+<break/>
+Peter Lorenz (<email>peter.lorenz@med.uni-rostock.de</email>)<break/>
+</corresp></author-notes><pub-date pub-type="epub"><day>10</day><month>1</month><year>2026</year></pub-date><pub-date pub-type="ppub"><month>1</month><year>2026</year></pub-date><volume>103</volume><issue seq="60">1</issue><issue-id pub-id-type="pmc-issue-id">504796</issue-id><issue-id pub-id-type="doi">10.1111/sji.v103.1</issue-id><elocation-id>e70088</elocation-id><history><date date-type="rev-recd"><day>01</day><month>12</month><year>2025</year></date><date date-type="received"><day>13</day><month>5</month><year>2025</year></date><date date-type="accepted"><day>30</day><month>12</month><year>2025</year></date></history><pub-history><event event-type="pmc-release"><date><day>10</day><month>01</month><year>2026</year></date></event><event event-type="pmc-live"><date><day>11</day><month>01</month><year>2026</year></date></event><event event-type="pmc-last-change"><date iso-8601-date="2026-01-11 00:25:14.650"><day>11</day><month>01</month><year>2026</year></date></event></pub-history><permissions><copyright-statement content-type="article-copyright">© 2026 The Author(s). <italic toggle="yes">Scandinavian Journal of Immunology</italic> published by John Wiley &amp; Sons Ltd on behalf of The Scandinavian Foundation for Immunology.</copyright-statement><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>This is an open access article under the terms of the <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pmc-pdf" xlink:href="SJI-103-e70088.pdf"/><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pdf" xlink:href="file:SJI-103-e70088.pdf"/><abstract><title>ABSTRACT</title><p>Post‐COVID‐19 syndrome (PCS; also known as post‐acute sequelae of COVID‐19, PASC and Long COVID) manifests with various clinical symptoms of unclear aetiology that persist or develop months after acute infection with SARS‐CoV‐2. Potential triggers for PCS include reactivation of latent viruses and autoimmune reactions. In our retrospective cross‐sectional and explorative study we compared 48 PCS patients with 48 individuals that recovered fully from COVID‐19 (convalescents, CC). We focused on characterising humoral immunity by recording IgG antibody reactivity patterns against Epstein–Barr virus (EBV) EBNA1 antigen using peptide microarray and ELISA methodology as well as determining the presence of autoantibodies. The overall binding landscape of IgG antibodies for the EBV EBNA1 protein was similar for the patients with sequelae versus the convalescents. However, the PCS patients displayed stronger reactivity for epitopes contained within the glycine–alanine repeat region of EBNA1, in particular residues 90–325, and within the central part, amino acids 393–420. Intriguingly, in the latter case, the EBNA1 peptide (residues 405–419) that discriminated the PCS and CC cohorts was localised in a different segment C‐terminal from the sequence proposed to be mechanistically associated with multiple sclerosis. The screening for autoantibodies against nuclear/cytoplasmic antigens in HEp‐2 cells and against CRYAB, cardiolipin, beta‐2‐glycoprotein I, IFN‐alpha2, IFN‐omega, and IL‐15 antigens did neither reveal higher prevalence nor increased reactivity in the PCS patients compared to the convalescents. In conclusion, elevated antibody levels against linear peptides derived from residues 90–325 and 405–419 of EBV EBNA1 were the most distinctive characteristics in our cohort of post‐COVID‐19 syndrome patients.</p></abstract><abstract abstract-type="graphical"><p>Compared to convalescent individuals, post‐COVID‐19 patients showed increased IgG antibody reactivity in plasma to both a specific central region (amino acids 405–419) and glycine–alanine repeat sequences of EBV EBNA1. The sequences of the central region differ from those associated with molecular mimicry in multiple sclerosis patients.<boxed-text position="anchor" content-type="graphic" id="sji70088-blkfxd-0001" orientation="portrait"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-1" orientation="portrait" xlink:href="SJI-103-e70088-g003.jpg"/></boxed-text>
+</p></abstract><kwd-group kwd-group-type="author-generated"><kwd id="sji70088-kwd-0001">humoral immunity</kwd><kwd id="sji70088-kwd-0002">linear antibody epitope</kwd><kwd id="sji70088-kwd-0003">PASC post‐acute sequelae of COVID‐19</kwd><kwd id="sji70088-kwd-0004">Post‐COVID‐19 syndrome</kwd></kwd-group><funding-group><award-group id="funding-0001"><funding-source>
+<institution-wrap><institution>Ministry of Science, Culture, Federal and European Affairs</institution></institution-wrap>
+</funding-source><award-id>Sondervermögen MV Schutzfonds</award-id><award-id>Säule Gesundhei GW‐20‐0004</award-id></award-group><award-group id="funding-0002"><funding-source>
+<institution-wrap><institution>German Bundestag by the German government</institution></institution-wrap>
+</funding-source><award-id>COVICare‐M‐V: ZMII2‐2524FSB031</award-id></award-group></funding-group><counts><fig-count count="4"/><table-count count="3"/><page-count count="14"/><word-count count="10400"/></counts><custom-meta-group><custom-meta><meta-name>pmc-status-qastatus</meta-name><meta-value>0</meta-value></custom-meta><custom-meta><meta-name>pmc-status-live</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-status-embargo</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-status-released</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-access</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-legally-suppressed</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-pdf</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-supplement</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-pdf-only</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-suppress-copyright</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-real-version</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-scanned-article</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-in-epmc</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-license-ref</meta-name><meta-value>CC BY</meta-value></custom-meta><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>January 2026</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:6.6.8 mode:remove_FC converted:10.01.2026</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="sji70088-cit-1001">
+<string-name name-style="western">
+<given-names>P.</given-names>
+<surname>Lorenz</surname>
+</string-name>, <string-name name-style="western">
+<given-names>F.</given-names>
+<surname>Steinbeck</surname>
+</string-name>, <string-name name-style="western">
+<given-names>F.</given-names>
+<surname>Fricke</surname>
+</string-name>, et al., “<article-title>Patients Suffering From Post‐<styled-content style="fixed-case" toggle="no">COVID</styled-content>‐19 Syndrome Feature Enhanced Antibody Reactivity Towards Specific Linear Epitopes Within <styled-content style="fixed-case" toggle="no">EBV EBNA1</styled-content>
+</article-title>,” <source>Scandinavian Journal of Immunology</source>
+<volume>103</volume>, no. <issue>1</issue> (<year>2026</year>): <elocation-id>e70088</elocation-id>, <pub-id pub-id-type="doi">10.1111/sji.70088</pub-id>.<pub-id pub-id-type="pmid">41518079</pub-id>
+<pub-id pub-id-type="pmcid">PMC12789987</pub-id></mixed-citation>
+</p></notes></front><body id="sji70088-body-0001"><def-list list-content="abbreviations" id="sji70088-dl-0001"><title>Abbreviations</title><def-item><term id="sji70088-li-0001">CC</term><def id="sji70088-li-0002"><p>COVID‐19 convalescents</p></def></def-item><def-item><term id="sji70088-li-0003">CFS</term><def id="sji70088-li-0004"><p>chronic fatigue syndrome</p></def></def-item><def-item><term id="sji70088-li-0005">COVID‐19</term><def id="sji70088-li-0006"><p>coronavirus disease 2019</p></def></def-item><def-item><term id="sji70088-li-0007">EBV</term><def id="sji70088-li-0008"><p>Epstein–Barr virus</p></def></def-item><def-item><term id="sji70088-li-0009">MS</term><def id="sji70088-li-0010"><p>multiple sclerosis</p></def></def-item><def-item><term id="sji70088-li-0011">PCS</term><def id="sji70088-li-0012"><p>post‐COVID‐19 syndrome</p></def></def-item></def-list><sec id="sji70088-sec-0001"><label>1</label><title>Introduction</title><p>The SARS‐CoV‐2 virus causing Coronavirus Disease 2019 (COVID‐19) led not only to a global devastating pandemic but keeps having a tremendous impact on public health with high socio‐economic burden: Many patients report persisting symptoms that cannot be explained by other clinical diagnoses and thus are thought to be causally connected to the previous SARS‐CoV‐2 infection [<xref rid="sji70088-bib-0001" ref-type="bibr">1</xref>, <xref rid="sji70088-bib-0002" ref-type="bibr">2</xref>, <xref rid="sji70088-bib-0003" ref-type="bibr">3</xref>]. Such post‐infection disease entities have been coined ‘Long COVID’, ‘post‐COVID‐19 condition/syndrome’ and ‘post‐acute sequelae of SARS‐CoV‐2 infection’ (PASC) [<xref rid="sji70088-bib-0002" ref-type="bibr">2</xref>, <xref rid="sji70088-bib-0004" ref-type="bibr">4</xref>, <xref rid="sji70088-bib-0005" ref-type="bibr">5</xref>, <xref rid="sji70088-bib-0006" ref-type="bibr">6</xref>]. In this manuscript we use the term ‘post‐COVID‐19 syndrome’ (PCS) based on the clinical case condition defined by the World Health Organization as symptom onset within 3 months after SARS‐CoV‐2 infection and persisting for at least 2 months in the absence of alternative medical explanations [<xref rid="sji70088-bib-0007" ref-type="bibr">7</xref>].</p><p>Clinically, PCS presents itself as a multifaceted, heterogeneous disorder involving multiple organs and human body systems, including the respiratory, cardiovascular, nervous, gastrointestinal, reproductive and immune systems [<xref rid="sji70088-bib-0005" ref-type="bibr">5</xref>, <xref rid="sji70088-bib-0008" ref-type="bibr">8</xref>, <xref rid="sji70088-bib-0009" ref-type="bibr">9</xref>]. A large spectrum of associated symptoms has been reported; most prevalent are post‐exertional malaise, fatigue, brain fog, dizziness and gastrointestinal issues [<xref rid="sji70088-bib-0006" ref-type="bibr">6</xref>]. Diagnosis, stratification, and treatment of patients has been impeded by the lack of well‐defined molecular, physiological, and clinical markers and inconclusive mechanistic models that explain the condition. Patient parameters that increase the likelihood of developing a post‐COVID‐19 condition include age, female sex, pre‐existing health conditions, and frequency and severity of past SARS‐CoV‐2 infections [<xref rid="sji70088-bib-0002" ref-type="bibr">2</xref>, <xref rid="sji70088-bib-0010" ref-type="bibr">10</xref>]. Current mechanistic hypotheses refer to the possibility of residual reservoirs of SARS‐CoV‐2, organ damage with dysregulated tissue functions as a consequence of infection, perturbation of the immune system including autoimmune‐related pathology, or re‐activation/interaction with existing latent viruses [<xref rid="sji70088-bib-0005" ref-type="bibr">5</xref>, <xref rid="sji70088-bib-0011" ref-type="bibr">11</xref>, <xref rid="sji70088-bib-0012" ref-type="bibr">12</xref>, <xref rid="sji70088-bib-0013" ref-type="bibr">13</xref>].</p><p>Epstein–Barr virus (EBV) is one of these long‐term persisting viruses. A role of its reactivation in cells and tissues of COVID‐19 patients for inducing sequelae has been postulated in several publications in recent years [<xref rid="sji70088-bib-0010" ref-type="bibr">10</xref>, <xref rid="sji70088-bib-0014" ref-type="bibr">14</xref>, <xref rid="sji70088-bib-0015" ref-type="bibr">15</xref>, <xref rid="sji70088-bib-0016" ref-type="bibr">16</xref>]. Serological evidence was typically based on increased antibody levels against different EBV proteins, including the EBNA1 antigen. Antibodies against EBNA1 are usually of the IgG type and are quite long‐lived, that is, detectable for many months. Higher anti‐EBNA humoral activity was observed in samples from long/post‐COVID‐19 patients compared to controls [<xref rid="sji70088-bib-0016" ref-type="bibr">16</xref>, <xref rid="sji70088-bib-0017" ref-type="bibr">17</xref>], but not always [<xref rid="sji70088-bib-0014" ref-type="bibr">14</xref>, <xref rid="sji70088-bib-0018" ref-type="bibr">18</xref>]. It is not yet clear whether there are mechanistic links between long/post COVID‐19 and EBV. It is possible that the characterisation of the humoral anti‐EBV immune response could help to define subgroups of patients and perhaps establish links to certain persistent COVID‐19 symptoms. It is also conceivable that anti‐EBV EBNA1 antibodies with a certain epitope specificity associated with post‐COVID‐19 could attack the body's own structures in a process known as ‘molecular mimicry’, similar to some autoimmune diseases, in particular MS [<xref rid="sji70088-bib-0011" ref-type="bibr">11</xref>].</p><p>The connection of autoimmunity and the post‐COVID‐19 condition has been explored by looking at the humoral arm of acquired immunity and profiling autoantibody specificities. Often, such studies were motivated by the occurrence of certain autoantibodies in association with severe acute COVID‐19. Results reported associations of COVID‐19 sequelae for antibodies against nuclear antigens (ANA) [<xref rid="sji70088-bib-0019" ref-type="bibr">19</xref>, <xref rid="sji70088-bib-0020" ref-type="bibr">20</xref>, <xref rid="sji70088-bib-0021" ref-type="bibr">21</xref>], anti‐phospholipid and related antibodies [<xref rid="sji70088-bib-0021" ref-type="bibr">21</xref>, <xref rid="sji70088-bib-0022" ref-type="bibr">22</xref>] and G protein‐coupled receptors [<xref rid="sji70088-bib-0023" ref-type="bibr">23</xref>]. However, the presence of autoantibodies was not necessarily specifically associated with individuals with post‐COVID‐19 condition [<xref rid="sji70088-bib-0024" ref-type="bibr">24</xref>, <xref rid="sji70088-bib-0025" ref-type="bibr">25</xref>] or even deemed irrelevant because of their absence [<xref rid="sji70088-bib-0026" ref-type="bibr">26</xref>].</p><p>Here, we contribute a study on a cohort of local patients suffering from COVID‐19 sequelae in comparison to convalescents. The study focused on the humoral IgG response against EBV EBNA1 and selected autoantibody specificities against antigens present in HEp‐2 cells, related to thrombotic risk and against the cytokines IFN‐alpha2, IFN‐omega and IL‐15. While the tested autoantibody specificities showed limited utility in distinguishing patients with post‐COVID‐19 syndrome from convalescents, we observed a notable enhancement in IgG reactivity against EBNA1 in patients with sequelae compared to recovered donors. Importantly, specific epitopes within EBNA1 were able to differentiate between the two cohorts, suggesting a potential role for EBV‐directed immunity in post‐COVID‐19 conditions.</p></sec><sec sec-type="materials-and-methods" id="sji70088-sec-0002"><label>2</label><title>Materials and Methods</title><sec id="sji70088-sec-0003"><label>2.1</label><title>Study Participants and Sample Collection</title><p>The study follows the ethical principles of the Declaration of Helsinki. The ethics committee of the Rostock University Medical Center approved the study under the file numbers A 2020‐0086 and A 2023‐0081. Written informed consent for participation was obtained from all sample donors.</p><p>Patients with post‐COVID‐19 syndrome (PCS) were recruited from the outpatient clinic of the Rostock University Medical Center. Inclusion criteria followed the WHO Delphi Consensus definition (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.who.int/publications/i/item/WHO-2019-nCoV-Post_COVID-19_condition-Clinical_case_definition-2021.1" ext-link-type="uri">https://www.who.int/publications/i/item/WHO‐2019‐nCoV‐Post_COVID‐19_condition‐Clinical_case_definition‐2021.1</ext-link>) and are based on (i) the confirmation of antibodies recognising the SARS‐CoV‐2 nucleocapsid, (ii) the temporal association between a SARS‐CoV‐2 infection and the onset of characteristic post‐COVID‐19 symptoms, such as fatigue, dyspnea, and cognitive impairment, and (iii) duration of symptoms for at least 2 months. Subjects convalescent for a past COVID‐19 infection were enrolled from clinical, scientific and administrative staff members of the Rostock University Medical Center. All donors in both cohorts, if vaccinated, had a history of vaccination with only RNA vaccines (BioNTech BNT162b2 and/or Moderna mRNA‐1273). The median number of vaccinations was 3 in both groups. However, while the CC group always received at least 3 vaccinations, the PCS cohort contained four patients without any and 8 patients with only 2 vaccinations (<italic toggle="yes">p</italic> = 0.001; Mann–Whitney U‐test). The time interval between sampling and the last recorded vaccination did not differ between the two cohorts (<italic toggle="yes">p</italic> = 0.793; Mann–Whitney U‐test). Blood samples from the PCS cohort were collected between June 2023 and March 2024, those from the CC cohort between January 2023 and February 2024. Plasma was collected by centrifugation after venipuncture in the presence of EDTA as anti‐coagulant and aliquots were stored in an −80°C freezer. The history of infections with SARS‐CoV‐2 was well documented for the CC cohort of health‐care workers with a median number of 2 (range 1–4) and the dates of the first recorded infection between November 2021 and July 2023. For the PCS group, only the infection associated with the post‐COVID diagnosis could be reliably determined. The dates ranged from as early as February 2021 up to March 2023. The overall demographics of the study participants are summarised in Table <xref rid="sji70088-tbl-0001" ref-type="table">1</xref>. The people suffering from PCS were subgrouped according to prevalence and severity of symptoms as recorded in their medical documentation. Out of the 48 PCS patients, 11 presented with prominent cardio‐respiratory symptoms (‘CR’), 10 with prominent cognitive impairments (‘CO’) and 4 with fatigue (‘F’) without the first two clinical manifestations. The remaining 23 persons were of a mixed‐type (‘MT’) without a dominating phenotype. The details on each donor, including gender, age, sampling dates, SARS‐CoV‐2‐related PCR and serological data, and selected clinical parameters are documented in Table <xref rid="sji70088-supitem-0002" ref-type="supplementary-material">S1</xref>.</p><table-wrap position="float" id="sji70088-tbl-0001" content-type="TABLE" orientation="portrait"><label>TABLE 1</label><caption><p>Demographics of the study participants.</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><thead valign="bottom"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="bottom" rowspan="1" colspan="1">Cohort</th><th align="center" valign="bottom" rowspan="1" colspan="1">CC</th><th align="center" valign="bottom" rowspan="1" colspan="1">PCS</th><th align="center" valign="bottom" rowspan="1" colspan="1">
+<italic toggle="yes">p</italic>
+</th></tr></thead><tbody valign="top"><tr><td align="left" valign="top" rowspan="1" colspan="1">
+<italic toggle="yes">n</italic>
+</td><td align="center" valign="top" rowspan="1" colspan="1">48</td><td align="center" valign="top" rowspan="1" colspan="1">48</td><td align="center" valign="top" rowspan="1" colspan="1"/></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Median age in years (min‐max)</td><td align="center" valign="top" rowspan="1" colspan="1">51 (26–66)</td><td align="center" valign="top" rowspan="1" colspan="1">53 (19–74)</td><td align="center" valign="top" rowspan="1" colspan="1">0.570<xref rid="sji70088-note-0001" ref-type="table-fn">*</xref>
+</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Sex (male/female)</td><td align="center" valign="top" rowspan="1" colspan="1">14/34</td><td align="center" valign="top" rowspan="1" colspan="1">8/40</td><td align="center" valign="top" rowspan="1" colspan="1">0.223<xref rid="sji70088-note-0002" ref-type="table-fn">**</xref>
+</td></tr></tbody></table><table-wrap-foot id="sji70088-ntgp-0001"><fn id="sji70088-note-0001"><label>*</label><p>
+<italic toggle="yes">p</italic> = (Mann–Whitney <italic toggle="yes">U</italic> test).</p></fn><fn id="sji70088-note-0002"><label>**</label><p>
+<italic toggle="yes">p</italic> = (Fisher's exact test).</p></fn></table-wrap-foot></table-wrap></sec><sec id="sji70088-sec-0004"><label>2.2</label><title>Peptide Microarray</title><p>The landscape of the humoral antibody response against overlapping linear peptides derived from Epstein–Barr virus (EBV) EBNA1 protein (Uniprot <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmc:entrez-protein" xlink:href="P03211">P03211</ext-link>) was recorded using a commercially available peptide microarray slide (JPT Peptide Technologies GmbH, product RT‐EBV‐EBNA1‐2). One slide carries 21 wells with identical microarrays of 158 peptides in triplicate plus controls. The linear peptides consist of 15‐mers with an additional glycinate residue at the C‐terminal end because of technical reasons during synthesis. Peptides derived from neighbouring sequences in the whole protein overlap by 11 residues. Details of the staining procedure have been described previously [<xref rid="sji70088-bib-0027" ref-type="bibr">27</xref>]. Briefly, the microarrays were incubated with the plasma samples from the donors (diluted 1:200 in blocking buffer SuperBlock/TBS, Thermo Fisher, supplemented with 0.5% Tween 20) for 2 h at 30°C with orbital shaking. After washing with wash buffer (50 mM Tris/HCl pH 7.4, 150 mM NaCl, 0.1% Tween 20), bound primary antibodies were detected with a preparation of goat anti‐human IgG conjugated with Alexa Fluor 647 (Thermo Fisher <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmc:entrez-nucleotide" xlink:href="Z25408">Z25408</ext-link>, diluted to 0.8 μg/mL in blocking buffer) applied for 1 h at 30°C and orbital shaking. Images were acquired at 5 μm resolution and with 16‐bit depth with a fluorescent scanner (Agilent G2505C) and the signals were evaluated using GenePix Pro version 6.1 (Molecular Devices). The final signals reflect the average fluorescence intensity of the three replicate median foreground fluorescence values for each peptide. Peptide signals that reached at least a fluorescence intensity of 1000 and were simultaneously five times greater than the value of this peptide for buffer instead of sample were designated as ‘specific’. All data are listed in Table <xref rid="sji70088-supitem-0003" ref-type="supplementary-material">S2</xref>.</p></sec><sec id="sji70088-sec-0005"><label>2.3</label><title>Peptide <styled-content style="fixed-case" toggle="no">ELISA</styled-content>
+</title><p>The assay was done as described previously [<xref rid="sji70088-bib-0027" ref-type="bibr">27</xref>]. The peptides were derived from EBV EBNA1 (Uniprot <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmc:entrez-protein" xlink:href="P03211">P03211</ext-link>) or the human crystallin alpha B (CRYAB, Uniprot <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmc:entrez-protein" xlink:href="P02511">P02511</ext-link>) proteins. Peptide sequences are shown in Table <xref rid="sji70088-tbl-0002" ref-type="table">2</xref> and in the respective data table (Table <xref rid="sji70088-supitem-0004" ref-type="supplementary-material">S3</xref>). Peptides (JPT Peptide Technologies GmbH, BioTides) are 15‐mers with an additional C‐terminal glycine acid residue and N‐terminally conjugated with biotin attached to a spacer. They are loaded onto Neutravidin (Thermo Fisher) coated standard ELISA plates. The plasma samples were diluted 1:1000 in antibody dilution buffer (Superblock/TBS plus 0.5% Tween20 and 10 μg/mL Neutravidin). Bound sample antibodies were determined with goat anti‐human IgG antibodies conjugated to peroxidase (Jackson Dianova 109‐035‐088) and subsequent TMB substrate (BioLegend 421101). After stopping the 20 min substrate reaction with 2 N sulfuric acid, the OD450nm values were recorded and plasma‐specific peptide reactivity was obtained by calculating the difference between the raw value and a plasma sample‐specific well without any peptide. If the result was negative, the value was set to zero.</p><table-wrap position="float" id="sji70088-tbl-0002" content-type="TABLE" orientation="portrait"><label>TABLE 2</label><caption><p>Comparison of plasma antibody reactivity against peptides of interest by peptide microarray and ELISA.</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><thead valign="bottom"><tr style="border-bottom:solid 1px #000000"><th align="left" rowspan="3" valign="bottom" colspan="1">Name</th><th align="center" rowspan="3" valign="bottom" colspan="1">Sequence</th><th align="center" colspan="4" valign="bottom" rowspan="1">Microarray</th><th align="center" colspan="3" valign="bottom" rowspan="1">ELISA</th></tr><tr style="border-bottom:solid 1px #000000"><th align="center" colspan="2" valign="bottom" rowspan="1">Median signal</th><th align="center" rowspan="2" valign="bottom" colspan="1">
+<italic toggle="yes">p</italic>
+<xref rid="sji70088-note-0003" ref-type="table-fn">*</xref>
+</th><th align="center" rowspan="2" valign="bottom" colspan="1">
+<italic toggle="yes">p</italic>
+<xref rid="sji70088-note-0004" ref-type="table-fn">**</xref>
+</th><th align="center" colspan="2" valign="bottom" rowspan="1">Median signal</th><th align="center" rowspan="2" valign="bottom" colspan="1">
+<italic toggle="yes">p</italic>
+<xref rid="sji70088-note-0004" ref-type="table-fn">**</xref>
+</th></tr><tr style="border-bottom:solid 1px #000000"><th align="center" valign="bottom" rowspan="1" colspan="1">CC</th><th align="center" valign="bottom" rowspan="1" colspan="1">PCS</th><th align="center" valign="bottom" rowspan="1" colspan="1">CC</th><th align="center" valign="bottom" rowspan="1" colspan="1">PCS</th></tr></thead><tbody valign="top"><tr><td align="left" valign="top" rowspan="1" colspan="1">EBNA1 E‐69</td><td align="center" valign="top" rowspan="1" colspan="1">GVRRPQKRPSCIGCK</td><td align="center" valign="top" rowspan="1" colspan="1">1275</td><td align="center" valign="top" rowspan="1" colspan="1">3105</td><td align="center" valign="top" rowspan="1" colspan="1">0.286</td><td align="center" valign="top" rowspan="1" colspan="1">0.032</td><td align="center" valign="top" rowspan="1" colspan="1">0.572</td><td align="center" valign="top" rowspan="1" colspan="1">0.639</td><td align="center" valign="top" rowspan="1" colspan="1">0.698</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">EBNA1 E‐169</td><td align="center" valign="top" rowspan="1" colspan="1">AGAGGGAGAGGGAGG</td><td align="center" valign="top" rowspan="1" colspan="1">5818</td><td align="center" valign="top" rowspan="1" colspan="1">25,577</td><td align="center" valign="top" rowspan="1" colspan="1">0.324</td><td align="center" valign="top" rowspan="1" colspan="1">0.031</td><td align="center" valign="top" rowspan="1" colspan="1">1.845</td><td align="center" valign="top" rowspan="1" colspan="1">2.112</td><td align="center" valign="top" rowspan="1" colspan="1">0.037</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">EBNA1 E‐205</td><td align="center" valign="top" rowspan="1" colspan="1">GGAGGAGGAGAGGAG</td><td align="center" valign="top" rowspan="1" colspan="1">58</td><td align="center" valign="top" rowspan="1" colspan="1">178</td><td align="center" valign="top" rowspan="1" colspan="1">0.022</td><td align="center" valign="top" rowspan="1" colspan="1">0.014</td><td align="center" valign="top" rowspan="1" colspan="1">0.078</td><td align="center" valign="top" rowspan="1" colspan="1">0.194</td><td align="center" valign="top" rowspan="1" colspan="1">0.423</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">EBNA1 E‐393</td><td align="center" valign="top" rowspan="1" colspan="1">SPPRRPPPGRRPFFH</td><td align="center" valign="top" rowspan="1" colspan="1">1914</td><td align="center" valign="top" rowspan="1" colspan="1">2400</td><td align="center" valign="top" rowspan="1" colspan="1">0.663</td><td align="center" valign="top" rowspan="1" colspan="1">0.468</td><td align="center" valign="top" rowspan="1" colspan="1">0.276</td><td align="center" valign="top" rowspan="1" colspan="1">0.332</td><td align="center" valign="top" rowspan="1" colspan="1">0.543</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">EBNA1 E‐401</td><td align="center" valign="top" rowspan="1" colspan="1">GRRPFFHPVGEADYF</td><td align="center" valign="top" rowspan="1" colspan="1">6994</td><td align="center" valign="top" rowspan="1" colspan="1">16,016</td><td align="center" valign="top" rowspan="1" colspan="1">0.232</td><td align="center" valign="top" rowspan="1" colspan="1">0.018</td><td align="center" valign="top" rowspan="1" colspan="1">0.396</td><td align="center" valign="top" rowspan="1" colspan="1">0.424</td><td align="center" valign="top" rowspan="1" colspan="1">0.435</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">EBNA1 E‐405</td><td align="center" valign="top" rowspan="1" colspan="1">FFHPVGEADYFEYHQ</td><td align="center" valign="top" rowspan="1" colspan="1">182</td><td align="center" valign="top" rowspan="1" colspan="1">838</td><td align="center" valign="top" rowspan="1" colspan="1">0.057</td><td align="center" valign="top" rowspan="1" colspan="1">0.008</td><td align="center" valign="top" rowspan="1" colspan="1">0.143</td><td align="center" valign="top" rowspan="1" colspan="1">0.387</td><td align="center" valign="top" rowspan="1" colspan="1">0.015</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">CRYAB‐3</td><td align="center" valign="top" rowspan="1" colspan="1">IAIHHPWIRRPFFPF</td><td align="center" valign="top" rowspan="1" colspan="1">n.d.</td><td align="center" valign="top" rowspan="1" colspan="1">n.d.</td><td align="center" valign="top" rowspan="1" colspan="1">—</td><td align="center" valign="top" rowspan="1" colspan="1">—</td><td align="center" valign="top" rowspan="1" colspan="1">0.557</td><td align="center" valign="top" rowspan="1" colspan="1">0.537</td><td align="center" valign="top" rowspan="1" colspan="1">0.98</td></tr></tbody></table><table-wrap-foot id="sji70088-ntgp-0002"><fn id="sji70088-note-0003"><label>*</label><p>Fisher's exact test (fraction of reactive peptides CC vs. PCS).</p></fn><fn id="sji70088-note-0004"><label>**</label><p>Mann–Whitney <italic toggle="yes">U</italic> test (signal intensity distributions CC vs. PCS).</p></fn></table-wrap-foot></table-wrap></sec><sec id="sji70088-sec-0006"><label>2.4</label><title>Evaluation of Antibody Reactivity in Plasma Samples Using Commercial Assays</title><p>Commercial ELISA assays were used to measure total IgG antibody levels in patient plasma samples against EBV EBNA1 protein (EUROIMMUN EI 2793‐9601 G), EBV early antigen diffuse (EA‐D; EUROIMMUN EI 2795‐9601 G), cardiolipin (EUROIMMUN EA 1621‐9601 G), and beta‐2‐glycoprotein I (EUROIMMUN EA 1632‐9601 G). The presence of IgM‐type antibodies against EBV capsid antigen (CA) was determined with EUROIMMUN EI 2791‐9601 M. The assays were performed as recommended by the manufacturer.</p><p>Anti‐cytokine antibodies (anti‐IFN‐alpha2, IFN‐omega, IL‐15) were measured with a magnetic bead based commercial assay in a three‐panel setup (Merck‐Millipore Milliplex HCYTABG‐17 K‐03 assay) using plasma samples diluted at 1:100. Bead signals were read with the Luminex 100/200 system and xPONENT 3.1 software. Sample signals (as mean fluorescence intensity, MFI) were calculated from the raw intensities corrected for the background signal. Readings with less than 50 beads were considered ‘failed’ measurements.</p><p>IFN‐alpha2 and IL‐15 cytokine levels were determined with the LEGENDplex bead platform human cytokine panel 2 V02 (BioLegend) as a duplex assay according to the manufacturer's instructions. The readout of the beads was done with the Cytek Aurora flow cytometer. Raw data were analysed with the online software platform available at BioLegend (Data Analysis Software Suite for LEGENDplex). Cytokine concentrations (pg/mL) were calculated with the help of a 7‐point standard curve. Each standard sample was measured twice and averaged; each sample was measured once.</p></sec><sec id="sji70088-sec-0007"><label>2.5</label><title>Scoring of Autoantibody Reactivity by Immunofluorescence</title><p>Autoantibodies were detected in human HEp‐2 cells (HeLa derivative; European Collection of Authenticated Cell Cultures #86030501), a standard cell line for autoimmune diagnostics, using indirect fluorescence microscopy. Cells grown under standard cell culture conditions on 4‐well Nunc Labtek chamber slides (ThermoFisher 177399) in DMEM (Gibco 31966), 10% fetal calf serum (Sigma S0615), and antibiotics (1 × Pen/Strep, Gibco # 15070) were washed with phosphate‐buffered saline (PBS) and fixed in PBS, 4% (w/v) paraformaldehyde for 15 min. After two washes, cells were permeabilized with PBS, 0.5% (w/v) Triton X‐100 for 5 min. Plasma samples were initially diluted 1:80 in PBS, 1% (w/v) bovine serum albumin, 1% (v/v) normal goat serum, and 0.05% (w/v) Tween 20 (dilution buffer). Cells were incubated with diluted plasma for 30 min, rinsed once, and washed for 10 min with PBS under agitation. Bound human IgG autoantibodies were detected during a 30 min incubation period with goat anti‐human IgG‐AlexaFluor488 (ThermoFisher A11013) secondary antibodies, diluted 1:750 in dilution buffer. After rinsing/washing as described above, cells were counterstained with PBS, 0.5 μg/mL DAPI for 5 min and embedded in mounting medium (Diasorin 1084). All incubations were done at room temperature. Positive plasma samples were further diluted 1:160 and 1:320 for an additional round of the assay. Images were acquired with a Zeiss Axio Observer Z1/7 microscope with a 20 × objective (plan apochromate/NA0.8) and appropriate filters for DAPI and AlexaFluor488. Signals were manually scored by comparing the fluorescence intensity of each sample image to that of a reference image of a positive control sample (ANA‐positive, nucleoli positive; inter‐laboratory test sample), diluted 1:80 and a negative buffer control. The scores reflect the signals of the plasma samples at the 1:80 dilution: (−) signals at background level; (+/−) faint un‐distinguished signal below reference sample fluorescence at 1:320 dilution; (+) signal similar to reference sample fluorescence at 1:320 dilution; (++) signal similar to reference sample fluorescence at 1:160 dilution; (+++) signal similar to reference sample fluorescence at 1:80 dilution.</p></sec><sec id="sji70088-sec-0008"><label>2.6</label><title>Computational Tools, Statistics and Figure Preparation</title><p>Data processing, heatmap generation as well as some statistical evaluations (Fisher's exact test) were done with packages of the R software environment (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://www.r-project.org" ext-link-type="uri">www.r‐project.org</ext-link>). Clustering was based on Euclidean distance with complete linkage. Each element in the heatmap reflects the signal of a single peptide. For the heatmap of type ‘Visual map’ we calculated the median signal value of all peptides covering any given AA‐position. One element thus reflects one amino acid. The ‘Visual map’ can be one‐to‐one aligned to the amino acid sequence of a protein. Methods and tools implemented in JASP v 0.19.1 (Sept 09, 2024; <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://jasp-stats.org" ext-link-type="uri">https://jasp‐stats.org</ext-link>) were used for statistical evaluation (Mann–Whitney <italic toggle="yes">U</italic> test; Shapiro–Wilk test; binary logistic regression analysis) as well as to draw some box plot illustrations. The statistical significance testing was usually done in a two‐tailed test configuration if not otherwise indicated. In addition, we used the BoxPlotR web‐tool (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://shiny.chemgrid.org/boxplotr/" ext-link-type="uri">http://shiny.chemgrid.org/boxplotr/</ext-link>; accessed February 2025) for some box plots. Initial graphs were imported into Corel Draw 2017 (version 19.1.0.419) for post‐processing to get the final figure layout, colouring and additional labelling. Correlations of anti‐peptide signal intensities obtained from peptide chip versus those from peptide ELISA were based on Spearman's rank correlation coefficient (rho and <italic toggle="yes">p</italic>‐value; <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.wessa.net/rwasp_spearman.wasp" ext-link-type="uri">https://www.wessa.net/rwasp_spearman.wasp</ext-link>). As a resource to find previous studies that reported antibody reactivity against peptides of interest, we interrogated the IEDB immune epitope database (settings: linear peptide, substring, B cell, human, antigen EBV EBNA1; <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://www.iedb.org" ext-link-type="uri">www.iedb.org</ext-link> between March 10 and 18, 2025; [<xref rid="sji70088-bib-0028" ref-type="bibr">28</xref>]). We looked for sequence similarity against human proteins using BLASTp (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://blast.ncbi.nlm.nih.gov/Blast.cgi?PROGRAM=blastp" ext-link-type="uri">https://blast.ncbi.nlm.nih.gov/Blast.cgi?PROGRAM=blastp</ext-link>; accessed 2025‐03‐24) within non‐redundant protein sequences from taxid ‘homo sapiens’.</p></sec></sec><sec sec-type="results" id="sji70088-sec-0009"><label>3</label><title>Results</title><sec id="sji70088-sec-0010"><label>3.1</label><title>Antibody Reactivity Landscapes Against <styled-content style="fixed-case" toggle="no">EBV EBNA1</styled-content> Showed Increased Reactivity but Comparable Patterns of <styled-content style="fixed-case" toggle="no">PCS</styled-content> Versus <styled-content style="fixed-case" toggle="no">CC</styled-content> Plasma Samples</title><p>This explorative study aimed to investigate possible differences in linear B‐cell epitopes recognised by IgG‐type antibodies present in plasma samples from people showing persisting disease symptoms after a previous SARS‐CoV‐2 infection (post‐COVID‐19 syndrome, PCS) in comparison to recovered COVID‐19 convalescents (CC). We first focused on using microarrays that carry 158 overlapping linear peptides derived from the EBV EBNA1 protein. All data and statistical evaluations are documented in Table <xref rid="sji70088-supitem-0003" ref-type="supplementary-material">S2</xref>. The antibody binding patterns of both study cohorts highlighted several sections of the EBNA1 protein in general that were prone to be antibody targets and did not substantially differ between the cohorts (labelled I‐IV in Figure <xref rid="sji70088-fig-0001" ref-type="fig">1A</xref>). The broadest high reactivity window resided between amino acids 101 and 205 with extensions at amino acids 217 to 227, 265 to 287 and 309 to 324 (IIa‐IId). The whole sequence stretch belongs to the glycine–alanine (Gly‐Ala) repeat region of EBNA1 (Figure <xref rid="sji70088-fig-0001" ref-type="fig">1A</xref>, bottom). Consequently, the sequences of the different peptides are very similar and some are even identical (Table <xref rid="sji70088-supitem-0003" ref-type="supplementary-material">S2</xref>). Towards the N‐terminus of the EBNA1 protein was a narrow signal peak at residues 73 to 83 (region I). In addition, a high reactivity band of peptides was found between amino acids 397 and 419 (region III). This EBNA1 portion lies on the C‐terminal side of residues involved in binding protein kinase CK2 and includes sequences that are known targets of antibodies in the blood of MS patients ([<xref rid="sji70088-bib-0030" ref-type="bibr">30</xref>]; see below). Another sequence stretch with narrow reactivity (IV) was observed between residues 437–451 and contains the binding site of ubiquitin specific peptidase 7 (USP7).</p><fig position="float" fig-type="FIGURE" id="sji70088-fig-0001" orientation="portrait"><label>FIGURE 1</label><caption><p>Comparable EBV EBNA1 antibody landscapes in CC and PCS plasma reveal discrete peptide‐level quantitative variations. Results of peptide microarray measurements. (A) ‘Visual map’ of individual EBNA1 peptide microarrays stained with 48 CC and 48 PCS plasma samples. Each line represents one microarray, each row one amino acid. Roman numerals on top of the heatmap label reactivity windows, and the two coloured bars with labels on the bottom depict highlighted peptides. The map is aligned to a schematic drawing of the domain organization of EBNA1 from residues 1 to 641 (according to [<xref rid="sji70088-bib-0029" ref-type="bibr">29</xref>]). The domains include two glycine/arginine‐rich stretches (Gly/Arg), a large glycine/alanine repeat segment (Gly/Ala), binding sites for protein kinase CK2, and Ubiquitin Specific Peptidase 7 (USP7), and the c‐terminal DNA binding and dimerization domain. (B) Excerpt of a heatmap of the clustered (Euclidean distance, complete linkage) data for the CC and PCS samples. Here, each heatmap element represents the reactivity of a sample with a single peptide. The large region that only rarely displayed peptides with signals &gt; 10,000 was cut out for better visibility of more interesting regions. Selected subtree clusters are indicated by curly brackets with numbers to the right. Peptides are designated by the EBNA1 amino residue number they are starting with. Font colours: Peptides' signal distribution reached <italic toggle="yes">p</italic> &lt; 0.05 of Fisher's exact test (green), Mann–Whitney <italic toggle="yes">U</italic> test (red) or for both statistical tests (orange), respectively. The full heatmap is displayed in Figure <xref rid="sji70088-supitem-0001" ref-type="supplementary-material">S1</xref>. (C) Higher median antibody reactivity of the PCS compared to the CC cohort for peptides E‐169 and E‐405. Boxplots show the data of the selected peptides (sequence given on top) for both cohorts. The indicated <italic toggle="yes">p</italic>‐values were calculated with a Mann–Whitney <italic toggle="yes">U</italic> test (<italic toggle="yes">N</italic> = 48 for each sample group).</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-3" orientation="portrait" xlink:href="SJI-103-e70088-g002.jpg"/></fig><p>In contrast to these highly reactive stretches, the first approximately 50 residues at the amino end, the segment from 325 to 393 with glycine‐arginine repeats and especially the C‐terminal third of the protein, which covers the entire DNA binding and dimerization domain from amino acid 449 onwards, showed little or only occasional antibody reactivity in only a few samples. The heatmap gave the impression that the PCS and CC samples displayed overall similar antibody reactivity patterns, but that the PCS group might have elevated signals compared to the CC group. When calculating the sum of the signals of all reactive peptides per sample, we indeed found higher cumulative values for the samples of the PCS vs. those from the CC group (median values of PCS 2.2‐fold higher vs. CC samples; <italic toggle="yes">p</italic> = 0.012, Mann–Whitney <italic toggle="yes">U</italic> test).</p><p>We next applied clustering to the data and observed that the sample groups were dispersed in a heterogeneous manner, despite small sub‐clusters of just two to maximal six samples of the same cohort on the lowest level of the tree (Figure <xref rid="sji70088-fig-0001" ref-type="fig">1B</xref>, for PCS examples see the regions labelled 1, 2 on the right of the heatmap). This indicated the absence of stable qualitative signatures for the PCS and CC cohorts that might have been able to strictly stratify the two groups. For a quantitative comparison of the peptide reactivity of both groups, we determined for each peptide the fraction of samples of each donor group that showed reactivity over background values (‘specific’ peptides) and further compared the exact signal levels between cohorts. In terms of the frequency of ‘specific’ peptides, 7 peptides out of the total of 158 interrogated ones were found to be more often recognised by the PCS samples (<italic toggle="yes">p</italic> &lt; 0.05 significance level, Fisher's exact test). This relative low count supported the notion that PCS as well as the CC samples react with similar linear epitopes of EBNA1. Based on signal intensity, 37 peptides displayed differential reactivity between the cohorts, for most of them (29 peptides) with higher signals from the PCS samples (<italic toggle="yes">p</italic> &lt; 0.05 significance level, Mann–Whitney <italic toggle="yes">U</italic> test; see Table <xref rid="sji70088-supitem-0003" ref-type="supplementary-material">S2</xref>). Due to the explorative nature of our study we initially did not perform any correction for multiple testing.</p><p>Altogether 18 of the highly reactive peptides with respect to PCS samples reside in the Gly‐Ala repeat region. Given their close sequence homology, similar reactivity was to be expected. The peptide of this group with the highest median reactivity for PCS plasma, E‐169, illustrates the observation of general widespread reactivity with samples from both cohorts but clearly higher antibody reactivity in the PCS group (Figure <xref rid="sji70088-fig-0001" ref-type="fig">1C</xref>, top).</p><p>The aforementioned EBNA1 protein region with relevance to antibodies in the blood of MS patients contained with E‐401 and E‐405 two overlapping peptides which reached our chosen significance level (<italic toggle="yes">p</italic> &lt; 0.05). Compared to E‐401 (<italic toggle="yes">p</italic> = 0.018), peptide E‐405 appears to be the more selective (<italic toggle="yes">p</italic> = 0.008) and contained a subset of 10 PCS samples (vs. only 1 in case of E‐401) that had higher signals than the maximum value for the CC sample with highest reactivity (E‐405 signal = 21,773; Figure <xref rid="sji70088-fig-0001" ref-type="fig">1C</xref>, bottom). In conclusion, we observed a more pronounced anti‐EBNA1 antibody response in PCS patients vs. convalescents while the general patterns of reactivity were comparable.</p></sec><sec id="sji70088-sec-0011"><label>3.2</label><title>No Evidence for Active or Recent Infection or Re‐Activation of <styled-content style="fixed-case" toggle="no">EBV</styled-content> Virus in the Donors of the <styled-content style="fixed-case" toggle="no">PCS</styled-content> and <styled-content style="fixed-case" toggle="no">CC</styled-content> Cohorts</title><p>To assess the general EBV infection status, we performed serological testing for antibodies against EBV antigens in all samples of the CC and PCS cohorts. None of the samples showed detectable IgM antibodies against EBV virus capsid antigen (CA) and only 1/48 CC or 3/48 PCS samples were positive for IgG‐type antibodies against EBV early antigen‐diffuse (EA‐D) (Table <xref rid="sji70088-supitem-0002" ref-type="supplementary-material">S1</xref>). These findings suggest that broad EBV reactivation or novel infection within the weeks to a few months preceding sample collection was unlikely. In contrast, the majority of samples were seropositive for IgG antibodies against EBNA1, indicating a previous EBV infection earlier in their life. The fraction of EBNA1 seropositive samples was slightly higher in the PCS group (45/48) versus the CC cohort (40/48; Fisher's exact test <italic toggle="yes">p</italic> = 0.1986) and the overall signals showed a trend towards higher signals in the PCS versus the CC samples (<italic toggle="yes">p</italic> = 0.093; Mann–Whitney <italic toggle="yes">U</italic> test; Figure <xref rid="sji70088-fig-0002" ref-type="fig">2A</xref>). The overall higher reactivity for PSC compared to CC samples using the ELISA with the complete EBNA1 antigen fit the data obtained on the peptide microarray platform above. In summary, our results argue against the presence of active or reactivated EBV at the time of collection of our plasma samples or in the few weeks or months prior to that. Instead, any potential relationship between EBV and the post‐COVID condition should reflect consequences of an EBV infection in the more distant past.</p><fig position="float" fig-type="FIGURE" id="sji70088-fig-0002" orientation="portrait"><label>FIGURE 2</label><caption><p>ELISA‐based detection of elevated EBNA1‐directed humoral responses in PCS versus CC individuals. (A) Antibody reactivity (in relative units RU/mL) against the complete EBNA1 protein based on ELISA. (B) Data for peptide E‐169 based on a peptide‐ELISA. Signals reflect background‐corrected OD450nm values. (C) Data as in B for peptide E‐405. The indicated <italic toggle="yes">p</italic>‐values were calculated with a Mann–Whitney <italic toggle="yes">U</italic> test (<italic toggle="yes">N</italic> = 48 for each sample group). (D) Amino acid sequence alignment between a peptide derived from human crystallin alpha B (CRYAB, Uniprot <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmc:entrez-protein" xlink:href="P02511">P02511</ext-link>; residues 8–15) and three overlapping peptides from EBV EBNA1 (number indicating the position of the first residue in the whole protein; residues occurring in the CRYAB peptide colored in green). (E) Amino acid alignment of EBNA1 peptide E‐405 with immunoglobulin heavy chain junction sequences (derived from nucleic acid sequences in the indicated GenBank accessions numbers).</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-5" orientation="portrait" xlink:href="SJI-103-e70088-g001.jpg"/></fig></sec><sec id="sji70088-sec-0012"><label>3.3</label><title>Major Linear <styled-content style="fixed-case" toggle="no">EBNA1</styled-content> Epitopes That Distinguish <styled-content style="fixed-case" toggle="no">PCS</styled-content> and <styled-content style="fixed-case" toggle="no">CC</styled-content> Samples Reside in the Gly‐Ala Repeat Region and Near, but Outside of a Target Region Related to <styled-content style="fixed-case" toggle="no">MS</styled-content>
+</title><p>For validation using a peptide‐ELISA assay, we selected five peptides that distinguished PCS and CC samples in the previous peptide microarray assays. Peptide E‐69 is part of reactivity window I (see Figure <xref rid="sji70088-fig-0001" ref-type="fig">1A</xref>). E‐169 and E‐205 were chosen as representatives of the 18 Gly‐Ala repeat‐residing peptides within window II that showed differential signal distributions for PCS and CC. E‐169 was the member of the group with the highest median IgG responses for PCS, and E‐205 showed not only higher median signals but also a higher frequency of positive samples in the PCS cohort (Table <xref rid="sji70088-tbl-0002" ref-type="table">2</xref>). The overlapping peptides E‐401 and E‐405 belong to the known target region of IgG antibodies from MS patients (window III). To pinpoint the peak of reactivity of the latter, we also included E‐393, which extends the sequences covered by E‐401/E‐405 peptides N‐terminally but was not found to differentially react with PCS vs. CC samples in the peptide microarray. We then added a peptide from the alpha‐crystallin B chain (CRYAB, residues 3–17, Uniprot <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmc:entrez-protein" xlink:href="P02511">P02511</ext-link>) that is thought to be the cellular cross‐reacting antigen in the central nervous system of respective anti‐EBNA1 antibodies because of sequence homology (molecular mimicry [<xref rid="sji70088-bib-0030" ref-type="bibr">30</xref>]; see Figure <xref rid="sji70088-fig-0002" ref-type="fig">2D</xref>).</p><p>In principle, the peptide‐ELISA data confirmed higher median IgG antibody signals of PCS vs. CC samples for all peptides derived from EBNA1 (Table <xref rid="sji70088-tbl-0002" ref-type="table">2</xref>; Table <xref rid="sji70088-supitem-0004" ref-type="supplementary-material">S3</xref>). However, differences were mostly very small and signal distributions of the two cohorts were very similar. The data highlighted peptides E‐169 and E‐405 as the only ones that distinguished PCS and CC samples at a statistical significance level below 0.05 (Table <xref rid="sji70088-tbl-0002" ref-type="table">2</xref>, Figure <xref rid="sji70088-fig-0002" ref-type="fig">2B,C</xref>). The significance of the Spearman correlation between the respective data for the peptide ELISA and the peptide microarray was high (rho = 0.648, <italic toggle="yes">p</italic> &lt; 0.001 for E‐169; rho = 0.435, <italic toggle="yes">p</italic> &lt; 0.001 for E‐405). These two peptides thus fully corroborated the peptide microarray observations.</p><p>Interestingly, E‐405 has the least overlap with the CRYAB MS‐related target sequence (Figure <xref rid="sji70088-fig-0002" ref-type="fig">2D</xref>). Together with the fact that signal distributions for CRYAB‐3 were indistinguishable for the two sample groups, this argues that the antibodies responsive for higher reactivity in PCS samples are different from those associated with MS in this EBNA1 region. We queried the human protein sequence database at NCBI with the E‐405 amino acid sequence using BLASTp and found the highest homologies in the human proteome with up to 9/14 or 8/10 residues within sequences derived from immunoglobulin heavy chain junction regions (Figure <xref rid="sji70088-fig-0002" ref-type="fig">2E</xref>). This result could be coincidental, but it may be worthwhile to further investigate a possible cross‐reactivity of anti‐EBNA1 E‐405 peptide antibodies against immunoglobulins.</p></sec><sec id="sji70088-sec-0013"><label>3.4</label><title>Higher Levels of Autoantibodies Against Cytokines <styled-content style="fixed-case" toggle="no">IFN</styled-content>‐alpha2 and <styled-content style="fixed-case" toggle="no">IL</styled-content>‐15 in Convalescents Compared to Patients With <styled-content style="fixed-case" toggle="no">COVID</styled-content>‐19 Sequelae</title><p>We were interested whether the presence of autoantibodies distinguished the PCS and CC groups. To get a general overview, we first looked for antibodies in our plasma samples that react with antigens expressed in HEp‐2 cells (ANA anti‐nuclear antibodies; anti‐cytoplasmic antigens) by indirect immunofluorescence. Most samples displayed no or only faint diffuse signals (scoring data in Table <xref rid="sji70088-supitem-0002" ref-type="supplementary-material">S1</xref>). Distinctive antibody reactivity to intracellular compartments, in particular the nucleus (ANA‐positive), was observed for 6 samples (12.5%) from the CC versus 10 samples (20.8%) from the PCS cohort (Table <xref rid="sji70088-tbl-0003" ref-type="table">3</xref>, scores + and ++; the case +++ did not occur). While the PCS group contained also more samples with strong reactivity (score ++; 4 vs. 1), the overall frequency of autoantibody‐positive samples did not differ (<italic toggle="yes">p</italic> = 0.412, Fisher's exact test).</p><table-wrap position="float" id="sji70088-tbl-0003" content-type="TABLE" orientation="portrait"><label>TABLE 3</label><caption><p>HEp‐2 autoantibody scores.</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><thead valign="bottom"><tr style="border-bottom:solid 1px #000000"><th align="left" rowspan="3" valign="bottom" colspan="1">Score<xref rid="sji70088-note-0006" ref-type="table-fn">
+<sup>a</sup>
+</xref>
+</th><th align="center" colspan="4" valign="bottom" rowspan="1">CC</th><th align="center" colspan="4" valign="bottom" rowspan="1">PCS</th></tr><tr style="border-bottom:solid 1px #000000"><th align="center" rowspan="2" valign="bottom" colspan="1">All<xref rid="sji70088-note-0007" ref-type="table-fn">
+<sup>b</sup>
+</xref>
+</th><th align="center" colspan="2" valign="bottom" rowspan="1">ANA<xref rid="sji70088-note-0007" ref-type="table-fn">
+<sup>b</sup>
+</xref>
+</th><th align="center" valign="bottom" rowspan="1" colspan="1">Cyt<xref rid="sji70088-note-0007" ref-type="table-fn">
+<sup>b</sup>
+</xref>
+</th><th align="center" rowspan="2" valign="bottom" colspan="1">All<xref rid="sji70088-note-0007" ref-type="table-fn">
+<sup>b</sup>
+</xref>
+</th><th align="center" colspan="2" valign="bottom" rowspan="1">ANA<xref rid="sji70088-note-0007" ref-type="table-fn">
+<sup>b</sup>
+</xref>
+</th><th align="center" valign="bottom" rowspan="1" colspan="1">Cyt<xref rid="sji70088-note-0007" ref-type="table-fn">
+<sup>b</sup>
+</xref>
+</th></tr><tr style="border-bottom:solid 1px #000000"><th align="center" valign="bottom" rowspan="1" colspan="1">Chromatin (−)<xref rid="sji70088-note-0007" ref-type="table-fn">
+<sup>b</sup>
+</xref>
+</th><th align="center" valign="bottom" rowspan="1" colspan="1">Chromatin (+)<xref rid="sji70088-note-0007" ref-type="table-fn">
+<sup>b</sup>
+</xref>
+</th><th align="center" valign="bottom" rowspan="1" colspan="1">(+)</th><th align="center" valign="bottom" rowspan="1" colspan="1">Chromatin (−)<xref rid="sji70088-note-0007" ref-type="table-fn">
+<sup>b</sup>
+</xref>
+</th><th align="center" valign="bottom" rowspan="1" colspan="1">Chromatin (+)<xref rid="sji70088-note-0007" ref-type="table-fn">
+<sup>b</sup>
+</xref>
+</th><th align="center" valign="bottom" rowspan="1" colspan="1">(+)</th></tr></thead><tbody valign="top"><tr><td align="left" valign="top" rowspan="1" colspan="1">−</td><td align="center" valign="top" rowspan="1" colspan="1">14</td><td align="center" valign="top" rowspan="1" colspan="1">n.a.</td><td align="center" valign="top" rowspan="1" colspan="1">n.a.</td><td align="center" valign="top" rowspan="1" colspan="1">n.a.</td><td align="center" valign="top" rowspan="1" colspan="1">12</td><td align="center" valign="top" rowspan="1" colspan="1">n.a.</td><td align="center" valign="top" rowspan="1" colspan="1">n.a.</td><td align="center" valign="top" rowspan="1" colspan="1">n.a.</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">+/−</td><td align="center" valign="top" rowspan="1" colspan="1">28</td><td align="center" valign="top" rowspan="1" colspan="1">n.a.</td><td align="center" valign="top" rowspan="1" colspan="1">n.a.</td><td align="center" valign="top" rowspan="1" colspan="1">n.a.</td><td align="center" valign="top" rowspan="1" colspan="1">26</td><td align="center" valign="top" rowspan="1" colspan="1">n.a.</td><td align="center" valign="top" rowspan="1" colspan="1">n.a.</td><td align="center" valign="top" rowspan="1" colspan="1">n.a.</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">+</td><td align="center" valign="top" rowspan="1" colspan="1">5</td><td align="center" valign="top" rowspan="1" colspan="1">3</td><td align="center" valign="top" rowspan="1" colspan="1">1</td><td align="center" valign="top" rowspan="1" colspan="1">1</td><td align="center" valign="top" rowspan="1" colspan="1">6</td><td align="center" valign="top" rowspan="1" colspan="1">4</td><td align="center" valign="top" rowspan="1" colspan="1">0</td><td align="center" valign="top" rowspan="1" colspan="1">2</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">++</td><td align="center" valign="top" rowspan="1" colspan="1">1</td><td align="center" valign="top" rowspan="1" colspan="1">0</td><td align="center" valign="top" rowspan="1" colspan="1">1</td><td align="center" valign="top" rowspan="1" colspan="1">0</td><td align="center" valign="top" rowspan="1" colspan="1">4</td><td align="center" valign="top" rowspan="1" colspan="1">1</td><td align="center" valign="top" rowspan="1" colspan="1">3</td><td align="center" valign="top" rowspan="1" colspan="1">0</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">+++</td><td align="center" valign="top" rowspan="1" colspan="1">0</td><td align="center" valign="top" rowspan="1" colspan="1">0</td><td align="center" valign="top" rowspan="1" colspan="1">0</td><td align="center" valign="top" rowspan="1" colspan="1">0</td><td align="center" valign="top" rowspan="1" colspan="1">0</td><td align="center" valign="top" rowspan="1" colspan="1">0</td><td align="center" valign="top" rowspan="1" colspan="1">0</td><td align="center" valign="top" rowspan="1" colspan="1">0</td></tr></tbody></table><table-wrap-foot id="sji70088-ntgp-0003"><fn id="sji70088-note-0005"><p>Abbreviation: n.a., not applicable.</p></fn><fn id="sji70088-note-0006"><label>
+<sup>a</sup>
+</label><p>Fluorescence (−) close to buffer control, (+/−) faint and dispersed, (+) similar to reference 1:320, (++) similar to reference 1:160, (+++) similar to reference 1:80.</p></fn><fn id="sji70088-note-0007"><label>
+<sup>b</sup>
+</label><p>Fluorescence patterns of any kind (‘All’), anti‐nuclear antibody‐based (ANA) or in the cytoplasm (Cyt); ANA patterns subcategorized for staining of chromatin (+, −).</p></fn></table-wrap-foot></table-wrap><p>Next, we assembled groups based on HEp‐2 autoantibody positivity (scores +, ++ vs. those with ‐, +/−; all CC and PCS samples) and looked at our recorded EBNA1 peptide reactivity as described above in the peptide microarray and ELISA experiments. There was a trend that samples positive for HEp‐2 autoantibodies displayed higher reactivity for peptide E‐169 in the ELISA data compared to the negative samples (<italic toggle="yes">p</italic> = 0.076, Mann–Whitney <italic toggle="yes">U</italic> test). However, in light of a <italic toggle="yes">p</italic>‐value of 0.304 of the same evaluation for E‐169 based on peptide microarray data, postulating a factual connection would be premature.</p><p>In the next set of experiments we determined autoantibody levels in plasma in a more targeted manner using assays tailored for specific antigens. Such autoantibodies have been highlighted with respect to severity of COVID‐19 [<xref rid="sji70088-bib-0031" ref-type="bibr">31</xref>]. First, we looked at antibodies associated with thrombotic risk, specifically anti‐ß2 glycoprotein I and anti‐cardiolipin IgG‐type antibodies. None of our samples contained antibodies against ß2 glycoprotein I above the assay cutoff value. Only two samples each from the CC and PCS cohorts had detectable IgG antibodies against cardiolipin (data contained in Table <xref rid="sji70088-supitem-0002" ref-type="supplementary-material">S1</xref>). Thus, antibodies against this class of antigens were mostly absent and consequently could not serve as a distinguishing parameter for CC and PCS in our samples.</p><p>With respect to IgG autoantibodies against cytokines, we focused on anti‐IFN‐alpha2, anti‐IFN‐omega, and anti‐IL‐15. Our results indicated that convalescents had significantly higher levels of anti‐IFN‐alpha2 and anti‐IL‐15 IgG antibodies compared to the group with post‐COVID‐19 sequelae (Figure <xref rid="sji70088-fig-0003" ref-type="fig">3</xref> A‐C; <italic toggle="yes">p</italic> &lt; 0.001, Mann–Whitney <italic toggle="yes">U</italic> test; data in Supplement Table <xref rid="sji70088-supitem-0002" ref-type="supplementary-material">S1</xref>). To investigate whether this higher autoantibody reactivity coincided with lower cytokine levels, we further determined IFN‐alpha2 and IL‐15 levels in the plasma samples of our two cohorts. There was a trend towards higher IFN‐alpha2 and IL‐15 concentrations in the blood of CC versus PCS samples (Figure <xref rid="sji70088-fig-0003" ref-type="fig">3D,E</xref>, <italic toggle="yes">p</italic> = 0.079 and 0.072, respectively). While there was a positive correlation between the levels of both cytokines (Spearman rank correlation coefficient <italic toggle="yes">r</italic> = 0.6534 with <italic toggle="yes">p</italic> = 7.08E‐13), the cytokines did neither show a negative nor a positive correlation with the presence of respective anti‐cytokine autoantibodies (Spearman <italic toggle="yes">r</italic> values and <italic toggle="yes">p</italic>‐value for IFN‐alpha2 versus anti‐IFN‐alpha2 <italic toggle="yes">r</italic> = 0.095/<italic toggle="yes">p</italic> = 0.358; IL‐15 vs. anti‐IL‐15 <italic toggle="yes">r</italic> = 0.122, <italic toggle="yes">p</italic> = 0.237). In addition, neither the anti‐cytokine autoantibody nor the cytokine levels were able to discriminate between HEp‐2‐reactive and non‐reactive plasma samples (IFN‐alpha2 <italic toggle="yes">p</italic> = 0.937, anti‐IFN‐alpha2 <italic toggle="yes">p</italic> = 0.647, IL‐15 <italic toggle="yes">p</italic> = 0.297, anti‐IL‐15 <italic toggle="yes">p</italic> = 0.713, Mann–Whitney <italic toggle="yes">U</italic> test).</p><fig position="float" fig-type="FIGURE" id="sji70088-fig-0003" orientation="portrait"><label>FIGURE 3</label><caption><p>Elevated autoantibody levels against IFN‐alpha2 and IL‐15 in the CC cohort compared to PCS. Autoantibody levels against IFN‐alpha2 (A), IFN‐omega (B), and IL‐15 (C) determined for CC and PCS plasma samples using a magnetic Luminex bead assay. Signals reflect the mean fluorescence intensity of the analytes bound to beads (MFI). The indicated <italic toggle="yes">p</italic>‐values were calculated with a Mann–Whitney <italic toggle="yes">U</italic> test (<italic toggle="yes">N</italic> = 48 for CC, <italic toggle="yes">N</italic> = 47 for PCS cohort). Corresponding plasma cytokine concentrations measured with the LEGENDplexTM bead platform for IFN‐alpha2 (D) and IL‐15 (E). The indicated <italic toggle="yes">p</italic>‐values were again calculated with a Mann‐Whitney U test (N=48 for CC, N=48 for PCS cohort).</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-7" orientation="portrait" xlink:href="SJI-103-e70088-g004.jpg"/></fig><p>Overall, we only found a significant difference in the autoantibodies against the cytokines IFN‐alpha2 and IL‐15, with the values in the CC samples being higher than in the PCS samples.</p></sec><sec id="sji70088-sec-0014"><label>3.5</label><title>Association Between E‐169 and E‐405 Antibody Reactivity and <styled-content style="fixed-case" toggle="no">PCS</styled-content> Is Not Confounded by Demographic and Clinical Characteristics or Autoantibody Status</title><p>Using binary logistic regression analysis, we evaluated the potential influence of confounding factors such as age, sex, the presence of HEp‐2 antibodies and the number of vaccinations on the association of peptide E‐169 and E‐405 reactivity with PCS. Altogether, we observed negligible effects of these factors (Table <xref rid="sji70088-supitem-0005" ref-type="supplementary-material">S4</xref>) indicating that they did not confound the association of higher peptide E‐169 and E‐405 reactivity with PCS. The factor ‘number of vaccinations’ even might weaken the initial association since odds ratios increased and <italic toggle="yes">p</italic>‐values decreased in the adjusted model.</p><p>In a further analysis, the PCS cohort was categorised according to predominant clinical symptoms (see Methods section). This analysis was constrained by the small and variable sizes of the resulting subgroups. Kruskal‐Wallis tests did not reveal any robust differences in anti‐cytokine antibody reactivity, cytokine levels or antibody responses to peptides E‐169 and E‐405 (Table <xref rid="sji70088-supitem-0005" ref-type="supplementary-material">S5</xref>). Likewise, comparisons between peptide‐specific responses and autoantibody profiles (anti‐HEp‐2 or anti‐cytokine reactivity) showed no significant correlations. The comparison of anti‐HEp‐2‐positive versus ‐negative samples yielded <italic toggle="yes">p</italic>‐values of 0.232 and 0.212 for E‐169 and E‐405, respectively (Mann–Whitney <italic toggle="yes">U</italic> test). Spearman rank correlations between anti‐cytokine antibody levels and E‐169 as well as E‐405 peptide reactivity were also weak (Table <xref rid="sji70088-supitem-0005" ref-type="supplementary-material">S6</xref>). In summary, neither demographic and clinical variables, nor the measured autoantibodies displayed a robust association with the observed antibody responses, and no parameter effectively stratified the PCS patients beyond the observed group differences.</p></sec></sec><sec sec-type="discussion" id="sji70088-sec-0015"><label>4</label><title>Discussion</title><p>Our study contributes to the characterisation of the humoral immune response of patients suffering from post‐acute sequelae of SARS‐CoV‐2 infection. We analysed antibodies against linear epitopes in the EBV antigen EBNA1 and a set of autoantibodies. For comparison, we used plasma samples from individuals that fully recovered from a previous COVID‐19 infection.</p><p>Antibody epitope mapping of the EBV EBNA1 antigen in the context of the post‐COVID‐19 condition had not been performed previously. Here, we present data that compared the landscape of B cell epitopes residing in linear 15‐mer peptides derived from EBNA1 in PCS and CC cohorts. Our aim was to find potential target sequences in EBNA1 that are specific to patients with post‐COVID‐19 sequelae and ideally contribute to the diagnosis of the disease and/or point to potential cross‐reactive proteins in the human body (‘molecular mimicry’). Overall, our results showed that the patterns of antibody reactivity were very similar in the two cohorts. This implies that the humoral response was not fundamentally different in patients with COVID‐19 sequelae compared to recovered COVID‐19 patients with respect to epitope target space. We found a tendency for higher reactivity of anti‐EBNA1 antibodies in the post‐COVID‐19 samples, but the patterns based on signal strength were not sufficient to enable robust classification of the two cohorts or stratification of subgroups within the PCS patients. Higher antibody reactivity in PCS vs. CC samples towards EBNA1 was observed at a significance level <italic toggle="yes">p</italic> &lt; 0.05 for the sum of all specific peptide signals and for several individual peptides. ELISA results using the full recombinant EBNA1 protein showed a similar trend, although with a slightly reduced level of significance (<italic toggle="yes">p</italic> = 0.093). In the latter case, this difference may be attributable to steric hindrance when epitopes are in close proximity to each other, such as within the glycine–alanine repeat region in EBNA1. A further possibility is the masking of certain sequences within the native protein structure, which may explain the difference to the summed‐up peptide values of the microarray.</p><p>In terms of specific targets, peptides E‐169 and E‐405 stood out since both the peptide microarray and the peptide ELISA experiments highlighted stronger signals for the post‐COVID‐19 syndrome samples at significance levels below 0.05. Although the present study was explorative in nature, we sought to strengthen our statistical assessment by applying corrections for multiple testing and analysing effect sizes. Following Benjamini‐Hochberg adjustments, the q‐values for peptides E‐169 and E‐405 were 0.158 and 0.162 for the peptide microarray and 0.130 and 0.105 for the peptide ELISA, respectively. Corresponding effect sizes (Cliff's δ) were 0.313 and 0.257 for the peptide microarray and 0.247 and 0.289 for the peptide ELISA. Although the observed differences between groups were consistent, these q‐values and effect sizes indicate that their statistical strength was modest and the magnitude of the effects should be considered small [<xref rid="sji70088-bib-0032" ref-type="bibr">32</xref>]. Receiver operating characteristic (ROC) analysis supported this interpretation, with areas under the curve ranging between 0.624 and 0.656 for both peptides and both method platforms. Thus, while the identified peptide reactivities reflect genuine differences in humoral immune responses, their capacity to discriminate between PCS and CC samples is limited when considered in isolation.</p><p>Peptide E‐169 derives from the glycine–alanine repeat region of EBNA1 and exemplifies the very similar additional 17 peptides from this region that showed increased reactivity with antibodies from post‐COVID‐19 compared to convalescent donors in the peptide microarray experiments. Glycine–alanine repeat antibodies, targeting peptides with the identical or strongly overlapping sequences to E‐169, have been detected most prominently in MS patients. Respective antibodies to the glycine–alanine peptides sometimes distinguished the patients from healthy controls [<xref rid="sji70088-bib-0033" ref-type="bibr">33</xref>, <xref rid="sji70088-bib-0034" ref-type="bibr">34</xref>], but sometimes not [<xref rid="sji70088-bib-0035" ref-type="bibr">35</xref>]. One study focused on patients with chronic fatigue syndrome (CFS) and was undertaken before the COVID‐19 pandemic [<xref rid="sji70088-bib-0036" ref-type="bibr">36</xref>]. This is of particular interest since CFS is a common symptom among post‐COVID‐19 patients [<xref rid="sji70088-bib-0006" ref-type="bibr">6</xref>]. While a peptide with a 13 residue overlap to our E‐169 sequence displayed a trend towards higher reactivity within that CFS cohort, the significance we have recalculated from the authors' original data was relatively low (<italic toggle="yes">p</italic> = 0.159, Mann–Whitney <italic toggle="yes">U</italic> test; median signal of the samples of the CSF vs. the healthy donor cohort: 2234 vs. 1752, peptide microarray data; [<xref rid="sji70088-bib-0036" ref-type="bibr">36</xref>]). However, since at least a dozen human proteins contain identical matches of at least 10 residues to glycine–alanine repeat sequences of EBNA1 [<xref rid="sji70088-bib-0037" ref-type="bibr">37</xref>], a principle potential for cross‐reactive autoimmune responses remains a valid possibility.</p><p>Peptide E‐405 overlaps with a region within EBNA1 that has garnered much attention in relation to autoimmunity. There is evidence that the stretch of EBNA1 protein from residue 386 to 440 contains B‐cell epitopes that resemble similar sequences in human proteins expressed in the central nervous system, namely glial cell adhesion molecule (GlialCAM, EBNA1 residues 393–398), alpha‐crystallin B chain (CRYAB, EBNA1 residues 399–406), and anoctamin 2 (ANO2, EBNA1 residues 431–440). Such ‘molecular mimicry’ is thought to mechanistically link specific anti‐EBNA1 antibodies to MS (reviewed in [<xref rid="sji70088-bib-0038" ref-type="bibr">38</xref>]). Our peptide microarray data showed significantly higher antibody reactivity of the PCS vs. the CC samples against the overlapping E‐401 and E‐405 peptides attributed to the CRYAB sequence homology with the core motif ‘RRPFF’ [<xref rid="sji70088-bib-0030" ref-type="bibr">30</xref>] (see Figure <xref rid="sji70088-fig-0002" ref-type="fig">2D</xref>). However, only the E‐405 sequence, which is missing ‘RRP’ and thus three of the 5 amino acids of the motif, could be confirmed with the validation ELISA (see Table <xref rid="sji70088-tbl-0002" ref-type="table">2</xref>). At the same time, the antibody signals against the homologous CRYAB peptide itself did not show any difference in signal strength between the 2 cohorts (see Table <xref rid="sji70088-tbl-0002" ref-type="table">2</xref>). Thus, B cell reactivity in post‐COVID‐19 patients tends to target linear epitopes within the E‐405 residues that are distinct from the known prominent epitopes in the CRYAB homology region associated with MS.</p><p>Antibody reactivity against the identical E‐405 peptide was found in the study on humoral immune responses in CFS patients already mentioned above [<xref rid="sji70088-bib-0036" ref-type="bibr">36</xref>]. As with our glycine–alanine repeat peptide above, our recalculation of those data for E‐405 did again not show a statistically robust association with the CFS condition compared to healthy donors in that study (<italic toggle="yes">p</italic> = 0.139, Mann–Whitney U test). However, given the difference in median signal (13,091 CFS vs. 4629 healthy donor cohort; peptide microarray data), the study of further cohorts may be warranted. In other previously published studies, the E‐405 15‐mer sequence was usually part of longer peptides that extended N‐terminally to include the full CRYAB homology. Higher antibody signal levels against such extended peptides were then associated again with MS in comparison to healthy donors [<xref rid="sji70088-bib-0030" ref-type="bibr">30</xref>, <xref rid="sji70088-bib-0035" ref-type="bibr">35</xref>]. The E‐405 15‐mer or any substring thereof has not been described as B cell target in the IEDB immune epitope database (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://www.iedb.org" ext-link-type="uri">www.iedb.org</ext-link>; see Methods) for any other protein than EBNA1.</p><p>In conclusion, selected EBNA1‐derived sequences contained epitopes for antibodies with stronger reactivity in patients with COVID‐19 sequelae compared to convalescents that may also reflect specific cross‐reactivity against cellular proteins of the human body. Extended studies with much higher sample count that take PCS subgroups based on different clinical phenotypes into consideration are needed to substantiate this idea. Molecular mimicry is only one possibility of how a previous EBV infection with latently persisting viral states may impact the immune system [<xref rid="sji70088-bib-0039" ref-type="bibr">39</xref>]. Further, the link between post‐COVID‐19 syndrome and EBV infection may be only one example of the general association of viral infections with subsequent chronic conditions [<xref rid="sji70088-bib-0005" ref-type="bibr">5</xref>].</p><p>There is evidence that autoimmunity is involved in the pathogenesis of the post‐COVID‐19 condition [<xref rid="sji70088-bib-0011" ref-type="bibr">11</xref>]. The occurrence of autoantibodies is a consequence of a dysregulated immune system with breakdown of tolerance. Autoantibodies likely mediate some of the pathological effects, but their specificities could also be used for stratifying different patient phenotypes. The post‐COVID‐19 patients of our study showed a trend towards a higher prevalence (20.8% against 12.5% positive CC samples) for ANA/cytoplasmic autoantibodies in blood. However, the difference was not statistically robust. In contrast, we observed lower anti‐IFN‐alpha2 and anti‐IL‐15 autoantibodies in the samples of the patients with ongoing disease symptoms compared to the fully recovered persons. The functional consequence is unclear, since the higher anti‐cytokine autoantibody reactivity in the CC group did not coincide with lower concentrations of the respective cytokine. Yet, the presence of such autoantibodies may play a role in homeostasis and/or fine‐tuning of the cytokine response in the healthy condition [<xref rid="sji70088-bib-0040" ref-type="bibr">40</xref>, <xref rid="sji70088-bib-0041" ref-type="bibr">41</xref>]. Previously published studies found negligible anti‐cytokine autoantibody levels [<xref rid="sji70088-bib-0042" ref-type="bibr">42</xref>] or, in contrast, the association of anti‐IFN‐alpha2 antibodies with the post‐COVID‐19 condition, specifically in patients with respiratory symptoms [<xref rid="sji70088-bib-0010" ref-type="bibr">10</xref>]. A recent report underscored the possibility that cytokine and autoantibody levels in peripheral blood may not necessarily reflect the situation in tissues that are relevant for the post‐COVID‐19 syndrome: Transient IgA‐type anti‐IFN‐alpha antibodies in the nasal epithelium, but not its IgG type counterpart in blood, were correlated with improved recovery from COVID‐19 [<xref rid="sji70088-bib-0043" ref-type="bibr">43</xref>].</p><p>The scientific literature contains disparate findings when specifically looking for autoantibody markers for patients with COVID‐19 sequelae. On one hand, highly prevalent IgG type autoantibodies like ANA and against other cellular proteins were found to be associated with gastrointestinal sequelae and phlegm production [<xref rid="sji70088-bib-0010" ref-type="bibr">10</xref>]. In another study, persistent autoantibody reactivity was associated with post‐COVID‐19 syndrome symptoms like fatigue, shortness of breath, and coughing [<xref rid="sji70088-bib-0020" ref-type="bibr">20</xref>]. On the other hand, autoantibody reactivity may be detectable but not be correlated to the post‐COVID‐19 condition [<xref rid="sji70088-bib-0024" ref-type="bibr">24</xref>, <xref rid="sji70088-bib-0025" ref-type="bibr">25</xref>, <xref rid="sji70088-bib-0026" ref-type="bibr">26</xref>, <xref rid="sji70088-bib-0044" ref-type="bibr">44</xref>].</p><p>Altogether, it remains unclear whether autoantibodies, that is, autoreactive B cells, play mechanistic roles in the development of the post‐COVID‐19 syndrome. There is discussion of possible pre‐existing conditions involving immune and other factors or direct triggering by the infection with SARS‐Co‐2 may to induce pathological changes. Many intrinsic and extrinsic factors may impact whether infected individuals can resolve the viral infection or suffer long‐term consequences and COVID‐19 sequelae [<xref rid="sji70088-bib-0005" ref-type="bibr">5</xref>, <xref rid="sji70088-bib-0011" ref-type="bibr">11</xref>]. In a very recently published study, we observed that classical monocytes from patients with PCS express markers of inflammation at lower levels compared to the convalescent control group. This argued for a potential dysregulation of innate immune functions [<xref rid="sji70088-bib-0045" ref-type="bibr">45</xref>].</p><p>Our study has several limitations. First, by focusing on 15‐mer peptides, we restricted our analysis to linear epitopes as targets and therefore did not capture antibody specificities against discontinuous epitopes that exist only in the native 3D‐conformation of the antigen. Moreover, our methodology does not account for antibodies directed against post‐translational modifications such as those targeting citrullinated EBNA2 peptides that have diagnostic relevance in rheumatoid arthritis patients [<xref rid="sji70088-bib-0046" ref-type="bibr">46</xref>]. In the context of post‐COVID‐19 syndrome, it remains to be determined whether reactivity towards the identified EBNA1 peptides is functionally linked to molecular mimicry. The discovery of cross‐reactivity with specific cellular proteins may help to delineate mechanisms of immune dysregulation. Future investigations employing natively folded EBNA1 subdomains, together with analyses of potential cross‐reacting host proteins, may help define broader and more conclusive epitope signatures of functional significance. Nonetheless, profiling based on linear peptides can still yield valuable immunological insights. Notably, in the context of EBV and multiple sclerosis, linear 20mer EBNA1‐derived peptides have been shown to provide prognostic value [<xref rid="sji70088-bib-0047" ref-type="bibr">47</xref>]. Our analysis of autoantibody specificities relied on immunofluorescence microscopy of HEp‐2 cells and targeted assays for particular antigens. Thus, we may have missed antibodies against potential targets that are not expressed in these cells and against autoantigens that we did not test for. The nature of our sample collection poses other limitations. Even if the number is comparable with other studies in the field, the sample size of 48 each for PCS and CC cohorts is relatively small. Given the high heterogeneity of post‐COVID‐19 conditions in the absence of definite diagnostic criteria, any stratification may be hard to accomplish. Although the samples have been collected within a similar time period, the histories of infection and vaccination between donors were quite diverse. The CC cohort consisted of participants working in the health care system and thus may have disparate (unknown) properties compared to the recruited PCS patients like health status or healthcare behaviour. We do not know the SARS‐CoV‐2 virus variants underlying the infections of our cohorts. The Omicron variants probably predominated, taking into account the period of enrollment in the years 2023 to 2024. In addition, we only took one snapshot measurement in a cross‐sectional analysis and were not able to look at the dynamics of antibody reactivity in the absence of longitudinal sampling.</p><p>In conclusion, our exploratory study presents the first mapping of linear B cell epitopes within the EBV EBNA1 protein for the characterisation of the humoral immune response in the context of post‐COVID‐19 syndrome. A prior EBV infection may contribute to this condition by triggering long‐lasting consequences and alterations of the immune system, for example by reprogramming of the B cells it infects or dysregulation of humoral immunity [<xref rid="sji70088-bib-0048" ref-type="bibr">48</xref>]. However, direct mechanistic links to the Post Covid‐19 condition remain to be established. We identified two antigen segments of particular interest, one distinct from previously reported sequences associated with autoimmunity, which may serve as a starting point for more extended studies and comprehensive mechanistic investigations. Furthermore, we found no significant qualitative or quantitative differences in the examined autoantibody profiles against nuclear and cytoplasmic antigens between patients with COVID‐19 sequelae and convalescents. Taken together, these results underscore the complexity of PCS and highlight the need for biomarkers and mechanistic insights to guide diagnosis, assess risk and inform therapy.</p></sec><sec id="sji70088-sec-0016"><title>Author Contributions</title><p>Conceptualization: Peter Lorenz, Brigitte Müller‐Hilke; methodology: Peter Lorenz, Felix Steinbeck, Florian Fricke, Franz Mai, Wendy Bergmann‐Ewert, Christine Wossidlo, formal analysis: Peter Lorenz, Felix Steinbeck, Brigitte Müller‐Hilke; writing – original draft preparation: Peter Lorenz; writing – review and editing: Peter Lorenz, Felix Steinbeck, Florian Fricke, Franz Mai, Wendy Bergmann‐Ewert, Christine Wossidlo, Emil C. Reisinger, Brigitte Müller‐Hilke; supervision: Brigitte Müller‐Hilke, Emil C. Reisinger; funding acquisition: Emil C. Reisinger. All authors have read and agreed to the published version of the manuscript.</p></sec><sec id="sji70088-sec-0018"><title>Funding</title><p>This study was financially supported by the federal State of Mecklenburg‐Western Pomerania, the Ministry of Science, Culture, Federal and European Affairs via the ‘Sondervermögen des MV Schutzfonds, Säule Gesundheit’ GW‐20‐0004. This work was also funded on the basis of a resolution of the German Bundestag by the German government (project ‘COVICare—M‐V’ funding code ZMII2‐2524FSB031).</p></sec><sec id="sji70088-sec-0020"><title>Ethics Statement</title><p>The study was conducted in accordance with the Declaration of Helsinki, and was approved by the Ethics Committee of the University Medical Center of Rostock (reference numbers A 2020‐0086 and A 2023‐0081).</p></sec><sec sec-type="conclusions" id="sji70088-sec-0021"><title>Consent</title><p>Written informed consent was obtained from all participants involved in the study.</p></sec><sec sec-type="COI-statement" id="sji70088-sec-0019"><title>Conflicts of Interest</title><p>The authors declare no conflicts of interest.</p></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material id="sji70088-supitem-0001" position="float" content-type="local-data" orientation="portrait"><caption><p>
+<bold>Figure S1:</bold> Full peptide microarray data for the CC and PCS samples presented as clustered heatmap (Euclidean distance, complete linkage) data. Each heatmap element represents the reactivity of a sample with a single peptide. Note, that only peptides with at least one valid signal have been included (142 of 158 total; Signal &gt; 1000 AND Signal &gt; 5·× buffer background). Selected subtree clusters are indicated by curly brackets with numbers to the right. Peptides are designated by the EBNA1 amino residue number they are starting with. Font colours: Peptides' signal distribution reached <italic toggle="yes">p</italic> &lt; 0.05 of Fisher's exact test (green), Mann–Whitney <italic toggle="yes">U</italic> test (red) or for both statistical tests (orange), respectively.</p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="SJI-103-e70088-s005.pdf" position="float" orientation="portrait"/></supplementary-material><supplementary-material id="sji70088-supitem-0002" position="float" content-type="local-data" orientation="portrait"><caption><p>
+<bold>Table S1:</bold> Data describing the test subjects (demographics, clinical evaluations) and results from experiments determining anti‐nuclear/anti‐cytoplasmic autoantibodies, anti‐cytokine antibodies and cytokine levels in donor's plasma samples.</p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="SJI-103-e70088-s002.xlsx" position="float" orientation="portrait"/></supplementary-material><supplementary-material id="sji70088-supitem-0003" position="float" content-type="local-data" orientation="portrait"><caption><p>
+<bold>Table S2:</bold> Data table containing the results from the EBV EBNA1 peptide microarray experiments.</p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="SJI-103-e70088-s001.xlsx" position="float" orientation="portrait"/></supplementary-material><supplementary-material id="sji70088-supitem-0004" position="float" content-type="local-data" orientation="portrait"><caption><p>
+<bold>Table S3:</bold> Data table containing the results from the peptide‐ELISA experiments.</p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="SJI-103-e70088-s004.xlsx" position="float" orientation="portrait"/></supplementary-material><supplementary-material id="sji70088-supitem-0005" position="float" content-type="local-data" orientation="portrait"><caption><p>
+<bold>Table S4:</bold> Influence of adjusting for the indicated factors on the association of anti‐EBNA1 peptide reactivity and PCS (binary logistic regression analysis).</p><p>
+<bold>Table S5:</bold> Comparison of antibody reactivity and cytokine levels across PCS symptom‐based subgroups.</p><p>
+<bold>Table S6:</bold> Correlation between peptide antibody and anti‐cytokine reactivity in all samples.</p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="SJI-103-e70088-s003.docx" position="float" orientation="portrait"/></supplementary-material></sec></body><back><ack id="sji70088-sec-0017"><title>Acknowledgements</title><p>We thank all study participants for providing blood samples. The authors would like to thank the KKS (Coordination Center for Clinical Studies) from the University Medical Center Rostock for organising most of the blood collections. We are grateful to Michael Hecker (Neuroimmunology, Rostock University Medical Center) for his advice on statistical evaluation. The authors want to particularly acknowledge the expert technical help of Ildikó Tóth (Institute of Immunology, Rostock University Medical Center). Open Access funding enabled and organized by Projekt DEAL.</p></ack><sec sec-type="data-availability" id="sji70088-sec-0023"><title>Data Availability Statement</title><p>All data generated during this study are included in this published article (and its Supporting Information in Tables <xref rid="sji70088-supitem-0001" ref-type="supplementary-material">[Link]</xref>, <xref rid="sji70088-supitem-0002" ref-type="supplementary-material">[Link]</xref>, <xref rid="sji70088-supitem-0003" ref-type="supplementary-material">[Link]</xref>).</p></sec><ref-list content-type="cited-references" id="sji70088-bibl-0001"><title>References</title><ref id="sji70088-bib-0001"><label>1</label><mixed-citation publication-type="journal" id="sji70088-cit-0001">
+<string-name name-style="western">
+<given-names>Z.</given-names>
+<surname>Al‐Aly</surname>
+</string-name>, <string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Davis</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L.</given-names>
+<surname>McCorkell</surname>
+</string-name>, et al., “<article-title>Long COVID Science, Research and Policy</article-title>,” <source>Nature Medicine</source>
+<volume>30</volume> (<year>2024</year>): <fpage>2148</fpage>–<lpage>2164</lpage>, <pub-id pub-id-type="doi">10.1038/s41591-024-03173-6</pub-id>.<pub-id pub-id-type="pmid">39122965</pub-id></mixed-citation></ref><ref id="sji70088-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="sji70088-cit-0002">
+<string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Nalbandian</surname>
+</string-name>, <string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Sehgal</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Gupta</surname>
+</string-name>, et al., “<article-title>Post‐Acute COVID‐19 Syndrome</article-title>,” <source>Nature Medicine</source>
+<volume>27</volume> (<year>2021</year>): <fpage>601</fpage>–<lpage>615</lpage>, <pub-id pub-id-type="doi">10.1038/s41591-021-01283-z</pub-id>.<pub-id pub-id-type="pmcid">PMC8893149</pub-id><pub-id pub-id-type="pmid">33753937</pub-id></mixed-citation></ref><ref id="sji70088-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="sji70088-cit-0003">
+<string-name name-style="western">
+<given-names>E. C.</given-names>
+<surname>Oelsner</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Sun</surname>
+</string-name>, <string-name name-style="western">
+<given-names>P. P.</given-names>
+<surname>Balte</surname>
+</string-name>, et al., “<article-title>Epidemiologic Features of Recovery From SARS‐CoV‐2 Infection</article-title>,” <source>JAMA Network Open</source>
+<volume>3</volume>, no. <issue>7</issue> (<year>2024</year>): <elocation-id>e2417440</elocation-id>, <pub-id pub-id-type="doi">10.1001/jamanetworkopen.2024.17440</pub-id>.<pub-id pub-id-type="pmcid">PMC11184459</pub-id><pub-id pub-id-type="pmid">38884994</pub-id></mixed-citation></ref><ref id="sji70088-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="sji70088-cit-0004">
+<string-name name-style="western">
+<given-names>R. E.</given-names>
+<surname>Hamlin</surname>
+</string-name> and <string-name name-style="western">
+<given-names>C. A.</given-names>
+<surname>Blish</surname>
+</string-name>, “<article-title>Challenges and Opportunities in Long COVID Research</article-title>,” <source>Immunity</source>
+<volume>11</volume> (<year>2024</year>): <fpage>1195</fpage>–<lpage>1214</lpage>, <pub-id pub-id-type="doi">10.1016/j.immuni.2024.05.010</pub-id>.<pub-id pub-id-type="pmcid">PMC11210969</pub-id><pub-id pub-id-type="pmid">38865966</pub-id></mixed-citation></ref><ref id="sji70088-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="sji70088-cit-0005">
+<string-name name-style="western">
+<given-names>M. J.</given-names>
+<surname>Peluso</surname>
+</string-name> and <string-name name-style="western">
+<given-names>S. G.</given-names>
+<surname>Deeks</surname>
+</string-name>, “<article-title>Mechanisms of Long COVID and the Path Toward Therapeutics</article-title>,” <source>Cell</source>
+<volume>3</volume> (<year>2024</year>): <fpage>5500</fpage>–<lpage>5529</lpage>, <pub-id pub-id-type="doi">10.1016/j.cell.2024.07.054</pub-id>.<pub-id pub-id-type="pmcid">PMC11455603</pub-id><pub-id pub-id-type="pmid">39326415</pub-id></mixed-citation></ref><ref id="sji70088-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="sji70088-cit-0006">
+<string-name name-style="western">
+<given-names>T.</given-names>
+<surname>Thaweethai</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S. E.</given-names>
+<surname>Jolley</surname>
+</string-name>, <string-name name-style="western">
+<given-names>E. W.</given-names>
+<surname>Karlson</surname>
+</string-name>, et al., “<article-title>Development of a Definition of Postacute Sequelae of SARS‐CoV‐2 Infection</article-title>,” <source>Journal of the American Medical Association</source>
+<volume>13</volume>, no. <issue>329</issue> (<year>2023</year>): <fpage>1934</fpage>–<lpage>1946</lpage>, <pub-id pub-id-type="doi">10.1001/jama.2023.8823</pub-id>.<pub-id pub-id-type="pmcid">PMC10214179</pub-id><pub-id pub-id-type="pmid">37278994</pub-id></mixed-citation></ref><ref id="sji70088-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="sji70088-cit-0007">
+<string-name name-style="western">
+<given-names>J. B.</given-names>
+<surname>Soriano</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Murthy</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J. C.</given-names>
+<surname>Marshall</surname>
+</string-name>, <string-name name-style="western">
+<given-names>P.</given-names>
+<surname>Relan</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>J. V.</given-names>
+<surname>Diaz</surname>
+</string-name>, “<article-title>A Clinical Case Definition of Post‐COVID‐19 Condition by a Delphi Consensus</article-title>,” <source>Lancet Infectious Diseases</source>
+<volume>22</volume> (<year>2022</year>): <elocation-id>e102</elocation-id>, <pub-id pub-id-type="doi">10.1016/S1473-3099(21)00703-9</pub-id>.<pub-id pub-id-type="pmid">34951953</pub-id>
+<pub-id pub-id-type="pmcid">PMC8691845</pub-id></mixed-citation></ref><ref id="sji70088-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="sji70088-cit-0008">
+<string-name name-style="western">
+<given-names>H. E.</given-names>
+<surname>Davis</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L.</given-names>
+<surname>McCorkell</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J. M.</given-names>
+<surname>Vogel</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>E. J.</given-names>
+<surname>Topol</surname>
+</string-name>, “<article-title>Long COVID: Major Findings, Mechanisms and Recommendations</article-title>,” <source>Nature Reviews Microbiology</source>
+<volume>21</volume> (<year>2023</year>): <fpage>133</fpage>–<lpage>146</lpage>, <pub-id pub-id-type="doi">10.1038/s41579-022-00846-2</pub-id>.<pub-id pub-id-type="pmid">36639608</pub-id>
+<pub-id pub-id-type="pmcid">PMC9839201</pub-id></mixed-citation></ref><ref id="sji70088-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="sji70088-cit-0009">
+<string-name name-style="western">
+<given-names>R. S.</given-names>
+<surname>Peter</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Nieters</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Gopel</surname>
+</string-name>, et al., “<article-title>Persistent Symptoms and Clinical Findings in Adults With Post‐Acute Sequelae of COVID‐19/Post‐COVID‐19 Syndrome in the Second Year After Acute Infection: A Population‐Based, Nested Case‐Control Study</article-title>,” <source>PLoS Medicine</source>
+<volume>22</volume> (<year>2025</year>): <elocation-id>e1004511</elocation-id>, <pub-id pub-id-type="doi">10.1371/journal.pmed.1004511</pub-id>.<pub-id pub-id-type="pmid">39847575</pub-id>
+<pub-id pub-id-type="pmcid">PMC12005676</pub-id></mixed-citation></ref><ref id="sji70088-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="sji70088-cit-0010">
+<string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Su</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Yuan</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D. G.</given-names>
+<surname>Chen</surname>
+</string-name>, et al., “<article-title>Multiple Early Factors Anticipate Post‐Acute COVID‐19 Sequelae</article-title>,” <source>Cell</source>
+<volume>3</volume>, no. <issue>185</issue> (<year>2022</year>): <fpage>881</fpage>–<lpage>895</lpage>, <pub-id pub-id-type="doi">10.1016/j.cell.2022.01.014</pub-id>.<pub-id pub-id-type="pmcid">PMC8786632</pub-id><pub-id pub-id-type="pmid">35216672</pub-id></mixed-citation></ref><ref id="sji70088-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="sji70088-cit-0011">
+<string-name name-style="western">
+<given-names>D. M.</given-names>
+<surname>Altmann</surname>
+</string-name>, <string-name name-style="western">
+<given-names>E. M.</given-names>
+<surname>Whettlock</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D. J.</given-names>
+<surname>Arachchillage</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>R. J.</given-names>
+<surname>Boyton</surname>
+</string-name>, “<article-title>The Immunology of Long COVID</article-title>,” <source>Nature Reviews Immunology</source>
+<volume>23</volume> (<year>2023</year>): <fpage>618</fpage>–<lpage>634</lpage>, <pub-id pub-id-type="doi">10.1038/s41577-023-00904-7</pub-id>.<pub-id pub-id-type="pmid">37433988</pub-id></mixed-citation></ref><ref id="sji70088-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="sji70088-cit-0012">
+<string-name name-style="western">
+<given-names>E.</given-names>
+<surname>Hadley</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Y. J.</given-names>
+<surname>Yoo</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Patel</surname>
+</string-name>, et al., “<article-title>Insights From an N3C RECOVER EHR‐Based Cohort Study Characterizing SARS‐CoV‐2 Reinfections and Long COVID</article-title>,” <source>Communications Medicine</source>
+<volume>11</volume>, no. <issue>4</issue> (<year>2024</year>): <fpage>129</fpage>, <pub-id pub-id-type="doi">10.1038/s43856-024-00539-2</pub-id>.<pub-id pub-id-type="pmcid">PMC11239932</pub-id><pub-id pub-id-type="pmid">38992084</pub-id></mixed-citation></ref><ref id="sji70088-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="sji70088-cit-0013">
+<string-name name-style="western">
+<given-names>A. D.</given-names>
+<surname>Proal</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M. B.</given-names>
+<surname>VanElzakker</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Aleman</surname>
+</string-name>, et al., “<article-title>SARS‐CoV‐2 Reservoir in Post‐Acute Sequelae of COVID‐19 (PASC)</article-title>,” <source>Nature Immunology</source>
+<volume>24</volume> (<year>2023</year>): <fpage>1616</fpage>–<lpage>1627</lpage>, <pub-id pub-id-type="doi">10.1038/s41590-023-01601-2</pub-id>.<pub-id pub-id-type="pmid">37667052</pub-id>
+</mixed-citation></ref><ref id="sji70088-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="sji70088-cit-0014">
+<string-name name-style="western">
+<given-names>J. E.</given-names>
+<surname>Gold</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R. A.</given-names>
+<surname>Okyay</surname>
+</string-name>, <string-name name-style="western">
+<given-names>W. E.</given-names>
+<surname>Licht</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>D. J.</given-names>
+<surname>Hurley</surname>
+</string-name>, “<article-title>Investigation of Long COVID Prevalence and Its Relationship to Epstein‐Barr Virus Reactivation</article-title>,” <source>Pathogens</source>
+<volume>10</volume> (<year>2021</year>): <fpage>763</fpage>, <pub-id pub-id-type="doi">10.3390/pathogens10060763</pub-id>.<pub-id pub-id-type="pmid">34204243</pub-id>
+<pub-id pub-id-type="pmcid">PMC8233978</pub-id></mixed-citation></ref><ref id="sji70088-bib-0015"><label>15</label><mixed-citation publication-type="journal" id="sji70088-cit-0015">
+<string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Klein</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Wood</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J. R.</given-names>
+<surname>Jaycox</surname>
+</string-name>, et al., “<article-title>Distinguishing Features of Long COVID Identified Through Immune Profiling</article-title>,” <source>Nature</source>
+<volume>623</volume> (<year>2023</year>): <fpage>139</fpage>–<lpage>148</lpage>, <pub-id pub-id-type="doi">10.1038/s41586-023-06651-y</pub-id>.<pub-id pub-id-type="pmid">37748514</pub-id>
+<pub-id pub-id-type="pmcid">PMC10620090</pub-id></mixed-citation></ref><ref id="sji70088-bib-0016"><label>16</label><mixed-citation publication-type="journal" id="sji70088-cit-0016">
+<string-name name-style="western">
+<given-names>M. J.</given-names>
+<surname>Peluso</surname>
+</string-name>, <string-name name-style="western">
+<given-names>T. M.</given-names>
+<surname>Deveau</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S. E.</given-names>
+<surname>Munter</surname>
+</string-name>, et al., “<article-title>Chronic Viral Coinfections Differentially Affect the Likelihood of Developing Long COVID</article-title>,” <source>Journal of Clinical Investigation</source>
+<volume>1</volume> (<year>2023</year>): <fpage>133</fpage>, <pub-id pub-id-type="doi">10.1172/JCI163669</pub-id>.<pub-id pub-id-type="pmcid">PMC9888380</pub-id><pub-id pub-id-type="pmid">36454631</pub-id></mixed-citation></ref><ref id="sji70088-bib-0017"><label>17</label><mixed-citation publication-type="journal" id="sji70088-cit-0017">
+<string-name name-style="western">
+<given-names>E.</given-names>
+<surname>Apostolou</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Rizwan</surname>
+</string-name>, <string-name name-style="western">
+<given-names>P.</given-names>
+<surname>Moustardas</surname>
+</string-name>, et al., “<article-title>Saliva Antibody‐Fingerprint of Reactivated Latent Viruses After Mild/Asymptomatic COVID‐19 Is Unique in Patients With Myalgic‐Encephalomyelitis/Chronic Fatigue Syndrome</article-title>,” <source>Frontiers in Immunology</source>
+<volume>13</volume> (<year>2022</year>): <elocation-id>949787</elocation-id>, <pub-id pub-id-type="doi">10.3389/fimmu.2022.949787</pub-id>.<pub-id pub-id-type="pmid">36341457</pub-id>
+<pub-id pub-id-type="pmcid">PMC9630598</pub-id></mixed-citation></ref><ref id="sji70088-bib-0018"><label>18</label><mixed-citation publication-type="journal" id="sji70088-cit-0018">
+<string-name name-style="western">
+<given-names>A. D.</given-names>
+<surname>Hoeggerl</surname>
+</string-name>, <string-name name-style="western">
+<given-names>V.</given-names>
+<surname>Nunhofer</surname>
+</string-name>, <string-name name-style="western">
+<given-names>W.</given-names>
+<surname>Lauth</surname>
+</string-name>, et al., “<article-title>Epstein‐Barr Virus Reactivation Is Not Causative for Post‐COVID‐19‐Syndrome in Individuals With Asymptomatic or Mild SARS‐CoV‐2 Disease Course</article-title>,” <source>BMC Infectious Diseases</source>
+<volume>15</volume>, no. <issue>23</issue> (<year>2023</year>): <fpage>800</fpage>, <pub-id pub-id-type="doi">10.1186/s12879-023-08820-w</pub-id>.<pub-id pub-id-type="pmcid">PMC10652630</pub-id><pub-id pub-id-type="pmid">37968601</pub-id></mixed-citation></ref><ref id="sji70088-bib-0019"><label>19</label><mixed-citation publication-type="journal" id="sji70088-cit-0019">
+<string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Seessle</surname>
+</string-name>, <string-name name-style="western">
+<given-names>T.</given-names>
+<surname>Waterboer</surname>
+</string-name>, <string-name name-style="western">
+<given-names>T.</given-names>
+<surname>Hippchen</surname>
+</string-name>, et al., “<article-title>Persistent Symptoms in Adult Patients 1 Year After Coronavirus Disease 2019 (COVID‐19): A Prospective Cohort Study</article-title>,” <source>Clinical Infectious Diseases: An Official Publication of the Infectious Diseases Society of America</source>
+<volume>9</volume>, no. <issue>74</issue> (<year>2022</year>): <fpage>1191</fpage>–<lpage>1198</lpage>, <pub-id pub-id-type="doi">10.1093/cid/ciab611</pub-id>.<pub-id pub-id-type="pmcid">PMC8394862</pub-id><pub-id pub-id-type="pmid">34223884</pub-id></mixed-citation></ref><ref id="sji70088-bib-0020"><label>20</label><mixed-citation publication-type="journal" id="sji70088-cit-0020">
+<string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Son</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Jamil</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Chowdhury</surname>
+</string-name>, et al., “<article-title>Circulating Anti‐Nuclear Autoantibodies in COVID‐19 Survivors Predict Long COVID Symptoms</article-title>,” <source>European Respiratory Journal</source>
+<volume>61</volume> (<year>2023</year>): <fpage>2200970</fpage>, <pub-id pub-id-type="doi">10.1183/13993003.00970-2022</pub-id>.<pub-id pub-id-type="pmid">36137590</pub-id>
+<pub-id pub-id-type="pmcid">PMC9515477</pub-id></mixed-citation></ref><ref id="sji70088-bib-0021"><label>21</label><mixed-citation publication-type="journal" id="sji70088-cit-0021">
+<string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Visvabharathy</surname>
+</string-name>, <string-name name-style="western">
+<given-names>N.</given-names>
+<surname>Dalil</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Leonor</surname>
+</string-name>, et al., “<article-title>Mild Primary or Breakthrough SARS‐CoV‐2 Infection Promotes Autoantibody Production in Individuals With and Without Neuro‐PASC</article-title>,” <source>ImmunoHorizons</source>
+<volume>1</volume>, no. <issue>8</issue> (<year>2024</year>): <fpage>577</fpage>–<lpage>585</lpage>, <pub-id pub-id-type="doi">10.4049/immunohorizons.2400033</pub-id>.<pub-id pub-id-type="pmcid">PMC11374748</pub-id><pub-id pub-id-type="pmid">39186606</pub-id></mixed-citation></ref><ref id="sji70088-bib-0022"><label>22</label><mixed-citation publication-type="journal" id="sji70088-cit-0022">
+<string-name name-style="western">
+<given-names>E.</given-names>
+<surname>Pisareva</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Badiou</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Mihalovicova</surname>
+</string-name>, et al., “<article-title>Persistence of Neutrophil Extracellular Traps and Anticardiolipin Auto‐Antibodies in Post‐Acute Phase COVID‐19 Patients</article-title>,” <source>Journal of Medical Virology</source>
+<volume>95</volume> (<year>2023</year>): <elocation-id>e28209</elocation-id>, <pub-id pub-id-type="doi">10.1002/jmv.28209</pub-id>.<pub-id pub-id-type="pmid">36226380</pub-id>
+<pub-id pub-id-type="pmcid">PMC9874393</pub-id></mixed-citation></ref><ref id="sji70088-bib-0023"><label>23</label><mixed-citation publication-type="journal" id="sji70088-cit-0023">
+<string-name name-style="western">
+<given-names>G.</given-names>
+<surname>Wallukat</surname>
+</string-name>, <string-name name-style="western">
+<given-names>B.</given-names>
+<surname>Hohberger</surname>
+</string-name>, <string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Wenzel</surname>
+</string-name>, et al., “<article-title>Functional Autoantibodies Against G‐Protein Coupled Receptors in Patients With Persistent Long‐COVID‐19 Symptoms</article-title>,” <source>Journal of Translational Autoimmunity</source>
+<volume>4</volume> (<year>2021</year>): <elocation-id>100100</elocation-id>, <pub-id pub-id-type="doi">10.1016/j.jtauto.2021.100100</pub-id>.<pub-id pub-id-type="pmid">33880442</pub-id>
+<pub-id pub-id-type="pmcid">PMC8049853</pub-id></mixed-citation></ref><ref id="sji70088-bib-0024"><label>24</label><mixed-citation publication-type="journal" id="sji70088-cit-0024">
+<string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Bodansky</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C. Y.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Saxena</surname>
+</string-name>, et al., “<article-title>Autoantigen Profiling Reveals a Shared Post‐COVID Signature in Fully Recovered and Long COVID Patients</article-title>,” <source>JCI Insight</source>
+<volume>8</volume> (<year>2023</year>): <fpage>8</fpage>, <pub-id pub-id-type="doi">10.1172/jci.insight.169515</pub-id>.<pub-id pub-id-type="pmcid">PMC10393220</pub-id><pub-id pub-id-type="pmid">37288661</pub-id></mixed-citation></ref><ref id="sji70088-bib-0025"><label>25</label><mixed-citation publication-type="journal" id="sji70088-cit-0025">
+<string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Schultheiss</surname>
+</string-name>, <string-name name-style="western">
+<given-names>E.</given-names>
+<surname>Willscher</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Paschold</surname>
+</string-name>, et al., “<article-title>The IL‐1β, IL‐6, and TNF Cytokine Triad Is Associated With Post‐Acute Sequelae of COVID‐19</article-title>,” <source>Cell Reports Medicine</source>
+<volume>3</volume> (<year>2022</year>): <elocation-id>100663</elocation-id>, <pub-id pub-id-type="doi">10.1016/j.xcrm.2022.100663</pub-id>.<pub-id pub-id-type="pmid">35732153</pub-id>
+<pub-id pub-id-type="pmcid">PMC9214726</pub-id></mixed-citation></ref><ref id="sji70088-bib-0026"><label>26</label><mixed-citation publication-type="journal" id="sji70088-cit-0026">
+<string-name name-style="western">
+<given-names>M. J.</given-names>
+<surname>Peluso</surname>
+</string-name>, <string-name name-style="western">
+<given-names>I. J.</given-names>
+<surname>Thomas</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S. E.</given-names>
+<surname>Munter</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S. G.</given-names>
+<surname>Deeks</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>T. J.</given-names>
+<surname>Henrich</surname>
+</string-name>, “<article-title>Lack of Antinuclear Antibodies in Convalescent Coronavirus Disease 2019 Patients With Persistent Symptoms</article-title>,” <source>Clinical Infectious Diseases</source>
+<volume>74</volume> (<year>2022</year>): <fpage>2083</fpage>–<lpage>2084</lpage>, <pub-id pub-id-type="doi">10.1093/cid/ciab890</pub-id>.<pub-id pub-id-type="pmid">34617982</pub-id>
+<pub-id pub-id-type="pmcid">PMC9187313</pub-id></mixed-citation></ref><ref id="sji70088-bib-0027"><label>27</label><mixed-citation publication-type="journal" id="sji70088-cit-0027">
+<string-name name-style="western">
+<given-names>P.</given-names>
+<surname>Lorenz</surname>
+</string-name>, <string-name name-style="western">
+<given-names>F.</given-names>
+<surname>Steinbeck</surname>
+</string-name>, <string-name name-style="western">
+<given-names>F.</given-names>
+<surname>Mai</surname>
+</string-name>, <string-name name-style="western">
+<given-names>E. C.</given-names>
+<surname>Reisinger</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>B.</given-names>
+<surname>Muller‐Hilke</surname>
+</string-name>, “<article-title>A Linear B‐Cell Epitope Close to the Furin Cleavage Site Within the S1 Domain of SARS‐CoV‐2 Spike Protein Discriminates the Humoral Immune Response of Nucleic Acid‐ and Protein‐Based Vaccine Cohorts</article-title>,” <source>Frontiers in Immunology</source>
+<volume>14</volume> (<year>2023</year>): <elocation-id>1192395</elocation-id>, <pub-id pub-id-type="doi">10.3389/fimmu.2023.1192395</pub-id>.<pub-id pub-id-type="pmid">37228598</pub-id>
+<pub-id pub-id-type="pmcid">PMC10203960</pub-id></mixed-citation></ref><ref id="sji70088-bib-0028"><label>28</label><mixed-citation publication-type="journal" id="sji70088-cit-0028">
+<string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Vita</surname>
+</string-name>, <string-name name-style="western">
+<given-names>N.</given-names>
+<surname>Blazeska</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Marrama</surname>
+</string-name>, et al., “<article-title>The Immune Epitope Database (IEDB): 2024 Update</article-title>,” <source>Nucleic Acids Research</source>
+<volume>6</volume>, no. <issue>53</issue> (<year>2025</year>): <fpage>D436</fpage>–<lpage>D443</lpage>, <pub-id pub-id-type="doi">10.1093/nar/gkae1092</pub-id>.<pub-id pub-id-type="pmcid">PMC11701597</pub-id><pub-id pub-id-type="pmid">39558162</pub-id></mixed-citation></ref><ref id="sji70088-bib-0029"><label>29</label><mixed-citation publication-type="journal" id="sji70088-cit-0029">
+<string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Frappier</surname>
+</string-name>, “<article-title>Ebna1</article-title>,” <source>Current Topics in Microbiology and Immunology</source>
+<volume>391</volume> (<year>2015</year>): <fpage>3</fpage>–<lpage>34</lpage>, <pub-id pub-id-type="doi">10.1007/978-3-319-22834-1_1</pub-id>.<pub-id pub-id-type="pmid">26428370</pub-id>
+</mixed-citation></ref><ref id="sji70088-bib-0030"><label>30</label><mixed-citation publication-type="journal" id="sji70088-cit-0030">
+<string-name name-style="western">
+<given-names>O. G.</given-names>
+<surname>Thomas</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Bronge</surname>
+</string-name>, <string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Tengvall</surname>
+</string-name>, et al., “<article-title>Cross‐Reactive EBNA1 Immunity Targets Alpha‐Crystallin B and Is Associated With Multiple Sclerosis</article-title>,” <source>Science Advances</source>
+<volume>19</volume>, no. <issue>9</issue> (<year>2023</year>): <elocation-id>eadg3032</elocation-id>, <pub-id pub-id-type="doi">10.1126/sciadv.adg3032</pub-id>.<pub-id pub-id-type="pmcid">PMC10191428</pub-id><pub-id pub-id-type="pmid">37196088</pub-id></mixed-citation></ref><ref id="sji70088-bib-0031"><label>31</label><mixed-citation publication-type="journal" id="sji70088-cit-0031">
+<string-name name-style="western">
+<given-names>S. E.</given-names>
+<surname>Chang</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Feng</surname>
+</string-name>, <string-name name-style="western">
+<given-names>W.</given-names>
+<surname>Meng</surname>
+</string-name>, et al., “<article-title>New‐Onset IgG Autoantibodies in Hospitalized Patients With COVID‐19</article-title>,” <source>Nature Communications</source>
+<volume>14</volume>, no. <issue>12</issue> (<year>2021</year>): <fpage>5417</fpage>, <pub-id pub-id-type="doi">10.1038/s41467-021-25509-3</pub-id>.<pub-id pub-id-type="pmcid">PMC8440763</pub-id><pub-id pub-id-type="pmid">34521836</pub-id></mixed-citation></ref><ref id="sji70088-bib-0032"><label>32</label><mixed-citation publication-type="journal" id="sji70088-cit-0032">
+<string-name name-style="western">
+<given-names>Z.</given-names>
+<surname>Wan</surname>
+</string-name>, <string-name name-style="western">
+<given-names>X.</given-names>
+<surname>Xia</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Lo</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>G. C.</given-names>
+<surname>Murphy</surname>
+</string-name>, “<article-title>How Does Machine Learning Change Software Development Practices?</article-title>,” <source>IEEE Transactions on Software Engineering</source>
+<volume>47</volume> (<year>2021</year>): <fpage>1857</fpage>–<lpage>1871</lpage>, <pub-id pub-id-type="doi">10.1109/TSE.2019.2937083</pub-id>.</mixed-citation></ref><ref id="sji70088-bib-0033"><label>33</label><mixed-citation publication-type="journal" id="sji70088-cit-0033">
+<string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Ruprecht</surname>
+</string-name>, <string-name name-style="western">
+<given-names>B.</given-names>
+<surname>Wunderlich</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Giess</surname>
+</string-name>, et al., “<article-title>Multiple Sclerosis: The Elevated Antibody Response to Epstein‐Barr Virus Primarily Targets, but Is Not Confined to, the Glycine‐Alanine Repeat of Epstein‐Barr Nuclear Antigen‐1</article-title>,” <source>Journal of Neuroimmunology</source>
+<volume>15</volume>, no. <issue>272</issue> (<year>2014</year>): <fpage>56</fpage>–<lpage>61</lpage>, <pub-id pub-id-type="doi">10.1016/j.jneuroim.2014.04.005</pub-id>.<pub-id pub-id-type="pmid">24798244</pub-id></mixed-citation></ref><ref id="sji70088-bib-0034"><label>34</label><mixed-citation publication-type="journal" id="sji70088-cit-0034">
+<string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Zandian</surname>
+</string-name>, <string-name name-style="western">
+<given-names>B.</given-names>
+<surname>Forsstrom</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Haggmark‐Manberg</surname>
+</string-name>, et al., “<article-title>Whole‐Proteome Peptide Microarrays for Profiling Autoantibody Repertoires Within Multiple Sclerosis and Narcolepsy</article-title>,” <source>Journal of Proteome Research</source>
+<volume>16</volume>, no. <issue>3</issue> (<year>2017</year>): <fpage>1300</fpage>–<lpage>1314</lpage>, <pub-id pub-id-type="doi">10.1021/acs.jproteome.6b00916</pub-id>.<pub-id pub-id-type="pmid">28121444</pub-id>
+</mixed-citation></ref><ref id="sji70088-bib-0035"><label>35</label><mixed-citation publication-type="journal" id="sji70088-cit-0035">
+<string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Hecker</surname>
+</string-name>, <string-name name-style="western">
+<given-names>B.</given-names>
+<surname>Fitzner</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Wendt</surname>
+</string-name>, et al., “<article-title>High‐Density Peptide Microarray Analysis of IgG Autoantibody Reactivities in Serum and Cerebrospinal Fluid of Multiple Sclerosis Patients</article-title>,” <source>Molecular &amp; Cellular Proteomics: MCP</source>
+<volume>15</volume> (<year>2016</year>): <fpage>1360</fpage>–<lpage>1380</lpage>, <pub-id pub-id-type="doi">10.1074/mcp.M115.051664</pub-id>.<pub-id pub-id-type="pmid">26831522</pub-id>
+<pub-id pub-id-type="pmcid">PMC4824861</pub-id></mixed-citation></ref><ref id="sji70088-bib-0036"><label>36</label><mixed-citation publication-type="journal" id="sji70088-cit-0036">
+<string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Loebel</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Eckey</surname>
+</string-name>, <string-name name-style="western">
+<given-names>F.</given-names>
+<surname>Sotzny</surname>
+</string-name>, et al., “<article-title>Serological Profiling of the EBV Immune Response in Chronic Fatigue Syndrome Using a Peptide Microarray</article-title>,” <source>PLoS One</source>
+<volume>12</volume> (<year>2017</year>): <elocation-id>e0179124</elocation-id>, <pub-id pub-id-type="doi">10.1371/journal.pone.0179124</pub-id>.<pub-id pub-id-type="pmid">28604802</pub-id>
+<pub-id pub-id-type="pmcid">PMC5467847</pub-id></mixed-citation></ref><ref id="sji70088-bib-0037"><label>37</label><mixed-citation publication-type="journal" id="sji70088-cit-0037">
+<string-name name-style="western">
+<given-names>G.</given-names>
+<surname>Capone</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Calabro</surname>
+</string-name>, <string-name name-style="western">
+<given-names>G.</given-names>
+<surname>Lucchese</surname>
+</string-name>, et al., “<article-title>Peptide Matching Between Epstein‐Barr Virus and Human Proteins</article-title>,” <source>Pathogens and Disease</source>
+<volume>69</volume> (<year>2013</year>): <fpage>205</fpage>–<lpage>212</lpage>, <pub-id pub-id-type="doi">10.1111/2049-632X.12066</pub-id>.<pub-id pub-id-type="pmid">23873730</pub-id>
+</mixed-citation></ref><ref id="sji70088-bib-0038"><label>38</label><mixed-citation publication-type="journal" id="sji70088-cit-0038">
+<string-name name-style="western">
+<given-names>S. S.</given-names>
+<surname>Soldan</surname>
+</string-name> and <string-name name-style="western">
+<given-names>P. M.</given-names>
+<surname>Lieberman</surname>
+</string-name>, “<article-title>Epstein‐Barr Virus and Multiple Sclerosis</article-title>,” <source>Nature Reviews Microbiology</source>
+<volume>21</volume> (<year>2023</year>): <fpage>51</fpage>–<lpage>64</lpage>, <pub-id pub-id-type="doi">10.1038/s41579-022-00770-5</pub-id>.<pub-id pub-id-type="pmid">35931816</pub-id>
+<pub-id pub-id-type="pmcid">PMC9362539</pub-id></mixed-citation></ref><ref id="sji70088-bib-0039"><label>39</label><mixed-citation publication-type="journal" id="sji70088-cit-0039">
+<string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Ruiz‐Pablos</surname>
+</string-name>, <string-name name-style="western">
+<given-names>B.</given-names>
+<surname>Paiva</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Zabaleta</surname>
+</string-name>, “<article-title>Epstein‐Barr Virus‐Acquired Immunodeficiency in Myalgic Encephalomyelitis‐Is It Present in Long COVID?</article-title>,” <source>Journal of Translational Medicine</source>
+<volume>21</volume>, no. <issue>1</issue> (<year>2023</year>): <elocation-id>633</elocation-id>, <pub-id pub-id-type="doi">10.1186/s12967-023-04515-7</pub-id>.<pub-id pub-id-type="pmid">37718435</pub-id>
+<pub-id pub-id-type="pmcid">PMC10506247</pub-id></mixed-citation></ref><ref id="sji70088-bib-0040"><label>40</label><mixed-citation publication-type="journal" id="sji70088-cit-0040">
+<string-name name-style="western">
+<given-names>H. U.</given-names>
+<surname>Lutz</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C. J.</given-names>
+<surname>Binder</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Kaveri</surname>
+</string-name>, “<article-title>Naturally Occurring Auto‐Antibodies in Homeostasis and Disease</article-title>,” <source>Trends in Immunology</source>
+<volume>30</volume> (<year>2009</year>): <fpage>43</fpage>–<lpage>51</lpage>, <pub-id pub-id-type="doi">10.1016/j.it.2008.10.002</pub-id>.<pub-id pub-id-type="pmid">19058756</pub-id>
+</mixed-citation></ref><ref id="sji70088-bib-0041"><label>41</label><mixed-citation publication-type="journal" id="sji70088-cit-0041">
+<string-name name-style="western">
+<given-names>M. S.</given-names>
+<surname>Maddur</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Lacroix‐Desmazes</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J. D.</given-names>
+<surname>Dimitrov</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M. D.</given-names>
+<surname>Kazatchkine</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Bayry</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>S. V.</given-names>
+<surname>Kaveri</surname>
+</string-name>, “<article-title>Natural Antibodies: From First‐Line Defense Against Pathogens to Perpetual Immune Homeostasis</article-title>,” <source>Clinical Reviews in Allergy &amp; Immunology</source>
+<volume>58</volume> (<year>2020</year>): <fpage>213</fpage>–<lpage>228</lpage>, <pub-id pub-id-type="doi">10.1007/s12016-019-08746-9</pub-id>.<pub-id pub-id-type="pmid">31161341</pub-id>
+</mixed-citation></ref><ref id="sji70088-bib-0042"><label>42</label><mixed-citation publication-type="journal" id="sji70088-cit-0042">
+<string-name name-style="western">
+<given-names>K. S.</given-names>
+<surname>Hansen</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S. E.</given-names>
+<surname>Jorgensen</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M. K.</given-names>
+<surname>Skouboe</surname>
+</string-name>, et al., “<article-title>Examination of Autoantibodies to Type I Interferon in Patients Suffering From Long COVID</article-title>,” <source>Journal of Medical Virology</source>
+<volume>95</volume> (<year>2023</year>): <elocation-id>e29089</elocation-id>, <pub-id pub-id-type="doi">10.1002/jmv.29089</pub-id>.<pub-id pub-id-type="pmid">37698062</pub-id>
+</mixed-citation></ref><ref id="sji70088-bib-0043"><label>43</label><mixed-citation publication-type="journal" id="sji70088-cit-0043">
+<string-name name-style="western">
+<given-names>B. R.</given-names>
+<surname>Babcock</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Kosters</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D. J.</given-names>
+<surname>Eddins</surname>
+</string-name>, et al., “<article-title>Transient Anti‐Interferon Autoantibodies in the Airways Are Associated With Recovery From COVID‐19</article-title>,” <source>Science Translational Medicine</source>
+<volume>6</volume>, no. <issue>16</issue> (<year>2024</year>): <elocation-id>eadq1789</elocation-id>, <pub-id pub-id-type="doi">10.1126/scitranslmed.adq1789</pub-id>.<pub-id pub-id-type="pmcid">PMC11924959</pub-id><pub-id pub-id-type="pmid">39504354</pub-id></mixed-citation></ref><ref id="sji70088-bib-0044"><label>44</label><mixed-citation publication-type="journal" id="sji70088-cit-0044">
+<string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Epstein‐Shuman</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J. H.</given-names>
+<surname>Hunt</surname>
+</string-name>, <string-name name-style="western">
+<given-names>P.</given-names>
+<surname>Caturegli</surname>
+</string-name>, et al., “<article-title>Autoantibodies Directed Against Interferon Alpha, Nuclear Antigens, Cardiolipin, and Beta 2 Glycoprotein 1 Are Not Induced by SARS‐CoV‐2 or Associated With Long COVID</article-title>,” <source>International Journal of Infectious Diseases: IJID: Official Publication of the International Society for Infectious Diseases</source>
+<volume>150</volume> (<year>2025</year>): <elocation-id>107289</elocation-id>, <pub-id pub-id-type="doi">10.1016/j.ijid.2024.107289</pub-id>.<pub-id pub-id-type="pmid">39489282</pub-id>
+<pub-id pub-id-type="pmcid">PMC12326661</pub-id></mixed-citation></ref><ref id="sji70088-bib-0045"><label>45</label><mixed-citation publication-type="journal" id="sji70088-cit-0045">
+<string-name name-style="western">
+<given-names>F.</given-names>
+<surname>Fricke</surname>
+</string-name>, <string-name name-style="western">
+<given-names>F.</given-names>
+<surname>Mai</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Wossidlo</surname>
+</string-name>, et al., “<article-title>Transcriptome Analysis of Classical Blood Cells Reveals Downregulation of Pro‐Inflammatory Genes in the Classical Monocytes of Long COVID Patients</article-title>,” <source>Frontiers in Immunology</source>
+<volume>16</volume> (<year>2025</year>): <fpage>1710783</fpage>.<pub-id pub-id-type="pmid">41280901</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3389/fimmu.2025.1710783</pub-id><pub-id pub-id-type="pmcid">PMC12634634</pub-id></mixed-citation></ref><ref id="sji70088-bib-0046"><label>46</label><mixed-citation publication-type="journal" id="sji70088-cit-0046">
+<string-name name-style="western">
+<given-names>I.</given-names>
+<surname>Fanelli</surname>
+</string-name>, <string-name name-style="western">
+<given-names>P.</given-names>
+<surname>Rovero</surname>
+</string-name>, <string-name name-style="western">
+<given-names>P. R.</given-names>
+<surname>Hansen</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J. L.</given-names>
+<surname>Frederiksen</surname>
+</string-name>, <string-name name-style="western">
+<given-names>G.</given-names>
+<surname>Houen</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>N. H.</given-names>
+<surname>Trier</surname>
+</string-name>, “<article-title>Reactivity of Rheumatoid Arthritis‐Associated Citrulline‐Dependent Antibodies to Epstein‐Barr Virus Nuclear Antigen1‐3</article-title>,” <source>Antibodies (Basel)</source>
+<volume>11</volume>, no. <issue>1</issue> (<year>2022</year>): <fpage>20</fpage>, <pub-id pub-id-type="doi">10.3390/antib11010020</pub-id>.<pub-id pub-id-type="pmid">35323194</pub-id>
+<pub-id pub-id-type="pmcid">PMC8944695</pub-id></mixed-citation></ref><ref id="sji70088-bib-0047"><label>47</label><mixed-citation publication-type="journal" id="sji70088-cit-0047">
+<string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Vietzen</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L. M.</given-names>
+<surname>Kuhner</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S. M.</given-names>
+<surname>Berger</surname>
+</string-name>, et al., “<article-title>Early Identification of Individuals at Risk for Multiple Sclerosis by Quantification of EBNA‐1(381‐452)‐Specific Antibody Titers</article-title>,” <source>Nature Communications</source>
+<volume>16</volume> (<year>2025</year>): <elocation-id>6416</elocation-id>, <pub-id pub-id-type="doi">10.1038/s41467-025-61751-9</pub-id>.<pub-id pub-id-type="pmcid">PMC12259891</pub-id><pub-id pub-id-type="pmid">40659624</pub-id></mixed-citation></ref><ref id="sji70088-bib-0048"><label>48</label><mixed-citation publication-type="journal" id="sji70088-cit-0048">
+<string-name name-style="western">
+<given-names>W. H.</given-names>
+<surname>Robinson</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Younis</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Z. Z.</given-names>
+<surname>Love</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Steinman</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>T. V.</given-names>
+<surname>Lanz</surname>
+</string-name>, “<article-title>Epstein‐Barr Virus as a Potentiator of Autoimmune Diseases</article-title>,” <source>Nature Reviews Rheumatology</source>
+<volume>20</volume> (<year>2024</year>): <fpage>729</fpage>–<lpage>740</lpage>, <pub-id pub-id-type="doi">10.1038/s41584-024-01167-9</pub-id>.<pub-id pub-id-type="pmid">39390260</pub-id>
+</mixed-citation></ref></ref-list></back></article></pmc-articleset>

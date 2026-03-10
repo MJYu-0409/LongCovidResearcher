@@ -1,0 +1,24 @@
+{
+  "pmcid": "PMC12401457",
+  "pmid": "40898520",
+  "doi": "10.1097/MD.0000000000044209",
+  "title": "Regulation of m7G methylation in long COVID: Expression profiles and early predictive value of key genes.",
+  "abstract": "Long COVID (LC) poses ongoing public health challenges due to its persistent symptoms following severe acute respiratory syndrome coronavirus 2 infection. Early identification of at-risk individuals remains difficult, and molecular biomarkers are urgently needed. This study aimed to explore the role of N7-methylguanosine (m7G) methylation-related regulatory genes in LC pathogenesis and to develop a predictive model for early detection. Gene expression profiles of LC patients were obtained from the GEO database (GSE224615), and differentially expressed genes (DEGs) were identified. These DEGs were intersected with m7G regulatory genes to identify LC-specific candidates. A protein-protein interaction network was constructed to identify hub genes, and enrichment analyses including Gene Ontology, Kyoto Encyclopedia of Genes and Genomes, and gene set enrichment analysis were performed to investigate the biological relevance of the identified genes. Immune cell infiltration analyses were conducted to explore the immunological features associated with candidate genes. Findings were validated using an external dataset (GSE217948). A clinical prediction model was constructed using Least absolute shrinkage and selection operator regression followed by logistic regression, and evaluated via receiver operating characteristic curve, calibration, and decision curve analysis. A total of 65 DEGs were identified in LC patients, comprising 44 up-regulated and 21 down-regulated genes. Thirty genes overlapped with the m7G regulatory gene set. Functional enrichment revealed significant involvement in pathways such as FceRI-mediated NF-κB activation and platelet aggregation. Correlation analysis showed that several m7G-related genes were associated with altered immune cell infiltration patterns. The external dataset confirmed the reproducibility of gene expression trends. Seven core genes were ultimately selected to build the predictive model, which demonstrated robust performance in distinguishing LC patients from controls. This study highlights the importance of m7G methylation in LC pathogenesis and uncovers novel immune-related mechanisms underlying its persistence. The predictive model based on m7G-related markers provides a promising tool for early LC identification and may inform future diagnostic and therapeutic strategies.",
+  "authors": [
+    "Wenmei Bai",
+    "Fengsen Li"
+  ],
+  "journal": "Medicine",
+  "pub_year": "2025",
+  "pub_month": "Aug",
+  "pub_day": "29",
+  "keywords": [
+    "N7-methylguanosine",
+    "immunocorrelation analysis",
+    "long COVID",
+    "predictive model"
+  ],
+  "article_types": [
+    "Journal Article"
+  ]
+}

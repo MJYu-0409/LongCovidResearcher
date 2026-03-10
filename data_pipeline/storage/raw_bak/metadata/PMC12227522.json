@@ -1,0 +1,42 @@
+{
+  "pmcid": "PMC12227522",
+  "pmid": "40615692",
+  "doi": "10.1038/s41746-025-01617-y",
+  "title": "Label efficient phenotyping for Long COVID using electronic health records.",
+  "abstract": "Long COVID poses a significant disease burden globally, but its heterogeneous presentation and unreliable coding practices render it difficult to study. Developing efficient phenotyping algorithms is crucial to enabling risk prediction and effective management of Long COVID. We introduce the LAbel-efficienT Long COVID pHenotyping (LATCH) algorithm, which synthesizes a small number of gold-standard labels and a large, unlabeled dataset with many electronic health record (EHR) features. Both internal validation and external validation demonstrated the superior performance of LATCH over methods using the U09.9 Long COVID EHR code alone. Our downstream analysis revealed a pattern of elevated healthcare utilization due to Long COVID, peaking at and continuing beyond the fourth month following COVID infection. LATCH enhances the classification of Long COVID by fully utilizing both labeled and unlabeled data, providing vital insights into healthcare utilization trends, informing clinical and public health responses to the enduring consequences of COVID-19.",
+  "authors": [
+    "Chuan Hong",
+    "Jun Wen",
+    "Harrison G Zhang",
+    "Vidul Ayakulangara Panickan",
+    "Doris Y Yang",
+    "Alicia W Chen",
+    "Xin Xiong",
+    "Xuan Wang",
+    "Michele Morris",
+    "Sara Morini",
+    "Rahul Sangar",
+    "Andrew Dey",
+    "Malarkodi J Samayamuthu",
+    "Katherine Liao",
+    "Clara-Lea Bonzel",
+    "Vidisha Tanukonda",
+    "Monika Maripuri",
+    "Jacqueline Honerlaw",
+    "Yuk-Lam Ho",
+    "Shyam Visweswaran",
+    "Isaac S Kohane",
+    "Kelly Cho",
+    "Gabriel Brat",
+    "Zongqi Xia",
+    "Tianxi Cai"
+  ],
+  "journal": "NPJ digital medicine",
+  "pub_year": "2025",
+  "pub_month": "Jul",
+  "pub_day": "04",
+  "keywords": [],
+  "article_types": [
+    "Journal Article"
+  ]
+}

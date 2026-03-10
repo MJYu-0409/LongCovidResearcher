@@ -1,0 +1,36 @@
+{
+  "pmcid": "PMC12474022",
+  "pmid": "41012643",
+  "doi": "10.3390/v17091215",
+  "title": "Biomarker-Based Risk Assessment Strategy for Long COVID: Leveraging Spike Protein and Proinflammatory Mediators to Inform Broader Postinfection Sequelae.",
+  "abstract": "Long COVID, characterized by persistent symptoms following acute SARS-CoV-2 infection, has emerged as a significant public health challenge with wide-ranging clinical and socioeconomic implications. Developing an effective risk assessment strategy is essential for the early identification and management of individuals susceptible to prolonged symptoms. This study uses a quantitative approach to characterize the dose-response relationships between spike protein concentrations and effects, including Long COVID symptom numbers and the release of proinflammatory mediators. A mathematical model is also developed to describe the time-dependent change in spike protein concentrations post diagnosis in twelve Long COVID patients with a cluster analysis. Based on the spike protein concentration-Long COVID symptom numbers relationship, we estimated a maximum symptom number (~20) that can be used to reflect a persistent predictor. We found that among the crucial biomarkers associated with Long COVID proinflammatory mediator, CXCL8 has the lowest 50% effective dose (0.01 μg mL-1), followed by IL-6 (0.39), IL-1β (0.46), and TNF-α (0.56). This work provides a comprehensive risk assessment strategy with dose-response tools and mathematical modeling developed to estimate potential spike protein concentration. Our study suggests persistent Long COVID guidelines for personalized care strategies and could inform public health policies to support early interventions that reduce long-term disability and healthcare burdens with possible other post-infection syndromes.",
+  "authors": [
+    "Ying-Fei Yang",
+    "Min-Pei Ling",
+    "Szu-Chieh Chen",
+    "Yi-Jun Lin",
+    "Shu-Han You",
+    "Tien-Hsuan Lu",
+    "Chi-Yun Chen",
+    "Wei-Min Wang",
+    "Si-Yu Chen",
+    "I-Hsuan Lai",
+    "Huai-An Hsiao",
+    "Chung-Min Liao"
+  ],
+  "journal": "Viruses",
+  "pub_year": "2025",
+  "pub_month": "Sep",
+  "pub_day": "05",
+  "keywords": [
+    "Long COVID",
+    "persistent SARS-CoV-2",
+    "proinflammatory mediators",
+    "risk assessment",
+    "spike protein",
+    "symptom number"
+  ],
+  "article_types": [
+    "Journal Article"
+  ]
+}

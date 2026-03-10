@@ -1,0 +1,53 @@
+{
+  "pmcid": "PMC12428973",
+  "pmid": "40943770",
+  "doi": "10.3390/jcm14176011",
+  "title": "Pulmonary and Immune Dysfunction in Pediatric Long COVID: A Case Study Evaluating the Utility of ChatGPT-4 for Analyzing Scientific Articles.",
+  "abstract": "Coronavirus disease 2019 (COVID-19) in adults is well characterized and associated with multisystem dysfunction. A subset of patients develop post-acute sequelae of SARS-CoV-2 infection (PASC, or long COVID), marked by persistent and fluctuating organ system abnormalities. In children, distinct clinical and pathophysiological features of COVID-19 and long COVID are increasingly recognized, though knowledge remains limited relative to adults. The exponential expansion of the COVID-19 literature has made comprehensive appraisal by individual researchers increasingly unfeasible, highlighting the need for new approaches to evidence synthesis. Large language models (LLMs) such as the Generative Pre-trained Transformer (GPT) can process vast amounts of text, offering potential utility in this domain. Earlier versions of GPT, however, have been prone to generating fabricated references or misrepresentations of primary data. To evaluate the potential of more advanced models, we systematically applied GPT-4 to summarize studies on pediatric long COVID published between January 2022 and January 2025. Articles were identified in PubMed, and full-text PDFs were retrieved from publishers. GPT-4-generated summaries were cross-checked against the results sections of the original reports to ensure accuracy before incorporation into a structured review framework. This methodology demonstrates how LLMs may augment traditional literature review by improving efficiency and coverage in rapidly evolving fields, provided that outputs are subjected to rigorous human verification.",
+  "authors": [
+    "Susanna R Var",
+    "Nicole Maeser",
+    "Jeffrey Blake",
+    "Elise Zahs",
+    "Nathan Deep",
+    "Zoey Vasilakos",
+    "Jennifer McKay",
+    "Sether Johnson",
+    "Phoebe Strell",
+    "Allison Chang",
+    "Holly Korthas",
+    "Venkatramana Krishna",
+    "Manojkumar Narayanan",
+    "Tuhinur Arju",
+    "Dilmareth E Natera-Rodriguez",
+    "Alex Roman",
+    "Sam J Schulz",
+    "Anala Shetty",
+    "Mayuresh Vernekar",
+    "Madison A Waldron",
+    "Kennedy Person",
+    "Maxim Cheeran",
+    "Ling Li",
+    "Walter C Low"
+  ],
+  "journal": "Journal of clinical medicine",
+  "pub_year": "2025",
+  "pub_month": "Aug",
+  "pub_day": "25",
+  "keywords": [
+    "ChatGPT",
+    "SAR-CoV-2",
+    "artificial intelligence",
+    "coronavirus",
+    "immune dysfunction",
+    "large language model",
+    "long COVID",
+    "pediatric population",
+    "post-acute sequelae of COVID-19",
+    "pulmonary dysfunction"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Review"
+  ]
+}

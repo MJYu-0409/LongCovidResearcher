@@ -1,0 +1,40 @@
+{
+  "pmcid": "PMC12908402",
+  "pmid": "41566340",
+  "doi": "10.1186/s12967-025-07665-y",
+  "title": "Transcriptome changes in circulating immune cells of critical COVID-19 patients predict a specific metabolic and epigenetic imprint.",
+  "abstract": "BACKGROUND: The progression to critical COVID-19 arises predominantly from a dysregulated host immune response although the underlying regulatory mechanisms still remain partially elusive. This limits a prompt prediction of the disease progression, reduces the therapeutic options and restrains our understanding of “long COVID”.\nMETHODS: Here, we analyzed the transcriptome of peripheral blood mononuclear cells (PBMCs) collected from COVID-19 patients experiencing different degrees of the disease (mild and critical), and control patients enrolled in the clinical trial COntAGIouS as well as independent bulk RNA-seq, single-cell RNA-seq and proteomic datasets.\nRESULTS: In critical COVID-19 patients, the integrative analysis of transcriptomic data revealed an altered regulatory network involving microRNAs (miRNAs), long non-coding RNAs (lncRNAs), and coding genes that control mRNA translation-related genes, epigenetics, and metabolism. In parallel, we observed an upregulation of tRNA aminoacylation genes in critical COVID-19 patients by the analysis of either bulk or single-cell RNA-seq data from publicly available independent cohorts. Additionally, we found increased expression of coding genes enriched for the cognate amino acids (glycine, alanine, isoleucine and tyrosine), all related to protein localization, post-translational modifications, and cell metabolism in our cohort. Similar alterations in amino acid frequency were found in an independent proteomic dataset.\nCONCLUSIONS: Collectively, our findings indicate a broad perturbation of the gene expression landscape that characterizes the aberrant host immune response in critical COVID-19 patients and is potentially coordinated by miRNA and tRNA metabolism alterations.\nTRIAL REGISTRATION: COntAGIouS, NCT04327570. Registered 26 March 2020, https://clinicaltrials.gov/ct2/show/NCT04327570.\nSUPPLEMENTARY INFORMATION: The online version contains supplementary material available at 10.1186/s12967-025-07665-y.",
+  "authors": [
+    "Federico Virga",
+    "Daniela Taverna",
+    "Giulio Ferrero",
+    "Marine Leclercq",
+    "Najla El Hachem",
+    "Gerard Godoy-Tena",
+    "Cato Jacobs",
+    "Sonia Tarallo",
+    "Barbara Pardini",
+    "Alessio Naccarati",
+    "Joost Wauters",
+    "Hanne Moon Lauwers",
+    "Els Wauters",
+    "Pierre Close",
+    "Francesca Orso",
+    "Massimiliano Mazzone"
+  ],
+  "journal": "Journal of translational medicine",
+  "pub_year": "2026",
+  "pub_month": "Jan",
+  "pub_day": "22",
+  "keywords": [
+    "Epigenetics",
+    "Immune responses",
+    "Metabolic analysis",
+    "SARS coronavirus",
+    "miRNA",
+    "tRNA"
+  ],
+  "article_types": [
+    "Journal Article"
+  ]
+}

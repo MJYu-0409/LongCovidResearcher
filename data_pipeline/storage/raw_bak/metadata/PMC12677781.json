@@ -1,0 +1,26 @@
+{
+  "pmcid": "PMC12677781",
+  "pmid": "41325417",
+  "doi": "10.1371/journal.pcbi.1013725",
+  "title": "Integrative multi-omics framework for causal gene discovery in Long COVID.",
+  "abstract": "Long COVID, or Post-Acute Sequelae of SARS-CoV-2 infection (PASC), affects an estimated 10-20% of COVID-19 patients and presents persistent multisystemic symptoms. Although demographic and clinical factors, such as age, sex, and comorbidities, contribute to risk, the genetic mechanisms underlying this risk remain poorly defined. To address this gap, we developed a multi-omics framework that integrates Transcriptome-Wide Mendelian Randomization (TWMR), Control Theory (CT), Expression Quantitative Trait Loci (eQTL), Genome-Wide Association Studies (GWAS), RNA sequencing (RNA-seq), and Protein-Protein Interaction (PPI) network to identify putative causal genes and network drivers in Long COVID. Our approach prioritized 32 candidate genes, including 19 previously reported and 13 novel, with roles in the SARS-CoV-2 response, viral carcinogenesis, immune regulation, and cell cycle control. Enrichment analyses revealed a shared genetic architecture in syndromic, metabolic, autoimmune, and connective tissue disorders. Using causal gene expression profiles, we identified three distinct symptom-based subtypes of Long COVID, providing information on the heterogeneity of disease mechanisms and clinical presentation. Finally, we developed an open-source Shiny application for interactive exploration of these findings. Together, this integrative framework highlights novel causal mechanisms and therapeutic targets, advancing precision medicine strategies for Long COVID.",
+  "authors": [
+    "Sindy Pinero",
+    "Xiaomei Li",
+    "Lin Liu",
+    "Jiuyong Li",
+    "Sang Hong Lee",
+    "Marnie Winter",
+    "Thin Nguyen",
+    "Junpeng Zhang",
+    "Thuc Duy Le"
+  ],
+  "journal": "PLoS computational biology",
+  "pub_year": "2025",
+  "pub_month": "Dec",
+  "pub_day": "01",
+  "keywords": [],
+  "article_types": [
+    "Journal Article"
+  ]
+}

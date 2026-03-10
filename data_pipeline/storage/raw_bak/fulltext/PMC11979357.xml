@@ -1,0 +1,637 @@
+<?xml version="1.0"  ?><!DOCTYPE pmc-articleset PUBLIC "-//NLM//DTD ARTICLE SET 2.0//EN" "https://dtd.nlm.nih.gov/ncbi/pmc/articleset/nlm-articleset-2.0.dtd"><pmc-articleset><article id="hex70253" xml:lang="en" article-type="research-article" dtd-version="1.4"><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">Health Expect</journal-id><journal-id journal-id-type="iso-abbrev">Health Expect</journal-id><journal-id journal-id-type="pmc-domain-id">2997</journal-id><journal-id journal-id-type="pmc-domain">hex</journal-id><journal-id journal-id-type="publisher-id">HEX</journal-id><journal-title-group><journal-title>Health Expectations : An International Journal of Public Participation in Health Care and Health Policy</journal-title></journal-title-group><issn pub-type="ppub">1369-6513</issn><issn pub-type="epub">1369-7625</issn><publisher><publisher-name>Wiley</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC11979357</article-id><article-id pub-id-type="pmcid-ver">PMC11979357.1</article-id><article-id pub-id-type="pmcaid">11979357</article-id><article-id pub-id-type="pmcaiid">11979357</article-id><article-id pub-id-type="pmid">40200747</article-id><article-id pub-id-type="doi">10.1111/hex.70253</article-id><article-id pub-id-type="publisher-id">HEX70253</article-id><article-version article-version-type="pmc-version">1</article-version><article-categories><subj-group subj-group-type="overline"><subject>Original Article</subject></subj-group><subj-group subj-group-type="heading"><subject>Original Article</subject></subj-group></article-categories><title-group><article-title>Rethinking ‘Recovery’: A Comparative Qualitative Analysis of Experiences of Intensive Care With COVID and Long Covid in the United Kingdom</article-title></title-group><contrib-group><contrib id="hex70253-cr-0001" contrib-type="author" corresp="yes"><name name-style="western"><surname>MacLean</surname><given-names initials="A">Alice</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">http://orcid.org/0000-0002-9650-2376</contrib-id><xref rid="hex70253-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><address><email>alice.maclean@stir.ac.uk</email></address></contrib><contrib id="hex70253-cr-0002" contrib-type="author"><name name-style="western"><surname>Driessen</surname><given-names initials="A">Annelieke</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">http://orcid.org/0000-0001-5627-1684</contrib-id><xref rid="hex70253-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref><xref rid="hex70253-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref><xref rid="hex70253-aff-0004" ref-type="aff">
+<sup>4</sup>
+</xref></contrib><contrib id="hex70253-cr-0003" contrib-type="author"><name name-style="western"><surname>Hinton</surname><given-names initials="L">Lisa</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">http://orcid.org/0000-0002-6082-3151</contrib-id><xref rid="hex70253-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref><xref rid="hex70253-aff-0005" ref-type="aff">
+<sup>5</sup>
+</xref></contrib><contrib id="hex70253-cr-0004" contrib-type="author"><name name-style="western"><surname>Nettleton</surname><given-names initials="S">Sarah</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">http://orcid.org/0000-0002-5184-2764</contrib-id><xref rid="hex70253-aff-0006" ref-type="aff">
+<sup>6</sup>
+</xref></contrib><contrib id="hex70253-cr-0005" contrib-type="author"><name name-style="western"><surname>Wild</surname><given-names initials="C">Cervantee</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">http://orcid.org/0000-0001-5377-6222</contrib-id><xref rid="hex70253-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref><xref rid="hex70253-aff-0007" ref-type="aff">
+<sup>7</sup>
+</xref></contrib><contrib id="hex70253-cr-0006" contrib-type="author"><name name-style="western"><surname>Anderson</surname><given-names initials="E">Eilidh</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">http://orcid.org/0009-0004-8887-1392</contrib-id><xref rid="hex70253-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="hex70253-cr-0007" contrib-type="author"><name name-style="western"><surname>Brown</surname><given-names initials="A">Ashley</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">http://orcid.org/0000-0002-2307-5916</contrib-id><xref rid="hex70253-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="hex70253-cr-0008" contrib-type="author"><name name-style="western"><surname>Hoddinott</surname><given-names initials="P">Pat</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">http://orcid.org/0000-0002-4372-9681</contrib-id><xref rid="hex70253-aff-0008" ref-type="aff">
+<sup>8</sup>
+</xref></contrib><contrib id="hex70253-cr-0009" contrib-type="author"><name name-style="western"><surname>O'Dwyer</surname><given-names initials="C">Callum</given-names></name><xref rid="hex70253-aff-0009" ref-type="aff">
+<sup>9</sup>
+</xref></contrib><contrib id="hex70253-cr-0010" contrib-type="author"><name name-style="western"><surname>Ziebland</surname><given-names initials="S">Sue</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">http://orcid.org/0000-0002-6496-4859</contrib-id><xref rid="hex70253-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref></contrib><contrib id="hex70253-cr-0011" contrib-type="author"><name name-style="western"><surname>Hunt</surname><given-names initials="K">Kate</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">http://orcid.org/0000-0002-5873-3632</contrib-id><xref rid="hex70253-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib></contrib-group><aff id="hex70253-aff-0001">
+<label>
+<sup>1</sup>
+</label>
+<named-content content-type="organisation-division">Institute for Social Marketing and Health</named-content>
+<institution>University of Stirling</institution>
+<city>Stirling</city>
+<country country="GB">UK</country>
+</aff><aff id="hex70253-aff-0002">
+<label>
+<sup>2</sup>
+</label>
+<named-content content-type="organisation-division">Department of Health Services Research and Policy</named-content>
+<institution>London School of Hygiene and Tropical Medicine</institution>
+<city>London</city>
+<country country="GB">UK</country>
+</aff><aff id="hex70253-aff-0003">
+<label>
+<sup>3</sup>
+</label>
+<named-content content-type="organisation-division">Nuffield Department of Primary Care Health Sciences</named-content>
+<institution>University of Oxford</institution>
+<city>Oxford</city>
+<country country="GB">UK</country>
+</aff><aff id="hex70253-aff-0004">
+<label>
+<sup>4</sup>
+</label>
+<named-content content-type="organisation-division">Department of Anthology</named-content>
+<institution>University of Amsterdam</institution>
+<city>Amsterdam</city>
+<country country="NL">Netherlands</country>
+</aff><aff id="hex70253-aff-0005">
+<label>
+<sup>5</sup>
+</label>
+<named-content content-type="organisation-division">THIS Institute</named-content>
+<institution>University of Cambridge</institution>
+<city>Cambridge</city>
+<country country="GB">UK</country>
+</aff><aff id="hex70253-aff-0006">
+<label>
+<sup>6</sup>
+</label>
+<named-content content-type="organisation-division">Department of Sociology</named-content>
+<institution>University of York</institution>
+<city>York</city>
+<country country="GB">UK</country>
+</aff><aff id="hex70253-aff-0007">
+<label>
+<sup>7</sup>
+</label>
+<named-content content-type="organisation-division">Department of Paediatrics: Child and Youth Health, School of Medicine</named-content>
+<institution>University of Auckland</institution>
+<city>Auckland</city>
+<country country="NZ">New Zealand</country>
+</aff><aff id="hex70253-aff-0008">
+<label>
+<sup>8</sup>
+</label>
+<named-content content-type="organisation-division">NMAHP Research Unit</named-content>
+<institution>University of Stirling</institution>
+<city>Stirling</city>
+<country country="GB">UK</country>
+</aff><aff id="hex70253-aff-0009">
+<label>
+<sup>9</sup>
+</label>
+<institution>Lived experience coinvestigator, UK</institution>
+</aff><author-notes><corresp id="correspondenceTo">
+<label>*</label>
+<bold>Correspondence:</bold> Alice MacLean (<email>alice.maclean@stir.ac.uk</email>)<break/>
+</corresp></author-notes><pub-date pub-type="epub"><day>09</day><month>4</month><year>2025</year></pub-date><pub-date pub-type="collection"><month>4</month><year>2025</year></pub-date><volume>28</volume><issue seq="92">2</issue><issue-id pub-id-type="pmc-issue-id">483160</issue-id><issue-id pub-id-type="doi">10.1111/hex.v28.2</issue-id><elocation-id>e70253</elocation-id><history><date date-type="received"><day>20</day><month>2</month><year>2025</year></date><date date-type="accepted"><day>20</day><month>3</month><year>2025</year></date></history><pub-history><event event-type="pmc-release"><date><day>09</day><month>04</month><year>2025</year></date></event><event event-type="pmc-live"><date><day>09</day><month>04</month><year>2025</year></date></event><event event-type="pmc-last-change"><date iso-8601-date="2025-04-10 16:25:37.327"><day>10</day><month>04</month><year>2025</year></date></event></pub-history><permissions><copyright-statement content-type="article-copyright">© 2025 The Author(s). <italic toggle="yes">Health Expectations</italic> published by John Wiley &amp; Sons Ltd.</copyright-statement><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>This is an open access article under the terms of the <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pmc-pdf" xlink:href="HEX-28-e70253.pdf"/><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pdf" xlink:href="file:HEX-28-e70253.pdf"/><abstract><title>ABSTRACT</title><sec id="hex70253-sec-0010"><title>Introduction</title><p>Interpretations of ‘recovery’ from illness are complex and influenced by many factors, not least patient expectations and experiences. This paper examines meanings of ‘recovery’, and how it is strived towards, drawing on the example of COVID‐19 infection.</p></sec><sec id="hex70253-sec-0020"><title>Methods</title><p>Drawing on qualitative interviews (<italic toggle="yes">n</italic> = 93) conducted in the UK between February 2021 and July 2022, we compare adults' accounts of being admitted to an Intensive Care Unit (ICU) with COVID‐19 to accounts of being ill with Long COVID, defined as ongoing symptoms for at least 12 weeks postinfection. We conducted a multi‐stage comparative analysis using Nvivo to organise and code the data.</p></sec><sec id="hex70253-sec-0030"><title>Results</title><p>We identified similarities and differences in participants' descriptions of their ‘worlds of illness’. For both groups, perceptions of recovery were shaped by the novel, unknown nature of COVID‐19. Participants questioned the achievability of full restoration of prior states of health, highlighted the heterogeneity of ‘recovery trajectories’ and described the hard physical and emotional work of adjusting to changed selves. Themes that revealed differences in ‘worlds of illness’ described included the different baselines, waymarkers, and pathways of illness experiences. Differences in other people's responses to their illness were also evident. For ICU participants, hospitalisation, and especially ICU admission, conferred legitimate patient status and authenticity to their symptoms. Family, friends and healthcare professionals acknowledged their illness, celebrated their survival, and granted them latitude to recover. For Long Covid participants, their patient status often lacked comparable authenticity in others' eyes. They reported encountering a lack of recognition and understanding of their ongoing need to recover.</p></sec><sec id="hex70253-sec-0040"><title>Conclusions</title><p>This study highlights how the meanings of illness ascribed by others can influence how recovery is experienced. Our findings highlight the importance of ensuring people are made to feel their illness experiences are legitimate, regardless of hospitalisation status, formal diagnosis or lack of medical knowledge and pathways. They also indicate the value of emphasising the different permutations, and lack of linearity, that recovery can take. This may help to help to guard against a lack of understanding for experiences of recovery which do not meet idealised notions.</p></sec><sec id="hex70253-sec-0050"><title>Patient or Public Contribution</title><p>Both studies were guided by an advisory panel that included patient and public involvement representatives with lived experience of Intensive Care/COVID experience and Long COVID respectively. Through regular meetings with the research teams, the advisory panel had input into all aspects of the study conduct, including recruitment methods and content of the interview topic guide and feedback on preliminary analyses. The Long COVID study also included a lived experience coinvestigator who contributed to data interpretation and analysis.</p></sec></abstract><kwd-group><kwd id="hex70253-kwd-0001">COVID19</kwd><kwd id="hex70253-kwd-0002">illness narrative</kwd><kwd id="hex70253-kwd-0003">intensive care</kwd><kwd id="hex70253-kwd-0004">Long Covid</kwd><kwd id="hex70253-kwd-0005">recovery</kwd></kwd-group><funding-group><award-group id="funding-0001"><funding-source><institution-wrap><institution>This study was supported by Economic and Social Research Council (EP/V039083/1 COVID), National Institute for Health Research (COV‐LT2‐0005), Scotland's Chief Scientist Office (COV/LTE/20/04), and Health Foundation.
+</institution><institution-id institution-id-type="doi">10.13039/501100000269</institution-id></institution-wrap></funding-source></award-group></funding-group><counts><fig-count count="0"/><table-count count="5"/><page-count count="11"/><word-count count="9880"/></counts><custom-meta-group><custom-meta><meta-name>pmc-status-qastatus</meta-name><meta-value>0</meta-value></custom-meta><custom-meta><meta-name>pmc-status-live</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-status-embargo</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-status-released</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-access</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-legally-suppressed</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-pdf</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-supplement</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-pdf-only</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-suppress-copyright</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-real-version</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-scanned-article</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-in-epmc</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-license-ref</meta-name><meta-value>CC BY</meta-value></custom-meta><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>April 2025</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:6.5.4 mode:remove_FC converted:09.04.2025</meta-value></custom-meta></custom-meta-group></article-meta></front><body><sec id="hex70253-sec-0060"><label>1</label><title>Introduction</title><p>If illness or injury cannot be avoided, recovery becomes an understandable ambition. In the early months of the COVID‐19 pandemic it was anticipated that ‘the great majority’ of people infected with COVID‐19 would experience ‘mild‐to‐moderate’ illness ‘similar to seasonal flu’, while a ‘minority [would] develop complications severe enough to require hospital care [which for] a small proportion […]may be severe enough to lead to death’ [<xref rid="hex70253-bib-0001" ref-type="bibr">1</xref>]. <sup>(p.5)</sup> At that time it was not realised that this mild vs severe classification was too simplistic and could not account for those who did not recover as expected and went on to experience long term illness [<xref rid="hex70253-bib-0002" ref-type="bibr">2</xref>, <xref rid="hex70253-bib-0003" ref-type="bibr">3</xref>]. A ‘mild’ vs ‘severe’ dichotomy of illness presupposes particular needs and pathways of recovery, thereby limiting what stories can be told, and what experiences can be conveyed. In turn, this risks ‘epistemic injustice’ [<xref rid="hex70253-bib-0004" ref-type="bibr">4</xref>], where some accounts of ‘recovery’ are privileged while others are neglected or rejected [<xref rid="hex70253-bib-0005" ref-type="bibr">5</xref>, <xref rid="hex70253-bib-0006" ref-type="bibr">6</xref>]. This article examines meanings of ‘recovery’ and how it is strived towards, using the example of COVID‐19 infection. We draw on interviews, conducted in the UK between February 2021 and July 2022, to compare accounts of striving towards ‘recovery’ by adults who were critically ill and admitted to an Intensive Care Unit (ICU) or had Long COVID.</p><sec id="hex70253-sec-0070"><label>1.1</label><title>COVID‐19, ICU and Long COVID</title><p>Internationally, the COVID‐19 pandemic gave rise to increased ICU admissions, and unprecedented numbers of critical care survivors [<xref rid="hex70253-bib-0007" ref-type="bibr">7</xref>, <xref rid="hex70253-bib-0008" ref-type="bibr">8</xref>]. Survivors of critical illness can experience multidimensional disability and require rehabilitation following discharge from ICU [<xref rid="hex70253-bib-0007" ref-type="bibr">7</xref>]. Long COVID, an often‐contested condition [<xref rid="hex70253-bib-0009" ref-type="bibr">9</xref>] with 200 fluctuating symptoms spanning 10 organ systems [<xref rid="hex70253-bib-0010" ref-type="bibr">10</xref>], began to emerge during 2020 [<xref rid="hex70253-bib-0003" ref-type="bibr">3</xref>, <xref rid="hex70253-bib-0011" ref-type="bibr">11</xref>, <xref rid="hex70253-bib-0012" ref-type="bibr">12</xref>]. However, Long COVID displays significant heterogeneity in symptom experiences and illness trajectory, and hence there is no typical Long COVID patient [<xref rid="hex70253-bib-0013" ref-type="bibr">13</xref>]. To date, Long COVID occupies ‘a category of the medically unknown [and] a diagnosis of exclusion’. [<xref rid="hex70253-bib-0014" ref-type="bibr">14</xref>] <sup>(p.11)</sup> In March 2024, statistics reported that 2 million people were experiencing Long COVID in the UK; 71.1% had experienced symptoms for at least a year and 51.3% for at least 2 years [<xref rid="hex70253-bib-0015" ref-type="bibr">15</xref>].</p></sec><sec id="hex70253-sec-0080"><label>1.2</label><title>Problematising ‘Recovery’</title><p>A single understanding of what recovery from illness means is lacking, and may even be undesirable. Interpretations of recovery are complex and influenced by many factors, not least patient expectations and experiences [<xref rid="hex70253-bib-0016" ref-type="bibr">16</xref>]. Yet some argue that certain narratives, such as ‘success stories’, are preferentially told, heard and valued, whereas narratives of ongoing, relapsing or episodic illness are more likely to go untold or afforded lesser validity [<xref rid="hex70253-bib-0017" ref-type="bibr">17</xref>, <xref rid="hex70253-bib-0018" ref-type="bibr">18</xref>]. In the context of novel, contested, and/or invisible illnesses, it is especially hard to occupy the ‘sick role’ [<xref rid="hex70253-bib-0019" ref-type="bibr">19</xref>]. In relation to depression, O'Brien [<xref rid="hex70253-bib-0020" ref-type="bibr">20</xref>] <sup>(p.573)</sup> argues that recovery is positioned as ‘an exercise of individual responsibility to return to a functioning and productive norm and prevent recurrence’. She suggests a ‘recovery imperative’, which neglects individual biography, values, goals, and social positioning, underpins notions of expected recovery, and imbues slow recovery or relapse with a sense of failure. Thus the ‘recovery imperative’ gives rise to a harmful discourse, positioning those who struggle to recover as not ‘trying’ hard enough [<xref rid="hex70253-bib-0021" ref-type="bibr">21</xref>].</p></sec><sec id="hex70253-sec-0090"><label>1.3</label><title>Healthcare and ‘Recovery’ in the Context of COVID‐19</title><p>Research on the healthcare experiences of those who were critically ill with COVID‐19 during 2020–22 highlights many positive aspects of ICU care despite pandemic disruption, including relationships of reciprocal care, admiration, and gratitude for healthcare professionals [<xref rid="hex70253-bib-0022" ref-type="bibr">22</xref>, <xref rid="hex70253-bib-0023" ref-type="bibr">23</xref>, <xref rid="hex70253-bib-0024" ref-type="bibr">24</xref>, <xref rid="hex70253-bib-0025" ref-type="bibr">25</xref>]. However, the evidence around ICU discharge and transition to recuperating at home highlights a deterioration in guidance and continuity of care [<xref rid="hex70253-bib-0007" ref-type="bibr">7</xref>, <xref rid="hex70253-bib-0026" ref-type="bibr">26</xref>]. Over the same period, people with Long COVID reported predominantly negative healthcare experiences, including a struggle for recognition of their illness [<xref rid="hex70253-bib-0003" ref-type="bibr">3</xref>], having their candidacy for care rejected or diverted, leading them to feeling disbelieved and even abandoned by medical professionals, perhaps particularly among ‘vanguard patients’ who developed Long COVID early in the pandemic [<xref rid="hex70253-bib-0027" ref-type="bibr">27</xref>].</p><p>While after the initial months of the pandemic, there were clearer healthcare pathways and an immediate sense of urgency to develop treatments for people admitted to ICU with COVID‐19 [<xref rid="hex70253-bib-0028" ref-type="bibr">28</xref>], validated treatment pathways or those with Long COVID have been slow to materialise [<xref rid="hex70253-bib-0010" ref-type="bibr">10</xref>]. Cheston et al. [<xref rid="hex70253-bib-0011" ref-type="bibr">11</xref>] attribute this partly to ‘a deprioritisation of the chronic when dealing with the ongoing life‐threatening emergency of the acute’. Many with Long COVID have reported managing their symptoms without guidance or support from healthcare professionals, resulting in them experimenting with pacing (i.e. doing tasks in repeated bursts, planning activities so that pauses can be built in, prioritising valued tasks over others) and other adjustments [<xref rid="hex70253-bib-0029" ref-type="bibr">29</xref>, <xref rid="hex70253-bib-0030" ref-type="bibr">30</xref>]. However, pacing and resting are less accessible symptom management options for people with job inflexibility or financial insecurity [<xref rid="hex70253-bib-0031" ref-type="bibr">31</xref>], which impacts their recovery [<xref rid="hex70253-bib-0032" ref-type="bibr">32</xref>, <xref rid="hex70253-bib-0033" ref-type="bibr">33</xref>].</p><p>In relation to recovery from COVID‐19 critical illness, Onrust et al. [<xref rid="hex70253-bib-0025" ref-type="bibr">25</xref>] who administered questionnaires to ICU survivors (<italic toggle="yes">n</italic> = 56) and family members (<italic toggle="yes">n</italic> = 67) and conducted interviews with survivors (<italic toggle="yes">n</italic> = 6), reported that participants perceived returning to paid employment as representing recovery and a return to ‘normality’. Gonçalves et al. [<xref rid="hex70253-bib-0007" ref-type="bibr">7</xref>] (whose 23 interviewees included health professionals, patients critically ill with COVID‐19 and relatives), argue that recovery implies being ‘cured’ which does not align with the concepts of ‘survivorship’ and ‘recalibration’ that participants described.</p><p>Summarising Long COVID studies with 2‐3 years quantitative follow‐up data, Al‐Aly &amp; Topol [<xref rid="hex70253-bib-0034" ref-type="bibr">34</xref>] <sup>(p.831)</sup> state “spontaneous recovery or return to baseline status is uncommon”. Data from the UK‐based REACT study (<italic toggle="yes">n</italic> = 242,712) showed that only 31% of those with persistent symptoms at 12 weeks had recovered within a year [<xref rid="hex70253-bib-0035" ref-type="bibr">35</xref>]. <sup>(p.3)</sup> Qualitative explorations of Long COVID reveal complex patterns of ‘recovery’, such as varying understandings of what ‘getting back to normal’ entails [<xref rid="hex70253-bib-0036" ref-type="bibr">36</xref>] and how the ‘ongoing unknowns’ of the condition can impact the ability of people with Long COVID to (re)construct a coherent and stable sense of self [<xref rid="hex70253-bib-0037" ref-type="bibr">37</xref>]. <sup>(p.5)</sup> Qualitative studies and syntheses highlight evidence which disrupts any idea that recovery from Long COVID follows a linear transition between binary states of illness and wellness [<xref rid="hex70253-bib-0038" ref-type="bibr">38</xref>, <xref rid="hex70253-bib-0039" ref-type="bibr">39</xref>].</p><p>Our aim here is to add to understandings of the ways in which recovery from illness is understood and strived for by comparing the accounts of participants who were admitted to ICU with critical COVID‐19 illness (ICU participants) with the accounts of participants who experienced Long COVID (LC participants).</p></sec></sec><sec sec-type="materials-and-methods" id="hex70253-sec-0100"><label>2</label><title>Materials and Methods</title><sec id="hex70253-sec-0110"><label>2.1</label><title>Design and Theoretical Approach</title><p>The data are from in‐depth narrative interviews (<italic toggle="yes">n</italic> = 93) from linked qualitative UK studies on COVID‐19 which used identical methods of data collection and overlapping teams. The studies were conducted between February 2021 and July 2022. Ethical approval was granted by Berkshire Ethics Committee (12/SC/0495).</p></sec><sec id="hex70253-sec-0120"><label>2.2</label><title>Participants</title><p>Sampling in the studies aimed to achieve maximum variation [<xref rid="hex70253-bib-0040" ref-type="bibr">40</xref>] by including participants of diverse ages, occupations, ethnicity, gender, and geographical locations. The researchers recruited from a variety of sources including clinicians, support groups and social media, and employed snowball sampling when accessing ‘hardly reached’ groups (e.g., ethnic minorities). For a discussion on the term ‘hardly reached’ instead of ‘hard‐to‐reach’ see Sokol et al. [<xref rid="hex70253-bib-0041" ref-type="bibr">41</xref>].</p><p>The analysis reported here includes 30 adults who had been admitted to ICU with COVID‐19, and 63 adults with Long COVID. At the time of the interviews none of the ICU participants identified as having Long COVID. Participants' ages ranged from 20 to 80 years, with the majority (<italic toggle="yes">n</italic> = 65) aged between 30 and 59 years. The sample comprised a majority of female (<italic toggle="yes">n</italic> = 56) and white participants (<italic toggle="yes">n</italic> = 68 white British or other white).</p></sec><sec id="hex70253-sec-0130"><label>2.3</label><title>Interviews</title><p>One researcher interviewed all ICU participants and a team of ten conducted the Long COVID interviews; all are experienced qualitative researchers trained in the same protocols. All participants gave informed verbal consent to participate and have their interview recorded. All but two interviews were conducted remotely via videoconferencing platforms or telephone to comply with any public health restrictions in place, minimise infection risk and accommodate participants' preferences and IT literacy. Remote interviews enabled participants to cancel interviews when too fatigued or unwell and/or split the interview across various time points to reduce participant burden. On average, interviews lasted between 60 and 90 min (range 20–210 min).</p><p>Interviewers invited participants to recount how they first became ill with COVID‐19 and how this had affected their lives, and then prompted further discussion using a semi‐structured topic guide, which included questions about their experiences of treatment (including post‐discharge for ICU participants), current health, future expectations of ‘recovery’ and coping with the aftermath of their illness.</p><p>Interview audio‐recordings interviews were transcribed verbatim and checked for accuracy. Participants had the opportunity to read and redact their transcript before assigning copyright to use extracts from interview recordings and transcripts in written publications, broadcasts and on the public facing Health Experiences Insights (HEXI) platform.</p></sec><sec id="hex70253-sec-0140"><label>2.4</label><title>Data Analysis</title><p>All direct identifiers were removed from transcripts before they were imported into NVivo and coded systematically using a coding framework, developed by each research team, which included anticipated and unexpected themes in the data [<xref rid="hex70253-bib-0042" ref-type="bibr">42</xref>]. We held cross‐study discussions which identified important thematic commonalities and disparities across the datasets, specifically related to experiences of illness and perspectives on ‘recovery’. One researcher (AM) then conducted a comparative analysis using a mind‐mapping ‘one sheet of paper’ (OSOP) technique [<xref rid="hex70253-bib-0043" ref-type="bibr">43</xref>]. The more refined themes generated using this technique were written up descriptively and separately for ICU and LC participants to aid comparison by viewing similarities and differences side by side. Further discussions among the authorship team, informed by these descriptive accounts of the data and existing literature, helped refine the line of argument to include understandings of participants' accounts as descriptions of their ‘worlds of illness’ [<xref rid="hex70253-bib-0044" ref-type="bibr">44</xref>, <xref rid="hex70253-bib-0045" ref-type="bibr">45</xref>] and to pay close attention to how areas of convergence and divergence in these worlds can inform understanding of illness experiences and meanings. Interview extracts (IEs) are used to illustrate the key themes (longer extracts are presented in Tables <xref rid="hex70253-tbl-0001" ref-type="table">1</xref>, <xref rid="hex70253-tbl-0002" ref-type="table">2</xref>, <xref rid="hex70253-tbl-0003" ref-type="table">3</xref>, <xref rid="hex70253-tbl-0004" ref-type="table">4</xref>, <xref rid="hex70253-tbl-0005" ref-type="table">5</xref>). Pseudonyms (assigned by the researchers) are used throughout.</p><table-wrap position="float" id="hex70253-tbl-0001" content-type="Table" orientation="portrait"><label>Table 1</label><caption><p>Losses, scars and unknown futures after COVID‐19.</p></caption><table frame="hsides" rules="groups"><col align="left" style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" span="1"/><col align="center" style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" span="1"/><tbody valign="top"><tr valign="bottom"><td align="left" valign="bottom" rowspan="1" colspan="1">IE 1.</td><td align="center" valign="bottom" rowspan="1" colspan="1">
+<italic toggle="yes">[I was] previously active, playing rugby […] living a normal life, and now […] everything has to be planned[like] “Where am I going to park [at the supermarket]?” […] Previously I could just leave the house without a concern [it's] hard to adjust to</italic>. (Elliott, LC)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">IE 2.</td><td align="center" valign="top" rowspan="1" colspan="1">
+<italic toggle="yes">Everything is different. What I feel, […] what I think, how I behave […] I have to think before I do anything. Even watching TV. […] It's like I'm a different person</italic>. (Nina, ICU)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">IE 3.</td><td align="center" valign="top" rowspan="1" colspan="1">
+<italic toggle="yes">[T]here's no clear answers really to say, “Well, this is going to happen and then that's going to happen” [and] you're left worried, thinking, “Oh, is this normal to be feeling like this? [Is it] expected or has [COVID] damaged something?”</italic> (Cathie, LC)</td></tr></tbody></table><permissions><copyright-holder>John Wiley &amp; Sons, Ltd.</copyright-holder></permissions></table-wrap><table-wrap position="float" id="hex70253-tbl-0002" content-type="Table" orientation="portrait"><label>Table 2</label><caption><p>Adjusting to changed selves: The hard work of striving for ‘recovery’.</p></caption><table frame="hsides" rules="groups"><col align="left" style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" span="1"/><col align="center" style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" span="1"/><tbody valign="top"><tr valign="bottom"><td align="left" valign="bottom" rowspan="1" colspan="1">IE 1.</td><td align="center" valign="bottom" rowspan="1" colspan="1">
+<italic toggle="yes">I got a perching stool for the kitchen and a shower stool […] if I had a shower I had to go back to bed for an hour – it absolutely wore me out and that went on for [a while]</italic>. (Amanda, ICU)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">IE 2.</td><td align="center" valign="top" rowspan="1" colspan="1">
+<italic toggle="yes">So, to pace properly you need to have a very strict timetable of rests. […] If I had a morning of doing something I would be in bed all afternoon [and it's] not a choice […] it's like ‘If I don't go to bed now, I am going to fall down’</italic>. (Elsa, LC)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">IE 3.</td><td align="center" valign="top" rowspan="1" colspan="1">
+<italic toggle="yes">You have to do things totally differently and respect your body [more, but] also find out that you can't do what you used to be able to do</italic>. (David, ICU)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">IE 4.</td><td align="center" valign="top" rowspan="1" colspan="1">
+<italic toggle="yes">[what's helped me most is] learning what my new rules are in my body […] you're building up a map of yourself and once you have the map, it becomes easier to traverse</italic>. (Charles, LC)</td></tr></tbody></table><permissions><copyright-holder>John Wiley &amp; Sons, Ltd.</copyright-holder></permissions></table-wrap><table-wrap position="float" id="hex70253-tbl-0003" content-type="Table" orientation="portrait"><label>Table 3</label><caption><p>‘Recovery trajectories’: Balancing hope and uncertainty.</p></caption><table frame="hsides" rules="groups"><col align="left" style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" span="1"/><col align="center" style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" span="1"/><tbody valign="top"><tr valign="bottom"><td align="left" valign="bottom" rowspan="1" colspan="1">IE 1.</td><td align="center" valign="bottom" rowspan="1" colspan="1">
+<italic toggle="yes">[F]or the first few days [after I came out of hospital] I continued getting stronger […] then after about 2 weeks things started to slow down […] like I was backpedaling, I was getting worse [and it's] been the same [since]</italic>. (Kenneth, ICU)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">IE 2.</td><td align="center" valign="top" rowspan="1" colspan="1">
+<italic toggle="yes">So things are improving [but when] I spoke to [my consultant] I said, ‘Oh, this recovery, it's taking so long’ he said, ‘Okay, just go back to February. […] how were you then? The same as [now]?’ […] I went, ‘Oh, no, no’. And my nurse [said], ‘You're not on the oxygen now either’. […] And I looked at them both and went, ‘Yeah okay, point made’.</italic> (Amanda, ICU)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">IE 3.</td><td align="center" valign="top" rowspan="1" colspan="1">
+<italic toggle="yes">So, I suppose every month that I can look back and think, ‘Okay, I did just a tiny bit more that month’. I feel […] good [it's] going in the right direction. The difficult thing is when you have the blips and horrible relapses […] that's really quite depressing</italic>. (Holly, LC)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">IE 4.</td><td align="center" valign="top" rowspan="1" colspan="1">
+<italic toggle="yes">I can potter around and do […] simple things […] and [the healthcare professionals] just tell me it's time [and] can take 5 years before you're totally over [admission with critical illness]</italic>. (Ella, ICU)</td></tr></tbody></table><permissions><copyright-holder>John Wiley &amp; Sons, Ltd.</copyright-holder></permissions></table-wrap><table-wrap position="float" id="hex70253-tbl-0004" content-type="Table" orientation="portrait"><label>Table 4</label><caption><p>Illness experiences with different baselines and ‘recovery trajectories’ with distinct waymarkers.</p></caption><table frame="hsides" rules="groups"><col align="left" style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" span="1"/><col align="center" style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" span="1"/><tbody valign="top"><tr valign="bottom"><td align="left" valign="bottom" rowspan="1" colspan="1">IE 1.</td><td align="center" valign="bottom" rowspan="1" colspan="1">
+<italic toggle="yes">Within half an hour [of phoning for help] two paramedics were in my front room hooking me up […] giving me oxygen, checking my blood pressure. And before I knew it, I was in the back of an ambulance on the way to the hospital</italic>. (Rod, ICU)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">IE 2.</td><td align="center" valign="top" rowspan="1" colspan="1">
+<italic toggle="yes">They told me I was being taken up to intensive care, because I wasn't breathing well on my own, and I was going to be put on a [CPAP machine.] Yeah, I was scared, obviously</italic>. (Beth, ICU)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">IE 3.</td><td align="center" valign="top" rowspan="1" colspan="1">
+<italic toggle="yes">At the start [of the pandemic], Long COVID wasn't really a thing. [The media] was just showing the daily deaths, and people that were hospitalised. So […] you were kind of overlooked […] I didn't want to pester the A&amp;E team, and my GP didn't have any answers for me either, so I was […] stuck in a hard place</italic>. (Murray, LC)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">IE 4.</td><td align="center" valign="top" rowspan="1" colspan="1">
+<italic toggle="yes">I couldn't understand why I wasn't getting better […] there I was months [after initial infection] with evolving symptoms, different systems affected, things that the news [or press conferences] hadn't spoken about […]. It was really confusing, and overwhelming, and worrying</italic>. (Stephanie, LC)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">IE 5.</td><td align="center" valign="top" rowspan="1" colspan="1">
+<italic toggle="yes">I feel guilty because […] I remember when [my mum] had chemo, her hair…she was so brave. And I think my God, I haven't had all of that [and] I feel traumatised by not having the same hair […] without a valid excuse, if that makes sense? I feel like it's less valid</italic>. (Joanna, LC)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">IE 6.</td><td align="center" valign="top" rowspan="1" colspan="1">
+<italic toggle="yes">I hadn't been to hospital, I'd never had a definitive [COVID] diagnosis and therefore I […] felt a bit of a fraud; [I would say to myself] “What's all this about? […] It's not like you've been really ill, Jane. People have been really ill.” […] I probably made assumptions about how other people were feeling about me [not recovering], which may or may not have been true</italic>. (Jane, LC)</td></tr></tbody></table><permissions><copyright-holder>John Wiley &amp; Sons, Ltd.</copyright-holder></permissions></table-wrap><table-wrap position="float" id="hex70253-tbl-0005" content-type="Table" orientation="portrait"><label>Table 5</label><caption><p>Professional and societal responses to taking time to ‘recover’: Being granted or denied latitude by others.</p></caption><table frame="hsides" rules="groups"><col align="left" style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" span="1"/><col align="center" style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" span="1"/><tbody valign="top"><tr valign="bottom"><td align="left" valign="bottom" rowspan="1" colspan="1">IE 1.</td><td align="center" valign="bottom" rowspan="1" colspan="1">
+<italic toggle="yes">I came home [from hospital and] people [locally] were absolutely pouring out of their houses to talk to me and wish me well […] which gives you so much strength. It makes a huge difference […] you feel a bit like a celebrity […] which is a bit weird. A celebrity for the wrong reasons</italic>. (Lee, ICU)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">IE 2.</td><td align="center" valign="top" rowspan="1" colspan="1">
+<italic toggle="yes">I just had this huge sense of kind of hopelessness, when I came home [from hospital]. Grateful to be alive, but […] really hopeless [and] everyone wants you to be, ‘You've survived it, you did it!’ I didn't feel like that at all […] I felt like, I'd got back from war, and I didn't know how to adjust to civilian life […] [guilt is] definitely something that's stayed with me […] I dragged [my family] on a horrible journey [and] it's touched our family in a way that's changed it forever</italic>. (Tessa, ICU)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">IE 3.</td><td align="center" valign="top" rowspan="1" colspan="1">
+<italic toggle="yes">Normally people think of […] the post‐viral state, as something that you would experience for a week or two, possibly a few weeks after a very bad cold or flu. And that's something most people understand and recognise. […] so when people have spoken to me [saying], ‘Good luck with your recuperation’ […] I found myself thinking […] ‘Well actually, I'm not recuperating’ […] I'm managing […] a very different, long‐term situation [with] no indication that it's getting any better for me</italic>. (William, LC)</td></tr></tbody></table><permissions><copyright-holder>John Wiley &amp; Sons, Ltd.</copyright-holder></permissions></table-wrap></sec></sec><sec sec-type="results" id="hex70253-sec-0150"><label>3</label><title>Results</title><p>Radley [<xref rid="hex70253-bib-0044" ref-type="bibr">44</xref>, <xref rid="hex70253-bib-0045" ref-type="bibr">45</xref>] argued that individual illness accounts, as shaped by and given meaning within socio‐cultural environments, can shed light on ‘worlds of illness’. He asserted that accounts of illness “do more than report the events which the person has suffered [as they are] fabricating a world of ‘illness’” [<xref rid="hex70253-bib-0045" ref-type="bibr">45</xref>] <sup>(p.779)</sup> and ‘articulate a person's situation in the world and, indeed, articulate that world, in which the individual will be held accountable to others’ [<xref rid="hex70253-bib-0046" ref-type="bibr">46</xref>] <sup>(p.221)</sup>. Using these ideas, we identified the similar and different ways in which ICU and LC participants described their ‘worlds of illness’. We first detail the themes capturing similarities in their illness experiences: (i) losses, scars and unknown futures after COVID‐19; (ii) adjusting to changed selves: the hard work of striving for recovery; and (iii) ‘recovery trajectories’: balancing hope and uncertainty. Themes that demonstrate differences in the illness worlds of the two groups included: (i) illness experiences with different baselines and ‘recovery trajectories’ with distinct waymarkers; (ii) following a notional pathway vs negotiating unmapped territory; and (iii) professional and societal responses to taking time to ‘recover’: being granted or denied latitude by others.</p><sec id="hex70253-sec-0160"><label>3.1</label><title>Similarities in the ‘Worlds of Illness’ of ICU and LC Participants</title><sec id="hex70253-sec-0170"><label>3.1.1</label><title>Losses, Scars and Unknown Futures After COVID‐19</title><p>ICU and LC participants described losses they had experienced since COVID‐19 infection and numerous ways in which their bodies, lives and selves were still changed many months, or longer, after their initial infection. Their accounts challenge the possibility of returning, physically, mentally or emotionally, to a ‘before illness’ version of themselves and, instead, suggest that their COVID experiences had permanently altered them.</p><p>ICU and LC participants highlighted bodily and physical losses, such as of strength, stamina and weight, and spoke of debilitating bodily changes and symptoms that persisted postinfection, including extreme fatigue, weakness, breathlessness, loss of taste and smell, forgetfulness and brain fog. These changes were described as resulting in a loss of normality, independence and spontaneity, leaving participants feeling they had lost their prior selves (Table <xref rid="hex70253-tbl-0001" ref-type="table">1</xref> IEs 1‐2).</p><p>In both groups, participants reflected on the aspects of their health and life they wanted to regain, such as strength, independence and feeling like their ‘<italic toggle="yes">old self</italic>’, suggesting that recovery for some meant a return to the same state as before illness, Eddie (ICU) said he wanted help ‘<italic toggle="yes">working out how to get […] back to the same level of capacity, capability that [I had] before’.</italic> Many LC participants also spoke of their desire for a full return to their prior state but felt wary of hoping for too much (‘<italic toggle="yes">To be honest, I try not to think about [whether I'll improve] because I don't know how hopeful I am’</italic> (Philip, LC)). As COVID‐19 was a new virus when participants were interviewed, the many unknowns about their illness, and its future course, were highlighted by participants in both groups as emotionally challenging and casting doubt on the prospect of full recovery (Table <xref rid="hex70253-tbl-0001" ref-type="table">1</xref> IE 3).</p><p>Across both groups, participants highlighted how the transformative nature of the ongoing physical and emotional effects of COVID‐19 made them unable to return to ‘normal’ as others could when the general public began to emerge out of COVID‐related lockdowns; participants felt at odds with this changing and ‘recovering’ world. While Moira (ICU) found it difficult to align the ‘<italic toggle="yes">massive event</italic>’ she had been through with the world getting back to normal <italic toggle="yes">all of a sudden […] like [the pandemic] didn't happen’</italic>, Elsa (LC) feared her lack of recovery would ‘<italic toggle="yes">hit more’</italic> and feel increasingly isolating as society shifted towards (new) ‘normal’ and she did not feel well enough to join friends in enjoying the easing of public health restrictions.</p><p>Reinfection was a significant concern for many, particularly before COVID‐19 vaccines became available. Ralph (ICU) said he was fearful of being hospitalised again: ‘<italic toggle="yes">I'll be glad tomorrow when I get the initial [vaccine]’</italic>.</p></sec><sec id="hex70253-sec-0180"><label>3.1.2</label><title>Adjusting to Changed Selves: The Hard Work of Striving for ‘Recovery’</title><p>Participants in both groups spoke of trying to adapt to their altered capacity so they could get by day‐to‐day and strive towards regaining independence. Their accounts highlighted the physical, mental and emotional toll of ‘doing’ recovery work. This included: learning how to do essential activities of daily living while managing debilitating symptoms and depleted strength and energy (e.g., using physical aids, such as shower seats, and strategies, such as pacing); rearranging their homes spatially, at least temporarily, to make them easier to navigate; and recognising and responding to signs of fatigue (Table <xref rid="hex70253-tbl-0002" ref-type="table">2</xref> IEs 1‐2).</p><p>For both groups, much of this adjustment ‘work’ involved making sense of their changed selves and experiential learning about their diminished capacities, often after pushing themselves too far, and appropriate adaptations (Table <xref rid="hex70253-tbl-0002" ref-type="table">2</xref> IEs 3‐4). Adjusting to changed selves also required both ICU and LC participants to rely on partners and close family members for practical and emotional support. As some ICU patients were discharged relatively quickly, due to pressures on hospitals, their care needs at home were greater than might usually be the case. Participants highlighted the necessity of this support; it was not uncommon for family members to help with activities of daily living such as showering and cooking. Adam (LC) said of his wife, ‘<italic toggle="yes">I can't imagine having a carer who's better than her’</italic>.</p></sec><sec id="hex70253-sec-0190"><label>3.1.3</label><title>‘Recovery Trajectories’: Balancing Hope and Uncertainty</title><p>Across both groups, participants described monitoring themselves for signs of improvement or deterioration. Trajectories towards a hoped‐for recovery were heterogeneous but rarely smooth or steady in terms of their directional or temporal nature. For some, their symptoms were static, and they did not feel they were improving when interviewed (‘<italic toggle="yes">I'm not in any kind of recovery phase’</italic> (William, LC)). Others said they had improved to a degree then levelled off (‘<italic toggle="yes">In the last three, 4 months I seem to have got stuck [and] I wonder is this […] as good as I'm going to get?’</italic> (Linda, LC) or had started to regress (Table <xref rid="hex70253-tbl-0003" ref-type="table">3</xref>, IE 1).</p><p>A few ICU and LC participants suggested they were on a steady path to recovery, albeit at an extremely slow pace. Hugh (ICU) reflected on how it felt like he had ‘<italic toggle="yes">to do everything in slow motion</italic>’ when first discharged but had carefully and gradually built his ability to walk for two miles. Elsa (LC) described her progress as ‘<italic toggle="yes">slow [and] fragile</italic>’. Only one LC participant said she had fully recovered, with reservation—‘<italic toggle="yes">I think I will always have a little bit of something saying, “Is this going to come back?”’</italic> (Jane, LC). A few ICU participants also felt physically recovered when interviewed but remained afraid of reinfection.</p><p>In both groups, participants' emotions were closely linked to their understandings of the temporal and directional nature of their ‘recovery trajectory’. Times of progress were characterised by hope and relief, whereas setbacks and plateaus brought sadness, frustration and worry. The slow pace of improvement was linked to frustration or tensions between frustration and acceptance (Table <xref rid="hex70253-tbl-0003" ref-type="table">3</xref> IEs 2‐3). Some participants were faced with coming to terms with ‘new normals’ reflecting the severity of their ongoing symptoms, either in isolation or in combination with pre‐existing or newly acquired disabilities or the effects of ageing. For example, Marzia (LC) had a chronic health condition before COVID‐19 and had experienced increased pain, worse fatigue and decreased interest in life since having Long COVID. Ella (ICU), who had severe osteoarthritis before contracting COVID‐19, suggested she needed to accept a changed version of herself and find ways of living alongside her disabilities long‐term (Table <xref rid="hex70253-tbl-0003" ref-type="table">3</xref> IE 4).</p></sec></sec><sec id="hex70253-sec-0200"><label>3.2</label><title>Differences in the ‘Worlds of Illness’ Described by ICU and LC Participants</title><sec id="hex70253-sec-0210"><label>3.2.1</label><title>Illness Experiences With Different Baselines and ‘Recovery Trajectories’ With Distinct Waymarkers</title><p>While both groups were existentially changed by COVID‐19 infection, our comparative analysis revealed marked differences in their ‘worlds of illness’. Their accounts suggested their illness experiences started from different ‘baseline’ positions and their recovery trajectories featured distinct waymarkers or interim destinations. Participants admitted to ICU early in the pandemic described the stark and dramatic baseline of their illness experience. Being admitted to ICU was a decision that was taken out of their hands by paramedics or hospital staff and could be frightening, especially because people were aware of the high mortality rates for severe COVID‐19 at the time (Table <xref rid="hex70253-tbl-0004" ref-type="table">4</xref> IEs 1‐2).</p><p>For ICU participants, hospitalisation marked the onset of patienthood, swiftly followed by a succession of treatments and interventions beyond their control. Not only was their medical care escalated to the point of ICU admission, ICU participants also survived the harrowing and unique experience of being surrounded by others who were also critically ill with COVID‐19. Some spoke of being haunted by memories of dreams, hallucinations and events they experienced or witnessed in ICU, such as the illness and deaths of others with COVID‐19. Some suggested this was ‘<italic toggle="yes">like mental torture</italic>’ (Lee, ICU) and psychologically scarring (‘<italic toggle="yes">COVID is not a thing that comes and goes. It's always with you, somehow, in your mind, it's always there’</italic> [Rayhanna, ICU]).</p><p>By contrast, LC participants highlighted the comparative invisibility of their illness experience ‘baseline’, which took place behind closed doors, was not recognised or broadcast by mainstream media, and was unfamiliar to the medical profession (Table <xref rid="hex70253-tbl-0004" ref-type="table">4</xref> IE 3).</p><p>For many LC participants, their early days, weeks and months of illness were characterised by feeling their lives had been ‘<italic toggle="yes">turned upside down</italic>’ (Fraser, LC) and an inability to explain their ongoing symptoms. Many, including some who were healthcare professionals, were bewildered by their symptoms. For example, Stephanie (Table <xref rid="hex70253-tbl-0004" ref-type="table">4</xref> IE 4) said the absence of media attention on persistent symptoms compounded her concerns. It was perhaps the stark contrast between how visible, closely monitored and reported hospitalisations for severe COVID‐19 were in the media and how invisible the experience of Long COVID was in the early stages of the pandemic which led some LC participants to compare themselves to people who had been critically ill or had died as a result of COVID‐19, and indeed other illnesses. While hospital, and especially ICU, admission confirmed legitimate patient status for those critically ill with COVID‐19, participants with LC suggested their struggle for legitimacy gave rise to feelings of guilt for struggling with their symptoms, especially when testing for COVID‐19 infection was not available (Table <xref rid="hex70253-tbl-0004" ref-type="table">4</xref> IEs 5‐6)</p><p>Signs of improvement in the ‘recovery trajectories’ described also differed. For ICU participants, key markers of progress were being moved out of ICU and being discharged from hospital. Some recalled staff clapping them out of ICU to celebrate this major milestone. Lee (ICU) recalled the significance of hospital discharge as a waymarker on his illness trajectory; it represented being ‘<italic toggle="yes">on the mend</italic>’.</p><p>For LC participants, ‘recovery trajectories’ featured few concrete markers of progress comparable to hospital discharge, although a few described more nebulous signs of improvement, including: ‘<italic toggle="yes">fewer days of having to sleep all the time</italic>’ (Gemma); ‘<italic toggle="yes">having extra energy</italic>’ at the end of the day (Elsa); and beginning to live more spontaneously (‘<italic toggle="yes">to be most of the day out of the house without having to be too rigid in my planning</italic>’ [Elliott]).</p></sec><sec id="hex70253-sec-0220"><label>3.2.2</label><title>Following a Notional Pathway vs Negotiating Unmapped Territory</title><p>Participants in both groups faced the task of making sense of and adjusting to their changed bodies. Nevertheless, ICU and LC participants' accounts differed in the extent to which their sense‐making work and practices of patienthood were recognised and supported. For some (by no means all) ICU participants this was underpinned by explanations for losses they had experienced, often informed by ICU staff (through conversations, diaries or medical notes) or family members. This information helped them understand how critically ill they had been and the experiences from which their body needed to recover. For example, Rod said ‘<italic toggle="yes">I got told in intensive care I lost muscle mass in my legs, so my legs felt like jelly […] because I was laid not moving for 11 days’</italic>. Some ICU participants described how, following discharge, they had ongoing professional support to inform their expectations of recovery, guide them in adapting to their changed capacity and advise on strategies for regaining strength. However, standard systems of care were stretched due to the pandemic and access to ongoing support varied greatly. While Lee said he felt ‘<italic toggle="yes">there were a lot of people from the NHS that were concerned […] making sure that I was doing everything correctly [after discharge]</italic>’, Eddie said professional support dropped off significantly following discharge, leaving him ‘<italic toggle="yes">working out how to get better</italic>’ without a rehabilitative pathway. Thus, although an infrastructure existed for post‐ICU care generally, which could serve as a notional pathway for ICU patients, healthcare professionals caring for COVID‐19 ICU patients did not seem to have specific protocols for caring for patients with this new virus nor resources to provide ongoing care for so many patients.</p><p>The LC participants did not have the benefit of medical recognition or explanations for their symptoms, nor was there any notional healthcare pathway to follow. William expressed his frustration: ‘<italic toggle="yes">it would be very nice to know why it is that my body feels totally exhausted just doing [gentle exercise, when] I used to climb mountains’.</italic> LC participants often reported feeling unsupported by healthcare professionals in their efforts to make sense of and adjust to their changed selves. Participants were aware that the lack of consistent and clear guidance from healthcare professionals was because there was little evidence about treatments nor experience of advising patients how to manage symptoms, especially early in the pandemic. As a result, LC participants developed alternative practices to manage their symptoms. Gemma, for example, reported being told by healthcare professionals ‘<italic toggle="yes">to push through</italic>’ her fatigue by increasing physical activity levels daily, but later decided, when this approach left her “<italic toggle="yes">floored</italic>”, that she “<italic toggle="yes">was going to ignore that advice and just pace</italic>” herself. Some reported seeking help from private healthcare practitioners who some described as helpful and supportive. However, for many it was a case of trying to work out for themselves, or through other LC patients in online support groups, the best ways of adjusting to symptoms.</p></sec><sec id="hex70253-sec-0230"><label>3.2.3</label><title>Professional and Societal Responses to Taking Time to ‘Recover’: Being Granted or Denied Latitude by Others</title><p>The ‘worlds of illness’ which ICU and LC participants inhabited also differed in relation to others' responses to their ‘recovery’. ICU participants (particularly those admitted early in the pandemic) described receiving considerable support and strength from the help and good wishes from ICU/hospital staff, friends, other ICU survivors, and people, even strangers, in their local community (Table <xref rid="hex70253-tbl-0005" ref-type="table">5</xref> IE 1).</p><p>Their accounts sometimes suggested they were ascribed hero status by people in their wider social networks. Indeed, Martin, a member of a support group for mechanically ventilated COVID‐19 patients, had recovered to such an extent that he had managed a sustained return to full‐time employment and described feeling touched when called ‘<italic toggle="yes">an inspiration</italic>’ by group members. However, not all ICU participants felt easy about being ascribed a hero or survivor identity. In describing her struggles with survivor guilt and concerns about the trauma her family had sustained, Tessa described a strong disconnect between her feelings and her perceptions of others' expectations of how she should feel (Table <xref rid="hex70253-tbl-0005" ref-type="table">5</xref> IE 2).</p><p>While ICU participants were recognised as ‘legitimate’ patients and their survival celebrated by those around them, LC participants' accounts suggested others did not recognise their need to (take time to) recover, suggesting their patienthood was not ascribed comparable authenticity. Instead, they reported feeling that others assumed they were already on a pathway to recovery. This particularly applied to people outside immediate family who were unlikely to see them on “<italic toggle="yes">bad days</italic>” when most debilitated by their symptoms (Table <xref rid="hex70253-tbl-0005" ref-type="table">5</xref> IE 3). LC participants' accounts highlighted how people around them were confused by their ongoing symptoms and how to respond to the fact they had not yet returned to their prior state of health. Early in the pandemic, lockdown restrictions meant that the ‘work’ LC participants did to adjust to their changed selves was not visible to wider social networks, being only witnessed by partners, immediate family and carers. This lack of visibility may have contributed to the surprise often expressed by others, and certainly people they saw infrequently, on hearing or seeing that they were still experiencing symptoms. Additionally, LC participants described ways in which people, perhaps as part of their own sense‐making work, proffered alternative explanations for ongoing symptoms. Stephanie said that people's responses suggested they were ‘<italic toggle="yes">subconsciously, perhaps, attributing a lot of what I've been going through to psychiatric symptoms, which isn't right</italic>’ and that even people who were close to her had tried ‘<italic toggle="yes">to reason through</italic>’ her illness by ‘<italic toggle="yes">attributing the symptoms to something else’, “Well, could you be menopausal?’ […] ‘Is it your thyroid?’ […] they just want something concrete. […] I have found that really difficult</italic>.” Although LC participants could see people around them trying to make sense of their symptoms and attribute them to illnesses with better understood trajectories, this was experienced as emotionally challenging and appeared to cast doubt on their status as legitimate patients.</p></sec></sec></sec><sec sec-type="discussion" id="hex70253-sec-0240"><label>4</label><title>Discussion</title><p>This paper aims to contribute to a wider understanding of what ‘recovery’ means, by comparing accounts from adults who were admitted to ICU with COVID‐19 and those with Long COVID in the early stages of the pandemic.</p><p>Underpinning all participants' narratives, regardless of patient group, was the novel and unknown nature of COVID‐19 and scant healthcare knowledge and services available at the time they were interviewed. As we [<xref rid="hex70253-bib-0023" ref-type="bibr">23</xref>] and others [<xref rid="hex70253-bib-0033" ref-type="bibr">33</xref>, <xref rid="hex70253-bib-0036" ref-type="bibr">36</xref>, <xref rid="hex70253-bib-0039" ref-type="bibr">39</xref>] have found in relation to the multiple and intersecting unknowns associated with a new emerging disease, “the uncertain future is a constant presence” [<xref rid="hex70253-bib-0011" ref-type="bibr">11</xref>]. For participants in the current study, this shaped their accounts and arose from there being no tried and tested ‘road map’ to guide either group towards regaining health, or to a clear point of completion of that quest. Even for ICU participants, pathways to regaining health could be notional at best.</p><p>Our comparative analyses suggest the ‘worlds of illness’ of ICU and LC participants were similar in some respects. Accounts from both groups complicate idealised and widely‐held notions of recovery as a linear transition between binary states of illness and wellness [<xref rid="hex70253-bib-0036" ref-type="bibr">36</xref>, <xref rid="hex70253-bib-0039" ref-type="bibr">39</xref>, <xref rid="hex70253-bib-0047" ref-type="bibr">47</xref>]. Similar to others' descriptions of the ‘end of normality’ [<xref rid="hex70253-bib-0003" ref-type="bibr">3</xref>] <sup>(p.1755)</sup> inflicted by Long COVID, participants in both groups described how their body and sense of self were altered, sometimes profoundly, by the physical, mental and emotional losses and scars resulting from COVID‐19 infection [<xref rid="hex70253-bib-0022" ref-type="bibr">22</xref>, <xref rid="hex70253-bib-0048" ref-type="bibr">48</xref>], and (for the ICU group) life‐saving treatment. Participants in both groups questioned the achievability of full recovery, in the sense of returning to a ‘before illness’ version of themselves, yet did not know what to expect of or hope for their future selves either [<xref rid="hex70253-bib-0011" ref-type="bibr">11</xref>, <xref rid="hex70253-bib-0036" ref-type="bibr">36</xref>].</p><p>We describe elsewhere the ‘adjustment work’ done by people with Long COVID in relation to the challenges faced on attempting to return to employment [<xref rid="hex70253-bib-0032" ref-type="bibr">32</xref>]. In the current study, we highlight how adjusting to their changed selves required participants to undertake hard physical and emotional work, such as striving to make sense of their symptoms, discovering and respecting the ‘<italic toggle="yes">new rules</italic>’ of their body, often through trial and error [<xref rid="hex70253-bib-0049" ref-type="bibr">49</xref>] or ‘embodied experimentation’ [<xref rid="hex70253-bib-0038" ref-type="bibr">38</xref>], as others have described. We identified heterogeneity in the ‘recovery trajectories’ described by both groups, as identified for people with Long COVID [<xref rid="hex70253-bib-0039" ref-type="bibr">39</xref>, <xref rid="hex70253-bib-0047" ref-type="bibr">47</xref>]. Positive emotions characterised times of ‘progress’ whereas slowing improvement or regressions engendered sadness, frustration and concerns about the future. Participants' feelings may be founded on their own expectations, and perhaps their perceptions of others’, that ‘successful recovery’ comprises steady (even rapid) trajectories towards improvement, suggesting the active influence of a ‘recovery imperative’ which casts certain types of recovery as more desirable and acceptable than others [<xref rid="hex70253-bib-0020" ref-type="bibr">20</xref>, <xref rid="hex70253-bib-0021" ref-type="bibr">21</xref>].</p><p>Key differences in ‘worlds of illness’ stemmed from the fact that ICU participants' hospitalisation conferred them status as legitimate patients in ‘medically clear and understandable ways’ [<xref rid="hex70253-bib-0014" ref-type="bibr">14</xref>] <sup>(p.10)</sup> whereas LC participants' ‘patienthood’ was neither evidenced nor authenticated in the same way. ICU participants recounted piecing together memories of being surrounded by others with the same unknown virus and witnessing severe illness and death. Thus their trajectories started from a stark baseline, although blurred by uncertainty as to what was real; their very survival symbolised them reaching a major waymarker on their ‘recovery map’. In contrast, LC participants' illness baseline happened behind the closed doors of their homes, characterised by a chasm between their symptom experiences and lack of medical knowledge or a diagnosis [<xref rid="hex70253-bib-0014" ref-type="bibr">14</xref>]. This challenged their claim to a patient status or ‘survivor identity’ [<xref rid="hex70253-bib-0007" ref-type="bibr">7</xref>], in contrast to ICU participants. Indeed, initially, LC participants could only compare their experiences of COVID‐19 with mainstream media images of severe disease and death in ICU [<xref rid="hex70253-bib-0033" ref-type="bibr">33</xref>], perhaps contributing to some participants feeling they should have comparatively little to complain about. While (at least early in the pandemic) ICU participants' trajectories were dotted with interim destinations (e.g., moving out of ICU, being discharged from hospital) this was not the case for LC participants whom we have previously described as ‘vanguard patients’ [<xref rid="hex70253-bib-0027" ref-type="bibr">27</xref>]; for these people there was not even a notional ‘map’ of how they might return to health, and, as others have also reported, it was unclear whether they ever could [<xref rid="hex70253-bib-0003" ref-type="bibr">3</xref>, <xref rid="hex70253-bib-0011" ref-type="bibr">11</xref>, <xref rid="hex70253-bib-0036" ref-type="bibr">36</xref>].</p><p>The ‘worlds of illness’ which ICU and LC participants navigated were further differentiated by professional and societal responses they encountered. Indeed, it was with regard to the meanings and social interactions associated with their ‘recovery’ that the differences between the socio‐cultural worlds described by the two groups were especially salient. Whether they were met with admiration and sympathy or suspicion and frustration, our findings demonstrate that both forms of societal response can be challenging to navigate. Many ICU participants said they were told they would need time to recover, even if an overwhelmed health service was too stretched to provide sufficient support [<xref rid="hex70253-bib-0026" ref-type="bibr">26</xref>]. Many we interviewed were buoyed by support and encouragement from partners, families and wider social networks, who, in acknowledging the symbolic significance of their hospitalisation, recognised their patienthood and ascribed them a “reframed ‘survivor identity’” [<xref rid="hex70253-bib-0007" ref-type="bibr">7</xref>]. <sup>(p.86)</sup> These responses allowed grace for recovery to be fragile, ongoing and incomplete, whilst celebrating ICU patients as inspirational for elements of ‘successful’ recovery, defined for example by a return to paid employment. Those with LC, by contrast, spoke of a lack of recognition and clear guidance from healthcare professionals regarding how to adjust to and treat their symptoms, requiring them to carry out sense‐making work in isolation or, in time, alongside others with LC online [<xref rid="hex70253-bib-0050" ref-type="bibr">50</xref>]. Cheston et al. [<xref rid="hex70253-bib-0011" ref-type="bibr">11</xref>] highlight the ‘social suffering’ experienced by people with LC, stemming from a ‘twofold lack of support—medical and social’. In the current study, instead of being granted latitude to be ill and time to recover, LC participants described surprised or confused societal responses to their ongoing symptoms. Indeed, the contested nature of LC was brought into sharp relief as participants recounted others' efforts to explain their ongoing symptoms by reaching for what they perhaps believed to be ‘real’, more likely, or more credible causes [<xref rid="hex70253-bib-0021" ref-type="bibr">21</xref>, <xref rid="hex70253-bib-0036" ref-type="bibr">36</xref>]. The differing social responses perhaps reflect the meanings ascribed by others to the illness experiences of our two groups; while ICU admission confers legitimate patienthood, LC represents a ‘messy category’ [<xref rid="hex70253-bib-0014" ref-type="bibr">14</xref>] <sup>(p.15)</sup> by comparison wherein patienthood is contested and questioned.</p><p>A strength of this study lies in the robust and significant corpus of data (93 in‐depth interviews). Participants also gave permission for interview extracts, redacted according to their wishes, to be used for purposes including teaching, secondary analysis and on an online platform (hexi.ox.ac.uk). Although all participants had the option of safeguarding their identity by making their data fully anonymous, we acknowledge this may have led some people to censor aspects of their experiences. A further limitation is the limited ability to explore longer term perspectives of recovery. Our data were not longitudinal, and interviews were conducted between February 2021 and July 2022. Hence these ‘recovery narratives’ are somewhat truncated and must be understood as situated within early stages of the pandemic when the recency of COVID‐19 meant healthcare knowledge and treatment pathways were nascent. Longitudinal research with a variety of COVID‐19 patient groups could elucidate longer‐term ‘recovery’ trajectories [<xref rid="hex70253-bib-0034" ref-type="bibr">34</xref>, <xref rid="hex70253-bib-0036" ref-type="bibr">36</xref>]. Indeed, it is important to follow lived experiences of ongoing symptoms of COVID‐19 to assess whether people's abilities to reconcile illness and identity will be affected by improvements in understandings of Long COVID in the future. The high numbers of people affected by Long COVID may in time challenge wider notions of recovery [<xref rid="hex70253-bib-0036" ref-type="bibr">36</xref>].</p></sec><sec sec-type="conclusions" id="hex70253-sec-0250"><label>5</label><title>Conclusions</title><p>We have presented findings of comparative analyses which illustrate how the ‘worlds of illness’ described by these two participant groups converged and diverged in illuminating ways, showing how notions of recovery and ways of striving towards it are impacted by similarities and differences in illness experiences, and others' reactions to these. While the paper draws on experiences of COVID‐19, the findings have implications for wider understanding of recovery, which has received little attention in qualitative social science. Similarities across the participant groups' accounts related to daily symptom experiences and the functional ways they strived towards the accomplishment and recovery of health. Differences related to social accomplishments of patienthood and how these were recognised or disputed by others. Of note were the differing professional and societal responses reported by the two groups, which lend insight into how the social processes of recovery are entwined with (wider) understandings of the illness.</p><p>Our findings have clinical implications. They emphasise the importance of ensuring people are made to feel their illness experiences are legitimate, regardless of hospitalisation status, formal diagnosis or lack of medical knowledge and pathways. In relation to healthcare practices, this involves listening carefully to patients as individuals and demonstrating belief of their experiences. Our findings also highlight the value of emphasising to patients and family members the different permutations and lack of linearity, that recovery can take, to help them guard against internalising idealised notions of recovery which can engender negative experiences of a perceived lack of progress. When illness severely disrupts everyday life, profoundly altering people's sense of self, the desire to return to a ‘before illness’ version of the self is entirely understandable, both for those experiencing illness and those caring for/about them. However, if accepted societal understandings of recovery are limited, prescriptive and experienced as imperative, there is a danger that illness trajectories which are faltering, unexpectedly slow or not moving towards a person's prior state of health will be imbued with ‘failure’. Acknowledging and valuing alternatives to the ‘recovery imperative’, within healthcare relationships and wider societal understandings, is a vital part of improving illness experiences, which, paradoxically, may facilitate a more positive use of (limited) energy.</p></sec><sec id="hex70253-sec-0260"><title>Author Contributions</title><p>
+<bold>Alice MacLean:</bold> substantial contribution to conception of design and to acquisition of data. Leading role in analysis and interpretation, wrote all drafts of paper. <bold>Annelieke Driessen:</bold> substantial contribution to conception of design and to acquisition of data. Leading role in analysis and interpretation, leading role in critical review of all drafts of paper. <bold>Lisa Hinton:</bold> substantial contribution to conception of design, interpretation of data, critical review of earlier drafts of paper. <bold>Sarah Nettleton:</bold> substantial contribution to conception of design, interpretation of data, leading role in critical review of earlier drafts of paper. <bold>Cervantee Wild:</bold> substantial contribution to conception of design and to acquisition of data. Contribution to analysis and interpretation, critical review of drafts of paper. <bold>Eilidh Anderson:</bold> substantial contribution to analysis and interpretation, contribution to first draft of paper and critical review of later drafts of paper. <bold>Ashely Brown:</bold> substantial contribution to conception of design and to acquisition of data. Contribution to analysis and interpretation, critical review of drafts of paper. <bold>Pat Hoddinott:</bold> contribution to analysis and interpretation, critical review of drafts of paper. <bold>Calum O'Dwyer:</bold> contribution to analysis and interpretation, critical review of drafts of paper. <bold>Sue Ziebland:</bold> contribution to conception of design, analysis and interpretation, critical review of drafts of paper. <bold>Kate Hunt:</bold> substantial contribution to conception of design and to acquisition of data, analysis and interpretation, critical review of earlier drafts of paper.</p></sec><sec id="hex70253-sec-0280"><title>Ethics Statement</title><p>Our study was approved by the Berkshire Ethics Committee (12/SC/0495). All participants provided recorded verbal informed consent which was obtained at the start of the interview by the researcher conducting it.</p></sec><sec sec-type="COI-statement" id="hex70253-sec-0290"><title>Conflicts of Interest</title><p>The authors declare no conflicts of interest.</p></sec></body><back><ack id="hex70253-sec-0270"><title>Acknowledgements</title><p>We would like to thank all of the participants who took part in the interviews, especially as many of our participants were still very affected by their Long Covid symptoms or the effects of their ICU admission and had limited physical and cognitive resources. We would like to thank Professor Louise Locock for her contribution to discussions and colleagues at the Health Experiences Research Group in Oxford, including Ruth Sanders for research support, and colleagues who, in addition to the authors, conducted at least one interview included in the analysis for this manuscript: Tanvi Rai, Anna Dowrick, Sasha Lewis‐Jackson, Heather Munro, and Zoe Skea. Authors were supported by grants from Scotland's Chief Scientist Office (‘Long Covid: Amplifying the voices of people with lived experience to improve understanding, support, treatment and education. Share‐to‐improve: Long Covid experience (COv‐VOICES) Study’, grant number: COV/LTE/20/04); National Institute for Health Research (Understanding and using family experiences of managing long Covid to support self‐care and timely access to services, grant number: COV‐LT2‐0005) and the core funding award ‘Learning for improvement from Covid‐19 intensive care patient experiences’ (grant number: RG88620) from The Health Foundation to Cambridge held by The Healthcare Improvement Studies Institute (‘THIS Institute’) within the Department of Public Health and Primary Care, University of Cambridge. CW was supported by the Girdlers' New Zealand Health Research Council Fellowship. We also drew on data from the ‘Diverse Experiences of COVID’ study which was funded by the ESRC (grant number: EP/V039083/1 COVID). The views expressed in this publication are those of the authors and not necessarily those of the NIHR or The Department of Health and Social Care.</p></ack><sec sec-type="data-availability" id="hex70253-sec-0310"><title>Data Availability Statement</title><p>Data are available on reasonable request. The University of Oxford holds the copyright for the full interview transcripts and may grant data sharing permission on request.</p></sec><ref-list content-type="cited-references" id="hex70253-bibl-0001"><title>References</title><ref id="hex70253-bib-0001"><label>1</label><mixed-citation publication-type="book" id="hex70253-cit-0001">
+<source>Coronavirus: Action Plan</source> (<publisher-name>UK Government</publisher-name>, <year>2020</year>), accessed May 01, 2024, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://assets.publishing.service.gov.uk/media/5e5e2e91e90e071110454391/Coronavirus_action_plan_-_a_guide_to_what_you_can_expect_across_the_UK.pdf" ext-link-type="uri">https://assets.publishing.service.gov.uk/media/5e5e2e91e90e071110454391/Coronavirus_action_plan_-_a_guide_to_what_you_can_expect_across_the_UK.pdf</ext-link>.</mixed-citation></ref><ref id="hex70253-bib-0002"><label>2</label><mixed-citation publication-type="miscellaneous" id="hex70253-cit-0002">
+<string-name name-style="western">
+<given-names>F.</given-names>
+<surname>Callard</surname>
+</string-name>. Very, Very Mild: Covid‐19 Symptoms and illness Classification, accessed May 14, 2024, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://somatosphere.com/2020/mild-covid.html/" ext-link-type="uri">https://somatosphere.com/2020/mild-covid.html/</ext-link>.</mixed-citation></ref><ref id="hex70253-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="hex70253-cit-0003">
+<string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Ireson</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Taylor</surname>
+</string-name>, <string-name name-style="western">
+<given-names>E.</given-names>
+<surname>Richardson</surname>
+</string-name>, <string-name name-style="western">
+<given-names>B.</given-names>
+<surname>Greenfield</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>G.</given-names>
+<surname>Jones</surname>
+</string-name>, “<article-title>Exploring Invisibility and Epistemic Injustice in Long Covid‐A Citizen Science Qualitative Analysis of Patient Stories From an Online Covid Community</article-title>,” <source>Health Expectations: An International Journal of Public Participation in Health Care and Health Policy</source>
+<volume>25</volume>, no. <issue>4</issue> (August <year>2022</year>): <fpage>1753</fpage>–<lpage>1765</lpage>, <pub-id pub-id-type="doi">10.1111/hex.13518</pub-id>.<pub-id pub-id-type="pmid">35557480</pub-id>
+<pub-id pub-id-type="pmcid">PMC9327841</pub-id></mixed-citation></ref><ref id="hex70253-bib-0004"><label>4</label><mixed-citation publication-type="book" id="hex70253-cit-0004">
+<string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Fricker</surname>
+</string-name>, <source>Epistemic Injustice: Power and the Ethics of Knowing</source> (<publisher-name>Oxford University Press</publisher-name>, <year>2007</year>).</mixed-citation></ref><ref id="hex70253-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="hex70253-cit-0005">
+<string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Friedman</surname>
+</string-name>, “<article-title>On Recovery: Re‐Directing the Concept by Differentiation of Its Meanings</article-title>,” <source>Medicine, Health Care, and Philosophy</source>
+<volume>24</volume>, no. <issue>3</issue> (<year>2021</year>): <fpage>389</fpage>–<lpage>399</lpage>, <pub-id pub-id-type="doi">10.1007/s11019-021-10014-7</pub-id>.<pub-id pub-id-type="pmid">33811591</pub-id>
+<pub-id pub-id-type="pmcid">PMC8019304</pub-id></mixed-citation></ref><ref id="hex70253-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="hex70253-cit-0006">
+<string-name name-style="western">
+<given-names>T.</given-names>
+<surname>Mladenov</surname>
+</string-name> and <string-name name-style="western">
+<given-names>I.</given-names>
+<surname>Dimitrova</surname>
+</string-name>, “<article-title>Epistemic Injustice as a Bridge Between Medical Sociology and Disability Studies</article-title>,” <source>Sociology of Health &amp; Illness</source>
+<volume>45</volume>, no. <issue>6</issue> (July <year>2023</year>): <fpage>1146</fpage>–<lpage>1163</lpage>, <pub-id pub-id-type="doi">10.1111/1467-9566.13479</pub-id>.<pub-id pub-id-type="pmid">35543112</pub-id>
+</mixed-citation></ref><ref id="hex70253-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="hex70253-cit-0007">
+<string-name name-style="western">
+<given-names>A. C.</given-names>
+<surname>Gonçalves</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Williams</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Koulouglioti</surname>
+</string-name>, et al., “<article-title>Surviving Severe COVID‐19: Interviews With Patients, Informal Carers and Health Professionals</article-title>,” <source>Nursing in Critical Care</source>
+<volume>28</volume>, no. <issue>1</issue> (January <year>2023</year>): <fpage>80</fpage>–<lpage>88</lpage>, <pub-id pub-id-type="doi">10.1111/nicc.12779</pub-id>.<pub-id pub-id-type="pmid">35561020</pub-id>
+<pub-id pub-id-type="pmcid">PMC9348004</pub-id></mixed-citation></ref><ref id="hex70253-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="hex70253-cit-0008">
+<string-name name-style="western">
+<surname>Herridge</surname>
+<given-names>Ms</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Azoulay</surname>
+<given-names>E.</given-names>
+</string-name>
+<article-title>Outcomes After Critical Illness</article-title>,” <source>Reply New England Journal of Medicine</source>
+<volume>389</volume>, no. <issue>4</issue> (July <year>2023</year>): <fpage>382</fpage>–<lpage>383</lpage>, <pub-id pub-id-type="doi">10.1056/NEJMc2304264</pub-id>.<pub-id pub-id-type="pmid">37494501</pub-id>
+</mixed-citation></ref><ref id="hex70253-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="hex70253-cit-0009">
+<string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Dumit</surname>
+</string-name>, “<article-title>Illnesses You Have to Fight to Get: Facts as Forces in Uncertain, Emergent Illnesses</article-title>,” <source>Social Science &amp; Medicine</source>
+<volume>62</volume>, no. <issue>3</issue> (February <year>2006</year>): <fpage>577</fpage>–<lpage>590</lpage>, <pub-id pub-id-type="doi">10.1016/j.socscimed.2005.06.018</pub-id>.<pub-id pub-id-type="pmid">16085344</pub-id>
+</mixed-citation></ref><ref id="hex70253-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="hex70253-cit-0010">
+<string-name name-style="western">
+<given-names>H. E.</given-names>
+<surname>Davis</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L.</given-names>
+<surname>McCorkell</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J. M.</given-names>
+<surname>Vogel</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>E. J.</given-names>
+<surname>Topol</surname>
+</string-name>, “<article-title>Long Covid: Major Findings, Mechanisms and Recommendations</article-title>,” <source>Nature Reviews Microbiology</source>
+<volume>21</volume> (<year>2023</year>): <fpage>133</fpage>–<lpage>146</lpage>, <pub-id pub-id-type="doi">10.1038/s41579-022-00846-2</pub-id>.<pub-id pub-id-type="pmid">36639608</pub-id>
+<pub-id pub-id-type="pmcid">PMC9839201</pub-id></mixed-citation></ref><ref id="hex70253-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="hex70253-cit-0011">
+<string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Cheston</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M. L.</given-names>
+<surname>Cenedese</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Woods</surname>
+</string-name>, “<article-title>The Long or the Post of It? Temporality, Suffering, and Uncertainty in Narratives Following Covid‐19</article-title>,” <source>Journal of Medical Humanities</source>
+<volume>46</volume> (November <year>2023</year>): <fpage>3</fpage>–<lpage>20</lpage>, <pub-id pub-id-type="doi">10.1007/s10912-023-09824-y</pub-id>.<pub-id pub-id-type="pmid">37962719</pub-id>
+<pub-id pub-id-type="pmcid">PMC11805856</pub-id></mixed-citation></ref><ref id="hex70253-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="hex70253-cit-0012">
+<string-name name-style="western">
+<given-names>E.</given-names>
+<surname>Ladds</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Rushforth</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Wieringa</surname>
+</string-name>, et al., “<article-title>Persistent Symptoms After Covid‐19: Qualitative Study of 114 “Long Covid” Patients and Draft Quality Principles for Services</article-title>,” <source>BMC Health Services Research</source>
+<volume>20</volume>, no. <issue>1</issue> (December <year>2020</year>): <fpage>1144</fpage>, <pub-id pub-id-type="doi">10.1186/s12913-020-06001-y</pub-id>.<pub-id pub-id-type="pmid">33342437</pub-id>
+<pub-id pub-id-type="pmcid">PMC7750006</pub-id></mixed-citation></ref><ref id="hex70253-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="hex70253-cit-0013">
+<string-name name-style="western">
+<given-names>B.</given-names>
+<surname>Oronsky</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Larson</surname>
+</string-name>, <string-name name-style="western">
+<given-names>T. C.</given-names>
+<surname>Hammond</surname>
+</string-name>, et al., “<article-title>A Review of Persistent Post‐Covid Syndrome (PPCS)</article-title>,” <source>Clinical Reviews in Allergy &amp; Immunology</source>
+<volume>64</volume>, no. <issue>1</issue> (February <year>2023</year>): <fpage>66</fpage>–<lpage>74</lpage>, <pub-id pub-id-type="doi">10.1007/s12016-021-08848-3</pub-id>.<pub-id pub-id-type="pmid">33609255</pub-id>
+<pub-id pub-id-type="pmcid">PMC7896544</pub-id></mixed-citation></ref><ref id="hex70253-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="hex70253-cit-0014">
+<string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Moretti</surname>
+</string-name> and <string-name name-style="western">
+<given-names>K. K.</given-names>
+<surname>Barker</surname>
+</string-name>, “<article-title>Suffering Without Remedy: The Medically Unexplained Symptoms of Fibromyalgia Syndrome and Long Covid</article-title>,” <source>Social Sciences</source>
+<volume>13</volume>, no. <issue>9</issue> (<year>2024</year>): <fpage>450</fpage>.</mixed-citation></ref><ref id="hex70253-bib-0015"><label>15</label><mixed-citation publication-type="miscellaneous" id="hex70253-cit-0015">Office for National Statistics (ONS). Self‐Reported Coronavirus (COVID‐19) Infections and Associated Symptoms, England and Scotland: November 2023 to March 2024, accessed February 13, 2025, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/selfreportedcoronaviruscovid19infectionsandassociatedsymptomsenglandandscotland/november2023tomarch2024" ext-link-type="uri">https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/selfreportedcoronaviruscovid19infectionsandassociatedsymptomsenglandandscotland/november2023tomarch2024</ext-link>.</mixed-citation></ref><ref id="hex70253-bib-0016"><label>16</label><mixed-citation publication-type="journal" id="hex70253-cit-0016">
+<string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Cheshire</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Ridge</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L. V.</given-names>
+<surname>Clark</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>P. D.</given-names>
+<surname>White</surname>
+</string-name>, “<article-title>Sick of the Sick Role: Narratives of What “Recovery” Means to People With Cfs/ME</article-title>,” <source>Qualitative Health Research</source>
+<volume>31</volume>, no. <issue>2</issue> (<year>2021</year>): <fpage>298</fpage>–<lpage>308</lpage>, <pub-id pub-id-type="doi">10.1177/1049732320969395</pub-id>.<pub-id pub-id-type="pmid">33176575</pub-id>
+<pub-id pub-id-type="pmcid">PMC7750673</pub-id></mixed-citation></ref><ref id="hex70253-bib-0017"><label>17</label><mixed-citation publication-type="journal" id="hex70253-cit-0017">
+<string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Woods</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Hart</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Spandler</surname>
+</string-name>, “<article-title>The Recovery Narrative: Politics and Possibilities of a Genre</article-title>,” <source>Culture, Medicine and Psychiatry</source>
+<volume>46</volume>, no. <issue>2</issue> (June <year>2022</year>): <fpage>221</fpage>–<lpage>247</lpage>, <pub-id pub-id-type="doi">10.1007/s11013-019-09623-y</pub-id>.<pub-id pub-id-type="pmid">30895516</pub-id>
+<pub-id pub-id-type="pmcid">PMC9034998</pub-id></mixed-citation></ref><ref id="hex70253-bib-0018"><label>18</label><mixed-citation publication-type="book" id="hex70253-cit-0018">
+<string-name name-style="western">
+<given-names>A. W.</given-names>
+<surname>Frank</surname>
+</string-name>, <source>The Wounded Storyteller. Body, Illness, and Ethics</source> (<publisher-name>University of Chicago Press</publisher-name>, <year>1997</year>).</mixed-citation></ref><ref id="hex70253-bib-0019"><label>19</label><mixed-citation publication-type="book" id="hex70253-cit-0019">
+<string-name name-style="western">
+<given-names>T.</given-names>
+<surname>Parsons</surname>
+</string-name>, <source>The Social System</source> (<publisher-name>The Free Press</publisher-name>, <year>1951</year>).</mixed-citation></ref><ref id="hex70253-bib-0020"><label>20</label><mixed-citation publication-type="journal" id="hex70253-cit-0020">
+<string-name name-style="western">
+<given-names>W.</given-names>
+<surname>O'Brien</surname>
+</string-name>, “<article-title>The Recovery Imperative: A Critical Examination of Mid‐Life Women's Recovery From Depression</article-title>,” <source>Social Science &amp; Medicine</source>
+<volume>75</volume>, no. <issue>3</issue> (<year>2012</year>): <fpage>573</fpage>–<lpage>580</lpage>.<pub-id pub-id-type="pmid">22580074</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.socscimed.2012.03.034</pub-id></mixed-citation></ref><ref id="hex70253-bib-0021"><label>21</label><mixed-citation publication-type="journal" id="hex70253-cit-0021">
+<string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Karadzhov</surname>
+</string-name>, “<article-title>Personal Recovery and Socio‐Structural Disadvantage: A Critical Conceptual Review</article-title>,” <source>Health: An Interdisciplinary Journal for the Social Study of Health, Illness and Medicine</source>
+<volume>27</volume>, no. <issue>2</issue> (March <year>2023</year>): <fpage>201</fpage>–<lpage>225</lpage>, <pub-id pub-id-type="doi">10.1177/13634593211014250</pub-id>.<pub-id pub-id-type="pmcid">PMC9923205</pub-id><pub-id pub-id-type="pmid">33962518</pub-id></mixed-citation></ref><ref id="hex70253-bib-0022"><label>22</label><mixed-citation publication-type="journal" id="hex70253-cit-0022">
+<string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Collins</surname>
+</string-name>, <string-name name-style="western">
+<given-names>F.</given-names>
+<surname>Vallières</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>G.</given-names>
+<surname>McDermott</surname>
+</string-name>, “<article-title>The Experiences of Post‐ICU COVID‐19 Survivors: An Existential Perspective Using Interpretative Phenomenological Analysis</article-title>,” <source>Qualitative Health Research</source>
+<volume>33</volume>, no. <issue>7</issue> (<year>2023</year>): <fpage>589</fpage>–<lpage>600</lpage>, <pub-id pub-id-type="doi">10.1177/10497323231164556</pub-id>.<pub-id pub-id-type="pmid">37023365</pub-id>
+<pub-id pub-id-type="pmcid">PMC10083706</pub-id></mixed-citation></ref><ref id="hex70253-bib-0023"><label>23</label><mixed-citation publication-type="journal" id="hex70253-cit-0023">
+<string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Driessen</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Navarro de Souza</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M. E. P.</given-names>
+<surname>Castellanos</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M. V.</given-names>
+<surname>Tuma de Oliveira</surname>
+</string-name>, <string-name name-style="western">
+<given-names>E. L.</given-names>
+<surname>Carvalho</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Hinton</surname>
+</string-name>, “<article-title>Navigating Uncertainties In Critical Care With Covid‐19: A Cross Country Analysis of Patient Narratives From Brazil and the United Kingdom</article-title>,” <source>SSM ‐ Qualitative Research in Health</source>
+<volume>5</volume> (<year>2024</year>): <elocation-id>100363</elocation-id>, <pub-id pub-id-type="doi">10.1016/j.ssmqr.2023.100363</pub-id>.</mixed-citation></ref><ref id="hex70253-bib-0024"><label>24</label><mixed-citation publication-type="journal" id="hex70253-cit-0024">
+<string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Norouzadeh</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Abbasinia</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Z.</given-names>
+<surname>Tayebi</surname>
+</string-name>, et al., “<article-title>Experiences of Patients With COVID‐19 Admitted to the Intensive Care Units: A Qualitative Study</article-title>,” <source>Journal of Patient Experience</source>
+<volume>8</volume> (<year>2021</year>): <elocation-id>23743735211007359</elocation-id>, <pub-id pub-id-type="doi">10.1177/23743735211007359</pub-id>.<pub-id pub-id-type="pmid">34179418</pub-id>
+<pub-id pub-id-type="pmcid">PMC8205342</pub-id></mixed-citation></ref><ref id="hex70253-bib-0025"><label>25</label><mixed-citation publication-type="journal" id="hex70253-cit-0025">
+<string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Onrust</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Visser</surname>
+</string-name>, <string-name name-style="western">
+<given-names>N.</given-names>
+<surname>van Veenendaal</surname>
+</string-name>, et al., “<article-title>Physical, Social, Mental and Spiritual Functioning of COVID‐19 Intensive Care Unit‐Survivors and Their Family Members One Year After Intensive Care Unit‐Discharge: A Prospective Cohort Study</article-title>,” <source>Intensive &amp; Critical Care Nursing</source>
+<volume>75</volume> (<year>2023</year>): <elocation-id>103366</elocation-id>, <pub-id pub-id-type="doi">10.1016/j.iccn.2022.103366</pub-id>.<pub-id pub-id-type="pmid">36528460</pub-id>
+<pub-id pub-id-type="pmcid">PMC9726690</pub-id></mixed-citation></ref><ref id="hex70253-bib-0026"><label>26</label><mixed-citation publication-type="journal" id="hex70253-cit-0026">
+<string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Ganton</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Hubbard</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Kovacs Burns</surname>
+</string-name>, “<article-title>Patients With COVID‐19 Share Their Experiences of Recovering at Home Following Hospital Care Transitions and Discharge Preparation</article-title>,” <source>Health Expectations: An International Journal of Public Participation in Health Care and Health Policy</source>
+<volume>25</volume>, no. <issue>6</issue> (<year>2022</year>): <fpage>2862</fpage>–<lpage>2875</lpage>, <pub-id pub-id-type="doi">10.1111/hex.13595</pub-id>.<pub-id pub-id-type="pmid">36134451</pub-id>
+<pub-id pub-id-type="pmcid">PMC9538741</pub-id></mixed-citation></ref><ref id="hex70253-bib-0027"><label>27</label><mixed-citation publication-type="journal" id="hex70253-cit-0027">
+<string-name name-style="western">
+<given-names>A.</given-names>
+<surname>MacLean</surname>
+</string-name>, <string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Hunt</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Brown</surname>
+</string-name>, et al., “<article-title>Negotiation of Collective and Individual Candidacy for Long Covid Healthcare In the Early Phases of the Covid‐19 Pandemic: Validated, Diverted and Rejected Candidacy</article-title>,” <source>SSM Qualitative Research in Health</source>
+<volume>3</volume> (<year>2023</year>): <elocation-id>100207</elocation-id>, <pub-id pub-id-type="doi">10.1016/j.ssmqr.2022.100207</pub-id>.<pub-id pub-id-type="pmid">36507117</pub-id>
+<pub-id pub-id-type="pmcid">PMC9721377</pub-id></mixed-citation></ref><ref id="hex70253-bib-0028"><label>28</label><mixed-citation publication-type="journal" id="hex70253-cit-0028">
+<string-name name-style="western">
+<given-names>F.</given-names>
+<surname>Verdonk</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Feyaerts</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Badenes</surname>
+</string-name>, et al., “<article-title>Upcoming and Urgent Challenges in Critical Care Research Based on COVID‐19 Pandemic Experience</article-title>,” <source>Anaesthesia, Critical Care &amp; Pain Medicine</source>
+<volume>41</volume>, no. <issue>5</issue> (October <year>2022</year>): <elocation-id>101121</elocation-id>, <pub-id pub-id-type="doi">10.1016/j.accpm.2022.101121</pub-id>.<pub-id pub-id-type="pmcid">PMC9245393</pub-id><pub-id pub-id-type="pmid">35781076</pub-id></mixed-citation></ref><ref id="hex70253-bib-0029"><label>29</label><mixed-citation publication-type="journal" id="hex70253-cit-0029">
+<string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Humphreys</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Kilby</surname>
+</string-name>, <string-name name-style="western">
+<given-names>N.</given-names>
+<surname>Kudiersky</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Copeland</surname>
+</string-name>, “<article-title>Long Covid and the Role of Physical Activity: A Qualitative Study</article-title>,” <source>BMJ Open</source>
+<volume>11</volume>, no. <issue>3</issue> (March <year>2021</year>): <elocation-id>e047632</elocation-id>, <pub-id pub-id-type="doi">10.1136/bmjopen-2020-047632</pub-id>.<pub-id pub-id-type="pmcid">PMC7948149</pub-id><pub-id pub-id-type="pmid">33692189</pub-id></mixed-citation></ref><ref id="hex70253-bib-0030"><label>30</label><mixed-citation publication-type="journal" id="hex70253-cit-0030">
+<string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Shelley</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Hudson</surname>
+</string-name>, <string-name name-style="western">
+<given-names>K. A.</given-names>
+<surname>Mackintosh</surname>
+</string-name>, et al., “<article-title>‘I Live a Kind of Shadow Life’: Individual Experiences of COVID‐19 Recovery and the Impact on Physical Activity Levels</article-title>,” <source>International Journal of Environmental Research and Public Health</source>
+<volume>18</volume>, no. <issue>21</issue> (October <year>2021</year>): <elocation-id>11417</elocation-id>, <pub-id pub-id-type="doi">10.3390/ijerph182111417</pub-id>.<pub-id pub-id-type="pmid">34769934</pub-id>
+<pub-id pub-id-type="pmcid">PMC8583577</pub-id></mixed-citation></ref><ref id="hex70253-bib-0031"><label>31</label><mixed-citation publication-type="miscellaneous" id="hex70253-cit-0031">
+<string-name name-style="western">
+<given-names>F.</given-names>
+<surname>Lowenstein</surname>
+</string-name> I Rested My Way to Recovery From Long Covid. I Urge Others to Do the Same. The Guardian. 21/06/2021, accessed May 14, 2024, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.theguardian.com/commentisfree/2021/jun/21/long-covid-recovery-coronavirus" ext-link-type="uri">https://www.theguardian.com/commentisfree/2021/jun/21/long-covid-recovery-coronavirus</ext-link>.</mixed-citation></ref><ref id="hex70253-bib-0032"><label>32</label><mixed-citation publication-type="journal" id="hex70253-cit-0032">
+<string-name name-style="western">
+<given-names>E.</given-names>
+<surname>Anderson</surname>
+</string-name>, <string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Hunt</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Wild</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Nettleton</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Ziebland</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>MacLean</surname>
+</string-name>, “<article-title>Episodic Disability and Adjustments for Work: The ‘Rehabilitative Work’ of Returning to Employment With Long Covid</article-title>,” <source>Disability &amp; Society</source> (<year>2024</year>): <fpage>1</fpage>–<lpage>23</lpage>, <pub-id pub-id-type="doi">10.1080/09687599.2024.2331722</pub-id>.</mixed-citation></ref><ref id="hex70253-bib-0033"><label>33</label><mixed-citation publication-type="journal" id="hex70253-cit-0033">
+<string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Nielsen</surname>
+</string-name> and <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Yarker</surname>
+</string-name>, “<article-title>It's a Rollercoaster”: The Recovery and Return to Work Experiences of Workers With Long Covid</article-title>,” <source>Work &amp; Stress</source>
+<volume>38</volume>, no. <issue>2</issue> (<year>2024</year>): <fpage>202</fpage>–<lpage>230</lpage>, <pub-id pub-id-type="doi">10.1080/02678373.2023.2286654</pub-id>.</mixed-citation></ref><ref id="hex70253-bib-0034"><label>34</label><mixed-citation publication-type="journal" id="hex70253-cit-0034">
+<string-name name-style="western">
+<given-names>Z.</given-names>
+<surname>Al‐Aly</surname>
+</string-name> and <string-name name-style="western">
+<given-names>E.</given-names>
+<surname>Topol</surname>
+</string-name>, “<article-title>Solving the Puzzle of Long Covid</article-title>,” <source>Science (New York, N.Y.)</source>
+<volume>383</volume>, no. <issue>6685</issue> (February <year>2024</year>): <fpage>830</fpage>–<lpage>832</lpage>, <pub-id pub-id-type="doi">10.1126/science.adl0867</pub-id>.<pub-id pub-id-type="pmid">38386747</pub-id>
+</mixed-citation></ref><ref id="hex70253-bib-0035"><label>35</label><mixed-citation publication-type="journal" id="hex70253-cit-0035">
+<string-name name-style="western">
+<given-names>C. J.</given-names>
+<surname>Atchison</surname>
+</string-name>, <string-name name-style="western">
+<given-names>B.</given-names>
+<surname>Davies</surname>
+</string-name>, <string-name name-style="western">
+<given-names>E.</given-names>
+<surname>Cooper</surname>
+</string-name>, et al., “<article-title>Long‐Term Health Impacts of COVID‐19 Among 242,712 Adults in England</article-title>,” <source>Nature Communications</source>
+<volume>14</volume>, no. <issue>1</issue> (<year>2023</year>): <fpage>6588</fpage>, <pub-id pub-id-type="doi">10.1038/s41467-023-41879-2</pub-id>.<pub-id pub-id-type="pmcid">PMC10598213</pub-id><pub-id pub-id-type="pmid">37875536</pub-id></mixed-citation></ref><ref id="hex70253-bib-0036"><label>36</label><mixed-citation publication-type="journal" id="hex70253-cit-0036">
+<string-name name-style="western">
+<given-names>N. J.</given-names>
+<surname>Spence</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Russell</surname>
+</string-name>, <string-name name-style="western">
+<given-names>E. D.</given-names>
+<surname>Bouldin</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C. M.</given-names>
+<surname>Tumminello</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>T.</given-names>
+<surname>Schwartz</surname>
+</string-name>, “<article-title>Getting Back to Normal? Identity and Role Disruptions Among Adults With Long Covid</article-title>,” <source>Sociology of Health &amp; Illness</source>
+<volume>45</volume>, no. <issue>4</issue> (May <year>2023</year>): <fpage>914</fpage>–<lpage>934</lpage>, <pub-id pub-id-type="doi">10.1111/1467-9566.13628</pub-id>.<pub-id pub-id-type="pmid">36880317</pub-id>
+</mixed-citation></ref><ref id="hex70253-bib-0037"><label>37</label><mixed-citation publication-type="journal" id="hex70253-cit-0037">
+<string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Fang</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S. A.</given-names>
+<surname>Baz</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Sheard</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>J. D.</given-names>
+<surname>Carpentieri</surname>
+</string-name>, “‘<article-title>I Am Just a Shadow of Who I Used to Be’‐Exploring Existential Loss of Identity Among People Living With Chronic Conditions of Long Covid</article-title>,” <source>Sociology of Health &amp; Illness</source>
+<volume>46</volume>, no. <issue>1</issue> (<year>2024</year>): <fpage>59</fpage>–<lpage>77</lpage>, <pub-id pub-id-type="doi">10.1111/1467-9566.13690</pub-id>.<pub-id pub-id-type="pmid">37391994</pub-id>
+</mixed-citation></ref><ref id="hex70253-bib-0038"><label>38</label><mixed-citation publication-type="journal" id="hex70253-cit-0038">
+<string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Harrison</surname>
+</string-name>, <string-name name-style="western">
+<given-names>T.</given-names>
+<surname>Rhodes</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Lancaster</surname>
+</string-name>, “<article-title>Constitution of Long Covid Illness, Patienthood and Recovery: A Critical Synthesis of Qualitative Studies</article-title>,” <source>BMJ Open</source>
+<volume>14</volume>, no. <issue>3</issue> (March <year>2024</year>): <elocation-id>e083340</elocation-id>, <pub-id pub-id-type="doi">10.1136/bmjopen-2023-083340</pub-id>.<pub-id pub-id-type="pmcid">PMC10982801</pub-id><pub-id pub-id-type="pmid">38548364</pub-id></mixed-citation></ref><ref id="hex70253-bib-0039"><label>39</label><mixed-citation publication-type="journal" id="hex70253-cit-0039">
+<string-name name-style="western">
+<given-names>R. L.</given-names>
+<surname>Knight</surname>
+</string-name>, <string-name name-style="western">
+<given-names>K. A.</given-names>
+<surname>Mackintosh</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Hudson</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Shelley</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Z. L.</given-names>
+<surname>Saynor</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>M. A.</given-names>
+<surname>McNarry</surname>
+</string-name>, “<article-title>Battling the Unknown: Using Composite Vignettes to Portray Lived Experiences of COVID‐19 and Long‐Covid</article-title>,” <source>PLoS One</source>
+<volume>18</volume>, no. <issue>4</issue> (<year>2023</year>): <elocation-id>e0284710</elocation-id>, <pub-id pub-id-type="doi">10.1371/journal.pone.0284710</pub-id>.<pub-id pub-id-type="pmid">37099534</pub-id>
+<pub-id pub-id-type="pmcid">PMC10132598</pub-id></mixed-citation></ref><ref id="hex70253-bib-0040"><label>40</label><mixed-citation publication-type="journal" id="hex70253-cit-0040">
+<string-name name-style="western">
+<given-names>I. T.</given-names>
+<surname>Coyne</surname>
+</string-name>, “<article-title>Sampling In Qualitative Research. Purposeful and Theoretical Sampling; Merging or Clear Boundaries?</article-title>,” <source>Journal of Advanced Nursing</source>
+<volume>26</volume>, no. <issue>3</issue> (<year>1997</year>): <fpage>623</fpage>–<lpage>630</lpage>, <pub-id pub-id-type="doi">10.1046/j.1365-2648.1997.t01-25-00999.x</pub-id>.<pub-id pub-id-type="pmid">9378886</pub-id>
+</mixed-citation></ref><ref id="hex70253-bib-0041"><label>41</label><mixed-citation publication-type="journal" id="hex70253-cit-0041">
+<string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Sokol</surname>
+</string-name>, <string-name name-style="western">
+<given-names>E.</given-names>
+<surname>Fisher</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Hill</surname>
+</string-name>. “<article-title>Identifying Those Whom Health Promotion Hardly Reaches: A Systematic Review</article-title>,” <source>Evaluation &amp; the Health Professions</source>
+<volume>38</volume>, no. <issue>4</issue> (<year>2015</year>): <fpage>518</fpage>–<lpage>537</lpage>, <pub-id pub-id-type="doi">10.1177/0163278715605883</pub-id>.<pub-id pub-id-type="pmid">26405265</pub-id>
+</mixed-citation></ref><ref id="hex70253-bib-0042"><label>42</label><mixed-citation publication-type="book" id="hex70253-cit-0042">
+<string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Pope</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Ziebland</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>N.</given-names>
+<surname>Mays</surname>
+</string-name>, “<part-title>Analysing Qualitative Data</part-title>.” in <source>Qualitative Research in Health Care</source>, ed. <person-group person-group-type="editor">
+<string-name name-style="western">
+<given-names>N.</given-names>
+<surname>Mays</surname>
+</string-name>
+</person-group>. (<publisher-name>Wiley‐Blackwell</publisher-name>, <year>2020</year>). <edition>Fourth Edition ed</edition>.</mixed-citation></ref><ref id="hex70253-bib-0043"><label>43</label><mixed-citation publication-type="journal" id="hex70253-cit-0043">
+<string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Ziebland</surname>
+</string-name> and <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>McPherson</surname>
+</string-name>, “<article-title>Making Sense of Qualitative Data Analysis: An Introduction With Illustrations From DIPEx (Personal Experiences of Health and Illness)</article-title>,” <source>Medical Education</source>
+<volume>40</volume>, no. <issue>5</issue> (May <year>2006</year>): <fpage>405</fpage>–<lpage>414</lpage>, <pub-id pub-id-type="doi">10.1111/j.1365-2929.2006.02467.x</pub-id>.<pub-id pub-id-type="pmid">16635119</pub-id>
+</mixed-citation></ref><ref id="hex70253-bib-0044"><label>44</label><mixed-citation publication-type="book" id="hex70253-cit-0044">
+<string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Radley</surname>
+</string-name>, <source>Worlds of Illness. Biographical and Cultural Perspectives on Health and Disease</source> (<publisher-name>Routledge</publisher-name>, <year>1993</year>).</mixed-citation></ref><ref id="hex70253-bib-0045"><label>45</label><mixed-citation publication-type="journal" id="hex70253-cit-0045">
+<string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Radley</surname>
+</string-name>, “<article-title>The Aesthetics of Illness: Narrative, Horror and the Sublime</article-title>,” <source>Sociology of Health &amp; Illness</source>
+<volume>21</volume>, no. <issue>6</issue> (<year>1999</year>): <fpage>778</fpage>–<lpage>796</lpage>.</mixed-citation></ref><ref id="hex70253-bib-0046"><label>46</label><mixed-citation publication-type="journal" id="hex70253-cit-0046">
+<string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Radley</surname>
+</string-name> and <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Billig</surname>
+</string-name>, “<article-title>Accounts of Health and Illness: Dilemmas and Representations</article-title>,” <source>Sociology of Health &amp; Illness</source>
+<volume>18</volume>, no. <issue>2</issue> (<year>1996</year>): <fpage>220</fpage>–<lpage>240</lpage>.</mixed-citation></ref><ref id="hex70253-bib-0047"><label>47</label><mixed-citation publication-type="journal" id="hex70253-cit-0047">
+<string-name name-style="western">
+<given-names>B.</given-names>
+<surname>Figueiredo</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Sheahan</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Luo</surname>
+</string-name>, et al., “<article-title>Journey Mapping Long Covid: Agency and Social Support for Long‐Hauling</article-title>,” <source>Social Science &amp; Medicine (1982)</source>
+<volume>340</volume> (<year>2024</year>): <elocation-id>116485</elocation-id>, <pub-id pub-id-type="doi">10.1016/j.socscimed.2023.116485</pub-id>.<pub-id pub-id-type="pmid">38056307</pub-id>
+</mixed-citation></ref><ref id="hex70253-bib-0048"><label>48</label><mixed-citation publication-type="journal" id="hex70253-cit-0048">
+<string-name name-style="western">
+<given-names>C. M.</given-names>
+<surname>Thompson</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Babu</surname>
+</string-name>, <string-name name-style="western">
+<given-names>E.</given-names>
+<surname>Gerlikovski</surname>
+</string-name>, et al, “<article-title>Living with Long Covid: A Longitudinal Interview Study of Individuals' Communicative Resilience Through the “Long Haul</article-title>,” <source>Health Communication</source>
+<volume>39</volume>, no. <issue>10</issue> (<year>2023</year>): <fpage>2135</fpage>–<lpage>2151</lpage>, <pub-id pub-id-type="doi">10.1080/10410236.2023.2257941</pub-id>.<pub-id pub-id-type="pmid">37733066</pub-id>
+</mixed-citation></ref><ref id="hex70253-bib-0049"><label>49</label><mixed-citation publication-type="journal" id="hex70253-cit-0049">
+<string-name name-style="western">
+<given-names>P.</given-names>
+<surname>Page</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Simpson</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Reynolds</surname>
+</string-name>, “<article-title>Constructing a Grounded Theory of Critical Illness Survivorship: The Dualistic Worlds of Survivors and Family Members</article-title>,” <source>Journal of Clinical Nursing</source>
+<volume>28</volume>, no. <issue>3–4</issue> (February <year>2019</year>): <fpage>603</fpage>–<lpage>614</lpage>, <pub-id pub-id-type="doi">10.1111/jocn.14655</pub-id>.<pub-id pub-id-type="pmid">30182420</pub-id>
+</mixed-citation></ref><ref id="hex70253-bib-0050"><label>50</label><mixed-citation publication-type="journal" id="hex70253-cit-0050">
+<string-name name-style="western">
+<given-names>F.</given-names>
+<surname>Callard</surname>
+</string-name> and <string-name name-style="western">
+<given-names>E.</given-names>
+<surname>Perego</surname>
+</string-name>, “<article-title>How and Why Patients Made Long Covid</article-title>,” <source>Social Science &amp; Medicine (1982)</source>
+<volume>268</volume> (January <year>2021</year>): <elocation-id>113426</elocation-id>, <pub-id pub-id-type="doi">10.1016/j.socscimed.2020.113426</pub-id>.<pub-id pub-id-type="pmid">33199035</pub-id>
+<pub-id pub-id-type="pmcid">PMC7539940</pub-id></mixed-citation></ref></ref-list></back></article></pmc-articleset>

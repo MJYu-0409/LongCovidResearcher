@@ -1,0 +1,35 @@
+{
+  "pmcid": "PMC12385743",
+  "pmid": "40863220",
+  "doi": "10.3390/diseases13080246",
+  "title": "Persistent Inflammation, Maladaptive Remodeling, and Fibrosis in the Kidney Following Long COVID-like MHV-1 Mouse Model.",
+  "abstract": "BACKGROUND: Accumulating evidence indicates that SARS-CoV-2 infection results in long-term multiorgan complications, with the kidney being a primary target. This study aimed to characterize the long-term transcriptomic changes in the kidney following coronavirus infection using a murine model of MHV-1-induced SARS-like illness and to evaluate the therapeutic efficacy of SPIKENET (SPK).\nMETHODS: A/J mice were infected with MHV-1. Renal tissues were collected and subjected to immunofluorescence analysis and Next Generation RNA Sequencing to identify differentially expressed genes associated with acute and chronic infection. Bioinformatic analyses, including PCA, volcano plots, and GO/KEGG pathway enrichment, were performed. A separate cohort received SPK treatment, and comparative transcriptomic profiling was conducted. Gene expression profile was further confirmed using real-time PCR.\nRESULTS: Acute infection showed the upregulation of genes involved in inflammation and fibrosis. Long-term MHV-1 infection led to the sustained upregulation of genes involved in muscle regeneration, cytoskeletal remodeling, and fibrotic responses. Notably, both expression and variability of SLC22 and SLC22A8, key proximal tubule transporters, were reduced, suggesting a loss of segment-specific identity. Further, SLC12A1, a critical regulator of sodium reabsorption and blood pressure, was downregulated and is associated with the onset of polyuria and hydronephrosis. SLC transporters exhibited expression patterns consistent with tubular dysfunction and inflammation. These findings suggest aberrant activation of myogenic pathways and structural proteins in renal tissues, consistent with a pro-fibrotic phenotype. In contrast, SPK treatment reversed the expression of most genes, thereby restoring the gene profiles to those observed in control mice.\nCONCLUSIONS: MHV-1-induced long COVID is associated with persistent transcriptional reprogramming in the kidney, indicative of chronic inflammation, cytoskeletal dysregulation, and fibrogenesis. SPK demonstrates robust therapeutic potential by normalizing these molecular signatures and preventing long-term renal damage. These findings underscore the relevance of the MHV-1 model and support further investigation of SPK as a candidate therapy for COVID-19-associated renal sequelae.",
+  "authors": [
+    "Rajalakshmi Ramamoorthy",
+    "Anna Rosa Speciale",
+    "Emily M West",
+    "Hussain Hussain",
+    "Nila Elumalai",
+    "Klaus Erich Schmitz Abe",
+    "Madesh Chinnathevar Ramesh",
+    "Pankaj B Agrawal",
+    "Arumugam R Jayakumar",
+    "Michael J Paidas"
+  ],
+  "journal": "Diseases (Basel, Switzerland)",
+  "pub_year": "2025",
+  "pub_month": "Aug",
+  "pub_day": "05",
+  "keywords": [
+    "COVID",
+    "MHV-1 infection",
+    "differential gene expression",
+    "fibrosis",
+    "inflammation",
+    "kidney damage",
+    "mRNA sequencing"
+  ],
+  "article_types": [
+    "Journal Article"
+  ]
+}

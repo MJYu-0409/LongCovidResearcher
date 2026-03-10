@@ -1,0 +1,1804 @@
+<?xml version="1.0"  ?><!DOCTYPE pmc-articleset PUBLIC "-//NLM//DTD ARTICLE SET 2.0//EN" "https://dtd.nlm.nih.gov/ncbi/pmc/articleset/nlm-articleset-2.0.dtd"><pmc-articleset><article id="jah310566" xml:lang="en" article-type="review-article" dtd-version="1.4"><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">J Am Heart Assoc</journal-id><journal-id journal-id-type="iso-abbrev">J Am Heart Assoc</journal-id><journal-id journal-id-type="pmc-domain-id">1888</journal-id><journal-id journal-id-type="pmc-domain">jaha</journal-id><journal-id journal-id-type="publisher-id">JAH3</journal-id><journal-title-group><journal-title>Journal of the American Heart Association: Cardiovascular and Cerebrovascular Disease</journal-title></journal-title-group><issn pub-type="epub">2047-9980</issn><publisher><publisher-name>Wiley</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC12074713</article-id><article-id pub-id-type="pmcid-ver">PMC12074713.1</article-id><article-id pub-id-type="pmcaid">12074713</article-id><article-id pub-id-type="pmcaiid">12074713</article-id><article-id pub-id-type="pmid">39895557</article-id><article-id pub-id-type="doi">10.1161/JAHA.124.036752</article-id><article-id pub-id-type="publisher-id">JAH310566</article-id><article-id pub-id-type="other">JAHA/2024/036752</article-id><article-version article-version-type="pmc-version">1</article-version><article-categories><subj-group subj-group-type="overline"><subject>Contemporary Review</subject></subj-group><subj-group subj-group-type="heading"><subject>Contemporary Review</subject></subj-group></article-categories><title-group><article-title>Cerebral Blood Flow in Orthostatic Intolerance</article-title><alt-title alt-title-type="right-running-head">Cerebral Blood Flow in <styled-content style="fixed-case" toggle="no">OI</styled-content>
+</alt-title><alt-title alt-title-type="left-running-head">Khan et al</alt-title></title-group><contrib-group><contrib id="jah310566-cr-0001" contrib-type="author"><name name-style="western"><surname>Khan</surname><given-names initials="MS">Muhammad Shahzeb</given-names></name><degrees>MD, MSc</degrees><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0003-1250-6351</contrib-id><xref rid="jah310566-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="jah310566-note-0001" ref-type="author-notes">
+<sup>*</sup>
+</xref></contrib><contrib id="jah310566-cr-0002" contrib-type="author"><name name-style="western"><surname>Miller</surname><given-names initials="AJ">Amanda J.</given-names></name><degrees>PhD</degrees><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-6462-1039</contrib-id><xref rid="jah310566-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref><xref rid="jah310566-note-0001" ref-type="author-notes">
+<sup>*</sup>
+</xref></contrib><contrib id="jah310566-cr-0003" contrib-type="author"><name name-style="western"><surname>Ejaz</surname><given-names initials="A">Arooba</given-names></name><degrees>MBBS</degrees><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0003-0195-0000</contrib-id><xref rid="jah310566-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref></contrib><contrib id="jah310566-cr-0004" contrib-type="author"><name name-style="western"><surname>Molinger</surname><given-names initials="J">Jeroen</given-names></name><degrees>MS</degrees><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0003-0608-3305</contrib-id><xref rid="jah310566-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="jah310566-aff-0004" ref-type="aff">
+<sup>4</sup>
+</xref></contrib><contrib id="jah310566-cr-0005" contrib-type="author"><name name-style="western"><surname>Goyal</surname><given-names initials="P">Parag</given-names></name><degrees>MD, MSc</degrees><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0001-7474-3737</contrib-id><xref rid="jah310566-aff-0005" ref-type="aff">
+<sup>5</sup>
+</xref></contrib><contrib id="jah310566-cr-0006" contrib-type="author"><name name-style="western"><surname>MacLeod</surname><given-names initials="DB">David B.</given-names></name><degrees>MD</degrees><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-5989-3961</contrib-id><xref rid="jah310566-aff-0004" ref-type="aff">
+<sup>4</sup>
+</xref></contrib><contrib id="jah310566-cr-0007" contrib-type="author"><name name-style="western"><surname>Swavely</surname><given-names initials="A">Ashley</given-names></name><degrees>MS</degrees><xref rid="jah310566-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="jah310566-cr-0008" contrib-type="author"><name name-style="western"><surname>Wilson</surname><given-names initials="E">Elyse</given-names></name><degrees>MS</degrees><xref rid="jah310566-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="jah310566-cr-0009" contrib-type="author"><name name-style="western"><surname>Pergola</surname><given-names initials="M">Meghan</given-names></name><degrees>MPH</degrees><xref rid="jah310566-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="jah310566-cr-0010" contrib-type="author"><name name-style="western"><surname>Tandri</surname><given-names initials="H">Harikrishna</given-names></name><degrees>MD</degrees><xref rid="jah310566-aff-0006" ref-type="aff">
+<sup>6</sup>
+</xref></contrib><contrib id="jah310566-cr-0011" contrib-type="author"><name name-style="western"><surname>Mills</surname><given-names initials="CF">Camille Frazier</given-names></name><degrees>MD</degrees><xref rid="jah310566-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="jah310566-cr-0012" contrib-type="author"><name name-style="western"><surname>Raj</surname><given-names initials="SR">Satish R</given-names></name><degrees>MD, MSCI</degrees><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-5890-3785</contrib-id><xref rid="jah310566-aff-0007" ref-type="aff">
+<sup>7</sup>
+</xref></contrib><contrib id="jah310566-cr-0013" contrib-type="author" corresp="yes"><name name-style="western"><surname>Fudim</surname><given-names initials="M">Marat</given-names></name><degrees>MD</degrees><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-8671-7007</contrib-id><xref rid="jah310566-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="jah310566-aff-0008" ref-type="aff">
+<sup>8</sup>
+</xref><address><email>marat.fudim@duke.edu</email></address></contrib></contrib-group><aff id="jah310566-aff-0001">
+<label>
+<sup>1</sup>
+</label>
+<named-content content-type="organisation-division">Department of Medicine</named-content>
+<institution>Duke University Medical Center Durham</institution>
+<city>Durham</city>
+<named-content content-type="country-part">NC</named-content>
+<country country="US">USA</country>
+</aff><aff id="jah310566-aff-0002">
+<label>
+<sup>2</sup>
+</label>
+<named-content content-type="organisation-division">Department of Physical Therapy</named-content>
+<institution>Lebanon Valley College</institution>
+<city>Annville</city>
+<named-content content-type="country-part">PA</named-content>
+<country country="US">USA</country>
+</aff><aff id="jah310566-aff-0003">
+<label>
+<sup>3</sup>
+</label>
+<named-content content-type="organisation-division">Department of Medicine</named-content>
+<institution>Dow University of Health Sciences</institution>
+<city>Karachi</city>
+<country country="PK">Pakistan</country>
+</aff><aff id="jah310566-aff-0004">
+<label>
+<sup>4</sup>
+</label>
+<named-content content-type="organisation-division">Department of Anesthesia</named-content>
+<institution>Duke University Medical Center</institution>
+<city>Durham</city>
+<named-content content-type="country-part">NC</named-content>
+<country country="US">USA</country>
+</aff><aff id="jah310566-aff-0005">
+<label>
+<sup>5</sup>
+</label>
+<named-content content-type="organisation-division">Department of Medicine</named-content>
+<institution>Weill Cornell Medicine</institution>
+<city>New York</city>
+<named-content content-type="country-part">NY</named-content>
+<country country="US">USA</country>
+</aff><aff id="jah310566-aff-0006">
+<label>
+<sup>6</sup>
+</label>
+<named-content content-type="organisation-division">Department of Medicine</named-content>
+<institution>Vanderbilt University Medical Center</institution>
+<city>Nashville</city>
+<named-content content-type="country-part">TN</named-content>
+<country country="US">USA</country>
+</aff><aff id="jah310566-aff-0007">
+<label>
+<sup>7</sup>
+</label>
+<named-content content-type="organisation-division">Department of Cardiac Sciences</named-content>
+<institution>Libin Cardiovascular Institute, University of Calgary</institution>
+<city>Calgary</city>
+<named-content content-type="country-part">AB</named-content>
+<country country="CA">Canada</country>
+</aff><aff id="jah310566-aff-0008">
+<label>
+<sup>8</sup>
+</label>
+<institution>Duke Clinical Research Institute</institution>
+<city>Durham</city>
+<named-content content-type="country-part">NC</named-content>
+<country country="US">USA</country>
+</aff><author-notes><corresp id="correspondenceTo">
+<label>*</label>
+Correspondence to: Marat Fudim, MD, MHS, Duke University Medical Center, 2301 Erwin Road, Durham, North Carolina 27710. Email: <email>marat.fudim@duke.edu</email>
+<break/>
+</corresp><fn id="jah310566-note-0001"><label>*</label><p>M. Shahzeb Khan and A. Miller are co‐first authors.</p></fn></author-notes><pub-date pub-type="epub"><day>03</day><month>2</month><year>2025</year></pub-date><pub-date pub-type="collection"><day>04</day><month>2</month><year>2025</year></pub-date><volume>14</volume><issue seq="480">3</issue><issue-id pub-id-type="pmc-issue-id">488519</issue-id><issue-id pub-id-type="doi">10.1002/jah3.v14.3</issue-id><elocation-id>e036752</elocation-id><history><date date-type="received"><day>07</day><month>6</month><year>2024</year></date><date date-type="accepted"><day>19</day><month>12</month><year>2024</year></date></history><pub-history><event event-type="pmc-release"><date><day>04</day><month>02</month><year>2025</year></date></event><event event-type="pmc-live"><date><day>14</day><month>05</month><year>2025</year></date></event><event event-type="pmc-last-change"><date iso-8601-date="2025-05-14 17:25:13.580"><day>14</day><month>05</month><year>2025</year></date></event></pub-history><permissions><copyright-statement content-type="article-copyright">© 2025 The Author(s). Published on behalf of the American Heart Association, Inc., by Wiley.</copyright-statement><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbyncndlicense">https://creativecommons.org/licenses/by-nc-nd/4.0/</ali:license_ref><license-p>This is an open access article under the terms of the <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/">http://creativecommons.org/licenses/by-nc-nd/4.0/</ext-link> License, which permits use and distribution in any medium, provided the original work is properly cited, the use is non‐commercial and no modifications or adaptations are made.</license-p></license></permissions><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pmc-pdf" xlink:href="JAH3-14-e036752.pdf"/><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pdf" xlink:href="file:JAH3-14-e036752.pdf"/><abstract><p>Cerebral blood flow (CBF) is vital for delivering oxygen and nutrients to the brain. Many forms of orthostatic intolerance (OI) involve impaired regulation of CBF in the upright posture, which results in disabling symptoms that decrease quality of life. Because CBF is not easy to measure, rises in heart rate or drops in blood pressure are used as proxies for abnormal CBF. These result in diagnoses such as postural orthostatic tachycardia syndrome and orthostatic hypotension. However, in many other OI syndromes such as myalgic encephalomyelitis/chronic fatigue syndrome and long COVID, heart rate and blood pressure are frequently normal despite significant drops in CBF. This often leads to the incorrect conclusion that there is nothing hemodynamically abnormal in these patients and thus no explanation or treatment is needed. There is a need to measure CBF, as orthostatic hypoperfusion is the shared pathophysiology for all forms of OI. In this review, we examine the literature studying CBF dysfunction in various syndromes with OI and evaluate methods of measuring CBF including transcranial Doppler ultrasound, extracranial cerebral blood flow ultrasound, near infrared spectroscopy, and wearable devices.</p></abstract><kwd-group kwd-group-type="author-generated"><kwd id="jah310566-kwd-0001">cerebral blood flow</kwd><kwd id="jah310566-kwd-0002">long COVID</kwd><kwd id="jah310566-kwd-0003">ME/CFS</kwd><kwd id="jah310566-kwd-0004">orthostatic intolerance</kwd><kwd id="jah310566-kwd-0005">POTS</kwd></kwd-group><kwd-group kwd-group-type="subject-categories"><title>Subject Categories</title><kwd>Autonomic Nervous System</kwd></kwd-group><counts><fig-count count="4"/><table-count count="2"/><page-count count="13"/><word-count count="9600"/></counts><custom-meta-group><custom-meta><meta-name>pmc-status-qastatus</meta-name><meta-value>0</meta-value></custom-meta><custom-meta><meta-name>pmc-status-live</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-status-embargo</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-status-released</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-access</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-legally-suppressed</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-pdf</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-supplement</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-pdf-only</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-suppress-copyright</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-real-version</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-scanned-article</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-in-epmc</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-license-ref</meta-name><meta-value>CC BY-NC-ND</meta-value></custom-meta><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>04 February 2025</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:6.5.5 mode:remove_FC converted:30.04.2025</meta-value></custom-meta></custom-meta-group></article-meta><notes><fn-group id="jah310566-ntgp-0001"><fn id="jah310566-note-0002"><p>For Sources of Funding and Disclosures, see page 11 and 12.</p></fn><fn id="jah310566-note-0003"><p>This manuscript was sent to Tochukwu M. Okwuosa, DO, Associate Editor, for review by expert referees, editorial decision, and final disposition.</p></fn></fn-group></notes></front><body id="jah310566-body-0001"><def-list list-content="abbreviations" id="jah310566-dl-0001"><title>Nonstandard Abbreviations and Acronyms</title><def-item><term id="jah310566-li-0001">CBF</term><def id="jah310566-li-0002"><p>cerebral blood flow</p></def></def-item><def-item><term id="jah310566-li-0003">CBv</term><def id="jah310566-li-0004"><p>cerebral blood velocity</p></def></def-item><def-item><term id="jah310566-li-0005">CO</term><def id="jah310566-li-0006"><p>cardiac output</p></def></def-item><def-item><term id="jah310566-li-0007">CPP</term><def id="jah310566-li-0008"><p>cerebral perfusion pressure</p></def></def-item><def-item><term id="jah310566-li-0009">MCA</term><def id="jah310566-li-0010"><p>middle cerebral artery</p></def></def-item><def-item><term id="jah310566-li-0011">ME/CFS</term><def id="jah310566-li-0012"><p>myalgic encephalomyelitis/chronic fatigue syndrome</p></def></def-item><def-item><term id="jah310566-li-0013">NIRS</term><def id="jah310566-li-0014"><p>near‐infrared spectroscopy</p></def></def-item><def-item><term id="jah310566-li-0015">OCHOS</term><def id="jah310566-li-0016"><p>orthostatic cerebral hypoperfusion syndrome</p></def></def-item><def-item><term id="jah310566-li-0017">OH</term><def id="jah310566-li-0018"><p>orthostatic hypotension</p></def></def-item><def-item><term id="jah310566-li-0019">OI</term><def id="jah310566-li-0020"><p>orthostatic intolerance</p></def></def-item><def-item><term id="jah310566-li-0021">POTS</term><def id="jah310566-li-0022"><p>postural orthostatic tachycardia syndrome</p></def></def-item><def-item><term id="jah310566-li-0023">TCD</term><def id="jah310566-li-0024"><p>transcranial Doppler</p></def></def-item></def-list><p>Orthostatic intolerance (OI) is a set of chronic syndromes linked to dysfunction of the autonomic nervous system or dysautonomia. OI includes several syndromes such as postural orthostatic tachycardia syndrome (POTS), syncope, and orthostatic hypotension (OH).<xref rid="jah310566-bib-0001" ref-type="bibr">
+<sup>1</sup>
+</xref> There is a large overlap between OI and myalgic encephalomyelitis/chronic fatigue syndrome (ME/CFS).<xref rid="jah310566-bib-0002" ref-type="bibr">
+<sup>2</sup>
+</xref> While the pathophysiology is not well understood, all these syndromes experience excessive drops in cerebral blood flow (CBF) leading to symptoms including lightheadedness, fatigue, brain fog, and syncope.<xref rid="jah310566-bib-0003" ref-type="bibr">
+<sup>3</sup>
+</xref> Because of the debilitating nature of the symptoms, OI puts financial strain on economies by decreasing the workforce and increasing health care costs.<xref rid="jah310566-bib-0004" ref-type="bibr">
+<sup>4</sup>
+</xref> For example, the quality of life for people with OI is similar to that of people with congestive heart failure and chronic obstructive pulmonary disease.<xref rid="jah310566-bib-0005" ref-type="bibr">
+<sup>5</sup>
+</xref>
+</p><p>Most people with OI develop symptoms after an acute viral illness or injury.<xref rid="jah310566-bib-0001" ref-type="bibr">
+<sup>1</sup>
+</xref>, <xref rid="jah310566-bib-0004" ref-type="bibr">
+<sup>4</sup>
+</xref> Since viral illnesses are the leading trigger of OI, it is unsurprising to the autonomic field that the COVID‐19 pandemic has caused an increase in cases of OI.<xref rid="jah310566-bib-0006" ref-type="bibr">
+<sup>6</sup>
+</xref>, <xref rid="jah310566-bib-0007" ref-type="bibr">
+<sup>7</sup>
+</xref> Long COVID, or the postacute sequelae of SARS‐CoV‐2 infection, describes people with chronic symptoms that persist following an acute infection of SARS‐CoV‐2.<xref rid="jah310566-bib-0008" ref-type="bibr">
+<sup>8</sup>
+</xref> Symptoms of long COVID that overlap with OI include fatigue, dyspnea, headache, palpitations, and brain fog.<xref rid="jah310566-bib-0009" ref-type="bibr">
+<sup>9</sup>
+</xref> According to the National Center for Health Statistics, the US Census Bureau, and the CDC, 6.8% of American adults are currently experiencing long COVID as of February 2024.<xref rid="jah310566-bib-0010" ref-type="bibr">
+<sup>10</sup>
+</xref>
+</p><p>Two thirds of people with long COVID have symptoms of OI and moderate to severe autonomic dysfunction.<xref rid="jah310566-bib-0011" ref-type="bibr">
+<sup>11</sup>
+</xref>, <xref rid="jah310566-bib-0012" ref-type="bibr">
+<sup>12</sup>
+</xref> OI has been labeled an epidemic since the mid‐1990s and yet is still not well understood.<xref rid="jah310566-bib-0013" ref-type="bibr">
+<sup>13</sup>
+</xref> Given the burden long COVID places on economies as a mass‐disabling event with high health care usage well beyond the acute illness phase,<xref rid="jah310566-bib-0014" ref-type="bibr">
+<sup>14</sup>
+</xref> it is pressing now more than ever to understand physiological mechanisms that contribute to OI. Long COVID is a multisystem disorder with various manifestations in the immune, cardiopulmonary, and nervous systems.<xref rid="jah310566-bib-0007" ref-type="bibr">
+<sup>7</sup>
+</xref> One finding is that OI and long COVID share similar dysregulation in CBF, which may point to a shared pathogenesis.<xref rid="jah310566-bib-0015" ref-type="bibr">
+<sup>15</sup>
+</xref>
+</p><p>In this review, we evaluate the use of CBF and its surrogates as a diagnostic metric for the evaluation of symptoms in OI and explore available measurement techniques. We focus on techniques that have been evaluated during orthostatic testing, including transcranial Doppler (TCD) ultrasound, extracranial carotid ultrasound, near‐infrared spectroscopy (NIRS), and new wearable devices.</p><sec id="jah310566-sec-0002"><title>Importance of CBF Regulation</title><p>Despite weighing &lt;2% of an individual's total body weight, the human brain uses 20% of the body's oxygen due to remarkably active cerebral metabolism.<xref rid="jah310566-bib-0016" ref-type="bibr">
+<sup>16</sup>
+</xref>, <xref rid="jah310566-bib-0017" ref-type="bibr">
+<sup>17</sup>
+</xref> Energy production in the brain, which is primarily driven by ATP, relies on the oxidative metabolism of glucose in resting states.<xref rid="jah310566-bib-0018" ref-type="bibr">
+<sup>18</sup>
+</xref> Since the brain cannot significantly increase oxygen extraction from blood, oxygen delivery via CBF must be maintained to meet these high oxygen demands and ensure normal brain function.<xref rid="jah310566-bib-0016" ref-type="bibr">
+<sup>16</sup>
+</xref>, <xref rid="jah310566-bib-0018" ref-type="bibr">
+<sup>18</sup>
+</xref>
+</p></sec><sec id="jah310566-sec-0003"><title>Physiology of CBF Regulation</title><p>CBF regulation is primarily mediated by the autonomic nervous system, which is responsible for maintaining stable cardiac output (CO), by means of baroreceptors located in the aortic arch and carotid sinuses.<xref rid="jah310566-bib-0017" ref-type="bibr">
+<sup>17</sup>
+</xref> Changes in blood flow regulation with orthostasis are summarized in Figure <xref rid="jah310566-fig-0001" ref-type="fig">1</xref>. In healthy humans, upon orthostasis, gravity pulls blood into the lower body, causing an instantaneous drop in preload, which then drops CO and thus CBF.<xref rid="jah310566-bib-0017" ref-type="bibr">
+<sup>17</sup>
+</xref> This causes the brief dizziness many people feel immediately upon standing. The drops in CO and CBF are detected by the baroreceptors, which respond by activating the sympathetic nervous system to trigger vasoconstriction and an increase in heart rate to bring CO back to supine values in healthy humans.<xref rid="jah310566-bib-0017" ref-type="bibr">
+<sup>17</sup>
+</xref>, <xref rid="jah310566-bib-0019" ref-type="bibr">
+<sup>19</sup>
+</xref> Dysfunction of various parts of the autonomic nervous system is the disease process that causes the symptomology of OI.<xref rid="jah310566-bib-0020" ref-type="bibr">
+<sup>20</sup>
+</xref> More specifically, in OI, venous pooling increases due to impairment of the skeletal muscle pump<xref rid="jah310566-bib-0021" ref-type="bibr">
+<sup>21</sup>
+</xref> and decreased splanchnic vasoconstriction.<xref rid="jah310566-bib-0022" ref-type="bibr">
+<sup>22</sup>
+</xref> Central blood volume, CO, and stroke volume decrease when upright in OI, which increases sympathetic nervous system activation and manifests as tachycardia and increased catecholamine release.<xref rid="jah310566-bib-0022" ref-type="bibr">
+<sup>22</sup>
+</xref>, <xref rid="jah310566-bib-0023" ref-type="bibr">
+<sup>23</sup>
+</xref>
+</p><fig position="float" fig-type="Figure" id="jah310566-fig-0001" orientation="portrait"><label>Figure 1</label><caption><title>Physiological mechanisms involved in regulating blood flow with orthostasis (left) and order of activation of physiological changes that occur with standing (right).</title></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-1" orientation="portrait" xlink:href="JAH3-14-e036752-g001.jpg"/></fig><p>CO is then reflected in cerebral perfusion pressure (CPP). CPP is the pressure gradient present at the hydrostatic level of the head that propels blood flow into the brain.<xref rid="jah310566-bib-0024" ref-type="bibr">
+<sup>24</sup>
+</xref> CPP is traditionally thought of as the difference between mean arterial pressure and intracranial pressure (CPP=mean arterial pressure – intracranial pressure).<xref rid="jah310566-bib-0024" ref-type="bibr">
+<sup>24</sup>
+</xref> However, the CPP=mean arterial pressure – intracranial pressure equation only holds true in the supine posture when the head is not higher than the heart. The blood pressure (BP) that reaches the level of the head declines in an upright posture because hydrostatic pressure increases intracranial pressure and in turn lowers CPP.<xref rid="jah310566-bib-0025" ref-type="bibr">
+<sup>25</sup>
+</xref> If a person is upright, the brain is materially higher than the heart, and the hydrostatic effects of gravity on intracranial CPP must be considered as well.<xref rid="jah310566-bib-0025" ref-type="bibr">
+<sup>25</sup>
+</xref> The Bernoulli equation is key to understanding vascular physiology by connecting a loss of kinetic energy to a reduction in BP measured at the level of the brain compared with BP at the level of the heart.<xref rid="jah310566-bib-0025" ref-type="bibr">
+<sup>25</sup>
+</xref>, <xref rid="jah310566-bib-0026" ref-type="bibr">
+<sup>26</sup>
+</xref> Assuming the average distance between the brain and heart is 29 cm, the decrease in BP at the head in the upright posture can be calculated as ∆pressure=density of blood×force of gravity (as a constant)×∆height of column=(1000 kg/m<sup>3</sup>) (9.81 m/s<sup>2</sup>) (0.29 m)=11 960 Pa=21.4 mm Hg.<xref rid="jah310566-bib-0026" ref-type="bibr">
+<sup>26</sup>
+</xref> This is a material pressure difference that is often incorrectly unaccounted for on the basis of posture.<xref rid="jah310566-bib-0025" ref-type="bibr">
+<sup>25</sup>
+</xref>
+</p><p>Assuming stable CO and central perfusion pressure, an additional factor affecting CBF is cerebrovascular resistance, which describes the degree of resistance by the blood vessels in the brain through modulating vessel diameters. An increase in cerebrovascular resistance results in a decrease in CBF, and a decrease in cerebrovascular resistance leads to an increase in CBF. To maintain a normal CBF despite vastly varying CO and central perfusion pressure, the body adjusts cerebrovascular resistance as necessary.<xref rid="jah310566-bib-0019" ref-type="bibr">
+<sup>19</sup>
+</xref> The precise interplay between these mechanisms is critical for ensuring adequate blood supply to the brain, which is essential for normal brain function. The relationship between these variables can be expressed using the following equation:<xref rid="jah310566-bib-0019" ref-type="bibr">
+<sup>19</sup>
+</xref>
+<disp-formula id="jah310566-disp-0001">
+<mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="jats-math-1" display="block" overflow="scroll"><mml:mrow><mml:mrow><mml:mtable><mml:mtr><mml:mtd columnalign="left"><mml:mrow><mml:mi>CBF</mml:mi><mml:mo linebreak="goodbreak">=</mml:mo><mml:mfenced close=")" open="("><mml:mrow><mml:mtext>central perfusion pressure</mml:mtext><mml:mo>–</mml:mo><mml:mtext>∆pressure</mml:mtext></mml:mrow></mml:mfenced><mml:mo>/</mml:mo></mml:mrow></mml:mtd></mml:mtr><mml:mtr><mml:mtd columnalign="left"><mml:mrow><mml:mspace width="3.8em"/><mml:mtext>cerebrovascular resistance</mml:mtext><mml:mo>.</mml:mo></mml:mrow></mml:mtd></mml:mtr></mml:mtable></mml:mrow></mml:mrow></mml:math>
+</disp-formula>
+</p><p>Secondarily, the brain's own homeostatic mechanism of local cerebral autoregulation ensures that an increase or decrease in mean arterial pressure is directly met with consequential vasoconstriction or vasodilation of small cerebral arteries, respectively.<xref rid="jah310566-bib-0017" ref-type="bibr">
+<sup>17</sup>
+</xref> Through the regulation of cerebrovascular resistance, constant CBF is maintained. Dysfunction in autonomic control of central blood flow leads to many symptoms of orthostatic intolerance.<xref rid="jah310566-bib-0027" ref-type="bibr">
+<sup>27</sup>
+</xref>
+</p><sec id="jah310566-sec-0004"><title>Cerebral Autoregulation</title><p>Cerebral autoregulation is the brain's ability to maintain constant CBF despite fluctuations in BP. Cerebral autoregulation occurs over a range of CPPs through adjustments in cerebrovascular resistance.<xref rid="jah310566-bib-0028" ref-type="bibr">
+<sup>28</sup>
+</xref> Factors influencing autoregulation include BP fluctuations, CO<sub>2</sub> levels, cerebrovascular tone, and metabolic demands of the brain.<xref rid="jah310566-bib-0017" ref-type="bibr">
+<sup>17</sup>
+</xref>
+</p><p>Cerebral autoregulation can be divided into 2 subtypes: static and dynamic. Static cerebral autoregulation defines the ability of the cerebral vasculature to maintain CBF within the normal range of 60 and 160 mm Hg mean BP, regardless of steady‐state changes in BP.<xref rid="jah310566-bib-0029" ref-type="bibr">
+<sup>29</sup>
+</xref> Cerebral autoregulation is typically assessed by measuring the relationship between changes in TCD‐derived cerebral blood velocity (CBv) and changes in arterial BP during steady‐state conditions. For evaluation of static cerebral autoregulation, baseline measurements of CBv and BP are recorded in the supine position over at least 10‐minute‐long time intervals. Next, sustained alterations in BP are achieved through the administration of vasoconstrictors or vasodilators, and the subsequent effect on CBv is monitored. Despite steady changes in BP, if CBF remains stable, then static cerebral autoregulation is deemed intact.</p><p>Dynamic autoregulation describes the CBv changes with rapid fluctuations in BP that occur with physiological changes such as posture or breathing manipulation or pharmacological intervention.<xref rid="jah310566-bib-0017" ref-type="bibr">
+<sup>17</sup>
+</xref> The latency of autoregulatory action, or how quickly the brain responds to changes in BP, can then be measured, in addition to its efficiency.<xref rid="jah310566-bib-0029" ref-type="bibr">
+<sup>29</sup>
+</xref> The cerebral autoregulation index, the slope of the linear regression between CBv and BP changes over time can be used to calculate the efficiency of cerebral autoregulation.<xref rid="jah310566-bib-0029" ref-type="bibr">
+<sup>29</sup>
+</xref> This factor is particularly relevant in clinical conditions like OI, in which static cerebral autoregulation is intact, but they are unable to compensate for dynamic mean BP changes within the 60 to 160 mm Hg range (eg, drop from 100 mm Hg to 80 mm Hg) leading to presyncope or syncope.<xref rid="jah310566-bib-0030" ref-type="bibr">
+<sup>30</sup>
+</xref>
+</p><p>Recent analyses indicate that autoregulation is effective over a narrow range of BP changes (≈10%), with a more effective buffering of BP increases compared with decreases.<xref rid="jah310566-bib-0017" ref-type="bibr">
+<sup>17</sup>
+</xref> This autoregulatory process is often seen as static, but it is actually dynamic, with CBF rapidly adjusting to changes in central perfusion pressure.<xref rid="jah310566-bib-0029" ref-type="bibr">
+<sup>29</sup>
+</xref>, <xref rid="jah310566-bib-0031" ref-type="bibr">
+<sup>31</sup>
+</xref> This dynamic response is evident when CBF returns to baseline before BP does. If dynamic autoregulation is impaired, CBF changes align closely with BP changes.<xref rid="jah310566-bib-0017" ref-type="bibr">
+<sup>17</sup>
+</xref> This is particularly relevant for OI when BP and central blood volume are unstable and most commonly drop with orthostasis.<xref rid="jah310566-bib-0023" ref-type="bibr">
+<sup>23</sup>
+</xref> If autoregulation is impaired, as evidenced in OI, CBF can change rapidly with changes in BP, which leads to neurological symptoms.<xref rid="jah310566-bib-0032" ref-type="bibr">
+<sup>32</sup>
+</xref>
+</p></sec></sec><sec id="jah310566-sec-0005"><title>CBF in OI</title><sec id="jah310566-sec-0006"><title>
+<styled-content style="fixed-case" toggle="no">CBF</styled-content> in Syncope</title><p>CBF dysregulation can cause syncope, a transient loss of consciousness when there is significantly decreased blood flow to the brain.<xref rid="jah310566-bib-0033" ref-type="bibr">
+<sup>33</sup>
+</xref> OH is a diagnosis that commonly experiences CBF dysregulation resulting in syncope. Possible causes of OH include dehydration, medications, or health conditions with secondary dysfunction of the autonomic nervous system.<xref rid="jah310566-bib-0001" ref-type="bibr">
+<sup>1</sup>
+</xref> As the autonomic nervous system regulates the subconscious process of vasoconstriction, autonomic dysfunction hampers the body's ability to vasoconstrict to prevent venous pooling in the lower extremities in the upright position, resulting in low BP and CBF drops.<xref rid="jah310566-bib-0034" ref-type="bibr">
+<sup>34</sup>
+</xref>
+</p><p>A head‐up tilt table test is often used by electrophysiologists to test a patient's likelihood of syncope. The test induces orthostatic stress with passive upright posture during which vital signs such as BP and heart rate are monitored, ideally continuously, throughout the test. Since all types of syncope are essentially caused by a rapid drop in CBF, it is clinically relevant to measure CBv in syncope to reach an accurate diagnosis.<xref rid="jah310566-bib-0001" ref-type="bibr">
+<sup>1</sup>
+</xref> Figure <xref rid="jah310566-fig-0002" ref-type="fig">2</xref> shows the BP and CBv patterns of a 20‐year‐old woman with mixed syncope.<xref rid="jah310566-bib-0003" ref-type="bibr">
+<sup>3</sup>
+</xref> The onset of syncope coincides with a drop in CBF, followed by a delayed decline in BP.<xref rid="jah310566-bib-0003" ref-type="bibr">
+<sup>3</sup>
+</xref> Evidence suggests that CBF drops before the fall in BP in syncope contributing to a syncopal event.<xref rid="jah310566-bib-0034" ref-type="bibr">
+<sup>34</sup>
+</xref> Cerebral autoregulation, however, does not appear to be affected in syncope during head‐up tilt.<xref rid="jah310566-bib-0017" ref-type="bibr">
+<sup>17</sup>
+</xref>, <xref rid="jah310566-bib-0035" ref-type="bibr">
+<sup>35</sup>
+</xref> Some people with syncope have a paradoxical increase in cerebrovascular resistance that proceeds the drop in BP.<xref rid="jah310566-bib-0034" ref-type="bibr">
+<sup>34</sup>
+</xref>, <xref rid="jah310566-bib-0036" ref-type="bibr">
+<sup>36</sup>
+</xref> There are surprisingly limited studies addressing CBF in syncope and CBF regulation may differ depending on the pathogenesis and pathophysiology of the disorder.<xref rid="jah310566-bib-0036" ref-type="bibr">
+<sup>36</sup>
+</xref> For instance, people with neurally mediated syncope or hypotension may develop an altered BP range for autoregulation and baroreflex buffering compared with otherwise healthy people with the occasional vasovagal episodes.<xref rid="jah310566-bib-0017" ref-type="bibr">
+<sup>17</sup>
+</xref>, <xref rid="jah310566-bib-0035" ref-type="bibr">
+<sup>35</sup>
+</xref>, <xref rid="jah310566-bib-0036" ref-type="bibr">
+<sup>36</sup>
+</xref>
+</p><fig position="float" fig-type="Figure" id="jah310566-fig-0002" orientation="portrait"><label>Figure 2</label><caption><title>BP and CBF patterns in mixed syncope.</title><p>The figure depicts CBF drops being consistent with syncope, whereas BP drops only correlate in some cases (eg, orthostatic hypotension). Charts reproduced from Novak under the terms and conditions of the Creative Commons Attribution Non‐Commercial‐NoDerivatives license (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/" ext-link-type="uri">https://creativecommons.org/licenses/by‐nc‐nd/4.0/</ext-link>). BP indicates blood pressure; and CBF, cerebral blood flow.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-3" orientation="portrait" xlink:href="JAH3-14-e036752-g004.jpg"/></fig></sec><sec id="jah310566-sec-0007"><title>
+<styled-content style="fixed-case" toggle="no">CBF</styled-content> in <styled-content style="fixed-case" toggle="no">POTS</styled-content>
+</title><p>Several studies have evaluated cardiovascular and CBv patterns in POTS. Novak et al<xref rid="jah310566-bib-0003" ref-type="bibr">
+<sup>3</sup>
+</xref> studied diagnostic metrics for assessing multiple forms of OI during head‐up tilt and outlined the crucial importance of measuring TCD in conditions with OI. CBv, measured in the middle cerebral artery (MCA), served as a more accurate tool in differentiating POTS from other forms of tachycardia.<xref rid="jah310566-bib-0037" ref-type="bibr">
+<sup>37</sup>
+</xref> While heart rate was significantly elevated in all conditions, CBv was considerably low in POTS, and either normal or transiently increased in supraventricular tachycardias.<xref rid="jah310566-bib-0003" ref-type="bibr">
+<sup>3</sup>
+</xref> More than 50% of POTS participants presented with central hypovolemia, resulting primarily from blood sequestration within the splanchnic vasculature, leading to reduced upright cerebral blood volume.<xref rid="jah310566-bib-0038" ref-type="bibr">
+<sup>38</sup>
+</xref> A series of intricate physiology studies by Stewart and colleagues demonstrated CBv abnormalities with head‐up tilt in small samples (9–25 participants per study) of adolescent participants with POTS.<xref rid="jah310566-bib-0032" ref-type="bibr">
+<sup>32</sup>
+</xref>, <xref rid="jah310566-bib-0038" ref-type="bibr">
+<sup>38</sup>
+</xref>, <xref rid="jah310566-bib-0039" ref-type="bibr">
+<sup>39</sup>
+</xref>, <xref rid="jah310566-bib-0040" ref-type="bibr">
+<sup>40</sup>
+</xref>, <xref rid="jah310566-bib-0041" ref-type="bibr">
+<sup>41</sup>
+</xref> First, they showed that POTS participants had twice the drop in CBv on head‐up tilt compared with controls even though BP remained stable.<xref rid="jah310566-bib-0038" ref-type="bibr">
+<sup>38</sup>
+</xref> In addition, CBv oscillated significantly more in POTS compared with controls during head‐up tilt.<xref rid="jah310566-bib-0032" ref-type="bibr">
+<sup>32</sup>
+</xref>, <xref rid="jah310566-bib-0040" ref-type="bibr">
+<sup>40</sup>
+</xref> Together these data suggest impaired cerebral autoregulation in POTS. Furthermore, Stewart et al demonstrated that the drop in CBv with head‐up tilt in POTS occurs before orthostatic tachycardia and hyperpnea, which suggests that CBv may be driving POTS pathophysiology.<xref rid="jah310566-bib-0039" ref-type="bibr">
+<sup>39</sup>
+</xref> In addition, this group has found associations between CBv drops on tilt and difficulty with working memory, which may account for brain fog experienced by people with POTS.<xref rid="jah310566-bib-0038" ref-type="bibr">
+<sup>38</sup>
+</xref>, <xref rid="jah310566-bib-0041" ref-type="bibr">
+<sup>41</sup>
+</xref>
+</p><p>There is also evidence that the drop in CBv with orthostasis drives other POTS symptoms, including postural tachycardia and hyperventilation.<xref rid="jah310566-bib-0042" ref-type="bibr">
+<sup>42</sup>
+</xref> Stewart et al<xref rid="jah310566-bib-0039" ref-type="bibr">
+<sup>39</sup>
+</xref> investigated the time course of physiological changes in POTS. They demonstrated that CBv drops before the rise in HR or end‐tidal CO<sub>2</sub> in POTS.<xref rid="jah310566-bib-0039" ref-type="bibr">
+<sup>39</sup>
+</xref> A recent study by Baker et al confirmed that reduced stroke volume and CBv drive postural hyperventilation.<xref rid="jah310566-bib-0043" ref-type="bibr">
+<sup>43</sup>
+</xref> Regardless of POTS subtype (hyperadrenergic, neuropathic, hypovolemic, etc), an excessive decrease in orthostatic CBv is a consistent pathophysiological mechanism.<xref rid="jah310566-bib-0003" ref-type="bibr">
+<sup>3</sup>
+</xref>, <xref rid="jah310566-bib-0041" ref-type="bibr">
+<sup>41</sup>
+</xref> Whether the CBF also drops excessively in POTS with orthostatic hypertension has not been studied except for 1 case study<xref rid="jah310566-bib-0003" ref-type="bibr">
+<sup>3</sup>
+</xref> but deserves further investigation.</p></sec><sec id="jah310566-sec-0008"><title>
+<styled-content style="fixed-case" toggle="no">CBF</styled-content> in <styled-content style="fixed-case" toggle="no">ME</styled-content>/<styled-content style="fixed-case" toggle="no">CFS</styled-content>
+</title><p>ME/CFS is a challenging diagnosis due to a lack of specific biomarkers or diagnostic tests.<xref rid="jah310566-bib-0044" ref-type="bibr">
+<sup>44</sup>
+</xref> Clinical presentations include persistent fatigue for ≥6 months, postexertional malaise, and related deterioration in physical and mental health.<xref rid="jah310566-bib-0044" ref-type="bibr">
+<sup>44</sup>
+</xref> People with ME/CFS report symptoms that overlap with several other syndromes including fibromyalgia and POTS.<xref rid="jah310566-bib-0045" ref-type="bibr">
+<sup>45</sup>
+</xref> Two thirds of people with ME/CFS experience symptoms of autonomic dysfunction with 20% to 30% meeting POTS criteria.<xref rid="jah310566-bib-0003" ref-type="bibr">
+<sup>3</sup>
+</xref>, <xref rid="jah310566-bib-0045" ref-type="bibr">
+<sup>45</sup>
+</xref>
+</p><p>Using an extracranial CBv ultrasound technique of the carotid and vertebral arteries, van Campen et al. observed CBF changes during head‐up tilt in participants with ME/CFS.<xref rid="jah310566-bib-0046" ref-type="bibr">
+<sup>46</sup>
+</xref>, <xref rid="jah310566-bib-0047" ref-type="bibr">
+<sup>47</sup>
+</xref>, <xref rid="jah310566-bib-0048" ref-type="bibr">
+<sup>48</sup>
+</xref> The authors found a 26% reduction in CBF at end‐tilt in participants with ME/CFS, compared with a 7% decrease in healthy controls.<xref rid="jah310566-bib-0046" ref-type="bibr">
+<sup>46</sup>
+</xref> Notably, 90% of participants with ME/CFS exhibited a &gt;13% reduction in CBv, a threshold set 2 SDs below the average drop in CBF in healthy subjects.<xref rid="jah310566-bib-0046" ref-type="bibr">
+<sup>46</sup>
+</xref> Under these definitions, an abnormal CBF drop at the end of head‐up tilt was seen in 82% of participants with ME/CFS and normal heart rate and BP, in 98% of ME/CFS with delayed OH, and in 100% of ME/CFS with POTS.<xref rid="jah310566-bib-0046" ref-type="bibr">
+<sup>46</sup>
+</xref> Even more surprising was that 247 of 429 (58%) of the participants with ME/CFS who experienced orthostatic symptoms, had normal heart rate and BP.<xref rid="jah310566-bib-0046" ref-type="bibr">
+<sup>46</sup>
+</xref> Without measuring CBF, traditional vital signs appear normal in a majority of people with ME/CFS. Linear regression analysis demonstrated that the extent of CBF reduction was directly correlated with orthostatic symptoms during head‐up tilt (<italic toggle="yes">P</italic>&lt;0.0005).<xref rid="jah310566-bib-0046" ref-type="bibr">
+<sup>46</sup>
+</xref> Furthermore, CBF remained reduced in ME/CFS following head‐up tilt, suggesting slower recovery of blood flow to the brain in this population.<xref rid="jah310566-bib-0047" ref-type="bibr">
+<sup>47</sup>
+</xref> Another analysis by this group revealed that participants with ME/CFS who were previously mislabeled as having psychogenic pseudosyncope to explain their frequent syncopal episodes had a more significant decline in CBv compared with participants with ME/CFS without a psychogenic pseudosyncope diagnosis.<xref rid="jah310566-bib-0048" ref-type="bibr">
+<sup>48</sup>
+</xref> This suggests that syncope in ME/CFS may be neurally mediated rather than psychogenic.</p><p>Novak and colleagues observed the same phenomenon in which many patients with ME/CFS experienced significant CBv reductions despite normal heart rate and BP when evaluating patients complaining of OI on head‐up tilt.<xref rid="jah310566-bib-0049" ref-type="bibr">
+<sup>49</sup>
+</xref> Instead of using the ME/CFS diagnostic framework, they referred to this group of people as having orthostatic cerebral hypoperfusion syndrome (OCHOS). People with OCHOS have lower‐than‐normal orthostatic CBv despite normal changes in heart rate and BP.<xref rid="jah310566-bib-0003" ref-type="bibr">
+<sup>3</sup>
+</xref>, <xref rid="jah310566-bib-0050" ref-type="bibr">
+<sup>50</sup>
+</xref> Mechanisms behind cerebral hypoperfusion in OCHOS include cerebral autoregulation failure and poor central blood volume compensation to orthostatic provocation.<xref rid="jah310566-bib-0042" ref-type="bibr">
+<sup>42</sup>
+</xref>, <xref rid="jah310566-bib-0050" ref-type="bibr">
+<sup>50</sup>
+</xref> Both OCHOS and POTS experience an orthostatic drop of CBv without OH. However, unlike people with POTS, people with OCHOS do not experience excessive tachycardia.<xref rid="jah310566-bib-0003" ref-type="bibr">
+<sup>3</sup>
+</xref>, <xref rid="jah310566-bib-0050" ref-type="bibr">
+<sup>50</sup>
+</xref> A study conducted in 2016 investigated the hemodynamic mechanisms leading to orthostatic dizziness in OCHOS and found that participants with OCHOS experienced stable orthostatic BP, normal heart rate, and reduced CBv during head‐up tilt. Mean CBv was significantly reduced (&gt;20%) in the OCHOS group as compared with the control group. Both groups reported no difference in heart rate, BP, and end‐tidal CO<sub>2</sub> during head‐up tilt. Subjects with hypocapnic cerebral hypoperfusion also had normal heart rate and BP responses, but alarmingly low end‐tidal CO<sub>2</sub>.<xref rid="jah310566-bib-0051" ref-type="bibr">
+<sup>51</sup>
+</xref> Reduction in end‐tidal CO<sub>2</sub> is directly correlated with a consequential decrease in CBF velocity due to cerebral vasoconstriction.<xref rid="jah310566-bib-0051" ref-type="bibr">
+<sup>51</sup>
+</xref> These results further reinforce the importance of CBF velocity as a crucial biomarker for more accurate evaluation of orthostatic symptoms. Both OCHOS and ME/CFS have very similar hemodynamic patterns.<xref rid="jah310566-bib-0046" ref-type="bibr">
+<sup>46</sup>
+</xref> Therefore, we hypothesize that they have been diagnosed with different conditions only because that is what their physicians were familiar with.<xref rid="jah310566-bib-0003" ref-type="bibr">
+<sup>3</sup>
+</xref>, <xref rid="jah310566-bib-0052" ref-type="bibr">
+<sup>52</sup>
+</xref>
+</p><p>Given the insensitivity of current biomarkers including heart rate and BP for evaluating OI in ME/CFS, many with orthostatic symptoms are misdiagnosed as healthy. CBF monitoring is vital for proper and compassionate care. In addition, the pathophysiology of ME/CFS appears nearly identical to that of the OCHOS population on which Novak et al reported.<xref rid="jah310566-bib-0046" ref-type="bibr">
+<sup>46</sup>
+</xref>, <xref rid="jah310566-bib-0050" ref-type="bibr">
+<sup>50</sup>
+</xref> Both populations experience drops in CBF despite normal BP and heart rate, which can finally explain their significant orthostatic symptom complaints. It can be argued that the ME/CFS and OCHOS populations are effectively the same population and that they are both severely misdiagnosed as being “objectively normal” if CBF is not monitored.</p></sec><sec id="jah310566-sec-0009"><title>
+<styled-content style="fixed-case" toggle="no">CBF</styled-content> in Long <styled-content style="fixed-case" toggle="no">COVID</styled-content>
+</title><p>People with long COVID also have abnormalities in CBsF. Novak et al demonstrated that long COVID symptomology may be primarily explained by CBF dysregulation and neuropathic changes.<xref rid="jah310566-bib-0009" ref-type="bibr">
+<sup>9</sup>
+</xref>, <xref rid="jah310566-bib-0053" ref-type="bibr">
+<sup>53</sup>
+</xref> A small study comparing 9 participants with long COVID, 10 participants with POTS, and 15 healthy controls demonstrated a 20% CBF drop in participants with long COVID during head‐up tilt compasred with a 3% drop in healthy controls.<xref rid="jah310566-bib-0009" ref-type="bibr">
+<sup>9</sup>
+</xref> Moreover, 89% of participants with long COVID had small‐fiber neuropathy, which compromises vasoconstriction, resulting in reduced preload, CO, and ultimately impaired CBF.<xref rid="jah310566-bib-0009" ref-type="bibr">
+<sup>9</sup>
+</xref>, <xref rid="jah310566-bib-0053" ref-type="bibr">
+<sup>53</sup>
+</xref> Of note is that 67% of patients with symptomatic long COVID did not exhibit orthostatic tachycardia or hypotension, again demonstrating the need to measure CBF or risk misdiagnosis.<xref rid="jah310566-bib-0009" ref-type="bibr">
+<sup>9</sup>
+</xref>
+</p><p>Van Campen et al reported similar findings when comparing 10 patients with long COVID against 20 patients with ME/CFS and 10 healthy controls using the extracranial ultrasound.<xref rid="jah310566-bib-0054" ref-type="bibr">
+<sup>54</sup>
+</xref> Participants with long COVID experienced a 33% decrease in CBF on head‐up tilt, compared with a 4% CBF drop in healthy controls. However, unlike the study by Novak et al,<xref rid="jah310566-bib-0053" ref-type="bibr">
+<sup>53</sup>
+</xref> in which a majority of participants with long COVID did not have orthostatic tachycardia, in the study by van Campen et al,<xref rid="jah310566-bib-0054" ref-type="bibr">
+<sup>54</sup>
+</xref> all participants with long COVID experienced orthostatic tachycardia on head‐up tilt. The symptoms experienced by individuals with long COVID closely resembled those reported in ME/CFS, as observed in their response to head‐up tilt. The impairments of CBF and cardiac index during tilt were more severe in many participants with long COVID compared with other ME/CFS participants.<xref rid="jah310566-bib-0054" ref-type="bibr">
+<sup>54</sup>
+</xref> These findings show that the orthostatic physiology of long COVID strongly overlaps with those of POTS and ME/CFS. Moreover, these findings are in close concordance with a Swedish case series by Johansson et al in which patients with long COVID presented with clinical symptoms consistent with POTS.<xref rid="jah310566-bib-0006" ref-type="bibr">
+<sup>6</sup>
+</xref> In all these cases, monitoring CBF was the most sensitive and specific biomarker of disease. Table <xref rid="jah310566-tbl-0001" ref-type="table">1</xref> describes major studies of clinical conditions reporting orthostatic symptoms. Despite different diagnostic criteria, all of the syndromes in Table <xref rid="jah310566-tbl-0001" ref-type="table">1</xref> are associated with abnormal CBF or CBF regulation when upright. However, CBF is inconsistently assessed and not clinically recognized as a biomarker in OI.</p><table-wrap position="float" id="jah310566-tbl-0001" content-type="Table" orientation="portrait"><label>Table 1</label><caption><p>Large Studies Reporting CBv in Orthostatic Intolerance</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><thead><tr style="border-bottom:solid 1px #000000"><th align="left" rowspan="2" colspan="1">Study</th><th align="left" rowspan="2" colspan="1">Year</th><th align="left" rowspan="2" colspan="1">Design</th><th align="left" rowspan="2" colspan="1">Diagnosis</th><th align="left" rowspan="2" colspan="1">No.</th><th align="left" rowspan="2" colspan="1">Age, y, mean (SD)</th><th align="left" colspan="5" rowspan="1">Tilt</th><th align="left" rowspan="2" colspan="1">Outcome</th></tr><tr style="border-bottom:solid 1px #000000"><th align="left" rowspan="1" colspan="1">HR</th><th align="left" rowspan="1" colspan="1">MAP</th><th align="left" rowspan="1" colspan="1">Systolic MCA Velocity</th><th align="left" rowspan="1" colspan="1">Diastolic MCA Velocity</th><th align="left" rowspan="1" colspan="1">Mean MCA Velocity/CBF</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">Albina et al<xref rid="jah310566-bib-0055" ref-type="bibr">
+<sup>55</sup>
+</xref>
+</td><td align="left" rowspan="1" colspan="1">2004</td><td align="left" rowspan="1" colspan="1">Prospective OS</td><td align="left" rowspan="1" colspan="1">History of Syncope or Presyncope</td><td align="left" rowspan="1" colspan="1">206</td><td align="left" rowspan="1" colspan="1">40 (22)</td><td align="left" rowspan="1" colspan="1">↓</td><td align="left" rowspan="1" colspan="1">↓</td><td align="left" rowspan="1" colspan="1">↓</td><td align="left" rowspan="1" colspan="1">↓</td><td align="left" rowspan="1" colspan="1">↓</td><td align="left" rowspan="1" colspan="1">Drop in CBF during neurocardiogenic syncope</td></tr><tr><td align="left" rowspan="1" colspan="1">Novak et. al<xref rid="jah310566-bib-0056" ref-type="bibr">
+<sup>56</sup>
+</xref>
+</td><td align="left" rowspan="1" colspan="1">1998</td><td align="left" rowspan="1" colspan="1">Prospective OS</td><td align="left" rowspan="1" colspan="1">OI</td><td align="left" rowspan="1" colspan="1">30</td><td align="left" rowspan="1" colspan="1">31.3 (1.2)</td><td align="left" rowspan="1" colspan="1">↑</td><td align="left" rowspan="1" colspan="1">↔</td><td align="left" rowspan="1" colspan="1">↓</td><td align="left" rowspan="1" colspan="1">↓</td><td align="left" rowspan="1" colspan="1">↓</td><td align="left" rowspan="1" colspan="1">In OI, orthostatic stress triggers hyperventilation, leading to hypocapnia and cerebral hypoperfusion</td></tr><tr><td align="left" rowspan="1" colspan="1">Del Pozzi et al<xref rid="jah310566-bib-0039" ref-type="bibr">
+<sup>39</sup>
+</xref>
+</td><td align="left" rowspan="1" colspan="1">2014</td><td align="left" rowspan="1" colspan="1">Prospective OS</td><td align="left" rowspan="1" colspan="1">POTS</td><td align="left" rowspan="1" colspan="1">11</td><td align="left" rowspan="1" colspan="1">19 (3)</td><td align="left" rowspan="1" colspan="1">↑</td><td align="left" rowspan="1" colspan="1">↓</td><td align="left" rowspan="1" colspan="1">NA</td><td align="left" rowspan="1" colspan="1">NA</td><td align="left" rowspan="1" colspan="1">↓</td><td align="left" rowspan="1" colspan="1">Initial orthostatic hypotension in POTS results in reduced cerebral blood flow velocity, and postural hypocapnic hyperpnea, which exacerbates cerebral ischemia</td></tr><tr><td align="left" rowspan="1" colspan="1">Novak, et al<xref rid="jah310566-bib-0050" ref-type="bibr">
+<sup>50</sup>
+</xref>
+</td><td align="left" rowspan="1" colspan="1">2016</td><td align="left" rowspan="1" colspan="1">Retrospective OS</td><td align="left" rowspan="1" colspan="1">OCHOS</td><td align="left" rowspan="1" colspan="1">102</td><td align="left" rowspan="1" colspan="1">51.1 (14.9)</td><td align="left" rowspan="1" colspan="1">↔</td><td align="left" rowspan="1" colspan="1">↔</td><td align="left" rowspan="1" colspan="1">↓</td><td align="left" rowspan="1" colspan="1">↓</td><td align="left" rowspan="1" colspan="1">↓</td><td align="left" rowspan="1" colspan="1">Orthostatic cerebral hypoperfusion exists without orthostatic hypotension in patients with orthostatic symptoms</td></tr><tr><td align="left" rowspan="1" colspan="1">Novak<xref rid="jah310566-bib-0003" ref-type="bibr">
+<sup>3</sup>
+</xref>
+</td><td align="left" rowspan="1" colspan="1">2016</td><td align="left" rowspan="1" colspan="1">Retrospective OS</td><td align="left" rowspan="1" colspan="1">OH, OCHOS, POTS, Syncope, Pseudosyncope</td><td align="left" rowspan="1" colspan="1">744</td><td align="left" rowspan="1" colspan="1">NA</td><td align="left" rowspan="1" colspan="1">↔↕</td><td align="left" rowspan="1" colspan="1">↔↕</td><td align="left" rowspan="1" colspan="1">NA</td><td align="left" rowspan="1" colspan="1">NA</td><td align="left" rowspan="1" colspan="1">↔↕</td><td align="left" rowspan="1" colspan="1">Orthostatic syndromes have variable changes in cerebral blood flow and cardiovascular patterns upon TCD monitoring</td></tr><tr><td align="left" rowspan="1" colspan="1">Novak<xref rid="jah310566-bib-0042" ref-type="bibr">
+<sup>42</sup>
+</xref>
+</td><td align="left" rowspan="1" colspan="1">2018</td><td align="left" rowspan="1" colspan="1">Retrospective OS</td><td align="left" rowspan="1" colspan="1">OI</td><td align="left" rowspan="1" colspan="1">16</td><td align="left" rowspan="1" colspan="1">38.6 (8.1)</td><td align="left" rowspan="1" colspan="1">↔</td><td align="left" rowspan="1" colspan="1">↔</td><td align="left" rowspan="1" colspan="1">NA</td><td align="left" rowspan="1" colspan="1">NA</td><td align="left" rowspan="1" colspan="1">↓</td><td align="left" rowspan="1" colspan="1">Cerebral hypoperfusion due to hypocapnia can be an objective biomarker of OI patients without tachycardia</td></tr><tr><td align="left" rowspan="1" colspan="1">Van Campen et al<xref rid="jah310566-bib-0046" ref-type="bibr">
+<sup>46</sup>
+</xref>
+</td><td align="left" rowspan="1" colspan="1">2020</td><td align="left" rowspan="1" colspan="1">Prospective OS</td><td align="left" rowspan="1" colspan="1">ME/CFS</td><td align="left" rowspan="1" colspan="1">429</td><td align="left" rowspan="1" colspan="1">39.0 (12)</td><td align="left" rowspan="1" colspan="1">↔↑</td><td align="left" rowspan="1" colspan="1">↔↓</td><td align="left" rowspan="1" colspan="1">NA</td><td align="left" rowspan="1" colspan="1">NA</td><td align="left" rowspan="1" colspan="1">↓</td><td align="left" rowspan="1" colspan="1">CBF is reduced in ME/CFS patients</td></tr><tr><td align="left" rowspan="1" colspan="1">Van Campen et al<xref rid="jah310566-bib-0047" ref-type="bibr">
+<sup>47</sup>
+</xref>
+</td><td align="left" rowspan="1" colspan="1">2021</td><td align="left" rowspan="1" colspan="1">Case–control OS</td><td align="left" rowspan="1" colspan="1">ME/CFS</td><td align="left" rowspan="1" colspan="1">60</td><td align="left" rowspan="1" colspan="1">39.0 (12)</td><td align="left" rowspan="1" colspan="1">↔↑</td><td align="left" rowspan="1" colspan="1">↔↓</td><td align="left" rowspan="1" colspan="1">NA</td><td align="left" rowspan="1" colspan="1">NA</td><td align="left" rowspan="1" colspan="1">↓</td><td align="left" rowspan="1" colspan="1">ME/CFS patients show a large decline in CBF following head‐up tilt</td></tr><tr><td align="left" rowspan="1" colspan="1">Novak et al<xref rid="jah310566-bib-0009" ref-type="bibr">
+<sup>9</sup>
+</xref>
+</td><td align="left" rowspan="1" colspan="1">2022</td><td align="left" rowspan="1" colspan="1">Retrospective OS</td><td align="left" rowspan="1" colspan="1">PASC</td><td align="left" rowspan="1" colspan="1">34</td><td align="left" rowspan="1" colspan="1">35.8 (7.3)</td><td align="left" rowspan="1" colspan="1">↑↔</td><td align="left" rowspan="1" colspan="1">↔</td><td align="left" rowspan="1" colspan="1">NA</td><td align="left" rowspan="1" colspan="1">NA</td><td align="left" rowspan="1" colspan="1">↓</td><td align="left" rowspan="1" colspan="1">Long‐COVID is associated with cerebrovascular dysregulation with cerebral arteriolar vasoconstriction</td></tr></tbody></table><table-wrap-foot id="jah310566-ntgp-1001"><fn id="jah310566-note-1001"><p>CBF indicates cerebral blood flow; ME/CFS, myalgic encephalomyelitis/chronic fatigue syndrome; OI, orthostatic intolerance; OS, observational study; POTS, postural orthostatic tachycardia syndrome; and TCD, transcranial Doppler. ↑, increased; ↓, decreased; ↔, normal; ↔↑, normal or increased; and ↕, any.</p></fn></table-wrap-foot></table-wrap></sec></sec><sec id="jah310566-sec-0010"><title>Need for CBF Monitoring in OI</title><p>For conditions associated with OI, monitoring a validated proxy of CBF is essential. TCD‐derived CBF velocity has been the primary method used in specialty autonomic centers. However, TCD equipment and training are not widely available. Currently, BP and heart rate are used as surrogates of CBF to assess OI; however, the accuracy of diagnosing conditions with CBF dysregulation using BP and heart rate alone has been shown to have poor sensitivity.<xref rid="jah310566-bib-0003" ref-type="bibr">
+<sup>3</sup>
+</xref>, <xref rid="jah310566-bib-0009" ref-type="bibr">
+<sup>9</sup>
+</xref>
+</p><p>Approximately half (22%–58%) of patients who meet the symptomatic criteria for OI do not meet heart rate and BP criteria for POTS or OH during head‐up tilt.<xref rid="jah310566-bib-0003" ref-type="bibr">
+<sup>3</sup>
+</xref>, <xref rid="jah310566-bib-0046" ref-type="bibr">
+<sup>46</sup>
+</xref> Without monitoring a proxy for CBF, many of these patients would be labeled as objectively normal, and their symptoms could be incorrectly attributed to psychological causes. In OCHOS, BP remains normal, heart rate shows normal increments (≥10 and &lt;30 beats/min), and CBF drops (Figure <xref rid="jah310566-fig-0003" ref-type="fig">3</xref>). In the absence of CBF velocity monitoring, people with OCHOS would pass as having normal head‐up tilt results, and hence run the risk of being misdiagnosed with psychogenic or vestibular disorders on the basis of orthostatic symptoms. In addition, patients with primary cerebral autoregulatory failure who have characteristically low supine and upright CBv will remain undiagnosed if CBv is not used.<xref rid="jah310566-bib-0003" ref-type="bibr">
+<sup>3</sup>
+</xref> People with ME/CFS can have normal heart rate and BP but reduced CBF.<xref rid="jah310566-bib-0046" ref-type="bibr">
+<sup>46</sup>
+</xref> Similarly, in participants with long COVID, a decline in orthostatic CBF velocity was observed, while heart rate and BP remained stable.<xref rid="jah310566-bib-0054" ref-type="bibr">
+<sup>54</sup>
+</xref> The lack of proper diagnosis of OI stems from the unmet need to provide bedside CBF evaluation.</p><fig position="float" fig-type="Figure" id="jah310566-fig-0003" orientation="portrait"><label>Figure 3</label><caption><title>HR, BP, and CBF velocity patterns in example participants with orthostatic hypotension, orthostatic cerebral hypoperfusion syndrome, and POTS during supine (gray) and head‐up tilt (white) compared with a healthy control on the left.</title><p>Despite different changes or no change in BP and HR during head‐up tilt, participants with orthostatic intolerance experience a similar and excessive decline in cerebral blood velocity. Charts reproduced from Novak<xref rid="jah310566-bib-0003" ref-type="bibr">
+<sup>3</sup>
+</xref> under the terms and conditions of the Creative Commons Attribution Non‐Commercial‐NoDerivatives license (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/" ext-link-type="uri">https://creativecommons.org/licenses/by‐nc‐nd/4.0/</ext-link>). BP indicates blood pressure; CBF, cerebral blood flow; HR, heart rate; and POTS, postural orthostatic tachycardia syndrome.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-5" orientation="portrait" xlink:href="JAH3-14-e036752-g003.jpg"/></fig><p>Since measuring CBF is time and labor consuming and technically complex to measure, BP and heart rate are routinely measured instead, resulting in misdiagnoses. Therefore, it is critical to start measuring CBF more directly, instead of relying on inferences from secondary metrics.</p></sec><sec id="jah310566-sec-0011"><title>Methods for CBF Measurement</title><p>An overview of common methods for orthostatic CBF measurement is shown in Figure <xref rid="jah310566-fig-0004" ref-type="fig">4</xref>. Comparison of the advantages and disadvantages of these systems for measuring CBF is summarized in Table <xref rid="jah310566-tbl-0002" ref-type="table">2</xref>.</p><fig position="float" fig-type="Figure" id="jah310566-fig-0004" orientation="portrait"><label>Figure 4</label><caption><title>Methods for CBF measurement.</title><p>Ultrasound is used to assess blood flow velocity to the head either at the middle cerebral artery using TCD ultrasound or at the external carotid artery via extracranial ultrasound. NIRS supplies an index of oxygen saturation of the frontal lobe with oximetry by shining near‐infrared light at the forehead. In‐ear pulse‐wave analysis is an emerging technique to remotely measure blood flow to the head using infrared light to the posterior auricular branch of the external carotid artery. CBF indicates cerebral blood flow; NIRS, near‐infrared spectroscopy; and TCD, transcranial Doppler.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-7" orientation="portrait" xlink:href="JAH3-14-e036752-g002.jpg"/></fig><table-wrap position="float" id="jah310566-tbl-0002" content-type="Table" orientation="portrait"><label>Table 2</label><caption><p>Comparison of Methods for Detecting Orthostatic CBF Changes</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><thead><tr style="border-bottom:solid 1px #000000"><th align="left" rowspan="1" colspan="1">Cerebral blood flow measurement method</th><th align="left" rowspan="1" colspan="1">Advantages</th><th align="left" rowspan="1" colspan="1">Disadvantages</th><th align="left" rowspan="1" colspan="1">Access</th><th align="left" rowspan="1" colspan="1">Cost</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">Transcranial ultrasound</td><td align="left" rowspan="1" colspan="1">
+<p>Able to use at bedside and during head‐up tilt</p>
+<p>Headgear allows hands‐free continuous monitoring</p>
+<p>High temporal resolution can catch transient events like syncope</p>
+</td><td align="left" rowspan="1" colspan="1">
+<p>Only a velocity measurement, not true cerebral flow. Relying on assumptions that were proven to be problematic</p>
+<p>Variability in data quality based on sonographer skill</p>
+<p>≈10% of skulls are impenetrable</p>
+</td><td align="left" rowspan="1" colspan="1">Need TCD ultrasound machine and specially trained sonographer, headband holder</td><td align="left" rowspan="1" colspan="1">
+<p>$20k–$50k device cost + highly specialized technician time</p>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">Extracranial ultrasound</td><td align="left" rowspan="1" colspan="1">True CBF measurement without significant assumptions. Most sensitive way to measure CBF drops in OI</td><td align="left" rowspan="1" colspan="1">
+<p>Low temporal resolution (2+ min per sample) misses transient events</p>
+</td><td align="left" rowspan="1" colspan="1">Need ultrasound machine and specially trained sonographer</td><td align="left" rowspan="1" colspan="1">$20k–$50k device cost + highly specialized technician time</td></tr><tr><td align="left" rowspan="1" colspan="1">NIRS</td><td align="left" rowspan="1" colspan="1">
+<p>Easy to use and stick onto a patient's forehead. No trained technician required</p>
+</td><td align="left" rowspan="1" colspan="1">
+<p>Depends on skull thickness and spacing from frontal lobe</p>
+<p>Has failed to discriminate orthostatic hypoperfusion in patients with OI</p>
+</td><td align="left" rowspan="1" colspan="1">Just need NIRS device</td><td align="left" rowspan="1" colspan="1">$5k–$20k device cost</td></tr><tr><td align="left" rowspan="1" colspan="1">In‐ear pulse‐wave analysis</td><td align="left" rowspan="1" colspan="1">
+<p>Scalable, remote monitoring</p>
+<p>Tracks postural changes in real‐life settings</p>
+</td><td align="left" rowspan="1" colspan="1">New technology, not a direct CBF measurement. Fewer validation data available</td><td align="left" rowspan="1" colspan="1">Can be mailed to patients and supported via telehealth</td><td align="left" rowspan="1" colspan="1">≈$500 device cost</td></tr></tbody></table><table-wrap-foot id="jah310566-ntgp-0003"><fn id="jah310566-note-0005"><p>CBF indicates cerebral blood flow; NsIRS, near‐infrared spectroscopy; OI, orthostatic intolerance; and TCD, transcranial Doppler.</p></fn></table-wrap-foot></table-wrap><sec id="jah310566-sec-0012"><title>Transcranial Doppler</title><p>TCD is one method of measuring a proxy of CBF that can be used for noninvasive in‐clinic monitoring both at the bedside or during head‐up tilt.<xref rid="jah310566-bib-0049" ref-type="bibr">
+<sup>49</sup>
+</xref> TCD does not measure total CBF but looks at changes in CBF velocity in the MCA. Sonographers insonate the MCA using a low‐frequency transducer probe at a depth of 45 to 56 mm. The Doppler probe transmits ultrasound beams at a frequency of ≤2 MHz through thin cranial bone windows. The beams are reflected and Doppler shifted as they encounter moving red blood cells. Spectral analysis of the TCD signal at a given time point reveals a wide spread of frequencies due to variable blood flow velocities through the arterial cross‐section. This frequency spread can be calculated at each time point as a peak velocity value representing the fastest‐moving red blood cells at the center of the sampled cross‐section, or an intensity‐weighted mean that represents an average velocity of the blood cells in the sampled cross‐section.</p><p>The transtemporal window is used to insonate the MCA. However, it can be difficult to acquire an adequate signal in some individuals, as ≈10% to 20% of participants do not have a thin enough transtemporal acoustic window to get a reliable TCD signal.<xref rid="jah310566-bib-0060" ref-type="bibr">
+<sup>60</sup>
+</xref> To assume that TCD‐derived CBF velocity represents total CBF, there are 3 primary assumptions: (1) the diameter of the insonated vessel remains unchanged; (2) the angle of insonation remains fixed in position; (3) flow through a single MCA is representative of all 4 cerebral arteries. Despite these major assumptions, TCD has been demonstrated to still be able to differentiate between normal perfusion and hypoperfusion in multiple patient populations.</p><p>A unique advantage to TCD is the ability to measure CBF velocity with high time resolution, due to the existence of mounting headgear that can continually hold the ultrasound probe against the transtemporal window. This headgear can help ensure that the angle of insonation remains fixed. This also allows monitoring of a patient through a postural change, allowing the ability to see a continuous drop in flow leading to a syncopal event.</p></sec><sec id="jah310566-sec-0013"><title>Extracranial CBF Ultrasound</title><p>Extracranial CBF ultrasound is another method of measuring CBF with significantly fewer assumptions compared with TCD.<xref rid="jah310566-bib-0052" ref-type="bibr">
+<sup>52</sup>
+</xref> Unlike TCD's approach of trying to measure a single cerebral artery through the cranium, extracranial CBF ultrasound measures all 4 cerebral arteries before they enter the skull, thus avoiding the difficulty of measuring through the skull.<xref rid="jah310566-bib-0052" ref-type="bibr">
+<sup>52</sup>
+</xref> This allows sonographers to take a carotid duplex scan using simultaneous B‐mode and pulsed‐wave Doppler to capture flow velocities and artery diameters for all the internal carotid and vertebral arteries.<xref rid="jah310566-bib-0061" ref-type="bibr">
+<sup>61</sup>
+</xref> Flow velocities are multiplied against their respective artery diameter to get a volume flow (mL/min) measurement. Then, volume flow of all 4 cerebral arteries is added together to get total CBF. This method arguably measures true CBF without requiring any of the significant assumptions needed for TCD ultrasound measurements.</p><p>In exchange for the higher‐quality CBF measurement, the extracranial CBF technique loses the continuous monitoring nature of TCD ultrasound. Extracranial CBF ultrasound takes snapshots of CBF where the sampling rate is limited to the time it takes to make duplex measurements of all 4 cerebral arteries, which typically takes 1 to 2 minutes for a trained sonographer. It also requires a nontrivial amount of postprocessing including diameter measurements, losing some of the real‐time nature. However, the sampling frequency trade‐off does support a more sensitive, specific, and theoretically sound measurement of true CBF. Extracranial ultrasound has not been studied as frequently and across as many different clinics and laboratories as TCD has in orthostatic populations. However, in the studies in which extracranial CBF ultrasound has been used, it has thus far had more consistently repeatable measurements compared with TCD, which has had problems with interlabratory repeatability.<xref rid="jah310566-bib-0035" ref-type="bibr">
+<sup>35</sup>
+</xref>, <xref rid="jah310566-bib-0046" ref-type="bibr">
+<sup>46</sup>
+</xref>
+</p></sec><sec id="jah310566-sec-0014"><title>Near‐Infrared Spectroscopy</title><p>NIRS, also known as cerebral oximetry, offers another proxy for CBF by using near‐infrared light into the forehead to measure the oxygen saturation of the frontal lobe similar to finger pulse oximetry.<xref rid="jah310566-bib-0057" ref-type="bibr">
+<sup>57</sup>
+</xref>, <xref rid="jah310566-bib-0058" ref-type="bibr">
+<sup>58</sup>
+</xref> If CBF drops, cerebral oxygenation should also drop in theory. Like pulse oximetry, wavelengths of light are differentially affected by oxyhemoglobin or deoxyhemoglobin and total hemoglobin, and the amount of reflected light at each wavelength can be used to infer cerebral oxygenation.<xref rid="jah310566-bib-0058" ref-type="bibr">
+<sup>58</sup>
+</xref> NIRS has been tested in OI populations compared against healthy controls; however, both participants with OI and healthy control experience similar reductions in oxyhemoglobin.<xref rid="jah310566-bib-0057" ref-type="bibr">
+<sup>57</sup>
+</xref>, <xref rid="jah310566-bib-0059" ref-type="bibr">
+<sup>59</sup>
+</xref>, <xref rid="jah310566-bib-0062" ref-type="bibr">
+<sup>62</sup>
+</xref>, <xref rid="jah310566-bib-0063" ref-type="bibr">
+<sup>63</sup>
+</xref> Significant reductions in oxyhemoglobin may be related to the fact that NIRS partially samples superficial scalp blood oxygen, as well as shifting tissue within the optical sampling volume upon orthostasis. Slightly larger drops in oxyhemoglobin have been shown in patients with OI compared with healthy controls, but these differences are small, resulting in poor diagnostic specificity.<xref rid="jah310566-bib-0063" ref-type="bibr">
+<sup>63</sup>
+</xref>, <xref rid="jah310566-bib-0064" ref-type="bibr">
+<sup>64</sup>
+</xref> Instead of focusing on relative drops in oxyhemoglobin, NIRS research has focused more on the time it takes for cerebral oxygenation to recover from the initial drop during upright periods, where recovery takes longer in orthostatic populations.<xref rid="jah310566-bib-0063" ref-type="bibr">
+<sup>63</sup>
+</xref>, <xref rid="jah310566-bib-0065" ref-type="bibr">
+<sup>65</sup>
+</xref> As the discriminative ability of NIRS to differentiate people with orthostatic intolerance from healthy controls is much weaker than more direct measures of CBF, this review will not cover NIRS at length. There is also a different variant of NIRS that uses coherent hemodynamics spectroscopy, which relies on fundamentally different physics principles to attain proxies for CBF.<xref rid="jah310566-bib-0066" ref-type="bibr">
+<sup>66</sup>
+</xref> These have shown promise in measuring CBF trends in supine patients; however, these have not been tested in orthostatic populations and are thus out of scope for this review.</p></sec><sec id="jah310566-sec-0015"><title>Wearable Pulse‐Wave Analysis</title><p>New wearables that measure correlates of CBF via pulse‐wave analysis have been developed in recent years. These devices will have the advantage of being more affordable and widely available to both medical providers and patients. These devices are portable and can capture real‐world data and provide feedback to clinicians and patients. The goal of wearable CBF monitoring is to correlate CBF to symptoms, triggers, and treatments patients experience in their daily lives and be able to evaluate the effects of activities and treatments on their CBF. The ease of deployment of wearable CBF monitors could be similar to a Holter monitor that provides feedback to patients and clinicians.</p><p>The Lumia (Lumia Health, Boston, MA) is an in‐ear wearable device that has been clinically validated and is being marketed to people with OI for them to track their own trends in blood flow to the head as a proxy for CBF.<xref rid="jah310566-bib-0067" ref-type="bibr">
+<sup>67</sup>
+</xref> The Lumia uses infrared light to interrogate the posterior auricular artery, which branches off the external carotid artery. It does not measure true flow but instead analyzes the pulse waveform's fullness to generate a relative flow index they call external carotid blood flow. It has been demonstrated to see significant blood flow drops preceding syncope during head‐up tilt.<xref rid="jah310566-bib-0068" ref-type="bibr">
+<sup>68</sup>
+</xref> Fudim, an author of this paper, tested this device against TCD ultrasound during head‐up tilt and has shared preliminary prepublished data demonstrating reasonable correlation.<xref rid="jah310566-bib-0067" ref-type="bibr">
+<sup>67</sup>
+</xref>
+</p><p>Another potentially relevant wearable is the Flosonics carotid ultrasound patch wearable (Flosonics Medical, Sudbury, Ontario, Canada), which targets monitoring the common carotid artery with continuous‐wave Doppler. This also primarily targets a form of pulse‐wave analysis, specifically looking at the corrected carotid artery flow time as a proxy for preload and volume status. There has been some promise of sensitivity to preload modifying maneuvers,<xref rid="jah310566-bib-0069" ref-type="bibr">
+<sup>69</sup>
+</xref> but the device has not been tested or validated in patients who are orthostatic intolerant to our knowledge.</p></sec></sec><sec id="jah310566-sec-0016"><title>Limitations of Existing Techniques</title><p>Both TCD and extracranial ultrasound methods of measuring CBF are limited by the lack of trained sonographers, varying sonography skills, likelihood of sonographer mistakes, and a limited ability to retrospectively identify sonographer mistakes, which can result in inadequate measurement quality passing as good signal.<xref rid="jah310566-bib-0070" ref-type="bibr">
+<sup>70</sup>
+</xref>, <xref rid="jah310566-bib-0071" ref-type="bibr">
+<sup>71</sup>
+</xref> In addition, there can be significant pulsed‐wave Doppler measurement variability between different ultrasound systems, which introduces further interlaboratory repeatability challenges.<xref rid="jah310566-bib-0070" ref-type="bibr">
+<sup>70</sup>
+</xref>, <xref rid="jah310566-bib-0072" ref-type="bibr">
+<sup>72</sup>
+</xref>, <xref rid="jah310566-bib-0073" ref-type="bibr">
+<sup>73</sup>
+</xref> Having a well‐trained sonographer with a validated ultrasound system are vital prerequisites for these techniques to be used successfully.</p><p>In addition to the above limitations, which are common to ultrasound in general, TCD monitoring of CBv has its own unique limitations.<xref rid="jah310566-bib-0037" ref-type="bibr">
+<sup>37</sup>
+</xref> TCD‐derived CBv is an imperfect proxy for total CBF that relies on several significant aforementioned assumptions such as constant MCA diameter, which have been shown to be problematic.<xref rid="jah310566-bib-0070" ref-type="bibr">
+<sup>70</sup>
+</xref>, <xref rid="jah310566-bib-0074" ref-type="bibr">
+<sup>74</sup>
+</xref>, <xref rid="jah310566-bib-0075" ref-type="bibr">
+<sup>75</sup>
+</xref> Specifically, 10% to 20% of patients cannot be insonated due to inadequate acoustic windows in the skull, and multiple laboratories have not been able to reproduce CBv measurements likely due to the described limitations.<xref rid="jah310566-bib-0045" ref-type="bibr">
+<sup>45</sup>
+</xref>, <xref rid="jah310566-bib-0060" ref-type="bibr">
+<sup>60</sup>
+</xref>, <xref rid="jah310566-bib-0070" ref-type="bibr">
+<sup>70</sup>
+</xref>, <xref rid="jah310566-bib-0076" ref-type="bibr">
+<sup>76</sup>
+</xref>
+</p><p>The extracranial ultrasound method addresses many of the assumptions that TCD operates under and does not have the issue of thick skulls preventing signal acquisition in 10% to 20% of subjects.<xref rid="jah310566-bib-0061" ref-type="bibr">
+<sup>61</sup>
+</xref> However, extracranial ultrasound is a more advanced technique than TCD with more steps required of sonographers, increasing the existing susceptibility to sonographer error and skill variability.<xref rid="jah310566-bib-0070" ref-type="bibr">
+<sup>70</sup>
+</xref>, <xref rid="jah310566-bib-0071" ref-type="bibr">
+<sup>71</sup>
+</xref> In addition, we were unable to find commercially available ultrasound systems that can automate diameter measurements and volume flow calculations, thus requiring nontrivial manual postprocessing, which may make it more difficult to increase clinician adoption. In addition, the extracranial ultrasound technique loses the continuous monitoring nature of TCD, as it only takes snapshots limited to a 1‐ to 2‐minute sampling period for a fast sonographer.</p><p>Due to the issues of ultrasound variability mentioned above,<xref rid="jah310566-bib-0037" ref-type="bibr">
+<sup>37</sup>
+</xref> developing quality standards to ensure that sonographers have proper technique in ultrasound measurement of CBF will be key to wider adoption and repeatability. Like TCD, the in‐ear optical wearable devices have similar assumptions as they measure branches of the external carotid artery. External carotid artery flow is known to deviate from internal carotid artery flow specifically when there is local intracranial vasoconstriction caused by hyperventilation.<xref rid="jah310566-bib-0077" ref-type="bibr">
+<sup>77</sup>
+</xref> External carotid flow is not a true measure of CBF, and as such the clinical implementation of such a device will be limited to situations in which total CBF reduction is caused by fluctuations in CO. In addition, notable challenges include that up to 10% of ears may not be compatible with these devices.</p></sec><sec sec-type="conclusions" id="jah310566-sec-0017"><title>Conclusions</title><p>CBF is a critical biomarker for OI and related disorders. CBF is measurably and considerably reduced in a vast majority of patients with OI, often despite normal heart rate and BP. Moreover, studies have found that 22% to 58% of patients with OI can have normal heart rate and BP readings despite abnormal CBF, often resulting in misdiagnoses.<xref rid="jah310566-bib-0052" ref-type="bibr">
+<sup>52</sup>
+</xref> Because of the poor sensitivity of diagnostic criteria relying on heart rate and BP such as that of POTS and OH, we recommend the incorporation of CBF monitoring as the core diagnostic criteria of cerebral autoregulatory abnormality. However, further validation of CBF monitoring techniques must be conducted before unified diagnostic criteria can be defined and recommended.</p><p>TCD ultrasound and extracranial ultrasound offer viable ways to measure CBF that have been tested in thousands of patients undergoing orthostasis. However, scalability and interlaboratory repeatability are known problems with existing CBF monitoring methods. There are not enough testing facilities to meet the current patient demand; for example, wait time for tilt table testing even without ultrasound can be years. CBF measurements are mainly used in research and specialty centers, and methods are not standardized for OI. TCD has had multiple reports of interlaboratory repeatability issues,<xref rid="jah310566-bib-0076" ref-type="bibr">
+<sup>76</sup>
+</xref> and the extracranial CBF ultrasound method has not yet demonstrated interlaboratory repeatability.<xref rid="jah310566-bib-0061" ref-type="bibr">
+<sup>61</sup>
+</xref> Both techniques require highly skilled sonographers, which may be a barrier to wider clinical adoption. Both ultrasound techniques must define more standardized monitoring techniques, such as mandating the use of time‐averaged mean instead of time‐averaged maximum velocities. Both methods must also find ways to verify sonographer quality to ensure interlaboratory repeatability.</p><p>New techniques and wearable devices on the horizon plan to address these challenges and make CBF monitoring more accessible in OI. However, these have significant fundamental assumptions, similar to TCD, so further validation is required before they can be incorporated into clinical practice.</p></sec><sec id="jah310566-sec-0018"><title>Sources of Funding</title><p>None.</p></sec><sec sec-type="COI-statement" id="jah310566-sec-0019"><title>Disclosures</title><p>Dr Miller is a consultant to Lumia Health. Dr Fudim was supported by the National Institutes of Health, Reprieve, Sardocor, and Doris Duke. He is a consultant/has ownership interest in Abbott, Ajax, Alio Health, Alleviant, Artha, Audicor, AxonTherapies, Bayer, Bodyguide, Bodyport, Boston Scientific, Broadview, Cadence, Cardioflow, CVRx, Daxor, Edwards LifeSciences, Echosens, EKO, Feldschuh Foundation, Fire1, FutureCardia, Galvani, Gradient, Hatteras, HemodynamiQ, Impulse Dynamics, Intershunt, Medtronic, Merck, NovoNordisk, NucleusRx, NXT Biomedical, Orchestra, Pharmacosmos, Presidio, Procyreon, Proton Intelligence, ReCor, SCPharma, Shifamed, Splendo, Lumia Health, Summacor, SyMap, Verily, Vironix, Viscardia, and Zoll. Dr Tandri is a consultant to Lumia Health and Abbott. Dr Frazier Mills is a consultant to Medtronic, Johnson &amp; Johnson, and Boston Scientific. Dr Raj is a consultant to Theravance Biopharma, Amneal Pharma, Servier Affaires Medicales, Regeneron, argenx BV, Antag Pharma, and Lumia Health. Jeroen Molinger has received honoraria or travel expenses for lectures from Abbott, Baxter, Danone‐Nutricia, Nestlé, Corsano Health, CalibreBio, VO2Master, Rockley Photonics, Vital Impact, Train‐Red, Vyaire Medical, MuscleSound. Dr Goyal received consulting fees from Agepha Pharma, Akros Pharma, Axon Therapies, Bayer HealthCare Pharmaceuticals, and Sensorum Health.</p></sec></body><back><ref-list content-type="cited-references" id="jah310566-bibl-0001"><title>References</title><ref id="jah310566-bib-0001"><label>1</label><mixed-citation publication-type="journal" id="jah310566-cit-0001">
+<string-name name-style="western">
+<surname>Sheldon</surname>
+<given-names>RS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Grubb</surname>
+<given-names>BP</given-names>
+<suffix>2nd</suffix>
+</string-name>, <string-name name-style="western">
+<surname>Olshansky</surname>
+<given-names>B</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Shen</surname>
+<given-names>WK</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Calkins</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Brignole</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Raj</surname>
+<given-names>SR</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Krahn</surname>
+<given-names>AD</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Morillo</surname>
+<given-names>CA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Stewart</surname>
+<given-names>JM</given-names>
+</string-name>, et al. <article-title>2015 heart rhythm society expert consensus statement on the diagnosis and treatment of postural tachycardia syndrome, inappropriate sinus tachycardia, and vasovagal syncope</article-title>. <source>Heart Rhythm</source>. <year>2015</year>;<volume>12</volume>:<fpage>e41</fpage>–<lpage>e63</lpage>. doi: <pub-id pub-id-type="doi">10.1016/j.hrthm.2015.03.029</pub-id>
+<pub-id pub-id-type="pmid">25980576</pub-id>
+<pub-id pub-id-type="pmcid">PMC5267948</pub-id></mixed-citation></ref><ref id="jah310566-bib-0002"><label>2</label><mixed-citation publication-type="book" id="jah310566-cit-0002">
+<string-name name-style="western">
+<surname>Stiles</surname>
+<given-names>LE</given-names>
+</string-name>. <part-title>Chronic fatigue syndrome and the autonomic nervous system</part-title>. <source>Chronic Fatigue Syndrome and the Autonomic Nervous System</source>. <publisher-loc>Primer on the Autonomic Nervous System</publisher-loc>: <publisher-name>In</publisher-name>; <year>2023</year>. doi: <pub-id pub-id-type="doi">10.1016/B978-0-323-85492-4.00027-2</pub-id>
+</mixed-citation></ref><ref id="jah310566-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="jah310566-cit-0003">
+<string-name name-style="western">
+<surname>Novak</surname>
+<given-names>P</given-names>
+</string-name>. <article-title>Cerebral blood flow, heart rate, and blood pressure patterns during the tilt test in common orthostatic syndromes</article-title>. <source>Neurosci J</source>. <year>2016</year>;<volume>2016</volume>:<elocation-id>6127340</elocation-id>. doi: <pub-id pub-id-type="doi">10.1155/2016/6127340</pub-id>
+<pub-id pub-id-type="pmid">27525257</pub-id>
+<pub-id pub-id-type="pmcid">PMC4972931</pub-id></mixed-citation></ref><ref id="jah310566-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="jah310566-cit-0004">
+<string-name name-style="western">
+<surname>Shaw</surname>
+<given-names>BH</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Stiles</surname>
+<given-names>LE</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bourne</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Green</surname>
+<given-names>EA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Shibao</surname>
+<given-names>CA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Okamoto</surname>
+<given-names>LE</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Garland</surname>
+<given-names>EM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gamboa</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Diedrich</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Raj</surname>
+<given-names>V</given-names>
+</string-name>, et al. <article-title>The face of postural tachycardia syndrome ‐ insights from a large cross‐sectional online community‐based survey</article-title>. <source>J Intern Med</source>. <year>2019</year>;<volume>286</volume>:<fpage>438</fpage>–<lpage>448</lpage>. doi: <pub-id pub-id-type="doi">10.1111/joim.12895</pub-id>
+<pub-id pub-id-type="pmid">30861229</pub-id>
+<pub-id pub-id-type="pmcid">PMC6790699</pub-id></mixed-citation></ref><ref id="jah310566-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="jah310566-cit-0005">
+<string-name name-style="western">
+<surname>McDonald</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Koshi</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Busner</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kavi</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Newton</surname>
+<given-names>JL</given-names>
+</string-name>. <article-title>Postural tachycardia syndrome is associated with significant symptoms and functional impairment predominantly affecting young women: a UK perspective</article-title>. <source>BMJ Open</source>. <year>2014</year>;<volume>4</volume>:<elocation-id>e004127</elocation-id>. doi: <pub-id pub-id-type="doi">10.1136/bmjopen-2013-004127</pub-id>
+<pub-id pub-id-type="pmcid">PMC4067814</pub-id><pub-id pub-id-type="pmid">24934205</pub-id></mixed-citation></ref><ref id="jah310566-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="jah310566-cit-0006">
+<string-name name-style="western">
+<surname>Johansson</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Stahlberg</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Runold</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Nygren‐Bonnier</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Nilsson</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Olshansky</surname>
+<given-names>B</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bruchfeld</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Fedorowski</surname>
+<given-names>A</given-names>
+</string-name>. <article-title>Long‐haul post‐COVID‐19 symptoms presenting as a variant of postural orthostatic tachycardia syndrome: the Swedish experience</article-title>. <source>JACC Case Rep</source>. <year>2021</year>;<volume>3</volume>:<fpage>573</fpage>–<lpage>580</lpage>. doi: <pub-id pub-id-type="doi">10.1016/j.jaccas.2021.01.009</pub-id>
+<pub-id pub-id-type="pmid">33723532</pub-id>
+<pub-id pub-id-type="pmcid">PMC7946344</pub-id></mixed-citation></ref><ref id="jah310566-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="jah310566-cit-0007">
+<string-name name-style="western">
+<surname>Davis</surname>
+<given-names>HE</given-names>
+</string-name>, <string-name name-style="western">
+<surname>McCorkell</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Vogel</surname>
+<given-names>JM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Topol</surname>
+<given-names>EJ</given-names>
+</string-name>. <article-title>Long COVID: major findings, mechanisms and recommendations</article-title>. <source>Nat Rev Microbiol</source>. <year>2023</year>;<volume>21</volume>:<fpage>133</fpage>–<lpage>146</lpage>. doi: <pub-id pub-id-type="doi">10.1038/s41579-022-00846-2</pub-id>
+<pub-id pub-id-type="pmid">36639608</pub-id>
+<pub-id pub-id-type="pmcid">PMC9839201</pub-id></mixed-citation></ref><ref id="jah310566-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="jah310566-cit-0008">
+<string-name name-style="western">
+<surname>Greenhalgh</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Knight</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>A'Court</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Buxton</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Husain</surname>
+<given-names>L</given-names>
+</string-name>. <article-title>Management of post‐acute covid‐19 in primary care</article-title>. <source>BMJ</source>. <year>2020</year>;<volume>370</volume>:<elocation-id>m3026</elocation-id>.<pub-id pub-id-type="pmid">32784198</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1136/bmj.m3026</pub-id></mixed-citation></ref><ref id="jah310566-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="jah310566-cit-0009">
+<string-name name-style="western">
+<surname>Novak</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mukerji</surname>
+<given-names>SS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Alabsi</surname>
+<given-names>HS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Systrom</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Marciano</surname>
+<given-names>SP</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Felsenstein</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mullally</surname>
+<given-names>WJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Pilgrim</surname>
+<given-names>DM</given-names>
+</string-name>. <article-title>Multisystem involvement in post‐acute sequelae of coronavirus disease 19</article-title>. <source>Ann Neurol</source>. <year>2022</year>;<volume>91</volume>:<fpage>367</fpage>–<lpage>379</lpage>. doi: <pub-id pub-id-type="doi">10.1002/ana.26286</pub-id>
+<pub-id pub-id-type="pmid">34952975</pub-id>
+<pub-id pub-id-type="pmcid">PMC9011495</pub-id></mixed-citation></ref><ref id="jah310566-bib-0010"><label>10</label><mixed-citation publication-type="miscellaneous" id="jah310566-cit-0010">
+<collab collab-type="authors">Long COVID Household Pulse Survey</collab>
+. Accessed August 6, 2024. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.cdc.gov/nchs/covid19/pulse/long-covid.htm" ext-link-type="uri">https://www.cdc.gov/nchs/covid19/pulse/long‐covid.htm</ext-link>.</mixed-citation></ref><ref id="jah310566-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="jah310566-cit-0011">
+<string-name name-style="western">
+<surname>Larsen</surname>
+<given-names>NW</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Stiles</surname>
+<given-names>LE</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Shaik</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Schneider</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Muppidi</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tsui</surname>
+<given-names>CT</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Geng</surname>
+<given-names>LN</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bonilla</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Miglis</surname>
+<given-names>MG</given-names>
+</string-name>. <article-title>Characterization of autonomic symptom burden in long COVID: a global survey of 2,314 adults</article-title>. <source>Front Neurol</source>. <year>2022</year>;<volume>13</volume>:<elocation-id>1012668</elocation-id>. doi: <pub-id pub-id-type="doi">10.3389/fneur.2022.1012668</pub-id>
+<pub-id pub-id-type="pmid">36353127</pub-id>
+<pub-id pub-id-type="pmcid">PMC9639503</pub-id></mixed-citation></ref><ref id="jah310566-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="jah310566-cit-0012">
+<string-name name-style="western">
+<surname>Bisaccia</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ricci</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Recce</surname>
+<given-names>V</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Serio</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Iannetti</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chahal</surname>
+<given-names>AA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Stahlberg</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Khanji</surname>
+<given-names>MY</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Fedorowski</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gallina</surname>
+<given-names>S</given-names>
+</string-name>. <article-title>Post‐acute sequelae of COVID‐19 and cardiovascular autonomic dysfunction: what do we know?</article-title>
+<source>J Cardiovasc Dev Dis</source>. <year>2021</year>;<volume>8</volume>:<elocation-id>156</elocation-id>. doi: <pub-id pub-id-type="doi">10.3390/jcdd8110156</pub-id>.<pub-id pub-id-type="pmid">34821709</pub-id>
+<pub-id pub-id-type="pmcid">PMC8621226</pub-id></mixed-citation></ref><ref id="jah310566-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="jah310566-cit-0013">
+<string-name name-style="western">
+<surname>Robertson</surname>
+<given-names>D</given-names>
+</string-name>. <article-title>The epidemic of orthostatic tachycardia and orthostatic intolerance</article-title>. <source>Am J Med Sci</source>. <year>1999</year>;<volume>317</volume>:<fpage>75</fpage>–<lpage>77</lpage>. doi: <pub-id pub-id-type="doi">10.1016/S0002-9629(15)40480-X</pub-id>
+<pub-id pub-id-type="pmid">10037110</pub-id>
+</mixed-citation></ref><ref id="jah310566-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="jah310566-cit-0014">
+<string-name name-style="western">
+<surname>Al‐Aly</surname>
+<given-names>Z</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Xie</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bowe</surname>
+<given-names>B</given-names>
+</string-name>. <article-title>High‐dimensional characterization of post‐acute sequelae of COVID‐19</article-title>. <source>Nature</source>. <year>2021</year>;<volume>594</volume>:<fpage>259</fpage>–<lpage>264</lpage>. doi: <pub-id pub-id-type="doi">10.1038/s41586-021-03553-9</pub-id>
+<pub-id pub-id-type="pmid">33887749</pub-id>
+</mixed-citation></ref><ref id="jah310566-bib-0015"><label>15</label><mixed-citation publication-type="journal" id="jah310566-cit-0015">
+<string-name name-style="western">
+<surname>Campen</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Visser</surname>
+<given-names>FC</given-names>
+</string-name>. <article-title>Long‐haul COVID patients: prevalence of POTS are reduced but cerebral blood flow abnormalities remain abnormal with longer disease duration</article-title>. <source>Healthcare (Basel)</source>. <year>2022</year>;<volume>10</volume>:<elocation-id>2105</elocation-id>. doi: <pub-id pub-id-type="doi">10.3390/healthcare10102105</pub-id>
+<pub-id pub-id-type="pmid">36292552</pub-id>
+<pub-id pub-id-type="pmcid">PMC9602558</pub-id></mixed-citation></ref><ref id="jah310566-bib-0016"><label>16</label><mixed-citation publication-type="journal" id="jah310566-cit-0016">
+<string-name name-style="western">
+<surname>Rink</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Khanna</surname>
+<given-names>S</given-names>
+</string-name>. <article-title>Significance of brain tissue oxygenation and the arachidonic acid cascade in stroke</article-title>. <source>Antioxid Redox Signal</source>. <year>2011</year>;<volume>14</volume>:<fpage>1889</fpage>–<lpage>1903</lpage>. doi: <pub-id pub-id-type="doi">10.1089/ars.2010.3474</pub-id>
+<pub-id pub-id-type="pmid">20673202</pub-id>
+<pub-id pub-id-type="pmcid">PMC3078506</pub-id></mixed-citation></ref><ref id="jah310566-bib-0017"><label>17</label><mixed-citation publication-type="book" id="jah310566-cit-0017">
+<string-name name-style="western">
+<surname>Schondorf</surname>
+<given-names>R</given-names>
+</string-name>. <part-title>Cerebral circulation</part-title>. In: <person-group person-group-type="editor">
+<string-name name-style="western">
+<surname>Biaggioni</surname>
+<given-names>I</given-names>
+</string-name>
+</person-group>, ed <source>Primer on the Autonomic Nervous System</source>. <publisher-name>Academic Press</publisher-name>; <year>2023</year>. doi: <pub-id pub-id-type="doi">10.1016/B978-0-323-85492-4.00097-1</pub-id>
+</mixed-citation></ref><ref id="jah310566-bib-0018"><label>18</label><mixed-citation publication-type="journal" id="jah310566-cit-0018">
+<string-name name-style="western">
+<surname>Mintun</surname>
+<given-names>MA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lundstrom</surname>
+<given-names>BN</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Snyder</surname>
+<given-names>AZ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Vlassenko</surname>
+<given-names>AG</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Shulman</surname>
+<given-names>GL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Raichle</surname>
+<given-names>ME</given-names>
+</string-name>. <article-title>Blood flow and oxygen delivery to human brain during functional activity: theoretical modeling and experimental data</article-title>. <source>Proc Natl Acad Sci USA</source>. <year>2001</year>;<volume>98</volume>:<fpage>6859</fpage>–<lpage>6864</lpage>. doi: <pub-id pub-id-type="doi">10.1073/pnas.111164398</pub-id>
+<pub-id pub-id-type="pmid">11381119</pub-id>
+<pub-id pub-id-type="pmcid">PMC34443</pub-id></mixed-citation></ref><ref id="jah310566-bib-0019"><label>19</label><mixed-citation publication-type="book" id="jah310566-cit-0019">
+<string-name name-style="western">
+<surname>Silverman</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Petersen</surname>
+<given-names>NH</given-names>
+</string-name>. <part-title>Physiology, Cerebral Autoregulation</part-title>. <source>StatPearls</source>. <publisher-loc>Treasure Island (FL)</publisher-loc>: <publisher-name>Ineligible Companies. Disclosure: Nils Petersen declares no relevant financial relationships with ineligible companies</publisher-name>; <year>2024</year>.</mixed-citation></ref><ref id="jah310566-bib-0020"><label>20</label><mixed-citation publication-type="journal" id="jah310566-cit-0020">
+<string-name name-style="western">
+<surname>Mar</surname>
+<given-names>PL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Raj</surname>
+<given-names>SR</given-names>
+</string-name>. <article-title>Postural orthostatic tachycardia syndrome: mechanisms and new therapies</article-title>. <source>Annu Rev Med</source>. <year>2020</year>;<volume>71</volume>:<fpage>235</fpage>–<lpage>248</lpage>. doi: <pub-id pub-id-type="doi">10.1146/annurev-med-041818-011630</pub-id>
+<pub-id pub-id-type="pmid">31412221</pub-id>
+</mixed-citation></ref><ref id="jah310566-bib-0021"><label>21</label><mixed-citation publication-type="journal" id="jah310566-cit-0021">
+<string-name name-style="western">
+<surname>Stewart</surname>
+<given-names>JM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Medow</surname>
+<given-names>MS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Montgomery</surname>
+<given-names>LD</given-names>
+</string-name>, <string-name name-style="western">
+<surname>McLeod</surname>
+<given-names>K</given-names>
+</string-name>. <article-title>Decreased skeletal muscle pump activity in patients with postural tachycardia syndrome and low peripheral blood flow</article-title>. <source>Am J Physiol Heart Circ Physiol</source>. <year>2004</year>;<volume>286</volume>:<fpage>H1216</fpage>–<lpage>H1222</lpage>. doi: <pub-id pub-id-type="doi">10.1152/ajpheart.00738.2003</pub-id>
+<pub-id pub-id-type="pmid">14576081</pub-id>
+</mixed-citation></ref><ref id="jah310566-bib-0022"><label>22</label><mixed-citation publication-type="journal" id="jah310566-cit-0022">
+<string-name name-style="western">
+<surname>Stewart</surname>
+<given-names>JM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Medow</surname>
+<given-names>MS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sutton</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Visintainer</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jardine</surname>
+<given-names>DL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wieling</surname>
+<given-names>W</given-names>
+</string-name>. <article-title>Mechanisms of vasovagal syncope in the young: reduced systemic vascular resistance versus reduced cardiac output</article-title>. <source>J Am Heart Assoc</source>. <year>2017</year>;<volume>18</volume>:<elocation-id>e004417</elocation-id>. doi: <pub-id pub-id-type="doi">10.1161/JAHA.116.004417</pub-id>
+<pub-id pub-id-type="pmcid">PMC5523632</pub-id><pub-id pub-id-type="pmid">28100453</pub-id></mixed-citation></ref><ref id="jah310566-bib-0023"><label>23</label><mixed-citation publication-type="journal" id="jah310566-cit-0023">
+<string-name name-style="western">
+<surname>Raj</surname>
+<given-names>SR</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Robertson</surname>
+<given-names>D</given-names>
+</string-name>. <article-title>Blood volume perturbations in the postural tachycardia syndrome</article-title>. <source>Am J Med Sci</source>. <year>2007</year>;<volume>334</volume>:<fpage>57</fpage>–<lpage>60</lpage>. doi: <pub-id pub-id-type="doi">10.1097/MAJ.0b013e318063c6c0</pub-id>
+<pub-id pub-id-type="pmid">17630594</pub-id>
+</mixed-citation></ref><ref id="jah310566-bib-0024"><label>24</label><mixed-citation publication-type="book" id="jah310566-cit-0024">
+<string-name name-style="western">
+<surname>Mount</surname>
+<given-names>CA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Das</surname>
+<given-names>JM</given-names>
+</string-name>. <source>Cerebral Perfusion Pressure. In: <italic toggle="yes">StatPearls</italic>. Treasure Island (FL) Ineligible Companies</source>. <publisher-loc>Joe Das declares no relevant financial relationships with ineligible companies</publisher-loc>: <publisher-name>Disclosure</publisher-name>; <year>2024</year>.</mixed-citation></ref><ref id="jah310566-bib-0025"><label>25</label><mixed-citation publication-type="journal" id="jah310566-cit-0025">
+<string-name name-style="western">
+<surname>Favre</surname>
+<given-names>ME</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lim</surname>
+<given-names>V</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Falvo</surname>
+<given-names>MJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Serrador</surname>
+<given-names>JM</given-names>
+</string-name>. <article-title>Cerebrovascular reactivity and cerebral autoregulation are improved in the supine posture compared to upright in healthy men and women</article-title>. <source>PLoS One</source>. <year>2020</year>;<volume>15</volume>:<elocation-id>e0229049</elocation-id>. doi: <pub-id pub-id-type="doi">10.1371/journal.pone.0229049</pub-id>
+<pub-id pub-id-type="pmid">32119678</pub-id>
+<pub-id pub-id-type="pmcid">PMC7051088</pub-id></mixed-citation></ref><ref id="jah310566-bib-0026"><label>26</label><mixed-citation publication-type="book" id="jah310566-cit-0026">
+<string-name name-style="western">
+<surname>Lawence‐Brown</surname>
+<given-names>MMD</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Liffman</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Semmens</surname>
+<given-names>JB</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sutalo</surname>
+<given-names>ID</given-names>
+</string-name>. <part-title>Vascular Arterial Haemodynamics</part-title>. In: <person-group person-group-type="editor">
+<string-name name-style="western">
+<surname>Fitridge</surname>
+<given-names>R</given-names>
+</string-name>
+</person-group>, <person-group person-group-type="editor">
+<string-name name-style="western">
+<surname>Thompson</surname>
+<given-names>M</given-names>
+</string-name>
+</person-group>, eds <source>Mechanisms of Vascular Disease: A Reference Book for Vascular Specialists</source>. <publisher-loc>Adelaide (AU)</publisher-loc>: <publisher-name>Barr Smith Press</publisher-name>; <year>2011</year>. doi: <pub-id pub-id-type="doi">10.1017/UPO9781922064004.009</pub-id>
+<pub-id pub-id-type="pmid">30485019</pub-id></mixed-citation></ref><ref id="jah310566-bib-0027"><label>27</label><mixed-citation publication-type="journal" id="jah310566-cit-0027">
+<string-name name-style="western">
+<surname>Stewart</surname>
+<given-names>JM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Taneja</surname>
+<given-names>I</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Medow</surname>
+<given-names>MS</given-names>
+</string-name>. <article-title>Reduced central blood volume and cardiac output and increased vascular resistance during static handgrip exercise in postural tachycardia syndrome</article-title>. <source>Am J Physiol Heart Circ Physiol</source>. <year>2007</year>;<volume>293</volume>:<fpage>H1908</fpage>–<lpage>H1917</lpage>. doi: <pub-id pub-id-type="doi">10.1152/ajpheart.00439.2007</pub-id>
+<pub-id pub-id-type="pmid">17616747</pub-id>
+<pub-id pub-id-type="pmcid">PMC4511486</pub-id></mixed-citation></ref><ref id="jah310566-bib-0028"><label>28</label><mixed-citation publication-type="journal" id="jah310566-cit-0028">
+<string-name name-style="western">
+<surname>Lassen</surname>
+<given-names>NA</given-names>
+</string-name>. <article-title>Cerebral blood flow and oxygen consumption in man</article-title>. <source>Physiol Rev</source>. <year>1959</year>;<volume>39</volume>:<fpage>183</fpage>–<lpage>238</lpage>. doi: <pub-id pub-id-type="doi">10.1152/physrev.1959.39.2.183</pub-id>
+<pub-id pub-id-type="pmid">13645234</pub-id>
+</mixed-citation></ref><ref id="jah310566-bib-0029"><label>29</label><mixed-citation publication-type="journal" id="jah310566-cit-0029">
+<string-name name-style="western">
+<surname>Claassen</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Thijssen</surname>
+<given-names>DHJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Panerai</surname>
+<given-names>RB</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Faraci</surname>
+<given-names>FM</given-names>
+</string-name>. <article-title>Regulation of cerebral blood flow in humans: physiology and clinical implications of autoregulation</article-title>. <source>Physiol Rev</source>. <year>2021</year>;<volume>101</volume>:<fpage>1487</fpage>–<lpage>1559</lpage>. doi: <pub-id pub-id-type="doi">10.1152/physrev.00022.2020</pub-id>
+<pub-id pub-id-type="pmid">33769101</pub-id>
+<pub-id pub-id-type="pmcid">PMC8576366</pub-id></mixed-citation></ref><ref id="jah310566-bib-0030"><label>30</label><mixed-citation publication-type="journal" id="jah310566-cit-0030">
+<string-name name-style="western">
+<surname>Low</surname>
+<given-names>PA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Novak</surname>
+<given-names>V</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Spies</surname>
+<given-names>JM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Novak</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Petty</surname>
+<given-names>GW</given-names>
+</string-name>. <article-title>Cerebrovascular regulation in the postural orthostatic tachycardia syndrome (POTS)</article-title>. <source>Am J Med Sci</source>. <year>1999</year>;<volume>317</volume>:<fpage>124</fpage>–<lpage>133</lpage>. doi: <pub-id pub-id-type="doi">10.1097/00000441-199902000-00007</pub-id>
+<pub-id pub-id-type="pmid">10037116</pub-id>
+</mixed-citation></ref><ref id="jah310566-bib-0031"><label>31</label><mixed-citation publication-type="journal" id="jah310566-cit-0031">
+<string-name name-style="western">
+<surname>Doczi</surname>
+<given-names>TP</given-names>
+</string-name>. <article-title>Comparison of static and dynamic cerebral autoregulation measurements</article-title>. <source>Stroke</source>. <year>1995</year>;<volume>26</volume>:<fpage>2372</fpage>–<lpage>2373</lpage>.<pub-id pub-id-type="pmid">7491668</pub-id>
+</mixed-citation></ref><ref id="jah310566-bib-0032"><label>32</label><mixed-citation publication-type="journal" id="jah310566-cit-0032">
+<string-name name-style="western">
+<surname>Medow</surname>
+<given-names>MS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Del Pozzi</surname>
+<given-names>AT</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Messer</surname>
+<given-names>ZR</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Terilli</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Stewart</surname>
+<given-names>JM</given-names>
+</string-name>. <article-title>Altered oscillatory cerebral blood flow velocity and autoregulation in postural tachycardia syndrome</article-title>. <source>Front Physiol</source>. <year>2014</year>;<volume>5</volume>:<fpage>234</fpage>. doi: <pub-id pub-id-type="doi">10.3389/fphys.2014.00234</pub-id>
+<pub-id pub-id-type="pmid">25002851</pub-id>
+<pub-id pub-id-type="pmcid">PMC4067089</pub-id></mixed-citation></ref><ref id="jah310566-bib-0033"><label>33</label><mixed-citation publication-type="journal" id="jah310566-cit-0033">
+<string-name name-style="western">
+<surname>Kidd</surname>
+<given-names>SK</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Doughty</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Goldhaber</surname>
+<given-names>SZ</given-names>
+</string-name>. <article-title>Syncope (fainting)</article-title>. <source>Circulation</source>. <year>2016</year>;<volume>133</volume>:<fpage>e600</fpage>–<lpage>e602</lpage>. doi: <pub-id pub-id-type="doi">10.1161/CIRCULATIONAHA.115.017308</pub-id>
+<pub-id pub-id-type="pmid">27142609</pub-id>
+</mixed-citation></ref><ref id="jah310566-bib-0034"><label>34</label><mixed-citation publication-type="journal" id="jah310566-cit-0034">
+<string-name name-style="western">
+<surname>Dan</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hoag</surname>
+<given-names>JB</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ellenbogen</surname>
+<given-names>KA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wood</surname>
+<given-names>MA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Eckberg</surname>
+<given-names>DL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gilligan</surname>
+<given-names>DM</given-names>
+</string-name>. <article-title>Cerebral blood flow velocity declines before arterial pressure in patients with orthostatic vasovagal presyncope</article-title>. <source>J Am Coll Cardiol</source>. <year>2002</year>;<volume>39</volume>:<fpage>1039</fpage>–<lpage>1045</lpage>. doi: <pub-id pub-id-type="doi">10.1016/S0735-1097(02)01719-9</pub-id>
+<pub-id pub-id-type="pmid">11897448</pub-id>
+</mixed-citation></ref><ref id="jah310566-bib-0035"><label>35</label><mixed-citation publication-type="journal" id="jah310566-cit-0035">
+<string-name name-style="western">
+<surname>Schondorf</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Stein</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Roberts</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Benoit</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cupples</surname>
+<given-names>W</given-names>
+</string-name>. <article-title>Dynamic cerebral autoregulation is preserved in neurally mediated syncope</article-title>. <source>J Appl Physiol</source>. <year>1985</year>;<volume>2001</volume>:<fpage>2493</fpage>–<lpage>2502</lpage>. doi: <pub-id pub-id-type="doi">10.1152/jappl.2001.91.6.2493</pub-id>
+<pub-id pub-id-type="pmid">11717210</pub-id></mixed-citation></ref><ref id="jah310566-bib-0036"><label>36</label><mixed-citation publication-type="journal" id="jah310566-cit-0036">
+<string-name name-style="western">
+<surname>Folino</surname>
+<given-names>AF</given-names>
+</string-name>. <article-title>Cerebral autoregulation in neurally mediated syncope: victim or executioner?</article-title>
+<source>Heart</source>. <year>2006</year>;<volume>92</volume>:<fpage>724</fpage>–<lpage>726</lpage>.<pub-id pub-id-type="pmid">16269439</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1136/hrt.2005.069179</pub-id><pub-id pub-id-type="pmcid">PMC1860656</pub-id></mixed-citation></ref><ref id="jah310566-bib-0037"><label>37</label><mixed-citation publication-type="journal" id="jah310566-cit-0037">
+<string-name name-style="western">
+<surname>Skow</surname>
+<given-names>RJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Brothers</surname>
+<given-names>RM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Claassen</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Day</surname>
+<given-names>TA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rickards</surname>
+<given-names>CA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Smirl</surname>
+<given-names>JD</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Brassard</surname>
+<given-names>P</given-names>
+</string-name>. <article-title>On the use and misuse of cerebral hemodynamics terminology using transcranial Doppler ultrasound: a call for standardization</article-title>. <source>Am J Physiol Heart Circ Physiol</source>. <year>2022</year>;<volume>323</volume>:<fpage>H350</fpage>–<lpage>H357</lpage>. doi: <pub-id pub-id-type="doi">10.1152/ajpheart.00107.2022</pub-id>
+<pub-id pub-id-type="pmid">35839156</pub-id>
+</mixed-citation></ref><ref id="jah310566-bib-0038"><label>38</label><mixed-citation publication-type="journal" id="jah310566-cit-0038">
+<string-name name-style="western">
+<surname>Ocon</surname>
+<given-names>AJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Medow</surname>
+<given-names>MS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Taneja</surname>
+<given-names>I</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Clarke</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Stewart</surname>
+<given-names>JM</given-names>
+</string-name>. <article-title>Decreased upright cerebral blood flow and cerebral autoregulation in normocapnic postural tachycardia syndrome</article-title>. <source>Am J Physiol Heart Circ Physiol</source>. <year>2009</year>;<volume>297</volume>:<fpage>H664</fpage>–<lpage>H673</lpage>. doi: <pub-id pub-id-type="doi">10.1152/ajpheart.00138.2009</pub-id>
+<pub-id pub-id-type="pmid">19502561</pub-id>
+<pub-id pub-id-type="pmcid">PMC2724195</pub-id></mixed-citation></ref><ref id="jah310566-bib-0039"><label>39</label><mixed-citation publication-type="journal" id="jah310566-cit-0039">
+<string-name name-style="western">
+<surname>Del Pozzi</surname>
+<given-names>AT</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Schwartz</surname>
+<given-names>CE</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tewari</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Medow</surname>
+<given-names>MS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Stewart</surname>
+<given-names>JM</given-names>
+</string-name>. <article-title>Reduced cerebral blood flow with orthostasis precedes hypocapnic hyperpnea, sympathetic activation, and postural tachycardia syndrome</article-title>. <source>Hypertension</source>. <year>2014</year>;<volume>63</volume>:<fpage>1302</fpage>–<lpage>1308</lpage>. doi: <pub-id pub-id-type="doi">10.1161/HYPERTENSIONAHA.113.02824</pub-id>
+<pub-id pub-id-type="pmid">24711524</pub-id>
+<pub-id pub-id-type="pmcid">PMC4016155</pub-id></mixed-citation></ref><ref id="jah310566-bib-0040"><label>40</label><mixed-citation publication-type="journal" id="jah310566-cit-0040">
+<string-name name-style="western">
+<surname>Stewart</surname>
+<given-names>JM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Del Pozzi</surname>
+<given-names>AT</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Pandey</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Messer</surname>
+<given-names>ZR</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Terilli</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Medow</surname>
+<given-names>MS</given-names>
+</string-name>. <article-title>Oscillatory cerebral blood flow is associated with impaired neurocognition and functional hyperemia in postural tachycardia syndrome during graded tilt</article-title>. <source>Hypertension</source>. <year>2015</year>;<volume>65</volume>:<fpage>636</fpage>–<lpage>643</lpage>. doi: <pub-id pub-id-type="doi">10.1161/HYPERTENSIONAHA.114.04576</pub-id>
+<pub-id pub-id-type="pmid">25510829</pub-id>
+<pub-id pub-id-type="pmcid">PMC4326551</pub-id></mixed-citation></ref><ref id="jah310566-bib-0041"><label>41</label><mixed-citation publication-type="journal" id="jah310566-cit-0041">
+<string-name name-style="western">
+<surname>Stewart</surname>
+<given-names>JM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Medow</surname>
+<given-names>MS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Messer</surname>
+<given-names>ZR</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Baugham</surname>
+<given-names>IL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Terilli</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ocon</surname>
+<given-names>AJ</given-names>
+</string-name>. <article-title>Postural neurocognitive and neuronal activated cerebral blood flow deficits in young chronic fatigue syndrome patients with postural tachycardia syndrome</article-title>. <source>Am J Physiol Heart Circ Physiol</source>. <year>2012</year>;<volume>302</volume>:<fpage>H1185</fpage>–<lpage>H1194</lpage>. doi: <pub-id pub-id-type="doi">10.1152/ajpheart.00994.2011</pub-id>
+<pub-id pub-id-type="pmid">22180650</pub-id>
+<pub-id pub-id-type="pmcid">PMC3311460</pub-id></mixed-citation></ref><ref id="jah310566-bib-0042"><label>42</label><mixed-citation publication-type="journal" id="jah310566-cit-0042">
+<string-name name-style="western">
+<surname>Novak</surname>
+<given-names>P</given-names>
+</string-name>. <article-title>Hypocapnic cerebral hypoperfusion: a biomarker of orthostatic intolerance</article-title>. <source>PLoS One</source>. <year>2018</year>;<volume>13</volume>:<elocation-id>e0204419</elocation-id>. doi: <pub-id pub-id-type="doi">10.1371/journal.pone.0204419</pub-id>
+<pub-id pub-id-type="pmid">30256820</pub-id>
+<pub-id pub-id-type="pmcid">PMC6157889</pub-id></mixed-citation></ref><ref id="jah310566-bib-0043"><label>43</label><mixed-citation publication-type="journal" id="jah310566-cit-0043">
+<string-name name-style="western">
+<surname>Baker</surname>
+<given-names>J</given-names>
+</string-name>. <article-title>Reduced stroke volume and brain perfusion drive postural hyperventilation in postural orthostatic tachycardia syndrome</article-title>. <source>JACC Basic Trans Sci</source>. <year>2024</year>;<volume>9</volume>:<fpage>939</fpage>–<lpage>953</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.jacbts.2024.04.011</pub-id><pub-id pub-id-type="pmcid">PMC11405806</pub-id><pub-id pub-id-type="pmid">39297140</pub-id></mixed-citation></ref><ref id="jah310566-bib-0044"><label>44</label><mixed-citation publication-type="journal" id="jah310566-cit-0044">
+<string-name name-style="western">
+<surname>Sandler</surname>
+<given-names>CX</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lloyd</surname>
+<given-names>AR</given-names>
+</string-name>. <article-title>Chronic fatigue syndrome: progress and possibilities</article-title>. <source>Med J Aust</source>. <year>2020</year>;<volume>212</volume>:<fpage>428</fpage>–<lpage>433</lpage>. doi: <pub-id pub-id-type="doi">10.5694/mja2.50553</pub-id>
+<pub-id pub-id-type="pmid">32248536</pub-id>
+</mixed-citation></ref><ref id="jah310566-bib-0045"><label>45</label><mixed-citation publication-type="journal" id="jah310566-cit-0045">
+<string-name name-style="western">
+<surname>Razumovsky</surname>
+<given-names>AY</given-names>
+</string-name>, <string-name name-style="western">
+<surname>DeBusk</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Calkins</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Snader</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lucas</surname>
+<given-names>KE</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Vyas</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hanley</surname>
+<given-names>DF</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rowe</surname>
+<given-names>PC</given-names>
+</string-name>. <article-title>Cerebral and systemic hemodynamics changes during upright tilt in chronic fatigue syndrome</article-title>. <source>J Neuroimaging</source>. <year>2003</year>;<volume>13</volume>:<fpage>57</fpage>–<lpage>67</lpage>. doi: <pub-id pub-id-type="doi">10.1111/j.1552-6569.2003.tb00158.x</pub-id>
+<pub-id pub-id-type="pmid">12593133</pub-id>
+</mixed-citation></ref><ref id="jah310566-bib-0046"><label>46</label><mixed-citation publication-type="journal" id="jah310566-cit-0046">
+<string-name name-style="western">
+<surname>van Campen</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Verheugt</surname>
+<given-names>FWA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rowe</surname>
+<given-names>PC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Visser</surname>
+<given-names>FC</given-names>
+</string-name>. <article-title>Cerebral blood flow is reduced in ME/CFS during head‐up tilt testing even in the absence of hypotension or tachycardia: a quantitative, controlled study using Doppler echography</article-title>. <source>Clin Neurophysiol Pract</source>. <year>2020</year>;<volume>5</volume>:<fpage>50</fpage>–<lpage>58</lpage>. doi: <pub-id pub-id-type="doi">10.1016/j.cnp.2020.01.003</pub-id>
+<pub-id pub-id-type="pmid">32140630</pub-id>
+<pub-id pub-id-type="pmcid">PMC7044650</pub-id></mixed-citation></ref><ref id="jah310566-bib-0047"><label>47</label><mixed-citation publication-type="journal" id="jah310566-cit-0047">
+<string-name name-style="western">
+<surname>van Campen</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rowe</surname>
+<given-names>PC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Visser</surname>
+<given-names>FC</given-names>
+</string-name>. <article-title>Cerebral blood flow remains reduced after tilt testing in myalgic encephalomyelitis/chronic fatigue syndrome patients</article-title>. <source>Clin Neurophysiol Pract</source>. <year>2021</year>;<volume>6</volume>:<fpage>245</fpage>–<lpage>255</lpage>. doi: <pub-id pub-id-type="doi">10.1016/j.cnp.2021.09.001</pub-id>
+<pub-id pub-id-type="pmid">34667909</pub-id>
+<pub-id pub-id-type="pmcid">PMC8505270</pub-id></mixed-citation></ref><ref id="jah310566-bib-0048"><label>48</label><mixed-citation publication-type="book" id="jah310566-cit-0048">
+<string-name name-style="western">
+<surname>van Campen</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Visser</surname>
+<given-names>FC</given-names>
+</string-name>. <source>Psychogenic Pseudosyncope: Real or Imaginary? Results from a Case‐Control Study in Myalgic Encephalomyelitis/Chronic Fatigue Syndrome (ME/CFS) Patients</source>. <publisher-loc>Medicina (Kaunas)</publisher-loc>; <year>2022</year>;<volume>58</volume>:<elocation-id>98</elocation-id>. doi: <pub-id pub-id-type="doi">10.3390/medicina58010098</pub-id>
+<pub-id pub-id-type="pmid">35056406</pub-id>
+<pub-id pub-id-type="pmcid">PMC8781940</pub-id></mixed-citation></ref><ref id="jah310566-bib-0049"><label>49</label><mixed-citation publication-type="journal" id="jah310566-cit-0049">
+<string-name name-style="western">
+<surname>Norcliffe‐Kaufmann</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Galindo‐Mendez</surname>
+<given-names>B</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Garcia‐Guarniz</surname>
+<given-names>AL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Villarreal‐Vitorica</surname>
+<given-names>E</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Novak</surname>
+<given-names>V</given-names>
+</string-name>. <article-title>Transcranial Doppler in autonomic testing: standards and clinical applications</article-title>. <source>Clin Auton Res</source>. <year>2018</year>;<volume>28</volume>:<fpage>187</fpage>–<lpage>202</lpage>. doi: <pub-id pub-id-type="doi">10.1007/s10286-017-0454-2</pub-id>
+<pub-id pub-id-type="pmid">28821991</pub-id>
+<pub-id pub-id-type="pmcid">PMC5891134</pub-id></mixed-citation></ref><ref id="jah310566-bib-0050"><label>50</label><mixed-citation publication-type="journal" id="jah310566-cit-0050">
+<string-name name-style="western">
+<surname>Novak</surname>
+<given-names>P</given-names>
+</string-name>. <article-title>Orthostatic cerebral Hypoperfusion syndrome</article-title>. <source>Front Aging Neurosci</source>. <year>2016</year>;<volume>8</volume>:<fpage>22</fpage>. doi: <pub-id pub-id-type="doi">10.3389/fnagi.2016.00022</pub-id>
+<pub-id pub-id-type="pmid">26909037</pub-id>
+<pub-id pub-id-type="pmcid">PMC4754393</pub-id></mixed-citation></ref><ref id="jah310566-bib-0051"><label>51</label><mixed-citation publication-type="journal" id="jah310566-cit-0051">
+<string-name name-style="western">
+<surname>Immink</surname>
+<given-names>RV</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Pott</surname>
+<given-names>FC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Secher</surname>
+<given-names>NH</given-names>
+</string-name>, <string-name name-style="western">
+<surname>van Lieshout</surname>
+<given-names>JJ</given-names>
+</string-name>. <article-title>Hyperventilation, cerebral perfusion, and syncope</article-title>. <source>J Appl Physiol</source>. <year>1985</year>;<volume>2014</volume>:<fpage>844</fpage>–<lpage>851</lpage>. doi: <pub-id pub-id-type="doi">10.1152/japplphysiol.00637.2013</pub-id>
+<pub-id pub-id-type="pmid">24265279</pub-id></mixed-citation></ref><ref id="jah310566-bib-0052"><label>52</label><mixed-citation publication-type="journal" id="jah310566-cit-0052">
+<string-name name-style="western">
+<surname>van Campen</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Verheugt</surname>
+<given-names>FWA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Visser</surname>
+<given-names>FC</given-names>
+</string-name>. <article-title>Cerebral blood flow changes during tilt table testing in healthy volunteers, as assessed by Doppler imaging of the carotid and vertebral arteries</article-title>. <source>Clin Neurophysiol Pract</source>. <year>2018</year>;<volume>3</volume>:<fpage>91</fpage>–<lpage>95</lpage>. doi: <pub-id pub-id-type="doi">10.1016/j.cnp.2018.02.004</pub-id>
+<pub-id pub-id-type="pmid">30215015</pub-id>
+<pub-id pub-id-type="pmcid">PMC6133915</pub-id></mixed-citation></ref><ref id="jah310566-bib-0053"><label>53</label><mixed-citation publication-type="journal" id="jah310566-cit-0053">
+<string-name name-style="western">
+<surname>Novak</surname>
+<given-names>P</given-names>
+</string-name>. <article-title>Post COVID‐19 syndrome associated with orthostatic cerebral hypoperfusion syndrome, small fiber neuropathy and benefit of immunotherapy: a case report</article-title>. <source>eNeurologicalSci</source>. <year>2020</year>;<volume>21</volume>:<elocation-id>100276</elocation-id>. doi: <pub-id pub-id-type="doi">10.1016/j.ensci.2020.100276</pub-id>
+<pub-id pub-id-type="pmid">32984564</pub-id>
+<pub-id pub-id-type="pmcid">PMC7502253</pub-id></mixed-citation></ref><ref id="jah310566-bib-0054"><label>54</label><mixed-citation publication-type="book" id="jah310566-cit-0054">
+<string-name name-style="western">
+<surname>Campen</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rowe</surname>
+<given-names>PC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Visser</surname>
+<given-names>FC</given-names>
+</string-name>. <source>Orthostatic Symptoms and Reductions in Cerebral Blood Flow in Long‐Haul COVID‐19 Patients: Similarities with Myalgic Encephalomyelitis/Chronic Fatigue Syndrome</source>. <publisher-loc>Medicina (Kaunas)</publisher-loc>: <publisher-name>MDPI; Medicina</publisher-name>; <year>2021</year>:<fpage>58</fpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.3390/medicina58010028</pub-id><pub-id pub-id-type="pmcid">PMC8778312</pub-id><pub-id pub-id-type="pmid">35056336</pub-id></mixed-citation></ref><ref id="jah310566-bib-0055"><label>55</label><mixed-citation publication-type="journal" id="jah310566-cit-0055">
+<string-name name-style="western">
+<surname>Albina</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Fernandez Cisneros</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Laino</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Nobo</surname>
+<given-names>UL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ortega</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Schwarz</surname>
+<given-names>E</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Barja</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lagos</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Giniger</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ameriso</surname>
+<given-names>SF</given-names>
+</string-name>. <article-title>Transcranial Doppler monitoring during head upright tilt table testing in patients with suspected neurocardiogenic syncope</article-title>. <source>Europace</source>. <year>2004</year>;<volume>6</volume>:<fpage>63</fpage>–<lpage>69</lpage>. doi: <pub-id pub-id-type="doi">10.1016/j.eupc.2003.09.009</pub-id>
+<pub-id pub-id-type="pmid">14697728</pub-id>
+</mixed-citation></ref><ref id="jah310566-bib-0056"><label>56</label><mixed-citation publication-type="journal" id="jah310566-cit-0056">
+<string-name name-style="western">
+<surname>Novak</surname>
+<given-names>V</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Spies</surname>
+<given-names>JM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Novak</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>McPhee</surname>
+<given-names>BR</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rummans</surname>
+<given-names>TA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Low</surname>
+<given-names>PA</given-names>
+</string-name>. <article-title>Hypocapnia and cerebral hypoperfusion in orthostatic intolerance</article-title>. <source>Stroke</source>. <year>1998</year>;<volume>29</volume>:<fpage>1876</fpage>–<lpage>1881</lpage>. doi: <pub-id pub-id-type="doi">10.1161/01.str.29.9.1876</pub-id>
+<pub-id pub-id-type="pmid">9731612</pub-id>
+</mixed-citation></ref><ref id="jah310566-bib-0057"><label>57</label><mixed-citation publication-type="journal" id="jah310566-cit-0057">
+<string-name name-style="western">
+<surname>Shoemaker</surname>
+<given-names>LN</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Milej</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mistry</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>St</surname>
+<given-names>LK</given-names>
+</string-name>. <article-title>Using depth‐enhanced diffuse correlation spectroscopy and near‐infrared spectroscopy to isolate cerebral hemodynamics during transient hypotension</article-title>. <source>Neurophotonics</source>. <year>2023</year>;<volume>10</volume>:<elocation-id>025013</elocation-id>. doi: <pub-id pub-id-type="doi">10.1117/1.NPh.10.2.025013</pub-id>
+<pub-id pub-id-type="pmid">37284246</pub-id>
+<pub-id pub-id-type="pmcid">PMC10241370</pub-id></mixed-citation></ref><ref id="jah310566-bib-0058"><label>58</label><mixed-citation publication-type="journal" id="jah310566-cit-0058">
+<string-name name-style="western">
+<surname>Sakudo</surname>
+<given-names>A</given-names>
+</string-name>. <article-title>Near‐infrared spectroscopy for medical applications: current status and future perspectives</article-title>. <source>Clin Chim Acta</source>. <year>2016</year>;<volume>455</volume>:<fpage>181</fpage>–<lpage>188</lpage>. doi: <pub-id pub-id-type="doi">10.1016/j.cca.2016.02.009</pub-id>
+<pub-id pub-id-type="pmid">26877058</pub-id>
+</mixed-citation></ref><ref id="jah310566-bib-0059"><label>59</label><mixed-citation publication-type="journal" id="jah310566-cit-0059">
+<string-name name-style="western">
+<surname>Kharraziha</surname>
+<given-names>I</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Holm</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bachus</surname>
+<given-names>E</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Melander</surname>
+<given-names>O</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sutton</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Fedorowski</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hamrefors</surname>
+<given-names>V</given-names>
+</string-name>. <article-title>Monitoring of cerebral oximetry in patients with postural orthostatic tachycardia syndrome</article-title>. <source>Europace</source>. <year>2019</year>;<volume>21</volume>:<fpage>1575</fpage>–<lpage>1583</lpage>. doi: <pub-id pub-id-type="doi">10.1093/europace/euz204</pub-id>
+<pub-id pub-id-type="pmid">31384930</pub-id>
+<pub-id pub-id-type="pmcid">PMC6877984</pub-id></mixed-citation></ref><ref id="jah310566-bib-0060"><label>60</label><mixed-citation publication-type="journal" id="jah310566-cit-0060">
+<string-name name-style="western">
+<surname>D'Andrea</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Conte</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Scarafile</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Riegler</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cocchia</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Pezzullo</surname>
+<given-names>E</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cavallaro</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Carbone</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Natale</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Russo</surname>
+<given-names>MG</given-names>
+</string-name>, et al. <article-title>Transcranial Doppler ultrasound: physical principles and principal applications in Neurocritical care unit</article-title>. <source>J Cardiovasc Echogr</source>. <year>2016</year>;<volume>26</volume>:<fpage>28</fpage>–<lpage>41</lpage>. doi: <pub-id pub-id-type="doi">10.4103/2211-4122.183746</pub-id>
+<pub-id pub-id-type="pmid">28465958</pub-id>
+<pub-id pub-id-type="pmcid">PMC5224659</pub-id></mixed-citation></ref><ref id="jah310566-bib-0061"><label>61</label><mixed-citation publication-type="book" id="jah310566-cit-0061">
+<string-name name-style="western">
+<surname>Dhingra</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Salisbury</surname>
+<given-names>BH</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chakko</surname>
+<given-names>MN</given-names>
+</string-name>. <part-title>Doppler Extra‐Cranial Carotid Assessment, Protocols, and Interpretation</part-title>. <source>StatPearls</source>. <publisher-loc>Treasure Island (FL)</publisher-loc>: <publisher-name>Ineligible Companies. Disclosure: Blake Salisbury Declares no Relevant Financial Relationships with Ineligible Companies. Disclosure: Mathew Chakko declares no relevant financial relationships with ineligible companies</publisher-name>; <year>2024</year>.</mixed-citation></ref><ref id="jah310566-bib-0062"><label>62</label><mixed-citation publication-type="journal" id="jah310566-cit-0062">
+<string-name name-style="western">
+<surname>Kharraziha</surname>
+<given-names>I</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Holm</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bachus</surname>
+<given-names>E</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ricci</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sutton</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Fedorowski</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hamrefors</surname>
+<given-names>V</given-names>
+</string-name>. <article-title>Cerebral oximetry in syncope and syndromes of orthostatic intolerance</article-title>. <source>Front Cardiovasc Med</source>. <year>2019</year>;<volume>6</volume>:<fpage>171</fpage>. doi: <pub-id pub-id-type="doi">10.3389/fcvm.2019.00171</pub-id>
+<pub-id pub-id-type="pmid">31824964</pub-id>
+<pub-id pub-id-type="pmcid">PMC6886369</pub-id></mixed-citation></ref><ref id="jah310566-bib-0063"><label>63</label><mixed-citation publication-type="journal" id="jah310566-cit-0063">
+<string-name name-style="western">
+<surname>Kim</surname>
+<given-names>JM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Choi</surname>
+<given-names>JK</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Choi</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ji</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hwang</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ko</surname>
+<given-names>SB</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bae</surname>
+<given-names>HM</given-names>
+</string-name>. <article-title>Assessment of cerebral autoregulation using continuous‐wave near‐infrared spectroscopy during squat‐stand maneuvers in subjects with symptoms of orthostatic intolerance</article-title>. <source>Sci Rep</source>. <year>2018</year>;<volume>8</volume>:<fpage>13257</fpage>. doi: <pub-id pub-id-type="doi">10.1038/s41598-018-31685-y</pub-id>
+<pub-id pub-id-type="pmid">30185974</pub-id>
+<pub-id pub-id-type="pmcid">PMC6125591</pub-id></mixed-citation></ref><ref id="jah310566-bib-0064"><label>64</label><mixed-citation publication-type="journal" id="jah310566-cit-0064">
+<string-name name-style="western">
+<surname>Harms</surname>
+<given-names>MP</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Colier</surname>
+<given-names>WN</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wieling</surname>
+<given-names>W</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lenders</surname>
+<given-names>JW</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Secher</surname>
+<given-names>NH</given-names>
+</string-name>, <string-name name-style="western">
+<surname>van Lieshout</surname>
+<given-names>JJ</given-names>
+</string-name>. <article-title>Orthostatic tolerance, cerebral oxygenation, and blood velocity in humans with sympathetic failure</article-title>. <source>Stroke</source>. <year>2000</year>;<volume>31</volume>:<fpage>1608</fpage>–<lpage>1614</lpage>. doi: <pub-id pub-id-type="doi">10.1161/01.STR.31.7.1608</pub-id>
+<pub-id pub-id-type="pmid">10884461</pub-id>
+</mixed-citation></ref><ref id="jah310566-bib-0065"><label>65</label><mixed-citation publication-type="journal" id="jah310566-cit-0065">
+<string-name name-style="western">
+<surname>Kim</surname>
+<given-names>JM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Park</surname>
+<given-names>KI</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Choi</surname>
+<given-names>SY</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Park</surname>
+<given-names>HE</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lee</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bae</surname>
+<given-names>HM</given-names>
+</string-name>. <article-title>Dynamic alterations in cerebral hemodynamics measured by portable near‐infrared spectroscopy in orthostatic hypotension and intolerance</article-title>. <source>Am J Hypertens</source>. <year>2023</year>;<volume>36</volume>:<fpage>385</fpage>–<lpage>393</lpage>. doi: <pub-id pub-id-type="doi">10.1093/ajh/hpad025</pub-id>
+<pub-id pub-id-type="pmid">36905205</pub-id>
+</mixed-citation></ref><ref id="jah310566-bib-0066"><label>66</label><mixed-citation publication-type="journal" id="jah310566-cit-0066">
+<string-name name-style="western">
+<surname>Pham</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tgavalekos</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sassaroli</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Blaney</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Fantini</surname>
+<given-names>S</given-names>
+</string-name>. <article-title>Quantitative measurements of cerebral blood flow with near‐infrared spectroscopy</article-title>. <source>Biomed Opt Express</source>. <year>2019</year>;<volume>10</volume>:<fpage>2117</fpage>–<lpage>2134</lpage>. doi: <pub-id pub-id-type="doi">10.1364/BOE.10.002117</pub-id>
+<pub-id pub-id-type="pmid">31061774</pub-id>
+<pub-id pub-id-type="pmcid">PMC6484993</pub-id></mixed-citation></ref><ref id="jah310566-bib-0067"><label>67</label><mixed-citation publication-type="book" id="jah310566-cit-0067">
+<string-name name-style="western">
+<surname>Lee</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Fudim</surname>
+<given-names>M</given-names>
+</string-name>. <source>Using an Ear Device to to Monitor Blood Flow to the Head as a Dysautonomia Management Tool</source>. <publisher-name>Dysautonomic International</publisher-name>; <year>2023</year>. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://vimeo.com/859062357" ext-link-type="uri">https://vimeo.com/859062357</ext-link>.</mixed-citation></ref><ref id="jah310566-bib-0068"><label>68</label><mixed-citation publication-type="journal" id="jah310566-cit-0068">
+<string-name name-style="western">
+<surname>Tripathi</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gonuguntla</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lee</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Fudim</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Brinker</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tandri</surname>
+<given-names>H</given-names>
+</string-name>. <article-title>Monitoring carotid blood flow using in‐ear wearable device during tilt‐table testing</article-title>. <source>JACC Clin Electrophysiol</source>. <year>2023</year>;<volume>9</volume>:<fpage>710</fpage>–<lpage>712</lpage>. doi: <pub-id pub-id-type="doi">10.1016/j.jacep.2023.02.002</pub-id>
+<pub-id pub-id-type="pmid">36951817</pub-id>
+</mixed-citation></ref><ref id="jah310566-bib-0069"><label>69</label><mixed-citation publication-type="journal" id="jah310566-cit-0069">
+<string-name name-style="western">
+<surname>Kenny</surname>
+<given-names>JS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Barjaktarevic</surname>
+<given-names>I</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Eibl</surname>
+<given-names>AM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Parrotta</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Long</surname>
+<given-names>BF</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Eibl</surname>
+<given-names>JK</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Michard</surname>
+<given-names>F</given-names>
+</string-name>. <article-title>A carotid Doppler patch accurately tracks stroke volume changes during a preload‐modifying maneuver in healthy volunteers</article-title>. <source>Crit Care Explor</source>. <year>2020</year>;<volume>2</volume>:<elocation-id>e0072</elocation-id>. doi: <pub-id pub-id-type="doi">10.1097/CCE.0000000000000072</pub-id>
+<pub-id pub-id-type="pmid">32166292</pub-id>
+<pub-id pub-id-type="pmcid">PMC7063906</pub-id></mixed-citation></ref><ref id="jah310566-bib-0070"><label>70</label><mixed-citation publication-type="journal" id="jah310566-cit-0070">
+<string-name name-style="western">
+<surname>Purkayastha</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sorond</surname>
+<given-names>F</given-names>
+</string-name>. <article-title>Transcranial Doppler ultrasound: technique and application</article-title>. <source>Semin Neurol</source>. <year>2012</year>;<volume>32</volume>:<fpage>411</fpage>–<lpage>420</lpage>. doi: <pub-id pub-id-type="doi">10.1055/s-0032-1331812</pub-id>
+<pub-id pub-id-type="pmid">23361485</pub-id>
+<pub-id pub-id-type="pmcid">PMC3902805</pub-id></mixed-citation></ref><ref id="jah310566-bib-0071"><label>71</label><mixed-citation publication-type="journal" id="jah310566-cit-0071">
+<string-name name-style="western">
+<surname>Lui</surname>
+<given-names>EYL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Steinman</surname>
+<given-names>AH</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cobbold</surname>
+<given-names>RSC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Johnston</surname>
+<given-names>KW</given-names>
+</string-name>. <article-title>Human factors as a source of error in peak Doppler velocity measurement</article-title>. <source>J Vasc Surg</source>. <year>2005</year>;<volume>42</volume>:<fpage>972</fpage>–<lpage>979</lpage>. doi: <pub-id pub-id-type="doi">10.1016/j.jvs.2005.07.014</pub-id>
+<pub-id pub-id-type="pmid">16275456</pub-id>
+</mixed-citation></ref><ref id="jah310566-bib-0072"><label>72</label><mixed-citation publication-type="journal" id="jah310566-cit-0072">
+<string-name name-style="western">
+<surname>Russ</surname>
+<given-names>MK</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lafata</surname>
+<given-names>NM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Robertson</surname>
+<given-names>SH</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Samei</surname>
+<given-names>E</given-names>
+</string-name>. <article-title>Pulsed wave Doppler ultrasound: accuracy, variability, and impact of acquisition parameters on flow measurements</article-title>. <source>Med Phys</source>. <year>2023</year>;<volume>50</volume>:<fpage>6704</fpage>–<lpage>6713</lpage>. doi: <pub-id pub-id-type="doi">10.1002/mp.16774</pub-id>
+<pub-id pub-id-type="pmid">37793117</pub-id>
+</mixed-citation></ref><ref id="jah310566-bib-0073"><label>73</label><mixed-citation publication-type="journal" id="jah310566-cit-0073">
+<string-name name-style="western">
+<surname>Walker</surname>
+<given-names>AR</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Uejima</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Prinz</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Voigt</surname>
+<given-names>JU</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Fraser</surname>
+<given-names>AG</given-names>
+</string-name>. <article-title>Inaccuracies in measuring velocities and timing of flow and tissue motion using high‐end ultrasound systems</article-title>. <source>Ultrasound Med Biol</source>. <year>2019</year>;<volume>45</volume>:<fpage>1446</fpage>–<lpage>1454</lpage>. doi: <pub-id pub-id-type="doi">10.1016/j.ultrasmedbio.2019.02.010</pub-id>
+<pub-id pub-id-type="pmid">30975534</pub-id>
+</mixed-citation></ref><ref id="jah310566-bib-0074"><label>74</label><mixed-citation publication-type="journal" id="jah310566-cit-0074">
+<string-name name-style="western">
+<surname>Verbree</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bronzwaer</surname>
+<given-names>AS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ghariq</surname>
+<given-names>E</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Versluis</surname>
+<given-names>MJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Daemen</surname>
+<given-names>MJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>van Buchem</surname>
+<given-names>MA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Dahan</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>van Lieshout</surname>
+<given-names>JJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>van Osch</surname>
+<given-names>MJ</given-names>
+</string-name>. <article-title>Assessment of middle cerebral artery diameter during hypocapnia and hypercapnia in humans using ultra‐high‐field MRI</article-title>. <source>J Appl Physiol</source>. <year>1985</year>;<volume>2014</volume>:<fpage>1084</fpage>–<lpage>1089</lpage>. doi: <pub-id pub-id-type="doi">10.1152/japplphysiol.00651.2014</pub-id>
+<pub-id pub-id-type="pmid">25190741</pub-id></mixed-citation></ref><ref id="jah310566-bib-0075"><label>75</label><mixed-citation publication-type="journal" id="jah310566-cit-0075">
+<string-name name-style="western">
+<surname>Al‐Khazraji</surname>
+<given-names>BK</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Shoemaker</surname>
+<given-names>LN</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gati</surname>
+<given-names>JS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Szekeres</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Shoemaker</surname>
+<given-names>JK</given-names>
+</string-name>. <article-title>Reactivity of larger intracranial arteries using 7 T MRI in young adults</article-title>. <source>J Cereb Blood Flow Metab</source>. <year>2019</year>;<volume>39</volume>:<fpage>1204</fpage>–<lpage>1214</lpage>. doi: <pub-id pub-id-type="doi">10.1177/0271678X18762880</pub-id>
+<pub-id pub-id-type="pmid">29513623</pub-id>
+<pub-id pub-id-type="pmcid">PMC6668520</pub-id></mixed-citation></ref><ref id="jah310566-bib-0076"><label>76</label><mixed-citation publication-type="journal" id="jah310566-cit-0076">
+<string-name name-style="western">
+<surname>Marinoni</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ginanneschi</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Forleo</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Amaducci</surname>
+<given-names>L</given-names>
+</string-name>. <article-title>Technical limits in transcranial Doppler recording: inadequate acoustic windows</article-title>. <source>Ultrasound Med Biol</source>. <year>1997</year>;<volume>23</volume>:<fpage>1275</fpage>–<lpage>1277</lpage>. doi: <pub-id pub-id-type="doi">10.1016/S0301-5629(97)00077-X</pub-id>
+<pub-id pub-id-type="pmid">9372576</pub-id>
+</mixed-citation></ref><ref id="jah310566-bib-0077"><label>77</label><mixed-citation publication-type="journal" id="jah310566-cit-0077">
+<string-name name-style="western">
+<surname>Sato</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sadamoto</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hirasawa</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Oue</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Subudhi</surname>
+<given-names>AW</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Miyazawa</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ogoh</surname>
+<given-names>S</given-names>
+</string-name>. <article-title>Differential blood flow responses to CO(2) in human internal and external carotid and vertebral arteries</article-title>. <source>J Physiol</source>. <year>2012</year>;<volume>590</volume>:<fpage>3277</fpage>–<lpage>3290</lpage>. doi: <pub-id pub-id-type="doi">10.1113/jphysiol.2012.230425</pub-id>
+<pub-id pub-id-type="pmid">22526884</pub-id>
+<pub-id pub-id-type="pmcid">PMC3459042</pub-id></mixed-citation></ref></ref-list></back></article></pmc-articleset>

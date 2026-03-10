@@ -1,0 +1,39 @@
+{
+  "pmcid": "PMC12512802",
+  "pmid": "41074076",
+  "doi": "10.1186/s12916-025-04402-6",
+  "title": "VEGFA sex-specific signature is associated to long COVID symptom persistence.",
+  "abstract": "BACKGROUND: Long COVID involves persistent symptoms after COVID-19 recovery, affecting multiple organ systems for months or years. Risk factors include female sex, prior chronic conditions, severe SARS-CoV-2 infection, reinfections, and lack of vaccination. As a major public health concern, ongoing research continues to investigate its causes, mechanisms, and long-term effects.\nMETHODS: Proteomic expression analysis of 171 individuals, in two time points, with confirmed SARS-CoV-2 infection, including 133 long COVID patients from the deeply characterized COVICAT cohort, assessed 1395 protein biomarkers using Olink® technology. Statistical analyses with linear mixed models examined protein expression changes, long COVID status, and sex-specific differences. Functional analysis included gene set enrichment analysis and protein-protein interaction networks.\nRESULTS: Findings revealed VEGFA overexpression in long COVID patients (effect size 0.322, SE = 0.098, p = 0.0013), along with sex-specific expression patterns and the influence of sex-hormonal status in females, with significant overexpression of circulating VEGFA levels specifically in postmenopausal women (Mann-Whitney U test p value = 8.55 × 10-3). Network analysis identified 109 nodes and 274 edges, with VEGFA ranking highest in centrality. Dysregulated chemokine signaling, complement activation, and viral reactivation were also confirmed, consistent with prior studies.\nCONCLUSIONS: Using high-throughput proteomic profiling in a population-based cohort, we observed that vascular dysfunction, particularly involving VEGFA, is a key feature of long COVID, especially in milder cases, with significant overexpression of VEGFA in postmenopausal women. Sex-specific proteomic patterns suggest distinct recovery mechanisms, highlighting the need to consider sex, vascular health, and disease severity in the pathogenesis and management of long COVID.",
+  "authors": [
+    "Xavier Farré",
+    "Natalia Blay",
+    "Susana Iraola-Guzmán",
+    "Francisco Fernández-Jiménez",
+    "Sayoa Alzate-Piñol",
+    "Laia Llucià-Carol",
+    "Ana Espinosa",
+    "Gemma Castaño-Vinyals",
+    "Carlota Dobaño",
+    "Gemma Moncunill",
+    "Marianna Karachaliou",
+    "Judith Garcia-Aymerich",
+    "Manolis Kogevinas",
+    "Carles Barceló",
+    "Israel Cadenas",
+    "Rafael de Cid"
+  ],
+  "journal": "BMC medicine",
+  "pub_year": "2025",
+  "pub_month": "Oct",
+  "pub_day": "10",
+  "keywords": [
+    "COVID-19",
+    "Long COVID",
+    "Molecular epidemiology",
+    "Proteome",
+    "Sex differences"
+  ],
+  "article_types": [
+    "Journal Article"
+  ]
+}

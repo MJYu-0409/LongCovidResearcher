@@ -1,0 +1,47 @@
+{
+  "pmcid": "PMC12342036",
+  "pmid": "40809128",
+  "doi": "10.3389/fsysb.2024.1422384",
+  "title": "A multi-omics strategy to understand PASC through the RECOVER cohorts: a paradigm for a systems biology approach to the study of chronic conditions.",
+  "abstract": "Post-Acute Sequelae of SARS-CoV-2 infection (PASC or \"Long COVID\"), includes numerous chronic conditions associated with widespread morbidity and rising healthcare costs. PASC has highly variable clinical presentations, and likely includes multiple molecular subtypes, but it remains poorly understood from a molecular and mechanistic standpoint. This hampers the development of rationally targeted therapeutic strategies. The NIH-sponsored \"Researching COVID to Enhance Recovery\" (RECOVER) initiative includes several retrospective/prospective observational cohort studies enrolling adult, pregnant adult and pediatric patients respectively. RECOVER formed an \"OMICS\" multidisciplinary task force, including clinicians, pathologists, laboratory scientists and data scientists, charged with developing recommendations to apply cutting-edge system biology technologies to achieve the goals of RECOVER. The task force met biweekly over 14 months, to evaluate published evidence, examine the possible contribution of each \"omics\" technique to the study of PASC and develop study design recommendations. The OMICS task force recommended an integrated, longitudinal, simultaneous systems biology study of participant biospecimens on the entire RECOVER cohorts through centralized laboratories, as opposed to multiple smaller studies using one or few analytical techniques. The resulting multi-dimensional molecular dataset should be correlated with the deep clinical phenotyping performed through RECOVER, as well as with information on demographics, comorbidities, social determinants of health, the exposome and lifestyle factors that may contribute to the clinical presentations of PASC. This approach will minimize lab-to-lab technical variability, maximize sample size for class discovery, and enable the incorporation of as many relevant variables as possible into statistical models. Many of our recommendations have already been considered by the NIH through the peer-review process, resulting in the creation of a systems biology panel that is currently designing the studies we proposed. This system biology strategy, coupled with modern data science approaches, will dramatically improve our prospects for accurate disease subtype identification, biomarker discovery and therapeutic target identification for precision treatment. The resulting dataset should be made available to the scientific community for secondary analyses. Analogous system biology approaches should be built into the study designs of large observational studies whenever possible.",
+  "authors": [
+    "Jun Sun",
+    "Masanori Aikawa",
+    "Hassan Ashktorab",
+    "Noam D Beckmann",
+    "Michael L Enger",
+    "Joaquin M Espinosa",
+    "Xiaowu Gai",
+    "Benjamin D Horne",
+    "Paul Keim",
+    "Jessica Lasky-Su",
+    "Rebecca Letts",
+    "Cheryl L Maier",
+    "Meisha Mandal",
+    "Lauren Nichols",
+    "Nadia R Roan",
+    "Mark W Russell",
+    "Jacqueline Rutter",
+    "George R Saade",
+    "Kumar Sharma",
+    "Stephanie Shiau",
+    "Stephen N Thibodeau",
+    "Samuel Yang",
+    "Lucio Miele"
+  ],
+  "journal": "Frontiers in systems biology",
+  "pub_year": "2024",
+  "pub_month": "01",
+  "pub_day": "07",
+  "keywords": [
+    "COVID-19",
+    "PASC",
+    "RECOVER",
+    "multi-omics",
+    "systems biology"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Review"
+  ]
+}

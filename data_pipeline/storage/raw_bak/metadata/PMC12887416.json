@@ -1,0 +1,40 @@
+{
+  "pmcid": "PMC12887416",
+  "pmid": "41675440",
+  "doi": "10.1016/j.lanepe.2026.101601",
+  "title": "SARS-CoV-2 reinfections and subsequent risk of hospital-diagnosed post-acute sequelae in Denmark (2020-2022): a nationwide cohort study.",
+  "abstract": "BACKGROUND: Post-acute sequelae of COVID-19 (PASC), or long COVID, are a public health concern. While most recover from SARS-CoV-2 infections within weeks, some experience persistent symptoms. Here, we quantified the association between repeated SARS-CoV-2 infections and the risk of hospital-diagnosed PASC.\nMETHODS: We conducted a nationwide register-based cohort study of all adults in Denmark (≥18 years) with at least one SARS-CoV-2 PCR or antigen test between April 1, 2020, and December 31, 2022. Participants were followed from first test until long COVID diagnosis (ICD-10: B948A), death, emigration, three SARS-CoV-2 infections, or end of study. Risk of long COVID diagnosis was estimated at three timepoints after study entry (180 days, 1 year, 2 years) and the outcomes were assessed during the 180 days after each timepoint. Cause-specific Cox models treated death as a competing risk, with number of infections and vaccination status as time-varying covariates. Absolute risks and differences were estimated using G-computation. Analyses were stratified by sex, income, and vaccination status. Secondary analyses assessed fatigue and headache (ICD-10), excluding individuals with prior diagnoses.\nFINDINGS: Of 4,418,544 individuals, 6942 (0.16%) were diagnosed with long COVID. The absolute risk of a diagnosis increased following reinfection (0.73% [95% CI 0.69-0.77] after one infection vs. 1.16% [1.05-1.30] after two infections at 180 days), but differences were small and decreased over time. Risks following reinfection were similar across sex and income strata. Absolute risk decreased with prior vaccinations. Secondary analyses showed no increased risk of fatigue or headache after primary infection. A small increase in fatigue risk was observed after reinfection at 1 year (RD 0.03% [0.01-0.05]), but not for headache.\nINTERPRETATION: Reinfection increases long COVID risk; however, the absolute increase after reinfection is smaller than that observed after a primary infection. Vaccination offers substantial protection against long COVID.\nFUNDING: Danish National Research Foundation (DNRF).",
+  "authors": [
+    "Mark P Khurana",
+    "Mathilde Marie Brünnich Sloth",
+    "Neil Scheidwasser",
+    "Jacob Curran-Sebastian",
+    "Christian Morgenstern",
+    "Nicolas Banholzer",
+    "David Thein",
+    "Laust H Mortensen",
+    "Morten Rasmussen",
+    "Pikka Jokelainen",
+    "Frederik Trier Møller",
+    "Marc Stegger",
+    "Tyra G Krause",
+    "Ewan Cameron",
+    "David A Duchêne",
+    "Alexandros Katsiferis",
+    "Samir Bhatt"
+  ],
+  "journal": "The Lancet regional health. Europe",
+  "pub_year": "2026",
+  "pub_month": "Apr",
+  "pub_day": "31",
+  "keywords": [
+    "Long COVID",
+    "PASC",
+    "Post-acute sequelae",
+    "Reinfection",
+    "SARS-CoV-2"
+  ],
+  "article_types": [
+    "Journal Article"
+  ]
+}

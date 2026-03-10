@@ -1,0 +1,29 @@
+{
+  "pmcid": "PMC12716526",
+  "pmid": "41407484",
+  "doi": "10.1136/bmjment-2025-301969",
+  "title": "Brain fog with long covid and chemotherapy: systematic review and meta-analysis.",
+  "abstract": "QUESTION: What are the cognitive, functional and affective characteristics of brain fog in individuals with long covid and following chemotherapy, and how are these features assessed across studies?\nSTUDY SELECTION AND ANALYSIS: In March 2024, we conducted a systematic review and meta-analysis of peer-reviewed studies assessing cognition, function or mood in adults (≥18 years) with brain fog after COVID-19 or chemotherapy. PubMed, Embase and Web of Science were searched systematically according to eligibility criteria to March 2024, with an update in May 2025. Random-effects meta-analyses using the 'dmetar' package (V.0.0.9000) in R V.4.3.1 were performed for studies comparing individuals with and without brain fog. Bias was assessed using the National Institutes of Health Study Quality Assessment Tools.\nFINDINGS: Of 3077 records screened, 65 studies met inclusion criteria: 40 investigated brain fog in long covid and 25 in chemotherapy populations. Considerable variation in assessment tools was observed. Montreal Cognitive Assessment was the most common cognitive test in long covid studies; Functional Assessment of Cancer Therapy-Cognitive Function was most used in chemotherapy studies. Nine long covid studies were eligible for meta-analysis. Compared with controls, individuals with brain fog had significantly lower cognitive performance (Hedge's g=-0.63, 95% CI -1.15 to -0.12), higher fatigue (Hedge's g=2.64, 95% CI 0.41 to 4.86) and more depressive symptoms (Hedge's g=1.48, 95% CI 0.40 to 2.55). Heterogeneity was high (I2>70%). No chemotherapy studies were appropriate for meta-analysis, preventing direct comparison of brain fog features between long covid and chemotherapy groups.\nCONCLUSIONS: Brain fog in long covid and chemotherapy populations is associated with cognitive complaints, fatigue and mood disturbance, though assessment methods differ widely. To improve comparability and clinical understanding, we propose adoption of consistent tools and definitions in future studies. This will be a crucial step in generating findings that can be meaningfully compared across populations.\nPROSPERO REGISTRATION NUMBER: CRD42024520549.",
+  "authors": [
+    "Jack Christopher Wilson",
+    "Kathy Y Liu",
+    "Emma Mittelman",
+    "Polen Bareke",
+    "Eli Shleifer",
+    "Robert Howard"
+  ],
+  "journal": "BMJ mental health",
+  "pub_year": "2025",
+  "pub_month": "Dec",
+  "pub_day": "17",
+  "keywords": [
+    "Cognition Disorders",
+    "Mood Disorders",
+    "Neurocognitive Disorders"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Systematic Review",
+    "Meta-Analysis"
+  ]
+}

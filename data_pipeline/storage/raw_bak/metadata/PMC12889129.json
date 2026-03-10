@@ -1,0 +1,34 @@
+{
+  "pmcid": "PMC12889129",
+  "pmid": "41674904",
+  "doi": "10.3389/fmicb.2025.1610775",
+  "title": "Broad-spectrum inhibition of SARS-CoV-2 variants by dibutyl phthalate through allosteric disruption of Spike-ACE2 interface.",
+  "abstract": "INTRODUCTION: The persistent evolution of SARS-CoV-2 has diminished the efficacy of existing vaccines and antibodies, increasing the risks of reinfection and Long COVID. There is a significant need for the development of convenient, broad-spectrum antiviral agents that target the early stage of viral infection. Traditional Chinese Medicine (TCM) volatile oils, with their diverse components and suitability for nasal delivery, demonstrate potential against respiratory viruses. This study aimed to screen bioactive compounds from TCM volatile oils for their ability to inhibit the interaction between the SARS-CoV-2 spike (S) protein and its host receptor, ACE2.\nMETHODS: A virtual screening of 47 structurally diverse TCM volatile compounds was performed to identify potential inhibitors of the Spike-ACE2 interaction. The top candidate, dibutyl phthalate (DBP), was further evaluated using in vitro assays including Spike-mediated membrane fusion and pseudovirus infection. Its mechanism was investigated through ELISA, surface plasmon resonance (SPR), ACE2 enzymatic activity assays, molecular docking. To evaluate its broad-spectrum potential, membrane fusion assays were further performed using spike proteins from the wild-type (WT), Delta, and Omicron XBB.1.5 variants. Critical binding residues were identified through molecular docking and subsequently confirmed by site-directed mutagenesis of the Spike receptor-binding domain (RBD).\nRESULTS: Virtual screening identified ten potential inhibitors, with dibutyl phthalate (DBP) showing the strongest activity. DBP effectively inhibited S protein-mediated membrane fusion (IC 50 = 64.53 μM) and pseudovirus infection (IC 50 = 73.06 μM) with specificity. SPR analysis confirmed that DBP competitively inhibited the binding between the S trimer and ACE2 (increasing the K D from 8.28 nM to 86.7 nM). Mechanistic studies revealed that DBP disrupts the S-ACE2 interaction by targeting the receptor-binding domain (RBD) without affecting ACE2 enzymatic activity. Furthermore, DBP exhibited broad-spectrum inhibitory activity against membrane fusion mediated by the Delta (IC 50 = 49.22 μM) and Omicron XBB.1.5 (IC 50 = 53.70 μM) spike variants. Molecular docking and subsequent site-directed mutagenesis identified Tyr453 and Tyr495 as critical residues for DBP binding and its inhibitory function.\nDISCUSSION: This study elucidates for the first time that DBP functions as a broad-spectrum RBD inhibitor. It binds to the RBD-ACE2 interface, dependent on conserved residues Tyr453 and Tyr495, and acts primarily through steric hindrance to block the Spike-ACE2 interaction. Notably, DBP shares critical aromatic and ester groups with other active-site inhibitors. Structure-activity relationship analysis of its derivatives revealed that introducing additional hydrogen-bond acceptors significantly enhances inhibitory activity, providing a clear structure optimization strategy. While DBP has known toxicity, its antiviral potential may be harnessed through strategic delivery approaches or SAR-guided optimization to advance its development against SARS-CoV-2 variants.",
+  "authors": [
+    "Jiafan Chen",
+    "Dekuan Guo",
+    "Xiaoxuan Guo",
+    "Lijun Zhao",
+    "Geng Li",
+    "Helu Liu",
+    "Shaobo Wang",
+    "Zizhao Lao",
+    "Meiling Zhu"
+  ],
+  "journal": "Frontiers in microbiology",
+  "pub_year": "2025",
+  "pub_month": "01",
+  "pub_day": "27",
+  "keywords": [
+    "Dibutyl phthalate",
+    "SARS-CoV-2",
+    "Spike-ACE2 interaction",
+    "cell membrane fusion",
+    "site-directed mutagenesis",
+    "structure optimization",
+    "viral entry inhibitor"
+  ],
+  "article_types": [
+    "Journal Article"
+  ]
+}

@@ -1,0 +1,1338 @@
+<?xml version="1.0"  ?><!DOCTYPE pmc-articleset PUBLIC "-//NLM//DTD ARTICLE SET 2.0//EN" "https://dtd.nlm.nih.gov/ncbi/pmc/articleset/nlm-articleset-2.0.dtd"><pmc-articleset><article id="phy270535" xml:lang="en" article-type="research-article" dtd-version="1.4"><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">Physiol Rep</journal-id><journal-id journal-id-type="iso-abbrev">Physiol Rep</journal-id><journal-id journal-id-type="pmc-domain-id">2252</journal-id><journal-id journal-id-type="pmc-domain">physrep</journal-id><journal-id journal-id-type="publisher-id">PHY2</journal-id><journal-title-group><journal-title>Physiological Reports</journal-title></journal-title-group><issn pub-type="epub">2051-817X</issn><publisher><publisher-name>Wiley</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC12404247</article-id><article-id pub-id-type="pmcid-ver">PMC12404247.1</article-id><article-id pub-id-type="pmcaid">12404247</article-id><article-id pub-id-type="pmcaiid">12404247</article-id><article-id pub-id-type="pmid">40892700</article-id><article-id pub-id-type="doi">10.14814/phy2.70535</article-id><article-id pub-id-type="publisher-id">PHY270535</article-id><article-id pub-id-type="other">PHYSREP-2025-02-113-T</article-id><article-version article-version-type="pmc-version">1</article-version><article-categories><subj-group subj-group-type="article-subject-classification"><subject>*Regular Manuscript</subject></subj-group><subj-group subj-group-type="overline"><subject>Original Article</subject></subj-group><subj-group subj-group-type="heading"><subject>Original Article</subject></subj-group></article-categories><title-group><article-title>Long <styled-content style="fixed-case" toggle="no">COVID</styled-content> and chronic fatigue syndrome/myalgic encephalitis share similar pathophysiologic mechanisms of exercise limitation</article-title><alt-title alt-title-type="left-running-head">Jothi et al.</alt-title></title-group><contrib-group><contrib id="phy270535-cr-0001" contrib-type="author"><name name-style="western"><surname>Jothi</surname><given-names initials="S">Swathi</given-names></name><xref rid="phy270535-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="phy270535-cr-0002" contrib-type="author"><name name-style="western"><surname>Insel</surname><given-names initials="M">Michael</given-names></name><xref rid="phy270535-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="phy270535-cr-0003" contrib-type="author"><name name-style="western"><surname>Claessen</surname><given-names initials="G">Guido</given-names></name><xref rid="phy270535-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib id="phy270535-cr-0004" contrib-type="author"><name name-style="western"><surname>Kubba</surname><given-names initials="S">Saad</given-names></name><xref rid="phy270535-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref></contrib><contrib id="phy270535-cr-0005" contrib-type="author"><name name-style="western"><surname>Howden</surname><given-names initials="EJ">Erin J.</given-names></name><xref rid="phy270535-aff-0004" ref-type="aff">
+<sup>4</sup>
+</xref></contrib><contrib id="phy270535-cr-0006" contrib-type="author"><name name-style="western"><surname>Ruiz‐Carmona</surname><given-names initials="S">Sergio</given-names></name><xref rid="phy270535-aff-0004" ref-type="aff">
+<sup>4</sup>
+</xref></contrib><contrib id="phy270535-cr-0007" contrib-type="author"><name name-style="western"><surname>Levine</surname><given-names initials="T">Todd</given-names></name><xref rid="phy270535-aff-0005" ref-type="aff">
+<sup>5</sup>
+</xref></contrib><contrib id="phy270535-cr-0008" contrib-type="author" corresp="yes"><name name-style="western"><surname>Rischard</surname><given-names initials="FP">Franz P.</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-6861-8304</contrib-id><xref rid="phy270535-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="phy270535-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref><address><email>frischard@deptofmed.arizona.edu</email></address></contrib></contrib-group><aff id="phy270535-aff-0001">
+<label>
+<sup>1</sup>
+</label>
+<named-content content-type="organisation-division">Division of Pulmonary, Critical Care, Sleep, and Allergy Medicine</named-content>
+<institution>University of Arizona</institution>
+<city>Tucson</city>
+<named-content content-type="country-part">Arizona</named-content>
+<country country="US">USA</country>
+</aff><aff id="phy270535-aff-0002">
+<label>
+<sup>2</sup>
+</label>
+<named-content content-type="organisation-division">Department of Cardiovascular Sciences</named-content>
+<institution>KU Leuven</institution>
+<city>Leuven</city>
+<country country="BE">Belgium</country>
+</aff><aff id="phy270535-aff-0003">
+<label>
+<sup>3</sup>
+</label>
+<institution>Sarver Heart Center, University of Arizona</institution>
+<city>Tucson</city>
+<named-content content-type="country-part">Arizona</named-content>
+<country country="US">USA</country>
+</aff><aff id="phy270535-aff-0004">
+<label>
+<sup>4</sup>
+</label>
+<institution>Baker Heart and Diabetes Institute</institution>
+<city>Melbourne</city>
+<country country="AU">Australia</country>
+</aff><aff id="phy270535-aff-0005">
+<label>
+<sup>5</sup>
+</label>
+<institution>Honor Health Neurology</institution>
+<city>Scottsdale</city>
+<named-content content-type="country-part">Arizona</named-content>
+<country country="US">USA</country>
+</aff><author-notes><corresp id="correspondenceTo">
+<label>*</label>
+<bold>Correspondence</bold>
+<break/>
+Franz P. Rischard, Division of Pulmonary, Critical Care, Allergy, and Sleep Medicine, University of Arizona, 1501 N. Campbell Ave., Tucson, AZ 85724, USA.<break/>
+Email: <email>frischard@deptofmed.arizona.edu</email>
+<break/>
+</corresp></author-notes><pub-date pub-type="epub"><day>02</day><month>9</month><year>2025</year></pub-date><pub-date pub-type="collection"><month>9</month><year>2025</year></pub-date><volume>13</volume><issue seq="280">17</issue><issue-id pub-id-type="pmc-issue-id">495850</issue-id><issue-id pub-id-type="doi">10.14814/phy2.v13.17</issue-id><elocation-id>e70535</elocation-id><history><date date-type="rev-recd"><day>14</day><month>7</month><year>2025</year></date><date date-type="received"><day>11</day><month>2</month><year>2025</year></date><date date-type="accepted"><day>18</day><month>8</month><year>2025</year></date></history><pub-history><event event-type="pmc-release"><date><day>02</day><month>09</month><year>2025</year></date></event><event event-type="pmc-live"><date><day>03</day><month>09</month><year>2025</year></date></event><event event-type="pmc-last-change"><date iso-8601-date="2025-09-03 12:25:26.497"><day>03</day><month>09</month><year>2025</year></date></event></pub-history><permissions><copyright-statement content-type="article-copyright">© 2025 The Author(s). <italic toggle="yes">Physiological Reports</italic> published by Wiley Periodicals LLC on behalf of The Physiological Society and the American Physiological Society.</copyright-statement><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>This is an open access article under the terms of the <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pmc-pdf" xlink:href="PHY2-13-e70535.pdf"/><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pdf" xlink:href="file:PHY2-13-e70535.pdf"/><abstract><title>Abstract</title><p>Post‐acute sequelae of <styled-content style="fixed-case" toggle="no">SARS</styled-content>‐<styled-content style="fixed-case" toggle="no">CoV</styled-content>‐2 (<styled-content style="fixed-case" toggle="no">PASC</styled-content> or “long <styled-content style="fixed-case" toggle="no">COVID</styled-content>”) and chronic fatigue syndrome/myalgic encephalitis (<styled-content style="fixed-case" toggle="no">CFS</styled-content>/<styled-content style="fixed-case" toggle="no">ME</styled-content>) share symptoms such as exertional dyspnea. We used exercise oxygen pathway analysis, comprising six parameters of oxygen transport and utilization, to identify limiting mechanisms in both conditions. Invasive cardiopulmonary exercise testing was performed on 15 <styled-content style="fixed-case" toggle="no">PASC</styled-content> patients, 11 <styled-content style="fixed-case" toggle="no">CFS</styled-content>/<styled-content style="fixed-case" toggle="no">ME</styled-content> patients, and 11 controls. We evaluated the contributions of alveolar ventilation (V̇a), lung diffusion capacity (<styled-content style="fixed-case" toggle="no">D<sub>L</sub>
+</styled-content> ), cardiac output (Q̇), skeletal muscle diffusion capacity (<styled-content style="fixed-case" toggle="no">D<sub>M</sub>
+</styled-content> ), hemoglobin (Hb), and mitochondrial oxidative phosphorylation (V<sub>max</sub>) to peak oxygen consumption (V̇O<sub>2peak</sub>). To simulate targeted interventions, each variable was sequentially normalized to assess its impact on V̇O<sub>2peak</sub>. V̇O<sub>2peak</sub> was significantly reduced in both <styled-content style="fixed-case" toggle="no">PASC</styled-content> and <styled-content style="fixed-case" toggle="no">CFS</styled-content>/<styled-content style="fixed-case" toggle="no">ME</styled-content> compared to controls. Skeletal muscle <styled-content style="fixed-case" toggle="no">O<sub>2</sub>
+</styled-content> diffusion (<styled-content style="fixed-case" toggle="no">D<sub>M</sub>
+</styled-content> ) was the most impaired parameter in both patient groups (<italic toggle="no">p</italic> = 0.01). Correcting <styled-content style="fixed-case" toggle="no">D<sub>M</sub>
+</styled-content> alone improved V̇O<sub>2</sub> by 66% in <styled-content style="fixed-case" toggle="no">PASC</styled-content> (<italic toggle="no">p</italic> = 0.008) and 34.7% in <styled-content style="fixed-case" toggle="no">CFS</styled-content>/<styled-content style="fixed-case" toggle="no">ME</styled-content> (<italic toggle="no">p</italic> = 0.06), suggesting a dominant role for peripheral <styled-content style="fixed-case" toggle="no">O<sub>2</sub>
+</styled-content> extraction in exercise limitation. Impaired skeletal muscle oxygen diffusion (<styled-content style="fixed-case" toggle="no">D<sub>M</sub>
+</styled-content> ) is a shared mechanism of exercise intolerance in <styled-content style="fixed-case" toggle="no">PASC</styled-content> and <styled-content style="fixed-case" toggle="no">CFS</styled-content>/<styled-content style="fixed-case" toggle="no">ME</styled-content> and may represent a therapeutic target. However, our findings are limited by small sample size.</p></abstract><kwd-group kwd-group-type="author-generated"><kwd id="phy270535-kwd-0001">chronic fatigue syndrome</kwd><kwd id="phy270535-kwd-0002">exercise</kwd><kwd id="phy270535-kwd-0003">long‐COVID</kwd><kwd id="phy270535-kwd-0004">myalgic encephalitis</kwd><kwd id="phy270535-kwd-0005">post‐acute sequelae of SARS Co‐V2</kwd></kwd-group><counts><fig-count count="4"/><table-count count="2"/><page-count count="13"/><word-count count="8100"/></counts><custom-meta-group><custom-meta><meta-name>pmc-status-qastatus</meta-name><meta-value>0</meta-value></custom-meta><custom-meta><meta-name>pmc-status-live</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-status-embargo</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-status-released</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-access</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-legally-suppressed</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-pdf</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-supplement</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-pdf-only</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-suppress-copyright</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-real-version</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-scanned-article</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-in-epmc</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-license-ref</meta-name><meta-value>CC BY</meta-value></custom-meta><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>September 2025</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:6.6.2 mode:remove_FC converted:02.09.2025</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="PHY270535-cit-2001">
+<string-name name-style="western">
+<surname>Jothi</surname>, <given-names>S.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Insel</surname>, <given-names>M.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Claessen</surname>, <given-names>G.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kubba</surname>, <given-names>S.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Howden</surname>, <given-names>E. J.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ruiz‐Carmona</surname>, <given-names>S.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Levine</surname>, <given-names>T.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Rischard</surname>, <given-names>F. P.</given-names>
+</string-name> (<year>2025</year>). <article-title>Long <styled-content style="fixed-case" toggle="no">COVID</styled-content> and chronic fatigue syndrome/myalgic encephalitis share similar pathophysiologic mechanisms of exercise limitation</article-title>. <source>Physiological Reports</source>, <volume>13</volume>, <elocation-id>e70535</elocation-id>. <pub-id pub-id-type="doi">10.14814/phy2.70535</pub-id>
+</mixed-citation>
+</p></notes></front><body id="phy270535-body-0001"><sec id="phy270535-sec-0001"><label>1</label><title>INTRODUCTION</title><p>Persistent symptoms after acute COVID‐19 are common and significantly impact patient quality of life (Raman et al., <xref rid="phy270535-bib-0036" ref-type="bibr">2021</xref>). Estimates indicate that over 7% of the U.S. adult population has the condition (17.8 million) (Fang et al., <xref rid="phy270535-bib-0013" ref-type="bibr">2024</xref>). Patients with prolonged (&gt;3 months (Groff et al., <xref rid="phy270535-bib-0015" ref-type="bibr">2021</xref>)) symptoms after acute SARS CoV‐2 infection, termed Post‐Acute sequelae of SARS CoV‐2 (PASC) or “Long COVID” suffer from persistent and unexplained dyspnea (24%–87%), post‐exertional fatigue (58%–98%), and a multitude of other symptoms (Davis et al., <xref rid="phy270535-bib-0008" ref-type="bibr">2020</xref>; Huang, Huang, et al., <xref rid="phy270535-bib-0019" ref-type="bibr">2021a</xref>; Huang, Pinto, et al., <xref rid="phy270535-bib-0020" ref-type="bibr">2021b</xref>; Lopez‐Leon et al., <xref rid="phy270535-bib-0027" ref-type="bibr">2021</xref>; Thaweethai et al., <xref rid="phy270535-bib-0046" ref-type="bibr">2023</xref>). PASC is accompanied by abnormalities in standard tests such as lung imaging, pulmonary function testing, and gas exchange (arterial blood gases) (Dennis et al., <xref rid="phy270535-bib-0009" ref-type="bibr">2020</xref>). However, there is poor agreement between these standard resting tests and exertional fatigue and dyspnea (Aparisi et al., <xref rid="phy270535-bib-0002" ref-type="bibr">2021</xref>; Froidure et al., <xref rid="phy270535-bib-0014" ref-type="bibr">2021</xref>; Huang, Huang, et al., <xref rid="phy270535-bib-0019" ref-type="bibr">2021a</xref>; Rinaldo et al., <xref rid="phy270535-bib-0038" ref-type="bibr">2021</xref>). The clinical importance of persistent symptoms is underscored by a link to patient reported outcomes (PROs) (Aparisi et al., <xref rid="phy270535-bib-0002" ref-type="bibr">2021</xref>; Davis et al., <xref rid="phy270535-bib-0008" ref-type="bibr">2020</xref>; Raman et al., <xref rid="phy270535-bib-0036" ref-type="bibr">2021</xref>) and a reduction in peak oxygen consumption (V̇O<sub>2peak</sub>) (Raman et al., <xref rid="phy270535-bib-0036" ref-type="bibr">2021</xref>; Ybarra‐Falcón et al., <xref rid="phy270535-bib-0052" ref-type="bibr">2021</xref>).</p><p>Studies employing cardiopulmonary exercise testing (CPET), used to measure V̇O<sub>2peak</sub>, have proposed heterogeneous underlying mechanisms including deconditioning (Edward et al., <xref rid="phy270535-bib-0012" ref-type="bibr">2023</xref>; Rinaldo et al., <xref rid="phy270535-bib-0038" ref-type="bibr">2021</xref>), hyperventilation (Motiejunaite et al., <xref rid="phy270535-bib-0029" ref-type="bibr">2021</xref>), “dysfunctional breathing” (Mancini et al., <xref rid="phy270535-bib-0028" ref-type="bibr">2021</xref>), and abnormal peripheral neuromuscular response (Singh et al., <xref rid="phy270535-bib-0042" ref-type="bibr">2021</xref>). The majority of these studies have used noninvasive CPET (nCPET) which only provides hints of mechanistic causes of observed abnormalities. Unlike nCPET, invasive CPET (iCPET), which is nCPET with a pulmonary artery catheter and arterial line, provides comprehensive physiologic readouts and more granular information such as cardiac output and peripheral oxygen extraction to define sub‐phenotypes of PASC.</p><p>Many patients with PASC share symptomatology with chronic fatigue syndrome/myalgic encephalitis (CFS/ME) leading experts to consider potential shared pathophysiology (Herrera et al., <xref rid="phy270535-bib-0016" ref-type="bibr">2021</xref>). Both syndromes in some patients appear to be associated with dysautonomia, possibly related to small fiber neuropathy (SFN), resulting in a low cardiac preload state exacerbating dyspnea (Joseph et al., <xref rid="phy270535-bib-0021" ref-type="bibr">2021</xref>; Risbano et al., <xref rid="phy270535-bib-0039" ref-type="bibr">2023</xref>). Both conditions are also associated with impaired oxygen extraction during exercise testing (Joseph et al., <xref rid="phy270535-bib-0021" ref-type="bibr">2021</xref>; Singh et al., <xref rid="phy270535-bib-0042" ref-type="bibr">2021</xref>; Vermeulen &amp; Vermeulen van Eck, <xref rid="phy270535-bib-0048" ref-type="bibr">2014</xref>). However, one factor underlying the conclusion that oxygen extraction is a primary pathophysiological target is the erroneous assumption that oxygen extraction is independent of cardiac output. In the human body, exercise peripheral O<sub>2</sub> extraction is dependent on oxygen delivery as well as skeletal muscle capillary transit time, and changes in these metrics may be a result of their dependency rather than any direct physiological insult (Houstis et al., <xref rid="phy270535-bib-0017" ref-type="bibr">2018</xref>; Wagner, <xref rid="phy270535-bib-0049" ref-type="bibr">2011</xref>).</p><p>To more accurately assess the underlying mechanisms of reduced V̇O<sub>2peak</sub>, cardiac output and O<sub>2</sub> extraction should be measured separately rather than with traditional methods of exercise analysis using the Fick method. Oxygen pathway analysis (Houstis et al., <xref rid="phy270535-bib-0017" ref-type="bibr">2018</xref>; Wagner, <xref rid="phy270535-bib-0049" ref-type="bibr">2011</xref>) obtained from iCPET uses separate equations for each component related to V̇O<sub>2</sub> from mouth to muscle. There has been success applying this method to heterogeneous phenotypes such as heart failure with preserved ejection fraction. This approach adds a level of granularity to identify potential therapeutic targets. By personalizing targets relative to established norms, we can quantify the magnitude (and potential benefit) of a treatment target.</p><p>The aims of this analysis are (1) to confirm a physiologic insult in PASC and CFS/ME patients relative to controls, (2) describe the overall similarities and differences in traditional exercise variables between CFS/ME and PASC, and (3) to apply formal oxygen pathway analysis to both conditions to illustrate potential pathophysiological similarities and differences as well as potential treatment targets.</p></sec><sec sec-type="methods" id="phy270535-sec-0002"><label>2</label><title>METHODS</title><sec id="phy270535-sec-0003"><label>2.1</label><title>Subjects</title><p>The study participants comprised 15 PASC patients, 11 CFS/ME patients, and 11 controls. Acute/post‐acute (&gt;3 months) SARS‐CoV‐2 infected patients with dyspnea (mMRC ≥ 1) and/or severe post‐exertional fatigue made up the PASC arm of the study. All PASC participants met World Health Organization probable or confirmed criteria for COVID‐19 infection (World Health Organization, <xref rid="phy270535-bib-0051" ref-type="bibr">2022</xref>). Subjects in the CFS/ME cohort met all major and at least one minor Institute of Medicine criteria (Committee on the Diagnostic Criteria for Myalgic Encephalomyelitis/Chronic Fatigue Syndrome et al., <xref rid="phy270535-bib-0006" ref-type="bibr">2015</xref>). The CFS/ME patients included in this analysis data was obtained prior to March 2020 (the COVID epidemic) and thus had not been infected with SARS‐CoV‐2 at the time of assessment.</p><p>The control arm comprised of two groups; one evaluated in our pulmonary hypertension clinic for dyspnea or echocardiographic evidence of PH and a subsequent normal iCPET and individuals in good health recruited from a study in Belgium. All our control group participants were considered “healthy” by virtue of a peak exercise capacity and cardiac output ≥80% predicted, respiratory exchange ratio (RER) &gt;1.05, and had objective evidence of normal cardiovascular function, defined as normal ECG and transthoracic echocardiogram (left ventricular EF &gt;50%), and normal pulmonary artery pressures at rest (&lt;25 mm Hg) and during exercise (slope of mean pulmonary artery pressure to cardiac output &lt;3 mm Hg/[L·min]). Ethical approval for this study was obtained from the University of Arizona Institutional Review Board (IRB# 1100000621) and written informed consent was obtained from all participants included in the study.</p></sec><sec id="phy270535-sec-0004"><label>2.2</label><title>Standard and invasive cardiopulmonary exercise testing</title><p>After study inclusion, subjects underwent standard testing for their dyspnea as directed by evaluating pulmonary and/or cardiologists. All subjects had pulmonary function testing, chest x‐ray, and echocardiography. CT chest scans were performed in all CFS/ME and 12 PASC subjects. Cardiac MRI was done in 3 PASC subjects. Ventilation/perfusion SPECT scans were obtained in 4 PASC subjects.</p><p>iCPET testing was done on all subjects with a pulmonary artery catheter that was advanced via the antecubital vein after ultrasonic access for measurements of pulmonary artery pressure (systolic, mean, and diastolic PAP), RV pressure, right atrial pressure (RAP), wedged PAP (PCWP), and cardiac output (direct Fick). Radial arterial lines were placed also under ultrasonic guidance. Our comprehensive resting and exercise catheterization protocol has been previously published (Tang et al., <xref rid="phy270535-bib-0045" ref-type="bibr">2020</xref>). Briefly, after obtaining supine resting measurements, the patient was placed in a full upright position with an electronic fluoroscopy chair. Fluoroscopy was used to re‐zero at left atrial level (Kovacs et al., <xref rid="phy270535-bib-0025" ref-type="bibr">2014</xref>). A cycle ergometer was positioned below the patient. The patient then proceeded with exercise at a predetermined workload based on their level of dyspnea (Tang et al., <xref rid="phy270535-bib-0045" ref-type="bibr">2020</xref>) for steady‐state 2‐min stages until RER ~ 1.1. PAP, PCWP, RAP, arterial and venous O<sub>2</sub> content (CaO<sub>2</sub> and CvO<sub>2</sub>) were obtained during the last 30 s of each stage. Metabolic cart analysis (Vyaire Medical™, Mettawa, IL) was used for simultaneous collection of gas exchange and lung volume. Hemodynamics presented were averaged over 3 respiratory cycles in accordance with current guidelines at rest and exercise (Kovacs et al., <xref rid="phy270535-bib-0026" ref-type="bibr">2017</xref>). The systemic oxygen extraction ratio was calculated as (CaO<sub>2</sub>−CvO<sub>2</sub>)/CaO<sub>2</sub>.</p></sec><sec id="phy270535-sec-0005"><label>2.3</label><title>
+<styled-content style="fixed-case" toggle="no">O<sub>2</sub>
+</styled-content> pathway analysis</title><p>The sequence of oxygen transport and utilization beginning at the nares to mitochondrial consumption was characterized by analyzing the invasive hemodynamic data through a set of equations that govern oxygen transport and utilization (Houstis et al., <xref rid="phy270535-bib-0017" ref-type="bibr">2018</xref>; Howden et al., <xref rid="phy270535-bib-0018" ref-type="bibr">2021</xref>). The specific parameters that were quantified include alveolar ventilation (V̇<sub>A</sub>), lung diffusion capacity for O<sub>2</sub> (D<sub>L</sub>), cardiac output (Q̇), hemoglobin concentration (Hb), skeletal muscle diffusion capacity for O<sub>2</sub> (D<sub>M</sub>), and mitochondrial oxidative phosphorylation capacity (Vmax). This analysis was performed by the methods of Howden et al. (<xref rid="phy270535-bib-0018" ref-type="bibr">2021</xref>) and is available on <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://bakersportscardiology.shinyapps.io/fitoxy/" ext-link-type="uri">https://bakersportscardiology.shinyapps.io/fitoxy/</ext-link>.</p><p>As detailed later in the manuscript to calculate V̇O<sub>2</sub> deficit recovery (VDR), we normalized individual defects in the pathway. We did this by applying the peak predicted V̇O<sub>2</sub>, obtained by the Wasserman formula (Wasserman et al., <xref rid="phy270535-bib-0050" ref-type="bibr">1987</xref>), to linear regression models formulated by Houstis et al. (<xref rid="phy270535-bib-0017" ref-type="bibr">2018</xref>) and Dhakal et al. (<xref rid="phy270535-bib-0010" ref-type="bibr">2015</xref>) from the control group. We verified the validity of these models by comparing to our controls with linear regression. We used the equations derived from Houstis et al. (<xref rid="phy270535-bib-0017" ref-type="bibr">2018</xref>) for VDR analysis since this data is already published and represents a larger population (<italic toggle="yes">N</italic> = 55).</p></sec><sec id="phy270535-sec-0006"><label>2.4</label><title>Histopathologic analysis of skin biopsy results</title><p>Six patients on the PASC arm were referred to our neurology colleagues to undergo skin biopsies based on similarities to CFS/ME (Joseph et al., <xref rid="phy270535-bib-0021" ref-type="bibr">2021</xref>) primarily based on patient request. The samples were stained with polyclonal rabbit anti‐protein‐gene‐product 9.5 antibody and were analyzed under bright‐field immunohistochemistry to determine the nerve fiber density of epidermal nerves. Skin biopsies were obtained at two sites on the outer lower leg and thigh as previously described (Raicher et al., <xref rid="phy270535-bib-0035" ref-type="bibr">2022</xref>).</p></sec><sec id="phy270535-sec-0007"><label>2.5</label><title>Statistical analysis</title><p>Continuous data are expressed as median [25, 75 percentile]. Categorical data are expressed as counts and percentages. The Kruskal–Wallis test was used to test for intergroup differences. Post hoc analysis was done using the Bonferroni test to correct multiple comparisons. Statistical analyses were performed using SPSS software (version 28.0, IBM, Armonk, NY). Statistical tests were 2‐sided, and a <italic toggle="yes">p</italic> value &lt;0.05 was considered statistically significant. The data may be shared upon request. Requests will be reviewed by a data access committee in accordance with University of Arizona policies, and approved applicants must sign a data use agreement.</p></sec></sec><sec sec-type="results" id="phy270535-sec-0008"><label>3</label><title>RESULTS</title><sec id="phy270535-sec-0009"><label>3.1</label><title>Characteristics of the study population</title><p>The subjects from the three different subgroups; PASC (<italic toggle="yes">N</italic> = 15), CFS/ME (<italic toggle="yes">N</italic> = 11), and Controls (<italic toggle="yes">N</italic> = 11) were similar in age, but there was a statistically higher BMI among the CFS/ME and PASC groups compared to controls (Table <xref rid="phy270535-tbl-0001" ref-type="table">1</xref>). There were also more women in all three arms of the study population compared to men. Table <xref rid="phy270535-tbl-0001" ref-type="table">1</xref> demonstrates that resting hemodynamics were comparable in all three groups. Pulmonary function testing was within normal age and sex‐reported reference values. CT scans were notable for bronchial thickening in one CFS/ME subject and scattered ground glass in two PASC subjects. Transthoracic echocardiography reported no notable abnormalities. There were no shunts detected on echocardiography in any subjects. CMR on the PASC subjects also showed no notable abnormalities. SPECT ventilation/perfusion demonstrated small peripheral subsegmental perfusion defects in 3 PASC subjects.</p><table-wrap position="float" id="phy270535-tbl-0001" content-type="TABLE" orientation="portrait"><label>TABLE 1</label><caption><p>Demographics and resting hemodynamics.</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><thead valign="bottom"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="bottom" rowspan="1" colspan="1">Characteristic</th><th align="left" valign="bottom" rowspan="1" colspan="1">Control</th><th align="left" valign="bottom" rowspan="1" colspan="1">PASC</th><th align="left" valign="bottom" rowspan="1" colspan="1">CFS</th><th align="left" valign="bottom" rowspan="1" colspan="1">
+<italic toggle="yes">p</italic> Value</th></tr></thead><tbody valign="top"><tr><td align="left" valign="top" rowspan="1" colspan="1">Age, years</td><td align="left" valign="top" rowspan="1" colspan="1">41 [33, 72]</td><td align="left" valign="top" rowspan="1" colspan="1">44 [21, 56]</td><td align="left" valign="top" rowspan="1" colspan="1">37 [29, 45]</td><td align="left" valign="top" rowspan="1" colspan="1">0.692</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Female Sex</td><td align="left" valign="top" rowspan="1" colspan="1">6 (66)</td><td align="left" valign="top" rowspan="1" colspan="1">14 (91)</td><td align="left" valign="top" rowspan="1" colspan="1">10 (88)</td><td align="left" valign="top" rowspan="1" colspan="1">0.027</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">BMI, kg/m<sup>2</sup>
+</td><td align="left" valign="top" rowspan="1" colspan="1">25 [21, 25]</td><td align="left" valign="top" rowspan="1" colspan="1">31 [28, 36]</td><td align="left" valign="top" rowspan="1" colspan="1">27 [24, 33]</td><td align="left" valign="top" rowspan="1" colspan="1">&lt;0.001<xref rid="phy270535-note-0003" ref-type="table-fn">
+<sup>
+a
+</sup>
+</xref>, <xref rid="phy270535-note-0004" ref-type="table-fn">
+<sup>
+b
+</sup>
+</xref>
+</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Time since acute COVID‐19 (months, max/min)</td><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1">13 [3–50]</td><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1">NA</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">FVC (%predicted)</td><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1">95 [82, 107]</td><td align="left" valign="top" rowspan="1" colspan="1">92 [77, 108]</td><td align="left" valign="top" rowspan="1" colspan="1">0.90</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">DLCO (%predicted)</td><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1">84 [78, 94]</td><td align="left" valign="top" rowspan="1" colspan="1">96 [75, 103]</td><td align="left" valign="top" rowspan="1" colspan="1">0.59</td></tr><tr><td align="left" colspan="5" valign="top" rowspan="1">Resting hemodynamics</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">RAP, mmHg</td><td align="left" valign="top" rowspan="1" colspan="1">3 [1, 6.5]</td><td align="left" valign="top" rowspan="1" colspan="1">5 [1, 6]</td><td align="left" valign="top" rowspan="1" colspan="1">5 [2, 8]</td><td align="left" valign="top" rowspan="1" colspan="1">0.804</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">mPAP, mmHg</td><td align="left" valign="top" rowspan="1" colspan="1">15 [13, 17]</td><td align="left" valign="top" rowspan="1" colspan="1">15 [13, 18]</td><td align="left" valign="top" rowspan="1" colspan="1">15 [13, 18]</td><td align="left" valign="top" rowspan="1" colspan="1">0.554</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">PCWP, mmHg</td><td align="left" valign="top" rowspan="1" colspan="1">8 [6, 11]</td><td align="left" valign="top" rowspan="1" colspan="1">8 [6, 13]</td><td align="left" valign="top" rowspan="1" colspan="1">10 [7, 10]</td><td align="left" valign="top" rowspan="1" colspan="1">0.431</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">CO, L/min</td><td align="left" valign="top" rowspan="1" colspan="1">6 [4.5, 7]</td><td align="left" valign="top" rowspan="1" colspan="1">5.9 [5, 6.4]</td><td align="left" valign="top" rowspan="1" colspan="1">5.7 [4.1, 6.9]</td><td align="left" valign="top" rowspan="1" colspan="1">0.850</td></tr></tbody></table><table-wrap-foot id="phy270535-ntgp-0001"><fn id="phy270535-note-0001"><p>
+<italic toggle="yes">Note</italic>: Values are median ± [25th percentile, 75th percentile] for continuous variables and <italic toggle="yes">n</italic> (%) for categorical variables. Last column <italic toggle="yes">p</italic> value represents the omnibus result from the Kruskal–Wallis test. Bonferroni used for post hoc comparisons.</p></fn><fn id="phy270535-note-0002"><p>Abbreviations: BMI, body mass index; CFS, chronic fatigue syndrome; CO, cardiac output; DLCO, pulmonary diffusion capacity of carbon monoxide; FVC, forced vital capacity; mPAP, mean pulmonary artery pressure; PASC, post‐acute sequelae covid; PCWP, pulmonary capillary wedge pressure; RAP, right atrial pressure.</p></fn><fn id="phy270535-note-0003"><label>
+<sup>a</sup>
+</label><p>Indicates Control versus CFS.</p></fn><fn id="phy270535-note-0004"><label>
+<sup>b</sup>
+</label><p>Indicates Control versus PASC.</p></fn></table-wrap-foot></table-wrap><p>PASC patients presented median 13 [range, 3–50] months since their confirmed episode of acute COVID. No subjects were hospitalized or placed on supplemental oxygen. All enrolled PASC subjects had received at least one dose of the polyvalent vaccine at the time of enrollment. Thirteen subjects were assessed before December 2021 when the predominant variant switched from delta to omicron (Thaweethai et al., <xref rid="phy270535-bib-0046" ref-type="bibr">2023</xref>).</p></sec><sec id="phy270535-sec-0010"><label>3.2</label><title>Standard peak exercise parameters highlight reduced cardiac index and low cardiac filling pressures</title><p>As demonstrated by Table <xref rid="phy270535-tbl-0002" ref-type="table">2</xref>, peak V̇O<sub>2</sub> and cardiac index were lower in the PASC and CFS/ME groups versus controls, with the latter being statistically significant on post hoc testing. Mixed venous (SvO<sub>2</sub>) was significantly higher in the CFS/ME group compared to both the control and PASC subgroups. The systemic extraction ratio was decreased for the CFS/ME group relative to controls. Although not statistically significant, cardiac filling pressures (RAP and PCWP) were both lower in PASC and CFS/ME relative to controls. As demonstrated in the radar plot (Figure <xref rid="phy270535-fig-0001" ref-type="fig">1</xref>) impairment of cardiac index appears to be a major defining parameter distinguishing PASC and CFS/ME when referenced to our control subjects.</p><table-wrap position="float" id="phy270535-tbl-0002" content-type="TABLE" orientation="portrait"><label>TABLE 2</label><caption><p>Peak exercise parameters by group.</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><thead valign="bottom"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="bottom" rowspan="1" colspan="1">Characteristic</th><th align="left" valign="bottom" rowspan="1" colspan="1">Control</th><th align="left" valign="bottom" rowspan="1" colspan="1">PASC</th><th align="left" valign="bottom" rowspan="1" colspan="1">CFS</th><th align="left" valign="bottom" rowspan="1" colspan="1">
+<italic toggle="yes">p</italic> Value</th></tr></thead><tbody valign="top"><tr><td align="left" colspan="5" valign="top" rowspan="1">Peak hemodynamics</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">Heart rate, bpm</td><td align="char" char="[" valign="top" rowspan="1" colspan="1">127 [100, 171]</td><td align="char" char="[" valign="top" rowspan="1" colspan="1">133 [125, 152]</td><td align="char" char="[" valign="top" rowspan="1" colspan="1">123 [111, 137]</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.432</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">RAP, mmHg</td><td align="char" char="[" valign="top" rowspan="1" colspan="1">4 [2.5, 7.5]</td><td align="char" char="[" valign="top" rowspan="1" colspan="1">3 [1, 6]</td><td align="char" char="[" valign="top" rowspan="1" colspan="1">3 [1, 6]</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.739</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">mPAP, mmHg</td><td align="char" char="[" valign="top" rowspan="1" colspan="1">23 [21, 24]</td><td align="char" char="[" valign="top" rowspan="1" colspan="1">19 [16.5, 28]</td><td align="char" char="[" valign="top" rowspan="1" colspan="1">19 [18, 27]</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.367</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">PCWP, mmHg</td><td align="char" char="[" valign="top" rowspan="1" colspan="1">13 [7.5, 13.5]</td><td align="char" char="[" valign="top" rowspan="1" colspan="1">8 [6, 11]</td><td align="char" char="[" valign="top" rowspan="1" colspan="1">9 [6, 15]</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.192</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">CO, L/min</td><td align="char" char="[" valign="top" rowspan="1" colspan="1">19.2 [10.8, 22]</td><td align="char" char="[" valign="top" rowspan="1" colspan="1">14.2 [12, 16.6]</td><td align="char" char="[" valign="top" rowspan="1" colspan="1">12.07 [10.7, 15.2]</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.101</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">CI, L/min/m<sup>2</sup>
+</td><td align="char" char="[" valign="top" rowspan="1" colspan="1">9.7 [7.5, 11]</td><td align="char" char="[" valign="top" rowspan="1" colspan="1">7.6 [6.2, 9.5]</td><td align="char" char="[" valign="top" rowspan="1" colspan="1">6.9 [5.6, 9]</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.011<xref rid="phy270535-note-0008" ref-type="table-fn">
+<sup>a</sup>
+</xref>
+</td></tr><tr><td align="left" colspan="5" valign="top" rowspan="1">Blood gas analysis</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">PaO<sub>2</sub>, mmHg</td><td align="char" char="[" valign="top" rowspan="1" colspan="1">100 [86.5, 103.5]</td><td align="char" char="[" valign="top" rowspan="1" colspan="1">98 [95, 107]</td><td align="char" char="[" valign="top" rowspan="1" colspan="1">105 [97, 111]</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.262</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">PaCO<sub>2</sub>, mmHg</td><td align="char" char="[" valign="top" rowspan="1" colspan="1">46 [37.5, 47.5]</td><td align="char" char="[" valign="top" rowspan="1" colspan="1">45 [37, 57]</td><td align="char" char="[" valign="top" rowspan="1" colspan="1">38 [35, 44]</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.095</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">PvO<sub>2</sub>, mmHg</td><td align="char" char="[" valign="top" rowspan="1" colspan="1">26 [22, 37]</td><td align="char" char="[" valign="top" rowspan="1" colspan="1">26 [24, 32]</td><td align="char" char="[" valign="top" rowspan="1" colspan="1">29 [27, 31]</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.026<xref rid="phy270535-note-0008" ref-type="table-fn">
+<sup>a</sup>
+</xref>
+</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">SaO<sub>2</sub>%</td><td align="char" char="[" valign="top" rowspan="1" colspan="1">97 [95.5, 98.5]</td><td align="char" char="[" valign="top" rowspan="1" colspan="1">97 [92, 100]</td><td align="char" char="[" valign="top" rowspan="1" colspan="1">99 [97, 100]</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.231</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">SvO<sub>2</sub>%</td><td align="char" char="[" valign="top" rowspan="1" colspan="1">37 [32, 43]</td><td align="char" char="[" valign="top" rowspan="1" colspan="1">40 [34, 49]</td><td align="char" char="[" valign="top" rowspan="1" colspan="1">53 [46, 58]</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.004<xref rid="phy270535-note-0008" ref-type="table-fn">
+<sup>
+a
+</sup>
+</xref>, <xref rid="phy270535-note-0010" ref-type="table-fn">
+<sup>
+c
+</sup>
+</xref>
+</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">HCO3<sup>−</sup>, mEq</td><td align="char" char="[" valign="top" rowspan="1" colspan="1">23 [22, 25]</td><td align="char" char="[" valign="top" rowspan="1" colspan="1">24 [23, 25]</td><td align="char" char="[" valign="top" rowspan="1" colspan="1">24 [22, 26]</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.719</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">Lactate, mmol/L</td><td align="char" char="[" valign="top" rowspan="1" colspan="1">5.3 [4.7, 9.3]</td><td align="char" char="[" valign="top" rowspan="1" colspan="1">5.2 [4.7, 6.9]</td><td align="char" char="[" valign="top" rowspan="1" colspan="1">2.6 [1.8, 3.2]</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.004<xref rid="phy270535-note-0008" ref-type="table-fn">
+<sup>
+a
+</sup>
+</xref>, <xref rid="phy270535-note-0010" ref-type="table-fn">
+<sup>
+c
+</sup>
+</xref>
+</td></tr><tr><td align="left" colspan="5" valign="top" rowspan="1">Cardiopulmonary exercise parameters</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">V̇O<sub>2</sub>peak, mL/min</td><td align="char" char="[" valign="top" rowspan="1" colspan="1">2048 [1608, 2376]</td><td align="char" char="[" valign="top" rowspan="1" colspan="1">1361 [1015, 1677]</td><td align="char" char="[" valign="top" rowspan="1" colspan="1">1115 [932, 1201]</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.003<xref rid="phy270535-note-0008" ref-type="table-fn">
+<sup>
+a
+</sup>
+</xref>, <xref rid="phy270535-note-0010" ref-type="table-fn">
+<sup>
+c
+</sup>
+</xref>
+</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">V̇O<sub>2</sub>peak, % predicted</td><td align="char" char="[" valign="top" rowspan="1" colspan="1">116.8 [106, 196]</td><td align="char" char="[" valign="top" rowspan="1" colspan="1">68.8 [56.9, 87.7]</td><td align="char" char="[" valign="top" rowspan="1" colspan="1">51.1 [48.8, 61.2]</td><td align="char" char="." valign="top" rowspan="1" colspan="1">&lt;0.001<xref rid="phy270535-note-0008" ref-type="table-fn">
+<sup>
+a
+</sup>
+</xref>, <xref rid="phy270535-note-0009" ref-type="table-fn">
+<sup>
+b
+</sup>
+</xref>, <xref rid="phy270535-note-0010" ref-type="table-fn">
+<sup>
+c
+</sup>
+</xref>
+</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">V̇CO<sub>2</sub>peak, mL/min</td><td align="char" char="[" valign="top" rowspan="1" colspan="1">2132 [1774, 2929]</td><td align="char" char="[" valign="top" rowspan="1" colspan="1">1279 [921, 1695]</td><td align="char" char="[" valign="top" rowspan="1" colspan="1">1170 [1064, 1227]</td><td align="char" char="." valign="top" rowspan="1" colspan="1">&lt;0.001<xref rid="phy270535-note-0008" ref-type="table-fn">
+<sup>
+a
+</sup>
+</xref>, <xref rid="phy270535-note-0009" ref-type="table-fn">
+<sup>
+b
+</sup>
+</xref>
+</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">SER</td><td align="char" char="[" valign="top" rowspan="1" colspan="1">0.6 [0.45, 0.76]</td><td align="char" char="[" valign="top" rowspan="1" colspan="1">0.59 [0.5,0.6]</td><td align="char" char="[" valign="top" rowspan="1" colspan="1">0.47 [0.32, 0.54]</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.034</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">RQ</td><td align="char" char="[" valign="top" rowspan="1" colspan="1">1.1 [1.09, 1.18]</td><td align="char" char="[" valign="top" rowspan="1" colspan="1">1.1 [1.09, 1.28]</td><td align="char" char="[" valign="top" rowspan="1" colspan="1">1.09 [0.98, 1.12]</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.101</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">V̇e/VCO<sub>2</sub>
+</td><td align="char" char="[" valign="top" rowspan="1" colspan="1">31 [26.3, 37.5]</td><td align="char" char="[" valign="top" rowspan="1" colspan="1">34 [31, 38]</td><td align="char" char="[" valign="top" rowspan="1" colspan="1">32 [29, 35]</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.367</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">PetCO<sub>2</sub>
+</td><td align="char" char="[" valign="top" rowspan="1" colspan="1">30.72 [25.5, 35.7]</td><td align="char" char="[" valign="top" rowspan="1" colspan="1">32 [29, 37]</td><td align="char" char="[" valign="top" rowspan="1" colspan="1">34 [33, 39]</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.472</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">Vt</td><td align="char" char="[" valign="top" rowspan="1" colspan="1">1273 [994, 1400]</td><td align="char" char="[" valign="top" rowspan="1" colspan="1">1369 [1246, 1718]</td><td align="char" char="[" valign="top" rowspan="1" colspan="1">1273 [994, 1400]</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.128</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">P<sub>ET</sub>CO<sub>2</sub>, mmHg</td><td align="char" char="[" valign="top" rowspan="1" colspan="1">29.76 [24, 33]</td><td align="char" char="[" valign="top" rowspan="1" colspan="1">22.5 [23, 28]</td><td align="char" char="[" valign="top" rowspan="1" colspan="1">27 [25, 30]</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.309</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">Vd/Vt</td><td align="char" char="[" valign="top" rowspan="1" colspan="1">28.3 [8.9, 44.8]</td><td align="char" char="[" valign="top" rowspan="1" colspan="1">40.6 [24.8, 46.5]</td><td align="char" char="[" valign="top" rowspan="1" colspan="1">31.5 [23.5, 35.3]</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.194</td></tr><tr><td align="left" colspan="5" valign="top" rowspan="1">Oxygen pathway analysis</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">Q̇, L/min</td><td align="char" char="[" valign="top" rowspan="1" colspan="1">19.3 [13.4, 55.8]</td><td align="char" char="[" valign="top" rowspan="1" colspan="1">15 [12.3, 19]</td><td align="char" char="[" valign="top" rowspan="1" colspan="1">12.6 [10.1, 17.4]</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.160</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">D<sub>m</sub>O<sub>2</sub> mL/min/mmHg</td><td align="char" char="[" valign="top" rowspan="1" colspan="1">49.8 [40.6, 55.4]</td><td align="char" char="[" valign="top" rowspan="1" colspan="1">35.5 [26.1, 43.9]</td><td align="char" char="[" valign="top" rowspan="1" colspan="1">25.9 [21.6, 27.8]</td><td align="char" char="." valign="top" rowspan="1" colspan="1">&lt;0.001<xref rid="phy270535-note-0008" ref-type="table-fn">
+<sup>
+a
+</sup>
+</xref>, <xref rid="phy270535-note-0009" ref-type="table-fn">
+<sup>
+b
+</sup>
+</xref>, <xref rid="phy270535-note-0010" ref-type="table-fn">
+<sup>
+c
+</sup>
+</xref>
+</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">D<sub>L</sub>O<sub>2</sub> mL/min/mmHg</td><td align="char" char="[" valign="top" rowspan="1" colspan="1">41.5 [22.8, 53.3]</td><td align="char" char="[" valign="top" rowspan="1" colspan="1">21.5 [16.4, 25]</td><td align="char" char="[" valign="top" rowspan="1" colspan="1">15.8 [12.7, 19.5]</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.034</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">Hemoglobin, g/dL</td><td align="char" char="[" valign="top" rowspan="1" colspan="1">14.9 [14.5, 15]</td><td align="char" char="[" valign="top" rowspan="1" colspan="1">14.5 [13.8, 15.5]</td><td align="char" char="[" valign="top" rowspan="1" colspan="1">14.1 [13.7, 14.8]</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.822</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">V̇a, L/min</td><td align="char" char="[" valign="top" rowspan="1" colspan="1">51 [41, 58]</td><td align="char" char="[" valign="top" rowspan="1" colspan="1">33 [31, 43]</td><td align="char" char="[" valign="top" rowspan="1" colspan="1">30 [29, 44]</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.004</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">V̇maxO<sub>2</sub> mL/min</td><td align="char" char="[" valign="top" rowspan="1" colspan="1">3686 [2906, 4276]</td><td align="char" char="[" valign="top" rowspan="1" colspan="1">2450 [1827, 3019]</td><td align="char" char="[" valign="top" rowspan="1" colspan="1">2007 [1677, 2161]</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.003<xref rid="phy270535-note-0008" ref-type="table-fn">
+<sup>
+a
+</sup>
+</xref>, <xref rid="phy270535-note-0009" ref-type="table-fn">
+<sup>
+b
+</sup>
+</xref>, <xref rid="phy270535-note-0010" ref-type="table-fn">
+<sup>
+c
+</sup>
+</xref>
+</td></tr></tbody></table><table-wrap-foot id="phy270535-ntgp-0002"><fn id="phy270535-note-0006"><p>
+<italic toggle="yes">Note</italic>: Values are median ± [25th percentile, 75th percentile] for continuous variables and <italic toggle="yes">n</italic> (%) for categorical variables. Last column <italic toggle="yes">p</italic> value represents the omnibus result from the Kruskal–Wallis test. Bonferroni used for post‐hoc comparisons.</p></fn><fn id="phy270535-note-0007"><p>Abbreviations: C.I., cardiac index; CFS, chronic fatigue syndrome; CO, cardiac output; D<sub>L</sub>, lung diffusion capacity for O<sub>2</sub>; D<sub>M</sub>, skeletal muscle diffusion capacity for O<sub>2</sub>; HCO<sub>3</sub>, bicarbonate; mPAP, mean pulmonary artery pressure; PaCO<sub>2</sub>, partial arterial pressure of carbon dioxide; PaO<sub>2</sub>, partial arterial pressure of oxygen; PASC, post‐acute sequelae covid; PCWP, pulmonary capillary wedge pressure; P<sub>ET</sub>CO<sub>2</sub>, partial pressure of carbon dioxide in the expired air in mmHg; PvO<sub>2</sub>, partial venous pressure of oxygen; Q̇, calculated cardiac output; RAP, right atrial pressure; RQ, respiratory quotient; SaO<sub>2</sub>, arterial oxygen saturation; SvO<sub>2</sub>, venous oxygen saturation; V̇a, alveolar ventilation; V̇CO<sub>2</sub>, maximal carbon dioxide production; V̇e/VCO<sub>2</sub>, ventilation/carbon dioxide production; V<sub>max</sub>, mitochondrial oxidative phosphorylation capacity; VO<sub>2</sub>, maximal oxygen consumption; Vt, tidal volume; Vt/Vd, dead space ventilation.</p></fn><fn id="phy270535-note-0008"><label>
+<sup>a</sup>
+</label><p>Indicates Control versus CFS.</p></fn><fn id="phy270535-note-0009"><label>
+<sup>b</sup>
+</label><p>Indicates Control versus PASC.</p></fn><fn id="phy270535-note-0010"><label>
+<sup>c</sup>
+</label><p>Indicates CFS versus PASC.</p></fn></table-wrap-foot></table-wrap><fig position="float" fig-type="FIGURE" id="phy270535-fig-0001" orientation="portrait"><label>FIGURE 1</label><caption><p>Radar plot demonstrating the following peak hemodynamics parameters among the three groups. Our control group is set at 100% as a reference line to place the other groups in context. All parameters are represented as a percentage of the control at peak exercise. PCWP, pulmonary capillary wedge pressure; RAP, right atrial pressure; SER, systemic oxygen extraction ratio; Vd/Vt, dead space to tidal volume; V̇O<sub>2</sub>, peak oxygen consumption.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-1" orientation="portrait" xlink:href="PHY2-13-e70535-g001.jpg"/></fig></sec><sec id="phy270535-sec-0011"><label>3.3</label><title>Exercise <styled-content style="fixed-case" toggle="no">O<sub>2</sub>
+</styled-content> pathway parameters demonstrate defects in multiple components</title><p>Excluding hemoglobin, all oxygen parameter pathways were lower in the CFS/ME and PASC groups compared to the control group (Table <xref rid="phy270535-tbl-0002" ref-type="table">2</xref>). D<sub>M</sub> and V<sub>max</sub> also distinguished PASC versus CFS/ME, with CFS/ME showing more impairment in these parameters.</p><p>Figure <xref rid="phy270535-fig-0002" ref-type="fig">2</xref> demonstrates a heat map of individual subjects denoting the percentage predicted using the control group of Houstis et al. (<xref rid="phy270535-bib-0017" ref-type="bibr">2018</xref>) for each O<sub>2</sub> pathway parameter. There are similarities in the underlying multicomponent pathophysiology amid PASC and CFS/ME. Notably, D<sub>M</sub>, D<sub>L</sub>, and V̇a are reduced in the PASC and CFS/ME subgroups to similar degrees.</p><fig position="float" fig-type="FIGURE" id="phy270535-fig-0002" orientation="portrait"><label>FIGURE 2</label><caption><p>Heat map showing the percentage predicted of the six oxygen pathway parameters for Control, PASC, and CFS groups, respectively. Predicted values are generated from the control group from Houstis et al. (<xref rid="phy270535-bib-0017" ref-type="bibr">2018</xref>). The legend represents the corresponding color indicating % of the reference population. Each row represents an individual patient. Controls in ALL CAPS represent health controls from the Belgian cohort, while others are dyspneic controls from the University of Arizona.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-3" orientation="portrait" xlink:href="PHY2-13-e70535-g003.jpg"/></fig></sec><sec id="phy270535-sec-0012"><label>3.4</label><title>Peak V̇O<sub>2</sub> deficit recovery: Skeletal muscle <styled-content style="fixed-case" toggle="no">O<sub>2</sub>
+</styled-content> diffusion appears to contribute most to reduced V̇O<sub>2</sub>
+</title><p>We assessed the extent of V̇O<sub>2</sub> improvement by sequentially normalizing a single defect in the oxygen extraction pathway, V̇O<sub>2</sub> deficit recovery (VDR), to determine the impact of a potential targeted therapeutic approach to each O<sub>2</sub> pathway parameter (Houstis et al., <xref rid="phy270535-bib-0017" ref-type="bibr">2018</xref>). For instance, cardiac output was normalized for a subject while all other parameters were left unchanged. Peak V̇O<sub>2</sub> was subsequently calculated for this individual denoting the boost in V̇O<sub>2peak</sub> after sequentially normalizing each element for each specific abnormal pathway. These values were expressed as a percentage contribution to normalizing peak V̇O<sub>2</sub>. This is denoted as V̇O<sub>2</sub> deficit recovery coefficient (VDRq). As Figure <xref rid="phy270535-fig-0003" ref-type="fig">3</xref> demonstrates, we noted that normalizing D<sub>M</sub> had the greatest improvement in V̇O<sub>2</sub> deficit recovery followed by D<sub>L</sub>. Both CFS/ME and PASC demonstrate a similar pattern of V̇O<sub>2</sub> deficit recoveries. Normalization of other parameters contributed &lt;10% to reduced V̇O<sub>2peak</sub>.</p><fig position="float" fig-type="FIGURE" id="phy270535-fig-0003" orientation="portrait"><label>FIGURE 3</label><caption><p>V̇O<sub>2</sub> deficit recovery percentage for oxygen pathway parameters. This demonstrates the boost in V̇O<sub>2</sub> after normalizing for a specific abnormal pathway. For example, cardiac output (Q̇) was normalized, and the expected improvement in peak V̇O<sub>2</sub> was calculated while holding other parameters unchanged. This value is then expressed as a percentage of V̇O<sub>2</sub> deficit. This is denoted as V̇O<sub>2</sub> deficit recovery coefficient for cardiac output (VDRq). VDRdm, V̇O<sub>2</sub> deficit recovery coefficient for skeletal muscle oxygen diffusion; VDRhb, V̇O<sub>2</sub> deficit recovery coefficient for hemoglobin; VDRl, V̇O<sub>2</sub> deficit recovery coefficient for pulmonary O<sub>2</sub> diffusion; VDRq, V̇O<sub>2</sub> deficit recovery coefficient for cardiac output; VDRva, V̇O<sub>2</sub> deficit recovery coefficient for alveolar ventilation; VDRvmax, V̇O<sub>2</sub> deficit recovery coefficient for mitochondrial oxidative phosphorylation. Data are presented as median (95% confidence interval).</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-5" orientation="portrait" xlink:href="PHY2-13-e70535-g004.jpg"/></fig></sec><sec id="phy270535-sec-0013"><label>3.5</label><title>Small fiber neuropathy represents a potential link to exercise intolerance among some <styled-content style="fixed-case" toggle="no">PASC</styled-content> subjects</title><p>Nerve conduction and electromyography were normal in all patients that underwent skin biopsy. Five of the six patients demonstrated findings consistent with a small fiber neuropathy. Figure <xref rid="phy270535-fig-0004" ref-type="fig">4</xref> (a) compares the normal nerve distribution in a control subject to (b) which highlights the decreased innervation and reduced axonal density in one of our patients. Similarly, (c) shows neural innervation of a sweat gland in a control patient without small fiber neuropathy, and this is contrasted by (d) which shows small fiber neuropathy and reduced sweat gland nerve fiber density in the patient. The O<sub>2</sub> pathway parameters were similar in these patients to those who did not undergo biopsy.</p><fig position="float" fig-type="FIGURE" id="phy270535-fig-0004" orientation="portrait"><label>FIGURE 4</label><caption><p>Skin biopsy immunostaining with protein‐gene‐product 9.5 antibody staining. Skin biopsy with bright‐field immunohistochemistry in 50 μm sections stained with polyclonal rabbit anti‐protein‐gene‐product 9.5 antibody. Image (a) represents a normal subject, an even distribution of epidermal nerves with slight varicosities (arrows). Image (b) is from the left upper thigh of the patient, showing decreased enervation in the epidermis and reduced axonal density (arrow). Image (c) depicts the neural innervation of a sweat gland in a subject without small fiber neuropathy. Image (d) from our patient shows reduced density of the nerves of her sweat gland.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-7" orientation="portrait" xlink:href="PHY2-13-e70535-g002.jpg"/></fig></sec></sec><sec sec-type="discussion" id="phy270535-sec-0014"><label>4</label><title>DISCUSSION</title><p>This study is the first to highlight parallels in the underlying pathophysiological mechanisms of PASC and CFS/ME using oxygen pathway analysis. When O<sub>2</sub> pathway analysis is used, multisystem defects are evident, highlighting the phenotypic heterogeneity of PASC and CFS/ME. Of the defects, the pattern of peripheral oxygen diffusion (D<sub>M</sub>) appears to relate most prominently to V̇O<sub>2</sub>. Our results support the theory that a primary defect is consistent with an abnormal peripheral neuromuscular response to exercise. Small fiber neuropathy represents one potential link between this neuromuscular response and patient symptoms.</p><p>Although our PASC cohort reflects a bias toward exertional dyspnea and fatigue as primary symptomatology burdens, this cohort represents the most common presenting phenotype (Thaweethai et al., <xref rid="phy270535-bib-0046" ref-type="bibr">2023</xref>). These subjects are characterized by normal or minimally affected standard resting tests such as echocardiography, CT chest, and pulmonary function testing. MRI does demonstrate persistent inflammatory changes of multiple organ systems, but these changes do not relate well to exercise incapacity or symptoms (Cassar et al., <xref rid="phy270535-bib-0005" ref-type="bibr">2021</xref>). Our data confirm that standard resting hemodynamics are also similar between controls and PASC. This finding indicates that cardiopulmonary exercise testing may be an important diagnostic tool for phenotyping PASC.</p><p>When examining standard iCPET measurements outside of the O<sub>2</sub> pathway, CFS/ME and PASC demonstrate reduced cardiac index relative to controls. This is in the absence of elevated cardiac filling pressures or pulmonary artery pressure indicating heart failure is an unlikely cause. In keeping with the lack of a rise in right atrial pressure with exercise, this may be considered “preload insufficiency” (Joseph et al., <xref rid="phy270535-bib-0023" ref-type="bibr">2023</xref>). Preload insufficiency is typically detected on upright iCPET although the diagnostic criteria are not universally accepted (Tooba et al., <xref rid="phy270535-bib-0047" ref-type="bibr">2021</xref>). However, preload insufficiency provides a possible relationship between exercise hemodynamics and the orthostatic symptoms through either dysautonomia (Rao et al., <xref rid="phy270535-bib-0037" ref-type="bibr">2022</xref>) or cardiac deconditioning (Edward et al., <xref rid="phy270535-bib-0012" ref-type="bibr">2023</xref>). Postural orthostatic tachycardia syndrome (POTS) is a frequent complication of both CFS and PASC and may represent a pathophysiological link to preload insufficiency (Rao et al., <xref rid="phy270535-bib-0037" ref-type="bibr">2022</xref>).</p><p>In contrast to standard iCPET parameters, the O<sub>2</sub> pathway highlights multiple organ systems involved in the exercise pathophysiology of both PASC and CFS/ME. Both the lung (D<sub>L</sub> and V̇a) and peripheral neuromuscular (D<sub>M</sub> and V<sub>max</sub>) systems appear to be affected when compared to the controls. Microclots resistant to fibrinolysis have been found in the plasma of patients with PASC (Pretorius et al., <xref rid="phy270535-bib-0034" ref-type="bibr">2021</xref>). It is possible that retained (from acute COVID) or newly formed microclots cause local ischemia and inflammation. This phenomenon could account for an increase in dead space and a drop in V̇a like that seen in patients with chronic thromboembolism (Howden et al., <xref rid="phy270535-bib-0018" ref-type="bibr">2021</xref>). D<sub>L</sub> was less affected in our patients, likely accounting for the lack of desaturation with exercise relative to the patients in that study (Howden et al., <xref rid="phy270535-bib-0018" ref-type="bibr">2021</xref>). Lung SPECT/CT, an imaging modality sensitive to microvascular disease, has demonstrated abnormalities in PASC (Piskac Zivkovic et al., <xref rid="phy270535-bib-0033" ref-type="bibr">2023</xref>) was also abnormal in most of our patients tested. It is possible that microclots diffusely affect the body (Ajčević et al., <xref rid="phy270535-bib-0001" ref-type="bibr">2023</xref>; Cassar et al., <xref rid="phy270535-bib-0005" ref-type="bibr">2021</xref>) in PASC and CFS/ME (Nunes et al., <xref rid="phy270535-bib-0031" ref-type="bibr">2022</xref>) but only those organs active during exercise reveal themselves affecting V̇O<sub>2</sub>. Theories as to the link between microclots and small fiber neuropathy as well as POTS have been published (Kell &amp; Pretorius, <xref rid="phy270535-bib-0024" ref-type="bibr">2023</xref>).</p><p>The V̇O<sub>2</sub> deficit recovery (VDR) relates individual defects of the O<sub>2</sub> pathway to improvements in V̇O<sub>2</sub>. This allows us to examine how potential treatment targets may influence patient function. VDR analysis showed that the primary component of exercise limitation to be D<sub>M</sub>, diffusion of oxygen at the skeletal muscles. D<sub>M</sub> is a composite parameter that reflects the limitations to O<sub>2</sub> transport from hemoglobin to mitochondria, including distributional blood flow (Nyberg &amp; Jones, <xref rid="phy270535-bib-0032" ref-type="bibr">2022</xref>). A putative hypothesis is that SFN induced dysautonomia has modified regional blood flow and resulted in a defect in coupling of flow to working muscle (Singh et al., <xref rid="phy270535-bib-0042" ref-type="bibr">2021</xref>). This phenomenon has been characterized in other disease states (Zamani et al., <xref rid="phy270535-bib-0053" ref-type="bibr">2020</xref>). Alternatively, amyloid deposits, inflammatory change, and reduced capillary density may play a role, as has been seen in muscle biopsies (Appelman et al., <xref rid="phy270535-bib-0003" ref-type="bibr">2024</xref>; Aschman et al., <xref rid="phy270535-bib-0004" ref-type="bibr">2023</xref>). Either of these proposed hypotheses can alter the skeletal muscle milieu resulting in an enhanced ergoreflex to the brain (Rischard et al., <xref rid="phy270535-bib-0040" ref-type="bibr">2024</xref>; Sze et al., <xref rid="phy270535-bib-0044" ref-type="bibr">2022</xref>) resulting in hyperventilation (Motiejunaite et al., <xref rid="phy270535-bib-0029" ref-type="bibr">2021</xref>) and dysfunctional breathing (Mancini et al., <xref rid="phy270535-bib-0028" ref-type="bibr">2021</xref>) amplifying the symptoms of dyspnea.</p><p>The similarities between PASC and CFS/ME have previously been reported (Sukocheva et al., <xref rid="phy270535-bib-0043" ref-type="bibr">2022</xref>). These studies highlight the similarities in oxygen extraction/utilization as indicated by a reduced arterio‐venous O<sub>2</sub> content difference and impaired systemic O<sub>2</sub> extraction in both conditions (Joseph et al., <xref rid="phy270535-bib-0021" ref-type="bibr">2021</xref>; Singh et al., <xref rid="phy270535-bib-0042" ref-type="bibr">2021</xref>; Vermeulen &amp; Vermeulen van Eck, <xref rid="phy270535-bib-0048" ref-type="bibr">2014</xref>). For the first time, we have highlighted the similarities using the O<sub>2</sub> pathway analysis. The pattern of organ system involvement is quite similar between the PASC and CFS/ME groups in our heat maps and VDR highlighting D<sub>M</sub> as a therapeutic target. The groups differ only in the magnitude of involvement, with a trend toward worse disease in the CFS/ME group. Microclots are proposed to play a role in both conditions, providing a shared pathophysiologic link to impaired D<sub>M</sub> (Nunes et al., <xref rid="phy270535-bib-0031" ref-type="bibr">2022</xref>). Previous research has also highlighted the role of mitochondrial dysfunction in both PASC (Appelman et al., <xref rid="phy270535-bib-0003" ref-type="bibr">2024</xref>) and CFS/ME (Rutherford et al., <xref rid="phy270535-bib-0041" ref-type="bibr">2016</xref>). V<sub>max</sub>, an estimate of oxidative phosphorylation, carries some assumptions (Houstis et al., <xref rid="phy270535-bib-0017" ref-type="bibr">2018</xref>) and may underestimate the role of mitochondrial dysfunction in functional limitation. This data collectively reinforces the idea that the peripheral neuromuscular system is a major player in both conditions, but that significant knowledge gaps remain.</p><p>We were not able to replicate an abnormally reduced systemic oxygen extraction (SER) ratio in both PASC and CFS/ME, as has been seen in previous studies (Mancini et al., <xref rid="phy270535-bib-0028" ref-type="bibr">2021</xref>; Singh et al., <xref rid="phy270535-bib-0042" ref-type="bibr">2021</xref>). This could be related to a combination of both reduced cardiac output and SER in our population. When there are combined defects limiting VO<sub>2</sub>, the Fick components can be difficult to interpret. For example, the normal physiological response to reduced cardiac output is an increase in Ca‐vO<sub>2</sub> (and SER) due to enhanced extraction and increased hemoglobin muscle capillary transit time. Thus, a “normal extraction” in this context can be abnormal. Because these variables are interdependent, they are difficult to interpret in isolation. The O<sub>2</sub> pathway resolves this by using physiologically and mathematically non‐coupled variables, and the VDR enables comparison to expected reference values. This allows identification of the dominant contributor to impaired VO<sub>2</sub> even when multiple systems are involved. Consequently, Dm can be abnormal even if SER is preserved, as it is more sensitive to subtle impairments and can be interpreted independently.</p><p>One prevailing theory linking PASC to CFS/ME is deconditioning (Edward et al., <xref rid="phy270535-bib-0012" ref-type="bibr">2023</xref>; Naeije &amp; Caravita, <xref rid="phy270535-bib-0030" ref-type="bibr">2021</xref>); however, recent reviews have refuted this explanation (Durstenfeld et al., <xref rid="phy270535-bib-0011" ref-type="bibr">2022</xref>; Singh et al., <xref rid="phy270535-bib-0042" ref-type="bibr">2021</xref>). Our data further support prior work suggesting alternative mechanisms beyond deconditioning. While deconditioning can reduce cardiac output, the dysautonomia and preload insufficiency observed in PASC and CFS/ME appear mechanistically distinct (Dani et al., <xref rid="phy270535-bib-0007" ref-type="bibr">2021</xref>; Joseph et al., <xref rid="phy270535-bib-0022" ref-type="bibr">2022</xref>). Muscle biopsy findings also point to abnormalities unlikely to result from deconditioning (Appelman et al., <xref rid="phy270535-bib-0003" ref-type="bibr">2024</xref>; Aschman et al., <xref rid="phy270535-bib-0004" ref-type="bibr">2023</xref>). PASC has also occurred in highly trained individuals (Rao et al., <xref rid="phy270535-bib-0037" ref-type="bibr">2022</xref>), including three collegiate athletes in our cohort. Additionally, exertional intolerance in both conditions is often accompanied by symptom clusters such as “brain fog,” (Thaweethai et al., <xref rid="phy270535-bib-0046" ref-type="bibr">2023</xref>) which are not characteristic of deconditioning. Together, these findings suggest that while deconditioning may contribute in some cases, it is unlikely to be the primary driver, and the mechanisms underlying PASC and CFS/ME are likely multifactorial.</p><p>One of the limitations in our data is the small, single‐center cohort. We present our data as exploratory in nature, potentially adding to a confluence of evidence from other cohorts. This may provide direction for focused analysis from other studies where resources are limited, or testing is not as sophisticated as iCPET. Other limitations deserve mention. We describe defects in the D<sub>M</sub> pathway globally, but some studies have demonstrated D<sub>M</sub> to be normal when evaluated at the level of contracting skeletal muscle (Zamani et al., <xref rid="phy270535-bib-0053" ref-type="bibr">2020</xref>). Further, we did not describe how multiple comorbid O<sub>2</sub> pathway defects may affect V̇O<sub>2</sub> which limits our ability to draw conclusions about therapeutic targets. Also, our SFN sample was self‐referred and could represent a sub‐phenotype rather than a unifying theory of reduced V̇O<sub>2</sub>. Lastly, we have controls from two different populations that are not matched to the disease cohort. However, given that the study requires invasive testing with risk to the subjects, a group of controls diverse enough for matching is difficult.</p><p>In conclusion, the functional limitations of PASC and CFS/ME are not evident at rest and therefore require exercise testing to disclose. PASC and CFS/ME share multicomponent, multi‐organ pathophysiology with the predominant component being the contracting neuromuscular system. Knowledge gaps this study has highlighted are understanding the underlying mechanisms of preload insufficiency, perfusion‐metabolism uncoupling at the skeletal muscle, and hyperventilation/dysfunctional breathing. Future research can be narrowed to these components as potential therapeutic targets.</p></sec><sec id="phy270535-sec-0015"><title>AUTHOR CONTRIBUTIONS</title><p>F.P.R., M.I., and G.C.: study design; F.P.R., M.I., and S.K.: patient recruitment, care, and follow‐up; F.P.R., M.I., and S.K.: rest and exercise hemodynamic core interpretation; S.J., F.P.R., M.I., and S.K.: data collection, maintenance, and analysis; T.L.: pathological analysis of skin biopsy samples; S.J. and F.P.R.: statistical analysis; F.P.R. and S.J.: drafted the original manuscript; F.P.R., M.I., S.K., G.C., E.H., S.R., and T.L.: critical revision of the manuscript for important intellectual content; F.P.R.: principal investigator, had access to the study data and takes full responsibility for the integrity and accuracy of the data.</p></sec><sec id="phy270535-sec-0502"><title>FUNDING INFORMATION</title><p>No funding information provided.</p></sec><sec sec-type="COI-statement" id="phy270535-sec-0017"><title>CONFLICT OF INTEREST STATEMENT</title><p>Dr. Rischard reports no direct conflicts related to this manuscript. His general disclosures include consulting relationships with Acceleron/Merck and United Therapeutics. He receives research support from the NIH, NHLBI, Ismed, United Therapeutics, Bayer, Merck, Janssen, Keros, and Aerovate. Dr. Levine has a financial interest in Corinthian Reference Labs and CND Life Sciences.</p></sec><sec id="phy270535-sec-0503"><title>ETHICS STATEMENT</title><p>The study was approved by the University of Arizona Institutional Review Board, approval number 1100000621, and all participants provided written informed consent in accordance with the Declaration of Helsinki.</p></sec></body><back><ack id="phy270535-sec-0016"><title>ACKNOWLEDGMENTS</title><p>We would like to graciously acknowledge the assistance of the UAHD Biorepository at the University of Arizona.</p></ack><ref-list content-type="cited-references" id="phy270535-bibl-0001"><title>REFERENCES</title><ref id="phy270535-bib-0001"><mixed-citation publication-type="journal" id="phy270535-cit-0001">
+<string-name name-style="western">
+<surname>Ajčević</surname>, <given-names>M.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Iscra</surname>, <given-names>K.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Furlanis</surname>, <given-names>G.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Michelutti</surname>, <given-names>M.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Miladinović</surname>, <given-names>A.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Buoite Stella</surname>, <given-names>A.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ukmar</surname>, <given-names>M.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cova</surname>, <given-names>M. A.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Accardo</surname>, <given-names>A.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Manganotti</surname>, <given-names>P.</given-names>
+</string-name> (<year>2023</year>). <article-title>Cerebral hypoperfusion in post‐COVID‐19 cognitively impaired subjects revealed by arterial spin labeling MRI</article-title>. <source>Scientific Reports</source>, <volume>13</volume>, <fpage>5808</fpage>. <pub-id pub-id-type="doi">10.1038/s41598-023-32275-3</pub-id>
+<pub-id pub-id-type="pmid">37037833</pub-id>
+<pub-id pub-id-type="pmcid">PMC10086005</pub-id></mixed-citation></ref><ref id="phy270535-bib-0002"><mixed-citation publication-type="journal" id="phy270535-cit-0002">
+<string-name name-style="western">
+<surname>Aparisi</surname>, <given-names>A.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ybarra‐Falcon</surname>, <given-names>C.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Garcia‐Gomez</surname>, <given-names>M.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tobar</surname>, <given-names>J.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Iglesias‐Echeverria</surname>, <given-names>C.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jaurrieta‐Largo</surname>, <given-names>S.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ladron</surname>, <given-names>R.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Uribarri</surname>, <given-names>A.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Catala</surname>, <given-names>P.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hinojosa</surname>, <given-names>W.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Marcos‐Mangas</surname>, <given-names>M.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Fernández‐Prieto</surname>, <given-names>L.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sedano‐Gutiérrez</surname>, <given-names>R.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cusacovich</surname>, <given-names>I.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Andaluz‐Ojeda</surname>, <given-names>D.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>de Vega‐Sánchez</surname>, <given-names>B.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Recio‐Platero</surname>, <given-names>A.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sanz‐Patiño</surname>, <given-names>E.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Calvo</surname>, <given-names>D.</given-names>
+</string-name>, … <string-name name-style="western">
+<surname>San Román</surname>, <given-names>J. A.</given-names>
+</string-name> (<year>2021</year>). <article-title>Exercise ventilatory inefficiency in post‐COVID‐19 syndrome: Insights from a prospective evaluation</article-title>. <source>Journal of Clinical Medicine</source>, <volume>10</volume>, <elocation-id>2591</elocation-id>. <pub-id pub-id-type="doi">10.3390/jcm10122591</pub-id>
+<pub-id pub-id-type="pmid">34208271</pub-id>
+<pub-id pub-id-type="pmcid">PMC8230788</pub-id></mixed-citation></ref><ref id="phy270535-bib-0003"><mixed-citation publication-type="journal" id="phy270535-cit-0003">
+<string-name name-style="western">
+<surname>Appelman</surname>, <given-names>B.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Charlton</surname>, <given-names>B. T.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Goulding</surname>, <given-names>R. P.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kerkhoff</surname>, <given-names>T. J.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Breedveld</surname>, <given-names>E. A.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Noort</surname>, <given-names>W.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Offringa</surname>, <given-names>C.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bloemers</surname>, <given-names>F. W.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>van Weeghel</surname>, <given-names>M.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Schomakers</surname>, <given-names>B. V.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Coelho</surname>, <given-names>P.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Posthuma</surname>, <given-names>J. J.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Aronica</surname>, <given-names>E.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Joost Wiersinga</surname>, <given-names>W.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>van Vugt</surname>, <given-names>M.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Wüst</surname>, <given-names>R. C. I.</given-names>
+</string-name> (<year>2024</year>). <article-title>Muscle abnormalities worsen after post‐exertional malaise in long COVID</article-title>. <source>Nature Communications</source>, <volume>15</volume>, <fpage>17</fpage>. <pub-id pub-id-type="doi">10.1038/s41467-023-44432-3</pub-id>
+<pub-id pub-id-type="pmcid">PMC10766651</pub-id><pub-id pub-id-type="pmid">38177128</pub-id></mixed-citation></ref><ref id="phy270535-bib-0004"><mixed-citation publication-type="journal" id="phy270535-cit-0004">
+<string-name name-style="western">
+<surname>Aschman</surname>, <given-names>T.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wyler</surname>, <given-names>E.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Baum</surname>, <given-names>O.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hentschel</surname>, <given-names>A.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rust</surname>, <given-names>R.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Legler</surname>, <given-names>F.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Preusse</surname>, <given-names>C.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Meyer‐Arndt</surname>, <given-names>L.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Buttnerova</surname>, <given-names>I.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Forster</surname>, <given-names>A.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Cengiz</surname>, <given-names>D.</given-names>
+</string-name> (<year>2023</year>). <article-title>Post‐COVID exercise intolerance is associated with capillary alterations and immune dysregulations in skeletal muscles</article-title>. <source>Acta Neuropathologica Communications</source>, <volume>11</volume>, <fpage>193</fpage>. <pub-id pub-id-type="doi">10.1186/s40478-023-01662-2</pub-id>
+<pub-id pub-id-type="pmid">38066589</pub-id>
+<pub-id pub-id-type="pmcid">PMC10704838</pub-id></mixed-citation></ref><ref id="phy270535-bib-0005"><mixed-citation publication-type="journal" id="phy270535-cit-0005">
+<string-name name-style="western">
+<surname>Cassar</surname>, <given-names>M. P.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tunnicliffe</surname>, <given-names>E. M.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Petousi</surname>, <given-names>N.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lewandowski</surname>, <given-names>A. J.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Xie</surname>, <given-names>C.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mahmod</surname>, <given-names>M.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Samat</surname>, <given-names>A. H. A.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Evans</surname>, <given-names>R. A.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Brightling</surname>, <given-names>C. E.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ho</surname>, <given-names>L. P.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Piechnik</surname>, <given-names>S. K.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Talbot</surname>, <given-names>N. P.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Holdsworth</surname>, <given-names>D.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ferreira</surname>, <given-names>V. M.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Neubauer</surname>, <given-names>S.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Raman</surname>, <given-names>B.</given-names>
+</string-name> (<year>2021</year>). <article-title>Symptom persistence despite improvement in cardiopulmonary health ‐ insights from longitudinal CMR, CPET and lung function testing post‐COVID‐19</article-title>. <source>EClinicalMedicine</source>, <volume>41</volume>, <elocation-id>101159</elocation-id>. <pub-id pub-id-type="doi">10.1016/j.eclinm.2021.101159</pub-id>
+<pub-id pub-id-type="pmid">34693230</pub-id>
+<pub-id pub-id-type="pmcid">PMC8527025</pub-id></mixed-citation></ref><ref id="phy270535-bib-0006"><mixed-citation publication-type="book" id="phy270535-cit-0006">
+<collab collab-type="authors">Committee on the Diagnostic Criteria for Myalgic Encephalomyelitis/Chronic Fatigue Syndrome</collab>
+, <collab collab-type="authors">Board on the Health of Select Populations</collab>
+, &amp; <collab collab-type="authors">Institute of Medicine</collab>
+. (<year>2015</year>). <source>Beyond myalgic encephalomyelitis/chronic fatigue syndrome: Redefining an illness</source>. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.ncbi.nlm.nih.gov/books/NBK274235/" ext-link-type="uri">https://www.ncbi.nlm.nih.gov/books/NBK274235/</ext-link>. <publisher-name>National Academies Press (US)</publisher-name>.<pub-id pub-id-type="pmid">25695122</pub-id></mixed-citation></ref><ref id="phy270535-bib-0007"><mixed-citation publication-type="journal" id="phy270535-cit-0007">
+<string-name name-style="western">
+<surname>Dani</surname>, <given-names>M.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Dirksen</surname>, <given-names>A.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Taraborrelli</surname>, <given-names>P.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Torocastro</surname>, <given-names>M.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Panagopoulos</surname>, <given-names>D.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sutton</surname>, <given-names>R.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Lim</surname>, <given-names>P. B.</given-names>
+</string-name> (<year>2021</year>). <article-title>Autonomic dysfunction in ‘long COVID’: Rationale, physiology and management strategies</article-title>. <source>Clinical Medicine</source>, <volume>21</volume>, <fpage>e63</fpage>–<lpage>e67</lpage>. <pub-id pub-id-type="doi">10.7861/clinmed.2020-0896</pub-id>
+<pub-id pub-id-type="pmid">33243837</pub-id>
+<pub-id pub-id-type="pmcid">PMC7850225</pub-id></mixed-citation></ref><ref id="phy270535-bib-0008"><mixed-citation publication-type="miscellaneous" id="phy270535-cit-0008">
+<string-name name-style="western">
+<surname>Davis</surname>, <given-names>H. E.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Assaf</surname>, <given-names>G. S.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>McCorkell</surname>, <given-names>L.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wei</surname>, <given-names>H.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Low</surname>, <given-names>R. J.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Re'em</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Redfield</surname>, <given-names>S.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Austin</surname>, <given-names>J. P.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Akrami</surname>, <given-names>A.</given-names>
+</string-name> (<year>2020</year>). <article-title>Characterizing long COVID in an international cohort: 7 months of symptoms and their impact. <italic toggle="yes">medRxiv</italic>
+</article-title>. <pub-id pub-id-type="doi">10.1101/2020.12.24.20248802</pub-id>
+<pub-id pub-id-type="pmcid">PMC8280690</pub-id><pub-id pub-id-type="pmid">34308300</pub-id></mixed-citation></ref><ref id="phy270535-bib-0009"><mixed-citation publication-type="miscellaneous" id="phy270535-cit-0009">
+<string-name name-style="western">
+<surname>Dennis</surname>, <given-names>A.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wamil</surname>, <given-names>M.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kapur</surname>, <given-names>S.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Alberts</surname>, <given-names>J.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Badley</surname>, <given-names>A. D.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Decker</surname>, <given-names>G. A.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rizza</surname>, <given-names>S. A.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Banerjee</surname>, <given-names>R.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Banerjee</surname>, <given-names>A.</given-names>
+</string-name>, &amp; <collab collab-type="authors">COVERSCAN Study Investigators</collab>
+. (<year>2020</year>). <article-title>Multi‐organ impairment in low‐risk individuals with long COVID. <italic toggle="yes">medRxiv</italic>
+</article-title>. <pub-id pub-id-type="doi">10.1101/2020.10.14.20212555</pub-id>
+</mixed-citation></ref><ref id="phy270535-bib-0010"><mixed-citation publication-type="journal" id="phy270535-cit-0010">
+<string-name name-style="western">
+<surname>Dhakal</surname>, <given-names>B. P.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Malhotra</surname>, <given-names>R.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Murphy</surname>, <given-names>R. M.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Pappagianopoulos</surname>, <given-names>P. P.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Baggish</surname>, <given-names>A. L.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Weiner</surname>, <given-names>R. B.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Houstis</surname>, <given-names>N. E.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Eisman</surname>, <given-names>A. S.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hough</surname>, <given-names>S. S.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Lewis</surname>, <given-names>G. D.</given-names>
+</string-name> (<year>2015</year>). <article-title>Mechanisms of exercise intolerance in heart failure with preserved ejection fraction: The role of abnormal peripheral oxygen extraction</article-title>. <source>Circulation. Heart Failure</source>, <volume>8</volume>, <fpage>286</fpage>–<lpage>294</lpage>. <pub-id pub-id-type="doi">10.1161/CIRCHEARTFAILURE.114.001825</pub-id>
+<pub-id pub-id-type="pmid">25344549</pub-id>
+<pub-id pub-id-type="pmcid">PMC5771713</pub-id></mixed-citation></ref><ref id="phy270535-bib-0011"><mixed-citation publication-type="journal" id="phy270535-cit-0011">
+<string-name name-style="western">
+<surname>Durstenfeld</surname>, <given-names>M. S.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sun</surname>, <given-names>K.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tahir</surname>, <given-names>P.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Peluso</surname>, <given-names>M. J.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Deeks</surname>, <given-names>S. G.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Aras</surname>, <given-names>M. A.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Grandis</surname>, <given-names>D. J.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Long</surname>, <given-names>C. S.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Beatty</surname>, <given-names>A.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Hsue</surname>, <given-names>P. Y.</given-names>
+</string-name> (<year>2022</year>). <article-title>Use of cardiopulmonary exercise testing to evaluate long COVID‐19 symptoms in adults: A systematic review and meta‐analysis</article-title>. <source>JAMA Network Open</source>, <volume>5</volume>, <elocation-id>e2236057</elocation-id>. <pub-id pub-id-type="doi">10.1001/jamanetworkopen.2022.36057</pub-id>
+<pub-id pub-id-type="pmid">36223120</pub-id>
+<pub-id pub-id-type="pmcid">PMC9557896</pub-id></mixed-citation></ref><ref id="phy270535-bib-0012"><mixed-citation publication-type="journal" id="phy270535-cit-0012">
+<string-name name-style="western">
+<surname>Edward</surname>, <given-names>J. A.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Peruri</surname>, <given-names>A.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rudofker</surname>, <given-names>E.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Shamapant</surname>, <given-names>N.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Parker</surname>, <given-names>H.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cotter</surname>, <given-names>R.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sabin</surname>, <given-names>K.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lawley</surname>, <given-names>J.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Cornwell</surname>, <given-names>W. K.</given-names>, <suffix>3rd</suffix>
+</string-name>. (<year>2023</year>). <article-title>Characteristics and treatment of exercise intolerance in patients with Long COVID</article-title>. <source>Journal of Cardiopulmonary Rehabilitation and Prevention</source>, <volume>43</volume>, <fpage>400</fpage>–<lpage>406</lpage>. <pub-id pub-id-type="doi">10.1097/HCR.0000000000000821</pub-id>
+<pub-id pub-id-type="pmid">37646620</pub-id>
+</mixed-citation></ref><ref id="phy270535-bib-0013"><mixed-citation publication-type="journal" id="phy270535-cit-0013">
+<string-name name-style="western">
+<surname>Fang</surname>, <given-names>Z.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ahrnsbrak</surname>, <given-names>R.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Rekito</surname>, <given-names>A.</given-names>
+</string-name> (<year>2024</year>). <article-title>Evidence mounts that about 7% of US adults have had Long COVID</article-title>. <source>Journal of the American Medical Association</source>, <volume>332</volume>, <fpage>5</fpage>. <pub-id pub-id-type="doi">10.1001/jama.2024.11370</pub-id>
+<pub-id pub-id-type="pmid">38848092</pub-id>
+</mixed-citation></ref><ref id="phy270535-bib-0014"><mixed-citation publication-type="journal" id="phy270535-cit-0014">
+<string-name name-style="western">
+<surname>Froidure</surname>, <given-names>A.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mahsouli</surname>, <given-names>A.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Liistro</surname>, <given-names>G.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>De Greef</surname>, <given-names>J.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Belkhir</surname>, <given-names>L.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gérard</surname>, <given-names>L.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bertrand</surname>, <given-names>A.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Koenig</surname>, <given-names>S.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Pothen</surname>, <given-names>L.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Yildiz</surname>, <given-names>H.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mwenge</surname>, <given-names>B.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Aboubakar</surname>, <given-names>F.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gohy</surname>, <given-names>S.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Pilette</surname>, <given-names>C.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Reychler</surname>, <given-names>G.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Coche</surname>, <given-names>E.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Yombi</surname>, <given-names>J. C.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Ghaye</surname>, <given-names>B.</given-names>
+</string-name> (<year>2021</year>). <article-title>Integrative respiratory follow‐up of severe COVID‐19 reveals common functional and lung imaging sequelae</article-title>. <source>Respiratory Medicine</source>, <volume>181</volume>, <elocation-id>106383</elocation-id>. <pub-id pub-id-type="doi">10.1016/j.rmed.2021.106383</pub-id>
+<pub-id pub-id-type="pmid">33839588</pub-id>
+<pub-id pub-id-type="pmcid">PMC8019490</pub-id></mixed-citation></ref><ref id="phy270535-bib-0015"><mixed-citation publication-type="journal" id="phy270535-cit-0015">
+<string-name name-style="western">
+<surname>Groff</surname>, <given-names>D.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sun</surname>, <given-names>A.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ssentongo</surname>, <given-names>A. E.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ba</surname>, <given-names>D. M.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Parsons</surname>, <given-names>N.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Poudel</surname>, <given-names>G. R.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lekoubou</surname>, <given-names>A.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Oh</surname>, <given-names>J. S.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ericson</surname>, <given-names>J. E.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ssentongo</surname>, <given-names>P.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Chinchilli</surname>, <given-names>V. M.</given-names>
+</string-name> (<year>2021</year>). <article-title>Short‐term and Long‐term rates of Postacute sequelae of SARS‐CoV‐2 infection: A systematic review</article-title>. <source>JAMA Network Open</source>, <volume>4</volume>, <elocation-id>e2128568</elocation-id>. <pub-id pub-id-type="doi">10.1001/jamanetworkopen.2021.28568</pub-id>
+<pub-id pub-id-type="pmid">34643720</pub-id>
+<pub-id pub-id-type="pmcid">PMC8515212</pub-id></mixed-citation></ref><ref id="phy270535-bib-0016"><mixed-citation publication-type="journal" id="phy270535-cit-0016">
+<string-name name-style="western">
+<surname>Herrera</surname>, <given-names>J. E.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Niehaus</surname>, <given-names>W. N.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Whiteson</surname>, <given-names>J.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Azola</surname>, <given-names>A.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Baratta</surname>, <given-names>J. M.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Fleming</surname>, <given-names>T. K.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kim</surname>, <given-names>S. Y.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Naqvi</surname>, <given-names>H.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sampsel</surname>, <given-names>S.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Silver</surname>, <given-names>J. K.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Verduzco‐Gutierrez</surname>, <given-names>M.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Maley</surname>, <given-names>J.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Herman</surname>, <given-names>E.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Abramoff</surname>, <given-names>B.</given-names>
+</string-name> (<year>2021</year>). <article-title>Multidisciplinary collaborative consensus guidance statement on the assessment and treatment of fatigue in postacute sequelae of SARS‐CoV‐2 infection (PASC) patients</article-title>. <source>PM &amp; R: The Journal of Injury, Function, and Rehabilitation</source>, <volume>13</volume>, <fpage>1027</fpage>–<lpage>1043</lpage>. <pub-id pub-id-type="doi">10.1002/pmrj.12684</pub-id>
+<pub-id pub-id-type="pmcid">PMC8441628</pub-id><pub-id pub-id-type="pmid">34346558</pub-id></mixed-citation></ref><ref id="phy270535-bib-0017"><mixed-citation publication-type="journal" id="phy270535-cit-0017">
+<string-name name-style="western">
+<surname>Houstis</surname>, <given-names>N. E.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Eisman</surname>, <given-names>A. S.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Pappagianopoulos</surname>, <given-names>P. P.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wooster</surname>, <given-names>L.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bailey</surname>, <given-names>C. S.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wagner</surname>, <given-names>P. D.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Lewis</surname>, <given-names>G. D.</given-names>
+</string-name> (<year>2018</year>). <article-title>Exercise intolerance in heart failure with preserved ejection fraction: Diagnosing and ranking its causes using personalized O<sub>2</sub> pathway analysis</article-title>. <source>Circulation</source>, <volume>137</volume>, <fpage>148</fpage>–<lpage>161</lpage>. <pub-id pub-id-type="doi">10.1161/CIRCULATIONAHA.117.029058</pub-id>
+<pub-id pub-id-type="pmid">28993402</pub-id>
+<pub-id pub-id-type="pmcid">PMC5760316</pub-id></mixed-citation></ref><ref id="phy270535-bib-0018"><mixed-citation publication-type="journal" id="phy270535-cit-0018">
+<string-name name-style="western">
+<surname>Howden</surname>, <given-names>E. J.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ruiz‐Carmona</surname>, <given-names>S.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Claeys</surname>, <given-names>M.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>De Bosscher</surname>, <given-names>R.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Willems</surname>, <given-names>R.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Meyns</surname>, <given-names>B.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Verbelen</surname>, <given-names>T.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Maleux</surname>, <given-names>G.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Godinas</surname>, <given-names>L.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Belge</surname>, <given-names>C.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bogaert</surname>, <given-names>J.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Claus</surname>, <given-names>P.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>La Gerche</surname>, <given-names>A.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Delcroix</surname>, <given-names>M.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Claessen</surname>, <given-names>G.</given-names>
+</string-name> (<year>2021</year>). <article-title>Oxygen pathway limitations in patients with chronic thromboembolic pulmonary hypertension</article-title>. <source>Circulation</source>, <volume>143</volume>, <fpage>2061</fpage>–<lpage>2073</lpage>. <pub-id pub-id-type="doi">10.1161/CIRCULATIONAHA.120.052899</pub-id>
+<pub-id pub-id-type="pmid">33853383</pub-id>
+</mixed-citation></ref><ref id="phy270535-bib-0019"><mixed-citation publication-type="journal" id="phy270535-cit-0019">
+<string-name name-style="western">
+<surname>Huang</surname>, <given-names>C.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Huang</surname>, <given-names>L.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wang</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Li</surname>, <given-names>X.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ren</surname>, <given-names>L.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gu</surname>, <given-names>X.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kang</surname>, <given-names>L.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Guo</surname>, <given-names>L.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Liu</surname>, <given-names>M.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhou</surname>, <given-names>X.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Luo</surname>, <given-names>J.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Huang</surname>, <given-names>Z.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tu</surname>, <given-names>S.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhao</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chen</surname>, <given-names>L.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Xu</surname>, <given-names>D.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Li</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Li</surname>, <given-names>C.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Peng</surname>, <given-names>L.</given-names>
+</string-name>, … <string-name name-style="western">
+<surname>Cao</surname>, <given-names>B.</given-names>
+</string-name> (<year>2021a</year>). <article-title>6‐month consequences of COVID‐19 in patients discharged from hospital: A cohort study</article-title>. <source>The Lancet</source>, <volume>397</volume>, <fpage>220</fpage>–<lpage>232</lpage>. <pub-id pub-id-type="doi">10.1016/s0140-6736(20)32656-8</pub-id>
+<pub-id pub-id-type="pmcid">PMC7833295</pub-id><pub-id pub-id-type="pmid">33428867</pub-id><related-article xmlns:xlink="http://www.w3.org/1999/xlink" related-article-type="expression-of-concern" ext-link-type="pmc" xlink:href="PMC9691145"/></mixed-citation></ref><ref id="phy270535-bib-0020"><mixed-citation publication-type="miscellaneous" id="phy270535-cit-0020">
+<string-name name-style="western">
+<surname>Huang</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Pinto</surname>, <given-names>M. D.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Borelli</surname>, <given-names>J. L.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mehrabadi</surname>, <given-names>M. A.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Abrihim</surname>, <given-names>H.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Dutt</surname>, <given-names>N.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lambert</surname>, <given-names>N.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Nurmi</surname>, <given-names>E. L.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chakraborty</surname>, <given-names>R.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rahmani</surname>, <given-names>A. M.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Downs</surname>, <given-names>C. A.</given-names>
+</string-name> (<year>2021b</year>). <article-title>COVID symptoms, symptom clusters, and predictors for becoming a long‐hauler: Looking for clarity in the haze of the pandemic. <italic toggle="yes">medRxiv</italic>
+</article-title>. <pub-id pub-id-type="doi">10.1101/2021.03.03.21252086</pub-id>
+<pub-id pub-id-type="pmcid">PMC9510954</pub-id><pub-id pub-id-type="pmid">36154716</pub-id></mixed-citation></ref><ref id="phy270535-bib-0021"><mixed-citation publication-type="journal" id="phy270535-cit-0021">
+<string-name name-style="western">
+<surname>Joseph</surname>, <given-names>P.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Arevalo</surname>, <given-names>C.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Oliveira</surname>, <given-names>R. K. F.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Faria‐Urbina</surname>, <given-names>M.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Felsenstein</surname>, <given-names>D.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Oaklander</surname>, <given-names>A. L.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Systrom</surname>, <given-names>D. M.</given-names>
+</string-name> (<year>2021</year>). <article-title>Insights from invasive cardiopulmonary exercise testing of patients with Myalgic encephalomyelitis/chronic fatigue syndrome</article-title>. <source>Chest</source>, <volume>160</volume>, <fpage>642</fpage>–<lpage>651</lpage>. <pub-id pub-id-type="doi">10.1016/j.chest.2021.01.082</pub-id>
+<pub-id pub-id-type="pmid">33577778</pub-id>
+<pub-id pub-id-type="pmcid">PMC8727854</pub-id></mixed-citation></ref><ref id="phy270535-bib-0022"><mixed-citation publication-type="journal" id="phy270535-cit-0022">
+<string-name name-style="western">
+<surname>Joseph</surname>, <given-names>P.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Pari</surname>, <given-names>R.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Miller</surname>, <given-names>S.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Warren</surname>, <given-names>A.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Stovall</surname>, <given-names>M. C.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Squires</surname>, <given-names>J.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chang</surname>, <given-names>C. J.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Xiao</surname>, <given-names>W.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Waxman</surname>, <given-names>A. B.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Systrom</surname>, <given-names>D. M.</given-names>
+</string-name> (<year>2022</year>). <article-title>Neurovascular dysregulation and acute exercise intolerance in myalgic encephalomyelitis/chronic fatigue syndrome: A randomized, placebo‐controlled trial of pyridostigmine</article-title>. <source>Chest</source>, <volume>162</volume>, <fpage>1116</fpage>–<lpage>1126</lpage>. <pub-id pub-id-type="doi">10.1016/j.chest.2022.04.146</pub-id>
+<pub-id pub-id-type="pmid">35526605</pub-id>
+</mixed-citation></ref><ref id="phy270535-bib-0023"><mixed-citation publication-type="journal" id="phy270535-cit-0023">
+<string-name name-style="western">
+<surname>Joseph</surname>, <given-names>P.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Singh</surname>, <given-names>I.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Oliveira</surname>, <given-names>R.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Capone</surname>, <given-names>C. A.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mullen</surname>, <given-names>M. P.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cook</surname>, <given-names>D. B.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Stovall</surname>, <given-names>M. C.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Squires</surname>, <given-names>J.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Madsen</surname>, <given-names>K.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Waxman</surname>, <given-names>A. B.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Systrom</surname>, <given-names>D. M.</given-names>
+</string-name> (<year>2023</year>). <article-title>Exercise pathophysiology in Myalgic encephalomyelitis/chronic fatigue syndrome and Postacute sequelae of SARS‐CoV‐2: More in common than not?</article-title>
+<source>Chest</source>, <volume>164</volume>, <fpage>717</fpage>–<lpage>726</lpage>. <pub-id pub-id-type="doi">10.1016/j.chest.2023.03.049</pub-id>
+<pub-id pub-id-type="pmid">37054777</pub-id>
+<pub-id pub-id-type="pmcid">PMC10088277</pub-id></mixed-citation></ref><ref id="phy270535-bib-0024"><mixed-citation publication-type="journal" id="phy270535-cit-0024">
+<string-name name-style="western">
+<surname>Kell</surname>, <given-names>D. B.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Pretorius</surname>, <given-names>E.</given-names>
+</string-name> (<year>2023</year>). <article-title>Are fibrinaloid microclots a cause of autoimmunity in long Covid and other post‐infection diseases?</article-title>
+<source>The Biochemical Journal</source>, <volume>480</volume>, <fpage>1217</fpage>–<lpage>1240</lpage>. <pub-id pub-id-type="doi">10.1042/BCJ20230241</pub-id>
+<pub-id pub-id-type="pmid">37584410</pub-id>
+</mixed-citation></ref><ref id="phy270535-bib-0025"><mixed-citation publication-type="journal" id="phy270535-cit-0025">
+<string-name name-style="western">
+<surname>Kovacs</surname>, <given-names>G.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Avian</surname>, <given-names>A.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Pienn</surname>, <given-names>M.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Naeije</surname>, <given-names>R.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Olschewski</surname>, <given-names>H.</given-names>
+</string-name> (<year>2014</year>). <article-title>Reading pulmonary vascular pressure tracings. How to handle the problems of zero leveling and respiratory swings</article-title>. <source>American Journal of Respiratory and Critical Care Medicine</source>, <volume>190</volume>, <fpage>252</fpage>–<lpage>257</lpage>. <pub-id pub-id-type="doi">10.1164/rccm.201402-0269PP</pub-id>
+<pub-id pub-id-type="pmid">24869464</pub-id>
+</mixed-citation></ref><ref id="phy270535-bib-0026"><mixed-citation publication-type="journal" id="phy270535-cit-0026">
+<string-name name-style="western">
+<surname>Kovacs</surname>, <given-names>G.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Herve</surname>, <given-names>P.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Barbera</surname>, <given-names>J. A.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chaouat</surname>, <given-names>A.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chemla</surname>, <given-names>D.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Condliffe</surname>, <given-names>R.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Garcia</surname>, <given-names>G.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Grunig</surname>, <given-names>E.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Howard</surname>, <given-names>L.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Humbert</surname>, <given-names>M.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lau</surname>, <given-names>E.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Laveneziana</surname>, <given-names>P.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lewis</surname>, <given-names>G. D.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Naeije</surname>, <given-names>R.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Peacock</surname>, <given-names>A.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rosenkranz</surname>, <given-names>S.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Saggar</surname>, <given-names>R.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ulrich</surname>, <given-names>S.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Vizza</surname>, <given-names>D.</given-names>
+</string-name>, … <string-name name-style="western">
+<surname>Olschewski</surname>, <given-names>H.</given-names>
+</string-name> (<year>2017</year>). <article-title>An official European Respiratory Society statement: Pulmonary haemodynamics during exercise</article-title>. <source>The European Respiratory Journal</source>, <volume>50</volume>, <fpage>1</fpage>–<lpage>18</lpage>. <pub-id pub-id-type="doi">10.1183/13993003.00578-2017</pub-id>
+<pub-id pub-id-type="pmid">29167297</pub-id></mixed-citation></ref><ref id="phy270535-bib-0027"><mixed-citation publication-type="miscellaneous" id="phy270535-cit-0027">
+<string-name name-style="western">
+<surname>Lopez‐Leon</surname>, <given-names>S.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wegman‐Ostrosky</surname>, <given-names>T.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Perelman</surname>, <given-names>C.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sepulveda</surname>, <given-names>R.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rebolledo</surname>, <given-names>P. A.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cuapio</surname>, <given-names>A.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Villapol</surname>, <given-names>S.</given-names>
+</string-name> (<year>2021</year>). <article-title>More than 50 Long‐term effects of COVID‐19: A systematic review and meta‐analysis. <italic toggle="yes">medRxiv</italic>
+</article-title>. <pub-id pub-id-type="doi">10.1101/2021.01.27.21250617</pub-id>
+<pub-id pub-id-type="pmcid">PMC8352980</pub-id><pub-id pub-id-type="pmid">34373540</pub-id></mixed-citation></ref><ref id="phy270535-bib-0028"><mixed-citation publication-type="journal" id="phy270535-cit-0028">
+<string-name name-style="western">
+<surname>Mancini</surname>, <given-names>D. M.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Brunjes</surname>, <given-names>D. L.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lala</surname>, <given-names>A.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Trivieri</surname>, <given-names>M. G.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Contreras</surname>, <given-names>J. P.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Natelson</surname>, <given-names>B. H.</given-names>
+</string-name> (<year>2021</year>). <article-title>Use of cardiopulmonary stress testing for patients with unexplained dyspnea post‐coronavirus disease</article-title>. <source>JACC Heart Failure</source>, <volume>9</volume>, <fpage>927</fpage>–<lpage>937</lpage>. <pub-id pub-id-type="doi">10.1016/j.jchf.2021.10.002</pub-id>
+<pub-id pub-id-type="pmid">34857177</pub-id>
+<pub-id pub-id-type="pmcid">PMC8629098</pub-id></mixed-citation></ref><ref id="phy270535-bib-0029"><mixed-citation publication-type="journal" id="phy270535-cit-0029">
+<string-name name-style="western">
+<surname>Motiejunaite</surname>, <given-names>J.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Balagny</surname>, <given-names>P.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Arnoult</surname>, <given-names>F.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mangin</surname>, <given-names>L.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bancal</surname>, <given-names>C.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Vidal‐Petiot</surname>, <given-names>E.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Flamant</surname>, <given-names>M.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jondeau</surname>, <given-names>G.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cohen‐Solal</surname>, <given-names>A.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>d'Ortho</surname>, <given-names>M. P.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Frija‐Masson</surname>, <given-names>J.</given-names>
+</string-name> (<year>2021</year>). <article-title>Hyperventilation as one of the mechanisms of persistent dyspnoea in SARS‐CoV‐2 survivors</article-title>. <source>European Respiratory Journal</source>, <volume>58</volume>, <elocation-id>2101578</elocation-id>. <pub-id pub-id-type="doi">10.1183/13993003.01578-2021</pub-id>
+<pub-id pub-id-type="pmid">34385265</pub-id>
+<pub-id pub-id-type="pmcid">PMC8361302</pub-id></mixed-citation></ref><ref id="phy270535-bib-0030"><mixed-citation publication-type="journal" id="phy270535-cit-0030">
+<string-name name-style="western">
+<surname>Naeije</surname>, <given-names>R.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Caravita</surname>, <given-names>S.</given-names>
+</string-name> (<year>2021</year>). <article-title>Phenotyping long COVID</article-title>. <source>European Respiratory Journal</source>, <volume>58</volume>, <elocation-id>2101763</elocation-id>. <pub-id pub-id-type="doi">10.1183/13993003.01763-2021</pub-id>
+<pub-id pub-id-type="pmid">34244323</pub-id>
+<pub-id pub-id-type="pmcid">PMC8287735</pub-id></mixed-citation></ref><ref id="phy270535-bib-0031"><mixed-citation publication-type="journal" id="phy270535-cit-0031">
+<string-name name-style="western">
+<surname>Nunes</surname>, <given-names>J. M.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kruger</surname>, <given-names>A.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Proal</surname>, <given-names>A.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kell</surname>, <given-names>D. B.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Pretorius</surname>, <given-names>E.</given-names>
+</string-name> (<year>2022</year>). <article-title>The occurrence of hyperactivated platelets and fibrinaloid microclots in myalgic encephalomyelitis/chronic fatigue syndrome (ME/CFS)</article-title>. <source>Pharmaceuticals (Basel)</source>, <volume>15</volume>, <elocation-id>931</elocation-id>. <pub-id pub-id-type="doi">10.3390/ph15080931</pub-id>
+<pub-id pub-id-type="pmid">36015078</pub-id>
+<pub-id pub-id-type="pmcid">PMC9413879</pub-id></mixed-citation></ref><ref id="phy270535-bib-0032"><mixed-citation publication-type="journal" id="phy270535-cit-0032">
+<string-name name-style="western">
+<surname>Nyberg</surname>, <given-names>M.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Jones</surname>, <given-names>A. M.</given-names>
+</string-name> (<year>2022</year>). <article-title>Matching of O<sub>2</sub> utilization and O<sub>2</sub> delivery in contracting skeletal muscle in health, aging, and heart failure</article-title>. <source>Frontiers in Physiology</source>, <volume>13</volume>, <elocation-id>898395</elocation-id>. <pub-id pub-id-type="doi">10.3389/fphys.2022.898395</pub-id>
+<pub-id pub-id-type="pmid">35774284</pub-id>
+<pub-id pub-id-type="pmcid">PMC9237395</pub-id></mixed-citation></ref><ref id="phy270535-bib-0033"><mixed-citation publication-type="journal" id="phy270535-cit-0033">
+<string-name name-style="western">
+<surname>Piskac Zivkovic</surname>, <given-names>N.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mutvar</surname>, <given-names>A.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kuster</surname>, <given-names>D.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lucijanic</surname>, <given-names>M.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ljilja Posavec</surname>, <given-names>A.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cvetkovic Kucic</surname>, <given-names>D.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lalic</surname>, <given-names>K.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Vergles</surname>, <given-names>M.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Udovicic</surname>, <given-names>M.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Barsic</surname>, <given-names>B.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rudan</surname>, <given-names>D.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Luksic</surname>, <given-names>I.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lang</surname>, <given-names>I. M.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Skoro‐Sajer</surname>, <given-names>N.</given-names>
+</string-name> (<year>2023</year>). <article-title>Longitudinal analysis of chest Q‐SPECT/CT in patients with severe COVID‐19</article-title>. <source>Respiratory Medicine</source>, <volume>220</volume>, <elocation-id>107461</elocation-id>. <pub-id pub-id-type="doi">10.1016/j.rmed.2023.107461</pub-id>
+<pub-id pub-id-type="pmid">37951314</pub-id>
+</mixed-citation></ref><ref id="phy270535-bib-0034"><mixed-citation publication-type="journal" id="phy270535-cit-0034">
+<string-name name-style="western">
+<surname>Pretorius</surname>, <given-names>E.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Vlok</surname>, <given-names>M.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Venter</surname>, <given-names>C.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bezuidenhout</surname>, <given-names>J. A.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Laubscher</surname>, <given-names>G. J.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Steenkamp</surname>, <given-names>J.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Kell</surname>, <given-names>D. B.</given-names>
+</string-name> (<year>2021</year>). <article-title>Persistent clotting protein pathology in long COVID/post‐acute sequelae of COVID‐19 (PASC) is accompanied by increased levels of antiplasmin</article-title>. <source>Cardiovascular Diabetology</source>, <volume>20</volume>, <fpage>172</fpage>. <pub-id pub-id-type="doi">10.1186/s12933-021-01359-7</pub-id>
+<pub-id pub-id-type="pmid">34425843</pub-id>
+<pub-id pub-id-type="pmcid">PMC8381139</pub-id></mixed-citation></ref><ref id="phy270535-bib-0035"><mixed-citation publication-type="journal" id="phy270535-cit-0035">
+<string-name name-style="western">
+<surname>Raicher</surname>, <given-names>I.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ravagnani</surname>, <given-names>L. H. C.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Correa</surname>, <given-names>S. G.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Dobo</surname>, <given-names>C.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mangueira</surname>, <given-names>C. L. P.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Macarenco</surname>, <given-names>R.</given-names>
+</string-name> (<year>2022</year>). <article-title>Investigation of nerve fibers in the skin by biopsy: Technical aspects, indications, and contribution to diagnosis of small‐fiber neuropathy</article-title>. <source>einstein (Sao Paulo)</source>, <volume>20</volume>, <elocation-id>eMD8044</elocation-id>. <pub-id pub-id-type="doi">10.31744/einstein_journal/2022MD8044</pub-id>
+<pub-id pub-id-type="pmid">35830153</pub-id>
+<pub-id pub-id-type="pmcid">PMC9262281</pub-id></mixed-citation></ref><ref id="phy270535-bib-0036"><mixed-citation publication-type="journal" id="phy270535-cit-0036">
+<string-name name-style="western">
+<surname>Raman</surname>, <given-names>B.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cassar</surname>, <given-names>M. P.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tunnicliffe</surname>, <given-names>E. M.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Filippini</surname>, <given-names>N.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Griffanti</surname>, <given-names>L.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Alfaro‐Almagro</surname>, <given-names>F.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Okell</surname>, <given-names>T.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sheerin</surname>, <given-names>F.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Xie</surname>, <given-names>C.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Mahmod</surname>, <given-names>M.</given-names>
+</string-name> (<year>2021</year>). <article-title>Medium‐term effects of SARS‐CoV‐2 infection on multiple vital organs, exercise capacity, cognition, quality of life and mental health, post‐hospital discharge</article-title>. <source>EClinicalMedicine</source>, <volume>31</volume>, <elocation-id>100683</elocation-id>.<pub-id pub-id-type="pmid">33490928</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.eclinm.2020.100683</pub-id><pub-id pub-id-type="pmcid">PMC7808914</pub-id></mixed-citation></ref><ref id="phy270535-bib-0037"><mixed-citation publication-type="journal" id="phy270535-cit-0037">
+<string-name name-style="western">
+<surname>Rao</surname>, <given-names>P.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Peritz</surname>, <given-names>D. C.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Systrom</surname>, <given-names>D.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lewine</surname>, <given-names>K.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cornwell</surname>, <given-names>W. K.</given-names>, <suffix>3rd</suffix>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Hsu</surname>, <given-names>J. J.</given-names>
+</string-name> (<year>2022</year>). <article-title>Orthostatic and exercise intolerance in recreational and competitive athletes with long COVID</article-title>. <source>JACC Case Reports</source>, <volume>4</volume>, <fpage>1119</fpage>–<lpage>1123</lpage>. <pub-id pub-id-type="doi">10.1016/j.jaccas.2022.07.007</pub-id>
+<pub-id pub-id-type="pmid">36090156</pub-id>
+<pub-id pub-id-type="pmcid">PMC9450930</pub-id></mixed-citation></ref><ref id="phy270535-bib-0038"><mixed-citation publication-type="journal" id="phy270535-cit-0038">
+<string-name name-style="western">
+<surname>Rinaldo</surname>, <given-names>R. F.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mondoni</surname>, <given-names>M.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Parazzini</surname>, <given-names>E. M.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Pitari</surname>, <given-names>F.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Brambilla</surname>, <given-names>E.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Luraschi</surname>, <given-names>S.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Balbi</surname>, <given-names>M.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sferrazza Papa</surname>, <given-names>G. F.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sotgiu</surname>, <given-names>G.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Guazzi</surname>, <given-names>M.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Di Marco</surname>, <given-names>F.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Centanni</surname>, <given-names>S.</given-names>
+</string-name> (<year>2021</year>). <article-title>Deconditioning as main mechanism of impaired exercise response in COVID‐19 survivors</article-title>. <source>European Respiratory Journal</source>, <volume>58</volume>, <elocation-id>2100870</elocation-id>. <pub-id pub-id-type="doi">10.1183/13993003.00870-2021</pub-id>
+<pub-id pub-id-type="pmid">33926969</pub-id>
+<pub-id pub-id-type="pmcid">PMC8082950</pub-id></mixed-citation></ref><ref id="phy270535-bib-0039"><mixed-citation publication-type="journal" id="phy270535-cit-0039">
+<string-name name-style="western">
+<surname>Risbano</surname>, <given-names>M. G.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kliment</surname>, <given-names>C. R.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Dunlap</surname>, <given-names>D. G.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Koch</surname>, <given-names>C.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Campedelli</surname>, <given-names>L.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Yoney</surname>, <given-names>K.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Nouraie</surname>, <given-names>S. M.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sciurba</surname>, <given-names>F.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Morris</surname>, <given-names>A.</given-names>
+</string-name> (<year>2023</year>). <article-title>Invasive cardiopulmonary exercise testing identifies distinct physiologic Endotypes in Postacute sequelae of SARS‐CoV‐2 infection</article-title>. <source>Chest Pulmonary</source>, <volume>1</volume>, <elocation-id>100010</elocation-id>. <pub-id pub-id-type="doi">10.1016/j.chpulm.2023.100010</pub-id>
+</mixed-citation></ref><ref id="phy270535-bib-0040"><mixed-citation publication-type="journal" id="phy270535-cit-0040">
+<string-name name-style="western">
+<surname>Rischard</surname>, <given-names>F.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Altman</surname>, <given-names>N.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Szmuszkovicz</surname>, <given-names>J.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sciurba</surname>, <given-names>F.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Berman‐Rosenzweig</surname>, <given-names>E.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lee</surname>, <given-names>S.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Krishnan</surname>, <given-names>S.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Truong</surname>, <given-names>N.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wood</surname>, <given-names>J.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Finn</surname>, <given-names>A. V.</given-names>
+</string-name> (<year>2024</year>). <article-title>Long‐term effects of COVID‐19 on the cardiopulmonary system in adults and children: Current status and questions to be resolved by the NIH RECOVER initiative</article-title>. <source>Chest</source>, <volume>165</volume>(<issue>4</issue>), <fpage>978</fpage>–<lpage>989</lpage>. <pub-id pub-id-type="doi">10.1016/j.chest.2023.12.030</pub-id>
+<pub-id pub-id-type="pmid">38185377</pub-id>
+<pub-id pub-id-type="pmcid">PMC11026169</pub-id></mixed-citation></ref><ref id="phy270535-bib-0041"><mixed-citation publication-type="journal" id="phy270535-cit-0041">
+<string-name name-style="western">
+<surname>Rutherford</surname>, <given-names>G.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Manning</surname>, <given-names>P.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Newton</surname>, <given-names>J. L.</given-names>
+</string-name> (<year>2016</year>). <article-title>Understanding muscle dysfunction in chronic fatigue syndrome</article-title>. <source>Journal of Aging Research</source>, <volume>2016</volume>, <elocation-id>2497348</elocation-id>. <pub-id pub-id-type="doi">10.1155/2016/2497348</pub-id>
+<pub-id pub-id-type="pmid">26998359</pub-id>
+<pub-id pub-id-type="pmcid">PMC4779819</pub-id></mixed-citation></ref><ref id="phy270535-bib-0042"><mixed-citation publication-type="journal" id="phy270535-cit-0042">
+<string-name name-style="western">
+<surname>Singh</surname>, <given-names>I.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Joseph</surname>, <given-names>P.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Heerdt</surname>, <given-names>P. M.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cullinan</surname>, <given-names>M.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lutchmansingh</surname>, <given-names>D. D.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gulati</surname>, <given-names>M.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Possick</surname>, <given-names>J. D.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Systrom</surname>, <given-names>D. M.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Waxman</surname>, <given-names>A. B.</given-names>
+</string-name> (<year>2021</year>). <article-title>Persistent exertional intolerance after COVID‐19: Insights from invasive cardiopulmonary exercise testing</article-title>. <source>Chest</source>, <volume>161</volume>, <fpage>54</fpage>–<lpage>63</lpage>. <pub-id pub-id-type="doi">10.1016/j.chest.2021.08.010</pub-id>
+<pub-id pub-id-type="pmid">34389297</pub-id>
+<pub-id pub-id-type="pmcid">PMC8354807</pub-id></mixed-citation></ref><ref id="phy270535-bib-0043"><mixed-citation publication-type="journal" id="phy270535-cit-0043">
+<string-name name-style="western">
+<surname>Sukocheva</surname>, <given-names>O. A.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Maksoud</surname>, <given-names>R.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Beeraka</surname>, <given-names>N. M.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Madhunapantula</surname>, <given-names>S. V.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sinelnikov</surname>, <given-names>M.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Nikolenko</surname>, <given-names>V. N.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Neganova</surname>, <given-names>M. E.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Klochkov</surname>, <given-names>S. G.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Amjad Kamal</surname>, <given-names>M.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Staines</surname>, <given-names>D. R.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Marshall‐Gradisnik</surname>, <given-names>S.</given-names>
+</string-name> (<year>2022</year>). <article-title>Analysis of post COVID‐19 condition and its overlap with myalgic encephalomyelitis/chronic fatigue syndrome</article-title>. <source>Journal of Advanced Research</source>, <volume>40</volume>, <fpage>179</fpage>–<lpage>196</lpage>. <pub-id pub-id-type="doi">10.1016/j.jare.2021.11.013</pub-id>
+<pub-id pub-id-type="pmid">36100326</pub-id>
+<pub-id pub-id-type="pmcid">PMC8619886</pub-id></mixed-citation></ref><ref id="phy270535-bib-0044"><mixed-citation publication-type="journal" id="phy270535-cit-0044">
+<string-name name-style="western">
+<surname>Sze</surname>, <given-names>S.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Pan</surname>, <given-names>D.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Moss</surname>, <given-names>A. J.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ong</surname>, <given-names>C. K.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Pareek</surname>, <given-names>M.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Squire</surname>, <given-names>I. B.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Clark</surname>, <given-names>A. L.</given-names>
+</string-name> (<year>2022</year>). <article-title>Overstimulation of the ergoreflex‐a possible mechanism to explain symptoms in long COVID</article-title>. <source>Frontiers in Cardiovascular Medicine</source>, <volume>9</volume>, <elocation-id>940832</elocation-id>. <pub-id pub-id-type="doi">10.3389/fcvm.2022.940832</pub-id>
+<pub-id pub-id-type="pmid">35911550</pub-id>
+<pub-id pub-id-type="pmcid">PMC9334659</pub-id></mixed-citation></ref><ref id="phy270535-bib-0045"><mixed-citation publication-type="journal" id="phy270535-cit-0045">
+<string-name name-style="western">
+<surname>Tang</surname>, <given-names>W. H. W.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wilcox</surname>, <given-names>J. D.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jacob</surname>, <given-names>M. S.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rosenzweig</surname>, <given-names>E. B.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Borlaug</surname>, <given-names>B. A.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Frantz</surname>, <given-names>R. P.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hassoun</surname>, <given-names>P. M.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hemnes</surname>, <given-names>A. R.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hill</surname>, <given-names>N. S.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Horn</surname>, <given-names>E. M.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Singh</surname>, <given-names>H. S.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Systrom</surname>, <given-names>D. M.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tedford</surname>, <given-names>R. J.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Vanderpool</surname>, <given-names>R. R.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Waxman</surname>, <given-names>A. B.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Xiao</surname>, <given-names>L.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Leopold</surname>, <given-names>J. A.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rischard</surname>, <given-names>F. P.</given-names>
+</string-name>, &amp; <collab collab-type="authors">the PVDOMICS Study Group</collab>
+. (<year>2020</year>). <article-title>Comprehensive diagnostic evaluation of cardiovascular physiology in patients with pulmonary vascular disease: Insights from the PVDOMICS program</article-title>. <source>Circulation. Heart Failure</source>, <volume>13</volume>, <elocation-id>e006363</elocation-id>. <pub-id pub-id-type="doi">10.1161/CIRCHEARTFAILURE.119.006363</pub-id>
+<pub-id pub-id-type="pmid">32088984</pub-id>
+<pub-id pub-id-type="pmcid">PMC7046052</pub-id></mixed-citation></ref><ref id="phy270535-bib-0046"><mixed-citation publication-type="journal" id="phy270535-cit-0046">
+<string-name name-style="western">
+<surname>Thaweethai</surname>, <given-names>T.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jolley</surname>, <given-names>S. E.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Karlson</surname>, <given-names>E. W.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Levitan</surname>, <given-names>E. B.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Levy</surname>, <given-names>B.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>McComsey</surname>, <given-names>G. A.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>McCorkell</surname>, <given-names>L.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Nadkarni</surname>, <given-names>G. N.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Parthasarathy</surname>, <given-names>S.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Singh</surname>, <given-names>U.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Walker</surname>, <given-names>T. A.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Selvaggi</surname>, <given-names>C. A.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Shinnick</surname>, <given-names>D. J.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Schulte</surname>, <given-names>C. C. M.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Atchley‐Challenner</surname>, <given-names>R.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Alba</surname>, <given-names>G. A.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Alicic</surname>, <given-names>R.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Altman</surname>, <given-names>N.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Anglin</surname>, <given-names>K.</given-names>
+</string-name>, … <string-name name-style="western">
+<surname>Foulkes</surname>, <given-names>A. S.</given-names>
+</string-name> (<year>2023</year>). <article-title>Development of a definition of postacute sequelae of SARS‐CoV‐2 infection</article-title>. <source>JAMA</source>, <volume>329</volume>, <fpage>1934</fpage>–<lpage>1946</lpage>. <pub-id pub-id-type="doi">10.1001/jama.2023.8823</pub-id>
+<pub-id pub-id-type="pmid">37278994</pub-id>
+<pub-id pub-id-type="pmcid">PMC10214179</pub-id></mixed-citation></ref><ref id="phy270535-bib-0047"><mixed-citation publication-type="journal" id="phy270535-cit-0047">
+<string-name name-style="western">
+<surname>Tooba</surname>, <given-names>R.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mayuga</surname>, <given-names>K. A.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wilson</surname>, <given-names>R.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Tonelli</surname>, <given-names>A. R.</given-names>
+</string-name> (<year>2021</year>). <article-title>Dyspnea in chronic low ventricular preload states</article-title>. <source>Annals of the American Thoracic Society</source>, <volume>18</volume>, <fpage>573</fpage>–<lpage>581</lpage>. <pub-id pub-id-type="doi">10.1513/AnnalsATS.202005-581CME</pub-id>
+<pub-id pub-id-type="pmid">33792518</pub-id>
+<pub-id pub-id-type="pmcid">PMC8009011</pub-id></mixed-citation></ref><ref id="phy270535-bib-0048"><mixed-citation publication-type="journal" id="phy270535-cit-0048">
+<string-name name-style="western">
+<surname>Vermeulen</surname>, <given-names>R. C. W.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Vermeulen van Eck</surname>, <given-names>I. W. G.</given-names>
+</string-name> (<year>2014</year>). <article-title>Decreased oxygen extraction during cardiopulmonary exercise test in patients with chronic fatigue syndrome</article-title>. <source>Journal of Translational Medicine</source>, <volume>12</volume>, <elocation-id>20</elocation-id>. <pub-id pub-id-type="doi">10.1186/1479-5876-12-20</pub-id>
+<pub-id pub-id-type="pmid">24456560</pub-id>
+<pub-id pub-id-type="pmcid">PMC3903040</pub-id></mixed-citation></ref><ref id="phy270535-bib-0049"><mixed-citation publication-type="journal" id="phy270535-cit-0049">
+<string-name name-style="western">
+<surname>Wagner</surname>, <given-names>P. D.</given-names>
+</string-name> (<year>2011</year>). <article-title>Modeling O<sub>2</sub> transport as an integrated system limiting V̇O<sub>2</sub>max</article-title>. <source>Computer Methods and Programs in Biomedicine</source>, <volume>101</volume>, <fpage>109</fpage>–<lpage>114</lpage>. <pub-id pub-id-type="doi">10.1016/j.cmpb.2010.03.013</pub-id>
+<pub-id pub-id-type="pmid">20483502</pub-id>
+<pub-id pub-id-type="pmcid">PMC2939967</pub-id></mixed-citation></ref><ref id="phy270535-bib-0050"><mixed-citation publication-type="journal" id="phy270535-cit-0050">
+<string-name name-style="western">
+<surname>Wasserman</surname>, <given-names>K.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hansen</surname>, <given-names>J. E.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sue</surname>, <given-names>D. Y.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Whipp</surname>, <given-names>B. J.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Froelicher</surname>, <given-names>V. F.</given-names>
+</string-name> (<year>1987</year>). <article-title>Principles of exercise testing and interpretation</article-title>. <source>Journal of Cardiopulmonary Rehabilitation and Prevention</source>, <volume>7</volume>, <fpage>189</fpage>.</mixed-citation></ref><ref id="phy270535-bib-0051"><mixed-citation publication-type="book" id="phy270535-cit-0051">
+<collab collab-type="authors">World Health Organization</collab>
+. (<year>2022</year>). <source>Public health surveillance for COVID‐19: Interim guidance</source>. <publisher-name>World Health Organization</publisher-name>. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.who.int/publications/i/item/WHO-2019nCoV-SurveillanceGuidance-2022.2" ext-link-type="uri">https://www.who.int/publications/i/item/WHO‐2019nCoV‐SurveillanceGuidance‐2022.2</ext-link>
+</mixed-citation></ref><ref id="phy270535-bib-0052"><mixed-citation publication-type="journal" id="phy270535-cit-0052">
+<string-name name-style="western">
+<surname>Ybarra‐Falcón</surname>, <given-names>C.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>García‐Gómez</surname>, <given-names>M.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tobar</surname>, <given-names>J.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Iglesias‐Echevarria</surname>, <given-names>C.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jaurrieta‐Largo</surname>, <given-names>S.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ladrón</surname>, <given-names>R.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Uribarri</surname>, <given-names>A.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Catalá</surname>, <given-names>P.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hinojosa</surname>, <given-names>W.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Marcos‐Mangas</surname>, <given-names>M.</given-names>
+</string-name> (<year>2021</year>). <article-title>Post‐COVID‐19 syndrome: Prospective evaluation of clinical and functional outcomes and systematic review</article-title>. <source>European Heart Journal</source>, <volume>42</volume>, <elocation-id>ehab724‐2767</elocation-id>.</mixed-citation></ref><ref id="phy270535-bib-0053"><mixed-citation publication-type="journal" id="phy270535-cit-0053">
+<string-name name-style="western">
+<surname>Zamani</surname>, <given-names>P.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Proto</surname>, <given-names>E. A.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mazurek</surname>, <given-names>J. A.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Prenner</surname>, <given-names>S. B.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Margulies</surname>, <given-names>K. B.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Townsend</surname>, <given-names>R. R.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kelly</surname>, <given-names>D. P.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Arany</surname>, <given-names>Z.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Poole</surname>, <given-names>D. C.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wagner</surname>, <given-names>P. D.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Chirinos</surname>, <given-names>J. A.</given-names>
+</string-name> (<year>2020</year>). <article-title>Peripheral determinants of oxygen utilization in heart failure with preserved ejection fraction: Central role of adiposity</article-title>. <source>JACC Basic to Translational Science</source>, <volume>5</volume>, <fpage>211</fpage>–<lpage>225</lpage>. <pub-id pub-id-type="doi">10.1016/j.jacbts.2020.01.003</pub-id>
+<pub-id pub-id-type="pmid">32215346</pub-id>
+<pub-id pub-id-type="pmcid">PMC7091498</pub-id></mixed-citation></ref></ref-list></back></article></pmc-articleset>

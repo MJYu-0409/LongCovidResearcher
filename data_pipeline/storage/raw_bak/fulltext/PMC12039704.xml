@@ -1,0 +1,1370 @@
+<?xml version="1.0"  ?><!DOCTYPE pmc-articleset PUBLIC "-//NLM//DTD ARTICLE SET 2.0//EN" "https://dtd.nlm.nih.gov/ncbi/pmc/articleset/nlm-articleset-2.0.dtd"><pmc-articleset><article id="puh270004" xml:lang="en" article-type="review-article" dtd-version="1.4"><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">Public Health Chall</journal-id><journal-id journal-id-type="iso-abbrev">Public Health Chall</journal-id><journal-id journal-id-type="pmc-domain-id">4740</journal-id><journal-id journal-id-type="pmc-domain">phchall</journal-id><journal-id journal-id-type="publisher-id">PUH2</journal-id><journal-title-group><journal-title>Public Health Challenges</journal-title></journal-title-group><issn pub-type="epub">2769-2450</issn><publisher><publisher-name>Wiley</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC12039704</article-id><article-id pub-id-type="pmcid-ver">PMC12039704.1</article-id><article-id pub-id-type="pmcaid">12039704</article-id><article-id pub-id-type="pmcaiid">12039704</article-id><article-id pub-id-type="pmid">40496528</article-id><article-id pub-id-type="doi">10.1002/puh2.70004</article-id><article-id pub-id-type="publisher-id">PUH270004</article-id><article-version article-version-type="pmc-version">1</article-version><article-categories><subj-group subj-group-type="overline"><subject>Review Article</subject></subj-group><subj-group subj-group-type="heading"><subject>Review Article</subject></subj-group></article-categories><title-group><article-title>Systems Thinking, Causal Loop Diagram, and Systems Dynamic in Public Health Challenges: Navigating Long COVID Syndrome and Sense of Smell in LGBTQIA+ Communities</article-title></title-group><contrib-group><contrib id="puh270004-cr-0001" contrib-type="author" corresp="yes"><name name-style="western"><surname>Akbari</surname><given-names initials="B">Behnaz</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0003-4266-9936</contrib-id><xref rid="puh270004-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><address><email>bakbari@purdue.edu</email></address></contrib><contrib id="puh270004-cr-0002" contrib-type="author"><name name-style="western"><surname>Wang</surname><given-names initials="JM">Jessica M.</given-names></name><xref rid="puh270004-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib id="puh270004-cr-0003" contrib-type="author"><name name-style="western"><surname>Baghaei‐Yazdi</surname><given-names initials="N">Namdar</given-names></name><xref rid="puh270004-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib id="puh270004-cr-0004" contrib-type="author"><name name-style="western"><surname>Lahooti</surname><given-names initials="H">Hooshang</given-names></name><xref rid="puh270004-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref><xref rid="puh270004-aff-0004" ref-type="aff">
+<sup>4</sup>
+</xref></contrib><contrib id="puh270004-cr-0005" contrib-type="author" corresp="yes"><name name-style="western"><surname>Sherman</surname><given-names initials="JH">Janet Hope</given-names></name><xref rid="puh270004-aff-0005" ref-type="aff">
+<sup>5</sup>
+</xref><address><email>jhsherm@bu.edu</email></address></contrib></contrib-group><aff id="puh270004-aff-0001">
+<label>
+<sup>1</sup>
+</label>
+<named-content content-type="organisation-division">Department of Chemistry</named-content>
+<institution>Purdue University</institution>
+<city>West Lafayette</city>
+<named-content content-type="country-part">Indiana</named-content>
+<country country="US">USA</country>
+</aff><aff id="puh270004-aff-0002">
+<label>
+<sup>2</sup>
+</label>
+<named-content content-type="organisation-division">College of Liberal Arts &amp; Sciences</named-content>
+<named-content content-type="organisation-division">School of Life Sciences</named-content>
+<institution>University of Westminster</institution>
+<city>London</city>
+<country country="GB">UK</country>
+</aff><aff id="puh270004-aff-0003">
+<label>
+<sup>3</sup>
+</label>
+<named-content content-type="organisation-division">Sydney Medical School</named-content>
+<institution>University of Sydney</institution>
+<city>Sydney</city>
+<country country="AU">Australia</country>
+</aff><aff id="puh270004-aff-0004">
+<label>
+<sup>4</sup>
+</label>
+<named-content content-type="organisation-division">Medical School</named-content>
+<institution>Notre Dame University</institution>
+<city>Sydney</city>
+<country country="AU">Australia</country>
+</aff><aff id="puh270004-aff-0005">
+<label>
+<sup>5</sup>
+</label>
+<named-content content-type="organisation-division">Chobanian &amp; Avedisian School of Medicine</named-content>
+<institution>Boston University</institution>
+<city>Boston</city>
+<named-content content-type="country-part">Massachusetts</named-content>
+<country country="US">USA</country>
+</aff><author-notes><corresp id="correspondenceTo">
+<label>*</label>
+<bold>Correspondence:</bold> Behnaz Akbari (<email>bakbari@purdue.edu</email>) | Janet Hope Sherman (<email>jhsherm@bu.edu</email>)<break/>
+</corresp></author-notes><pub-date pub-type="epub"><day>03</day><month>9</month><year>2024</year></pub-date><pub-date pub-type="collection"><month>9</month><year>2024</year></pub-date><volume>3</volume><issue seq="250">3</issue><issue-id pub-id-type="pmc-issue-id">487575</issue-id><issue-id pub-id-type="doi">10.1002/puh2.v3.3</issue-id><elocation-id>e70004</elocation-id><history><date date-type="rev-recd"><day>13</day><month>8</month><year>2024</year></date><date date-type="received"><day>16</day><month>2</month><year>2024</year></date><date date-type="accepted"><day>25</day><month>8</month><year>2024</year></date></history><pub-history><event event-type="pmc-release"><date><day>03</day><month>09</month><year>2024</year></date></event><event event-type="pmc-live"><date><day>10</day><month>06</month><year>2025</year></date></event><event event-type="pmc-last-change"><date iso-8601-date="2025-06-11 19:25:27.800"><day>11</day><month>06</month><year>2025</year></date></event></pub-history><permissions><copyright-statement content-type="article-copyright">© 2024 The Author(s). <italic toggle="yes">Public Health Challenges</italic> published by John Wiley &amp; Sons Ltd.</copyright-statement><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>This is an open access article under the terms of the <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pmc-pdf" xlink:href="PUH2-3-e70004.pdf"/><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pdf" xlink:href="file:PUH2-3-e70004.pdf"/><abstract><title>ABSTRACT</title><sec id="puh270004-sec-0010"><title>Background</title><p>The coronavirus pandemic has profoundly affected global health, economic stability, and environmental sustainability. Despite these challenges, significant gaps in data remain, particularly in effectively assessing and engaging diverse communities such as color, LGBTQIA+ individuals, and low‐income groups. This shortage of comprehensive research limits our capacity to undertake sensitive studies, specifically in dealing with the complexities of long COVID, which some individuals continue to suffer from after their initial recovery.</p></sec><sec id="puh270004-sec-0020"><title>Objective</title><p>This review delves into the ongoing repercussions of long‐term COVID‐19, a postinfectious syndrome marked by neurological symptoms such as cognitive deficits and sensory impairments, which may last well beyond the acute phase of the illness. These symptoms frequently overlap with mental health issues (e.g., anxiety and depression), which can aggravate the socioeconomic challenges faced by vulnerable populations, especially within the LGBTQA+ communities.</p></sec><sec id="puh270004-sec-0030"><title>Methods</title><p>To tackle these complex interactions, we have introduced a novel public health framework: model‐based systems thinking (MBST), which incorporates System Dynamics and causal loop diagrams (CLD).</p></sec><sec id="puh270004-sec-0040"><title>Results and Discussion</title><p>The articles were selected on the basis of their discussion of COVID‐19‐associated anosmia, exploration of olfactory dysfunction alongside neurocognitive disorders, and the challenges experienced in LGBQA+ communities. This approach offers a robust framework for dissecting the intricate ties between socioeconomic factors, health outcomes, and the extended recovery trajectories associated with long‐term COVID‐19, with a particular focus on olfactory dysfunction. We also explore strategies to make our models more accessible to healthcare providers and the LGBTQA+ communities, encouraging its broader adoption.</p></sec><sec id="puh270004-sec-0050"><title>Conclusion</title><p>Long COVID's impact on public health and marginalized communities highlights the urgent need for adopting systems thinking models. Additionally, this article calls for a concerted effort from all experts to foster multidisciplinary, team‐based research and implement effective support measures for COVID‐19 survivors across all communities, mainly focusing on the scientific, social, and behavioral challenges LGBTQIA+ and low‐income individuals face.</p></sec></abstract><abstract id="puh270004-abs-0001" abstract-type="graphical"><p>This graphical abstract illustrates the multifaceted approach to understanding and addressing long COVID‐19, highlighting the integration of natural remedies, diverse medical personnel, and the impacts on public health and LGBTQ+ communities, reflecting the interconnectedness of biological, social, and healthcare dimensions. 
+<boxed-text position="anchor" content-type="graphic" orientation="portrait"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-1" orientation="portrait" xlink:href="PUH2-3-e70004-g002.jpg"/></boxed-text>
+</p></abstract><kwd-group kwd-group-type="author-generated"><kwd id="puh270004-kwd-0001">LGBTQIA+</kwd><kwd id="puh270004-kwd-0002">long COVID</kwd><kwd id="puh270004-kwd-0003">public health</kwd><kwd id="puh270004-kwd-0004">smell loss</kwd><kwd id="puh270004-kwd-0005">systems thinking</kwd></kwd-group><counts><fig-count count="8"/><table-count count="0"/><page-count count="14"/><word-count count="9891"/></counts><custom-meta-group><custom-meta><meta-name>pmc-status-qastatus</meta-name><meta-value>0</meta-value></custom-meta><custom-meta><meta-name>pmc-status-live</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-status-embargo</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-status-released</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-access</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-legally-suppressed</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-pdf</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-supplement</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-pdf-only</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-suppress-copyright</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-real-version</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-scanned-article</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-in-epmc</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-license-ref</meta-name><meta-value>CC BY</meta-value></custom-meta><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>September 2024</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:6.5.5 mode:remove_FC converted:17.04.2025</meta-value></custom-meta></custom-meta-group></article-meta><notes><fn-group><fn id="puh270004-note-0001"><p>
+<bold>Funding:</bold> Publication of this article was funded in part by Purdue University Libraries Open Access Publishing Fund.</p></fn></fn-group></notes></front><body><sec id="puh270004-sec-0060"><label>1</label><title>Introduction</title><p>Long coronavirus disease is a severe and complex public health challenge that can result from a previous SARS‐CoV‐2 infection. It encompasses a broad spectrum of persistent symptoms and health problems for weeks, months, or even years beyond the initial COVID‐19 [<xref rid="puh270004-bib-0001" ref-type="bibr">1</xref>, <xref rid="puh270004-bib-0002" ref-type="bibr">2</xref>, <xref rid="puh270004-bib-0003" ref-type="bibr">3</xref>]. The long‐term pathogenesis of COVID‐19 is believed to involve immune dysregulation, disturbances in the microbiota, autoimmunity, abnormalities in clotting and endothelial functions, and emotional distress, as highlighted in recent studies [<xref rid="puh270004-bib-0002" ref-type="bibr">2</xref>]. Individuals recovering from this illness may experience disruptions in their sleep and increased fatigue due to hormonal imbalances, proinflammatory biomarkers, and central nervous system impairment stemming from the infection [<xref rid="puh270004-bib-0002" ref-type="bibr">2</xref>, <xref rid="puh270004-bib-0003" ref-type="bibr">3</xref>, <xref rid="puh270004-bib-0004" ref-type="bibr">4</xref>, <xref rid="puh270004-bib-0005" ref-type="bibr">5</xref>, <xref rid="puh270004-bib-0006" ref-type="bibr">6</xref>]. Thus, this condition can be both debilitating and isolating, particularly in the absence of clear and immediate treatment solutions. In addition, long‐term COVID is characterized by recurring symptoms and inflammation across multiple organ systems, and diagnosis can be challenging, influenced by factors like demographics, comorbidities, and immune responses [<xref rid="puh270004-bib-0007" ref-type="bibr">7</xref>, <xref rid="puh270004-bib-0008" ref-type="bibr">8</xref>]. Regardless of initial disease severity, almost 2 years after the initial COVID‐19 infection, survivors generally show improvements in both physical and mental health, with many returning to work. However, the prevalence of long‐term symptoms remains significant, and overall health status is notably lower compared to the general population [<xref rid="puh270004-bib-0009" ref-type="bibr">9</xref>]. A growing number of studies have shown that losing important senses such as smell and taste might have unfavorable consequences on the quality of life of COVID‐19 survivors [<xref rid="puh270004-bib-0006" ref-type="bibr">6</xref>, <xref rid="puh270004-bib-0010" ref-type="bibr">10</xref>–<xref rid="puh270004-bib-0014" ref-type="bibr">14</xref>]. Olfactory dysfunction has various implications and consequences, ranging from difficulty detecting dangerous pathogens to hindering social functioning and behaviors [<xref rid="puh270004-bib-0015" ref-type="bibr">15</xref>, <xref rid="puh270004-bib-0016" ref-type="bibr">16</xref>]. Those who lost their sense of smell affected their physical health, work life, sleeping quality, partnership, emotional stability, and leisure [<xref rid="puh270004-bib-0016" ref-type="bibr">16</xref>, <xref rid="puh270004-bib-0017" ref-type="bibr">17</xref>, <xref rid="puh270004-bib-0018" ref-type="bibr">18</xref>, <xref rid="puh270004-bib-0019" ref-type="bibr">19</xref>, <xref rid="puh270004-bib-0020" ref-type="bibr">20</xref>, <xref rid="puh270004-bib-0021" ref-type="bibr">21</xref>].</p><p>Health disparities, particularly related to marginalized communities, contribute to a higher burden of infection and ongoing symptoms in these minority populations—communities that often encounter social, political, and economic exclusion and discrimination [<xref rid="puh270004-bib-0022" ref-type="bibr">22</xref>]. Consequences of marginalization cause various adverse outcomes like poverty, poor health outcomes, violence, and systemic inequality, which perpetuate the cycle of marginalization. COVID‐19 has contributed to a worsening of life circumstances (e.g., physical health, mental health, financial stability, meeting basic needs, and feelings of social connectedness) among the LGBTQIA+ community (the acronym LGBTQIA+ stands for lesbian, gay, bisexual, transgender, queer, intersex, and asexual, representing various sexual orientations and gender identities; the “+” symbol includes additional identities not explicitly covered by the initial letters) with specific outcomes such as anxiety and depression [<xref rid="puh270004-bib-0003" ref-type="bibr">3</xref>, <xref rid="puh270004-bib-0023" ref-type="bibr">23</xref>, <xref rid="puh270004-bib-0024" ref-type="bibr">24</xref>].</p><p>Systems Thinking provides a dynamic and practical framework that enables scientists from various disciplines to tackle the complex challenges of long COVID across all populations, particularly within the LGBTQIA+ community, during and beyond the COVID‐19 pandemic. For instance, a qualitative evidence synthesis conducted by Lucas et al. identified several categories of COVID‐19 loss and grieving experienced by LGBTQIA+ individuals, including lack of work and livelihood, social isolation, loss of community connection, lack of physical and mental health support, and lack of identity/self‐affirmation [<xref rid="puh270004-bib-0025" ref-type="bibr">25</xref>]. Although impactful measures to address long COVID are available to some extent, there is a lack of efficient and compelling vision in marginalized populations (i.e., color and LGBTQIA+ individuals) and their subgroups (e.g., the lesbian, gay, bisexual, transgender, queer, questioning, intersex populations, as well as low‐income groups) as a language like a Systems Thinking model to conceptualize such complicated challenges with a focus on the smell loss. This has not yet explored how loss of smell affects resilience, personal growth, and the reconstruction of meaning among LGBTQIA+ individuals with long‐term COVID‐19. This understanding could eventually translate research findings into effective health practices for marginalized communities.</p><p>Hence, the primary goals of the article are (1) to study the impact of long COVID on the marginalized population, in particular, the vulnerable LGBTQIA+ communities, and to visualize how sensory dysfunction can impact physical health, mental health, financial stability, meeting basic needs, and feelings of social connectedness (2) using a preliminary causal loop diagram (CLD), Systems Dynamic, and model‐based systems thinking (MBST) to conceptualize and design advanced, robust, and future sensitive research trials. Our findings highlight the urgent need for further research into long COVID and the creation of specific interventions and treatments to lessen its effects on marginalized communities using Systems Thinking. This could also broadly benefit individuals experiencing anosmia.</p></sec><sec id="puh270004-sec-0070"><label>2</label><title>Methods</title><p>Advanced search options were utilized on electronic databases such as PubMed, Scopus, and Science Direct to identify articles using terms like “olfactory dysfunction,” “anosmia,” “smell,” “olfaction,” “neurological manifestations,” “neuropsychiatric disorders,” “cognitive decline,” “treatment,” “olfactory training,” “smell training,” “COVID‐19,” “SARS‐CoV‐2,” “coronavirus disease,” “Systems Thinking,” “Systems Dynamic,” “causal loop diagram,” “LGBQTA+,” “long COVID,” “natural products,” and “neurocognitive disorders” in various combinations. The suitability of articles for inclusion in this review was assessed on the basis of their relevance to COVID‐19‐related anosmia and neurological symptoms, their exploration of olfactory dysfunction with neurocognitive disorders, and their discussion of treatments, particularly olfactory training interventions for anosmia. Both human and animal studies were considered, and there were no time constraints on the publication date. Articles were excluded if they had misleading titles, unclear methodologies, or weak study designs. The reference lists of selected articles were also reviewed for pertinent information.</p></sec><sec id="puh270004-sec-0080"><label>3</label><title>Results</title><p>The search across electronic databases returned ∼2000 articles. These articles were then evaluated for their relevance, and their bibliographies were checked for additional relevant studies. Ultimately, 100 articles met the criteria and were included in this review by consensus among all authors. Most studies came from various global regions and encompassed human and animal research.</p><sec id="puh270004-sec-0090"><label>3.1</label><title>COVID‐19 Infection and Its Role on Olfactory Dysfunction</title><p>Olfactory impairment, one of the more unique symptoms of COVID‐19 infection, can persist beyond recovery, and therefore, olfactory training interventions have seemed to be of considerable current interest [<xref rid="puh270004-bib-0013" ref-type="bibr">13</xref>, <xref rid="puh270004-bib-0018" ref-type="bibr">18</xref>, <xref rid="puh270004-bib-0020" ref-type="bibr">20</xref>, <xref rid="puh270004-bib-0026" ref-type="bibr">26</xref>, <xref rid="puh270004-bib-0027" ref-type="bibr">27</xref>]. Olfactory dysfunction results from viral damage to the olfactory epithelium, which blocks the ability of scents to bind with olfactory receptors (Figure <xref rid="puh270004-fig-0001" ref-type="fig">1</xref>) [<xref rid="puh270004-bib-0013" ref-type="bibr">13</xref>, <xref rid="puh270004-bib-0028" ref-type="bibr">28</xref>, <xref rid="puh270004-bib-0029" ref-type="bibr">29</xref>]. It is believed that SARS‐CoV‐2 causes anosmia by targeting the olfactory epithelium. This tissue, lining the olfactory cleft in the nasal cavity, contains the primary sensory neurons that detect odors, a layer of sustentacular cells, and basal stem or progenitor cells that continually renew the epithelium [<xref rid="puh270004-bib-0030" ref-type="bibr">30</xref>, <xref rid="puh270004-bib-0031" ref-type="bibr">31</xref>]. When the inflammatory molecules (e.g., cytokines) are released, they can penetrate the blood–brain barrier, impacting the olfactory system and causing inflammation and damage to olfactory neurons [<xref rid="puh270004-bib-0030" ref-type="bibr">30</xref>]. The degree to which olfactory neurons can regenerate after damage remains unclear [<xref rid="puh270004-bib-0032" ref-type="bibr">32</xref>]. Although some research indicates that olfactory neurons can regenerate after injury, other studies suggest that this regenerative ability diminishes with age. Datta et al. showed that in most instances, SARS‐CoV‐2 infection is unlikely to cause permanent damage to the olfactory neural circuits or lead to enduring anosmia [<xref rid="puh270004-bib-0033" ref-type="bibr">33</xref>, <xref rid="puh270004-bib-0034" ref-type="bibr">34</xref>]. As presented in Figure <xref rid="puh270004-fig-0001" ref-type="fig">1</xref>, the presence of angiotensin‐converting enzyme 2 (ACE2) and the pro‐protein convertase furin (PCF) on brain microvascular endothelial cell membranes facilitates SARS‐CoV‐2 infection. Although endothelial cells express ACE2 along with TMPRSS2, cathepsins, and other SARS‐CoV‐2 entry factors, the levels of ACE2 and TMPRSS2 are lower compared to those in nasal epithelium and pulmonary alveolar Type 2 cells. SARS‐CoV‐2's spike protein has a furin cleavage site, which is not present in SARS‐CoV. Research by Cantuti‐Castelvetri et al. demonstrated that neuropilin‐1 (NRP1), which binds to furin‐cleaved substrates, enhances SARS‐CoV‐2 infectivity [<xref rid="puh270004-bib-0035" ref-type="bibr">35</xref>]. NRP1 is highly expressed in respiratory and olfactory epithelium, particularly in endothelial and epithelial cells. Daly et al. discovered that the furin‐cleaved S1 fragment of the spike protein binds directly to cell surface NRP1 and that blocking this interaction with a small‐molecule inhibitor or monoclonal antibodies reduces viral infection in cell cultures [<xref rid="puh270004-bib-0035" ref-type="bibr">35</xref>]. Exploring the role of NRP1 in SARS‐CoV‐2 infection could identify potential targets for antiviral treatments in the future. It is important to note that post‐viral olfactory dysfunction is not exclusive to SARS‐CoV‐2 but can also result from other respiratory infections [<xref rid="puh270004-bib-0020" ref-type="bibr">20</xref>, <xref rid="puh270004-bib-0021" ref-type="bibr">21</xref>, <xref rid="puh270004-bib-0036" ref-type="bibr">36</xref>].</p><fig position="float" fig-type="FIGURE" id="puh270004-fig-0001" orientation="portrait"><label>FIGURE 1</label><caption><p>Illustrates the mechanisms by which SARS‐CoV‐2 reaches the central nervous system and causes olfactory dysfunction in COVID‐19 and how the virus enters through the olfactory pathway, initially affecting the olfactory epithelium and then progressing to the olfactory bulb via axonal transmission. The SARS‐CoV‐2 can also disseminate through the systemic circulation. This may lead to the infection of the endothelial cells and damage to the blood–brain barrier (BBB) or enable infected immune cells to infiltrate the brain, causing hematogenous spread. ACE‐2, angiotensin‐converting enzyme 2; COVID‐19, coronavirus disease‐2019; OSN, olfactory sensory neuron; SARS‐CoV‐2, severe acute respiratory syndrome coronavirus 2; TMPRSS2, transmembrane serine protease 2. <italic toggle="yes">Source:</italic> This figure was created/adopted with BioRender.com.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-3" orientation="portrait" xlink:href="PUH2-3-e70004-g003.jpg"/></fig><p>Researchers actively seek effective therapies for individuals experiencing anosmia or diminished sense of smell following an infection [<xref rid="puh270004-bib-0012" ref-type="bibr">12</xref>, <xref rid="puh270004-bib-0028" ref-type="bibr">28</xref>, <xref rid="puh270004-bib-0037" ref-type="bibr">37</xref>–<xref rid="puh270004-bib-0039" ref-type="bibr">39</xref>]. Studies have shown positive results in structured olfactory training for individuals to regain their sense of smell and taste after COVID‐19 [<xref rid="puh270004-bib-0006" ref-type="bibr">6</xref>, <xref rid="puh270004-bib-0020" ref-type="bibr">20</xref>, <xref rid="puh270004-bib-0021" ref-type="bibr">21</xref>, <xref rid="puh270004-bib-0040" ref-type="bibr">40</xref>, <xref rid="puh270004-bib-0041" ref-type="bibr">41</xref>]. Moreover, natural products containing certain nutrients and metabolites have shown promise in helping patients with taste and smell loss and overall nutrition [<xref rid="puh270004-bib-0038" ref-type="bibr">38</xref>, <xref rid="puh270004-bib-0042" ref-type="bibr">42</xref>–<xref rid="puh270004-bib-0048" ref-type="bibr">48</xref>]. However, attempts at fortifying flavors and using zinc and antioxidant products have not been scientifically supported as effective treatments [<xref rid="puh270004-bib-0049" ref-type="bibr">49</xref>]. The altered brain activity in areas that process olfactory information suggests a direct neurological impact that may be amenable to interventions like olfactory training [<xref rid="puh270004-bib-0039" ref-type="bibr">39</xref>, <xref rid="puh270004-bib-0041" ref-type="bibr">41</xref>, <xref rid="puh270004-bib-0050" ref-type="bibr">50</xref>]. Hence, further research is needed to understand the effects of an individual's diet on their taste and smell dysfunction, emotional distress, and isolation after recovering from COVID‐19. Of course, society must address long‐lasting nasal inflammation in a new light to thrive post‐pandemic.</p></sec><sec id="puh270004-sec-0100"><label>3.2</label><title>Systems Thinking</title><p>Systems Thinking involves a broader understanding of a system and improving its overall quality, including its various elements and group interactions. When navigating Systems Thinking intervention, there are five crucial steps to follow. These include root cause analysis, selecting and focusing on strong‐leverage areas (where system interventions can significantly impact), systems design, measures to counteract unintended consequences, and continuous learning from the entire process. These steps are not necessarily mandatory, as the approach may vary depending on the problem being addressed. The first step involves identifying the problem, setting intervention goals, and gathering information about the situation. In Systems Thinking, a leverage point refers to a spot where a solution element can be applied to a system. Low leverage points mean that small changes will result in small behavioral changes, whereas high leverage points mean that small changes will lead to significant behavioral changes [<xref rid="puh270004-bib-0051" ref-type="bibr">51</xref>, <xref rid="puh270004-bib-0052" ref-type="bibr">52</xref>, <xref rid="puh270004-bib-0053" ref-type="bibr">53</xref>, <xref rid="puh270004-bib-0054" ref-type="bibr">54</xref>, <xref rid="puh270004-bib-0055" ref-type="bibr">55</xref>, <xref rid="puh270004-bib-0056" ref-type="bibr">56</xref>].</p><p>Systems Thinking helps (1) calibrate assumptions to information and quantify them to organize explicit modeling and crucial for research studies and professional interventions, (2) study how system elements interact and construct the desirable system (e.g., in public health) using modeling tools such as CLD, (3) identify the primary causes of system defects with feedback‐loop structures and ultimately, and (4) develop interventions that are appropriate to the situation.</p><p>However, this practice requires significant research, evaluation, and evidence‐based decision‐making [<xref rid="puh270004-bib-0051" ref-type="bibr">51</xref>, <xref rid="puh270004-bib-0053" ref-type="bibr">53</xref>, <xref rid="puh270004-bib-0055" ref-type="bibr">55</xref>–<xref rid="puh270004-bib-0059" ref-type="bibr">59</xref>]. Using CLDs involves selecting critical variables and leverage points, investigating their relationships and behavior over time, and generating intervention strategies [<xref rid="puh270004-bib-0060" ref-type="bibr">60</xref>]. Dynamic modeling and testing are then conducted to refine the models, including verifying model equations, selected parameters, and behavior over time [<xref rid="puh270004-bib-0061" ref-type="bibr">61</xref>, <xref rid="puh270004-bib-0062" ref-type="bibr">62</xref>, <xref rid="puh270004-bib-0063" ref-type="bibr">63</xref>]. Scenario planning and modeling are then employed to evaluate the effectiveness of the devised strategy in the face of change and uncertainty. Finally, these refined models can be deployed in microworlds to test hypotheses and facilitate continued learning [<xref rid="puh270004-bib-0060" ref-type="bibr">60</xref>, <xref rid="puh270004-bib-0061" ref-type="bibr">61</xref>].</p></sec><sec id="puh270004-sec-0110"><label>3.3</label><title>Real‐World Applications of Systems Thinking in the Pandemics</title><p>Long COVID clinics are adopting a holistic approach to treatment, recognizing the multifaceted symptoms affecting patients. This approach aligns with the Systems Thinking model, advocating for integrated care that comprehensively addresses mental, physical, and social health needs. Real‐world applications of this model can significantly benefit from recognizing the specific vulnerabilities and needs of LGBTQIA+ individuals, such as those related to gender‐affirming treatments and mental health services [<xref rid="puh270004-bib-0064" ref-type="bibr">64</xref>]. For instance, Figure <xref rid="puh270004-fig-0002" ref-type="fig">2</xref> highlights where the variables can move in the same direction or indirectly when affected [<xref rid="puh270004-bib-0056" ref-type="bibr">56</xref>]. As clarified in the diagram, the effects of social isolation and loneliness during the COVID‐19 pandemic have direct and indirect impacts, with directional arrows between the “O” and “S” markers highlighting the relationships among the variables [<xref rid="puh270004-bib-0056" ref-type="bibr">56</xref>]. Having a more comprehensive social network, good communication experiences, meaningful, and effective interactions with people, being employed before COVID‐19, being in a relationship or marriage, and living with someone are all factors that decrease social isolation and loneliness in older adults. However, as these public health risks increase, anxiety, depression, and suicide rates are also expected to rise. Balancing loops and digital tools used for communication can promote progress in coping and adaptation to mitigate social isolation and loneliness [<xref rid="puh270004-bib-0056" ref-type="bibr">56</xref>, <xref rid="puh270004-bib-0065" ref-type="bibr">65</xref>].</p><fig position="float" fig-type="FIGURE" id="puh270004-fig-0002" orientation="portrait"><label>FIGURE 2</label><caption><p>The impact of social isolation and loneliness during the COVID‐19 pandemic. This depicts the impact of social isolation and loneliness during the pandemic. The directional arrows between the “O” and “S” designations indicate the indirect and direct effects of the variables. <italic toggle="yes">Source:</italic> Reproduced with copyright permission [<xref rid="puh270004-bib-0001" ref-type="bibr">1</xref>].</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-5" orientation="portrait" xlink:href="PUH2-3-e70004-g004.jpg"/></fig><p>Using adjustable parameters, the CLD model identifies leverage points to reduce social isolation and loneliness during the COVID‐19 pandemic [<xref rid="puh270004-bib-0060" ref-type="bibr">60</xref>]. To provide comfort and care to those in need during the end‐of‐life period and career, education and resources that foster healthy adaptive coping approaches would be beneficial. Additionally, the CLD strategy could be employed to identify divergent healthcare‐related factors that lead to medication errors, diagnostic failures, and increased readmission rates. The interrelationships among various parameters across a CLD and their contributions to a critical issue can be monitored through numerous interviews and group conversations, providing information to clinicians and health service employers [<xref rid="puh270004-bib-0056" ref-type="bibr">56</xref>]. Sahin et al. developed a preliminary CLD that incorporated information about the pandemic's impact on the economy, environment, individuals, and society [<xref rid="puh270004-bib-0066" ref-type="bibr">66</xref>]. The diagram showed how these elements were interrelated during the COVID‐19 outbreak, assessed government activities in response to the pandemic [<xref rid="puh270004-bib-0031" ref-type="bibr">31</xref>, <xref rid="puh270004-bib-0066" ref-type="bibr">66</xref>], and outlined numerous feedback loops related to the SARS‐CoV‐2 issue within the environmental system. Although this CLD provides a helpful foundation for shaping policy interventions aimed at SARS‐CoV‐2 and other future infectious disease outbreaks, it overlooks the individual‐level systems central to various medical disciplines. Thus, the adapted CLD on the basis of Sahin et al.’s model was developed by Klement (Figure <xref rid="puh270004-fig-0003" ref-type="fig">3</xref>) [<xref rid="puh270004-bib-0059" ref-type="bibr">59</xref>].</p><fig position="float" fig-type="FIGURE" id="puh270004-fig-0003" orientation="portrait"><label>FIGURE 3</label><caption><p>A preliminary CLD that depicts complex‐related SARS‐CoV‐2 crisis’ environmental–individual–socio–economic–political system. <italic toggle="yes">Source:</italic> Reproduced with copyright permission [<xref rid="puh270004-bib-0002" ref-type="bibr">2</xref>].</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-7" orientation="portrait" xlink:href="PUH2-3-e70004-g005.jpg"/></fig><p>Ben Hassen et al. have used a susceptible–infectious–removed (SIR)‐Poisson model to predict the range of infections [<xref rid="puh270004-bib-0067" ref-type="bibr">67</xref>]. At the same time, Hoch et al. developed the SIR‐susceptible (SIRS) model to analyze the transmission of infectious diseases in a multigroup system. Zhao et al. have investigated the transmission dynamics of SARS‐CoV‐2 to develop individual case management strategies and reduce the number of super‐spreaders [<xref rid="puh270004-bib-0068" ref-type="bibr">68</xref>]. Rahimi et al. in‐depth studies promoted peaceful and inclusive countries for sustainable development, initiating the bidirectional link between COVID‐19 and the environment [<xref rid="puh270004-bib-0069" ref-type="bibr">69</xref>].</p></sec><sec id="puh270004-sec-0120"><label>3.4</label><title>Challenges in Studying LGBTQIA+ Populations in the Face of COVID‐19 Pandemic</title><p>Studying the LGBTQIA+ populations during the COVID‐19 pandemic presents unique challenges. As researchers and policymakers strive to understand and mitigate the effects of the pandemic, the LGBTQIA+ community faces distinct health disparities that general studies or interventions may not adequately address. These challenges are compounded by historical and ongoing stigmatization, as well as a lack of comprehensive data that is sensitive to the specific needs and experiences of LGBTQIA+ individuals. Consequently, tailored approaches are essential to ensure that the health policies and research strategies implemented are genuinely inclusive and effective in supporting this vulnerable population during such a global health crisis. Providing sufficient mental healthcare for the LGBTQIA+ community is essential to bridge existing disparities. However, there are scarce opportunities and resources available for mental health professionals who specialize in LGBTQIA+ affirmative care. Fish et al. recently implemented a virtual training program called the Sexual and Gender Diversity Learning Community (SGDLC) to help mental health professionals become more culturally competent when working with LGBTQIA+ communities during the COVID‐19 pandemic [<xref rid="puh270004-bib-0070" ref-type="bibr">70</xref>]. Their findings suggest that the virtual SGDLC training program was successful due to its feasibility and satisfaction, as guided by the expanded RE‐AIM model [<xref rid="puh270004-bib-0070" ref-type="bibr">70</xref>]. However, concerns about scaling up this education beyond a viral reality remain unresolved. Lucas et al. highlighted how LGBTQ+ individuals have suffered during the HIV/AIDS pandemic of the 1980s–1990s and the current COVID‐19 pandemic, leading to loss and grief experiences that have often gone unacknowledged [<xref rid="puh270004-bib-0025" ref-type="bibr">25</xref>].</p><p>Furthermore, research studies indicated that LGBTQIA+ individuals face significant disparities in healthcare access and outcomes, which have been exacerbated during the COVID‐19 pandemic [<xref rid="puh270004-bib-0022" ref-type="bibr">22</xref>, <xref rid="puh270004-bib-0056" ref-type="bibr">56</xref>, <xref rid="puh270004-bib-0070" ref-type="bibr">70</xref>, <xref rid="puh270004-bib-0071" ref-type="bibr">71</xref>]. For example, studies show that LGBTQ adults report higher rates of job loss and mental health struggles compared to their non‐LGBTQ counterparts due to the pandemic. This context is crucial for applying MBST approaches to address the physical symptoms of long COVID and the psychological stresses that may be more pronounced in this community [<xref rid="puh270004-bib-0024" ref-type="bibr">24</xref>]. Another example is a notable lack of systematic monitoring for LGBTQIA+ health in the United Kingdom, a gap highlighted by the UK government's 2018 LGBT action plan, which aimed to prioritize LGBTQIA+ needs within the National Health Service (NHS) [<xref rid="puh270004-bib-0072" ref-type="bibr">72</xref>, <xref rid="puh270004-bib-0073" ref-type="bibr">73</xref>].</p><p>The pandemic has also intensified other challenges for LGBTQIA+ individuals, including an increase in domestic abuse and significant barriers to accessing healthcare. During the lockdown, nearly 40% of LGBTQIA+ people reported missing medical appointments, with delays in medical procedures and restricted access to essential treatments disproportionately affecting trans individuals [<xref rid="puh270004-bib-0074" ref-type="bibr">74</xref>]. Despite these challenges, the pandemic has galvanized the LGBTQIA+ voluntary sector to enhance service offerings and support, demonstrating resilience despite financial constraints. Emphasizing the importance of community integration, Brady advocates incorporating LGBTQIA+‐specific services and community feedback into mainstream healthcare practices to foster inclusivity and improve care delivery effectively [<xref rid="puh270004-bib-0025" ref-type="bibr">25</xref>, <xref rid="puh270004-bib-0075" ref-type="bibr">75</xref>–<xref rid="puh270004-bib-0077" ref-type="bibr">77</xref>]. Overall, the COVID‐19 pandemic has further exposed and deepened these health disparities, underscoring the urgent need for improved healthcare approaches and data collection for the LGBTQIA+ community [<xref rid="puh270004-bib-0077" ref-type="bibr">77</xref>]. Phillips emphasized the need for systematic monitoring of health data concerning gender identity and sexual orientation to combat disparities [<xref rid="puh270004-bib-0073" ref-type="bibr">73</xref>]. A qualitative evidence synthesis conducted by Lucas et al. identified several categories of COVID‐19 loss and grieving experienced by LGBTQIA+ individuals, including lack of work and livelihood, social isolation, loss of community connection, lack of physical and mental health support, and lack of identity/self‐affirmation [<xref rid="puh270004-bib-0025" ref-type="bibr">25</xref>].</p><p>Currently, there is no routine national monitoring of sexual orientation or gender identity, which significantly impedes a thorough understanding of how the pandemic impacts LGBTQIA+ individuals [<xref rid="puh270004-bib-0078" ref-type="bibr">78</xref>]. Available data already show substantial health inequalities, such as elevated rates of disabilities and chronic conditions among trans and nonbinary people and higher obesity prevalence among lesbian and bisexual women [<xref rid="puh270004-bib-0079" ref-type="bibr">79</xref>, <xref rid="puh270004-bib-0080" ref-type="bibr">80</xref>]. The mental health of LGBTQIA+ individuals also suffers due to these systemic failures, with this group starting from a lower baseline than the general population. Conditions such as depression, self‐harm, and suicidality are alarmingly common, particularly among minority ethnic and transgender or nonbinary people, and have worsened due to pandemic‐induced isolation and diminished support from chosen families and community networks [<xref rid="puh270004-bib-0024" ref-type="bibr">24</xref>].</p><p>Over half of gender minority people and one‐third of cisgender sexual minority people reported worsening physical health. These findings are similar to data by Heslin and Hall [<xref rid="puh270004-bib-0081" ref-type="bibr">81</xref>], who found that sexual minority people have higher prevalences of many underlying conditions associated with severe COVID‐related illnesses than heterosexual people. These increased risks for the LGBTQIA+ population likely stem from reports of stigmatizing experiences in healthcare and lack of provider knowledge [<xref rid="puh270004-bib-0082" ref-type="bibr">82</xref>]. Another important consideration is the close living proximity of dense marginalized communities, which can increase the risk for infections [<xref rid="puh270004-bib-0083" ref-type="bibr">83</xref>] and subsequent poorer physical health [<xref rid="puh270004-bib-0084" ref-type="bibr">84</xref>].</p></sec><sec id="puh270004-sec-0130"><label>3.5</label><title>Long‐Term Smell Loss Experiences After COVID‐19 in LGBTQTA+ Families</title><p>The sense of smell relies on specialized olfactory receptor neurons in the olfactory epithelium of the nasal cavity [<xref rid="puh270004-bib-0019" ref-type="bibr">19</xref>]. Odorant molecules bind to receptors on the surface of these neurons, leading to the generation of a nerve impulse, which is relayed to the olfactory cortex; it is here that smells are perceived [<xref rid="puh270004-bib-0085" ref-type="bibr">85</xref>]. Changes to the sense of smell and taste can deprive a patient of the pleasure of eating, which can have significant psychological, social, and physiological effects [<xref rid="puh270004-bib-0016" ref-type="bibr">16</xref>]. Anosmia has been associated with food aversion, reduced social interactions, anxiety, depression, malnutrition, and anorexia [<xref rid="puh270004-bib-0002" ref-type="bibr">2</xref>, <xref rid="puh270004-bib-0076" ref-type="bibr">76</xref>, <xref rid="puh270004-bib-0086" ref-type="bibr">86</xref>]. Most patients will regain their sense of smell after a few weeks, but around 5% of people infected with COVID‐19 still report smell and taste dysfunction 6 months later [<xref rid="puh270004-bib-0087" ref-type="bibr">87</xref>, <xref rid="puh270004-bib-0088" ref-type="bibr">88</xref>, <xref rid="puh270004-bib-0089" ref-type="bibr">89</xref>, <xref rid="puh270004-bib-0090" ref-type="bibr">90</xref>].</p><p>Smell loss can contribute to feelings of anxiety and depression, which are already prevalent in the LGBTQIA+ community due to social stigma and discrimination [<xref rid="puh270004-bib-0024" ref-type="bibr">24</xref>, <xref rid="puh270004-bib-0025" ref-type="bibr">25</xref>, <xref rid="puh270004-bib-0072" ref-type="bibr">72</xref>, <xref rid="puh270004-bib-0073" ref-type="bibr">73</xref>, <xref rid="puh270004-bib-0074" ref-type="bibr">74</xref>, <xref rid="puh270004-bib-0082" ref-type="bibr">82</xref>, <xref rid="puh270004-bib-0084" ref-type="bibr">84</xref>]. This sensory loss may exacerbate existing mental health challenges, leading to increased stress within family dynamics [<xref rid="puh270004-bib-0078" ref-type="bibr">78</xref>, <xref rid="puh270004-bib-0080" ref-type="bibr">80</xref>, <xref rid="puh270004-bib-0082" ref-type="bibr">82</xref>]. Smell is crucial in social bonding, from sharing meals to intimate personal interactions. Loss of this sense can alter these experiences, potentially leading to social withdrawal or isolation. For LGBTQIA+ families, who may already face challenges in social acceptance, this can exacerbate feelings of alienation or loneliness [<xref rid="puh270004-bib-0024" ref-type="bibr">24</xref>, <xref rid="puh270004-bib-0073" ref-type="bibr">73</xref>, <xref rid="puh270004-bib-0077" ref-type="bibr">77</xref>, <xref rid="puh270004-bib-0084" ref-type="bibr">84</xref>]. The stress and anxiety associated with long COVID, including symptoms like smell loss, can have significant mental health implications [<xref rid="puh270004-bib-0014" ref-type="bibr">14</xref>, <xref rid="puh270004-bib-0065" ref-type="bibr">65</xref>, <xref rid="puh270004-bib-0076" ref-type="bibr">76</xref>]. Research indicates that LGBTQIA+ individuals generally report higher levels of stress and mental health issues compared to their heterosexual counterparts. The added burden of long COVID symptoms can intensify these issues, making mental health support crucial for affected LGB individuals and their families. Ongoing health issues associated with long COVID, such as chronic fatigue and smell loss, can complicate this population's daily routines and family dynamics [<xref rid="puh270004-bib-0002" ref-type="bibr">2</xref>–<xref rid="puh270004-bib-0004" ref-type="bibr">4</xref>, <xref rid="puh270004-bib-0064" ref-type="bibr">64</xref>, <xref rid="puh270004-bib-0065" ref-type="bibr">65</xref>, <xref rid="puh270004-bib-0091" ref-type="bibr">91</xref>, <xref rid="puh270004-bib-0092" ref-type="bibr">92</xref>]. This can affect caregiving roles within families, alter relationship dynamics, and increase the need for medical and supportive care, which may not always be readily accessible or affirming for LGBTQIA+ individuals [<xref rid="puh270004-bib-0024" ref-type="bibr">24</xref>, <xref rid="puh270004-bib-0074" ref-type="bibr">74</xref>, <xref rid="puh270004-bib-0076" ref-type="bibr">76</xref>].</p><p>The economic repercussions of long‐term COVID can also be significant; specifically, the LGBTQIA+ individuals who often face economic disparities and employment discrimination, and long‐term COVID may lead to job loss or reduced working hours, further straining family resources [<xref rid="puh270004-bib-0075" ref-type="bibr">75</xref>]. This can affect their sensory perception, cognitive functions, and emotional well‐being [<xref rid="puh270004-bib-0082" ref-type="bibr">82</xref>]. Smell loss can profoundly affect social interactions, often centered around meals and personal interactions involving scent. For individuals experiencing smell loss, these activities can become less enjoyable, leading to increased social isolation. For the LGBTQIA+ communities, which already face higher risks of isolation, this can exacerbate feelings of loneliness and disconnection. The stress from ongoing health concerns, compounded by potential job loss and economic insecurity within the LGBTQIA+ communities, underscores the need for targeted mental health support during and following the pandemic [<xref rid="puh270004-bib-0003" ref-type="bibr">3</xref>, <xref rid="puh270004-bib-0025" ref-type="bibr">25</xref>, <xref rid="puh270004-bib-0070" ref-type="bibr">70</xref>, <xref rid="puh270004-bib-0073" ref-type="bibr">73</xref>, <xref rid="puh270004-bib-0077" ref-type="bibr">77</xref>, <xref rid="puh270004-bib-0084" ref-type="bibr">84</xref>].</p><sec id="puh270004-sec-0140"><label>3.5.1</label><title>Interconnected Aspects of Long COVID in LGBTQIA+ Patients With a Focus on Olfactory Dysfunction</title><p>As discussed, sudden smell loss is one of the early symptoms of COVID‐19. Although it is stated that the loss of smell and taste following COVID‐19 improves within a few weeks, some cases do not improve for a long time. Our MBST model (Figure <xref rid="puh270004-fig-0004" ref-type="fig">4</xref>) offers fresh insights into the effects of long‐term COVID and the interconnected aspects of olfactory loss in patients from diverse communities, including LGBTQIA+, and how smell loss may complicate the Systems Thinking‐based models and make long‐term COVID worse in this specific population.</p><fig position="float" fig-type="FIGURE" id="puh270004-fig-0004" orientation="portrait"><label>FIGURE 4</label><caption><p>The System Dynamic model displays the key variables and their relationships, highlighting the complex interdependencies and feedback loops in the system. The nodes represent the different factors involved, whereas the arrows indicate the direction and nature of influence among these factors. <italic toggle="yes">Nodes:</italic> Added all the nodes including those for positive and negative interactions. <italic toggle="yes">Edges:</italic> Defined all the edges to match the nodes correctly and added interaction types (+) for positive, (−) for negative, and “correlated” for correlation). <italic toggle="yes">Edge labels:</italic> Added edge labels to display (+) above the arrows and (−) below the arrows. <italic toggle="yes">Edge colors:</italic> Set the color of the edges based on the interaction type: green for positive interactions, blue for negative interactions, and black for correlated interactions.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-9" orientation="portrait" xlink:href="PUH2-3-e70004-g007.jpg"/></fig><p>This study aims to reveal long‐term smell loss experiences after COVID‐19. Nutrition and appetite, personal hygiene, threats to safety, and emotional changes were the main themes created by the authors and were the areas where participant expressions focused. The participants used oral/nasal corticosteroid therapy for smell loss and received short‐term olfactory training but could not find a solution. Long‐term smell loss problems, neglected during the pandemic, should be carefully evaluated due to their harmful effects. Understanding and focusing on the adverse effects of loss of smell may contribute to the solution of long‐term smell loss problems. A detailed outline to operationalize the approach is as follows:</p><p>
+<bold>
+<italic toggle="yes">Key variables</italic>
+</bold>
+<list list-type="order" id="puh270004-list-0001"><list-item><p>
+<bold>Mental health</bold>
+<list list-type="bullet" id="puh270004-list-0002"><list-item><p>Represents the psychological well‐being of individuals, affected by long COVID.</p></list-item><list-item><p>Includes factors like anxiety, depression, and cognitive impairments.</p></list-item></list>
+</p></list-item><list-item><p>
+<bold>Life quality</bold>
+<list list-type="bullet" id="puh270004-list-0003"><list-item><p>Represents the overall well‐being and daily functioning of individuals.</p></list-item><list-item><p>Includes factors like physical health, ability to perform daily activities, and social interactions.</p></list-item></list>
+</p></list-item><list-item><p>
+<bold>Economic stability</bold>
+<list list-type="bullet" id="puh270004-list-0004"><list-item><p>Represents the financial status and employment situation of individuals.</p></list-item><list-item><p>Includes factors like job loss, reduced working hours, and healthcare costs.</p></list-item></list>
+</p></list-item></list>
+</p><p>
+<bold>
+<italic toggle="yes">System boundaries</italic>
+</bold>
+<list list-type="bullet" id="puh270004-list-0005"><list-item><p>
+<bold>Population:</bold> Focus on individuals affected by long‐term COVID‐19, specifically emphasizing marginalized communities such as LGBTQ and low‐income groups.</p></list-item><list-item><p>
+<bold>Geographical scope:</bold> Depending on data availability, this could be national, regional, or community‐specific.</p></list-item><list-item><p>
+<bold>Time horizon:</bold> To capture long‐term effects, the model should cover the period from the onset of COVID‐19 to several years after the pandemic.</p></list-item></list>
+</p><p>
+<bold>
+<italic toggle="yes">Feedback loops</italic>
+</bold>
+<list list-type="order" id="puh270004-list-0006"><list-item><p>
+<bold>Reinforcing loop (positive feedback)</bold>
+<list list-type="bullet" id="puh270004-list-0007"><list-item><p>
+<bold>Mental health </bold>→<bold> economic stability </bold>→ <bold>mental health:</bold>
+</p><list list-type="simple" id="puh270004-list-0008"><list-item><label>▪</label><p>Poor mental health can lead to job loss or reduced productivity, worsening economic stability.</p></list-item><list-item><label>▪</label><p>Economic instability can further deteriorate mental health, creating a reinforcing loop of decline.</p></list-item></list></list-item></list>
+</p></list-item><list-item><p>
+<bold>Balancing loop (negative feedback)</bold>
+<list list-type="bullet" id="puh270004-list-0009"><list-item><p>
+<bold>Interventions </bold>→<bold> mental health </bold>→ <bold>economic stability:</bold>
+</p><list list-type="simple" id="puh270004-list-0010"><list-item><label>▪</label><p>Effective interventions (e.g., medical education and community engagement) can improve mental health.</p></list-item><list-item><label>▪</label><p>Improved mental health can enhance economic stability by increasing productivity and job retention, which can, in turn, support further interventions.</p></list-item></list></list-item></list>
+</p></list-item><list-item><p>
+<bold>Balancing loop (negative feedback)</bold>
+<list list-type="bullet" id="puh270004-list-0011"><list-item><p>
+<bold>Life quality </bold>→ <bold>mental health </bold>→ <bold>life quality:</bold>
+</p><list list-type="simple" id="puh270004-list-0012"><list-item><label>▪</label><p>Poor life quality due to long COVID symptoms can lead to mental health issues.</p></list-item><list-item><label>▪</label><p>Addressing mental health can improve life quality, breaking the cycle of decline.</p></list-item></list></list-item></list>
+</p></list-item></list>
+</p><p>
+<bold>
+<italic toggle="yes">Planned analyses</italic>
+</bold>
+<list list-type="order" id="puh270004-list-0013"><list-item><p>
+<bold>Sensitivity analysis</bold>
+<list list-type="bullet" id="puh270004-list-0014"><list-item><p>
+<bold>Purpose:</bold> To understand how changes in key parameters affect the model's outputs.</p></list-item><list-item><p>
+<bold>Method:</bold> Vary parameters such as the rate of job loss, effectiveness of interventions, and healthcare costs to see their impact on mental health and economic stability.</p></list-item></list>
+</p></list-item></list>
+</p><p>
+<bold>
+<italic toggle="yes">Operationalizing the approach</italic>
+</bold>
+<list list-type="order" id="puh270004-list-0015"><list-item><p>
+<bold>Data collection and model calibration</bold>
+<list list-type="bullet" id="puh270004-list-0016"><list-item><p>
+<bold>Data sources:</bold> Use data from existing studies on long‐term COVID impacts, mental health, and socioeconomic conditions.</p></list-item><list-item><p>
+<bold>Calibration:</bold> Adjust model parameters to ensure the outputs match observed data.</p></list-item></list>
+</p></list-item><list-item><p>
+<bold>Model simulation and validation</bold>
+<list list-type="bullet" id="puh270004-list-0017"><list-item><p>
+<bold>Simulation:</bold> Run the model under different scenarios to predict future states and identify potential intervention points.</p></list-item><list-item><p>
+<bold>Validation:</bold> Compare model outputs with real‐world data and expert opinions to validate the accuracy and reliability of the model.</p></list-item></list>
+</p></list-item></list>
+</p></sec><sec id="puh270004-sec-0150"><label>3.5.2</label><title>Modeling and Simulation of Systems Thinking Using MATLAB</title><p>We also provided a MATLAB script to visualize the interactions and impacts in Systems Thinking correctly. For instance, the scenario is assessing the effects of increased mental health support on the LGBTQIA+ community affected by long COVID:
+<list list-type="bullet" id="puh270004-list-0018"><list-item><p>
+<bold>Simulation:</bold> Increase the availability of mental health services and measure the resulting changes in mental health, life quality, and economic stability.</p></list-item><list-item><p>
+<bold>Outcome:</bold> Identify the most effective interventions and provide recommendations for policymakers to support the LGBTQ community.</p></list-item></list>
+</p></sec><sec id="puh270004-sec-0160"><label>3.5.3</label><title>Enhancing Healthcare Outcomes With MBST: Advantages for Providers and the LGBTQIA+ Community</title><p>Our MBST can become a practical and influential tool in enhancing healthcare provision and advocacy for the LGBTQIA+ community, ultimately leading to better health outcomes and reduced disparities. Overall, the MBST model can facilitate successful implementation in real‐world clinical settings, providing valuable insights into the subtleties and dynamics of olfactory deficiencies and devising appropriate interventions that consider all communities, including the LGBTQIA+.</p><sec id="puh270004-sec-0170"><label>3.5.3.1</label><title>Education and Training</title><p>It has offered targeted training sessions on Systems Thinking methodologies for healthcare providers, including case studies specific to LGBTQ health issues. These sessions demonstrate how Systems Thinking can uncover complex interdependencies and lead to more effective interventions. Workshops could be integrated into medical education and ongoing professional development programs [<xref rid="puh270004-bib-0093" ref-type="bibr">93</xref>].</p></sec><sec id="puh270004-sec-0180"><label>3.5.3.2</label><title>Community Engagement</title><p>It has involved the LGBTQIA+ community in developing and applying Systems Thinking models. This could be done through community forums, workshops, and participatory research projects where community members collaborate with healthcare providers to map the systems affecting their health outcomes. Engaging the community in this way ensures that the models reflect real‐world experiences and needs.</p></sec><sec id="puh270004-sec-0190"><label>3.5.3.3</label><title>Visual Tools and Resources</title><p>It has developed intuitive visual tools that simplify systems thinking concepts. Diagrams, interactive models, and digital platforms can help providers and community members visualize the complex systems at play. These tools should be designed with user‐friendly interfaces to accommodate individuals without a background in Systems Thinking.</p></sec><sec id="puh270004-sec-0200"><label>3.5.3.4</label><title>Policy Advocacy</title><p>It has used insights derived from Systems Thinking to advocate for policies that address the systemic barriers faced by LGBTQIA+ individuals. Healthcare providers, backed by robust systems analysis, can play a pivotal role in policy discussions, advocating for changes that improve health access and outcomes for marginalized communities.</p></sec><sec id="puh270004-sec-0210"><label>3.5.3.5</label><title>Research and Documentation</title><p>Making this information/diagram widely available through academic publications, policy briefs, and online platforms can serve as a blueprint for other healthcare providers and communities.</p></sec><sec id="puh270004-sec-0220"><label>3.5.3.6</label><title>Interdisciplinary Collaboration</title><p>It can foster collaborations between healthcare providers, systems thinkers, social scientists, and LGBTQIA+ advocacy groups. These multidisciplinary teams can create more holistic and comprehensive models that factor in medical, social, psychological, and economic elements.</p></sec><sec id="puh270004-sec-0230"><label>3.5.3.7</label><title>Feedback Mechanisms</title><p>It has established continuous feedback loops that allow healthcare providers and community members to update and refine systems models on the basis of new information and outcomes. This adaptability is crucial in Systems Thinking and ensures that the models remain relevant and practical.</p></sec></sec><sec id="puh270004-sec-0240"><label>3.5.4</label><title>Systems Dynamic Model</title><p>The Systems Dynamic diagram displays the key variables and their relationships, highlighting the system's complex interdependencies and feedback loops. The nodes represent the factors involved, whereas the arrows indicate the direction and nature of influence among these factors. This visual representation helps understand how various factors interact and influence each other within the system (Figure <xref rid="puh270004-fig-0005" ref-type="fig">5</xref>).</p><fig position="float" fig-type="FIGURE" id="puh270004-fig-0005" orientation="portrait"><label>FIGURE 5</label><caption><p>System Dynamics model: (A) odorant molecules bind to olfactory receptor neurons, which send signals to the Olfactory Cortex, leading to the perception of smell; (B) the perception of smell influences the pleasure of eating, which can affect anxiety and depression levels; (C) anxiety and depression impact social interactions, potentially leading to isolation and changes in family dynamics, family dynamics feedback into anxiety and depression, creating a loop; (D) pleasure of eating also affects malnutrition, which can lead to anorexia and deteriorated physical health; (E) physical health influences persistent neurological symptoms and overall daily functioning; (F) stigmatizing experiences in healthcare impact physical health, exacerbating conditions; (G) economic disparities and job loss form a feedback loop, affecting each other; and (H) olfactory training can help improve olfactory receptor neurons, potentially restoring the sense of smell and breaking negative cycles.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-11" orientation="portrait" xlink:href="PUH2-3-e70004-g001.jpg"/></fig><sec id="puh270004-sec-0250"><label>3.5.4.1</label><title>Causal Loop Diagram</title><p>The CLD in Figure <xref rid="puh270004-fig-0006" ref-type="fig">6</xref> illustrates the interactions among the main components involved in olfactory dysfunction caused by COVID‐19:
+<list list-type="bullet" id="puh270004-list-0019"><list-item><p>
+<bold>Virus impact on nasal cells:</bold> The starting point is when the virus causes damage or changes to nasal cells, which is crucial for smell detection and leads to olfactory dysfunction.</p></list-item><list-item><p>
+<bold>Immune response:</bold> The body's defense mechanism against the virus, including inflammation and releasing immune cells and cytokines.</p></list-item><list-item><p>
+<bold>Inflammation:</bold> Part of the immune response that affects explicitly the nasal area and further impacts olfactory function.</p></list-item><list-item><p>
+<bold>Recovery mechanisms:</bold> The body's efforts to repair and return to normal function, including regenerating nasal cells and reducing inflammation.</p></list-item></list>
+</p><fig position="float" fig-type="FIGURE" id="puh270004-fig-0006" orientation="portrait"><label>FIGURE 6</label><caption><p>Proposed causal loop diagram: olfactory dysfunction in COVID‐19. The arrows indicate the direction of influence between these components, with positive (+) and negative (−) feedback loops marked in red to show how these interactions can either exacerbate or mitigate the effects of olfactory dysfunction.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-13" orientation="portrait" xlink:href="PUH2-3-e70004-g008.jpg"/></fig></sec></sec><sec id="puh270004-sec-0260"><label>3.5.5</label><title>Limitation of Study</title><p>As the current Systems Thinking model is designed without qualitative analysis, the model may fail to capture the nuanced experiences, emotions, and personal narratives of LGBTQIA+ individuals. However, these narratives are crucial for understanding profoundly personal and sociocultural aspects of health and well‐being to design this sensitive research study, accounting for the diversity within the LGBTQIA+ community, including socioeconomic status, race, age, and gender identity. Qualitative research provides insights into how these factors influence individual experiences with health, discrimination, and access to services.</p><p>Although Systems Thinking is excellent for identifying major feedback loops and interactions, it may not capture subtler dynamics that qualitative insights can reveal. These might include internalized stigma, fear of disclosure in healthcare settings, or subtle forms of social support that significantly impact health outcomes. In addition, qualitative research helps ensure that studies are ethically grounded in the lived realities of participants, promoting respect and accuracy in research findings.</p><p>Natural products, including diarylheptanoids, terpenoids, and flavonoids (e.g., kaempferol and liquiritigenin), have shown potential in olfactory dysfunction within and after recovery from coronavirus infection by synergistically inhibiting the SARS‐CoV‐2 MPRO and PLPRO in vitro. Natural flavonoids (e.g., quercetin and luteolin) impede the entry of the virus into host cells, interfere with neuroinflammation, and decrease cognitive decline [<xref rid="puh270004-bib-0042" ref-type="bibr">42</xref>, <xref rid="puh270004-bib-0094" ref-type="bibr">94</xref>–<xref rid="puh270004-bib-0096" ref-type="bibr">96</xref>]. However, their effects and efficacies are still under evaluation in clinical trials. Numerous therapies have been proposed and explored. What has consistently emerged as most effective, both clinically and in studies, is a technique known as olfactory retraining.</p><p>The nerves responsible for taste and smell can heal and regenerate, a process known as neuroplasticity. Olfactory Training uses distinct scents to retrain the olfactory system (Figure <xref rid="puh270004-fig-0007" ref-type="fig">7</xref>). It is a safe, self‐driven option that utilizes primary odors like rose, lemon, cloves, or eucalyptus to stimulate the olfactory nerves and help regain the sense of smell. This technique relies on memory and repetitive exposure to specific scents to restore olfactory function. Recently, the olfactory cell types in the upper nasal cavity have been identified as the most vulnerable to infection by SARS‐CoV‐2 [<xref rid="puh270004-bib-0003" ref-type="bibr">3</xref>, <xref rid="puh270004-bib-0026" ref-type="bibr">26</xref>, <xref rid="puh270004-bib-0092" ref-type="bibr">92</xref>]. Surprisingly, sensory neurons that detect and transmit the sense of smell to the brain are not among the vulnerable cell types [<xref rid="puh270004-bib-0010" ref-type="bibr">10</xref>, <xref rid="puh270004-bib-0019" ref-type="bibr">19</xref>, <xref rid="puh270004-bib-0036" ref-type="bibr">36</xref>, <xref rid="puh270004-bib-0042" ref-type="bibr">42</xref>, <xref rid="puh270004-bib-0087" ref-type="bibr">87</xref>].</p><fig position="float" fig-type="FIGURE" id="puh270004-fig-0007" orientation="portrait"><label>FIGURE 7</label><caption><p>The image illustrates the pathway of olfactory transmission and potential sites for therapeutic intervention in the context of smell loss, particularly relevant in conditions such as COVID‐19‐induced anosmia. The diagram is split into two major parts: (A) overall pathway: Shows the pathway from the nostrils to the brain, highlighting how biomolecules, possibly therapeutic agents, are delivered intranasally and move toward the olfactory bulb; (B) detailed mechanism: (1) the olfactory epithelium and its components like olfactory cells and supporting cells, (2) the passage of scent molecules binding to receptors on the olfactory cells, and (3) the transmission of signals via the olfactory nerve to the olfactory bulb and then to the brain for scent perception. (C) Intracellular pathway (through olfactory nerve) <italic toggle="yes">Source:</italic> This figure was created/adopted with BioRender.com.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-15" orientation="portrait" xlink:href="PUH2-3-e70004-g006.jpg"/></fig><p>Although the role of herbal medicines with antiviral and antioxidant activities has been examined, the potential therapeutic components of plant‐derived natural antioxidants in the regeneration of olfactory epithelium and continuous nerve cell renewal after an injury have not been well‐investigated for long COVID symptoms, particularly in LGBTQIA+ [<xref rid="puh270004-bib-0097" ref-type="bibr">97</xref>]. Clinical trials are currently examining various antioxidant compounds, like Previfenon and Melatonin, to determine their impact on the neurological functions of patients experiencing loss of smell after COVID‐19. However, the mechanism of action of these neurodegenerative agents on the brain metabolism remains unclear, particularly in the most vulnerable marginalized communities such as LGBTQIA+ [<xref rid="puh270004-bib-0098" ref-type="bibr">98</xref>]. Further research is needed to explore the role of natural products in addressing neurological and cognitive health issues, especially for the LGBTQIA+ community struggling with smell deficiency.</p></sec></sec></sec><sec id="puh270004-sec-0270"><label>4</label><title>Conclusions and Outlook</title><p>To summarize, the significant effects of long COVID on public health and marginalized groups underscore the critical need for adopting Systems Thinking models. Furthermore, this article advocates for a unified approach among experts to promote interdisciplinary, collaborative research and to establish robust support strategies for COVID‐19 survivors throughout various communities. This includes a specific focus on addressing the scientific, social, and behavioral hurdles encountered by LGBTQIA+ and low‐income populations.</p><p>Building on the insights gained from employing MBST in healthcare, future initiatives should focus on tailoring this model to meet the specific needs of various marginalized groups to develop targeted interventions addressing unique health disparities in this population. Additionally, exploring the efficacy of natural product formulations in managing symptoms of chronic conditions like long COVID presents a promising area of research. These formulations should be tested for their safety, effectiveness, and potential interactions with conventional treatments.</p><p>Additionally, exploring the efficacy of natural product formulations in managing symptoms of chronic conditions like long COVID presents a promising area of research. These formulations should be tested for their safety, effectiveness, and potential interactions with conventional treatments in marginalized populations.</p><p>Expanding collaborative efforts between healthcare providers, researchers, patient advocacy groups, and the affected communities is crucial. Such collaborations can enhance the development of culturally sensitive healthcare models that understand the complex socioeconomic and health dynamics and actively involve the community in their health strategies. By integrating community feedback and clinical research, healthcare systems can innovate and adapt more effectively to meet diverse patient needs. These steps will pave the way for a more inclusive and responsive healthcare system that leverages the full potential of MBST in improving LGBQTA+ patients’ outcomes and advancing public health.</p><p>For future work, integrating portable bedside very low‐field magnetic resonance imaging (MRI) and/or positron emission tomography (PET) imaging within a Systems Thinking framework presents a promising approach to addressing public health challenges, especially in managing long‐term COVID‐19 and its sensory impacts within marginalized communities.</p><p>Although our conclusions and strategies may vary, we advocate for initiating small‐scale pilot research trials exploring a wide array of treatment possibilities for all patients, especially those from communities disproportionately affected by health disparities linked to race, gender, and sexuality. This approach aims to foster a healthier society and improve global living conditions.</p></sec><sec id="puh270004-sec-0280"><title>Author Contributions</title><p>This manuscript was collaboratively written, incorporating the contributions of all authors equally, each of whom has reviewed and approved the final version. B.A. played a significant role in the project, taking on responsibilities in conceptualization, investigation, writing the original draft and review/editing, formal analysis, supervision, and managing resources. These contributions span several crucial aspects of the project, ensuring thorough oversight and execution. B.A. designed the Systems Dynamic, CLD, and MBST framework and crafted a detailed MATLAB plan to study olfactory dysfunction in long COVID patients within marginalized communities. J.M.W. contributed to the investigation and conceptualization and was involved in both the original draft writing and the review and editing processes. N.B.‐Y. also played roles in conceptualization and investigation and was engaged in writing the original draft as well as reviewing and editing. H.L. participated in conceptualization, investigation, and the writing processes (original draft and review/editing). J.H.S.’s comprehensive role included conceptualization, investigation, writing the original draft, review and editing, formal analysis, project administration, supervision, and managing resources.</p></sec><sec id="puh270004-sec-0300"><title>Ethics Statement</title><p>This work did not involve human subjects, and therefore, no Institutional Review Board (IRB) applications or approval notices from the American Political Science Association (APSA)’s Principles and Guidance for Human Subjects Research and the American Association of Public Opinion Research (AAPOR)’s Code of Ethics are required.</p></sec><sec id="puh270004-sec-0310"><title>Consent</title><p>No living participants for the participation in the current manuscript are to be declared.</p></sec><sec sec-type="COI-statement" id="puh270004-sec-0320"><title>Conflicts of Interest</title><p>The authors declare no conflicts of interest.</p></sec></body><back><ack id="puh270004-sec-0290"><title>Acknowledgments</title><p>The authors thank Professor David Flynn, MS (LIS), Assistant Professor in the Department of Medical Sciences &amp; Education and Assistant Director of Library and Information Management Education at Boston University, School of Medicine, for his feedback. We also thank Dr. David Gullett for his editing and feedback.</p></ack><sec sec-type="data-availability" id="puh270004-sec-0340"><title>Data Availability Statement</title><p>No datasets were generated or analyzed in this study; thus, data sharing is not applicable.</p></sec><ref-list id="puh270004-bibl-0001"><title>References</title><ref id="puh270004-bib-0001"><label>1</label><mixed-citation publication-type="journal" id="puh270004-cit-0001">
+<string-name name-style="western">
+<given-names>B.</given-names>
+<surname>Kalyanaraman</surname>
+</string-name>, “<article-title>Reactive Oxygen Species, Proinflammatory and Immunosuppressive Mediators Induced in COVID‐19: Overlapping Biology With Cancer</article-title>,” <source>RSC Chemical Biology</source>
+<volume>2</volume>, no. <issue>5</issue> (<year>2021</year>): <fpage>1402</fpage>–<lpage>1414</lpage>.<pub-id pub-id-type="pmid">34704045</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1039/d1cb00042j</pub-id><pub-id pub-id-type="pmcid">PMC8496060</pub-id></mixed-citation></ref><ref id="puh270004-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="puh270004-cit-0002">
+<string-name name-style="western">
+<given-names>A. D.</given-names>
+<surname>Proal</surname>
+</string-name> and <string-name name-style="western">
+<given-names>M. B.</given-names>
+<surname>Vanelzakker</surname>
+</string-name>, “<article-title>Long COVID or Post‐Acute Sequelae of COVID‐19 (PASC): An Overview of Biological Factors That May Contribute to Persistent Symptoms</article-title>,” <source>Frontiers in Microbiology</source>
+<volume>12</volume> (<year>2021</year>): <elocation-id>698169</elocation-id>.<pub-id pub-id-type="pmid">34248921</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3389/fmicb.2021.698169</pub-id><pub-id pub-id-type="pmcid">PMC8260991</pub-id></mixed-citation></ref><ref id="puh270004-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="puh270004-cit-0003">
+<string-name name-style="western">
+<given-names>H. E.</given-names>
+<surname>Davis</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Mccorkell</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J. M.</given-names>
+<surname>Vogel</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>E. J.</given-names>
+<surname>Topol</surname>
+</string-name>, “<article-title>Long COVID: Major Findings, Mechanisms and Recommendations</article-title>,” <source>Nature Reviews Microbiology</source>
+<volume>21</volume>, no. <issue>3</issue> (<year>2023</year>): <fpage>133</fpage>–<lpage>146</lpage>.<pub-id pub-id-type="pmid">36639608</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41579-022-00846-2</pub-id><pub-id pub-id-type="pmcid">PMC9839201</pub-id></mixed-citation></ref><ref id="puh270004-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="puh270004-cit-0004">
+<string-name name-style="western">
+<given-names>A. B.</given-names>
+<surname>Reiss</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Greene</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Dayaramani</surname>
+</string-name>, et al., “<article-title>Long COVID, the Brain, Nerves, and Cognitive Function</article-title>,” <source>Neurology International</source>
+<volume>15</volume>, no. <issue>3</issue> (<year>2023</year>): <fpage>821</fpage>–<lpage>841</lpage>.<pub-id pub-id-type="pmid">37489358</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3390/neurolint15030052</pub-id><pub-id pub-id-type="pmcid">PMC10366776</pub-id></mixed-citation></ref><ref id="puh270004-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="puh270004-cit-0005">
+<string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Visser</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S. S. V.</given-names>
+<surname>Golla</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S. C. J.</given-names>
+<surname>Verfaillie</surname>
+</string-name>, et al., “<article-title>Long COVID Is Associated With Extensive In‐Vivo Neuroinflammation on [<sup>18</sup>F]DPA‐714 PET</article-title>,” <source>Medrxiv</source> (<year>2022</year>), <pub-id pub-id-type="doi">10.1101/2022.06.02.22275916</pub-id>.</mixed-citation></ref><ref id="puh270004-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="puh270004-cit-0006">
+<string-name name-style="western">
+<given-names>H. Ö.</given-names>
+<surname>Alkanat</surname>
+</string-name> and <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Arslan</surname>
+</string-name>, “<article-title>Long‐Term Smell Loss Experiences After COVID‐19: A Qualitative Study</article-title>,” <source>Health Expectations</source>
+<volume>27</volume>, no. <issue>2</issue> (<year>2024</year>): <elocation-id>e14018</elocation-id>.<pub-id pub-id-type="pmid">38494992</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/hex.14018</pub-id><pub-id pub-id-type="pmcid">PMC10945215</pub-id></mixed-citation></ref><ref id="puh270004-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="puh270004-cit-0007">
+<string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Dennis</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D. J.</given-names>
+<surname>Cuthbertson</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Wootton</surname>
+</string-name>, et al., “<article-title>Multi‐Organ Impairment and Long COVID: A 1‐Year Prospective, Longitudinal Cohort Study</article-title>,” <source>Journal of the Royal Society of Medicine</source>
+<volume>116</volume>, no. <issue>3</issue> (<year>2023</year>): <fpage>97</fpage>–<lpage>112</lpage>.<pub-id pub-id-type="pmid">36787802</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1177/01410768231154703</pub-id><pub-id pub-id-type="pmcid">PMC10041626</pub-id></mixed-citation></ref><ref id="puh270004-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="puh270004-cit-0008">
+<string-name name-style="western">
+<given-names>P.</given-names>
+<surname>Iqbal</surname>
+</string-name>, <string-name name-style="western">
+<given-names>F.</given-names>
+<surname>Ata</surname>
+</string-name>, <string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Chaudhry</surname>
+</string-name>, et al., “<article-title>Post‐COVID‐19‐Associated Multiorgan Complications or “Long COVID” With Literature Review and Management Strategy Discussion: A Meta‐Analysis</article-title>,” <source>Health Science Reports</source>
+<volume>6</volume>, no. <issue>4</issue> (<year>2023</year>): <elocation-id>e1211</elocation-id>.<pub-id pub-id-type="pmid">37064319</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/hsr2.1211</pub-id><pub-id pub-id-type="pmcid">PMC10103688</pub-id></mixed-citation></ref><ref id="puh270004-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="puh270004-cit-0009">
+<string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Huang</surname>
+</string-name>, <string-name name-style="western">
+<given-names>X.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name name-style="western">
+<given-names>X.</given-names>
+<surname>Gu</surname>
+</string-name>, et al., “<article-title>Health Outcomes in People 2 Years After Surviving Hospitalisation With COVID‐19: A Longitudinal Cohort Study</article-title>,” <source>Lancet Respiratory Medicine</source>
+<volume>10</volume>, no. <issue>9</issue> (<year>2022</year>): <fpage>863</fpage>–<lpage>876</lpage>.<pub-id pub-id-type="pmid">35568052</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/S2213-2600(22)00126-6</pub-id><pub-id pub-id-type="pmcid">PMC9094732</pub-id></mixed-citation></ref><ref id="puh270004-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="puh270004-cit-0010">
+<string-name name-style="western">
+<given-names>K. W.</given-names>
+<surname>Cooper</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D. H.</given-names>
+<surname>Brann</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M. C.</given-names>
+<surname>Farruggia</surname>
+</string-name>, et al., “<article-title>COVID‐19 and the Chemical Senses: Supporting Players Take Center Stage</article-title>,” <source>Neuron</source>
+<volume>107</volume>, no. <issue>2</issue> (<year>2020</year>): <fpage>219</fpage>–<lpage>233</lpage>.<pub-id pub-id-type="pmid">32640192</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.neuron.2020.06.032</pub-id><pub-id pub-id-type="pmcid">PMC7328585</pub-id></mixed-citation></ref><ref id="puh270004-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="puh270004-cit-0011">
+<string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Rebholz</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R. J.</given-names>
+<surname>Braun</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Ladage</surname>
+</string-name>, <string-name name-style="western">
+<given-names>W.</given-names>
+<surname>Knoll</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Kleber</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>A. W.</given-names>
+<surname>Hassel</surname>
+</string-name>, “<article-title>Loss of Olfactory Function‐Early Indicator for Covid‐19, Other Viral Infections and Neurodegenerative Disorders</article-title>,” <source>Frontiers in Neurology</source>
+<volume>11</volume> (<year>2020</year>): <elocation-id>569333</elocation-id>.<pub-id pub-id-type="pmid">33193009</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3389/fneur.2020.569333</pub-id><pub-id pub-id-type="pmcid">PMC7649754</pub-id></mixed-citation></ref><ref id="puh270004-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="puh270004-cit-0012">
+<string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Walker</surname>
+</string-name>, <string-name name-style="western">
+<given-names>G.</given-names>
+<surname>Pottinger</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Scott</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Hopkins</surname>
+</string-name>, “<article-title>Anosmia and Loss of Smell in the Era of Covid‐19</article-title>,” <source>BMJ</source>
+<volume>370</volume> (<year>2020</year>): <elocation-id>m2808</elocation-id>.<pub-id pub-id-type="pmid">32694187</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1136/bmj.m2808</pub-id></mixed-citation></ref><ref id="puh270004-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="puh270004-cit-0013">
+<string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Karamali</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Elliott</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Hopkins</surname>
+</string-name>, “<article-title>COVID‐19 Related Olfactory Dysfunction</article-title>,” <source>Current Opinion in Otolaryngology &amp; Head and Neck Surgery</source>
+<volume>30</volume>, no. <issue>1</issue> (<year>2022</year>): <fpage>19</fpage>–<lpage>25</lpage>.<pub-id pub-id-type="pmid">34889850</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1097/MOO.0000000000000783</pub-id><pub-id pub-id-type="pmcid">PMC8711304</pub-id></mixed-citation></ref><ref id="puh270004-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="puh270004-cit-0014">
+<string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Ohla</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M. G.</given-names>
+<surname>Veldhuizen</surname>
+</string-name>, <string-name name-style="western">
+<given-names>T.</given-names>
+<surname>Green</surname>
+</string-name>, et al., “<article-title>A Follow‐Up on Quantitative and Qualitative Olfactory Dysfunction and Other Symptoms in Patients Recovering From COVID‐19 Smell Loss</article-title>,” <source>Rhinology</source>
+<volume>60</volume>, no. <issue>3</issue> (<year>2022</year>): <fpage>207</fpage>–<lpage>217</lpage>.<pub-id pub-id-type="pmid">35398877</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.4193/Rhin21.415</pub-id><pub-id pub-id-type="pmcid">PMC11016179</pub-id></mixed-citation></ref><ref id="puh270004-bib-0015"><label>15</label><mixed-citation publication-type="journal" id="puh270004-cit-0015">
+<string-name name-style="western">
+<given-names>J. J. V.</given-names>
+<surname>Bavel</surname>
+</string-name>, <string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Baicker</surname>
+</string-name>, <string-name name-style="western">
+<given-names>P. S.</given-names>
+<surname>Boggio</surname>
+</string-name>, et al., “<article-title>Using Social and Behavioural Science to Support COVID‐19 Pandemic Response</article-title>,” <source>Nature Human Behaviour</source>
+<volume>4</volume>, no. <issue>5</issue> (<year>2020</year>): <fpage>460</fpage>–<lpage>471</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41562-020-0884-z</pub-id><pub-id pub-id-type="pmid">32355299</pub-id></mixed-citation></ref><ref id="puh270004-bib-0016"><label>16</label><mixed-citation publication-type="journal" id="puh270004-cit-0016">
+<string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Blomkvist</surname>
+</string-name> and <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Hofer</surname>
+</string-name>, “<article-title>Olfactory Impairment and Close Social Relationships. A Narrative Review</article-title>,” <source>Chemical Senses</source>
+<volume>46</volume> (<year>2021</year>): <elocation-id>bjab037</elocation-id>.<pub-id pub-id-type="pmid">34351415</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/chemse/bjab037</pub-id><pub-id pub-id-type="pmcid">PMC8385889</pub-id></mixed-citation></ref><ref id="puh270004-bib-0017"><label>17</label><mixed-citation publication-type="journal" id="puh270004-cit-0017">
+<string-name name-style="western">
+<given-names>A. R.</given-names>
+<surname>Sedaghat</surname>
+</string-name>, <string-name name-style="western">
+<given-names>I.</given-names>
+<surname>Gengler</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>M. M.</given-names>
+<surname>Speth</surname>
+</string-name>, “<article-title>Olfactory Dysfunction: A Highly Prevalent Symptom of COVID‐19 With Public Health Significance</article-title>,” <source>Otolaryngology—Head and Neck Surgery</source>
+<volume>163</volume>, no. <issue>1</issue> (<year>2020</year>): <fpage>12</fpage>–<lpage>15</lpage>.<pub-id pub-id-type="pmid">32366160</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1177/0194599820926464</pub-id></mixed-citation></ref><ref id="puh270004-bib-0018"><label>18</label><mixed-citation publication-type="journal" id="puh270004-cit-0018">
+<string-name name-style="western">
+<given-names>I.</given-names>
+<surname>Konstantinidis</surname>
+</string-name>, <string-name name-style="western">
+<given-names>E.</given-names>
+<surname>Tsakiropoulou</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Hähner</surname>
+</string-name>, <string-name name-style="western">
+<given-names>K.</given-names>
+<surname>De With</surname>
+</string-name>, <string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Poulas</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>T.</given-names>
+<surname>Hummel</surname>
+</string-name>, “<article-title>Olfactory Dysfunction After Coronavirus Disease 2019 (COVID‐19) Vaccination</article-title>,” <source>International Forum of Allergy &amp; Rhinology</source>
+<volume>11</volume>, no. <issue>9</issue> (<year>2021</year>): <fpage>1399</fpage>–<lpage>1401</lpage>.<pub-id pub-id-type="pmid">34047498</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/alr.22809</pub-id><pub-id pub-id-type="pmcid">PMC8222866</pub-id></mixed-citation></ref><ref id="puh270004-bib-0019"><label>19</label><mixed-citation publication-type="journal" id="puh270004-cit-0019">
+<string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Sharma</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Kumar</surname>
+</string-name>, <string-name name-style="western">
+<given-names>I.</given-names>
+<surname>Aier</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Semwal</surname>
+</string-name>, <string-name name-style="western">
+<given-names>P.</given-names>
+<surname>Tyagi</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>P.</given-names>
+<surname>Varadwaj</surname>
+</string-name>, “<article-title>Sense of Smell: Structural, Functional, Mechanistic Advancements and Challenges in Human Olfactory Research</article-title>,” <source>Current Neuropharmacology</source>
+<volume>17</volume>, no. <issue>9</issue> (<year>2019</year>): <fpage>891</fpage>–<lpage>911</lpage>.<pub-id pub-id-type="pmid">30520376</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.2174/1570159X17666181206095626</pub-id><pub-id pub-id-type="pmcid">PMC7052838</pub-id></mixed-citation></ref><ref id="puh270004-bib-0020"><label>20</label><mixed-citation publication-type="journal" id="puh270004-cit-0020">
+<string-name name-style="western">
+<given-names>A. A.</given-names>
+<surname>Alarfaj</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A. K.</given-names>
+<surname>Aldrweesh</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A. F.</given-names>
+<surname>Aldoughan</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S. M.</given-names>
+<surname>Alarfaj</surname>
+</string-name>, <string-name name-style="western">
+<given-names>F. K.</given-names>
+<surname>Alabdulqader</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>K. A.</given-names>
+<surname>Alyahya</surname>
+</string-name>, “<article-title>Olfactory Dysfunction Following COVID‐19 and the Potential Benefits of Olfactory Training</article-title>,” <source>Journal of Clinical Medicine</source>
+<volume>12</volume>, no. <issue>14</issue> (<year>2023</year>): <fpage>4761</fpage>.<pub-id pub-id-type="pmid">37510876</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3390/jcm12144761</pub-id><pub-id pub-id-type="pmcid">PMC10381506</pub-id></mixed-citation></ref><ref id="puh270004-bib-0021"><label>21</label><mixed-citation publication-type="journal" id="puh270004-cit-0021">
+<string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Bérubé</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Demers</surname>
+</string-name>, <string-name name-style="western">
+<given-names>N.</given-names>
+<surname>Bussière</surname>
+</string-name>, et al., “<article-title>Olfactory Training Impacts Olfactory Dysfunction Induced by COVID‐19: A Pilot Study</article-title>,” <source>ORL; Journal for Oto‐Rhino‐Laryngology and Its Related Specialties</source>
+<volume>85</volume>, no. <issue>2</issue> (<year>2023</year>): <fpage>57</fpage>–<lpage>66</lpage>.<pub-id pub-id-type="pmid">36529118</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1159/000528188</pub-id><pub-id pub-id-type="pmcid">PMC9843729</pub-id></mixed-citation></ref><ref id="puh270004-bib-0022"><label>22</label><mixed-citation publication-type="journal" id="puh270004-cit-0022">
+<string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Lee</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Kim</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Lee</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Fawcett</surname>
+</string-name>, “<article-title>The Concepts of Health Inequality, Disparities and Equity in the Era of Population Health</article-title>,” <source>Applied Nursing Research</source>
+<volume>56</volume> (<year>2020</year>): <elocation-id>151367</elocation-id>.<pub-id pub-id-type="pmid">33280788</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.apnr.2020.151367</pub-id><pub-id pub-id-type="pmcid">PMC7521436</pub-id></mixed-citation></ref><ref id="puh270004-bib-0023"><label>23</label><mixed-citation publication-type="journal" id="puh270004-cit-0023">
+<string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Kumar</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Rani</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Mani</surname>
+</string-name>, et al., “<article-title>Nutritional Significance and Antioxidant‐Mediated Antiaging Effects of Finger Millet: Molecular Insights and Prospects</article-title>,” <source>Frontiers in Sustainable Food Systems</source>
+<volume>5</volume> (<year>2021</year>): <elocation-id>684318</elocation-id>.</mixed-citation></ref><ref id="puh270004-bib-0024"><label>24</label><mixed-citation publication-type="journal" id="puh270004-cit-0024">
+<string-name name-style="western">
+<given-names>D. Z.</given-names>
+<surname>Nowaskie</surname>
+</string-name> and <string-name name-style="western">
+<given-names>A. C.</given-names>
+<surname>Roesler</surname>
+</string-name>, “<article-title>The Impact of COVID‐19 on the LGBTQ+ Community: Comparisons Between Cisgender, Heterosexual People, Cisgender Sexual Minority People, and Gender Minority People</article-title>,” <source>Psychiatry Research</source>
+<volume>309</volume> (<year>2022</year>): <elocation-id>114391</elocation-id>.<pub-id pub-id-type="pmid">35032764</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.psychres.2022.114391</pub-id><pub-id pub-id-type="pmcid">PMC8743502</pub-id></mixed-citation></ref><ref id="puh270004-bib-0025"><label>25</label><mixed-citation publication-type="journal" id="puh270004-cit-0025">
+<string-name name-style="western">
+<given-names>J. J.</given-names>
+<surname>Lucas</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S. L.</given-names>
+<surname>Bouchoucha</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Afrouz</surname>
+</string-name>, <string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Reed</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>S. L.</given-names>
+<surname>Brennan‐Olsen</surname>
+</string-name>, “<article-title>LGBTQ+ Loss and Grief in a Cis‐Heteronormative Pandemic: A Qualitative Evidence Synthesis of the COVID‐19 Literature</article-title>,” <source>Qualitative Health Research</source>
+<volume>32</volume>, no. <issue>14</issue> (<year>2022</year>): <fpage>2102</fpage>–<lpage>2117</lpage>.<pub-id pub-id-type="pmid">36342414</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1177/10497323221138027</pub-id><pub-id pub-id-type="pmcid">PMC9643120</pub-id></mixed-citation></ref><ref id="puh270004-bib-0026"><label>26</label><mixed-citation publication-type="journal" id="puh270004-cit-0026">
+<string-name name-style="western">
+<given-names>B.</given-names>
+<surname>Prem</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D. T.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name name-style="western">
+<given-names>G.</given-names>
+<surname>Besser</surname>
+</string-name>, et al., “<article-title>Long‐Lasting Olfactory Dysfunction in COVID‐19 Patients</article-title>,” <source>European Archives of Oto‐Rhino‐Laryngology</source>
+<volume>279</volume>, no. <issue>7</issue> (<year>2022</year>): <fpage>3485</fpage>–<lpage>3492</lpage>.<pub-id pub-id-type="pmid">34757458</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s00405-021-07153-1</pub-id><pub-id pub-id-type="pmcid">PMC8578909</pub-id></mixed-citation></ref><ref id="puh270004-bib-0027"><label>27</label><mixed-citation publication-type="journal" id="puh270004-cit-0027">
+<string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Yildirim</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S. G.</given-names>
+<surname>Kandemirli</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D. E.</given-names>
+<surname>Tekcan Sanli</surname>
+</string-name>, <string-name name-style="western">
+<given-names>O.</given-names>
+<surname>Akinci</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Altundag</surname>
+</string-name>, “<article-title>A Comparative Olfactory MRI, DTI and fMRI Study of COVID‐19 Related Anosmia and Post Viral Olfactory Dysfunction</article-title>,” <source>Academic Radiology</source>
+<volume>29</volume>, no. <issue>1</issue> (<year>2022</year>): <fpage>31</fpage>–<lpage>41</lpage>.<pub-id pub-id-type="pmid">34810059</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.acra.2021.10.019</pub-id><pub-id pub-id-type="pmcid">PMC8549400</pub-id></mixed-citation></ref><ref id="puh270004-bib-0028"><label>28</label><mixed-citation publication-type="journal" id="puh270004-cit-0028">
+<string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Izquierdo‐Dominguez</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M. J.</given-names>
+<surname>Rojas‐Lechuga</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Mullol</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>I.</given-names>
+<surname>Alobid</surname>
+</string-name>, “<article-title>Olfactory Dysfunction in the COVID‐19 Outbreak</article-title>,” <source>Journal of Investigational Allergology &amp; Clinical Immunology</source>
+<volume>30</volume>, no. <issue>5</issue> (<year>2020</year>): <fpage>317</fpage>–<lpage>326</lpage>.<pub-id pub-id-type="pmid">32406374</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.18176/jiaci.0567</pub-id></mixed-citation></ref><ref id="puh270004-bib-0029"><label>29</label><mixed-citation publication-type="journal" id="puh270004-cit-0029">
+<string-name name-style="western">
+<given-names>K. L.</given-names>
+<surname>Whitcroft</surname>
+</string-name> and <string-name name-style="western">
+<given-names>T.</given-names>
+<surname>Hummel</surname>
+</string-name>, “<article-title>Olfactory Dysfunction in COVID‐19: Diagnosis and Management</article-title>,” <source>JAMA</source>
+<volume>323</volume>, no. <issue>24</issue> (<year>2020</year>): <fpage>2512</fpage>–<lpage>2514</lpage>.<pub-id pub-id-type="pmid">32432682</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1001/jama.2020.8391</pub-id></mixed-citation></ref><ref id="puh270004-bib-0030"><label>30</label><mixed-citation publication-type="journal" id="puh270004-cit-0030">
+<string-name name-style="western">
+<given-names>J. B.</given-names>
+<surname>Finlay</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D. H.</given-names>
+<surname>Brann</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Abi Hachem</surname>
+</string-name>, et al., “<article-title>Persistent Post‐COVID‐19 Smell Loss Is Associated With Immune Cell Infiltration and Altered Gene Expression in Olfactory Epithelium</article-title>,” <source>Science Translational Medicine</source>
+<volume>14</volume>, no. <issue>676</issue> (<year>2022</year>): <elocation-id>eadd0484</elocation-id>.<pub-id pub-id-type="pmid">36542694</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1126/scitranslmed.add0484</pub-id><pub-id pub-id-type="pmcid">PMC10317309</pub-id></mixed-citation></ref><ref id="puh270004-bib-0031"><label>31</label><mixed-citation publication-type="journal" id="puh270004-cit-0031">
+<string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Choi</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Gupta</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J. B.</given-names>
+<surname>Finlay</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>B. J.</given-names>
+<surname>Goldstein</surname>
+</string-name>, “<article-title>Olfactory Dysfunction and COVID‐19</article-title>,” <source>Operative Techniques in Otolaryngology – Head and Neck Surgery</source>
+<volume>33</volume>, no. <issue>2</issue> (<year>2022</year>): <fpage>141</fpage>–<lpage>146</lpage>.<pub-id pub-id-type="pmid">35505955</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.otot.2022.04.010</pub-id><pub-id pub-id-type="pmcid">PMC9050605</pub-id></mixed-citation></ref><ref id="puh270004-bib-0032"><label>32</label><mixed-citation publication-type="journal" id="puh270004-cit-0032">
+<string-name name-style="western">
+<given-names>B.</given-names>
+<surname>Hu</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Gong</surname>
+</string-name>, et al., “<article-title>Research Progress of Olfactory Nerve Regeneration Mechanism and Olfactory Training</article-title>,” <source>Therapeutics and Clinical Risk Management</source>
+<volume>18</volume> (<year>2022</year>): <fpage>185</fpage>–<lpage>195</lpage>.<pub-id pub-id-type="pmid">35281777</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.2147/TCRM.S354695</pub-id><pub-id pub-id-type="pmcid">PMC8906848</pub-id></mixed-citation></ref><ref id="puh270004-bib-0033"><label>33</label><mixed-citation publication-type="journal" id="puh270004-cit-0033">
+<string-name name-style="western">
+<given-names>A. K.</given-names>
+<surname>Datta</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Mukherjee</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Biswas</surname>
+</string-name>, “<article-title>Gastrointestinal, Respiratory, and Olfactory Neurotropism of SARS‐CoV2 as a Possible Trigger of Parkinson's Disease: Is a Multi‐Hit Multi‐Step Process on the Cards</article-title>,” <source>Annals of Indian Academy of Neurology</source>
+<volume>26</volume>, no. <issue>2</issue> (<year>2023</year>): <fpage>127</fpage>–<lpage>136</lpage>.<pub-id pub-id-type="pmid">37179662</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.4103/aian.aian_767_22</pub-id><pub-id pub-id-type="pmcid">PMC10171009</pub-id></mixed-citation></ref><ref id="puh270004-bib-0034"><label>34</label><mixed-citation publication-type="journal" id="puh270004-cit-0034">
+<string-name name-style="western">
+<given-names>T.</given-names>
+<surname>Tsukahara</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D. H.</given-names>
+<surname>Brann</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>S. R.</given-names>
+<surname>Datta</surname>
+</string-name>, “<article-title>Mechanisms of SARS‐CoV‐2‐Associated Anosmia</article-title>,” <source>Physiological Reviews</source>
+<volume>103</volume>, no. <issue>4</issue> (<year>2023</year>): <fpage>2759</fpage>–<lpage>2766</lpage>.<pub-id pub-id-type="pmid">37342077</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1152/physrev.00012.2023</pub-id><pub-id pub-id-type="pmcid">PMC10625840</pub-id></mixed-citation></ref><ref id="puh270004-bib-0035"><label>35</label><mixed-citation publication-type="journal" id="puh270004-cit-0035">
+<string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Cantuti‐Castelvetri</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Ojha</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L. D.</given-names>
+<surname>Pedro</surname>
+</string-name>, et al., “<article-title>Neuropilin‐1 Facilitates SARS‐CoV‐2 Cell Entry and Infectivity</article-title>,” <source>Science</source>
+<volume>370</volume>, no. <issue>6518</issue> (<year>2020</year>): <fpage>856</fpage>–<lpage>860</lpage>.<pub-id pub-id-type="pmid">33082293</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1126/science.abd2985</pub-id><pub-id pub-id-type="pmcid">PMC7857391</pub-id></mixed-citation></ref><ref id="puh270004-bib-0036"><label>36</label><mixed-citation publication-type="journal" id="puh270004-cit-0036">
+<string-name name-style="western">
+<given-names>L.</given-names>
+<surname>O'Byrne</surname>
+</string-name>, <string-name name-style="western">
+<given-names>K. E.</given-names>
+<surname>Webster</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>MacKeith</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Philpott</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Hopkins</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>M. J.</given-names>
+<surname>Burton</surname>
+</string-name>, “<article-title>Interventions for the Treatment of Persistent Post‐COVID‐19 Olfactory Dysfunction</article-title>,” <source>Cochrane Database of Systematic Reviews (Online)</source>
+<volume>7</volume>, no. <issue>7</issue> (<year>2021</year>): <elocation-id>CD013876</elocation-id>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/14651858.CD013876.pub2</pub-id><pub-id pub-id-type="pmcid">PMC8406942</pub-id><pub-id pub-id-type="pmid">34291813</pub-id></mixed-citation></ref><ref id="puh270004-bib-0037"><label>37</label><mixed-citation publication-type="journal" id="puh270004-cit-0037">
+<string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Russo</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Moccia</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Spagnuolo</surname>
+</string-name>, <string-name name-style="western">
+<given-names>I.</given-names>
+<surname>Tedesco</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>G. L.</given-names>
+<surname>Russo</surname>
+</string-name>, “<article-title>Roles of Flavonoids Against Coronavirus Infection</article-title>,” <source>Chemico‐Biological Interactions</source>
+<volume>328</volume> (<year>2020</year>): <elocation-id>109211</elocation-id>.<pub-id pub-id-type="pmid">32735799</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.cbi.2020.109211</pub-id><pub-id pub-id-type="pmcid">PMC7385538</pub-id></mixed-citation></ref><ref id="puh270004-bib-0038"><label>38</label><mixed-citation publication-type="journal" id="puh270004-cit-0038">
+<string-name name-style="western">
+<given-names>M. M.</given-names>
+<surname>Alzaabi</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Hamdy</surname>
+</string-name>, <string-name name-style="western">
+<given-names>N. S.</given-names>
+<surname>Ashmawy</surname>
+</string-name>, et al., “<article-title>Flavonoids Are Promising Safe Therapy Against COVID‐19</article-title>,” <source>Phytochemistry Reviews</source>
+<volume>21</volume>, no. <issue>1</issue> (<year>2022</year>): <fpage>291</fpage>–<lpage>312</lpage>.<pub-id pub-id-type="pmid">34054380</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s11101-021-09759-z</pub-id><pub-id pub-id-type="pmcid">PMC8139868</pub-id></mixed-citation></ref><ref id="puh270004-bib-0039"><label>39</label><mixed-citation publication-type="journal" id="puh270004-cit-0039">
+<string-name name-style="western">
+<given-names>Í. A. T.</given-names>
+<surname>Pires</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S. T.</given-names>
+<surname>Steffens</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A. G.</given-names>
+<surname>Mocelin</surname>
+</string-name>, et al., “<article-title>Intensive Olfactory Training in Post‐COVID‐19 Patients: A Multicenter Randomized Clinical Trial</article-title>,” <source>American Journal of Rhinology &amp; Allergy</source>
+<volume>36</volume>, no. <issue>6</issue> (<year>2022</year>): <fpage>780</fpage>–<lpage>787</lpage>.<pub-id pub-id-type="pmid">35866202</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1177/19458924221113124</pub-id><pub-id pub-id-type="pmcid">PMC9309586</pub-id></mixed-citation></ref><ref id="puh270004-bib-0040"><label>40</label><mixed-citation publication-type="journal" id="puh270004-cit-0040">
+<string-name name-style="western">
+<given-names>A. M.</given-names>
+<surname>Khan</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Piccirillo</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Kallogjeri</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>J. F.</given-names>
+<surname>Piccirillo</surname>
+</string-name>, “<article-title>Efficacy of Combined Visual‐Olfactory Training With Patient‐Preferred Scents as Treatment for Patients With COVID‐19 Resultant Olfactory Loss: A Randomized Clinical Trial</article-title>,” <source>JAMA Otolaryngology—Head &amp; Neck Surgery</source>
+<volume>149</volume>, no. <issue>2</issue> (<year>2023</year>): <fpage>141</fpage>–<lpage>149</lpage>.<pub-id pub-id-type="pmid">36580304</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1001/jamaoto.2022.4112</pub-id><pub-id pub-id-type="pmcid">PMC9857399</pub-id></mixed-citation></ref><ref id="puh270004-bib-0041"><label>41</label><mixed-citation publication-type="journal" id="puh270004-cit-0041">
+<string-name name-style="western">
+<given-names>D. E.</given-names>
+<surname>Vance</surname>
+</string-name>, <string-name name-style="western">
+<given-names>V. A.</given-names>
+<surname>Del Bene</surname>
+</string-name>, <string-name name-style="western">
+<given-names>V.</given-names>
+<surname>Kamath</surname>
+</string-name>, et al., “<article-title>Does Olfactory Training Improve Brain Function and Cognition? A Systematic Review</article-title>,” <source>Neuropsychology Review</source>
+<volume>34</volume>, no. <issue>1</issue> (<year>2024</year>): <fpage>155</fpage>–<lpage>191</lpage>.<pub-id pub-id-type="pmid">36725781</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s11065-022-09573-0</pub-id><pub-id pub-id-type="pmcid">PMC9891899</pub-id></mixed-citation></ref><ref id="puh270004-bib-0042"><label>42</label><mixed-citation publication-type="journal" id="puh270004-cit-0042">
+<string-name name-style="western">
+<given-names>T.</given-names>
+<surname>Pluskal</surname>
+</string-name> and <string-name name-style="western">
+<given-names>J.‐K.</given-names>
+<surname>Weng</surname>
+</string-name>, “<article-title>Natural Product Modulators of Human Sensations and Mood: Molecular Mechanisms and Therapeutic Potential</article-title>,” <source>Chemical Society Reviews</source>
+<volume>47</volume>, no. <issue>5</issue> (<year>2018</year>): <fpage>1592</fpage>–<lpage>1637</lpage>.<pub-id pub-id-type="pmid">28933478</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1039/c7cs00411g</pub-id></mixed-citation></ref><ref id="puh270004-bib-0043"><label>43</label><mixed-citation publication-type="journal" id="puh270004-cit-0043">
+<string-name name-style="western">
+<given-names>Z.</given-names>
+<surname>Wang</surname>
+</string-name> and <string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Yang</surname>
+</string-name>, “<article-title>Turning the Tide: Natural Products and Natural‐Product‐Inspired Chemicals as Potential Counters to SARS‐CoV‐2 Infection</article-title>,” <source>Frontiers in Pharmacology</source>
+<volume>11</volume> (<year>2020</year>): <fpage>1013</fpage>.<pub-id pub-id-type="pmid">32714193</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3389/fphar.2020.01013</pub-id><pub-id pub-id-type="pmcid">PMC7343773</pub-id></mixed-citation></ref><ref id="puh270004-bib-0044"><label>44</label><mixed-citation publication-type="journal" id="puh270004-cit-0044">
+<string-name name-style="western">
+<given-names>Z.</given-names>
+<surname>Xu</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Yang</surname>
+</string-name>, <string-name name-style="western">
+<given-names>X.</given-names>
+<surname>Zhang</surname>
+</string-name>, et al., “<article-title>Discovery of Potential Flavonoid Inhibitors Against COVID‐19 3CL Proteinase Based on Virtual Screening Strategy</article-title>,” <source>Frontiers in Molecular Biosciences</source>
+<volume>7</volume> (<year>2020</year>): <elocation-id>556481</elocation-id>.<pub-id pub-id-type="pmid">33134310</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3389/fmolb.2020.556481</pub-id><pub-id pub-id-type="pmcid">PMC7561382</pub-id></mixed-citation></ref><ref id="puh270004-bib-0045"><label>45</label><mixed-citation publication-type="journal" id="puh270004-cit-0045">
+<string-name name-style="western">
+<given-names>C.‐H.</given-names>
+<surname>Kim</surname>
+</string-name>, “<article-title>Anti‐SARS‐CoV‐2 Natural Products as Potentially Therapeutic Agents</article-title>,” <source>Frontiers in Pharmacology</source>
+<volume>12</volume> (<year>2021</year>): <elocation-id>590509</elocation-id>.<pub-id pub-id-type="pmid">34122058</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3389/fphar.2021.590509</pub-id><pub-id pub-id-type="pmcid">PMC8194829</pub-id></mixed-citation></ref><ref id="puh270004-bib-0046"><label>46</label><mixed-citation publication-type="journal" id="puh270004-cit-0046">
+<string-name name-style="western">
+<given-names>A. G.</given-names>
+<surname>Omokhua‐Uyi</surname>
+</string-name> and <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Van Staden</surname>
+</string-name>, “<article-title>Natural Product Remedies for COVID‐19: A Focus on Safety</article-title>,” <source>South African Journal of Botany</source>
+<volume>139</volume> (<year>2021</year>): <fpage>386</fpage>–<lpage>398</lpage>.<pub-id pub-id-type="pmid">33753960</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.sajb.2021.03.012</pub-id><pub-id pub-id-type="pmcid">PMC7970016</pub-id></mixed-citation></ref><ref id="puh270004-bib-0047"><label>47</label><mixed-citation publication-type="journal" id="puh270004-cit-0047">
+<string-name name-style="western">
+<given-names>B.</given-names>
+<surname>Akbari</surname>
+</string-name>, <string-name name-style="western">
+<given-names>N.</given-names>
+<surname>Baghaei‐Yazdi</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Bahmaie</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>F.</given-names>
+<surname>Mahdavi Abhari</surname>
+</string-name>, “<article-title>The Role of Plant‐Derived Natural Antioxidants in Reduction of Oxidative Stress</article-title>,” <source>Biofactors</source>
+<volume>48</volume>, no. <issue>3</issue> (<year>2022</year>): <fpage>611</fpage>–<lpage>633</lpage>.<pub-id pub-id-type="pmid">35229925</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/biof.1831</pub-id></mixed-citation></ref><ref id="puh270004-bib-0048"><label>48</label><mixed-citation publication-type="journal" id="puh270004-cit-0048">
+<string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Raman</surname>
+</string-name>, <string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Rajagopal</surname>
+</string-name>, <string-name name-style="western">
+<given-names>F.</given-names>
+<surname>Islam</surname>
+</string-name>, et al., “<article-title>Role of Natural Products Towards the SARS‐CoV‐2: A Critical Review</article-title>,” <source>Annals of Medicine and Surgery (Lond)</source>
+<volume>80</volume> (<year>2022</year>): <elocation-id>104062</elocation-id>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.amsu.2022.104062</pub-id><pub-id pub-id-type="pmcid">PMC9249430</pub-id><pub-id pub-id-type="pmid">35814035</pub-id></mixed-citation></ref><ref id="puh270004-bib-0049"><label>49</label><mixed-citation publication-type="journal" id="puh270004-cit-0049">
+<string-name name-style="western">
+<given-names>T. J.</given-names>
+<surname>Wu</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A. C.</given-names>
+<surname>Yu</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>J. T.</given-names>
+<surname>Lee</surname>
+</string-name>, “<article-title>Management of Post‐COVID‐19 Olfactory Dysfunction</article-title>,” <source>Current Treatment Options in Allergy</source>
+<volume>9</volume>, no. <issue>1</issue> (<year>2022</year>): <fpage>1</fpage>–<lpage>18</lpage>.<pub-id pub-id-type="pmid">35004126</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s40521-021-00297-9</pub-id><pub-id pub-id-type="pmcid">PMC8723803</pub-id></mixed-citation></ref><ref id="puh270004-bib-0050"><label>50</label><mixed-citation publication-type="journal" id="puh270004-cit-0050">
+<string-name name-style="western">
+<given-names>A. L.</given-names>
+<surname>Winter</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Henecke</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J. N.</given-names>
+<surname>Lundström</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>E.</given-names>
+<surname>Thunell</surname>
+</string-name>, “<article-title>Impairment of Quality of Life due to COVID‐19‐Induced Long‐Term Olfactory Dysfunction</article-title>,” <source>Frontiers in Psychology</source>
+<volume>14</volume> (<year>2023</year>): <elocation-id>1165911</elocation-id>.<pub-id pub-id-type="pmid">37151341</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3389/fpsyg.2023.1165911</pub-id><pub-id pub-id-type="pmcid">PMC10157159</pub-id></mixed-citation></ref><ref id="puh270004-bib-0051"><label>51</label><mixed-citation publication-type="journal" id="puh270004-cit-0051">
+<string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Cabrera</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Colosi</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Lobdell</surname>
+</string-name>, “<article-title>Systems Thinking</article-title>,” <source>Evaluation and Program Planning</source>
+<volume>31</volume>, no. <issue>3</issue> (<year>2008</year>): <fpage>299</fpage>–<lpage>310</lpage>.<pub-id pub-id-type="pmid">18272224</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.evalprogplan.2007.12.001</pub-id></mixed-citation></ref><ref id="puh270004-bib-0052"><label>52</label><mixed-citation publication-type="journal" id="puh270004-cit-0052">
+<string-name name-style="western">
+<given-names>O.</given-names>
+<surname>Ben‐Zvi‐Assaraf</surname>
+</string-name> and <string-name name-style="western">
+<given-names>N.</given-names>
+<surname>Orion</surname>
+</string-name>, “<article-title>Four Case Studies, Six Years Later: Developing System Thinking Skills in Junior High School and Sustaining Them Over Time</article-title>,” <source>Journal of Research in Science Teaching</source>
+<volume>47</volume>, no. <issue>10</issue> (<year>2010</year>): <fpage>1253</fpage>–<lpage>1280</lpage>.</mixed-citation></ref><ref id="puh270004-bib-0053"><label>53</label><mixed-citation publication-type="journal" id="puh270004-cit-0053">
+<string-name name-style="western">
+<given-names>D. H.</given-names>
+<surname>Peters</surname>
+</string-name>, “<article-title>The Application of Systems Thinking in Health: Why Use Systems Thinking?</article-title>,” <source>Health Research Policy and Systems</source>
+<volume>12</volume> (<year>2014</year>): <fpage>51</fpage>.<pub-id pub-id-type="pmid">25160707</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1186/1478-4505-12-51</pub-id><pub-id pub-id-type="pmcid">PMC4245196</pub-id></mixed-citation></ref><ref id="puh270004-bib-0054"><label>54</label><mixed-citation publication-type="journal" id="puh270004-cit-0054">
+<string-name name-style="western">
+<given-names>F.</given-names>
+<surname>Hayes</surname>
+</string-name>, “<article-title>Shaked, H., and Schechter, C. (2017). Systems Thinking for School Leaders: Holistic Leadership for Excellence in Education. Cham, Switzerland: Springer</article-title>,” <source>Leadership and Policy in Schools</source>
+<volume>17</volume>, no. <issue>4</issue> (<year>2018</year>): <fpage>647</fpage>–<lpage>649</lpage>.</mixed-citation></ref><ref id="puh270004-bib-0055"><label>55</label><mixed-citation publication-type="journal" id="puh270004-cit-0055">
+<string-name name-style="western">
+<given-names>E.</given-names>
+<surname>Rusoja</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Haynie</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Sievers</surname>
+</string-name>, et al., “<article-title>Thinking About Complexity in Health: A Systematic Review of the Key Systems Thinking and Complexity Ideas in Health</article-title>,” <source>Journal of Evaluation in Clinical Practice</source>
+<volume>24</volume>, no. <issue>3</issue> (<year>2018</year>): <fpage>600</fpage>–<lpage>606</lpage>.<pub-id pub-id-type="pmid">29380477</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/jep.12856</pub-id></mixed-citation></ref><ref id="puh270004-bib-0056"><label>56</label><mixed-citation publication-type="journal" id="puh270004-cit-0056">
+<string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Khalil</surname>
+</string-name> and <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Lakhani</surname>
+</string-name>, “<article-title>Using Systems Thinking Methodologies to Address Health Care Complexities and Evidence Implementation</article-title>,” <source>JBI Evidence Implementation</source>
+<volume>20</volume>, no. <issue>1</issue> (<year>2022</year>): <fpage>3</fpage>–<lpage>9</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1097/XEB.0000000000000303</pub-id><pub-id pub-id-type="pmid">34845166</pub-id></mixed-citation></ref><ref id="puh270004-bib-0057"><label>57</label><mixed-citation publication-type="journal" id="puh270004-cit-0057">
+<string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Boersma</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A. J.</given-names>
+<surname>Waarlo</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Klaassen</surname>
+</string-name>, “<article-title>The Feasibility of Systems Thinking in Biology Education</article-title>,” <source>Journal of Biological Education</source>
+<volume>45</volume>, no. <issue>4</issue> (<year>2011</year>): <fpage>190</fpage>–<lpage>197</lpage>.</mixed-citation></ref><ref id="puh270004-bib-0058"><label>58</label><mixed-citation publication-type="journal" id="puh270004-cit-0058">
+<string-name name-style="western">
+<given-names>T.</given-names>
+<surname>Adam</surname>
+</string-name> and <string-name name-style="western">
+<given-names>D.</given-names>
+<surname>de Savigny</surname>
+</string-name>, “<article-title>Systems Thinking for Strengthening Health Systems in LMICs: Need for a Paradigm Shift</article-title>,” <source>Health Policy and Planning</source>
+<volume>27</volume>, no. <issue>S4</issue> (<year>2012</year>): <fpage>iv1</fpage>–<lpage>iv3</lpage>.<pub-id pub-id-type="pmid">23014149</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/heapol/czs084</pub-id></mixed-citation></ref><ref id="puh270004-bib-0059"><label>59</label><mixed-citation publication-type="journal" id="puh270004-cit-0059">
+<string-name name-style="western">
+<given-names>R. J.</given-names>
+<surname>Klement</surname>
+</string-name>, “<article-title>Systems Thinking About SARS‐CoV‐2</article-title>,” <source>Frontiers in Public Health</source>
+<volume>8</volume> (<year>2020</year>): <elocation-id>585229</elocation-id>.<pub-id pub-id-type="pmid">33194992</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3389/fpubh.2020.585229</pub-id><pub-id pub-id-type="pmcid">PMC7655778</pub-id></mixed-citation></ref><ref id="puh270004-bib-0060"><label>60</label><mixed-citation publication-type="journal" id="puh270004-cit-0060">
+<string-name name-style="western">
+<given-names>P.</given-names>
+<surname>Newberry</surname>
+</string-name> and <string-name name-style="western">
+<given-names>N.</given-names>
+<surname>Carhart</surname>
+</string-name>, “<article-title>Constructing Causal Loop Diagrams From Large Interview Data Sets</article-title>,” <source>System Dynamics Review</source>
+<volume>40</volume>, no. <issue>1</issue> (<year>2024</year>): <elocation-id>e1745</elocation-id>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/sdr.1745</pub-id><pub-id pub-id-type="pmcid">PMC7616860</pub-id><pub-id pub-id-type="pmid">39600910</pub-id></mixed-citation></ref><ref id="puh270004-bib-0061"><label>61</label><mixed-citation publication-type="book" id="puh270004-cit-0061">
+<string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Irwin</surname>
+</string-name> and <string-name name-style="western">
+<given-names>Z.</given-names>
+<surname>Wang</surname>
+</string-name>, “<part-title>Dynamic Systems Modeling</part-title>,” in <source>The International Encyclopedia of Communication Research Methods</source>, eds. <person-group person-group-type="editor">
+<string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Matthes</surname>
+</string-name>
+</person-group>, <person-group person-group-type="editor">
+<string-name name-style="western">
+<given-names>C. S.</given-names>
+<surname>Davis</surname>
+</string-name>
+</person-group>, and <person-group person-group-type="editor">
+<string-name name-style="western">
+<given-names>R. F.</given-names>
+<surname>Potter</surname>
+</string-name>
+</person-group> (<publisher-loc>Hoboken, NJ</publisher-loc>: <publisher-name>Wiley</publisher-name>, <year>2017</year>), <fpage>1</fpage>–<lpage>12</lpage>, <pub-id pub-id-type="doi">10.1002/9781118901731.iecrm0074</pub-id>.</mixed-citation></ref><ref id="puh270004-bib-0062"><label>62</label><mixed-citation publication-type="journal" id="puh270004-cit-0062">
+<string-name name-style="western">
+<given-names>E.</given-names>
+<surname>Lee</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Y.‐Y.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Mcdonald</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>E.</given-names>
+<surname>O'neill</surname>
+</string-name>, “<article-title>Dynamic Response Systems of Healthcare Mask Production to COVID‐19: A Case Study of Korea</article-title>,” <source>Systems</source>
+<volume>8</volume>, no. <issue>2</issue> (<year>2020</year>): <fpage>18</fpage>.</mixed-citation></ref><ref id="puh270004-bib-0063"><label>63</label><mixed-citation publication-type="journal" id="puh270004-cit-0063">
+<string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Jia</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Li</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>T.</given-names>
+<surname>Fang</surname>
+</string-name>, “<article-title>System Dynamics Analysis of COVID‐19 Prevention and Control Strategies</article-title>,” <source>Environmental Science and Pollution Research</source>
+<volume>29</volume> (<year>2022</year>): <fpage>3944</fpage>–<lpage>3957</lpage>.<pub-id pub-id-type="pmid">34402008</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s11356-021-15902-2</pub-id><pub-id pub-id-type="pmcid">PMC8367034</pub-id></mixed-citation></ref><ref id="puh270004-bib-0064"><label>64</label><mixed-citation publication-type="journal" id="puh270004-cit-0064">
+<string-name name-style="western">
+<given-names>G.</given-names>
+<surname>Iacobucci</surname>
+</string-name>, “<article-title>Long Covid: “Holistic” Approach is Best, Given Range of Symptoms, Say Researchers</article-title>,” <source>BMJ</source>
+<volume>376</volume> (<year>2022</year>): <fpage>o336</fpage>.<pub-id pub-id-type="pmid">35135781</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1136/bmj.o336</pub-id></mixed-citation></ref><ref id="puh270004-bib-0065"><label>65</label><mixed-citation publication-type="journal" id="puh270004-cit-0065">
+<string-name name-style="western">
+<given-names>L. J.</given-names>
+<surname>Heinberg</surname>
+</string-name> and <string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Steffen</surname>
+</string-name>, “<article-title>Social Isolation and Loneliness During the COVID‐19 Pandemic: Impact on Weight</article-title>,” <source>Current Obesity Reports</source>
+<volume>10</volume>, no. <issue>3</issue> (<year>2021</year>): <fpage>365</fpage>–<lpage>370</lpage>.<pub-id pub-id-type="pmid">34297344</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s13679-021-00447-9</pub-id><pub-id pub-id-type="pmcid">PMC8300081</pub-id></mixed-citation></ref><ref id="puh270004-bib-0066"><label>66</label><mixed-citation publication-type="journal" id="puh270004-cit-0066">
+<string-name name-style="western">
+<given-names>O.</given-names>
+<surname>Sahin</surname>
+</string-name>, <string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Salim</surname>
+</string-name>, <string-name name-style="western">
+<given-names>E.</given-names>
+<surname>Suprun</surname>
+</string-name>, et al., “<article-title>Developing a Preliminary Causal Loop Diagram for Understanding the Wicked Complexity of the COVID‐19 Pandemic</article-title>,” <source>Systems</source>
+<volume>8</volume>, no. <issue>2</issue> (<year>2020</year>): <fpage>20</fpage>.</mixed-citation></ref><ref id="puh270004-bib-0067"><label>67</label><mixed-citation publication-type="journal" id="puh270004-cit-0067">
+<string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Ben Hassen</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Elaoud</surname>
+</string-name>, <string-name name-style="western">
+<given-names>N.</given-names>
+<surname>Ben Salah</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Masmoudi</surname>
+</string-name>, “<article-title>A SIR‐Poisson Model for COVID‐19: Evolution and Transmission Inference in the Maghreb Central Regions</article-title>,” <source>Arabian Journal for Science and Engineering</source>
+<volume>46</volume> (<year>2021</year>): <fpage>93</fpage>–<lpage>102</lpage>.<pub-id pub-id-type="pmid">32837814</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s13369-020-04792-0</pub-id><pub-id pub-id-type="pmcid">PMC7377534</pub-id></mixed-citation></ref><ref id="puh270004-bib-0068"><label>68</label><mixed-citation publication-type="journal" id="puh270004-cit-0068">
+<string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Zhao</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Shen</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S. S.</given-names>
+<surname>Musa</surname>
+</string-name>, et al., “<article-title>Inferencing Superspreading Potential Using Zero‐Truncated Negative Binomial Model: Exemplification With COVID‐19</article-title>,” <source>BMC Medical Research Methodology</source>
+<volume>21</volume> (<year>2021</year>): <fpage>1</fpage>–<lpage>8</lpage>.<pub-id pub-id-type="pmid">33568100</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1186/s12874-021-01225-w</pub-id><pub-id pub-id-type="pmcid">PMC7874987</pub-id></mixed-citation></ref><ref id="puh270004-bib-0069"><label>69</label><mixed-citation publication-type="journal" id="puh270004-cit-0069">
+<string-name name-style="western">
+<given-names>N. R.</given-names>
+<surname>Rahimi</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Fouladi‐Fard</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Aali</surname>
+</string-name>, et al., “<article-title>Bidirectional Association Between COVID‐19 and the Environment: A Systematic Review</article-title>,” <source>Environmental Research</source>
+<volume>194</volume> (<year>2021</year>): <elocation-id>110692</elocation-id>.<pub-id pub-id-type="pmid">33385384</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.envres.2020.110692</pub-id><pub-id pub-id-type="pmcid">PMC7833965</pub-id></mixed-citation></ref><ref id="puh270004-bib-0070"><label>70</label><mixed-citation publication-type="journal" id="puh270004-cit-0070">
+<string-name name-style="western">
+<given-names>J. N.</given-names>
+<surname>Fish</surname>
+</string-name>, <string-name name-style="western">
+<given-names>E. C.</given-names>
+<surname>King‐Marshall</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R. E.</given-names>
+<surname>Turpin</surname>
+</string-name>, <string-name name-style="western">
+<given-names>E. M.</given-names>
+<surname>Aparicio</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>B. O.</given-names>
+<surname>Boekeloo</surname>
+</string-name>, “<article-title>Assessing the Implementation of an LGBTQ+ Mental Health Services Training Program to Determine Feasibility and Acceptability During the COVID‐19 Pandemic</article-title>,” <source>Prevention Science</source>
+<volume>25</volume>, no. <issue>S1</issue> (<year>2024</year>): <fpage>109</fpage>–<lpage>123</lpage>.<pub-id pub-id-type="pmid">36897487</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s11121-023-01505-5</pub-id><pub-id pub-id-type="pmcid">PMC9999060</pub-id></mixed-citation></ref><ref id="puh270004-bib-0071"><label>71</label><mixed-citation publication-type="journal" id="puh270004-cit-0071">
+<string-name name-style="western">
+<given-names>J. J. G.</given-names>
+<surname>Sweis</surname>
+</string-name>, <string-name name-style="western">
+<given-names>F.</given-names>
+<surname>Alnaimat</surname>
+</string-name>, <string-name name-style="western">
+<given-names>V.</given-names>
+<surname>Esparza</surname>
+</string-name>, et al., “<article-title>From Acute Infection to Prolonged Health Consequences: Understanding Health Disparities and Economic Implications in Long COVID Worldwide</article-title>,” <source>International Journal of Environmental Research and Public Health</source>
+<volume>21</volume>, no. <issue>3</issue> (<year>2024</year>): <fpage>325</fpage>.<pub-id pub-id-type="pmid">38541324</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3390/ijerph21030325</pub-id><pub-id pub-id-type="pmcid">PMC10970637</pub-id></mixed-citation></ref><ref id="puh270004-bib-0072"><label>72</label><mixed-citation publication-type="journal" id="puh270004-cit-0072">
+<string-name name-style="western">
+<given-names>E.</given-names>
+<surname>Mcdermott</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Nelson</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Weeks</surname>
+</string-name>, “<article-title>The Politics of LGBT+ Health Inequality: Conclusions From a UK Scoping Review</article-title>,” <source>International Journal of Environmental Research and Public Health</source>
+<volume>18</volume>, no. <issue>2</issue> (<year>2021</year>): <fpage>826</fpage>.<pub-id pub-id-type="pmid">33478019</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3390/ijerph18020826</pub-id><pub-id pub-id-type="pmcid">PMC7835774</pub-id></mixed-citation></ref><ref id="puh270004-bib-0073"><label>73</label><mixed-citation publication-type="journal" id="puh270004-cit-0073">
+<string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Phillips</surname>
+</string-name>, “<article-title>How Covid‐19 Has Exacerbated LGBTQ+ Health Inequalities</article-title>,” <source>BMJ</source>
+<volume>372</volume> (<year>2021</year>): <elocation-id>m4828</elocation-id>.<pub-id pub-id-type="pmid">33727244</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1136/bmj.m4828</pub-id></mixed-citation></ref><ref id="puh270004-bib-0074"><label>74</label><mixed-citation publication-type="journal" id="puh270004-cit-0074">
+<string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Tabler</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R. M.</given-names>
+<surname>Schmitz</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Charak</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Propst</surname>
+</string-name>, “<article-title>Forgone Care Among LGBTQ and Non‐LGBTQ Americans During the COVID‐19 Pandemic: The Role of Health, Social Support, and Pandemic‐Related Stress</article-title>,” <source>Southern Medical Journal</source>
+<volume>115</volume>, no. <issue>10</issue> (<year>2022</year>): <fpage>752</fpage>–<lpage>759</lpage>.<pub-id pub-id-type="pmid">36191911</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.14423/SMJ.0000000000001456</pub-id><pub-id pub-id-type="pmcid">PMC9512140</pub-id></mixed-citation></ref><ref id="puh270004-bib-0075"><label>75</label><mixed-citation publication-type="journal" id="puh270004-cit-0075">
+<string-name name-style="western">
+<given-names>R. J.</given-names>
+<surname>Martino</surname>
+</string-name>, <string-name name-style="western">
+<given-names>K. D.</given-names>
+<surname>Krause</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Griffin</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Loschiavo</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Comer‐Carruthers</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>P. N.</given-names>
+<surname>Halkitis</surname>
+</string-name>, “<article-title>Employment Loss as a Result of COVID‐19: A Nationwide Survey at the Onset of COVID‐19 in US LGBTQ+ Populations</article-title>,” <source>Sexuality Research and Social Policy</source>
+<volume>19</volume>, no. <issue>4</issue> (<year>2022</year>): <fpage>1855</fpage>–<lpage>1866</lpage>.<pub-id pub-id-type="pmid">34804251</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s13178-021-00665-9</pub-id><pub-id pub-id-type="pmcid">PMC8590522</pub-id></mixed-citation></ref><ref id="puh270004-bib-0076"><label>76</label><mixed-citation publication-type="journal" id="puh270004-cit-0076">
+<string-name name-style="western">
+<given-names>E. M.</given-names>
+<surname>Ferrero</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A. G.</given-names>
+<surname>Yunker</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Cuffe</surname>
+</string-name>, et al., “<article-title>Nutrition and Health in the Lesbian, Gay, Bisexual, Transgender, Queer/Questioning Community: A Narrative Review</article-title>,” <source>Advances in Nutrition</source>
+<volume>14</volume>, no. <issue>6</issue> (<year>2023</year>): <fpage>1297</fpage>–<lpage>1306</lpage>.<pub-id pub-id-type="pmid">37536566</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.advnut.2023.07.009</pub-id><pub-id pub-id-type="pmcid">PMC10721458</pub-id></mixed-citation></ref><ref id="puh270004-bib-0077"><label>77</label><mixed-citation publication-type="journal" id="puh270004-cit-0077">
+<string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Osborn</surname>
+</string-name>, “<article-title>LGBTQIA+ People's Service Access During the COVID‐19 Pandemic: Obstacles to Care and Provider Adaptations</article-title>,” <source>Journal of Gay &amp; Lesbian Social Services</source>
+<volume>35</volume>, no. <issue>2</issue> (<year>2023</year>): <fpage>157</fpage>–<lpage>182</lpage>.</mixed-citation></ref><ref id="puh270004-bib-0078"><label>78</label><mixed-citation publication-type="journal" id="puh270004-cit-0078">
+<string-name name-style="western">
+<given-names>A. D.</given-names>
+<surname>Pinto</surname>
+</string-name>, <string-name name-style="western">
+<given-names>T.</given-names>
+<surname>Aratangy</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Abramovich</surname>
+</string-name>, et al., “<article-title>Routine Collection of Sexual Orientation and Gender Identity Data: A Mixed‐Methods Study</article-title>,” <source>CMAJ: Canadian Medical Association Journal</source>
+<volume>191</volume>, no. <issue>3</issue> (<year>2019</year>): <fpage>E63</fpage>–<lpage>E68</lpage>.<pub-id pub-id-type="pmid">30665975</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1503/cmaj.180839</pub-id><pub-id pub-id-type="pmcid">PMC6336479</pub-id></mixed-citation></ref><ref id="puh270004-bib-0079"><label>79</label><mixed-citation publication-type="journal" id="puh270004-cit-0079">
+<string-name name-style="western">
+<given-names>K. I.</given-names>
+<surname>Fredriksen Goldsen</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Romanelli</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C. P.</given-names>
+<surname>Hoy‐Ellis</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Jung</surname>
+</string-name>, “<article-title>Health, Economic and Social Disparities Among Transgender Women, Transgender Men and Transgender Nonbinary Adults: Results From a Population‐Based Study</article-title>,” <source>Preventive Medicine</source>
+<volume>156</volume> (<year>2022</year>): <elocation-id>106988</elocation-id>.<pub-id pub-id-type="pmid">35150748</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.ypmed.2022.106988</pub-id><pub-id pub-id-type="pmcid">PMC8954758</pub-id></mixed-citation></ref><ref id="puh270004-bib-0080"><label>80</label><mixed-citation publication-type="journal" id="puh270004-cit-0080">
+<string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Pinnamaneni</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Payne</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Jackson</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C.‐I.</given-names>
+<surname>Cheng</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>M. A.</given-names>
+<surname>Cascio</surname>
+</string-name>, “<article-title>Disparities in Chronic Physical Health Conditions in Sexual and Gender Minority People Using the United States Behavioral Risk Factor Surveillance System</article-title>,” <source>Preventive Medicine Reports</source>
+<volume>28</volume> (<year>2022</year>): <elocation-id>101881</elocation-id>.<pub-id pub-id-type="pmid">35855927</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.pmedr.2022.101881</pub-id><pub-id pub-id-type="pmcid">PMC9287429</pub-id></mixed-citation></ref><ref id="puh270004-bib-0081"><label>81</label><mixed-citation publication-type="journal" id="puh270004-cit-0081">
+<string-name name-style="western">
+<given-names>K. C.</given-names>
+<surname>Heslin</surname>
+</string-name> and <string-name name-style="western">
+<given-names>J. E.</given-names>
+<surname>Hall</surname>
+</string-name>, “<article-title>Sexual Orientation Disparities in Risk Factors for Adverse COVID‐19‐Related Outcomes, by Race/Ethnicity—Behavioral Risk Factor Surveillance System, United States, 2017–2019</article-title>,” <source>MMWR. Morbidity and Mortality Weekly Report</source>
+<volume>70</volume>, no. <issue>5</issue> (<year>2021</year>): <fpage>149</fpage>–<lpage>154</lpage>.<pub-id pub-id-type="pmid">33539330</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.15585/mmwr.mm7005a1</pub-id><pub-id pub-id-type="pmcid">PMC7861482</pub-id></mixed-citation></ref><ref id="puh270004-bib-0082"><label>82</label><mixed-citation publication-type="journal" id="puh270004-cit-0082">
+<string-name name-style="western">
+<given-names>N.</given-names>
+<surname>Kumar</surname>
+</string-name>, <string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Janmohamed</surname>
+</string-name>, <string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Nyhan</surname>
+</string-name>, et al., “<article-title>Sexual Health and COVID‐19: Protocol for a Scoping Review</article-title>,” <source>Systematic Reviews</source>
+<volume>10</volume>, no. <issue>1</issue> (<year>2021</year>): <fpage>37</fpage>.<pub-id pub-id-type="pmid">33485393</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1186/s13643-021-01591-y</pub-id><pub-id pub-id-type="pmcid">PMC7825389</pub-id></mixed-citation></ref><ref id="puh270004-bib-0083"><label>83</label><mixed-citation publication-type="journal" id="puh270004-cit-0083">
+<string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Cahill</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Grasso</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Keuroghlian</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Sciortino</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Mayer</surname>
+</string-name>, “<article-title>Sexual and Gender Minority Health in the COVID‐19 Pandemic: Why Data Collection and Combatting Discrimination Matter Now More Than Ever</article-title>,” <source>American Journal of Public Health</source>
+<volume>110</volume>, no. <issue>9</issue> (<year>2020</year>): <fpage>1360</fpage>–<lpage>1361</lpage>.<pub-id pub-id-type="pmid">32783729</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.2105/AJPH.2020.305829</pub-id><pub-id pub-id-type="pmcid">PMC7427229</pub-id></mixed-citation></ref><ref id="puh270004-bib-0084"><label>84</label><mixed-citation publication-type="journal" id="puh270004-cit-0084">
+<string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Chatterjee</surname>
+</string-name>, <string-name name-style="western">
+<given-names>P.</given-names>
+<surname>Biswas</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>R. T.</given-names>
+<surname>Guria</surname>
+</string-name>, “<article-title>LGBTQ Care at the Time of COVID‐19</article-title>,” <source>Diabetes &amp; Metabolic Syndrome</source>
+<volume>14</volume>, no. <issue>6</issue> (<year>2020</year>): <fpage>1757</fpage>–<lpage>1758</lpage>.<pub-id pub-id-type="pmid">32942251</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.dsx.2020.09.001</pub-id><pub-id pub-id-type="pmcid">PMC7476578</pub-id></mixed-citation></ref><ref id="puh270004-bib-0085"><label>85</label><mixed-citation publication-type="journal" id="puh270004-cit-0085">
+<string-name name-style="western">
+<given-names>G.</given-names>
+<surname>Reddy</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J. D.</given-names>
+<surname>Zak</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Vergassola</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>V. N.</given-names>
+<surname>Murthy</surname>
+</string-name>, “<article-title>Antagonism in Olfactory Receptor Neurons and Its Implications for the Perception of Odor Mixtures</article-title>,” <source>Elife</source>
+<volume>7</volume> (<year>2018</year>): <elocation-id>e34958</elocation-id>.<pub-id pub-id-type="pmid">29687778</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.7554/eLife.34958</pub-id><pub-id pub-id-type="pmcid">PMC5915184</pub-id></mixed-citation></ref><ref id="puh270004-bib-0086"><label>86</label><mixed-citation publication-type="journal" id="puh270004-cit-0086">
+<string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Dudine</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Canaletti</surname>
+</string-name>, <string-name name-style="western">
+<given-names>F.</given-names>
+<surname>Giudici</surname>
+</string-name>, et al., “<article-title>Investigation on the Loss of Taste and Smell and Consequent Psychological Effects: A Cross‐Sectional Study on Healthcare Workers Who Contracted the COVID‐19 Infection</article-title>,” <source>Frontiers in Public Health</source>
+<volume>9</volume> (<year>2021</year>): <elocation-id>666442</elocation-id>.<pub-id pub-id-type="pmid">34123991</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3389/fpubh.2021.666442</pub-id><pub-id pub-id-type="pmcid">PMC8193118</pub-id></mixed-citation></ref><ref id="puh270004-bib-0087"><label>87</label><mixed-citation publication-type="journal" id="puh270004-cit-0087">
+<string-name name-style="western">
+<given-names>P.</given-names>
+<surname>Boscolo‐Rizzo</surname>
+</string-name>, <string-name name-style="western">
+<given-names>G.</given-names>
+<surname>Tirelli</surname>
+</string-name>, <string-name name-style="western">
+<given-names>P.</given-names>
+<surname>Meloni</surname>
+</string-name>, et al., “<article-title>Coronavirus Disease 2019 (COVID‐19)–Related Smell and Taste Impairment With Widespread Diffusion of Severe Acute Respiratory Syndrome–Coronavirus‐2 (SARS‐CoV‐2) Omicron Variant</article-title>,” <source>International Forum of Allergy &amp; Rhinology</source>
+<volume>12</volume>, no. <issue>10</issue> (<year>2022</year>): <fpage>1273</fpage>–<lpage>1281</lpage>.<pub-id pub-id-type="pmid">35286777</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/alr.22995</pub-id><pub-id pub-id-type="pmcid">PMC9082058</pub-id></mixed-citation></ref><ref id="puh270004-bib-0088"><label>88</label><mixed-citation publication-type="journal" id="puh270004-cit-0088">
+<string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name name-style="western">
+<given-names>P. J.</given-names>
+<surname>Eslinger</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R. L.</given-names>
+<surname>Doty</surname>
+</string-name>, et al., “<article-title>Olfactory Deficit Detected by fMRI in Early Alzheimer's Disease</article-title>,” <source>Brain Research</source>
+<volume>1357</volume> (<year>2010</year>): <fpage>184</fpage>–<lpage>194</lpage>.<pub-id pub-id-type="pmid">20709038</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.brainres.2010.08.018</pub-id><pub-id pub-id-type="pmcid">PMC3515873</pub-id></mixed-citation></ref><ref id="puh270004-bib-0089"><label>89</label><mixed-citation publication-type="journal" id="puh270004-cit-0089">
+<string-name name-style="western">
+<given-names>P.</given-names>
+<surname>Najt</surname>
+</string-name>, <string-name name-style="western">
+<given-names>H. L.</given-names>
+<surname>Richards</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>D. G.</given-names>
+<surname>Fortune</surname>
+</string-name>, “<article-title>Brain Imaging in Patients With COVID‐19: A Systematic Review</article-title>,” <source>Brain, Behavior, &amp; Immunity—Health</source>
+<volume>16</volume> (<year>2021</year>): <elocation-id>100290</elocation-id>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.bbih.2021.100290</pub-id><pub-id pub-id-type="pmcid">PMC8249107</pub-id><pub-id pub-id-type="pmid">34230916</pub-id></mixed-citation></ref><ref id="puh270004-bib-0090"><label>90</label><mixed-citation publication-type="journal" id="puh270004-cit-0090">
+<string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name name-style="western">
+<given-names>T.</given-names>
+<surname>Mei</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Chen</surname>
+</string-name>, et al., “<article-title>Smell Disorders in COVID‐19 Patients: Role of Olfactory Training: A Protocol for Systematic Review and Meta‐Analysis</article-title>,” <source>Medicine</source>
+<volume>100</volume>, no. <issue>8</issue> (<year>2021</year>): <elocation-id>e24862</elocation-id>.<pub-id pub-id-type="pmid">33663108</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1097/MD.0000000000024862</pub-id><pub-id pub-id-type="pmcid">PMC7909207</pub-id></mixed-citation></ref><ref id="puh270004-bib-0091"><label>91</label><mixed-citation publication-type="journal" id="puh270004-cit-0091">
+<string-name name-style="western">
+<given-names>Z. A.</given-names>
+<surname>Sherif</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C. R.</given-names>
+<surname>Gomez</surname>
+</string-name>, <string-name name-style="western">
+<given-names>T. J.</given-names>
+<surname>Connors</surname>
+</string-name>, <string-name name-style="western">
+<given-names>T. J.</given-names>
+<surname>Henrich</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>W. B.</given-names>
+<surname>Reeves</surname>
+</string-name>, “<article-title>Pathogenic Mechanisms of Post‐Acute Sequelae of SARS‐CoV‐2 Infection (PASC)</article-title>,” <source>Elife</source>
+<volume>12</volume> (<year>2023</year>): <elocation-id>e86002</elocation-id>.<pub-id pub-id-type="pmid">36947108</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.7554/eLife.86002</pub-id><pub-id pub-id-type="pmcid">PMC10032659</pub-id></mixed-citation></ref><ref id="puh270004-bib-0092"><label>92</label><mixed-citation publication-type="journal" id="puh270004-cit-0092">
+<string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Turner</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M. A.</given-names>
+<surname>Khan</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Putrino</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Woodcock</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D. B.</given-names>
+<surname>Kell</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>E.</given-names>
+<surname>Pretorius</surname>
+</string-name>, “<article-title>Long COVID: Pathophysiological Factors and Abnormalities of Coagulation</article-title>,” <source>Trends in Endocrinology &amp; Metabolism</source>
+<volume>34</volume>, no. <issue>6</issue> (<year>2023</year>): <fpage>321</fpage>–<lpage>344</lpage>.<pub-id pub-id-type="pmid">37080828</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.tem.2023.03.002</pub-id><pub-id pub-id-type="pmcid">PMC10113134</pub-id></mixed-citation></ref><ref id="puh270004-bib-0093"><label>93</label><mixed-citation publication-type="journal" id="puh270004-cit-0093">
+<string-name name-style="western">
+<given-names>G. J.</given-names>
+<surname>Tanenbaum</surname>
+</string-name> and <string-name name-style="western">
+<given-names>L. R.</given-names>
+<surname>Holden</surname>
+</string-name>, “<article-title>A Review of Patient Experiences and Provider Education to Improve Transgender Health Inequities in the USA</article-title>,” <source>International Journal of Environmental Research and Public Health</source>
+<volume>20</volume>, no. <issue>20</issue> (<year>2023</year>): <fpage>6949</fpage>.<pub-id pub-id-type="pmid">37887687</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3390/ijerph20206949</pub-id><pub-id pub-id-type="pmcid">PMC10606079</pub-id></mixed-citation></ref><ref id="puh270004-bib-0094"><label>94</label><mixed-citation publication-type="journal" id="puh270004-cit-0094">
+<string-name name-style="western">
+<given-names>A. N.</given-names>
+<surname>Panche</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A. D.</given-names>
+<surname>Diwan</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>S. R.</given-names>
+<surname>Chandra</surname>
+</string-name>, “<article-title>Flavonoids: An Overview</article-title>,” <source>Journal of Nutritional Science</source>
+<volume>5</volume> (<year>2016</year>): <elocation-id>e47</elocation-id>.<pub-id pub-id-type="pmid">28620474</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1017/jns.2016.41</pub-id><pub-id pub-id-type="pmcid">PMC5465813</pub-id></mixed-citation></ref><ref id="puh270004-bib-0095"><label>95</label><mixed-citation publication-type="journal" id="puh270004-cit-0095">
+<string-name name-style="western">
+<given-names>Z.</given-names>
+<surname>Ashaari</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.‐A.‐R.</given-names>
+<surname>Hadjzadeh</surname>
+</string-name>, <string-name name-style="western">
+<given-names>G.</given-names>
+<surname>Hassanzadeh</surname>
+</string-name>, et al., “<article-title>The Flavone Luteolin Improves Central Nervous System Disorders by Different Mechanisms: A Review</article-title>,” <source>Journal of Molecular Neuroscience</source>
+<volume>65</volume>, no. <issue>4</issue> (<year>2018</year>): <fpage>491</fpage>–<lpage>506</lpage>.<pub-id pub-id-type="pmid">30083786</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s12031-018-1094-2</pub-id></mixed-citation></ref><ref id="puh270004-bib-0096"><label>96</label><mixed-citation publication-type="journal" id="puh270004-cit-0096">
+<string-name name-style="western">
+<given-names>A. C.</given-names>
+<surname>Schrimpe‐Rutledge</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S. D.</given-names>
+<surname>Sherrod</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>J. A.</given-names>
+<surname>Mclean</surname>
+</string-name>, “<article-title>Improving the Discovery of Secondary Metabolite Natural Products Using Ion Mobility‐Mass Spectrometry</article-title>,” <source>Current Opinion in Chemical Biology</source>
+<volume>42</volume> (<year>2018</year>): <fpage>160</fpage>–<lpage>166</lpage>.<pub-id pub-id-type="pmid">29287234</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.cbpa.2017.12.004</pub-id><pub-id pub-id-type="pmcid">PMC5828964</pub-id></mixed-citation></ref><ref id="puh270004-bib-0097"><label>97</label><mixed-citation publication-type="journal" id="puh270004-cit-0097">
+<string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Sarkar</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Karmakar</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Basu</surname>
+</string-name>, <string-name name-style="western">
+<given-names>P.</given-names>
+<surname>Ghosh</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>M. K.</given-names>
+<surname>Ghosh</surname>
+</string-name>, “<article-title>Neurological Damages in COVID‐19 Patients: Mechanisms and Preventive Interventions</article-title>,” <source>MedComm (2020)</source>
+<volume>4</volume>, no. <issue>2</issue> (<year>2023</year>): <elocation-id>e247</elocation-id>.<pub-id pub-id-type="pmid">37035134</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/mco2.247</pub-id><pub-id pub-id-type="pmcid">PMC10080216</pub-id></mixed-citation></ref><ref id="puh270004-bib-0098"><label>98</label><mixed-citation publication-type="journal" id="puh270004-cit-0098">
+<string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Faridzadeh</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Tabashiri</surname>
+</string-name>, <string-name name-style="western">
+<given-names>H. H.</given-names>
+<surname>Miri</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Mahmoudi</surname>
+</string-name>, “<article-title>The Role of Melatonin as an Adjuvant in the Treatment of COVID‐19: A Systematic Review</article-title>,” <source>Heliyon</source>
+<volume>8</volume>, no. <issue>10</issue> (<year>2022</year>): <elocation-id>e10906</elocation-id>.<pub-id pub-id-type="pmid">36254292</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.heliyon.2022.e10906</pub-id><pub-id pub-id-type="pmcid">PMC9540685</pub-id></mixed-citation></ref></ref-list></back></article></pmc-articleset>

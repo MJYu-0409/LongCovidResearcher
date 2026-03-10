@@ -1,0 +1,29 @@
+{
+  "pmcid": "PMC12734907",
+  "pmid": "41441042",
+  "doi": "10.3390/metabo15120801",
+  "title": "Metabolomics-Based Machine Learning Diagnostics of Post-Acute Sequelae of SARS-CoV-2 Infection.",
+  "abstract": "Background: COVID-19 has taken millions of lives and continues to affect people worldwide. Post-Acute Sequelae of SARS-CoV-2 Infection (also known as Post-Acute Sequelae of COVID-19 (PASC) or more commonly, Long COVID) occurs in the aftermath of COVID-19 and is poorly understood despite its widespread effects. Methods: We created a machine-learning model that distinguishes PASC from PASC-similar diseases. The model was trained to recognize PASC-dysregulated metabolites (p ≤ 0.05) using molecular descriptors. Results: Our multi-layer perceptron model accurately recognizes PASC-dysregulated metabolites in the independent testing set, with an AUC-ROC of 0.8991, and differentiates PASC from myalgic encephalomyelitis/chronic fatigue syndrome (ME/CFS), Lyme disease, postural orthostatic tachycardia syndrome (POTS), and irritable bowel syndrome (IBS). However, it was unable to differentiate fibromyalgia (FM) from PASC. Conclusions: By creating and testing models pairwise on each of these diseases, we elucidated the unique strength of the similarity between FM and PASC relative to other PASC-similar diseases. Our approach is unique to PASC diagnosis, and our use of molecular descriptors enables our model to work with any metabolite where molecular descriptors can be identified, as these descriptors can be generated and compared for any metabolite. Our study presents a novel approach to PASC diagnosis that partially circumvents the lengthy process of exclusion, potentially facilitating faster interventions and improved patient outcomes.",
+  "authors": [
+    "Ethan Cai",
+    "Valentina L Kouznetsova",
+    "Igor F Tsigelny"
+  ],
+  "journal": "Metabolites",
+  "pub_year": "2025",
+  "pub_month": "Dec",
+  "pub_day": "17",
+  "keywords": [
+    "IBS",
+    "Long COVID",
+    "ME/CFS",
+    "PASC",
+    "POTS",
+    "fibromyalgia",
+    "machine learning",
+    "metabolites"
+  ],
+  "article_types": [
+    "Journal Article"
+  ]
+}

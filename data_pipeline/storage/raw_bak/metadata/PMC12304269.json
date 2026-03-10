@@ -1,0 +1,36 @@
+{
+  "pmcid": "PMC12304269",
+  "pmid": "40721590",
+  "doi": "10.1038/s41598-025-06052-3",
+  "title": "Risk of Long COVID in hospitalized individuals treated with remdesivir for acute COVID-19.",
+  "abstract": "Long COVID comprises a multisystem syndrome occurring after COVID-19. This retrospective cohort study investigated whether remdesivir given during acute COVID-19 is associated with reduced incidence of Long COVID, including in immunocompromised subgroups. The HealthVerity database of hospital chargemaster data linked to closed claims was queried for patients aged ≥ 12 years hospitalized for ≥ 2 days with COVID-19 between May 1, 2020, and September 30, 2021. Relative risk between remdesivir-exposed and unexposed patients was calculated for 16 individual Long COVID outcomes and a composite of any Long COVID outcome, occurring 90-270 days after hospital admission. Subgroup analyses occurred in immunocompromised patients. Regression models accounted for censoring, competing risks, and treatment assignment weights; statistical inferences were adjusted for multiple comparisons. Among 3,661,303 hospitalized patients, 52,006 with COVID-19 were included; 20,246 (38.9%) were immunocompromised. In the overall and immunocompromised populations, respectively, 33.0% and 29.5% received remdesivir; the composite of ≥ 1 Long COVID outcome occurred in 55.5% and 62.9%. Patients administered remdesivir experienced lower risk of any Long COVID outcome (risk ratio, 0.96; 95% CI 0.94-0.97; adjusted P < 0.001). Risk for several individual Long COVID outcomes was lower in those receiving remdesivir in the overall and immunocompromised populations. In conclusion, exposure to remdesivir was associated with a lower risk of Long COVID.",
+  "authors": [
+    "Mark Berry",
+    "Amanda M Kong",
+    "Roger Paredes",
+    "Julie Paone",
+    "Rohan Shah",
+    "Rebecca Taylor",
+    "Essy Mozaffari",
+    "Rikisha Gupta",
+    "Robert L Gottlieb",
+    "Lourdes Mateu",
+    "Mazin Abdelghany",
+    "Jason D Goldman",
+    "Anand P Chokkalingam"
+  ],
+  "journal": "Scientific reports",
+  "pub_year": "2025",
+  "pub_month": "Jul",
+  "pub_day": "28",
+  "keywords": [
+    "Antiviral therapy",
+    "COVID-19",
+    "Immunocompromising conditions",
+    "Long COVID",
+    "Remdesivir"
+  ],
+  "article_types": [
+    "Journal Article"
+  ]
+}

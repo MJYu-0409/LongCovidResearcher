@@ -1,0 +1,797 @@
+<?xml version="1.0"  ?><!DOCTYPE pmc-articleset PUBLIC "-//NLM//DTD ARTICLE SET 2.0//EN" "https://dtd.nlm.nih.gov/ncbi/pmc/articleset/nlm-articleset-2.0.dtd"><pmc-articleset><article id="joim20102" xml:lang="en" article-type="research-article" dtd-version="1.4"><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">J Intern Med</journal-id><journal-id journal-id-type="iso-abbrev">J Intern Med</journal-id><journal-id journal-id-type="pmc-domain-id">379</journal-id><journal-id journal-id-type="pmc-domain">blackwellopen</journal-id><journal-id journal-id-type="publisher-id">JOIM</journal-id><journal-title-group><journal-title>Journal of Internal Medicine</journal-title></journal-title-group><issn pub-type="ppub">0954-6820</issn><issn pub-type="epub">1365-2796</issn><custom-meta-group><custom-meta><meta-name>pmc-is-collection-domain</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-collection-title</meta-name><meta-value>Wiley Open Access Collection</meta-value></custom-meta></custom-meta-group></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC12239058</article-id><article-id pub-id-type="pmcid-ver">PMC12239058.1</article-id><article-id pub-id-type="pmcaid">12239058</article-id><article-id pub-id-type="pmcaiid">12239058</article-id><article-id pub-id-type="pmid">40464158</article-id><article-id pub-id-type="doi">10.1111/joim.20102</article-id><article-id pub-id-type="publisher-id">JOIM20102</article-id><article-version article-version-type="pmc-version">1</article-version><article-categories><subj-group subj-group-type="overline"><subject>Original Article</subject></subj-group><subj-group subj-group-type="heading"><subject>Original Article</subject></subj-group></article-categories><title-group><article-title>Preexisting symptoms increase the risk of developing long COVID during the SARS‐CoV‐2 pandemic</article-title><alt-title alt-title-type="left-running-head">V. Lak et al.</alt-title><alt-title alt-title-type="right-running-head">Long COVID symptoms precede diagnosis</alt-title></title-group><contrib-group><contrib id="joim20102-cr-0001" contrib-type="author" corresp="yes"><name name-style="western"><surname>Lak</surname><given-names initials="V">Vincent</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-7394-6812</contrib-id><xref rid="joim20102-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="joim20102-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref><address><email>vincent.lak@gu.se</email></address></contrib><contrib id="joim20102-cr-0002" contrib-type="author"><name name-style="western"><surname>Sjöland</surname><given-names initials="H">Helen</given-names></name><xref rid="joim20102-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="joim20102-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib id="joim20102-cr-0003" contrib-type="author"><name name-style="western"><surname>Adiels</surname><given-names initials="M">Martin</given-names></name><xref rid="joim20102-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="joim20102-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref></contrib><contrib id="joim20102-cr-0004" contrib-type="author"><name name-style="western"><surname>Lundberg</surname><given-names initials="CE">Christina E.</given-names></name><xref rid="joim20102-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="joim20102-aff-0004" ref-type="aff">
+<sup>4</sup>
+</xref></contrib><contrib id="joim20102-cr-0005" contrib-type="author"><name name-style="western"><surname>Robertson</surname><given-names initials="J">Josefina</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-2167-6822</contrib-id><xref rid="joim20102-aff-0005" ref-type="aff">
+<sup>5</sup>
+</xref><xref rid="joim20102-aff-0006" ref-type="aff">
+<sup>6</sup>
+</xref><xref rid="joim20102-aff-0007" ref-type="aff">
+<sup>7</sup>
+</xref></contrib><contrib id="joim20102-cr-0006" contrib-type="author"><name name-style="western"><surname>Åberg</surname><given-names initials="M">Maria</given-names></name><xref rid="joim20102-aff-0005" ref-type="aff">
+<sup>5</sup>
+</xref><xref rid="joim20102-aff-0008" ref-type="aff">
+<sup>8</sup>
+</xref></contrib><contrib id="joim20102-cr-0007" contrib-type="author"><name name-style="western"><surname>Alex</surname><given-names initials="C">Christian</given-names></name><xref rid="joim20102-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="joim20102-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib id="joim20102-cr-0008" contrib-type="author"><name name-style="western"><surname>Lindgren</surname><given-names initials="M">Martin</given-names></name><xref rid="joim20102-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="joim20102-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib id="joim20102-cr-0009" contrib-type="author" corresp="yes"><name name-style="western"><surname>Rosengren</surname><given-names initials="A">Annika</given-names></name><xref rid="joim20102-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="joim20102-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref><address><email>Annika.rosengren@wlab.gu.se</email></address></contrib></contrib-group><aff id="joim20102-aff-0001">
+<label>
+<sup>1</sup>
+</label>
+<named-content content-type="organisation-division">Department of Molecular and Clinical Medicine, Institute of Medicine</named-content>
+<institution>Sahlgrenska Academy, University of Gothenburg</institution>
+<city>Gothenburg</city>
+<country country="SE">Sweden</country>
+</aff><aff id="joim20102-aff-0002">
+<label>
+<sup>2</sup>
+</label>
+<named-content content-type="organisation-division">Department of Medicine Geriatrics and Emergency Medicine</named-content>
+<institution>Sahlgrenska University Hospital</institution>
+<institution>Östra Hospital, Region Västra Götaland</institution>
+<city>Gothenburg</city>
+<country country="SE">Sweden</country>
+</aff><aff id="joim20102-aff-0003">
+<label>
+<sup>3</sup>
+</label>
+<institution>School of Public Health and Community Medicine, Institute of Medicine, University of Gothenburg</institution>
+<city>Gothenburg</city>
+<country country="SE">Sweden</country>
+</aff><aff id="joim20102-aff-0004">
+<label>
+<sup>4</sup>
+</label>
+<named-content content-type="organisation-division">Department of Food and Nutrition and Sport Science, Faculty of Education</named-content>
+<institution>University of Gothenburg</institution>
+<city>Gothenburg</city>
+<country country="SE">Sweden</country>
+</aff><aff id="joim20102-aff-0005">
+<label>
+<sup>5</sup>
+</label>
+<institution>General Practice/Family Medicine, School of Public Health and Community Medicine, Institute of Medicine, Sahlgrenska Academy, University of Gothenburg</institution>
+<city>Gothenburg</city>
+<country country="SE">Sweden</country>
+</aff><aff id="joim20102-aff-0006">
+<label>
+<sup>6</sup>
+</label>
+<named-content content-type="organisation-division">Department of Infectious Diseases, Institute of Biomedicine</named-content>
+<institution>Sahlgrenska Academy, University of Gothenburg</institution>
+<city>Gothenburg</city>
+<country country="SE">Sweden</country>
+</aff><aff id="joim20102-aff-0007">
+<label>
+<sup>7</sup>
+</label>
+<named-content content-type="organisation-division">Department of Infectious Diseases</named-content>
+<institution>Sahlgrenska University Hospital, Region Västra Götaland</institution>
+<city>Gothenburg</city>
+<country country="SE">Sweden</country>
+</aff><aff id="joim20102-aff-0008">
+<label>
+<sup>8</sup>
+</label>
+<institution>Region Västra Götaland, Regionhälsan</institution>
+<city>Gothenburg</city>
+<country country="SE">Sweden</country>
+</aff><author-notes><corresp id="correspondenceTo">
+<label>*</label>
+<italic toggle="yes">Correspondence</italic>: Vincent Lak and Annika Rosengren, MGAÖ, Östra sjukhuset, Diagnosvägen 11, 416 50, Göteborg, Sweden.<break/>Email: <email>vincent.lak@gu.se</email> and <email>Annika.rosengren@wlab.gu.se</email>
+<break/>
+</corresp></author-notes><pub-date pub-type="epub"><day>04</day><month>6</month><year>2025</year></pub-date><pub-date pub-type="ppub"><month>8</month><year>2025</year></pub-date><volume>298</volume><issue seq="50">2</issue><issue-id pub-id-type="pmc-issue-id">492535</issue-id><issue-id pub-id-type="doi">10.1111/joim.v298.2</issue-id><fpage>107</fpage><lpage>122</lpage><pub-history><event event-type="pmc-release"><date><day>09</day><month>07</month><year>2025</year></date></event><event event-type="pmc-live"><date><day>10</day><month>07</month><year>2025</year></date></event><event event-type="pmc-last-change"><date iso-8601-date="2025-07-10 00:25:52.797"><day>10</day><month>07</month><year>2025</year></date></event></pub-history><permissions><copyright-statement content-type="article-copyright">© 2025 The Author(s). Journal of Internal Medicine published by John Wiley &amp; Sons Ltd on behalf of Association for Publication of The Journal of Internal Medicine.</copyright-statement><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>This is an open access article under the terms of the <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pmc-pdf" xlink:href="JOIM-298-107.pdf"/><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pdf" xlink:href="file:JOIM-298-107.pdf"/><abstract><title>Abstract</title><sec id="joim20102-sec-0010"><title>Background</title><p>Long COVID is defined as otherwise unexplained symptoms following a SARS‐CoV‐2 infection.</p></sec><sec id="joim20102-sec-0020"><title>Objective</title><p>To examine the prevalence of preexisting symptoms compatible with long COVID in individuals with a diagnosis of long COVID.</p></sec><sec id="joim20102-sec-0030"><title>Methods</title><p>This retrospective, observational study included the adult population (aged 18 years and older) in Region Västra Götaland, with at least one recorded healthcare contact between January 1, 2020, and November 30, 2023, from a regional database comprising all levels of healthcare contacts. Data on long COVID, relevant symptoms before and after the pandemic started (2016–2023), and SARS‐CoV‐2 infection status were extracted using the International Classification of Diseases version 10 (ICD‐10) codes. Individuals who had been hospitalized due to a SARS‐CoV‐2 infection were considered separately.</p></sec><sec id="joim20102-sec-0040"><title>Results</title><p>Out of 1,415,885 individuals, 9202 (0.6%) had been diagnosed with long COVID. Among the non‐hospitalized individuals, the record of at least one of the relevant symptoms was more common in those with long COVID compared to those without it (57.6% vs. 36.3% for men and 71.6% vs. 50.4% for women), already before January 1, 2020. Among individuals with any relevant symptom, the odds ratios (ORs) of having long COVID were OR = 2.28 (95% confidence interval [CI] = 2.10–2.48) for men and OR = 2.32 (95% CI = 2.18–2.48 for women) after adjusting for age group, obesity, asthma, and anxiety, compared with individuals without any relevant symptom.</p></sec><sec id="joim20102-sec-0050"><title>Conclusions</title><p>Individuals diagnosed with long COVID had more healthcare contacts for relevant symptoms even before the pandemic compared to individuals without long COVID.</p></sec></abstract><abstract id="joim20102-abs-0001" abstract-type="graphical"><p>
+<boxed-text position="anchor" content-type="graphic" orientation="portrait"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-1" orientation="portrait" xlink:href="JOIM-298-107-g004.jpg"/></boxed-text>
+</p></abstract><kwd-group kwd-group-type="author-generated"><kwd id="joim20102-kwd-0001">clinical coding</kwd><kwd id="joim20102-kwd-0002">long COVID</kwd><kwd id="joim20102-kwd-0003">post‐acute sequelae of COVID‐19 (PASC)</kwd><kwd id="joim20102-kwd-0004">post‐COVID‐19 syndrome</kwd><kwd id="joim20102-kwd-0005">primary health care</kwd></kwd-group><funding-group><award-group id="funding-0001"><funding-source>
+<institution-wrap><institution>Swedish Research Council</institution><institution-id institution-id-type="doi">10.13039/501100004359</institution-id></institution-wrap>
+</funding-source><award-id>2019‐00193</award-id><award-id>2020‐05792</award-id><award-id>2021‐06525</award-id><award-id>2023‐02144</award-id></award-group><award-group id="funding-0002"><funding-source>
+<institution-wrap><institution>Swedish Heart and Lung Foundation</institution></institution-wrap>
+</funding-source><award-id>2021‐0345</award-id><award-id>2024‐0678</award-id></award-group><award-group id="funding-0003"><funding-source>
+<institution-wrap><institution>Forskningsrådet om Hälsa, Arbetsliv och Välfärd</institution><institution-id institution-id-type="doi">10.13039/501100006636</institution-id></institution-wrap>
+</funding-source><award-id>2021‐00304</award-id></award-group><award-group id="funding-0004"><funding-source>
+<institution-wrap><institution>Grants from the Swedish state under an agreement concerning research and education of doctors</institution></institution-wrap>
+</funding-source><award-id>ALFGBG‐966211</award-id><award-id>ALFGBG‐1006439</award-id><award-id>ALFGBG‐942707</award-id><award-id>ALFGBG‐971608</award-id><award-id>ALFGBG‐943008</award-id></award-group></funding-group><counts><fig-count count="7"/><table-count count="5"/><page-count count="16"/><word-count count="8310"/></counts><custom-meta-group><custom-meta><meta-name>pmc-status-qastatus</meta-name><meta-value>0</meta-value></custom-meta><custom-meta><meta-name>pmc-status-live</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-status-embargo</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-status-released</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-access</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-legally-suppressed</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-pdf</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-supplement</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-pdf-only</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-suppress-copyright</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-real-version</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-scanned-article</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-in-epmc</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-license-ref</meta-name><meta-value>CC BY</meta-value></custom-meta><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>August 2025</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:6.5.8 mode:remove_FC converted:09.07.2025</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="joim20102-cite-0001">
+<string-name name-style="western">
+<surname>Lak</surname>
+<given-names>V</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sjöland</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Adiels</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lundberg</surname>
+<given-names>CE</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Robertson</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Åberg</surname>
+<given-names>M</given-names>
+</string-name>, et al. <article-title>Preexisting symptoms increase the risk of developing long COVID during the SARS‐CoV‐2 pandemic</article-title>. <source>J Intern Med</source>. <year>2025</year>;<volume>298</volume>:<fpage>107</fpage>–<lpage>122</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/joim.20102</pub-id><pub-id pub-id-type="pmcid">PMC12239058</pub-id><pub-id pub-id-type="pmid">40464158</pub-id></mixed-citation>
+</p></notes></front><body><sec id="joim20102-sec-0060"><title>Introduction</title><p>Long COVID is defined by the World Health Organization (WHO) as the continuation or development of new symptoms 3 months after the initial SARS‐CoV‐2 infection, with symptoms lasting for at least 2 months and with no other explanation, and where symptoms generally have an impact on everyday functioning [<xref rid="joim20102-bib-0001" ref-type="bibr">1</xref>]. More than 200 symptoms in ten organ systems have been described as possibly relevant to long COVID [<xref rid="joim20102-bib-0002" ref-type="bibr">2</xref>]. In the WHO Delphi consensus process of a clinical case definition of long COVID, 13 out of 24 symptoms (shortness of breath, cough, tachycardia, fatigue, post‐exertional malaise, cognitive dysfunction, impaired memory, sleep disorders, loss of smell/taste, headache, chest pain, muscle spasms, and joint pain) were identified as important by more than 50% of the participants [<xref rid="joim20102-bib-0001" ref-type="bibr">1</xref>]. The International Classification of Diseases version 10 (ICD‐10) code U09.9 for long COVID was introduced in Sweden by mid‐October 2020 [<xref rid="joim20102-bib-0003" ref-type="bibr">3</xref>].</p><p>Even so, more than 3 years after the publication of the WHO definition of the post‐COVID‐19 condition (the WHO official name for long COVID), there is no universal consensus on the name or exact definition of the persisting sequelae of SARS‐CoV‐2 infections, known as ongoing symptomatic COVID‐19 or post‐COVID‐19 syndrome in the United Kingdom and as long COVID in the United States [<xref rid="joim20102-bib-0004" ref-type="bibr">4</xref>]. For brevity, we will use the latter term in the following. Moreover, studies differ in size, setting, selection process, symptom selection, and recording. Comprehensive reviews and meta‐analyses report vastly different estimates on the overall prevalence of long COVID, ranging between 6% and 57%, with higher prevalence in patients hospitalized compared with non‐hospitalized for SARS‐CoV‐2 [<xref rid="joim20102-bib-0005" ref-type="bibr">5</xref>, <xref rid="joim20102-bib-0006" ref-type="bibr">6</xref>].</p><p>Unlike acute SARS‐CoV‐2 infections, which can be established using laboratory methods, there is no objective measurement underpinning long COVID. Apart from the criterion of a past infection, the diagnosis rests on the presence of symptoms that are common in the general population. Whether individuals presenting with long COVID demonstrate greater susceptibility to symptoms compatible with long COVID than other people prior to the pandemic has not been established. Previous studies have predicted substantial increases in healthcare costs and utilization from patients with long COVID [<xref rid="joim20102-bib-0007" ref-type="bibr">7</xref>, <xref rid="joim20102-bib-0008" ref-type="bibr">8</xref>]. However, few studies have estimated the prevalence and healthcare utilization of long COVID in adults using data from an entire region over an extended period.</p><p>The purpose of this study was to estimate, first, the proportion of the population registered with ICD codes for any of the relevant symptoms before and during the pandemic; second, the long COVID prevalence in the Region Västra Götaland, Sweden; and third, healthcare contacts of patients registered with a diagnosis of long COVID.</p></sec><sec id="joim20102-sec-0070"><title>Methods</title><sec id="joim20102-sec-0080"><title>Study design</title><p>This was a retrospective, observational study based on a regional database of registered and completed healthcare contacts to physicians and other healthcare professionals.</p></sec><sec id="joim20102-sec-0090"><title>Data source</title><p>We obtained data from the regional database of healthcare contacts of the Region Västra Götaland (VEGA), a comprehensive regional database covering all hospital admissions, outpatient specialist care, and primary care contacts in the Region Västra Götaland, Sweden, to any healthcare professional [<xref rid="joim20102-bib-0009" ref-type="bibr">9</xref>]. The database also contains information on all hospital‐based healthcare contacts of residents of the Region Västra Götaland outside of the region. The adult population in the Region Västra Götaland is approximately 1.4 million.</p></sec><sec id="joim20102-sec-0100"><title>Inclusion</title><p>We included all individuals in the Region Västra Götaland aged 18 years or older with at least one registered healthcare contact from January 1, 2020, to November 30, 2023.</p></sec><sec id="joim20102-sec-0110"><title>Variables assessed</title><p>Long COVID diagnosis was defined by the ICD‐10 code U09.9. Acute SARS‐CoV‐2 infection was defined by the ICD‐10 codes U07.1 and U07.2. We use the shorthand “the relevant symptoms” to refer to the 13 symptoms that were identified as important to the clinical case definition of the post‐COVID‐19 condition by more than 50% of the participants of the WHO Delphi consensus process. We categorized these into 10 symptom entities and 3 symptom groups: cardiopulmonary (dyspnea, cough, palpitations), from the central nervous system (CNS) (fatigue, cognitive dysfunction, sleep disorder, loss of smell/taste), and pain (headache, chest pain, muscle/joint pain). Symptoms were identified by ICD‐10 codes registered during 2016–2023 (Table <xref rid="joim20102-supinfo-0001" ref-type="">S1</xref>).</p><p>Age was defined as the year of birth subtracted from 2020 and grouped into 18–39, 40–59, 60–79, and 80+. Baseline comorbidities, registered from January 1, 2015, to December 31, 2019, were retrieved by ICD‐10 codes (Table <xref rid="joim20102-supinfo-0001" ref-type="">S2</xref>). We separated the study population into those who had been hospitalized with SARS‐CoV‐2, defined by an inpatient hospital visit with a diagnosis of SARS‐CoV‐2, and those who had not been hospitalized, with the latter forming the main focus for the analyses and referred to as the non‐hospitalized population. We defined any use of either mechanical ventilation by endotracheal intubation (identified by the Swedish procedure coding system [KVÅ] codes DG017 or DG018) or heated humidified high‐flow nasal oxygen therapy (code DG028) as a marker of severe infection.</p><p>Group comparisons were made between the individuals with and without a long COVID diagnosis. We defined 2016–2019 as the pre‐pandemic and 2020–2023 as the pandemic period. Prevalence of symptoms in the long COVID group was compared with the no long COVID group in the pre‐pandemic and pandemic periods as well as the annual prevalence, which was defined as the number of individuals with at least one healthcare contact for one of the relevant symptoms during any particular year divided by the total number of individuals in that group. Results for men and women are presented separately.</p><p>Symptom prevalence was subjected to a sensitivity analysis where we classified the individuals with long COVID diagnosis dated 90 days or later after a SARS‐CoV‐2 infection diagnostic code, consistent with the WHO definition, as the “long COVID ≥90 days after” group; and the individuals with a previous SARS‐CoV‐2 infection but without fulfilling the criterion of a long COVID diagnosis registered at least 90 days after the infection as the “no long COVID ≥90 days after” group.</p></sec><sec id="joim20102-sec-0120"><title>Statistical analysis</title><p>Group comparison <italic toggle="yes">p</italic>‐values are derived from the <italic toggle="yes">chi</italic>‐squared test for categorical variables and the independent <italic toggle="yes">t</italic>‐test for continuous variables when comparing mean values. The association between pre‐pandemic symptoms and long COVID in the non‐hospitalized population was analyzed using logistic regression. First, an unadjusted, univariate model; second the fully adjusted multivariate model, which included age as well as a selection of the baseline comorbidities. To avoid variables with very low frequencies, we included symptoms and baseline comorbidities that had a count of 100 individuals or more in the long COVID group and a statistically significant difference in prevalence compared with the no long COVID group, that is, with a <italic toggle="yes">p</italic>‐value &lt;0.05, in both men and women. A correlation matrix with Pearson correlation coefficients was then used to identify baseline comorbidities that had at least a moderate correlation (<italic toggle="yes">r</italic> ≥ 0.4). To avoid issues with multicollinearity, when we had correlated baseline comorbidities, we kept only the one with the highest prevalence in the long COVID group. Outcomes from logistic models were presented as odds ratios (ORs) and 95% confidence intervals (95% CIs). Logistic regression was used to adjust for age in group comparisons on prevalence differences in baseline comorbidities. Negative binomial regression was used to adjust for confounders in group comparisons on the number of healthcare contacts. Statistical calculations were performed using R version 4.3.0 software (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://www.R-project.org" ext-link-type="uri">http://www.R‐project.org</ext-link>).</p></sec><sec id="joim20102-sec-0130"><title>Ethics statement</title><p>The study conforms to the principles outlined by the Declaration of Helsinki and was approved by the Swedish Ethical Review Authority (Dnr: 2021‐01692, 2023‐05002‐02).</p></sec></sec><sec id="joim20102-sec-0140"><title>Results</title><p>We included 1,415,885 individuals (Fig. <xref rid="joim20102-fig-0001" ref-type="fig">1</xref>), corresponding to &gt;99% of the population 18 years and older in the Region Västra Götaland [<xref rid="joim20102-bib-0010" ref-type="bibr">10</xref>]. Of these, 9202 individuals (0.6%) had a recorded long COVID diagnosis. For 369,302 individuals, a record of an acute SARS‐CoV‐2 infection was available in the healthcare database; of these, 4391 (1.2%) individuals were identified as having long COVID ≥90 days after SARS‐CoV‐2. A total of 19,733 individuals had been hospitalized with a SARS‐CoV‐2 diagnosis (Fig. <xref rid="joim20102-fig-0001" ref-type="fig">1</xref>), and among those, 1574 had a long COVID diagnosis. A total of 1,388,524 individuals (&gt;98% of the population 18 years and older in the region) had neither been hospitalized with a SARS‐CoV‐2 diagnosis nor had a recorded long COVID diagnosis. Thus, the no long COVID group in the non‐hospitalized population can essentially be considered the background population.</p><fig position="float" fig-type="Fig." id="joim20102-fig-0001" orientation="portrait"><label>Fig. 1</label><caption><p>Flow chart of the healthcare contacts and individuals’ inclusion and exclusion, and subsequent distribution of the hospitalized and non‐hospitalized populations.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-3" orientation="portrait" xlink:href="JOIM-298-107-g007.jpg"/></fig><p>Baseline characteristics (before January 1, 2020) are shown in Table <xref rid="joim20102-tbl-0001" ref-type="table">1</xref> and Table <xref rid="joim20102-supinfo-0001" ref-type="">S3</xref>. For the non‐hospitalized population, the mean age was 48.5 for men and 47.2 for women. At baseline, in the non‐hospitalized population, obesity, asthma, depression, and anxiety were considerably more prevalent in the long COVID group compared with the no long COVID group in both men and women. In the hospitalized population, the long COVID group had a higher proportion of patients with severe infection (37.7% vs. 12.1% for men, 25.3% vs. 8.1% for women) (Table <xref rid="joim20102-supinfo-0001" ref-type="">S3</xref>).</p><table-wrap position="float" id="joim20102-tbl-0001" content-type="Table" orientation="portrait"><label>Table 1</label><caption><p>Baseline characteristics (before January 1, 2020) of adult men and women in the Västra Götaland region by presence or absence of long COVID.</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="char" char="(" span="1"/><col align="char" char="(" span="1"/><col align="char" char="." span="1"/><col align="char" char="(" span="1"/><col align="char" char="(" span="1"/><col align="char" char="." span="1"/><thead><tr><th align="center" colspan="7" style="border-bottom:solid 1px #000000" rowspan="1">
+<p>Individuals who had not been hospitalized with a SARS‐CoV‐2 infection</p>
+<p>
+<italic toggle="yes">n</italic> = 1,396,152</p>
+</th></tr><tr><th align="left" rowspan="2" colspan="1"/><th align="center" colspan="2" style="border-bottom:solid 1px #000000" rowspan="1">
+<p>Men</p>
+<p>
+<italic toggle="yes">n</italic> = 686,381</p>
+</th><th align="center" rowspan="1" colspan="1"/><th align="center" colspan="2" style="border-bottom:solid 1px #000000" rowspan="1">
+<p>Women</p>
+<p>
+<italic toggle="yes">n</italic> = 709,771</p>
+</th><th align="center" rowspan="1" colspan="1"/></tr><tr style="border-bottom:solid 1px #000000"><th align="center" rowspan="1" colspan="1">
+<p>Long COVID</p>
+<p>
+<italic toggle="yes">n</italic> = 2559</p>
+</th><th align="center" rowspan="1" colspan="1">
+<p>No long COVID</p>
+<p>
+<italic toggle="yes">n</italic> = 683,822</p>
+</th><th align="center" rowspan="1" colspan="1">
+<italic toggle="yes">p</italic>‐value</th><th align="center" rowspan="1" colspan="1">
+<p>Long COVID</p>
+<p>
+<italic toggle="yes">n</italic> = 5069</p>
+</th><th align="center" rowspan="1" colspan="1">
+<p>No long COVID</p>
+<p>
+<italic toggle="yes">n</italic> = 704,702</p>
+</th><th align="center" rowspan="1" colspan="1">
+<italic toggle="yes">p</italic>‐value</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">Age (years)</td><td align="char" rowspan="1" colspan="1">48.5 (14.4)</td><td align="char" rowspan="1" colspan="1">48.2 (19.0)</td><td align="char" rowspan="1" colspan="1">0.395</td><td align="char" rowspan="1" colspan="1">47.2 (13.7)</td><td align="char" rowspan="1" colspan="1">49.5 (19.9)</td><td align="char" rowspan="1" colspan="1">&lt;0.001</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">18–39</td><td align="char" rowspan="1" colspan="1">714 (27.9)</td><td align="char" rowspan="1" colspan="1">264,449 (38.7)</td><td align="center" rowspan="1" colspan="1"/><td align="char" rowspan="1" colspan="1">1515 (29.9)</td><td align="char" rowspan="1" colspan="1">262,230 (37.2)</td><td align="center" rowspan="1" colspan="1"/></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">40–59</td><td align="char" rowspan="1" colspan="1">1290 (50.4)</td><td align="char" rowspan="1" colspan="1">213,758 (31.3)</td><td align="center" rowspan="1" colspan="1"/><td align="char" rowspan="1" colspan="1">2707 (53.4)</td><td align="char" rowspan="1" colspan="1">211,488 (30.0)</td><td align="center" rowspan="1" colspan="1"/></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">60–79</td><td align="char" rowspan="1" colspan="1">509 (19.9)</td><td align="char" rowspan="1" colspan="1">168,088 (24.6)</td><td align="center" rowspan="1" colspan="1"/><td align="char" rowspan="1" colspan="1">754 (14.9)</td><td align="char" rowspan="1" colspan="1">175,111 (24.8)</td><td align="center" rowspan="1" colspan="1"/></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">80+</td><td align="char" rowspan="1" colspan="1">46 (1.8)</td><td align="char" rowspan="1" colspan="1">37,527 (5.5)</td><td align="center" rowspan="1" colspan="1"/><td align="char" rowspan="1" colspan="1">93 (1.8)</td><td align="char" rowspan="1" colspan="1">55,873 (7.9)</td><td align="center" rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">Type 1 diabetes</td><td align="char" rowspan="1" colspan="1">40 (1.6)</td><td align="char" rowspan="1" colspan="1">10,618 (1.6)</td><td align="char" rowspan="1" colspan="1">1.000</td><td align="char" rowspan="1" colspan="1">44 (0.9)</td><td align="char" rowspan="1" colspan="1">7986 (1.1)</td><td align="char" rowspan="1" colspan="1">0.100</td></tr><tr><td align="left" rowspan="1" colspan="1">Type 2 diabetes</td><td align="char" rowspan="1" colspan="1">164 (6.4)</td><td align="char" rowspan="1" colspan="1">45,435 (6.6)</td><td align="char" rowspan="1" colspan="1">0.662</td><td align="char" rowspan="1" colspan="1">162 (3.2)</td><td align="char" rowspan="1" colspan="1">34,258 (4.9)</td><td align="char" rowspan="1" colspan="1">&lt;0.001</td></tr><tr><td align="left" rowspan="1" colspan="1">Obesity</td><td align="char" rowspan="1" colspan="1">225 (8.8)</td><td align="char" rowspan="1" colspan="1">38,046 (5.6)</td><td align="char" rowspan="1" colspan="1">&lt;0.001</td><td align="char" rowspan="1" colspan="1">524 (10.3)</td><td align="char" rowspan="1" colspan="1">54,573 (7.7)</td><td align="char" rowspan="1" colspan="1">&lt;0.001</td></tr><tr><td align="left" rowspan="1" colspan="1">Dyslipidemia</td><td align="char" rowspan="1" colspan="1">336 (13.1)</td><td align="char" rowspan="1" colspan="1">92,141 (13.5)</td><td align="char" rowspan="1" colspan="1">0.631</td><td align="char" rowspan="1" colspan="1">386 (7.6)</td><td align="char" rowspan="1" colspan="1">82,426 (11.7)</td><td align="char" rowspan="1" colspan="1">&lt;0.001</td></tr><tr><td align="left" rowspan="1" colspan="1">Hypertension</td><td align="char" rowspan="1" colspan="1">513 (20.0)</td><td align="char" rowspan="1" colspan="1">142,979 (20.9)</td><td align="char" rowspan="1" colspan="1">0.296</td><td align="char" rowspan="1" colspan="1">762 (15.0)</td><td align="char" rowspan="1" colspan="1">144,810 (20.5)</td><td align="char" rowspan="1" colspan="1">&lt;0.001</td></tr><tr><td align="left" rowspan="1" colspan="1">Heart failure</td><td align="char" rowspan="1" colspan="1">39 (1.5)</td><td align="char" rowspan="1" colspan="1">16,065 (2.3)</td><td align="char" rowspan="1" colspan="1">0.007</td><td align="char" rowspan="1" colspan="1">33 (0.7)</td><td align="char" rowspan="1" colspan="1">13,691 (1.9)</td><td align="char" rowspan="1" colspan="1">&lt;0.001</td></tr><tr><td align="left" rowspan="1" colspan="1">Atrial fibrillation</td><td align="char" rowspan="1" colspan="1">77 (3.0)</td><td align="char" rowspan="1" colspan="1">29,650 (4.3)</td><td align="char" rowspan="1" colspan="1">0.001</td><td align="char" rowspan="1" colspan="1">60 (1.2)</td><td align="char" rowspan="1" colspan="1">21,301 (3.0)</td><td align="char" rowspan="1" colspan="1">&lt;0.001</td></tr><tr><td align="left" rowspan="1" colspan="1">Coronary heart disease</td><td align="char" rowspan="1" colspan="1">108 (4.2)</td><td align="char" rowspan="1" colspan="1">36,687 (5.4)</td><td align="char" rowspan="1" colspan="1">0.012</td><td align="char" rowspan="1" colspan="1">81 (1.6)</td><td align="char" rowspan="1" colspan="1">22,026 (3.1)</td><td align="char" rowspan="1" colspan="1">&lt;0.001</td></tr><tr><td align="left" rowspan="1" colspan="1">Stroke</td><td align="char" rowspan="1" colspan="1">24 (0.9)</td><td align="char" rowspan="1" colspan="1">10,623 (1.6)</td><td align="char" rowspan="1" colspan="1">0.015</td><td align="char" rowspan="1" colspan="1">34 (0.7)</td><td align="char" rowspan="1" colspan="1">8658 (1.2)</td><td align="char" rowspan="1" colspan="1">&lt;0.001</td></tr><tr><td align="left" rowspan="1" colspan="1">Peripheral vascular disease</td><td align="char" rowspan="1" colspan="1">8 (0.3)</td><td align="char" rowspan="1" colspan="1">3753 (0.5)</td><td align="char" rowspan="1" colspan="1">0.138</td><td align="char" rowspan="1" colspan="1">8 (0.2)</td><td align="char" rowspan="1" colspan="1">3476 (0.5)</td><td align="char" rowspan="1" colspan="1">0.001</td></tr><tr><td align="left" rowspan="1" colspan="1">Pulmonary embolism</td><td align="char" rowspan="1" colspan="1">17 (0.7)</td><td align="char" rowspan="1" colspan="1">3577 (0.5)</td><td align="char" rowspan="1" colspan="1">0.395</td><td align="char" rowspan="1" colspan="1">18 (0.4)</td><td align="char" rowspan="1" colspan="1">3543 (0.5)</td><td align="char" rowspan="1" colspan="1">0.167</td></tr><tr><td align="left" rowspan="1" colspan="1">Deep vein thrombosis</td><td align="char" rowspan="1" colspan="1">35 (1.4)</td><td align="char" rowspan="1" colspan="1">7661 (1.1)</td><td align="char" rowspan="1" colspan="1">0.275</td><td align="char" rowspan="1" colspan="1">65 (1.3)</td><td align="char" rowspan="1" colspan="1">10,077 (1.4)</td><td align="char" rowspan="1" colspan="1">0.410</td></tr><tr><td align="left" rowspan="1" colspan="1">COPD</td><td align="char" rowspan="1" colspan="1">36 (1.4)</td><td align="char" rowspan="1" colspan="1">13,297 (1.9)</td><td align="char" rowspan="1" colspan="1">0.058</td><td align="char" rowspan="1" colspan="1">75 (1.5)</td><td align="char" rowspan="1" colspan="1">17,284 (2.5)</td><td align="left" rowspan="1" colspan="1">&lt;0.001</td></tr><tr><td align="left" rowspan="1" colspan="1">Asthma</td><td align="char" rowspan="1" colspan="1">225 (8.8)</td><td align="char" rowspan="1" colspan="1">37,984 (5.6)</td><td align="char" rowspan="1" colspan="1">&lt;0.001</td><td align="char" rowspan="1" colspan="1">700 (13.8)</td><td align="char" rowspan="1" colspan="1">57,017 (8.1)</td><td align="char" rowspan="1" colspan="1">&lt;0.001</td></tr><tr><td align="left" rowspan="1" colspan="1">Chronic kidney disease</td><td align="char" rowspan="1" colspan="1">32 (1.3)</td><td align="char" rowspan="1" colspan="1">13,156 (1.9)</td><td align="char" rowspan="1" colspan="1">0.016</td><td align="char" rowspan="1" colspan="1">21 (0.4)</td><td align="char" rowspan="1" colspan="1">10,231 (1.5)</td><td align="char" rowspan="1" colspan="1">&lt;0.001</td></tr><tr><td align="left" rowspan="1" colspan="1">Dementia</td><td align="char" rowspan="1" colspan="1">6 (0.2)</td><td align="char" rowspan="1" colspan="1">6229 (0.9)</td><td align="char" rowspan="1" colspan="1">&lt;0.001</td><td align="char" rowspan="1" colspan="1">16 (0.3)</td><td align="char" rowspan="1" colspan="1">10,124 (1.4)</td><td align="char" rowspan="1" colspan="1">&lt;0.001</td></tr><tr><td align="left" rowspan="1" colspan="1">Depression</td><td align="char" rowspan="1" colspan="1">384 (15.0)</td><td align="char" rowspan="1" colspan="1">58,537 (8.6)</td><td align="char" rowspan="1" colspan="1">&lt;0.001</td><td align="char" rowspan="1" colspan="1">1179 (23.3)</td><td align="char" rowspan="1" colspan="1">105,547 (15.0)</td><td align="char" rowspan="1" colspan="1">&lt;0.001</td></tr><tr><td align="left" rowspan="1" colspan="1">Anxiety</td><td align="char" rowspan="1" colspan="1">447 (17.5)</td><td align="char" rowspan="1" colspan="1">70,004 (10.2)</td><td align="char" rowspan="1" colspan="1">&lt;0.001</td><td align="char" rowspan="1" colspan="1">1490 (29.4)</td><td align="char" rowspan="1" colspan="1">129,576 (18.4)</td><td align="char" rowspan="1" colspan="1">&lt;0.001</td></tr></tbody></table><table-wrap-foot><fn id="joim20102-tbl1-note-0001"><p>
+<italic toggle="yes">Note</italic>: Data as <italic toggle="yes">n</italic> (%) for categorical variables and mean (sd) for continuous variables.</p></fn><fn id="joim20102-tbl1-note-0002"><p>Abbreviations: COPD, chronic obstructive pulmonary disease.</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &amp; Sons, Ltd.</copyright-holder></permissions></table-wrap><p>Tables <xref rid="joim20102-tbl-0002" ref-type="table">2</xref> and <xref rid="joim20102-tbl-0003" ref-type="table">3</xref> compare the prevalence of the relevant symptoms for the non‐hospitalized men and women in the long COVID and the no long COVID groups during the pre‐pandemic and pandemic periods, respectively. In the pre‐pandemic period, the prevalence of almost all the symptoms, except cognitive dysfunction and loss of smell/taste, was higher in the long COVID group than in the no long COVID group. A larger proportion of those in the long COVID group had healthcare contacts for any (one or more) of the relevant symptoms in the pre‐pandemic period, compared with the no long COVID group (57.6% vs. 36.3% for men and 71.6% vs. 50.4% for women). During the pandemic period, the difference was much more marked (88.8% vs. 41.6% for men and 92.9% vs. 55.9% for women). Similar results on symptom prevalence were seen in the hospitalized patients during the pandemic period (Table <xref rid="joim20102-supinfo-0001" ref-type="">S5</xref>).</p><table-wrap position="float" id="joim20102-tbl-0002" content-type="Table" orientation="portrait"><label>Table 2</label><caption><p>Period prevalence during the pre‐pandemic (2016–2019) period of the relevant symptoms in men and women who had not been hospitalized with a SARS‐CoV‐2 infection.</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="char" char="(" span="1"/><col align="char" char="(" span="1"/><col align="char" char="." span="1"/><col align="char" char="(" span="1"/><col align="char" char="(" span="1"/><col align="char" char="." span="1"/><thead><tr><th align="left" rowspan="2" colspan="1"/><th align="center" colspan="3" style="border-bottom:solid 1px #000000" rowspan="1">Men</th><th align="center" colspan="3" style="border-bottom:solid 1px #000000" rowspan="1">Women</th></tr><tr style="border-bottom:solid 1px #000000"><th align="center" rowspan="1" colspan="1">
+<p>Long COVID</p>
+<p>
+<italic toggle="yes">n</italic> = 2559</p>
+</th><th align="center" rowspan="1" colspan="1">
+<p>No long COVID</p>
+<p>
+<italic toggle="yes">n</italic> = 683,822</p>
+</th><th align="center" rowspan="1" colspan="1">
+<italic toggle="yes">p</italic>‐value</th><th align="center" rowspan="1" colspan="1">
+<p>Long COVID</p>
+<p>
+<italic toggle="yes">n</italic> = 5069</p>
+</th><th align="center" rowspan="1" colspan="1">
+<p>No long COVID</p>
+<p>
+<italic toggle="yes">n</italic> = 704,702</p>
+</th><th align="center" rowspan="1" colspan="1">
+<italic toggle="yes">p</italic>‐value</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">
+<bold>Any of the symptoms</bold>
+</td><td align="char" rowspan="1" colspan="1">1474 (57.6)</td><td align="char" rowspan="1" colspan="1">248,101 (36.3)</td><td align="char" rowspan="1" colspan="1">&lt;0.001</td><td align="char" rowspan="1" colspan="1">3631 (71.6)</td><td align="char" rowspan="1" colspan="1">355,411 (50.4)</td><td align="char" rowspan="1" colspan="1">&lt;0.001</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>Cardiopulmonary</bold>
+</td><td align="char" rowspan="1" colspan="1">795 (31.1)</td><td align="char" rowspan="1" colspan="1">121,017 (17.7)</td><td align="char" rowspan="1" colspan="1">&lt;0.001</td><td align="char" rowspan="1" colspan="1">1986 (39.2)</td><td align="char" rowspan="1" colspan="1">178,796 (25.4)</td><td align="char" rowspan="1" colspan="1">&lt;0.001</td></tr><tr><td align="left" rowspan="1" colspan="1">Dyspnea</td><td align="char" rowspan="1" colspan="1">188 (7.3)</td><td align="char" rowspan="1" colspan="1">30,938 (4.5)</td><td align="char" rowspan="1" colspan="1">&lt;0.001</td><td align="char" rowspan="1" colspan="1">499 (9.8)</td><td align="char" rowspan="1" colspan="1">45,562 (6.5)</td><td align="char" rowspan="1" colspan="1">&lt;0.001</td></tr><tr><td align="left" rowspan="1" colspan="1">Cough</td><td align="char" rowspan="1" colspan="1">641 (25.0)</td><td align="char" rowspan="1" colspan="1">90,328 (13.2)</td><td align="char" rowspan="1" colspan="1">&lt;0.001</td><td align="char" rowspan="1" colspan="1">1509 (29.8)</td><td align="char" rowspan="1" colspan="1">128,302 (18.2)</td><td align="char" rowspan="1" colspan="1">&lt;0.001</td></tr><tr><td align="left" rowspan="1" colspan="1">Palpitations</td><td align="char" rowspan="1" colspan="1">129 (5.0)</td><td align="char" rowspan="1" colspan="1">18,723 (2.7)</td><td align="char" rowspan="1" colspan="1">&lt;0.001</td><td align="char" rowspan="1" colspan="1">479 (9.4)</td><td align="char" rowspan="1" colspan="1">41,958 (6.0)</td><td align="char" rowspan="1" colspan="1">&lt;0.001</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>CNS</bold>
+</td><td align="char" rowspan="1" colspan="1">676 (26.4)</td><td align="char" rowspan="1" colspan="1">101,010 (14.8)</td><td align="char" rowspan="1" colspan="1">&lt;0.001</td><td align="char" rowspan="1" colspan="1">2116 (41.7)</td><td align="char" rowspan="1" colspan="1">184,035 (26.1)</td><td align="char" rowspan="1" colspan="1">&lt;0.001</td></tr><tr><td align="left" rowspan="1" colspan="1">Fatigue</td><td align="char" rowspan="1" colspan="1">492 (19.2)</td><td align="char" rowspan="1" colspan="1">62,171 (9.1)</td><td align="char" rowspan="1" colspan="1">&lt;0.001</td><td align="char" rowspan="1" colspan="1">1651 (32.6)</td><td align="char" rowspan="1" colspan="1">125,944 (17.9)</td><td align="char" rowspan="1" colspan="1">&lt;0.001</td></tr><tr><td align="left" rowspan="1" colspan="1">Cognitive dysfunction</td><td align="char" rowspan="1" colspan="1">15 (0.6)</td><td align="char" rowspan="1" colspan="1">5567 (0.8)</td><td align="char" rowspan="1" colspan="1">0.242</td><td align="char" rowspan="1" colspan="1">35 (0.7)</td><td align="char" rowspan="1" colspan="1">7100 (1.0)</td><td align="char" rowspan="1" colspan="1">0.029</td></tr><tr><td align="left" rowspan="1" colspan="1">Sleep disorder</td><td align="char" rowspan="1" colspan="1">271 (10.6)</td><td align="char" rowspan="1" colspan="1">45,023 (6.6)</td><td align="char" rowspan="1" colspan="1">&lt;0.001</td><td align="char" rowspan="1" colspan="1">791 (15.6)</td><td align="char" rowspan="1" colspan="1">78,657 (11.2)</td><td align="char" rowspan="1" colspan="1">&lt;0.001</td></tr><tr><td align="left" rowspan="1" colspan="1">Loss of smell/taste</td><td align="char" rowspan="1" colspan="1">4 (0.2)</td><td align="char" rowspan="1" colspan="1">979 (0.1)</td><td align="char" rowspan="1" colspan="1">1.000</td><td align="char" rowspan="1" colspan="1">12 (0.2)</td><td align="char" rowspan="1" colspan="1">1471 (0.2)</td><td align="char" rowspan="1" colspan="1">0.779</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>Pain</bold>
+</td><td align="char" rowspan="1" colspan="1">813 (31.8)</td><td align="char" rowspan="1" colspan="1">124,314 (18.2)</td><td align="char" rowspan="1" colspan="1">&lt;0.001</td><td align="char" rowspan="1" colspan="1">2192 (43.2)</td><td align="char" rowspan="1" colspan="1">187,182 (26.6)</td><td align="char" rowspan="1" colspan="1">&lt;0.001</td></tr><tr><td align="left" rowspan="1" colspan="1">Headache</td><td align="char" rowspan="1" colspan="1">264 (10.3)</td><td align="char" rowspan="1" colspan="1">35,863 (5.2)</td><td align="char" rowspan="1" colspan="1">&lt;0.001</td><td align="char" rowspan="1" colspan="1">926 (18.3)</td><td align="char" rowspan="1" colspan="1">68,835 (9.8)</td><td align="char" rowspan="1" colspan="1">&lt;0.001</td></tr><tr><td align="left" rowspan="1" colspan="1">Chest pain</td><td align="char" rowspan="1" colspan="1">327 (12.8)</td><td align="char" rowspan="1" colspan="1">49,723 (7.3)</td><td align="char" rowspan="1" colspan="1">&lt;0.001</td><td align="char" rowspan="1" colspan="1">647 (12.8)</td><td align="char" rowspan="1" colspan="1">53,799 (7.6)</td><td align="char" rowspan="1" colspan="1">&lt;0.001</td></tr><tr><td align="left" rowspan="1" colspan="1">Muscle/Joint pain</td><td align="char" rowspan="1" colspan="1">450 (17.6)</td><td align="char" rowspan="1" colspan="1">61,255 (9.0)</td><td align="char" rowspan="1" colspan="1">&lt;0.001</td><td align="char" rowspan="1" colspan="1">1357 (26.8)</td><td align="char" rowspan="1" colspan="1">109,333 (15.5)</td><td align="char" rowspan="1" colspan="1">&lt;0.001</td></tr></tbody></table><table-wrap-foot><fn id="joim20102-tbl2-note-0001"><p>
+<italic toggle="yes">Note</italic>: Data as <italic toggle="yes">n</italic> (%).</p></fn><fn id="joim20102-tbl2-note-0002"><p>Abbreviation: CNS, central nervous system.</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &amp; Sons, Ltd.</copyright-holder></permissions></table-wrap><table-wrap position="float" id="joim20102-tbl-0003" content-type="Table" orientation="portrait"><label>Table 3</label><caption><p>Period prevalence during the pandemic (2020–2023) period of the relevant symptoms in men and women who had not been hospitalized with a SARS‐CoV‐2 infection.</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="char" char="(" span="1"/><col align="char" char="(" span="1"/><col align="char" char="." span="1"/><col align="char" char="(" span="1"/><col align="char" char="(" span="1"/><col align="char" char="." span="1"/><thead><tr><th align="left" rowspan="2" colspan="1"/><th align="center" colspan="3" style="border-bottom:solid 1px #000000" rowspan="1">Men</th><th align="center" colspan="3" style="border-bottom:solid 1px #000000" rowspan="1">Women</th></tr><tr style="border-bottom:solid 1px #000000"><th align="center" rowspan="1" colspan="1">
+<p>Long COVID</p>
+<p>
+<italic toggle="yes">n</italic> = 2559</p>
+</th><th align="center" rowspan="1" colspan="1">
+<p>No long COVID</p>
+<p>
+<italic toggle="yes">n</italic> = 683,822</p>
+</th><th align="center" rowspan="1" colspan="1">
+<italic toggle="yes">p</italic>‐value</th><th align="center" rowspan="1" colspan="1">
+<p>Long COVID</p>
+<p>
+<italic toggle="yes">n</italic> = 5069</p>
+</th><th align="center" rowspan="1" colspan="1">
+<p>No long COVID</p>
+<p>
+<italic toggle="yes">n</italic> = 704,702</p>
+</th><th align="center" rowspan="1" colspan="1">
+<italic toggle="yes">p</italic>‐value</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">
+<bold>Any of the symptoms</bold>
+</td><td align="char" rowspan="1" colspan="1">2273 (88.8)</td><td align="char" rowspan="1" colspan="1">284,742 (41.6)</td><td align="char" rowspan="1" colspan="1">&lt;0.001</td><td align="char" rowspan="1" colspan="1">4710 (92.9)</td><td align="char" rowspan="1" colspan="1">393,794 (55.9)</td><td align="char" rowspan="1" colspan="1">&lt;0.001</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>Cardiopulmonary</bold>
+</td><td align="char" rowspan="1" colspan="1">1656 (64.7)</td><td align="char" rowspan="1" colspan="1">141,079 (20.6)</td><td align="char" rowspan="1" colspan="1">&lt;0.001</td><td align="char" rowspan="1" colspan="1">3485 (68.8)</td><td align="char" rowspan="1" colspan="1">201,846 (28.6)</td><td align="char" rowspan="1" colspan="1">&lt;0.001</td></tr><tr><td align="left" rowspan="1" colspan="1">Dyspnea</td><td align="char" rowspan="1" colspan="1">826 (32.3)</td><td align="char" rowspan="1" colspan="1">45,493 (6.7)</td><td align="char" rowspan="1" colspan="1">&lt;0.001</td><td align="char" rowspan="1" colspan="1">1866 (36.8)</td><td align="char" rowspan="1" colspan="1">63,395 (9.0)</td><td align="char" rowspan="1" colspan="1">&lt;0.001</td></tr><tr><td align="left" rowspan="1" colspan="1">Cough</td><td align="char" rowspan="1" colspan="1">1214 (47.4)</td><td align="char" rowspan="1" colspan="1">97,664 (14.3)</td><td align="char" rowspan="1" colspan="1">&lt;0.001</td><td align="char" rowspan="1" colspan="1">2419 (47.7)</td><td align="char" rowspan="1" colspan="1">135,316 (19.2)</td><td align="char" rowspan="1" colspan="1">&lt;0.001</td></tr><tr><td align="left" rowspan="1" colspan="1">Palpitations</td><td align="char" rowspan="1" colspan="1">301 (11.8)</td><td align="char" rowspan="1" colspan="1">23,411 (3.4)</td><td align="char" rowspan="1" colspan="1">&lt;0.001</td><td align="char" rowspan="1" colspan="1">1018 (20.1)</td><td align="char" rowspan="1" colspan="1">50,768 (7.2)</td><td align="char" rowspan="1" colspan="1">&lt;0.001</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>CNS</bold>
+</td><td align="char" rowspan="1" colspan="1">1504 (58.8)</td><td align="char" rowspan="1" colspan="1">137,190 (20.1)</td><td align="char" rowspan="1" colspan="1">&lt;0.001</td><td align="char" rowspan="1" colspan="1">3502 (69.1)</td><td align="char" rowspan="1" colspan="1">225,480 (32.0)</td><td align="char" rowspan="1" colspan="1">&lt;0.001</td></tr><tr><td align="left" rowspan="1" colspan="1">Fatigue</td><td align="char" rowspan="1" colspan="1">1259 (49.2)</td><td align="char" rowspan="1" colspan="1">85,728 (12.5)</td><td align="char" rowspan="1" colspan="1">&lt;0.001</td><td align="char" rowspan="1" colspan="1">2984 (58.9)</td><td align="char" rowspan="1" colspan="1">155,632 (22.1)</td><td align="char" rowspan="1" colspan="1">&lt;0.001</td></tr><tr><td align="left" rowspan="1" colspan="1">Cognitive dysfunction</td><td align="char" rowspan="1" colspan="1">46 (1.8)</td><td align="char" rowspan="1" colspan="1">10,124 (1.5)</td><td align="char" rowspan="1" colspan="1">0.214</td><td align="char" rowspan="1" colspan="1">88 (1.7)</td><td align="char" rowspan="1" colspan="1">11,898 (1.7)</td><td align="char" rowspan="1" colspan="1">0.835</td></tr><tr><td align="left" rowspan="1" colspan="1">Sleep disorder</td><td align="char" rowspan="1" colspan="1">490 (19.1)</td><td align="char" rowspan="1" colspan="1">60,608 (8.9)</td><td align="char" rowspan="1" colspan="1">&lt;0.001</td><td align="char" rowspan="1" colspan="1">1242 (24.5)</td><td align="char" rowspan="1" colspan="1">97,075 (13.8)</td><td align="char" rowspan="1" colspan="1">&lt;0.001</td></tr><tr><td align="left" rowspan="1" colspan="1">Loss of smell/taste</td><td align="char" rowspan="1" colspan="1">72 (2.8)</td><td align="char" rowspan="1" colspan="1">1977 (0.3)</td><td align="char" rowspan="1" colspan="1">&lt;0.001</td><td align="char" rowspan="1" colspan="1">165 (3.3)</td><td align="char" rowspan="1" colspan="1">2899 (0.4)</td><td align="char" rowspan="1" colspan="1">&lt;0.001</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>Pain</bold>
+</td><td align="char" rowspan="1" colspan="1">1172 (45.8)</td><td align="char" rowspan="1" colspan="1">129,430 (18.9)</td><td align="char" rowspan="1" colspan="1">&lt;0.001</td><td align="char" rowspan="1" colspan="1">2894 (57.1)</td><td align="char" rowspan="1" colspan="1">193,868 (27.5)</td><td align="char" rowspan="1" colspan="1">&lt;0.001</td></tr><tr><td align="left" rowspan="1" colspan="1">Headache</td><td align="char" rowspan="1" colspan="1">578 (22.6)</td><td align="char" rowspan="1" colspan="1">45,894 (6.7)</td><td align="char" rowspan="1" colspan="1">&lt;0.001</td><td align="char" rowspan="1" colspan="1">1708 (33.7)</td><td align="char" rowspan="1" colspan="1">89,264 (12.7)</td><td align="char" rowspan="1" colspan="1">&lt;0.001</td></tr><tr><td align="left" rowspan="1" colspan="1">Chest pain</td><td align="char" rowspan="1" colspan="1">547 (21.4)</td><td align="char" rowspan="1" colspan="1">56,515 (8.3)</td><td align="char" rowspan="1" colspan="1">&lt;0.001</td><td align="char" rowspan="1" colspan="1">1110 (21.9)</td><td align="char" rowspan="1" colspan="1">62,833 (8.9)</td><td align="char" rowspan="1" colspan="1">&lt;0.001</td></tr><tr><td align="left" rowspan="1" colspan="1">Muscle/Joint pain</td><td align="char" rowspan="1" colspan="1">458 (17.9)</td><td align="char" rowspan="1" colspan="1">50,141 (7.3)</td><td align="char" rowspan="1" colspan="1">&lt;0.001</td><td align="char" rowspan="1" colspan="1">1357 (26.8)</td><td align="char" rowspan="1" colspan="1">89,570 (12.7)</td><td align="char" rowspan="1" colspan="1">&lt;0.001</td></tr></tbody></table><table-wrap-foot><fn id="joim20102-tbl3-note-0001"><p>
+<italic toggle="yes">Note</italic>: Data as <italic toggle="yes">n</italic> (%).</p></fn><fn id="joim20102-tbl3-note-0002"><p>Abbreviation: CNS, central nervous system.</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &amp; Sons, Ltd.</copyright-holder></permissions></table-wrap><p>By contrast, differences in symptom prevalence in the pre‐pandemic period were less pronounced in the hospitalized patients (Table <xref rid="joim20102-supinfo-0001" ref-type="">S4</xref>), with the proportion of any symptom being only slightly higher in the long COVID group than the no long COVID group (62.6% vs. 60.6%, <italic toggle="yes">p</italic> = 0.394 for men; and 77.5% vs. 71.1%, <italic toggle="yes">p</italic> = 0.016 for women). Some symptoms were less prevalent in those who later developed long COVID. Findings were similar in the sensitivity analysis with long COVID ≥90 days after SARS‐CoV‐2 group (Tables <xref rid="joim20102-supinfo-0001" ref-type="">S6–S9</xref>).</p><p>Figs. <xref rid="joim20102-fig-0002" ref-type="fig">2</xref> and <xref rid="joim20102-fig-0003" ref-type="fig">3</xref> and Figs. <xref rid="joim20102-supinfo-0001" ref-type="">S1</xref> and <xref rid="joim20102-supinfo-0001" ref-type="">S2</xref> show the annual prevalence of the symptoms implicated in long COVID from 2016 to 2023 for the non‐hospitalized and hospitalized populations, respectively. For the non‐hospitalized population, the recorded prevalence of at least one of the symptoms overall and for each symptom category was markedly higher already during the pre‐pandemic period in the long COVID group, compared with the no long COVID group. From 2020, the annual prevalence of symptoms rose markedly in the long COVID group and then declined toward 2023. Among those in the no long COVID group, there was no corresponding rise in symptoms during 2020–2023, and the annual prevalence of recorded symptoms in the no long COVID group, accordingly, remained stable or decreased slightly. For the hospitalized population, the annual symptom prevalence of at least one symptom overall and for each symptom category was higher in the long COVID group than the no long COVID group during the pandemic period. By contrast, during the pre‐pandemic period, there was no marked difference between the long COVID group and no long COVID group for any of the symptom categories.</p><fig position="float" fig-type="Fig." id="joim20102-fig-0002" orientation="portrait"><label>Fig. 2</label><caption><p>Annual prevalence of any (one or more) of the relevant symptoms overall and in each symptom category in men (squares) and women (circles) not hospitalized with a SARS‐CoV‐2 infection, comparing the long COVID group (blue, solid lines) versus the no long COVID group (orange, dashed lines). The black vertical line marks the transition from the pre‐pandemic period into the pandemic period.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-5" orientation="portrait" xlink:href="JOIM-298-107-g006.jpg"/></fig><fig position="float" fig-type="Fig." id="joim20102-fig-0003" orientation="portrait"><label>Fig. 3</label><caption><p>Annual prevalence of the relevant symptoms in men (squares) and women (circles) not hospitalized with a SARS‐CoV‐2 infection, comparing the long COVID group (blue, solid lines) versus the no long COVID group (orange, dashed lines). The black vertical line marks the transition from the pre‐pandemic period into the pandemic period.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-7" orientation="portrait" xlink:href="JOIM-298-107-g002.jpg"/></fig><p>Table <xref rid="joim20102-supinfo-0001" ref-type="">S10</xref> shows the characteristics of the 60,092 individuals who died before the end of the study period. Of these, 220 (0.4%) had received a long COVID diagnosis.</p><p>Fig. <xref rid="joim20102-fig-0004" ref-type="fig">4</xref> shows that there was a temporal association between long COVID incidence and the number of new patients with SARS‐CoV‐2 infections. There were two periods of peak PCC incidence: one early during the period from December 2020 to July 2021 and one late during the period from January to May 2022. Comparing the areas of the bars, we see that the early period comprised considerably more individuals than the late period. After the beginning of 2023, there was a marked decrease in the number of new patients with a long COVID diagnosis and SARS‐CoV‐2 infection. There was also a decrease in the total number of healthcare contacts with a long COVID diagnosis during the same period.</p><fig position="float" fig-type="Fig." id="joim20102-fig-0004" orientation="portrait"><label>Fig. 4</label><caption><p>Number of healthcare contacts with a long COVID diagnosis per month (colored bars) and new patients with SARS‐CoV‐2 infection per month (black curved line) during the pandemic period. The red‐colored part of the bars represents the first time an individual patient is registered with a long COVID diagnosis. In other words, the red part of the bars represents the long COVID incidence.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-9" orientation="portrait" xlink:href="JOIM-298-107-g005.jpg"/></fig><p>During the pandemic period (2020–2023), there was a total of 73,116,874 healthcare contacts registered for our study population (Fig. <xref rid="joim20102-fig-0001" ref-type="fig">1</xref>). Of these, 62,211 (0.09%) were registered with a long COVID diagnosis. In the non‐hospitalized population, this amounted to a mean of 6.8 healthcare contacts per patient with long COVID diagnosis for women and 5.1 for men; the median number of healthcare contacts per patient was two for both men and women (Table <xref rid="joim20102-tbl-0004" ref-type="table">4</xref>). Almost all the healthcare contacts (96.8%) took place in a primary care setting, with 44.0% of the healthcare contacts with a physician and 42.6% with a physiotherapist or occupational therapist (Fig. <xref rid="joim20102-fig-0005" ref-type="fig">5</xref>). The mean number of overall healthcare contacts over the period 2020–2023 was higher in the long COVID group compared with the no long COVID group (Table <xref rid="joim20102-tbl-0005" ref-type="table">5</xref> and Table <xref rid="joim20102-supinfo-0001" ref-type="">S11</xref>). In the non‐hospitalized population, the long COVID group had 89% and 84% more healthcare contacts than the no long COVID group for men and women, respectively. After adjusting for age group, obesity, asthma, and anxiety, the long COVID group had an average of 100% (95% CI 93%–107%) more healthcare contacts than the no long COVID group for men and 87% (95% CI 83%–92%) more for women.</p><table-wrap position="float" id="joim20102-tbl-0004" content-type="Table" orientation="portrait"><label>Table 4</label><caption><p>Healthcare contacts with a long COVID diagnosis.</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><thead><tr><th align="left" rowspan="2" colspan="1"/><th align="center" colspan="2" style="border-bottom:solid 1px #000000" rowspan="1">Non‐hospitalized</th><th align="center" colspan="2" style="border-bottom:solid 1px #000000" rowspan="1">Hospitalized</th></tr><tr style="border-bottom:solid 1px #000000"><th align="center" rowspan="1" colspan="1">Men</th><th align="center" rowspan="1" colspan="1">Women</th><th align="center" rowspan="1" colspan="1">Men</th><th align="center" rowspan="1" colspan="1">Women</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">Healthcare contacts</td><td align="center" rowspan="1" colspan="1">12,984</td><td align="center" rowspan="1" colspan="1">34,673</td><td align="center" rowspan="1" colspan="1">8619</td><td align="center" rowspan="1" colspan="1">5935</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Mean per patient</td><td align="center" rowspan="1" colspan="1">5.1 (10.5)</td><td align="center" rowspan="1" colspan="1">6.8 (12.7)</td><td align="center" rowspan="1" colspan="1">9.5 (19.5)</td><td align="center" rowspan="1" colspan="1">9.0 (15.0)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Median per patient</td><td align="center" rowspan="1" colspan="1">2 (4)</td><td align="center" rowspan="1" colspan="1">2 (6)</td><td align="center" rowspan="1" colspan="1">3 (8)</td><td align="center" rowspan="1" colspan="1">3 (9)</td></tr></tbody></table><table-wrap-foot><fn id="joim20102-tbl4-note-0001"><p>
+<italic toggle="yes">Note</italic>: Data as <italic toggle="yes">n</italic>, mean (sd), median (upper quartile).</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &amp; Sons, Ltd.</copyright-holder></permissions></table-wrap><fig position="float" fig-type="Fig." id="joim20102-fig-0005" orientation="portrait"><label>Fig. 5</label><caption><p>Number of healthcare contacts with a long COVID diagnosis during the study period, by type of healthcare provider and care setting. Specialist outpatient stands for specialist outpatient clinic or hospital outpatient clinic.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-11" orientation="portrait" xlink:href="JOIM-298-107-g003.jpg"/></fig><table-wrap position="float" id="joim20102-tbl-0005" content-type="Table" orientation="portrait"><label>Table 5</label><caption><p>Number of healthcare contacts overall during 2020–2023 in the non‐hospitalized population.</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><thead><tr><th align="left" rowspan="2" colspan="1"/><th align="center" colspan="2" style="border-bottom:solid 1px #000000" rowspan="1">Men</th><th align="center" colspan="2" style="border-bottom:solid 1px #000000" rowspan="1">Women</th></tr><tr style="border-bottom:solid 1px #000000"><th align="left" rowspan="1" colspan="1">Long COVID</th><th align="center" rowspan="1" colspan="1">No long COVID</th><th align="center" rowspan="1" colspan="1">Long COVID</th><th align="center" rowspan="1" colspan="1">No long COVID</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">Healthcare contacts</td><td align="center" rowspan="1" colspan="1">204,117</td><td align="center" rowspan="1" colspan="1">28,816,906</td><td align="center" rowspan="1" colspan="1">547,805</td><td align="center" rowspan="1" colspan="1">41,365,340</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Mean per patient</td><td align="center" rowspan="1" colspan="1">79.8 (63.6)</td><td align="center" rowspan="1" colspan="1">42.1 (50.2)</td><td align="center" rowspan="1" colspan="1">108.1 (79.5)</td><td align="center" rowspan="1" colspan="1">58.7 (59.0)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Median per patient</td><td align="center" rowspan="1" colspan="1">61 (106)</td><td align="center" rowspan="1" colspan="1">26 (55)</td><td align="center" rowspan="1" colspan="1">89 (140)</td><td align="center" rowspan="1" colspan="1">41 (78)</td></tr></tbody></table><table-wrap-foot><fn id="joim20102-tbl5-note-0001"><p>
+<italic toggle="yes">Note</italic>: Data as <italic toggle="yes">n</italic>, mean (sd), median (upper quartile).</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &amp; Sons, Ltd.</copyright-holder></permissions></table-wrap><p>In the non‐hospitalized group, there was a modest correlation between depression and anxiety at baseline in both men and women (Figs. <xref rid="joim20102-supinfo-0001" ref-type="">S3</xref> and <xref rid="joim20102-supinfo-0001" ref-type="">S4</xref>). Fig. <xref rid="joim20102-fig-0006" ref-type="fig">6</xref> and Table <xref rid="joim20102-supinfo-0001" ref-type="">S12</xref> show that, in the non‐hospitalized group, having any of the relevant symptoms overall or in each symptom group pre‐pandemically was associated with receiving a long COVID diagnosis. Having any symptom resulted in an adjusted OR of 2.28 (95% CI 2.10–2.48) for men and 2.32 (95% CI 2.18–2.48) for women after adjusting for age group, obesity, asthma, and anxiety. The number of symptoms registered before the pandemic was also associated with receiving a long COVID diagnosis (Fig. <xref rid="joim20102-fig-0006" ref-type="fig">6</xref>, Table <xref rid="joim20102-supinfo-0001" ref-type="">S13</xref>), with having more than three symptoms resulting in an adjusted OR of 4.34 (95% CI 3.60–5.23) for men and 4.04 (95% CI 3.63–4.49) for women after adjusting for age group, obesity, asthma, and anxiety.</p><fig position="float" fig-type="Fig." id="joim20102-fig-0006" orientation="portrait"><label>Fig. 6</label><caption><p>Multivariable logistic regressions of the association between the occurrence of relevant symptoms pre‐pandemically (a) or the number of symptoms (b) and receiving a long COVID diagnosis. Only the non‐hospitalized population is included. Each regression includes the symptom or symptom group of interest along with age group, obesity, asthma, and anxiety; that is the fully adjusted model. Not having a symptom (a) or zero symptoms (b) was used as a reference. CI, confidence interval; CNS, central nervous system; OR, odds ratio.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-13" orientation="portrait" xlink:href="JOIM-298-107-g001.jpg"/></fig><p>Of note is that in the non‐hospitalized population, the long COVID group included a smaller proportion of very old individuals (&lt;2%) than the no long COVID group (5.5% of men and 7.9% of women). After adjusting for age, there were no significant differences in the prevalence of most baseline comorbidities, such as heart failure, atrial fibrillation, coronary heart disease, stroke, and chronic kidney disease, between the groups (Table <xref rid="joim20102-supinfo-0001" ref-type="">S14</xref>). By contrast, hypertension, asthma, obesity, depression, and anxiety at baseline were more often registered in the long COVID group than the no long COVID group, even after adjusting for age.</p></sec><sec id="joim20102-sec-0150"><title>Discussion</title><p>In this register‐based study with an almost complete coverage of all adults in a large Swedish region, we found that the period prevalence of long COVID was 0.6%. Most of the individuals with long COVID had not been hospitalized with a SARS‐CoV‐2 infection. Importantly, we found that, in the non‐hospitalized population, many of the relevant symptoms were already registered in the pre‐pandemic period in a considerably higher proportion of individuals in the long COVID group than in the no long COVID group. The presence of one or more of the relevant symptoms pre‐pandemically was associated with more than twofold odds of receiving a long COVID diagnosis, even after adjusting for confounders; and the more symptoms, the higher the odds. After the first few years of the pandemic period with an elevated level in the annual prevalence of the relevant symptoms and healthcare contacts for long COVID, 2023 showed a decrease in these numbers, possibly indicating recovery.</p><p>The proportion of patients with long COVID in the present study was within the lower range of estimates in previous reports, which have found numbers varying between 0.02% and 5% when long COVID was identified by ICD codes in electronic healthcare records [<xref rid="joim20102-bib-0011" ref-type="bibr">11</xref>, <xref rid="joim20102-bib-0012" ref-type="bibr">12</xref>, <xref rid="joim20102-bib-0013" ref-type="bibr">13</xref>, <xref rid="joim20102-bib-0014" ref-type="bibr">14</xref>, <xref rid="joim20102-bib-0015" ref-type="bibr">15</xref>, <xref rid="joim20102-bib-0016" ref-type="bibr">16</xref>]. As most studies report the number of individuals with long COVID in a population of SARS‐CoV‐2‐infected individuals, we should compare these figures with 1.2%, which was the proportion of individuals with long COVID ≥90 days after SARS‐CoV‐2. In line with earlier research, this study found more women than men in the long COVID group and that hospitalization, in particular severe acute SARS‐CoV‐2 infection, was associated with long COVID [<xref rid="joim20102-bib-0011" ref-type="bibr">11</xref>, <xref rid="joim20102-bib-0012" ref-type="bibr">12</xref>, <xref rid="joim20102-bib-0015" ref-type="bibr">15</xref>, <xref rid="joim20102-bib-0017" ref-type="bibr">17</xref>]. Individuals from the hospitalized population were more often men, older, and had more cardiovascular and metabolic comorbidities, which is in accordance with earlier studies [<xref rid="joim20102-bib-0011" ref-type="bibr">11</xref>, <xref rid="joim20102-bib-0012" ref-type="bibr">12</xref>, <xref rid="joim20102-bib-0017" ref-type="bibr">17</xref>].</p><p>Not many studies have been published on the prevalence of ICD‐10 codes of symptoms compatible with long COVID in the years before the pandemic. One study showed that patients with a confirmed SARS‐CoV‐2 infection had a slightly higher prevalence of symptoms in the years after the infection compared with before, without distinguishing between a long COVID and no long COVID group [<xref rid="joim20102-bib-0018" ref-type="bibr">18</xref>], which is in accordance with our findings. Our finding that relevant symptoms had a higher prevalence pre‐pandemically in non‐hospitalized patients with long COVID can be derived from the data presented in a recent study from Sweden that compared individuals with long COVID with matched controls prior to and following a SARS‐CoV‐2 infection [<xref rid="joim20102-bib-0015" ref-type="bibr">15</xref>]. Interestingly, the proportions of patients identified with prior diagnoses of the relevant symptoms in this recent study were considerably lower than in our study. Part of the explanation could be that this study specified symptom diagnoses with ICD‐10 codes to the third digit, whereas our study specifies some ICD‐10 codes only to the second digit and might therefore include more diagnoses. Another difference is the ICD‐10 codes used to define long COVID, where this study uses the codes U08.9 and U09.9, whereas we only used U09.9 because we considered U08.9 (personal history of COVID‐19, unspecified) not to be a diagnosis of long COVID. However, the main reason why we identified higher proportions of patients with the relevant symptoms is most likely that our study has data from primary care in addition to hospital and specialist outpatient care.</p><p>Even so, we found that the prevalence of loss of smell/taste and cognitive dysfunction was very low, which contrasts with previous studies [<xref rid="joim20102-bib-0019" ref-type="bibr">19</xref>, <xref rid="joim20102-bib-0020" ref-type="bibr">20</xref>]. Likely, using ICD‐10 codes for identifying these symptoms results in a considerable underestimation. A recent study showed low sensitivity for capturing symptoms compatible with long COVID from ICD‐10 codes, in particular cognitive dysfunction [<xref rid="joim20102-bib-0021" ref-type="bibr">21</xref>]. Moreover, symptoms compatible with long COVID do not translate seamlessly to corresponding ICD‐10 codes. For example, post‐exertional malaise, which is a common symptom in patients with long COVID and described as different from regular fatigue [<xref rid="joim20102-bib-0022" ref-type="bibr">22</xref>], has, in our and in one other study [<xref rid="joim20102-bib-0017" ref-type="bibr">17</xref>], been included in the fatigue ICD‐10 code since there is no separate ICD‐10 code for this symptom. This might decrease the specificity of the symptom.</p><p>A Scottish study, in which participants were asked about symptoms experienced after a SARS‐CoV‐2 infection, found a higher prevalence than in our study but also found that many symptoms were common in the never‐infected individuals [<xref rid="joim20102-bib-0023" ref-type="bibr">23</xref>]. In our study, about one out of every two patients in the no long COVID group had at least one of the important symptoms during the pre‐pandemic period, with a slight increase during the pandemic period. That is, the occurrence of any of the relevant symptoms was common in the general population and not specific for long COVID.</p><p>The choice of symptoms to include in this study was based on expert opinion from the WHO (these were the symptoms that were identified as important to the clinical case definition of long COVID by more than 50% of the participants of the WHO Delphi consensus process). However, the importance of these symptoms has been contested by a study from the Netherlands with 76,422 participants, which empirically identified another set of 10 core symptoms (ageusia or anosmia, difficulties with breathing, chest pain, general tiredness, painful muscles, pain when breathing, lump in throat, heavy arms or legs, tingling extremities, and feeling hot and cold alternately) [<xref rid="joim20102-bib-0024" ref-type="bibr">24</xref>]. Five of these symptoms were included in the present study, whereas the remaining five had no ICD‐10 codes and were therefore beyond the scope of this study. Interestingly, general tiredness, rather than post‐exertional malaise, was identified as a core symptom.</p><p>The finding in the non‐hospitalized population that individuals in the long COVID group were more likely than individuals in the no long COVID group to have healthcare contacts for symptoms compatible with long COVID before the pandemic could indicate that individuals in the non‐hospitalized long COVID group are more vulnerable and thus more susceptible to suffering from many of the relevant symptoms due to other causes than the sequelae of a SARS‐CoV‐2 infection. This finding stands in agreement with a study from England showing that individuals with long COVID had more healthcare contacts than matched controls already in 2019 [<xref rid="joim20102-bib-0025" ref-type="bibr">25</xref>]. Interestingly, there was no clear difference in symptom prevalence pre‐pandemically in the hospitalized population, suggesting that hospitalized and non‐hospitalized individuals with long COVID likely represent different phenotypes.</p><p>The considerable overlap in symptom profiles between long COVID and encephalomyelitis/chronic fatigue syndrome is of note. It has been proposed that there could be a common etiopathogenesis for these post‐acute infectious syndromes [<xref rid="joim20102-bib-0026" ref-type="bibr">26</xref>]. A recent review article on post‐viral syndrome sheds light on our knowledge of persistent symptoms of pain, fatigue, and sleep disturbance after SARS‐CoV‐2 infection as well as other viral infections that were present before the SARS‐CoV‐2 pandemic, such as influenza B, Ebola, chikungunya, dengue, SARS, tick‐borne encephalitis, human immunodeficiency virus, polio, and varicella zoster virus [<xref rid="joim20102-bib-0027" ref-type="bibr">27</xref>]. The authors concluded that much remains unknown regarding the pathophysiology of post‐viral syndromes and that there is a need for improved understanding of post‐viral illness and how to help people cope with the sequelae.</p><p>The sensitivity analysis of the patients with long COVID ≥90 days after SARS‐CoV‐2 infection compared with patients who had a confirmed SARS‐CoV‐2 infection but no long COVID diagnosis 90 days after infection reproduced the above‐mentioned findings quite accurately. Although this study is not a validation study of the ICD‐10 code for long COVID, it contributes to the validity of the diagnosis. It should be noted that the WHO definition does not require a confirmed diagnosis of an acute SARS‐CoV‐2 infection, and it has been shown in an earlier study that symptom patterns are similar in patients with long COVID regardless of a prior infection [<xref rid="joim20102-bib-0002" ref-type="bibr">2</xref>]. There could be several reasons as to why there has been no registered SARS‐CoV‐2 infection for a patient with a long COVID diagnosis, such as a positive self‐test at home without a healthcare contact, a positive test outside of the Region Västra Götaland, a confirmed diagnosis in a family member, or symptoms compatible with a SARS‐CoV‐2 infection without a positive test.</p><p>In this study, we found two periods of peak long COVID incidence. The late long COVID period lasted for a shorter time and comprised fewer patients despite the preceding incidence peak of SARS‐CoV‐2 infections being higher. The reasons for this could be a decreasing trend of incident long COVID but also that the condition became less debilitating over time through increasing population immunity and the introduction of vaccines. COVID vaccination, starting in Sweden in December 2020, is a likely reason for the diminishing impact and incidence of long COVID [<xref rid="joim20102-bib-0028" ref-type="bibr">28</xref>], enhanced by repeated injections, as more doses result in lower risk for long COVID [<xref rid="joim20102-bib-0029" ref-type="bibr">29</xref>]. By December 2021, more than 2.9 million doses of vaccine had been administered in the Region Västra Götaland [<xref rid="joim20102-bib-0030" ref-type="bibr">30</xref>]. Thus, one of the major differences between individuals from the early and late long COVID incidence periods in our study was the vaccination coverage. Other factors could be differences depending on the strain of coronavirus causing the initial infection, with more recent strains having lower risk for debilitating long COVID [<xref rid="joim20102-bib-0031" ref-type="bibr">31</xref>]. Moreover, the healthcare system may have become more efficient over time at taking care of this group of patients. These topics are areas for future research.</p><p>Even though our study likely underestimates the actual long COVID prevalence in the population, it does account for the long COVID cases severe enough to have resulted in a healthcare contact. Moreover, healthcare contacts for the relevant symptoms did not increase beyond the baseline level in the no long COVID group, which indicates that few underdiagnosed patients with long COVID are hidden in the no long COVID group.</p><p>In this study, we found that the average number of overall healthcare contacts in the long COVID group was approximately twice that of the no long COVID group. Although the difference in our study was larger, it is in accordance with recent studies showing that individuals with long COVID have more overall healthcare utilization than matched controls [<xref rid="joim20102-bib-0012" ref-type="bibr">12</xref>, <xref rid="joim20102-bib-0025" ref-type="bibr">25</xref>]. Although long COVID provides an extra burden to the healthcare system, we also see that the annual prevalence of relevant symptoms, the monthly number of healthcare contacts for long COVID, and the number of new patients with this diagnosis are all declining. Therefore, if this trend continues, the impact of long COVID on the Swedish healthcare system will be limited.</p><p>A strength of this study is that it has nearly complete (&gt;99%) coverage of the population from a large region in Sweden, with comprehensive data from all healthcare providers in the region, both public and private, with individual‐level data spanning several years preceding as well as following the start of the COVID‐19 pandemic. The fact that the overwhelming number of contacts for long COVID occurred in primary care emphasizes the importance of including data from primary care when studying long COVID. However, there are also several limitations, such as, for example, that data on socio‐economic status was not available in this dataset, which has been shown in earlier studies to be associated with long COVID [<xref rid="joim20102-bib-0011" ref-type="bibr">11</xref>, <xref rid="joim20102-bib-0023" ref-type="bibr">23</xref>].</p><p>One of the limitations of this study is the lack of information on how long the individuals had been residing in the Region Västra Götaland. Migration into and out of the region could thus not be considered. Moreover, there was no adjustment for the reduced follow‐up time for individuals who died during the period. Furthermore, because the long COVID group was defined without taking the exact time of diagnosis into account, the annual prevalences of symptoms will to some extent include individuals who at that time do not have a long COVID diagnosis in the denominator. Thus, the results from the pandemic period need to be interpreted with some caution. The data on annual prevalences show how common the symptoms are from the perspective of the healthcare system. We decided to use the same fixed denominator in both the pandemic and pre‐pandemic periods, the rationale being that we are comparing individuals who belong to either the long COVID group or no long COVID group, rather than individuals who already have been diagnosed with long COVID with those who have not.</p><p>A general limitation of using the ICD‐10 code U09.9 to identify long COVID is that it has not been validated in a Swedish setting. Although the sensitivity and specificity of the ICD‐10 code U09.9 for the identification of long COVID has been questioned in studies from the United States [<xref rid="joim20102-bib-0017" ref-type="bibr">17</xref>, <xref rid="joim20102-bib-0021" ref-type="bibr">21</xref>], one study from Northern Denmark demonstrated that the U09.9 code had a high positive predictive value for long COVID and concluded it to be suitable for future registry‐based studies [<xref rid="joim20102-bib-0032" ref-type="bibr">32</xref>].</p><p>In conclusion, many of the relevant symptoms in long COVID were more prevalent in the long COVID group than in the no long COVID group during the pandemic. Although being registered with any of the symptoms was quite common in the population at large, there was a considerable correlation between having had a healthcare contact for any of the symptoms and later receiving a diagnosis of long COVID in the non‐hospitalized population. The number of healthcare contacts for long COVID in the Swedish healthcare system has been manageable. Although long COVID can significantly impact the quality of life for some individuals, the impact of long COVID on the healthcare system is declining, as evidenced by the decline in long COVID incidence and annual prevalence in symptoms relevant to long COVID.</p></sec><sec id="joim20102-sec-0160"><title>Author contributions</title><p>Vincent Lak and Annika Rosengren conceptualized the study. Vincent Lak, Annika Rosengren, Helen Sjöland, and Martin Adiels contributed to the data curation. Vincent Lak performed the formal analysis, producing the tables and figures and statistical analyses. Vincent Lak conducted literature search and wrote the original draft of the report, and Annika Rosengren provided supervision. Martin Adiels verified the underlying data. All authors provided critical review and commentary and contributed to the revision of the article manuscript. All authors had access to the underlying data and accept the responsibility to submit.</p></sec><sec sec-type="COI-statement" id="joim20102-sec-0180"><title>Conflict of interest statement</title><p>The authors declare no conflicts of interest.</p></sec><sec id="joim20102-sec-0190"><title>Funding information</title><p>This work was supported by grants from the Swedish state under an agreement between the Swedish government and the county councils (ALF agreement) ALFGBG‐966211 (A.R.), ALFGBG‐942707 (J.R.), ALFGBG‐971608 (M.L.), ALFGBG‐943008 (H.S.), ALFGBG‐1006439 and The Swedish Research Council [VRREG 2019‐00193, 2020–05792, 2021–06525, 2023‐02144] (A.R.), the Swedish Heart and Lung Foundation 2021‐0345 and 2024‐0678 (A.R.), the Swedish Research Council for Health, Working Life and Welfare (2021‐00304) (M.Å.). The funders had no role in any aspect of the study design, data collection, analysis and interpretation of data, or writing of the report.</p></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material id="joim20102-supinfo-0001" position="float" content-type="local-data" orientation="portrait"/><supplementary-material id="joim20102-supitem-0001" position="float" content-type="local-data" orientation="portrait"><caption><p>
+<bold>Table S1</bold>. Categorization of important PCC symptoms, the naming of symptoms in this study and the corresponding WHO symptom names and ICD‐10 codes.</p><p>
+<bold>Table S2</bold>. ICD‐10 codes for baseline comorbidities.</p><p>
+<bold>Table S3</bold>. Baseline characteristics of men and women who had been hospitalized with a SARS‐CoV‐2 infection, and number of patients hospitalized with severe infection.</p><p>
+<bold>Table S4</bold>. Period prevalence during the pre‐pandemic (2016‐2019) period of the relevant symptoms in men and women who had been hospitalized with a SARS‐CoV‐2 infection.</p><p>
+<bold>Table S5</bold>. Period prevalence during the pandemic (2020‐2023) period of the relevant symptoms in men and women who had been hospitalized with a SARS‐CoV‐2 infection.</p><p>
+<bold>Table S6</bold>. Period prevalence during the pre‐pandemic (2016‐2019) period of the relevant symptoms in men and women with a record of an acute SARS‐CoV‐2 infection who had not been hospitalized with a SARS‐CoV‐2 infection comparing the long COVID ≥ 90 days after group with the no long COVID ≥ 90 days after group.</p><p>
+<bold>Table S7</bold>. Period prevalence during the pandemic (2020‐2023) period of the relevant symptoms in men and women with a record of an acute SARS‐CoV‐2 infection who had not been hospitalized with a SARS‐CoV‐2 infection comparing the long COVID ≥ 90 days after group with the no long COVID ≥ 90 days after group.</p><p>
+<bold>Table S8</bold>. Period prevalence during the pre‐pandemic (2016‐2019) period of the relevant symptoms in men and women with a record of an acute SARS‐CoV‐2 infection who had been hospitalized with a SARS‐CoV‐2 infection comparing the long COVID ≥ 90 days after group with the no long COVID ≥ 90 days after group.</p><p>
+<bold>Table S9</bold>. Period prevalence during the pandemic (2020‐2023) period of the relevant symptoms in men and women with a record of an acute SARS‐CoV‐2 infection who had been hospitalized with a SARS‐CoV‐2 infection comparing the long COVID ≥ 90 days after group with the no long COVID ≥ 90 days after group.</p><p>
+<bold>Table S10</bold>. Characteristics of the individuals who died before the end of the study period.</p><p>
+<bold>Table S11</bold>. Number of healthcare contacts overall during 2020‐2023 in the hospitalized population.</p><p>
+<bold>Table S12</bold>. Adjusted OR from logistic regression models of association between occurrence of symptoms pre‐pandemically and receiving a long COVID diagnosis in men and women in the non‐hospitalized population. Univariate model and the multivariable models are used. The multivariable models include age group, obesity, asthma and anxiety in addition to the symptom of interest.</p><p>
+<bold>Table S13</bold>. Adjusted OR from logistic regression models of association between number of symptoms pre‐pandemically and receiving a long COVID diagnosis in men and women in the non‐hospitalized population. Number of symptoms was categorized into zero, one, two, three and more than three symptoms. Having zero symptoms was used as reference. Univariate model and the multivariable models are used. The multivariable models include age group, obesity, asthma and anxiety in addition to the number of symptoms.</p><p>
+<bold>Table S14</bold>. Odds ratios (OR) and 95% confidence intervals (CI) for baseline comorbidities using logistic regression with no Long COVID as reference. The unadjusted odds ratio is derived from a univariate model. The adjusted model is a bivariate model with age added as a dependent variable.</p><p>
+<bold>Figure S1</bold>. Annual prevalence of any (one or more) of the important symptoms overall and in each symptom category in men (squares) and women (circles) hospitalized with a SARS‐CoV‐2 infection, comparing the long COVID group (blue, solid lines) vs the no long COVID group (orange, dashed lines). The black vertical line marks the transition from the pre‐pandemic period into the pandemic period.</p><p>
+<bold>Figure S2</bold>. Annual prevalence of the important symptoms in men (squares) and women (circles) hospitalized with a SARS‐CoV‐2 infection, comparing the long COVID group (blue, solid lines) vs the no long COVID group (orange, dashed lines). The black vertical line marks the transition from the pre‐pandemic period into the pandemic period.</p><p>
+<bold>Figure S3</bold>. Correlation matrix of the baseline comorbidities with a count of 100 or more individuals in the long COVID group that had statistically significant difference in prevalence compared with the no long COVID group in both men and women. The plot looks identical for men and women. Size and color of the circles corresponds to the magnitude of the correlation (larger and darker color represents a stronger correlation).</p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="JOIM-298-107-s001.docx" position="float" orientation="portrait"/></supplementary-material></sec></body><back><ack id="joim20102-sec-0170"><title>Acknowledgments</title><p>We thank the Swedish Research Council, the Swedish Heart and Lung Foundation, ALF agreement for the opportunity to perform this study.</p></ack><sec sec-type="data-availability" id="joim20102-sec-0210"><title>Data availability statement</title><p>Data are available from the VEGA database on request to the data providers, fulfilling legal and regulatory requirements and with permission from the Swedish Ethical Review Authority [<xref rid="joim20102-bib-0009" ref-type="bibr">9</xref>].</p></sec><ref-list id="joim20102-bibl-0001"><title>References</title><ref id="joim20102-bib-0001"><label>1</label><mixed-citation publication-type="journal" id="joim20102-cite-0002">
+<string-name name-style="western">
+<surname>Soriano</surname>
+<given-names>JB</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Murthy</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Marshall</surname>
+<given-names>JC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Relan</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Diaz</surname>
+<given-names>JV</given-names>
+</string-name>, <article-title>Condition WHOCCDWGoP‐C‐. A clinical case definition of post‐COVID‐19 condition by a Delphi consensus</article-title>. <source>Lancet Infect Dis.</source>
+<year>2022</year>;<volume>22</volume>:<fpage>e102</fpage>–<lpage>e107</lpage>.<pub-id pub-id-type="pmid">34951953</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/S1473-3099(21)00703-9</pub-id><pub-id pub-id-type="pmcid">PMC8691845</pub-id></mixed-citation></ref><ref id="joim20102-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="joim20102-cite-0003">
+<string-name name-style="western">
+<surname>Davis</surname>
+<given-names>HE</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Assaf</surname>
+<given-names>GS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>McCorkell</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wei</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Low</surname>
+<given-names>RJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Re'em</surname>
+<given-names>Y</given-names>
+</string-name>, et al. <article-title>Characterizing long COVID in an international cohort: 7 months of symptoms and their impact</article-title>. <source>EClinicalMedicine.</source>
+<year>2021</year>;<volume>38</volume>:<elocation-id>101019</elocation-id>.<pub-id pub-id-type="pmid">34308300</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.eclinm.2021.101019</pub-id><pub-id pub-id-type="pmcid">PMC8280690</pub-id></mixed-citation></ref><ref id="joim20102-bib-0003"><label>3</label><mixed-citation publication-type="book" id="joim20102-cite-0004">
+<collab collab-type="authors">Socialstyrelsen. (2021, April)</collab>
+. <article-title>
+Statistik om tillstånd efter covid‐19
+</article-title>. <publisher-loc>Stockholm</publisher-loc>: <publisher-name>Socialstyrelsen</publisher-name>. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.socialstyrelsen.se/globalassets/sharepoint-dokument/artikelkatalog/ovrigt/2021-4-7353.pdf" ext-link-type="uri">https://www.socialstyrelsen.se/globalassets/sharepoint‐dokument/artikelkatalog/ovrigt/2021–4–7353.pdf</ext-link>.</mixed-citation></ref><ref id="joim20102-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="joim20102-cite-0005">
+<string-name name-style="western">
+<surname>Greenhalgh</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sivan</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Perlowski</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Nikolich</surname>
+<given-names>JZ</given-names>
+</string-name>. <article-title>Long COVID: a clinical update</article-title>. <source>Lancet.</source>
+<year>2024</year>;<volume>404</volume>:<fpage>707</fpage>–<lpage>724</lpage>.<pub-id pub-id-type="pmid">39096925</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/S0140-6736(24)01136-X</pub-id></mixed-citation></ref><ref id="joim20102-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="joim20102-cite-0006">
+<string-name name-style="western">
+<surname>Di Gennaro</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Belati</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tulone</surname>
+<given-names>O</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Diella</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Fiore Bavaro</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bonica</surname>
+<given-names>R</given-names>
+</string-name>, et al. <article-title>Incidence of long COVID‐19 in people with previous SARS‐Cov2 infection: a systematic review and meta‐analysis of 120,970 patients</article-title>. <source>Intern Emerg Med.</source>
+<year>2023</year>;<volume>18</volume>:<fpage>1573</fpage>–<lpage>1581</lpage>.<pub-id pub-id-type="pmid">36449260</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s11739-022-03164-w</pub-id><pub-id pub-id-type="pmcid">PMC9709360</pub-id></mixed-citation></ref><ref id="joim20102-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="joim20102-cite-0007">
+<collab collab-type="authors">Global Burden of Disease Long CC</collab>
+, <string-name name-style="western">
+<surname>Wulf Hanson</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Abbafati</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Aerts</surname>
+</string-name>
+<string-name name-style="western">
+<given-names>JG</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Al‐Aly</surname>
+<given-names>Z</given-names>
+</string-name>., <string-name name-style="western">
+<surname>Ashbaugh</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ballouz</surname>
+<given-names>T</given-names>
+</string-name>, et al. <article-title>Estimated global proportions of individuals with persistent fatigue, cognitive, and respiratory symptom clusters following symptomatic COVID‐19 in 2020 and 2021</article-title>. <source>JAMA.</source>
+<year>2022</year>;<volume>328</volume>:<fpage>1604</fpage>–<lpage>1615</lpage>.<pub-id pub-id-type="pmid">36215063</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1001/jama.2022.18931</pub-id><pub-id pub-id-type="pmcid">PMC9552043</pub-id></mixed-citation></ref><ref id="joim20102-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="joim20102-cite-0008">
+<string-name name-style="western">
+<surname>Pike</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kompaniyets</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lindley</surname>
+<given-names>MC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Saydah</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Miller</surname>
+<given-names>G</given-names>
+</string-name>. <article-title>Direct medical costs associated with post‐COVID‐19 conditions among privately insured children and adults</article-title>. <source>Prev Chronic Dis.</source>
+<year>2023</year>;<volume>20</volume>:<fpage>E06</fpage>.<pub-id pub-id-type="pmid">36757854</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.5888/pcd20.220292</pub-id><pub-id pub-id-type="pmcid">PMC9923935</pub-id></mixed-citation></ref><ref id="joim20102-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="joim20102-cite-0009">
+<string-name name-style="western">
+<surname>Tene</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bergroth</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Eisenberg</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>David</surname>
+<given-names>SSB</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chodick</surname>
+<given-names>G</given-names>
+</string-name>. <article-title>Risk factors, health outcomes, healthcare services utilization, and direct medical costs of patients with long COVID</article-title>. <source>Int J Infect Dis.</source>
+<year>2023</year>;<volume>128</volume>:<fpage>3</fpage>–<lpage>10</lpage>.<pub-id pub-id-type="pmid">36529373</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.ijid.2022.12.002</pub-id></mixed-citation></ref><ref id="joim20102-bib-0009"><label>9</label><mixed-citation publication-type="book" id="joim20102-cite-0010">
+<collab collab-type="authors">Region Västra Götaland</collab>
+. <article-title>
+Beställa statistik och data
+</article-title>. <publisher-loc>Vänersborg</publisher-loc>: <publisher-name>Region Västra Götaland</publisher-name>. Retrieved January 4, 2024. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.vgregion.se/statistik-analysportalen/bestalla-statistik-och-data/" ext-link-type="uri">https://www.vgregion.se/statistik‐analysportalen/bestalla‐statistik‐och‐data/</ext-link>.</mixed-citation></ref><ref id="joim20102-bib-0010"><label>10</label><mixed-citation publication-type="book" id="joim20102-cite-0011">
+<collab collab-type="authors">Statistics Sweden</collab>
+. <article-title>
+Population statistics
+</article-title>. <publisher-loc>Örebro</publisher-loc>: <publisher-name>Statistics Sweden</publisher-name>. Retrieved February 5, 2024. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.scb.se/hitta-statistik/statistik-efter-amne/befolkning-och-levnadsforhallanden/" ext-link-type="uri">https://www.scb.se/hitta‐statistik/statistik‐efter‐amne/befolkning‐och‐levnadsforhallanden/</ext-link>.</mixed-citation></ref><ref id="joim20102-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="joim20102-cite-0012">
+<string-name name-style="western">
+<surname>Bygdell</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Leach</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lundberg</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gyll</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Martikainen</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Santosa</surname>
+<given-names>A</given-names>
+</string-name>, et al. <article-title>A comprehensive characterization of patients diagnosed with post‐COVID‐19 condition in Sweden 16 months after the introduction of the International Classification of Diseases Tenth Revision diagnosis code (U09.9): a population‐based cohort study</article-title>. <source>Int J Infect Dis.</source>
+<year>2023</year>;<volume>126</volume>:<fpage>104</fpage>–<lpage>113</lpage>.<pub-id pub-id-type="pmid">36410693</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.ijid.2022.11.021</pub-id><pub-id pub-id-type="pmcid">PMC9678230</pub-id></mixed-citation></ref><ref id="joim20102-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="joim20102-cite-0013">
+<string-name name-style="western">
+<surname>Hedberg</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Granath</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bruchfeld</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Askling</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sjöholm</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Fored</surname>
+<given-names>M</given-names>
+</string-name>, et al. <article-title>Post COVID‐19 condition diagnosis: a population‐based cohort study of occurrence, associated factors, and healthcare use by severity of acute infection</article-title>. <source>J Intern Med.</source>
+<year>2023</year>;<volume>293</volume>:<fpage>246</fpage>–<lpage>258</lpage>.<pub-id pub-id-type="pmid">36478477</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/joim.13584</pub-id><pub-id pub-id-type="pmcid">PMC9877994</pub-id></mixed-citation></ref><ref id="joim20102-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="joim20102-cite-0014">
+<string-name name-style="western">
+<surname>Henderson</surname>
+<given-names>AD</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Butler‐Cole</surname>
+<given-names>BF</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tazare</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tomlinson</surname>
+<given-names>LA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Marks</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jit</surname>
+<given-names>M</given-names>
+</string-name>, et al. <article-title>Clinical coding of long COVID in primary care 2020–2023 in a cohort of 19 million adults: an OpenSAFELY analysis</article-title>. <source>EClinicalMedicine.</source>
+<year>2024</year>;<volume>72</volume>:<elocation-id>102638</elocation-id>.<pub-id pub-id-type="pmid">38800803</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.eclinm.2024.102638</pub-id><pub-id pub-id-type="pmcid">PMC11127160</pub-id></mixed-citation></ref><ref id="joim20102-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="joim20102-cite-0015">
+<string-name name-style="western">
+<surname>Jeffrey</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Woolford</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Maini</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Basetti</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Batchelor</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Weatherill</surname>
+<given-names>D</given-names>
+</string-name>, et al. <article-title>Prevalence and risk factors for long COVID among adults in Scotland using electronic health records: a national, retrospective, observational cohort study</article-title>. <source>EClinicalMedicine.</source>
+<year>2024</year>;<volume>71</volume>:<elocation-id>102590</elocation-id>.<pub-id pub-id-type="pmid">38623399</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.eclinm.2024.102590</pub-id><pub-id pub-id-type="pmcid">PMC11016856</pub-id></mixed-citation></ref><ref id="joim20102-bib-0015"><label>15</label><mixed-citation publication-type="journal" id="joim20102-cite-0016">
+<string-name name-style="western">
+<surname>Ollila</surname>
+<given-names>HM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Fonseca‐Rodríguez</surname>
+<given-names>O</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Caspersen</surname>
+<given-names>IH</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kalucza</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Normark</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Trogstad</surname>
+<given-names>L</given-names>
+</string-name>, et al. <article-title>How do clinicians use post‐COVID syndrome diagnosis? Analysis of clinical features in a Swedish COVID‐19 cohort with 18 months follow‐up: a national observational cohort and matched cohort study</article-title>. <source>BMJ Public Health.</source>
+<year>2024</year>;<volume>2</volume>:<elocation-id>e000336</elocation-id>.<pub-id pub-id-type="pmid">40018228</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1136/bmjph-2023-000336</pub-id><pub-id pub-id-type="pmcid">PMC11816610</pub-id></mixed-citation></ref><ref id="joim20102-bib-0016"><label>16</label><mixed-citation publication-type="journal" id="joim20102-cite-0017">
+<string-name name-style="western">
+<surname>Wander</surname>
+<given-names>PL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Baraff</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Fox</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cho</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Maripuri</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Honerlaw</surname>
+<given-names>JP</given-names>
+</string-name>, et al. <article-title>Rates of ICD‐10 code U09.9 documentation and clinical characteristics of VA patients with post‐COVID‐19 condition</article-title>. <source>JAMA Netw Open.</source>
+<year>2023</year>;<volume>6</volume>:<elocation-id>e2346783</elocation-id>.<pub-id pub-id-type="pmid">38064215</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1001/jamanetworkopen.2023.46783</pub-id><pub-id pub-id-type="pmcid">PMC10709773</pub-id></mixed-citation></ref><ref id="joim20102-bib-0017"><label>17</label><mixed-citation publication-type="journal" id="joim20102-cite-0018">
+<string-name name-style="western">
+<surname>Fung</surname>
+<given-names>KW</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Baye</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Baik</surname>
+<given-names>SH</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zheng</surname>
+<given-names>Z</given-names>
+</string-name>, <string-name name-style="western">
+<surname>McDonald</surname>
+<given-names>CJ</given-names>
+</string-name>. <article-title>Prevalence and characteristics of long COVID in elderly patients: an observational cohort study of over 2 million adults in the US</article-title>. <source>PLoS Med.</source>
+<year>2023</year>;<volume>20</volume>:<elocation-id>e1004194</elocation-id>.<pub-id pub-id-type="pmid">37068113</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1371/journal.pmed.1004194</pub-id><pub-id pub-id-type="pmcid">PMC10150975</pub-id></mixed-citation></ref><ref id="joim20102-bib-0018"><label>18</label><mixed-citation publication-type="journal" id="joim20102-cite-0019">
+<string-name name-style="western">
+<surname>Butler</surname>
+<given-names>MJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chiuzan</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ahn</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gao</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>D'Angelo</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Yeh</surname>
+<given-names>J</given-names>
+</string-name>, et al. <article-title>Before and after COVID‐19: changes in symptoms and diagnoses in 13,033 adults</article-title>. <source>PLoS ONE.</source>
+<year>2024</year>; <volume>19</volume>: <elocation-id>e0286371</elocation-id>.<pub-id pub-id-type="pmid">38457409</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1371/journal.pone.0286371</pub-id><pub-id pub-id-type="pmcid">PMC10923490</pub-id></mixed-citation></ref><ref id="joim20102-bib-0019"><label>19</label><mixed-citation publication-type="journal" id="joim20102-cite-0020">
+<string-name name-style="western">
+<surname>Ceban</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ling</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lui</surname>
+<given-names>LMW</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lee</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gill</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Teopiz</surname>
+<given-names>KM</given-names>
+</string-name>, et al. <article-title>Fatigue and cognitive impairment in post‐COVID‐19 syndrome: a systematic review and meta‐analysis</article-title>. <source>Brain Behav Immun.</source>
+<year>2022</year>;<volume>101</volume>:<fpage>93</fpage>–<lpage>135</lpage>.<pub-id pub-id-type="pmid">34973396</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.bbi.2021.12.020</pub-id><pub-id pub-id-type="pmcid">PMC8715665</pub-id></mixed-citation></ref><ref id="joim20102-bib-0020"><label>20</label><mixed-citation publication-type="journal" id="joim20102-cite-0021">
+<string-name name-style="western">
+<surname>Rass</surname>
+<given-names>V</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tymoszuk</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sahanic</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Heim</surname>
+<given-names>B</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ausserhofer</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lindner</surname>
+<given-names>A</given-names>
+</string-name>, et al. <article-title>Distinct smell and taste disorder phenotype of post‐acute COVID‐19 sequelae</article-title>. <source>Eur Arch Otorhinolaryngol.</source>
+<year>2023</year>;<volume>280</volume>:<fpage>5115</fpage>–<lpage>5128</lpage>.<pub-id pub-id-type="pmid">37670171</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s00405-023-08163-x</pub-id><pub-id pub-id-type="pmcid">PMC10562286</pub-id></mixed-citation></ref><ref id="joim20102-bib-0021"><label>21</label><mixed-citation publication-type="journal" id="joim20102-cite-0022">
+<string-name name-style="western">
+<surname>Maripuri</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Dey</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Honerlaw</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hong</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ho</surname>
+<given-names>Y‐L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tanukonda</surname>
+<given-names>V</given-names>
+</string-name>, et al. <article-title>Characterization of post‐COVID‐19 definitions and clinical coding practices: longitudinal study</article-title>. <source>Online J Public Health Inform.</source>
+<year>2024</year>;<volume>16</volume>:<elocation-id>e53445</elocation-id>.<pub-id pub-id-type="pmid">38700929</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.2196/53445</pub-id><pub-id pub-id-type="pmcid">PMC11073632</pub-id></mixed-citation></ref><ref id="joim20102-bib-0022"><label>22</label><mixed-citation publication-type="journal" id="joim20102-cite-0023">
+<string-name name-style="western">
+<surname>Vernon</surname>
+<given-names>SD</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hartle</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sullivan</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bell</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Abbaszadeh</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Unutmaz</surname>
+<given-names>D</given-names>
+</string-name>, et al. <article-title>Post‐exertional malaise among people with long COVID compared to myalgic encephalomyelitis/chronic fatigue syndrome (ME/CFS)</article-title>. <source>Work.</source>
+<year>2023</year>;<volume>74</volume>:<fpage>1179</fpage>–<lpage>1186</lpage>.<pub-id pub-id-type="pmid">36911963</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3233/WOR-220581</pub-id></mixed-citation></ref><ref id="joim20102-bib-0023"><label>23</label><mixed-citation publication-type="journal" id="joim20102-cite-0024">
+<string-name name-style="western">
+<surname>Hastie</surname>
+<given-names>CE</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lowe</surname>
+<given-names>DJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>McAuley</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Winter</surname>
+<given-names>AJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mills</surname>
+<given-names>NL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Black</surname>
+<given-names>C</given-names>
+</string-name>, et al. <article-title>Outcomes among confirmed cases and a matched comparison group in the long‐COVID in Scotland study</article-title>. <source>Nat Commun.</source>
+<year>2022</year>;<volume>13</volume>:<fpage>5663</fpage>.<pub-id pub-id-type="pmid">36224173</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41467-022-33415-5</pub-id><pub-id pub-id-type="pmcid">PMC9556711</pub-id></mixed-citation></ref><ref id="joim20102-bib-0024"><label>24</label><mixed-citation publication-type="journal" id="joim20102-cite-0025">
+<string-name name-style="western">
+<surname>Ballering</surname>
+<given-names>AV</given-names>
+</string-name>, <string-name name-style="western">
+<surname>van Zon</surname>
+<given-names>SKR</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Olde Hartman</surname>
+<given-names>TC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rosmalen</surname>
+<given-names>JGM</given-names>
+</string-name>, <article-title>Lifelines corona research I. Persistence of somatic symptoms after COVID‐19 in the Netherlands: an observational cohort study</article-title>. <source>Lancet.</source>
+<year>2022</year>;<volume>400</volume>:<fpage>452</fpage>–<lpage>461</lpage>.<pub-id pub-id-type="pmid">35934007</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/S0140-6736(22)01214-4</pub-id><pub-id pub-id-type="pmcid">PMC9352274</pub-id></mixed-citation></ref><ref id="joim20102-bib-0025"><label>25</label><mixed-citation publication-type="journal" id="joim20102-cite-0026">
+<string-name name-style="western">
+<surname>Lin</surname>
+<given-names>L‐Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Henderson</surname>
+<given-names>AD</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Carlile</surname>
+<given-names>O</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Dillingham</surname>
+<given-names>I</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Butler‐Cole</surname>
+<given-names>BFC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Marks</surname>
+<given-names>M</given-names>
+</string-name>, et al. <article-title>Healthcare utilisation in people with long COVID: an OpenSAFELY cohort study</article-title>. <source>BMC Med.</source>
+<year>2024</year>;<volume>22</volume>:<fpage>255</fpage>.<pub-id pub-id-type="pmid">38902726</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1186/s12916-024-03477-x</pub-id><pub-id pub-id-type="pmcid">PMC11188519</pub-id></mixed-citation></ref><ref id="joim20102-bib-0026"><label>26</label><mixed-citation publication-type="journal" id="joim20102-cite-0027">
+<string-name name-style="western">
+<surname>Tate</surname>
+<given-names>WP</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Walker</surname>
+<given-names>MOM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Peppercorn</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Blair</surname>
+<given-names>ALH</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Edgar</surname>
+<given-names>CD</given-names>
+</string-name>. <article-title>Towards a better understanding of the complexities of myalgic encephalomyelitis/chronic fatigue syndrome and long COVID</article-title>. <source>Int J Mol Sci.</source>
+<year>2023</year>;<volume>24</volume>:<fpage>5124</fpage>.<pub-id pub-id-type="pmid">36982194</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3390/ijms24065124</pub-id><pub-id pub-id-type="pmcid">PMC10048882</pub-id></mixed-citation></ref><ref id="joim20102-bib-0027"><label>27</label><mixed-citation publication-type="journal" id="joim20102-cite-0028">
+<string-name name-style="western">
+<surname>Tackey</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Slepian</surname>
+<given-names>PM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Clarke</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mittal</surname>
+<given-names>N</given-names>
+</string-name>. <article-title>Post‐viral pain, fatigue, and sleep disturbance syndromes: current knowledge and future directions</article-title>. <source>Can J Pain.</source>
+<year>2023</year>;<volume>7</volume>:<elocation-id>2272999</elocation-id>.<pub-id pub-id-type="pmid">38239826</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1080/24740527.2023.2272999</pub-id><pub-id pub-id-type="pmcid">PMC10795785</pub-id></mixed-citation></ref><ref id="joim20102-bib-0028"><label>28</label><mixed-citation publication-type="journal" id="joim20102-cite-0029">
+<string-name name-style="western">
+<surname>Lundberg‐Morris</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Leach</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Xu</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Martikainen</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Santosa</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gisslén</surname>
+<given-names>M</given-names>
+</string-name>, et al. <article-title>Covid‐19 vaccine effectiveness against post‐covid‐19 condition among 589 722 individuals in Sweden: population based cohort study</article-title>. <source>BMJ.</source>
+<year>2023</year>;<volume>383</volume>:<elocation-id>e076990</elocation-id>.<pub-id pub-id-type="pmid">37993131</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1136/bmj-2023-076990</pub-id><pub-id pub-id-type="pmcid">PMC10666099</pub-id></mixed-citation></ref><ref id="joim20102-bib-0029"><label>29</label><mixed-citation publication-type="journal" id="joim20102-cite-0030">
+<string-name name-style="western">
+<surname>Hallek</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Adorjan</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Behrends</surname>
+<given-names>U</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ertl</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Suttorp</surname>
+<given-names>N</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lehmann</surname>
+<given-names>C</given-names>
+</string-name>. <article-title>Post‐COVID syndrome</article-title>. <source>Dtsch Arztebl Int.</source>
+<year>2023</year>;<volume>120</volume>:<fpage>48</fpage>–<lpage>55</lpage>.<pub-id pub-id-type="pmid">36633452</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3238/arztebl.m2022.0409</pub-id><pub-id pub-id-type="pmcid">PMC10060997</pub-id></mixed-citation></ref><ref id="joim20102-bib-0030"><label>30</label><mixed-citation publication-type="book" id="joim20102-cite-0031">
+<collab collab-type="authors">Folkhälsomyndigheten</collab>
+. <source>Statistik för vaccination mot covid‐19</source>. <publisher-loc>Solna</publisher-loc>: <publisher-name>Public Health Agency of Sweden</publisher-name>; <year>2024</year>. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.folkhalsomyndigheten.se/folkhalsorapportering-statistik/statistikdatabaser-och-visualisering/vaccinationsstatistik/statistik-for-vaccination-mot-covid-19/" ext-link-type="uri">https://www.folkhalsomyndigheten.se/folkhalsorapportering‐statistik/statistikdatabaser‐och‐visualisering/vaccinationsstatistik/statistik‐for‐vaccination‐mot‐covid‐19/</ext-link>.</mixed-citation></ref><ref id="joim20102-bib-0031"><label>31</label><mixed-citation publication-type="journal" id="joim20102-cite-0032">
+<string-name name-style="western">
+<surname>Xie</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Choi</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Al‐Aly</surname>
+<given-names>Z</given-names>
+</string-name>. <article-title>Postacute sequelae of SARS‐CoV‐2 infection in the pre‐delta, delta, and omicron eras</article-title>. <source>N Engl J Med.</source>
+<year>2024</year>;<volume>391</volume>:<fpage>515</fpage>–<lpage>525</lpage>.<pub-id pub-id-type="pmid">39018527</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1056/NEJMoa2403211</pub-id><pub-id pub-id-type="pmcid">PMC11687648</pub-id></mixed-citation></ref><ref id="joim20102-bib-0032"><label>32</label><mixed-citation publication-type="journal" id="joim20102-cite-0033">
+<string-name name-style="western">
+<surname>Duerlund</surname>
+<given-names>LS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Shakar</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Nielsen</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bodilsen</surname>
+<given-names>J</given-names>
+</string-name>. <article-title>Positive predictive value of the ICD‐10 diagnosis code for long‐COVID</article-title>. <source>Clin Epidemiol.</source>
+<year>2022</year>;<volume>14</volume>:<fpage>141</fpage>–<lpage>148</lpage>.<pub-id pub-id-type="pmid">35177935</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.2147/CLEP.S344515</pub-id><pub-id pub-id-type="pmcid">PMC8843419</pub-id></mixed-citation></ref></ref-list></back></article></pmc-articleset>

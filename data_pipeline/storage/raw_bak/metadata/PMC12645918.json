@@ -1,0 +1,39 @@
+{
+  "pmcid": "PMC12645918",
+  "pmid": "41159753",
+  "doi": "10.1128/jvi.01384-25",
+  "title": "Differential expression of viral entry protein neuropilin 1 (NRP1) and neuropilin 2 (NRP2) in fatal COVID-19.",
+  "abstract": "Coronavirus disease 2019 (COVID-19) is associated with hyperinflammation, endothelialitis, hypoxemia, and hypercoagulation, contributing to thrombosis in acute severe and long COVID. While ACE2 is the primary severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) receptor, its low expression in certain infected cell types suggests alternative co-receptors. Neuropilins (NRP1 and NRP2), widely expressed, have been proposed as co-factors for viral entry. We analyzed NRP1 and NRP2 expression in autopsy tissues from heart, lung, and hematolymphoid organs using immunohistochemistry (n = 20) and compared findings with public single-cell RNA sequencing (scRNAseq) data. Selected cases were further examined by spatial multiplex immunofluorescence (CODEX). In vitro binding of NRP1/NRP2 to SARS-CoV-2 spike fragments S1 and S1' was assessed by immunofluorescence microscopy. NRP1 was abundantly expressed in myocardial capillary endothelial cells (ECs) and macrophages in the heart and lung; NRP2 was found in alveolar macrophages and mast cells. scRNAseq re-analysis confirmed these in situ patterns. In vitro, NRP1 exclusively bound S1, while NRP2 bound both S1 and S1'. SARS-CoV-2 RNA was detected in neuropilin-positive, ACE2/TMPRSS2-negative vascular EC and mast cells. The detection of SARS-CoV-2 RNA in neuropilin-positive but ACE2/TMPRSS2-negative cell clusters supports that neuropilins are involved in systemic viral dissemination. NRP1 on vascular EC may contribute to angiogenesis, vascular damage, and microangiopathy, while NRP2 represents a potential immunomodulatory target to regulate macrophage activity, resolve inflammation, and potentially prevent the progression of pulmonary fibrosis and limit excessive mast cell activation in long COVID.IMPORTANCEThe well-known severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) receptor, angiotensin-converting enzyme 2 (ACE2), exhibits low expression in key cell types implicated in coronavirus disease 2019 (COVID-19) pathology, such as endothelial cells and B cells, macrophages, and mast cells. In contrast, neuropilins, identified as co-receptors for SARS-CoV-2, are abundantly expressed in these cells under physiological conditions and may be involved in virus-host interactions. This study presents a detailed in situ analysis of Neuropilin 1 (NRP1) and Neuropilin 2 (NRP2) expression in fatal COVID-19 cases using immunohistochemistry and spatial multiplex immunofluorescence phenotyping, complemented by single cell RNA sequencing. Additionally, it demonstrates differential binding affinities of NRP1 and NRP2 to SARS-CoV-2 spike protein fragments S1 and S1' in vitro, suggesting distinct roles for these neuropilins in viral recognition. This study highlights the impact of the unique furin cleavage site in SARS-CoV-2, which may contribute to increased pathogenicity through its interaction with NRP1.",
+  "authors": [
+    "A Dette",
+    "F Moers",
+    "T Mayr",
+    "S V Stillfried",
+    "M Bernhardt",
+    "S Förster",
+    "C Werlein",
+    "M Ackermann",
+    "M H Muders",
+    "G Kristiansen",
+    "P Boor",
+    "I Gütgemann"
+  ],
+  "journal": "Journal of virology",
+  "pub_year": "2025",
+  "pub_month": "Nov",
+  "pub_day": "25",
+  "keywords": [
+    "CODEX",
+    "COVID-19",
+    "NRP1",
+    "NRP2",
+    "PASC",
+    "SARS-CoV-2",
+    "neuropilins",
+    "scRNA",
+    "spike protein"
+  ],
+  "article_types": [
+    "Journal Article"
+  ]
+}

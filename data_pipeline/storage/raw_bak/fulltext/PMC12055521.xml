@@ -1,0 +1,841 @@
+<?xml version="1.0"  ?><!DOCTYPE pmc-articleset PUBLIC "-//NLM//DTD ARTICLE SET 2.0//EN" "https://dtd.nlm.nih.gov/ncbi/pmc/articleset/nlm-articleset-2.0.dtd"><pmc-articleset><article id="jmd270021" xml:lang="en" article-type="research-article" dtd-version="1.4"><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">JIMD Rep</journal-id><journal-id journal-id-type="iso-abbrev">JIMD Rep</journal-id><journal-id journal-id-type="pmc-domain-id">1789</journal-id><journal-id journal-id-type="pmc-domain">jimdrep</journal-id><journal-id journal-id-type="publisher-id">JMD2</journal-id><journal-title-group><journal-title>JIMD Reports</journal-title></journal-title-group><issn pub-type="ppub">2192-8304</issn><issn pub-type="epub">2192-8312</issn><publisher><publisher-name>Wiley</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC12055521</article-id><article-id pub-id-type="pmcid-ver">PMC12055521.1</article-id><article-id pub-id-type="pmcaid">12055521</article-id><article-id pub-id-type="pmcaiid">12055521</article-id><article-id pub-id-type="pmid">40337099</article-id><article-id pub-id-type="doi">10.1002/jmd2.70021</article-id><article-id pub-id-type="publisher-id">JMD270021</article-id><article-id pub-id-type="other">JMDR-D-25-00002</article-id><article-version article-version-type="pmc-version">1</article-version><article-categories><subj-group subj-group-type="overline"><subject>Research Report</subject></subj-group><subj-group subj-group-type="heading"><subject>Research Report</subject></subj-group></article-categories><title-group><article-title>Mental and Physical Health in Wilson Disease Patients With <styled-content style="fixed-case" toggle="no">SARS</styled-content>‐<styled-content style="fixed-case" toggle="no">CoV</styled-content>‐2 Infection and Relevance of Long‐<styled-content style="fixed-case" toggle="no">COVID</styled-content>
+</article-title></title-group><contrib-group><contrib id="jmd270021-cr-0001" contrib-type="author" corresp="yes"><name name-style="western"><surname>Mohr</surname><given-names initials="I">Isabelle</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0001-7354-0241</contrib-id><xref rid="jmd270021-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><address><email>isabelle.mohr@med.uni-heidelberg.de</email></address></contrib><contrib id="jmd270021-cr-0002" contrib-type="author"><name name-style="western"><surname>Brand</surname><given-names initials="M">Maximilian</given-names></name><xref rid="jmd270021-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="jmd270021-cr-0003" contrib-type="author"><name name-style="western"><surname>Weber</surname><given-names initials="C">Christophe</given-names></name><xref rid="jmd270021-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib id="jmd270021-cr-0004" contrib-type="author"><name name-style="western"><surname>Langel</surname><given-names initials="A">Andrea</given-names></name><xref rid="jmd270021-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="jmd270021-cr-0005" contrib-type="author"><name name-style="western"><surname>Langel</surname><given-names initials="J">Jessica</given-names></name><xref rid="jmd270021-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="jmd270021-cr-0006" contrib-type="author"><name name-style="western"><surname>Michl</surname><given-names initials="P">Patrick</given-names></name><xref rid="jmd270021-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="jmd270021-cr-0007" contrib-type="author"><name name-style="western"><surname>Leidner</surname><given-names initials="VY">Viola Yuriko</given-names></name><xref rid="jmd270021-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="jmd270021-cr-0008" contrib-type="author"><name name-style="western"><surname>Olkus</surname><given-names initials="A">Alexander</given-names></name><xref rid="jmd270021-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="jmd270021-cr-0009" contrib-type="author"><name name-style="western"><surname>Köhrer</surname><given-names initials="S">Sebastian</given-names></name><xref rid="jmd270021-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="jmd270021-cr-0010" contrib-type="author"><name name-style="western"><surname>Merle</surname><given-names initials="U">Uta</given-names></name><xref rid="jmd270021-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib></contrib-group><aff id="jmd270021-aff-0001">
+<label>
+<sup>1</sup>
+</label>
+<named-content content-type="organisation-division">Internal Medicine IV, Department of Gastroenterology</named-content>
+<institution>University Hospital Heidelberg</institution>
+<city>Heidelberg</city>
+<country country="DE">Germany</country>
+</aff><aff id="jmd270021-aff-0002">
+<label>
+<sup>2</sup>
+</label>
+<named-content content-type="organisation-division">Internal Medicine III Department of Internal Medicine and Cardiology</named-content>
+<institution>University Hospital Heidelberg</institution>
+<city>Heidelberg</city>
+<country country="DE">Germany</country>
+</aff><author-notes><corresp id="correspondenceTo">
+<label>*</label>
+<bold>Correspondence:</bold>
+<break/>
+Isabelle Mohr (<email>isabelle.mohr@med.uni-heidelberg.de</email>)<break/>
+</corresp></author-notes><pub-date pub-type="epub"><day>06</day><month>5</month><year>2025</year></pub-date><pub-date pub-type="collection"><month>5</month><year>2025</year></pub-date><volume>66</volume><issue seq="110">3</issue><issue-id pub-id-type="pmc-issue-id">485988</issue-id><issue-id pub-id-type="doi">10.1002/jmd2.v66.3</issue-id><elocation-id>e70021</elocation-id><history><date date-type="rev-recd"><day>16</day><month>4</month><year>2025</year></date><date date-type="received"><day>03</day><month>1</month><year>2025</year></date><date date-type="accepted"><day>22</day><month>4</month><year>2025</year></date></history><pub-history><event event-type="pmc-release"><date><day>06</day><month>05</month><year>2025</year></date></event><event event-type="pmc-live"><date><day>07</day><month>05</month><year>2025</year></date></event><event event-type="pmc-last-change"><date iso-8601-date="2025-05-08 15:25:37.067"><day>08</day><month>05</month><year>2025</year></date></event></pub-history><permissions><copyright-statement content-type="article-copyright">© 2025 The Author(s). <italic toggle="yes">JIMD Reports</italic> published by John Wiley &amp; Sons Ltd on behalf of SSIEM.</copyright-statement><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>This is an open access article under the terms of the <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pmc-pdf" xlink:href="JMD2-66-e70021.pdf"/><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pdf" xlink:href="file:JMD2-66-e70021.pdf"/><abstract><title>ABSTRACT</title><p>SARS‐CoV‐2 infection and Long COVID (LC) might lead to a significant deterioration of physical and mental health. Wilson disease (WD) patients have a chronic liver and/or neuropsychiatric disease, making it particularly interesting to investigate LC in WD. 51 WD patients were retrospectively examined, evaluating physical and mental health by a survey and neuropsychological tests (SF‐12, PSQI, ISI, Epworth, Chalder‐fatigue scale, PHQ‐9, GAD‐7, PSS, FLei) before and ~11 months after SARS‐CoV‐2 infection. LC was defined as the development of new, at least moderately severe symptoms (shortness of breath, chest pain, fatigue, brain fog, exercise capacity, concentration disturbances) and/or worsening of pre‐existing symptoms. 70.6% had predominant hepatic and 29.4% had neuropsychiatric symptoms at WD diagnosis. Median age was 39 years; 56.1% were female. Patients were in stable maintenance phase with a median treatment duration of 23 years. When compared to before COVID‐19, WD patients had significantly worse physical life quality, sleeping quality, and fatigue. After COVID‐19, a high percentage of WD patients reported concentration disorders (60%), fatigue (55%), reduced exercise capacity (50%), shortness of breath (40%), chest pain (20%) and feeling of brain fog (15%). 39.2% (<italic toggle="no">n</italic> = 20) of the WD patients were classified as LC. This LC‐WD subgroup showed significantly impaired quality of life, a high stress level, and sleeping disturbances, fatigue, depression, anxiety, and cognitive impairment. A large proportion of WD patients experience LC symptoms, reduced life quality, and sleeping disorders after SARS‐CoV‐2 infection. WD patients post‐infection should be well monitored and supported if they develop persisting symptoms or neuro‐psychological problems.</p></abstract><kwd-group kwd-group-type="author-generated"><kwd id="jmd270021-kwd-0001">COVID‐19</kwd><kwd id="jmd270021-kwd-0002">long COVID</kwd><kwd id="jmd270021-kwd-0003">mental health</kwd><kwd id="jmd270021-kwd-0004">quality of life</kwd><kwd id="jmd270021-kwd-0005">SARS‐CoV‐2 infection</kwd><kwd id="jmd270021-kwd-0006">Wilson disease</kwd></kwd-group><counts><fig-count count="3"/><table-count count="4"/><page-count count="13"/><word-count count="7800"/></counts><custom-meta-group><custom-meta><meta-name>pmc-status-qastatus</meta-name><meta-value>0</meta-value></custom-meta><custom-meta><meta-name>pmc-status-live</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-status-embargo</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-status-released</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-access</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-legally-suppressed</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-pdf</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-supplement</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-pdf-only</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-suppress-copyright</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-real-version</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-scanned-article</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-in-epmc</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-license-ref</meta-name><meta-value>CC BY</meta-value></custom-meta><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>May 2025</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:6.5.5 mode:remove_FC converted:06.05.2025</meta-value></custom-meta></custom-meta-group></article-meta><notes><fn-group id="jmd270021-ntgp-0001"><fn fn-type="funding" id="jmd270021-note-0001"><p>
+<bold>Funding:</bold> The authors received no specific funding for this work.</p></fn></fn-group></notes></front><body id="jmd270021-body-0001"><def-list list-content="abbreviations" id="jmd270021-dl-0001"><title>Abbreviations</title><def-item><term id="jmd270021-li-0001">Chalder</term><def id="jmd270021-li-0002"><p>Chalder Fatigue Scale</p></def></def-item><def-item><term id="jmd270021-li-0003">COVID‐19</term><def id="jmd270021-li-0004"><p>SARS‐CoV‐2 infection</p></def></def-item><def-item><term id="jmd270021-li-0005">Epworth</term><def id="jmd270021-li-0006"><p>Epworth Sleepiness Scale</p></def></def-item><def-item><term id="jmd270021-li-0007">FLei</term><def id="jmd270021-li-0008"><p>Fragebogen zur geistigen Leistungsfähigkeit/questionnaire of cognitive performance</p></def></def-item><def-item><term id="jmd270021-li-0009">GAD‐7</term><def id="jmd270021-li-0010"><p>Generalized Anxiety Disorder Scale‐7</p></def></def-item><def-item><term id="jmd270021-li-0011">ISI</term><def id="jmd270021-li-0012"><p>Insomnia Severity Index</p></def></def-item><def-item><term id="jmd270021-li-0013">PHQ‐9</term><def id="jmd270021-li-0014"><p>Patient health questionnaire</p></def></def-item><def-item><term id="jmd270021-li-0015">PSQI</term><def id="jmd270021-li-0016"><p>Pittsburgh sleep quality index</p></def></def-item><def-item><term id="jmd270021-li-0017">PSS</term><def id="jmd270021-li-0018"><p>Perceived stress scale</p></def></def-item><def-item><term id="jmd270021-li-0019">SF‐12</term><def id="jmd270021-li-0020"><p>12‐item Short Form</p></def></def-item><def-item><term id="jmd270021-li-0021">WD</term><def id="jmd270021-li-0022"><p>Wilson disease</p></def></def-item></def-list><p>
+<boxed-text position="anchor" content-type="box" id="jmd270021-blkfxd-1002" orientation="portrait"><caption><title>Summary</title></caption><p>
+<list list-type="bullet" id="jmd270021-list-1001"><list-item id="jmd270021-li-2001"><p>Patients with Wilson disease show a higher prevalence of Long‐Covid and persistent mental and physical health impairments after SARS‐CoV‐2 infection, highlighting the need for close monitoring and multidisciplinary therapeutic approaches to support recovery and treatment adherence.</p></list-item></list>
+</p></boxed-text>
+</p><sec id="jmd270021-sec-0001"><label>1</label><title>Introduction</title><p>Wilson disease (WD) is a rare genetic disorder which results in accumulation of copper in the liver and extrahepatic tissues [<xref rid="jmd270021-bib-0001" ref-type="bibr">1</xref>, <xref rid="jmd270021-bib-0002" ref-type="bibr">2</xref>, <xref rid="jmd270021-bib-0003" ref-type="bibr">3</xref>] with a broad severity of symptoms [<xref rid="jmd270021-bib-0004" ref-type="bibr">4</xref>, <xref rid="jmd270021-bib-0005" ref-type="bibr">5</xref>]. Almost all patients show evidence of liver disease ranging from increased transaminases to cirrhosis. Neurological and psychiatric symptoms are common in WD [<xref rid="jmd270021-bib-0006" ref-type="bibr">6</xref>]. WD is associated with psychological comorbidities with an estimated prevalence of 30%–40% [<xref rid="jmd270021-bib-0007" ref-type="bibr">7</xref>] including mood disorders, cognitive impairment, psychosis, anxiety and personality changes [<xref rid="jmd270021-bib-0008" ref-type="bibr">8</xref>]. During the pandemic, mental health issues became evident with increased levels of anxiety, stress, and depression compared to pre‐pandemic conditions in general population as well as in patients with chronic diseases [<xref rid="jmd270021-bib-0009" ref-type="bibr">9</xref>, <xref rid="jmd270021-bib-0010" ref-type="bibr">10</xref>, <xref rid="jmd270021-bib-0011" ref-type="bibr">11</xref>]. Prolonged symptoms can occur after acute COVID‐19 illness named “long COVID”(LC) with a conservative estimate of global prevalence of ~4% [<xref rid="jmd270021-bib-0012" ref-type="bibr">12</xref>]. LC summarizes a heterogeneous, multisystem condition that occurs after SARS‐CoV‐2 infection, characterized by symptoms that persist for at least 12 weeks and cannot be explained by an alternative diagnosis [<xref rid="jmd270021-bib-0013" ref-type="bibr">13</xref>]. Symptoms may be new‐onset following recovery or persist from the acute phase and often fluctuate or relapse over time, affecting daily functioning and is recognized to occur regardless of initial infection severity, including also mild or asymptomatic cases [<xref rid="jmd270021-bib-0013" ref-type="bibr">13</xref>]. LC symptoms can be of physical and psychological nature ranging from mild to debilitating [<xref rid="jmd270021-bib-0014" ref-type="bibr">14</xref>, <xref rid="jmd270021-bib-0015" ref-type="bibr">15</xref>]. Commonly reported symptoms include fatigue, shortness of breath, cough, joint and muscle pain, headaches, sleep disturbances, concentration disorders, chest pain, anxiety, depression and post‐exertional malaise [<xref rid="jmd270021-bib-0011" ref-type="bibr">11</xref>, <xref rid="jmd270021-bib-0014" ref-type="bibr">14</xref>, <xref rid="jmd270021-bib-0015" ref-type="bibr">15</xref>, <xref rid="jmd270021-bib-0016" ref-type="bibr">16</xref>]. Diagnosis of LC is primarily based on medical history and the exclusion of other causes. Risk factors may include severe acute COVID‐19 illness or pre‐existing conditions of chronic diseases, female gender, socioeconomic factors and older age [<xref rid="jmd270021-bib-0013" ref-type="bibr">13</xref>, <xref rid="jmd270021-bib-0017" ref-type="bibr">17</xref>]. Many studies have sought to identify mechanisms leading to LC and there are likely multiple, potentially overlapping causes including immune dysregulation [<xref rid="jmd270021-bib-0013" ref-type="bibr">13</xref>, <xref rid="jmd270021-bib-0018" ref-type="bibr">18</xref>], persisting reservoirs of SARS‐CoV‐2 in tissues [<xref rid="jmd270021-bib-0019" ref-type="bibr">19</xref>], autoimmunity [<xref rid="jmd270021-bib-0013" ref-type="bibr">13</xref>, <xref rid="jmd270021-bib-0016" ref-type="bibr">16</xref>], microvascular blood clotting [<xref rid="jmd270021-bib-0020" ref-type="bibr">20</xref>] and activation of the innate immune defense complement system [<xref rid="jmd270021-bib-0021" ref-type="bibr">21</xref>]. WD patients with liver disease and especially those with cirrhosis are at increased risk when infected by SARS‐CoV‐2 due to cirrhosis‐associated immune dysfunction [<xref rid="jmd270021-bib-0022" ref-type="bibr">22</xref>]. Treatment of LC is symptomatic and can vary depending on individual complaints [<xref rid="jmd270021-bib-0017" ref-type="bibr">17</xref>]. Particularly neuropsychiatric symptoms show a longer symptom duration compared to physical complaints [<xref rid="jmd270021-bib-0023" ref-type="bibr">23</xref>]. The majority of LC cases do often not recover in the second year [<xref rid="jmd270021-bib-0024" ref-type="bibr">24</xref>], leading to an urgent need for research, especially with regard to LC and its impact on quality of life in ‘at risk disease’ populations. To date, the effects of SARS‐CoV‐2‐infection on liver function and neuropsychological symptoms in WD remain unclear. Our study aims to examine the impact of COVID‐19 and its associated consequences in WD as an example for a hepatic and neuropsychological chronic disease with focus on mental health and the occurrence of LC in these patients.</p></sec><sec sec-type="methods" id="jmd270021-sec-0002"><label>2</label><title>Methods</title><sec id="jmd270021-sec-0003"><label>2.1</label><title>Study Cohort and Conception</title><p>All adult WD patients visiting our outpatient clinic between January and April 2023 were invited to participate in this post‐COVID‐19 study. In May 2023, 192 patients with confirmed WD (Leipzig score ≥ 4) received the survey by mail. Responses were collected from May to July 2023, with a 39% return rate. Of 75 respondents, 60 completed the survey, and 51 COVID‐19‐infected patients were analyzed. Figure <xref rid="jmd270021-fig-0001" ref-type="fig">1</xref> outlines the inclusion criteria. The paper‐based survey retrospectively assessed COVID‐19 illness, vaccination history, new or worsening symptoms, and mental health status. LC was defined as the development of new symptoms or the worsening of pre‐existing symptoms (in the fields of shortness of breath, chest pain, fatigue, brain fog, exercise capacity and concentration disturbances) in at least moderately intense severity and persistence of these till the timepoint of answering the survey. Symptoms already present before COVID‐19 onset and that did not worsen during or after COVID‐19 were not quoted as LC. Patients were asked to rate all symptoms also in retrospect for the situation before their COVID‐19 illness. Ethics approval was obtained (University of Heidelberg, protocols S‐565/2011 and S‐546/2020), and all participants provided written informed consent.</p><fig position="float" fig-type="FIGURE" id="jmd270021-fig-0001" orientation="portrait"><label>FIGURE 1</label><caption><p>Inclusion criteria.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-1" orientation="portrait" xlink:href="JMD2-66-e70021-g002.jpg"/></fig></sec><sec id="jmd270021-sec-0004"><label>2.2</label><title>Materials and Measures</title><sec id="jmd270021-sec-0005"><label>2.2.1</label><title>Vaccination Status and <styled-content style="fixed-case" toggle="no">SARS</styled-content>‐<styled-content style="fixed-case" toggle="no">CoV</styled-content>‐2 Infection(s)</title><p>In the general part of the survey, patients were asked to notice their dates of SARS‐CoV‐2 vaccination. Additionally, patients were asked about previous SARS‐CoV‐2 infection(s).</p></sec><sec id="jmd270021-sec-0006"><label>2.2.2</label><title>Symptom Questionnaire</title><p>Patients were asked for current symptoms, if these symptoms were present already before COVID‐19 or if they newly occurred or aggravated during or after acute COVID‐19. If symptoms were present, the severity of each symptom was assessed as either mild, moderate, or severe (Table <xref rid="jmd270021-supitem-0001" ref-type="supplementary-material">S2</xref>).</p></sec><sec id="jmd270021-sec-0007"><label>2.2.3</label><title>Physical and Mental Health Assessments</title><p>Physical and mental health were assessed by a survey including different neuropsychological tests before and ~11 months after SARS‐CoV‐2 infection.</p></sec><sec id="jmd270021-sec-0008"><label>2.2.4</label><title>Life Quality Assessment via the 12‐Item Short Form (<styled-content style="fixed-case" toggle="no">SF</styled-content>‐12)</title><p>The 12‐item short form survey (SF‐12) [<xref rid="jmd270021-bib-0025" ref-type="bibr">25</xref>] is a compact health questionnaire used to assess an individual's overall health‐related quality of life by measuring physical and mental health aspects within 12 items. Each scale (physical and mental health) score ranges from 0 to 100, with higher scores indicating a better health condition [<xref rid="jmd270021-bib-0026" ref-type="bibr">26</xref>].</p></sec><sec id="jmd270021-sec-0009"><label>2.2.5</label><title>Pittsburgh Sleep Quality Index (<styled-content style="fixed-case" toggle="no">PSQI</styled-content>)</title><p>The PSQI evaluates quality of sleep, consisting of 19 self‐rated questions and 5 questions that are to be assessed by a partner/housemate, if available. Only the self‐rated questions are included in the evaluation [<xref rid="jmd270021-bib-0027" ref-type="bibr">27</xref>]. The 19 self‐rated questions are combined into 7 components. Each component can have a value between 0 and 3 points. The 7 components are summed to obtain the total score (0–21). The total PSQI score can range from 0 to 21 points. Healthy sleepers typically have a total score of no more than 5 points. Poor sleepers usually have scores between 6 and 10 points. Chronic sleep disorders are generally indicated by scores higher than 10 points [<xref rid="jmd270021-bib-0028" ref-type="bibr">28</xref>].</p></sec><sec id="jmd270021-sec-0010"><label>2.2.6</label><title>Insomnia Severity Index (<styled-content style="fixed-case" toggle="no">ISI</styled-content>)</title><p>ISI is designed as a brief screening tool for insomnia. The seven‐item questionnaire asks respondents to rate the nature and symptoms of their sleep problems [<xref rid="jmd270021-bib-0029" ref-type="bibr">29</xref>]. Questions relate to subjective qualities of the respondent's sleep, including the severity of symptoms, the respondent's satisfaction with his or her sleep patterns, the degree to which insomnia interferes with daily functioning, how noticeable the respondent feels his or her insomnia is to others, and the overall level of distress created by the sleep problem using Likert‐type scales. Responses can range from 0 to 4, where higher scores indicate more acute symptoms of insomnia. A total score of 0–7 indicates “no clinically significant insomnia,” 8–14 means “subthreshold insomnia,” 15–21 is “clinical insomnia (moderate severity),” and 22–28 means “clinical insomnia (severe)” [<xref rid="jmd270021-bib-0029" ref-type="bibr">29</xref>].</p></sec><sec id="jmd270021-sec-0011"><label>2.2.7</label><title>Epworth Sleepiness Scale</title><p>The standardized questionnaire is intended to assess daytime sleepiness [<xref rid="jmd270021-bib-0030" ref-type="bibr">30</xref>]. The questionnaire retrospectively assesses an individual's subjective estimation of the likelihood of falling asleep in eight given typical situations on an ascending rating scale from 0 to 3. The results of the eight questions are summed up to a single score. A score of 0–9 is considered normal, while higher scores indicate severe daytime sleepiness (&gt; 15).</p></sec><sec id="jmd270021-sec-0012"><label>2.2.8</label><title>Chalder Fatigue Scale</title><p>The Chalder Fatigue Scale is a questionnaire used to assess the severity of fatigue, a symptom that occurs in various conditions and in LC [<xref rid="jmd270021-bib-0031" ref-type="bibr">31</xref>, <xref rid="jmd270021-bib-0032" ref-type="bibr">32</xref>, <xref rid="jmd270021-bib-0033" ref-type="bibr">33</xref>]. To evaluate the severity of fatigue, the scale includes eleven questions regarding various impacts of fatigue on performance, which can be weighted differently. From the responses, a numerical value can be derived that quantifies the severity of fatigue. The results range from 0 to 33, and lower scores indicate less fatigue, while scores of 4 or above indicate severe fatigue.</p></sec><sec id="jmd270021-sec-0013"><label>2.2.9</label><title>Patient Health Questionnaire (<styled-content style="fixed-case" toggle="no">PHQ</styled-content>‐9)</title><p>PHQ‐9 is a 9‐item self‐reported inventory that evaluates the criteria for Major Depressive Disorder using a Likert‐type scale with responses from 0 (not at all) to 3 (nearly every day) [<xref rid="jmd270021-bib-0034" ref-type="bibr">34</xref>]. It is applied in screening, diagnosing, and monitoring the severity of depressive symptoms [<xref rid="jmd270021-bib-0035" ref-type="bibr">35</xref>]. The score ranges from 0 to 27, with a total score of 10 or higher typically indicating possible depression [<xref rid="jmd270021-bib-0036" ref-type="bibr">36</xref>].</p></sec><sec id="jmd270021-sec-0014"><label>2.2.10</label><title>Generalized Anxiety Disorder Scale‐7 (<styled-content style="fixed-case" toggle="no">GAD</styled-content>‐7)</title><p>GAD‐7 is a short self‐report questionnaire assessing the presence and severity of generalized anxiety disorder symptoms in individuals [<xref rid="jmd270021-bib-0037" ref-type="bibr">37</xref>]. The total score, based on seven items, ranges from 0 to 21, with higher scores indicating greater severity of anxiety.</p></sec><sec id="jmd270021-sec-0015"><label>2.2.11</label><title>Perceived Stress Scale (<styled-content style="fixed-case" toggle="no">PSS</styled-content>)</title><p>PSS is a psychological tool designed to evaluate an individual's perception of stress by assessing the perceived stressfulness of life situations [<xref rid="jmd270021-bib-0038" ref-type="bibr">38</xref>]. Scores range from 0 to 40, with higher scores indicating greater perceived stress.</p></sec><sec id="jmd270021-sec-0016"><label>2.2.12</label><title>FLei</title><p>FLei is a questionnaire designed to assess subjective cognitive complaints [<xref rid="jmd270021-bib-0039" ref-type="bibr">39</xref>]. The test is self‐administered by the patient, who must respond to 35 statements using a five‐point rating scale (never; rarely; sometimes; often; very often). The answer “never” receives no points, “rarely” one point, “sometimes” two points, “often” three points, and “very often” four points. Questions are focused on difficulties in everyday situations in the last 6 months, examining three cognitive areas: attention (A), memory (M), executive functioning (E). There are also five control questions to check the response tendency (K). Besides the three cognitive domains, the main score “mental ability” is calculated as the sum of the three cognitive domains (0–120 points) [<xref rid="jmd270021-bib-0040" ref-type="bibr">40</xref>]. Higher scores and sub‐scores indicate more difficulties in everyday situations among the test fields mentioned above.</p></sec><sec id="jmd270021-sec-0017"><label>2.2.13</label><title>Statistical Analysis</title><p>For data analysis, the pseudonymized Excel database was exported to IBM SPSS Statistics (Version 27.0). Descriptive statistics, including frequencies, central tendency, and dispersion, were used. Mental health scores before and after COVID‐19 were compared using a 2‐sample t‐test and Cohen's d to detect effect size. A previous sample size calculation based on anticipated effect sizes (Cohen's d 0.5) and desired statistical power (0.80) delivered <italic toggle="yes">n</italic> = 34.</p></sec></sec></sec><sec sec-type="results" id="jmd270021-sec-0018"><label>3</label><title>Results</title><sec id="jmd270021-sec-0019"><label>3.1</label><title>Patient Demographics and Variety of Symptoms</title><p>The study included 51 SARS‐CoV‐2‐infected WD patients, 56.1% female (Table <xref rid="jmd270021-tbl-0001" ref-type="table">1</xref>), with a mean age of 39 years (SD 15.3). Comparing patients with primarily hepatic manifestation to those with primarily neurologic/psychiatric or mixed manifestation, the onset of symptoms occurred significantly (<italic toggle="yes">p</italic> = 0.001) earlier in primarily hepatic patients (median age at diagnosis 14.7y (SD 9.5)) than in those with primarily neurologic/psychiatric or mixed manifestation (median age at diagnosis 24.5y (SD 9.6)). Hepatic presentation was observed in 70.6%, and 29.4% had neurological symptoms. Liver cirrhosis was present in 13.7% (<italic toggle="yes">n</italic> = 7), with 5 in Child‐Pugh stage A and 2 in stage B. Table <xref rid="jmd270021-supitem-0001" ref-type="supplementary-material">S3</xref> presents the genotype among the included phenotypes. The most common mutation in the analyzed cohort was the p.H1069Q mutation (<italic toggle="yes">n</italic> = 47). In our cohort, 8 out of 17 (47.1%) patients with homozygous mutation for H1069Q suffered from a neurological or mixed phenotype. W779X (<italic toggle="yes">n</italic> = 7) and R969Q (<italic toggle="yes">n</italic> = 5) were 2nd and 3rd most common mutations. All patients had at least one SARS‐CoV‐2 infection, and 12% were infected twice. Vaccination rates for 1st and 2nd doses were 92.2%, with 86.3% fully vaccinated at least 2 weeks before infection. All patients with LC symptoms were vaccinated at least twice before infection. The median interval from COVID‐19 illness to evaluation was 10.9 months (range 2.5–40.8; SD 6.0). Figure <xref rid="jmd270021-fig-0002" ref-type="fig">2</xref> shows symptom occurrence before and after infection. Fatigue, cephalgia, and concentration disorders were most common, with symptoms generally more frequent post‐infection. Notably, general sleeping disorders decreased, but issues with maintaining sleep increased after COVID‐19.</p><table-wrap position="float" id="jmd270021-tbl-0001" content-type="TABLE" orientation="portrait"><label>TABLE 1</label><caption><p>Patient baseline characteristics.</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="center" span="1"/><thead valign="bottom"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="bottom" rowspan="1" colspan="1">Parameter</th><th align="center" valign="bottom" rowspan="1" colspan="1">Numbers, medians and percentages (in %)</th></tr></thead><tbody valign="top"><tr><td align="left" valign="top" rowspan="1" colspan="1">Number of included WD patients</td><td align="center" valign="top" rowspan="1" colspan="1">51 (41.2% male, 58.8% female)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Demographics:</td><td align="center" valign="top" rowspan="1" colspan="1"/></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Age at study inclusion (years)</td><td align="center" valign="top" rowspan="1" colspan="1">39 (range 19–70; SD 15.3)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Age at diagnosis (years) total cohort</td><td align="center" valign="top" rowspan="1" colspan="1">16 (range 1–50; SD 9.9)</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">In primarily hepatic phenotype</td><td align="center" valign="top" rowspan="1" colspan="1">14 (range 1–50; SD 9.5)</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">In primarily neurological/mixed phenotype</td><td align="center" valign="top" rowspan="1" colspan="1">24 (range 3–37; SD 9.6)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">
+<p>Clinical presentation of WD</p>
+</td><td align="center" valign="top" rowspan="1" colspan="1">
+<p>
+<italic toggle="yes">n</italic> = 36 (70.6%) primarily hepatic</p>
+<p>
+<italic toggle="yes">n</italic> = 7 (13.7%) primarily neurological</p>
+<p>
+<italic toggle="yes">n</italic> = 8 (15.7%) mixed presentation (hepatic + neurological)</p>
+</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Liver cirrhosis</td><td align="center" valign="top" rowspan="1" colspan="1">
+<italic toggle="yes">n</italic> = 7 (13.7%; <italic toggle="yes">n</italic> = 5 CHILD Pugh A, <italic toggle="yes">n</italic> = 2 CHILD Pugh B)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Treatment at study inclusion</td><td align="center" valign="top" rowspan="1" colspan="1">
+<p>D‐penicillamine <italic toggle="yes">n</italic> = 15 (29.4%)</p>
+<p>Trientine <italic toggle="yes">n</italic> = 35 (68.6%)</p>
+<p>Zinc <italic toggle="yes">n</italic> = 3 (5.9%; thereof <italic toggle="yes">n</italic> = 2 with additional trientine)</p>
+</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Previous treatment duration (years)</td><td align="center" valign="top" rowspan="1" colspan="1">23 (range 2–56; SD 15.4)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Number of SARS‐CoV‐2 infections</td><td align="center" valign="top" rowspan="1" colspan="1">
+<italic toggle="yes">n</italic> = 51 (100%); none hospitalized due to acute COVID‐19</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">One infection</td><td align="center" valign="top" rowspan="1" colspan="1">
+<italic toggle="yes">n</italic> = 51 (100%)</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">Two infections</td><td align="center" valign="top" rowspan="1" colspan="1">
+<italic toggle="yes">n</italic> = 6 (12%)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Long‐COVID Symptoms</td><td align="center" valign="top" rowspan="1" colspan="1">
+<italic toggle="yes">n</italic> = 20 (39.2%)</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">After 1st infection</td><td align="center" valign="top" rowspan="1" colspan="1">
+<italic toggle="yes">n</italic> = 16 (31.4%)</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">After 2nd infection</td><td align="center" valign="top" rowspan="1" colspan="1">
+<italic toggle="yes">n</italic> = 4 (7.8%)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Time duration of acute COVID‐19 till timepoint of evaluation (months)</td><td align="center" valign="top" rowspan="1" colspan="1">
+<p>10.9 (range 2.5 to 40.8; SD 6.0)</p>
+</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">COVID‐19 vaccination</td><td align="center" valign="top" rowspan="1" colspan="1"/></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">1st vaccination</td><td align="center" valign="top" rowspan="1" colspan="1">
+<italic toggle="yes">n</italic> = 47 (92.2%)</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">2nd vaccination</td><td align="center" valign="top" rowspan="1" colspan="1">
+<italic toggle="yes">n</italic> = 47 (92.2%)</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">3rd vaccination</td><td align="center" valign="top" rowspan="1" colspan="1">
+<italic toggle="yes">n</italic> = 44 (86.3%)</td></tr></tbody></table></table-wrap><fig position="float" fig-type="FIGURE" id="jmd270021-fig-0002" orientation="portrait"><label>FIGURE 2</label><caption><p>Summary of symptoms before and after SARS‐CoV‐2 infection (%). Before COVID‐19 infection. After COVID‐19 infection. Depicted are symptom frequencies [%] in Wilson disease patients before SARS‐CoV‐2 infection (in retrospect) and at the timepoint the symptom questionnaire was carried out. Symptoms are as follows: 1 Cough, 2 Fever, 3 Shortness of breath (unspecified), 3a Shortness of breath at rest, 3b Shortness of breath at mild activity, 3c Shortness of breath at extended activity, 4 Palpitation, 5 Chest pain (unspecified), 5a Chest pain at rest, 5b Chest pain at extended activity, 6 Fatigue, 7 Myalgia, 8 Arthralgia, 9 Muscular weakness, 10 Cephalgia, 11 Vertigo, 12 Feeling of “brain fog”, 13 Anxiety, 14 Depression, 15 Sleep disturbances (unspecified), 15a Sleep disturbances in falling asleep, 15b Sleep disturbances in sleeping through the night, 16 Stool abnormalities (unspecified), 16a Diarrhea, 16b Constipation, 17 Dysgeusia, 18 Dysosmia, 19 Alopecia, 20 Sore throat, 21 Rhinitis, 22 Reduced physical exercise capacity, 23 Blood pressure variations, 24 Concentration disturbances, 25 Amnestic dysphasia, 26 Memory disturbances.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-3" orientation="portrait" xlink:href="JMD2-66-e70021-g001.jpg"/></fig></sec><sec id="jmd270021-sec-0020"><label>3.2</label><title>Mental Health Assessments in Whole Cohort</title><p>Descriptive statistics of mental health assessments (<italic toggle="yes">n</italic> = 51) are summarized in Table <xref rid="jmd270021-tbl-0002" ref-type="table">2</xref> and Figure <xref rid="jmd270021-fig-0003" ref-type="fig">3a–g</xref>. SF12 showed a significantly lower physical health subscore after SARS‐CoV‐2 infection, while the mental health subscore showed no significant change (Figure <xref rid="jmd270021-fig-0003" ref-type="fig">3a</xref>).</p><table-wrap position="float" id="jmd270021-tbl-0002" content-type="TABLE" orientation="portrait"><label>TABLE 2</label><caption><p>Descriptive statistics of neuropsychological measures before and after acute COVID‐19 (total cohort).</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><thead valign="bottom"><tr style="border-bottom:solid 1px #000000"><th align="left" rowspan="2" colspan="2" valign="bottom">Scoring scale</th><th align="center" valign="bottom" rowspan="1" colspan="1"/><th align="center" valign="bottom" rowspan="1" colspan="1">Before COVID‐19</th><th align="center" valign="bottom" rowspan="1" colspan="1"/><th align="center" valign="bottom" rowspan="1" colspan="1">After COVID 19</th><th align="center" valign="bottom" rowspan="1" colspan="1">95% confidence interval difference (paired)</th><th align="center" valign="bottom" rowspan="1" colspan="1">
+<italic toggle="yes">t</italic>‐Test</th><th align="center" valign="bottom" rowspan="1" colspan="1">Cohen's d</th></tr><tr style="border-bottom:solid 1px #000000"><th align="center" valign="bottom" rowspan="1" colspan="1">
+<italic toggle="yes">N</italic>
+</th><th align="center" valign="bottom" rowspan="1" colspan="1">Mean (range, SD)</th><th align="center" valign="bottom" rowspan="1" colspan="1">
+<italic toggle="yes">N</italic>
+</th><th align="center" valign="bottom" rowspan="1" colspan="1">Mean (range, SD)</th><th align="center" valign="bottom" rowspan="1" colspan="1">Lower vs. upper value</th><th align="center" valign="bottom" rowspan="1" colspan="1">
+<italic toggle="yes">p</italic>
+<xref rid="jmd270021-note-0003" ref-type="table-fn">*</xref>
+</th><th align="center" valign="bottom" rowspan="1" colspan="1">Effect size</th></tr></thead><tbody valign="top"><tr><td align="left" rowspan="2" valign="top" colspan="1">Quality of life</td><td align="center" valign="top" rowspan="1" colspan="1">SF12‐PHS</td><td align="center" valign="top" rowspan="1" colspan="1">51</td><td align="center" valign="top" rowspan="1" colspan="1">52.6 (39.0–61.6; 5.1)</td><td align="center" valign="top" rowspan="1" colspan="1">51</td><td align="center" valign="top" rowspan="1" colspan="1">49.1 (24.7–61.2; 8.6)</td><td align="center" valign="top" rowspan="1" colspan="1">1.7 vs. 5.7</td><td align="center" valign="top" rowspan="1" colspan="1">
+<bold>&lt; 0.001</bold>
+</td><td align="center" valign="top" rowspan="1" colspan="1">0.531</td></tr><tr><td align="center" valign="top" rowspan="1" colspan="1">SF12‐MHS</td><td align="center" valign="top" rowspan="1" colspan="1">51</td><td align="center" valign="top" rowspan="1" colspan="1">49.2 (26.9–60.8; 8.5)</td><td align="center" valign="top" rowspan="1" colspan="1">51</td><td align="center" valign="top" rowspan="1" colspan="1">48.3 (21.4–61.0; 9.8)</td><td align="center" valign="top" rowspan="1" colspan="1">0.3 vs. 2.9</td><td align="center" valign="top" rowspan="1" colspan="1">0.100</td><td align="center" valign="top" rowspan="1" colspan="1">0.242</td></tr><tr><td align="left" rowspan="3" valign="top" colspan="1">Sleeping disturbances</td><td align="center" valign="top" rowspan="1" colspan="1">PSQI</td><td align="center" valign="top" rowspan="1" colspan="1">51</td><td align="center" valign="top" rowspan="1" colspan="1">4.5 (1–13; 2.2)</td><td align="center" valign="top" rowspan="1" colspan="1">51</td><td align="center" valign="top" rowspan="1" colspan="1">5.4 (0–14; 3.3)</td><td align="center" valign="top" rowspan="1" colspan="1">0.2 vs. 1.7</td><td align="center" valign="top" rowspan="1" colspan="1">
+<bold>0.011</bold>
+</td><td align="center" valign="top" rowspan="1" colspan="1">0.600</td></tr><tr><td align="center" valign="top" rowspan="1" colspan="1">ISI</td><td align="center" valign="top" rowspan="1" colspan="1">51</td><td align="center" valign="top" rowspan="1" colspan="1">4.5 (0–15; 3.8)</td><td align="center" valign="top" rowspan="1" colspan="1">51</td><td align="center" valign="top" rowspan="1" colspan="1">5.7 (0–21; 5.6)</td><td align="center" valign="top" rowspan="1" colspan="1">0.3 vs. 2.5</td><td align="center" valign="top" rowspan="1" colspan="1">
+<bold>0.013</bold>
+</td><td align="center" valign="top" rowspan="1" colspan="1">0.573</td></tr><tr><td align="center" valign="top" rowspan="1" colspan="1">Epworth</td><td align="center" valign="top" rowspan="1" colspan="1">51</td><td align="center" valign="top" rowspan="1" colspan="1">5.0 (0–12; 2.9)</td><td align="center" valign="top" rowspan="1" colspan="1">51</td><td align="center" valign="top" rowspan="1" colspan="1">6.1 (0–14; 3.4)</td><td align="center" valign="top" rowspan="1" colspan="1">0.4 vs. 1.9</td><td align="center" valign="top" rowspan="1" colspan="1">
+<bold>0.003</bold>
+</td><td align="center" valign="top" rowspan="1" colspan="1">0.645</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">
+<p>Fatigue symptoms</p>
+</td><td align="center" valign="top" rowspan="1" colspan="1">Chalder</td><td align="center" valign="top" rowspan="1" colspan="1">51</td><td align="center" valign="top" rowspan="1" colspan="1">1.2 (0–8; 2.2)</td><td align="center" valign="top" rowspan="1" colspan="1">51</td><td align="center" valign="top" rowspan="1" colspan="1">3.2 (0–11; 3.8)</td><td align="center" valign="top" rowspan="1" colspan="1">1.1 vs. 3.1</td><td align="center" valign="top" rowspan="1" colspan="1">
+<bold>&lt; 0.001</bold>
+</td><td align="center" valign="top" rowspan="1" colspan="1">0.603</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Depressive symptoms</td><td align="center" valign="top" rowspan="1" colspan="1">PHQ9</td><td align="center" valign="top" rowspan="1" colspan="1">51</td><td align="center" valign="top" rowspan="1" colspan="1">3.9 (0–20; 4.0)</td><td align="center" valign="top" rowspan="1" colspan="1">51</td><td align="center" valign="top" rowspan="1" colspan="1">4.9 (0–26; 4.7)</td><td align="center" valign="top" rowspan="1" colspan="1">0.2 vs. 2.3</td><td align="center" valign="top" rowspan="1" colspan="1">0.105</td><td align="center" valign="top" rowspan="1" colspan="1">0.238</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Anxiety</td><td align="center" valign="top" rowspan="1" colspan="1">GAD7</td><td align="center" valign="top" rowspan="1" colspan="1">51</td><td align="center" valign="top" rowspan="1" colspan="1">3.8 (0–16; 4.1)</td><td align="center" valign="top" rowspan="1" colspan="1">51</td><td align="center" valign="top" rowspan="1" colspan="1">4.2 (0–19; 4.1)</td><td align="center" valign="top" rowspan="1" colspan="1">0.6 vs. 1.5</td><td align="center" valign="top" rowspan="1" colspan="1">0.385</td><td align="center" valign="top" rowspan="1" colspan="1">0.122</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Stress level</td><td align="center" valign="top" rowspan="1" colspan="1">PSS</td><td align="center" valign="top" rowspan="1" colspan="1">51</td><td align="center" valign="top" rowspan="1" colspan="1">20.70 (4–43; 8.6)</td><td align="center" valign="top" rowspan="1" colspan="1">51</td><td align="center" valign="top" rowspan="1" colspan="1">21.0 (1–47; 8.7)</td><td align="center" valign="top" rowspan="1" colspan="1">1.4 vs. 2.7</td><td align="center" valign="top" rowspan="1" colspan="1">0.510</td><td align="center" valign="top" rowspan="1" colspan="1">0.095</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Cognitive complaints</td><td align="center" valign="top" rowspan="1" colspan="1">FLei</td><td align="center" valign="top" rowspan="1" colspan="1">51</td><td align="center" valign="top" rowspan="1" colspan="1">26.9 (4–67; 14.2)</td><td align="center" valign="top" rowspan="1" colspan="1">51</td><td align="center" valign="top" rowspan="1" colspan="1">29.5 (6–101; 16.5)</td><td align="center" valign="top" rowspan="1" colspan="1">0.1 vs. 4.5</td><td align="center" valign="top" rowspan="1" colspan="1">0.060</td><td align="center" valign="top" rowspan="1" colspan="1">0.295</td></tr></tbody></table><table-wrap-foot id="jmd270021-ntgp-0002"><fn id="jmd270021-note-0002"><p>Abbreviations: Chalder, Chalder Fatigue Scale; Epworth, Epworth Sleepiness Scale; FLei, Fragebogen zur geistigen Leistungsfähigkeit (questionnaire of cognitive performance); GAD‐7, Generalized Anxiety Disorder Scale‐7; ISI, Insomnia Severity Index; PHQ‐9, Patient health questionnaire; PSQI, Pittsburgh sleep quality index; PSS, Perceived stress scale; SF‐12, 12‐item Short Form.</p></fn><fn id="jmd270021-note-0003"><label>*</label><p>
+<italic toggle="yes">p</italic>‐value significance level &lt; 0.05 (in bold).</p></fn></table-wrap-foot></table-wrap><fig position="float" fig-type="FIGURE" id="jmd270021-fig-0003" orientation="portrait"><label>FIGURE 3</label><caption><p>(a–g) Results of neuropsychological tests before and after SARS‐CoV‐2 infection. (a) Quality of Life SF‐12 (PCS‐12 and MCS‐12). (b) Sleeping disturbances (PSQI, ISI and Epworth). (c) Fatigue symptoms (Chalder fatigue scale). (d) Depressive symptoms (PHQ‐9). (e) Anxiety (GAD‐7). (f) Stress level (PSS). (g) Cognitive complaints (FLei). (a–g) Shows the different neuropsychological scores before and after SARS‐CoV‐2 infection. The y‐axis shows the respective absolute value of the applied clinical score. The x‐axis plots the responses of the respective cohorts (total cohort, recovered cohort and Long‐COVID cohort) before and after SARS‐CoV‐2 infection as box‐plots.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-5" orientation="portrait" xlink:href="JMD2-66-e70021-g003.jpg"/></fig><p>Sleep disorders (PSQI, ISI, Epworth; Figure <xref rid="jmd270021-fig-0003" ref-type="fig">3b</xref>): Scores were more abnormal post‐infection, though most patients had normal results both before and after. Abnormal scores were observed in 3.9% (PSQI &gt; 10), 19.6% (ISI ≥ 8), and 7.8% (Epworth ≥ 10).</p><p>Chalder Fatigue Score (Figure <xref rid="jmd270021-fig-0003" ref-type="fig">3c</xref>) was significantly higher post‐infection, with 11.7% (<italic toggle="yes">n</italic> = 6) scoring ≥ 4, indicating severe fatigue. No significant differences were found for depression, anxiety, stress, or cognitive complaints (PHQ9, GAD7, PSS, FLei; Figure <xref rid="jmd270021-fig-0003" ref-type="fig">3d–g</xref>; Table <xref rid="jmd270021-tbl-0002" ref-type="table">2</xref>). Multivariate regression (95% confidential interval) adjusted for LC and possible confounders such as sex (<italic toggle="yes">p</italic> = 0.946), age (0.210), neuropsychiatric manifestation (0,760) and dual vaccination (0.522) did not reveal an independent significant confounder for these effects.</p></sec><sec id="jmd270021-sec-0021"><label>3.3</label><title>Analysis of Subgroups</title><p>The cohort was divided into two groups: LC (<italic toggle="yes">n</italic> = 20) and “recovered” (<italic toggle="yes">n</italic> = 31) (Tables <xref rid="jmd270021-tbl-0003" ref-type="table">3</xref> and <xref rid="jmd270021-tbl-0004" ref-type="table">4</xref>). When analyzing the different phenotypes within the group of LC patients, 15% suffered from primarily neurologic/psychiatric or mixed manifestations, whereas in the “recovered group” even 38% suffered from primarily neurologic/psychiatric or mixed manifestations. Interestingly, 85% of the WD patients with LC suffered from primarily hepatic manifestations. In contrast, only 62% of the “recovered group” suffered from primarily hepatic manifestations. LC was defined as the development or worsening of at least one typical symptom (e.g., shortness of breath, chest pain, fatigue, brain fog, exercise capacity, or concentration disturbances) at moderate intensity, persisting until the survey. Patients without these criteria were classified as recovered. Using this definition, 39.2% (<italic toggle="yes">n</italic> = 20) had LC, while 60.8% (<italic toggle="yes">n</italic> = 31) were considered recovered. Tables <xref rid="jmd270021-supitem-0001" ref-type="supplementary-material">S1</xref> and <xref rid="jmd270021-supitem-0001" ref-type="supplementary-material">S2</xref> list new symptoms in both subgroups. In the LC group, the most common symptoms were concentration disorders (60%), fatigue (55%), reduced exercise capacity (50%), shortness of breath (40%), chest pain (20%), and brain fog. Significant differences between recovered and LC patients were found for fatigue (<italic toggle="yes">p</italic> = 0.035), exercise capacity (<italic toggle="yes">p</italic> = 0.004), shortness of breath (<italic toggle="yes">p</italic> &lt; 0.001), and concentration disorders (<italic toggle="yes">p</italic> &lt; 0.001). A broad range of new or aggravated symptoms developed post‐infection in the cohort.</p><table-wrap position="float" id="jmd270021-tbl-0003" content-type="TABLE" orientation="portrait"><label>TABLE 3</label><caption><p>Descriptive statistics of neuropsychological measures before and after COVID‐among WD patients with long COVID.</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><thead valign="bottom"><tr style="border-bottom:solid 1px #000000"><th align="left" rowspan="2" colspan="2" valign="bottom">Scoring scale</th><th align="center" valign="bottom" rowspan="1" colspan="1"/><th align="center" valign="bottom" rowspan="1" colspan="1">Before COVID‐19 infection</th><th align="center" valign="bottom" rowspan="1" colspan="1"/><th align="center" valign="bottom" rowspan="1" colspan="1">After COVID 19 infection</th><th align="center" valign="bottom" rowspan="1" colspan="1">95% confidence interval difference</th><th align="center" valign="bottom" rowspan="1" colspan="1">
+<italic toggle="yes">t</italic>‐Test</th><th align="center" valign="bottom" rowspan="1" colspan="1">Cohen's d</th></tr><tr style="border-bottom:solid 1px #000000"><th align="center" valign="bottom" rowspan="1" colspan="1">
+<italic toggle="yes">N</italic>
+</th><th align="center" valign="bottom" rowspan="1" colspan="1">Mean (range, SD)</th><th align="center" valign="bottom" rowspan="1" colspan="1">
+<italic toggle="yes">N</italic>
+</th><th align="center" valign="bottom" rowspan="1" colspan="1">Mean (range, SD)</th><th align="center" valign="bottom" rowspan="1" colspan="1">Lower vs. upper value</th><th align="center" valign="bottom" rowspan="1" colspan="1">
+<italic toggle="yes">p</italic>
+<xref rid="jmd270021-note-0005" ref-type="table-fn">*</xref>
+</th><th align="center" valign="bottom" rowspan="1" colspan="1">Effect size</th></tr></thead><tbody valign="top"><tr><td align="left" rowspan="2" valign="top" colspan="1">Quality of life</td><td align="center" valign="top" rowspan="1" colspan="1">SF12‐PHS</td><td align="center" valign="top" rowspan="1" colspan="1">20</td><td align="center" valign="top" rowspan="1" colspan="1">52.3 (42.3–57.3; 4.5)</td><td align="center" valign="top" rowspan="1" colspan="1">20</td><td align="center" valign="top" rowspan="1" colspan="1">44.6 (24.7–56.6; 10.2)</td><td align="center" valign="top" rowspan="1" colspan="1">3.5 vs. 11.9</td><td align="center" valign="top" rowspan="1" colspan="1">
+<bold>0.001</bold>
+</td><td align="center" valign="top" rowspan="1" colspan="1">0.854</td></tr><tr><td align="center" valign="top" rowspan="1" colspan="1">SF12‐MHS</td><td align="center" valign="top" rowspan="1" colspan="1">20</td><td align="center" valign="top" rowspan="1" colspan="1">47.7 (26.9–59.7; 9.3)</td><td align="center" valign="top" rowspan="1" colspan="1">20</td><td align="center" valign="top" rowspan="1" colspan="1">45.1 (21.4–61.0; 11.0)</td><td align="center" valign="top" rowspan="1" colspan="1">0.4 vs. 5.8</td><td align="center" valign="top" rowspan="1" colspan="1">
+<bold>0.024</bold>
+</td><td align="center" valign="top" rowspan="1" colspan="1">0.545</td></tr><tr><td align="left" rowspan="3" valign="top" colspan="1">Sleeping disturbances</td><td align="center" valign="top" rowspan="1" colspan="1">PSQI</td><td align="center" valign="top" rowspan="1" colspan="1">20</td><td align="center" valign="top" rowspan="1" colspan="1">5.1 (2–13; 2.8)</td><td align="center" valign="top" rowspan="1" colspan="1">20</td><td align="center" valign="top" rowspan="1" colspan="1">7.0 (3–14; 3.7)</td><td align="center" valign="top" rowspan="1" colspan="1">0.4 vs. 3.6</td><td align="center" valign="top" rowspan="1" colspan="1">
+<bold>0.014</bold>
+</td><td align="center" valign="top" rowspan="1" colspan="1">0.624</td></tr><tr><td align="center" valign="top" rowspan="1" colspan="1">ISI</td><td align="center" valign="top" rowspan="1" colspan="1">20</td><td align="center" valign="top" rowspan="1" colspan="1">4.9 (0–15; 4.0)</td><td align="center" valign="top" rowspan="1" colspan="1">20</td><td align="center" valign="top" rowspan="1" colspan="1">8.6 (0–31; 6.9)</td><td align="center" valign="top" rowspan="1" colspan="1">1.0 vs. 5.9</td><td align="center" valign="top" rowspan="1" colspan="1">
+<bold>0.003</bold>
+</td><td align="center" valign="top" rowspan="1" colspan="1">0.660</td></tr><tr><td align="center" valign="top" rowspan="1" colspan="1">Epworth</td><td align="center" valign="top" rowspan="1" colspan="1">20</td><td align="center" valign="top" rowspan="1" colspan="1">4.5 (1–12; 2.4)</td><td align="center" valign="top" rowspan="1" colspan="1">20</td><td align="center" valign="top" rowspan="1" colspan="1">7.1 (2–14; 3.5)</td><td align="center" valign="top" rowspan="1" colspan="1">0.9 vs. 4.4</td><td align="center" valign="top" rowspan="1" colspan="1">
+<bold>0.004</bold>
+</td><td align="center" valign="top" rowspan="1" colspan="1">0.750</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">
+<p>Fatigue symptoms</p>
+</td><td align="center" valign="top" rowspan="1" colspan="1">Chalder</td><td align="center" valign="top" rowspan="1" colspan="1">20</td><td align="center" valign="top" rowspan="1" colspan="1">1.7 (0–8; 2.6)</td><td align="center" valign="top" rowspan="1" colspan="1">20</td><td align="center" valign="top" rowspan="1" colspan="1">5.8 (0–14; 4.1)</td><td align="center" valign="top" rowspan="1" colspan="1">2.3 vs. 6.1</td><td align="center" valign="top" rowspan="1" colspan="1">
+<bold>&lt; 0.001</bold>
+</td><td align="center" valign="top" rowspan="1" colspan="1">1.063</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Depressive symptoms</td><td align="center" valign="top" rowspan="1" colspan="1">PHQ9</td><td align="center" valign="top" rowspan="1" colspan="1">20</td><td align="center" valign="top" rowspan="1" colspan="1">3.8 (0–10; 3.2)</td><td align="center" valign="top" rowspan="1" colspan="1">20</td><td align="center" valign="top" rowspan="1" colspan="1">7.4 (1–26; 5.9)</td><td align="center" valign="top" rowspan="1" colspan="1">1.6 vs. 5.6</td><td align="center" valign="top" rowspan="1" colspan="1">
+<bold>0.001</bold>
+</td><td align="center" valign="top" rowspan="1" colspan="1">0.840</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Anxiety</td><td align="center" valign="top" rowspan="1" colspan="1">GAD7</td><td align="center" valign="top" rowspan="1" colspan="1">20</td><td align="center" valign="top" rowspan="1" colspan="1">4.1 (0–14; 3.9)</td><td align="center" valign="top" rowspan="1" colspan="1">20</td><td align="center" valign="top" rowspan="1" colspan="1">6.4 (0–19; 5.3)</td><td align="center" valign="top" rowspan="1" colspan="1">0.5 vs. 3.8</td><td align="center" valign="top" rowspan="1" colspan="1">
+<bold>0.010</bold>
+</td><td align="center" valign="top" rowspan="1" colspan="1">0.623</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Stress level</td><td align="center" valign="top" rowspan="1" colspan="1">PSS</td><td align="center" valign="top" rowspan="1" colspan="1">20</td><td align="center" valign="top" rowspan="1" colspan="1">19.9 (4–41; 8.5)</td><td align="center" valign="top" rowspan="1" colspan="1">20</td><td align="center" valign="top" rowspan="1" colspan="1">24.1 (8–47; 9.6)</td><td align="center" valign="top" rowspan="1" colspan="1">1.2 vs. 6.7</td><td align="center" valign="top" rowspan="1" colspan="1">
+<bold>0.005</bold>
+</td><td align="center" valign="top" rowspan="1" colspan="1">0.676</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Cognitive complaints</td><td align="center" valign="top" rowspan="1" colspan="1">FLei</td><td align="center" valign="top" rowspan="1" colspan="1">20</td><td align="center" valign="top" rowspan="1" colspan="1">25.8 (4–67; 16.7)</td><td align="center" valign="top" rowspan="1" colspan="1">20</td><td align="center" valign="top" rowspan="1" colspan="1">34.1 (8–101; 21.6)</td><td align="center" valign="top" rowspan="1" colspan="1">2.7 vs. 13.7</td><td align="center" valign="top" rowspan="1" colspan="1">
+<bold>0.005</bold>
+</td><td align="center" valign="top" rowspan="1" colspan="1">0.699</td></tr></tbody></table><table-wrap-foot id="jmd270021-ntgp-0003"><fn id="jmd270021-note-0004"><p>Abbreviations: Chalder, Chalder Fatigue Scale; Epworth, Epworth Sleepiness Scale; FLei, Fragebogen zur geistigen Leistungsfähigkeit (questionnaire of cognitive performance); GAD‐7, Generalized Anxiety Disorder Scale‐7; ISI, Insomnia Severity Index; PHQ‐9, Patient health questionnaire; PSQI, Pittsburgh sleep quality index; PSS, Perceived stress scale; SF‐12, 12‐item Short Form.</p></fn><fn id="jmd270021-note-0005"><label>*</label><p>
+<italic toggle="yes">p</italic>‐value significance level &lt; 0.05 (in bold).</p></fn></table-wrap-foot></table-wrap><table-wrap position="float" id="jmd270021-tbl-0004" content-type="TABLE" orientation="portrait"><label>TABLE 4</label><caption><p>Descriptive statistics of neuropsychological measures before and after COVID‐among WD patients recovered from COVID‐19.</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><thead valign="bottom"><tr style="border-bottom:solid 1px #000000"><th align="left" rowspan="2" colspan="2" valign="bottom">Scoring scale</th><th align="center" valign="bottom" rowspan="1" colspan="1"/><th align="center" valign="bottom" rowspan="1" colspan="1">Before COVID‐19 infection</th><th align="center" valign="bottom" rowspan="1" colspan="1"/><th align="center" valign="bottom" rowspan="1" colspan="1">After COVID 19 infection</th><th align="center" valign="bottom" rowspan="1" colspan="1">95% confidence interval difference</th><th align="center" valign="bottom" rowspan="1" colspan="1">
+<italic toggle="yes">t</italic>‐Test</th><th align="center" valign="bottom" rowspan="1" colspan="1">Cohens's d</th></tr><tr style="border-bottom:solid 1px #000000"><th align="center" valign="bottom" rowspan="1" colspan="1">
+<italic toggle="yes">N</italic>
+</th><th align="center" valign="bottom" rowspan="1" colspan="1">Mean (range, SD)</th><th align="center" valign="bottom" rowspan="1" colspan="1">
+<italic toggle="yes">N</italic>
+</th><th align="center" valign="bottom" rowspan="1" colspan="1">Mean (range, SD)</th><th align="center" valign="bottom" rowspan="1" colspan="1">Lower vs. upper value</th><th align="center" valign="bottom" rowspan="1" colspan="1">
+<italic toggle="yes">p</italic>
+<xref rid="jmd270021-note-0007" ref-type="table-fn">*</xref>
+</th><th align="center" valign="bottom" rowspan="1" colspan="1">Effect size</th></tr></thead><tbody valign="top"><tr><td align="left" rowspan="2" valign="top" colspan="1">Quality of life</td><td align="center" valign="top" rowspan="1" colspan="1">SF12‐PHS</td><td align="center" valign="top" rowspan="1" colspan="1">31</td><td align="center" valign="top" rowspan="1" colspan="1">52.9 (38.9–61.6; 5.6)</td><td align="center" valign="top" rowspan="1" colspan="1">31</td><td align="center" valign="top" rowspan="1" colspan="1">52.2 (38.4–61.2; 5.7)</td><td align="center" valign="top" rowspan="1" colspan="1">0.2 vs. 1.7</td><td align="center" valign="top" rowspan="1" colspan="1">0.096</td><td align="center" valign="top" rowspan="1" colspan="1">0.270</td></tr><tr><td align="center" valign="top" rowspan="1" colspan="1">SF12‐MHS</td><td align="center" valign="top" rowspan="1" colspan="1">31</td><td align="center" valign="top" rowspan="1" colspan="1">50.2 (28.2–60.8; 7.9)</td><td align="center" valign="top" rowspan="1" colspan="1">31</td><td align="center" valign="top" rowspan="1" colspan="1">50.7 (27.5–60.8; 8.6)</td><td align="center" valign="top" rowspan="1" colspan="1">0.8 vs. 1.8</td><td align="center" valign="top" rowspan="1" colspan="1">0.988</td><td align="center" valign="top" rowspan="1" colspan="1">0.295</td></tr><tr><td align="left" rowspan="3" valign="top" colspan="1">Sleeping disturbances</td><td align="center" valign="top" rowspan="1" colspan="1">PSQI</td><td align="center" valign="top" rowspan="1" colspan="1">31</td><td align="center" valign="top" rowspan="1" colspan="1">4.0 (1–8; 1.7)</td><td align="center" valign="top" rowspan="1" colspan="1">31</td><td align="center" valign="top" rowspan="1" colspan="1">4.2 (0–10; 2.5)</td><td align="center" valign="top" rowspan="1" colspan="1">0.3 vs. 3.6</td><td align="center" valign="top" rowspan="1" colspan="1">0.388</td><td align="center" valign="top" rowspan="1" colspan="1">0.169</td></tr><tr><td align="center" valign="top" rowspan="1" colspan="1">ISI</td><td align="center" valign="top" rowspan="1" colspan="1">31</td><td align="center" valign="top" rowspan="1" colspan="1">3.6 (0–10; 3.1)</td><td align="center" valign="top" rowspan="1" colspan="1">31</td><td align="center" valign="top" rowspan="1" colspan="1">3.4 (0–11: 3.4)</td><td align="center" valign="top" rowspan="1" colspan="1">0.5 vs. 2.9</td><td align="center" valign="top" rowspan="1" colspan="1">1.0</td><td align="center" valign="top" rowspan="1" colspan="1">0.034</td></tr><tr><td align="center" valign="top" rowspan="1" colspan="1">Epworth</td><td align="center" valign="top" rowspan="1" colspan="1">31</td><td align="center" valign="top" rowspan="1" colspan="1">5.4 (0–12; 3.1)</td><td align="center" valign="top" rowspan="1" colspan="1">31</td><td align="center" valign="top" rowspan="1" colspan="1">5.3 (0–12; 3.0)</td><td align="center" valign="top" rowspan="1" colspan="1">0.3 vs. 2.1</td><td align="center" valign="top" rowspan="1" colspan="1">0.103</td><td align="center" valign="top" rowspan="1" colspan="1">0.313</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">
+<p>Fatigue symptoms</p>
+</td><td align="center" valign="top" rowspan="1" colspan="1">Chalder</td><td align="center" valign="top" rowspan="1" colspan="1">31</td><td align="center" valign="top" rowspan="1" colspan="1">0.7 (0–8; 1.8)</td><td align="center" valign="top" rowspan="1" colspan="1">31</td><td align="center" valign="top" rowspan="1" colspan="1">1.2 (0–7; 2.0)</td><td align="center" valign="top" rowspan="1" colspan="1">1.0 vs. 3.4</td><td align="center" valign="top" rowspan="1" colspan="1">
+<bold>0.001</bold>
+</td><td align="center" valign="top" rowspan="1" colspan="1">0.326</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Depressive symptoms</td><td align="center" valign="top" rowspan="1" colspan="1">PHQ9</td><td align="center" valign="top" rowspan="1" colspan="1">31</td><td align="center" valign="top" rowspan="1" colspan="1">4.1 (0–20; 4.6)</td><td align="center" valign="top" rowspan="1" colspan="1">31</td><td align="center" valign="top" rowspan="1" colspan="1">3.3 (0–10; 2.6)</td><td align="center" valign="top" rowspan="1" colspan="1">0.3 vs. 2.5</td><td align="center" valign="top" rowspan="1" colspan="1">0.290</td><td align="center" valign="top" rowspan="1" colspan="1">0.204</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Anxiety</td><td align="center" valign="top" rowspan="1" colspan="1">GAD7</td><td align="center" valign="top" rowspan="1" colspan="1">31</td><td align="center" valign="top" rowspan="1" colspan="1">3.6 (0–16; 4.4)</td><td align="center" valign="top" rowspan="1" colspan="1">31</td><td align="center" valign="top" rowspan="1" colspan="1">2.8 (0–6; 2.2)</td><td align="center" valign="top" rowspan="1" colspan="1">0.2 vs. 1.6</td><td align="center" valign="top" rowspan="1" colspan="1">0.269</td><td align="center" valign="top" rowspan="1" colspan="1">0.270</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Stress level</td><td align="center" valign="top" rowspan="1" colspan="1">PSS</td><td align="center" valign="top" rowspan="1" colspan="1">31</td><td align="center" valign="top" rowspan="1" colspan="1">21.4 (7–43; 8.7)</td><td align="center" valign="top" rowspan="1" colspan="1">31</td><td align="center" valign="top" rowspan="1" colspan="1">19.2 (1–37; 7.6)</td><td align="center" valign="top" rowspan="1" colspan="1">1.5 vs. 2.6</td><td align="center" valign="top" rowspan="1" colspan="1">0.259</td><td align="center" valign="top" rowspan="1" colspan="1">0.214</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Cognitive complaints</td><td align="center" valign="top" rowspan="1" colspan="1">FLei</td><td align="center" valign="top" rowspan="1" colspan="1">31</td><td align="center" valign="top" rowspan="1" colspan="1">27.1 (6–51; 12.1)</td><td align="center" valign="top" rowspan="1" colspan="1">31</td><td align="center" valign="top" rowspan="1" colspan="1">25.9 (6–49; 11.1)</td><td align="center" valign="top" rowspan="1" colspan="1">0.4 vs. 5.6</td><td align="center" valign="top" rowspan="1" colspan="1">0.252</td><td align="center" valign="top" rowspan="1" colspan="1">0.217</td></tr></tbody></table><table-wrap-foot id="jmd270021-ntgp-0004"><fn id="jmd270021-note-0006"><p>Abbreviations: Chalder, Chalder Fatigue Scale; Epworth, Epworth Sleepiness Scale; FLei, Fragebogen zur geistigen Leistungsfähigkeit (questionnaire of cognitive performance); GAD‐7, Generalized Anxiety Disorder Scale‐7; ISI, Insomnia Severity Index; PHQ‐9, Patient health questionnaire; PSQI, Pittsburgh sleep quality index; PSS, Perceived stress scale; SF‐12, 12‐item Short Form.</p></fn><fn id="jmd270021-note-0007"><label>*</label><p>
+<italic toggle="yes">p</italic>‐value significance level &lt; 0.05 (in bold).</p></fn></table-wrap-foot></table-wrap></sec><sec id="jmd270021-sec-0022"><label>3.4</label><title>Mental Health Assessments in <styled-content style="fixed-case" toggle="no">WD</styled-content> Patients With <styled-content style="fixed-case" toggle="no">LC</styled-content> Symptoms</title><p>Patients with LC showed more abnormal neuropsychological test results after SARS‐CoV‐2 infection compared to before (Table <xref rid="jmd270021-tbl-0003" ref-type="table">3</xref>). Tests for quality of life (SF12), sleep disturbances (PSQI, ISI, Epworth), fatigue (Chalder fatigue score), depression (PHQ9), anxiety (GAD7), stress (PSS), and cognitive complaints (FLei) revealed significantly worse scores post‐infection. The LC group (65% female, median age 33 years, SD 15.8) included 25% with neurological symptoms and 15% with compensated liver cirrhosis. All patients were vaccinated twice before 1st infection. Treatments included trientine (80%) and d‐penicillamine (15%), compared to 63.3% and 38.7% in recovered patients. Differences in copper chelation treatments were not statistically significant (Fisher's exact test).</p></sec><sec id="jmd270021-sec-0023"><label>3.5</label><title>Mental Health Assessments in <styled-content style="fixed-case" toggle="no">WD</styled-content> Patients With Recovered From <styled-content style="fixed-case" toggle="no">COVID</styled-content>‐19</title><p>The descriptive statistics of mental health assessments before and after COVID‐19 infection of WD patients who recovered from COVID‐19 (<italic toggle="yes">n</italic> = 31) are summarized in Table <xref rid="jmd270021-tbl-0004" ref-type="table">4</xref>. With the exception of the Chalder fatigue scale (<italic toggle="yes">p</italic> = 0.001), none of the assessments reached statistical significance.</p></sec></sec><sec sec-type="discussion" id="jmd270021-sec-0024"><label>4</label><title>Discussion</title><p>This study examines LC approximately 11 months after SARS‐CoV‐2 infection in WD patients, reflecting a typical cohort with hepatic and neurological manifestations [<xref rid="jmd270021-bib-0041" ref-type="bibr">41</xref>, <xref rid="jmd270021-bib-0042" ref-type="bibr">42</xref>, <xref rid="jmd270021-bib-0043" ref-type="bibr">43</xref>, <xref rid="jmd270021-bib-0044" ref-type="bibr">44</xref>]. Symptoms and neuropsychological scores worsened post‐infection, with fatigue, cephalgia, and concentration disorders most frequently reported. Fatigue was the most frequently reported symptom followed by cephalgia and concentration disorders. In other studies, commonly reported LC symptoms included fatigue, shortness of breath, sleep disturbances, concentration disorders (often referred to as brain fog), chest pain and anxiety or depression [<xref rid="jmd270021-bib-0011" ref-type="bibr">11</xref>, <xref rid="jmd270021-bib-0014" ref-type="bibr">14</xref>, <xref rid="jmd270021-bib-0015" ref-type="bibr">15</xref>, <xref rid="jmd270021-bib-0016" ref-type="bibr">16</xref>]. Our findings in the WD cohort are consistent with these descriptions. A German study [<xref rid="jmd270021-bib-0016" ref-type="bibr">16</xref>] found that 22.9% of patients were symptom‐free 12 months after SARS‐CoV‐2 infection, with reduced exercise capacity (56.3%) and fatigue (53.1%) being most common, leading to lower physical and mental quality of life. Our findings on reduced life quality in WD patients with LC, persisting for a median of 11 months, align with Seeßle et al.'s study [<xref rid="jmd270021-bib-0016" ref-type="bibr">16</xref>]. LC symptoms in our cohort included concentration disorders (60%), fatigue (55%), reduced exercise capacity (50%), shortness of breath (40%), chest pain (20%), and brain fog (15%). These symptoms in WD patients are similar to those in the general population [<xref rid="jmd270021-bib-0013" ref-type="bibr">13</xref>, <xref rid="jmd270021-bib-0015" ref-type="bibr">15</xref>, <xref rid="jmd270021-bib-0016" ref-type="bibr">16</xref>, <xref rid="jmd270021-bib-0045" ref-type="bibr">45</xref>], with LC affecting both physical and psychological health [<xref rid="jmd270021-bib-0013" ref-type="bibr">13</xref>, <xref rid="jmd270021-bib-0046" ref-type="bibr">46</xref>, <xref rid="jmd270021-bib-0047" ref-type="bibr">47</xref>, <xref rid="jmd270021-bib-0048" ref-type="bibr">48</xref>]. WD patients often report significant mental health impacts due to chronic liver and neurological diseases in 30%–40% of cases [<xref rid="jmd270021-bib-0007" ref-type="bibr">7</xref>]. Zimbrean et al. studied the mental well‐being of WD patients during the COVID‐19 pandemic, finding increased depression and lower self‐perceived mental health post‐pandemic [<xref rid="jmd270021-bib-0049" ref-type="bibr">49</xref>]. Our study, however, focused on clinical and neuropsychological functions after a confirmed SARS‐CoV‐2 infection. Similar to Zimbrean et al., we observed cognitive variations in WD patients post‐infection, showing they differ from the general population [<xref rid="jmd270021-bib-0049" ref-type="bibr">49</xref>]. While our data indicate reduced physical quality of life nearly a year after SARS‐CoV‐2 infection, Zimbrean et al. found a generally lower quality of life post‐pandemic. It remains unclear whether the reduced quality of life is due to the pandemic or SARS‐CoV‐2 infection, particularly if patients have not fully recovered. WD patients with LC showed a significant decline in both physical and mental health on the SF‐12 after SARS‐CoV‐2 infection. Scores for sleep disturbances (PSQI, ISI, Epworth) and fatigue (Chalder) were significantly worse, reflecting increased complaints in these areas. These findings are underlined by mild to strong effect size measures reflected in Cohen's d. The LC subgroup also reported higher levels of stress and anxiety compared to before infection. In contrast, no significant changes were observed in the recovered WD subgroup, except for fatigue on the Chalder scale. This supports the effectiveness of our LC definition in distinguishing it from the recovered group, where only fatigue showed significant change. Fatigue in WD patients is likely multifactorial, as it is common in chronic liver diseases [<xref rid="jmd270021-bib-0050" ref-type="bibr">50</xref>]. A recent estimate puts global LC prevalence at 4% [<xref rid="jmd270021-bib-0012" ref-type="bibr">12</xref>]. In our cohort, LC symptoms were present in 39%, a much higher rate than in the general population, with a median duration of 11 months post‐infection. Even if non‐respondents had no LC, the prevalence would still be 10.4%, higher than the general population. Our conservative LC definition likely prevents overestimating its prevalence in WD. Possible risk factors for LC include pre‐existing chronic diseases, female gender, and older age. WD, as a chronic liver and neurological disease, may explain the higher LC prevalence in this cohort compared to the general population [<xref rid="jmd270021-bib-0012" ref-type="bibr">12</xref>, <xref rid="jmd270021-bib-0013" ref-type="bibr">13</xref>]. Inconsistent with these risk factors, 50% of WD patients with LC in our cohort were female. Bandmann et al. proposed that neurologic deterioration in some patients may be caused by excessive mobilization of copper during chelator therapy, leading to an increase in the toxic “free” copper pool [<xref rid="jmd270021-bib-0041" ref-type="bibr">41</xref>]. This hypothesis is supported by a pivotal study by Brewer et al., demonstrating the correlation between elevated non‐ceruloplasmin‐bound copper and worsening neurologic outcomes [<xref rid="jmd270021-bib-0051" ref-type="bibr">51</xref>]. Therefore, the increased LC prevalence and mental health impact in WD patients may be due to the chronic liver disease and elevated copper levels [<xref rid="jmd270021-bib-0003" ref-type="bibr">3</xref>, <xref rid="jmd270021-bib-0051" ref-type="bibr">51</xref>, <xref rid="jmd270021-bib-0052" ref-type="bibr">52</xref>, <xref rid="jmd270021-bib-0053" ref-type="bibr">53</xref>, <xref rid="jmd270021-bib-0054" ref-type="bibr">54</xref>], though this is not limited to those with known neuropsychiatric manifestations. Within our cohort of WD patients, onset of symptoms was significantly earlier in primarily hepatic patients than in those with primarily neurologic/psychiatric or mixed manifestation. Interestingly, 85% of the WD patients with LC suffered from primarily hepatic manifestation, whereas only 62% of the WD patients without LC suffered from primarily hepatic manifestation. Therefore, a potential influence of earlier onset of symptoms—and a potential longer toxic copper influence‐ in WD might play an important role for the occurrence of LC in these patients. Other studies suggest that comorbidities increase susceptibility to neurocognitive decline [<xref rid="jmd270021-bib-0047" ref-type="bibr">47</xref>]. Our study suggests a higher LC prevalence in WD patients 11 months post‐infection compared to studies on mild, non‐hospitalized SARS‐CoV‐2 cases [<xref rid="jmd270021-bib-0015" ref-type="bibr">15</xref>, <xref rid="jmd270021-bib-0016" ref-type="bibr">16</xref>, <xref rid="jmd270021-bib-0055" ref-type="bibr">55</xref>]. WD patients, already presenting with a wide range of symptoms, are more likely to develop LC, though LC may only affect a subset of both WD patients and the general population [<xref rid="jmd270021-bib-0013" ref-type="bibr">13</xref>].</p><p>Over half of WD patients recover without long‐term impacts on quality of life or mental health, despite having a chronic disease. The LC subgroup had a median age of 33 years, compared to 39 years for the full cohort, with a similar median time since WD diagnosis (22 years vs. 23 years). Neurological symptoms were present in 25% of the LC subgroup (vs. 29.4% in the full cohort), and 15% had compensated liver cirrhosis (vs. 13.7%). Treatment with trientine was more common in the LC subgroup (80%) compared to recovered patients (63.3%), while d‐penicillamine use was lower in the LC group (15% vs. 38.7%). Despite the high proportion of trientine‐treated WD patients, these differences were not statistically significant. Similar to the general population, vaccination did not prevent LC, as all LC patients were fully vaccinated before their first infection. Vaccination rates in the cohort were high, with 86.3% completing both doses at least two weeks before infection and 92.2% receiving both doses overall, consistent with previous studies on vaccination adherence in WD patients [<xref rid="jmd270021-bib-0049" ref-type="bibr">49</xref>]. Comparing genotype vs. phenotype correlation, studies suggest that a homozygous mutation for H1069Q, compared to H1069Q compound heterozygous patients, leads to a later onset of disease but more frequent neurological manifestations [<xref rid="jmd270021-bib-0005" ref-type="bibr">5</xref>, <xref rid="jmd270021-bib-0042" ref-type="bibr">42</xref>, <xref rid="jmd270021-bib-0056" ref-type="bibr">56</xref>]. In our cohort, 41.7% with homozygous mutation for H1069Q suffered from a neurological or mixed phenotyp. However, this observation could not be confirmed in larger studies [<xref rid="jmd270021-bib-0057" ref-type="bibr">57</xref>]. In our data, a correlation between genotype and initial phenotype/occurrence of LC could not be clearly defined. Nevertheless, 85% of LC WD patients suffered from hepatic phenotype. Our study has several limitations. WD is a rare genetic disorder, and the small sample size may limit statistical power. Data were collected retrospectively via a self‐conducted survey, and the effects of the SARS‐CoV‐2 infection may be influenced by broader pandemic‐related factors, such as increased morbidity, mental health challenges, economic disruptions, and social isolation [<xref rid="jmd270021-bib-0046" ref-type="bibr">46</xref>, <xref rid="jmd270021-bib-0047" ref-type="bibr">47</xref>]. Pandemic effects also encompass economic disruptions such as job losses, business closures and a global recession, along with social consequences like isolation, educational disruptions and exacerbated inequalities [<xref rid="jmd270021-bib-0058" ref-type="bibr">58</xref>, <xref rid="jmd270021-bib-0059" ref-type="bibr">59</xref>]. Additionally, the pandemic has led to significant behavioral changes, such as increased remote work, heightened hygiene practices and has strained healthcare systems while accelerating digital transformation [<xref rid="jmd270021-bib-0060" ref-type="bibr">60</xref>]. Thus, we cannot exclude a contribution of any of these effects and subsequent psychological impact on the WD cohort.</p><p>Nevertheless, this is the first study to analyze LC in WD and its mental health effects. Our findings show that many WD patients experience long‐term symptoms and mental health deterioration after SARS‐CoV‐2 infection. WD patients should be closely monitored post‐infection, with attention to the potential negative impact on treatment adherence. Comprehensive therapies like physiotherapy, ergotherapy, and psychological or neurological evaluations may be needed and should be implemented in clinical routine. This study will help clinicians to devise better and react more appropriately among therapeutic decisions. Further research is required to understand the long‐term cognitive effects of COVID‐19 in WD and its potential impact on liver disease, particularly in patients with cirrhosis. Our data underscore the need for further investigations into the long‐term cognitive effects of COVID‐19 infection in WD and also the effect of SARS‐CoV‐2 on the development of the underlying liver disease in WD, with special interest in patients with cirrhosis.</p></sec><sec sec-type="conclusions" id="jmd270021-sec-0025"><label>5</label><title>Conclusion</title><p>COVID‐19 infection primarily affects physical health, sleep disturbances, and fatigue in WD patients. LC prevalence is higher than in the general population, with significant mental health impacts on quality of life, sleep, fatigue, depression, anxiety, stress, and cognitive complaints. An earlier onset of symptoms in WD might play an important role in the occurrence of LC in these patients. In summary, a large proportion of Wilson disease patients experience long‐term persistent symptoms and deteriorated mental health after SARS‐CoV‐2 infection. Therefore, Wilson disease patients should be well monitored post‐infection, especially considering the potential negative impacts of reduced mental health on adherence, which is essential for reaching desired therapeutic goals. Further studies are needed to examine the impact of SARS‐CoV‐2 on the natural course of WD.</p></sec><sec id="jmd270021-sec-0026"><title>Author Contributions</title><p>Study concept and design: Isabelle Mohr. Acquisition, analysis, and interpretation of the data: Maximilian Brand, Christophe Weber, Patrick Michl, Andrea Langel, Jessica Langel, and Viola Yuriko Leidner. Drafting the article: Isabelle Mohr and Uta Merle. Critical revision for important intellectual content: Isabelle Mohr, Maximilian Brand, Christophe Weber, Patrick Michl, Viola Yuriko Leidner, Alexander Olkus, Sebastian Köhrer, and Uta Merle. Statistical analysis: Isabelle Mohr and Maximilian Brand. Study supervision: Uta Merle. All authors approved the final version of the article and agreed to be accountable for all aspects of the work.</p></sec><sec id="jmd270021-sec-0027"><title>Ethics Statement</title><p>All procedures followed were in accordance with the ethical standards of the responsible committee on human experimentation (institutional and national) and with the Helsinki Declaration of 1975, as revised in 2000 (5). Ethics approval was obtained (University of Heidelberg, protocols S‐565/2011 and S‐546/2020), and all participants provided written informed consent. Proof of informed consent is available upon request from the corresponding author [<bold>I</bold>sabelle Mohr].</p></sec><sec sec-type="conclusions" id="jmd270021-sec-0028"><title>Consent</title><p>Written informed consent for the procedure and management was obtained from all individual participants included in the study.</p></sec><sec sec-type="COI-statement" id="jmd270021-sec-0029"><title>Conflicts of Interest</title><p>
+<bold>I</bold>sabelle Mohr advises for Univar, received travel grants from Univar and received speaker's fees from Orphalan. Maximilian Brand, Christophe Weber, Andrea Langel, Jessica Langel, Viola Yuriko Leidner, Alexander Olkus, and Sebastian Köhrer declare no conflicts of interest. Patrick Michl received honoraria from Falk, Orphalan, and AstraZeneca. Uta Merle received honoraria for teaching from Falk and Univar and received travel grants from Gilead and Falk.</p></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material id="jmd270021-supitem-0001" position="float" content-type="local-data" orientation="portrait"><caption><p>
+<bold>Data S1.</bold> Supporting Information.</p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="JMD2-66-e70021-s001.docx" position="float" orientation="portrait"/></supplementary-material></sec></body><back><ack id="jmd270021-sec-33"><title>Acknowledgments</title><p>Open Access funding enabled and organized by Projekt DEAL.</p></ack><sec sec-type="data-availability" id="jmd270021-sec-0031"><title>Data Availability Statement</title><p>Data are available from the authors with the permission of the corresponding author. The data that support the findings of this study are available from the corresponding author [<bold>I</bold>sabelle Mohr] upon reasonable request.</p></sec><ref-list content-type="cited-references" id="jmd270021-bibl-0001"><title>References</title><ref id="jmd270021-bib-0001"><label>1</label><mixed-citation publication-type="journal" id="jmd270021-cit-0001">
+<string-name name-style="western">
+<given-names>M. L.</given-names>
+<surname>Schilsky</surname>
+</string-name>, <string-name name-style="western">
+<given-names>E. A.</given-names>
+<surname>Roberts</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J. M.</given-names>
+<surname>Bronstein</surname>
+</string-name>, et al., “<article-title>A Multidisciplinary Approach to the Diagnosis and Management of Wilson Disease: 2022 Practice Guidance on Wilson Disease From the American Association for the Study of Liver Diseases</article-title>,” <source>Hepatology</source> (<year>2022</year>), <pub-id pub-id-type="doi">10.1002/hep.32801</pub-id>.<pub-id pub-id-type="pmid">36151586</pub-id></mixed-citation></ref><ref id="jmd270021-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="jmd270021-cit-0002">
+<collab collab-type="authors">European Association for the Study of the, L</collab>
+., “<article-title>EASL‐ERN Clinical Practice Guidelines on Wilson's Disease</article-title>,” <source>Journal of Hepatology</source>
+<volume>82</volume> (<year>2025</year>): <fpage>690</fpage>–<lpage>728</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.jhep.2024.11.007</pub-id><pub-id pub-id-type="pmid">40089450</pub-id></mixed-citation></ref><ref id="jmd270021-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="jmd270021-cit-0003">
+<string-name name-style="western">
+<given-names>G. J.</given-names>
+<surname>Brewer</surname>
+</string-name>, “<article-title>Risks of Copper and Iron Toxicity During Aging in Humans</article-title>,” <source>Chemical Research in Toxicology</source>
+<volume>23</volume>, no. <issue>2</issue> (<year>2010</year>): <fpage>319</fpage>–<lpage>326</lpage>.<pub-id pub-id-type="pmid">19968254</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1021/tx900338d</pub-id></mixed-citation></ref><ref id="jmd270021-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="jmd270021-cit-0004">
+<string-name name-style="western">
+<given-names>U.</given-names>
+<surname>Merle</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Schaefer</surname>
+</string-name>, <string-name name-style="western">
+<given-names>P.</given-names>
+<surname>Ferenci</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>W.</given-names>
+<surname>Stremmel</surname>
+</string-name>, “<article-title>Clinical Presentation, Diagnosis and Long‐Term Outcome of Wilson's Disease: A Cohort Study</article-title>,” <source>Gut</source>
+<volume>56</volume>, no. <issue>1</issue> (<year>2007</year>): <fpage>115</fpage>–<lpage>120</lpage>.<pub-id pub-id-type="pmid">16709660</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1136/gut.2005.087262</pub-id><pub-id pub-id-type="pmcid">PMC1856673</pub-id></mixed-citation></ref><ref id="jmd270021-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="jmd270021-cit-0005">
+<string-name name-style="western">
+<given-names>P.</given-names>
+<surname>Ferenci</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Członkowska</surname>
+</string-name>, <string-name name-style="western">
+<given-names>U.</given-names>
+<surname>Merle</surname>
+</string-name>, et al., “<article-title>Late‐Onset Wilson's Disease</article-title>,” <source>Gastroenterology</source>
+<volume>132</volume>, no. <issue>4</issue> (<year>2007</year>): <fpage>1294</fpage>–<lpage>1298</lpage>.<pub-id pub-id-type="pmid">17433323</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1053/j.gastro.2007.02.057</pub-id></mixed-citation></ref><ref id="jmd270021-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="jmd270021-cit-0006">
+<string-name name-style="western">
+<given-names>P.</given-names>
+<surname>Zimbrean</surname>
+</string-name> and <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Seniow</surname>
+</string-name>, “<article-title>Cognitive and Psychiatric Symptoms in Wilson Disease</article-title>,” <source>Handbook of Clinical Neurology</source>
+<volume>142</volume> (<year>2017</year>): <fpage>121</fpage>–<lpage>140</lpage>.<pub-id pub-id-type="pmid">28433097</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/B978-0-444-63625-6.00011-2</pub-id></mixed-citation></ref><ref id="jmd270021-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="jmd270021-cit-0007">
+<string-name name-style="western">
+<given-names>M. A.</given-names>
+<surname>Camarata</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Ala</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A. K.</given-names>
+<surname>Coskun</surname>
+</string-name>, et al., “<article-title>The Effect of Mental Health, Neurological Disease, and Liver Disease on Quality of Life in Patients With Wilson Disease</article-title>,” <source>Journal of the Academy of Consultation‐Liaison Psychiatry</source>
+<volume>62</volume>, no. <issue>5</issue> (<year>2021</year>): <fpage>528</fpage>–<lpage>537</lpage>.<pub-id pub-id-type="pmid">34044196</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.jaclp.2021.04.004</pub-id><pub-id pub-id-type="pmcid">PMC11165927</pub-id></mixed-citation></ref><ref id="jmd270021-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="jmd270021-cit-0008">
+<string-name name-style="western">
+<given-names>P. C.</given-names>
+<surname>Zimbrean</surname>
+</string-name> and <string-name name-style="western">
+<given-names>M. L.</given-names>
+<surname>Schilsky</surname>
+</string-name>, “<article-title>Psychiatric Aspects of Wilson Disease: A Review</article-title>,” <source>General Hospital Psychiatry</source>
+<volume>36</volume>, no. <issue>1</issue> (<year>2014</year>): <fpage>53</fpage>–<lpage>62</lpage>.<pub-id pub-id-type="pmid">24120023</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.genhosppsych.2013.08.007</pub-id></mixed-citation></ref><ref id="jmd270021-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="jmd270021-cit-0009">
+<string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Pan</surname>
+</string-name>, <string-name name-style="western">
+<given-names>X.</given-names>
+<surname>Wan</surname>
+</string-name>, et al., “<article-title>A Longitudinal Study on the Mental Health of General Population During the COVID‐19 Epidemic in China</article-title>,” <source>Brain, Behavior, and Immunity</source>
+<volume>87</volume> (<year>2020</year>): <fpage>40</fpage>–<lpage>48</lpage>.<pub-id pub-id-type="pmid">32298802</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.bbi.2020.04.028</pub-id><pub-id pub-id-type="pmcid">PMC7153528</pub-id></mixed-citation></ref><ref id="jmd270021-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="jmd270021-cit-0010">
+<string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Lee</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Steel</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.‐E.</given-names>
+<surname>Roumelioti</surname>
+</string-name>, et al., “<article-title>Psychosocial Impact of COVID‐19 Pandemic on Patients With End‐Stage Kidney Disease on Hemodialysis</article-title>,” <source>Kidney360</source>
+<volume>1</volume>, no. <issue>12</issue> (<year>2020</year>): <fpage>1390</fpage>–<lpage>1397</lpage>, <pub-id pub-id-type="doi">10.34067/KID.0004662020</pub-id>.<pub-id pub-id-type="pmid">35372893</pub-id>
+<pub-id pub-id-type="pmcid">PMC8815537</pub-id></mixed-citation></ref><ref id="jmd270021-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="jmd270021-cit-0011">
+<string-name name-style="western">
+<given-names>J. C.</given-names>
+<surname>Pedrozo‐Pupo</surname>
+</string-name> and <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Campo‐Arias</surname>
+</string-name>, “<article-title>Depression, Perceived Stress Related to COVID, Post‐Traumatic Stress, and Insomnia Among Asthma and COPD Patients During the COVID‐19 Pandemic</article-title>,” <source>Chronic Respiratory Disease</source>
+<volume>17</volume> (<year>2020</year>): <elocation-id>1479973120962800</elocation-id>.<pub-id pub-id-type="pmid">33000648</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1177/1479973120962800</pub-id><pub-id pub-id-type="pmcid">PMC7533953</pub-id></mixed-citation></ref><ref id="jmd270021-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="jmd270021-cit-0012">
+<string-name name-style="western">
+<given-names>R. E.</given-names>
+<surname>Hamlin</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S. M.</given-names>
+<surname>Pienkos</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Chan</surname>
+</string-name>, et al., “<article-title>Sex Differences and Immune Correlates of Long COVID Development, Persistence, and Resolution</article-title>,” <source>Science Translational Medicine</source>
+<volume>16</volume>, no. <issue>773</issue> (<year>2024</year>): <elocation-id>eadr1032</elocation-id>, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://10.1126/scitranslmed.adr1032" ext-link-type="uri">https://10.1126/scitranslmed.adr1032</ext-link>.<pub-id pub-id-type="pmid">39536117</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1126/scitranslmed.adr1032</pub-id><pub-id pub-id-type="pmcid">PMC12148066</pub-id></mixed-citation></ref><ref id="jmd270021-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="jmd270021-cit-0013">
+<string-name name-style="western">
+<given-names>H. E.</given-names>
+<surname>Davis</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L.</given-names>
+<surname>McCorkell</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J. M.</given-names>
+<surname>Vogel</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>E. J.</given-names>
+<surname>Topol</surname>
+</string-name>, “<article-title>Long COVID: Major Findings, Mechanisms and Recommendations</article-title>,” <source>Nature Reviews. Microbiology</source>
+<volume>21</volume>, no. <issue>3</issue> (<year>2023</year>): <fpage>133</fpage>–<lpage>146</lpage>.<pub-id pub-id-type="pmid">36639608</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41579-022-00846-2</pub-id><pub-id pub-id-type="pmcid">PMC9839201</pub-id></mixed-citation></ref><ref id="jmd270021-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="jmd270021-cit-0014">
+<string-name name-style="western">
+<given-names>S. J.</given-names>
+<surname>Yong</surname>
+</string-name> and <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Liu</surname>
+</string-name>, “<article-title>Proposed Subtypes of Post‐COVID‐19 Syndrome (Or Long‐COVID) and Their Respective Potential Therapies</article-title>,” <source>Reviews in Medical Virology</source>
+<volume>32</volume>, no. <issue>4</issue> (<year>2022</year>): <elocation-id>e2315</elocation-id>.<pub-id pub-id-type="pmid">34888989</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/rmv.2315</pub-id></mixed-citation></ref><ref id="jmd270021-bib-0015"><label>15</label><mixed-citation publication-type="journal" id="jmd270021-cit-0015">
+<string-name name-style="western">
+<given-names>H. E.</given-names>
+<surname>Davis</surname>
+</string-name>, <string-name name-style="western">
+<given-names>G. S.</given-names>
+<surname>Assaf</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L.</given-names>
+<surname>McCorkell</surname>
+</string-name>, et al., “<article-title>Characterizing Long COVID in an International Cohort: 7 Months of Symptoms and Their Impact</article-title>,” <source>eClinicalMedicine</source>
+<volume>38</volume> (<year>2021</year>): <elocation-id>101019</elocation-id>, <pub-id pub-id-type="doi">10.1016/j.eclinm.2021.101019</pub-id>.<pub-id pub-id-type="pmid">34308300</pub-id>
+<pub-id pub-id-type="pmcid">PMC8280690</pub-id></mixed-citation></ref><ref id="jmd270021-bib-0016"><label>16</label><mixed-citation publication-type="journal" id="jmd270021-cit-0016">
+<string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Seessle</surname>
+</string-name>, <string-name name-style="western">
+<given-names>T.</given-names>
+<surname>Waterboer</surname>
+</string-name>, <string-name name-style="western">
+<given-names>T.</given-names>
+<surname>Hippchen</surname>
+</string-name>, et al., “<article-title>Persistent Symptoms in Adult Patients 1 Year After Coronavirus Disease 2019 (COVID‐19): A Prospective Cohort Study</article-title>,” <source>Clinical Infectious Diseases</source>
+<volume>74</volume>, no. <issue>7</issue> (<year>2022</year>): <fpage>1191</fpage>–<lpage>1198</lpage>.<pub-id pub-id-type="pmid">34223884</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/cid/ciab611</pub-id><pub-id pub-id-type="pmcid">PMC8394862</pub-id></mixed-citation></ref><ref id="jmd270021-bib-0017"><label>17</label><mixed-citation publication-type="journal" id="jmd270021-cit-0017">
+<string-name name-style="western">
+<given-names>H. C.</given-names>
+<surname>Koc</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Xiao</surname>
+</string-name>, <string-name name-style="western">
+<given-names>W.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Li</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>G.</given-names>
+<surname>Chen</surname>
+</string-name>, “<article-title>Long COVID and Its Management</article-title>,” <source>International Journal of Biological Sciences</source>
+<volume>18</volume>, no. <issue>12</issue> (<year>2022</year>): <fpage>4768</fpage>–<lpage>4780</lpage>.<pub-id pub-id-type="pmid">35874958</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.7150/ijbs.75056</pub-id><pub-id pub-id-type="pmcid">PMC9305273</pub-id></mixed-citation></ref><ref id="jmd270021-bib-0018"><label>18</label><mixed-citation publication-type="journal" id="jmd270021-cit-0018">
+<string-name name-style="western">
+<given-names>M. J.</given-names>
+<surname>Peluso</surname>
+</string-name>, <string-name name-style="western">
+<given-names>T. M.</given-names>
+<surname>Deveau</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S. E.</given-names>
+<surname>Munter</surname>
+</string-name>, et al., “<article-title>Chronic Viral Coinfections Differentially Affect the Likelihood of Developing Long COVID</article-title>,” <source>Journal of Clinical Investigation</source>
+<volume>133</volume>, no. <issue>3</issue> (<year>2023</year>): <elocation-id>e163669</elocation-id>, <pub-id pub-id-type="doi">10.1172/JCI163669</pub-id>.<pub-id pub-id-type="pmid">36454631</pub-id>
+<pub-id pub-id-type="pmcid">PMC9888380</pub-id></mixed-citation></ref><ref id="jmd270021-bib-0019"><label>19</label><mixed-citation publication-type="journal" id="jmd270021-cit-0019">
+<string-name name-style="western">
+<given-names>Z.</given-names>
+<surname>Swank</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Senussi</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Z.</given-names>
+<surname>Manickas‐Hill</surname>
+</string-name>, et al., “<article-title>Persistent Circulating Severe Acute Respiratory Syndrome Coronavirus 2 Spike Is Associated With Post‐Acute Coronavirus Disease 2019 Sequelae</article-title>,” <source>Clinical Infectious Diseases</source>
+<volume>76</volume>, no. <issue>3</issue> (<year>2023</year>): <fpage>e487</fpage>–<lpage>e490</lpage>.<pub-id pub-id-type="pmid">36052466</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/cid/ciac722</pub-id><pub-id pub-id-type="pmcid">PMC10169416</pub-id></mixed-citation></ref><ref id="jmd270021-bib-0020"><label>20</label><mixed-citation publication-type="journal" id="jmd270021-cit-0020">
+<string-name name-style="western">
+<given-names>E.</given-names>
+<surname>Pretorius</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Venter</surname>
+</string-name>, <string-name name-style="western">
+<given-names>G. J.</given-names>
+<surname>Laubscher</surname>
+</string-name>, et al., “<article-title>Prevalence of Symptoms, Comorbidities, Fibrin Amyloid Microclots and Platelet Pathology in Individuals With Long COVID/Post‐Acute Sequelae of COVID‐19 (PASC)</article-title>,” <source>Cardiovascular Diabetology</source>
+<volume>21</volume>, no. <issue>1</issue> (<year>2022</year>): <fpage>148</fpage>.<pub-id pub-id-type="pmid">35933347</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1186/s12933-022-01579-5</pub-id><pub-id pub-id-type="pmcid">PMC9356426</pub-id></mixed-citation></ref><ref id="jmd270021-bib-0021"><label>21</label><mixed-citation publication-type="journal" id="jmd270021-cit-0021">
+<string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Cervia‐Hasler</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S. C.</given-names>
+<surname>Brüningk</surname>
+</string-name>, <string-name name-style="western">
+<given-names>T.</given-names>
+<surname>Hoch</surname>
+</string-name>, et al., “<article-title>Persistent Complement Dysregulation With Signs of Thromboinflammation in Active Long Covid</article-title>,” <source>Science</source>
+<volume>383</volume>, no. <issue>6680</issue> (<year>2024</year>): <elocation-id>eadg7942</elocation-id>, <pub-id pub-id-type="doi">10.1126/science.adg7942</pub-id>.<pub-id pub-id-type="pmid">38236961</pub-id>
+</mixed-citation></ref><ref id="jmd270021-bib-0022"><label>22</label><mixed-citation publication-type="journal" id="jmd270021-cit-0022">
+<string-name name-style="western">
+<given-names>A. M.</given-names>
+<surname>Moon</surname>
+</string-name>, <string-name name-style="western">
+<given-names>G. J.</given-names>
+<surname>Webb</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Aloman</surname>
+</string-name>, et al., “<article-title>High Mortality Rates for SARS‐CoV‐2 Infection in Patients With Pre‐Existing Chronic Liver Disease and Cirrhosis: Preliminary Results From an International Registry</article-title>,” <source>Journal of Hepatology</source>
+<volume>73</volume>, no. <issue>3</issue> (<year>2020</year>): <fpage>705</fpage>–<lpage>708</lpage>.<pub-id pub-id-type="pmid">32446714</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.jhep.2020.05.013</pub-id><pub-id pub-id-type="pmcid">PMC7241346</pub-id></mixed-citation></ref><ref id="jmd270021-bib-0023"><label>23</label><mixed-citation publication-type="journal" id="jmd270021-cit-0023">
+<string-name name-style="western">
+<given-names>Q.</given-names>
+<surname>Huang</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Jia</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Sun</surname>
+</string-name>, et al., “<article-title>One‐Year Temporal Changes in Long COVID Prevalence and Characteristics: A Systematic Review and Meta‐Analysis</article-title>,” <source>Value in Health</source>
+<volume>26</volume>, no. <issue>6</issue> (<year>2023</year>): <fpage>934</fpage>–<lpage>942</lpage>.<pub-id pub-id-type="pmid">36436792</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.jval.2022.11.011</pub-id></mixed-citation></ref><ref id="jmd270021-bib-0024"><label>24</label><mixed-citation publication-type="journal" id="jmd270021-cit-0024">
+<string-name name-style="western">
+<given-names>R. S.</given-names>
+<surname>Peter</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Nieters</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Göpel</surname>
+</string-name>, et al., “<article-title>Persistent Symptoms and Clinical Findings in Adults With Post‐Acute Sequelae of COVID‐19/Post‐COVID‐19 Syndrome in the Second Year After Acute Infection: Population‐Based, Nested Case‐Control Study</article-title>,” <source>medRxiv</source>
+<volume>22</volume>, no. <issue>1</issue> (<year>2024</year>): <elocation-id>e1004511</elocation-id>, <pub-id pub-id-type="doi">10.1371/journal.pmed.1004511</pub-id>.<pub-id pub-id-type="pmcid">PMC12005676</pub-id><pub-id pub-id-type="pmid">39847575</pub-id></mixed-citation></ref><ref id="jmd270021-bib-0025"><label>25</label><mixed-citation publication-type="journal" id="jmd270021-cit-0025">
+<string-name name-style="western">
+<given-names>J. E.</given-names>
+<surname>Ware</surname>, <suffix>Jr.</suffix>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Phillips</surname>
+</string-name>, <string-name name-style="western">
+<given-names>B. B.</given-names>
+<surname>Yody</surname>
+</string-name>, et al., “<article-title>Assessment Tools: Functional Health Status and Patient Satisfaction</article-title>,” <source>American Journal of Medical Quality</source>
+<volume>11</volume>, no. <issue>1</issue> (<year>1996</year>): <fpage>S50</fpage>–<lpage>S53</lpage>.<pub-id pub-id-type="pmid">8763235</pub-id>
+</mixed-citation></ref><ref id="jmd270021-bib-0026"><label>26</label><mixed-citation publication-type="journal" id="jmd270021-cit-0026">
+<string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Ware</surname>, <suffix>Jr.</suffix>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Kosinski</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>S. D.</given-names>
+<surname>Keller</surname>
+</string-name>, “<article-title>A 12‐Item Short‐Form Health Survey: Construction of Scales and Preliminary Tests of Reliability and Validity</article-title>,” <source>Medical Care</source>
+<volume>34</volume>, no. <issue>3</issue> (<year>1996</year>): <fpage>220</fpage>–<lpage>233</lpage>.<pub-id pub-id-type="pmid">8628042</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1097/00005650-199603000-00003</pub-id></mixed-citation></ref><ref id="jmd270021-bib-0027"><label>27</label><mixed-citation publication-type="journal" id="jmd270021-cit-0027">
+<string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Backhaus</surname>
+</string-name>, <string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Junghanns</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Broocks</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Riemann</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>F.</given-names>
+<surname>Hohagen</surname>
+</string-name>, “<article-title>Test‐Retest Reliability and Validity of the Pittsburgh Sleep Quality Index in Primary Insomnia</article-title>,” <source>Journal of Psychosomatic Research</source>
+<volume>53</volume>, no. <issue>3</issue> (<year>2002</year>): <fpage>737</fpage>–<lpage>740</lpage>.<pub-id pub-id-type="pmid">12217446</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/s0022-3999(02)00330-6</pub-id></mixed-citation></ref><ref id="jmd270021-bib-0028"><label>28</label><mixed-citation publication-type="journal" id="jmd270021-cit-0028">
+<string-name name-style="western">
+<given-names>D. J.</given-names>
+<surname>Buysse</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C. F.</given-names>
+<surname>Reynolds</surname>, <suffix>III</suffix>
+</string-name>, <string-name name-style="western">
+<given-names>T. H.</given-names>
+<surname>Monk</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S. R.</given-names>
+<surname>Berman</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>D. J.</given-names>
+<surname>Kupfer</surname>
+</string-name>, “<article-title>The Pittsburgh Sleep Quality Index: A New Instrument for Psychiatric Practice and Research</article-title>,” <source>Psychiatry Research</source>
+<volume>28</volume>, no. <issue>2</issue> (<year>1989</year>): <fpage>193</fpage>–<lpage>213</lpage>.<pub-id pub-id-type="pmid">2748771</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/0165-1781(89)90047-4</pub-id></mixed-citation></ref><ref id="jmd270021-bib-0029"><label>29</label><mixed-citation publication-type="journal" id="jmd270021-cit-0029">
+<string-name name-style="western">
+<given-names>C. M.</given-names>
+<surname>Morin</surname>
+</string-name>, <string-name name-style="western">
+<given-names>G.</given-names>
+<surname>Belleville</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Bélanger</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Ivers</surname>
+</string-name>, “<article-title>The Insomnia Severity Index: Psychometric Indicators to Detect Insomnia Cases and Evaluate Treatment Response</article-title>,” <source>Sleep</source>
+<volume>34</volume>, no. <issue>5</issue> (<year>2011</year>): <fpage>601</fpage>–<lpage>608</lpage>.<pub-id pub-id-type="pmid">21532953</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/sleep/34.5.601</pub-id><pub-id pub-id-type="pmcid">PMC3079939</pub-id></mixed-citation></ref><ref id="jmd270021-bib-0030"><label>30</label><mixed-citation publication-type="journal" id="jmd270021-cit-0030">
+<string-name name-style="western">
+<given-names>P.</given-names>
+<surname>Lopez‐Jornet</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M. L.</given-names>
+<surname>Berdugo</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Fernandez‐Pujante</surname>
+</string-name>, et al., “<article-title>Sleep Quality in Patients With Xerostomia: A Prospective and Randomized Case‐Control Study</article-title>,” <source>Acta Odontologica Scandinavica</source>
+<volume>74</volume>, no. <issue>3</issue> (<year>2016</year>): <fpage>224</fpage>–<lpage>228</lpage>, <pub-id pub-id-type="doi">10.3109/00016357.2015.1099730</pub-id>.<pub-id pub-id-type="pmid">26473793</pub-id>
+</mixed-citation></ref><ref id="jmd270021-bib-0031"><label>31</label><mixed-citation publication-type="journal" id="jmd270021-cit-0031">
+<string-name name-style="western">
+<given-names>T.</given-names>
+<surname>Chalder</surname>
+</string-name>, <string-name name-style="western">
+<given-names>G.</given-names>
+<surname>Berelowitz</surname>
+</string-name>, <string-name name-style="western">
+<given-names>T.</given-names>
+<surname>Pawlikowska</surname>
+</string-name>, et al., “<article-title>Development of a Fatigue Scale</article-title>,” <source>Journal of Psychosomatic Research</source>
+<volume>37</volume>, no. <issue>2</issue> (<year>1993</year>): <fpage>147</fpage>–<lpage>153</lpage>.<pub-id pub-id-type="pmid">8463991</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/0022-3999(93)90081-p</pub-id></mixed-citation></ref><ref id="jmd270021-bib-0032"><label>32</label><mixed-citation publication-type="journal" id="jmd270021-cit-0032">
+<string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Jackson</surname>
+</string-name>, “<article-title>The Chalder Fatigue Scale (CFQ 11)</article-title>,” <source>Occupational Medicine (London)</source>
+<volume>65</volume>, no. <issue>1</issue> (<year>2015</year>): <fpage>86</fpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/occmed/kqu168</pub-id><pub-id pub-id-type="pmid">25559796</pub-id></mixed-citation></ref><ref id="jmd270021-bib-0033"><label>33</label><mixed-citation publication-type="journal" id="jmd270021-cit-0033">
+<string-name name-style="western">
+<given-names>R. K.</given-names>
+<surname>Morriss</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A. J.</given-names>
+<surname>Wearden</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Mullis</surname>
+</string-name>, “<article-title>Exploring the Validity of the Chalder Fatigue Scale in Chronic Fatigue Syndrome</article-title>,” <source>Journal of Psychosomatic Research</source>
+<volume>45</volume>, no. <issue>5</issue> (<year>1998</year>): <fpage>411</fpage>–<lpage>417</lpage>.<pub-id pub-id-type="pmid">9835234</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/s0022-3999(98)00022-1</pub-id></mixed-citation></ref><ref id="jmd270021-bib-0034"><label>34</label><mixed-citation publication-type="book" id="jmd270021-cit-0034">
+<string-name name-style="western">
+<given-names>I.</given-names>
+<surname>McDowell</surname>
+</string-name>, <source>Measuring Health: A Guide to Rating Scales and Questionnaires</source> (<publisher-name>Oxford university press</publisher-name>, <year>2006</year>).</mixed-citation></ref><ref id="jmd270021-bib-0035"><label>35</label><mixed-citation publication-type="journal" id="jmd270021-cit-0035">
+<string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Kroenke</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R. L.</given-names>
+<surname>Spitzer</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>J. B.</given-names>
+<surname>Williams</surname>
+</string-name>, “<article-title>The PHQ‐9: Validity of a Brief Depression Severity Measure</article-title>,” <source>Journal of General Internal Medicine</source>
+<volume>16</volume>, no. <issue>9</issue> (<year>2001</year>): <fpage>606</fpage>–<lpage>613</lpage>.<pub-id pub-id-type="pmid">11556941</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1046/j.1525-1497.2001.016009606.x</pub-id><pub-id pub-id-type="pmcid">PMC1495268</pub-id></mixed-citation></ref><ref id="jmd270021-bib-0036"><label>36</label><mixed-citation publication-type="journal" id="jmd270021-cit-0036">
+<string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Beard</surname>
+</string-name>, <string-name name-style="western">
+<given-names>K. J.</given-names>
+<surname>Hsu</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L. S.</given-names>
+<surname>Rifkin</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A. B.</given-names>
+<surname>Busch</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>T.</given-names>
+<surname>Björgvinsson</surname>
+</string-name>, “<article-title>Validation of the PHQ‐9 in a Psychiatric Sample</article-title>,” <source>Journal of Affective Disorders</source>
+<volume>193</volume> (<year>2016</year>): <fpage>267</fpage>–<lpage>273</lpage>.<pub-id pub-id-type="pmid">26774513</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.jad.2015.12.075</pub-id></mixed-citation></ref><ref id="jmd270021-bib-0037"><label>37</label><mixed-citation publication-type="journal" id="jmd270021-cit-0037">
+<string-name name-style="western">
+<given-names>R. L.</given-names>
+<surname>Spitzer</surname>
+</string-name>, <string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Kroenke</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J. B. W.</given-names>
+<surname>Williams</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>B.</given-names>
+<surname>Löwe</surname>
+</string-name>, “<article-title>A Brief Measure for Assessing Generalized Anxiety Disorder: The GAD‐7</article-title>,” <source>Archives of Internal Medicine</source>
+<volume>166</volume>, no. <issue>10</issue> (<year>2006</year>): <fpage>1092</fpage>–<lpage>1097</lpage>, <pub-id pub-id-type="doi">10.1001/archinte.166.10.1092</pub-id>.<pub-id pub-id-type="pmid">16717171</pub-id>
+</mixed-citation></ref><ref id="jmd270021-bib-0038"><label>38</label><mixed-citation publication-type="journal" id="jmd270021-cit-0038">
+<string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Cohen</surname>
+</string-name>, <string-name name-style="western">
+<given-names>T.</given-names>
+<surname>Kamarck</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Mermelstein</surname>
+</string-name>, “<article-title>A Global Measure of Perceived Stress</article-title>,” <source>Journal of Health and Social Behavior</source>
+<volume>24</volume> (<year>1983</year>): <fpage>385</fpage>–<lpage>396</lpage>.<pub-id pub-id-type="pmid">6668417</pub-id>
+</mixed-citation></ref><ref id="jmd270021-bib-0039"><label>39</label><mixed-citation publication-type="journal" id="jmd270021-cit-0039">
+<string-name name-style="western">
+<given-names>T.</given-names>
+<surname>Beblo</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Kunz</surname>
+</string-name>, <string-name name-style="western">
+<given-names>B.</given-names>
+<surname>Brokate</surname>
+</string-name>, et al., “<article-title>Entwicklung eines Fragebogens zur subjektiven Einschätzung der geistigen Leistungsfähigkeit (FLei) bei Patienten mit psychischen Störungen</article-title>,” <source>Zeitschrift für Neuropsychologie</source>
+<volume>21</volume> (<year>2010</year>): <fpage>143</fpage>–<lpage>151</lpage>.</mixed-citation></ref><ref id="jmd270021-bib-0040"><label>40</label><mixed-citation publication-type="book" id="jmd270021-cit-0040">
+<string-name name-style="western">
+<given-names>T.</given-names>
+<surname>Beblo</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Kunz</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Albert</surname>
+</string-name>, et al., <source>Vienna test system (VTS): Mental ability questionnaire (FLei)</source> (<publisher-name>Schuhfried</publisher-name>, <year>2012</year>).</mixed-citation></ref><ref id="jmd270021-bib-0041"><label>41</label><mixed-citation publication-type="journal" id="jmd270021-cit-0041">
+<string-name name-style="western">
+<given-names>O.</given-names>
+<surname>Bandmann</surname>
+</string-name>, <string-name name-style="western">
+<given-names>K. H.</given-names>
+<surname>Weiss</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>S. G.</given-names>
+<surname>Kaler</surname>
+</string-name>, “<article-title>Wilson's Disease and Other Neurological Copper Disorders</article-title>,” <source>Lancet Neurology</source>
+<volume>14</volume>, no. <issue>1</issue> (<year>2015</year>): <fpage>103</fpage>–<lpage>113</lpage>.<pub-id pub-id-type="pmid">25496901</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/S1474-4422(14)70190-5</pub-id><pub-id pub-id-type="pmcid">PMC4336199</pub-id></mixed-citation></ref><ref id="jmd270021-bib-0042"><label>42</label><mixed-citation publication-type="journal" id="jmd270021-cit-0042">
+<string-name name-style="western">
+<given-names>P.</given-names>
+<surname>Ferenci</surname>
+</string-name>, <string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Caca</surname>
+</string-name>, <string-name name-style="western">
+<given-names>G.</given-names>
+<surname>Loudianos</surname>
+</string-name>, et al., “<article-title>Diagnosis and Phenotypic Classification of Wilson Disease</article-title>,” <source>Liver International</source>
+<volume>23</volume>, no. <issue>3</issue> (<year>2003</year>): <fpage>139</fpage>–<lpage>142</lpage>, <pub-id pub-id-type="doi">10.1034/j.1600-0676.2003.00824.x</pub-id>.<pub-id pub-id-type="pmid">12955875</pub-id>
+</mixed-citation></ref><ref id="jmd270021-bib-0043"><label>43</label><mixed-citation publication-type="journal" id="jmd270021-cit-0043">
+<string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Poujois</surname>
+</string-name> and <string-name name-style="western">
+<given-names>F.</given-names>
+<surname>Woimant</surname>
+</string-name>, “<article-title>Wilson's Disease: A 2017 Update</article-title>,” <source>Clinics and Research in Hepatology and Gastroenterology</source>
+<volume>42</volume>, no. <issue>6</issue> (<year>2018</year>): <fpage>512</fpage>–<lpage>520</lpage>.<pub-id pub-id-type="pmid">29625923</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.clinre.2018.03.007</pub-id></mixed-citation></ref><ref id="jmd270021-bib-0044"><label>44</label><mixed-citation publication-type="journal" id="jmd270021-cit-0044">
+<string-name name-style="western">
+<given-names>I.</given-names>
+<surname>Mohr</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Pfeiffenberger</surname>
+</string-name>, <string-name name-style="western">
+<given-names>E.</given-names>
+<surname>Eker</surname>
+</string-name>, et al., “<article-title>Neurological Worsening in Wilson Disease ‐ Clinical Classification and Outcome</article-title>,” <source>Journal of Hepatology</source>
+<volume>79</volume>, no. <issue>2</issue> (<year>2023</year>): <fpage>321</fpage>–<lpage>328</lpage>.<pub-id pub-id-type="pmid">37116715</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.jhep.2023.04.007</pub-id></mixed-citation></ref><ref id="jmd270021-bib-0045"><label>45</label><mixed-citation publication-type="journal" id="jmd270021-cit-0045">
+<string-name name-style="western">
+<given-names>O.</given-names>
+<surname>Robineau</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Zins</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Touvier</surname>
+</string-name>, et al., “<article-title>Long‐Lasting Symptoms After an Acute COVID‐19 Infection and Factors Associated With Their Resolution</article-title>,” <source>JAMA Network Open</source>
+<volume>5</volume>, no. <issue>11</issue> (<year>2022</year>): <elocation-id>e2240985</elocation-id>.<pub-id pub-id-type="pmid">36350653</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1001/jamanetworkopen.2022.40985</pub-id><pub-id pub-id-type="pmcid">PMC9647489</pub-id></mixed-citation></ref><ref id="jmd270021-bib-0046"><label>46</label><mixed-citation publication-type="journal" id="jmd270021-cit-0046">
+<string-name name-style="western">
+<given-names>E.</given-names>
+<surname>Caroppo</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Mazza</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Sannella</surname>
+</string-name>, et al., “<article-title>Will Nothing be the Same Again?: Changes in Lifestyle During COVID‐19 Pandemic and Consequences on Mental Health</article-title>,” <source>International Journal of Environmental Research and Public Health</source>
+<volume>18</volume>, no. <issue>16</issue> (<year>2021</year>): <elocation-id>8433</elocation-id>.<pub-id pub-id-type="pmid">34444180</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3390/ijerph18168433</pub-id><pub-id pub-id-type="pmcid">PMC8393535</pub-id></mixed-citation></ref><ref id="jmd270021-bib-0047"><label>47</label><mixed-citation publication-type="journal" id="jmd270021-cit-0047">
+<string-name name-style="western">
+<given-names>R. A.</given-names>
+<surname>Evans</surname>
+</string-name>, <string-name name-style="western">
+<given-names>H. J. C.</given-names>
+<surname>McAuley</surname>
+</string-name>, <string-name name-style="western">
+<given-names>E. M.</given-names>
+<surname>Harrison</surname>
+</string-name>, et al., “<article-title>Physical, Cognitive, and Mental Health Impacts of COVID‐19 After Hospitalisation (PHOSP‐COVID): A UK Multicentre, Prospective Cohort Study</article-title>,” <source>Lancet Respiratory Medicine</source>
+<volume>9</volume>, no. <issue>11</issue> (<year>2021</year>): <fpage>1275</fpage>–<lpage>1287</lpage>.<pub-id pub-id-type="pmid">34627560</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/S2213-2600(21)00383-0</pub-id><pub-id pub-id-type="pmcid">PMC8497028</pub-id></mixed-citation></ref><ref id="jmd270021-bib-0048"><label>48</label><mixed-citation publication-type="journal" id="jmd270021-cit-0048">
+<string-name name-style="western">
+<given-names>N.</given-names>
+<surname>Vindegaard</surname>
+</string-name> and <string-name name-style="western">
+<given-names>M. E.</given-names>
+<surname>Benros</surname>
+</string-name>, “<article-title>COVID‐19 Pandemic and Mental Health Consequences: Systematic Review of the Current Evidence</article-title>,” <source>Brain, Behavior, and Immunity</source>
+<volume>89</volume> (<year>2020</year>): <fpage>531</fpage>–<lpage>542</lpage>.<pub-id pub-id-type="pmid">32485289</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.bbi.2020.05.048</pub-id><pub-id pub-id-type="pmcid">PMC7260522</pub-id></mixed-citation></ref><ref id="jmd270021-bib-0049"><label>49</label><mixed-citation publication-type="journal" id="jmd270021-cit-0049">
+<string-name name-style="western">
+<given-names>A. K.</given-names>
+<surname>Coskun</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Aydin</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Tosun</surname>
+</string-name>, et al., “<article-title>Wilson Disease and the COVID‐19 Pandemic: Exploring Patients' Mental Health and Vaccination Attitudes in a Longitudinal Study</article-title>,” <source>Frontiers in Psychology</source>
+<volume>15</volume> (<year>2024</year>): <elocation-id>1326802</elocation-id>.<pub-id pub-id-type="pmid">38803830</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3389/fpsyg.2024.1326802</pub-id><pub-id pub-id-type="pmcid">PMC11129684</pub-id></mixed-citation></ref><ref id="jmd270021-bib-0050"><label>50</label><mixed-citation publication-type="journal" id="jmd270021-cit-0050">
+<string-name name-style="western">
+<given-names>M. G.</given-names>
+<surname>Swain</surname>
+</string-name> and <string-name name-style="western">
+<given-names>D. E. J.</given-names>
+<surname>Jones</surname>
+</string-name>, “<article-title>Fatigue in Chronic Liver Disease: New Insights and Therapeutic Approaches</article-title>,” <source>Liver International</source>
+<volume>39</volume>, no. <issue>1</issue> (<year>2019</year>): <fpage>6</fpage>–<lpage>19</lpage>.<pub-id pub-id-type="pmid">29935104</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/liv.13919</pub-id></mixed-citation></ref><ref id="jmd270021-bib-0051"><label>51</label><mixed-citation publication-type="journal" id="jmd270021-cit-0051">
+<string-name name-style="western">
+<given-names>G. J.</given-names>
+<surname>Brewer</surname>
+</string-name>, <string-name name-style="western">
+<given-names>F.</given-names>
+<surname>Askari</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R. B.</given-names>
+<surname>Dick</surname>
+</string-name>, et al., “<article-title>Treatment of Wilson's Disease With Tetrathiomolybdate: V. Control of Free Copper by Tetrathiomolybdate and a Comparison With Trientine</article-title>,” <source>Translational Research</source>
+<volume>154</volume>, no. <issue>2</issue> (<year>2009</year>): <fpage>70</fpage>–<lpage>77</lpage>.<pub-id pub-id-type="pmid">19595438</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.trsl.2009.05.002</pub-id></mixed-citation></ref><ref id="jmd270021-bib-0052"><label>52</label><mixed-citation publication-type="journal" id="jmd270021-cit-0052">
+<string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Kodama</surname>
+</string-name>, <string-name name-style="western">
+<given-names>I.</given-names>
+<surname>Okabe</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Yanagisawa</surname>
+</string-name>, et al., “<article-title>Does CSF Copper Level in Wilson Disease Reflect Copper Accumulation in the Brain?</article-title>,” <source>Pediatric Neurology</source>
+<volume>4</volume>, no. <issue>1</issue> (<year>1988</year>): <fpage>35</fpage>–<lpage>37</lpage>.<pub-id pub-id-type="pmid">3233107</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/0887-8994(88)90022-7</pub-id></mixed-citation></ref><ref id="jmd270021-bib-0053"><label>53</label><mixed-citation publication-type="journal" id="jmd270021-cit-0053">
+<string-name name-style="western">
+<given-names>B.</given-names>
+<surname>Weisner</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Hartard</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Dieu</surname>
+</string-name>, “<article-title>CSF Copper Concentration: A New Parameter for Diagnosis and Monitoring Therapy of Wilson's Disease With Cerebral Manifestation</article-title>,” <source>Journal of the Neurological Sciences</source>
+<volume>79</volume>, no. <issue>1–2</issue> (<year>1987</year>): <fpage>229</fpage>–<lpage>237</lpage>.<pub-id pub-id-type="pmid">3612170</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/0022-510x(87)90275-9</pub-id></mixed-citation></ref><ref id="jmd270021-bib-0054"><label>54</label><mixed-citation publication-type="journal" id="jmd270021-cit-0054">
+<string-name name-style="western">
+<given-names>P.</given-names>
+<surname>Dusek</surname>
+</string-name>, <string-name name-style="western">
+<given-names>E.</given-names>
+<surname>Bahn</surname>
+</string-name>, <string-name name-style="western">
+<given-names>T.</given-names>
+<surname>Litwin</surname>
+</string-name>, et al., “<article-title>Brain Iron Accumulation in Wilson Disease: A Post Mortem 7 Tesla MRI ‐ Histopathological Study</article-title>,” <source>Neuropathology and Applied Neurobiology</source>
+<volume>43</volume>, no. <issue>6</issue> (<year>2017</year>): <fpage>514</fpage>–<lpage>532</lpage>.<pub-id pub-id-type="pmid">27543917</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/nan.12341</pub-id></mixed-citation></ref><ref id="jmd270021-bib-0055"><label>55</label><mixed-citation publication-type="journal" id="jmd270021-cit-0055">
+<string-name name-style="western">
+<given-names>R. S.</given-names>
+<surname>Peter</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Nieters</surname>
+</string-name>, <string-name name-style="western">
+<given-names>H. G.</given-names>
+<surname>Kräusslich</surname>
+</string-name>, et al., “<article-title>Post‐Acute Sequelae of Covid‐19 Six to 12 Months After Infection: Population Based Study</article-title>,” <source>BMJ</source>
+<volume>379</volume> (<year>2022</year>): <elocation-id>e071050</elocation-id>.<pub-id pub-id-type="pmid">36229057</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1136/bmj-2022-071050</pub-id><pub-id pub-id-type="pmcid">PMC9557001</pub-id></mixed-citation></ref><ref id="jmd270021-bib-0056"><label>56</label><mixed-citation publication-type="journal" id="jmd270021-cit-0056">
+<string-name name-style="western">
+<given-names>P.</given-names>
+<surname>Ferenci</surname>
+</string-name>, <string-name name-style="western">
+<given-names>W.</given-names>
+<surname>Stremmel</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Członkowska</surname>
+</string-name>, et al., “<article-title>Age and Sex but Not ATP7B Genotype Effectively Influence the Clinical Phenotype of Wilson Disease</article-title>,” <source>Hepatology</source>
+<volume>69</volume>, no. <issue>4</issue> (<year>2019</year>): <fpage>1464</fpage>–<lpage>1476</lpage>.<pub-id pub-id-type="pmid">30232804</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/hep.30280</pub-id></mixed-citation></ref><ref id="jmd270021-bib-0057"><label>57</label><mixed-citation publication-type="journal" id="jmd270021-cit-0057">
+<string-name name-style="western">
+<given-names>P.</given-names>
+<surname>Ferenci</surname>
+</string-name>, “<article-title>Phenotype‐Genotype Correlations in Patients With Wilson's Disease</article-title>,” <source>Annals of the New York Academy of Sciences</source>
+<volume>1315</volume> (<year>2014</year>): <fpage>1</fpage>–<lpage>5</lpage>.<pub-id pub-id-type="pmid">24517292</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/nyas.12340</pub-id></mixed-citation></ref><ref id="jmd270021-bib-0058"><label>58</label><mixed-citation publication-type="journal" id="jmd270021-cit-0058">
+<string-name name-style="western">
+<given-names>F.</given-names>
+<surname>Borrescio‐Higa</surname>
+</string-name>, <string-name name-style="western">
+<given-names>F.</given-names>
+<surname>Droller</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>P.</given-names>
+<surname>Valenzuela</surname>
+</string-name>, “<article-title>Financial Distress and Psychological Well‐Being During the COVID‐19 Pandemic</article-title>,” <source>International Journal of Public Health</source>
+<volume>67</volume> (<year>2022</year>): <elocation-id>1604591</elocation-id>.<pub-id pub-id-type="pmid">36090842</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3389/ijph.2022.1604591</pub-id><pub-id pub-id-type="pmcid">PMC9453756</pub-id></mixed-citation></ref><ref id="jmd270021-bib-0059"><label>59</label><mixed-citation publication-type="journal" id="jmd270021-cit-0059">
+<string-name name-style="western">
+<given-names>J. M.</given-names>
+<surname>Wilson</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Lee</surname>
+</string-name>, <string-name name-style="western">
+<given-names>H. N.</given-names>
+<surname>Fitzgerald</surname>
+</string-name>, <string-name name-style="western">
+<given-names>B.</given-names>
+<surname>Oosterhoff</surname>
+</string-name>, <string-name name-style="western">
+<given-names>B.</given-names>
+<surname>Sevi</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>N. J.</given-names>
+<surname>Shook</surname>
+</string-name>, “<article-title>Job Insecurity and Financial Concern During the COVID‐19 Pandemic Are Associated With Worse Mental Health</article-title>,” <source>Journal of Occupational and Environmental Medicine</source>
+<volume>62</volume>, no. <issue>9</issue> (<year>2020</year>): <fpage>686</fpage>–<lpage>691</lpage>.<pub-id pub-id-type="pmid">32890205</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1097/JOM.0000000000001962</pub-id></mixed-citation></ref><ref id="jmd270021-bib-0060"><label>60</label><mixed-citation publication-type="journal" id="jmd270021-cit-0060">
+<string-name name-style="western">
+<given-names>F.</given-names>
+<surname>Zanatta</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Mari</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Adorni</surname>
+</string-name>, et al., “<article-title>The Role of Selected Psychological Factors in Healthy‐Sustainable Food Consumption Behaviors During the COVID‐19 Pandemic</article-title>,” <source>Food</source>
+<volume>11</volume>, no. <issue>13</issue> (<year>2022</year>): <elocation-id>1944</elocation-id>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.3390/foods11131944</pub-id><pub-id pub-id-type="pmcid">PMC9265338</pub-id><pub-id pub-id-type="pmid">35804759</pub-id></mixed-citation></ref></ref-list></back></article></pmc-articleset>

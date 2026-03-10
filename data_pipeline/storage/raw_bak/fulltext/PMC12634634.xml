@@ -1,0 +1,860 @@
+<?xml version="1.0"  ?><!DOCTYPE pmc-articleset PUBLIC "-//NLM//DTD ARTICLE SET 2.0//EN" "https://dtd.nlm.nih.gov/ncbi/pmc/articleset/nlm-articleset-2.0.dtd"><pmc-articleset><article xml:lang="en" article-type="research-article" dtd-version="1.4"><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">Front Immunol</journal-id><journal-id journal-id-type="iso-abbrev">Front Immunol</journal-id><journal-id journal-id-type="pmc-domain-id">1754</journal-id><journal-id journal-id-type="pmc-domain">frontimmu</journal-id><journal-id journal-id-type="publisher-id">Front. Immunol.</journal-id><journal-title-group><journal-title>Frontiers in Immunology</journal-title></journal-title-group><issn pub-type="epub">1664-3224</issn><publisher><publisher-name>Frontiers Media SA</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC12634634</article-id><article-id pub-id-type="pmcid-ver">PMC12634634.1</article-id><article-id pub-id-type="pmcaid">12634634</article-id><article-id pub-id-type="pmcaiid">12634634</article-id><article-id pub-id-type="pmid">41280901</article-id><article-id pub-id-type="doi">10.3389/fimmu.2025.1710783</article-id><article-version-alternatives><article-version article-version-type="pmc-version">1</article-version><article-version article-version-type="Version of Record" vocab="NISO-RP-8-2008"/></article-version-alternatives><article-categories><subj-group subj-group-type="heading"><subject>Original Research</subject></subj-group></article-categories><title-group><article-title>Transcriptome analysis of classical blood cells reveals downregulation of pro-inflammatory genes in the classical monocytes of long COVID patients</article-title></title-group><contrib-group><contrib contrib-type="author"><name name-style="western"><surname>Fricke</surname><given-names initials="F">Florian</given-names></name><xref rid="aff1" ref-type="aff">
+<sup>1</sup>
+</xref><uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://loop.frontiersin.org/people/3232555/overview"/><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Data curation" vocab-term-identifier="https://credit.niso.org/contributor-roles/data-curation/">Data curation</role><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Formal analysis" vocab-term-identifier="https://credit.niso.org/contributor-roles/formal-analysis/">Formal analysis</role><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="investigation" vocab-term-identifier="https://credit.niso.org/contributor-roles/investigation/">Investigation</role><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="methodology" vocab-term-identifier="https://credit.niso.org/contributor-roles/methodology/">Methodology</role><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="validation" vocab-term-identifier="https://credit.niso.org/contributor-roles/validation/">Validation</role><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="visualization" vocab-term-identifier="https://credit.niso.org/contributor-roles/visualization/">Visualization</role><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Writing – original draft" vocab-term-identifier="https://credit.niso.org/contributor-roles/writing-original-draft/">Writing – original draft</role><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Writing – review &amp; editing" vocab-term-identifier="https://credit.niso.org/contributor-roles/writing-review-editing/">Writing – review &amp; editing</role></contrib><contrib contrib-type="author"><name name-style="western"><surname>Mai</surname><given-names initials="F">Franz</given-names></name><xref rid="aff1" ref-type="aff">
+<sup>1</sup>
+</xref><uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://loop.frontiersin.org/people/2277404/overview"/><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Data curation" vocab-term-identifier="https://credit.niso.org/contributor-roles/data-curation/">Data curation</role><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="investigation" vocab-term-identifier="https://credit.niso.org/contributor-roles/investigation/">Investigation</role><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="methodology" vocab-term-identifier="https://credit.niso.org/contributor-roles/methodology/">Methodology</role><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="validation" vocab-term-identifier="https://credit.niso.org/contributor-roles/validation/">Validation</role><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Writing – review &amp; editing" vocab-term-identifier="https://credit.niso.org/contributor-roles/writing-review-editing/">Writing – review &amp; editing</role></contrib><contrib contrib-type="author"><name name-style="western"><surname>Wossidlo</surname><given-names initials="C">Christine</given-names></name><xref rid="aff2" ref-type="aff">
+<sup>2</sup>
+</xref><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Data curation" vocab-term-identifier="https://credit.niso.org/contributor-roles/data-curation/">Data curation</role><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="investigation" vocab-term-identifier="https://credit.niso.org/contributor-roles/investigation/">Investigation</role><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Writing – review &amp; editing" vocab-term-identifier="https://credit.niso.org/contributor-roles/writing-review-editing/">Writing – review &amp; editing</role><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Formal analysis" vocab-term-identifier="https://credit.niso.org/contributor-roles/formal-analysis/">Formal analysis</role></contrib><contrib contrib-type="author"><name name-style="western"><surname>Steinbeck</surname><given-names initials="F">Felix</given-names></name><xref rid="aff1" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="aff3" ref-type="aff">
+<sup>3</sup>
+</xref><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Data curation" vocab-term-identifier="https://credit.niso.org/contributor-roles/data-curation/">Data curation</role><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Formal analysis" vocab-term-identifier="https://credit.niso.org/contributor-roles/formal-analysis/">Formal analysis</role><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="methodology" vocab-term-identifier="https://credit.niso.org/contributor-roles/methodology/">Methodology</role><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="software" vocab-term-identifier="https://credit.niso.org/contributor-roles/software/">Software</role><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="validation" vocab-term-identifier="https://credit.niso.org/contributor-roles/validation/">Validation</role><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="visualization" vocab-term-identifier="https://credit.niso.org/contributor-roles/visualization/">Visualization</role><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Writing – review &amp; editing" vocab-term-identifier="https://credit.niso.org/contributor-roles/writing-review-editing/">Writing – review &amp; editing</role></contrib><contrib contrib-type="author"><name name-style="western"><surname>Bergmann-Ewert</surname><given-names initials="W">Wendy</given-names></name><xref rid="aff1" ref-type="aff">
+<sup>1</sup>
+</xref><uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://loop.frontiersin.org/people/2643244/overview"/><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Data curation" vocab-term-identifier="https://credit.niso.org/contributor-roles/data-curation/">Data curation</role><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Formal analysis" vocab-term-identifier="https://credit.niso.org/contributor-roles/formal-analysis/">Formal analysis</role><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="validation" vocab-term-identifier="https://credit.niso.org/contributor-roles/validation/">Validation</role><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="visualization" vocab-term-identifier="https://credit.niso.org/contributor-roles/visualization/">Visualization</role><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Writing – review &amp; editing" vocab-term-identifier="https://credit.niso.org/contributor-roles/writing-review-editing/">Writing – review &amp; editing</role></contrib><contrib contrib-type="author"><name name-style="western"><surname>Kordt</surname><given-names initials="M">Marcel</given-names></name><xref rid="aff1" ref-type="aff">
+<sup>1</sup>
+</xref><uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://loop.frontiersin.org/people/2611137/overview"/><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Data curation" vocab-term-identifier="https://credit.niso.org/contributor-roles/data-curation/">Data curation</role><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Formal analysis" vocab-term-identifier="https://credit.niso.org/contributor-roles/formal-analysis/">Formal analysis</role><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="validation" vocab-term-identifier="https://credit.niso.org/contributor-roles/validation/">Validation</role><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="visualization" vocab-term-identifier="https://credit.niso.org/contributor-roles/visualization/">Visualization</role><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Writing – review &amp; editing" vocab-term-identifier="https://credit.niso.org/contributor-roles/writing-review-editing/">Writing – review &amp; editing</role></contrib><contrib contrib-type="author"><name name-style="western"><surname>Kraft</surname><given-names initials="K">Karin</given-names></name><xref rid="aff4" ref-type="aff">
+<sup>4</sup>
+</xref><uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://loop.frontiersin.org/people/56627/overview"/><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Data curation" vocab-term-identifier="https://credit.niso.org/contributor-roles/data-curation/">Data curation</role><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="validation" vocab-term-identifier="https://credit.niso.org/contributor-roles/validation/">Validation</role><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Writing – review &amp; editing" vocab-term-identifier="https://credit.niso.org/contributor-roles/writing-review-editing/">Writing – review &amp; editing</role><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="investigation" vocab-term-identifier="https://credit.niso.org/contributor-roles/investigation/">Investigation</role></contrib><contrib contrib-type="author"><name name-style="western"><surname>Müller</surname><given-names initials="B">Britta</given-names></name><xref rid="aff5" ref-type="aff">
+<sup>5</sup>
+</xref><uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://loop.frontiersin.org/people/763226/overview"/><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Data curation" vocab-term-identifier="https://credit.niso.org/contributor-roles/data-curation/">Data curation</role><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="investigation" vocab-term-identifier="https://credit.niso.org/contributor-roles/investigation/">Investigation</role><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="validation" vocab-term-identifier="https://credit.niso.org/contributor-roles/validation/">Validation</role><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Writing – review &amp; editing" vocab-term-identifier="https://credit.niso.org/contributor-roles/writing-review-editing/">Writing – review &amp; editing</role></contrib><contrib contrib-type="author"><name name-style="western"><surname>Reisinger</surname><given-names initials="EC">Emil C.</given-names></name><xref rid="aff2" ref-type="aff">
+<sup>2</sup>
+</xref><uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://loop.frontiersin.org/people/445411/overview"/><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Writing – review &amp; editing" vocab-term-identifier="https://credit.niso.org/contributor-roles/writing-review-editing/">Writing – review &amp; editing</role><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="conceptualization" vocab-term-identifier="https://credit.niso.org/contributor-roles/conceptualization/">Conceptualization</role><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Funding acquisition" vocab-term-identifier="https://credit.niso.org/contributor-roles/funding-acquisition/">Funding acquisition</role><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Project-administration" vocab-term-identifier="https://credit.niso.org/contributor-roles/project-administration/">Project administration</role><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="resources" vocab-term-identifier="https://credit.niso.org/contributor-roles/resources/">Resources</role></contrib><contrib contrib-type="author" corresp="yes"><name name-style="western"><surname>Müller-Hilke</surname><given-names initials="B">Brigitte</given-names></name><xref rid="aff1" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="c001" ref-type="corresp">
+<sup>*</sup>
+</xref><uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://loop.frontiersin.org/people/1064329/overview"/><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="conceptualization" vocab-term-identifier="https://credit.niso.org/contributor-roles/conceptualization/">Conceptualization</role><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Funding acquisition" vocab-term-identifier="https://credit.niso.org/contributor-roles/funding-acquisition/">Funding acquisition</role><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Project-administration" vocab-term-identifier="https://credit.niso.org/contributor-roles/project-administration/">Project administration</role><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="resources" vocab-term-identifier="https://credit.niso.org/contributor-roles/resources/">Resources</role><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Writing – review &amp; editing" vocab-term-identifier="https://credit.niso.org/contributor-roles/writing-review-editing/">Writing – review &amp; editing</role><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Data curation" vocab-term-identifier="https://credit.niso.org/contributor-roles/data-curation/">Data curation</role><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Formal analysis" vocab-term-identifier="https://credit.niso.org/contributor-roles/formal-analysis/">Formal analysis</role><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="investigation" vocab-term-identifier="https://credit.niso.org/contributor-roles/investigation/">Investigation</role><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="methodology" vocab-term-identifier="https://credit.niso.org/contributor-roles/methodology/">Methodology</role><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="software" vocab-term-identifier="https://credit.niso.org/contributor-roles/software/">Software</role><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="supervision" vocab-term-identifier="https://credit.niso.org/contributor-roles/supervision/">Supervision</role><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="validation" vocab-term-identifier="https://credit.niso.org/contributor-roles/validation/">Validation</role><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="visualization" vocab-term-identifier="https://credit.niso.org/contributor-roles/visualization/">Visualization</role><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Writing – original draft" vocab-term-identifier="https://credit.niso.org/contributor-roles/writing-original-draft/">Writing – original draft</role></contrib></contrib-group><aff id="aff1"><label>1</label><institution>Core Facility for Cell Sorting and Cell Analysis, University Medical Center Rostock</institution>, <city>Rostock</city>, <country country="de">Germany</country></aff><aff id="aff2"><label>2</label><institution>Department of Tropical Medicine and Infectious Diseases,University of Rostock</institution>, <city>Rostock</city>, <country country="de">Germany</country></aff><aff id="aff3"><label>3</label><institution>Institute for Immunology, University Medical Center Rostock</institution>, <city>Rostock</city>, <country country="de">Germany</country></aff><aff id="aff4"><label>4</label><institution>Chair of Naturopathy, University Medicine Rostock</institution>, <city>Rostock</city>, <country country="de">Germany</country></aff><aff id="aff5"><label>5</label><institution>Institute of Medical Psychology and Medical Sociology, Rostock University Medical Centre</institution>, <city>Rostock</city>, <country country="de">Germany</country></aff><author-notes><corresp id="c001"><label>*</label>Correspondence: Brigitte Müller-Hilke, <email xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="mailto:brigitte.mueller-hilke@med.uni-rostock.de">brigitte.mueller-hilke@med.uni-rostock.de</email></corresp></author-notes><pub-date publication-format="electronic" date-type="pub" iso-8601-date="2025-11-07"><day>07</day><month>11</month><year>2025</year></pub-date><pub-date publication-format="electronic" date-type="collection"><year>2025</year></pub-date><volume>16</volume><issue-id pub-id-type="pmc-issue-id">480569</issue-id><elocation-id>1710783</elocation-id><history><date date-type="received"><day>22</day><month>9</month><year>2025</year></date><date date-type="accepted"><day>17</day><month>10</month><year>2025</year></date></history><pub-history><event event-type="pmc-release"><date><day>07</day><month>11</month><year>2025</year></date></event><event event-type="pmc-live"><date><day>22</day><month>11</month><year>2025</year></date></event><event event-type="pmc-last-change"><date iso-8601-date="2025-11-24 15:25:12.930"><day>24</day><month>11</month><year>2025</year></date></event></pub-history><permissions><copyright-statement>Copyright © 2025 Fricke, Mai, Wossidlo, Steinbeck, Bergmann-Ewert, Kordt, Kraft, Müller, Reisinger and Müller-Hilke.</copyright-statement><copyright-year>2025</copyright-year><copyright-holder>Fricke, Mai, Wossidlo, Steinbeck, Bergmann-Ewert, Kordt, Kraft, Müller, Reisinger and Müller-Hilke</copyright-holder><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense" start_date="2025-11-07">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>This is an open-access article distributed under the terms of the <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License (CC BY)</ext-link>. The use, distribution or reproduction in other forums is permitted, provided the original author(s) and the copyright owner(s) are credited and that the original publication in this journal is cited, in accordance with accepted academic practice. No use, distribution or reproduction is permitted which does not comply with these terms.</license-p></license></permissions><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pmc-pdf" xlink:href="fimmu-16-1710783.pdf"/><abstract><sec><title>Introduction</title><p>Despite extensive research, the pathogenesis and predispositions underlying long COVID (long-term coronavirus disease 2019) remain poorly understood.</p></sec><sec><title>Methods</title><p>To address this, we analyzed the immunological landscapes of 44 patients with long COVID and 44 matched convalescents using single-cell RNA sequencing (scRNA-seq) of peripheral blood mononuclear cells (PBMCs) and validated the findings with plasma cytokine measurements via Luminex technology.</p></sec><sec><title>Results</title><p>While the immune cell compositions showed minimal quantitative differences only among natural killer (NK) cells, the transcriptome analyses identified distinct gene expression patterns, particularly in classical monocytes: patients with long COVID exhibited downregulation of the inflammation-associated genes, including <italic toggle="yes">IL1B</italic> and <italic toggle="yes">CXCL2</italic>. Imputation of the transcription factor activity hinted at a reduced inflammasome activity (via <italic toggle="yes">SNAI1</italic>) and an impaired monocyte differentiation (via <italic toggle="yes">ATF2</italic>) in long COVID. The RNA velocity data supported the presence of immature classical monocytes in these patients.</p></sec><sec><title>Discussion</title><p>These findings show that monocytes might be dysregulated and/or exhausted in patients with long COVID.</p></sec></abstract><kwd-group><kwd>immune landscape</kwd><kwd>immune tolerance</kwd><kwd>monocytes</kwd><kwd>SARS-CoV-2</kwd><kwd>long COVID</kwd><kwd>scRNAseq</kwd></kwd-group><funding-group><funding-statement>The author(s) declare financial support was received for the research and/or publication of this article. This study was financially supported by the federal State of Mecklenburg-Western Pomerania, The Ministry of Science, Culture, Federal and European Affairs via the “Sondervermögen des MV Schutzfonds, Säule Gesundheit” GW-20-0004. This work was also funded on the basis of a resolution of the German Bundestag by the German government (project ”COVICare - M-V “ funding code ZMII2-2524FSB031).</funding-statement></funding-group><counts><fig-count count="8"/><table-count count="1"/><equation-count count="0"/><ref-count count="79"/><page-count count="14"/><word-count count="6216"/></counts><custom-meta-group><custom-meta><meta-name>pmc-status-qastatus</meta-name><meta-value>0</meta-value></custom-meta><custom-meta><meta-name>pmc-status-live</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-status-embargo</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-status-released</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-access</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-legally-suppressed</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-pdf</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-supplement</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-pdf-only</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-suppress-copyright</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-real-version</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-scanned-article</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-in-epmc</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-license-ref</meta-name><meta-value>CC BY</meta-value></custom-meta><custom-meta><meta-name>section-in-acceptance</meta-name><meta-value>Viral Immunology</meta-value></custom-meta></custom-meta-group></article-meta></front><body><sec sec-type="intro" id="s1"><title>Introduction</title><p>Since its emergence in late 2019, severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) has caused a global pandemic resulting in millions of deaths (<xref rid="B1" ref-type="bibr">1</xref>) and has posed significant public health challenges. While accelerated vaccine development and the evolution of viral variants have led to a reduction in severe acute coronavirus disease 2019 (COVID-19) cases (<xref rid="B2" ref-type="bibr">2</xref>), another clinical entity, i.e., "long COVID", has gained attention. Long COVID describes the persistence of symptoms lasting for at least 4 weeks after infection that cannot be explained by another diagnosis (<xref rid="B3" ref-type="bibr">3</xref>). It is estimated that approximately 10% of individuals infected with SARS-CoV-2 will experience long COVID, although the data vary between publications (<xref rid="B4" ref-type="bibr">4</xref>). Since the term "long COVID" has become established in the language used by patients and also in science, we decided to use it in our study instead of the term "post-COVID", as defined by the World Health Organization for a condition that specifies symptom onset within three months after SARS-CoV-2 infection and persistence for at least two months (<xref rid="B5" ref-type="bibr">5</xref>). The characteristic symptoms include fatigue, shortness of breath, and cognitive impairment; however, over 200 symptoms have been described in patients with this condition (<xref rid="B6" ref-type="bibr">6</xref>). The diverse clinical phenotypes of patients with this condition hamper diagnosis and adequate treatment and call for a deeper understanding of its pathogenesis.</p><p>The risk factors for the development of long COVID include female sex, age, abnormal BMI, and severe previous courses of SARS-CoV-2 infection (<xref rid="B7" ref-type="bibr">7</xref>–<xref rid="B9" ref-type="bibr">9</xref>). However, it remains unclear whether and to what extent genetics predispose and which mechanisms contribute to this condition (<xref rid="B10" ref-type="bibr">10</xref>). Hypotheses to explain the latter include the persistence of a viral reservoir, potentially within the gastrointestinal tract (<xref rid="B11" ref-type="bibr">11</xref>–<xref rid="B13" ref-type="bibr">13</xref>), and the reactivation of latent viruses, such as Epstein–Barr virus (<xref rid="B14" ref-type="bibr">14</xref>–<xref rid="B16" ref-type="bibr">16</xref>). Others have focused their attention on the impact of SARS-CoV-2 on the vascular system (<xref rid="B17" ref-type="bibr">17</xref>–<xref rid="B19" ref-type="bibr">19</xref>). Our own focus is on the immunological landscape, as both autoimmunity (<xref rid="B20" ref-type="bibr">20</xref>–<xref rid="B22" ref-type="bibr">22</xref>) and a perturbation of the peripheral immune system (<xref rid="B23" ref-type="bibr">23</xref>–<xref rid="B25" ref-type="bibr">25</xref>) have been discussed as potential underlying pathology. Along these lines, previous single-cell RNA sequencing (scRNA-seq) studies have demonstrated distinct immunological subsets in patients with long COVID, including increased myeloid lineage cells with downregulated immune pathways in two cases (<xref rid="B26" ref-type="bibr">26</xref>). Another study on 69 infected individuals, including 21 with long COVID, reported significant perturbations in gene expression until at least 6 months post-infection, with long COVID patients failing to revert to their pre-infection state (<xref rid="B27" ref-type="bibr">27</xref>). In contrast, another independent study on 10 patients showed that the majority of the immunological changes in long COVID resolved 24 months after infection (<xref rid="B28" ref-type="bibr">28</xref>).</p><p>Despite significant global research efforts, the underlying mechanisms of long COVID remain incompletely understood. To further the current knowledge, we performed scRNA-seq on the peripheral blood mononuclear cells (PBMCs) of 44 patients with long COVID and 44 matched convalescents in combination with plasma protein profiling in order to gain detailed insights into the cellular and molecular changes associated with long COVID.</p></sec><sec id="s2"><title>Methods</title><sec id="s2_1"><title>Recruitment and characterization of the study cohorts</title><p>A total of 44 patients with long COVID were recruited from the outpatient clinic of Rostock University Medical Center. Selection was based on the order of their visit, and diagnosis followed the WHO definition of “Post COVID-19 condition (long COVID)” (<xref rid="B5" ref-type="bibr">5</xref>, <xref rid="B29" ref-type="bibr">29</xref>). The symptoms, disease progression, comorbidities, previous treatments, and quality of life are summarized in <xref rid="f1" ref-type="fig"><bold>Figure 1A</bold></xref>. Health-related quality of life (HRQoL) was assessed using the Short-Form 12 (SF-12) (<xref rid="B30" ref-type="bibr">30</xref>) and the Bell Disability Score (<xref rid="B31" ref-type="bibr">31</xref>). Routine laboratory tests included complete blood counts, coagulation parameters, C-reactive protein (CRP), liver enzymes, renal parameters, vitamin B12, folate, 25-OH-vitamin D, and thyroid-stimulating hormone (TSH), as well as basic autoimmune diagnostics. Differential diagnoses were excluded by the consulting cardiologists and pneumologists. A total of 44 age- and sex-matched controls were recruited from a monitored healthcare worker cohort (<xref rid="B32" ref-type="bibr">32</xref>–<xref rid="B34" ref-type="bibr">34</xref>). Selection was based on primary messenger RNA (mRNA) vaccination and on optimal matching with patients. Of the controls, 43 were convalescent from SARS-CoV-2 infection and one was uninfected.</p><fig position="float" id="f1" orientation="portrait"><label>Figure 1</label><caption><p>Detailed description of long COVID patients and the control cohorts. <bold>(A)</bold> UpSet plot summarizing the pooled patient groups, with <italic toggle="yes">horizontal bars</italic> representing the number of patients in each symptom group and <italic toggle="yes">vertical black bars</italic> representing the symptom combination groups. <bold>(B)</bold> Bar plots showing the time (in months) between blood sampling and the second vaccine dose in <italic toggle="yes">blue</italic> and between blood sampling and the primary severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) infection in <italic toggle="yes">red</italic>.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="fimmu-16-1710783-g001.jpg"><alt-text content-type="machine-generated">Chart A shows the number of Long COVID patients with specific symptoms, including dizziness, pain, cognitive issues, cardiorespiratory problems, and fatigue, using a bar and dot plot. Chart B illustrates the timing of blood sampling in relation to the second vaccine dose and first COVID-19 infection, comparing the number of controls and Long COVID patients over months.</alt-text></graphic></fig></sec><sec id="s2_2"><title>Ethics commitment</title><p>This study was approved by the Ethics Committee of the Rostock University Medical Center under file no. A 2020-0086 and no. A 2023-0081. Written informed consent was provided by all participants.</p></sec><sec id="s2_3"><title>PBMC isolation</title><p>Venous blood was collected into EDTA vacutainers. PBMCs were isolated using SepMates (StemCell, Vancouver, BC, Canada) with Ficoll-Paque PLUS (Cytiva, Marlborough, MA, USA). Aliquots of 1–3 × 10<sup>6</sup> cells each were stored at −80°C until further processing.</p></sec><sec id="s2_4"><title>Single-cell capture and RNA sequencing</title><p>After thawing, 180,000 PBMCs were labeled with BD Human Multiplexing Sample Tags (Becton Dickinson, Franklin Lakes, NJ, USA) for the multiplexing of 12 samples per run. The viability of PBMCs was assessed via staining with Calcein and DRAQ7 (Thermo Fisher Scientific, Waltham, MA, USA). RNA was harvested using the Single-Cell Capture and cDNA Synthesis protocol with the BD Rhapsody Single-Cell Analysis System, and a total of eight runs were performed to enable single-cell capture from all patients and controls. Each run contained a balanced mixture of patient and control samples plus a spike control (isolated CD3<sup>+</sup> T cells from an independent donor) to monitor potential batch effects. A total of 40,000–60,000 cells were pooled and loaded onto the Rhapsody cartridge. The incubation times for settlement of the cells varied between 15 and 25 min. The RNA libraries for scRNA-seq were prepared using the Library Preparation Protocol for mRNA Whole Transcriptome Analysis and Sample Tag according to the manufacturer’s instructions and were purified using AMPure beads (Beckman Coulter, Brea, CA, USA). The libraries were indexed using a run-specific primer and were quantified and quality-checked using a Qubit 3.0 Fluorometer (Thermo Fisher Scientific, Waltham, MA, USA) and an Agilent 4200 TapeStation System with the Agilent HS D5000 screen tape assay (Agilent Technologies, Santa Clara, CA, USA). Sequencing was performed by Novogene Europe (Cambridge, UK, Munich subsidiary) using Illumina technology.</p></sec><sec id="s2_5"><title>scRNA-seq data analysis and quality control</title><p>Raw scRNA-seq reads were aligned to the human genome and annotated by cell type using the BD Rhapsody™ Sequence Analysis Pipeline 2.2.1, complemented by manual assignment as previously described in Hillman et al. (<xref rid="B35" ref-type="bibr">35</xref>). Subsequent analysis was conducted using the Seurat 5.1.0 package in R, version 4.4.1 (R Core Team 2024, Vienna, Austria) (<xref rid="B36" ref-type="bibr">36</xref>, <xref rid="B37" ref-type="bibr">37</xref>).</p><p>Quality control procedures involved the exclusion of cells exhibiting either an excessive or an insufficient number of unique RNA products or more than 25% of mitochondrial genes. A total of 132,230 PBMCs could successfully be recovered (44 patients and 44 controls). Of these, 118,843 passed quality control. Cartridge batch effects were assessed using a cell mix score calculated using the CellMixS 1.7.1 package for R for the CD3<sup>+</sup> spike cells, the aim of which was to statistically validate the visual impression of homogeneous distribution provided by the UMAP (uniform manifold approximation and projection). This score is based on the calculation of a <italic toggle="yes">p</italic>-value for each cell, which represents the probability of belonging to a common underlying population (<xref rid="B38" ref-type="bibr">38</xref>). Subsequent analysis involved the normalization and scaling of the reads.</p></sec><sec id="s2_6"><title>Cytokine profiling</title><p>Cytokines were measured using a custom-designed Luminex<sup>®</sup> Discovery Assay panel (R&amp;D Systems, Minneapolis, MN, USA), with selection based on the identified differentially expressed genes (DEGs). The assay was performed according to the manufacturer’s protocol using undiluted plasma samples. Data acquisition was carried out using the Luminex<sup>®</sup> 100/200™ System, with calculations performed using xPONENT<sup>®</sup> 3.1 software. The lowest manufacturer standard was considered as the lower limit of detection (LLOD). No extrapolation was performed.</p></sec><sec id="s2_7"><title>Measurement of IgG antibodies against the SARS-CoV2 nucleocapsid</title><p>Cryopreserved plasma samples from both patients and controls were analyzed using an enzyme-linked immunosorbent assay (ELISA) specific for immunoglobulin G (IgG) antibodies against the nucleocapsid protein of SARS-CoV-2 [anti-SARS-CoV-2-NCP-ELISA (IgG)] (EUROIMMUN Medizinische Labordiagnostika AG, Lübeck, Germany) following the manufacturer’s protocol. The samples were centrifuged at 10,000 × <italic toggle="yes">g</italic> for 5 min prior to 101-fold dilution. Photometric measurements were obtained at 450 nm with a reference wavelength of 620–650 nm using the Infinite M200 spectrophotometer (Tecan, Männeheim, Switzerland). The results were calculated as the ratio of the sample extinction to that of the calibrator.</p></sec><sec id="s2_8"><title>Statistics</title><p>DEGs were determined using a non-parametric Wilcoxon rank-sum test and were classified based on a fold change greater than 3 and a (Bonferroni-corrected) <italic toggle="yes">p</italic>-value less than 10<sup>−18</sup>. UMAPs were constructed using nearest-neighbor clustering of all the genes expressed. Spearman’s rank correlation coefficient was employed for correlation analyses. Heatmaps were constructed using a column/row-wise clustering approach with complete linkage and Euclidean distance metrics. Gaussian distribution was assessed using Kolmogorov–Smirnov tests. The Mann–Whitney <italic toggle="yes">U</italic> test was employed for the comparison of data that did not adhere to a normal distribution. Statistical analysis was performed using SPSS version 29.0.1.1 (IBM, Armonk, NY, USA) and GraphPad Instat version 3.1 (GraphPad Software, Boston, MA, USA).</p></sec><sec id="s2_9"><title>Transcription factor activity</title><p>Estimation of transcription factor (TF) activity was performed using the DoRothEA R package version 1.16.0, a gene regulatory network comprising signed interactions between TFs and their target genes (<xref rid="B39" ref-type="bibr">39</xref>–<xref rid="B41" ref-type="bibr">41</xref>). The VIPER algorithm (<xref rid="B42" ref-type="bibr">42</xref>) was employed to estimate the activity of the TFs from the expression data of all monocytes of all genes. Group comparisons were made based on the mean differences.</p></sec><sec id="s2_10"><title>RNA velocity</title><p>The raw reads of all genes were divided into spliced and unspliced read matrices before estimation of the RNA velocities using gene-relative slopes. The velocity graph was visualized on the previously calculated UMAP of all monocytes embedding, employing a correlation-based transition probability matrix within the <italic toggle="yes">k</italic>-nearest neighbor graph. All analyses were performed using velocyto.R and velocyto.py (<xref rid="B43" ref-type="bibr">43</xref>).</p></sec><sec id="s2_11"><title>Pathway analysis</title><p>Pathway analysis was conducted with ShinyGO software (<xref rid="B44" ref-type="bibr">44</xref>), which compared all downregulated genes in all monocytes of the long COVID cohort with the Reactome 2022 (<xref rid="B45" ref-type="bibr">45</xref>) and the Kyoto Encyclopedia of Genes and Genomes (KEGG) 2021 (<xref rid="B46" ref-type="bibr">46</xref>–<xref rid="B48" ref-type="bibr">48</xref>) databases. Gene set enrichment analyses (GSEA) were performed by alignment of the normalized counts of all monocytes with the Hallmark Gene Sets of Molecular Signatures Database (<xref rid="B49" ref-type="bibr">49</xref>–<xref rid="B51" ref-type="bibr">51</xref>). Enriched pathways were identified using the normalized enrichment score (NES) and the false discovery rate (FDR).</p></sec></sec><sec sec-type="results" id="s3"><title>Results</title><sec id="s3_1"><title>Peripheral immune cell compositions in long COVID patients were inconspicuous</title><p>We analyzed the PBMCs from 44 individuals diagnosed with long COVID using scRNA-seq, with the detailed clinical characteristics, comorbidities, and treatments summarized in <xref rid="T1" ref-type="table"><bold>Table 1</bold></xref>. Majority of the patients reported mild (<italic toggle="yes">n</italic> = 27) or moderate (<italic toggle="yes">n</italic> = 13) initial SARS-CoV2 infections (<xref rid="B29" ref-type="bibr">29</xref>). Quality of life, assessed in 21 and 16 long COVID patients using the Short-Form 12 (<xref rid="B30" ref-type="bibr">30</xref>) and the Bell score (<xref rid="B31" ref-type="bibr">31</xref>), respectively, was significantly reduced compared with that of standardized populations [MCS (mental component summary): <italic toggle="yes">t (</italic><xref rid="B20" ref-type="bibr">20</xref>) = −13.17, <italic toggle="yes">p</italic> &lt; 0.001; PCS (physical component summary): <italic toggle="yes">t (</italic><xref rid="B20" ref-type="bibr">20</xref>) = −15.33, <italic toggle="yes">p</italic> &lt; 0.001]. Patients were grouped according to symptoms such as dizziness, pain, cognitive or cardiorespiratory constraints, and fatigue. The number of patients in each symptom combination group is presented in <xref rid="f1" ref-type="fig"><bold>Figure 1A</bold></xref>. The severity of the symptoms and post-exertional malaise, classified as extreme exhaustion after minimal stress, were mentioned, when available. Controls (<italic toggle="yes">n</italic> = 44) were age- and sex-matched, mostly convalescent (<italic toggle="yes">n</italic> = 43) plus one naive to SARS-CoV-2 (<italic toggle="yes">n</italic> = 1), as determined based on the anti-nucleocapsid antibodies. Both groups received comparable numbers of SARS-CoV2 vaccinations and had received mRNA vaccines only (<xref rid="T1" ref-type="table"><bold>Table 1</bold></xref>). The controls, mainly healthcare workers, were primed and boosted at the turnaround 2020/2021, followed by the patients in the spring/summer of 2021. First SARS-CoV-2 infections occurred mainly in 2022, suggesting Omicron as the predominant variant in all study participants (<xref rid="B52" ref-type="bibr">52</xref>). <xref rid="f1" ref-type="fig"><bold>Figure 1B</bold></xref> summarizes, for both cohorts, the time intervals between blood sampling and completion of the primary immunization, as well as between blood sampling and first infections.</p><table-wrap position="float" id="T1" orientation="portrait"><label>Table 1</label><caption><p>Demographics, vaccinations, and infections of the study cohorts.</p></caption><table frame="hsides" rules="groups"><thead><tr><th valign="middle" align="left" rowspan="1" colspan="1">Parameter</th><th valign="middle" align="center" rowspan="1" colspan="1">Patients (<italic toggle="yes">n</italic> = 44)</th><th valign="middle" align="center" rowspan="1" colspan="1">Controls (<italic toggle="yes">n</italic> = 44)</th><th valign="middle" align="center" rowspan="1" colspan="1"><italic toggle="yes">p</italic>-value</th></tr></thead><tbody><tr><td valign="middle" align="left" rowspan="1" colspan="1">Men/women, <italic toggle="yes">n</italic></td><td valign="middle" align="center" rowspan="1" colspan="1">9/35</td><td valign="middle" align="center" rowspan="1" colspan="1">9/35</td><td valign="middle" align="center" rowspan="1" colspan="1">1.0<xref rid="fnT1_2" ref-type="table-fn"><sup>b</sup></xref></td></tr><tr><td valign="middle" align="left" rowspan="1" colspan="1">Age (years), median (range)</td><td valign="middle" align="center" rowspan="1" colspan="1">54 (19–79)</td><td valign="middle" align="center" rowspan="1" colspan="1">51 (26–63)</td><td valign="middle" align="center" rowspan="1" colspan="1">0.5202<xref rid="fnT1_3" ref-type="table-fn"><sup>c</sup></xref></td></tr><tr><td valign="middle" align="left" rowspan="1" colspan="1">No. of vaccinations, median (min–max)</td><td valign="middle" align="center" rowspan="1" colspan="1">3 (3–6)</td><td valign="middle" align="center" rowspan="1" colspan="1">3 (3–5)</td><td valign="middle" align="center" rowspan="1" colspan="1">0.1055<xref rid="fnT1_3" ref-type="table-fn"><sup>c</sup></xref></td></tr><tr><td valign="middle" align="left" rowspan="1" colspan="1">Anti-nucleocapsid antibodies, median (min–max)<xref rid="fnT1_1" ref-type="table-fn"><sup>a</sup></xref></td><td valign="middle" align="center" rowspan="1" colspan="1">0.6811 (0.2490–8.414)</td><td valign="middle" align="center" rowspan="1" colspan="1">2.479 (0.3222–7.898)</td><td valign="middle" align="center" rowspan="1" colspan="1">0.0086<xref rid="fnT1_3" ref-type="table-fn"><sup>c</sup></xref></td></tr></tbody></table><table-wrap-foot><fn id="fnT1_1"><label>a</label><p>Ratios that are a relative measure for the concentration of antibodies in plasma.</p></fn><fn id="fnT1_2"><label>b</label><p>Fisher’s exact test.</p></fn><fn id="fnT1_3"><label>c</label><p>Mann–Whitney <italic toggle="yes">U</italic> test.</p></fn></table-wrap-foot></table-wrap><p>At the time of blood collection between July 2023 and February 2024, the controls, as part of a vaccination study (<xref rid="B32" ref-type="bibr">32</xref>), had been regularly assessed for anti-nucleocapsid antibodies, revealing a median of two infections each. Regarding the patients, the infection that triggered long COVID had been documented; thereafter, any reliable information on additional SARS-CoV-2 infections was sketchy. We therefore quantified the patients’ anti-nucleocapsid IgG antibodies at the time of blood collection and found evidence of recent infections in some patients, but also confirmed fewer and/or longer ago infections for the majority, resulting in a significantly lower median for the anti-nucleocapsid titers in patients compared with the controls (<xref rid="T1" ref-type="table"><bold>Table 1</bold></xref>).</p><p>Quality control of the scRNA-seq included the exclusion of cells with aberrant counts of unique RNA products (&lt;200 and &gt;4,000) and cells expressing more than 25% of mitochondrial genes. Assessment of batch effects and calculation of the cell mixing scores of the spike controls from each experimental run confirmed a high degree of comparability between all experimental runs, justifying the combined processing of all data (<xref rid="SM1" ref-type="supplementary-material"><bold>Supplementary Figures S1D–F</bold></xref>).</p><p>Using the BD Rhapsody™ Sequence Analysis Pipeline on the basis of the highly expressed genes, in conjunction with a manual assignment of monocytes according to the expression of CD14 and CD16, as previously described in Hillman et al. (<xref rid="B35" ref-type="bibr">35</xref>), allowed for the identification of eight distinct cell types (<xref rid="f2" ref-type="fig"><bold>Figure 2A</bold></xref>). In order to mitigate potential biases due to sample-to-sample variations in cell yields, we here compared the relative cell counts. <xref rid="f2" ref-type="fig"><bold>Figure 2A</bold></xref> shows comparable immune cell compositions between patients and controls, with only minor differences in NK cells (<xref rid="f2" ref-type="fig"><bold>Figure 2B</bold></xref>).</p><fig position="float" id="f2" orientation="portrait"><label>Figure 2</label><caption><p>The peripheral immune cell compositions in long COVID patients were inconspicuous. <bold>(A)</bold> Stacked bar plots indicating the relative cell counts in each sample. Cell types, long COVID patients, and controls are color-coded, as shown on the <italic toggle="yes">right</italic>. <bold>(B)</bold> Box plots summarizing the percentages determined for the controls and the patients for each cell type. <italic toggle="yes">Boxes</italic> represent 25, 50, and 75 percentiles, and <italic toggle="yes">lower</italic> and <italic toggle="yes">upper whiskers</italic> indicate 10 and 90 percentiles, respectively. Outliers are shown. The <italic toggle="yes">p</italic>-values were determined using two-sided Mann–Whitney <italic toggle="yes">U</italic> test. No adjustments for multiple comparisons were made.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="fimmu-16-1710783-g002.jpg"><alt-text content-type="machine-generated">Stacked bar graph and box plots showing relative cell counts of various immune cell types in controls and Long COVID patients. The bar graph on top displays percentages of CD8+ T lymphocytes, CD4+ T lymphocytes, intermediate monocytes, non-classical monocytes, classical monocytes, NK cells, dendritic cells, and B lymphocytes. Box plots below compare individual cell types between controls and Long COVID, indicating differences particularly in NK cells with a p-value of 0.0359.</alt-text></graphic></fig></sec><sec id="s3_2"><title>Classical monocytes of long COVID patients display significant alterations in their immune signatures</title><p>UMAP clustering of cells revealed distinct expression profiles between patients and controls in classical and intermediate, but not non-classical, monocytes (<xref rid="f3" ref-type="fig"><bold>Figures 3A, B</bold></xref>). Differential gene expression analysis, based on a fold change threshold greater than 3 and a <italic toggle="yes">p</italic>-value threshold below 10<sup>−18</sup>, identified 40 DEGs in classical, 13 in intermediate, and 6 in non-classical monocytes, while other cell types showed minimal changes (<xref rid="f3" ref-type="fig"><bold>Figure 3C</bold></xref>).</p><fig position="float" id="f3" orientation="portrait"><label>Figure 3</label><caption><p>Classical monocytes in long COVID patients showed significant alterations in their immune signatures. <bold>(A)</bold> Uniform manifold approximation and projection (UMAP) of the single-cell RNA sequencing (scRNA-seq) data identified eight distinct cell types as defined by the BD Rhapsody™ Sequence Analysis Pipeline. <bold>(B)</bold> UMAP differentiating long COVID patients and controls. <bold>(C)</bold> Bar plots summarizing the number of differentially expressed genes (DEGs) in the various cell types based on a fold change threshold greater than 3 and a <italic toggle="yes">p</italic>-value threshold below 10<sup>−18</sup>.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="fimmu-16-1710783-g003.jpg"><alt-text content-type="machine-generated">Cluster plots A and B display different cell types, colored by cell type and condition, with axes UMAP1 and UMAP2. Plot A shows various immune cell types, each color-coded. Plot B distinguishes controls and Long COVID samples. Graph C shows bar charts indicating differentially expressed genes (DEG) downregulated and upregulated in Long COVID across cell types.</alt-text></graphic></fig><p>The volcano plot in <xref rid="f4" ref-type="fig"><bold>Figure 4A</bold></xref> details these findings for the classical monocytes. In total, there were 37 downregulated genes in patients with long COVID, among them <italic toggle="yes">IL1B</italic>, several chemokines (CCL3, CCL4, CXCL1, CXCL2, CXCL3, and CXCL8), and the TNFα-induced protein 3 (<italic toggle="yes">TNFAIP3</italic>). Further downregulated genes included <italic toggle="yes">DUSP2</italic>, encoding a phosphatase that downregulates members of the mitogen-activated protein (MAP) kinase superfamily (<xref rid="B53" ref-type="bibr">53</xref>), and <italic toggle="yes">MIR155HG</italic>, a microRNA involved in the regulation of MHCII antigen presentation (<xref rid="B54" ref-type="bibr">54</xref>) (<xref rid="f4" ref-type="fig"><bold>Figure 4A</bold></xref>). In order to eliminate the possibility that the observed differences between patients and controls were merely a consequence of the varying intervals between the blood sampling and the most recent SARS-CoV-2 infection, we employed the anti-nucleocapsid titers as a surrogate and correlated them with the respective raw read counts for each of the 40 DEGs. <xref rid="SM1" ref-type="supplementary-material"><bold>Supplementary Table S2</bold></xref> presents the correlation coefficients, with range between 0.0133 and 0.185 or −0.0003 and −0.217, thus ruling out any simple linkage. To further evaluate the use of convalescents as a control group, we compared our data to those of publicly available datasets generated via scRNA-seq of healthy controls from two different studies (<xref rid="B55" ref-type="bibr">55</xref>, <xref rid="B56" ref-type="bibr">56</xref>). These external control groups were free of immune disorders and, when compared with our long COVID group, confirmed a consistent downregulation of the majority of the DEGs (<xref rid="SM1" ref-type="supplementary-material"><bold>Supplementary Figure S2</bold></xref>).</p><fig position="float" id="f4" orientation="portrait"><label>Figure 4</label><caption><p>Classical monocytes in long COVID patients showed functional alterations. <bold>(A)</bold> Volcano plot specifying the differentially expressed genes (DEGs) in classical monocytes based on a fold change threshold greater than 3 and a <italic toggle="yes">p</italic>-value threshold of 10<sup>−18</sup>. <bold>(B)</bold> Gene set enrichment analysis results, selected based on a normalized enrichment score (NES) &gt;0 and a false discovery rate (FDR) &lt;0.01, revealing, for patients with long COVID, a significant reduction in the expression of the key gene sets associated with inflammation pathways. <bold>(C)</bold> Bubble plot summarizing, for the various monocyte subsets, the results of further gene set enrichment analyses and showcasing additional pathways that were consistently downregulated in patients. <italic toggle="yes">Color coding</italic> and the <italic toggle="yes">size of the bubbles</italic> indicate FDR and NES, respectively.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="fimmu-16-1710783-g004.jpg"><alt-text content-type="machine-generated">A three-part figure displays gene expression data and enrichment analysis. Panel A is a volcano plot showing the log2 fold change versus -log10 p-values, highlighting various genes. Panel B comprises three enrichment plots for classical, intermediate, and non-classical monocytes, illustrating signaling pathways with normalized enrichment scores (NES) and false discovery rates (FDR). Panel C presents a dot plot of pathway analysis, showing different pathways, their NES values, and FDR levels indicated by color and circle size.</alt-text></graphic></fig><p>As monocytes displayed the most DEGs, GSEA was performed for this subset using NES &gt; 0 and FDR &lt; 0.01. Patients with long COVID showed a significantly reduced expression of the inflammation-related pathways, including TNFα signaling via NF-κB, consistently through all subsets of monocytes (<xref rid="f4" ref-type="fig"><bold>Figure 4B</bold></xref>). Additional pathways, such as inflammatory response and apoptosis, were also downregulated, while heme metabolism and hallmark genes of oxidative phosphorylation (although failing to reach significance) demonstrated a higher NES in patients compared to the controls (<xref rid="f4" ref-type="fig"><bold>Figure 4C</bold></xref>). Of note is that the downregulated genes in the monocytes of patients formed a homogeneous pattern, clearly separating patients and controls, and most prominently in classical and intermediate monocytes, although to a lower extent also visible in non-classical monocytes (<xref rid="f5" ref-type="fig"><bold>Figures 5A–C</bold></xref>).</p><fig position="float" id="f5" orientation="portrait"><label>Figure 5</label><caption><p>Differentially expressed genes in classical monocytes revealed significant differences between long COVID patients and controls. <bold>(A)</bold> Heatmap showing the results of the Euclidean distance metrics of the single-cell RNA sequencing (scRNA-seq) data from classical monocytes, segregating long COVID patients and controls into three major clusters. <bold>(B, C)</bold> Respective heatmaps for intermediate and non-classical monocytes. Box plots summarizing the median counts per million (CPM)/gene and comparing patients and controls are depicted in <xref rid="SM1" ref-type="supplementary-material"><bold>Supplementary Figure S3</bold></xref>.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="fimmu-16-1710783-g005.jpg"><alt-text content-type="machine-generated">Heatmap displaying expression levels of genes in monocyte subtypes: A) classical, B) intermediate, and C) non-classical. Red indicates higher expression in long COVID patients; blue indicates lower expression in controls. Groups are distinguished by color-coded bars for controls (cyan) and long COVID (red). Cluster dendrograms group genes and samples based on similarity.</alt-text></graphic></fig><p>The three most significantly upregulated genes in the classical monocytes of patients with long COVID were <italic toggle="yes">ENSG00000287256</italic>, <italic toggle="yes">GRIP1</italic>, and <italic toggle="yes">TNFRSF12A</italic>, the latter a weak inducer of apoptosis linked to fibrosis-related pathways (<xref rid="B57" ref-type="bibr">57</xref>) (<xref rid="f4" ref-type="fig"><bold>Figure 4A</bold></xref>). However, application of Euclidean distance metrics revealed for the former two an upregulation in only very few patients, while the majority remained inconspicuous (<xref rid="f5" ref-type="fig"><bold>Figure 5A</bold></xref>). <xref rid="SM1" ref-type="supplementary-material"><bold>Supplementary Figure S3</bold></xref> summarizes the differences in the expression patterns between patients and controls based on median counts per million (CPM) per DEG. Consistent with the GSEA results, intermediate monocytes showed significant expression of the genes related to inflammation, such as <italic toggle="yes">IL-1b</italic>, <italic toggle="yes">CXCL2</italic>, and <italic toggle="yes">CXCL8</italic>, with uniformly lower results in patients.</p><p>The plasma concentrations of CXCL2 confirmed the RNA sequencing (RNAseq) data, while other chemokines, such as CCL20, showed a trend that did not quite reach statistical significance (<xref rid="f6" ref-type="fig"><bold>Figure 6</bold></xref>). The plasma concentrations of IL-6, TNFα, IFNγ, IL-1β, CXCL1, CXCL8, and CCL4 remained below their respective detection thresholds (<xref rid="SM1" ref-type="supplementary-material"><bold>Supplementary Table S3</bold></xref>).</p><fig position="float" id="f6" orientation="portrait"><label>Figure 6</label><caption><p>Plasma CXCL2 and CCL20 confirmed the single-cell RNA sequencing (scRNA-seq) data. <bold>(A)</bold> Box plots overlaid with dots representing individual patients and controls summarizing the plasma concentrations of CXCL2, CCL20, and CCL3, analyzed using Luminex assays (<italic toggle="yes">n</italic> = 44 each). <italic toggle="yes">Boxes</italic> represent 25, 50, and 75 percentiles, and <italic toggle="yes">lower</italic> and <italic toggle="yes">upper whiskers</italic> indicate 10 and 90 percentiles, respectively. <italic toggle="yes">P</italic>-values are the results of two-sided Mann–Whitney <italic toggle="yes">U</italic> tests. <italic toggle="yes">LLOD</italic>, lower limit of detection. <bold>(B)</bold> Box plots showing the corresponding differentially expressed genes in all monocytes via the median counts per million (CPM) of patients and controls. <italic toggle="yes">Boxes</italic> represent 25, 50, and 75 percentiles, and <italic toggle="yes">lower</italic> and <italic toggle="yes">upper whiskers</italic> indicate 10 and 90 percentiles, respectively. Outliers are shown. <italic toggle="yes">P</italic>-values are the results of two-sided Mann–Whitney <italic toggle="yes">U</italic> tests.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="fimmu-16-1710783-g006.jpg"><alt-text content-type="machine-generated">Panel A shows three scatter plots with box plots for CXCL2, CCL20, and CCL3 concentrations, comparing two groups with significance levels noted. Panel B displays two box plots for controls and long COVID groups, illustrating significant differences in counts per minute. Data exhibits lower values in the long COVID group across all charts.</alt-text></graphic></fig><p>As there was a minor quantitative difference observed for the NK cell populations, differential expression of the genes was also analyzed. However, only two genes allowed for the clustering of patients and controls. These genes were identified as TNFα-induced protein 8-like protein 2 (<italic toggle="yes">TNFAIP8L2</italic>) and <italic toggle="yes">CISH</italic>, both of which have been implicated in the regulation of immune processes. Both were downregulated in patients with long COVID (<xref rid="SM1" ref-type="supplementary-material"><bold>Supplementary Figure S4</bold></xref>).</p><p>In summary, we here showed that the differences in the immune landscape between patients with long COVID and controls were i) restricted to classical and intermediate monocytes; ii) reflected in the DEGs that are predominantly downregulated; and iii) confirmed as reduced protein concentrations in the plasma for CXCL2 and CCL20.</p></sec><sec id="s3_3"><title>Differentially expressed genes in the classical monocytes of long COVID patients hint at less inflammasome activity and an immature phenotype</title><p>Subsequent subclustering analysis yielded 10 distinguishable monocyte populations (<xref rid="f7" ref-type="fig"><bold>Figure 7A</bold></xref>). Subcluster 3 was predominantly associated with non-classical monocytes, as well as a portion of subcluster 7. All the other subclusters were associated with classical and intermediate monocytes (<xref rid="f7" ref-type="fig"><bold>Figure 7B</bold></xref>). The bubble heatmap in <xref rid="f7" ref-type="fig"><bold>Figure 7C</bold></xref> provides a detailed visualization of all 40 DEGs, highlighting the subclusters in which each gene was expressed and the proportion of cells within those subclusters expressing the respective genes. <xref rid="f7" ref-type="fig"><bold>Figure 7D</bold></xref> attributes subclusters 0, 5, and 7 to monocytes from the patients and subclusters 4 and 6 to the controls.</p><fig position="float" id="f7" orientation="portrait"><label>Figure 7</label><caption><p>Differentially expressed genes from distinct monocyte subclusters. <bold>(A)</bold> Uniform manifold approximation and projection (UMAP) of the single-cell RNA sequencing (scRNA-seq) data from classical monocytes identifying 10 distinct clusters. <bold>(B)</bold> UMAP differentiating classical from intermediate and non-classical monocytes. <bold>(C)</bold> Bubble heatmap visualizing the gene expression for each cluster, where the <italic toggle="yes">color</italic> and the <italic toggle="yes">dot size</italic> indicate the average scaled expression levels and the percentages of cells expressing the respective gene, respectively. <bold>(D)</bold> RNA velocity trajectories indicating the differentiation of distinct populations of monocytes against the background of patient and control cells.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="fimmu-16-1710783-g007.jpg"><alt-text content-type="machine-generated">Panel A shows a UMAP plot clustering cells into ten groups, each color-coded. Panel B illustrates monocyte subtypes in UMAP, categorized as classical, intermediate, and non-classical. Panel C displays a dot plot correlating gene expression and percent expression across identities, with dot size and color indicating expression levels. Panel D shows UMAP of control and long COVID cells, color-coded with vector fields indicating changes.</alt-text></graphic></fig><p>Moreover, the RNA velocity trajectories suggested an origin of differentiation and thereby majority of the immature monocytes in subcluster 0 and neighboring areas that comprise classical and intermediate monocytes from patients in subclusters 1 and 7 (<xref rid="f7" ref-type="fig"><bold>Figure 7D</bold></xref>). From this origin, the trajectories extended in two directions, either via subcluster 1 toward subcluster 4 or toward subcluster 2. However, interestingly, the trajectories pointed from subcluster 6 toward subcluster 5, suggesting another origin of differentiation. Similarly, the trajectories from subcluster 3, consisting of non-classical monocytes, pointed to various directions, except toward the patients’ monocytes. However, subclusters 3, 5, 7, 8, and 9 harbored the least DEGs (see <xref rid="f7" ref-type="fig"><bold>Figure 7C</bold></xref>).</p><p>Gene Ontology (GO) enrichment analysis of the 37 downregulated genes in all monocytes from patients, ranked based on the FDR, highlighted functional alterations in long COVID. Cross-referencing with the KEGG and Reactome databases revealed that the infection-related pathways (IL-17, IL-10, and TNFα signaling) were significantly enriched among the downregulated genes, indicating the reduced activity of these pathways in the classical and intermediate monocytes of patients. Similarly, pathways linked to pro-inflammatory conditions such as rheumatoid arthritis and legionellosis were found to be suppressed in patients (<xref rid="f8" ref-type="fig"><bold>Figure 8A</bold></xref>). To assess transcriptional regulation in patients with long COVID, the TF activities were imputed from the expression data of all the genes expressed in all monocytes using DoRothEA. The heatmap in <xref rid="f8" ref-type="fig"><bold>Figure 8B</bold></xref> shows that the monocytes from patients appeared to be primarily regulated by <italic toggle="yes">SNAI1</italic>, which is known to suppress inflammasome activity (<xref rid="B58" ref-type="bibr">58</xref>). Conversely, <italic toggle="yes">ATF2</italic>, a TF associated with monocyte differentiation (<xref rid="B59" ref-type="bibr">59</xref>), displayed a markedly reduced activity in patients. A more extensive spectrum of TFs exhibited weaker differences, encompassing <italic toggle="yes">WT1</italic>, <italic toggle="yes">ATF2</italic>, <italic toggle="yes">ETV4</italic>, <italic toggle="yes">DDIT3</italic>, and <italic toggle="yes">HMGA1</italic>.</p><fig position="float" id="f8" orientation="portrait"><label>Figure 8</label><caption><p>Monocytes from long COVID patients revealed changes in the immunological pathways, transcription factor activities, and differentiation stages. <bold>(A)</bold> Bar plots of the downregulated pathways in long COVID patients created with the ShinyGO software by comparing the downregulated genes (<italic toggle="yes">n</italic> = 37) in all monocytes of the patients and ranked using the false discovery rate (FDR). <bold>(B)</bold> Heatmap showing the transcription factors (TFs), as inferred via DoRothEA, regulating the genes expressed in the monocytes of patients and controls. Plots were generated from the expression data of all monocytes for all genes.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="fimmu-16-1710783-g008.jpg"><alt-text content-type="machine-generated">Panel A shows two bar charts depicting pathway enrichments in KEGG and Reactome 2022 pathways with varying fold enrichment levels. KEGG highlights pathways like IL-17 signaling and rheumatoid arthritis. Reactome 2022 shows interleukin-10 signaling and chemokine receptor binding. Panel B displays a heatmap with hierarchical clustering of gene expressions long COVID and in control groups. The genes range from ATF2 to UNCX, with expression levels indicated by a color gradient from red to blue.</alt-text></graphic></fig><p>In summary, the transcriptional profile of classical monocytes implied not only a lower expression of pro-inflammatory cytokines and various chemokines but also an involvement of TFs that suppress inflammasome activity in patients. A conspicuous deficiency of transcriptional regulation promoting monocyte differentiation was observed, indicating an immature phenotype in the classical monocytes of patients. The RNA velocity data corroborated these findings, as the patient-derived subcluster 0 not only contained the largest number of DEGs but also the least differentiated monocytes.</p></sec><sec id="s3_4"><title>Distinctive gene expression in long COVID patients did not correlate with the clinical parameters</title><p>In order to explore potential diagnostic indicators for long COVID, we set out to investigate the correlations between routine pathology parameters, quality of life, and the DEGs in classical monocytes. We here concentrated on classical monocytes as they not only expressed the most DEGs but also constituted by far the largest fraction of peripheral monocytes. As demonstrated in <xref rid="SM1" ref-type="supplementary-material"><bold>Supplementary Figure S5</bold></xref>, there was no linkage, and neither was there any correlation between the main clinical symptoms and the DEGs.</p></sec></sec><sec sec-type="discussion" id="s4"><title>Discussion</title><p>Our scRNA-seq analysis complemented by plasma profiling provided a comprehensive and novel immune landscape of long COVID syndrome. We revealed qualitative rather than quantitative alterations, confined to classical monocytes, confirming the importance of innate immunity in long COVID (<xref rid="B24" ref-type="bibr">24</xref>, <xref rid="B60" ref-type="bibr">60</xref>). Notably, we observed the reduced gene expression of the inflammatory mediators in patients, including <italic toggle="yes">IL1B</italic> and various chemokines, contrasting prior studies that reported a transiently pro-inflammatory monocyte state (<xref rid="B25" ref-type="bibr">25</xref>, <xref rid="B28" ref-type="bibr">28</xref>). TF imputation via DoRothEA pointed to an enhanced activity of <italic toggle="yes">SNAI1</italic>, implicating inflammasome suppression, and reduced <italic toggle="yes">ATF2</italic> activity, indicating impaired monocyte-to-macrophage differentiation (<xref rid="B58" ref-type="bibr">58</xref>, <xref rid="B59" ref-type="bibr">59</xref>). Together with the RNA velocity analysis, these findings support a developmental impairment in the immature classical monocytes of patients with long COVID. While the proportions of the monocyte subset remained unchanged, we speculate that some classical monocytes still differentiated into intermediate and non-classical monocytes, explaining the decreasing number of DEGs along the maturation trajectory. Functionally, immature classical monocytes in the peripheral blood may lead to a deficit of mature classical macrophages in surrounding tissues, potentially reducing the pathogen defense capability (<xref rid="B61" ref-type="bibr">61</xref>). Indeed, anecdotal reports from patients indicated increased susceptibility to infections after having acquired long COVID. Future work should therefore not only investigate the tissue macrophages of patients with long COVID but also monitor in detail seasonal infections.</p><p>The question whether the reduced inflammatory potential and the immature phenotype of classical monocytes in patients are a cause or a consequence of long COVID arises. In case of a predisposition, the restricted inflammatory response from macrophages could impair viral control during infection. Indeed, more severe courses of COVID-19 predispose for long COVID (<xref rid="B7" ref-type="bibr">7</xref>, <xref rid="B9" ref-type="bibr">9</xref>), and impaired viral control may allow viral persistence, facilitating long COVID (<xref rid="B11" ref-type="bibr">11</xref>–<xref rid="B13" ref-type="bibr">13</xref>, <xref rid="B62" ref-type="bibr">62</xref>). Although patients did not report immune defects pre-illness, a mild monocytic impairment could explain the observation that, in the majority of cases with long COVID, a single infection with SARS-CoV-2 sufficed triggering long COVID (<xref rid="B8" ref-type="bibr">8</xref>). An impaired cytokine production during infection would also delay immune cell recruitment to the lung and thus prevent efficient elimination of the virus, causing damage to the lung and facilitating post-exertional malaise, fatigue, persistent cough, shortness of breath, and chest pain in the long run (<xref rid="B63" ref-type="bibr">63</xref>).</p><p>Impaired monocyte maturation as a consequence of SARS-CoV-2 infection, on the other hand, is quite intriguing as it implies an innate memory. While the concept of adaptive immune memory is well established, evidence for comparable mechanisms in innate immunity has only been recently recognized. These mechanisms are termed trained immunity or immune tolerance, depending on whether the immune response to a repeated encounter with a pathogen is upregulated or muted (<xref rid="B64" ref-type="bibr">64</xref>–<xref rid="B68" ref-type="bibr">68</xref>). Indeed, viral infections can induce long-term immune alterations and organ-specific complications (<xref rid="B69" ref-type="bibr">69</xref>). Given that monocyte gene expression is still altered more than a year post-infection and that classical monocytes circulate through the periphery for only 1 day before being recruited to the various tissues, an alteration in progenitor cells is strongly indicated (<xref rid="B70" ref-type="bibr">70</xref>). Epigenetic reprogramming of the monocytes and hematopoietic progenitors has been described in severe COVID-19, resulting in the hyperactivation of monocytes during infection (<xref rid="B71" ref-type="bibr">71</xref>). In long COVID, our data instead suggest a state of immune tolerance. In support of this, another research group demonstrated that stimulation with the SARS-CoV-2 envelope protein induced tolerance in human monocytes, reducing the responses against secondary stimuli (<xref rid="B72" ref-type="bibr">72</xref>). A decline in innate and adaptive immune cells has been recently shown in individuals infected with SARS-CoV-2 at 10 months after COVID-19 (<xref rid="B69" ref-type="bibr">69</xref>). It remains unclear why some recover while others maintain innate memory and develop sequelae. However, a recent study on the post-acute sequelae of Ebola virus disease has also described a dysregulation of monocytes and thus may confirm shared biological pathways among post-acute infection syndromes (<xref rid="B73" ref-type="bibr">73</xref>).</p><p>A state of immune exhaustion induced by prolonged viral challenge has been proposed as a mechanism in long COVID. Monocytes from infected individuals have been observed to exhibit a decrease in cytokine secretion, a finding similarly observed in our patient cohort (<xref rid="B74" ref-type="bibr">74</xref>). This aligns with previous long COVID studies reporting cytokine deficiencies and suggesting immune exhaustion as a pivotal factor of the disease (<xref rid="B63" ref-type="bibr">63</xref>). Exhausted monocytes with an impaired differentiation capacity have also been implicated in the pathogenesis of sepsis (<xref rid="B75" ref-type="bibr">75</xref>, <xref rid="B76" ref-type="bibr">76</xref>). Our GSEA only partially supported this hypothesis. We observed a trend toward elevated <italic toggle="yes">OPXHOS</italic> in patients, consistent with exhaustion-associated metabolic reprogramming (<xref rid="B77" ref-type="bibr">77</xref>). In contrast, the apoptotic pathways were downregulated, which does not fully align with classical exhaustion patterns (<xref rid="B78" ref-type="bibr">78</xref>). Moreover, patients with long COVID showed no elevated expression of PD-1, no reduction in CD86 or MHCII, and no depletion of innate immune cells, indicating that a direct translation of the exhaustion mechanisms seen in other diseases may be limited.</p><p>There are additional aspects of our results that are worth discussing. <italic toggle="yes">TNFRSF12A</italic>, a mediator of lung fibrosis in severe COVID-19 (<xref rid="B57" ref-type="bibr">57</xref>), was robustly upregulated, suggesting a possible therapeutic target. Secondly, the NK cell alterations regarding relative proportions and expression profiles were minor, but were consistent with previous research that reported a reduced cytotoxic capacity in NK cells during severe SARS-CoV-2 infection, highlighting their potential relevance in the pathogenesis of long COVID (<xref rid="B79" ref-type="bibr">79</xref>). Thirdly, we did not find any robust correlation between the gene expression profiles of patients and the clinical assessments, which may indicate that the distinct immunological changes in patients with long COVID contribute to rather diverse phenotypic disease characteristics.</p><p>Finally, several limitations have to be acknowledged. Firstly, due to the lack of pre-infection samples, we cannot discriminate whether our results are a cause or a consequence of long COVID. While prospective studies would be ideal, they are becoming increasingly unfeasible as the majority has now been infected with SARS-CoV2. Secondly, convalescents served as controls and were matched for age, sex, and immunization histories. However, as healthcare workers, they had experienced either more frequent or more recent SARS-CoV-2 infections, as indicated by the higher anti-nucleocapsid titers. However, the scRNA-seq results did not correlate with the anti-nucleocapsid titers, supporting our interpretation of a downregulation on the patients’ side rather than an upregulation in the controls. Our findings were further validated by an external healthy control cohort. Thirdly, a long COVID diagnosis remains challenging due to the lack of definitive biomarkers. Even with standardized diagnostic procedures in place at our medical care center, some uncertainties persist. Fourthly, the variants of concern were inferred from the infection time points; however, as the majority of the primary infections in both cohorts occurred predominantly in 2022, Omicron was likely dominant (<xref rid="B52" ref-type="bibr">52</xref>). Finally, our focus on PBMCs did not allow any conclusion on transcriptional changes in neutrophils, which may have complemented the picture.</p><p>In conclusion, we here present a downregulation of the inflammatory pathways in the classical monocytes of patients with long COVID. We discuss our results as a consequence of a genetic predisposition on the patients’ side, immune exhaustion due to persistent infection, or even epigenetic reprogramming due to SARS-CoV-2. Further <italic toggle="yes">in vitro</italic> research is required to discriminate between the latter two and to explore therapeutic interventions stimulating classical monocytes.</p></sec></body><back><ack><title>Acknowledgments</title><p>We sincerely thank the team of the outpatient clinic for internal medicine and the staff of the Coordination Center for Clinical Studies (KKS) at the Rostock University Medical Center for their support in collecting blood samples from long COVID patients and controls, respectively. We are also grateful to Peter Lorenz and Johann Aleith for their support with the experiments. Finally, we extend our gratitude to all study participants for their contribution to this research.</p></ack><fn-group><fn id="n1" fn-type="edited-by"><p>Edited by: <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://loop.frontiersin.org/people/199869" ext-link-type="uri">Juan Bautista De Sanctis</ext-link>, Palacký University Olomouc, Czechia</p></fn><fn id="n2" fn-type="reviewed-by"><p>Reviewed by: <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://loop.frontiersin.org/people/577213" ext-link-type="uri">Sarah Jane Annesley</ext-link>, La Trobe University, Australia</p><p><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://loop.frontiersin.org/people/618734" ext-link-type="uri">Ermin Schadich</ext-link>, Palacký University, Olomouc, Czechia</p></fn></fn-group><sec sec-type="data-availability" id="s5"><title>Data availability statement</title><p>The datasets presented in this study can be found in online repositories. The names of the repository/repositories and accession number(s) can be found below: <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.ncbi.nlm.nih.gov/geo/">https://www.ncbi.nlm.nih.gov/geo/</uri>, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmc:entrez-geo" xlink:href="GSE286325">GSE286325</ext-link>.</p></sec><sec sec-type="ethics-statement" id="s6"><title>Ethics statement</title><p>The studies involving humans were approved by ethics committee of the Rostock University Medical Center. The studies were conducted in accordance with the local legislation and institutional requirements. The participants provided their written informed consent to participate in this study.</p></sec><sec sec-type="author-contributions" id="s7"><title>Author contributions</title><p>FF: Data curation, Formal analysis, Investigation, Methodology, Validation, Visualization, Writing – original draft, Writing – review &amp; editing. FM: Data curation, Investigation, Methodology, Validation, Writing – review &amp; editing. CW: Data curation, Investigation, Writing – review &amp; editing, Formal analysis. FS: Data curation, Formal analysis, Methodology, Software, Validation, Visualization, Writing – review &amp; editing. WB-E: Data curation, Formal analysis, Validation, Visualization, Writing – review &amp; editing. MK: Data curation, Formal analysis, Validation, Visualization, Writing – review &amp; editing. KK: Data curation, Validation, Writing – review &amp; editing, Investigation. BM: Data curation, Investigation, Validation, Writing – review &amp; editing. ER: Writing – review &amp; editing, Conceptualization, Funding acquisition, Project administration, Resources. BM-H: Conceptualization, Funding acquisition, Project administration, Resources, Writing – review &amp; editing, Data curation, Formal analysis, Investigation, Methodology, Software, Supervision, Validation, Visualization, Writing – original draft.</p></sec><sec sec-type="COI-statement" id="s9"><title>Conflict of interest</title><p>The authors declare that the research was conducted in the absence of any commercial or financial relationships that could be construed as a potential conflict of interest.</p></sec><sec sec-type="ai-statement" id="s10"><title>Generative AI statement</title><p>The author(s) declare that Generative AI was used in the creation of this manuscript. During the preparation of this work the authors used ChatGPT (OpenAI) und DeepL in order to improve language and readability of the manuscript. After using this services, the authors reviewed and edited the content as needed and take full responsibility for the content of the published article.</p><p>Any alternative text (alt text) provided alongside figures in this article has been generated by Frontiers with the support of artificial intelligence and reasonable efforts have been made to ensure accuracy, including review by the authors wherever possible. If you identify any issues, please contact us.</p></sec><sec sec-type="disclaimer" id="s11"><title>Publisher’s note</title><p>All claims expressed in this article are solely those of the authors and do not necessarily represent those of their affiliated organizations, or those of the publisher, the editors and the reviewers. Any product that may be evaluated in this article, or claim that may be made by its manufacturer, is not guaranteed or endorsed by the publisher.</p></sec><sec sec-type="supplementary-material" id="s12"><title>Supplementary material</title><p>The Supplementary Material for this article can be found online at: <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.frontiersin.org/articles/10.3389/fimmu.2025.1710783/full#supplementary-material" ext-link-type="uri">https://www.frontiersin.org/articles/10.3389/fimmu.2025.1710783/full#supplementary-material</ext-link></p><supplementary-material id="SM1" position="float" content-type="local-data" orientation="portrait"><label>Supplementary Figure 1</label><caption><p>Quality control steps for the assessment of scRNA-seq data. <bold>(A)</bold> Violin plots depict for each experimental run the numbers of different genes detected per cell. Horizontal lines indicate inclusion parameters of cells with &lt;200 or &gt;4000 unique RNA products. <bold>(B)</bold> Violin plots depict for each experimental run the total numbers of reads per cell. <bold>(C)</bold> Violin plots depict for each experimental run the percentages of mitochondrial genes detected per cell. The horizontal line indicates the exclusion of cells with &gt;25% of mitochondrial genes. <bold>(D)</bold> The UMAP represents for each experimental run spike control cells (isolated CD3+ T cells); color code is given. (E+F) Bar charts of cell mixing score and smooth cell mixing score were generated using the CellMixS 1.7.1 package for R and show sufficiently uniform distributions. </p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="Image1.tif" position="float" orientation="portrait"/></supplementary-material><supplementary-material id="SM2" position="float" content-type="local-data" orientation="portrait"><label>Supplementary Figure 2</label><caption><p>28 DEGs were confirmed with external controls. Publicly available data sets of controls were compared to the long COVID patients and confirmed 28 down regulated genes in the patients. Box plots summarize normalized and z-scaled expression levels.</p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="Image2.tif" position="float" orientation="portrait"/></supplementary-material><supplementary-material id="SM3" position="float" content-type="local-data" orientation="portrait"><label>Supplementary Figure 3</label><caption><p>DEGs mainly consist of down-regulated genes in long COVID patients. The Box-plots compare for each differentially expressed gene in classical <bold>(A)</bold>, intermediate <bold>(B)</bold> and non-classical monocytes the CPM of patients and controls. Boxes represent 25, 50 and 75 percentiles, lower and upper whiskers indicate 10 and 90 percentiles, respectively, outliers are shown. P-values result from two-sided Mann-Whitney U-tests, **p&lt;0.01; ***p&lt;0.001.</p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="Image3.tif" position="float" orientation="portrait"/></supplementary-material><supplementary-material id="SM4" position="float" content-type="local-data" orientation="portrait"><label>Supplementary Figure 4</label><caption><p>NK cells also exhibited a down-regulation of differentially expressed genes. <bold>(A)</bold> Volcano plot specifies DEGs in NK cells based on a fold change threshold greater than three and a p-value threshold below 10<sup>-18</sup>. <bold>(B)</bold> The heatmap shows the results of Euclidean-distance metrics of scRNA-seq data from NK cells. Only TNFAIP8L2 and CISH allow for clustering of patients and controls. <bold>(C)</bold> The Box-plots compare for TNFAIP8L2 and CISH the CPM in NK cells of patients and controls. Boxes represent 25, 50 and 75 percentiles, lower and upper whiskers indicate 10 and 90 percentiles, respectively, outliers are shown. P-values result from two-sided Mann-Whitney U-tests. </p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="Image4.tif" position="float" orientation="portrait"/></supplementary-material><supplementary-material id="SM5" position="float" content-type="local-data" orientation="portrait"><label>Supplementary Figure 5</label><caption><p>Distinctive gene expression in long COVID patients did not correlate with clinical parameters. Heatmaps show the results of Euclidean-distance metrics of scRNA-seq data from classical monocytes and routine pathology parameters, clinical symptoms and quality of life, respectively <bold>(A)</bold> and patients’ predominant clinical symptoms <bold>(B)</bold>. Color codes for predominant clinical symptoms of each patient are specified.</p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="Image5.tif" position="float" orientation="portrait"/></supplementary-material><supplementary-material id="ST1" position="float" content-type="local-data" orientation="portrait"><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="Table1.docx" position="float" orientation="portrait"/></supplementary-material><supplementary-material id="ST2" position="float" content-type="local-data" orientation="portrait"><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="Table2.docx" position="float" orientation="portrait"/></supplementary-material><supplementary-material id="ST3" position="float" content-type="local-data" orientation="portrait"><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="Table3.docx" position="float" orientation="portrait"/></supplementary-material></sec><ref-list><title>References</title><ref id="B1"><label>1</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Xie</surname><given-names>N-N</given-names></name>
+<name name-style="western"><surname>Zhang</surname><given-names>W-C</given-names></name>
+<name name-style="western"><surname>Chen</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Tian</surname><given-names>F-B</given-names></name>
+<name name-style="western"><surname>Song</surname><given-names>J-X</given-names></name>
+</person-group>. 
+<article-title>Clinical characteristics, diagnosis, and therapeutics of COVID-19: A review</article-title>. <source>Curr Med Sci</source>. (<year>2023</year>) <volume>43</volume>:<page-range>1066–74</page-range>. doi: <pub-id pub-id-type="doi">10.1007/s11596-023-2797-3</pub-id>, PMID: 
+<pub-id pub-id-type="pmid">37837572</pub-id>
+</mixed-citation></ref><ref id="B2"><label>2</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Ssentongo</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Ssentongo</surname><given-names>AE</given-names></name>
+<name name-style="western"><surname>Voleti</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Groff</surname><given-names>D</given-names></name>
+<name name-style="western"><surname>Sun</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Ba</surname><given-names>DM</given-names></name>
+<etal/>
+</person-group>. 
+<article-title>SARS-CoV-2 vaccine effectiveness against infection, symptomatic and severe COVID-19: a systematic review and meta-analysis</article-title>. <source>BMC Infect Dis</source>. (<year>2022</year>) <volume>22</volume>:<fpage>439</fpage>. doi: <pub-id pub-id-type="doi">10.1186/s12879-022-07418-y</pub-id>, PMID: 
+<pub-id pub-id-type="pmid">35525973</pub-id>
+<pub-id pub-id-type="pmcid">PMC9077344</pub-id></mixed-citation></ref><ref id="B3"><label>3</label><mixed-citation publication-type="webpage">
+<article-title>Overview | COVID-19 rapid guideline: managing the long-term effects of COVID-19 | Guidance | NICE (18.12.2020)</article-title>. Available online at: <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.nice.org.uk/guidance/ng188">https://www.nice.org.uk/guidance/ng188</uri> (Accessed <date-in-citation content-type="access-date">November 10, 2024</date-in-citation>).
+</mixed-citation></ref><ref id="B4"><label>4</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Altmann</surname><given-names>DM</given-names></name>
+<name name-style="western"><surname>Whettlock</surname><given-names>EM</given-names></name>
+<name name-style="western"><surname>Liu</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Arachchillage</surname><given-names>DJ</given-names></name>
+<name name-style="western"><surname>Boyton</surname><given-names>RJ</given-names></name>
+</person-group>. 
+<article-title>The immunology of long COVID</article-title>. <source>Nature reviews. Immunology</source>. (<year>2023</year>) <volume>23</volume>:<page-range>618–34</page-range>. doi: <pub-id pub-id-type="doi">10.1038/s41577-023-00904-7</pub-id>, PMID: 
+<pub-id pub-id-type="pmid">37433988</pub-id>
+</mixed-citation></ref><ref id="B5"><label>5</label><mixed-citation publication-type="webpage">
+<article-title>Post COVID-19 condition (Long COVID) (7.12.2024)</article-title>. Available online at: <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.who.int/europe/news-room/fact-sheets/item/post-covid-19-condition">https://www.who.int/europe/news-room/fact-sheets/item/post-covid-19-condition</uri> (Accessed <date-in-citation content-type="access-date">November 10, 2024</date-in-citation>).
+</mixed-citation></ref><ref id="B6"><label>6</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Davis</surname><given-names>HE</given-names></name>
+<name name-style="western"><surname>Assaf</surname><given-names>GS</given-names></name>
+<name name-style="western"><surname>McCorkell</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Wei</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Low</surname><given-names>RJ</given-names></name>
+<name name-style="western"><surname>Re’em</surname><given-names>Y</given-names></name>
+<etal/>
+</person-group>. 
+<article-title>Characterizing long COVID in an international cohort: 7 months of symptoms and their impact</article-title>. <source>EClinicalMedicine</source>. (<year>2021</year>) <volume>38</volume>:<fpage>101019</fpage>. doi: <pub-id pub-id-type="doi">10.1016/j.eclinm.2021.101019</pub-id>, PMID: 
+<pub-id pub-id-type="pmid">34308300</pub-id>
+<pub-id pub-id-type="pmcid">PMC8280690</pub-id></mixed-citation></ref><ref id="B7"><label>7</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Guaraldi</surname><given-names>G</given-names></name>
+<name name-style="western"><surname>Milic</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Cesari</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Leibovici</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Mandreoli</surname><given-names>F</given-names></name>
+<name name-style="western"><surname>Missier</surname><given-names>P</given-names></name>
+<etal/>
+</person-group>. 
+<article-title>The interplay of post-acute COVID-19 syndrome and aging: a biological, clinical and public health approach</article-title>. <source>Ageing Res Rev</source>. (<year>2022</year>) <volume>81</volume>:<fpage>101686</fpage>. doi: <pub-id pub-id-type="doi">10.1016/j.arr.2022.101686</pub-id>, PMID: 
+<pub-id pub-id-type="pmid">35820609</pub-id>
+<pub-id pub-id-type="pmcid">PMC9270773</pub-id></mixed-citation></ref><ref id="B8"><label>8</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Cegolon</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Mauro</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Sansone</surname><given-names>D</given-names></name>
+<name name-style="western"><surname>Tassinari</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Gobba</surname><given-names>FM</given-names></name>
+<name name-style="western"><surname>Modenese</surname><given-names>A</given-names></name>
+<etal/>
+</person-group>. 
+<article-title>A multi-center study investigating long COVID-19 in healthcare workers from north-eastern Italy: prevalence, risk factors and the impact of pre-existing humoral immunity-ORCHESTRA project</article-title>. <source>Vaccines</source>. (<year>2023</year>) <volume>11</volume>:<elocation-id>1769</elocation-id>. doi: <pub-id pub-id-type="doi">10.3390/vaccines11121769</pub-id>, PMID: 
+<pub-id pub-id-type="pmid">38140174</pub-id>
+<pub-id pub-id-type="pmcid">PMC10747427</pub-id></mixed-citation></ref><ref id="B9"><label>9</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Bahmer</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Borzikowsky</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Lieb</surname><given-names>W</given-names></name>
+<name name-style="western"><surname>Horn</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Krist</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Fricke</surname><given-names>J</given-names></name>
+<etal/>
+</person-group>. 
+<article-title>Severity, predictors and clinical correlates of post COVID syndrome (PCS) in Germany: A prospective, multi-centre, population-based cohort study</article-title>. <source>EClinicalMedicine</source>. (<year>2022</year>) <volume>51</volume>:<fpage>101549</fpage>. doi: <pub-id pub-id-type="doi">10.1016/j.eclinm.2022.101549</pub-id>, PMID: 
+<pub-id pub-id-type="pmid">35875815</pub-id>
+<pub-id pub-id-type="pmcid">PMC9289961</pub-id></mixed-citation></ref><ref id="B10"><label>10</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Shenoy</surname><given-names>PU</given-names></name>
+<name name-style="western"><surname>Udupa</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Ks</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Babu</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>K</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Jain</surname><given-names>N</given-names></name>
+<etal/>
+</person-group>. 
+<article-title>The impact of COVID-19 on pulmonary, neurological, and cardiac outcomes: evidence from a Mendelian randomization study</article-title>. <source>Front Public Health</source>. (<year>2023</year>) <volume>11</volume>:<elocation-id>1303183</elocation-id>. doi: <pub-id pub-id-type="doi">10.3389/fpubh.2023.1303183</pub-id>, PMID: 
+<pub-id pub-id-type="pmid">38155884</pub-id>
+<pub-id pub-id-type="pmcid">PMC10752946</pub-id></mixed-citation></ref><ref id="B11"><label>11</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Gaebler</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Wang</surname><given-names>Z</given-names></name>
+<name name-style="western"><surname>Lorenzi</surname><given-names>JCC</given-names></name>
+<name name-style="western"><surname>Muecksch</surname><given-names>F</given-names></name>
+<name name-style="western"><surname>Finkin</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Tokuyama</surname><given-names>M</given-names></name>
+<etal/>
+</person-group>. 
+<article-title>Evolution of antibody immunity to SARS-CoV-2</article-title>. <source>Nature</source>. (<year>2021</year>) <volume>591</volume>:<page-range>639–44</page-range>. doi: <pub-id pub-id-type="doi">10.1038/s41586-021-03207-w</pub-id>, PMID: 
+<pub-id pub-id-type="pmid">33461210</pub-id>
+<pub-id pub-id-type="pmcid">PMC8221082</pub-id></mixed-citation></ref><ref id="B12"><label>12</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Swank</surname><given-names>Z</given-names></name>
+<name name-style="western"><surname>Senussi</surname><given-names>Y</given-names></name>
+<name name-style="western"><surname>Manickas-Hill</surname><given-names>Z</given-names></name>
+<name name-style="western"><surname>Yu</surname><given-names>XG</given-names></name>
+<name name-style="western"><surname>Li</surname><given-names>JZ</given-names></name>
+<name name-style="western"><surname>Alter</surname><given-names>G</given-names></name>
+<etal/>
+</person-group>. 
+<article-title>Persistent circulating severe acute respiratory syndrome coronavirus 2 spike is associated with post-acute coronavirus disease 2019 sequelae</article-title>. <source>Clin Infect diseases: an Off Publ Infect Dis Soc America</source>. (<year>2023</year>) <volume>76</volume>:<page-range>e487–90</page-range>. doi: <pub-id pub-id-type="doi">10.1093/cid/ciac722</pub-id>, PMID: 
+<pub-id pub-id-type="pmid">36052466</pub-id>
+<pub-id pub-id-type="pmcid">PMC10169416</pub-id></mixed-citation></ref><ref id="B13"><label>13</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Stein</surname><given-names>SR</given-names></name>
+<name name-style="western"><surname>Ramelli</surname><given-names>SC</given-names></name>
+<name name-style="western"><surname>Grazioli</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Chung</surname><given-names>J-Y</given-names></name>
+<name name-style="western"><surname>Singh</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Yinda</surname><given-names>CK</given-names></name>
+<etal/>
+</person-group>. 
+<article-title>SARS-CoV-2 infection and persistence in the human body and brain at autopsy</article-title>. <source>Nature</source>. (<year>2022</year>) <volume>612</volume>:<page-range>758–63</page-range>. doi: <pub-id pub-id-type="doi">10.1038/s41586-022-05542-y</pub-id>, PMID: 
+<pub-id pub-id-type="pmid">36517603</pub-id>
+<pub-id pub-id-type="pmcid">PMC9749650</pub-id></mixed-citation></ref><ref id="B14"><label>14</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Klein</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Wood</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Jaycox</surname><given-names>JR</given-names></name>
+<name name-style="western"><surname>Dhodapkar</surname><given-names>RM</given-names></name>
+<name name-style="western"><surname>Lu</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Gehlhausen</surname><given-names>JR</given-names></name>
+<etal/>
+</person-group>. 
+<article-title>Distinguishing features of long COVID identified through immune profiling</article-title>. <source>Nature</source>. (<year>2023</year>) <volume>623</volume>:<page-range>139–48</page-range>. doi: <pub-id pub-id-type="doi">10.1038/s41586-023-06651-y</pub-id>, PMID: 
+<pub-id pub-id-type="pmid">37748514</pub-id>
+<pub-id pub-id-type="pmcid">PMC10620090</pub-id></mixed-citation></ref><ref id="B15"><label>15</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Gold</surname><given-names>JE</given-names></name>
+<name name-style="western"><surname>Okyay</surname><given-names>RA</given-names></name>
+<name name-style="western"><surname>Licht</surname><given-names>WE</given-names></name>
+<name name-style="western"><surname>Hurley</surname><given-names>DJ</given-names></name>
+</person-group>. 
+<article-title>Investigation of long COVID prevalence and its relationship to epstein-barr virus reactivation</article-title>. <source>Pathog (Basel Switzerland)</source>. (<year>2021</year>) <volume>10</volume>:<elocation-id>763</elocation-id>. doi: <pub-id pub-id-type="doi">10.3390/pathogens10060763</pub-id>, PMID: 
+<pub-id pub-id-type="pmid">34204243</pub-id>
+<pub-id pub-id-type="pmcid">PMC8233978</pub-id></mixed-citation></ref><ref id="B16"><label>16</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Peluso</surname><given-names>MJ</given-names></name>
+<name name-style="western"><surname>Deveau</surname><given-names>T-M</given-names></name>
+<name name-style="western"><surname>Munter</surname><given-names>SE</given-names></name>
+<name name-style="western"><surname>Ryder</surname><given-names>D</given-names></name>
+<name name-style="western"><surname>Buck</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Beck-Engeser</surname><given-names>G</given-names></name>
+<etal/>
+</person-group>. 
+<article-title>Chronic viral coinfections differentially affect the likelihood of developing long COVID</article-title>. <source>J Clin Invest 133</source>. (<year>2023</year>) <volume>133</volume>:<elocation-id>e163669</elocation-id>. doi: <pub-id pub-id-type="doi">10.1172/JCI163669</pub-id>, PMID: 
+<pub-id pub-id-type="pmid">36454631</pub-id>
+<pub-id pub-id-type="pmcid">PMC9888380</pub-id></mixed-citation></ref><ref id="B17"><label>17</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Cervia-Hasler</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Brüningk</surname><given-names>SC</given-names></name>
+<name name-style="western"><surname>Hoch</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Fan</surname><given-names>B</given-names></name>
+<name name-style="western"><surname>Muzio</surname><given-names>G</given-names></name>
+<name name-style="western"><surname>Thompson</surname><given-names>RC</given-names></name>
+<etal/>
+</person-group>. 
+<article-title>Persistent complement dysregulation with signs of thromboinflammation in active Long Covid</article-title>. <source>Sci (New York N.Y.)</source>. (<year>2024</year>) <volume>383</volume>:<fpage>eadg7942</fpage>. doi: <pub-id pub-id-type="doi">10.1126/science.adg7942</pub-id>, PMID: 
+<pub-id pub-id-type="pmid">38236961</pub-id>
+</mixed-citation></ref><ref id="B18"><label>18</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Kell</surname><given-names>DB</given-names></name>
+<name name-style="western"><surname>Laubscher</surname><given-names>GJ</given-names></name>
+<name name-style="western"><surname>Pretorius</surname><given-names>E</given-names></name>
+</person-group>. 
+<article-title>A central role for amyloid fibrin microclots in long COVID/PASC: origins and therapeutic implications</article-title>. <source>Biochem J</source>. (<year>2022</year>) <volume>479</volume>:<page-range>537–59</page-range>. doi: <pub-id pub-id-type="doi">10.1042/BCJ20220016</pub-id>, PMID: 
+<pub-id pub-id-type="pmid">35195253</pub-id>
+<pub-id pub-id-type="pmcid">PMC8883497</pub-id></mixed-citation></ref><ref id="B19"><label>19</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Willyard</surname><given-names>C</given-names></name>
+</person-group>. 
+<article-title>Could tiny blood clots cause long COVID’s puzzling symptoms</article-title>? <source>Nature</source>. (<year>2022</year>) <volume>608</volume>:<page-range>662–4</page-range>. doi: <pub-id pub-id-type="doi">10.1038/d41586-022-02286-7</pub-id>, PMID: 
+<pub-id pub-id-type="pmid">36002482</pub-id>
+</mixed-citation></ref><ref id="B20"><label>20</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Wang</surname><given-names>EY</given-names></name>
+<name name-style="western"><surname>Mao</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Klein</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Dai</surname><given-names>Y</given-names></name>
+<name name-style="western"><surname>Huck</surname><given-names>JD</given-names></name>
+<name name-style="western"><surname>Jaycox</surname><given-names>JR</given-names></name>
+<etal/>
+</person-group>. 
+<article-title>Diverse functional autoantibodies in patients with COVID-19</article-title>. <source>Nature</source>. (<year>2021</year>) <volume>595</volume>:<page-range>283–8</page-range>. doi: <pub-id pub-id-type="doi">10.1038/s41586-021-03631-y</pub-id>, PMID: 
+<pub-id pub-id-type="pmid">34010947</pub-id>
+</mixed-citation></ref><ref id="B21"><label>21</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Knight</surname><given-names>JS</given-names></name>
+<name name-style="western"><surname>Caricchio</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Casanova</surname><given-names>J-L</given-names></name>
+<name name-style="western"><surname>Combes</surname><given-names>AJ</given-names></name>
+<name name-style="western"><surname>Diamond</surname><given-names>B</given-names></name>
+<name name-style="western"><surname>Fox</surname><given-names>SE</given-names></name>
+<etal/>
+</person-group>. 
+<article-title>The intersection of COVID-19 and autoimmunity</article-title>. <source>J Clin Invest</source>. (<year>2021</year>) <volume>131</volume>:<elocation-id>e154886</elocation-id>. doi: <pub-id pub-id-type="doi">10.1172/JCI154886</pub-id>, PMID: 
+<pub-id pub-id-type="pmid">34710063</pub-id>
+<pub-id pub-id-type="pmcid">PMC8670833</pub-id></mixed-citation></ref><ref id="B22"><label>22</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Son</surname><given-names>K</given-names></name>
+<name name-style="western"><surname>Jamil</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Chowdhury</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Mukherjee</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Venegas</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Miyasaki</surname><given-names>K</given-names></name>
+<etal/>
+</person-group>. 
+<article-title>Circulating anti-nuclear autoantibodies in COVID-19 survivors predict long COVID symptoms</article-title>. <source>Eur Respir J</source>. (<year>2023</year>) <volume>61</volume>:<fpage>2200970</fpage>. doi: <pub-id pub-id-type="doi">10.1183/13993003.00970-2022</pub-id>, PMID: 
+<pub-id pub-id-type="pmid">36137590</pub-id>
+<pub-id pub-id-type="pmcid">PMC9515477</pub-id></mixed-citation></ref><ref id="B23"><label>23</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Schultheiß</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Willscher</surname><given-names>E</given-names></name>
+<name name-style="western"><surname>Paschold</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Gottschick</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Klee</surname><given-names>B</given-names></name>
+<name name-style="western"><surname>Henkes</surname><given-names>S-S</given-names></name>
+<etal/>
+</person-group>. 
+<article-title>IL-6, and TNF cytokine triad is associated with post-acute sequelae of COVID-19</article-title>. <source>Cell Rep Med</source>. (<year>2022</year>) <volume>3</volume>:<elocation-id>100663</elocation-id>. doi: <pub-id pub-id-type="doi">10.1016/j.xcrm.2022.100663</pub-id>, PMID: 
+<pub-id pub-id-type="pmid">35732153</pub-id>
+<pub-id pub-id-type="pmcid">PMC9214726</pub-id></mixed-citation></ref><ref id="B24"><label>24</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Hopkins</surname><given-names>FR</given-names></name>
+<name name-style="western"><surname>Govender</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Svanberg</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Nordgren</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Waller</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Nilsdotter-Augustinsson</surname><given-names>Å</given-names></name>
+<etal/>
+</person-group>. 
+<article-title>Major alterations to monocyte and dendritic cell subsets lasting more than 6 months after hospitalization for COVID-19</article-title>. <source>Front Immunol</source>. (<year>2022</year>) <volume>13</volume>:<elocation-id>1082912</elocation-id>. doi: <pub-id pub-id-type="doi">10.3389/fimmu.2022.1082912</pub-id>, PMID: 
+<pub-id pub-id-type="pmid">36685582</pub-id>
+<pub-id pub-id-type="pmcid">PMC9846644</pub-id></mixed-citation></ref><ref id="B25"><label>25</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Phetsouphanh</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Darley</surname><given-names>DR</given-names></name>
+<name name-style="western"><surname>Wilson</surname><given-names>DB</given-names></name>
+<name name-style="western"><surname>Howe</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Munier</surname><given-names>CML</given-names></name>
+<name name-style="western"><surname>Patel</surname><given-names>SK</given-names></name>
+<etal/>
+</person-group>. 
+<article-title>Immunological dysfunction persists for 8 months following initial mild-to-moderate SARS-CoV-2 infection</article-title>. <source>Nat Immunol</source>. (<year>2022</year>) <volume>23</volume>:<page-range>210–6</page-range>. doi: <pub-id pub-id-type="doi">10.1038/s41590-021-01113-x</pub-id>, PMID: 
+<pub-id pub-id-type="pmid">35027728</pub-id>
+</mixed-citation></ref><ref id="B26"><label>26</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Yoon</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Dean</surname><given-names>LS</given-names></name>
+<name name-style="western"><surname>Jiyarom</surname><given-names>B</given-names></name>
+<name name-style="western"><surname>Khadka</surname><given-names>VS</given-names></name>
+<name name-style="western"><surname>Deng</surname><given-names>Y</given-names></name>
+<name name-style="western"><surname>Nerurkar</surname><given-names>VR</given-names></name>
+<etal/>
+</person-group>. 
+<article-title>Single-cell RNA sequencing reveals characteristics of myeloid cells in post-acute sequelae of SARS-CoV-2 patients with persistent respiratory symptoms</article-title>. <source>Front Immunol</source>. (<year>2023</year>) <volume>14</volume>:<elocation-id>1268510</elocation-id>. doi: <pub-id pub-id-type="doi">10.3389/fimmu.2023.1268510</pub-id>, PMID: 
+<pub-id pub-id-type="pmid">38259488</pub-id>
+<pub-id pub-id-type="pmcid">PMC10800799</pub-id></mixed-citation></ref><ref id="B27"><label>27</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Ryan</surname><given-names>FJ</given-names></name>
+<name name-style="western"><surname>Hope</surname><given-names>CM</given-names></name>
+<name name-style="western"><surname>Masavuli</surname><given-names>MG</given-names></name>
+<name name-style="western"><surname>Lynn</surname><given-names>MA</given-names></name>
+<name name-style="western"><surname>Mekonnen</surname><given-names>ZA</given-names></name>
+<name name-style="western"><surname>Yeow</surname><given-names>AEL</given-names></name>
+<etal/>
+</person-group>. 
+<article-title>Long-term perturbation of the peripheral immune system months after SARS-CoV-2 infection</article-title>. <source>BMC Med</source>. (<year>2022</year>) <volume>20</volume>:<fpage>26</fpage>. doi: <pub-id pub-id-type="doi">10.1186/s12916-021-02228-6</pub-id>, PMID: 
+<pub-id pub-id-type="pmid">35027067</pub-id>
+<pub-id pub-id-type="pmcid">PMC8758383</pub-id></mixed-citation></ref><ref id="B28"><label>28</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Phetsouphanh</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Jacka</surname><given-names>B</given-names></name>
+<name name-style="western"><surname>Ballouz</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Jackson</surname><given-names>KJL</given-names></name>
+<name name-style="western"><surname>Wilson</surname><given-names>DB</given-names></name>
+<name name-style="western"><surname>Manandhar</surname><given-names>B</given-names></name>
+<etal/>
+</person-group>. 
+<article-title>Improvement of immune dysregulation in individuals with long COVID at 24-months following SARS-CoV-2 infection</article-title>. <source>Nat Commun</source>. (<year>2024</year>) <volume>15</volume>:<fpage>3315</fpage>. doi: <pub-id pub-id-type="doi">10.1038/s41467-024-47720-8</pub-id>, PMID: 
+<pub-id pub-id-type="pmid">38632311</pub-id>
+<pub-id pub-id-type="pmcid">PMC11024141</pub-id></mixed-citation></ref><ref id="B29"><label>29</label><mixed-citation publication-type="book">
+<person-group person-group-type="author"><collab>C. Diseases</collab>
+</person-group>. <source>Clinical management of COVID-19: Living guideline, 18 August 2023</source>. 
+<publisher-name>WHO (World Health Organization)</publisher-name> (18.8.2023). Available online at: <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.who.int/publications/i/item/WHO-2019-nCoV-clinical-2023.2">https://www.who.int/publications/i/item/WHO-2019-nCoV-clinical-2023.2</uri> (Accessed <date-in-citation content-type="access-date">November 10, 2024</date-in-citation>).
+</mixed-citation></ref><ref id="B30"><label>30</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Ware</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Kosinski</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Keller</surname><given-names>SD</given-names></name>
+</person-group>. 
+<article-title>A 12-Item Short-Form Health Survey: construction of scales and preliminary tests of reliability and validity</article-title>. <source>Med Care</source>. (<year>1996</year>) <volume>34</volume>:<page-range>220–33</page-range>. doi: <pub-id pub-id-type="doi">10.1097/00005650-199603000-00003</pub-id>, PMID: 
+<pub-id pub-id-type="pmid">8628042</pub-id>
+</mixed-citation></ref><ref id="B31"><label>31</label><mixed-citation publication-type="book">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Bell</surname><given-names>DS</given-names></name>
+</person-group>. <source><italic toggle="yes">The doctor’s guide to chronic fatigue syndrome</italic>, <italic toggle="yes">Understanding, treating, and living with CFIDS</italic></source>. <publisher-loc>Reading, MA</publisher-loc>: 
+<publisher-name>Addison-Wesley</publisher-name> (<year>1995</year>).
+</mixed-citation></ref><ref id="B32"><label>32</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Mai</surname><given-names>F</given-names></name>
+<name name-style="western"><surname>Bergmann</surname><given-names>W</given-names></name>
+<name name-style="western"><surname>Reisinger</surname><given-names>EC</given-names></name>
+<name name-style="western"><surname>Müller-Hilke</surname><given-names>B</given-names></name>
+</person-group>. 
+<article-title>The varying extent of humoral and cellular immune responses to either vector- or RNA-based SARS-CoV-2 vaccines persists for at least 18 months and is independent of infection</article-title>. <source>J Virol</source>. (<year>2024</year>) <volume>98</volume>:<fpage>e0191223</fpage>. doi: <pub-id pub-id-type="doi">10.1128/jvi.01912-23</pub-id>, PMID: 
+<pub-id pub-id-type="pmid">38501661</pub-id>
+<pub-id pub-id-type="pmcid">PMC11019912</pub-id></mixed-citation></ref><ref id="B33"><label>33</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Müller-Hilke</surname><given-names>B</given-names></name>
+<name name-style="western"><surname>Mai</surname><given-names>F</given-names></name>
+<name name-style="western"><surname>Müller</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Volzke</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Reisinger</surname><given-names>EC</given-names></name>
+</person-group>. 
+<article-title>Higher SARS-coV-2 spike binding antibody levels and neutralization capacity 6 months after heterologous vaccination with AZD1222 and BNT162b2</article-title>. <source>Vaccines</source>. (<year>2022</year>) <volume>10</volume>:<elocation-id>322</elocation-id>. doi: <pub-id pub-id-type="doi">10.3390/vaccines10020322</pub-id>, PMID: 
+<pub-id pub-id-type="pmid">35214780</pub-id>
+<pub-id pub-id-type="pmcid">PMC8880180</pub-id></mixed-citation></ref><ref id="B34"><label>34</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Mai</surname><given-names>F</given-names></name>
+<name name-style="western"><surname>Volzke</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Reisinger</surname><given-names>EC</given-names></name>
+<name name-style="western"><surname>Müller-Hilke</surname><given-names>B</given-names></name>
+</person-group>. 
+<article-title>Vaccine-Induced T-Cell and Antibody Responses at 12 Months after Full Vaccination Differ with Respect to Omicron Recognition</article-title>. <source>Vaccines</source>. (<year>2022</year>) <volume>10</volume>:<elocation-id>1563</elocation-id>. doi: <pub-id pub-id-type="doi">10.3390/vaccines10091563</pub-id>, PMID: 
+<pub-id pub-id-type="pmid">36146641</pub-id>
+<pub-id pub-id-type="pmcid">PMC9500953</pub-id></mixed-citation></ref><ref id="B35"><label>35</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Hillman</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Khan</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Singhania</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Dubelko</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Soldevila</surname><given-names>F</given-names></name>
+<name name-style="western"><surname>Tippalagama</surname><given-names>R</given-names></name>
+<etal/>
+</person-group>. 
+<article-title>Single-cell profiling reveals distinct subsets of CD14+ monocytes drive blood immune signatures of active tuberculosis</article-title>. <source>Front Immunol</source>. (<year>2022</year>) <volume>13</volume>:<elocation-id>1087010</elocation-id>. doi: <pub-id pub-id-type="doi">10.3389/fimmu.2022.1087010</pub-id>, PMID: 
+<pub-id pub-id-type="pmid">36713384</pub-id>
+<pub-id pub-id-type="pmcid">PMC9874319</pub-id></mixed-citation></ref><ref id="B36"><label>36</label><mixed-citation publication-type="book">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Blighe</surname><given-names>K</given-names></name>
+</person-group>. <source>EnhancedVolcano: Publication-ready volcano plots with enhanced colouring and labeling</source>. <publisher-loc>Cambridge, UK</publisher-loc>: 
+<publisher-name>Bioconductor</publisher-name> (<year>2018</year>). Available online at: <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://bioconductor.org/packages/EnhancedVolcano">https://bioconductor.org/packages/EnhancedVolcano</uri>.
+</mixed-citation></ref><ref id="B37"><label>37</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Hao</surname><given-names>Y</given-names></name>
+<name name-style="western"><surname>Stuart</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Kowalski</surname><given-names>MH</given-names></name>
+<name name-style="western"><surname>Choudhary</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Hoffman</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Hartman</surname><given-names>A</given-names></name>
+<etal/>
+</person-group>. 
+<article-title>Dictionary learning for integrative, multimodal and scalable single-cell analysis</article-title>. <source>Nat Biotechnol</source>. (<year>2024</year>) <volume>42</volume>:<fpage>293</fpage>–<lpage>304</lpage>. doi: <pub-id pub-id-type="doi">10.1038/s41587-023-01767-y</pub-id>, PMID: 
+<pub-id pub-id-type="pmid">37231261</pub-id>
+<pub-id pub-id-type="pmcid">PMC10928517</pub-id></mixed-citation></ref><ref id="B38"><label>38</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Lütge</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Zyprych-Walczak</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Brykczynska Kunzmann</surname><given-names>U</given-names></name>
+<name name-style="western"><surname>Crowell</surname><given-names>HL</given-names></name>
+<name name-style="western"><surname>Calini</surname><given-names>D</given-names></name>
+<name name-style="western"><surname>Malhotra</surname><given-names>D</given-names></name>
+<etal/>
+</person-group>. 
+<article-title>CellMixS: quantifying and visualizing batch effects in single-cell RNA-seq data</article-title>. <source>Life Sci alliance</source>. (<year>2021</year>) <volume>4</volume>:<elocation-id>e202001004</elocation-id>. doi: <pub-id pub-id-type="doi">10.26508/lsa.202001004</pub-id>, PMID: 
+<pub-id pub-id-type="pmid">33758076</pub-id>
+<pub-id pub-id-type="pmcid">PMC7994321</pub-id></mixed-citation></ref><ref id="B39"><label>39</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Badia-I-Mompel</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Vélez Santiago</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Braunger</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Geiss</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Dimitrov</surname><given-names>D</given-names></name>
+<name name-style="western"><surname>Müller-Dott</surname><given-names>S</given-names></name>
+<etal/>
+</person-group>. 
+<article-title>decoupleR: ensemble of computational methods to infer biological activities from omics data</article-title>. <source>Bioinf Adv</source>. (<year>2022</year>) <volume>2</volume>:<fpage>vbac016</fpage>. doi: <pub-id pub-id-type="doi">10.1093/bioadv/vbac016</pub-id>, PMID: 
+<pub-id pub-id-type="pmid">36699385</pub-id>
+<pub-id pub-id-type="pmcid">PMC9710656</pub-id></mixed-citation></ref><ref id="B40"><label>40</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Garcia-Alonso</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Holland</surname><given-names>CH</given-names></name>
+<name name-style="western"><surname>Ibrahim</surname><given-names>MM</given-names></name>
+<name name-style="western"><surname>Turei</surname><given-names>D</given-names></name>
+<name name-style="western"><surname>Saez-Rodriguez</surname><given-names>J</given-names></name>
+</person-group>. 
+<article-title>Benchmark and integration of resources for the estimation of human transcription factor activities</article-title>. <source>Genome Res</source>. (<year>2019</year>) <volume>29</volume>:<page-range>1363–75</page-range>. doi: <pub-id pub-id-type="doi">10.1101/gr.240663.118</pub-id>, PMID: 
+<pub-id pub-id-type="pmid">31340985</pub-id>
+<pub-id pub-id-type="pmcid">PMC6673718</pub-id></mixed-citation></ref><ref id="B41"><label>41</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Müller-Dott</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Tsirvouli</surname><given-names>E</given-names></name>
+<name name-style="western"><surname>Vázquez</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Ramirez Flores</surname><given-names>RO</given-names></name>
+<name name-style="western"><surname>Badia-I-Mompel</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Fallegger</surname><given-names>R</given-names></name>
+<etal/>
+</person-group>. 
+<article-title>Expanding the coverage of regulons from high-confidence prior knowledge for accurate estimation of transcription factor activities</article-title>. <source>Nucleic Acids Res</source>. (<year>2023</year>) <volume>51</volume>:<page-range>10934–10949</page-range>. doi: <pub-id pub-id-type="doi">10.1101/2023.03.30.534849</pub-id>, PMID: 
+<pub-id pub-id-type="pmid">37843125</pub-id>
+<pub-id pub-id-type="pmcid">PMC10639077</pub-id></mixed-citation></ref><ref id="B42"><label>42</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Alvarez</surname><given-names>MJ</given-names></name>
+<name name-style="western"><surname>Shen</surname><given-names>Y</given-names></name>
+<name name-style="western"><surname>Giorgi</surname><given-names>FM</given-names></name>
+<name name-style="western"><surname>Lachmann</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Ding</surname><given-names>BB</given-names></name>
+<name name-style="western"><surname>Ye</surname><given-names>BH</given-names></name>
+<etal/>
+</person-group>. 
+<article-title>Functional characterization of somatic mutations in cancer using network-based inference of protein activity</article-title>. <source>Nat Genet</source>. (<year>2016</year>) <volume>48</volume>:<page-range>838–47</page-range>. doi: <pub-id pub-id-type="doi">10.1038/ng.3593</pub-id>, PMID: 
+<pub-id pub-id-type="pmid">27322546</pub-id>
+<pub-id pub-id-type="pmcid">PMC5040167</pub-id></mixed-citation></ref><ref id="B43"><label>43</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>La Manno</surname><given-names>G</given-names></name>
+<name name-style="western"><surname>Soldatov</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Zeisel</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Braun</surname><given-names>E</given-names></name>
+<name name-style="western"><surname>Hochgerner</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Petukhov</surname><given-names>V</given-names></name>
+<etal/>
+</person-group>. 
+<article-title>RNA velocity of single cells</article-title>. <source>Nature</source>. (<year>2018</year>) <volume>560</volume>:<page-range>494–8</page-range>. doi: <pub-id pub-id-type="doi">10.1038/s41586-018-0414-6</pub-id>, PMID: 
+<pub-id pub-id-type="pmid">30089906</pub-id>
+<pub-id pub-id-type="pmcid">PMC6130801</pub-id></mixed-citation></ref><ref id="B44"><label>44</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Ge</surname><given-names>SX</given-names></name>
+<name name-style="western"><surname>Jung</surname><given-names>D</given-names></name>
+<name name-style="western"><surname>Yao</surname><given-names>R</given-names></name>
+</person-group>. 
+<article-title>ShinyGO: a graphical gene-set enrichment tool for animals and plants</article-title>. <source>Bioinf (Oxford England)</source>. (<year>2020</year>) <volume>36</volume>:<page-range>2628–9</page-range>. doi: <pub-id pub-id-type="doi">10.1093/bioinformatics/btz931</pub-id>, PMID: 
+<pub-id pub-id-type="pmid">31882993</pub-id>
+<pub-id pub-id-type="pmcid">PMC7178415</pub-id></mixed-citation></ref><ref id="B45"><label>45</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Milacic</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Beavers</surname><given-names>D</given-names></name>
+<name name-style="western"><surname>Conley</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Gong</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Gillespie</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Griss</surname><given-names>J</given-names></name>
+<etal/>
+</person-group>. 
+<article-title>The reactome pathway knowledgebase 2024</article-title>. <source>Nucleic Acids Res</source>. (<year>2024</year>) <volume>52</volume>:<page-range>D672–8</page-range>. doi: <pub-id pub-id-type="doi">10.1093/nar/gkad1025</pub-id>, PMID: 
+<pub-id pub-id-type="pmid">37941124</pub-id>
+<pub-id pub-id-type="pmcid">PMC10767911</pub-id></mixed-citation></ref><ref id="B46"><label>46</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Kanehisa</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Goto</surname><given-names>S</given-names></name>
+</person-group>. 
+<article-title>KEGG: kyoto encyclopedia of genes and genomes</article-title>. <source>Nucleic Acids Res</source>. (<year>2000</year>) <volume>28</volume>:<fpage>27</fpage>–<lpage>30</lpage>. doi: <pub-id pub-id-type="doi">10.1093/nar/28.1.27</pub-id>, PMID: 
+<pub-id pub-id-type="pmid">10592173</pub-id>
+<pub-id pub-id-type="pmcid">PMC102409</pub-id></mixed-citation></ref><ref id="B47"><label>47</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Kanehisa</surname><given-names>M</given-names></name>
+</person-group>. 
+<article-title>Toward understanding the origin and evolution of cellular organisms</article-title>. <source>Protein science: Publ Protein Soc</source>. (<year>2019</year>) <volume>28</volume>:<page-range>1947–51</page-range>. doi: <pub-id pub-id-type="doi">10.1002/pro.3715</pub-id>, PMID: 
+<pub-id pub-id-type="pmid">31441146</pub-id>
+<pub-id pub-id-type="pmcid">PMC6798127</pub-id></mixed-citation></ref><ref id="B48"><label>48</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Kanehisa</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Furumichi</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Sato</surname><given-names>Y</given-names></name>
+<name name-style="western"><surname>Kawashima</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Ishiguro-Watanabe</surname><given-names>M</given-names></name>
+</person-group>. 
+<article-title>KEGG for taxonomy-based analysis of pathways and genomes</article-title>. <source>Nucleic Acids Res</source>. (<year>2023</year>) <volume>51</volume>:<page-range>D587–92</page-range>. doi: <pub-id pub-id-type="doi">10.1093/nar/gkac963</pub-id>, PMID: 
+<pub-id pub-id-type="pmid">36300620</pub-id>
+<pub-id pub-id-type="pmcid">PMC9825424</pub-id></mixed-citation></ref><ref id="B49"><label>49</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Subramanian</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Tamayo</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Mootha</surname><given-names>VK</given-names></name>
+<name name-style="western"><surname>Mukherjee</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Ebert</surname><given-names>BL</given-names></name>
+<name name-style="western"><surname>Gillette</surname><given-names>MA</given-names></name>
+<etal/>
+</person-group>. 
+<article-title>Gene set enrichment analysis: a knowledge-based approach for interpreting genome-wide expression profiles</article-title>. <source>Proc Natl Acad Sci United States America</source>. (<year>2005</year>) <volume>102</volume>:<page-range>15545–50</page-range>. doi: <pub-id pub-id-type="doi">10.1073/pnas.0506580102</pub-id>, PMID: 
+<pub-id pub-id-type="pmid">16199517</pub-id>
+<pub-id pub-id-type="pmcid">PMC1239896</pub-id></mixed-citation></ref><ref id="B50"><label>50</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Mootha</surname><given-names>VK</given-names></name>
+<name name-style="western"><surname>Lindgren</surname><given-names>CM</given-names></name>
+<name name-style="western"><surname>Eriksson</surname><given-names>K-F</given-names></name>
+<name name-style="western"><surname>Subramanian</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Sihag</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Lehar</surname><given-names>J</given-names></name>
+<etal/>
+</person-group>. 
+<article-title>PGC-1alpha-responsive genes involved in oxidative phosphorylation are coordinately downregulated in human diabetes</article-title>. <source>Nat Genet</source>. (<year>2003</year>) <volume>34</volume>:<page-range>267–73</page-range>. doi: <pub-id pub-id-type="doi">10.1038/ng1180</pub-id>, PMID: 
+<pub-id pub-id-type="pmid">12808457</pub-id>
+</mixed-citation></ref><ref id="B51"><label>51</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Liberzon</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Birger</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Thorvaldsdóttir</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Ghandi</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Mesirov</surname><given-names>JP</given-names></name>
+<name name-style="western"><surname>Tamayo</surname><given-names>P</given-names></name>
+</person-group>. 
+<article-title>The Molecular Signatures Database (MSigDB) hallmark gene set collection</article-title>. <source>Cell Syst</source>. (<year>2015</year>) <volume>1</volume>:<page-range>417–25</page-range>. doi: <pub-id pub-id-type="doi">10.1016/j.cels.2015.12.004</pub-id>, PMID: 
+<pub-id pub-id-type="pmid">26771021</pub-id>
+<pub-id pub-id-type="pmcid">PMC4707969</pub-id></mixed-citation></ref><ref id="B52"><label>52</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Pitsillou</surname><given-names>E</given-names></name>
+<name name-style="western"><surname>Yu</surname><given-names>Y</given-names></name>
+<name name-style="western"><surname>Beh</surname><given-names>RC</given-names></name>
+<name name-style="western"><surname>Liang</surname><given-names>JJ</given-names></name>
+<name name-style="western"><surname>Hung</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Karagiannis</surname><given-names>TC</given-names></name>
+</person-group>. 
+<article-title>Chronicling the 3-year evolution of the COVID-19 pandemic: analysis of disease management, characteristics of major variants, and impacts on pathogenicity</article-title>. <source>Clin Exp Med</source>. (<year>2023</year>) <volume>23</volume>:<page-range>3277–98</page-range>. doi: <pub-id pub-id-type="doi">10.1007/s10238-023-01168-0</pub-id>, PMID: 
+<pub-id pub-id-type="pmid">37615803</pub-id>
+</mixed-citation></ref><ref id="B53"><label>53</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Lang</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Hammer</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Mages</surname><given-names>J</given-names></name>
+</person-group>. 
+<article-title>DUSP meet immunology: dual specificity MAPK phosphatases in control of the inflammatory response</article-title>. <source>J Immunol (Baltimore Md.: 1950)</source>. (<year>2006</year>) <volume>177</volume>:<page-range>7497–504</page-range>. doi: <pub-id pub-id-type="doi">10.4049/jimmunol.177.11.7497</pub-id>, PMID: 
+<pub-id pub-id-type="pmid">17114416</pub-id>
+</mixed-citation></ref><ref id="B54"><label>54</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Niu</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Lou</surname><given-names>F</given-names></name>
+<name name-style="western"><surname>Sun</surname><given-names>Y</given-names></name>
+<name name-style="western"><surname>Sun</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Cai</surname><given-names>X</given-names></name>
+<name name-style="western"><surname>Liu</surname><given-names>Z</given-names></name>
+<etal/>
+</person-group>. 
+<article-title>A micropeptide encoded by lncRNA MIR155HG suppresses autoimmune inflammation via modulating antigen presentation</article-title>. <source>Sci Adv</source>. (<year>2020</year>) <volume>6</volume>:<fpage>eaaz2059</fpage>. doi: <pub-id pub-id-type="doi">10.1126/sciadv.aaz2059</pub-id>, PMID: 
+<pub-id pub-id-type="pmid">32671205</pub-id>
+<pub-id pub-id-type="pmcid">PMC7314557</pub-id></mixed-citation></ref><ref id="B55"><label>55</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Itou</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Fujita</surname><given-names>K</given-names></name>
+<name name-style="western"><surname>Okuzono</surname><given-names>Y</given-names></name>
+<name name-style="western"><surname>Warude</surname><given-names>D</given-names></name>
+<name name-style="western"><surname>Miyakawa</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Mihara</surname><given-names>Y</given-names></name>
+<etal/>
+</person-group>. 
+<article-title>Th17 and effector CD8 T cells relate to disease progression in amyotrophic lateral sclerosis: a case control study</article-title>. <source>J Neuroinflamm</source>. (<year>2024</year>) <volume>21</volume>:<fpage>331</fpage>. doi: <pub-id pub-id-type="doi">10.1186/s12974-024-03327-w</pub-id>, PMID: 
+<pub-id pub-id-type="pmid">39731185</pub-id>
+<pub-id pub-id-type="pmcid">PMC11674182</pub-id></mixed-citation></ref><ref id="B56"><label>56</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Okuzono</surname><given-names>Y</given-names></name>
+<name name-style="western"><surname>Miyakawa</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Itou</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Sagara</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Iwata</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Ishizuchi</surname><given-names>K</given-names></name>
+<etal/>
+</person-group>. 
+<article-title>B-cell immune dysregulation with low soluble CD22 levels in refractory seronegative myasthenia gravis</article-title>. <source>Front Immunol</source>. (<year>2024</year>) <volume>15</volume>:<elocation-id>1382320</elocation-id>. doi: <pub-id pub-id-type="doi">10.3389/fimmu.2024.1382320</pub-id>, PMID: 
+<pub-id pub-id-type="pmid">38711503</pub-id>
+<pub-id pub-id-type="pmcid">PMC11071663</pub-id></mixed-citation></ref><ref id="B57"><label>57</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Guo</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Chen</surname><given-names>Q</given-names></name>
+<name name-style="western"><surname>Xu</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Huang</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Ye</surname><given-names>H</given-names></name>
+</person-group>. 
+<article-title>Communication between alveolar macrophages and fibroblasts via the TNFSF12-TNFRSF12A pathway promotes pulmonary fibrosis in severe COVID-19 patients</article-title>. <source>J Trans Med</source>. (<year>2024</year>) <volume>22</volume>:<fpage>698</fpage>. doi: <pub-id pub-id-type="doi">10.1186/s12967-024-05381-7</pub-id>, PMID: 
+<pub-id pub-id-type="pmid">39075394</pub-id>
+<pub-id pub-id-type="pmcid">PMC11287943</pub-id></mixed-citation></ref><ref id="B58"><label>58</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Cheng</surname><given-names>H-Y</given-names></name>
+<name name-style="western"><surname>Hsieh</surname><given-names>C-H</given-names></name>
+<name name-style="western"><surname>Lin</surname><given-names>P-H</given-names></name>
+<name name-style="western"><surname>Chen</surname><given-names>Y-T</given-names></name>
+<name name-style="western"><surname>Hsu</surname><given-names>DS-S</given-names></name>
+<name name-style="western"><surname>Tai</surname><given-names>S-K</given-names></name>
+<etal/>
+</person-group>. 
+<article-title>Snail-regulated exosomal microRNA-21 suppresses NLRP3 inflammasome activity to enhance cisplatin resistance</article-title>. <source>J immunotherapy Cancer</source>. (<year>2022</year>) <volume>10</volume>:<elocation-id>e004832</elocation-id>. doi: <pub-id pub-id-type="doi">10.1136/jitc-2022-004832</pub-id>, PMID: 
+<pub-id pub-id-type="pmid">36002186</pub-id>
+<pub-id pub-id-type="pmcid">PMC9413180</pub-id></mixed-citation></ref><ref id="B59"><label>59</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Rajabalee</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Siushansian</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Weerapura</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Berton</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Berbatovci</surname><given-names>F</given-names></name>
+<name name-style="western"><surname>Hooks</surname><given-names>B</given-names></name>
+<etal/>
+</person-group>. 
+<article-title>ATF2 orchestrates macrophage differentiation and activation to promote antibacterial responses</article-title>. <source>J leukocyte Biol</source>. (<year>2023</year>) <volume>114</volume>:<page-range>280–98</page-range>. doi: <pub-id pub-id-type="doi">10.1093/jleuko/qiad076</pub-id>, PMID: 
+<pub-id pub-id-type="pmid">37403209</pub-id>
+</mixed-citation></ref><ref id="B60"><label>60</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Scott</surname><given-names>NA</given-names></name>
+<name name-style="western"><surname>Pearmain</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Knight</surname><given-names>SB</given-names></name>
+<name name-style="western"><surname>Brand</surname><given-names>O</given-names></name>
+<name name-style="western"><surname>Morgan</surname><given-names>DJ</given-names></name>
+<name name-style="western"><surname>Jagger</surname><given-names>C</given-names></name>
+<etal/>
+</person-group>. 
+<article-title>Monocyte migration profiles define disease severity in acute COVID-19 and unique features of long COVID</article-title>. <source>Eur Respir J</source>. (<year>2023</year>) <volume>61</volume>:<fpage>2202226</fpage>. doi: <pub-id pub-id-type="doi">10.1183/13993003.02226-2022</pub-id>, PMID: 
+<pub-id pub-id-type="pmid">36922030</pub-id>
+<pub-id pub-id-type="pmcid">PMC10040898</pub-id></mixed-citation></ref><ref id="B61"><label>61</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Han</surname><given-names>Y</given-names></name>
+<name name-style="western"><surname>Wang</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Shao</surname><given-names>Z</given-names></name>
+</person-group>. 
+<article-title>Monocyte-derived macrophages are impaired in myelodysplastic syndrome</article-title>. <source>J Immunol Res</source>. (<year>2016</year>) <volume>2016</volume>:<fpage>5479013</fpage>. doi: <pub-id pub-id-type="doi">10.1155/2016/5479013</pub-id>, PMID: 
+<pub-id pub-id-type="pmid">28074192</pub-id>
+<pub-id pub-id-type="pmcid">PMC5198175</pub-id></mixed-citation></ref><ref id="B62"><label>62</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Baker</surname><given-names>PJ</given-names></name>
+<name name-style="western"><surname>Bohrer</surname><given-names>AC</given-names></name>
+<name name-style="western"><surname>Castro</surname><given-names>E</given-names></name>
+<name name-style="western"><surname>Amaral</surname><given-names>EP</given-names></name>
+<name name-style="western"><surname>Snow-Smith</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Torres-Juárez</surname><given-names>F</given-names></name>
+<etal/>
+</person-group>. 
+<article-title>The inflammatory microenvironment of the lung at the time of infection governs innate control of SARS-CoV-2 replication</article-title>. <source>Sci Immunol</source>. (<year>2024</year>) <volume>9</volume>:<fpage>eadp7951</fpage>. doi: <pub-id pub-id-type="doi">10.1126/sciimmunol.adp7951</pub-id>, PMID: 
+<pub-id pub-id-type="pmid">39642242</pub-id>
+</mixed-citation></ref><ref id="B63"><label>63</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Williams</surname><given-names>ES</given-names></name>
+<name name-style="western"><surname>Martins</surname><given-names>TB</given-names></name>
+<name name-style="western"><surname>Shah</surname><given-names>KS</given-names></name>
+<name name-style="western"><surname>Hill</surname><given-names>HR</given-names></name>
+<name name-style="western"><surname>Coiras</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Spivak</surname><given-names>AM</given-names></name>
+<etal/>
+</person-group>. 
+<article-title>Cytokine deficiencies in patients with long COVID</article-title>. <source>J Clin Cell Immunol</source>. (<year>2022</year>) <volume>13</volume>:<elocation-id>672</elocation-id>. doi: <pub-id pub-id-type="doi">10.35248/2155-9899.22.13.672</pub-id>, PMID: 
+<pub-id pub-id-type="pmid">36742994</pub-id>
+<pub-id pub-id-type="pmcid">PMC9894377</pub-id></mixed-citation></ref><ref id="B64"><label>64</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Divangahi</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Aaby</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Khader</surname><given-names>SA</given-names></name>
+<name name-style="western"><surname>Barreiro</surname><given-names>LB</given-names></name>
+<name name-style="western"><surname>Bekkering</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Chavakis</surname><given-names>T</given-names></name>
+<etal/>
+</person-group>. 
+<article-title>Trained immunity, tolerance, priming and differentiation: distinct immunological processes</article-title>. <source>Nat Immunol</source>. (<year>2021</year>) <volume>22</volume>:<fpage>2</fpage>–<lpage>6</lpage>. doi: <pub-id pub-id-type="doi">10.1038/s41590-020-00845-6</pub-id>, PMID: 
+<pub-id pub-id-type="pmid">33293712</pub-id>
+<pub-id pub-id-type="pmcid">PMC8020292</pub-id></mixed-citation></ref><ref id="B65"><label>65</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Ifrim</surname><given-names>DC</given-names></name>
+<name name-style="western"><surname>Quintin</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Joosten</surname><given-names>LAB</given-names></name>
+<name name-style="western"><surname>Jacobs</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Jansen</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Jacobs</surname><given-names>L</given-names></name>
+<etal/>
+</person-group>. 
+<article-title>Trained immunity or tolerance: opposing functional programs induced in human monocytes after engagement of various pattern recognition receptors</article-title>. <source>Clin Vaccine immunology: CVI</source>. (<year>2014</year>) <volume>21</volume>:<page-range>534–45</page-range>. doi: <pub-id pub-id-type="doi">10.1128/CVI.00688-13</pub-id>, PMID: 
+<pub-id pub-id-type="pmid">24521784</pub-id>
+<pub-id pub-id-type="pmcid">PMC3993125</pub-id></mixed-citation></ref><ref id="B66"><label>66</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Netea</surname><given-names>MG</given-names></name>
+<name name-style="western"><surname>Domínguez-Andrés</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Barreiro</surname><given-names>LB</given-names></name>
+<name name-style="western"><surname>Chavakis</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Divangahi</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Fuchs</surname><given-names>E</given-names></name>
+<etal/>
+</person-group>. 
+<article-title>Defining trained immunity and its role in health and disease</article-title>. <source>Nat Rev Immunol</source>. (<year>2020</year>) <volume>20</volume>:<page-range>375–88</page-range>. doi: <pub-id pub-id-type="doi">10.1038/s41577-020-0285-6</pub-id>, PMID: 
+<pub-id pub-id-type="pmid">32132681</pub-id>
+<pub-id pub-id-type="pmcid">PMC7186935</pub-id></mixed-citation></ref><ref id="B67"><label>67</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Crane</surname><given-names>MJ</given-names></name>
+<name name-style="western"><surname>Lee</surname><given-names>KM</given-names></name>
+<name name-style="western"><surname>FitzGerald</surname><given-names>ES</given-names></name>
+<name name-style="western"><surname>Jamieson</surname><given-names>AM</given-names></name>
+</person-group>. 
+<article-title>Surviving deadly lung infections: innate host tolerance mechanisms in the pulmonary system</article-title>. <source>Front Immunol</source>. (<year>2018</year>) <volume>9</volume>:<elocation-id>1421</elocation-id>. doi: <pub-id pub-id-type="doi">10.3389/fimmu.2018.01421</pub-id>, PMID: 
+<pub-id pub-id-type="pmid">29988424</pub-id>
+<pub-id pub-id-type="pmcid">PMC6024012</pub-id></mixed-citation></ref><ref id="B68"><label>68</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Lajqi</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Köstlin-Gille</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Bauer</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Zarogiannis</surname><given-names>SG</given-names></name>
+<name name-style="western"><surname>Lajqi</surname><given-names>E</given-names></name>
+<name name-style="western"><surname>Ajeti</surname><given-names>V</given-names></name>
+<etal/>
+</person-group>. 
+<article-title>Training vs. Tolerance: the yin/yang of the innate immune system</article-title>. <source>Biomedicines</source>. (<year>2023</year>) <volume>11</volume>:<elocation-id>766</elocation-id>. doi: <pub-id pub-id-type="doi">10.3390/biomedicines11030766</pub-id>, PMID: 
+<pub-id pub-id-type="pmid">36979747</pub-id>
+<pub-id pub-id-type="pmcid">PMC10045728</pub-id></mixed-citation></ref><ref id="B69"><label>69</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Kratzer</surname><given-names>B</given-names></name>
+<name name-style="western"><surname>Gattinger</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Trapin</surname><given-names>D</given-names></name>
+<name name-style="western"><surname>Ettel</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Körmöczi</surname><given-names>U</given-names></name>
+<name name-style="western"><surname>Rottal</surname><given-names>A</given-names></name>
+<etal/>
+</person-group>. 
+<article-title>Differential decline of SARS-CoV-2-specific antibody levels, innate and adaptive immune cells, and shift of Th1/inflammatory to Th2 serum cytokine levels long after first COVID-19</article-title>. <source>Allergy</source>. (<year>2024</year>) <volume>79</volume>:<page-range>2482–501</page-range>. doi: <pub-id pub-id-type="doi">10.1111/all.16210</pub-id>, PMID: 
+<pub-id pub-id-type="pmid">39003594</pub-id>
+</mixed-citation></ref><ref id="B70"><label>70</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Patel</surname><given-names>AA</given-names></name>
+<name name-style="western"><surname>Zhang</surname><given-names>Y</given-names></name>
+<name name-style="western"><surname>Fullerton</surname><given-names>JN</given-names></name>
+<name name-style="western"><surname>Boelen</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Rongvaux</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Maini</surname><given-names>AA</given-names></name>
+<etal/>
+</person-group>. 
+<article-title>The fate and lifespan of human monocyte subsets in steady state and systemic inflammation</article-title>. <source>J Exp Med</source>. (<year>2017</year>) <volume>214</volume>:<page-range>1913–23</page-range>. doi: <pub-id pub-id-type="doi">10.1084/jem.20170355</pub-id>, PMID: 
+<pub-id pub-id-type="pmid">28606987</pub-id>
+<pub-id pub-id-type="pmcid">PMC5502436</pub-id></mixed-citation></ref><ref id="B71"><label>71</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Cheong</surname><given-names>J-G</given-names></name>
+<name name-style="western"><surname>Ravishankar</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Sharma</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Parkhurst</surname><given-names>CN</given-names></name>
+<name name-style="western"><surname>Grassmann</surname><given-names>SA</given-names></name>
+<name name-style="western"><surname>Wingert</surname><given-names>CK</given-names></name>
+<etal/>
+</person-group>. 
+<article-title>Epigenetic memory of coronavirus infection in innate immune cells and their progenitors</article-title>. <source>Cell</source>. (<year>2023</year>) <volume>186</volume>:<fpage>3882</fpage>–<lpage>3902.e24</lpage>. doi: <pub-id pub-id-type="doi">10.1016/j.cell.2023.07.019</pub-id>, PMID: 
+<pub-id pub-id-type="pmid">37597510</pub-id>
+<pub-id pub-id-type="pmcid">PMC10638861</pub-id></mixed-citation></ref><ref id="B72"><label>72</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Geanes</surname><given-names>ES</given-names></name>
+<name name-style="western"><surname>McLennan</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Pierce</surname><given-names>SH</given-names></name>
+<name name-style="western"><surname>Menden</surname><given-names>HL</given-names></name>
+<name name-style="western"><surname>Paul</surname><given-names>O</given-names></name>
+<name name-style="western"><surname>Sampath</surname><given-names>V</given-names></name>
+<etal/>
+</person-group>. 
+<article-title>SARS-CoV-2 envelope protein regulates innate immune tolerance</article-title>. <source>iScience</source>. (<year>2024</year>) <volume>27</volume>:<fpage>109975</fpage>. doi: <pub-id pub-id-type="doi">10.1016/j.isci.2024.109975</pub-id>, PMID: 
+<pub-id pub-id-type="pmid">38827398</pub-id>
+<pub-id pub-id-type="pmcid">PMC11140213</pub-id></mixed-citation></ref><ref id="B73"><label>73</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Fallah</surname><given-names>MP</given-names></name>
+<name name-style="western"><surname>van Ryn</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Moses</surname><given-names>JS</given-names></name>
+<name name-style="western"><surname>Badio</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Fayiah</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Johnson</surname><given-names>K</given-names></name>
+<etal/>
+</person-group>. 
+<article-title>Associations of inflammatory markers with post-acute clinical findings among survivors of Ebola virus disease with and without viral RNA shedding in the semen in Liberia: a nested case-control study</article-title>. <source>Lancet Microbe</source>. (<year>2025</year>) <volume>6</volume>:<fpage>101033</fpage>. doi: <pub-id pub-id-type="doi">10.1016/j.lanmic.2024.101033</pub-id>, PMID: 
+<pub-id pub-id-type="pmid">40081398</pub-id>
+<pub-id pub-id-type="pmcid">PMC12425654</pub-id></mixed-citation></ref><ref id="B74"><label>74</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Ravkov</surname><given-names>EV</given-names></name>
+<name name-style="western"><surname>Williams</surname><given-names>ESCP</given-names></name>
+<name name-style="western"><surname>Elgort</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Barker</surname><given-names>AP</given-names></name>
+<name name-style="western"><surname>Planelles</surname><given-names>V</given-names></name>
+<name name-style="western"><surname>Spivak</surname><given-names>AM</given-names></name>
+<etal/>
+</person-group>. 
+<article-title>Reduced monocyte proportions and responsiveness in convalescent COVID-19 patients</article-title>. <source>Front Immunol</source>. (<year>2023</year>) <volume>14</volume>:<elocation-id>1329026</elocation-id>. doi: <pub-id pub-id-type="doi">10.3389/fimmu.2023.1329026</pub-id>, PMID: 
+<pub-id pub-id-type="pmid">38250080</pub-id>
+<pub-id pub-id-type="pmcid">PMC10797708</pub-id></mixed-citation></ref><ref id="B75"><label>75</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Pradhan</surname><given-names>K</given-names></name>
+<name name-style="western"><surname>Yi</surname><given-names>Z</given-names></name>
+<name name-style="western"><surname>Geng</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Li</surname><given-names>L</given-names></name>
+</person-group>. 
+<article-title>Development of exhausted memory monocytes and underlying mechanisms</article-title>. <source>Front Immunol</source>. (<year>2021</year>) <volume>12</volume>:<elocation-id>778830</elocation-id>. doi: <pub-id pub-id-type="doi">10.3389/fimmu.2021.778830</pub-id>, PMID: 
+<pub-id pub-id-type="pmid">34777396</pub-id>
+<pub-id pub-id-type="pmcid">PMC8583871</pub-id></mixed-citation></ref><ref id="B76"><label>76</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Yi</surname><given-names>Z</given-names></name>
+<name name-style="western"><surname>Geng</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Li</surname><given-names>L</given-names></name>
+</person-group>. 
+<article-title>Comparative analyses of monocyte memory dynamics from mice to humans</article-title>. <source>Inflammation research: Off J Eur Histamine Res Soc … [et al.]</source>. (<year>2023</year>) <volume>72</volume>:<page-range>1539–49</page-range>. doi: <pub-id pub-id-type="doi">10.1007/s00011-023-01762-8</pub-id>, PMID: 
+<pub-id pub-id-type="pmid">37453943</pub-id>
+<pub-id pub-id-type="pmcid">PMC10499745</pub-id></mixed-citation></ref><ref id="B77"><label>77</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Vardhana</surname><given-names>SA</given-names></name>
+<name name-style="western"><surname>Hwee</surname><given-names>MA</given-names></name>
+<name name-style="western"><surname>Berisa</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Wells</surname><given-names>DK</given-names></name>
+<name name-style="western"><surname>Yost</surname><given-names>KE</given-names></name>
+<name name-style="western"><surname>King</surname><given-names>B</given-names></name>
+<etal/>
+</person-group>. 
+<article-title>Impaired mitochondrial oxidative phosphorylation limits the self-renewal of T cells exposed to persistent antigen</article-title>. <source>Nat Immunol</source>. (<year>2020</year>) <volume>21</volume>:<page-range>1022–33</page-range>. doi: <pub-id pub-id-type="doi">10.1038/s41590-020-0725-2</pub-id>, PMID: 
+<pub-id pub-id-type="pmid">32661364</pub-id>
+<pub-id pub-id-type="pmcid">PMC7442749</pub-id></mixed-citation></ref><ref id="B78"><label>78</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Doering</surname><given-names>TA</given-names></name>
+<name name-style="western"><surname>Crawford</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Angelosanto</surname><given-names>JM</given-names></name>
+<name name-style="western"><surname>Paley</surname><given-names>MA</given-names></name>
+<name name-style="western"><surname>Ziegler</surname><given-names>CG</given-names></name>
+<name name-style="western"><surname>Wherry</surname><given-names>EJ</given-names></name>
+</person-group>. 
+<article-title>Network analysis reveals centrally connected genes and pathways involved in CD8+ T cell exhaustion versus memory</article-title>. <source>Immunity</source>. (<year>2012</year>) <volume>37</volume>:<page-range>1130–44</page-range>. doi: <pub-id pub-id-type="doi">10.1016/j.immuni.2012.08.021</pub-id>, PMID: 
+<pub-id pub-id-type="pmid">23159438</pub-id>
+<pub-id pub-id-type="pmcid">PMC3749234</pub-id></mixed-citation></ref><ref id="B79"><label>79</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Witkowski</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Tizian</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Ferreira-Gomes</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Niemeyer</surname><given-names>D</given-names></name>
+<name name-style="western"><surname>Jones</surname><given-names>TC</given-names></name>
+<name name-style="western"><surname>Heinrich</surname><given-names>F</given-names></name>
+<etal/>
+</person-group>. 
+<article-title>Untimely TGFβ responses in COVID-19 limit antiviral functions of NK cells</article-title>. <source>Nature</source>. (<year>2021</year>) <volume>600</volume>:<fpage>295</fpage>–<lpage>301</lpage>. doi: <pub-id pub-id-type="doi">10.1038/s41586-021-04142-6</pub-id>, PMID: 
+<pub-id pub-id-type="pmid">34695836</pub-id>
+</mixed-citation></ref></ref-list></back></article></pmc-articleset>

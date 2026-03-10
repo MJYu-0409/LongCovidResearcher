@@ -1,0 +1,934 @@
+<?xml version="1.0"  ?><!DOCTYPE pmc-articleset PUBLIC "-//NLM//DTD ARTICLE SET 2.0//EN" "https://dtd.nlm.nih.gov/ncbi/pmc/articleset/nlm-articleset-2.0.dtd"><pmc-articleset><article id="jmv70582" xml:lang="en" article-type="research-article" dtd-version="1.4"><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">J Med Virol</journal-id><journal-id journal-id-type="iso-abbrev">J Med Virol</journal-id><journal-id journal-id-type="pmc-domain-id">379</journal-id><journal-id journal-id-type="pmc-domain">blackwellopen</journal-id><journal-id journal-id-type="publisher-id">JMV</journal-id><journal-title-group><journal-title>Journal of Medical Virology</journal-title></journal-title-group><issn pub-type="ppub">0146-6615</issn><issn pub-type="epub">1096-9071</issn><custom-meta-group><custom-meta><meta-name>pmc-is-collection-domain</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-collection-title</meta-name><meta-value>Wiley Open Access Collection</meta-value></custom-meta></custom-meta-group></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC12397718</article-id><article-id pub-id-type="pmcid-ver">PMC12397718.1</article-id><article-id pub-id-type="pmcaid">12397718</article-id><article-id pub-id-type="pmcaiid">12397718</article-id><article-id pub-id-type="pmid">40884088</article-id><article-id pub-id-type="doi">10.1002/jmv.70582</article-id><article-id pub-id-type="publisher-id">JMV70582</article-id><article-version article-version-type="pmc-version">1</article-version><article-categories><subj-group subj-group-type="overline"><subject>Research Article</subject></subj-group><subj-group subj-group-type="heading"><subject>Research Article</subject></subj-group></article-categories><title-group><article-title>Seasonal Coronavirus‐Induced Immunological Imprinting and Previous Herpesvirus Infections in Patients With Long COVID</article-title></title-group><contrib-group><contrib id="jmv70582-cr-0001" contrib-type="author" corresp="yes"><name name-style="western"><surname>Mak</surname><given-names initials="WA">W. Ashwin</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-6319-3511</contrib-id><xref rid="jmv70582-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="jmv70582-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref><address><email>ashwinmak98@gmail.com</email></address></contrib><contrib id="jmv70582-cr-0002" contrib-type="author"><name name-style="western"><surname>Wapperom</surname><given-names initials="D">Daphne</given-names></name><xref rid="jmv70582-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="jmv70582-cr-0003" contrib-type="author"><name name-style="western"><surname>Redel</surname><given-names initials="AL">Anne‐Lotte</given-names></name><xref rid="jmv70582-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref><xref rid="jmv70582-aff-0004" ref-type="aff">
+<sup>4</sup>
+</xref></contrib><contrib id="jmv70582-cr-0004" contrib-type="author"><name name-style="western"><surname>Koeleman</surname><given-names initials="JGM">Johannes G. M.</given-names></name><xref rid="jmv70582-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="jmv70582-cr-0005" contrib-type="author"><name name-style="western"><surname>Smit</surname><given-names initials="PW">Pieter W.</given-names></name><xref rid="jmv70582-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="jmv70582-aff-0005" ref-type="aff">
+<sup>5</sup>
+</xref></contrib><contrib id="jmv70582-cr-0006" contrib-type="author"><name name-style="western"><surname>Lam‐Tse</surname><given-names initials="WK">Wai‐Kwan</given-names></name><xref rid="jmv70582-aff-0006" ref-type="aff">
+<sup>6</sup>
+</xref></contrib><contrib id="jmv70582-cr-0007" contrib-type="author"><name name-style="western"><surname>van der Poll</surname><given-names initials="T">Tom</given-names></name><xref rid="jmv70582-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib id="jmv70582-cr-0008" contrib-type="author"><name name-style="western"><surname>Chen</surname><given-names initials="HJ">Hung‐Jen</given-names></name><xref rid="jmv70582-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib id="jmv70582-cr-0009" contrib-type="author"><name name-style="western"><surname>den Dunnen</surname><given-names initials="J">Jeroen</given-names></name><xref rid="jmv70582-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib id="jmv70582-cr-0010" contrib-type="author"><name name-style="western"><surname>Braunstahl</surname><given-names initials="GJ">Gert‐Jan</given-names></name><xref rid="jmv70582-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref><xref rid="jmv70582-aff-0004" ref-type="aff">
+<sup>4</sup>
+</xref></contrib><contrib id="jmv70582-cr-0011" contrib-type="author"><name name-style="western"><surname>Ong</surname><given-names initials="DSY">David S. Y.</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0001-5688-6443</contrib-id><xref rid="jmv70582-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="jmv70582-aff-0007" ref-type="aff">
+<sup>7</sup>
+</xref></contrib></contrib-group><aff id="jmv70582-aff-0001">
+<label>
+<sup>1</sup>
+</label>
+<named-content content-type="organisation-division">Department of Medical Microbiology and Infection Control</named-content>
+<institution>Franciscus Hospital</institution>
+<city>Rotterdam</city>
+<country country="NL">the Netherlands</country>
+</aff><aff id="jmv70582-aff-0002">
+<label>
+<sup>2</sup>
+</label>
+<named-content content-type="organisation-division">Center for Infection and Molecular Medicine, Amsterdam Institute for Immunology and Infectious Diseases</named-content>
+<institution>Amsterdam University Medical Centers</institution>
+<city>Amsterdam</city>
+<country country="NL">the Netherlands</country>
+</aff><aff id="jmv70582-aff-0003">
+<label>
+<sup>3</sup>
+</label>
+<named-content content-type="organisation-division">Department of Pulmonology</named-content>
+<institution>Franciscus Hospital</institution>
+<city>Rotterdam</city>
+<country country="NL">the Netherlands</country>
+</aff><aff id="jmv70582-aff-0004">
+<label>
+<sup>4</sup>
+</label>
+<named-content content-type="organisation-division">Department of Respiratory Medicine</named-content>
+<institution>Erasmus MC, University Medical Center Rotterdam</institution>
+<city>Rotterdam</city>
+<country country="NL">the Netherlands</country>
+</aff><aff id="jmv70582-aff-0005">
+<label>
+<sup>5</sup>
+</label>
+<named-content content-type="organisation-division">Department of Medical Microbiology</named-content>
+<institution>Molecular Diagnostics Unit, Maasstad Hospital</institution>
+<city>Rotterdam</city>
+<country country="NL">the Netherlands</country>
+</aff><aff id="jmv70582-aff-0006">
+<label>
+<sup>6</sup>
+</label>
+<named-content content-type="organisation-division">Department of Rheumatology and Clinical Immunology</named-content>
+<institution>Franciscus Hospital</institution>
+<city>Rotterdam</city>
+<country country="NL">the Netherlands</country>
+</aff><aff id="jmv70582-aff-0007">
+<label>
+<sup>7</sup>
+</label>
+<named-content content-type="organisation-division">Department of Epidemiology</named-content>
+<institution>Julius Center for Health Sciences and Primary Care, University Medical Center Utrecht</institution>
+<city>Utrecht</city>
+<country country="NL">the Netherlands</country>
+</aff><author-notes><corresp id="correspondenceTo">
+<label>*</label>
+<bold>Correspondence:</bold> W. Ashwin Mak (<email>ashwinmak98@gmail.com</email>)<break/>
+</corresp></author-notes><pub-date pub-type="epub"><day>30</day><month>8</month><year>2025</year></pub-date><pub-date pub-type="ppub"><month>9</month><year>2025</year></pub-date><volume>97</volume><issue seq="20">9</issue><issue-id pub-id-type="pmc-issue-id">495840</issue-id><issue-id pub-id-type="doi">10.1002/jmv.v97.9</issue-id><elocation-id>e70582</elocation-id><history><date date-type="rev-recd"><day>19</day><month>7</month><year>2025</year></date><date date-type="received"><day>15</day><month>5</month><year>2025</year></date><date date-type="accepted"><day>19</day><month>8</month><year>2025</year></date></history><pub-history><event event-type="pmc-release"><date><day>30</day><month>08</month><year>2025</year></date></event><event event-type="pmc-live"><date><day>31</day><month>08</month><year>2025</year></date></event><event event-type="pmc-last-change"><date iso-8601-date="2025-08-31 12:25:40.890"><day>31</day><month>08</month><year>2025</year></date></event></pub-history><permissions><copyright-statement content-type="article-copyright">© 2025 The Author(s). <italic toggle="yes">Journal of Medical Virology</italic> published by Wiley Periodicals LLC.</copyright-statement><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>This is an open access article under the terms of the <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pmc-pdf" xlink:href="JMV-97-e70582.pdf"/><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pdf" xlink:href="file:JMV-97-e70582.pdf"/><abstract><title>ABSTRACT</title><p>Long COVID (LC) is a post‐acute infection syndrome affecting 5%–10% of individuals infected by SARS‐CoV‐2. Here, we aimed to study SARS‐CoV‐2 humoral immunity, immunological imprinting by endemic coronaviruses, and previous herpesvirus infections in LC. We included 47 LC patients and 41 controls who fully recovered from COVID‐19. We assessed IgG, IgA, and IgM antibody levels against SARS‐CoV‐2, seasonal coronaviruses, and herpesviruses using ELISAs and Microblot‐Array panels. Additionally, we performed PCR to detect viral RNA/DNA and evaluated anti‐nuclear autoantibodies linked to systemic autoimmune conditions. LC patients showed significantly reduced levels of SARS‐CoV‐2 anti‐spike IgG and IgA but increased levels of endemic coronaviruses OC43 and HKU1 anti‐spike IgG, suggesting immunological imprinting potentially driven by these coronaviruses. Furthermore, LC patients had higher levels of SARS‐CoV‐2 anti‐spike IgM compared to anti‐Spike IgG, possibly indicating impaired class switching. Interestingly, cytomegalovirus (CMV) p65 IgG levels were lower in LC patients and negatively correlated with fatigue severity. This study highlights immunological imprinting by seasonal coronaviruses and impaired antibody class switching as potential causes of SARS‐CoV‐2 immune escape and persistence in LC patients. Furthermore, our findings suggest an inverse association between CMV p65 IgG and fatigue severity in LC.</p></abstract><kwd-group><kwd id="jmv70582-kwd-0001">antibodies</kwd><kwd id="jmv70582-kwd-0002">autoimmunity</kwd><kwd id="jmv70582-kwd-0003">coronaviridae</kwd><kwd id="jmv70582-kwd-0004">cytomegalovirus</kwd><kwd id="jmv70582-kwd-0005">herpesviridae</kwd><kwd id="jmv70582-kwd-0006">long COVID</kwd><kwd id="jmv70582-kwd-0007">post‐acute COVID‐19 syndrome</kwd><kwd id="jmv70582-kwd-0008">SARS‐CoV‐2</kwd></kwd-group><funding-group><award-group id="funding-0001"><funding-source>
+<institution-wrap><institution>The study was supported by the Franciscus Hospital, Rotterdam, the Netherlands.</institution></institution-wrap>
+</funding-source></award-group></funding-group><counts><fig-count count="4"/><table-count count="1"/><page-count count="12"/><word-count count="7432"/></counts><custom-meta-group><custom-meta><meta-name>pmc-status-qastatus</meta-name><meta-value>0</meta-value></custom-meta><custom-meta><meta-name>pmc-status-live</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-status-embargo</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-status-released</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-access</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-legally-suppressed</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-pdf</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-supplement</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-pdf-only</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-suppress-copyright</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-real-version</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-scanned-article</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-in-epmc</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-license-ref</meta-name><meta-value>CC BY</meta-value></custom-meta><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>September 2025</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:6.6.2 mode:remove_FC converted:30.08.2025</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="jmv70582-cit-0066">
+<string-name name-style="western">
+<given-names>W. A.</given-names>
+<surname>Mak</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Wapperom</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.‐L.</given-names>
+<surname>Redel</surname>
+</string-name>, et al. , “<article-title>Seasonal Coronavirus‐Induced Immunological Imprinting and Previous Herpesvirus Infections in Patients With Long COVID</article-title>,” <source>Journal of Medical Virology</source>
+<volume>97</volume> (<year>2025</year>): <fpage>1</fpage>‐<lpage>12</lpage>. <pub-id pub-id-type="doi">10.1002/jmv.70582</pub-id>.<pub-id pub-id-type="pmid">40884088</pub-id></mixed-citation>
+</p></notes></front><body><sec id="jmv70582-sec-0020"><label>1</label><title>Introduction</title><p>While the coronavirus disease 2019 (COVID‐19) pandemic has officially ended, a substantial healthcare challenge persists as 5%–10% suffer from chronic symptoms after severe acute respiratory syndrome coronavirus 2 (SARS‐CoV‐2) infection. This post‐acute infectious disease condition, often referred to as “long COVID” (LC), is more often observed in females and can manifest through a wide range of symptoms [<xref rid="jmv70582-bib-0001" ref-type="bibr">1</xref>, <xref rid="jmv70582-bib-0002" ref-type="bibr">2</xref>]. The most reported LC symptoms include fatigue, post‐exertional malaise (PEM), breathing difficulties, myalgia, headaches, and neurocognitive problems [<xref rid="jmv70582-bib-0003" ref-type="bibr">3</xref>]. These symptoms can last from months to years, severely impacting overall health and quality of life [<xref rid="jmv70582-bib-0004" ref-type="bibr">4</xref>, <xref rid="jmv70582-bib-0005" ref-type="bibr">5</xref>].</p><p>Several underlying pathophysiological mechanisms have been implicated in LC, including the persistence of SARS‐CoV‐2 viral particles or antigens, reactivation of herpesviruses, autoimmunity, and dysregulation of antiviral immune responses [<xref rid="jmv70582-bib-0006" ref-type="bibr">6</xref>, <xref rid="jmv70582-bib-0007" ref-type="bibr">7</xref>, <xref rid="jmv70582-bib-0008" ref-type="bibr">8</xref>, <xref rid="jmv70582-bib-0009" ref-type="bibr">9</xref>, <xref rid="jmv70582-bib-0010" ref-type="bibr">10</xref>]. The persistence of SARS‐CoV‐2 could potentially be linked to ineffective neutralizing antibody responses, which may be the result of immunological imprinting (also known as the original antigenic sin) [<xref rid="jmv70582-bib-0011" ref-type="bibr">11</xref>]. In immunological imprinting, B cells are re‐exposed to an antigen that is highly similar to an original antigen that B cells were first exposed to, where after the B cells mount a memory antibody response specific to the original antigen instead of the second antigen. Accordingly, these antibodies are less effective towards the second antigen, leading to viral escape [<xref rid="jmv70582-bib-0012" ref-type="bibr">12</xref>]. With regard to SARS‐CoV‐2, B cells could be imprinted by the spike protein of seasonal coronaviruses OC43, HKU1, NL63, and 229E, which share high homology with the spike protein of SARS‐CoV‐2 [<xref rid="jmv70582-bib-0013" ref-type="bibr">13</xref>, <xref rid="jmv70582-bib-0014" ref-type="bibr">14</xref>].</p><p>Another potential factor contributing to LC is the reactivation of herpesviruses. These viruses are characterized by their latent state inside the host after initial infection [<xref rid="jmv70582-bib-0015" ref-type="bibr">15</xref>]. Under certain conditions, such as during immunosuppression, fever, tissue damage, and coinfection, these viruses can reactivate and cause disease [<xref rid="jmv70582-bib-0016" ref-type="bibr">16</xref>]. Herpesvirus infections have been linked to an increased risk of systemic autoimmune diseases, often marked by anti‐nuclear antibodies (ANAs) [<xref rid="jmv70582-bib-0017" ref-type="bibr">17</xref>, <xref rid="jmv70582-bib-0018" ref-type="bibr">18</xref>].</p><p>Here, we aimed to assess the role of immunological imprinting by endemic coronaviruses in LC. Furthermore, we sought to study whether antibody serostatus and reactivation of herpesviruses are related to LC and its specific clinical presentation. Finally, we investigated the potential involvement of autoimmunity in LC by examining a broad panel of clinically relevant ANA.</p></sec><sec sec-type="methods" id="jmv70582-sec-0030"><label>2</label><title>Methods</title><sec id="jmv70582-sec-0040"><label>2.1</label><title>Study Population and Sample Collection</title><p>LC patients were recruited as participants of the “LARGO” randomized‐controlled trial conducted at Franciscus Hospital, as previously described [<xref rid="jmv70582-bib-0019" ref-type="bibr">19</xref>]. The inclusion criteria were: between 18 and 70 years of age, PCR‐confirmed SARS‐CoV‐2 infection and at least two LC symptoms according to World Health Organization consensus criteria lasting &lt; 1 year [<xref rid="jmv70582-bib-0020" ref-type="bibr">20</xref>]. The exclusion criteria were prior admission to the intensive care unit due to COVID‐19, abnormal or changed chest radiography or pulmonary function test results, current acute SARS‐CoV‐2 infection or active systemic immunological disorders, current psychiatric disorders as diagnosed by a psychiatrist, use of oral/inhaled corticosteroids or other immune‐modulatory medication, current pregnancy or lactation, and allergy to milk or components of milk [<xref rid="jmv70582-bib-0019" ref-type="bibr">19</xref>]. The present study included all LC patients from the LARGO trial for whom a baseline (i.e., before treatment intervention) serum sample was available. For comparison, a healthy control (HC) cohort of fully recovered COVID‐19 convalescent healthcare workers was used. These HC provided a heparinized plasma or serum sample during our previous COVID‐19 immunity studies. The inclusion criteria of this cohort were: between 18 and 65 years of age, PCR‐confirmed SARS‐CoV‐2 infection, and blood sample collected between November 2021 and July 2022 [<xref rid="jmv70582-bib-0021" ref-type="bibr">21</xref>, <xref rid="jmv70582-bib-0022" ref-type="bibr">22</xref>].</p><p>For all participants, blood samples were obtained by venipuncture, whereafter the samples were stored at ‐80°C until analysis. Depending on sample availability per individual, serum or heparin plasma was used in the analysis. Additionally, LC patients reported their symptoms and completed the Cognitive Failures Questionnaire (CFQ) and Fatigue Assessment Score (FAS) assessments on the same day as blood collection.</p><p>The outcomes of this study included SARS‐CoV‐2 and endemic coronavirus‐specific antibody levels, SARS‐CoV‐2 RNA, herpesvirus DNA and antibody profiles, ANA profiles, and associations of these parameters with cognitive failure and fatigue.</p><p>The study followed the principles of the Declaration of Helsinki and all participants provided written informed consent.</p></sec><sec id="jmv70582-sec-0050"><label>2.2</label><title>Enzyme‐Linked Immunosorbent Assay (ELISA)</title><p>To assess Human Herpesvirus 6 (HHV‐6) antibodies, we utilized a commercial ELISA assay (KA1457, Abnova). Further, coronavirus‐specific antibodies were measured by in house designed ELISAs. For these, 50 µl per well of 0.5 µg/ml antigen solution in PBS was coated overnight at 4°C in 96‐well Maxisorp plates (442404, ThermoFisher). The following antigens were used: SARS‐CoV‐2 spike protein (40589‐V08H4, Sino Biological), spike subunit 1 (S1) (100730, BPS Bioscience), spike subunit 2 (S2) (S2N‐C52H5, ACRO Biosystems), and nucleocapsid protein (40588‐V08B, Sino Biological), as well as the spike protein of HCoV‐OC43 (40607‐V08B), HCoV‐HKU1 (40606‐V08B), HCoV‐NL63 (40604‐V08B), and HCoV‐229E (40605‐V08B), and spike S2 of HCoV‐OC43 (40607‐V08B1) and HCoV‐HKU1 (40021‐V08B, all Sino Biological). Plates were washed with 0.05% (vol/vol) Tween‐20 in PBS and blocked with 3% (mass/volume) low‐fat milk powder (T145, Carl Roth) in PBS for 1 h at room temperature (RT). Next, 1:50 diluted serum and plasma samples in 1% milk/PBS was incubated for 1 h at RT. After washing, 50 µl of 0.5–1.0 µg/ml HRP‐labeled monoclonal anti‐IgG (05‐4220, ThermoFisher), polyclonal anti‐IgA (411002, BioLegend), or polyclonal anti‐IgM (SA5‐10293, ThermoFisher) was added and incubated for 1 h at RT. After washing, 100 µl TMB substrate (34028, ThermoFisher) was incubated for 10 min in the dark at RT, followed by 100 µl/well of 1 M sulfuric acid. The optical density was measured at 450 and 620 nm for background signal correction using the ETI‐MAX 3000 (Diasorin). OD 450–620 values were transformed in natural log (Ln) to normalize the data by reducing skewness.</p></sec><sec id="jmv70582-sec-0060"><label>2.3</label><title>Virus Polymerase Chain Reaction (PCR)</title><p>Total nucleic acids from serum or plasma samples were extracted using the Emag system (BioMerieux) using the Emag blood protocol. PCR mixes were prepared by using 5 µl FastVirus mastermix (Applied Biosystems, ThermoFisher), 2 µl primer and probe mix for the various targets (EBV EBNA‐LP and BNRF1; CMV DNA polymerase and UL75; HHV‐6 DNA polymerase; HSV1 gG; HSV2 gD; VZV gene 38 and gB; SARS‐CoV‐2 E and N), 2 µl PCR graded water and 9 µl eluate or control were used. PCR cycles consisted of 5 min at 50°C, followed by 50 cycles of 15 s at 95°C and 60 s at 60°C performed at an ABI 7500 PCR cycler (ThermoFisher).</p></sec><sec id="jmv70582-sec-0070"><label>2.4</label><title>Microblot‐Array</title><p>Herpesvirus antibodies and anti‐nuclear antibodies (ANA) were assessed using the Microblot‐Array (MBA) kits for EBV IgG (EBGMA96), EBV IgM (EBMMA96), EBV IgA (EBAMA96), CMV IgG (CMGMA48), CMV IgM (CMMMA48), HSV1 + 2 IgG (HSGMA48), HSV1 + 2 IgM (HSMMA48), and ANA plus (ANApMA96, all from TestLine Clinical Diagnostics). Each well contained a nitrocellulose membrane on which multiple antigen spots were printed in triplicate. After pre‐wetting the membranes, 100 µl of 1:50 diluted serum or plasma was incubated on the membranes for 30 min, followed by 30 min incubation with 100 µl of alkaline phosphatase‐conjugated detection antibody. Finally, 100 µl of BCIP‐NBT substrate solution was incubated for 15 min, after which the membranes were washed with demineralized water. Membranes were dried for 30 min in an MBA dryer and were automatically imaged and analyzed using the MBA reader and corresponding software (ARCXIX096, TestLine Clinical Diagnostics). The images were manually inspected, where after antigen spots showing high background signal were excluded. Results were presented as units/ml (U/ml) and classified as negative ( &lt; 185 U/ml) or positive ( ≥ 185 U/ml).</p></sec><sec id="jmv70582-sec-0080"><label>2.5</label><title>Statistical Analyses</title><p>All data are presented as medians with interquartile ranges (IQR). Statistical analyses were conducted using GraphPad Prism v10. Categorical data was compared using the Chi square test or Fisher's exact test if a group consisted of five or less values. Mann‐Whitney U tests were performed to compare two independent groups and Kruskal‐Wallis tests with Dunn's post hoc analysis were applied to compare between three independent groups. Spearman's rank correlations were used to assess associations. The <italic toggle="yes">p</italic>‐values were adjusted using the Benjamini‐Hochberg correction for multiple comparisons. Statistical tests were performed at a two‐tailed α‐level of 0.05.</p></sec></sec><sec sec-type="results" id="jmv70582-sec-0090"><label>3</label><title>Results</title><sec id="jmv70582-sec-0100"><label>3.1</label><title>Study Population</title><p>A total of 47 LC patients and 41 HC with a previous SARS‐CoV‐2 infection were included in this study. The LC group comprised 18 (38.3%) males with a median age of 46 years (IQR 38–52), and the HC group included 9 (22.0%) males with a median age of 53 years (IQR 42–58) (Table <xref rid="jmv70582-tbl-0001" ref-type="table">1</xref>). These demographics were not statistically significant between the two groups (<italic toggle="yes">p</italic> = 0.0972 for sex; <italic toggle="yes">p</italic> = 0.1154 for age). All participants had a confirmed SARS‐CoV‐2 infection through RT‐PCR or lateral flow antigen testing. Among the LC patients, 78.7% experienced a single SARS‐CoV‐2 infection, while 17.0% had two infections, and 2.1% had three infections. Similarly, 87.8% of the HC group had a single infection, 9.8% had two infections, and 2.4% had three infections, with no significant difference observed between the two study groups (<italic toggle="yes">p</italic> = 0.6785). Five LC patients required hospitalization during acute COVID‐19, whereas none of the HC were hospitalized (<italic toggle="yes">p</italic> = 0.0583). Except for three LC patients, all participants received at least one COVID‐19 vaccination. The distribution of the number of vaccinations per individual was comparable between the groups (<italic toggle="yes">p</italic> = 0.2572). The median time between the last SARS‐CoV‐2 infection and blood collection was significantly shorter in LC patients (280 days [IQR 142–331] than in HC (596 days [IQR 558–722], <italic toggle="yes">p</italic> &lt; 0.0001).</p><table-wrap position="float" id="jmv70582-tbl-0001" content-type="Table" orientation="portrait"><label>Table 1</label><caption><p>Characteristics of LC and HC cohorts. Data are presented as <italic toggle="yes">n</italic> (%) or median with IQR. NA, not available.</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" align="left" span="1"/><col style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" align="center" span="1"/><col style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" align="center" span="1"/><col style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" align="center" span="1"/><thead valign="bottom"><tr valign="bottom" style="border-bottom:solid 1px #000000"><th align="left" valign="bottom" rowspan="1" colspan="1"/><th align="center" valign="bottom" rowspan="1" colspan="1">Long COVID (<italic toggle="yes">n</italic> = 47)</th><th align="center" valign="bottom" rowspan="1" colspan="1">Healthy controls (<italic toggle="yes">n</italic> = 41)</th><th align="center" valign="bottom" rowspan="1" colspan="1">
+<italic toggle="yes">p</italic> value</th></tr></thead><tbody valign="top"><tr><td align="left" valign="top" rowspan="1" colspan="1">Males</td><td align="center" valign="top" rowspan="1" colspan="1">18 (38.3%)</td><td align="center" valign="top" rowspan="1" colspan="1">9 (22.0%)</td><td align="center" valign="top" rowspan="1" colspan="1">0.0972</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Age</td><td align="center" valign="top" rowspan="1" colspan="1">46 (38–52)</td><td align="center" valign="top" rowspan="1" colspan="1">53 (42–58)</td><td align="center" valign="top" rowspan="1" colspan="1">0.1154</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Number of SARS‐CoV‐2 infections</td><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1">0.6785</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">1</td><td align="center" valign="top" rowspan="1" colspan="1">37 (78.7%)</td><td align="center" valign="top" rowspan="1" colspan="1">36 (87.8%)</td><td align="center" valign="top" rowspan="1" colspan="1"/></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">2</td><td align="center" valign="top" rowspan="1" colspan="1">8 (17.0%)</td><td align="center" valign="top" rowspan="1" colspan="1">4 (9.8%)</td><td align="center" valign="top" rowspan="1" colspan="1"/></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">3</td><td align="center" valign="top" rowspan="1" colspan="1">1 (2.1%)</td><td align="center" valign="top" rowspan="1" colspan="1">1 (2.4%)</td><td align="center" valign="top" rowspan="1" colspan="1"/></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Unknown</td><td align="center" valign="top" rowspan="1" colspan="1">1 (2.1%)</td><td align="center" valign="top" rowspan="1" colspan="1">0</td><td align="center" valign="top" rowspan="1" colspan="1"/></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Hospital visit due to acute COVID‐19</td><td align="center" valign="top" rowspan="1" colspan="1">5 (10.6%)</td><td align="center" valign="top" rowspan="1" colspan="1">0</td><td align="center" valign="top" rowspan="1" colspan="1">0.0583</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Number of COVID‐19 vaccinations</td><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1">0.2572</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">0</td><td align="center" valign="top" rowspan="1" colspan="1">3 (6.4%)</td><td align="center" valign="top" rowspan="1" colspan="1">0</td><td align="center" valign="top" rowspan="1" colspan="1"/></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">1</td><td align="center" valign="top" rowspan="1" colspan="1">3 (6.4%)</td><td align="center" valign="top" rowspan="1" colspan="1">4 (9.8%)</td><td align="center" valign="top" rowspan="1" colspan="1"/></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">2</td><td align="center" valign="top" rowspan="1" colspan="1">17 (36.2%)</td><td align="center" valign="top" rowspan="1" colspan="1">17 (41.5%)</td><td align="center" valign="top" rowspan="1" colspan="1"/></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">3</td><td align="center" valign="top" rowspan="1" colspan="1">24 (51.1%)</td><td align="center" valign="top" rowspan="1" colspan="1">13 (31.7%)</td><td align="center" valign="top" rowspan="1" colspan="1"/></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Unknown</td><td align="center" valign="top" rowspan="1" colspan="1">0</td><td align="center" valign="top" rowspan="1" colspan="1">7 (17.1%)</td><td align="center" valign="top" rowspan="1" colspan="1"/></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Median days in between last SARS‐CoV‐2 infection and blood collection</td><td align="center" valign="top" rowspan="1" colspan="1">280 (142–331)</td><td align="center" valign="top" rowspan="1" colspan="1">596 (558–722)</td><td align="center" valign="top" rowspan="1" colspan="1">&lt; 0.0001</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Time window of blood collection</td><td align="center" valign="top" rowspan="1" colspan="1">February 1, 2022–March 28, 2022</td><td align="center" valign="top" rowspan="1" colspan="1">November 23, 2021–July 1, 2022</td><td align="center" valign="top" rowspan="1" colspan="1"/></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">FAS score</td><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1">NA</td><td align="center" valign="top" rowspan="1" colspan="1"/></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">No fatigue (0–21)</td><td align="center" valign="top" rowspan="1" colspan="1">0</td><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1"/></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Mild to moderate fatigue (22–34)</td><td align="center" valign="top" rowspan="1" colspan="1">28 (59.6%)</td><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1"/></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Severe fatigue (35–50)</td><td align="center" valign="top" rowspan="1" colspan="1">19 (40.4%)</td><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1"/></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">CFQ score</td><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1">NA</td><td align="center" valign="top" rowspan="1" colspan="1"/></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">No cognitive failure (0–43)</td><td align="center" valign="top" rowspan="1" colspan="1">17 (36.2%)</td><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1"/></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Mild cognitive failure (44–54)</td><td align="center" valign="top" rowspan="1" colspan="1">9 (19.1%)</td><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1"/></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Severe cognitive failure (55–100)</td><td align="center" valign="top" rowspan="1" colspan="1">21 (44.7%)</td><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1"/></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Self‐reported symptoms</td><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1">NA</td><td align="center" valign="top" rowspan="1" colspan="1"/></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Fatigue</td><td align="center" valign="top" rowspan="1" colspan="1">43 (91.5%)</td><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1"/></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Cognitive disturbances</td><td align="center" valign="top" rowspan="1" colspan="1">43 (91.5%)</td><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1"/></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Muscle weakness/pain</td><td align="center" valign="top" rowspan="1" colspan="1">17 (36.2%)</td><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1"/></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Dyspnea</td><td align="center" valign="top" rowspan="1" colspan="1">29 (61.7%)</td><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1"/></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Headache</td><td align="center" valign="top" rowspan="1" colspan="1">14 (29.8%)</td><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1"/></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Chest pain</td><td align="center" valign="top" rowspan="1" colspan="1">10 (21.3%)</td><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1"/></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Sore throat</td><td align="center" valign="top" rowspan="1" colspan="1">3 (6.38%)</td><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1"/></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Depressive or anxiety symptoms</td><td align="center" valign="top" rowspan="1" colspan="1">1 (2.1%)</td><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1"/></tr></tbody></table><permissions><copyright-holder>John Wiley &amp; Sons, Ltd.</copyright-holder></permissions></table-wrap><p>LC symptoms were evaluated using the FAS and the CFQ. Based on these questionnaires, all LC patients experienced fatigue, with 40.4% reporting severe fatigue, and 63.8% of LC patients experienced cognitive impairment, of whom 44.7% reported severe cognitive failure. LC patients also self‐reported various symptoms at the time of inclusion, of which fatigue (91.5%), cognitive disturbance (91.5%), and muscle pain/weakness (61.7%) were reported as the main symptoms.</p></sec><sec id="jmv70582-sec-0110"><label>3.2</label><title>LC Patients Have Decreased SARS‐CoV‐2 Spike‐Specific IgG and IgA But an Increased Proportion of Spike‐Specific IgM Relative to IgG</title><p>To evaluate the status of humoral immunity against SARS‐CoV‐2 in LC patients, we first measured the levels of IgG and IgA antibodies specific to SARS‐CoV‐2 in both LC patients and HC. LC patients exhibited significantly reduced levels of SARS‐CoV‐2 spike‐specific IgG and IgA antibodies compared to HC (both <italic toggle="yes">p</italic> &lt; 0.0001) (Figure <xref rid="jmv70582-fig-0001" ref-type="fig">1A,B</xref>). Further examination of the antibody response indicated that this reduction was primarily driven by antibodies targeting the S1 subunit of the SARS‐CoV‐2 spike protein. Specifically, S1‐specific IgG and IgA antibodies were markedly lower in LC patients (both <italic toggle="yes">p</italic> = 0.0091), while S2‐specific antibodies were comparable between the two groups. In contrast to the decreased spike‐specific antibody levels, nucleocapsid (N)‐specific IgG and IgA antibody levels were significantly elevated in LC patients, with a more pronounced difference for IgG antibodies (<italic toggle="yes">p</italic> = 0.0015 for IgG; <italic toggle="yes">p</italic> = 0.0257 for IgA). This increase in N‐specific antibodies may reflect a differential immune response in LC patients, potentially indicative of an elevated or prolonged exposure to viral antigens. Therefore, we investigated the presence of persistent SARS‐CoV‐2 RNA in LC patients by performing a SARS‐CoV‐2 RT‐PCR on LC serum. However, viral RNA was not detected in any of the LC patients (data not shown).</p><p>SARS‐CoV‐2 spike and S1‐specific IgM antibodies were comparable between LC patients and HC (Figure <xref rid="jmv70582-fig-0001" ref-type="fig">1C</xref>). However, the spike‐specific IgG/IgM ratio was significantly lower in LC patients, indicating a relatively higher proportion of anti‐spike IgM compared to anti‐spike IgG in this group (<italic toggle="yes">p</italic> &lt; 0.0001). Although less pronounced, a similar trend was observed for the S1‐specific IgG/IgM ratio, which was also significantly lower in LC patients (<italic toggle="yes">p</italic> = 0.0490). In contrast, the spike‐specific IgA/IgM ratios did not differ between HC and LC patients, suggesting comparable distributions of these antibody isotypes across the two groups.</p><fig position="float" fig-type="Figure" id="jmv70582-fig-0001" orientation="portrait"><label>Figure 1</label><caption><p>SARS‐CoV‐2‐specific IgG, IgA, and IgM antibody levels in HC and LC patients. (A) IgG and (B) IgA antibody levels against the full spike (S) protein, spike subunit 1 (S1), spike subunit 2 (S2), and nucleocapsid (N) protein of SARS‐CoV‐2. (C) IgM antibody levels against SARS‐CoV‐2 S and S1. (D) SARS‐CoV‐2 S and S1 IgG/IgM and S IgA/IgM ratios in HC and LC patients. OD450‐620 values were used for ratio calculations. Data are presented as median with IQR and statistical comparisons were made using the Mann‐Whitney U test, with <italic toggle="yes">p</italic>‐values adjusted for multiple comparisons using the Benjamini‐Hochberg method.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-1" orientation="portrait" xlink:href="JMV-97-e70582-g004.jpg"/></fig><p>To determine whether these positive findings were related to LC symptomatology, we assessed correlations between these findings and FAS and CFQ scores. SARS‐CoV‐2 antibodies were not associated with fatigue or cognitive failure severity (Supporting Information Table <xref rid="jmv70582-suppl-0001" ref-type="supplementary-material">1</xref>). Additionally, we determined whether these antibody responses were different in LC patients infected with the Alpha, Delta, and Omicron variant (Supporting Information Figure <xref rid="jmv70582-suppl-0001" ref-type="supplementary-material">1</xref>). Omicron‐infected LC patients had higher anti‐spike IgG than Alpha‐infected LC patients, likely caused by the shorter time window between infection and blood collection in the Omicron group. No other significant differences in antibody responses were observed between the variant groups.</p></sec><sec id="jmv70582-sec-0120"><label>3.3</label><title>LC Patients Have Elevated HKU1 and OC43 Anti‐Spike IgG Antibody Levels</title><p>To explore the potential role of immunological imprinting by seasonal coronaviruses in the development of LC, we analyzed IgG and IgA antibody levels against the spike proteins of seasonal coronaviruses HKU1, OC43, NL63, and 229E in both groups. The analysis revealed that LC patients exhibited significantly elevated IgG antibody levels against the spike proteins of both HKU1 and OC43 compared to HC (<italic toggle="yes">p</italic> = 0.0044 for HKU1; <italic toggle="yes">p</italic> = 0.0040 for OC43), without differences in S2‐specific IgG levels between the groups (Figure <xref rid="jmv70582-fig-0002" ref-type="fig">2A</xref>). In contrast to IgG, HKU1 and OC43 S‐specific IgA levels were comparable between LC patients and HC (Figure <xref rid="jmv70582-fig-0002" ref-type="fig">2B</xref>), and OC43 S2‐specific IgA levels were increased in LC patients (<italic toggle="yes">p</italic> = 0.0015). Furthermore, NL63 and 229E spike‐specific antibody levels for both IgG and IgA isotypes were similar between the two groups. HKU1 or OC43 anti‐spike antibody levels were not associated with fatigue or cognitive failure severity (Supporting Information Table <xref rid="jmv70582-suppl-0001" ref-type="supplementary-material">1</xref>). No differences in HKU1‐ or OC43‐specific anti‐spike IgG levels were observed between LC patients infected with the Alpha, Delta, or Omicron variant (Supporting Information Figure <xref rid="jmv70582-suppl-0001" ref-type="supplementary-material">2</xref>).</p><fig position="float" fig-type="Figure" id="jmv70582-fig-0002" orientation="portrait"><label>Figure 2</label><caption><p>Seasonal coronavirus antibody levels in HC and LC patients. (A) IgG and (B) IgA antibody titers against full spike (S) protein and spike subunit 2 (S2) of endemic betacoronaviruses HKU1 and OC43, as well as the alphacoronaviruses NL63 and 229E. Data are presented as median with IQR and comparisons between groups were performed with the Mann‐Whitney U test. (C and D) Associations between OC43, HKU1, and SARS‐CoV‐2 spike‐specific antibody titers in LC and HC groups, assessed by Spearman's rank correlation testing for (C) IgG and (D) IgA. All <italic toggle="yes">p</italic> values were adjusted for multiple comparisons using the Benjamini‐Hochberg method.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-3" orientation="portrait" xlink:href="JMV-97-e70582-g001.jpg"/></fig><p>To characterize cross‐reactivity between anti‐spike antibodies targeting the different betacoronaviruses, we assessed the associations between the anti‐spike antibody levels. A strong positive correlation was observed between IgG levels against the spike proteins of HKU1 and OC43 in both groups, but no significant correlations were found between the IgG levels to these betacoronaviruses and SARS‐CoV‐2 spike‐specific IgG (Figure <xref rid="jmv70582-fig-0002" ref-type="fig">2C</xref>). For IgA titers, a similar strong positive correlation was observed between the spike‐specific IgA titers of HKU1 and OC43 (Figure <xref rid="jmv70582-fig-0002" ref-type="fig">2D</xref>). Also, there was a weak significant correlation between HKU1 or OC43 and SARS‐CoV‐2 spike‐specific IgA levels.</p></sec><sec id="jmv70582-sec-0130"><label>3.4</label><title>LC Patients Have Decreased CMV Antibody Levels Which Associates With Fatigue Severity</title><p>To investigate the potential role of herpesvirus reactivation in the development of LC, we first assessed the presence of DNA of EBV, CMV, HSV‐1, HSV‐2, VZV, and HHV‐6 in the serum of LC patients. DNA of these herpesviruses was undetectable in all samples, except for HHV‐6 DNA, which was identified in one LC patient (2.1%; data not shown).</p><p>Subsequently, we evaluated antibody responses against EBV, CMV, HSV‐1, HSV‐2, and HHV‐6. Seroprevalence rates for all viruses were comparable between HC and LC patients (Figure <xref rid="jmv70582-fig-0003" ref-type="fig">3A</xref>). For seropositive individuals, we conducted a quantitative assessment of IgG, IgM, and IgA antibodies specific to various herpesvirus antigens. EBV‐specific antibodies generally tended to be higher in LC patients, although none reached statistical significance (Figure <xref rid="jmv70582-fig-0003" ref-type="fig">3B</xref>). For example, IgG antibodies binding the EBV reactivation‐associated transcription factor Rta were elevated by 139% in LC patients compared to HC (Figure <xref rid="jmv70582-fig-0003" ref-type="fig">3C</xref>). In contrast, CMV‐specific IgG antibodies predominantly showed a trend towards lower levels in LC patients, with significantly reduced IgG against the p65 antigen (<italic toggle="yes">p</italic> = 0.0090) (Figure <xref rid="jmv70582-fig-0003" ref-type="fig">3D</xref>). No clear patterns were observed in the antibody levels against HSV‐1, HSV‐2, and HHV‐6 between the HC and LC groups. To further explore the clinical relevance of these serological findings, we assessed the correlation between antibody levels against EBV Rta and CMV p65, and clinical features of LC, including fatigue and cognitive impairment as measured by the FAS and CFQ, respectively. A significant negative correlation was found between CMV p65‐specific IgG levels and FAS scores (r = − 0.53, <italic toggle="yes">p</italic> = 0.0165), indicating that lower CMV IgG antibody levels were associated with increased fatigue severity in LC patients (Figure <xref rid="jmv70582-fig-0003" ref-type="fig">3E</xref>).</p><fig position="float" fig-type="Figure" id="jmv70582-fig-0003" orientation="portrait"><label>Figure 3</label><caption><p>Herpesvirus antibody levels in HC and LC patients. (A) Percentage of seropositive HC and LC patients, determined by the presence of detectable IgG antibodies against at least one antigen from each herpesvirus. (B) Heatmap showing the average percentage differences in IgG, IgM, and IgA antibody titers against herpesviruses between seropositive HC and LC patients. Grey fields in the heatmap were not assessed. (C) Comparison of EBV Rta and (D) CMV p65 IgG titers between HC and LC patients, analyzed using the Mann‐Whitney U test. (E) Spearman's rank correlations between the Fatigue Assessment Scale (FAS), Cognitive Failure Questionnaire (CFQ), EBV Rta IgG titers, and CMV p65 IgG titers in LC patients. All <italic toggle="yes">p</italic>‐values were adjusted using the Benjamini‐Hochberg method for multiple comparisons.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-5" orientation="portrait" xlink:href="JMV-97-e70582-g002.jpg"/></fig></sec><sec id="jmv70582-sec-0140"><label>3.5</label><title>LC Patients Do Not Have a Distinct Anti‐Nuclear Autoantibody Profile</title><p>To investigate whether LC is associated with increased levels of antinuclear antibodies (ANAs), potentially contributing to increased understanding on disease mechanisms or serving as biomarkers, we analyzed a panel of 44 ANAs which are highly associated with the most common systemic autoimmune diseases. At least one ANA was detected in 46.3% of HC and 48.9% of LC patients but we were unable to identify specific ANA or distinct ANA profiles unique to LC patients (Figure <xref rid="jmv70582-fig-0004" ref-type="fig">4A</xref>). Although the number of detectable ANAs per individual was not statistically different between the groups, seven LC patients versus none of the HC tested positive for 3 or more positive ANAs (Figure <xref rid="jmv70582-fig-0004" ref-type="fig">4B</xref>).</p><fig position="float" fig-type="Figure" id="jmv70582-fig-0004" orientation="portrait"><label>Figure 4</label><caption><p>ANA profiles in HC and LC patients. (A) Heatmap displaying the concentrations of various IgG ANAs. Each row represents a different autoantibody type, and each column corresponds to an individual LC patient or HC. (B) The total number of detectable autoantibodies per individual.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-7" orientation="portrait" xlink:href="JMV-97-e70582-g003.jpg"/></fig></sec></sec><sec sec-type="discussion" id="jmv70582-sec-0150"><label>4</label><title>Discussion</title><p>The mechanisms driving LC are complex and multifaceted, and they likely involve a combination of factors such as viral persistence, immune dysregulation, autoimmunity, and reactivation of latent viruses [<xref rid="jmv70582-bib-0006" ref-type="bibr">6</xref>, <xref rid="jmv70582-bib-0007" ref-type="bibr">7</xref>]. In this study, we investigated whether these mechanisms could be confirmed in LC patients.</p><p>Immunological imprinting, or original antigenic sin, was first described in the 1950s in the context of influenza vaccination, but has since been linked to various other pathogens, including SARS‐CoV‐2 [<xref rid="jmv70582-bib-0023" ref-type="bibr">23</xref>]. Imprinting by seasonal coronaviruses has been suggested to contribute to impaired clearance of SARS‐CoV‐2 and potentially influence the severity of acute COVID‐19 [<xref rid="jmv70582-bib-0024" ref-type="bibr">24</xref>]. These seasonal coronaviruses, which typically cause mild upper respiratory tract infections, are categorized into alphacoronaviruses (NL63 and 229) and betacoronaviruses (OC43 and HKU1). As a betacoronavirus, SARS‐CoV‐2 shares high spike protein homology with OC43 and HKU1 (40% C‐terminal region and 25% N‐terminal region sequence identity) [<xref rid="jmv70582-bib-0013" ref-type="bibr">13</xref>, <xref rid="jmv70582-bib-0014" ref-type="bibr">14</xref>]. This considerable homology could lead to imprinting of B cells, accounting for increased antibody levels against OC43 and HKU1 and reduced SARS‐CoV‐2‐specific IgG levels in LC patients. In line with these results, two previous studies that included 18 and 17 LC patients also reported reduced SARS‐CoV‐2 spike antibody levels and diminished Fcγ receptor binding of these antibodies, alongside elevated endemic coronaviruses spike antibody levels [<xref rid="jmv70582-bib-0025" ref-type="bibr">25</xref>, <xref rid="jmv70582-bib-0026" ref-type="bibr">26</xref>]. Thus, immunological imprinting may predominantly drive the production of antibodies that target conserved regions shared with endemic coronaviruses rather than unique epitopes of SARS‐CoV‐2, resulting in suboptimal neutralization.</p><p>Immunological imprinting may also interfere with the generation of high‐affinity antibody responses through impaired isotype switching. Normally, 2 weeks after first antigen exposure, IgM‐producing B cells undergo class‐switch recombination, enabling production of higher‐affinity IgG with distinct effector functions [<xref rid="jmv70582-bib-0027" ref-type="bibr">27</xref>]. After class‐switching, IgM production ceases, leaving low to undetectable SARS‐CoV‐2‐specific IgM levels in the months following SARS‐CoV‐2 infection [<xref rid="jmv70582-bib-0028" ref-type="bibr">28</xref>, <xref rid="jmv70582-bib-0029" ref-type="bibr">29</xref>]. The combination of increased SARS‐CoV‐2 anti‐spike IgM and decreased anti‐spike IgG in our LC cohort may reflect impaired class switching, potentially as a cause of immunological imprinting. For instance, pre‐existing memory B cells specific to endemic coronaviruses might compete with naive B cells for T cell help, as memory B cells typically express higher levels of costimulatory molecules than naive B cells. Accordingly, reduced T cell engagement with naive B cells could limit proliferation and differentiation into SARS‐CoV‐2‐specific plasma cells or memory B cells [<xref rid="jmv70582-bib-0030" ref-type="bibr">30</xref>, <xref rid="jmv70582-bib-0031" ref-type="bibr">31</xref>]. As impaired isotype switching may hinder the transition from low‐affinity IgM to high‐affinity IgG responses, this may further reduce the effectiveness of the antibody response. Notably, impaired class switching has also been observed in systemic lupus erythematosus (SLE) patients after COVID‐19 vaccination, suggesting similarities in immune dysregulation between SLE and LC [<xref rid="jmv70582-bib-0032" ref-type="bibr">32</xref>].</p><p>The inadequate SARS‐CoV‐2 antibody response likely contributes to impaired viral clearance in LC patients, allowing the virus or viral antigens to persist and drive chronic inflammation [<xref rid="jmv70582-bib-0011" ref-type="bibr">11</xref>]. Several studies have detected SARS‐CoV‐2 RNA and proteins in blood, stool, and tissue biopsy samples from LC patients for weeks to months after the acute phase of infection [<xref rid="jmv70582-bib-0033" ref-type="bibr">33</xref>, <xref rid="jmv70582-bib-0034" ref-type="bibr">34</xref>, <xref rid="jmv70582-bib-0035" ref-type="bibr">35</xref>, <xref rid="jmv70582-bib-0036" ref-type="bibr">36</xref>, <xref rid="jmv70582-bib-0037" ref-type="bibr">37</xref>, <xref rid="jmv70582-bib-0038" ref-type="bibr">38</xref>, <xref rid="jmv70582-bib-0039" ref-type="bibr">39</xref>, <xref rid="jmv70582-bib-0040" ref-type="bibr">40</xref>]. Moreover, one study that applied a highly sensitive digital droplet PCR specifically linked SARS‐CoV‐2 persistence with LC symptomatology [<xref rid="jmv70582-bib-0041" ref-type="bibr">41</xref>]. However, replication‐competent virus has not been detected in LC patients, as studies to date have only identified viral RNA or proteins. In our study, SARS‐CoV‐2 RNA was not detected in serum, possibly because the virus persists primarily in tissues with minimal shedding into the circulation, requiring more sensitive detection techniques. Nonetheless, the elevated nucleocapsid IgG levels in LC patients suggests persistence of this protein and possibly of viral particles, although this may also reflect the shorter interval between infection and sampling in the LC cohort.</p><p>Immunological imprinting has also been observed across SARS‐CoV‐2 variants, as shown by the dominance of Wuhan strain‐specific memory B cells following Omicron XBB1.5 booster vaccination [<xref rid="jmv70582-bib-0042" ref-type="bibr">42</xref>]. Thus, immunological imprinting might also have occurred following exposure to the spike protein of an earlier SARS‐CoV‐2 variant, either through infection or vaccination, and subsequently being infected with a new variant, leading to immune escape and persistence of this variant. This could explain the occurrence of new‐onset LC cases following SARS‐CoV‐2 reinfections [<xref rid="jmv70582-bib-0043" ref-type="bibr">43</xref>, <xref rid="jmv70582-bib-0044" ref-type="bibr">44</xref>]. Unfortunately, we were unable to test imprinting by previous variants due to variant heterogeneity among participants in the LC and HC groups. Nevertheless, we attempted to determine whether HKU1 and OC43 induced imprinting differed between LC patients infected with distinct SARS‐CoV‐2 variants but were unable to associate these responses with any particular variant.</p><p>Given the potential link between herpesvirus reactivation and LC pathophysiology, we also explored this aspect in our cohort. Reactivation of herpesviruses has been widely documented during the acute phase of COVID‐19, with more severe cases showing higher reactivation rates [<xref rid="jmv70582-bib-0045" ref-type="bibr">45</xref>]. Possibly, this reactivation might be extended into the post‐acute phase, as recent studies reported ongoing herpesvirus reactivation in LC patients. In particular an active EBV [<xref rid="jmv70582-bib-0046" ref-type="bibr">46</xref>, <xref rid="jmv70582-bib-0047" ref-type="bibr">47</xref>] and HHV‐6 [<xref rid="jmv70582-bib-0048" ref-type="bibr">48</xref>, <xref rid="jmv70582-bib-0049" ref-type="bibr">49</xref>] infection has already been related to myalgic encephalomyelitis/chronic fatigue syndrome (ME/CFS), a condition with highly similar clinical features as LC [<xref rid="jmv70582-bib-0050" ref-type="bibr">50</xref>]. Reactivation of EBV and HHV6 may contribute to LC through several mechanisms, such as by molecular mimicry where antibodies against EBV proteins cross‐react with human proteins [<xref rid="jmv70582-bib-0051" ref-type="bibr">51</xref>, <xref rid="jmv70582-bib-0052" ref-type="bibr">52</xref>, <xref rid="jmv70582-bib-0053" ref-type="bibr">53</xref>, <xref rid="jmv70582-bib-0054" ref-type="bibr">54</xref>, <xref rid="jmv70582-bib-0055" ref-type="bibr">55</xref>].</p><p>In LC cohort studies, increased EBV antibody levels were observed in 66.7% of cases, as indicated by EA‐D IgG or VCA IgM positivity, indicative for reactivation [<xref rid="jmv70582-bib-0056" ref-type="bibr">56</xref>]. Other studies detected DNA of EBV, HHV‐6, or both in saliva and mucous membranes in 72.3% of LC patients and EBV DNA in throat washings of 50% of LC patients, whereas EBV viremia was observed in none, 2.3%, and 14% of LC patients [<xref rid="jmv70582-bib-0035" ref-type="bibr">35</xref>, <xref rid="jmv70582-bib-0057" ref-type="bibr">57</xref>, <xref rid="jmv70582-bib-0058" ref-type="bibr">58</xref>, <xref rid="jmv70582-bib-0059" ref-type="bibr">59</xref>]. In our study, all LC patients tested negative for EBV, CMV, VZV, HSV‐1, HSV‐2, and HHV‐6 DNA, except for one individual who tested positive for HHV‐6. This suggests that viremia was no longer detectable during blood collection (i.e., mostly beyond 9 months after SARS‐CoV‐2 infection). Nevertheless, it remains plausible that reactivation occurred only during or shortly after the acute SARS‐CoV‐2 infection, as other studies have indicated [<xref rid="jmv70582-bib-0045" ref-type="bibr">45</xref>]. Therefore, we also analyzed herpesvirus‐specific antibody profiles in LC patients and compared them with those in HC. Although herpesvirus DNA detection remains the gold standard for assessing reactivation, increased antibody levels may also indicate a recent infection or reactivation event, despite being a less sensitive and specific measure. Interestingly, while EBV IgG levels were not statistically higher in LC patients, we observed a trend toward increased average IgG levels against most EBV antigens, including EA‐D and Rta, which are typically associated with recent active infection [<xref rid="jmv70582-bib-0060" ref-type="bibr">60</xref>, <xref rid="jmv70582-bib-0061" ref-type="bibr">61</xref>]. However, unlike some previous studies [<xref rid="jmv70582-bib-0056" ref-type="bibr">56</xref>, <xref rid="jmv70582-bib-0059" ref-type="bibr">59</xref>], our findings did not reveal an association between EBV antibody levels and fatigue or cognitive disturbances.</p><p>Surprisingly, CMV p65 IgG levels were decreased and negatively correlated with fatigue severity in LC patients. A recent study involving 208 LC patients reported similar findings as individuals with a prior CMV infection were less likely to specifically develop neurocognitive symptoms. It remains uncertain how CMV or CMV‐specific antibodies could be related to LC symptomatology, but it is speculated that a stronger adaptive immune response against SARS‐CoV‐2 is mounted in individuals with a more recent CMV infection since this was also observed in influenza vaccinees [<xref rid="jmv70582-bib-0059" ref-type="bibr">59</xref>]. Nevertheless, further studies should validate above findings in independent LC cohorts.</p><p>To investigate autoimmunity in our LC cohort, we employed an elaborate ANA panel containing nuclear antigens associated with systemic autoimmune diseases. ANAs can arise following heightened type I interferon (IFN) production in response to viral infections, which may explain why we detected ANAs in several healthy controls [<xref rid="jmv70582-bib-0062" ref-type="bibr">62</xref>]. This aligns with previous studies reporting increased ANA levels in COVID‐19 patients and convalescents, regardless of LC development [<xref rid="jmv70582-bib-0063" ref-type="bibr">63</xref>, <xref rid="jmv70582-bib-0064" ref-type="bibr">64</xref>]. Persistent SARS‐CoV‐2 infection may sustain elevated type I IFN levels and ongoing ANA production. However, unlike a few previous studies that reported increased ANAs in LC patients up to 12 months post SARS‐CoV‐2 infection, we could not confirm such elevations in our cohort [<xref rid="jmv70582-bib-0064" ref-type="bibr">64</xref>, <xref rid="jmv70582-bib-0065" ref-type="bibr">65</xref>].</p><p>A strength of this study is the confirmation of previously reported immunological imprinting by seasonal coronaviruses in a larger, independent cohort of LC patients with comparison to previously SARS‐CoV‐2 infected patients without LC. Additionally, while most studies have either focused on the detection of DNA or the presence of antibodies for a limited number of herpesviruses, we employed both approaches to comprehensively assess most human herpesviruses. However, several limitations should be acknowledged. HC samples were collected a median of 316 days later post‐SARS‐CoV‐2 infection than LC patient samples (596 days vs. 280 days, respectively), possibly affecting results as different SARS‐CoV‐2 variants circulated during this interval. Also, we were restricted in the extent of antibody analyses. Detailed analysis of B cell clones, for example through single‐cell sequencing and antibody binding assays, is essential to understand how immunological imprinting and impaired isotype switching shape the antibody responses in LC.</p><p>In conclusion, this study underscores the potential involvement of immunological imprinting by seasonal coronaviruses and impaired class switching of SARS‐CoV‐2 antibodies in LC. These mechanisms could lead to decreased SARS‐CoV‐2 anti‐spike IgG levels, resulting in impaired SARS‐CoV‐2 clearance. Our comprehensive analysis of multiple herpesviruses further suggests a potential involvement of CMV or CMV p65‐specific IgG antibodies with LC symptoms. These findings provide valuable insights into potential mechanisms of LC, warranting further investigation with in‐depth analyses.</p></sec><sec id="jmv70582-sec-0160"><title>Author Contributions</title><p>W. Ashwin Mak and David S. Y. Ong conceptualized the study. W. Ashwin Mak, Daphne Wapperom, Anne‐Lotte Redel, and Pieter W. Smit were involved in investigation and data curation. W. Ashwin Mak, Hung‐Jen Chen, Jeroen den Dunnen, and David S. Y. Ong conducted formal analyzes. W. Ashwin Mak visualized the data. Anne‐Lotte Redel, Johannes G. M. Koeleman, Wai‐Kwan Lam‐Tse, Tom van der Poll, Hung‐Jen Chen, Jeroen den Dunnen, Gert‐Jan Braunstahl, and David S. Y. Ong provided feedback and guidance supporting and interpreting analysis. David S. Y. Ong and Gert‐Jan Braunstahl provided supervision. W. Ashwin Mak wrote the original draft and all authors contributed, edited, and approved the final article.</p></sec><sec sec-type="COI-statement" id="jmv70582-sec-0180"><title>Conflicts of Interest</title><p>The authors declare no conflicts of interest.</p></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material id="jmv70582-suppl-0001" position="float" content-type="local-data" orientation="portrait"><caption><p>
+<bold>Supplementary Table 1:</bold> Associatons between anti‐coronavirus antibodies and fatigue and cognitive failure severity in LC patients. <bold>Supplementary Figure 1:</bold> SARS‐CoV‐2‐specific IgG, IgA, and IgM antibody levels in LC patients infected with the Alpha, Delta, or Omicron variant. <bold>Supplementary Figure 2:</bold> HKU1 and OC43 spike‐specific antibody levels in LC patients infected with the Alpha, Delta, or Omicron variant.</p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="JMV-97-e70582-s001.pdf" position="float" orientation="portrait"/></supplementary-material></sec></body><back><ack id="jmv70582-sec-0170"><title>Acknowledgments</title><p>We sincerely thank all participants for their valuable contributions by providing samples for this study. The study was supported by the Franciscus Hospital, Rotterdam, the Netherlands.</p></ack><sec sec-type="data-availability" id="jmv70582-sec-0200"><title>Data Availability Statement</title><p>The data that support the findings of this study are available from the corresponding author upon reasonable request.</p></sec><ref-list content-type="cited-references" id="jmv70582-bibl-0001"><title>References</title><ref id="jmv70582-bib-0001"><label>1</label><mixed-citation publication-type="journal" id="jmv70582-cit-0001">
+<string-name name-style="western">
+<given-names>A. V.</given-names>
+<surname>Ballering</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S. K. R.</given-names>
+<surname>Van Zon</surname>
+</string-name>, <string-name name-style="western">
+<given-names>T. C.</given-names>
+<surname>Olde Hartman</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>J. G. M.</given-names>
+<surname>Rosmalen</surname>
+</string-name>, “<article-title>Persistence of Somatic Symptoms After COVID‐19 in the Netherlands: An Observational Cohort Study</article-title>,” <source>Lancet</source>
+<volume>400</volume>, no. <issue>10350</issue> (<year>2022</year>): <fpage>452</fpage>–<lpage>461</lpage>, <pub-id pub-id-type="doi">10.1016/s0140-6736(22)01214-4</pub-id>.<pub-id pub-id-type="pmid">35934007</pub-id>
+<pub-id pub-id-type="pmcid">PMC9352274</pub-id></mixed-citation></ref><ref id="jmv70582-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="jmv70582-cit-0002">
+<string-name name-style="western">
+<given-names>Z.</given-names>
+<surname>Fang</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Ahrnsbrak</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Rekito</surname>
+</string-name>, “<article-title>Evidence Mounts That About 7% of US Adults Have Had Long COVID</article-title>,” <source>Journal of the American Medical Association (Chicago, IL)</source>
+<volume>332</volume> (<year>2024</year>): <fpage>5</fpage>, <pub-id pub-id-type="doi">10.1001/jama.2024.11370</pub-id>.<pub-id pub-id-type="pmid">38848092</pub-id></mixed-citation></ref><ref id="jmv70582-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="jmv70582-cit-0003">
+<string-name name-style="western">
+<given-names>L. L.</given-names>
+<surname>O'Mahoney</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Routen</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Gillies</surname>
+</string-name>, et al., “<article-title>The Prevalence and Long‐Term Health Effects of Long Covid Among Hospitalised and Non‐Hospitalised Populations: A Systematic Review and Meta‐Analysis</article-title>,” <source>EClinicalMedicine</source>
+<volume>55</volume> (<year>2023</year>): <elocation-id>101762</elocation-id>, <pub-id pub-id-type="doi">10.1016/j.eclinm.2022.101762</pub-id>.<pub-id pub-id-type="pmid">36474804</pub-id>
+<pub-id pub-id-type="pmcid">PMC9714474</pub-id></mixed-citation></ref><ref id="jmv70582-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="jmv70582-cit-0004">
+<string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Kim</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Bae</surname>
+</string-name>, <string-name name-style="western">
+<given-names>H. H.</given-names>
+<surname>Chang</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>S. W.</given-names>
+<surname>Kim</surname>
+</string-name>, “<article-title>Long COVID Prevalence and Impact on Quality of Life 2 Years After Acute Covid‐19</article-title>,” <source>Scientific Reports</source>
+<volume>13</volume>, no. <issue>1</issue> (<year>2023</year>): <elocation-id>11207</elocation-id>, <pub-id pub-id-type="doi">10.1038/s41598-023-36995-4</pub-id>.<pub-id pub-id-type="pmid">37433819</pub-id>
+<pub-id pub-id-type="pmcid">PMC10336045</pub-id></mixed-citation></ref><ref id="jmv70582-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="jmv70582-cit-0005">
+<string-name name-style="western">
+<given-names>E. W.</given-names>
+<surname>Ely</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L. M.</given-names>
+<surname>Brown</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>H. V.</given-names>
+<surname>Fineberg</surname>
+</string-name>, “<article-title>Long Covid Defined</article-title>,” <source>New England Journal of Medicine</source>
+<volume>391</volume>, no. <issue>18</issue> (<year>2024</year>): <fpage>1746</fpage>–<lpage>1753</lpage>, <pub-id pub-id-type="doi">10.1056/NEJMsb2408466</pub-id>.<pub-id pub-id-type="pmid">39083764</pub-id>
+<pub-id pub-id-type="pmcid">PMC11687645</pub-id></mixed-citation></ref><ref id="jmv70582-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="jmv70582-cit-0006">
+<string-name name-style="western">
+<given-names>H. E.</given-names>
+<surname>Davis</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L.</given-names>
+<surname>McCorkell</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J. M.</given-names>
+<surname>Vogel</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>E. J.</given-names>
+<surname>Topol</surname>
+</string-name>, “<article-title>Long COVID: Major Findings, Mechanisms and Recommendations</article-title>,” <source>Nature Reviews Microbiology</source>
+<volume>21</volume>, no. <issue>3</issue> (<year>2023</year>): <fpage>133</fpage>–<lpage>146</lpage>, <pub-id pub-id-type="doi">10.1038/s41579-022-00846-2</pub-id>.<pub-id pub-id-type="pmid">36639608</pub-id>
+<pub-id pub-id-type="pmcid">PMC9839201</pub-id></mixed-citation></ref><ref id="jmv70582-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="jmv70582-cit-0007">
+<string-name name-style="western">
+<given-names>D. M.</given-names>
+<surname>Altmann</surname>
+</string-name>, <string-name name-style="western">
+<given-names>E. M.</given-names>
+<surname>Whettlock</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D. J.</given-names>
+<surname>Arachchillage</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>R. J.</given-names>
+<surname>Boyton</surname>
+</string-name>, “<article-title>The Immunology of Long COVID</article-title>,” <source>Nature Reviews Immunology</source>
+<volume>23</volume>, no. <issue>10</issue> (<year>2023</year>): <fpage>618</fpage>–<lpage>634</lpage>, <pub-id pub-id-type="doi">10.1038/s41577-023-00904-7</pub-id>.<pub-id pub-id-type="pmid">37433988</pub-id></mixed-citation></ref><ref id="jmv70582-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="jmv70582-cit-0008">
+<string-name name-style="western">
+<given-names>B.</given-names>
+<surname>Krishna</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Wills</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>N.</given-names>
+<surname>Sithole</surname>
+</string-name>, “<article-title>Long COVID: What is Known and What Gaps Need to be Addressed</article-title>,” <source>British Medical Bulletin</source>
+<volume>147</volume>, no. <issue>1</issue> (<year>2023</year>): <fpage>6</fpage>–<lpage>19</lpage>, <pub-id pub-id-type="doi">10.1093/bmb/ldad016</pub-id>.<pub-id pub-id-type="pmid">37434326</pub-id>
+<pub-id pub-id-type="pmcid">PMC10502447</pub-id></mixed-citation></ref><ref id="jmv70582-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="jmv70582-cit-0009">
+<string-name name-style="western">
+<given-names>Z. A.</given-names>
+<surname>Sherif</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C. R.</given-names>
+<surname>Gomez</surname>
+</string-name>, <string-name name-style="western">
+<given-names>T. J.</given-names>
+<surname>Connors</surname>
+</string-name>, <string-name name-style="western">
+<given-names>T. J.</given-names>
+<surname>Henrich</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>W. B.</given-names>
+<surname>Reeves</surname>
+</string-name>, “<article-title>Pathogenic Mechanisms of Post‐Acute Sequelae of SARS‐CoV‐2 Infection (PASC)</article-title>,” <source>eLife</source>
+<volume>12</volume> (<year>2023</year>): <elocation-id>e86002</elocation-id>, <pub-id pub-id-type="doi">10.7554/eLife.86002</pub-id>.<pub-id pub-id-type="pmid">36947108</pub-id>
+<pub-id pub-id-type="pmcid">PMC10032659</pub-id></mixed-citation></ref><ref id="jmv70582-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="jmv70582-cit-0010">
+<string-name name-style="western">
+<given-names>M. J.</given-names>
+<surname>Peluso</surname>
+</string-name> and <string-name name-style="western">
+<given-names>S. G.</given-names>
+<surname>Deeks</surname>
+</string-name>, “<article-title>Mechanisms of Long Covid and the Path Toward Therapeutics</article-title>,” <source>Cell</source>
+<volume>187</volume>, no. <issue>20</issue> (<year>2024</year>): <fpage>5500</fpage>–<lpage>5529</lpage>, From NLM Medline, <pub-id pub-id-type="doi">10.1016/j.cell.2024.07.054</pub-id>.<pub-id pub-id-type="pmid">39326415</pub-id>
+<pub-id pub-id-type="pmcid">PMC11455603</pub-id></mixed-citation></ref><ref id="jmv70582-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="jmv70582-cit-0011">
+<string-name name-style="western">
+<given-names>D. L.</given-names>
+<surname>Kolson</surname>
+</string-name>, “<article-title>Can Immunological Imprinting Drive Neurological Dysfunction in Long Covid?</article-title>,” <source>Brain</source>
+<volume>146</volume>, no. <issue>10</issue> (<year>2023</year>): <fpage>3960</fpage>–<lpage>3962</lpage>, <pub-id pub-id-type="doi">10.1093/brain/awad307</pub-id>.<pub-id pub-id-type="pmid">37681523</pub-id>
+<pub-id pub-id-type="pmcid">PMC11004940</pub-id></mixed-citation></ref><ref id="jmv70582-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="jmv70582-cit-0012">
+<string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Vatti</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D. M.</given-names>
+<surname>Monsalve</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Pacheco</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Chang</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J. M.</given-names>
+<surname>Anaya</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>M. E.</given-names>
+<surname>Gershwin</surname>
+</string-name>, “<article-title>Original Antigenic Sin: A Comprehensive Review</article-title>,” <source>Journal of Autoimmunity</source>
+<volume>83</volume> (<year>2017</year>): <fpage>12</fpage>–<lpage>21</lpage>, <pub-id pub-id-type="doi">10.1016/j.jaut.2017.04.008</pub-id>.<pub-id pub-id-type="pmid">28479213</pub-id>
+</mixed-citation></ref><ref id="jmv70582-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="jmv70582-cit-0013">
+<string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Braun</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Loyal</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Frentsch</surname>
+</string-name>, et al., “<article-title>SARS‐CoV‐2‐reactive T Cells In Healthy Donors and Patients With Covid‐19</article-title>,” <source>Nature</source>
+<volume>587</volume>, no. <issue>7833</issue> (<year>2020</year>): <fpage>270</fpage>–<lpage>274</lpage>, From NLM Medline, <pub-id pub-id-type="doi">10.1038/s41586-020-2598-9</pub-id>.<pub-id pub-id-type="pmid">32726801</pub-id>
+</mixed-citation></ref><ref id="jmv70582-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="jmv70582-cit-0014">
+<string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Hicks</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Klumpp‐Thomas</surname>
+</string-name>, <string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Kalish</surname>
+</string-name>, et al., “<article-title>Serologic Cross‐Reactivity of SARS‐CoV‐2 With Endemic and Seasonal Betacoronaviruses</article-title>,” <source>Journal of Clinical Immunology</source>
+<volume>41</volume>, no. <issue>5</issue> (<year>2021</year>): <fpage>906</fpage>–<lpage>913</lpage>, <pub-id pub-id-type="doi">10.1007/s10875-021-00997-6</pub-id>.<pub-id pub-id-type="pmid">33725211</pub-id>
+<pub-id pub-id-type="pmcid">PMC7962425</pub-id></mixed-citation></ref><ref id="jmv70582-bib-0015"><label>15</label><mixed-citation publication-type="journal" id="jmv70582-cit-0015">
+<string-name name-style="western">
+<given-names>J. I.</given-names>
+<surname>Cohen</surname>
+</string-name>, “<article-title>Herpesvirus Latency</article-title>,” <source>Journal of Clinical Investigation</source>
+<volume>130</volume>, no. <issue>7</issue> (<year>2020</year>): <fpage>3361</fpage>–<lpage>3369</lpage>, <pub-id pub-id-type="doi">10.1172/JCI136225</pub-id>.<pub-id pub-id-type="pmid">32364538</pub-id>
+<pub-id pub-id-type="pmcid">PMC7324166</pub-id></mixed-citation></ref><ref id="jmv70582-bib-0016"><label>16</label><mixed-citation publication-type="journal" id="jmv70582-cit-0016">
+<string-name name-style="western">
+<given-names>T.</given-names>
+<surname>Stoeger</surname>
+</string-name> and <string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Adler</surname>
+</string-name>, “<article-title>Novel” Triggers of Herpesvirus Reactivation and Their Potential Health Relevance</article-title>,” <source>Frontiers in Microbiology</source>
+<volume>9</volume> (<year>2019</year>): <elocation-id>3207</elocation-id>, <pub-id pub-id-type="doi">10.3389/fmicb.2018.03207</pub-id>.<pub-id pub-id-type="pmid">30666238</pub-id>
+<pub-id pub-id-type="pmcid">PMC6330347</pub-id></mixed-citation></ref><ref id="jmv70582-bib-0017"><label>17</label><mixed-citation publication-type="journal" id="jmv70582-cit-0017">
+<string-name name-style="western">
+<given-names>G.</given-names>
+<surname>Houen</surname>
+</string-name> and <string-name name-style="western">
+<given-names>N. H.</given-names>
+<surname>Trier</surname>
+</string-name>, “<article-title>Epstein‐Barr Virus and Systemic Autoimmune Diseases</article-title>,” <source>Frontiers in Immunology</source>
+<volume>11</volume> (<year>2021</year>): <elocation-id>587380</elocation-id>, <pub-id pub-id-type="doi">10.3389/fimmu.2020.587380</pub-id>.<pub-id pub-id-type="pmid">33488588</pub-id>
+<pub-id pub-id-type="pmcid">PMC7817975</pub-id></mixed-citation></ref><ref id="jmv70582-bib-0018"><label>18</label><mixed-citation publication-type="journal" id="jmv70582-cit-0018">
+<string-name name-style="western">
+<given-names>W. H.</given-names>
+<surname>Robinson</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Younis</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Z. Z.</given-names>
+<surname>Love</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Steinman</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>T. V.</given-names>
+<surname>Lanz</surname>
+</string-name>, “<article-title>Epstein‐Barr Virus as a Potentiator of Autoimmune Diseases</article-title>,” <source>Nature Reviews Rheumatology</source>
+<volume>20</volume>, no. <issue>11</issue> (<year>2024</year>): <fpage>729</fpage>–<lpage>740</lpage>, <pub-id pub-id-type="doi">10.1038/s41584-024-01167-9</pub-id>.<pub-id pub-id-type="pmid">39390260</pub-id>
+</mixed-citation></ref><ref id="jmv70582-bib-0019"><label>19</label><mixed-citation publication-type="journal" id="jmv70582-cit-0019">
+<string-name name-style="western">
+<given-names>A. L.</given-names>
+<surname>Redel</surname>
+</string-name>, <string-name name-style="western">
+<given-names>F.</given-names>
+<surname>Miry</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M. E.</given-names>
+<surname>Hellemons</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L. M. A.</given-names>
+<surname>Oswald</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>G. J.</given-names>
+<surname>Braunstahl</surname>
+</string-name>, “<article-title>Effect of Lactoferrin Treatment on Symptoms and Physical Performance in Long Covid Patients: A Randomised, Double‐Blind, Placebo‐Controlled Trial</article-title>,” <source>ERJ Open Research</source>
+<volume>10</volume>, no. <issue>4</issue> (<year>2024</year>): <elocation-id>00031‐2024</elocation-id>, <pub-id pub-id-type="doi">10.1183/23120541.00031-2024</pub-id>.<pub-id pub-id-type="pmid">39076533</pub-id>
+<pub-id pub-id-type="pmcid">PMC11284587</pub-id></mixed-citation></ref><ref id="jmv70582-bib-0020"><label>20</label><mixed-citation publication-type="book" id="jmv70582-cit-0020">
+<string-name name-style="western">
+<given-names>J. A.</given-names>
+<surname>Appiah</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A. L.</given-names>
+<surname>Cramond</surname>
+</string-name>, <string-name name-style="western">
+<given-names>V.</given-names>
+<surname>De</surname>
+</string-name>, et al., <source>A Clinical Case Definition for Post COVID‐19 Condition in Children and Adolescents by Expert Consensus</source> (<publisher-name>World Health Organization</publisher-name>, <year>2023</year>).</mixed-citation></ref><ref id="jmv70582-bib-0021"><label>21</label><mixed-citation publication-type="journal" id="jmv70582-cit-0021">
+<string-name name-style="western">
+<given-names>M. R.</given-names>
+<surname>Faas</surname>
+</string-name>, <string-name name-style="western">
+<given-names>W. A.</given-names>
+<surname>Mak</surname>
+</string-name>, <string-name name-style="western">
+<given-names>H. Y.</given-names>
+<surname>Markus</surname>
+</string-name>, et al., “<article-title>Dynamics of Antibody and T Cell Immunity Against SARS‐CoV‐2 Variants of Concern and the Impact of Booster Vaccinations in Previously Infected and Infection‐Naïve Individuals</article-title>,” <source>Vaccines</source>
+<volume>10</volume>, no. <issue>12</issue> (<year>2022</year>): <elocation-id>2132</elocation-id>, <pub-id pub-id-type="doi">10.3390/vaccines10122132</pub-id>.<pub-id pub-id-type="pmid">36560542</pub-id>
+<pub-id pub-id-type="pmcid">PMC9784197</pub-id></mixed-citation></ref><ref id="jmv70582-bib-0022"><label>22</label><mixed-citation publication-type="journal" id="jmv70582-cit-0022">
+<string-name name-style="western">
+<given-names>W. A.</given-names>
+<surname>Mak</surname>
+</string-name>, <string-name name-style="western">
+<given-names>W.</given-names>
+<surname>Visser</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Van Der Vliet</surname>
+</string-name>, <string-name name-style="western">
+<given-names>H. Y.</given-names>
+<surname>Markus</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J. G. M.</given-names>
+<surname>Koeleman</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>D. S. Y.</given-names>
+<surname>Ong</surname>
+</string-name>, “<article-title>Ancestral SARS‐CoV‐2 and Omicron BA.5‐specific Neutralizing Antibody and T‐Cell Responses After Omicron Bivalent Booster Vaccination in Previously Infected and Infection‐Naive Individuals</article-title>,” <source>Journal of Medical Virology</source>
+<volume>95</volume>, no. <issue>8</issue> (<year>2023</year>): <elocation-id>e28989</elocation-id>, <pub-id pub-id-type="doi">10.1002/jmv.28989</pub-id>.<pub-id pub-id-type="pmid">37565645</pub-id>
+</mixed-citation></ref><ref id="jmv70582-bib-0023"><label>23</label><mixed-citation publication-type="journal" id="jmv70582-cit-0023">
+<string-name name-style="western">
+<given-names>A. S.</given-names>
+<surname>Monto</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R. E.</given-names>
+<surname>Malosh</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J. G.</given-names>
+<surname>Petrie</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>E. T.</given-names>
+<surname>Martin</surname>
+</string-name>, “<article-title>The Doctrine of Original Antigenic Sin: Separating Good From Evil</article-title>,” <source>Journal of Infectious Diseases</source>
+<volume>215</volume>, no. <issue>12</issue> (<year>2017</year>): <fpage>1782</fpage>–<lpage>1788</lpage>, <pub-id pub-id-type="doi">10.1093/infdis/jix173</pub-id>.<pub-id pub-id-type="pmid">28398521</pub-id>
+<pub-id pub-id-type="pmcid">PMC5853211</pub-id></mixed-citation></ref><ref id="jmv70582-bib-0024"><label>24</label><mixed-citation publication-type="journal" id="jmv70582-cit-0024">
+<string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Aguilar‐Bretones</surname>
+</string-name>, <string-name name-style="western">
+<given-names>B. M.</given-names>
+<surname>Westerhuis</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M. P.</given-names>
+<surname>Raadsen</surname>
+</string-name>, et al., “<article-title>Seasonal Coronavirus‐Specific B Cells With Limited SARS‐CoV‐2 Cross‐Reactivity Dominate the IgG Response in Severe Covid‐19</article-title>,” <source>Journal of Clinical Investigation</source>
+<volume>131</volume>, no. <issue>21</issue> (<year>2021</year>): <elocation-id>eux150613</elocation-id>, <pub-id pub-id-type="doi">10.1172/JCI150613</pub-id>.<pub-id pub-id-type="pmcid">PMC8553556</pub-id><pub-id pub-id-type="pmid">34499051</pub-id></mixed-citation></ref><ref id="jmv70582-bib-0025"><label>25</label><mixed-citation publication-type="journal" id="jmv70582-cit-0025">
+<string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Spatola</surname>
+</string-name>, <string-name name-style="western">
+<given-names>N.</given-names>
+<surname>Nziza</surname>
+</string-name>, <string-name name-style="western">
+<given-names>W.</given-names>
+<surname>Jung</surname>
+</string-name>, et al., “<article-title>Neurologic Sequelae of COVID‐19 are Determined by Immunologic Imprinting From Previous Coronaviruses</article-title>,” <source>Brain</source>
+<volume>146</volume>, no. <issue>10</issue> (<year>2023</year>): <fpage>4292</fpage>–<lpage>4305</lpage>, <pub-id pub-id-type="doi">10.1093/brain/awad155</pub-id>.<pub-id pub-id-type="pmid">37161609</pub-id>
+<pub-id pub-id-type="pmcid">PMC11004923</pub-id></mixed-citation></ref><ref id="jmv70582-bib-0026"><label>26</label><mixed-citation publication-type="journal" id="jmv70582-cit-0026">
+<string-name name-style="western">
+<given-names>J. D.</given-names>
+<surname>Herman</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Atyeo</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Zur</surname>
+</string-name>, et al., “<article-title>Humoral Immunity to an Endemic Coronavirus is Associated With Postacute Sequelae of COVID‐19 in Individuals With Rheumatic Diseases</article-title>,” <source>Science Translational Medicine</source>
+<volume>15</volume>, no. <issue>712</issue> (<year>2023</year>): <elocation-id>eadf6598</elocation-id>, <pub-id pub-id-type="doi">10.1126/scitranslmed.adf6598</pub-id>.<pub-id pub-id-type="pmid">37672567</pub-id>
+<pub-id pub-id-type="pmcid">PMC10764151</pub-id></mixed-citation></ref><ref id="jmv70582-bib-0027"><label>27</label><mixed-citation publication-type="journal" id="jmv70582-cit-0027">
+<string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Yu</surname>
+</string-name> and <string-name name-style="western">
+<given-names>M. R.</given-names>
+<surname>Lieber</surname>
+</string-name>, “<article-title>Current Insights Into the Mechanism of Mammalian Immunoglobulin Class Switch Recombination</article-title>,” <source>Critical Reviews in Biochemistry and Molecular Biology</source>
+<volume>54</volume>, no. <issue>4</issue> (<year>2019</year>): <fpage>333</fpage>–<lpage>351</lpage>, <pub-id pub-id-type="doi">10.1080/10409238.2019.1659227</pub-id>.<pub-id pub-id-type="pmid">31509023</pub-id>
+<pub-id pub-id-type="pmcid">PMC6856442</pub-id></mixed-citation></ref><ref id="jmv70582-bib-0028"><label>28</label><mixed-citation publication-type="journal" id="jmv70582-cit-0028">
+<string-name name-style="western">
+<given-names>N.</given-names>
+<surname>Ortega</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Ribes</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Vidal</surname>
+</string-name>, et al., “<article-title>Seven‐Month Kinetics of SARS‐CoV‐2 Antibodies and Role of Pre‐Existing Antibodies to Human Coronaviruses</article-title>,” <source>Nature Communications</source>
+<volume>12</volume>, no. <issue>1</issue> (<year>2021</year>): <fpage>4740</fpage>, <pub-id pub-id-type="doi">10.1038/s41467-021-24979-9</pub-id>.<pub-id pub-id-type="pmcid">PMC8346582</pub-id><pub-id pub-id-type="pmid">34362897</pub-id></mixed-citation></ref><ref id="jmv70582-bib-0029"><label>29</label><mixed-citation publication-type="journal" id="jmv70582-cit-0029">
+<string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Rubio</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Macià</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Barrios</surname>
+</string-name>, et al., “<article-title>High‐Resolution Kinetics and Cellular Determinants of SARS‐CoV‐2 Antibody Response over Two Years After COVID‐19 Vaccination</article-title>,” <source>Microbes and Infection</source>
+<volume>27</volume> (<year>2025</year>): <elocation-id>105423</elocation-id>, <pub-id pub-id-type="doi">10.1016/j.micinf.2024.105423</pub-id>.<pub-id pub-id-type="pmid">39299570</pub-id>
+</mixed-citation></ref><ref id="jmv70582-bib-0030"><label>30</label><mixed-citation publication-type="journal" id="jmv70582-cit-0030">
+<string-name name-style="western">
+<given-names>T.</given-names>
+<surname>Inoue</surname>
+</string-name> and <string-name name-style="western">
+<given-names>T.</given-names>
+<surname>Kurosaki</surname>
+</string-name>, “<article-title>Memory B Cells</article-title>,” <source>Nature Reviews Immunology</source>
+<volume>24</volume>, no. <issue>1</issue> (<year>2024</year>): <fpage>5</fpage>–<lpage>17</lpage>, <pub-id pub-id-type="doi">10.1038/s41577-023-00897-3</pub-id>.<pub-id pub-id-type="pmid">37400644</pub-id></mixed-citation></ref><ref id="jmv70582-bib-0031"><label>31</label><mixed-citation publication-type="journal" id="jmv70582-cit-0031">
+<string-name name-style="western">
+<given-names>S. G.</given-names>
+<surname>Tangye</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D. T.</given-names>
+<surname>Avery</surname>
+</string-name>, <string-name name-style="western">
+<given-names>E. K.</given-names>
+<surname>Deenick</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>P. D.</given-names>
+<surname>Hodgkin</surname>
+</string-name>, “<article-title>Intrinsic Differences in the Proliferation of Naive and Memory Human B Cells as a Mechanism for Enhanced Secondary Immune Responses</article-title>,” <source>Journal of Immunology</source>
+<volume>170</volume>, no. <issue>2</issue> (<year>2003</year>): <fpage>686</fpage>–<lpage>694</lpage>, <pub-id pub-id-type="doi">10.4049/jimmunol.170.2.686</pub-id>.<pub-id pub-id-type="pmid">12517929</pub-id></mixed-citation></ref><ref id="jmv70582-bib-0032"><label>32</label><mixed-citation publication-type="journal" id="jmv70582-cit-0032">
+<string-name name-style="western">
+<given-names>G.</given-names>
+<surname>Montamat</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C. E.</given-names>
+<surname>Meehan</surname>
+</string-name>, <string-name name-style="western">
+<given-names>H. F.</given-names>
+<surname>Bradford</surname>
+</string-name>, et al., “<article-title>Reduced Response to SARS‐CoV‐2 Vaccination is Associated With Impaired Immunoglobulin Class Switch Recombination in SLE Patients</article-title>,” <source>Clinical and Experimental Immunology</source>
+<volume>219</volume> (<year>2024</year>): <elocation-id>uxae119</elocation-id>, <pub-id pub-id-type="doi">10.1093/cei/uxae119</pub-id>.<pub-id pub-id-type="pmcid">PMC11773804</pub-id><pub-id pub-id-type="pmid">39658056</pub-id></mixed-citation></ref><ref id="jmv70582-bib-0033"><label>33</label><mixed-citation publication-type="journal" id="jmv70582-cit-0033">
+<string-name name-style="western">
+<given-names>V.</given-names>
+<surname>Craddock</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Mahajan</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Spikes</surname>
+</string-name>, et al., “<article-title>Persistent Circulation of Soluble and Extracellular Vesicle‐Linked Spike Protein in Individuals With Postacute Sequelae of COVID‐19</article-title>,” <source>Journal of Medical Virology</source>
+<volume>95</volume>, no. <issue>2</issue> (<year>2023</year>): <elocation-id>e28568</elocation-id>, <pub-id pub-id-type="doi">10.1002/jmv.28568</pub-id>.<pub-id pub-id-type="pmid">36756925</pub-id>
+<pub-id pub-id-type="pmcid">PMC10048846</pub-id></mixed-citation></ref><ref id="jmv70582-bib-0034"><label>34</label><mixed-citation publication-type="journal" id="jmv70582-cit-0034">
+<string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Goh</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J. C. T.</given-names>
+<surname>Lim</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S. B.</given-names>
+<surname>Fernaíndez</surname>
+</string-name>, et al., “<article-title>Case Report: Persistence of Residual Antigen and RNA of the SARS‐CoV‐2 Virus in Tissues of Two Patients With Long Covid</article-title>,” <source>Frontiers in Immunology</source>
+<volume>13</volume> (<year>2022</year>): <elocation-id>939989</elocation-id>, <pub-id pub-id-type="doi">10.3389/fimmu.2022.939989</pub-id>.<pub-id pub-id-type="pmid">36131932</pub-id>
+<pub-id pub-id-type="pmcid">PMC9483160</pub-id></mixed-citation></ref><ref id="jmv70582-bib-0035"><label>35</label><mixed-citation publication-type="journal" id="jmv70582-cit-0035">
+<string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Su</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Yuan</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D. G.</given-names>
+<surname>Chen</surname>
+</string-name>, et al., “<article-title>Multiple Early Factors Anticipate Post‐Acute COVID‐19 Sequelae</article-title>,” <source>Cell</source>
+<volume>185</volume>, no. <issue>5</issue> (<year>2022</year>): <fpage>881</fpage>–<lpage>895.e20</lpage>, <pub-id pub-id-type="doi">10.1016/j.cell.2022.01.014</pub-id>.<pub-id pub-id-type="pmid">35216672</pub-id>
+<pub-id pub-id-type="pmcid">PMC8786632</pub-id></mixed-citation></ref><ref id="jmv70582-bib-0036"><label>36</label><mixed-citation publication-type="journal" id="jmv70582-cit-0036">
+<string-name name-style="western">
+<given-names>Z.</given-names>
+<surname>Swank</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Senussi</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Z.</given-names>
+<surname>Manickas‐Hill</surname>
+</string-name>, et al., “<article-title>Persistent Circulating Severe Acute Respiratory Syndrome Coronavirus 2 Spike is Associated With Post‐Acute Coronavirus Disease 2019 Sequelae</article-title>,” <source>Clinical Infectious Diseases</source>
+<volume>76</volume>, no. <issue>3</issue> (<year>2023</year>): <fpage>e487</fpage>–<lpage>e490</lpage>, <pub-id pub-id-type="doi">10.1093/cid/ciac722</pub-id>.<pub-id pub-id-type="pmid">36052466</pub-id>
+<pub-id pub-id-type="pmcid">PMC10169416</pub-id></mixed-citation></ref><ref id="jmv70582-bib-0037"><label>37</label><mixed-citation publication-type="journal" id="jmv70582-cit-0037">
+<string-name name-style="western">
+<given-names>F.</given-names>
+<surname>Tejerina</surname>
+</string-name>, <string-name name-style="western">
+<given-names>P.</given-names>
+<surname>Catalan</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Rodriguez‐Grande</surname>
+</string-name>, et al., “<article-title>Post‐COVID‐19 Syndrome. SARS‐CoV‐2 RNA Detection in Plasma, Stool, and Urine In Patients With Persistent Symptoms After COVID‐19</article-title>,” <source>BMC Infectious Diseases</source>
+<volume>22</volume>, no. <issue>1</issue> (<year>2022</year>): <fpage>211</fpage>, <pub-id pub-id-type="doi">10.1186/s12879-022-07153-4</pub-id>.<pub-id pub-id-type="pmid">35240997</pub-id>
+<pub-id pub-id-type="pmcid">PMC8892394</pub-id></mixed-citation></ref><ref id="jmv70582-bib-0038"><label>38</label><mixed-citation publication-type="journal" id="jmv70582-cit-0038">
+<string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Viszlayová</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Sojka</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Dobrodenková</surname>
+</string-name>, et al., “<article-title>SARS‐CoV‐2 RNA in the Cerebrospinal Fluid of a Patient With Long Covid</article-title>,” <source>Therapeutic Advances in Infectious Disease</source>
+<volume>8</volume> (<year>2021</year>): <elocation-id>20499361211048572</elocation-id>, <pub-id pub-id-type="doi">10.1177/20499361211048572</pub-id>.<pub-id pub-id-type="pmid">34659752</pub-id>
+<pub-id pub-id-type="pmcid">PMC8511908</pub-id></mixed-citation></ref><ref id="jmv70582-bib-0039"><label>39</label><mixed-citation publication-type="journal" id="jmv70582-cit-0039">
+<string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Schultheiß</surname>
+</string-name>, <string-name name-style="western">
+<given-names>E.</given-names>
+<surname>Willscher</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Paschold</surname>
+</string-name>, et al., “<article-title>Liquid Biomarkers of Macrophage Dysregulation and Circulating Spike Protein Illustrate the Biological Heterogeneity in Patients With Post‐Acute Sequelae of COVID‐19</article-title>,” <source>Journal of Medical Virology</source>
+<volume>95</volume>, no. <issue>1</issue> (<year>2023</year>): <elocation-id>e28364</elocation-id>, <pub-id pub-id-type="doi">10.1002/jmv.28364</pub-id>.<pub-id pub-id-type="pmid">36458566</pub-id>
+<pub-id pub-id-type="pmcid">PMC9878213</pub-id></mixed-citation></ref><ref id="jmv70582-bib-0040"><label>40</label><mixed-citation publication-type="journal" id="jmv70582-cit-0040">
+<string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Zollner</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Koch</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Jukic</surname>
+</string-name>, et al., “<article-title>Postacute COVID‐19 is Characterized by Gut Viral Antigen Persistence in Inflammatory Bowel Diseases</article-title>,” <source>Gastroenterology</source>
+<volume>163</volume>, no. <issue>2</issue> (<year>2022</year>): <fpage>495</fpage>–<lpage>506.e8</lpage>, <pub-id pub-id-type="doi">10.1053/j.gastro.2022.04.037</pub-id>.<pub-id pub-id-type="pmid">35508284</pub-id>
+<pub-id pub-id-type="pmcid">PMC9057012</pub-id></mixed-citation></ref><ref id="jmv70582-bib-0041"><label>41</label><mixed-citation publication-type="journal" id="jmv70582-cit-0041">
+<string-name name-style="western">
+<given-names>W.</given-names>
+<surname>Zuo</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D.</given-names>
+<surname>He</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Liang</surname>
+</string-name>, et al., “<article-title>The Persistence of SARS‐CoV‐2 in Tissues and its Association With Long Covid Symptoms: A Cross‐Sectional Cohort Study in China</article-title>,” <source>Lancet Infectious Diseases</source>
+<volume>24</volume>, no. <issue>8</issue> (<year>2024</year>): <fpage>845</fpage>–<lpage>855</lpage>, <pub-id pub-id-type="doi">10.1016/S1473-3099(24)00171-3</pub-id>.<pub-id pub-id-type="pmid">38663423</pub-id>
+</mixed-citation></ref><ref id="jmv70582-bib-0042"><label>42</label><mixed-citation publication-type="journal" id="jmv70582-cit-0042">
+<string-name name-style="western">
+<given-names>M. A.</given-names>
+<surname>Tortorici</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Addetia</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A. J.</given-names>
+<surname>Seo</surname>
+</string-name>, et al., “<article-title>Persistent Immune Imprinting Occurs After Vaccination With the COVID‐19 XBB.1.5 mRNA Booster in Humans</article-title>,” <source>Immunity</source>
+<volume>57</volume>, no. <issue>4</issue> (<year>2024</year>): <fpage>904</fpage>–<lpage>911.e4</lpage>, <pub-id pub-id-type="doi">10.1016/j.immuni.2024.02.016</pub-id>.<pub-id pub-id-type="pmid">38490197</pub-id>
+<pub-id pub-id-type="pmcid">PMC12360627</pub-id></mixed-citation></ref><ref id="jmv70582-bib-0043"><label>43</label><mixed-citation publication-type="journal" id="jmv70582-cit-0043">
+<string-name name-style="western">
+<given-names>O. Y.</given-names>
+<surname>Bello‐Chavolla</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C. A.</given-names>
+<surname>Fermín‐Martínez</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Ramírez‐García</surname>
+</string-name>, et al., “<article-title>Prevalence and Determinants of Post‐Acute Sequelae After SARS‐CoV‐2 Infection (Long COVID) Among Adults in Mexico During 2022: A Retrospective Analysis of Nationally Representative Data</article-title>,” <source>Lancet Regional Health ‐ Americas</source>
+<volume>30</volume> (<year>2024</year>): <elocation-id>100688</elocation-id>, <pub-id pub-id-type="doi">10.1016/j.lana.2024.100688</pub-id>.<pub-id pub-id-type="pmid">38327277</pub-id>
+<pub-id pub-id-type="pmcid">PMC10847769</pub-id></mixed-citation></ref><ref id="jmv70582-bib-0044"><label>44</label><mixed-citation publication-type="journal" id="jmv70582-cit-0044">
+<string-name name-style="western">
+<given-names>B.</given-names>
+<surname>Bowe</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Xie</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>Z.</given-names>
+<surname>Al‐Aly</surname>
+</string-name>, “<article-title>Acute and Postacute Sequelae Associated With SARS‐CoV‐2 Reinfection</article-title>,” <source>Nature Medicine</source>
+<volume>28</volume>, no. <issue>11</issue> (<year>2022</year>): <fpage>2398</fpage>–<lpage>2405</lpage>, <pub-id pub-id-type="doi">10.1038/s41591-022-02051-3</pub-id>.<pub-id pub-id-type="pmcid">PMC9671810</pub-id><pub-id pub-id-type="pmid">36357676</pub-id></mixed-citation></ref><ref id="jmv70582-bib-0045"><label>45</label><mixed-citation publication-type="journal" id="jmv70582-cit-0045">
+<string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Shafiee</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M. M.</given-names>
+<surname>Teymouri Athar</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M. J.</given-names>
+<surname>Amini</surname>
+</string-name>, et al., “<article-title>Reactivation of Herpesviruses During COVID‐19: A Systematic Review and Meta‐Analysis</article-title>,” <source>Reviews in Medical Virology</source>
+<volume>33</volume>, no. <issue>3</issue> (<year>2023</year>): <elocation-id>e2437</elocation-id>, <pub-id pub-id-type="doi">10.1002/rmv.2437</pub-id>.<pub-id pub-id-type="pmid">36880642</pub-id>
+</mixed-citation></ref><ref id="jmv70582-bib-0046"><label>46</label><mixed-citation publication-type="journal" id="jmv70582-cit-0046">
+<string-name name-style="western">
+<given-names>E.</given-names>
+<surname>Shikova</surname>
+</string-name>, <string-name name-style="western">
+<given-names>V.</given-names>
+<surname>Reshkova</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Kumanova capital</surname>
+</string-name>, et al. On Behalf Of The European Network On Me/Cfs, E, “<part-title>Cytomegalovirus, Epstein‐Barr Virus, and Human Herpesvirus‐6 Infections in Patients With Myalgic Small ie, Cyrillicncephalomyelitis/Chronic Fatigue Syndrome</part-title>.” <source>Journal of Medical Virology</source> (<year>2020</year>). <volume>92</volume>, <issue>12</issue>
+<fpage>3682</fpage>–<lpage>3688</lpage>, <pub-id pub-id-type="doi">10.1002/jmv.25744</pub-id>.<pub-id pub-id-type="pmid">32129496</pub-id>
+<pub-id pub-id-type="pmcid">PMC7687071</pub-id></mixed-citation></ref><ref id="jmv70582-bib-0047"><label>47</label><mixed-citation publication-type="journal" id="jmv70582-cit-0047">
+<string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Ruiz‐Pablos</surname>
+</string-name>, <string-name name-style="western">
+<given-names>B.</given-names>
+<surname>Paiva</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Montero‐Mateo</surname>
+</string-name>, <string-name name-style="western">
+<given-names>N.</given-names>
+<surname>Garcia</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Zabaleta</surname>
+</string-name>, “<article-title>Epstein‐Barr Virus and the Origin of Myalgic Encephalomyelitis or Chronic Fatigue Syndrome</article-title>,” <source>Frontiers in Immunology</source>
+<volume>12</volume> (<year>2021</year>): <elocation-id>656797</elocation-id>, <pub-id pub-id-type="doi">10.3389/fimmu.2021.656797</pub-id>.<pub-id pub-id-type="pmid">34867935</pub-id>
+<pub-id pub-id-type="pmcid">PMC8634673</pub-id></mixed-citation></ref><ref id="jmv70582-bib-0048"><label>48</label><mixed-citation publication-type="journal" id="jmv70582-cit-0048">
+<string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Patnaik</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A. L.</given-names>
+<surname>Komaroff</surname>
+</string-name>, <string-name name-style="western">
+<given-names>E.</given-names>
+<surname>Conley</surname>
+</string-name>, <string-name name-style="western">
+<given-names>E. A.</given-names>
+<surname>Ojo‐Amaize</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>J. B.</given-names>
+<surname>Peter</surname>
+</string-name>, “<article-title>Prevalence of IgM Antibodies to Human Herpesvirus 6 Early Antigen (p41/38) in Patients With Chronic Fatigue Syndrome</article-title>,” <source>Journal of Infectious Diseases</source>
+<volume>172</volume>, no. <issue>5</issue> (<year>1995</year>): <fpage>1364</fpage>–<lpage>1367</lpage>, <pub-id pub-id-type="doi">10.1093/infdis/172.5.1364</pub-id>.<pub-id pub-id-type="pmid">7594679</pub-id>
+</mixed-citation></ref><ref id="jmv70582-bib-0049"><label>49</label><mixed-citation publication-type="journal" id="jmv70582-cit-0049">
+<string-name name-style="western">
+<given-names>A. L.</given-names>
+<surname>Komaroff</surname>
+</string-name>, “<article-title>Is Human herpesvirus‐6 a Trigger for Chronic Fatigue Syndrome?</article-title>,” <source>Journal of Clinical Virology</source>
+<volume>37</volume> (<year>2006</year>): <fpage>S39</fpage>–<lpage>S46</lpage>.<pub-id pub-id-type="pmid">17276367</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/S1386-6532(06)70010-5</pub-id></mixed-citation></ref><ref id="jmv70582-bib-0050"><label>50</label><mixed-citation publication-type="journal" id="jmv70582-cit-0050">
+<string-name name-style="western">
+<given-names>A. L.</given-names>
+<surname>Komaroff</surname>
+</string-name> and <string-name name-style="western">
+<given-names>W. I.</given-names>
+<surname>Lipkin</surname>
+</string-name>, “<article-title>Me/Cfs and Long COVID Share Similar Symptoms and Biological Abnormalities: Road Map to the Literature</article-title>,” <source>Frontiers in Medicine</source>
+<volume>10</volume> (<year>2023</year>): <elocation-id>1187163</elocation-id>, <pub-id pub-id-type="doi">10.3389/fmed.2023.1187163</pub-id>.<pub-id pub-id-type="pmid">37342500</pub-id>
+<pub-id pub-id-type="pmcid">PMC10278546</pub-id></mixed-citation></ref><ref id="jmv70582-bib-0051"><label>51</label><mixed-citation publication-type="journal" id="jmv70582-cit-0051">
+<string-name name-style="western">
+<given-names>M. K.</given-names>
+<surname>Smatti</surname>
+</string-name>, <string-name name-style="western">
+<given-names>F. S.</given-names>
+<surname>Cyprian</surname>
+</string-name>, <string-name name-style="western">
+<given-names>G. K.</given-names>
+<surname>Nasrallah</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A. A.</given-names>
+<surname>Al Thani</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R. O.</given-names>
+<surname>Almishal</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>H. M.</given-names>
+<surname>Yassine</surname>
+</string-name>, “<article-title>Viruses and Autoimmunity: A Review on the Potential Interaction and Molecular Mechanisms</article-title>,” <source>Viruses</source>
+<volume>11</volume>, no. <issue>8</issue> (<year>2019</year>): <elocation-id>762</elocation-id>, <pub-id pub-id-type="doi">10.3390/v11080762</pub-id>.<pub-id pub-id-type="pmid">31430946</pub-id>
+<pub-id pub-id-type="pmcid">PMC6723519</pub-id></mixed-citation></ref><ref id="jmv70582-bib-0052"><label>52</label><mixed-citation publication-type="journal" id="jmv70582-cit-0052">
+<string-name name-style="western">
+<given-names>G. S.</given-names>
+<surname>Taylor</surname>
+</string-name>, <string-name name-style="western">
+<given-names>H. M.</given-names>
+<surname>Long</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J. M.</given-names>
+<surname>Brooks</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A. B.</given-names>
+<surname>Rickinson</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>A. D.</given-names>
+<surname>Hislop</surname>
+</string-name>, “<article-title>The Immunology of Epstein‐Barr Virus‐Induced Disease</article-title>,” <source>Annual Review of Immunology</source>
+<volume>33</volume> (<year>2015</year>): <fpage>787</fpage>–<lpage>821</lpage>, <pub-id pub-id-type="doi">10.1146/annurev-immunol-032414-112326</pub-id>.<pub-id pub-id-type="pmid">25706097</pub-id></mixed-citation></ref><ref id="jmv70582-bib-0053"><label>53</label><mixed-citation publication-type="journal" id="jmv70582-cit-0053">
+<string-name name-style="western">
+<given-names>T. V.</given-names>
+<surname>Lanz</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R. C.</given-names>
+<surname>Brewer</surname>
+</string-name>, <string-name name-style="western">
+<given-names>P. P.</given-names>
+<surname>Ho</surname>
+</string-name>, et al., “<article-title>Clonally Expanded B Cells in Multiple Sclerosis Bind EBV EBNA1 and GlialCAM</article-title>,” <source>Nature</source>
+<volume>603</volume>, no. <issue>7900</issue> (<year>2022</year>): <fpage>321</fpage>–<lpage>327</lpage>, <pub-id pub-id-type="doi">10.1038/s41586-022-04432-7</pub-id>.<pub-id pub-id-type="pmid">35073561</pub-id>
+<pub-id pub-id-type="pmcid">PMC9382663</pub-id></mixed-citation></ref><ref id="jmv70582-bib-0054"><label>54</label><mixed-citation publication-type="journal" id="jmv70582-cit-0054">
+<string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Vojdani</surname>
+</string-name>, <string-name name-style="western">
+<given-names>E.</given-names>
+<surname>Vojdani</surname>
+</string-name>, <string-name name-style="western">
+<given-names>E.</given-names>
+<surname>Saidara</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Maes</surname>
+</string-name>, “<article-title>Persistent SARS‐CoV‐2 Infection, EBV, HHV‐6 and Other Factors May Contribute to Inflammation and Autoimmunity in Long COVID</article-title>,” <source>Viruses</source>
+<volume>15</volume>, no. <issue>2</issue> (<year>2023</year>): <elocation-id>400</elocation-id>, <pub-id pub-id-type="doi">10.3390/v15020400</pub-id>.<pub-id pub-id-type="pmid">36851614</pub-id>
+<pub-id pub-id-type="pmcid">PMC9967513</pub-id></mixed-citation></ref><ref id="jmv70582-bib-0055"><label>55</label><mixed-citation publication-type="journal" id="jmv70582-cit-0055">
+<string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Verma</surname>
+</string-name>, <string-name name-style="western">
+<given-names>T. M.</given-names>
+<surname>Church</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Swaminathan</surname>
+</string-name>, “<article-title>Epstein‐Barr Virus Lytic Replication Induces ACE2 Expression and Enhances SARS‐CoV‐2 Pseudotyped Virus Entry in Epithelial Cells</article-title>,” <source>Journal of Virology</source>
+<volume>95</volume>, no. <issue>13</issue> (<year>2021</year>): <elocation-id>e0019221</elocation-id>, <pub-id pub-id-type="doi">10.1128/JVI.00192-21</pub-id>.<pub-id pub-id-type="pmid">33853968</pub-id>
+<pub-id pub-id-type="pmcid">PMC8316011</pub-id></mixed-citation></ref><ref id="jmv70582-bib-0056"><label>56</label><mixed-citation publication-type="journal" id="jmv70582-cit-0056">
+<string-name name-style="western">
+<given-names>J. E.</given-names>
+<surname>Gold</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R. A.</given-names>
+<surname>Okyay</surname>
+</string-name>, <string-name name-style="western">
+<given-names>W. E.</given-names>
+<surname>Licht</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>D. J.</given-names>
+<surname>Hurley</surname>
+</string-name>, “<article-title>Investigation of Long Covid Prevalence and Its Relationship to Epstein‐Barr Virus Reactivation</article-title>,” <source>Pathogens</source>
+<volume>10</volume>, no. <issue>6</issue> (<year>2021</year>): <elocation-id>763</elocation-id>, <pub-id pub-id-type="doi">10.3390/pathogens10060763</pub-id>.<pub-id pub-id-type="pmid">34204243</pub-id>
+<pub-id pub-id-type="pmcid">PMC8233978</pub-id></mixed-citation></ref><ref id="jmv70582-bib-0057"><label>57</label><mixed-citation publication-type="journal" id="jmv70582-cit-0057">
+<string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Zubchenko</surname>
+</string-name>, <string-name name-style="western">
+<given-names>I.</given-names>
+<surname>Kril</surname>
+</string-name>, <string-name name-style="western">
+<given-names>O.</given-names>
+<surname>Nadizhko</surname>
+</string-name>, <string-name name-style="western">
+<given-names>O.</given-names>
+<surname>Matsyura</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>V.</given-names>
+<surname>Chopyak</surname>
+</string-name>, “<article-title>Herpesvirus Infections and Post‐COVID‐19 Manifestations: A Pilot Observational Study</article-title>,” <source>Rheumatology International</source>
+<volume>42</volume>, no. <issue>9</issue> (<year>2022</year>): <fpage>1523</fpage>–<lpage>1530</lpage>, <pub-id pub-id-type="doi">10.1007/s00296-022-05146-9</pub-id>.<pub-id pub-id-type="pmid">35650445</pub-id>
+<pub-id pub-id-type="pmcid">PMC9159383</pub-id></mixed-citation></ref><ref id="jmv70582-bib-0058"><label>58</label><mixed-citation publication-type="journal" id="jmv70582-cit-0058">
+<string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Rohrhofer</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Graninger</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Lettenmaier</surname>
+</string-name>, et al., “<article-title>Association Between Epstein‐Barr‐Virus Reactivation and Development of Long‐COVID Fatigue</article-title>,” <source>Allergy</source>
+<volume>78</volume>, no. <issue>1</issue> (<year>2023</year>): <fpage>297</fpage>–<lpage>299</lpage>, <pub-id pub-id-type="doi">10.1111/all.15471</pub-id>.<pub-id pub-id-type="pmid">35950630</pub-id>
+<pub-id pub-id-type="pmcid">PMC9538037</pub-id></mixed-citation></ref><ref id="jmv70582-bib-0059"><label>59</label><mixed-citation publication-type="journal" id="jmv70582-cit-0059">
+<string-name name-style="western">
+<given-names>M. J.</given-names>
+<surname>Peluso</surname>
+</string-name>, <string-name name-style="western">
+<given-names>T. M.</given-names>
+<surname>Deveau</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S. E.</given-names>
+<surname>Munter</surname>
+</string-name>, et al., “<article-title>Chronic Viral Coinfections Differentially Affect the Likelihood of Developing Long COVID</article-title>,” <source>Journal of Clinical Investigation</source>
+<volume>133</volume>, no. <issue>3</issue> (<year>2023</year>): <elocation-id>e163669</elocation-id>, <pub-id pub-id-type="doi">10.1172/JCI163669</pub-id>.<pub-id pub-id-type="pmid">36454631</pub-id>
+<pub-id pub-id-type="pmcid">PMC9888380</pub-id></mixed-citation></ref><ref id="jmv70582-bib-0060"><label>60</label><mixed-citation publication-type="journal" id="jmv70582-cit-0060">
+<string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Ali</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Ohashi</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Casco</surname>
+</string-name>, et al., “<article-title>Rta is the Principal Activator of Epstein‐Barr Virus Epithelial Lytic Transcription</article-title>,” <source>PLoS Pathogens</source>
+<volume>18</volume>, no. <issue>9</issue> (<year>2022</year>): <elocation-id>e1010886</elocation-id>, <pub-id pub-id-type="doi">10.1371/journal.ppat.1010886</pub-id>.<pub-id pub-id-type="pmid">36174106</pub-id>
+<pub-id pub-id-type="pmcid">PMC9553042</pub-id></mixed-citation></ref><ref id="jmv70582-bib-0061"><label>61</label><mixed-citation publication-type="journal" id="jmv70582-cit-0061">
+<string-name name-style="western">
+<given-names>R. A.</given-names>
+<surname>Wood</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Guthridge</surname>
+</string-name>, <string-name name-style="western">
+<given-names>E.</given-names>
+<surname>Thurmond</surname>
+</string-name>, et al., “<article-title>Serologic Markers of Epstein‐Barr Virus Reactivation are Associated With Increased Disease Activity, Inflammation, and Interferon Pathway Activation in Patients With Systemic Lupus Erythematosus</article-title>,” <source>Journal of Translational Autoimmunity</source>
+<volume>4</volume> (<year>2021</year>): <elocation-id>100117</elocation-id>, <pub-id pub-id-type="doi">10.1016/j.jtauto.2021.100117</pub-id>.<pub-id pub-id-type="pmid">35005588</pub-id>
+<pub-id pub-id-type="pmcid">PMC8716608</pub-id></mixed-citation></ref><ref id="jmv70582-bib-0062"><label>62</label><mixed-citation publication-type="journal" id="jmv70582-cit-0062">
+<string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Fernandez‐Ruiz</surname>
+</string-name> and <string-name name-style="western">
+<given-names>T. B.</given-names>
+<surname>Niewold</surname>
+</string-name>, “<article-title>Type I Interferons in Autoimmunity</article-title>,” <source>Journal of Investigative Dermatology</source>
+<volume>142</volume>, no. <issue>3 Pt B</issue> (<year>2022</year>): <fpage>793</fpage>–<lpage>803</lpage>, <pub-id pub-id-type="doi">10.1016/j.jid.2021.11.031</pub-id>.<pub-id pub-id-type="pmid">35016780</pub-id>
+<pub-id pub-id-type="pmcid">PMC8860872</pub-id></mixed-citation></ref><ref id="jmv70582-bib-0063"><label>63</label><mixed-citation publication-type="journal" id="jmv70582-cit-0063">
+<string-name name-style="western">
+<given-names>S. J.</given-names>
+<surname>Lee</surname>
+</string-name>, <string-name name-style="western">
+<given-names>T.</given-names>
+<surname>Yoon</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J. W.</given-names>
+<surname>Ha</surname>
+</string-name>, et al., “<article-title>Prevalence, Clinical Significance, and Persistence of Autoantibodies in Covid‐19</article-title>,” <source>Virology Journal</source>
+<volume>20</volume>, no. <issue>1</issue> (<year>2023</year>): <fpage>236</fpage>, <pub-id pub-id-type="doi">10.1186/s12985-023-02191-z</pub-id>.<pub-id pub-id-type="pmid">37845706</pub-id>
+<pub-id pub-id-type="pmcid">PMC10577963</pub-id></mixed-citation></ref><ref id="jmv70582-bib-0064"><label>64</label><mixed-citation publication-type="journal" id="jmv70582-cit-0064">
+<string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Son</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Jamil</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Chowdhury</surname>
+</string-name>, et al., “<article-title>Circulating Anti‐Nuclear Autoantibodies in COVID‐19 Survivors Predict Long Covid Symptoms</article-title>,” <source>European Respiratory Journal</source>
+<volume>61</volume>, no. <issue>1</issue> (<year>2022</year>): <elocation-id>2200970</elocation-id>, <pub-id pub-id-type="doi">10.1183/13993003.00970-2022</pub-id>.<pub-id pub-id-type="pmcid">PMC9515477</pub-id><pub-id pub-id-type="pmid">36137590</pub-id></mixed-citation></ref><ref id="jmv70582-bib-0065"><label>65</label><mixed-citation publication-type="journal" id="jmv70582-cit-0065">
+<string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Rojas</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Rodríguez</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Acosta‐Ampudia</surname>
+</string-name>, et al., “<article-title>Autoimmunity is a Hallmark of Post‐COVID Syndrome</article-title>,” <source>Journal of Translational Medicine</source>
+<volume>20</volume>, no. <issue>1</issue> (<year>2022</year>): <fpage>129</fpage>, <pub-id pub-id-type="doi">10.1186/s12967-022-03328-4</pub-id>.<pub-id pub-id-type="pmid">35296346</pub-id>
+<pub-id pub-id-type="pmcid">PMC8924736</pub-id></mixed-citation></ref></ref-list></back></article></pmc-articleset>

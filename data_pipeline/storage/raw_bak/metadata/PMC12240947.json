@@ -1,0 +1,35 @@
+{
+  "pmcid": "PMC12240947",
+  "pmid": "40642241",
+  "doi": "10.3389/fpubh.2025.1416273",
+  "title": "Deep learning analysis of long COVID and vaccine impact in low- and middle-income countries (LMICs): development of a risk calculator in a multicentric study.",
+  "abstract": "BACKGROUND: Coronavirus disease 2019 (COVID-19), caused by severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), is a global pandemic affecting millions worldwide. This study aims to bridge the knowledge gap between acute and chronic symptoms, vaccination impact, and associated factors in patients across different low- and middle-income countries (LMICs).\nMATERIALS AND METHODS: The study included 2,445 participants aged 18 years and older, testing positive for COVID-19. Data collection involved screening for medical histories, testing records, symptomatology, and persistent symptoms. Validated instruments, including the DePaul Symptom Questionnaire (DSQ-2) and the Patient Health Questionnaire-9 (PHQ-9), were used. We applied a self-supervised and unsupervised deep neural network to extract features from the questionnaire. Gradient boosted machines (GBM) model was used to build a risk calculator for chronic fatigue syndrome (CFS), depression, and prolonged COVID-19 symptoms.\nRESULTS: Out of the study cohort, 68.1% of the patients had symptoms lasting longer than 2 weeks. The most frequent symptoms were loss of smell (46.8%), dry cough (40.1%), loss of taste (37.8%), headaches (37.2%), and sore throat (28.9%). The patients also reported high rates of depression (47.7%), chronic fatigue (6.5%), and infection after vaccination (23.7%). Factors associated with CFS included sex, age, and smoking. Vaccinated individuals demonstrated lower odds of experiencing prolonged COVID-19 symptoms, CFS, and depression. The predictive models achieved a high area under the curve (AUC) scores of 0.87, 0.82, and 0.74, respectively.\nCONCLUSION: The findings underscore the significant burden of long-term symptoms such as chronic fatigue and depression, affecting a considerable proportion of individuals post-infection. Moreover, the study reveals promising insights into the potential benefits of vaccination in mitigating the risk of prolonged COVID-19 symptoms, CFS, and depression. Overall, this research contributes valuable knowledge towards comprehensive management and prevention efforts amidst the ongoing global pandemic.\nCLINICAL TRIAL REGISTRATION: Clinical trials.gov, NCT05059184.",
+  "authors": [
+    "Ahmed Shaheen",
+    "Nour Shaheen",
+    "Sheikh Shoib",
+    "Fahimeh Saeed",
+    "Mudathiru Buhari",
+    "Vishal Bharmauria",
+    "Oliver Flouty"
+  ],
+  "journal": "Frontiers in public health",
+  "pub_year": "2025",
+  "pub_month": "06",
+  "pub_day": "26",
+  "keywords": [
+    "COVID-19",
+    "LMICs",
+    "chronic fatigue syndrome",
+    "depression",
+    "hospitalization",
+    "long COVID",
+    "post-acute sequelae",
+    "vaccination"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Multicenter Study",
+    "Observational Study"
+  ]
+}

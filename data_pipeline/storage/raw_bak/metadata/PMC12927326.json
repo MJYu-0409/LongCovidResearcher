@@ -1,0 +1,28 @@
+{
+  "pmcid": "PMC12927326",
+  "pmid": "41736939",
+  "doi": "10.1136/bmjsem-2025-003157",
+  "title": "Understanding the factors influencing participant engagement and adherence in exercise referral in the City of Manchester.",
+  "abstract": "OBJECTIVES: To identify demographic, clinical, socioeconomic and referral-pathway determinants of engagement, early dropout and non-participation in a large metropolitan exercise referral scheme (ERS), and to assess whether machine learning (ML) methods provide additional explanatory value beyond conventional regression.\nMETHODS: This retrospective cohort study analysed data from 11 909 adults (≥18 years) referred for ERS in Manchester, UK, between 27 January 2022 and 28 February 2025. Outcomes were programme adherence (completion of ≥12 exercise sessions), early dropout and non-participation. Multinomial logistic regression was used to examine predictors of outcomes. ML methods, including Random Forest models and k-means clustering, were applied to assess predictive performance, rank feature importance and identify participant subgroups.\nRESULTS: Of 11 909 referrals, 34.6% completed the programme, 34.2% declined to participate and 8.0% left early. Younger age, higher neighbourhood deprivation and psychosocial referral reasons (eg, loneliness, long covid) were associated with lower completion. Participants referred through outreach/social prescribing pathways were substantially more likely to remain in an ‘intends to participate’ state rather than complete, compared with those referred through clinical pathways. Random Forest models demonstrated good predictive accuracy, with early engagement indicators and deprivation emerging as the strongest predictors. Clustering identified a high-risk subgroup characterised by younger age, higher deprivation and low early attendance.\nCONCLUSIONS: Engagement and adherence in ERS were strongly shaped by early engagement, deprivation, age and referral pathways. ML methods identified high-risk subgroups and reinforced the importance of early attendance. Targeted early support and ML-informed risk indicators may improve retention, particularly among younger and more deprived participants.",
+  "authors": [
+    "Matthew Sharp",
+    "Craig Jones",
+    "Zoë A Marshall",
+    "Stefan Birkett",
+    "Nigel Timothy Cable",
+    "Amy E Harwood"
+  ],
+  "journal": "BMJ Open Sport & Exercise Medicine",
+  "pub_year": "2026",
+  "pub_month": "02",
+  "pub_day": "20",
+  "keywords": [
+    "Physical activity",
+    "Exercise",
+    "Public health",
+    "Health promotion"
+  ],
+  "article_types": [
+    "Journal Article"
+  ]
+}

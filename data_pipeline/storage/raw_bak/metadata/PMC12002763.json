@@ -1,0 +1,23 @@
+{
+  "pmcid": "PMC12002763",
+  "pmid": "40248479",
+  "doi": "10.1016/j.mayocpiqo.2025.100603",
+  "title": "Assessing the Impact of Post-COVID Clinics on 6-Month Health Care Utilization for Patients With Long COVID: A Single-Center Experience.",
+  "abstract": "OBJECTIVE: To assess the impact of post-COVID clinics by examining the association between their early usage and downstream health care utilization.\nPATIENTS AND METHODS: In a case-control study spanning data from March 11, 2020 to June 1, 2023, patients with Long COVID were identified from a major health system using diagnosis codes. The Fast, Large-Scale Almost Matching Exactly algorithm was used to match patients who presented early to post-COVID clinics with patients with Long COVID who did not attend such clinics. Matching was performed on demographic characteristics, acute COVID severity, comorbidities, diagnosis date, and vaccination, to reduce confounders for the comparison of the health care utilization and mortality between cohorts.\nRESULTS: When exactly matching on all 46 features, the algorithm yielded 2814 matched patients, of whom 692 (24.6%; 66.6% females; mean [SD] age, 48.8 [14.5] years) were seen in post-COVID clinics within the first 6 months and 2122 (75.4%; 64.1% females; mean [SD] age, 49.7 [15.2] years) who were not. The average treatment effect (95% CI) of early post-COVID clinic usage was -0.60 (-0.83 to -0.39) on inpatient visits, -0.19 (-0.26 to -0.11) on emergency department visits, 7.62 (6.96-8.56) on outpatient visits, -$3467 (-$6267 to -$754) on estimated costs, and -0.006 (-0.010 to -0.003) on mortality.\nCONCLUSION: Early usage of post-COVID clinics by patients with Long COVID is associated with not only fewer downstream inpatient stays, emergency department visits, estimated costs, and reduced mortality within the first 6 months but also greater outpatient utilization. Results suggest early post-COVID clinic involvement shifts care to outpatient settings, potentially reducing costs and mortality.",
+  "authors": [
+    "Kirby D Gong",
+    "Ali S Afshar",
+    "Fred Brown",
+    "Reza Alavi",
+    "Ravindra Ganesh",
+    "Hadi Kharrazi"
+  ],
+  "journal": "Mayo Clinic proceedings. Innovations, quality & outcomes",
+  "pub_year": "2025",
+  "pub_month": "Jun",
+  "pub_day": "05",
+  "keywords": [],
+  "article_types": [
+    "Journal Article"
+  ]
+}

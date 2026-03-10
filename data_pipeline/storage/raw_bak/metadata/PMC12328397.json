@@ -1,0 +1,35 @@
+{
+  "pmcid": "PMC12328397",
+  "pmid": "40778199",
+  "doi": "10.3389/fmedt.2025.1534097",
+  "title": "Remote, smart telemonitoring of COVID-19 survivors for early detection of deterioration in cardiac health (the PARTMO study).",
+  "abstract": "INTRODUCTION: This study aims to implement a virtual model of care in the primary healthcare setting, utilising biosensor technologies (S-Patch EX) to remotely monitor and identify clinical signs and symptoms of cardiovascular conditions (mainly arrhythmias) in patients post-COVID-19 infection.\nMETHODS: This open-label, non-randomised, observational study was conducted in patients aged 18 years and above, clinically diagnosed with COVID-19 after June 2021, and those residing within Greater Western Sydney. The study involved two arms: the remote monitoring (intervention) and standard care (control) groups. The intervention group comprised patients who were provided with an S-Patch EX to monitor their electrocardiogram. Data were transmitted in real-time to a mobile phone via Bluetooth technology, and results were generated through artificial intelligence (AI) algorithms. All the data were reviewed for arrhythmia detection and escalated to the participant's general practitioner (if detected) to determine the appropriate intervention. The control group was used to compare the rate of cardiac arrhythmia detection against the intervention group. The patient's demographic and longitudinal clinical data were obtained from the electronic medical record system, enabling exploration and comparison of the cohort's characteristics and outcomes. Descriptive analysis was conducted for categorical variables (frequencies and cross-tabulations) and continuous variables (means, standard deviations, and medians). Depending on the nature of data, the groups were compared using t-tests or Chi-square tests. Multivariable Cox regression was used to analyse time to first cardiovascular event post-COVID-19 infection.\nOUTCOME MEASURES: The time to the patient's first cardiovascular event (mainly arrhythmias) post-COVID-19 infection.\nRESULTS: Of 44 patients who provided consent, 40 commenced monitoring. Thirteen patients (32.5%) were detected by the AI algorithms from the S-Patch EX monitoring system to have cardiac arrhythmias, including atrial fibrillation, supraventricular tachycardia, and ventricular tachycardia. Univariate Cox regression demonstrated that arrhythmia was more likely to be detected in the remote monitoring group (13/40, 32.9%) as compared with the standard care group (7/200, 3.5%) [HR = 29.56 (9.95, 87.86), p < 0.0001]. Most of the patients were detected with arrhythmia within a 3-month timeframe of monitoring. Twenty-one patients (21/200, 10.5%) from the standard care group visited the emergency department and/or were admitted to the hospital post-COVID-19 infection due to chest pain, shortness of breath/dyspnoea, palpitations, dizziness/light-headedness/presyncope, and nausea. Two patients developed long COVID symptoms (progressive dyspnoea) 2-5 months post-COVID-19 infection.\nCONCLUSIONS: Considering the risk of developing cardiovascular complications post-COVID-19 infection, regular monitoring, reassessment, and evaluation are recommended as a part of post-COVID-19 management for all patients, including young, healthy, and asymptomatic populations. A randomised interventional study with a larger sample size and longer follow-up period is advised for a better understanding of the cardiovascular impact post-COVID infection.",
+  "authors": [
+    "Josephine Sau Fan Chow",
+    "Nutan Maurya",
+    "Susan San Miguel",
+    "Rumbidzai Teramayi",
+    "Ahilan Parameswaran",
+    "Annamarie D'Souza",
+    "Gregory Melbourne",
+    "Joseph Descallar",
+    "Young Juhn",
+    "Enoch Chan",
+    "Jerome Pong"
+  ],
+  "journal": "Frontiers in medical technology",
+  "pub_year": "2025",
+  "pub_month": "07",
+  "pub_day": "24",
+  "keywords": [
+    "COVID survivors",
+    "arrhythmia",
+    "long COVID",
+    "model of care",
+    "post-COVID clinical symptom",
+    "virtual monitoring"
+  ],
+  "article_types": [
+    "Journal Article"
+  ]
+}

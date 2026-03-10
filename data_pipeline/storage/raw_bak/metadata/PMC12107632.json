@@ -1,0 +1,31 @@
+{
+  "pmcid": "PMC12107632",
+  "pmid": "40433308",
+  "doi": "10.1136/bmjmed-2024-001126",
+  "title": "Metformin for covid-19: systematic review and meta-analysis of randomised controlled trials.",
+  "abstract": "OBJECTIVE: To summarise the effects of metformin on covid-19 to inform a World Health Organization (WHO) clinical practice guideline.\nDESIGN: Systematic review and meta-analysis.\nDATA SOURCES: As part of a living systematic review and network meta-analysis of drug treatments for covid-19 (covid-19 LNMA), a search was performed of the WHO covid-19 database, six Chinese databases, and the Epistemonikos Foundation's Living Overview of the Evidence covid-19 Repository (covid-19 L-OVE).\nELIGIBILITY CRITERIA FOR SELECTING STUDIES: Randomised controlled trials that compared metformin with placebo in patients with acute covid-19 infection.\nDATA SYNTHESIS: Frequentist pairwise meta-analyses were performed using the restricted maximum likelihood random effects model. The effects of interventions on selected outcomes were summarised using risk ratios, risk difference, and mean difference when appropriate, along with their corresponding 95% confidence intervals (CIs). To estimate absolute effects, the control arm event rate was used as the baseline risk. The risk of bias of the included studies was assessed using a modification of the Cochrane risk of bias 2.0 tool and the certainty of evidence using the GRADE (grading of recommendations assessment, development and evaluation) approach, with the minimally important difference in effect as the threshold.\nRESULTS: Three randomised controlled trials of 1869 patients were included; one study provided long term follow-up on long covid. Metformin might have little or no impact on mortality (risk ratio 0.76, 95% CI 0.30 to 1.90; risk difference 3 fewer per 1000, 95% CI 8 fewer to 11 more; low certainty). The effects of metformin on admission to hospital because of covid-19 remain uncertain (risk ratio 0.74, 95% CI 0.28 to 1.95; risk difference 15 fewer per 1000, 95% CI 42 fewer to 55 more; very low certainty). Metformin results in little or no difference in adverse effects leading to discontinuation (risk difference 0.2 more per 1000, 95% CI 2.7 fewer to 3.1 more; high certainty). Metformin might decrease the development of long covid (risk ratio 0.6, 95% CI 0.4 to 0.9; risk difference 41 fewer per 1000, 95% CI 62 fewer to 10 fewer; low certainty). However, the effect is based on a single trial of 1126 patients, which has a high risk of bias owing to missing data, and nearly half of the participants were unvaccinated.\nCONCLUSIONS: Current evidence based on randomised trials suggests no significant effect of metformin on acute clinical outcomes in patients with non-severe covid-19. Metformin might reduce the incidence of long covid when used to treat patients with non-severe acute covid-19 infection, but this was suggested by low certainty evidence from a single trial.",
+  "authors": [
+    "Saifur R Chowdhury",
+    "Nazmul Islam",
+    "Qi Zhou",
+    "Md Kamrul Hasan",
+    "Mahmudur Rahman Chowdhury",
+    "Reed Ac Siemieniuk",
+    "Arnav Agarwal",
+    "Romina Brignardello-Petersen",
+    "Thomas Agoritsas",
+    "Per Olav Vandvik",
+    "Dena Zeraatkar",
+    "Gordon Guyatt"
+  ],
+  "journal": "BMJ medicine",
+  "pub_year": "2025",
+  "pub_month": "05",
+  "pub_day": "21",
+  "keywords": [
+    "COVID-19"
+  ],
+  "article_types": [
+    "Journal Article"
+  ]
+}

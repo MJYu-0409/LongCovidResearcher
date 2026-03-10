@@ -1,0 +1,29 @@
+{
+  "pmcid": "PMC12542073",
+  "pmid": "41126309",
+  "doi": "10.1186/s40959-025-00387-6",
+  "title": "Pathways in the brain, heart and lung influenced by SARS-CoV-2 NSP6 and SARS-CoV-2 regulated miRNAs: an in silico study hinting cancer incidence.",
+  "abstract": "BACKGROUND: SARS-CoV-2 non-structural protein 6 (NSP6) in the host's tissue-specific complexities remains a mystery and needs more in-depth attention because of COVID-19 recurrence and long COVID. Its reported role in immune evasion, viral replication and egress from the cells as well as its gain of function mutations occurring independently in various variants underscores its importance.\nMETHODS: Here we investigated the influence of SARS-CoV-2 transmembrane protein NSP6 (Non-structural protein 6) in three major organs - the brain, heart, and lung in silico. To elucidate the interplay between NSP6 and host proteins, we analyzed the protein-protein interaction network of regulated host proteins interacting with reported SARS-CoV-2 NSP6 interacting proteins - SIGMAR1, ATP13A3, ATP5MG, and ATP6AP1. Tissue-specific protein interactomes and hub genes in these interactomes were found, and drugs targeting them were sought out.\nRESULTS: Key hub genes in the brain were CCND1, CDK2, CCNA1, CDC6, CDKN1B, SKP1, CCNB1, etc., whereas in the heart were RAB7A, ATP6V0D1, LAMP2, TGFB1, CANX, LGALS3, etc. Lung hub genes were ATP6V0A1, ATP6V0A2, ATP6V0D1, ATP6V1D, ATP6V1B1, ATP6V1E1, TGFB1, EGF, TGFBR2, and LGALS3. Hub gene associated pathways in the brain were iron uptake and transport, G1/S transition, and small cell Lung cancer. Differentiation of dendritic cells and reduction of intraphagosomal pH to 5 - were prominent pathways in lung. In heart, phagosome associated pathways, and regulation of intracellular were prominent. Key therapeutic targets identified in the brain are CDK2, targeted by acetaminophen and raltitrexed; CCNE1 by palbociclib; and CCND1 by palbociclib, acetaminophen, lapatinib, doxorubicin, and methotrexate. In the heart, TGFB1 and APP are targeted by inositol, while LGALS3, upregulated after COVID-19 can be targeted by non-approved drugs (Belapectin, Olitigaltin, Lactose anhydrous, Davanat). In the lungs, TGFB1 and TGFBR2 are targeted by irinotecan, and EGF by cetuximab.\nCONCLUSIONS: This study highlights probable hub genes, drugs targeting them, and associated pathways perturbed by SARS-CoV-2 NSP6. Galectin3 (LGALS3) upregulated in both heart and brain after COVID-19 infection is reported to be influencing all the ten hallmarks of cancer. Our bioinformatics and systems study hints probable effect of COVID-19 infection in cancer incidence and warrants in-depth studies for present scenario of long and recurrent COVID-19.",
+  "authors": [
+    "Shrabonti Chatterjee",
+    "Joydeep Mahata",
+    "Suneel Kateriya",
+    "Gireesh Anirudhan"
+  ],
+  "journal": "Cardio-oncology (London, England)",
+  "pub_year": "2025",
+  "pub_month": "Oct",
+  "pub_day": "22",
+  "keywords": [
+    "Cancer incidence",
+    "Drug targets",
+    "Heart failure",
+    "Hub genes",
+    "Pathways",
+    "SARS-CoV-2 NSP6",
+    "Tissue-specific"
+  ],
+  "article_types": [
+    "Journal Article"
+  ]
+}

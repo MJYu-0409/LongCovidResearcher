@@ -1,0 +1,34 @@
+{
+  "pmcid": "PMC12155299",
+  "pmid": "40507431",
+  "doi": "10.3390/jcm14113670",
+  "title": "Long COVID's Hidden Complexity: Machine Learning Reveals Why Personalized Care Remains Essential.",
+  "abstract": "Background: Long COVID can develop in individuals who have had COVID-19, regardless of the severity of their initial infection or the treatment they received. Several studies have examined the prevalence and manifestation of symptom phenotypes to comprehend the pathophysiological mechanisms associated with these symptoms. Numerous articles outlined specific approaches for multidisciplinary management and treatment of these patients, focusing primarily on those with mild acute illness. The various management models implemented focused on a patient-centered approach, where the specialists were positioned around the patient. On the other hand, the created pathways do not consider the possibility of symptom clusters when determining how to define diagnostic algorithms. Methods: This retrospective longitudinal study took place at the \"Fondazione IRCCS Policlinico San Matteo\", Pavia, Italy (SMATTEO) and at the \"Ospedale di Cremona\", ASST Cremona, Italy (CREMONA). Information was retrieved from the administrative data warehouse and from two dedicated registries. We included patients discharged with a diagnosis of severe COVID-19, systematically invited for a 3-month follow-up visit. Unsupervised machine learning was used to identify potential patient phenotypes. Results: Three hundred and eighty-two patients were included in these analyses. About one-third of patients were older than 65 years; a quarter were female; more than 80% of patients had multi-morbidities. Diagnoses related to the circulatory system were the most frequent, comprising 46% of cases, followed by endocrinopathies at 20%. PCA (principal component analysis) had no clustering tendency, which was comparable to the PCA plot of a random dataset. The unsupervised machine learning approach confirms these findings. Indeed, while dendrograms for the hierarchical clustering approach may visually indicate some clusters, this is not the case for the PAM method. Notably, most patients were concentrated in one cluster. Conclusions: The extreme heterogeneity of patients affected by post-acute sequelae of SARS-CoV-2 infection (PASC) has not allowed for the identification of specific symptom clusters with the most recent statistical techniques, thus preventing the generation of common diagnostic-therapeutic pathways.",
+  "authors": [
+    "Eleonora Fresi",
+    "Elisabetta Pagani",
+    "Federica Pezzetti",
+    "Cristina Montomoli",
+    "Cristina Monti",
+    "Monia Betti",
+    "Annalisa De Silvestri",
+    "Orlando Sagliocco",
+    "Valentina Zuccaro",
+    "Raffaele Bruno",
+    "Catherine Klersy"
+  ],
+  "journal": "Journal of clinical medicine",
+  "pub_year": "2025",
+  "pub_month": "May",
+  "pub_day": "23",
+  "keywords": [
+    "PASC",
+    "cluster",
+    "machine learning",
+    "phenotype",
+    "severe COVID"
+  ],
+  "article_types": [
+    "Journal Article"
+  ]
+}

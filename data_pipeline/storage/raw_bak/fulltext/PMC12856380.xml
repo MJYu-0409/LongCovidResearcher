@@ -1,0 +1,1303 @@
+<?xml version="1.0"  ?><!DOCTYPE pmc-articleset PUBLIC "-//NLM//DTD ARTICLE SET 2.0//EN" "https://dtd.nlm.nih.gov/ncbi/pmc/articleset/nlm-articleset-2.0.dtd"><pmc-articleset><article id="alz71020" xml:lang="en" article-type="research-article" dtd-version="1.4"><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">Alzheimers Dement</journal-id><journal-id journal-id-type="iso-abbrev">Alzheimers Dement</journal-id><journal-id journal-id-type="pmc-domain-id">4549</journal-id><journal-id journal-id-type="pmc-domain">alzdem</journal-id><journal-id journal-id-type="publisher-id">ALZ</journal-id><journal-title-group><journal-title>Alzheimer's &amp; Dementia</journal-title></journal-title-group><issn pub-type="ppub">1552-5260</issn><issn pub-type="epub">1552-5279</issn><publisher><publisher-name>Wiley</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC12856380</article-id><article-id pub-id-type="pmcid-ver">PMC12856380.1</article-id><article-id pub-id-type="pmcaid">12856380</article-id><article-id pub-id-type="pmcaiid">12856380</article-id><article-id pub-id-type="pmid">41612939</article-id><article-id pub-id-type="doi">10.1002/alz.71020</article-id><article-id pub-id-type="publisher-id">ALZ71020</article-id><article-version article-version-type="pmc-version">1</article-version><article-categories><subj-group subj-group-type="overline"><subject>Research Article</subject></subj-group><subj-group subj-group-type="heading"><subject>Research Article</subject></subj-group></article-categories><title-group><article-title>Choroid plexus alterations in long COVID and their associations with Alzheimer's disease risks</article-title><alt-title alt-title-type="left-running-head">PANG et al<sc>.</sc>
+</alt-title></title-group><contrib-group><contrib id="alz71020-cr-0001" contrib-type="author"><name name-style="western"><surname>Pang</surname><given-names initials="H">Huize</given-names></name><xref rid="alz71020-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="alz71020-cr-0002" contrib-type="author"><name name-style="western"><surname>Frontera</surname><given-names initials="J">Jennifer</given-names></name><xref rid="alz71020-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib id="alz71020-cr-0003" contrib-type="author"><name name-style="western"><surname>Jiang</surname><given-names initials="L">Li</given-names></name><xref rid="alz71020-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="alz71020-cr-0004" contrib-type="author"><name name-style="western"><surname>Li</surname><given-names initials="C">Chenyang</given-names></name><xref rid="alz71020-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="alz71020-cr-0005" contrib-type="author"><name name-style="western"><surname>Boutajangout</surname><given-names initials="A">Allal</given-names></name><xref rid="alz71020-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib id="alz71020-cr-0006" contrib-type="author"><name name-style="western"><surname>Sun</surname><given-names initials="Z">Zhe</given-names></name><xref rid="alz71020-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="alz71020-cr-0007" contrib-type="author"><name name-style="western"><surname>Debure</surname><given-names initials="L">Ludovic</given-names></name><xref rid="alz71020-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib id="alz71020-cr-0008" contrib-type="author"><name name-style="western"><surname>Ghuman</surname><given-names initials="M">Mobeena</given-names></name><xref rid="alz71020-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib id="alz71020-cr-0009" contrib-type="author"><name name-style="western"><surname>Vedvyas</surname><given-names initials="A">Alok</given-names></name><xref rid="alz71020-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib id="alz71020-cr-0010" contrib-type="author"><name name-style="western"><surname>Masurkar</surname><given-names initials="AV">Arjun V.</given-names></name><xref rid="alz71020-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib id="alz71020-cr-0011" contrib-type="author"><name name-style="western"><surname>Wisniewski</surname><given-names initials="T">Thomas</given-names></name><xref rid="alz71020-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib id="alz71020-cr-0012" contrib-type="author" corresp="yes"><name name-style="western"><surname>Ge</surname><given-names initials="Y">Yulin</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-2320-6031</contrib-id><xref rid="alz71020-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><address><email>Yulin.Ge@nyulangone.org</email></address></contrib></contrib-group><aff id="alz71020-aff-0001">
+<label>
+<sup>1</sup>
+</label>
+<named-content content-type="organisation-division">Department of Radiology</named-content>
+<institution>NYU Grossman School of Medicine</institution>
+<city>New York</city>
+<named-content content-type="country-part">New York</named-content>
+<country country="US">USA</country>
+</aff><aff id="alz71020-aff-0002">
+<label>
+<sup>2</sup>
+</label>
+<named-content content-type="organisation-division">Department of Neurology</named-content>
+<institution>NYU Grossman School of Medicine</institution>
+<city>New York</city>
+<named-content content-type="country-part">New York</named-content>
+<country country="US">USA</country>
+</aff><author-notes><corresp id="correspondenceTo">
+<label>*</label>
+<bold>Correspondence</bold>
+<break/>Yulin Ge, Department of Radiology, NYU Grossman School of Medicine, New York, NY 10016, USA.<break/> Email: <email>Yulin.Ge@nyulangone.org</email>
+<break/>
+</corresp></author-notes><pub-date pub-type="epub"><day>30</day><month>1</month><year>2026</year></pub-date><pub-date pub-type="collection"><month>2</month><year>2026</year></pub-date><volume>22</volume><issue seq="60">2</issue><issue-id pub-id-type="pmc-issue-id">506440</issue-id><issue-id pub-id-type="doi">10.1002/alz.v22.2</issue-id><elocation-id>e71020</elocation-id><history><date date-type="rev-recd"><day>19</day><month>11</month><year>2025</year></date><date date-type="received"><day>01</day><month>10</month><year>2025</year></date><date date-type="accepted"><day>21</day><month>11</month><year>2025</year></date></history><pub-history><event event-type="pmc-release"><date><day>30</day><month>01</month><year>2026</year></date></event><event event-type="pmc-live"><date><day>31</day><month>01</month><year>2026</year></date></event><event event-type="pmc-last-change"><date iso-8601-date="2026-01-31 09:25:13.277"><day>31</day><month>01</month><year>2026</year></date></event></pub-history><permissions><copyright-statement content-type="article-copyright">© 2026 The Author(s). <italic toggle="yes">Alzheimer's &amp; Dementia</italic> published by Wiley Periodicals LLC on behalf of Alzheimer's Association.</copyright-statement><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbyncndlicense">https://creativecommons.org/licenses/by-nc-nd/4.0/</ali:license_ref><license-p>This is an open access article under the terms of the <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/">http://creativecommons.org/licenses/by-nc-nd/4.0/</ext-link> License, which permits use and distribution in any medium, provided the original work is properly cited, the use is non‐commercial and no modifications or adaptations are made.</license-p></license></permissions><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pmc-pdf" xlink:href="ALZ-22-e71020.pdf"/><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pdf" xlink:href="file:ALZ-22-e71020.pdf"/><abstract><title>Abstract</title><sec id="alz71020-sec-0010"><title>INTRODUCTION</title><p>Choroid plexus (ChP) enlargement is a neuroimaging biomarker of neuroinflammation and neurodegeneration. However, evidence of ChP structural and perfusion alterations in long coronavirus disease (COVID) and their clinical relevance remains limited.</p></sec><sec id="alz71020-sec-0020"><title>METHODS</title><p>This study included 86 long COVID, 67 recovered COVID, and 26 COVID‐negative healthy controls (HCs). ChP volume and cerebral blood flow (CBF) were quantified, and their associations with Alzheimer's disease (AD) symptoms and plasma biomarkers were examined.</p></sec><sec id="alz71020-sec-0030"><title>RESULTS</title><p>Both patient groups showed higher ChP volume and lower CBF than HC. Relative to recovered COVID, long COVID patients had a larger ChP volume, but no significant difference in CBF. ChP volume correlated positively with glial fibrillary acidic protein (<italic toggle="yes">r </italic>= 0.35) and phosphorylated tau217 (p‐tau217; <italic toggle="yes">r </italic>= 0.54), while CBF correlated negatively with p‐tau217 (<italic toggle="yes">r </italic>= –0.56). Both ChP volume and CBF were associated with cognitive decline measured with Mini‐Mental State Examination and Clinical Dementia Rating.</p></sec><sec id="alz71020-sec-0040"><title>DISCUSSION</title><p>These findings suggest that ChP differences in long COVID are associated with AD‐related cognitive decline and increased plasma biomarkers.</p></sec><sec id="alz71020-sec-0050"><title>Highlights</title><p>
+<list list-type="bullet" id="alz71020-list-0001"><list-item><p>Long coronavirus disease (COVID) patients show choroid plexus (ChP) enlargement and reduced cerebral blood flow.</p></list-item><list-item><p>ChP alterations are associated with Alzheimer's disease (AD)‐related symptoms and plasma biomarker changes.</p></list-item><list-item><p>ChP alterations on magnetic resonance imaging may serve as imaging markers for tracking neurological symptoms and AD‐related pathology in post‐COVID patients.</p></list-item></list>
+</p></sec></abstract><kwd-group kwd-group-type="author-generated"><kwd id="alz71020-kwd-0001">Alzheimer's disease</kwd><kwd id="alz71020-kwd-0002">blood flow</kwd><kwd id="alz71020-kwd-0003">choroid plexus</kwd><kwd id="alz71020-kwd-0004">long coronavirus disease</kwd><kwd id="alz71020-kwd-0005">neurological symptoms</kwd><kwd id="alz71020-kwd-0006">plasma biomarkers</kwd><kwd id="alz71020-kwd-0007">volume</kwd></kwd-group><funding-group><award-group id="funding-0001"><funding-source>
+<institution-wrap><institution>The National Institutes of Health/National Institute on Aging</institution></institution-wrap>
+</funding-source><award-id>R01AG077422</award-id><award-id>U24 NS135568</award-id><award-id>P30AG066512</award-id></award-group><award-group id="funding-0002"><funding-source>
+<institution-wrap><institution>NIH</institution><institution-id institution-id-type="doi">10.13039/100000002</institution-id></institution-wrap>
+</funding-source><award-id>R01AG077422</award-id><award-id>U24 NS135568</award-id><award-id>P30AG066512</award-id></award-group></funding-group><counts><fig-count count="4"/><table-count count="4"/><page-count count="12"/><word-count count="6813"/></counts><custom-meta-group><custom-meta><meta-name>pmc-status-qastatus</meta-name><meta-value>0</meta-value></custom-meta><custom-meta><meta-name>pmc-status-live</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-status-embargo</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-status-released</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-access</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-legally-suppressed</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-pdf</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-supplement</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-pdf-only</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-suppress-copyright</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-real-version</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-scanned-article</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-in-epmc</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-license-ref</meta-name><meta-value>CC BY-NC-ND</meta-value></custom-meta><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>February 2026</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:6.6.8 mode:remove_FC converted:30.01.2026</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="alz71020-cite-0001">
+<string-name name-style="western">
+<surname>Pang</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Frontera</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jiang</surname>
+<given-names>L</given-names>
+</string-name>, et al. <article-title>Choroid plexus alterations in long COVID and their associations with Alzheimer's disease risks</article-title>. <source>Alzheimer's Dement</source>. <year>2026</year>;<volume>22</volume>:<elocation-id>e71020</elocation-id>. <pub-id pub-id-type="doi">10.1002/alz.71020</pub-id>
+<pub-id pub-id-type="pmid">41612939</pub-id></mixed-citation>
+</p></notes></front><body><sec id="alz71020-sec-0060"><label>1</label><title>BACKGROUND</title><p>Coronavirus disease 2019 (COVID‐19), caused by the severe acute respiratory syndrome coronavirus 2 (SARS‐CoV‐2), has had a profound impact on public health. Beyond the acute phase, infection can result in long‐term sequelae collectively referred to as long COVID. This is defined as symptoms persisting for at least 2 months and starting 3 months after a probable or confirmed SARS‐CoV‐2 infection.<xref rid="alz71020-bib-0001" ref-type="bibr">
+<sup>1</sup>
+</xref> Neurological manifestations are among the most prominent features of long COVID, including cognitive impairment, sleep disorders, olfactory dysfunction, psychiatric symptoms, and others.<xref rid="alz71020-bib-0002" ref-type="bibr">
+<sup>2</sup>
+</xref> In a cohort of 3305 patients, neurological symptoms were reported in 35.4% cases.<xref rid="alz71020-bib-0003" ref-type="bibr">
+<sup>3</sup>
+</xref> A recent longitudinal study further demonstrated that patients with long COVID may experience heightened neurological risks that remain for 2 years.<xref rid="alz71020-bib-0004" ref-type="bibr">
+<sup>4</sup>
+</xref> Notably, several of these neurological symptoms resemble those observed in patients with Alzheimer's disease (AD). The prevalence of dementia is higher among patients with COVID.<xref rid="alz71020-bib-0005" ref-type="bibr">
+<sup>5</sup>
+</xref> Besides, individuals with AD exhibit increased mortality after COVID‐19 infection,<xref rid="alz71020-bib-0006" ref-type="bibr">
+<sup>6</sup>
+</xref> suggesting potential overlaps in the pathogenic mechanisms of COVID‐19 and AD. Despite these observations, the mechanisms underlying AD‐related neurological symptoms in long COVID remain poorly understood.</p><p>Several hypotheses have been proposed for the pathogenesis of long COVID condition, including brain hypometabolism,<xref rid="alz71020-bib-0007" ref-type="bibr">
+<sup>7</sup>
+</xref> vascular injury from coagulopathy and endothelial dysfunction,<xref rid="alz71020-bib-0008" ref-type="bibr">
+<sup>8</sup>
+</xref> and neuroinflammation and immune dysregulation.<xref rid="alz71020-bib-0009" ref-type="bibr">
+<sup>9</sup>
+</xref>, <xref rid="alz71020-bib-0010" ref-type="bibr">
+<sup>10</sup>
+</xref> These processes may be driven by persistent SARS‐CoV‐2 reservoirs in tissues.<xref rid="alz71020-bib-0011" ref-type="bibr">
+<sup>11</sup>
+</xref>, <xref rid="alz71020-bib-0012" ref-type="bibr">
+<sup>12</sup>
+</xref> Additionally, long COVID has been associated with AD‐like signaling and pathology, including amyloidogenic processes such as accumulation of amyloid‐forming peptides, which may contribute to neuronal injury.<xref rid="alz71020-bib-0013" ref-type="bibr">
+<sup>13</sup>
+</xref>, <xref rid="alz71020-bib-0014" ref-type="bibr">
+<sup>14</sup>
+</xref>, <xref rid="alz71020-bib-0015" ref-type="bibr">
+<sup>15</sup>
+</xref>, <xref rid="alz71020-bib-0016" ref-type="bibr">
+<sup>16</sup>
+</xref>, <xref rid="alz71020-bib-0017" ref-type="bibr">
+<sup>17</sup>
+</xref> Although there is no consensus on a single pathological mechanism, neuroinflammation and immune dysfunction remain key hypotheses regarding the driving factors of the neurological sequelae of this post‐viral condition.</p><p>The choroid plexus (ChP) is a vasculature‐rich structure that serves as the primary site for cerebrospinal fluid (CSF) production, regulates immune responses, and maintains the blood–CSF barrier. Unlike the tightly regulated blood–brain barrier (BBB), the capillaries in the ChP are fenestrated and more permeable. These features make the ChP a potential entry route for peripheral inflammatory cells and blood‐borne pathogens to enter the central nervous system (CNS).<xref rid="alz71020-bib-0018" ref-type="bibr">
+<sup>18</sup>
+</xref>, <xref rid="alz71020-bib-0019" ref-type="bibr">
+<sup>19</sup>
+</xref> Experimental studies show that SARS‐CoV‐2 can infect and damage ChP epithelium,<xref rid="alz71020-bib-0019" ref-type="bibr">
+<sup>19</sup>
+</xref>, <xref rid="alz71020-bib-0020" ref-type="bibr">
+<sup>20</sup>
+</xref>, <xref rid="alz71020-bib-0021" ref-type="bibr">
+<sup>21</sup>
+</xref> leading to blood–CSF barrier (BCSFB) leakage.<xref rid="alz71020-bib-0021" ref-type="bibr">
+<sup>21</sup>
+</xref>, <xref rid="alz71020-bib-0022" ref-type="bibr">
+<sup>22</sup>
+</xref> Clinical observations further report abnormal CSF findings in long COVID patients with neurological symptoms.<xref rid="alz71020-bib-0023" ref-type="bibr">
+<sup>23</sup>
+</xref>, <xref rid="alz71020-bib-0024" ref-type="bibr">
+<sup>24</sup>
+</xref>, <xref rid="alz71020-bib-0025" ref-type="bibr">
+<sup>25</sup>
+</xref>, <xref rid="alz71020-bib-0026" ref-type="bibr">
+<sup>26</sup>
+</xref>, <xref rid="alz71020-bib-0027" ref-type="bibr">
+<sup>27</sup>
+</xref> Collectively, these findings underscore the ChP's pivotal role in neuroimmune regulation and its potential contribution to the neurological manifestations of long COVID.</p><p>Neuroimaging has emerged as a valuable tool for in vivo assessment of ChP. Recent imaging studies have reported increased ChP volume in long COVID subjects,<xref rid="alz71020-bib-0021" ref-type="bibr">
+<sup>21</sup>
+</xref>, <xref rid="alz71020-bib-0028" ref-type="bibr">
+<sup>28</sup>
+</xref> neuroinflammatory disorders,<xref rid="alz71020-bib-0029" ref-type="bibr">
+<sup>29</sup>
+</xref> normal aging,<xref rid="alz71020-bib-0030" ref-type="bibr">
+<sup>30</sup>
+</xref> and AD patients.<xref rid="alz71020-bib-0030" ref-type="bibr">
+<sup>30</sup>
+</xref>, <xref rid="alz71020-bib-0031" ref-type="bibr">
+<sup>31</sup>
+</xref>, <xref rid="alz71020-bib-0032" ref-type="bibr">
+<sup>32</sup>
+</xref> Despite the enlarged ChP volume in these conditions, the ChP functions, such as rate of CSF secretion<xref rid="alz71020-bib-0033" ref-type="bibr">
+<sup>33</sup>
+</xref> and glymphatic clearance<xref rid="alz71020-bib-0034" ref-type="bibr">
+<sup>34</sup>
+</xref> are reduced. Impaired blood perfusion in the ChP may further hinder CSF production, lead to waste buildup, and compromise the integrity of the BCSFB. Prior in vivo studies of normal aging have separately indicated structural and perfusion alterations in the ChP.<xref rid="alz71020-bib-0030" ref-type="bibr">
+<sup>30</sup>
+</xref>, <xref rid="alz71020-bib-0035" ref-type="bibr">
+<sup>35</sup>
+</xref>, <xref rid="alz71020-bib-0036" ref-type="bibr">
+<sup>36</sup>
+</xref> However, despite extensive research, no studies have explored the structural and perfusion alterations in long COVID and their associations with neurological symptoms and blood biomarkers, to date. Examining these alterations could provide new insights into BCSFB disruption and identify potential therapeutic targets for neurological symptoms in long COVID.</p><p>Therefore, this study included participants with long COVID, those who have recovered from COVID, and COVID‐negative healthy controls (HCs). Our objectives were 3‐fold: (1) to analyze structural and perfusion alterations in the ChP among individuals with long COVID compared to recovered subjects and HCs, (2) to explore the relationship between ChP alterations and neurological symptoms in long COVID subjects, and (3) to examine correlations between ChP imaging features and plasma biomarkers associated with neuroinflammation and AD‐related pathology.</p><boxed-text position="float" content-type="box" orientation="portrait"><sec id="alz71020-sec-0070"><title>RESEARCH IN CONTEXT</title><p>
+<list list-type="order" id="alz71020-list-0002"><list-item><p>
+<bold>Systematic review</bold>: The authors conducted a literature review using traditional databases (e.g., PubMed), meeting abstracts, and conference presentations with the search terms “COVID” and “choroid plexus (ChP).” While several studies have reported ChP enlargement in patients with long coronavirus disease (COVID), no prior work has investigated perfusion alterations and their clinical relevance. Relevant citations are appropriately included.</p></list-item><list-item><p>
+<bold>Interpretation</bold>: Our findings demonstrate that patients with long COVID exhibit increased ChP volume and reduced cerebral blood flow. These imaging alterations were significantly correlated with Alzheimer's disease (AD)‐related plasma biomarkers and cognitive impairment. Collectively, these results highlight ChP assessment as a promising target for monitoring neurological dysfunction and AD‐related pathology after COVID infection.</p></list-item><list-item><p>
+<bold>Future directions</bold>: Longitudinal studies across different states and stages of COVID, integrating comprehensive blood and cerebrospinal fluid biomarkers of neuroinflammation and AD‐related pathology, are needed to elucidate ChP alterations during post‐viral progression and to investigate the association between peripheral inflammation and central AD‐related processes.</p></list-item></list>
+</p></sec></boxed-text></sec><sec id="alz71020-sec-0080"><label>2</label><title>METHODS</title><sec id="alz71020-sec-0090"><label>2.1</label><title>Participants</title><p>A total of 153 COVID‐19–positive patients and 26 HCs were recruited from the outpatient general medicine and neurology clinics at New York University (NYU) Langone Hospital between 2023 and 2025. The long COVID subgroup was defined by the following criteria: (1) a history of positive SARS‐Cov‐2 real‐time polymerase chain reaction or antigen test at least 3 months prior to study enrollment; and (2) neurological complaints temporally related to the SARS‐CoV‐2 infection. Exclusion criteria included: (1) presence or past medical history of structural brain lesions or CNS infection, (2) inability to complete neurological testing, (3) baseline modified Rankin score &gt; 0 before the COVID‐19 pandemic, (4) time period &lt; 6 weeks between acute COVID‐19 and first evaluation, and (5) severe white matter hyperintensities (WMHs; Fazekas grade &gt; 2) on neuroimaging. The recovered COVID subgroup includes individuals who tested positive for SARS‐CoV‐2 nucleocapsid antibodies during the acute infection, whose symptoms resolved within 30 days of onset, and who were symptom free at enrollment. The HCs were defined as individuals with a negative SARS‐CoV‐2 nucleocapsid immunoglobulin G test result at the time of evaluation. This study was approved by the NYU Grossman School of Medicine Institutional Review Board. Written informed consent was obtained from all participants or their surrogates, as applicable.</p></sec><sec id="alz71020-sec-0100"><label>2.2</label><title>Neurological and plasma blood tests</title><p>Clinical neurological symptoms, including sleep and olfactory disturbances, were assessed using the Epworth Sleepiness Scale (ESS) and the University of Pennsylvania Smell Identification Test (UPSIT), respectively. Cognitive impairment was evaluated using the Mini‐Mental State Examination (MMSE), Montreal Cognitive Assessment (MoCA), and Clinical Dementia Rating (CDR) scale.</p><p>Blood samples were collected into ethylenediaminetetraacetic acid (EDTA) vacutainers from a subsample of long COVID patients (neuroinflammation biomarkers, glial fibrillary acidic protein [GFAP], neurofilament light chain [NfL], and amyloid beta [Aβ]42/Aβ40: <italic toggle="yes">n</italic> = 64; phosphorylated tau217 [p‐tau217]: <italic toggle="yes">n</italic> = 41). Plasma fraction was separated and stored at –80°C until analysis. Inflammatory cytokines (human interleukin [hIL]‐6, hIL‐10, and tumor necrosis factor alpha [TNF‐α]) were measured with Corplex Cytokine 10‐Plex kits using Simoa SP‐X, and AD‐related biomarkers (NfL, GFAP, Aβ42, Aβ40, and p‐tau217) were measured with Neurology 4‐Plex Advantage kits and AlzPath pTau217, respectively, using Simoa HD‐X.</p></sec><sec id="alz71020-sec-0110"><label>2.3</label><title>Magnetic resonance imaging acquisition</title><p>Magnetic resonance imaging (MRI) was performed on a 3T Siemens Prisma scanner equipped with a 64‐channel head coil. The imaging protocols included: (1) T1‐weighted structural imaging performed using T1 magnetization‐prepared rapid gradient echo (MPRAGE): repetition time (TR)/echo time (TE) = 2300/2.96 ms, field of view (FOV) = 256 × 256 mm<sup>2</sup>, voxel size = 1.0 × 1.0 × 1.0 mm<sup>3</sup>, slice number = 192; (2) 3D T2 fluid‐attenuated inversion recovery (FLAIR): inversion time (TI)/TR/TE = 1800/5000/394 ms, FOV = 250 × 230 mm<sup>2</sup>, voxel size = 0.5 × 0.5 × 1.0 mm<sup>3</sup>, slice number = 192; and (3) 3D pseudo‐continuous arterial spin labeling (pCASL) with gradient echo and spin echo (GRASE): TR/TE = 4120/12.56 ms, FOV = 220 × 220 mm<sup>2</sup>, voxel size = 3.4 × 3.4 × 4.0 mm<sup>3</sup>, slice number = 36, post labeling delay (PLD) = 2000 ms, four pairs of label and control images, labeling duration = 1800 ms, with background suppression. Proton density (PD)‐weighted equilibrium magnetization (M0) images were also acquired: TR/TE = 10,000/12.56 ms, FOV = 200 × 200 mm<sup>2</sup>, voxel size = 3.4 × 3.4 × 4.0 mm<sup>3</sup>, slice number = 36.</p></sec><sec id="alz71020-sec-0120"><label>2.4</label><title>MRI processing</title><p>The pCASL data were processed using the ASL‐MRICloud platform.<xref rid="alz71020-bib-0037" ref-type="bibr">
+<sup>37</sup>
+</xref> The main processing steps included: (1) motion correction by aligning all control and label images to their respective first timepoint, (2) average of control and label images, (3) calculation of difference images by subtracting the averaged control‐label images, (4) estimation of cerebral blood flow (CBF) maps using a single‐compartment model with M0 images for quantitative CBF calculation (mL/100 g/min), and (5) co‐registration of CBF maps to individual T1‐weighted anatomical images with whole‐brain and regional CBF available for group comparison and correlations analyses. The parameters used for CBF quantification were as follows: blood T1 = 1650 ms, brain–blood partition coefficient = 0.9 mL/g, and labeling efficiency = 0.85.</p></sec><sec id="alz71020-sec-0130"><label>2.5</label><title>ChP segmentation</title><p>For brain tissue segmentation preparation, 3D FLAIR images were registered to the T1‐weighted MPRAGE image using Advanced Normalization Tools (ANTs). Registration was performed with a rigid‐body transformation followed by affine alignment and non‐linear symmetric normalization.<xref rid="alz71020-fig-0001" ref-type="fig"> </xref>
+</p><p>ChP segmentation was performed in three steps. First, anatomical T1‐weighted MPRAGE images were automatically processed using FreeSurfer software (version 7.0), and initial masks of the lateral ventricles and ChP were generated. We also calculated total intracranial volume (TIV), which was used as a nuisance in the following analysis. Second, a Gaussian mixture model (GMM) was applied to refine ChP segmentation within the lateral ventricles, enhancing the differentiation among CSF, ventricular wall, and ChP voxels, thereby improving segmentation accuracy. Finally, GMM‐derived masks were manually inspected and adjusted with reference to 3D FLAIR images to ensure precise delineation.</p></sec><sec id="alz71020-sec-0140"><label>2.6</label><title>Statistical analysis</title><p>Data were reported as median (interquartile range [IQR]), mean ± standard deviation, or counts with percentages (%), according to standard statistical conventions. Group differences in demographic and clinical variables were assessed using the Kruskal–Wallis <italic toggle="yes">H</italic> test for continuous variables and chi‐squared tests for categorical variables. ChP volume differences across groups were analyzed using the Kruskal–Wallis <italic toggle="yes">H</italic> test, while CBF was compared using one‐way analysis of covariance, with age, sex, and TIV as covariates. Pairwise group comparisons were conducted using Tukey post hoc correction. Partial correlation analyses were used to examine associations between ChP imaging measures and neurological symptoms or plasma biomarkers while controlling the age, sex, and TIV covariates. Multiple comparisons were corrected using the false discovery rate (FDR). All statistical analyses were conducted using IBM SPSS statistics (version 28.0) and Python (version 3.9), and statistical significance was set at two‐tailed <italic toggle="yes">p </italic>&lt; 0.05.</p></sec></sec><sec id="alz71020-sec-0150"><label>3</label><title>RESULTS</title><sec id="alz71020-sec-0160"><label>3.1</label><title>Demographic and clinical characteristics</title><p>Among 153 participants, 86 had long COVID, 67 had recovered COVID, and 26 were HCs. Long COVID patients (median age, 61.5 years) were significantly younger than both the recovered COVID (median age, 72 years) and HC (median age, 72 years) participants (<italic toggle="yes">p </italic>&lt; 0.001). Compared to the other groups, long COVID patients showed higher prevalence of alcohol consumption (62.79%), hypertension (33.72%), and hypercholesterolemia (34.88%), whereas those rates in the recovered COVID group were 26.47%, 16.18%, and 19.12%, respectively. In HCs, these numbers were 7.69% for each condition (<italic toggle="yes">p </italic>&lt; 0.01). Mild cognitive impairment (MCI) was more common in the long COVID group (24.42%; <italic toggle="yes">p </italic>= 0.02). There were no significant group differences in ESS, UPSIT, MMSE, or MoCA scores (<italic toggle="yes">p </italic>&gt; 0.05). Detailed demographic and clinical characteristics are summarized in Table <xref rid="alz71020-tbl-0001" ref-type="table">1</xref>.</p><table-wrap position="float" id="alz71020-tbl-0001" content-type="TABLE" orientation="portrait"><label>TABLE 1</label><caption><p>Demographic and neuropsychological characteristics of study subjects.</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><thead><tr><th rowspan="2" align="left" colspan="1"/><th rowspan="2" align="left" colspan="1">
+<p>Long COVID</p>
+<p>(<italic toggle="yes">n</italic> = 86)</p>
+</th><th rowspan="2" align="left" colspan="1">
+<p>Recovered COVID</p>
+<p>(<italic toggle="yes">n</italic> = 67)</p>
+</th><th rowspan="2" align="left" colspan="1">
+<p>HC</p>
+<p>(<italic toggle="yes">n</italic> = 26)</p>
+</th><th rowspan="2" align="left" colspan="1">
+<italic toggle="yes">F</italic>/<italic toggle="yes">H</italic>/<italic toggle="yes">χ<sup>2</sup>
+</italic>
+</th><th rowspan="2" align="left" colspan="1">
+<italic toggle="yes">p</italic>
+</th><th colspan="3" style="border-bottom:solid 1px #000000" align="left" rowspan="1">Post hoc analysis</th></tr><tr style="border-bottom:solid 1px #000000"><th align="left" rowspan="1" colspan="1">
+<italic toggle="yes">P<sub>a</sub>
+</italic>
+</th><th align="left" rowspan="1" colspan="1">
+<italic toggle="yes">P<sub>b</sub>
+</italic>
+</th><th align="left" rowspan="1" colspan="1">
+<italic toggle="yes">P<sub>c</sub>
+</italic>
+</th></tr></thead><tbody><tr><td colspan="9" align="left" rowspan="1">Demographic information</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Age (years)</td><td align="left" rowspan="1" colspan="1">61.5 (47.88, 75.13)</td><td align="left" rowspan="1" colspan="1">72.00 (67.00, 77.00)</td><td align="left" rowspan="1" colspan="1">72.00 (66.8, 77.3)</td><td align="left" rowspan="1" colspan="1">30.21</td><td align="left" rowspan="1" colspan="1">&lt;0.001<xref rid="alz71020-tbl1-note-0003" ref-type="table-fn">
+<sup>*</sup>
+</xref>
+</td><td align="left" rowspan="1" colspan="1">&lt;0.001<xref rid="alz71020-tbl1-note-0003" ref-type="table-fn">
+<sup>*</sup>
+</xref>
+</td><td align="left" rowspan="1" colspan="1">&lt;0.001<xref rid="alz71020-tbl1-note-0003" ref-type="table-fn">
+<sup>*</sup>
+</xref>
+</td><td align="left" rowspan="1" colspan="1">0.22</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Sex (M/F)</td><td align="left" rowspan="1" colspan="1">41/45</td><td align="left" rowspan="1" colspan="1">21/46</td><td align="left" rowspan="1" colspan="1">8/18</td><td align="left" rowspan="1" colspan="1">5.35</td><td align="left" rowspan="1" colspan="1">0.07</td><td align="left" rowspan="1" colspan="1">–</td><td align="left" rowspan="1" colspan="1">–</td><td align="left" rowspan="1" colspan="1">–</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">BMI</td><td align="left" rowspan="1" colspan="1">26.96 (23.33, 30.59)</td><td align="left" rowspan="1" colspan="1">25.62 (22.15, 29.10)</td><td align="left" rowspan="1" colspan="1">26.10 (22.58, 29.62)</td><td align="left" rowspan="1" colspan="1">1.33</td><td align="left" rowspan="1" colspan="1">0.54</td><td align="left" rowspan="1" colspan="1">–</td><td align="left" rowspan="1" colspan="1">–</td><td align="left" rowspan="1" colspan="1">–</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Smoke status (<italic toggle="yes">n</italic>, %)</td><td align="left" rowspan="1" colspan="1">22 (25.58%)</td><td align="left" rowspan="1" colspan="1">13 (19.12%)</td><td align="left" rowspan="1" colspan="1">3 (11.54%)</td><td align="left" rowspan="1" colspan="1">2.63</td><td align="left" rowspan="1" colspan="1">0.27</td><td align="left" rowspan="1" colspan="1">–</td><td align="left" rowspan="1" colspan="1">–</td><td align="left" rowspan="1" colspan="1">–</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Alcohol consumption (<italic toggle="yes">n</italic>, %)</td><td align="left" rowspan="1" colspan="1">54 (62.79%)</td><td align="left" rowspan="1" colspan="1">18 (26.47%)</td><td align="left" rowspan="1" colspan="1">2 (7.69%)</td><td align="left" rowspan="1" colspan="1">34.71</td><td align="left" rowspan="1" colspan="1">&lt;0.001<xref rid="alz71020-tbl1-note-0003" ref-type="table-fn">
+<sup>*</sup>
+</xref>
+</td><td align="left" rowspan="1" colspan="1">&lt;0.001<xref rid="alz71020-tbl1-note-0003" ref-type="table-fn">
+<sup>*</sup>
+</xref>
+</td><td align="left" rowspan="1" colspan="1">&lt;0.001<xref rid="alz71020-tbl1-note-0003" ref-type="table-fn">
+<sup>*</sup>
+</xref>
+</td><td align="left" rowspan="1" colspan="1">0.005<xref rid="alz71020-tbl1-note-0003" ref-type="table-fn">
+<sup>*</sup>
+</xref>
+</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Hypertension (<italic toggle="yes">n</italic>, %)</td><td align="left" rowspan="1" colspan="1">29 (33.72%)</td><td align="left" rowspan="1" colspan="1">11 (16.18%)</td><td align="left" rowspan="1" colspan="1">2 (7.69%)</td><td align="left" rowspan="1" colspan="1">10.69</td><td align="left" rowspan="1" colspan="1">0.005<xref rid="alz71020-tbl1-note-0003" ref-type="table-fn">
+<sup>*</sup>
+</xref>
+</td><td align="left" rowspan="1" colspan="1">0.003<xref rid="alz71020-tbl1-note-0003" ref-type="table-fn">
+<sup>*</sup>
+</xref>
+</td><td align="left" rowspan="1" colspan="1">0.001<xref rid="alz71020-tbl1-note-0003" ref-type="table-fn">
+<sup>*</sup>
+</xref>
+</td><td align="left" rowspan="1" colspan="1">0.42</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Hypercholesterolemia (<italic toggle="yes">n</italic>, %)</td><td align="left" rowspan="1" colspan="1">30 (34.88%)</td><td align="left" rowspan="1" colspan="1">13 (19.12%)</td><td align="left" rowspan="1" colspan="1">2 (7.69%)</td><td align="left" rowspan="1" colspan="1">9.89</td><td align="left" rowspan="1" colspan="1">0.007<xref rid="alz71020-tbl1-note-0003" ref-type="table-fn">
+<sup>*</sup>
+</xref>
+</td><td align="left" rowspan="1" colspan="1">0.024</td><td align="left" rowspan="1" colspan="1">0.004<xref rid="alz71020-tbl1-note-0003" ref-type="table-fn">
+<sup>*</sup>
+</xref>
+</td><td align="left" rowspan="1" colspan="1">0.61</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Diabetes (<italic toggle="yes">n</italic>, %)</td><td align="left" rowspan="1" colspan="1">13 (15.12%)</td><td align="left" rowspan="1" colspan="1">4 (5.88%)</td><td align="left" rowspan="1" colspan="1">1 (3.85%)</td><td align="left" rowspan="1" colspan="1">4.88</td><td align="left" rowspan="1" colspan="1">0.09</td><td align="left" rowspan="1" colspan="1">–</td><td align="left" rowspan="1" colspan="1">–</td><td align="left" rowspan="1" colspan="1">–</td></tr><tr><td colspan="9" align="left" rowspan="1">Neuropsychological batteries</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">ESS</td><td align="left" rowspan="1" colspan="1">6.00 (2.75, 9.25)</td><td align="left" rowspan="1" colspan="1">5.00 (1.50, 8.50)</td><td align="left" rowspan="1" colspan="1">5.60 ± 2.51</td><td align="left" rowspan="1" colspan="1">1.99</td><td align="left" rowspan="1" colspan="1">0.37</td><td align="left" rowspan="1" colspan="1">–</td><td align="left" rowspan="1" colspan="1">–</td><td align="left" rowspan="1" colspan="1">–</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">UPSIT</td><td align="left" rowspan="1" colspan="1">34.00 (29.25, 38.75)</td><td align="left" rowspan="1" colspan="1">32.00 (26.50, 37.50)</td><td align="left" rowspan="1" colspan="1">30.80 ± 4.92</td><td align="left" rowspan="1" colspan="1">0.48</td><td align="left" rowspan="1" colspan="1">0.79</td><td align="left" rowspan="1" colspan="1">–</td><td align="left" rowspan="1" colspan="1">–</td><td align="left" rowspan="1" colspan="1">–</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">MMSE</td><td align="left" rowspan="1" colspan="1">29.00 (27.50, 30.5)</td><td align="left" rowspan="1" colspan="1">29.00 (28.00, 30.00)</td><td align="left" rowspan="1" colspan="1">28.60 ± 1.14</td><td align="left" rowspan="1" colspan="1">0.83</td><td align="left" rowspan="1" colspan="1">0.66</td><td align="left" rowspan="1" colspan="1">–</td><td align="left" rowspan="1" colspan="1">–</td><td align="left" rowspan="1" colspan="1">–</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">MoCA</td><td align="left" rowspan="1" colspan="1">27.00 (25.5, 28.5)</td><td align="left" rowspan="1" colspan="1">28.00 (26.50, 29.50)</td><td align="left" rowspan="1" colspan="1">25.60 ± 2.88</td><td align="left" rowspan="1" colspan="1">5.12</td><td align="left" rowspan="1" colspan="1">0.08</td><td align="left" rowspan="1" colspan="1">–</td><td align="left" rowspan="1" colspan="1">–</td><td align="left" rowspan="1" colspan="1">–</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">CDR‐0 (normal)</td><td align="left" rowspan="1" colspan="1">65 (75.58%)</td><td align="left" rowspan="1" colspan="1">56 (83.58%)</td><td align="left" rowspan="1" colspan="1">26 (100%)</td><td align="left" rowspan="1" colspan="1">8.81</td><td align="left" rowspan="1" colspan="1">0.01<xref rid="alz71020-tbl1-note-0003" ref-type="table-fn">
+<sup>*</sup>
+</xref>
+</td><td align="left" rowspan="1" colspan="1">0.77</td><td align="left" rowspan="1" colspan="1">0.03<xref rid="alz71020-tbl1-note-0003" ref-type="table-fn">
+<sup>*</sup>
+</xref>
+</td><td align="left" rowspan="1" colspan="1">0.20</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">CDR‐0.5 (MCI)</td><td align="left" rowspan="1" colspan="1">21 (24.42%)</td><td align="left" rowspan="1" colspan="1">11 (16.42%)</td><td align="left" rowspan="1" colspan="1">0</td><td align="left" rowspan="1" colspan="1">8.11</td><td align="left" rowspan="1" colspan="1">0.02<xref rid="alz71020-tbl1-note-0003" ref-type="table-fn">
+<sup>*</sup>
+</xref>
+</td><td align="left" rowspan="1" colspan="1">0.10</td><td align="left" rowspan="1" colspan="1">0.04<xref rid="alz71020-tbl1-note-0003" ref-type="table-fn">
+<sup>*</sup>
+</xref>
+</td><td align="left" rowspan="1" colspan="1">0.20</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">CDR‐1 (mild dementia)</td><td align="left" rowspan="1" colspan="1">1 (1.16%)</td><td align="left" rowspan="1" colspan="1">0</td><td align="left" rowspan="1" colspan="1">0</td><td align="left" rowspan="1" colspan="1">–</td><td align="left" rowspan="1" colspan="1">–</td><td align="left" rowspan="1" colspan="1">–</td><td align="left" rowspan="1" colspan="1">–</td><td align="left" rowspan="1" colspan="1">–</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">CDR‐SOB</td><td align="left" rowspan="1" colspan="1">0 (0, 0.5)</td><td align="left" rowspan="1" colspan="1">0 (0, 0)</td><td align="left" rowspan="1" colspan="1">0</td><td align="left" rowspan="1" colspan="1">3.03</td><td align="left" rowspan="1" colspan="1">0.08</td><td align="left" rowspan="1" colspan="1">–</td><td align="left" rowspan="1" colspan="1">–</td><td align="left" rowspan="1" colspan="1">–</td></tr></tbody></table><table-wrap-foot><fn id="alz71020-tbl1-note-0001"><p>
+<italic toggle="yes">Notes</italic>: Alcohol consumption in the past 3 months. <italic toggle="yes">P</italic>
+<sub>a</sub> denotes comparison between long COVID and recovered COVID; <italic toggle="yes">P</italic>
+<sub>b</sub> denotes comparison between long COVID and HC; and <italic toggle="yes">P</italic>
+<sub>c</sub> denotes comparison between recovered COVID and HC. Smoke status &gt; 100 in life.</p></fn><fn id="alz71020-tbl1-note-0002"><p>Abbreviations: BMI, body mass index; CDR, Clinical Dementia Rating; CDR‐SOB, Clinical Dementia Rating Scale Sum of Boxes; COVID, coronavirus disease; ESS, Epworth Sleepiness Scale; HC, healthy control; MCI, mild cognitive impairment; MMSE, Mini‐Mental State Examination; MoCA, Montreal Cognitive Assessment; UPSIT, University of Pennsylvania Smell Identification Test.</p></fn><fn id="alz71020-tbl1-note-0003"><label>*</label><p>Denotes statistically significant difference after Tukey post hoc correction.</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &amp; Sons, Ltd.</copyright-holder></permissions></table-wrap></sec><sec id="alz71020-sec-0170"><label>3.2</label><title>ChP alterations</title><p>As shown in Figure <xref rid="alz71020-fig-0001" ref-type="fig">1</xref>, both long COVID and recovered COVID patients exhibited significantly increased ChP volume (long COVID: median 2025.72 mm<sup>3</sup>, IQR 1618.55–2322.36; recovered COVID: median 1844 mm<sup>3</sup>, IQR 1584.77–2188) and reduced CBF (long COVID: 31.16 ± 10.75 mL/100 g/min; recovered COVID: 33.42 ± 11.37 mL/100 g/min) compared to HCl (mean volume: 1468.67 ± 363.28 mm<sup>3</sup>; CBF: 41.96 ± 12.38 mL/100 g/min; <italic toggle="yes">p </italic>&lt; 0.05). Within the COVID groups, long COVID patients showed significantly larger ChP volume than recovered COVID patients (<italic toggle="yes">p </italic>= 0.02); however, CBF did not differ significantly between them (<italic toggle="yes">p </italic>= 0.22). Statistical results are shown in Figure <xref rid="alz71020-fig-0002" ref-type="fig">2</xref> and Table <xref rid="alz71020-tbl-0002" ref-type="table">2</xref>. ChP volume was significantly negatively correlated with ChP CBF (<italic toggle="yes">r</italic> = –0.48, <italic toggle="yes">p </italic>&lt; 0.001) after adjusting for age, sex, and TIV. Additionally, ChP CBF showed a positive correlation with gray matter (GM) CBF (<italic toggle="yes">r</italic> = 0.24, <italic toggle="yes">p </italic>= 0.04). ChP volume also showed a negative correlation with GM CBF (<italic toggle="yes">r</italic> = –0.39, <italic toggle="yes">p </italic>= 0.001) after adjusting for TIV. However, this association lost significance after adjusting for age.</p><fig position="float" fig-type="FIGURE" id="alz71020-fig-0001" orientation="portrait"><label>FIGURE 1</label><caption><p>Representative example of ChP segmentation and corresponding volume and CBF in each group. Long COVID patient demonstrates enlarged ChP volume and reduced CBF compared to recovered COVID and HC subjects. CBF, cerebral blood flow; ChP, choroid plexus; COVID, coronavirus disease; FLAIR, fluid‐attenuated inversion recovery; HC, healthy control; MPRAGE, magnetization‐prepared rapid gradient echo.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-1" orientation="portrait" xlink:href="ALZ-22-e71020-g003.jpg"/></fig><fig position="float" fig-type="FIGURE" id="alz71020-fig-0002" orientation="portrait"><label>FIGURE 2</label><caption><p>Group‐wise comparisons of ChP volume (A) and blood flow (B) between long COVID, recovered COVID, and HC groups. Boxes represent the median and interquartile range, with crosses indicating group means. *Denotes statistically significant difference between compared groups. Specifically, long COVID patients showed significantly larger ChP volume compared to recovered COVID and HCs, and significantly reduced CBF compared to HCs. CBF, cerebral blood flow; ChP, choroid plexus; COVID, coronavirus disease; HC, healthy control.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-3" orientation="portrait" xlink:href="ALZ-22-e71020-g002.jpg"/></fig><table-wrap position="float" id="alz71020-tbl-0002" content-type="TABLE" orientation="portrait"><label>TABLE 2</label><caption><p>Comparisons of choroid plexus imaging characteristics among long COVID, recovered COVID, and HC subjects.</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="char" char="±" span="1"/><col align="char" char="." span="1"/><col align="char" char="." span="1"/><col align="char" char="." span="1"/><col align="char" char="." span="1"/><col align="char" char="." span="1"/><thead><tr><th rowspan="2" align="left" colspan="1">Characteristics</th><th rowspan="2" align="left" colspan="1">Long COVID</th><th rowspan="2" align="left" colspan="1">Recovered COVID</th><th rowspan="2" align="left" colspan="1">HC</th><th rowspan="2" align="left" colspan="1">
+<italic toggle="yes">F</italic>/<italic toggle="yes">H</italic>
+</th><th rowspan="2" align="left" colspan="1">
+<italic toggle="yes">p</italic>
+</th><th colspan="3" align="left" style="border-bottom:solid 1px #000000" rowspan="1">Post hoc comparisons</th></tr><tr style="border-bottom:solid 1px #000000"><th align="left" rowspan="1" colspan="1">
+<italic toggle="yes">P<sub>a</sub>
+</italic>
+</th><th align="left" rowspan="1" colspan="1">
+<italic toggle="yes">P<sub>b</sub>
+</italic>
+</th><th align="left" rowspan="1" colspan="1">
+<italic toggle="yes">P<sub>c</sub>
+</italic>
+</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">Volume (mm<sup>3</sup>)</td><td align="left" rowspan="1" colspan="1">2025.72 (1618.55, 2322.36)</td><td align="left" rowspan="1" colspan="1">1844 (1584.77, 2188)</td><td align="char" rowspan="1" colspan="1">1468.67 ± 363.28</td><td align="char" rowspan="1" colspan="1">31.74</td><td align="char" rowspan="1" colspan="1">&lt;0.001<xref rid="alz71020-tbl2-note-0003" ref-type="table-fn">
+<sup>*</sup>
+</xref>
+</td><td align="char" rowspan="1" colspan="1">0.02<xref rid="alz71020-tbl2-note-0003" ref-type="table-fn">
+<sup>*</sup>
+</xref>
+</td><td align="char" rowspan="1" colspan="1">&lt;0.001<xref rid="alz71020-tbl2-note-0003" ref-type="table-fn">
+<sup>*</sup>
+</xref>
+</td><td align="char" rowspan="1" colspan="1">0.004<xref rid="alz71020-tbl2-note-0003" ref-type="table-fn">
+<sup>*</sup>
+</xref>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">CBF (mL/100 g/min)</td><td align="left" rowspan="1" colspan="1">31.16 ± 10.75</td><td align="left" rowspan="1" colspan="1">33.42 ± 11.37</td><td align="char" rowspan="1" colspan="1">41.96 ± 12.38</td><td align="char" rowspan="1" colspan="1">6.57</td><td align="char" rowspan="1" colspan="1">0.002<xref rid="alz71020-tbl2-note-0003" ref-type="table-fn">
+<sup>*</sup>
+</xref>
+</td><td align="char" rowspan="1" colspan="1">0.22</td><td align="char" rowspan="1" colspan="1">0.001<xref rid="alz71020-tbl2-note-0003" ref-type="table-fn">
+<sup>*</sup>
+</xref>
+</td><td align="char" rowspan="1" colspan="1">0.03<xref rid="alz71020-tbl2-note-0003" ref-type="table-fn">
+<sup>*</sup>
+</xref>
+</td></tr></tbody></table><table-wrap-foot><fn id="alz71020-tbl2-note-0001"><p>
+<italic toggle="yes">Notes</italic>: <italic toggle="yes">P</italic>
+<sub>a</sub> denotes comparison between long COVID and recovered COVID; <italic toggle="yes">P</italic>
+<sub>b</sub> denotes comparison between long COVID and HC; <italic toggle="yes">P</italic>
+<sub>c</sub> denotes comparison between recovered COVID and HC. All comparisons were adjusted for age, sex, and intracranial volume.</p></fn><fn id="alz71020-tbl2-note-0002"><p>Abbreviations: CBF, cerebral blood flow; COVID, coronavirus disease; HC, healthy control.</p></fn><fn id="alz71020-tbl2-note-0003"><label>*</label><p>Denotes statistically significant difference after Tukey post hoc correction.</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &amp; Sons, Ltd.</copyright-holder></permissions></table-wrap><p>To evaluate whether ChP perfusion alterations were associated with global perfusion, we additionally compared GM CBF and the ChP‐to‐GM CBF ratio (ChP/GM CBF) across groups. GM CBF did not differ significantly among the three groups (<italic toggle="yes">p </italic>&gt; 0.05). In contrast, the ChP/GM CBF ratio was significantly lower in long COVID compared to HCs (<italic toggle="yes">p </italic>= 0.02), but did not differ from the recovered COVID group (<italic toggle="yes">p </italic>&gt; 0.05).</p></sec><sec id="alz71020-sec-0180"><label>3.3</label><title>Correlations between ChP imaging measures and plasma biomarkers</title><p>In the long COVID group, we examined two classes of plasma biomarkers: inflammatory and AD related. As shown in Figure <xref rid="alz71020-fig-0003" ref-type="fig">3</xref>, ChP volume was positively correlated with IL‐6 (<italic toggle="yes">r</italic> = 0.28, <italic toggle="yes">p </italic>= 0.02) and TNF‐α (<italic toggle="yes">r</italic> = 0.33, <italic toggle="yes">p </italic>= 0.007), while ChP CBF was negatively correlated with TNF‐α (<italic toggle="yes">r</italic> = –0.39, <italic toggle="yes">p </italic>= 0.003). These associations lost significance after adjusting for age, sex, and TIV. Among AD‐related biomarkers, both ChP volume and CBF showed strong correlations with p‐tau217 (volume: <italic toggle="yes">r</italic> = 0.54, <italic toggle="yes">p </italic>&lt; 0.001; CBF: <italic toggle="yes">r</italic> = –0.56, <italic toggle="yes">p </italic>= 0.001). ChP volume was also positively correlated with GFAP (<italic toggle="yes">r</italic> = 0.35, <italic toggle="yes">p </italic>= 0.005). These AD biomarker‐related associations remained significant after adjustment for age, sex, and TIV covariates. See Table <xref rid="alz71020-tbl-0003" ref-type="table">3</xref> for complete partial correlation results.</p><fig position="float" fig-type="FIGURE" id="alz71020-fig-0003" orientation="portrait"><label>FIGURE 3</label><caption><p>Significant correlation analyses between ChP imaging characteristics and peripheral plasma biomarkers. A, Correlations among ChP volume, ChP CBF, and inflammatory biomarkers; (B) correlations among ChP volume, ChP CBF, and Alzheimer's disease (AD)‐related biomarkers. <italic toggle="yes">r</italic>
+<sub>uncorr</sub>/<italic toggle="yes">p</italic>
+<sub>uncorr</sub>: Correlation coefficients and <italic toggle="yes">p</italic> values without variables correction; <italic toggle="yes">r</italic>
+<sub>corr</sub>/<italic toggle="yes">p</italic>
+<sub>corr</sub>: Partial correlation coefficients and <italic toggle="yes">p</italic> values adjusted for age, sex, and intracranial volume. *Denotes statistically significant correlation in each model. CBF, cerebral blood flow; ChP, choroid plexus; GFAP, glial fibrillary acidic protein; IL, interleukin; p‐tau217, phosphorylated tau217; TNF‐α, tumor necrosis factor alpha.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-5" orientation="portrait" xlink:href="ALZ-22-e71020-g001.jpg"/></fig><table-wrap position="float" id="alz71020-tbl-0003" content-type="TABLE" orientation="portrait"><label>TABLE 3</label><caption><p>Correlation analyses of ChP imaging characteristics with plasma biomarkers in long COVID patients.</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="char" char="." span="1"/><col align="char" char="." span="1"/><col align="char" char="." span="1"/><col align="char" char="." span="1"/><thead><tr><th align="left" rowspan="1" colspan="1"/><th align="left" colspan="2" style="border-bottom:solid 1px #000000" rowspan="1">ChP volume</th><th align="left" colspan="2" style="border-bottom:solid 1px #000000" rowspan="1">ChP CBF</th></tr><tr style="border-bottom:solid 1px #000000"><th align="left" rowspan="1" colspan="1"/><th align="left" rowspan="1" colspan="1">(<italic toggle="yes">r</italic>
+<sub>uncorr</sub>/<italic toggle="yes">P</italic>
+<sub>uncorr</sub>)</th><th align="left" rowspan="1" colspan="1">(<italic toggle="yes">r</italic>
+<sub>corr</sub>/<italic toggle="yes">P<sub>corr</sub>
+</italic>)</th><th align="left" rowspan="1" colspan="1">(<italic toggle="yes">r</italic>
+<sub>uncorr</sub>/<italic toggle="yes">P</italic>
+<sub>uncorr</sub>)</th><th align="left" rowspan="1" colspan="1">(<italic toggle="yes">r</italic>
+<sub>corr</sub>/<italic toggle="yes">P<sub>corr</sub>
+</italic>)</th></tr></thead><tbody><tr><td colspan="5" align="left" rowspan="1">Inflammatory biomarker</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">IL‐6 (pg/mL)</td><td align="char" rowspan="1" colspan="1">0.28/0.02<xref rid="alz71020-tbl3-note-0003" ref-type="table-fn">
+<sup>*</sup>
+</xref>
+</td><td align="char" rowspan="1" colspan="1">0.26/0.048</td><td align="char" rowspan="1" colspan="1">−0.18/0.20</td><td align="char" rowspan="1" colspan="1">−0.10/0.50</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">IL‐10 (pg/mL)</td><td align="char" rowspan="1" colspan="1">0.27/0.03</td><td align="char" rowspan="1" colspan="1">0.26/0.044</td><td align="char" rowspan="1" colspan="1">−0.08/0.57</td><td align="char" rowspan="1" colspan="1">−0.02/0.88</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">TNF‐α (pg/mL)</td><td align="char" rowspan="1" colspan="1">0.33/0.007<xref rid="alz71020-tbl3-note-0003" ref-type="table-fn">
+<sup>*</sup>
+</xref>
+</td><td align="char" rowspan="1" colspan="1">0.20/0.11</td><td align="char" rowspan="1" colspan="1">−0.39/0.003<xref rid="alz71020-tbl3-note-0003" ref-type="table-fn">
+<sup>*</sup>
+</xref>
+</td><td align="char" rowspan="1" colspan="1">−0.25/0.07</td></tr><tr><td colspan="5" align="left" rowspan="1">AD‐related biomarker</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">NfL (pg/mL)</td><td align="char" rowspan="1" colspan="1">0.20/0.12</td><td align="char" rowspan="1" colspan="1">−0.07/0.58</td><td align="char" rowspan="1" colspan="1">−0.11/0.41</td><td align="char" rowspan="1" colspan="1">0.17/0.23</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">GFAP (pg/mL)</td><td align="char" rowspan="1" colspan="1">0.46/0.001<xref rid="alz71020-tbl3-note-0003" ref-type="table-fn">
+<sup>*</sup>
+</xref>
+</td><td align="char" rowspan="1" colspan="1">0.35/0.005<xref rid="alz71020-tbl3-note-0003" ref-type="table-fn">
+<sup>*</sup>
+</xref>
+</td><td align="char" rowspan="1" colspan="1">−0.41/0.002<xref rid="alz71020-tbl3-note-0003" ref-type="table-fn">
+<sup>*</sup>
+</xref>
+</td><td align="char" rowspan="1" colspan="1">−0.26/0.06</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">p‐tau217 (pg/mL)</td><td align="char" rowspan="1" colspan="1">0.48/0.002<xref rid="alz71020-tbl3-note-0003" ref-type="table-fn">
+<sup>*</sup>
+</xref>
+</td><td align="char" rowspan="1" colspan="1">0.54/ &lt; 0.001<xref rid="alz71020-tbl3-note-0003" ref-type="table-fn">
+<sup>*</sup>
+</xref>
+</td><td align="char" rowspan="1" colspan="1">−0.49/0.004<xref rid="alz71020-tbl3-note-0003" ref-type="table-fn">
+<sup>*</sup>
+</xref>
+</td><td align="char" rowspan="1" colspan="1">−0.56/0.001<xref rid="alz71020-tbl3-note-0003" ref-type="table-fn">
+<sup>*</sup>
+</xref>
+</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Aβ42/Aβ40</td><td align="char" rowspan="1" colspan="1">−0.16/0.20</td><td align="char" rowspan="1" colspan="1">−0.05/0.73</td><td align="char" rowspan="1" colspan="1">0.21/0.13</td><td align="char" rowspan="1" colspan="1">−0.04/0.78</td></tr></tbody></table><table-wrap-foot><fn id="alz71020-tbl3-note-0001"><p>
+<italic toggle="yes">Notes</italic>: <italic toggle="yes">r</italic>
+<sub>uncorr</sub>/<italic toggle="yes">P</italic>
+<sub>uncorr</sub>: Correlation coefficients and <italic toggle="yes">P</italic> values without variables correction; <italic toggle="yes">r</italic>
+<sub>corr</sub>/<italic toggle="yes">P</italic>
+<sub>corr</sub>: Partial correlation coefficients and <italic toggle="yes">P</italic> values corrected for age, sex, and intracranial volume.</p></fn><fn id="alz71020-tbl3-note-0002"><p>Abbreviations: Aβ, amyloid beta; AD, Alzheimer's disease; CBF, cerebral blood flow; ChP choroid plexus; COVID, coronavirus disease; GFAP, glial fibrillary acidic protein; IL, interleukin; NfL, neurofilament light chain; p‐tau217, phosphorylated tau217; TNF‐α, tumor necrosis factor alpha.</p></fn><fn id="alz71020-tbl3-note-0003"><label>*</label><p>Denotes significant difference after false discovery rate correction.</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &amp; Sons, Ltd.</copyright-holder></permissions></table-wrap></sec><sec id="alz71020-sec-0190"><label>3.4</label><title>Correlations between ChP imaging measures and neurological symptoms</title><p>In the long COVID group, partial correlation analyses revealed that ChP volume was positively correlated with sleepiness (ESS; <italic toggle="yes">r</italic> = 0.37, <italic toggle="yes">p </italic>= 0.004) and negatively with CBF of ChP (<italic toggle="yes">r</italic> = –0.47, <italic toggle="yes">p </italic>&lt; 0.001), after adjusting for age, sex, and TIV. Additionally, ChP volume showed a negative correlation with MMSE scores (<italic toggle="yes">r</italic> = –0.29, <italic toggle="yes">p </italic>= 0.02), and ChP CBF was negatively correlated with CDR Sum of Boxes scores (<italic toggle="yes">r</italic> = –0.33, <italic toggle="yes">p </italic>= 0.01; Figure <xref rid="alz71020-fig-0004" ref-type="fig">4</xref>). Detailed statistics are presented in Table <xref rid="alz71020-tbl-0004" ref-type="table">4</xref>.</p><fig position="float" fig-type="FIGURE" id="alz71020-fig-0004" orientation="portrait"><label>FIGURE 4</label><caption><p>Significant partial correlation analyses between ChP imaging characteristics and neurological assessments. A, Associations of ChP volume with ESS (left) and ChP CBF with ESS (right). B, Associations of ChP volume with MMSE (left) and ChP, CBF with CDR‐SOB (right). <italic toggle="yes">r</italic>
+<sub>corr</sub>/<italic toggle="yes">p</italic>
+<sub>corr</sub>: Partial correlation coefficients and <italic toggle="yes">p</italic> values adjusted for age, sex, and intracranial volume. *Denotes statistically significant correlation in each model. CBF, cerebral blood flow; CDR‐SOB, Clinical Dementia Rating Scale Sum of Boxes; ChP, choroid plexus; ESS, Epworth Sleepiness Scale; MMSE, Mini‐Mental State Examination.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-7" orientation="portrait" xlink:href="ALZ-22-e71020-g004.jpg"/></fig><table-wrap position="float" id="alz71020-tbl-0004" content-type="TABLE" orientation="portrait"><label>TABLE 4</label><caption><p>Correlations between ChP imaging characteristics and neuropsychological batteries in long COVID patients.</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="char" char="." span="1"/><col align="char" char="." span="1"/><col align="char" char="." span="1"/><col align="char" char="." span="1"/><thead><tr><th align="left" rowspan="1" colspan="1"/><th align="left" colspan="2" style="border-bottom:solid 1px #000000" rowspan="1">ChP volume</th><th align="left" colspan="2" style="border-bottom:solid 1px #000000" rowspan="1">ChP CBF</th></tr><tr style="border-bottom:solid 1px #000000"><th align="left" rowspan="1" colspan="1">Neuropsychological batteries</th><th align="left" rowspan="1" colspan="1">(<italic toggle="yes">r</italic>
+<sub>uncorr</sub>/<italic toggle="yes">P</italic>
+<sub>uncorr</sub>)</th><th align="left" rowspan="1" colspan="1">(<italic toggle="yes">r</italic>
+<sub>corr</sub>/<italic toggle="yes">P<sub>corr</sub>
+</italic>)</th><th align="left" rowspan="1" colspan="1">(<italic toggle="yes">r</italic>
+<sub>uncorr</sub>/<italic toggle="yes">P</italic>
+<sub>uncorr</sub>)</th><th align="left" rowspan="1" colspan="1">(<italic toggle="yes">r</italic>
+<sub>corr</sub>/<italic toggle="yes">P<sub>corr</sub>
+</italic>)</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">ESS</td><td align="char" rowspan="1" colspan="1">0.34/0.007<xref rid="alz71020-tbl4-note-0003" ref-type="table-fn">
+<sup>*</sup>
+</xref>
+</td><td align="char" rowspan="1" colspan="1">0.37/0.004<xref rid="alz71020-tbl4-note-0003" ref-type="table-fn">
+<sup>*</sup>
+</xref>
+</td><td align="char" rowspan="1" colspan="1">−0.41/0.002<xref rid="alz71020-tbl4-note-0003" ref-type="table-fn">
+<sup>*</sup>
+</xref>
+</td><td align="char" rowspan="1" colspan="1">−0.47/ &lt; 0.001<xref rid="alz71020-tbl4-note-0003" ref-type="table-fn">
+<sup>*</sup>
+</xref>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">UPSIT</td><td align="char" rowspan="1" colspan="1">−0.29/0.03</td><td align="char" rowspan="1" colspan="1">−0.17/0.23</td><td align="char" rowspan="1" colspan="1">0.33/0.02<xref rid="alz71020-tbl4-note-0003" ref-type="table-fn">
+<sup>*</sup>
+</xref>
+</td><td align="char" rowspan="1" colspan="1">0.14/0.35</td></tr><tr><td align="left" rowspan="1" colspan="1">MMSE</td><td align="char" rowspan="1" colspan="1">−0.41/ &lt; 0.001<xref rid="alz71020-tbl4-note-0003" ref-type="table-fn">
+<sup>*</sup>
+</xref>
+</td><td align="char" rowspan="1" colspan="1">−0.29/0.02<xref rid="alz71020-tbl4-note-0003" ref-type="table-fn">
+<sup>*</sup>
+</xref>
+</td><td align="char" rowspan="1" colspan="1">0.32/0.01<xref rid="alz71020-tbl4-note-0003" ref-type="table-fn">
+<sup>*</sup>
+</xref>
+</td><td align="char" rowspan="1" colspan="1">0.15/0.28</td></tr><tr><td align="left" rowspan="1" colspan="1">MoCA</td><td align="char" rowspan="1" colspan="1">−0.23/0.06</td><td align="char" rowspan="1" colspan="1">−0.11/0.40</td><td align="char" rowspan="1" colspan="1">0.33/0.01<xref rid="alz71020-tbl4-note-0003" ref-type="table-fn">
+<sup>*</sup>
+</xref>
+</td><td align="char" rowspan="1" colspan="1">0.18/0.17</td></tr><tr><td align="left" rowspan="1" colspan="1">CDR‐SOB</td><td align="char" rowspan="1" colspan="1">0.19/0.11</td><td align="char" rowspan="1" colspan="1">0.19/0.11</td><td align="char" rowspan="1" colspan="1">−0.43/0.001<xref rid="alz71020-tbl4-note-0003" ref-type="table-fn">
+<sup>*</sup>
+</xref>
+</td><td align="char" rowspan="1" colspan="1">−0.33/0.01<xref rid="alz71020-tbl4-note-0003" ref-type="table-fn">
+<sup>*</sup>
+</xref>
+</td></tr></tbody></table><table-wrap-foot><fn id="alz71020-tbl4-note-0001"><p>
+<italic toggle="yes">Notes</italic>: <italic toggle="yes">r</italic>
+<sub>uncorr</sub>/<italic toggle="yes">P</italic>
+<sub>uncorr</sub>: Correlation coefficients and <italic toggle="yes">p</italic> values without variables correction; <italic toggle="yes">r</italic>
+<sub>corr</sub>/<italic toggle="yes">P</italic>
+<sub>corr</sub>: Partial correlation coefficients and <italic toggle="yes">p</italic> values adjusted for age, sex, and intracranial volume.</p></fn><fn id="alz71020-tbl4-note-0002"><p>Abbreviations: CBF, cerebral blood flow; CDR‐SOB, Clinical Dementia Rating Scale Sum of Boxes; ChP, choroid plexus; ESS, Epworth Sleepiness Scale; MMSE, Mini‐Mental State Examination; MoCA, Montreal Cognitive Assessment; UPSIT, University of Pennsylvania Smell Identification Test.</p></fn><fn id="alz71020-tbl4-note-0003"><label>*</label><p>Denotes significant difference after false discovery rate correction.</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &amp; Sons, Ltd.</copyright-holder></permissions></table-wrap></sec></sec><sec id="alz71020-sec-0200"><label>4</label><title>DISCUSSION</title><p>The present study investigated structural and perfusion alterations in the ChP and their associations with neurological symptoms and plasma biomarkers in individuals with long COVID. Overall, these patients exhibited enlarged ChP and reduced blood perfusion. These alterations were associated with sleep disorders and cognitive symptoms and correlated with AD‐related plasma biomarkers and neurodegeneration. Our findings extend prior research results that focus mainly on ChP volume and introduce novel evidence of blood perfusion alterations as well as their correlations with cognitive symptoms and plasma biomarkers. These results suggest that ChP dysfunction in long COVID patients may underlie deficits in CSF synthesis and BCSFB integrity, possibly playing a role in the development of AD‐like pathology and cognitive symptoms.</p><p>Our findings are consistent with existing evidence that implicates the ChP abnormalities in the systemic COVID‐19 infection.<xref rid="alz71020-bib-0021" ref-type="bibr">
+<sup>21</sup>
+</xref>, <xref rid="alz71020-bib-0022" ref-type="bibr">
+<sup>22</sup>
+</xref>, <xref rid="alz71020-bib-0028" ref-type="bibr">
+<sup>28</sup>
+</xref> Studies in brain organoids have demonstrated a clear tropism of SARS‐CoV‐2 for ChP epithelium, even with minimal or no infection of glial cells or neurons.<xref rid="alz71020-bib-0022" ref-type="bibr">
+<sup>22</sup>
+</xref> ChP is a highly vascularized structure that forms the BCSFB, composed of fenestrated capillaries and a tight epithelial layer. Beyond CSF production, ChP is an active site for immune surveillance, and the ChP epithelial cells produce cytokines, chemokines, and adhesion molecules that regulate recruitment and activation of immune cells. Neurological complications of COVID‐19 may result from aberrant inflammation initiated in the peripheral circulatory system, potentially entering the CNS and mediated by the ChP. Analysis of CSF from COVID patients further supports this hypothesis of a “cytokine storm” syndrome, exhibiting an overactive immune response characterized by excessive inflammation with rare viral presence in the CSF, but frequent abnormalities such as elevated protein levels, increased inflammatory factors, and pleocytosis.<xref rid="alz71020-bib-0024" ref-type="bibr">
+<sup>24</sup>
+</xref>, <xref rid="alz71020-bib-0038" ref-type="bibr">
+<sup>38</sup>
+</xref> Therefore, the ChP serves as a mediator between the CNS and peripheral immune system, and may act as a portal for virus‐induced pathogen entry into the brain, as evidenced by prior animal studies.<xref rid="alz71020-bib-0039" ref-type="bibr">
+<sup>39</sup>
+</xref>
+</p><p>Our results demonstrated that ChP enlargement was positively correlated with plasma IL‐6, TNF‐α, and GFAP. However, associations between ChP volume and inflammatory factors (IL‐6, TNF‐α), but not GFAP, were attenuated after adjusting for age, indicating the strong influence of age on inflammation and age‐related ChP degeneration. This may also indicate that inflammatory activity is diminished in these patients during the chronic, rather than the acute, phase of infection. GFAP, an astrocytic biomarker, elevated during neuronal injury, glial activation, and scarring,<xref rid="alz71020-bib-0040" ref-type="bibr">
+<sup>40</sup>
+</xref> is recently considered a potential biomarker of AD.<xref rid="alz71020-bib-0041" ref-type="bibr">
+<sup>41</sup>
+</xref> Increasing evidence suggests that blood GFAP levels can be used to detect early‐stage AD.<xref rid="alz71020-bib-0042" ref-type="bibr">
+<sup>42</sup>
+</xref> Elevated GFAP levels have also been reported in both acute SARS‐CoV‐2 infection and in long COVID,<xref rid="alz71020-bib-0043" ref-type="bibr">
+<sup>43</sup>
+</xref> indicating immune‐mediated astroglia injury and hypoxia‐driven inflammation may contribute to post‐infection neurological sequelae.</p><p>However, ChP enlargement has long been reported in normal aging<xref rid="alz71020-bib-0030" ref-type="bibr">
+<sup>30</sup>
+</xref>, <xref rid="alz71020-bib-0036" ref-type="bibr">
+<sup>36</sup>
+</xref>, <xref rid="alz71020-bib-0044" ref-type="bibr">
+<sup>44</sup>
+</xref> in addition to several neurodegenerative and neuroinflammatory disorders, including AD,<xref rid="alz71020-bib-0031" ref-type="bibr">
+<sup>31</sup>
+</xref> multiple sclerosis,<xref rid="alz71020-bib-0045" ref-type="bibr">
+<sup>45</sup>
+</xref> and amyotrophic lateral sclerosis.<xref rid="alz71020-bib-0046" ref-type="bibr">
+<sup>46</sup>
+</xref>
+<italic toggle="yes">Post mortem</italic> analyses of human ChP provide insights into these in vivo observations, revealing increased stromal fibrosis with thickening of vessel walls and capillary membranes,<xref rid="alz71020-bib-0047" ref-type="bibr">
+<sup>47</sup>
+</xref> stromal calcification,<xref rid="alz71020-bib-0048" ref-type="bibr">
+<sup>48</sup>
+</xref> and tortuous or occluded ChP arteries.<xref rid="alz71020-bib-0049" ref-type="bibr">
+<sup>49</sup>
+</xref> The volumetric findings in our study may therefore reflect these underlying histopathological changes that are often seen in neurodegenerative and neuroinflammatory conditions. Furthermore, one prior study suggests that chronic inflammation may upregulate ChP‐derived growth factors, resulting in epithelial cell proliferation and further contribute to ChP volume increases.<xref rid="alz71020-bib-0035" ref-type="bibr">
+<sup>35</sup>
+</xref> The present study identified that ChP enlargement is positively correlated with increased sleepiness and negatively correlated with lower MMSE scores, which are both pertinent indicators of neurodegenerative or AD‐related clinical alterations. Previous studies also reported ChP enlargement in patients with excessive daytime sleepiness and cognitive impairment.<xref rid="alz71020-bib-0021" ref-type="bibr">
+<sup>21</sup>
+</xref>, <xref rid="alz71020-bib-0050" ref-type="bibr">
+<sup>50</sup>
+</xref> Sleep disorders are common in long COVID, with reported rates ranging from 6% to &gt; 70%, and encompass insomnia, sleep‐disordered breathing, or hypersomnolence.<xref rid="alz71020-bib-0051" ref-type="bibr">
+<sup>51</sup>
+</xref> Larger ChP volume has also been associated with lower CSF secretion rates, resulting in diminished CSF turnover and impaired glymphatic function,<xref rid="alz71020-bib-0052" ref-type="bibr">
+<sup>52</sup>
+</xref> which is considered a potential pathogenic mechanism of AD. Cognitive symptoms are also among the most common neurological manifestations of long COVID.<xref rid="alz71020-bib-0053" ref-type="bibr">
+<sup>53</sup>
+</xref>
+</p><p>In addition to structural alterations, we observed decreased blood flow in the ChP. The ChP is supplied by the anterior and posterior choroidal arteries, regulated by molecules such as arginine vasopressin, angiotensin II, dopamine, and serotonin. SARS‐CoV‐2 can damage capillary endothelium via the angiotensin‐converting enzyme‐2 (ACE2), leading to endotheliitis, vascular constriction, and vessel wall thickening.<xref rid="alz71020-bib-0054" ref-type="bibr">
+<sup>54</sup>
+</xref> Dysregulation of neurotransmitter and hormonal signaling may further contribute to vascular alterations in long COVID. In addition, emerging evidence suggests that COVID‐19 may accelerate vascular degeneration, characterized by increased arterial stiffness and endothelial dysfunction.<xref rid="alz71020-bib-0055" ref-type="bibr">
+<sup>55</sup>
+</xref> Given the highly vascularized nature of the ChP, such systemic vascular alterations could contribute to the ChP hypoperfusion observed in long COVID. However, reduced ChP CBF may also potentially reflect a more global cerebral hypoperfusion. Our previous work demonstrated age‐related declines in both GM and ChP perfusion, with ChP perfusion showing a steeper rate of decline.<xref rid="alz71020-bib-0030" ref-type="bibr">
+<sup>30</sup>
+</xref> To distinguish regional from global perfusion effects, we compared GM CBF and calculated the ChP‐to‐GM (ChP/GM) CBF ratio. While GM CBF did not differ significantly among groups, both ChP CBF and the ChP/GM CBF ratio were significantly reduced in the long COVID group. These findings indicate a regionally selective vulnerability of the ChP in long COVID, which is consistent with prior evidence that the BCSFB of the ChP is susceptible to SARS‐CoV‐2 infection<xref rid="alz71020-bib-0056" ref-type="bibr">
+<sup>56</sup>
+</xref> and that the ChP is particularly responsive to inflammatory and related stimuli in the ChP microenvironment.<xref rid="alz71020-bib-0057" ref-type="bibr">
+<sup>57</sup>
+</xref> Functionally, reduced ChP perfusion has been linked to diminished CSF secretion and impaired fluid circulation.<xref rid="alz71020-bib-0033" ref-type="bibr">
+<sup>33</sup>
+</xref>, <xref rid="alz71020-bib-0058" ref-type="bibr">
+<sup>58</sup>
+</xref> Thus, the combination of increased volume and decreased perfusion may restrict blood–epithelium exchange, disrupting CSF regulation. Because CSF is essential for immune response and CSF production as well as metabolic waste clearance, such dysfunction may underlie the neurological symptoms observed in long COVID. In our study, reduced ChP blood flow was correlated with cognitive impairment and daytime sleepiness. Daytime sleepiness, recognized as a risk factor for AD, has been linked to increased arterial stiffness and poorer cognitive performance, which may in turn contribute to reduced ChP perfusion and impaired glymphatic clearance, ultimately promoting AD occurrence in long COVID.<xref rid="alz71020-bib-0059" ref-type="bibr">
+<sup>59</sup>
+</xref>, <xref rid="alz71020-bib-0060" ref-type="bibr">
+<sup>60</sup>
+</xref>, <xref rid="alz71020-bib-0061" ref-type="bibr">
+<sup>61</sup>
+</xref>
+</p><p>We also found that both ChP volume and CBF were significantly correlated with blood p‐tau217 levels. Plasma p‐tTau217 is a highly sensitive biomarker for identifying AD, reflecting both amyloid and tau burden.<xref rid="alz71020-bib-0062" ref-type="bibr">
+<sup>62</sup>
+</xref> SARS‐CoV‐2 infection has also been associated with Aβ pathology and is thought to increase the risk of future AD.<xref rid="alz71020-bib-0063" ref-type="bibr">
+<sup>63</sup>
+</xref> Accumulating evidence suggests a potential association between COVID‐19 infection and AD pathogenesis. For example, tau aggregation may be promoted through activation of the NLR family pyrin domain containing 3 (NLRP3), which is triggered during SARS‐CoV‐2 infection.<xref rid="alz71020-bib-0064" ref-type="bibr">
+<sup>64</sup>
+</xref> In addition, the apolipoprotein E ε4 allele, a well‐established genetic risk factor for AD, has been proposed as a biomarker for COVID‐19.<xref rid="alz71020-bib-0065" ref-type="bibr">
+<sup>65</sup>
+</xref> Because ChP also plays an essential role in neuroprotection by synthesizing and secreting proteins such as transthyretin and the receptor megalin, which facilitates Aβ clearance,<xref rid="alz71020-bib-0066" ref-type="bibr">
+<sup>66</sup>
+</xref>, <xref rid="alz71020-bib-0067" ref-type="bibr">
+<sup>67</sup>
+</xref> the observed ChP enlargement and reduced perfusion, together with elevated p‐tau217, may reflect a greater burden of AD‐related pathology in long COVID. However, further studies are warranted to confirm these associations and to clarify their implications for AD pathogenesis.</p><p>Several limitations should be acknowledged. First, ChP segmentation may not fully capture its complex structure due to partial‐volume effect. To improve accuracy, we applied an automated GMM approach followed by manual inspection and adjustment on 3D FLAIR images, which revealed better ChP contrast than T1‐weighted imaging. Second, the overall sample size was limited, particularly for the HC group, resulting in an imbalanced age distribution across groups. Although age was included as a covariate in the analysis, validation in larger cohorts with age‐matched and age‐stratified analysis is needed to better account for age effects. Third, the standard single‐delay pCASL sequence used in this study may not accurately quantify ChP perfusion, underscoring the need for high‐resolution multiple PLD‐based pCASL with improved CBF measurement. Fourth, incomplete neurological and biomarker profiles may have biased correlation analyses, which highlights the importance of comprehensive data collection in future studies. Finally, the cross‐sectional design limits causal inference. It remains unclear whether ChP alterations represent a cause of neurodegeneration or a secondary response to parenchymal changes. Longitudinal follow‐up is necessary to clarify the temporal sequence and the progression of ChP alterations across the disease course.</p><p>In conclusion, we identified ChP alterations in long COVID, characterized by enlarged volume and reduced blood flow. These alterations were associated with sleep disturbances, cognitive impairment, and plasma biomarkers of AD, suggesting a potential link to future dementia risk. Extending prior volumetric studies, our findings highlight perfusion abnormalities, closely associated with ChP enlargement, as an additional feature of ChP pathology in long COVID. The ChP abnormalities thus represent a promising marker for predicting AD risk.</p></sec><sec id="alz71020-sec-0210"><title>AUTHOR CONTRIBUTIONS</title><p>Conceptualization: Yulin Ge and Huize Pang. Methodology: Huize Pang and Zhe Sun. Software: Huize Pang, Chenyang Li, Zhe Sun, and Li Jiang. Investigation: Huize Pang, Jennifer Frontera, Chenyang Li, Alok Vedvyas, Arjun V. Masurkar, Allal Boutajangout, Ludovic Debure, Mobeena Ghuman, Li Jiang, and Thomas Wisniewski. Resources: Yulin Ge, Jennifer Frontera, and Thomas Wisniewski. Original draft: Huize Pang. Writing—review and editing: Yulin Ge, Jennifer Frontera, Thomas Wisniewski. Supervision: Yulin Ge, Jennifer Frontera, and Thomas Wisniewski.</p></sec><sec sec-type="COI-statement" id="alz71020-sec-0230"><title>CONFLICT OF INTEREST STATEMENT</title><p>The authors declare no conflicts of interest. Author disclosures are available in the <xref rid="alz71020-supinfo-0001" ref-type="">supporting information</xref>.</p></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material id="alz71020-supinfo-0001" position="float" content-type="local-data" orientation="portrait"/><supplementary-material id="alz71020-supitem-0001" position="float" content-type="local-data" orientation="portrait"><caption><p>Supporting information</p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ALZ-22-e71020-s001.pdf" position="float" orientation="portrait"/></supplementary-material></sec></body><back><ack id="alz71020-sec-0220"><title>ACKNOWLEDGMENTS</title><p>This research was supported by grants from the National Institutes of Health/National Institute on Aging R01AG077422, U24 NS135568, and P30AG066512. NIH R01AG077422, U24 NS135568, and P30AG066512.</p></ack><sec sec-type="data-availability" id="alz71020-sec-0250"><title>DATA AVAILABILITY STATEMENT</title><p>All human subjects provided informed consent. The data used and analyzed in this study are available from the corresponding author upon reasonable request.</p></sec><ref-list id="alz71020-bibl-0001"><title>REFERENCES</title><ref id="alz71020-bib-0001"><label>1</label><mixed-citation publication-type="journal" id="alz71020-cite-0002">
+<string-name name-style="western">
+<surname>Soriano</surname>
+<given-names>JB</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Murthy</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Marshall</surname>
+<given-names>JC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Relan</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Diaz</surname>
+<given-names>JV</given-names>
+</string-name>. <article-title>A clinical case definition of post‐COVID‐19 condition by a Delphi consensus</article-title>. <source>Lancet Infect Dis</source>. <year>2022</year>;<volume>22</volume>(<issue>4</issue>):<fpage>e102</fpage>–<lpage>e107</lpage>.<pub-id pub-id-type="pmid">34951953</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/S1473-3099(21)00703-9</pub-id><pub-id pub-id-type="pmcid">PMC8691845</pub-id></mixed-citation></ref><ref id="alz71020-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="alz71020-cite-0003">
+<string-name name-style="western">
+<surname>Premraj</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kannapadi</surname>
+<given-names>NV</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Briggs</surname>
+<given-names>J</given-names>
+</string-name>, et al. <article-title>Mid and long‐term neurological and neuropsychiatric manifestations of post‐COVID‐19 syndrome: a meta‐analysis</article-title>. <source>J Neurol Sci</source>. <year>2022</year>;<volume>434</volume>:<elocation-id>120162</elocation-id>.<pub-id pub-id-type="pmid">35121209</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.jns.2022.120162</pub-id><pub-id pub-id-type="pmcid">PMC8798975</pub-id></mixed-citation></ref><ref id="alz71020-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="alz71020-cite-0004">
+<string-name name-style="western">
+<surname>Pinzon</surname>
+<given-names>RT</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wijaya</surname>
+<given-names>VO</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jody</surname>
+<given-names>AA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Nunsio</surname>
+<given-names>PN</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Buana</surname>
+<given-names>RB</given-names>
+</string-name>. <article-title>Persistent neurological manifestations in long COVID‐19 syndrome: a systematic review and meta‐analysis</article-title>. <source>J Infect Public Health</source>. <year>2022</year>;<volume>15</volume>(<issue>8</issue>):<fpage>856</fpage>–<lpage>869</lpage>.<pub-id pub-id-type="pmid">35785594</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.jiph.2022.06.013</pub-id><pub-id pub-id-type="pmcid">PMC9221935</pub-id></mixed-citation></ref><ref id="alz71020-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="alz71020-cite-0005">
+<string-name name-style="western">
+<surname>Taquet</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sillett</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhu</surname>
+<given-names>L</given-names>
+</string-name>, et al. <article-title>Neurological and psychiatric risk trajectories after SARS‐CoV‐2 infection: an analysis of 2‐year retrospective cohort studies including 1 284 437 patients</article-title>. <source>Lancet Psychiatry</source>. <year>2022</year>;<volume>9</volume>(<issue>10</issue>):<fpage>815</fpage>–<lpage>827</lpage>.<pub-id pub-id-type="pmid">35987197</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/S2215-0366(22)00260-7</pub-id><pub-id pub-id-type="pmcid">PMC9385200</pub-id></mixed-citation></ref><ref id="alz71020-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="alz71020-cite-0006">
+<string-name name-style="western">
+<surname>Atkins</surname>
+<given-names>JL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Masoli</surname>
+<given-names>JAH</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Delgado</surname>
+<given-names>J</given-names>
+</string-name>, et al. <article-title>Preexisting comorbidities predicting COVID‐19 and mortality in the UK Biobank Community Cohort</article-title>. <source>J Gerontol A Biol Sci Med Sci</source>. <year>2020</year>;<volume>75</volume>(<issue>11</issue>):<fpage>2224</fpage>–<lpage>2230</lpage>.<pub-id pub-id-type="pmid">32687551</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/gerona/glaa183</pub-id><pub-id pub-id-type="pmcid">PMC7454409</pub-id></mixed-citation></ref><ref id="alz71020-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="alz71020-cite-0007">
+<string-name name-style="western">
+<surname>Liu</surname>
+<given-names>N</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sun</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wang</surname>
+<given-names>X</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhao</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Huang</surname>
+<given-names>Q</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Li</surname>
+<given-names>H</given-names>
+</string-name>. <article-title>The impact of dementia on the clinical outcome of COVID‐19: a systematic review and meta‐analysis</article-title>. <source>J Alzheimers Dis</source>. <year>2020</year>;<volume>78</volume>(<issue>4</issue>):<fpage>1775</fpage>–<lpage>1782</lpage>.<pub-id pub-id-type="pmid">33285638</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3233/JAD-201016</pub-id></mixed-citation></ref><ref id="alz71020-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="alz71020-cite-0008">
+<string-name name-style="western">
+<surname>Guedj</surname>
+<given-names>E</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Campion</surname>
+<given-names>JY</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Dudouet</surname>
+<given-names>P</given-names>
+</string-name>, et al. <article-title>18F‐FDG brain PET hypometabolism in patients with long COVID</article-title>. <source>Eur J Nucl Med Mol Imaging</source>. <year>2021</year>;<volume>48</volume>(<issue>9</issue>):<fpage>2823</fpage>–<lpage>2833</lpage>.<pub-id pub-id-type="pmid">33501506</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s00259-021-05215-4</pub-id><pub-id pub-id-type="pmcid">PMC7837643</pub-id></mixed-citation></ref><ref id="alz71020-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="alz71020-cite-0009">
+<string-name name-style="western">
+<surname>Turner</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Khan</surname>
+<given-names>MA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Putrino</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Woodcock</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kell</surname>
+<given-names>DB</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Pretorius</surname>
+<given-names>E</given-names>
+</string-name>. <article-title>Long COVID: pathophysiological factors and abnormalities of coagulation</article-title>. <source>Trends Endocrinol Metab</source>. <year>2023</year>;<volume>34</volume>(<issue>6</issue>):<fpage>321</fpage>–<lpage>344</lpage>.<pub-id pub-id-type="pmid">37080828</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.tem.2023.03.002</pub-id><pub-id pub-id-type="pmcid">PMC10113134</pub-id></mixed-citation></ref><ref id="alz71020-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="alz71020-cite-0010">
+<string-name name-style="western">
+<surname>Greene</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Connolly</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Brennan</surname>
+<given-names>D</given-names>
+</string-name>, et al. <article-title>Blood–brain barrier disruption and sustained systemic inflammation in individuals with long COVID‐associated cognitive impairment</article-title>. <source>Nat Neurosci</source>. <year>2024</year>;<volume>27</volume>(<issue>3</issue>):<fpage>421</fpage>‐<lpage>432</lpage>.<pub-id pub-id-type="pmid">38388736</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41593-024-01576-9</pub-id><pub-id pub-id-type="pmcid">PMC10917679</pub-id></mixed-citation></ref><ref id="alz71020-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="alz71020-cite-0011">
+<string-name name-style="western">
+<surname>Gupta</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Buonsenso</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wood</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mohandas</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Warburton</surname>
+<given-names>D</given-names>
+</string-name>. <article-title>Mechanistic insights into long covid: viral persistence, immune dysregulation, and multi‐organ dysfunction</article-title>. <source>Compr Physiol</source>. <year>2025</year>;<volume>15</volume>(<issue>3</issue>):<elocation-id>e70019</elocation-id>.<pub-id pub-id-type="pmid">40474772</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/cph4.70019</pub-id></mixed-citation></ref><ref id="alz71020-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="alz71020-cite-0012">
+<string-name name-style="western">
+<surname>Spudich</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Nath</surname>
+<given-names>A</given-names>
+</string-name>. <article-title>Nervous system consequences of COVID‐19</article-title>. <source>Science</source>. <year>2022</year>;<volume>375</volume>(<issue>6578</issue>):<fpage>267</fpage>–<lpage>269</lpage>.<pub-id pub-id-type="pmid">35050660</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1126/science.abm2052</pub-id></mixed-citation></ref><ref id="alz71020-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="alz71020-cite-0013">
+<string-name name-style="western">
+<surname>Zuo</surname>
+<given-names>W</given-names>
+</string-name>, <string-name name-style="western">
+<surname>He</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Liang</surname>
+<given-names>C</given-names>
+</string-name>, et al. <article-title>The persistence of SARS‐CoV‐2 in tissues and its association with long COVID symptoms: a cross‐sectional cohort study in China</article-title>. <source>Lancet Infect Dis</source>. <year>2024</year>;<volume>24</volume>(<issue>8</issue>):<fpage>845</fpage>–<lpage>855</lpage>.<pub-id pub-id-type="pmid">38663423</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/S1473-3099(24)00171-3</pub-id></mixed-citation></ref><ref id="alz71020-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="alz71020-cite-0014">
+<string-name name-style="western">
+<surname>Charnley</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Islam</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bindra</surname>
+<given-names>GK</given-names>
+</string-name>, et al. <article-title>Neurotoxic amyloidogenic peptides in the proteome of SARS‐COV2: potential implications for neurological symptoms in COVID‐19</article-title>. <source>Nat Commun</source>. <year>2022</year>;<volume>13</volume>(<issue>1</issue>):<fpage>3387</fpage>.<pub-id pub-id-type="pmid">35697699</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41467-022-30932-1</pub-id><pub-id pub-id-type="pmcid">PMC9189797</pub-id></mixed-citation></ref><ref id="alz71020-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="alz71020-cite-0015">
+<string-name name-style="western">
+<surname>Reas</surname>
+<given-names>ET</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Alderson‐Myers</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Solders</surname>
+<given-names>SK</given-names>
+</string-name>, et al. <article-title>Long COVID‐related blood‐brain barrier breakdown and microstructure in older adults are modified by sex and Alzheimer's disease genetic risk</article-title>. <source>Imaging Neurosci (Camb)</source>. <year>2025</year>;<volume>3</volume>:<elocation-id>IMAGa23</elocation-id>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1162/IMAG.a.23</pub-id><pub-id pub-id-type="pmcid">PMC12319845</pub-id><pub-id pub-id-type="pmid">40800841</pub-id></mixed-citation></ref><ref id="alz71020-bib-0015"><label>15</label><mixed-citation publication-type="journal" id="alz71020-cite-0016">
+<string-name name-style="western">
+<surname>Priemer</surname>
+<given-names>DS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rhodes</surname>
+<given-names>CH</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Karlovich</surname>
+<given-names>E</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Perl</surname>
+<given-names>DP</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Goldman</surname>
+<given-names>JE</given-names>
+</string-name>. <article-title>Aβ deposits in the neocortex of adult and infant hypoxic brains, including in cases of COVID‐19</article-title>. <source>J Neuropathol Exp Neurol</source>. <year>2022</year>;<volume>81</volume>(<issue>12</issue>):<fpage>988</fpage>–<lpage>995</lpage>.<pub-id pub-id-type="pmid">36264253</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/jnen/nlac095</pub-id></mixed-citation></ref><ref id="alz71020-bib-0016"><label>16</label><mixed-citation publication-type="journal" id="alz71020-cite-0017">
+<string-name name-style="western">
+<surname>Wang</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Davis</surname>
+<given-names>PB</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Volkow</surname>
+<given-names>ND</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Berger</surname>
+<given-names>NA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kaelber</surname>
+<given-names>DC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Xu</surname>
+<given-names>R</given-names>
+</string-name>. <article-title>Association of COVID‐19 with new‐onset Alzheimer's disease</article-title>. <source>J Alzheimers Dis</source>. <year>2022</year>;<volume>89</volume>(<issue>2</issue>):<fpage>411</fpage>–<lpage>414</lpage>.<pub-id pub-id-type="pmid">35912749</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3233/JAD-220717</pub-id><pub-id pub-id-type="pmcid">PMC10361652</pub-id></mixed-citation></ref><ref id="alz71020-bib-0017"><label>17</label><mixed-citation publication-type="journal" id="alz71020-cite-0018">
+<string-name name-style="western">
+<surname>Frontera</surname>
+<given-names>JA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Boutajangout</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Masurkar</surname>
+<given-names>AV</given-names>
+</string-name>, et al. <article-title>Comparison of serum neurodegenerative biomarkers among hospitalized COVID‐19 patients versus non‐COVID subjects with normal cognition, mild cognitive impairment, or Alzheimer's dementia</article-title>. <source>Alzheimer's Dement</source>. <year>2022</year>;<volume>18</volume>(<issue>5</issue>):<fpage>899</fpage>–<lpage>910</lpage>.<pub-id pub-id-type="pmid">35023610</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/alz.12556</pub-id><pub-id pub-id-type="pmcid">PMC9011610</pub-id></mixed-citation></ref><ref id="alz71020-bib-0018"><label>18</label><mixed-citation publication-type="journal" id="alz71020-cite-0019">
+<string-name name-style="western">
+<surname>Engelhardt</surname>
+<given-names>B</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sorokin</surname>
+<given-names>L</given-names>
+</string-name>. <article-title>The blood‐brain and the blood‐cerebrospinal fluid barriers: function and dysfunction</article-title>. <source>Semin Immunopathol</source>. <year>2009</year>;<volume>31</volume>(<issue>4</issue>):<fpage>497</fpage>–<lpage>511</lpage>.<pub-id pub-id-type="pmid">19779720</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s00281-009-0177-0</pub-id></mixed-citation></ref><ref id="alz71020-bib-0019"><label>19</label><mixed-citation publication-type="journal" id="alz71020-cite-0020">
+<string-name name-style="western">
+<surname>Xu</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lotfy</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gelb</surname>
+<given-names>S</given-names>
+</string-name>, et al. <article-title>The choroid plexus synergizes with immune cells during neuroinflammation</article-title>. <source>Cell</source>. <year>2024</year>;<volume>187</volume>(<issue>18</issue>):<fpage>4946</fpage>–<lpage>4963</lpage>. e17.<pub-id pub-id-type="pmid">39089253</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.cell.2024.07.002</pub-id><pub-id pub-id-type="pmcid">PMC11458255</pub-id></mixed-citation></ref><ref id="alz71020-bib-0020"><label>20</label><mixed-citation publication-type="journal" id="alz71020-cite-0021">
+<string-name name-style="western">
+<surname>Burks</surname>
+<given-names>SM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rosas‐Hernandez</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Alejandro Ramirez‐Lee</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cuevas</surname>
+<given-names>E</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Talpos</surname>
+<given-names>JC</given-names>
+</string-name>. <article-title>Can SARS‐CoV‐2 infect the central nervous system via the olfactory bulb or the blood‐brain barrier?</article-title>
+<source>Brain Behav Immun</source>. <year>2021</year>;<volume>95</volume>:<fpage>7</fpage>–<lpage>14</lpage>.<pub-id pub-id-type="pmid">33412255</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.bbi.2020.12.031</pub-id><pub-id pub-id-type="pmcid">PMC7836942</pub-id></mixed-citation></ref><ref id="alz71020-bib-0021"><label>21</label><mixed-citation publication-type="journal" id="alz71020-cite-0022">
+<string-name name-style="western">
+<surname>Diez‐Cirarda</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Yus‐Fuertes</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Delgado‐Alonso</surname>
+<given-names>C</given-names>
+</string-name>, et al. <article-title>Choroid plexus volume is enlarged in long COVID and associated with cognitive and brain changes</article-title>. <source>Mol Psychiatry</source>. <year>2025</year>;<volume>30</volume>(<issue>7</issue>):<fpage>2821</fpage>–<lpage>2830</lpage>.<pub-id pub-id-type="pmid">39815057</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41380-024-02886-x</pub-id><pub-id pub-id-type="pmcid">PMC12185318</pub-id></mixed-citation></ref><ref id="alz71020-bib-0022"><label>22</label><mixed-citation publication-type="journal" id="alz71020-cite-0023">
+<string-name name-style="western">
+<surname>Pellegrini</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Albecka</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mallery</surname>
+<given-names>DL</given-names>
+</string-name>, et al. <article-title>SARS‐CoV‐2 infects the brain choroid plexus and disrupts the blood‐CSF barrier in human brain organoids</article-title>. <source>Cell Stem Cell</source>. <year>2020</year>;<volume>27</volume>(<issue>6</issue>):<fpage>951</fpage>–<lpage>961</lpage>. e5.<pub-id pub-id-type="pmid">33113348</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.stem.2020.10.001</pub-id><pub-id pub-id-type="pmcid">PMC7553118</pub-id></mixed-citation></ref><ref id="alz71020-bib-0023"><label>23</label><mixed-citation publication-type="journal" id="alz71020-cite-0024">
+<string-name name-style="western">
+<surname>Apple</surname>
+<given-names>AC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Oddi</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Peluso</surname>
+<given-names>MJ</given-names>
+</string-name>, et al. <article-title>Risk factors and abnormal cerebrospinal fluid associate with cognitive symptoms after mild COVID‐19</article-title>. <source>Ann Clin Transl Neurol</source>. <year>2022</year>;<volume>9</volume>(<issue>2</issue>):<fpage>221</fpage>–<lpage>226</lpage>.<pub-id pub-id-type="pmid">35043593</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/acn3.51498</pub-id><pub-id pub-id-type="pmcid">PMC8862406</pub-id></mixed-citation></ref><ref id="alz71020-bib-0024"><label>24</label><mixed-citation publication-type="journal" id="alz71020-cite-0025">
+<string-name name-style="western">
+<surname>Tandon</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kataria</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Patel</surname>
+<given-names>J</given-names>
+</string-name>, et al. <article-title>A comprehensive systematic review of CSF analysis that defines neurological manifestations of COVID‐19</article-title>. <source>Int J Infect Dis</source>. <year>2021</year>;<volume>104</volume>:<fpage>390</fpage>–<lpage>397</lpage>.<pub-id pub-id-type="pmid">33434662</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.ijid.2021.01.002</pub-id><pub-id pub-id-type="pmcid">PMC7837002</pub-id></mixed-citation></ref><ref id="alz71020-bib-0025"><label>25</label><mixed-citation publication-type="journal" id="alz71020-cite-0026">
+<string-name name-style="western">
+<surname>Pilotto</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Masciocchi</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Volonghi</surname>
+<given-names>I</given-names>
+</string-name>, et al. <article-title>Severe acute respiratory syndrome coronavirus 2 (SARS‐CoV‐2) encephalitis is a cytokine release syndrome: evidences from cerebrospinal fluid analyses</article-title>. <source>Clin Infect Dis</source>. <year>2021</year>;<volume>73</volume>(<issue>9</issue>):<fpage>e3019</fpage>–<lpage>e3026</lpage>.<pub-id pub-id-type="pmid">33395482</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/cid/ciaa1933</pub-id><pub-id pub-id-type="pmcid">PMC7799260</pub-id></mixed-citation></ref><ref id="alz71020-bib-0026"><label>26</label><mixed-citation publication-type="journal" id="alz71020-cite-0027">
+<string-name name-style="western">
+<surname>Virhammar</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Nääs</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Fällmar</surname>
+<given-names>D</given-names>
+</string-name>, et al. <article-title>Biomarkers for central nervous system injury in cerebrospinal fluid are elevated in COVID‐19 and associated with neurological symptoms and disease severity</article-title>. <source>Eur J Neurol</source>. <year>2021</year>;<volume>28</volume>(<issue>10</issue>):<fpage>3324</fpage>–<lpage>3331</lpage>.<pub-id pub-id-type="pmid">33369818</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/ene.14703</pub-id><pub-id pub-id-type="pmcid">PMC8518988</pub-id></mixed-citation></ref><ref id="alz71020-bib-0027"><label>27</label><mixed-citation publication-type="journal" id="alz71020-cite-0028">
+<string-name name-style="western">
+<surname>Sriwastava</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tandon</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Podury</surname>
+<given-names>S</given-names>
+</string-name>, et al. <article-title>COVID‐19 and neuroinflammation: a literature review of relevant neuroimaging and CSF markers in central nervous system inflammatory disorders from SARS‐COV2</article-title>. <source>J Neurol</source>. <year>2021</year>;<volume>268</volume>(<issue>12</issue>):<fpage>4448</fpage>–<lpage>4478</lpage>.<pub-id pub-id-type="pmid">34009454</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s00415-021-10611-9</pub-id><pub-id pub-id-type="pmcid">PMC8131883</pub-id></mixed-citation></ref><ref id="alz71020-bib-0028"><label>28</label><mixed-citation publication-type="journal" id="alz71020-cite-0029">
+<string-name name-style="western">
+<surname>Rau</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gonzalez‐Escamilla</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Schroeter</surname>
+<given-names>N</given-names>
+</string-name>, et al. <article-title>Inflammation‐triggered enlargement of choroid plexus in subacute COVID‐19 patients with neurological symptoms</article-title>. <source>Ann Neurol</source>. <year>2024</year>;<volume>96</volume>(<issue>4</issue>):<fpage>715</fpage>–<lpage>725</lpage>.<pub-id pub-id-type="pmid">38934493</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/ana.27016</pub-id></mixed-citation></ref><ref id="alz71020-bib-0029"><label>29</label><mixed-citation publication-type="journal" id="alz71020-cite-0030">
+<string-name name-style="western">
+<surname>Althubaity</surname>
+<given-names>N</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Schubert</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Martins</surname>
+<given-names>D</given-names>
+</string-name>, et al. <article-title>Choroid plexus enlargement is associated with neuroinflammation and reduction of blood brain barrier permeability in depression</article-title>. <source>NeuroImage Clin</source>. <year>2022</year>;<volume>33</volume>:<elocation-id>102926</elocation-id>.<pub-id pub-id-type="pmid">34972034</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.nicl.2021.102926</pub-id><pub-id pub-id-type="pmcid">PMC8718974</pub-id></mixed-citation></ref><ref id="alz71020-bib-0030"><label>30</label><mixed-citation publication-type="journal" id="alz71020-cite-0031">
+<string-name name-style="western">
+<surname>Sun</surname>
+<given-names>Z</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Li</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhang</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wisniewski</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ge</surname>
+<given-names>Y</given-names>
+</string-name>. <article-title>Choroid plexus aging: structural and vascular insights from the HCP‐aging dataset</article-title>. <source>Fluids Barriers CNS</source>. <year>2024</year>;<volume>21</volume>(<issue>1</issue>):<fpage>98</fpage>.<pub-id pub-id-type="pmid">39639335</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1186/s12987-024-00603-y</pub-id><pub-id pub-id-type="pmcid">PMC11619641</pub-id></mixed-citation></ref><ref id="alz71020-bib-0031"><label>31</label><mixed-citation publication-type="journal" id="alz71020-cite-0032">
+<string-name name-style="western">
+<surname>Xia</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Feng</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhu</surname>
+<given-names>H</given-names>
+</string-name>, et al. <article-title>Association of choroid plexus volume with white matter microstructure, glymphatic function, and peripheral systemic inflammation in Alzheimer's disease</article-title>. <source>Transl Psychiatry</source>. <year>2025</year>;<volume>15</volume>(<issue>1</issue>):<fpage>238</fpage>.<pub-id pub-id-type="pmid">40645956</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41398-025-03432-1</pub-id><pub-id pub-id-type="pmcid">PMC12254307</pub-id></mixed-citation></ref><ref id="alz71020-bib-0032"><label>32</label><mixed-citation publication-type="journal" id="alz71020-cite-0033">
+<string-name name-style="western">
+<surname>Leitner</surname>
+<given-names>DF</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kanshin</surname>
+<given-names>E</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Faustin</surname>
+<given-names>A</given-names>
+</string-name>, et al. <article-title>Localized proteomic differences in the choroid plexus of Alzheimer's disease and epilepsy patients</article-title>. <source>Front Neurol</source>. <year>2023</year>;<volume>14</volume>:<elocation-id>1221775</elocation-id>.<pub-id pub-id-type="pmid">37521285</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3389/fneur.2023.1221775</pub-id><pub-id pub-id-type="pmcid">PMC10379643</pub-id></mixed-citation></ref><ref id="alz71020-bib-0033"><label>33</label><mixed-citation publication-type="journal" id="alz71020-cite-0034">
+<string-name name-style="western">
+<surname>Eisma</surname>
+<given-names>JJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>McKnight</surname>
+<given-names>CD</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hett</surname>
+<given-names>K</given-names>
+</string-name>, et al. <article-title>Choroid plexus perfusion and bulk cerebrospinal fluid flow across the adult lifespan</article-title>. <source>J Cereb Blood Flow Metab</source>. <year>2023</year>;<volume>43</volume>(<issue>2</issue>):<fpage>269</fpage>–<lpage>280</lpage>.<pub-id pub-id-type="pmid">36200473</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1177/0271678X221129101</pub-id><pub-id pub-id-type="pmcid">PMC9903224</pub-id></mixed-citation></ref><ref id="alz71020-bib-0034"><label>34</label><mixed-citation publication-type="journal" id="alz71020-cite-0035">
+<string-name name-style="western">
+<surname>Li</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhou</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhong</surname>
+<given-names>W</given-names>
+</string-name>, et al. <article-title>Choroid plexus enlargement exacerbates white matter hyperintensity growth through glymphatic impairment</article-title>. <source>Ann Neurol</source>. <year>2023</year>;<volume>94</volume>(<issue>1</issue>):<fpage>182</fpage>–<lpage>195</lpage>.<pub-id pub-id-type="pmid">36971336</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/ana.26648</pub-id></mixed-citation></ref><ref id="alz71020-bib-0035"><label>35</label><mixed-citation publication-type="journal" id="alz71020-cite-0036">
+<string-name name-style="western">
+<surname>Alisch</surname>
+<given-names>JSR</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kiely</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Triebswetter</surname>
+<given-names>C</given-names>
+</string-name>, et al. <article-title>Characterization of age‐related differences in the human choroid plexus volume, microstructural integrity, and blood perfusion using multiparameter magnetic resonance imaging</article-title>. <source>Front Aging Neurosci</source>. <year>2021</year>;<volume>13</volume>:<elocation-id>734992</elocation-id>.<pub-id pub-id-type="pmid">34603011</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3389/fnagi.2021.734992</pub-id><pub-id pub-id-type="pmcid">PMC8485051</pub-id></mixed-citation></ref><ref id="alz71020-bib-0036"><label>36</label><mixed-citation publication-type="journal" id="alz71020-cite-0037">
+<string-name name-style="western">
+<surname>Li</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sun</surname>
+<given-names>Z</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhang</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ge</surname>
+<given-names>Y</given-names>
+</string-name>. <article-title>Relaxation‐selective intravoxel incoherent motion imaging of microvascular perfusion and fluid compartments in the human choroid plexus</article-title>. <source>NMR Biomed</source>. <year>2025</year>;<volume>38</volume>(<issue>10</issue>):<elocation-id>e70144</elocation-id>.<pub-id pub-id-type="pmid">40944620</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/nbm.70144</pub-id><pub-id pub-id-type="pmcid">PMC12433185</pub-id></mixed-citation></ref><ref id="alz71020-bib-0037"><label>37</label><mixed-citation publication-type="journal" id="alz71020-cite-0038">
+<string-name name-style="western">
+<surname>Li</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Liu</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Li</surname>
+<given-names>Y</given-names>
+</string-name>, et al. <article-title>ASL‐MRICloud: an online tool for the processing of ASL MRI data</article-title>. <source>NMR Biomed</source>. <year>2019</year>;<volume>32</volume>(<issue>2</issue>):<elocation-id>e4051</elocation-id>.<pub-id pub-id-type="pmid">30588671</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/nbm.4051</pub-id><pub-id pub-id-type="pmcid">PMC6324946</pub-id></mixed-citation></ref><ref id="alz71020-bib-0038"><label>38</label><mixed-citation publication-type="journal" id="alz71020-cite-0039">
+<string-name name-style="western">
+<surname>Destras</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bal</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Escuret</surname>
+<given-names>V</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Morfin</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lina</surname>
+<given-names>B</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Josset</surname>
+<given-names>L</given-names>
+</string-name>. <article-title>Systematic SARS‐CoV‐2 screening in cerebrospinal fluid during the COVID‐19 pandemic</article-title>. <source>Lancet Microbe</source>. <year>2020</year>;<volume>1</volume>(<issue>4</issue>):<elocation-id>e149</elocation-id>.<pub-id pub-id-type="pmid">32835345</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/S2666-5247(20)30066-5</pub-id><pub-id pub-id-type="pmcid">PMC7289579</pub-id></mixed-citation></ref><ref id="alz71020-bib-0039"><label>39</label><mixed-citation publication-type="journal" id="alz71020-cite-0040">
+<string-name name-style="western">
+<surname>Marques</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sousa</surname>
+<given-names>JC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Correia‐Neves</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Oliveira</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sousa</surname>
+<given-names>N</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Palha</surname>
+<given-names>JA</given-names>
+</string-name>. <article-title>The choroid plexus response to peripheral inflammatory stimulus</article-title>. <source>Neuroscience</source>. <year>2007</year>;<volume>144</volume>(<issue>2</issue>):<fpage>424</fpage>–<lpage>430</lpage>.<pub-id pub-id-type="pmid">17069984</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.neuroscience.2006.09.029</pub-id></mixed-citation></ref><ref id="alz71020-bib-0040"><label>40</label><mixed-citation publication-type="journal" id="alz71020-cite-0041">
+<string-name name-style="western">
+<surname>Kanberg</surname>
+<given-names>N</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ashton</surname>
+<given-names>NJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Andersson</surname>
+<given-names>LM</given-names>
+</string-name>, et al. <article-title>Neurochemical evidence of astrocytic and neuronal injury commonly found in COVID‐19</article-title>. <source>Neurology</source>. <year>2020</year>;<volume>95</volume>(<issue>12</issue>):<fpage>e1754</fpage>–<lpage>e1759</lpage>.<pub-id pub-id-type="pmid">32546655</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1212/WNL.0000000000010111</pub-id></mixed-citation></ref><ref id="alz71020-bib-0041"><label>41</label><mixed-citation publication-type="journal" id="alz71020-cite-0042">
+<string-name name-style="western">
+<surname>Kim</surname>
+<given-names>KY</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Shin</surname>
+<given-names>KY</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chang</surname>
+<given-names>KA</given-names>
+</string-name>. <article-title>GFAP as a potential biomarker for Alzheimer's disease: a systematic review and meta‐analysis</article-title>. <source>Cells</source>. <year>2023</year>;<volume>12</volume>(<issue>9</issue>):<fpage>1309</fpage>.<pub-id pub-id-type="pmid">37174709</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3390/cells12091309</pub-id><pub-id pub-id-type="pmcid">PMC10177296</pub-id></mixed-citation></ref><ref id="alz71020-bib-0042"><label>42</label><mixed-citation publication-type="journal" id="alz71020-cite-0043">
+<string-name name-style="western">
+<surname>Bouhrara</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Walker</surname>
+<given-names>KA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Alisch</surname>
+<given-names>JSR</given-names>
+</string-name>, et al. <article-title>Association of plasma markers of Alzheimer's disease, neurodegeneration, and neuroinflammation with the choroid plexus integrity in aging</article-title>. <source>Aging Dis</source>. <year>2024</year>;<volume>15</volume>(<issue>5</issue>):<fpage>2230</fpage>–<lpage>2240</lpage>.<pub-id pub-id-type="pmid">38300640</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.14336/AD.2023.1226</pub-id><pub-id pub-id-type="pmcid">PMC11346414</pub-id></mixed-citation></ref><ref id="alz71020-bib-0043"><label>43</label><mixed-citation publication-type="journal" id="alz71020-cite-0044">
+<string-name name-style="western">
+<surname>Spanos</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Shachar</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sweeney</surname>
+<given-names>T</given-names>
+</string-name>, et al. <article-title>Elevation of neural injury markers in patients with neurologic sequelae after hospitalization for SARS‐CoV‐2 infection</article-title>. <source>iScience</source>. <year>2022</year>;<volume>25</volume>(<issue>8</issue>):<elocation-id>104833</elocation-id>.<pub-id pub-id-type="pmid">35937088</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.isci.2022.104833</pub-id><pub-id pub-id-type="pmcid">PMC9341164</pub-id></mixed-citation></ref><ref id="alz71020-bib-0044"><label>44</label><mixed-citation publication-type="journal" id="alz71020-cite-0045">
+<string-name name-style="western">
+<surname>Sun</surname>
+<given-names>Z</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Li</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Leitner</surname>
+<given-names>D</given-names>
+</string-name>, et al. <article-title>Age‐related vascular alterations in the choroid plexus: novel insights from pathophysiology and imaging studies</article-title>. <source>Aging Dis</source>. <year>2025</year>;<elocation-id>e0735</elocation-id>. <pub-id pub-id-type="doi">10.14336/AD.2025.0735</pub-id>
+<pub-id pub-id-type="pmid">40901987</pub-id></mixed-citation></ref><ref id="alz71020-bib-0045"><label>45</label><mixed-citation publication-type="journal" id="alz71020-cite-0046">
+<string-name name-style="western">
+<surname>Müller</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sinnecker</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wendebourg</surname>
+<given-names>MJ</given-names>
+</string-name>, et al. <article-title>Choroid plexus volume in multiple sclerosis vs neuromyelitis Optica spectrum disorder</article-title>. <source>Neurol Neuroimmunol Neuroinflamm</source>. <year>2022</year>;<volume>9</volume>(<issue>3</issue>):<elocation-id>e1147</elocation-id>.<pub-id pub-id-type="pmid">35217580</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1212/NXI.0000000000001147</pub-id><pub-id pub-id-type="pmcid">PMC8883575</pub-id></mixed-citation></ref><ref id="alz71020-bib-0046"><label>46</label><mixed-citation publication-type="journal" id="alz71020-cite-0047">
+<string-name name-style="western">
+<surname>Dai</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lou</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kong</surname>
+<given-names>D</given-names>
+</string-name>, et al. <article-title>Choroid plexus enlargement in amyotrophic lateral sclerosis patients and its correlation with clinical disability and blood‐CSF barrier permeability</article-title>. <source>Fluids Barriers CNS</source>. <year>2024</year>;<volume>21</volume>(<issue>1</issue>):<fpage>36</fpage>.<pub-id pub-id-type="pmid">38632611</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1186/s12987-024-00536-6</pub-id><pub-id pub-id-type="pmcid">PMC11025206</pub-id></mixed-citation></ref><ref id="alz71020-bib-0047"><label>47</label><mixed-citation publication-type="journal" id="alz71020-cite-0048">
+<string-name name-style="western">
+<surname>Serot</surname>
+<given-names>JM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Béné</surname>
+<given-names>MC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Foliguet</surname>
+<given-names>B</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Faure</surname>
+<given-names>GC</given-names>
+</string-name>. <article-title>Morphological alterations of the choroid plexus in late‐onset Alzheimer's disease</article-title>. <source>Acta Neuropathol</source>. <year>2000</year>;<volume>99</volume>(<issue>2</issue>):<fpage>105</fpage>–<lpage>108</lpage>.<pub-id pub-id-type="pmid">10672315</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/pl00007412</pub-id></mixed-citation></ref><ref id="alz71020-bib-0048"><label>48</label><mixed-citation publication-type="journal" id="alz71020-cite-0049">
+<string-name name-style="western">
+<surname>Alcolado</surname>
+<given-names>JC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Moore</surname>
+<given-names>IE</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Weller</surname>
+<given-names>RO</given-names>
+</string-name>. <article-title>Calcification in the human choroid plexus, meningiomas and pineal gland</article-title>. <source>Neuropathol Appl Neurobiol</source>. <year>1986</year>;<volume>12</volume>(<issue>3</issue>):<fpage>235</fpage>–<lpage>250</lpage>.<pub-id pub-id-type="pmid">3736772</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/j.1365-2990.1986.tb00137.x</pub-id></mixed-citation></ref><ref id="alz71020-bib-0049"><label>49</label><mixed-citation publication-type="journal" id="alz71020-cite-0050">
+<string-name name-style="western">
+<surname>Shuangshoti</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Netsky</surname>
+<given-names>MG</given-names>
+</string-name>. <article-title>Human choroid plexus: morphologic and histochemical alterations with age</article-title>. <source>Am J Anat</source>. <year>1970</year>;<volume>128</volume>(<issue>1</issue>):<fpage>73</fpage>–<lpage>95</lpage>.<pub-id pub-id-type="pmid">4193921</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/aja.1001280107</pub-id></mixed-citation></ref><ref id="alz71020-bib-0050"><label>50</label><mixed-citation publication-type="journal" id="alz71020-cite-0051">
+<string-name name-style="western">
+<surname>Hu</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Yuan</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zou</surname>
+<given-names>Y</given-names>
+</string-name>, et al. <article-title>Alterations in the DTI‐ALPS index and choroid plexus volume are associated with clinical symptoms in participants with narcolepsy type 1</article-title>. <source>Sleep Med</source>. <year>2024</year>;<volume>124</volume>:<fpage>471</fpage>–<lpage>478</lpage>.<pub-id pub-id-type="pmid">39427503</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.sleep.2024.10.019</pub-id></mixed-citation></ref><ref id="alz71020-bib-0051"><label>51</label><mixed-citation publication-type="journal" id="alz71020-cite-0052">
+<string-name name-style="western">
+<surname>Tedjasukmana</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Budikayanti</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Islamiyah</surname>
+<given-names>WR</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Witjaksono</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hakim</surname>
+<given-names>M</given-names>
+</string-name>. <article-title>Sleep disturbance in post COVID‐19 conditions: prevalence and quality of life</article-title>. <source>Front Neurol</source>. <year>2022</year>;<volume>13</volume>:<elocation-id>1095606</elocation-id>.<pub-id pub-id-type="pmid">36698905</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3389/fneur.2022.1095606</pub-id><pub-id pub-id-type="pmcid">PMC9869804</pub-id></mixed-citation></ref><ref id="alz71020-bib-0052"><label>52</label><mixed-citation publication-type="journal" id="alz71020-cite-0053">
+<string-name name-style="western">
+<surname>Damkier</surname>
+<given-names>HH</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Brown</surname>
+<given-names>PD</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Praetorius</surname>
+<given-names>J</given-names>
+</string-name>. <article-title>Cerebrospinal fluid secretion by the choroid plexus</article-title>. <source>Physiol Rev</source>. <year>2013</year>;<volume>93</volume>(<issue>4</issue>):<fpage>1847</fpage>–<lpage>1892</lpage>.<pub-id pub-id-type="pmid">24137023</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1152/physrev.00004.2013</pub-id></mixed-citation></ref><ref id="alz71020-bib-0053"><label>53</label><mixed-citation publication-type="journal" id="alz71020-cite-0054">
+<string-name name-style="western">
+<surname>Thaweethai</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jolley</surname>
+<given-names>SE</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Karlson</surname>
+<given-names>EW</given-names>
+</string-name>, et al. <article-title>Development of a definition of post‐acute sequelae of SARS‐CoV‐2 infection</article-title>. <source>JAMA</source>. <year>2023</year>;<volume>329</volume>(<issue>22</issue>):<fpage>1934</fpage>–<lpage>1946</lpage>.<pub-id pub-id-type="pmid">37278994</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1001/jama.2023.8823</pub-id><pub-id pub-id-type="pmcid">PMC10214179</pub-id></mixed-citation></ref><ref id="alz71020-bib-0054"><label>54</label><mixed-citation publication-type="journal" id="alz71020-cite-0055">
+<string-name name-style="western">
+<surname>Mehboob</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>von Kries</surname>
+<given-names>JP</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ehsan</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Almansouri</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bamaga</surname>
+<given-names>AK</given-names>
+</string-name>. <article-title>Role of endothelial cells and angiotensin converting enzyme‐II in COVID‐19 and brain damages post‐infection</article-title>. <source>Front Neurol</source>. <year>2023</year>;<volume>14</volume>:<elocation-id>1210194</elocation-id>.<pub-id pub-id-type="pmid">37456637</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3389/fneur.2023.1210194</pub-id><pub-id pub-id-type="pmcid">PMC10348744</pub-id></mixed-citation></ref><ref id="alz71020-bib-0055"><label>55</label><mixed-citation publication-type="journal" id="alz71020-cite-0056">
+<string-name name-style="western">
+<surname>Walters</surname>
+<given-names>H</given-names>
+</string-name>. <article-title>COVID‐19 accelerates vascular aging</article-title>. <source>Nature Aging</source>. <year>2025</year>;<volume>5</volume>(<issue>9</issue>):<fpage>1653</fpage>.<pub-id pub-id-type="pmid">40921819</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s43587-025-00972-5</pub-id></mixed-citation></ref><ref id="alz71020-bib-0056"><label>56</label><mixed-citation publication-type="journal" id="alz71020-cite-0057">
+<string-name name-style="western">
+<surname>Stüdle</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Nishihara</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wischnewski</surname>
+<given-names>S</given-names>
+</string-name>, et al. <article-title>SARS‐CoV‐2 infects epithelial cells of the blood‐cerebrospinal fluid barrier rather than endothelial cells or pericytes of the blood‐brain barrier</article-title>. <source>Fluids Barriers CNS</source>. <year>2023</year>;<volume>20</volume>(<issue>1</issue>):<fpage>76</fpage>.<pub-id pub-id-type="pmid">37875964</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1186/s12987-023-00479-4</pub-id><pub-id pub-id-type="pmcid">PMC10598911</pub-id></mixed-citation></ref><ref id="alz71020-bib-0057"><label>57</label><mixed-citation publication-type="journal" id="alz71020-cite-0058">
+<string-name name-style="western">
+<surname>Kaur</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rathnasamy</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ling</surname>
+<given-names>EA</given-names>
+</string-name>. <article-title>The choroid plexus in healthy and diseased brain</article-title>. <source>J Neuropathol Exp Neurol</source>. <year>2016</year>;<volume>75</volume>(<issue>3</issue>):<fpage>198</fpage>–<lpage>213</lpage>.<pub-id pub-id-type="pmid">26888305</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/jnen/nlv030</pub-id></mixed-citation></ref><ref id="alz71020-bib-0058"><label>58</label><mixed-citation publication-type="journal" id="alz71020-cite-0059">
+<string-name name-style="western">
+<surname>Schalk</surname>
+<given-names>KA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Faraci</surname>
+<given-names>FM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Heistad</surname>
+<given-names>DD</given-names>
+</string-name>. <article-title>Effect of endothelin on production of cerebrospinal fluid in rabbits</article-title>. <source>Stroke</source>. <year>1992</year>;<volume>23</volume>(<issue>4</issue>):<fpage>560</fpage>–<lpage>563</lpage>.<pub-id pub-id-type="pmid">1561689</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1161/01.str.23.4.560</pub-id></mixed-citation></ref><ref id="alz71020-bib-0059"><label>59</label><mixed-citation publication-type="journal" id="alz71020-cite-0060">
+<string-name name-style="western">
+<surname>Tang</surname>
+<given-names>YL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chen</surname>
+<given-names>HB</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Liu</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Liao</surname>
+<given-names>YH</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Xie</surname>
+<given-names>A</given-names>
+</string-name>. <article-title>Glymphatic function alterations in sleep disorder patients post‐COVID‐19: a Longitudinal DTI‐ALPS Study</article-title>. <source>Nat Sci Sleep</source>. <year>2025</year>;<volume>17</volume>:<fpage>1377</fpage>–<lpage>1390</lpage>.<pub-id pub-id-type="pmid">40547338</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.2147/NSS.S522745</pub-id><pub-id pub-id-type="pmcid">PMC12182059</pub-id></mixed-citation></ref><ref id="alz71020-bib-0060"><label>60</label><mixed-citation publication-type="journal" id="alz71020-cite-0061">
+<string-name name-style="western">
+<surname>Kim</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lee</surname>
+<given-names>KH</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ko</surname>
+<given-names>JS</given-names>
+</string-name>, et al. <article-title>Neurologic symptoms as a hallmark of glymphatic alteration in recovered patients with COVID‐19</article-title>. <source>BMC Neurol</source>. <year>2025</year>;<volume>25</volume>(<issue>1</issue>):<fpage>187</fpage>.<pub-id pub-id-type="pmid">40295959</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1186/s12883-025-04198-1</pub-id><pub-id pub-id-type="pmcid">PMC12036239</pub-id></mixed-citation></ref><ref id="alz71020-bib-0061"><label>61</label><mixed-citation publication-type="journal" id="alz71020-cite-0062">
+<string-name name-style="western">
+<surname>Butts</surname>
+<given-names>B</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hu</surname>
+<given-names>WT</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Verble</surname>
+<given-names>DD</given-names>
+</string-name>, et al. <article-title>Relationships between excessive daytime sleepiness and arterial stiffness with cognitive function in a racially diverse high‐risk cohort</article-title>. <source>Alzheimer's Dement</source>. <year>2023</year>;<volume>19</volume>(<issue>S18</issue>):<elocation-id>e077150</elocation-id>.</mixed-citation></ref><ref id="alz71020-bib-0062"><label>62</label><mixed-citation publication-type="journal" id="alz71020-cite-0063">
+<string-name name-style="western">
+<surname>Therriault</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Brum</surname>
+<given-names>WS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Trudel</surname>
+<given-names>L</given-names>
+</string-name>, et al. <article-title>Blood phosphorylated tau for the diagnosis of Alzheimer's disease: a systematic review and meta‐analysis</article-title>. <source>Lancet Neurol</source>. <year>2025</year>;<volume>24</volume>(<issue>9</issue>):<fpage>740</fpage>–<lpage>752</lpage>.<pub-id pub-id-type="pmid">40818474</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/S1474-4422(25)00227-3</pub-id></mixed-citation></ref><ref id="alz71020-bib-0063"><label>63</label><mixed-citation publication-type="journal" id="alz71020-cite-0064">
+<string-name name-style="western">
+<surname>Duff</surname>
+<given-names>EP</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zetterberg</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Heslegrave</surname>
+<given-names>A</given-names>
+</string-name>, et al. <article-title>Plasma proteomic evidence for increased β‐amyloid pathology after SARS‐CoV‐2 infection</article-title>. <source>Nat Med</source>. <year>2025</year>;<volume>31</volume>(<issue>3</issue>):<fpage>797</fpage>–<lpage>806</lpage>.<pub-id pub-id-type="pmid">39885359</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41591-024-03426-4</pub-id><pub-id pub-id-type="pmcid">PMC11922756</pub-id></mixed-citation></ref><ref id="alz71020-bib-0064"><label>64</label><mixed-citation publication-type="journal" id="alz71020-cite-0065">
+<string-name name-style="western">
+<surname>Reiken</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sittenfeld</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Dridi</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Liu</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Liu</surname>
+<given-names>X</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Marks</surname>
+<given-names>AR</given-names>
+</string-name>. <article-title>Alzheimer's‐like signaling in brains of COVID‐19 patients</article-title>. <source>Alzheimer's Dement</source>. <year>2022</year>;<volume>18</volume>(<issue>5</issue>):<fpage>955</fpage>–<lpage>965</lpage>.<pub-id pub-id-type="pmid">35112786</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/alz.12558</pub-id><pub-id pub-id-type="pmcid">PMC9011576</pub-id></mixed-citation></ref><ref id="alz71020-bib-0065"><label>65</label><mixed-citation publication-type="journal" id="alz71020-cite-0066">
+<string-name name-style="western">
+<surname>Kuo</surname>
+<given-names>CL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Pilling</surname>
+<given-names>LC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Atkins</surname>
+<given-names>JL</given-names>
+</string-name>, et al. <article-title>
+<italic toggle="yes">APOE</italic> ε4 genotype predicts severe COVID‐19 in the UK Biobank Community Cohort</article-title>. <source>J Gerontol A Biol Sci Med Sci</source>. <year>2020</year>;<volume>75</volume>(<issue>11</issue>):<fpage>2231</fpage>–<lpage>2232</lpage>.<pub-id pub-id-type="pmid">32451547</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/gerona/glaa131</pub-id><pub-id pub-id-type="pmcid">PMC7314139</pub-id></mixed-citation></ref><ref id="alz71020-bib-0066"><label>66</label><mixed-citation publication-type="journal" id="alz71020-cite-0067">
+<string-name name-style="western">
+<surname>Carro</surname>
+<given-names>E</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Spuch</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Trejo</surname>
+<given-names>JL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Antequera</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Torres‐Aleman</surname>
+<given-names>I</given-names>
+</string-name>. <article-title>Choroid plexus megalin is involved in neuroprotection by serum insulin‐like growth factor I</article-title>. <source>J Neurosci</source>. <year>2005</year>;<volume>25</volume>(<issue>47</issue>):<fpage>10884</fpage>–<lpage>10893</lpage>.<pub-id pub-id-type="pmid">16306401</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1523/JNEUROSCI.2909-05.2005</pub-id><pub-id pub-id-type="pmcid">PMC6725866</pub-id></mixed-citation></ref><ref id="alz71020-bib-0067"><label>67</label><mixed-citation publication-type="journal" id="alz71020-cite-0068">
+<string-name name-style="western">
+<surname>Sousa</surname>
+<given-names>JC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cardoso</surname>
+<given-names>I</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Marques</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Saraiva</surname>
+<given-names>MJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Palha</surname>
+<given-names>JA</given-names>
+</string-name>. <article-title>Transthyretin and Alzheimer's disease: where in the brain?</article-title>
+<source>Neurobiol Aging</source>. <year>2007</year>;<volume>28</volume>(<issue>5</issue>):<fpage>713</fpage>–<lpage>718</lpage>.<pub-id pub-id-type="pmid">16698124</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.neurobiolaging.2006.03.015</pub-id></mixed-citation></ref></ref-list></back></article></pmc-articleset>
