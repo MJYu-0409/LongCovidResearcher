@@ -22,7 +22,7 @@ _root = Path(__file__).resolve().parent.parent.parent
 sys.path.insert(0, str(_root))
 from config import FULLTEXT_DIR, PROGRESS_FILE
 from data_pipeline.processor.xml_parser import parse_fulltext_xml
-from data_pipeline.processor.chunker import chunk_fulltext
+from data_pipeline.processor.chunker import chunk_fulltext_paragraphs
 from data_pipeline.processor.embedder import embed_chunks
 from storage.postgres.papers import fetch_meta_by_pmcids
 from storage.qdrant.chunks import upsert_chunks
@@ -115,7 +115,7 @@ def main():
             still_empty.append(pmcid)
             continue
 
-        chunks = chunk_fulltext(pmcid, paragraphs)
+        chunks = chunk_fulltext_paragraphs(pmcid, paragraphs)
         if not chunks:
             logger.debug("[%d/%d] %s chunk 为空，跳过", i, total, pmcid)
             still_empty.append(pmcid)

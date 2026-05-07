@@ -13,8 +13,9 @@ from typing import Optional
 from qdrant_client.models import SparseVector
 from qdrant_client.models import Filter, FieldCondition, MatchValue
 
-from config import QDRANT_COLLECTION
+from config import QDRANT_COLLECTION_PC
 from infra.clients import get_qdrant_client, get_sparse_embedding_model
+from retrieval.synonyms import expand_query
 
 logger = logging.getLogger(__name__)
 
@@ -46,7 +47,7 @@ def sparse_search(
         list[dict]，每条包含 score / payload
     """
     qdrant = get_qdrant_client()
-    query_vector = embed_query_sparse(query)
+    query_vector = embed_query_sparse(expand_query(query))
 
     qdrant_filter = None
     if filters:
@@ -56,7 +57,7 @@ def sparse_search(
         ])
 
     response = qdrant.query_points(
-        collection_name=QDRANT_COLLECTION,
+        collection_name=QDRANT_COLLECTION_PC,
         query=query_vector,
         using="sparse",
         query_filter=qdrant_filter,

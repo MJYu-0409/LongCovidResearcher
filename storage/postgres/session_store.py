@@ -13,7 +13,7 @@ from typing import Any, Optional
 
 from langchain_core.messages import BaseMessage, messages_from_dict, messages_to_dict
 from sqlalchemy import MetaData, Table, Column, String, Text, DateTime, inspect, select
-from sqlalchemy.dialects.postgresql import JSONB
+from sqlalchemy.dialects.postgresql import JSONB, insert as pg_insert
 
 from infra.clients import get_pg_engine
 
@@ -65,7 +65,7 @@ def save(
         chunks_data = retrieved_chunks if isinstance(retrieved_chunks, list) else []
         now = datetime.now(timezone.utc)
         with engine.connect() as conn:
-            stmt = agent_sessions.insert().values(
+            stmt = pg_insert(agent_sessions).values(
                 session_id=session_id.strip(),
                 summary=summary,
                 history=history_data,

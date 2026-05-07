@@ -13,7 +13,7 @@ from __future__ import annotations
 
 import logging
 from typing import Optional
-
+from concurrent.futures import ThreadPoolExecutor
 from retrieval.dense import dense_search
 from retrieval.sparse import sparse_search
 
@@ -48,18 +48,25 @@ def hybrid_search(
     # 两路各召回 top_k * 2，给 RRF 更多候选
     fetch_k = top_k * 2
 
-    dense_results  = dense_search(query,  top_k=fetch_k, filters=filters)
-    sparse_results = sparse_search(query, top_k=fetch_k, filters=filters)
+    # dense_results  = dense_search(query,  top_k=fetch_k, filters=filters)
+    # sparse_results = sparse_search(query, top_k=fetch_k, filters=filters)
+
+    with ThreadPoolExecutor(max_workers=2) as executor:
+        future_dense  = executor.submit(dense_search,  query, fetch_k, filters)
+        future_sparse = executor.submit(sparse_search, query, fetch_k, filters)
+        dense_results  = future_dense.result(timeout=30)
+        sparse_results = future_sparse.result(timeout=30)
+
 
     # 按 id 建索引，合并 payload
     all_hits: dict[str, dict] = {}
 
-    for rank, hit in enumerate(dense_results):
+    for rank, hit in enumerate(dense_results, start=1):
         hit_id = hit["id"]
         all_hits.setdefault(hit_id, {"id": hit_id, "payload": hit["payload"], "rrf_score": 0.0})
         all_hits[hit_id]["rrf_score"] += _rrf_score(rank)
 
-    for rank, hit in enumerate(sparse_results):
+    for rank, hit in enumerate(sparse_results, start=1):
         hit_id = hit["id"]
         all_hits.setdefault(hit_id, {"id": hit_id, "payload": hit["payload"], "rrf_score": 0.0})
         all_hits[hit_id]["rrf_score"] += _rrf_score(rank)

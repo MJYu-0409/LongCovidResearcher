@@ -26,7 +26,7 @@ from __future__ import annotations
 import json
 import logging
 
-from config import PROGRESS_FILE, FULLTEXT_DIR, TEST_MODE, TEST_LIMIT
+from config import PROGRESS_FILE, FULLTEXT_DIR, TEST_MODE, TEST_LIMIT, QDRANT_COLLECTION_PC
 
 from data_pipeline.fetcher.pmc_search import search_pmcids
 from data_pipeline.fetcher.pmc_fetcher import fetch_all
@@ -34,13 +34,37 @@ from data_pipeline.raw.progress import ProgressTracker
 from storage.postgres.papers import create_tables, insert_papers, fetch_meta_by_pmcids
 from data_pipeline.processor.metadata_parser import parse_metadata
 from data_pipeline.processor.xml_parser import parse_fulltext_xml
-from data_pipeline.processor.chunker import chunk_fulltext
+from data_pipeline.processor.chunker import chunk_fulltext_paragraphs
 from data_pipeline.processor.embedder import embed_chunks
 from storage.qdrant.chunks import upsert_chunks
 
 logger = logging.getLogger(__name__)
 
 PMCID_CACHE_FILE = PROGRESS_FILE.parent / "pmcid_list.json"
+
+
+def _get_embedded_pmcids() -> set[str]:
+    """滚动扫描 Qdrant，返回 longcovid_papers_pc 中已有的 pmcid 集合（用于断点续传）。"""
+    from infra.clients import get_qdrant_client
+    client = get_qdrant_client()
+    embedded: set[str] = set()
+    offset = None
+    while True:
+        result, next_offset = client.scroll(
+            collection_name=QDRANT_COLLECTION_PC,
+            scroll_filter=None,
+            with_payload=["pmcid"],
+            limit=1000,
+            offset=offset,
+        )
+        for point in result:
+            if point.payload and "pmcid" in point.payload:
+                embedded.add(point.payload["pmcid"])
+        if next_offset is None:
+            break
+        offset = next_offset
+    logger.info("Qdrant 已有 %d 篇，将跳过", len(embedded))
+    return embedded
 
 
 # ══════════════════════════════════════════════════════════════
@@ -116,12 +140,41 @@ def run_process_meta():
 
 def _process_fulltext_files(xml_files: list, meta_map: dict[str, dict], label: str):
     """
-    内部辅助：遍历 xml_files，解析 → 切分 → 补 metadata → 向量化 → 写入 Qdrant。
+    内部辅助：遍历 xml_files，解析 → 切分 → 补 metadata → 批量向量化 → 写入 Qdrant。
+    跳过 Qdrant 中已有数据的 pmcid（断点续传）。
     meta_map: {pmcid: {"pub_year": ..., "journal": ...}}
     label:    日志前缀，区分首次运行和重建
     """
     total = len(xml_files)
     tracker = ProgressTracker(PROGRESS_FILE)
+
+    already_done = _get_embedded_pmcids()
+    xml_files = [f for f in xml_files if f.stem not in already_done]
+    logger.info("%s：跳过已完成 %d 篇，剩余 %d 篇待处理",
+                label, total - len(xml_files), len(xml_files))
+    total = len(xml_files)
+
+    PAPERS_PER_BATCH = 1000
+    batch_chunks: list[dict] = []
+    batch_start_idx = 1
+
+    def _flush(up_to_i: int):
+        nonlocal batch_chunks, batch_start_idx
+        if not batch_chunks:
+            return
+        embed_chunks(batch_chunks)
+        upsert_chunks(batch_chunks)
+        failed_pmcids = list({
+            c["pmcid"] for c in batch_chunks
+            if c.get("dense_embedding") is None or c.get("sparse_embedding") is None
+        })
+        if failed_pmcids:
+            tracker.mark_fulltext_embed_failed(failed_pmcids)
+            logger.warning("批次向量化失败 %d 篇，已记录到 progress", len(failed_pmcids))
+        logger.info("%s 进度：%d / %d（本批 %d chunks，论文 %d~%d）",
+                    label, up_to_i, total, len(batch_chunks), batch_start_idx, up_to_i)
+        batch_chunks = []
+        batch_start_idx = up_to_i + 1
 
     for i, xml_path in enumerate(xml_files, 1):
         pmcid = xml_path.stem
@@ -131,29 +184,21 @@ def _process_fulltext_files(xml_files: list, meta_map: dict[str, dict], label: s
             logger.debug("[%d/%d] %s 无有效段落，跳过", i, total, pmcid)
             continue
 
-        chunks = chunk_fulltext(pmcid, paragraphs)
+        chunks = chunk_fulltext_paragraphs(pmcid, paragraphs)
         if not chunks:
             logger.debug("[%d/%d] %s chunk 为空，跳过", i, total, pmcid)
             continue
 
-        # 补入 pub_year / journal（从 Postgres 预取）
         paper_meta = meta_map.get(pmcid, {"pub_year": "", "journal": ""})
         for chunk in chunks:
             chunk["pub_year"] = paper_meta["pub_year"]
             chunk["journal"]  = paper_meta["journal"]
+        batch_chunks.extend(chunks)
 
-        embed_chunks(chunks)
-        upsert_chunks(chunks)
+        if i % PAPERS_PER_BATCH == 0:
+            _flush(i)
 
-        failed = [c for c in chunks if c.get("dense_embedding") is None
-                                    or c.get("sparse_embedding") is None]
-        if failed:
-            tracker.mark_fulltext_embed_failed([pmcid])
-            logger.warning("%s 向量化失败 %d 个 chunk", pmcid, len(failed))
-
-        if i % 50 == 0:
-            logger.info("%s 进度：%d / %d", label, i, total)
-
+    _flush(total)
     logger.info("%s 完成，共处理 %d 篇", label, total)
 
 

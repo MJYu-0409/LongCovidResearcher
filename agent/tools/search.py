@@ -10,6 +10,7 @@ from __future__ import annotations
 
 import json
 import logging
+from contextvars import ContextVar
 from typing import Optional
 
 from langchain_core.tools import tool
@@ -21,8 +22,8 @@ logger = logging.getLogger(__name__)
 
 def search_literature_fn(
     query: str,
-    top_k: int = 20,
-    top_n: int = 10,
+    top_k: int = 40,
+    top_n: int = 12,
     pub_year: Optional[str] = None,
     journal: Optional[str] = None,
 ) -> dict:
@@ -31,8 +32,8 @@ def search_literature_fn(
 
     Args:
         query:    自然语言查询
-        top_k:    混合检索初始召回数（默认20）
-        top_n:    rerank 后保留数（默认10）
+        top_k:    混合检索初始召回数（默认40）
+        top_n:    rerank 后保留数（默认12）
         pub_year: 可选，按发表年份过滤，如 "2023"
         journal:  可选，按期刊过滤
 
@@ -49,8 +50,18 @@ def search_literature_fn(
     if journal:
         filters["journal"] = journal
 
-    results = _search(query, top_k=top_k, top_n=top_n,
-                      filters=filters if filters else None)
+    try:
+        results = _search(query, top_k=top_k, top_n=top_n,
+                          filters=filters if filters else None)
+    except Exception as exc:
+        logger.error("search_literature retrieval failed: %s", exc)
+        return {
+            "error": "retrieval_unavailable",
+            "message": "The literature retrieval system is currently unavailable. "
+                       "Do NOT answer from memory — inform the user that the search "
+                       "backend is down and ask them to retry later.",
+            "summary": [], "chunks": [], "count": 0,
+        }
 
     # 摘要视图：Orchestrator 只看这部分，text 截断为 150 字符
     summary = []
@@ -74,6 +85,18 @@ def search_literature_fn(
     }
 
 
+_RETRIEVAL_ERROR_MSG = (
+    "RETRIEVAL_SYSTEM_UNAVAILABLE: The literature retrieval system is currently "
+    "unavailable. Do NOT answer from memory — inform the user that the search "
+    "backend is down and ask them to retry later."
+)
+
+# ContextVar isolates per-request chunk cache across concurrent async tasks.
+# Each asyncio.Task (= one user request) gets its own copy, preventing cross-request
+# contamination when multiple users call search_literature concurrently.
+_last_chunks_var: ContextVar[list] = ContextVar("_last_chunks", default=[])
+
+
 @tool
 def search_literature(
     query: str,
@@ -94,7 +117,16 @@ def search_literature(
     Returns:
         检索结果摘要（JSON字符串），包含 pmcid、section、相关性分数和文本预览
     """
-    result = search_literature_fn(query, top_n=top_n,
-                                  pub_year=pub_year, journal=journal)
-    # 只把摘要视图返回给 Orchestrator
-    return json.dumps(result["summary"], ensure_ascii=False, indent=2)
+    try:
+        result = search_literature_fn(query, top_n=top_n,
+                                      pub_year=pub_year, journal=journal)
+        if "error" in result:
+            logger.error("search_literature returning error: %s", result.get("message", ""))
+            _last_chunks_var.set([])
+            return _RETRIEVAL_ERROR_MSG
+        _last_chunks_var.set(result["chunks"])   # context_text 已由 _expand_neighbors 写入 payload
+        return json.dumps(result["summary"], ensure_ascii=False, indent=2)
+    except Exception as exc:
+        logger.error("search_literature unhandled exception (returning error marker): %s", exc)
+        _last_chunks_var.set([])
+        return _RETRIEVAL_ERROR_MSG

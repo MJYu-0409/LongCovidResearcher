@@ -32,10 +32,13 @@ _SYNTHESIS_SYSTEM = """你是 Long COVID 领域的资深综述专家。
 5. 结论（2-3句）
 
 要求：
-- 忠实于原文献内容，不要添加未在文献中出现的信息
-- 每个重要观点注明来源 pmcid
+- 忠实于原文献内容，不添加文献中未出现的信息，禁止使用模型自身知识补充
+- 每个重要观点注明来源 pmcid，关键结论可括号内引用原文关键句（英文）
+- 为每条主要发现标注研究设计类型：[RCT] / [Meta-analysis] / [Cohort] / [Case series] / [Review]
+- 若文献未覆盖某方面，明确写出"现有检索文献未涉及此方面"，不推断或延伸
 - 使用学术语言，中英文混合（专业术语保留英文）
-- 如果文献数量不足（少于3篇），说明综述的局限性"""
+- 如果文献数量不足（少于3篇），在开头说明"当前文献覆盖有限，综述结论参考价值受限"
+- 末尾附：[综述基于 N 篇文献 M 个片段，证据充分度：高/中/低]"""
 
 
 @tool
@@ -92,10 +95,10 @@ def synthesize_review(
 
     try:
         response = _synthesis_llm.invoke(messages)
-        review   = response.content
+        review   = response.content or ""
         logger.info("synthesize_review: topic='%s' → %d 字，使用 %d 个 chunk",
                     topic[:40], len(review), len(chunks))
         return review
     except Exception as e:
-        logger.error("GPT-4o 综述生成失败: %s", e)
+        logger.error("综述生成失败: %s", e)
         return f"综述生成服务暂时不可用: {e}"

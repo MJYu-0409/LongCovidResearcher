@@ -9,13 +9,17 @@ from __future__ import annotations
 import logging
 from typing import List, Tuple
 
-from langchain_core.messages import BaseMessage, HumanMessage
+from langchain_core.messages import AIMessage, BaseMessage, HumanMessage
 
 from infra.clients import get_qwen_chat_model
 
 logger = logging.getLogger(__name__)
 
-SUMMARY_PROMPT = """请将下面的对话历史压缩成一段简洁的中文摘要，保留：用户主要问题、使用过的工具与结论、关键文献或 pmcid。
+SUMMARY_PROMPT = """请将下面的对话历史压缩成一段简洁的中文摘要，必须保留：
+- 用户提出的主要问题
+- 使用过的工具及其核心结论
+- 所有出现过的 pmcid（逐一列出，不可省略）
+
 不要编造内容，只概括已有信息。若内容为空或无需摘要，直接回复「无」。
 ---
 {content}
@@ -40,24 +44,38 @@ def _messages_to_text(messages: List[BaseMessage], max_chars: int = 12000) -> st
 def run_summarizer(
     prev_summary: str,
     messages: List[BaseMessage],
-    keep_last_n: int = 3,
+    keep_last_n: int = 6,
 ) -> Tuple[str, List[BaseMessage]]:
     """
-    在会话轮次结束时调用：将「此前摘要 + 除最近 keep_last_n 条外的消息」压成新摘要，保留最近 keep_last_n 条消息。
+    在会话轮次结束时调用：只对 HumanMessage/AIMessage 计数，保留最近 keep_last_n 条（默认6条=3轮），
+    ToolMessage 及更早的 human/ai 消息全部压成摘要。
 
     Args:
         prev_summary: 上一轮已有的摘要（可为空）
         messages: 本轮结束后的完整消息列表
-        keep_last_n: 保留最近几条完整消息不参与摘要
+        keep_last_n: 保留最近几条 human/ai 消息（不计 ToolMessage），默认 6 = 3轮
 
     Returns:
-        (new_summary, recent_messages)：新摘要字符串，以及最近 keep_last_n 条消息（供下一轮作为 history）
+        (new_summary, recent_messages)：新摘要字符串，以及最近 keep_last_n 条 human/ai 消息
     """
     if not messages:
         return prev_summary or "", []
 
-    recent = messages[-keep_last_n:] if len(messages) > keep_last_n else list(messages)
-    to_summarize = messages[:-keep_last_n] if len(messages) > keep_last_n else []
+    # 找到倒数第 keep_last_n 条 human/ai 消息在原列表中的下标
+    meaningful_indices = [
+        i for i, m in enumerate(messages)
+        if isinstance(m, (HumanMessage, AIMessage))
+    ]
+    if len(meaningful_indices) > keep_last_n:
+        cutoff = meaningful_indices[-keep_last_n]
+        to_summarize = messages[:cutoff]                          # cutoff 前（含 ToolMessage）→ 压摘要
+        recent = [m for m in messages[cutoff:]
+                  if isinstance(m, (HumanMessage, AIMessage))]   # cutoff 后只保留 human/ai
+    else:
+        to_summarize = [m for m in messages                       # 全部 ToolMessage → 压摘要
+                        if not isinstance(m, (HumanMessage, AIMessage))]
+        recent = [m for m in messages
+                  if isinstance(m, (HumanMessage, AIMessage))]
 
     if not to_summarize and not (prev_summary or "").strip():
         logger.debug("summarizer: 无历史可摘要，保留 %d 条", len(recent))
@@ -74,7 +92,7 @@ def run_summarizer(
         llm = get_qwen_chat_model(temperature=0, max_tokens=800)
         response = llm.invoke([HumanMessage(content=SUMMARY_PROMPT.format(content=content))])
         new_summary = (response.content or "").strip()
-        if new_summary.lower() in ("无", "无。", "无。"):
+        if new_summary.lower() in ("无", "无。", "no"):
             new_summary = ""
         logger.info("summarizer: 已压缩为 %d 字摘要，保留最近 %d 条消息", len(new_summary), len(recent))
         return new_summary, recent

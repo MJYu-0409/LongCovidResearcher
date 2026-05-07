@@ -1,0 +1,27 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python -c \"import ast; ast.parse\\(open\\('retrieval/query_optimizer.py', encoding='utf-8'\\).read\\(\\)\\); print\\('syntax OK'\\)\")",
+      "Bash(python -c ' *)",
+      "Bash(python -c \"import ast; ast.parse\\(open\\('retrieval/query_optimizer.py', encoding='utf-8'\\).read\\(\\)\\); print\\('OK'\\)\")",
+      "Bash(Get-ChildItem -Path \"d:\\\\LongCovidResearcher\" -Recurse -Force)",
+      "Bash(Select-Object -First 50)",
+      "Bash(Format-Table FullName)",
+      "Bash(xargs wc *)",
+      "Bash(xargs grep *)",
+      "Bash(not exist *)",
+      "Bash(d:/LongCovidResearcher/venv/Scripts/pip.exe install *)",
+      "Bash(venv/Scripts/python.exe -c \"from api.app import app; print\\('import OK'\\)\")",
+      "Bash(timeout 8 venv/Scripts/python.exe main.py --api --port 8001)",
+      "Bash(curl -s http://localhost:6333/health)",
+      "Bash(curl -sv http://localhost:6333/health)",
+      "Bash(curl --noproxy localhost,127.0.0.1 -s http://localhost:6333/health)",
+      "Bash(curl --noproxy \"*\" -sv http://localhost:6333/)",
+      "Bash(venv/Scripts/python.exe -c ' *)",
+      "Bash(find \"d:\\\\\\\\LongCovidResearcher\" -maxdepth 3 -type f \\\\\\( -name \"alembic.ini\" -o -name \"env.py\" \\\\\\) ! -path \"*/venv/*\")",
+      "Bash(python -c \"import redis; print\\(redis.__version__\\)\")",
+      "Bash(pip install *)",
+      "Bash(Get-ChildItem -Path \"d:\\\\LongCovidResearcher\\\\data_pipeline\\\\raw\\\\fulltext\\\\\" -Filter \"*.xml\" | Select-Object -First 10 Name)"
+    ]
+  }
+}

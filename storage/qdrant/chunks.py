@@ -20,12 +20,11 @@ from qdrant_client.models import (
     VectorParams,
 )
 
-from config import QDRANT_COLLECTION
+from config import QDRANT_COLLECTION_PC, DENSE_DIM
 from infra.clients import get_qdrant_client
 
 logger = logging.getLogger(__name__)
 
-DENSE_DIM  = 1536
 BATCH_SIZE = 100
 
 
@@ -43,12 +42,12 @@ def ensure_collection(client: Optional[QdrantClient] = None):
     """
     c = client or get_qdrant_client()
     existing = [col.name for col in c.get_collections().collections]
-    if QDRANT_COLLECTION in existing:
-        logger.info("集合 %s 已存在，跳过创建", QDRANT_COLLECTION)
+    if QDRANT_COLLECTION_PC in existing:
+        logger.info("集合 %s 已存在，跳过创建", QDRANT_COLLECTION_PC)
         return
 
     c.create_collection(
-        collection_name=QDRANT_COLLECTION,
+        collection_name=QDRANT_COLLECTION_PC,
         vectors_config={
             "dense": VectorParams(size=DENSE_DIM, distance=Distance.COSINE),
         },
@@ -56,7 +55,7 @@ def ensure_collection(client: Optional[QdrantClient] = None):
             "sparse": SparseVectorParams(),
         },
     )
-    logger.info("集合 %s 创建成功（dense + sparse）", QDRANT_COLLECTION)
+    logger.info("集合 %s 创建成功（dense=%d-dim + sparse）", QDRANT_COLLECTION_PC, DENSE_DIM)
 
 
 def upsert_chunks(chunks: list[dict], client: Optional[QdrantClient] = None):
@@ -115,7 +114,27 @@ def upsert_chunks(chunks: list[dict], client: Optional[QdrantClient] = None):
                 },
             ))
 
-        c.upsert(collection_name=QDRANT_COLLECTION, points=points)
+        c.upsert(collection_name=QDRANT_COLLECTION_PC, points=points)
         logger.info("写入进度：%d / %d", min(start + BATCH_SIZE, total), total)
 
     logger.info("Qdrant 写入完成，共 %d 条", total)
+
+
+def ensure_payload_indexes(client: Optional[QdrantClient] = None):
+    """
+    为 pmcid、section、source_type 建立 keyword payload 索引。
+    加速 Section 上下文扩展的 filter 查询。幂等，可重复执行。
+    现有集合上单独调用一次即可生效，无需重新 upsert 数据。
+    """
+    from qdrant_client.models import PayloadSchemaType
+    c = client or get_qdrant_client()
+    for field in ("pmcid", "section", "source_type", "pub_year", "journal"):
+        try:
+            c.create_payload_index(
+                collection_name=QDRANT_COLLECTION_PC,
+                field_name=field,
+                field_schema=PayloadSchemaType.KEYWORD,
+            )
+            logger.info("payload index 创建成功: %s", field)
+        except Exception as e:
+            logger.info("payload index 已存在或跳过: %s → %s", field, e)

@@ -11,17 +11,15 @@ from typing import Optional
 
 from qdrant_client.models import Filter, FieldCondition, MatchValue
 
-from config import QDRANT_COLLECTION, DENSE_MODEL
-from infra.clients import get_openai_client, get_qdrant_client
+from config import QDRANT_COLLECTION_PC
+from infra.clients import get_dense_embedding_model, get_qdrant_client
 
 logger = logging.getLogger(__name__)
 
 
 def embed_query(query: str) -> list[float]:
     """将 Query 文本向量化，返回稠密向量。"""
-    client = get_openai_client()
-    response = client.embeddings.create(model=DENSE_MODEL, input=[query])
-    return response.data[0].embedding
+    return get_dense_embedding_model().encode(query).tolist()
 
 
 def dense_search(
@@ -52,7 +50,7 @@ def dense_search(
         ])
 
     response = qdrant.query_points(
-        collection_name=QDRANT_COLLECTION,
+        collection_name=QDRANT_COLLECTION_PC,
         query=query_vector,
         using="dense",
         query_filter=qdrant_filter,

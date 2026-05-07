@@ -23,14 +23,17 @@ def rerank(
     query: str,
     hits: list[dict],
     top_n: int = 5,
+    max_per_paper: int = 2,
 ) -> list[dict]:
     """
     对检索结果重排序，返回最相关的 Top-N 条。
+    选取时每篇论文最多保留 max_per_paper 条，与 RRF 层的多样性约束形成级联。
 
     Args:
-        query:  用户查询文本
-        hits:   hybrid_search 返回的候选列表，每条含 payload.text
-        top_n:  重排后保留的条数，默认 5（送给 LLM 的 context）
+        query:          用户查询文本
+        hits:           hybrid_search 返回的候选列表，每条含 payload.text
+        top_n:          重排后保留的条数，默认 5
+        max_per_paper:  每篇论文最多保留条数，默认 2
 
     Returns:
         list[dict]，按相关性降序，每条新增 "rerank_score" 字段
@@ -40,21 +43,31 @@ def rerank(
 
     model = get_rerank_model()
 
-    # Cross-Encoder 输入格式：[query, document_text] 对
+    # Cross-Encoder 对全部候选打分，不提前截断
     pairs = [(query, hit["payload"].get("text", "")) for hit in hits]
     scores = model.predict(pairs)
 
-    # # 把分数写回 hit，排序后取 Top-N
-    # for hit, score in zip(hits, scores):
-    #     hit["rerank_score"] = float(score)
+    ranked = sorted(
+        ({**hit, "rerank_score": float(s)} for hit, s in zip(hits, scores)),
+        key=lambda x: x["rerank_score"],
+        reverse=True,
+    )
 
-    # ranked = sorted(hits, key=lambda x: x["rerank_score"], reverse=True)
-    # return ranked[:top_n]
+    # 贪心选取：按分数高低，每篇最多取 max_per_paper 条
+    results: list[dict] = []
+    paper_counts: dict[str, int] = {}
+    for hit in ranked:
+        pmcid = hit["payload"].get("pmcid", hit["id"])
+        if paper_counts.get(pmcid, 0) < max_per_paper:
+            paper_counts[pmcid] = paper_counts.get(pmcid, 0) + 1
+            results.append(hit)
+        if len(results) >= top_n:
+            break
 
-    # 为每条 hit 建浅拷贝并写入 rerank_score，不修改传入的 hits
-    ranked = [
-        {**hit, "rerank_score": float(score)}
-        for hit, score in zip(hits, scores)
-    ]
-    ranked.sort(key=lambda x: x["rerank_score"], reverse=True)
-    return ranked[:top_n]
+    logger.info(
+        "rerank top-%d from %d papers: %s",
+        top_n,
+        len(paper_counts),
+        [(r["payload"].get("pmcid", "?"), round(r["rerank_score"], 3)) for r in results],
+    )
+    return results

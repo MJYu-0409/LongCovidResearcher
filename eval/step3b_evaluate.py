@@ -8,7 +8,7 @@ eval/step3b_evaluate.py
 
 流程：
   1. 读取 step3a 生成的 query_set.json
-  2. 四路检索（dense / sparse / hybrid / hybrid+rerank）
+  2. 多路检索（dense / sparse / hybrid / hybrid+rerank / hyde / decompose / auto）
   3. GPT-4o-mini 对所有 (query, chunk) 对打相关性分 0/1/2
      已知的 source_pmcid 直接标注 relevance=2，跳过 LLM 调用
   4. 用 ranx 计算 NDCG@5 / Recall@5 / Precision@5 / MRR
@@ -140,6 +140,9 @@ def main():
         "B_sparse":        {},
         "C_hybrid":        {},
         "D_hybrid_rerank": {},
+        "E_hyde_rerank":   {},
+        "F_decompose":     {},
+        "G_auto":          {},
     }
 
     for idx, item in enumerate(queries, 1):
@@ -155,6 +158,9 @@ def main():
             b = sparse_search(query, top_k=TOP_N)
             c = hybrid_search(query, top_k=TOP_N)
             d = search(query, top_k=TOP_K, top_n=TOP_N)
+            e = search(query, top_k=TOP_K, top_n=TOP_N, query_opt_mode="hyde")
+            f = search(query, top_k=TOP_K, top_n=TOP_N, query_opt_mode="decompose")
+            g = search(query, top_k=TOP_K, top_n=TOP_N, query_opt_mode="auto")
         except Exception as e:
             logger.warning("检索失败，跳过: %s", e)
             continue
@@ -162,7 +168,7 @@ def main():
         # 合并去重，批量打分（每个 pmcid 只打一次）
         all_hits = {
             r["payload"].get("pmcid", ""): r
-            for bucket in [a, b, c, d]
+            for bucket in [a, b, c, d, e, f, g]
             for r in bucket
         }
         rel_map = score_hits(gpt4, query, list(all_hits.values()),
@@ -196,6 +202,9 @@ def main():
         runs_dict["B_sparse"][qid]        = to_run(b)
         runs_dict["C_hybrid"][qid]        = to_run(c)
         runs_dict["D_hybrid_rerank"][qid] = to_run(d)
+        runs_dict["E_hyde_rerank"][qid]   = to_run(e)
+        runs_dict["F_decompose"][qid]     = to_run(f)
+        runs_dict["G_auto"][qid]          = to_run(g)
 
     if not qrels_dict:
         print("没有有效的评估数据，请检查 query_set.json 和检索连接")
@@ -241,6 +250,9 @@ def main():
     full = results_table.get("D_hybrid_rerank", {})
     dns  = results_table.get("A_dense", {})
     hyb  = results_table.get("C_hybrid", {})
+    hyd  = results_table.get("E_hyde_rerank", {})
+    dec  = results_table.get("F_decompose", {})
+    aut  = results_table.get("G_auto", {})
 
     ndcg_gain_hybrid  = full.get("ndcg@5", 0) - dns.get("ndcg@5", 0)
     ndcg_gain_rerank  = full.get("ndcg@5", 0) - hyb.get("ndcg@5", 0)
@@ -260,6 +272,13 @@ def main():
 
     if full.get("recall@5", 0) < 0.4:
         print("  ⚠ Recall@5 < 0.4，建议增大 top_k 或检查 embedding 质量")
+
+    if hyd:
+        print(f"  · HyDE 对比 baseline（D）NDCG 差值: {hyd.get('ndcg@5', 0) - full.get('ndcg@5', 0):+.3f}")
+    if dec:
+        print(f"  · Decompose 对比 baseline（D）NDCG 差值: {dec.get('ndcg@5', 0) - full.get('ndcg@5', 0):+.3f}")
+    if aut:
+        print(f"  · Auto 对比 baseline（D）NDCG 差值: {aut.get('ndcg@5', 0) - full.get('ndcg@5', 0):+.3f}")
 
     # ── 保存 ──────────────────────────────────────────────────────────
     OUTPUT_DIR.mkdir(parents=True, exist_ok=True)

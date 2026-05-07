@@ -33,6 +33,9 @@ MIN_TOKENS = 20
 MAX_CHARS = MAX_TOKENS * 4   # 3200
 MIN_CHARS = MIN_TOKENS * 4   # 80
 
+# 段落级切片上限：PubMedBERT 512 token 窗口，留余量
+MAX_CHILD_CHARS = 1200   # ≈ 400 tokens（医学英文 ~3 chars/token）
+
 
 def _split_by_sentences(text: str, max_chars: int) -> list[str]:
     """按句子边界切分超长文本。"""
@@ -113,6 +116,58 @@ def _merge_paragraphs(paragraphs: list[str], max_chars: int, min_chars: int) -> 
 #             }
 #             for i, part in enumerate(parts)
 #         ]
+
+
+def chunk_fulltext_paragraphs(pmcid: str, paragraphs: list[dict]) -> list[dict]:
+    """
+    段落级切片：每个段落作为独立 chunk，不做跨段落合并。
+    超长段落（> MAX_CHILD_CHARS）按句子边界切分为多个 chunk。
+    pub_year / journal 由 pipeline.py 调用后注入（与现有模式一致）。
+
+    Args:
+        pmcid:      论文 PMC ID
+        paragraphs: xml_parser.parse_fulltext_xml() 的返回值
+
+    Returns:
+        list[dict]，每条是一个段落级 chunk，字段与 chunk_fulltext 兼容
+    """
+    if not paragraphs:
+        return []
+
+    results = []
+    section_counters: dict[str, int] = {}
+
+    for para in paragraphs:
+        section = para.get("section", "unknown")
+        text = para.get("text", "").strip()
+        if not text or len(text) < MIN_CHARS:
+            continue
+
+        if len(text) <= MAX_CHILD_CHARS:
+            fragments = [text]
+        else:
+            fragments = _split_by_sentences(text, MAX_CHILD_CHARS)
+            if not fragments:
+                fragments = [text[:MAX_CHILD_CHARS]]
+
+        for fragment in fragments:
+            if len(fragment) < MIN_CHARS:
+                continue
+            idx = section_counters.get(section, 0)
+            results.append({
+                "pmcid":       pmcid,
+                "source_type": "fulltext",
+                "section":     section,
+                "chunk_index": idx,
+                "text":        fragment,
+            })
+            section_counters[section] = idx + 1
+
+    logger.debug(
+        "%s 段落切片完成：%d 个 section，%d 个 chunk",
+        pmcid, len(section_counters), len(results)
+    )
+    return results
 
 
 def chunk_fulltext(pmcid: str, paragraphs: list[dict]) -> list[dict]:
